@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-07-16T20:00:00.000Z",
+  "method": "Seed data. Scheduled automation replaces this with allowlisted public-source reporting.",
+  "sections": {
+    "exercises": {
+      "generatedAt": "2026-07-16T20:00:00.000Z",
+      "cadence": "every 6 hours",
+      "items": [
+        {
+          "title": "RIMPAC 2026 public exercise coverage",
+          "url": "https://www.dvidshub.net/image/9800534/us-coast-guard-and-partner-nations-participate-hadr-exercise-rimpac-2026",
+          "domain": "dvidshub.net",
+          "seen": "20260716"
+        }
+      ]
+    },
+    "safety": {
+      "generatedAt": "2026-07-16T20:00:00.000Z",
+      "cadence": "daily",
+      "items": [
+        {
+          "title": "Army preliminary loss reports and safety updates",
+          "url": "https://safety.army.mil/PLR",
+          "domain": "safety.army.mil",
+          "seen": "20260716"
+        }
+      ],
+      "incidents": [
+        {
+          "id": "auto-army-hoist-2022",
+          "reportDate": "2022-01-06",
+          "dateBasis": "official report publication date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Aviation",
+          "event": "Flight-related hoist mishap claims one Soldier's life",
+          "location": "Near Marsing, Idaho",
+          "fatalities": null,
+          "injuries": null,
+          "status": "AUTOMATED INTAKE",
+          "source": "https://safety.army.mil/MEDIA/Risk-Management-Magazine/ArtMID/7428/ArticleID/7115/PLR-22-017-Flight-Related-Hoist-Mishap-Claims-One-Soldieraposs-Life",
+          "sourceLabel": "safety.army.mil"
+        }
+      ]
+    },
+    "conflicts": {
+      "generatedAt": "2026-07-16T20:00:00.000Z",
+      "cadence": "every 6 hours",
+      "items": [
+        {
+          "title": "Global Conflict Tracker",
+          "url": "https://www.cfr.org/global-conflict-tracker",
+          "domain": "cfr.org",
+          "seen": "20260716"
+        }
+      ]
+    }
+  }
+}
