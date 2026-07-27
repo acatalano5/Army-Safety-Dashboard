@@ -1,0 +1,41 @@
+name: Refresh open-source dashboard
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: dashboard-data-updates
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out dashboard
+        uses: actions/checkout@v6
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Refresh exercise and conflict reporting
+        run: node automation/update-open-source-data.mjs --sections=exercises,conflicts
+
+      - name: Publish refreshed data
+        run: |
+          if git diff --quiet -- data/live-headlines.json; then
+            echo "No headline changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/live-headlines.json
+          git commit -m "data: refresh open-source dashboard"
+          git push

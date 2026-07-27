@@ -1,0 +1,83 @@
+name: Validate safety incident
+
+on:
+  workflow_dispatch:
+    inputs:
+      incident_id:
+        description: "Candidate ID shown on the dashboard"
+        required: true
+        type: string
+      event_date:
+        description: "Verified event date (YYYY-MM-DD)"
+        required: true
+        type: string
+      location:
+        description: "Verified public location"
+        required: true
+        type: string
+      latitude:
+        description: "Approximate public latitude"
+        required: true
+        type: string
+      longitude:
+        description: "Approximate public longitude"
+        required: true
+        type: string
+      fatalities:
+        description: "Officially confirmed fatalities"
+        required: true
+        default: "0"
+        type: string
+      injuries:
+        description: "Confirmed injuries, or TBD"
+        required: false
+        default: "TBD"
+        type: string
+      summary:
+        description: "Validated executive summary"
+        required: true
+        type: string
+      mishap_type:
+        description: "Validated mishap type"
+        required: true
+        type: choice
+        options:
+          - Aviation
+          - Ground
+          - Maritime
+          - Other
+
+permissions:
+  contents: write
+
+concurrency:
+  group: dashboard-data-updates
+  cancel-in-progress: false
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Promote reviewed candidate
+        env:
+          INCIDENT_ID: ${{ inputs.incident_id }}
+          EVENT_DATE: ${{ inputs.event_date }}
+          LOCATION: ${{ inputs.location }}
+          LATITUDE: ${{ inputs.latitude }}
+          LONGITUDE: ${{ inputs.longitude }}
+          FATALITIES: ${{ inputs.fatalities }}
+          INJURIES: ${{ inputs.injuries }}
+          SUMMARY: ${{ inputs.summary }}
+          MISHAP_TYPE: ${{ inputs.mishap_type }}
+        run: node automation/review-incident.mjs
+      - name: Publish validated record
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/live-headlines.json data/validated-incidents.json
+          git commit -m "data: validate safety incident"
+          git push
