@@ -135,9 +135,77 @@ function cleanTitle(value = "") {
   return value.replace(/\s+/g, " ").trim().slice(0, 240);
 }
 
+function decodeXml(value = "") {
+  return value
+    .replaceAll("&amp;", "&")
+    .replaceAll("&quot;", "\"")
+    .replaceAll("&#39;", "'")
+    .replaceAll("&apos;", "'")
+    .replaceAll("&lt;", "<")
+    .replaceAll("&gt;", ">");
+}
+
+function wait(milliseconds) {
+  return new Promise((resolvePromise) => setTimeout(resolvePromise, milliseconds));
+}
+
+async function fetchWithRetry(url, label, attempts = 4) {
+  let lastError;
+  for (let attempt = 0; attempt < attempts; attempt += 1) {
+    try {
+      const response = await fetch(url, {
+        headers: { "User-Agent": "Open-Source-Readiness-Dashboard/3.0" },
+        signal: AbortSignal.timeout(30_000),
+      });
+      if (response.ok) return response;
+      lastError = new Error(`${label}: source returned ${response.status}`);
+      if (response.status !== 429 && response.status < 500) throw lastError;
+    } catch (error) {
+      lastError = error;
+    }
+    if (attempt < attempts - 1) await wait(5_000 * 2 ** attempt);
+  }
+  throw lastError || new Error(`${label}: source unavailable`);
+}
+
 function reportDate(value = "") {
   const match = value.match(/^(\d{4})(\d{2})(\d{2})/);
   return match ? `${match[1]}-${match[2]}-${match[3]}` : new Date().toISOString().slice(0, 10);
+}
+
+function withinTimespan(value, timespan) {
+  const days = Number(timespan.match(/^(\d+)d$/)?.[1]);
+  if (!days || !value) return false;
+  const published = new Date(`${reportDate(value)}T00:00:00Z`);
+  const cutoff = new Date();
+  cutoff.setUTCDate(cutoff.getUTCDate() - days - 1);
+  return published >= cutoff;
+}
+
+function googleNewsItems(xml, config) {
+  const entries = [...xml.matchAll(/<item>([\s\S]*?)<\/item>/gi)];
+  return entries.map(([, item]) => {
+    const title = decodeXml(item.match(/<title>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/title>/i)?.[1] || "");
+    const url = decodeXml(item.match(/<link>([\s\S]*?)<\/link>/i)?.[1] || "");
+    const sourceUrl = decodeXml(item.match(/<source[^>]+url="([^"]+)"/i)?.[1] || "");
+    const published = decodeXml(item.match(/<pubDate>([\s\S]*?)<\/pubDate>/i)?.[1] || "");
+    let domain = "";
+    try {
+      domain = normalizeDomain(new URL(sourceUrl || url).hostname);
+    } catch {
+      return null;
+    }
+    const publishedDate = new Date(published);
+    return {
+      title: cleanTitle(title.replace(/\s+-\s+[^-]+$/, "")),
+      url,
+      domain,
+      sourceTier: sourceTier(domain),
+      seen: Number.isNaN(publishedDate.getTime())
+        ? ""
+        : publishedDate.toISOString().replaceAll("-", "").replaceAll(":", "").replace(".000", ""),
+    };
+  }).filter((item) => item?.title && item?.url && domainIsAllowed(item.domain, config.allowedDomains));
 }
 
 function reportTimestamp(value = "") {
@@ -186,6 +254,17 @@ function classifyMishap(title) {
   return "Other";
 }
 
+function sectionRelevant(section, title) {
+  const text = title.toLowerCase();
+  if (section === "safety") {
+    return /(mishap|accident|crash|fatal|killed|death|injur|collision|rollover|hard landing|eject)/.test(text);
+  }
+  if (section === "exercises") {
+    return /(exercise|training|drill|readiness|maneuver|manoeuvre)/.test(text);
+  }
+  return /(war|conflict|strike|attack|ceasefire|military|missile|drone|combat|crisis|troops|invasion)/.test(text);
+}
+
 function incidentFromItem(item) {
   const service = classifyService(item);
   return {
@@ -216,15 +295,30 @@ async function requestSection(section) {
   url.searchParams.set("timespan", config.timespan);
   url.searchParams.set("sort", "HybridRel");
 
-  const response = await fetch(url, {
-    headers: { "User-Agent": "Open-Source-Readiness-Dashboard/2.0" },
-    signal: AbortSignal.timeout(30_000),
-  });
-  if (!response.ok) throw new Error(`${section}: source returned ${response.status}`);
+  let rawItems;
+  try {
+    const response = await fetchWithRetry(url, `${section} GDELT`);
+    const payload = await response.json();
+    rawItems = (Array.isArray(payload.articles) ? payload.articles : []).map((article) => ({
+      title: article.title,
+      url: article.url,
+      domain: article.domain,
+      seen: article.seendate || "",
+    }));
+  } catch (gdeltError) {
+    console.warn(`${gdeltError.message}; trying Google News RSS fallback`);
+    const rssUrl = new URL("https://news.google.com/rss/search");
+    const siteQuery = config.allowedDomains.map((domain) => `site:${domain}`).join(" OR ");
+    rssUrl.searchParams.set("q", `${config.query} (${siteQuery}) when:${config.timespan}`);
+    rssUrl.searchParams.set("hl", "en-US");
+    rssUrl.searchParams.set("gl", "US");
+    rssUrl.searchParams.set("ceid", "US:en");
+    const rssResponse = await fetchWithRetry(rssUrl, `${section} RSS`, 3);
+    rawItems = googleNewsItems(await rssResponse.text(), config);
+  }
 
-  const payload = await response.json();
   const seen = new Set();
-  const items = (Array.isArray(payload.articles) ? payload.articles : [])
+  const items = rawItems
     .map((article) => {
       let domain = normalizeDomain(article.domain);
       try {
@@ -237,10 +331,12 @@ async function requestSection(section) {
         url: article.url,
         domain,
         sourceTier: sourceTier(domain),
-        seen: article.seendate || "",
+        seen: article.seendate || article.seen || "",
       };
     })
     .filter((item) => item?.title && item?.url && domainIsAllowed(item.domain, config.allowedDomains))
+    .filter((item) => sectionRelevant(section, item.title))
+    .filter((item) => withinTimespan(item.seen, config.timespan))
     .filter((item) => {
       if (seen.has(item.url)) return false;
       seen.add(item.url);
@@ -248,7 +344,6 @@ async function requestSection(section) {
     })
     .slice(0, section === "safety" ? 20 : section === "conflicts" ? 24 : 8);
 
-  if (!items.length) throw new Error(`${section}: no allowlisted public-source results`);
   return items;
 }
 
@@ -272,9 +367,11 @@ async function main() {
     if (error?.code !== "ENOENT") throw error;
   }
 
-  const updates = await Promise.all(
-    sections.map(async (section) => [section, await requestSection(section)]),
-  );
+  const updates = [];
+  for (const section of sections) {
+    updates.push([section, await requestSection(section)]);
+    if (sections.length > 1) await wait(3_000);
+  }
   const generatedAt = new Date().toISOString();
 
   for (const [section, items] of updates) {
