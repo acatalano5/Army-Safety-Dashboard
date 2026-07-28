@@ -1,19 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-16T20:00:00.000Z",
-  "method": "Seed data. Scheduled automation replaces this with allowlisted public-source reporting.",
+  "generatedAt": "2026-07-28T16:02:58.259Z",
+  "method": "Automated discovery from GDELT, restricted to allowlisted public and official domains. Curated dashboard records require human validation.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-07-16T20:00:00.000Z",
+      "generatedAt": "2026-07-28T16:02:58.259Z",
       "cadence": "every 6 hours",
-      "items": [
-        {
-          "title": "RIMPAC 2026 public exercise coverage",
-          "url": "https://www.dvidshub.net/image/9800534/us-coast-guard-and-partner-nations-participate-hadr-exercise-rimpac-2026",
-          "domain": "dvidshub.net",
-          "seen": "20260716"
-        }
-      ]
+      "items": []
     },
     "safety": {
       "generatedAt": "2026-07-16T20:00:00.000Z",
@@ -45,26 +38,394 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-07-16T20:00:00.000Z",
+      "generatedAt": "2026-07-28T16:02:58.259Z",
       "cadence": "every 6 hours",
       "items": [
         {
-          "title": "Global Conflict Tracker",
-          "url": "https://www.cfr.org/global-conflict-tracker",
+          "title": "Iran says it will not let US determine timing of war and peace",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbnoyT19UTGczNC1EVHhKOWh2QkR6YW5fMlZYb2FDekhJei1UVm9Vd3RaZzZjX2t1aXdvbkdRc3ZORE54UU1ZUkItS04xbTB6SGcxdXdlWWYtSE9iTWV4MGgxQ09UQ19BT2hWazRpTnJHZnN6ODJYSlRQa0JYQVl0VnZMTGlXdFMtSURFMllCM3Q4dmRyLUdQMXBUNV8yY2NRWXZodDVQZ2R3Q0U?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20260727T083445Z"
+        },
+        {
+          "title": "Gaza student tops national exams despite war and displacement",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcVJxdDAyTTFFeTBqdGZQODN5SHNkNjRYUElFTU1zSFA2ckhqT0hoZVdWQzVJN1pGN3R1QVRXMUdabG5PYmRRNXpzWk5MdUk4bktFT0tNUVVsd2wyQTUwTXNEMmppZlNOeThpaWlMMWdlYmRBdkI4Z2NEb2lLM0JoOEQzZ1dpZThqYTBPZDZlMkxraVRkNVZPT2Y5VTVoR0ZOTU1vM3o0a1hzT01kOE5KLVlB0gG3AUFVX3lxTE04UGpvaXhCRGQ1cndkMnVNT1U0UTNXNFRCQzVQa3VXVGE0TnFaQjhxbTYyeU8yYS1FWjhwZUVHS1JVZ3Z5NjNpaVRBWXBJNmtHdmRPa08yNDFHWmFCajNCaDdRcUN2SHdZSUJuV2lobDBxMXhHd0Q1RWNZYlJPcVZZbS1JS3BNVmRrSjJ2WTN4YktGRXo0N3UtYy1nQUVfU2FMeDhfSTRGenBtbmdRZTI4cXFfazg0UQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260727T124538Z"
+        },
+        {
+          "title": "What lies ahead for Iran’s economy as scope of US war grows beyond Hormuz?",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNX2VwZkM5S0h3Rkt4dFMxNTUzcXBjUmlZV3hQa2p0UjJxWERSeWRRT2RDQ01SZ3cwR1QzNUNGSUNJZVEyTHpaZU5RaG9idVFlektKd3Jqdkd5UldQNEdhS1dnUk94akxEOEdvd0FjbklmYm9Vdk5OV01iT0tucnI0SElsRjdOSVI2Y2NkWndLMGd6ZjNsWVN0WWJfcEpENlJZUGdiRVZDWdIBrAFBVV95cUxNZWk1QV9wcy04WXdobnRVQ0U2UU9xS0NJVUhPTFVSN3lYTEpoMGMxOEVwVlI0M3RGOHVqd29Jc1RZRWdEN28xTFJQay1GSlpyZ21RWDRWcmIzcHcxMkVwQ1hQRE5YdnhpVXpTcmUtWlJSTUpIdFJ3T1NtT2p5RUZwdkNzMnEyYmRXdDh5RmYtM0stSHpyQ3RfNnVWWkh3RXZkZDlMX0pxWXJVc2c5?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260726T193716Z"
+        },
+        {
+          "title": "After Strait of Hormuz and Red Sea, has Iran war now reached Caspian Sea?",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYVJOMi1WeW1fWUJrYWxJU2FRVzAxNFAxZnVFNkFJQVZ2eFhBMkotWWJrdllOdmk3dlBXVjg4ZGF1bUVXZmJXQnRpUUVhVWE0aWVxbGpTbnJ5cTZwV3ZUNU9zWkNLQ0FhdV9YY1NMNUVncXBlcVZVTVhWUXFpWDZDdlFIMzBZQ05FcTNyWGQ4eFBJTDczVjdvcTd2YWxha2V3T1hUR3BGMVlFSHF6alU2VXNR0gG3AUFVX3lxTFB5U1Q4bVYxNUhuQ3U2eF93azRtb242VndfeVNwVk50cDl5SnRza2NSWUVMa1RDemswTzNnc2htdmYtbjBVa2FiOVlDN1BfaXRYbWlZWWRBSFlESWQzakVWYnYzdWg3UWdZYUYtSEV4QXFoWlQ3eGdtaWtTNlhMVjJNUDVhN05TN205QnZEUGhNTnlQYmhUMXZORGE3SU5tZTBjQlJjYnVBeUtqWTYxU1FOSXp0QzBOZw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260726T104856Z"
+        },
+        {
+          "title": "Trump says full-scale war with Iran ‘if we don't get 100% of what we want’: Report",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZEhkNHR4NG1Gd0owMmQ4cndyU1pVNW9Ca1FLZDZXWlVTMVd0NHBQeHZIVlRRcGd1RlBNemg4eGlOVXotMGE1OUpTWk9CTThfdjlwNHpaR09aUDJvZFJXOUVMT2J1R0p6aG9DV2lhV19EdG41V1owd0VnMjhIYklXNnZiZVRRODZzQS1Gb2c3dERCQnBxVGw3aEhOZEZyNEZzQm9peTlOa2FHOFlHNW9pb2FoaDB0Um5RZzVz?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20260725T201556Z"
+        },
+        {
+          "title": "US and Iran pause their attacks after days of escalation",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd1ZkcWRJbVdJX0lWSFo1TGFnSDdhUkFQbHZ1ZGlHVUp0b1BwbEZ0SHVPNGY2NS12NmQ3c3dpbjNVVG5qXzJvUDh6NGVSQnFkS2hEQ1BNbi1jUV9nN1lhUHF5MVlrRVpHdURweU9hTnZPTUYxSFVYaklYeWhlTURTQWJteG5acjYybFplamI2XzlJSW5RbktF?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260726T151227Z"
+        },
+        {
+          "title": "At least 15 killed in Ukrainian and Russian strikes as holiday camp hit",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORXNFTU14ZkNOQ290QXpYMEkxMzg2Z3FIUG04S0w4V08tcVNpeEhRV1cxWnRiSndNTkRGQmN0SG4yRHhpbE8zZ0FiS3BwYmljVGpVSzlOZjRSZE9fLTRsNnEyUDZfMTd1cng5b0VCd2V2a00wUjJjMnBvSS1aX1NNbk80UjAyLXRiTDl1anFnZUVoRFFJSDNWNHU0a18xQWhRZXRnd1UyZnI5Q3VCYk91RU9n0gG3AUFVX3lxTFBISHVSTlBYSXhHM3lLMmE2V0pHdk5sNWdicVJqVVJsMzgtRU1pM0lRVEgzcjdHTDJEWkRtcVYxQndQZ2EyZVRreTVGOU1fVnc5dHFJaEV6TGJHSjQ3NXZZMzZNd3RoOElIRjN2cnIyaWhYRlZ4bEMwd2Z4UzN6OHk5QW01amV5QnBFbU1Ed3poZWZva2NoU202YjRBSTRNZVJMcmlpLXozcEIyNFdfdGFfZjIzZGF6MA?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260725T185059Z"
+        },
+        {
+          "title": "New front in US-Iran war escalates as Houthis fire at Saudi oil facilities",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcTQ5MF9vNGN3SlotSkQ1VmF0MWNuZmo2aFRZMS1VQVN3X21DZ1dVbDJLeXMxZGJ2M2JGQ1NUeWh6SmRnMXgzZEtOa0Z6RGM5REN0WHhuaXFGVC1UdVZUa09xazd1dnpLT3RSbUZSZTdCMG1TLWE5Rl9QVlN3WGY1S0lCcEQyTV9QMk92YU1hNi11a0dsLTdoTlBFWEZCZEtjckxxTXJSVFpXcHNCd0NoZTcxbG9HUdIBuwFBVV95cUxQZTBuUlVXbEljQUJ4WEVac2JtNExTeU53UDNzNDNLZUhTUGhNdTljTkRBX29hQnNPR1FzZUg1Vi1wUVBPcFhoRjlPOVl4b2t5X3ZKNWVTNlNUQ1dvNDQwNWdITUpnWllVLTNzNFR5bFJnRWRzTkRjTjlvMEZKY19lb0FlMnN4eVp5S0FmTUp6SThvZ0VzUVFiakdBdkRyRVp3MjVnMkFnMlJoOEZHNjFZZy1MUnJ0ZDBRZ09j?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260726T045027Z"
+        },
+        {
+          "title": "Trump says Iran war talks taking place during lull in strikes",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wcUk5M3JUMm80T1VCcUtKYzRPcmt3eldDVk9QU0VwRlJ5ZFJSdExzQTJBeGpic245Y0NNaXNydE5FWDdtSVVYVENzRncweTNLSGRUYkk3Yy1DUQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260727T211056Z"
+        },
+        {
+          "title": "As Zelenskyy Meets Trump, Ukraine’s Political Crisis Reveals a Silver Lining",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdlptbE1LcmVSRVJIZU1jNEw4aUEzemxqSnp5Q0pHckxsMmhuNlRDMXctWmVUdzFKVDdJTU4zTjI2N2pYX2pMWXdTa09kcU1DLVRaeGptSTlfWnFFQXBMVmc0dXhqYkVYa3RycUpIYWg1R181UzNEQUo2SGJxdEJFMmZNanV6T0VXSzVRSFIxZWQ5SE1CeWk0cDV2ejk3OUI1ekMtTUpn?oc=5",
           "domain": "cfr.org",
           "sourceTier": "Structured / analytic",
-          "seen": "20260716"
+          "seen": "20260727T213052Z"
+        },
+        {
+          "title": "Oil price dives as US and Iran pause attacks",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44NU94OERKeEJnNnNXcUpvQlZRdlY4NzFkcTVEc1pMTW5lcW9wcTc3Y2xKUWgzMUhuczA3c0swQzhpOEc4QjN0Q01FOTZ4c1lBM1ItbWZ5MmZ0UQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260727T150837Z"
+        },
+        {
+          "title": "The AI military complex: Which are the main companies in it?",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZnhpU3pleWFZYmdLbl81VG1TbnlwVDB4d1psNUtZT1dteTRiTjFRei1lODBqaEEyQjdqSDgxZTVrR19YRFdsbEp1bll4MWI5VFdITVdDbEdYMkhIbGE1a3ZxaEFqRzVkZnlrT3ppeExJOThVVE02S2o5RXBiXzBEMXVQeEVUTklPaUxIajNiTDl6S2xObTUyMDN3T01uSU1B0gGmAUFVX3lxTE9sdENRVzhZS25FUFluZDRuV0l3LXRNcUU5RW1GbHYxWWRwYkJPRDBFVl9pYy0tYi1uQ3BuRnhscjUwcVJNXy1IU2U1S1d3WldyemF4ejJKWURrczBCOEt3cnBxbV9zLW9YTkNEZHVXLWZqR2ZpazlibEJYZndYYi1zU2lWZ0lQa3d1cXg3NFQ0Q3BvVFV2YlpkdFkwaUxvYWZYdXo2LUE?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260727T082544Z"
+        },
+        {
+          "title": "US and Iran pause strikes for third night to make space for talks, US ambassador says",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsNWVhX1J4U21KYk1pZjhKdzBHcHJkMzlVY3lKVGJUZEZ2ajJJb1NzR09odXZVRkdrRDdONTRSbThBdjJZMGttYTQ5Qks2Q3dLejRtYnJpYUh2QQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260727T081446Z"
+        },
+        {
+          "title": "Unreleased footage reveals Lindsey Graham’s push for war on Iran",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQc3ZQdnZNM3QtSXB1TmZSQlJ6Z3RKWVBYdFI4dENXRVI4Q2FfS1ZLTnhJWWVyWEZwb09UVXQxbVE3WUxWeVFrMTAtM2gtWUNUbkVEX3RMeHpLMzJ2ZDhHb3NvMW93ZjBGcjVMbHRONDlrNkJOZHlYeWJ2VGtqa3hQM0VEeW1Bc29iMER6RlRINjZDSkFBdzlRVWRWOVhaMm5CdWE3RFhrcjk1R2ZKemNUcXV3RXXSAboBQVVfeXFMTmhHVTNJQndKTXFBa2pzT2xQdTU5WE5CQS1BNUpEY2o4ZkUtdC1ldWJCeVZFRy05N3pjZE1HVzNzd2QxRlFtQk51SXhITzJkWGMwWHhrcFduQmdwX2FWb3BGamdCOHNNRkxrbVc3NGlmOUxDUlA1X2RGaUpNQmxNc0ZxRWZDZDZRc0diLVJYZzZWMjlGeFp0UGJmakx5OFBUSE8tM0c4bVBseHlKOG1jTWU5Z3BuUThNdmdn?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260727T203325Z"
+        },
+        {
+          "title": "Are the US and Iran heading towards a forever war?",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNldTTkttQ21XU3czZElOZFc1SW5ETDZ0MXNRRHVwWDhtaHF4amV5eTh2N25JNlBXQjVJbWNYTHAtSF9pemY3R2g0NUhKbE53djhhZGdhdFBpWE1uVXhsVGV5X0pmTEtFcm9VWmJvS1V3cmZwQUtNXy1oUWM3dmJPVjJINnc5Mkd6Q0NfYVEyWUl6bFQ1cUFfWmZreDVUUDlD0gGmAUFVX3lxTFB6anBaWmxRT0NsdmtleFNsOVE1WHpuakpNLVcyRkVzdGVmOHdkYVpLNGg1RElQWTdQeHlqdzI4UG1LU1g3YWJscG9SU0xHTXRIVkJzS01NSG9oN3lDWkRBX21EeXRWZnAtMjQyNnNjQnMzSUEzUFAxQUJ6c0o4a3JPZzQ5MGhFdW1kR3dCSzU4b1E1SHA1elBqajJXalVpTWxhWnAwQ3c?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260727T192155Z"
+        },
+        {
+          "title": "Why has Iran’s economy not collapsed under US war pressure?",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTm1BQnVwRWV0YlRWUGtqZWpYNHhKbDFQWGNaSm5KeDdiVDc3dnhFQ1k0XzNXWG16MXljbWFjN2pMMC0wMXZNb2ZnQkRsMzZrOVRFbXhRUFN0V0Rnb0ZyZXQ0dG8wcGptTHZrSVh5YjBGM0dzYWRCai1iV3RncElib25VOEt2cThQTVdoRkZ2RW9HQ0ZWVm9OdU1qODFMYzFJTlp30gGoAUFVX3lxTE1TQWFBa2ZDd1lTTElkR1RibTZwNHVoYm5LX3lHWENPWVFIalBQR0dMeElSR2N0ZC1RSnE4WTJuTzhkLXRMMVEzN1RmYjV6QS1jdV9TWTMyR05fTnZDYm5VbHJCSWZQcjV0bzFsZGVMVDVuN2dueUV5LXFQWXFPVG44WEFobi1kTGFJQ2VERk5RekplSmpYRW9ORlhtSU9NbEx6YjBadUZKaQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260728T123249Z"
+        },
+        {
+          "title": "‘Freeze the conflict’: Drones slow Kazakh oil flow amid Russia-Ukraine war",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcEp3Tm81cGU2N2JQZU9Ibkl0Znk2WFR5ai1QaE8yNEduS3Itb2NTUmpna0FROFBrcnpTUjFtdlV6LVJlZ2ZGbnAzU2ZDc1N3WnRzdTRvQzdzZ1pGbVZxWXpqeFJLMmpYaGJwc2xlRUxsRktmWmEzM3U4TG0zZmpMSHVDVENBejI2UUdjX1EyaVpXYjNaTG4tOVBHcmtjTzlVdFh6THRCSGhjZndSUHJLSlJB0gG3AUFVX3lxTE5EejlDM0xQNWNjQ1Y0dUZRODhxbUZtS1RaSGc3VllzekRORXV1cGVsZ1QxcEw2YnN4aHBSNXEwQ3RHR3RXUV9wS0JNVWV5Q21MWVdnRVZzdWhZZXBwSW5qWnd6dWNlQWtQc3ViS2dQMWltZjdkbjJSeGNQZDVIVmdHNXJ6VmY3LUcwMF9UTEhIczA2bnhxU3pvZnZXdVJUdG1xZ3ViWnk2OWxRRGFpd2FrQjFUYVJiTQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260726T172042Z"
+        },
+        {
+          "title": "Why a new war in Yemen could be different for the Houthis",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZmhWWkdGTHV4cDNqcHlKWjdfN2c2eXpleFlZWnFtU0lkRzFpbGQ4a25YS0xqNFVuVWRuS2s2dVZEZzdXX2gzdF90alNnQkw1TVNHcTA4M2lkeUF1dUVwNHNpWTVTRnUtbFBIZ1JnT2FxV01zc3NYYWQxRjdlTlhoRzZ0anBXakZlWGowMDFFQXNYT21GZHlWOFkyWl9mZlXSAaQBQVVfeXFMTzFEZjFvbkhiQm5jeEdkYTUxSFNFNDVhX2VOQmlNcFlSbHF5SmVldnZkcGFmVlZtUVBQcHo4U1dxbEZNaUQ1YXdwbXByeWRaVmRibG92bllmMENGS2xkdXlteFRjcW9CSlg1VWFXU2tQMzR3RTY5OHlKSlRNeEtNWTFVRjl0M1RFVzdTc1lDc0ExQ0I0cFE5MDEzbXAxd2NybjZ0eHY?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260727T152324Z"
+        },
+        {
+          "title": "Anti-war protesters demand end to US use of UK airbase to strike Iran",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM3l3N2RzOVVKc3U4VnVxUmg1NWh5a0t3M2VveHhtMFVxVDd3ZXFScklwajFWODBqV3ZyM2Y2SWNVLWtUdHloS2l0eV9ZWHZqaUpvZWVpOXhwdlVjSXN4a2IteXR6UndEQzcxcUU2aUFwMTZFWDVpS24yYmtuYm9kVGdZczltRmRBRjFtcS1WSVJGUV8xekUxQlZKZlphVnJFa0tHaUE1NnRlTmpacnp5OHhEbmpQNFQyQ1Y1ddIBwgFBVV95cUxNMDBhQk81c1NBOW9RVTRKZjh5YWU5Q2QzdFdKRGphN0lRN0xiQi1KaHNxRXVoMVJ6bW5hVmNKN2JqN1hwSnVqblRaVXBpRG5IRmIyVjBvX202bEtNVTJqNmVLQWJPWnRRVXJGWWRCSVJGYmVRWUM5YVFYeDhYcjhValRMM2p2QXE3Mk5BcjBockdZWGxMamREZUlNSGxQODhmcEp4VnpEcThqb0REUVRHUEQ1NW9yTldqT1EtYWppcVdvZw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260726T113632Z"
+        },
+        {
+          "title": "More than 600 US military service members injured since Iran War began in February",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XbFpJZmowWXhfWTlHYmVNV2RwQjdCWVBZVlNETVZJdVFvb29OczZLbmpKVW1vREY0SFVhNDdkcjRSdkxCSDgyX21MZzNWWUNGa0haejl3ZFRIUQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260727T133157Z"
+        },
+        {
+          "title": "Ukraine’s Zelenskyy set to meet Trump as Iran and Ukraine wars converge",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeHptcGdOZW9lZE9nQTZzSmJKRkdDNXlhU0czU0h1bndHUk81elNXUF94dFJ1RXllU28xUnkwTG9QNmxJLVFVb2RQdEx3d3hKeEZ5RzhRamNfdDRaRkpHeXlHVEVTWlA1aXdjc2JnQUJBaXl0OFktbTZyZWRaT1dRZUx2YTdycElmM3RBMlJoSTlsRjUxTzA2WDhwV1VMdUNtcmhXQl9GaU55LTF6OUlZaNIBtgFBVV95cUxOTDhZX2VxejVINERBY2NGZ21VS2dtV0lFM1hhaXd5SWd2ZC1zTC1NbVN5Vi1HVXBTT185SUNUODU1SEZmVFpvTUw3S3pjbHdVa2ljQmx6aVNHZ0I0LUxLaGRDMlpaX3huekQ1NktwbXNnTmtvd0JObllGMHdtMnNmdGNZMHFVeDZnRWZsbnNVVWRQTUpfb3pMd0t0Q2JqU3poeGVSdFZubEVvT2h0eWJaYjc0aURRQQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260728T032613Z"
+        },
+        {
+          "title": "Trump pauses major escalation against Iran over dwindling US air defense missile stocks: Report",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdDhLVXAtd2JqVDRmOGpidF8zWFV5RGl3ZzFnN3huOUprV1JoMkpVVU4wcG5Vak9KcDNfUGMtQy1WaWxCcXUzTXZwSDNWaDUtS1BydTZhY245NmxYM2tVYW1NNTJhbFF6QUphSmVSUVE0YXE3WVlOOW1MVVFxVlpUUmRWNVNKdl9uY2V1RUhjT0UtakFTMGZJOW1fYWd6bmZGT2FkR3BNTE83c3RIdHZmU09VejRBVGt5ZFFxMWQzem5OX2NWNi01Uy1ZRERJc0lheWc?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20260726T002411Z"
+        },
+        {
+          "title": "Mediators see progress in efforts to halt Iran war as drone attacks rattle region",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQa2M1am9JRVdmbUE2TTF1ZG5ya1dXNjVjdWUtVngzX09jamxQNk1idEJoNDBCY2Y2dlpURUpYb1Q3WTY0Qk84ZEd5V0FYaHVHakFGbmtKbEhOTy0xYmdLUnZIN3JlcS1yWXZTbnVTYlBlcVg5NUx2eGZFT0VmM0FhQkZYS2pZZHJJMlp4SmtVZkpKTmZwOTZOM2g1S3FtMGhYdWc?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260728T014100Z"
+        },
+        {
+          "title": "‘War criminal’: Protesters confront Netanyahu motorcade in Washington DC",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOVFUR3JQUkRxandDMDFoR2JveGhidW8wWWlleVAycFNUYzN4T3VkbXFYanZJQk1Hb2VOZGpVR0F1TUlwajZ6UHJVMWRLWDUxZmxoa0tDNThxaGtKcGFPdk95VnBtXzlXVkEzdk5XM0lPZkdicmp2a01hS0VPUDFsVk9WVjJXZUdxWEdUaWNpOFltSllILWhwYXVpTEdkQ1M4SUJXVEhobkppemlubzVna21CYVpWUXdkZjY0N9IBwgFBVV95cUxNSWZRcnFfbWZDRE5iU1Z2MjhSSzFaVVExOFJiNEpBSS1EV2ZSMlNMQkxiZ0lEbFJYZUZzNTJqcEpQTTFmU2tHWDJVblBBa2paTVBQUXE4S0ZhekE3Y01LRlU2ZnROTzk0bFV4RTZuOW5LX283aldXRmF4Z1dUbWJmdkt5cFp4NG0tbDRkX0R6ZXlaSldHMnV3YmdzZkFRV2Zrc2dUc3RLRlc4NUtobS1ZYmU4eUFfZ0hzZmQyMnhpeFRDQQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260728T080802Z"
         }
       ],
       "reports": [
         {
-          "id": "report-seed-cfr",
-          "title": "Global Conflict Tracker",
-          "url": "https://www.cfr.org/global-conflict-tracker",
+          "id": "report-6b85a8fb0f49",
+          "title": "Iran says it will not let US determine timing of war and peace",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbnoyT19UTGczNC1EVHhKOWh2QkR6YW5fMlZYb2FDekhJei1UVm9Vd3RaZzZjX2t1aXdvbkdRc3ZORE54UU1ZUkItS04xbTB6SGcxdXdlWWYtSE9iTWV4MGgxQ09UQ19BT2hWazRpTnJHZnN6ODJYSlRQa0JYQVl0VnZMTGlXdFMtSURFMllCM3Q4dmRyLUdQMXBUNV8yY2NRWXZodDVQZ2R3Q0U?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-07-27T08:34:45Z"
+        },
+        {
+          "id": "report-ca36cd8a688f",
+          "title": "Gaza student tops national exams despite war and displacement",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcVJxdDAyTTFFeTBqdGZQODN5SHNkNjRYUElFTU1zSFA2ckhqT0hoZVdWQzVJN1pGN3R1QVRXMUdabG5PYmRRNXpzWk5MdUk4bktFT0tNUVVsd2wyQTUwTXNEMmppZlNOeThpaWlMMWdlYmRBdkI4Z2NEb2lLM0JoOEQzZ1dpZThqYTBPZDZlMkxraVRkNVZPT2Y5VTVoR0ZOTU1vM3o0a1hzT01kOE5KLVlB0gG3AUFVX3lxTE04UGpvaXhCRGQ1cndkMnVNT1U0UTNXNFRCQzVQa3VXVGE0TnFaQjhxbTYyeU8yYS1FWjhwZUVHS1JVZ3Z5NjNpaVRBWXBJNmtHdmRPa08yNDFHWmFCajNCaDdRcUN2SHdZSUJuV2lobDBxMXhHd0Q1RWNZYlJPcVZZbS1JS3BNVmRrSjJ2WTN4YktGRXo0N3UtYy1nQUVfU2FMeDhfSTRGenBtbmdRZTI4cXFfazg0UQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-07-27T12:45:38Z"
+        },
+        {
+          "id": "report-e249965097ec",
+          "title": "What lies ahead for Iran’s economy as scope of US war grows beyond Hormuz?",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNX2VwZkM5S0h3Rkt4dFMxNTUzcXBjUmlZV3hQa2p0UjJxWERSeWRRT2RDQ01SZ3cwR1QzNUNGSUNJZVEyTHpaZU5RaG9idVFlektKd3Jqdkd5UldQNEdhS1dnUk94akxEOEdvd0FjbklmYm9Vdk5OV01iT0tucnI0SElsRjdOSVI2Y2NkWndLMGd6ZjNsWVN0WWJfcEpENlJZUGdiRVZDWdIBrAFBVV95cUxNZWk1QV9wcy04WXdobnRVQ0U2UU9xS0NJVUhPTFVSN3lYTEpoMGMxOEVwVlI0M3RGOHVqd29Jc1RZRWdEN28xTFJQay1GSlpyZ21RWDRWcmIzcHcxMkVwQ1hQRE5YdnhpVXpTcmUtWlJSTUpIdFJ3T1NtT2p5RUZwdkNzMnEyYmRXdDh5RmYtM0stSHpyQ3RfNnVWWkh3RXZkZDlMX0pxWXJVc2c5?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-07-26T19:37:16Z"
+        },
+        {
+          "id": "report-01a5cfb324b2",
+          "title": "After Strait of Hormuz and Red Sea, has Iran war now reached Caspian Sea?",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYVJOMi1WeW1fWUJrYWxJU2FRVzAxNFAxZnVFNkFJQVZ2eFhBMkotWWJrdllOdmk3dlBXVjg4ZGF1bUVXZmJXQnRpUUVhVWE0aWVxbGpTbnJ5cTZwV3ZUNU9zWkNLQ0FhdV9YY1NMNUVncXBlcVZVTVhWUXFpWDZDdlFIMzBZQ05FcTNyWGQ4eFBJTDczVjdvcTd2YWxha2V3T1hUR3BGMVlFSHF6alU2VXNR0gG3AUFVX3lxTFB5U1Q4bVYxNUhuQ3U2eF93azRtb242VndfeVNwVk50cDl5SnRza2NSWUVMa1RDemswTzNnc2htdmYtbjBVa2FiOVlDN1BfaXRYbWlZWWRBSFlESWQzakVWYnYzdWg3UWdZYUYtSEV4QXFoWlQ3eGdtaWtTNlhMVjJNUDVhN05TN205QnZEUGhNTnlQYmhUMXZORGE3SU5tZTBjQlJjYnVBeUtqWTYxU1FOSXp0QzBOZw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-07-26T10:48:56Z"
+        },
+        {
+          "id": "report-4fdc5d0da033",
+          "title": "Trump says full-scale war with Iran ‘if we don't get 100% of what we want’: Report",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZEhkNHR4NG1Gd0owMmQ4cndyU1pVNW9Ca1FLZDZXWlVTMVd0NHBQeHZIVlRRcGd1RlBNemg4eGlOVXotMGE1OUpTWk9CTThfdjlwNHpaR09aUDJvZFJXOUVMT2J1R0p6aG9DV2lhV19EdG41V1owd0VnMjhIYklXNnZiZVRRODZzQS1Gb2c3dERCQnBxVGw3aEhOZEZyNEZzQm9peTlOa2FHOFlHNW9pb2FoaDB0Um5RZzVz?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-07-25T20:15:56Z"
+        },
+        {
+          "id": "report-cc5886a94975",
+          "title": "US and Iran pause their attacks after days of escalation",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd1ZkcWRJbVdJX0lWSFo1TGFnSDdhUkFQbHZ1ZGlHVUp0b1BwbEZ0SHVPNGY2NS12NmQ3c3dpbjNVVG5qXzJvUDh6NGVSQnFkS2hEQ1BNbi1jUV9nN1lhUHF5MVlrRVpHdURweU9hTnZPTUYxSFVYaklYeWhlTURTQWJteG5acjYybFplamI2XzlJSW5RbktF?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-07-26T15:12:27Z"
+        },
+        {
+          "id": "report-09b8baf5fd52",
+          "title": "At least 15 killed in Ukrainian and Russian strikes as holiday camp hit",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORXNFTU14ZkNOQ290QXpYMEkxMzg2Z3FIUG04S0w4V08tcVNpeEhRV1cxWnRiSndNTkRGQmN0SG4yRHhpbE8zZ0FiS3BwYmljVGpVSzlOZjRSZE9fLTRsNnEyUDZfMTd1cng5b0VCd2V2a00wUjJjMnBvSS1aX1NNbk80UjAyLXRiTDl1anFnZUVoRFFJSDNWNHU0a18xQWhRZXRnd1UyZnI5Q3VCYk91RU9n0gG3AUFVX3lxTFBISHVSTlBYSXhHM3lLMmE2V0pHdk5sNWdicVJqVVJsMzgtRU1pM0lRVEgzcjdHTDJEWkRtcVYxQndQZ2EyZVRreTVGOU1fVnc5dHFJaEV6TGJHSjQ3NXZZMzZNd3RoOElIRjN2cnIyaWhYRlZ4bEMwd2Z4UzN6OHk5QW01amV5QnBFbU1Ed3poZWZva2NoU202YjRBSTRNZVJMcmlpLXozcEIyNFdfdGFfZjIzZGF6MA?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-07-25T18:50:59Z"
+        },
+        {
+          "id": "report-e8f4fe4f3741",
+          "title": "New front in US-Iran war escalates as Houthis fire at Saudi oil facilities",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcTQ5MF9vNGN3SlotSkQ1VmF0MWNuZmo2aFRZMS1VQVN3X21DZ1dVbDJLeXMxZGJ2M2JGQ1NUeWh6SmRnMXgzZEtOa0Z6RGM5REN0WHhuaXFGVC1UdVZUa09xazd1dnpLT3RSbUZSZTdCMG1TLWE5Rl9QVlN3WGY1S0lCcEQyTV9QMk92YU1hNi11a0dsLTdoTlBFWEZCZEtjckxxTXJSVFpXcHNCd0NoZTcxbG9HUdIBuwFBVV95cUxQZTBuUlVXbEljQUJ4WEVac2JtNExTeU53UDNzNDNLZUhTUGhNdTljTkRBX29hQnNPR1FzZUg1Vi1wUVBPcFhoRjlPOVl4b2t5X3ZKNWVTNlNUQ1dvNDQwNWdITUpnWllVLTNzNFR5bFJnRWRzTkRjTjlvMEZKY19lb0FlMnN4eVp5S0FmTUp6SThvZ0VzUVFiakdBdkRyRVp3MjVnMkFnMlJoOEZHNjFZZy1MUnJ0ZDBRZ09j?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-07-26T04:50:27Z"
+        },
+        {
+          "id": "report-880d3125400b",
+          "title": "Trump says Iran war talks taking place during lull in strikes",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wcUk5M3JUMm80T1VCcUtKYzRPcmt3eldDVk9QU0VwRlJ5ZFJSdExzQTJBeGpic245Y0NNaXNydE5FWDdtSVVYVENzRncweTNLSGRUYkk3Yy1DUQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-07-27T21:10:56Z"
+        },
+        {
+          "id": "report-cdb665efed65",
+          "title": "As Zelenskyy Meets Trump, Ukraine’s Political Crisis Reveals a Silver Lining",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdlptbE1LcmVSRVJIZU1jNEw4aUEzemxqSnp5Q0pHckxsMmhuNlRDMXctWmVUdzFKVDdJTU4zTjI2N2pYX2pMWXdTa09kcU1DLVRaeGptSTlfWnFFQXBMVmc0dXhqYkVYa3RycUpIYWg1R181UzNEQUo2SGJxdEJFMmZNanV6T0VXSzVRSFIxZWQ5SE1CeWk0cDV2ejk3OUI1ekMtTUpn?oc=5",
           "domain": "cfr.org",
           "sourceTier": "Structured / analytic",
           "confidenceLabel": "ANALYTIC REPORT",
-          "reportedAt": "2026-07-16T20:00:00.000Z"
+          "reportedAt": "2026-07-27T21:30:52Z"
+        },
+        {
+          "id": "report-c8f2c953aa9f",
+          "title": "Oil price dives as US and Iran pause attacks",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44NU94OERKeEJnNnNXcUpvQlZRdlY4NzFkcTVEc1pMTW5lcW9wcTc3Y2xKUWgzMUhuczA3c0swQzhpOEc4QjN0Q01FOTZ4c1lBM1ItbWZ5MmZ0UQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-07-27T15:08:37Z"
+        },
+        {
+          "id": "report-f7152e258dc0",
+          "title": "The AI military complex: Which are the main companies in it?",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZnhpU3pleWFZYmdLbl81VG1TbnlwVDB4d1psNUtZT1dteTRiTjFRei1lODBqaEEyQjdqSDgxZTVrR19YRFdsbEp1bll4MWI5VFdITVdDbEdYMkhIbGE1a3ZxaEFqRzVkZnlrT3ppeExJOThVVE02S2o5RXBiXzBEMXVQeEVUTklPaUxIajNiTDl6S2xObTUyMDN3T01uSU1B0gGmAUFVX3lxTE9sdENRVzhZS25FUFluZDRuV0l3LXRNcUU5RW1GbHYxWWRwYkJPRDBFVl9pYy0tYi1uQ3BuRnhscjUwcVJNXy1IU2U1S1d3WldyemF4ejJKWURrczBCOEt3cnBxbV9zLW9YTkNEZHVXLWZqR2ZpazlibEJYZndYYi1zU2lWZ0lQa3d1cXg3NFQ0Q3BvVFV2YlpkdFkwaUxvYWZYdXo2LUE?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-07-27T08:25:44Z"
+        },
+        {
+          "id": "report-634345b07714",
+          "title": "US and Iran pause strikes for third night to make space for talks, US ambassador says",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsNWVhX1J4U21KYk1pZjhKdzBHcHJkMzlVY3lKVGJUZEZ2ajJJb1NzR09odXZVRkdrRDdONTRSbThBdjJZMGttYTQ5Qks2Q3dLejRtYnJpYUh2QQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-07-27T08:14:46Z"
+        },
+        {
+          "id": "report-cc57454a1909",
+          "title": "Unreleased footage reveals Lindsey Graham’s push for war on Iran",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQc3ZQdnZNM3QtSXB1TmZSQlJ6Z3RKWVBYdFI4dENXRVI4Q2FfS1ZLTnhJWWVyWEZwb09UVXQxbVE3WUxWeVFrMTAtM2gtWUNUbkVEX3RMeHpLMzJ2ZDhHb3NvMW93ZjBGcjVMbHRONDlrNkJOZHlYeWJ2VGtqa3hQM0VEeW1Bc29iMER6RlRINjZDSkFBdzlRVWRWOVhaMm5CdWE3RFhrcjk1R2ZKemNUcXV3RXXSAboBQVVfeXFMTmhHVTNJQndKTXFBa2pzT2xQdTU5WE5CQS1BNUpEY2o4ZkUtdC1ldWJCeVZFRy05N3pjZE1HVzNzd2QxRlFtQk51SXhITzJkWGMwWHhrcFduQmdwX2FWb3BGamdCOHNNRkxrbVc3NGlmOUxDUlA1X2RGaUpNQmxNc0ZxRWZDZDZRc0diLVJYZzZWMjlGeFp0UGJmakx5OFBUSE8tM0c4bVBseHlKOG1jTWU5Z3BuUThNdmdn?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-07-27T20:33:25Z"
+        },
+        {
+          "id": "report-60b235f0ddeb",
+          "title": "Are the US and Iran heading towards a forever war?",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNldTTkttQ21XU3czZElOZFc1SW5ETDZ0MXNRRHVwWDhtaHF4amV5eTh2N25JNlBXQjVJbWNYTHAtSF9pemY3R2g0NUhKbE53djhhZGdhdFBpWE1uVXhsVGV5X0pmTEtFcm9VWmJvS1V3cmZwQUtNXy1oUWM3dmJPVjJINnc5Mkd6Q0NfYVEyWUl6bFQ1cUFfWmZreDVUUDlD0gGmAUFVX3lxTFB6anBaWmxRT0NsdmtleFNsOVE1WHpuakpNLVcyRkVzdGVmOHdkYVpLNGg1RElQWTdQeHlqdzI4UG1LU1g3YWJscG9SU0xHTXRIVkJzS01NSG9oN3lDWkRBX21EeXRWZnAtMjQyNnNjQnMzSUEzUFAxQUJ6c0o4a3JPZzQ5MGhFdW1kR3dCSzU4b1E1SHA1elBqajJXalVpTWxhWnAwQ3c?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-07-27T19:21:55Z"
+        },
+        {
+          "id": "report-4aa8cebb5270",
+          "title": "Why has Iran’s economy not collapsed under US war pressure?",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTm1BQnVwRWV0YlRWUGtqZWpYNHhKbDFQWGNaSm5KeDdiVDc3dnhFQ1k0XzNXWG16MXljbWFjN2pMMC0wMXZNb2ZnQkRsMzZrOVRFbXhRUFN0V0Rnb0ZyZXQ0dG8wcGptTHZrSVh5YjBGM0dzYWRCai1iV3RncElib25VOEt2cThQTVdoRkZ2RW9HQ0ZWVm9OdU1qODFMYzFJTlp30gGoAUFVX3lxTE1TQWFBa2ZDd1lTTElkR1RibTZwNHVoYm5LX3lHWENPWVFIalBQR0dMeElSR2N0ZC1RSnE4WTJuTzhkLXRMMVEzN1RmYjV6QS1jdV9TWTMyR05fTnZDYm5VbHJCSWZQcjV0bzFsZGVMVDVuN2dueUV5LXFQWXFPVG44WEFobi1kTGFJQ2VERk5RekplSmpYRW9ORlhtSU9NbEx6YjBadUZKaQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-07-28T12:32:49Z"
+        },
+        {
+          "id": "report-d83043e9452f",
+          "title": "‘Freeze the conflict’: Drones slow Kazakh oil flow amid Russia-Ukraine war",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcEp3Tm81cGU2N2JQZU9Ibkl0Znk2WFR5ai1QaE8yNEduS3Itb2NTUmpna0FROFBrcnpTUjFtdlV6LVJlZ2ZGbnAzU2ZDc1N3WnRzdTRvQzdzZ1pGbVZxWXpqeFJLMmpYaGJwc2xlRUxsRktmWmEzM3U4TG0zZmpMSHVDVENBejI2UUdjX1EyaVpXYjNaTG4tOVBHcmtjTzlVdFh6THRCSGhjZndSUHJLSlJB0gG3AUFVX3lxTE5EejlDM0xQNWNjQ1Y0dUZRODhxbUZtS1RaSGc3VllzekRORXV1cGVsZ1QxcEw2YnN4aHBSNXEwQ3RHR3RXUV9wS0JNVWV5Q21MWVdnRVZzdWhZZXBwSW5qWnd6dWNlQWtQc3ViS2dQMWltZjdkbjJSeGNQZDVIVmdHNXJ6VmY3LUcwMF9UTEhIczA2bnhxU3pvZnZXdVJUdG1xZ3ViWnk2OWxRRGFpd2FrQjFUYVJiTQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-07-26T17:20:42Z"
+        },
+        {
+          "id": "report-4235fa47c71e",
+          "title": "Why a new war in Yemen could be different for the Houthis",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZmhWWkdGTHV4cDNqcHlKWjdfN2c2eXpleFlZWnFtU0lkRzFpbGQ4a25YS0xqNFVuVWRuS2s2dVZEZzdXX2gzdF90alNnQkw1TVNHcTA4M2lkeUF1dUVwNHNpWTVTRnUtbFBIZ1JnT2FxV01zc3NYYWQxRjdlTlhoRzZ0anBXakZlWGowMDFFQXNYT21GZHlWOFkyWl9mZlXSAaQBQVVfeXFMTzFEZjFvbkhiQm5jeEdkYTUxSFNFNDVhX2VOQmlNcFlSbHF5SmVldnZkcGFmVlZtUVBQcHo4U1dxbEZNaUQ1YXdwbXByeWRaVmRibG92bllmMENGS2xkdXlteFRjcW9CSlg1VWFXU2tQMzR3RTY5OHlKSlRNeEtNWTFVRjl0M1RFVzdTc1lDc0ExQ0I0cFE5MDEzbXAxd2NybjZ0eHY?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-07-27T15:23:24Z"
+        },
+        {
+          "id": "report-1620cdf312b6",
+          "title": "Anti-war protesters demand end to US use of UK airbase to strike Iran",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM3l3N2RzOVVKc3U4VnVxUmg1NWh5a0t3M2VveHhtMFVxVDd3ZXFScklwajFWODBqV3ZyM2Y2SWNVLWtUdHloS2l0eV9ZWHZqaUpvZWVpOXhwdlVjSXN4a2IteXR6UndEQzcxcUU2aUFwMTZFWDVpS24yYmtuYm9kVGdZczltRmRBRjFtcS1WSVJGUV8xekUxQlZKZlphVnJFa0tHaUE1NnRlTmpacnp5OHhEbmpQNFQyQ1Y1ddIBwgFBVV95cUxNMDBhQk81c1NBOW9RVTRKZjh5YWU5Q2QzdFdKRGphN0lRN0xiQi1KaHNxRXVoMVJ6bW5hVmNKN2JqN1hwSnVqblRaVXBpRG5IRmIyVjBvX202bEtNVTJqNmVLQWJPWnRRVXJGWWRCSVJGYmVRWUM5YVFYeDhYcjhValRMM2p2QXE3Mk5BcjBockdZWGxMamREZUlNSGxQODhmcEp4VnpEcThqb0REUVRHUEQ1NW9yTldqT1EtYWppcVdvZw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-07-26T11:36:32Z"
+        },
+        {
+          "id": "report-dad2161aa62a",
+          "title": "More than 600 US military service members injured since Iran War began in February",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XbFpJZmowWXhfWTlHYmVNV2RwQjdCWVBZVlNETVZJdVFvb29OczZLbmpKVW1vREY0SFVhNDdkcjRSdkxCSDgyX21MZzNWWUNGa0haejl3ZFRIUQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-07-27T13:31:57Z"
+        },
+        {
+          "id": "report-2b80739e8bab",
+          "title": "Ukraine’s Zelenskyy set to meet Trump as Iran and Ukraine wars converge",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeHptcGdOZW9lZE9nQTZzSmJKRkdDNXlhU0czU0h1bndHUk81elNXUF94dFJ1RXllU28xUnkwTG9QNmxJLVFVb2RQdEx3d3hKeEZ5RzhRamNfdDRaRkpHeXlHVEVTWlA1aXdjc2JnQUJBaXl0OFktbTZyZWRaT1dRZUx2YTdycElmM3RBMlJoSTlsRjUxTzA2WDhwV1VMdUNtcmhXQl9GaU55LTF6OUlZaNIBtgFBVV95cUxOTDhZX2VxejVINERBY2NGZ21VS2dtV0lFM1hhaXd5SWd2ZC1zTC1NbVN5Vi1HVXBTT185SUNUODU1SEZmVFpvTUw3S3pjbHdVa2ljQmx6aVNHZ0I0LUxLaGRDMlpaX3huekQ1NktwbXNnTmtvd0JObllGMHdtMnNmdGNZMHFVeDZnRWZsbnNVVWRQTUpfb3pMd0t0Q2JqU3poeGVSdFZubEVvT2h0eWJaYjc0aURRQQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-07-28T03:26:13Z"
+        },
+        {
+          "id": "report-051f9783090d",
+          "title": "Trump pauses major escalation against Iran over dwindling US air defense missile stocks: Report",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdDhLVXAtd2JqVDRmOGpidF8zWFV5RGl3ZzFnN3huOUprV1JoMkpVVU4wcG5Vak9KcDNfUGMtQy1WaWxCcXUzTXZwSDNWaDUtS1BydTZhY245NmxYM2tVYW1NNTJhbFF6QUphSmVSUVE0YXE3WVlOOW1MVVFxVlpUUmRWNVNKdl9uY2V1RUhjT0UtakFTMGZJOW1fYWd6bmZGT2FkR3BNTE83c3RIdHZmU09VejRBVGt5ZFFxMWQzem5OX2NWNi01Uy1ZRERJc0lheWc?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-07-26T00:24:11Z"
+        },
+        {
+          "id": "report-a15a13d23da6",
+          "title": "Mediators see progress in efforts to halt Iran war as drone attacks rattle region",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQa2M1am9JRVdmbUE2TTF1ZG5ya1dXNjVjdWUtVngzX09jamxQNk1idEJoNDBCY2Y2dlpURUpYb1Q3WTY0Qk84ZEd5V0FYaHVHakFGbmtKbEhOTy0xYmdLUnZIN3JlcS1yWXZTbnVTYlBlcVg5NUx2eGZFT0VmM0FhQkZYS2pZZHJJMlp4SmtVZkpKTmZwOTZOM2g1S3FtMGhYdWc?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-07-28T01:41:00Z"
+        },
+        {
+          "id": "report-e0e46b6f3eb6",
+          "title": "‘War criminal’: Protesters confront Netanyahu motorcade in Washington DC",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOVFUR3JQUkRxandDMDFoR2JveGhidW8wWWlleVAycFNUYzN4T3VkbXFYanZJQk1Hb2VOZGpVR0F1TUlwajZ6UHJVMWRLWDUxZmxoa0tDNThxaGtKcGFPdk95VnBtXzlXVkEzdk5XM0lPZkdicmp2a01hS0VPUDFsVk9WVjJXZUdxWEdUaWNpOFltSllILWhwYXVpTEdkQ1M4SUJXVEhobkppemlubzVna21CYVpWUXdkZjY0N9IBwgFBVV95cUxNSWZRcnFfbWZDRE5iU1Z2MjhSSzFaVVExOFJiNEpBSS1EV2ZSMlNMQkxiZ0lEbFJYZUZzNTJqcEpQTTFmU2tHWDJVblBBa2paTVBQUXE4S0ZhekE3Y01LRlU2ZnROTzk0bFV4RTZuOW5LX283aldXRmF4Z1dUbWJmdkt5cFp4NG0tbDRkX0R6ZXlaSldHMnV3YmdzZkFRV2Zrc2dUc3RLRlc4NUtobS1ZYmU4eUFfZ0hzZmQyMnhpeFRDQQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-07-28T08:08:02Z"
         }
       ]
     }
