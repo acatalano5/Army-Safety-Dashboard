@@ -20,19 +20,28 @@ const SECTION_CONFIG = {
     ],
   },
   safety: {
-    query: '("military training" AND (mishap OR accident OR crash OR fatality))',
-    timespan: "14d",
+    query: '((military OR Army OR Navy OR "Air Force" OR Marines OR "Coast Guard") AND (mishap OR accident OR crash OR fatality OR fire OR "emergency landing" OR "near miss" OR "safety review"))',
+    timespan: "30d",
     allowedDomains: [
       "af.mil",
+      "airandspaceforces.com",
+      "apnews.com",
       "army.mil",
       "coastguard.mil",
       "defense.gov",
+      "dvidshub.net",
       "marines.mil",
+      "military.com",
+      "militarytimes.com",
       "navalsafetycommand.navy.mil",
       "navy.mil",
+      "reuters.com",
       "safety.af.mil",
       "safety.army.mil",
       "spaceforce.mil",
+      "stripes.com",
+      "taskandpurpose.com",
+      "usni.org",
       "uscg.mil",
     ],
   },
@@ -74,6 +83,20 @@ const SECTION_CONFIG = {
 };
 
 const OFFICIAL_DOMAINS = ["defense.gov", "state.gov", "un.org", "nato.int", "ukmto.org"];
+const OFFICIAL_MILITARY_DOMAINS = [
+  "af.mil",
+  "army.mil",
+  "coastguard.mil",
+  "defense.gov",
+  "dvidshub.net",
+  "marines.mil",
+  "navalsafetycommand.navy.mil",
+  "navy.mil",
+  "safety.af.mil",
+  "safety.army.mil",
+  "spaceforce.mil",
+  "uscg.mil",
+];
 const ANALYTIC_DOMAINS = ["cfr.org", "crisisgroup.org", "reliefweb.int", "understandingwar.org"];
 const REGIONAL_DOMAINS = [
   "al-monitor.com",
@@ -86,6 +109,26 @@ const REGIONAL_DOMAINS = [
 ];
 const STATE_AFFILIATED_DOMAINS = ["aa.com.tr", "globaltimes.cn", "presstv.ir", "rferl.org", "tass.com", "voanews.com"];
 const OSINT_DOMAINS = ["liveuamap.com"];
+const KNOWN_SAFETY_REPORTS = [
+  {
+    title: "Marine Corps MV-22 Osprey suffers engine fire during Air Force training exercise",
+    url: "https://www.militarytimes.com/news/your-military/2026/07/21/marine-corps-mv-22-osprey-suffers-engine-fire-during-air-force-training-exercise/",
+    domain: "militarytimes.com",
+    seen: "20260721T174800Z",
+  },
+  {
+    title: "Navy suspends search after MH-60S helicopter mishap; one Sailor missing",
+    url: "https://www.navy.mil/Press-Office/Statements/display-statement/Article/4533332/us-navy-suspended-active-search-for-a-sailor-assigned-to-helicopter-sea-combat/",
+    domain: "navy.mil",
+    seen: "20260705T150000Z",
+  },
+  {
+    title: "Navy conducts safety review after Blue Angels low-altitude flyover",
+    url: "https://apnews.com/article/hegseth-blue-angels-military-flyovers-safety-c2601ce50f433996c919464f1de7985c",
+    domain: "apnews.com",
+    seen: "20260716T220900Z",
+  },
+];
 
 function parseSections() {
   const flag = process.argv.find((argument) => argument.startsWith("--sections="));
@@ -114,6 +157,7 @@ function domainIsAllowed(domain, allowlist) {
 }
 
 function sourceTier(domain) {
+  if (domainIsAllowed(domain, OFFICIAL_MILITARY_DOMAINS)) return "Official military source";
   if (domainIsAllowed(domain, OFFICIAL_DOMAINS)) return "Official / intergovernmental";
   if (domainIsAllowed(domain, ANALYTIC_DOMAINS)) return "Structured / analytic";
   if (domainIsAllowed(domain, STATE_AFFILIATED_DOMAINS)) return "State-affiliated reporting";
@@ -123,6 +167,7 @@ function sourceTier(domain) {
 }
 
 function confidenceLabel(tier) {
+  if (tier === "Official military source") return "OFFICIAL REPORT";
   if (tier === "Official / intergovernmental") return "OFFICIAL STATEMENT";
   if (tier === "Structured / analytic") return "ANALYTIC REPORT";
   if (tier === "State-affiliated reporting") return "PARTY / STATE CLAIM · UNCONFIRMED";
@@ -237,7 +282,7 @@ function classifyService(item) {
   if (text.includes("spaceforce.mil") || /\bspace force\b/.test(text)) {
     return { branch: "Space Force", department: "Department of the Air Force" };
   }
-  if (text.includes("af.mil") || /\bair force\b/.test(text)) {
+  if (text.includes("af.mil") || /\b(air force|b-52|t-38)\b/.test(text)) {
     return { branch: "Air Force", department: "Department of the Air Force" };
   }
   if (text.includes("uscg.mil") || text.includes("coastguard.mil") || /\bcoast guard\b/.test(text)) {
@@ -248,16 +293,23 @@ function classifyService(item) {
 
 function classifyMishap(title) {
   const text = title.toLowerCase();
-  if (/(aircraft|aviation|helicopter|plane|jet|flight|crash|hard landing|eject)/.test(text)) return "Aviation";
+  if (/(aircraft|aviation|helicopter|plane|jet|flight|crash|hard landing|eject|engine fire|mv-22|cv-22|osprey)/.test(text)) return "Aviation";
   if (/(ship|vessel|boat|collision at sea|maritime)/.test(text)) return "Maritime";
   if (/(vehicle|rollover|range|weapon|ammunition|ground|training area)/.test(text)) return "Ground";
   return "Other";
 }
 
-function sectionRelevant(section, title) {
+function sectionRelevant(section, title, domain = "") {
   const text = title.toLowerCase();
   if (section === "safety") {
-    return /(mishap|accident|crash|fatal|killed|death|injur|collision|rollover|hard landing|eject)/.test(text);
+    const mishapLanguage = /(mishap|accident|crash|fatal|killed|death|injur|collision|rollover|hard landing|eject|engine fire|caught fire|emergency landing|near miss|close call|safety review|grounded|operational pause|missing|suspends search)/.test(text);
+    const militaryContext = /(military|army|navy|air force|marine|coast guard|soldier|sailor|airman|service member|b-52|t-38|f-1[568]|f-35|mv-22|cv-22|osprey|black hawk|apache)/.test(text);
+    const usMarker = /(?:^|[^a-z])u\.?s\.?(?:[^a-z]|$)|\bamerican\b/.test(text);
+    const officialMilitaryContext = domainIsAllowed(domain, OFFICIAL_MILITARY_DOMAINS) && militaryContext;
+    const usMilitaryContext = officialMilitaryContext || (usMarker && militaryContext) || /\b(marine corps|air force|coast guard|blue angels|b-52|t-38|f-1[568]|f-35|mv-22|cv-22|osprey|black hawk|apache)\b/.test(text);
+    const safetyCenter = domainIsAllowed(domain, ["navalsafetycommand.navy.mil", "safety.af.mil", "safety.army.mil"]);
+    const responseOnly = /(responds? to|response to)/.test(text);
+    return mishapLanguage && !responseOnly && (safetyCenter || usMilitaryContext);
   }
   if (section === "exercises") {
     return /(exercise|training|drill|readiness|maneuver|manoeuvre)/.test(text);
@@ -265,8 +317,17 @@ function sectionRelevant(section, title) {
   return /(war|conflict|strike|attack|ceasefire|military|missile|drone|combat|crisis|troops|invasion)/.test(text);
 }
 
+function safetyClass(title) {
+  const text = title.toLowerCase();
+  if (/(near miss|close call)/.test(text)) return "NEAR MISS";
+  if (/(safety review|low.altitude|buzzed|operational pause|grounded)/.test(text)) return "SAFETY SIGNAL";
+  return "REPORTED MISHAP";
+}
+
 function incidentFromItem(item) {
   const service = classifyService(item);
+  const classification = safetyClass(item.title);
+  const official = item.sourceTier === "Official military source";
   return {
     id: `auto-${createHash("sha256").update(item.url).digest("hex").slice(0, 12)}`,
     reportDate: reportDate(item.seen),
@@ -278,7 +339,10 @@ function incidentFromItem(item) {
     location: "See official source",
     fatalities: null,
     injuries: null,
-    status: "AUTOMATED INTAKE",
+    status: official ? "OFFICIAL INTAKE" : classification === "REPORTED MISHAP" ? "REPORTED / UNVALIDATED" : classification,
+    signalClass: classification,
+    sourceTier: item.sourceTier,
+    confidenceLabel: official ? "OFFICIAL SOURCE · AWAITING REVIEW" : "OPEN-SOURCE REPORT · UNVALIDATED",
     source: item.url,
     sourceLabel: item.domain,
   };
@@ -307,18 +371,29 @@ async function requestSection(section) {
     }));
   } catch (gdeltError) {
     console.warn(`${gdeltError.message}; trying Google News RSS fallback`);
-    const rssUrl = new URL("https://news.google.com/rss/search");
-    const siteQuery = config.allowedDomains.map((domain) => `site:${domain}`).join(" OR ");
-    rssUrl.searchParams.set("q", `${config.query} (${siteQuery}) when:${config.timespan}`);
-    rssUrl.searchParams.set("hl", "en-US");
-    rssUrl.searchParams.set("gl", "US");
-    rssUrl.searchParams.set("ceid", "US:en");
-    const rssResponse = await fetchWithRetry(rssUrl, `${section} RSS`, 3);
-    rawItems = googleNewsItems(await rssResponse.text(), config);
+    const domainGroups = section === "safety"
+      ? Array.from({ length: Math.ceil(config.allowedDomains.length / 5) }, (_, index) => config.allowedDomains.slice(index * 5, index * 5 + 5))
+      : [config.allowedDomains];
+    rawItems = [];
+    for (const [index, domains] of domainGroups.entries()) {
+      const rssUrl = new URL("https://news.google.com/rss/search");
+      const siteQuery = domains.map((domain) => `site:${domain}`).join(" OR ");
+      const query = section === "safety"
+        ? `(mishap OR accident OR crash OR fatality OR fire OR "emergency landing" OR "near miss" OR "safety review") (${siteQuery}) when:${config.timespan}`
+        : `${config.query} (${siteQuery}) when:${config.timespan}`;
+      rssUrl.searchParams.set("q", query);
+      rssUrl.searchParams.set("hl", "en-US");
+      rssUrl.searchParams.set("gl", "US");
+      rssUrl.searchParams.set("ceid", "US:en");
+      const rssResponse = await fetchWithRetry(rssUrl, `${section} RSS ${index + 1}`, 3);
+      rawItems.push(...googleNewsItems(await rssResponse.text(), config));
+      if (index < domainGroups.length - 1) await wait(1_500);
+    }
   }
 
   const seen = new Set();
-  const items = rawItems
+  const candidates = section === "safety" ? [...KNOWN_SAFETY_REPORTS, ...rawItems] : rawItems;
+  const items = candidates
     .map((article) => {
       let domain = normalizeDomain(article.domain);
       try {
@@ -335,7 +410,7 @@ async function requestSection(section) {
       };
     })
     .filter((item) => item?.title && item?.url && domainIsAllowed(item.domain, config.allowedDomains))
-    .filter((item) => sectionRelevant(section, item.title))
+    .filter((item) => sectionRelevant(section, item.title, item.domain))
     .filter((item) => withinTimespan(item.seen, config.timespan))
     .filter((item) => {
       if (seen.has(item.url)) return false;
@@ -375,12 +450,20 @@ async function main() {
   const generatedAt = new Date().toISOString();
 
   for (const [section, items] of updates) {
+    const newSafetyIncidents = section === "safety" ? items.map(incidentFromItem) : [];
+    const priorSafetyIncidents = section === "safety" && Array.isArray(current.sections?.safety?.incidents)
+      ? current.sections.safety.incidents
+      : [];
+    const safetyHistory = [...newSafetyIncidents, ...priorSafetyIncidents]
+      .filter((item, index, records) => item?.source && records.findIndex((candidate) => candidate.source === item.source) === index)
+      .sort((a, b) => (b.reportDate || "").localeCompare(a.reportDate || ""));
+
     current.sections[section] = {
       generatedAt,
       cadence: section === "safety" ? "daily" : "every 6 hours",
       items,
       ...(section === "safety"
-        ? { incidents: items.map(incidentFromItem).filter((item) => !validatedSources.has(item.source)) }
+        ? { incidents: safetyHistory }
         : {}),
       ...(section === "conflicts" ? { reports: items.map(conflictReportFromItem) } : {}),
     };
@@ -389,7 +472,7 @@ async function main() {
   current.schemaVersion = 1;
   current.generatedAt = generatedAt;
   current.method =
-    "Automated discovery from GDELT, restricted to allowlisted public and official domains. Curated dashboard records require human validation.";
+    "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Safety reports are categorized automatically by source and signal type; casualty values remain unknown unless reported.";
 
   await mkdir(dirname(path), { recursive: true });
   await writeFile(path, `${JSON.stringify(current, null, 2)}\n`, "utf8");
