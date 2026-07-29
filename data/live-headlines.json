@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-29T21:04:11.491Z",
+  "generatedAt": "2026-07-29T21:06:22.843Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Safety reports are categorized automatically by source and signal type; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -31,7 +31,7 @@
       ]
     },
     "safety": {
-      "generatedAt": "2026-07-29T15:58:39.227Z",
+      "generatedAt": "2026-07-29T21:06:22.843Z",
       "cadence": "daily",
       "items": [
         {
@@ -65,6 +65,24 @@
       ],
       "incidents": [
         {
+          "id": "auto-bc0646601b1a",
+          "reportDate": "2026-07-27",
+          "dateBasis": "report discovery date",
+          "branch": "Air Force",
+          "department": "Department of the Air Force",
+          "type": "Aviation",
+          "event": "Second Test B-52 Being Modified with New Radar After June Crash",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JSHp2TUJGTUJmYlliYlduU2g3MmhqUE9JSmJLU25xcTU4Ti1zUHVyb3l4Y3c1empaTWYwRmpDNFVKWEhSZkc2QlRpZDg2dGNydk9leGFPYlJ1R0M5aWlGNVJnUWFlQlpLd0kweW5VYm9idW1nODFqbTY4QktHeXM?oc=5",
+          "sourceLabel": "airandspaceforces.com"
+        },
+        {
           "id": "auto-614d9b45d4af",
           "reportDate": "2026-07-21",
           "dateBasis": "report discovery date",
@@ -81,24 +99,6 @@
           "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
           "source": "https://www.militarytimes.com/news/your-military/2026/07/21/marine-corps-mv-22-osprey-suffers-engine-fire-during-air-force-training-exercise/",
           "sourceLabel": "militarytimes.com"
-        },
-        {
-          "id": "auto-8a083d981f71",
-          "reportDate": "2026-07-05",
-          "dateBasis": "report discovery date",
-          "branch": "Navy",
-          "department": "Department of the Navy",
-          "type": "Aviation",
-          "event": "Navy suspends search after MH-60S helicopter mishap; one Sailor missing",
-          "location": "See official source",
-          "fatalities": null,
-          "injuries": null,
-          "status": "OFFICIAL INTAKE",
-          "signalClass": "REPORTED MISHAP",
-          "sourceTier": "Official military source",
-          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
-          "source": "https://www.navy.mil/Press-Office/Statements/display-statement/Article/4533332/us-navy-suspended-active-search-for-a-sailor-assigned-to-helicopter-sea-combat/",
-          "sourceLabel": "navy.mil"
         },
         {
           "id": "auto-e657db459942",
@@ -119,22 +119,22 @@
           "sourceLabel": "apnews.com"
         },
         {
-          "id": "auto-bc0646601b1a",
-          "reportDate": "2026-07-27",
+          "id": "auto-8a083d981f71",
+          "reportDate": "2026-07-05",
           "dateBasis": "report discovery date",
-          "branch": "Air Force",
-          "department": "Department of the Air Force",
+          "branch": "Navy",
+          "department": "Department of the Navy",
           "type": "Aviation",
-          "event": "Second Test B-52 Being Modified with New Radar After June Crash",
+          "event": "Navy suspends search after MH-60S helicopter mishap; one Sailor missing",
           "location": "See official source",
           "fatalities": null,
           "injuries": null,
-          "status": "REPORTED / UNVALIDATED",
+          "status": "OFFICIAL INTAKE",
           "signalClass": "REPORTED MISHAP",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
-          "source": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JSHp2TUJGTUJmYlliYlduU2g3MmhqUE9JSmJLU25xcTU4Ti1zUHVyb3l4Y3c1empaTWYwRmpDNFVKWEhSZkc2QlRpZDg2dGNydk9leGFPYlJ1R0M5aWlGNVJnUWFlQlpLd0kweW5VYm9idW1nODFqbTY4QktHeXM?oc=5",
-          "sourceLabel": "airandspaceforces.com"
+          "sourceTier": "Official military source",
+          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
+          "source": "https://www.navy.mil/Press-Office/Statements/display-statement/Article/4533332/us-navy-suspended-active-search-for-a-sailor-assigned-to-helicopter-sea-combat/",
+          "sourceLabel": "navy.mil"
         }
       ]
     },
