@@ -2,8 +2,8 @@ name: Refresh safety reporting
 
 on:
   schedule:
-    - cron: "43 8 * * *"
-      timezone: "America/Los_Angeles"
+    # 15:43 UTC = 8:43 AM PDT / 7:43 AM PST.
+    - cron: "43 15 * * *"
   workflow_dispatch:
 
 permissions:
