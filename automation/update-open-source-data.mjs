@@ -98,6 +98,26 @@ const OFFICIAL_MILITARY_DOMAINS = [
   "uscg.mil",
 ];
 const ANALYTIC_DOMAINS = ["cfr.org", "crisisgroup.org", "reliefweb.int", "understandingwar.org"];
+const BASELINE_CONFLICT_SOURCES = [
+  {
+    title: "Global Conflict Tracker",
+    url: "https://www.cfr.org/global-conflict-tracker",
+    domain: "cfr.org",
+    sourceTier: "Structured / analytic",
+  },
+  {
+    title: "CrisisWatch global conflict tracker",
+    url: "https://www.crisisgroup.org/crisiswatch",
+    domain: "crisisgroup.org",
+    sourceTier: "Structured / analytic",
+  },
+  {
+    title: "United Nations Secretary-General highlights",
+    url: "https://www.un.org/sg/en/content/highlight",
+    domain: "un.org",
+    sourceTier: "Official / intergovernmental",
+  },
+];
 const REGIONAL_DOMAINS = [
   "al-monitor.com",
   "channelnewsasia.com",
@@ -269,6 +289,23 @@ function conflictReportFromItem(item) {
     confidenceLabel: confidenceLabel(item.sourceTier),
     reportedAt: reportTimestamp(item.seen),
   };
+}
+
+function mergeConflictReports(items, previousReports, generatedAt) {
+  const discovered = items.map(conflictReportFromItem);
+  const retainedAssessed = (Array.isArray(previousReports) ? previousReports : [])
+    .filter((report) => !String(report.confidenceLabel || "").includes("UNCONFIRMED"));
+  const baseline = BASELINE_CONFLICT_SOURCES.map((item) => ({
+    ...conflictReportFromItem({ ...item, seen: generatedAt.replaceAll("-", "").replaceAll(":", "").replace(".000", "") }),
+    reportedAt: generatedAt,
+  }));
+  const merged = [...discovered, ...retainedAssessed, ...baseline];
+  const seen = new Set();
+  return merged.filter((report) => {
+    if (!report?.url || seen.has(report.url)) return false;
+    seen.add(report.url);
+    return true;
+  });
 }
 
 function classifyService(item) {
@@ -458,6 +495,7 @@ async function main() {
       .filter((item, index, records) => item?.source && records.findIndex((candidate) => candidate.source === item.source) === index)
       .sort((a, b) => (b.reportDate || "").localeCompare(a.reportDate || ""));
 
+    const previousConflictReports = current.sections?.conflicts?.reports;
     current.sections[section] = {
       generatedAt,
       cadence: section === "safety" ? "daily" : "every 6 hours",
@@ -465,7 +503,7 @@ async function main() {
       ...(section === "safety"
         ? { incidents: safetyHistory }
         : {}),
-      ...(section === "conflicts" ? { reports: items.map(conflictReportFromItem) } : {}),
+      ...(section === "conflicts" ? { reports: mergeConflictReports(items, previousConflictReports, generatedAt) } : {}),
     };
   }
 
