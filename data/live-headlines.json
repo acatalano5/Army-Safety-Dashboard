@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-01T15:44:27.884Z",
+  "generatedAt": "2026-08-01T20:02:51.349Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Safety reports are categorized automatically by source and signal type; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -66,7 +66,7 @@
       ]
     },
     "safety": {
-      "generatedAt": "2026-07-31T20:50:24.702Z",
+      "generatedAt": "2026-08-01T20:02:51.349Z",
       "cadence": "daily",
       "items": [
         {
@@ -91,18 +91,25 @@
           "seen": "20260716T220900Z"
         },
         {
-          "title": "Second Test B-52 Being Modified with New Radar After June Crash",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JSHp2TUJGTUJmYlliYlduU2g3MmhqUE9JSmJLU25xcTU4Ti1zUHVyb3l4Y3c1empaTWYwRmpDNFVKWEhSZkc2QlRpZDg2dGNydk9leGFPYlJ1R0M5aWlGNVJnUWFlQlpLd0kweW5VYm9idW1nODFqbTY4QktHeXM?oc=5",
-          "domain": "airandspaceforces.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260727T181618Z"
-        },
-        {
-          "title": "Marine Corps says F-35B stealth fighter crashed in California, pilot ejected",
+          "title": "Marine Corps says F-35B stealth fighter crashed in California, pilot ejected safely",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS1JrclNxT3JPWkxwamV1Q1FDUHdwVGtZNHRSSUNxZXF2Yzk1YkotZXpWczliM1RDdWUwb2pUN2x2NlVfcXpiRExubklNU3NPNTdsei1TV3NnM0VNZi14Skx2ZXNTNkFOc3I3SER2SlJ6VC1oZWRrV3RTMFl3bm9Hbmp0akFBRWlPb242bXh3dkRWbVlfSHpEWQ?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "seen": "20260731T185442Z"
+        },
+        {
+          "title": "Marine F-35 involved in fiery mishap at Miramar base in California; pilot ejects safely",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQTY2THYtYXZSQXBMTlhtamlYSkRpSWlmNnFqd3JZWFIzd0lEaTlOTzNlRVRlUTZOdmcwYnNKN0NCUzFLZ1ZsRFduWW0xbWluTDcwZk5nSGVDMTJVTUdHbEFDWThrQy03c1RURmM4TFBZdzVfcHdTQUQwLUkwMEtldlhvTTg5XzJMUmFjamhIQmh5RnhMX1ZwY3FR?oc=5",
+          "domain": "stripes.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260731T230359Z"
+        },
+        {
+          "title": "Marine Corps F-35B crashes on runway of California base, pilot safe",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5kSHlCVzNRd21ldGlFVHZWcXZWbGRhTThvazFkOEMtb2dQQ0FaOXRVRFdNS0Z1VGl3cDYtRXBnOHdJbGhQaWFTTFhzam1YQjMxVEhReU1VNkxpeVNCclF1MTlBTVkzZ0w1eDJFbGZiZnRmeVk?oc=5",
+          "domain": "taskandpurpose.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260731T182626Z"
         },
         {
           "title": "BREAKING: F-35B Crashes Near Marine Corps Air Station Miramar",
@@ -110,6 +117,13 @@
           "domain": "news.usni.org",
           "sourceTier": "Independent reporting",
           "seen": "20260731T184800Z"
+        },
+        {
+          "title": "After being denied wrongful death claim, family files lawsuit alleging failures to prevent suicide, sexual assault at Air Force Academy",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRWNEbEFkcnJjempoQmlMczdGQWZhT0gxZFRWNXVVYmVxVkVsM3Zyek5ZYmNsazNUTTZYSVZVWlJNVHBHZzk2LTJpdXZFRnZWQXFzX09ra2Z5Q1ZQWms4NHR4Zm9IU09YWENQcHNOdzRGa3RMd0RKR2hVcERvbU16amFsczlFUTNTQWtETnFzNklzZXZ5eV8yb2FhOUxEVkJTZmhRMkxzaExTQQ?oc=5",
+          "domain": "stripes.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260731T204702Z"
         }
       ],
       "incidents": [
@@ -120,7 +134,7 @@
           "branch": "Marine Corps",
           "department": "Department of the Navy",
           "type": "Aviation",
-          "event": "Marine Corps says F-35B stealth fighter crashed in California, pilot ejected",
+          "event": "Marine Corps says F-35B stealth fighter crashed in California, pilot ejected safely",
           "location": "See official source",
           "fatalities": null,
           "injuries": null,
@@ -130,6 +144,42 @@
           "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
           "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS1JrclNxT3JPWkxwamV1Q1FDUHdwVGtZNHRSSUNxZXF2Yzk1YkotZXpWczliM1RDdWUwb2pUN2x2NlVfcXpiRExubklNU3NPNTdsei1TV3NnM0VNZi14Skx2ZXNTNkFOc3I3SER2SlJ6VC1oZWRrV3RTMFl3bm9Hbmp0akFBRWlPb242bXh3dkRWbVlfSHpEWQ?oc=5",
           "sourceLabel": "apnews.com"
+        },
+        {
+          "id": "auto-bb2cc9c97202",
+          "reportDate": "2026-07-31",
+          "dateBasis": "report discovery date",
+          "branch": "Marine Corps",
+          "department": "Department of the Navy",
+          "type": "Aviation",
+          "event": "Marine F-35 involved in fiery mishap at Miramar base in California; pilot ejects safely",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQTY2THYtYXZSQXBMTlhtamlYSkRpSWlmNnFqd3JZWFIzd0lEaTlOTzNlRVRlUTZOdmcwYnNKN0NCUzFLZ1ZsRFduWW0xbWluTDcwZk5nSGVDMTJVTUdHbEFDWThrQy03c1RURmM4TFBZdzVfcHdTQUQwLUkwMEtldlhvTTg5XzJMUmFjamhIQmh5RnhMX1ZwY3FR?oc=5",
+          "sourceLabel": "stripes.com"
+        },
+        {
+          "id": "auto-457c40df0a02",
+          "reportDate": "2026-07-31",
+          "dateBasis": "report discovery date",
+          "branch": "Marine Corps",
+          "department": "Department of the Navy",
+          "type": "Aviation",
+          "event": "Marine Corps F-35B crashes on runway of California base, pilot safe",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5kSHlCVzNRd21ldGlFVHZWcXZWbGRhTThvazFkOEMtb2dQQ0FaOXRVRFdNS0Z1VGl3cDYtRXBnOHdJbGhQaWFTTFhzam1YQjMxVEhReU1VNkxpeVNCclF1MTlBTVkzZ0w1eDJFbGZiZnRmeVk?oc=5",
+          "sourceLabel": "taskandpurpose.com"
         },
         {
           "id": "auto-9fa0ce5a3faf",
@@ -148,6 +198,24 @@
           "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
           "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQlgyNjZWZHNwYi11LWFaMENYZFAwRFVFaHhLQWxHNHlGMEtHc2RKV3JaVXhreUh4MEJLZzhMRjZ0MzhDWlVZdmhTRmNpVEdHRTRGQ285UUNZQk41eDVneFBJUkdUdV9NOHBkT29Cb2VWTUM0TElnaGV6UFRrR20xYWc5NGxsSkdiRUpDV2pYbk9wUTVvSVpCMg?oc=5",
           "sourceLabel": "news.usni.org"
+        },
+        {
+          "id": "auto-1cd019e42adc",
+          "reportDate": "2026-07-31",
+          "dateBasis": "report discovery date",
+          "branch": "Air Force",
+          "department": "Department of the Air Force",
+          "type": "Other",
+          "event": "After being denied wrongful death claim, family files lawsuit alleging failures to prevent suicide, sexual assault at Air Force Academy",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRWNEbEFkcnJjempoQmlMczdGQWZhT0gxZFRWNXVVYmVxVkVsM3Zyek5ZYmNsazNUTTZYSVZVWlJNVHBHZzk2LTJpdXZFRnZWQXFzX09ra2Z5Q1ZQWms4NHR4Zm9IU09YWENQcHNOdzRGa3RMd0RKR2hVcERvbU16amFsczlFUTNTQWtETnFzNklzZXZ5eV8yb2FhOUxEVkJTZmhRMkxzaExTQQ?oc=5",
+          "sourceLabel": "stripes.com"
         },
         {
           "id": "auto-bc0646601b1a",
