@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-02T15:49:33.783Z",
+  "generatedAt": "2026-08-02T20:02:32.912Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Safety reports are categorized automatically by source and signal type; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -52,7 +52,7 @@
       ]
     },
     "safety": {
-      "generatedAt": "2026-08-01T20:02:51.349Z",
+      "generatedAt": "2026-08-02T20:02:32.912Z",
       "cadence": "daily",
       "items": [
         {
@@ -77,13 +77,6 @@
           "seen": "20260716T220900Z"
         },
         {
-          "title": "Marine Corps says F-35B stealth fighter crashed in California, pilot ejected safely",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS1JrclNxT3JPWkxwamV1Q1FDUHdwVGtZNHRSSUNxZXF2Yzk1YkotZXpWczliM1RDdWUwb2pUN2x2NlVfcXpiRExubklNU3NPNTdsei1TV3NnM0VNZi14Skx2ZXNTNkFOc3I3SER2SlJ6VC1oZWRrV3RTMFl3bm9Hbmp0akFBRWlPb242bXh3dkRWbVlfSHpEWQ?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260731T185442Z"
-        },
-        {
           "title": "Marine F-35 involved in fiery mishap at Miramar base in California; pilot ejects safely",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQTY2THYtYXZSQXBMTlhtamlYSkRpSWlmNnFqd3JZWFIzd0lEaTlOTzNlRVRlUTZOdmcwYnNKN0NCUzFLZ1ZsRFduWW0xbWluTDcwZk5nSGVDMTJVTUdHbEFDWThrQy03c1RURmM4TFBZdzVfcHdTQUQwLUkwMEtldlhvTTg5XzJMUmFjamhIQmh5RnhMX1ZwY3FR?oc=5",
           "domain": "stripes.com",
@@ -103,34 +96,9 @@
           "domain": "news.usni.org",
           "sourceTier": "Independent reporting",
           "seen": "20260731T184800Z"
-        },
-        {
-          "title": "After being denied wrongful death claim, family files lawsuit alleging failures to prevent suicide, sexual assault at Air Force Academy",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRWNEbEFkcnJjempoQmlMczdGQWZhT0gxZFRWNXVVYmVxVkVsM3Zyek5ZYmNsazNUTTZYSVZVWlJNVHBHZzk2LTJpdXZFRnZWQXFzX09ra2Z5Q1ZQWms4NHR4Zm9IU09YWENQcHNOdzRGa3RMd0RKR2hVcERvbU16amFsczlFUTNTQWtETnFzNklzZXZ5eV8yb2FhOUxEVkJTZmhRMkxzaExTQQ?oc=5",
-          "domain": "stripes.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260731T204702Z"
         }
       ],
       "incidents": [
-        {
-          "id": "auto-fd27c30e72a1",
-          "reportDate": "2026-07-31",
-          "dateBasis": "report discovery date",
-          "branch": "Marine Corps",
-          "department": "Department of the Navy",
-          "type": "Aviation",
-          "event": "Marine Corps says F-35B stealth fighter crashed in California, pilot ejected safely",
-          "location": "See official source",
-          "fatalities": null,
-          "injuries": null,
-          "status": "REPORTED / UNVALIDATED",
-          "signalClass": "REPORTED MISHAP",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
-          "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS1JrclNxT3JPWkxwamV1Q1FDUHdwVGtZNHRSSUNxZXF2Yzk1YkotZXpWczliM1RDdWUwb2pUN2x2NlVfcXpiRExubklNU3NPNTdsei1TV3NnM0VNZi14Skx2ZXNTNkFOc3I3SER2SlJ6VC1oZWRrV3RTMFl3bm9Hbmp0akFBRWlPb242bXh3dkRWbVlfSHpEWQ?oc=5",
-          "sourceLabel": "apnews.com"
-        },
         {
           "id": "auto-bb2cc9c97202",
           "reportDate": "2026-07-31",
@@ -184,6 +152,24 @@
           "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
           "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQlgyNjZWZHNwYi11LWFaMENYZFAwRFVFaHhLQWxHNHlGMEtHc2RKV3JaVXhreUh4MEJLZzhMRjZ0MzhDWlVZdmhTRmNpVEdHRTRGQ285UUNZQk41eDVneFBJUkdUdV9NOHBkT29Cb2VWTUM0TElnaGV6UFRrR20xYWc5NGxsSkdiRUpDV2pYbk9wUTVvSVpCMg?oc=5",
           "sourceLabel": "news.usni.org"
+        },
+        {
+          "id": "auto-fd27c30e72a1",
+          "reportDate": "2026-07-31",
+          "dateBasis": "report discovery date",
+          "branch": "Marine Corps",
+          "department": "Department of the Navy",
+          "type": "Aviation",
+          "event": "Marine Corps says F-35B stealth fighter crashed in California, pilot ejected safely",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS1JrclNxT3JPWkxwamV1Q1FDUHdwVGtZNHRSSUNxZXF2Yzk1YkotZXpWczliM1RDdWUwb2pUN2x2NlVfcXpiRExubklNU3NPNTdsei1TV3NnM0VNZi14Skx2ZXNTNkFOc3I3SER2SlJ6VC1oZWRrV3RTMFl3bm9Hbmp0akFBRWlPb242bXh3dkRWbVlfSHpEWQ?oc=5",
+          "sourceLabel": "apnews.com"
         },
         {
           "id": "auto-1cd019e42adc",
