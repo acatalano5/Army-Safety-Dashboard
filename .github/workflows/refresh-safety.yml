@@ -4,6 +4,8 @@ on:
   schedule:
     # 15:43 UTC = 8:43 AM PDT / 7:43 AM PST.
     - cron: "43 15 * * *"
+    # Weekly five-year historical backfill, Sunday morning Pacific time.
+    - cron: "13 16 * * 0"
   workflow_dispatch:
 
 permissions:
@@ -28,6 +30,12 @@ jobs:
           package-manager-cache: false
 
       - name: Refresh safety reporting
+        run: node automation/update-open-source-data.mjs --sections=safety
+
+      - name: Backfill five years of public safety reporting
+        if: github.event.schedule == '13 16 * * 0'
+        env:
+          SAFETY_TIMESPAN: "1825d"
         run: node automation/update-open-source-data.mjs --sections=safety
 
       - name: Publish refreshed data
