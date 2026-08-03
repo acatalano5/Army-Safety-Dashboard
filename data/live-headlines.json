@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-03T14:18:12.771Z",
-  "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety reports are categorized automatically by source and signal type; casualty values remain unknown unless reported.",
+  "generatedAt": "2026-08-03T14:26:44.679Z",
+  "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
       "generatedAt": "2026-08-03T14:18:12.771Z",
@@ -9,53 +9,109 @@
       "items": []
     },
     "safety": {
-      "generatedAt": "2026-08-02T20:02:32.912Z",
+      "generatedAt": "2026-08-03T14:26:44.679Z",
       "cadence": "daily",
       "items": [
+        {
+          "title": "Midair Collision PSA Airlines Flight 5342 and US Army UH-60L near DCA",
+          "url": "https://www.ntsb.gov/investigations/pages/DCA25MA108.aspx",
+          "domain": "ntsb.gov",
+          "sourceTier": "Official / intergovernmental",
+          "seen": "20250129T204800Z",
+          "pinned": true
+        },
         {
           "title": "Marine Corps MV-22 Osprey suffers engine fire during Air Force training exercise",
           "url": "https://www.militarytimes.com/news/your-military/2026/07/21/marine-corps-mv-22-osprey-suffers-engine-fire-during-air-force-training-exercise/",
           "domain": "militarytimes.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260721T174800Z"
+          "seen": "20260721T174800Z",
+          "pinned": false
         },
         {
           "title": "Navy suspends search after MH-60S helicopter mishap; one Sailor missing",
           "url": "https://www.navy.mil/Press-Office/Statements/display-statement/Article/4533332/us-navy-suspended-active-search-for-a-sailor-assigned-to-helicopter-sea-combat/",
           "domain": "navy.mil",
           "sourceTier": "Official military source",
-          "seen": "20260705T150000Z"
+          "seen": "20260705T150000Z",
+          "pinned": false
         },
         {
           "title": "Navy conducts safety review after Blue Angels low-altitude flyover",
           "url": "https://apnews.com/article/hegseth-blue-angels-military-flyovers-safety-c2601ce50f433996c919464f1de7985c",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260716T220900Z"
+          "seen": "20260716T220900Z",
+          "pinned": false
+        },
+        {
+          "title": "Marine Corps says F-35B stealth fighter crashed in California, pilot ejected safely",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS1JrclNxT3JPWkxwamV1Q1FDUHdwVGtZNHRSSUNxZXF2Yzk1YkotZXpWczliM1RDdWUwb2pUN2x2NlVfcXpiRExubklNU3NPNTdsei1TV3NnM0VNZi14Skx2ZXNTNkFOc3I3SER2SlJ6VC1oZWRrV3RTMFl3bm9Hbmp0akFBRWlPb242bXh3dkRWbVlfSHpEWQ?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260731T185442Z",
+          "pinned": false
         },
         {
           "title": "Marine F-35 involved in fiery mishap at Miramar base in California; pilot ejects safely",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQTY2THYtYXZSQXBMTlhtamlYSkRpSWlmNnFqd3JZWFIzd0lEaTlOTzNlRVRlUTZOdmcwYnNKN0NCUzFLZ1ZsRFduWW0xbWluTDcwZk5nSGVDMTJVTUdHbEFDWThrQy03c1RURmM4TFBZdzVfcHdTQUQwLUkwMEtldlhvTTg5XzJMUmFjamhIQmh5RnhMX1ZwY3FR?oc=5",
           "domain": "stripes.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260731T230359Z"
+          "seen": "20260731T230359Z",
+          "pinned": false
         },
         {
           "title": "Marine Corps F-35B crashes on runway of California base, pilot safe",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5kSHlCVzNRd21ldGlFVHZWcXZWbGRhTThvazFkOEMtb2dQQ0FaOXRVRFdNS0Z1VGl3cDYtRXBnOHdJbGhQaWFTTFhzam1YQjMxVEhReU1VNkxpeVNCclF1MTlBTVkzZ0w1eDJFbGZiZnRmeVk?oc=5",
           "domain": "taskandpurpose.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260731T182626Z"
+          "seen": "20260731T182626Z",
+          "pinned": false
         },
         {
-          "title": "BREAKING: F-35B Crashes Near Marine Corps Air Station Miramar",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQlgyNjZWZHNwYi11LWFaMENYZFAwRFVFaHhLQWxHNHlGMEtHc2RKV3JaVXhreUh4MEJLZzhMRjZ0MzhDWlVZdmhTRmNpVEdHRTRGQ285UUNZQk41eDVneFBJUkdUdV9NOHBkT29Cb2VWTUM0TElnaGV6UFRrR20xYWc5NGxsSkdiRUpDV2pYbk9wUTVvSVpCMg?oc=5",
-          "domain": "news.usni.org",
-          "sourceTier": "Independent reporting",
-          "seen": "20260731T184800Z"
+          "title": "PLR 26-051 – Motorcycle Mishap Claims One Soldier's Life",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaVpiYzFyRVhaWHZuV2VuVzVoM050d0FnTzR1QVZlQnZkVE14WWpvQXZjY3BXMDF3SW1URFc0VC1DS1pHeWdXeDU3T2hHN1NuZjI0dXp4b1Z3STJlMEw4RFEtb05KeWxQWnpoV3JCYmR3U0dPVFJfQ0ZGTmdrX2ZtN2ZrdzdyTmRhZ1BGZ0JpX2NMTFYyNzhlUVV0dk9OczVQVlhjeUlYSFNUM1ZOSVUzWkpjQ2NKM2p1bUJNSWNWR0p6emt6VnhEYTJobHluaWlW?oc=5",
+          "domain": "safety.army.mil",
+          "sourceTier": "Official military source",
+          "seen": "20260720T070000Z",
+          "pinned": false
+        },
+        {
+          "title": "PLR 26-053 – Automobile Mishap Claims One Soldier's Life",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQLTF4dFVXQUVUR01mU0dsWUVZcVZmRXJHQXpFUTU2NTF4RDNOdGZwYTg5WklVNXZ4T1Z4ZjJUT1lYYXZfcm1sMXgxVTNKZGFLNHZTdUczVHlrWUM0UHk0Y0tKcURRVjJIalAtTTBfNW5KTjRURHdyRjhSM0lYelNGYndiRHNMVVFOVkh4bk9Vc2lpUncwUUpIT2duNmRCWUxpTUZOQ3NKQ3BkSE8yVnVwVlhRdENVS2lxUk5xOS04eHQzdkIweTMxM0JybHlhSTYt?oc=5",
+          "domain": "safety.army.mil",
+          "sourceTier": "Official military source",
+          "seen": "20260730T212627Z",
+          "pinned": false
+        },
+        {
+          "title": "PLR 26-050 – Automobile Mishap Claims One Soldier's Life",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZjJhVmhtaUpjaXRLQkhJaVdCTkRGVTBGbzhxdzBrYzByc2s5NTdhUkE0Ny04bUR2ZE40a19sRFhsQ0o4X3FJU3JjajAyUHc0UVZjek5mNGZDMWpyamF2Nm56YlV2SHFaTjB6dW42Z3FSSFBhY0hIdS0yQ3phQ3lVajJjbXBjb3VTa3ducllWNHcyYkdsQ1QyeWNlS1o5YWRlbFlnN1NEQlJlQkx0WmdKbllJY2RiSTdqUGZiQVZLV081MmtnbGs3bW1RbFJxQmpN?oc=5",
+          "domain": "safety.army.mil",
+          "sourceTier": "Official military source",
+          "seen": "20260714T220748Z",
+          "pinned": false
         }
       ],
       "incidents": [
+        {
+          "id": "auto-fd27c30e72a1",
+          "reportDate": "2026-07-31",
+          "dateBasis": "report discovery date",
+          "branch": "Marine Corps",
+          "department": "Department of the Navy",
+          "type": "Aviation",
+          "event": "Marine Corps says F-35B stealth fighter crashed in California, pilot ejected safely",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS1JrclNxT3JPWkxwamV1Q1FDUHdwVGtZNHRSSUNxZXF2Yzk1YkotZXpWczliM1RDdWUwb2pUN2x2NlVfcXpiRExubklNU3NPNTdsei1TV3NnM0VNZi14Skx2ZXNTNkFOc3I3SER2SlJ6VC1oZWRrV3RTMFl3bm9Hbmp0akFBRWlPb242bXh3dkRWbVlfSHpEWQ?oc=5",
+          "sourceLabel": "apnews.com"
+        },
         {
           "id": "auto-bb2cc9c97202",
           "reportDate": "2026-07-31",
@@ -111,24 +167,6 @@
           "sourceLabel": "news.usni.org"
         },
         {
-          "id": "auto-fd27c30e72a1",
-          "reportDate": "2026-07-31",
-          "dateBasis": "report discovery date",
-          "branch": "Marine Corps",
-          "department": "Department of the Navy",
-          "type": "Aviation",
-          "event": "Marine Corps says F-35B stealth fighter crashed in California, pilot ejected safely",
-          "location": "See official source",
-          "fatalities": null,
-          "injuries": null,
-          "status": "REPORTED / UNVALIDATED",
-          "signalClass": "REPORTED MISHAP",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
-          "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS1JrclNxT3JPWkxwamV1Q1FDUHdwVGtZNHRSSUNxZXF2Yzk1YkotZXpWczliM1RDdWUwb2pUN2x2NlVfcXpiRExubklNU3NPNTdsei1TV3NnM0VNZi14Skx2ZXNTNkFOc3I3SER2SlJ6VC1oZWRrV3RTMFl3bm9Hbmp0akFBRWlPb242bXh3dkRWbVlfSHpEWQ?oc=5",
-          "sourceLabel": "apnews.com"
-        },
-        {
           "id": "auto-1cd019e42adc",
           "reportDate": "2026-07-31",
           "dateBasis": "report discovery date",
@@ -145,6 +183,24 @@
           "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
           "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRWNEbEFkcnJjempoQmlMczdGQWZhT0gxZFRWNXVVYmVxVkVsM3Zyek5ZYmNsazNUTTZYSVZVWlJNVHBHZzk2LTJpdXZFRnZWQXFzX09ra2Z5Q1ZQWms4NHR4Zm9IU09YWENQcHNOdzRGa3RMd0RKR2hVcERvbU16amFsczlFUTNTQWtETnFzNklzZXZ5eV8yb2FhOUxEVkJTZmhRMkxzaExTQQ?oc=5",
           "sourceLabel": "stripes.com"
+        },
+        {
+          "id": "auto-1e5d03f08dc4",
+          "reportDate": "2026-07-30",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Other",
+          "event": "PLR 26-053 – Automobile Mishap Claims One Soldier's Life",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "OFFICIAL INTAKE",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Official military source",
+          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
+          "source": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQLTF4dFVXQUVUR01mU0dsWUVZcVZmRXJHQXpFUTU2NTF4RDNOdGZwYTg5WklVNXZ4T1Z4ZjJUT1lYYXZfcm1sMXgxVTNKZGFLNHZTdUczVHlrWUM0UHk0Y0tKcURRVjJIalAtTTBfNW5KTjRURHdyRjhSM0lYelNGYndiRHNMVVFOVkh4bk9Vc2lpUncwUUpIT2duNmRCWUxpTUZOQ3NKQ3BkSE8yVnVwVlhRdENVS2lxUk5xOS04eHQzdkIweTMxM0JybHlhSTYt?oc=5",
+          "sourceLabel": "safety.army.mil"
         },
         {
           "id": "auto-bc0646601b1a",
@@ -183,6 +239,24 @@
           "sourceLabel": "militarytimes.com"
         },
         {
+          "id": "auto-fdd0f22b80db",
+          "reportDate": "2026-07-20",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Other",
+          "event": "PLR 26-051 – Motorcycle Mishap Claims One Soldier's Life",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "OFFICIAL INTAKE",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Official military source",
+          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
+          "source": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaVpiYzFyRVhaWHZuV2VuVzVoM050d0FnTzR1QVZlQnZkVE14WWpvQXZjY3BXMDF3SW1URFc0VC1DS1pHeWdXeDU3T2hHN1NuZjI0dXp4b1Z3STJlMEw4RFEtb05KeWxQWnpoV3JCYmR3U0dPVFJfQ0ZGTmdrX2ZtN2ZrdzdyTmRhZ1BGZ0JpX2NMTFYyNzhlUVV0dk9OczVQVlhjeUlYSFNUM1ZOSVUzWkpjQ2NKM2p1bUJNSWNWR0p6emt6VnhEYTJobHluaWlW?oc=5",
+          "sourceLabel": "safety.army.mil"
+        },
+        {
           "id": "auto-e657db459942",
           "reportDate": "2026-07-16",
           "dateBasis": "report discovery date",
@@ -201,6 +275,24 @@
           "sourceLabel": "apnews.com"
         },
         {
+          "id": "auto-41e9681d6bf3",
+          "reportDate": "2026-07-14",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Other",
+          "event": "PLR 26-050 – Automobile Mishap Claims One Soldier's Life",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "OFFICIAL INTAKE",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Official military source",
+          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
+          "source": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZjJhVmhtaUpjaXRLQkhJaVdCTkRGVTBGbzhxdzBrYzByc2s5NTdhUkE0Ny04bUR2ZE40a19sRFhsQ0o4X3FJU3JjajAyUHc0UVZjek5mNGZDMWpyamF2Nm56YlV2SHFaTjB6dW42Z3FSSFBhY0hIdS0yQ3phQ3lVajJjbXBjb3VTa3ducllWNHcyYkdsQ1QyeWNlS1o5YWRlbFlnN1NEQlJlQkx0WmdKbllJY2RiSTdqUGZiQVZLV081MmtnbGs3bW1RbFJxQmpN?oc=5",
+          "sourceLabel": "safety.army.mil"
+        },
+        {
           "id": "auto-8a083d981f71",
           "reportDate": "2026-07-05",
           "dateBasis": "report discovery date",
@@ -217,6 +309,24 @@
           "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
           "source": "https://www.navy.mil/Press-Office/Statements/display-statement/Article/4533332/us-navy-suspended-active-search-for-a-sailor-assigned-to-helicopter-sea-combat/",
           "sourceLabel": "navy.mil"
+        },
+        {
+          "id": "auto-686befb6bacb",
+          "reportDate": "2025-01-29",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Aviation",
+          "event": "Midair Collision PSA Airlines Flight 5342 and US Army UH-60L near DCA",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "OFFICIAL INTAKE",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Official / intergovernmental",
+          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
+          "source": "https://www.ntsb.gov/investigations/pages/DCA25MA108.aspx",
+          "sourceLabel": "ntsb.gov"
         }
       ]
     },
