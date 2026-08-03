@@ -5,8 +5,8 @@ import { createHash } from "node:crypto";
 
 const SECTION_CONFIG = {
   exercises: {
-    query: '("military exercise" OR "joint exercise" OR "training exercise")',
-    timespan: "3d",
+    query: '("military exercise" OR "joint exercise" OR "training exercise" OR "National Guard training" OR "Army Reserve training" OR "Air Force Reserve training" OR "Navy Reserve training" OR "Marine Forces Reserve training" OR "Coast Guard Reserve training")',
+    timespan: "7d",
     allowedDomains: [
       "af.mil",
       "army.mil",
@@ -14,6 +14,7 @@ const SECTION_CONFIG = {
       "defense.gov",
       "dvidshub.net",
       "marines.mil",
+      "nationalguard.mil",
       "navy.mil",
       "spaceforce.mil",
       "uscg.mil",
@@ -184,6 +185,15 @@ function sourceTier(domain) {
   if (domainIsAllowed(domain, REGIONAL_DOMAINS)) return "Regional reporting";
   if (domainIsAllowed(domain, OSINT_DOMAINS)) return "OSINT aggregator";
   return "Independent reporting";
+}
+
+function classifyExerciseComponents(title = "") {
+  const text = title.toLowerCase();
+  const components = [];
+  if (/\b(national guard|army guard|air guard|ang)\b/.test(text)) components.push("National Guard");
+  if (/\b(army reserve|air force reserve|navy reserve|marine forces reserve|marine reserve|coast guard reserve|reserve command|reservists?)\b/.test(text)) components.push("Reserve");
+  if (/\b(active[- ]duty|active component|regular army)\b/.test(text)) components.push("Active");
+  return components.length ? components : ["Component not specified"];
 }
 
 function confidenceLabel(tier) {
@@ -408,7 +418,7 @@ async function requestSection(section) {
     }));
   } catch (gdeltError) {
     console.warn(`${gdeltError.message}; trying Google News RSS fallback`);
-    const domainGroups = section === "safety"
+    const domainGroups = section !== "conflicts"
       ? Array.from({ length: Math.ceil(config.allowedDomains.length / 5) }, (_, index) => config.allowedDomains.slice(index * 5, index * 5 + 5))
       : [config.allowedDomains];
     rawItems = [];
@@ -444,6 +454,7 @@ async function requestSection(section) {
         domain,
         sourceTier: sourceTier(domain),
         seen: article.seendate || article.seen || "",
+        ...(section === "exercises" ? { components: classifyExerciseComponents(article.title) } : {}),
       };
     })
     .filter((item) => item?.title && item?.url && domainIsAllowed(item.domain, config.allowedDomains))
@@ -454,7 +465,7 @@ async function requestSection(section) {
       seen.add(item.url);
       return true;
     })
-    .slice(0, section === "safety" ? 20 : section === "conflicts" ? 24 : 8);
+    .slice(0, section === "safety" ? 20 : section === "conflicts" ? 24 : 24);
 
   return items;
 }
@@ -510,7 +521,7 @@ async function main() {
   current.schemaVersion = 1;
   current.generatedAt = generatedAt;
   current.method =
-    "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Safety reports are categorized automatically by source and signal type; casualty values remain unknown unless reported.";
+    "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety reports are categorized automatically by source and signal type; casualty values remain unknown unless reported.";
 
   await mkdir(dirname(path), { recursive: true });
   await writeFile(path, `${JSON.stringify(current, null, 2)}\n`, "utf8");
