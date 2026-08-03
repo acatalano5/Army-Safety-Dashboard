@@ -1,20 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-03T12:43:39.270Z",
-  "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Safety reports are categorized automatically by source and signal type; casualty values remain unknown unless reported.",
+  "generatedAt": "2026-08-03T14:18:12.771Z",
+  "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety reports are categorized automatically by source and signal type; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-08-03T12:43:39.270Z",
+      "generatedAt": "2026-08-03T14:18:12.771Z",
       "cadence": "every 6 hours",
-      "items": [
-        {
-          "title": "Video - USASMDC 2026 Situational Training Exercise",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeFJ4WGxxb3dwWl96d2dhWGx1UTRSVlhCRFNlMjhtVFc5bHltTTFRLXdIbS1IRnJqdWttMXE0LURBWGR4NGFaTy01X3E3WE01d0JJdXNpVTF3YzcxUWdUNHk2b2JUSEZWUGJ0R0YtR3JKYTlXeV95amJCUGJEVGtXb0tpWWlseV84?oc=5",
-          "domain": "dvidshub.net",
-          "sourceTier": "Official military source",
-          "seen": "20260801T003700Z"
-        }
-      ]
+      "items": []
     },
     "safety": {
       "generatedAt": "2026-08-02T20:02:32.912Z",
@@ -229,7 +221,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-08-03T12:43:39.270Z",
+      "generatedAt": "2026-08-03T14:18:12.771Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -255,7 +247,7 @@
         },
         {
           "title": "US Escalation with Iran is ‘pointless’, warns former US diplomat",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX0t0MFlXRkZWenJ5a245ZHZSOUhMNkZVZlN3RHdqRGV0RmlXNEtGWDEwalFlaVJpelkzMTNnREZrR1NtRHZwbmxHYjUyOC1WS0hmNE5kT1FjQW4zdGd4UDE0NWZwSnB6ZmJ1bWZQVFRpbkhRZVB6WGY0TlpOSjlKb3hqaXRGVzFyeFFlNXlGV1RvVjZFMUVwQ1p6UE1ESnhCTEpEZk1mejJHbkZWVi1neG5R0gG3AUFVX3lxTE9NalV1VUdKNG44MTM2b3JVRlFGYS14VUZtdDYyZ0FxNDBaX0hSd3ZYVlRLLUdfeFJUOF93Zzd0bVhDT29iMEwyNkQ2dGl2QXFaODZSMXZwZTVjUTQ2MlJDNHpYQ2NuV2dDVDRralRtQlhGdHZVaUpDMzZlWXVXclg5d0Q1VzROaUJiRzBXbXd1Ql8zY3R2ZUtfQXNTZkZEOHhrMnJJYXBHYWl0eHBYaHY1MTNSTlJLcw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX0t0MFlXRkZWenJ5a245ZHZSOUhMNkZVZlN3RHdqRGV0RmlXNEtGWDEwalFlaVJpelkzMTNnREZrR1NtRHZwbmxHYjUyOC1WS0hmNE5kT1FjQW4zdGd4UDE0NWZwSnB6ZmJ1bWZQVFRpbkhRZVB6WGY0TlpOSjlKb3hqaXRGVzFyeFFlNXlGV1RvVjZFMUVwQ1p6UE1ESnhCTEpEZk1mejJHbkZWVi1neG5R?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260731T002733Z"
@@ -273,6 +265,13 @@
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "seen": "20260803T020300Z"
+        },
+        {
+          "title": "Who will shape post-war Iran?",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9TM0VXZ0thZmxVMmRZTXJuV1RpT25zMjZxWXkxYVdZUjZXMGlpRUhsS21XdF9nUHlBZ3haSVRtaG9sV3lnY3V2SktuSDF3Y1oyaE5vNDAxeDYtLWpod1g5MHdyRGdGZ01WRUg2NDVjWXhyQmtNelR4OEw5MHDSAYIBQVVfeXFMTUdIRE9EeDkxaGZicm9TYzhxQmtra2FMcmdieExEcHBaME1SWjY4VEhiOW1WRzU3czZHcnQ4eFcxQ3Q5ZWUwdUpwRjhRT0VpWVN2OVpnaloxYkhNM19raHVSNTZneTlueHB4eUYwV3JTakpxdVkwQXFsejRNTjZLdUtVZw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260803T121535Z"
         },
         {
           "title": "Why has Trump halted Iran attacks, and what is the deal he is hinting at?",
@@ -352,6 +351,13 @@
           "seen": "20260802T025800Z"
         },
         {
+          "title": "Ukraine strikes Russia’s biggest retailer again",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONE5uYzFTUkN1Rk4ybk83UVo0eXlFeXpZMTN4UWNGT0xkRnJGWk1ldGU1UTJVc2w1czJBLU40cWNUekxFYlkzOTExUnBrRUtfcThFMDNER0tTd3lKTUFYcXZpd1RoYXFNZzRMb3VGQVFsODVVWTljVk5oenZ1dHU4TkJoNElSODVBSFlTdnR0eTRONTMyLXl4X1h30gGfAUFVX3lxTFBfdkRCRnQwQ2ViTGRLbDFKRjluOWE3bW0tVVYzYloweW0xLWVLVzR3MW5FQmI1OElFUGkzU1RGTXRwMW5KYXRUM0pkcS1LLU4tTzRnLVhya3FsV0VhOUJyNDQzV1dMSDdfc01EdmNyX3lkWTBlWUI1anVBVVExaUh5YnRyQUVBaUNMeFREdFl0dy15a0FaY19oMHVCNzg3bw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260803T111905Z"
+        },
+        {
           "title": "Poland protests to Russian ambassador over missile incursion",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNd2tTRXJsMnk0M2F4c2lvWHZ0MkgzajNyQ1o2dm1zSjFxbWstbC0yam9ZdEViV0VmazBSYnNMbnBKaFpHbm9TOXgxNUhUVlZJak5DU1BRM2xqSlNaTDhsNXk4UFQwLWdYTHM3MW0wdXdsX1gtZHZweU1XWTdDa0VaQTR5NmUwQ0o2NklVS1ZmMWtyUjE2blN3Y21vakJISEtfNWhN0gGoAUFVX3lxTE8wWkViemdwcEVLUDdWbHhrOVNFVHNLdW9KSjE2azdKUWl6R05rM0h1cHFZNVBIMmlWVXRrNUhXMWxBeWhzZnltU0xuR2lndFVndzlvY3NjWGV6endsaGVuWVVLMmhKTzhjc1dDYlZ6R0N4R3dfLXNQaWFoVWkwY19pa0pub3JWVTJ5RzRkdWdQcVY0TWYxZHNEZTlYTnF6VU0tbjVzdFNxLQ?oc=5",
           "domain": "aljazeera.com",
@@ -385,20 +391,6 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260801T174845Z"
-        },
-        {
-          "title": "Tanks, troops and space",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVkVJVjh6REdLNU5hSHFpbHM2UGNEcktpdHRGQloyRDRYcDFMN1Y3Y3ltcTRPYWRqdWdJLXRCSTZwTVFFbEdObEw0cDFqS0lBMkctalB4VnFlR1A4SXBDVlRNdnJTNjItMXhkM3JzVDNkcTV0YlpVUEo4WnpzN2dmWUxTMEttd2pVOWfSAY8BQVVfeXFMTmlTSllZRGoxREpud2NoenN0WllVcGEtdE94WlZyTUVkRTBMdGRmcnVXSGVGb3RXS05PZi1Ya2JCR3VDRVM5REVSYkhxV19CSVV6ZkNKY0ZaQXZYMktqZXdBWVRMQU9FbXhwOVNFUnNYblJGSC01al9mZkN2OXZ6TFYtMHdFaTRWWEVSZ1R0MTA?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260802T145722Z"
-        },
-        {
-          "title": "Iran warns regional states against aiding US attacks",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVlhJY0tRNWl5SGpvVFM2NGxIM0JDZDZIMm10QlRnQTF3cVl2S2c5SzVHTDZsMlhwWFJ5VDJOSTgwYkN0d1RqX3VXWlo4aFhqM1FpdUxhS3IwQ0o4R0VhY0RWdG9fS1pRU2JqcHVUU3RFaG9CLUdGRmpIdU5tdkEwVnhxRUdYODY2akotTWwtS1I0S3FaVFdPOXl4bVNfTlJSdER2QnNQSQ?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "seen": "20260801T211120Z"
         }
       ],
       "reports": [
@@ -430,9 +422,9 @@
           "reportedAt": "2026-08-02T14:15:46Z"
         },
         {
-          "id": "report-b01a669d8101",
+          "id": "report-8f835980971b",
           "title": "US Escalation with Iran is ‘pointless’, warns former US diplomat",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX0t0MFlXRkZWenJ5a245ZHZSOUhMNkZVZlN3RHdqRGV0RmlXNEtGWDEwalFlaVJpelkzMTNnREZrR1NtRHZwbmxHYjUyOC1WS0hmNE5kT1FjQW4zdGd4UDE0NWZwSnB6ZmJ1bWZQVFRpbkhRZVB6WGY0TlpOSjlKb3hqaXRGVzFyeFFlNXlGV1RvVjZFMUVwQ1p6UE1ESnhCTEpEZk1mejJHbkZWVi1neG5R0gG3AUFVX3lxTE9NalV1VUdKNG44MTM2b3JVRlFGYS14VUZtdDYyZ0FxNDBaX0hSd3ZYVlRLLUdfeFJUOF93Zzd0bVhDT29iMEwyNkQ2dGl2QXFaODZSMXZwZTVjUTQ2MlJDNHpYQ2NuV2dDVDRralRtQlhGdHZVaUpDMzZlWXVXclg5d0Q1VzROaUJiRzBXbXd1Ql8zY3R2ZUtfQXNTZkZEOHhrMnJJYXBHYWl0eHBYaHY1MTNSTlJLcw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX0t0MFlXRkZWenJ5a245ZHZSOUhMNkZVZlN3RHdqRGV0RmlXNEtGWDEwalFlaVJpelkzMTNnREZrR1NtRHZwbmxHYjUyOC1WS0hmNE5kT1FjQW4zdGd4UDE0NWZwSnB6ZmJ1bWZQVFRpbkhRZVB6WGY0TlpOSjlKb3hqaXRGVzFyeFFlNXlGV1RvVjZFMUVwQ1p6UE1ESnhCTEpEZk1mejJHbkZWVi1neG5R?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
@@ -455,6 +447,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-03T02:03:00Z"
+        },
+        {
+          "id": "report-aa81921d8499",
+          "title": "Who will shape post-war Iran?",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9TM0VXZ0thZmxVMmRZTXJuV1RpT25zMjZxWXkxYVdZUjZXMGlpRUhsS21XdF9nUHlBZ3haSVRtaG9sV3lnY3V2SktuSDF3Y1oyaE5vNDAxeDYtLWpod1g5MHdyRGdGZ01WRUg2NDVjWXhyQmtNelR4OEw5MHDSAYIBQVVfeXFMTUdIRE9EeDkxaGZicm9TYzhxQmtra2FMcmdieExEcHBaME1SWjY4VEhiOW1WRzU3czZHcnQ4eFcxQ3Q5ZWUwdUpwRjhRT0VpWVN2OVpnaloxYkhNM19raHVSNTZneTlueHB4eUYwV3JTakpxdVkwQXFsejRNTjZLdUtVZw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-03T12:15:35Z"
         },
         {
           "id": "report-70273b4362f4",
@@ -556,6 +557,15 @@
           "reportedAt": "2026-08-02T02:58:00Z"
         },
         {
+          "id": "report-e74ec74599c3",
+          "title": "Ukraine strikes Russia’s biggest retailer again",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONE5uYzFTUkN1Rk4ybk83UVo0eXlFeXpZMTN4UWNGT0xkRnJGWk1ldGU1UTJVc2w1czJBLU40cWNUekxFYlkzOTExUnBrRUtfcThFMDNER0tTd3lKTUFYcXZpd1RoYXFNZzRMb3VGQVFsODVVWTljVk5oenZ1dHU4TkJoNElSODVBSFlTdnR0eTRONTMyLXl4X1h30gGfAUFVX3lxTFBfdkRCRnQwQ2ViTGRLbDFKRjluOWE3bW0tVVYzYloweW0xLWVLVzR3MW5FQmI1OElFUGkzU1RGTXRwMW5KYXRUM0pkcS1LLU4tTzRnLVhya3FsV0VhOUJyNDQzV1dMSDdfc01EdmNyX3lkWTBlWUI1anVBVVExaUh5YnRyQUVBaUNMeFREdFl0dy15a0FaY19oMHVCNzg3bw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-03T11:19:05Z"
+        },
+        {
           "id": "report-534f0e3c3ab2",
           "title": "Poland protests to Russian ambassador over missile incursion",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNd2tTRXJsMnk0M2F4c2lvWHZ0MkgzajNyQ1o2dm1zSjFxbWstbC0yam9ZdEViV0VmazBSYnNMbnBKaFpHbm9TOXgxNUhUVlZJak5DU1BRM2xqSlNaTDhsNXk4UFQwLWdYTHM3MW0wdXdsX1gtZHZweU1XWTdDa0VaQTR5NmUwQ0o2NklVS1ZmMWtyUjE2blN3Y21vakJISEtfNWhN0gGoAUFVX3lxTE8wWkViemdwcEVLUDdWbHhrOVNFVHNLdW9KSjE2azdKUWl6R05rM0h1cHFZNVBIMmlWVXRrNUhXMWxBeWhzZnltU0xuR2lndFVndzlvY3NjWGV6endsaGVuWVVLMmhKTzhjc1dDYlZ6R0N4R3dfLXNQaWFoVWkwY19pa0pub3JWVTJ5RzRkdWdQcVY0TWYxZHNEZTlYTnF6VU0tbjVzdFNxLQ?oc=5",
@@ -599,24 +609,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-01T17:48:45Z"
-        },
-        {
-          "id": "report-c3a6ed3753ac",
-          "title": "Tanks, troops and space",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVkVJVjh6REdLNU5hSHFpbHM2UGNEcktpdHRGQloyRDRYcDFMN1Y3Y3ltcTRPYWRqdWdJLXRCSTZwTVFFbEdObEw0cDFqS0lBMkctalB4VnFlR1A4SXBDVlRNdnJTNjItMXhkM3JzVDNkcTV0YlpVUEo4WnpzN2dmWUxTMEttd2pVOWfSAY8BQVVfeXFMTmlTSllZRGoxREpud2NoenN0WllVcGEtdE94WlZyTUVkRTBMdGRmcnVXSGVGb3RXS05PZi1Ya2JCR3VDRVM5REVSYkhxV19CSVV6ZkNKY0ZaQXZYMktqZXdBWVRMQU9FbXhwOVNFUnNYblJGSC01al9mZkN2OXZ6TFYtMHdFaTRWWEVSZ1R0MTA?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-02T14:57:22Z"
-        },
-        {
-          "id": "report-2ef18883b50b",
-          "title": "Iran warns regional states against aiding US attacks",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVlhJY0tRNWl5SGpvVFM2NGxIM0JDZDZIMm10QlRnQTF3cVl2S2c5SzVHTDZsMlhwWFJ5VDJOSTgwYkN0d1RqX3VXWlo4aFhqM1FpdUxhS3IwQ0o4R0VhY0RWdG9fS1pRU2JqcHVUU3RFaG9CLUdGRmpIdU5tdkEwVnhxRUdYODY2akotTWwtS1I0S3FaVFdPOXl4bVNfTlJSdER2QnNQSQ?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
-          "reportedAt": "2026-08-01T21:11:20Z"
         },
         {
           "id": "report-dd2a1637dc48",
