@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-03T14:31:06.485Z",
+  "generatedAt": "2026-08-03T20:42:45.690Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -9,7 +9,7 @@
       "items": []
     },
     "safety": {
-      "generatedAt": "2026-08-03T14:26:44.679Z",
+      "generatedAt": "2026-08-03T20:42:45.690Z",
       "cadence": "daily",
       "items": [
         {
@@ -45,14 +45,6 @@
           "pinned": false
         },
         {
-          "title": "Marine Corps says F-35B stealth fighter crashed in California, pilot ejected safely",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS1JrclNxT3JPWkxwamV1Q1FDUHdwVGtZNHRSSUNxZXF2Yzk1YkotZXpWczliM1RDdWUwb2pUN2x2NlVfcXpiRExubklNU3NPNTdsei1TV3NnM0VNZi14Skx2ZXNTNkFOc3I3SER2SlJ6VC1oZWRrV3RTMFl3bm9Hbmp0akFBRWlPb242bXh3dkRWbVlfSHpEWQ?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260731T185442Z",
-          "pinned": false
-        },
-        {
           "title": "Marine F-35 involved in fiery mishap at Miramar base in California; pilot ejects safely",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQTY2THYtYXZSQXBMTlhtamlYSkRpSWlmNnFqd3JZWFIzd0lEaTlOTzNlRVRlUTZOdmcwYnNKN0NCUzFLZ1ZsRFduWW0xbWluTDcwZk5nSGVDMTJVTUdHbEFDWThrQy03c1RURmM4TFBZdzVfcHdTQUQwLUkwMEtldlhvTTg5XzJMUmFjamhIQmh5RnhMX1ZwY3FR?oc=5",
           "domain": "stripes.com",
@@ -69,11 +61,27 @@
           "pinned": false
         },
         {
+          "title": "After being denied wrongful death claim, family files lawsuit alleging failures to prevent suicide, sexual assault at Air Force Academy",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRWNEbEFkcnJjempoQmlMczdGQWZhT0gxZFRWNXVVYmVxVkVsM3Zyek5ZYmNsazNUTTZYSVZVWlJNVHBHZzk2LTJpdXZFRnZWQXFzX09ra2Z5Q1ZQWms4NHR4Zm9IU09YWENQcHNOdzRGa3RMd0RKR2hVcERvbU16amFsczlFUTNTQWtETnFzNklzZXZ5eV8yb2FhOUxEVkJTZmhRMkxzaExTQQ?oc=5",
+          "domain": "stripes.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260731T204702Z",
+          "pinned": false
+        },
+        {
           "title": "PLR 26-051 – Motorcycle Mishap Claims One Soldier's Life",
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaVpiYzFyRVhaWHZuV2VuVzVoM050d0FnTzR1QVZlQnZkVE14WWpvQXZjY3BXMDF3SW1URFc0VC1DS1pHeWdXeDU3T2hHN1NuZjI0dXp4b1Z3STJlMEw4RFEtb05KeWxQWnpoV3JCYmR3U0dPVFJfQ0ZGTmdrX2ZtN2ZrdzdyTmRhZ1BGZ0JpX2NMTFYyNzhlUVV0dk9OczVQVlhjeUlYSFNUM1ZOSVUzWkpjQ2NKM2p1bUJNSWNWR0p6emt6VnhEYTJobHluaWlW?oc=5",
           "domain": "safety.army.mil",
           "sourceTier": "Official military source",
           "seen": "20260720T070000Z",
+          "pinned": false
+        },
+        {
+          "title": "PLR 26-052 – Automobile Mishap Claims One Soldier's Life",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMFA5OUdwWFlNMlhsWTh2MW5XZ2xoZEUzMjNyUF9rUzNYbFFMeXlOV2xXdExFMTFsZHpNMXg4Q2JJa2Q5TUFhM2k3dktkRURiYURocmFTdk9fVmpHX045VnJ0QUVYeE1HMXliNUxPcUczV0FRZ3N2Nk1Fa2E4UHI3aGh3Yl9kNGxjd1ZsOXB3NURKdlhpRnBXUmJyTXhrNTE2YVI1Mk52RTFvWHI3RGxIZG9hWGN5TXdaWGg2X0d1YllwTEgtNkdESWU3OHg5X3lM?oc=5",
+          "domain": "safety.army.mil",
+          "sourceTier": "Official military source",
+          "seen": "20260720T214927Z",
           "pinned": false
         },
         {
@@ -91,27 +99,17 @@
           "sourceTier": "Official military source",
           "seen": "20260714T220748Z",
           "pinned": false
+        },
+        {
+          "title": "UPDATE: Coast Guard suspends search for overdue paddler near Pinole",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTkh3dWZnN1JqMTB2cjhCTC1yaEFJY0pmR0QtTkhZdGlYNkRDSDhCbUlGd1FmTFFSMzVvQkVwNUhyWnZraDhUWlFHTVZWRHowa1hzdTZyVFdpUnpUS2lCQXFEOF9lUnQ1a29Uc0M1dFptYzItRGpWblhJSWxNRUk3dFFsTlpfcWRCYS1seVBXVmk3YlkzZXZ3VWVxNy1HSHhvQnVmZU44WEt1ZEJ5eENJSU9lR0FrbzRCX2s0b1JKaXp3dw?oc=5",
+          "domain": "news.uscg.mil",
+          "sourceTier": "Official military source",
+          "seen": "20260709T070000Z",
+          "pinned": false
         }
       ],
       "incidents": [
-        {
-          "id": "auto-fd27c30e72a1",
-          "reportDate": "2026-07-31",
-          "dateBasis": "report discovery date",
-          "branch": "Marine Corps",
-          "department": "Department of the Navy",
-          "type": "Aviation",
-          "event": "Marine Corps says F-35B stealth fighter crashed in California, pilot ejected safely",
-          "location": "See official source",
-          "fatalities": null,
-          "injuries": null,
-          "status": "REPORTED / UNVALIDATED",
-          "signalClass": "REPORTED MISHAP",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
-          "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS1JrclNxT3JPWkxwamV1Q1FDUHdwVGtZNHRSSUNxZXF2Yzk1YkotZXpWczliM1RDdWUwb2pUN2x2NlVfcXpiRExubklNU3NPNTdsei1TV3NnM0VNZi14Skx2ZXNTNkFOc3I3SER2SlJ6VC1oZWRrV3RTMFl3bm9Hbmp0akFBRWlPb242bXh3dkRWbVlfSHpEWQ?oc=5",
-          "sourceLabel": "apnews.com"
-        },
         {
           "id": "auto-bb2cc9c97202",
           "reportDate": "2026-07-31",
@@ -149,24 +147,6 @@
           "sourceLabel": "taskandpurpose.com"
         },
         {
-          "id": "auto-9fa0ce5a3faf",
-          "reportDate": "2026-07-31",
-          "dateBasis": "report discovery date",
-          "branch": "Marine Corps",
-          "department": "Department of the Navy",
-          "type": "Aviation",
-          "event": "BREAKING: F-35B Crashes Near Marine Corps Air Station Miramar",
-          "location": "See official source",
-          "fatalities": null,
-          "injuries": null,
-          "status": "REPORTED / UNVALIDATED",
-          "signalClass": "REPORTED MISHAP",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
-          "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQlgyNjZWZHNwYi11LWFaMENYZFAwRFVFaHhLQWxHNHlGMEtHc2RKV3JaVXhreUh4MEJLZzhMRjZ0MzhDWlVZdmhTRmNpVEdHRTRGQ285UUNZQk41eDVneFBJUkdUdV9NOHBkT29Cb2VWTUM0TElnaGV6UFRrR20xYWc5NGxsSkdiRUpDV2pYbk9wUTVvSVpCMg?oc=5",
-          "sourceLabel": "news.usni.org"
-        },
-        {
           "id": "auto-1cd019e42adc",
           "reportDate": "2026-07-31",
           "dateBasis": "report discovery date",
@@ -183,6 +163,42 @@
           "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
           "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRWNEbEFkcnJjempoQmlMczdGQWZhT0gxZFRWNXVVYmVxVkVsM3Zyek5ZYmNsazNUTTZYSVZVWlJNVHBHZzk2LTJpdXZFRnZWQXFzX09ra2Z5Q1ZQWms4NHR4Zm9IU09YWENQcHNOdzRGa3RMd0RKR2hVcERvbU16amFsczlFUTNTQWtETnFzNklzZXZ5eV8yb2FhOUxEVkJTZmhRMkxzaExTQQ?oc=5",
           "sourceLabel": "stripes.com"
+        },
+        {
+          "id": "auto-fd27c30e72a1",
+          "reportDate": "2026-07-31",
+          "dateBasis": "report discovery date",
+          "branch": "Marine Corps",
+          "department": "Department of the Navy",
+          "type": "Aviation",
+          "event": "Marine Corps says F-35B stealth fighter crashed in California, pilot ejected safely",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS1JrclNxT3JPWkxwamV1Q1FDUHdwVGtZNHRSSUNxZXF2Yzk1YkotZXpWczliM1RDdWUwb2pUN2x2NlVfcXpiRExubklNU3NPNTdsei1TV3NnM0VNZi14Skx2ZXNTNkFOc3I3SER2SlJ6VC1oZWRrV3RTMFl3bm9Hbmp0akFBRWlPb242bXh3dkRWbVlfSHpEWQ?oc=5",
+          "sourceLabel": "apnews.com"
+        },
+        {
+          "id": "auto-9fa0ce5a3faf",
+          "reportDate": "2026-07-31",
+          "dateBasis": "report discovery date",
+          "branch": "Marine Corps",
+          "department": "Department of the Navy",
+          "type": "Aviation",
+          "event": "BREAKING: F-35B Crashes Near Marine Corps Air Station Miramar",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQlgyNjZWZHNwYi11LWFaMENYZFAwRFVFaHhLQWxHNHlGMEtHc2RKV3JaVXhreUh4MEJLZzhMRjZ0MzhDWlVZdmhTRmNpVEdHRTRGQ285UUNZQk41eDVneFBJUkdUdV9NOHBkT29Cb2VWTUM0TElnaGV6UFRrR20xYWc5NGxsSkdiRUpDV2pYbk9wUTVvSVpCMg?oc=5",
+          "sourceLabel": "news.usni.org"
         },
         {
           "id": "auto-1e5d03f08dc4",
@@ -257,6 +273,24 @@
           "sourceLabel": "safety.army.mil"
         },
         {
+          "id": "auto-e9cf27a7d111",
+          "reportDate": "2026-07-20",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Other",
+          "event": "PLR 26-052 – Automobile Mishap Claims One Soldier's Life",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "OFFICIAL INTAKE",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Official military source",
+          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
+          "source": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMFA5OUdwWFlNMlhsWTh2MW5XZ2xoZEUzMjNyUF9rUzNYbFFMeXlOV2xXdExFMTFsZHpNMXg4Q2JJa2Q5TUFhM2k3dktkRURiYURocmFTdk9fVmpHX045VnJ0QUVYeE1HMXliNUxPcUczV0FRZ3N2Nk1Fa2E4UHI3aGh3Yl9kNGxjd1ZsOXB3NURKdlhpRnBXUmJyTXhrNTE2YVI1Mk52RTFvWHI3RGxIZG9hWGN5TXdaWGg2X0d1YllwTEgtNkdESWU3OHg5X3lM?oc=5",
+          "sourceLabel": "safety.army.mil"
+        },
+        {
           "id": "auto-e657db459942",
           "reportDate": "2026-07-16",
           "dateBasis": "report discovery date",
@@ -291,6 +325,24 @@
           "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
           "source": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZjJhVmhtaUpjaXRLQkhJaVdCTkRGVTBGbzhxdzBrYzByc2s5NTdhUkE0Ny04bUR2ZE40a19sRFhsQ0o4X3FJU3JjajAyUHc0UVZjek5mNGZDMWpyamF2Nm56YlV2SHFaTjB6dW42Z3FSSFBhY0hIdS0yQ3phQ3lVajJjbXBjb3VTa3ducllWNHcyYkdsQ1QyeWNlS1o5YWRlbFlnN1NEQlJlQkx0WmdKbllJY2RiSTdqUGZiQVZLV081MmtnbGs3bW1RbFJxQmpN?oc=5",
           "sourceLabel": "safety.army.mil"
+        },
+        {
+          "id": "auto-5118a3358dd8",
+          "reportDate": "2026-07-09",
+          "dateBasis": "report discovery date",
+          "branch": "Coast Guard",
+          "department": "Department of Homeland Security",
+          "type": "Other",
+          "event": "UPDATE: Coast Guard suspends search for overdue paddler near Pinole",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "OFFICIAL INTAKE",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Official military source",
+          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
+          "source": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTkh3dWZnN1JqMTB2cjhCTC1yaEFJY0pmR0QtTkhZdGlYNkRDSDhCbUlGd1FmTFFSMzVvQkVwNUhyWnZraDhUWlFHTVZWRHowa1hzdTZyVFdpUnpUS2lCQXFEOF9lUnQ1a29Uc0M1dFptYzItRGpWblhJSWxNRUk3dFFsTlpfcWRCYS1seVBXVmk3YlkzZXZ3VWVxNy1HSHhvQnVmZU44WEt1ZEJ5eENJSU9lR0FrbzRCX2s0b1JKaXp3dw?oc=5",
+          "sourceLabel": "news.uscg.mil"
         },
         {
           "id": "auto-8a083d981f71",
