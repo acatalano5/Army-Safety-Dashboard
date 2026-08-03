@@ -22,7 +22,7 @@ const SECTION_CONFIG = {
   },
   safety: {
     query: '((military OR Army OR Navy OR "Air Force" OR Marines OR "Coast Guard") AND (mishap OR accident OR crash OR fatality OR fire OR "emergency landing" OR "near miss" OR "safety review"))',
-    timespan: "30d",
+    timespan: process.env.SAFETY_TIMESPAN || "30d",
     allowedDomains: [
       "af.mil",
       "airandspaceforces.com",
@@ -36,6 +36,7 @@ const SECTION_CONFIG = {
       "militarytimes.com",
       "navalsafetycommand.navy.mil",
       "navy.mil",
+      "ntsb.gov",
       "reuters.com",
       "safety.af.mil",
       "safety.army.mil",
@@ -83,7 +84,7 @@ const SECTION_CONFIG = {
   },
 };
 
-const OFFICIAL_DOMAINS = ["defense.gov", "state.gov", "un.org", "nato.int", "ukmto.org"];
+const OFFICIAL_DOMAINS = ["defense.gov", "state.gov", "un.org", "nato.int", "ntsb.gov", "ukmto.org"];
 const OFFICIAL_MILITARY_DOMAINS = [
   "af.mil",
   "army.mil",
@@ -131,6 +132,13 @@ const REGIONAL_DOMAINS = [
 const STATE_AFFILIATED_DOMAINS = ["aa.com.tr", "globaltimes.cn", "presstv.ir", "rferl.org", "tass.com", "voanews.com"];
 const OSINT_DOMAINS = ["liveuamap.com"];
 const KNOWN_SAFETY_REPORTS = [
+  {
+    title: "Midair Collision PSA Airlines Flight 5342 and US Army UH-60L near DCA",
+    url: "https://www.ntsb.gov/investigations/pages/DCA25MA108.aspx",
+    domain: "ntsb.gov",
+    seen: "20250129T204800Z",
+    pinned: true,
+  },
   {
     title: "Marine Corps MV-22 Osprey suffers engine fire during Air Force training exercise",
     url: "https://www.militarytimes.com/news/your-military/2026/07/21/marine-corps-mv-22-osprey-suffers-engine-fire-during-air-force-training-exercise/",
@@ -374,7 +382,7 @@ function safetyClass(title) {
 function incidentFromItem(item) {
   const service = classifyService(item);
   const classification = safetyClass(item.title);
-  const official = item.sourceTier === "Official military source";
+  const official = item.sourceTier === "Official military source" || item.sourceTier === "Official / intergovernmental";
   return {
     id: `auto-${createHash("sha256").update(item.url).digest("hex").slice(0, 12)}`,
     reportDate: reportDate(item.seen),
@@ -454,12 +462,13 @@ async function requestSection(section) {
         domain,
         sourceTier: sourceTier(domain),
         seen: article.seendate || article.seen || "",
+        pinned: Boolean(article.pinned),
         ...(section === "exercises" ? { components: classifyExerciseComponents(article.title) } : {}),
       };
     })
     .filter((item) => item?.title && item?.url && domainIsAllowed(item.domain, config.allowedDomains))
     .filter((item) => sectionRelevant(section, item.title, item.domain))
-    .filter((item) => withinTimespan(item.seen, config.timespan))
+    .filter((item) => item.pinned || withinTimespan(item.seen, config.timespan))
     .filter((item) => {
       if (seen.has(item.url)) return false;
       seen.add(item.url);
@@ -521,7 +530,7 @@ async function main() {
   current.schemaVersion = 1;
   current.generatedAt = generatedAt;
   current.method =
-    "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety reports are categorized automatically by source and signal type; casualty values remain unknown unless reported.";
+    "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.";
 
   await mkdir(dirname(path), { recursive: true });
   await writeFile(path, `${JSON.stringify(current, null, 2)}\n`, "utf8");
