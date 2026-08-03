@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-03T20:42:45.690Z",
+  "generatedAt": "2026-08-03T21:56:06.169Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-08-03T14:31:06.485Z",
+      "generatedAt": "2026-08-03T21:56:06.169Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -383,9 +383,17 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-08-03T14:31:06.485Z",
+      "generatedAt": "2026-08-03T21:56:06.169Z",
       "cadence": "every 6 hours",
       "items": [
+        {
+          "title": "Uncertainty on Iranians’ minds as Trump fluctuates on war and talk",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMVdxNVVuU3g0QUE2WC04WjlfQWRFci1iWDdHOFNCV2JMUXB4RGFwYVlhV1Q0dk9QUEJ5WnVlNDlQUUdSZXY0QTd1ZGx6eEFlUWJXcnAzWGFRTFpWaWxRWDJldjlUTjZFcDhMV2E0eUViUDdnZDFtM19OTk02QkdUVFBkSEZDZzlKdEp3OG01Umd0MTNiaFJ1U3h6eHhEcDBsZ0MwNnFkb0XSAa4BQVVfeXFMTkdneWQyRmtnZ3ZaVF9mc3dIM1VIaEJNd00wOTUwXzZJVk5HLUZCbWpNbU9raGw2bDBNU2E0YkVYZXI1RTI0OU1ERzV3MEFzWVFmOTRrWDd2RGN4ZHYzN2FRVnlZcEJmSktGREY2ZHFLUk5JMlBHeXB4QjFveTdLSE5UdnBLMEdzNUcyWXBFc1U1VVMzT2Z0cHpfR3BJQkxjQXNPU0RSak1JeG1pQ3VB?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260803T163552Z",
+          "pinned": false
+        },
         {
           "title": "Saudi Crown Prince MBS urges Trump to ‘prioritise dialogue’ in US-Iran war",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcWdJZ0hLbTduamRXQktXdkUyLVZJUEJwN053cGMwM295b0dBX18tcjdlRXhSU3pwZjlIZzZQcDd6TmQtVkcwUF9venBYeDF6TjFBZkplVGJfYzJRS0hMVEV5QW9vZ2FOSmpaR0lxc20xVHhteVN1YU8yQ01CUEI4Y19TVEpPTHNGRjFSU3NPcFlBY21qcGtkN2ptN1ZjTnFQM3VraWpNX203VHRBTVcyX0dR0gG3AUFVX3lxTE9VLVlTSTJ5ZXJaREhEZEZXczU4Szd2WmgtVjNnbU1KbmduTjBOT3RvOEZFVWIwRDZCVGR5QnlnaFVDZ0ZjWGpWVFhLMnpZMjhMMVdpLTM1UHJ5Z2FvdGp5dHctaGYwUEVzTlJvZjRObEg3VmlXYWtXWmwyNXg3em9uMXk5Mm5EbGNDSXJoMWJvVmtfdkZDUmRUdElwT21YX3lJakxWN2JPc0Q1MFJfeEdXYzhuZDQ0bw?oc=5",
@@ -411,11 +419,27 @@
           "pinned": false
         },
         {
+          "title": "Why has Trump halted Iran attacks, and what is the deal he is hinting at?",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTlFxR3BvcjBYNXBISkYtejNnMkNVZ1NhcG1Mdlg2cnpQdXV4UUNPUEFtSGkwZWtsLXljd1NXbVZ0alp6R1Q5Qi03OHhCc3M2MjZVUW04YktGQlBjR0VlMERaNnRDOGJBNFh6OVU2ZEk5VXpfRFZvSlR2YVc4RGxmVDZ2N2FDd3RPUzJQckpEdHh3U2ZUR01JQ2p5NXhPZlg2QjY0d2I2QmgzYUhWVUlRc9IBtgFBVV95cUxQb3VXTWhyWjQ1UGRDZWdVbzFHNTNRUWxCbXVDX0FHTk9XMnVWcjIwdk13S0ZURVVkeEZJcTFaQ2Q3R3ItVGxqTzVmMXVzM0haV1F6OUVEbjVwSmxpYXp6WEVoRVJaTGxuUEZHQ0d1MWZGTGxsVVlWUEthcEhXcld3a2l5eDliV2xnOE5GbTlWem8zRnFjY0tyTG4yaDlEbVJmb3VIWndsb0dkRHd6MEpSQ3FZdzJ3QQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260802T095416Z",
+          "pinned": false
+        },
+        {
           "title": "US Escalation with Iran is ‘pointless’, warns former US diplomat",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX0t0MFlXRkZWenJ5a245ZHZSOUhMNkZVZlN3RHdqRGV0RmlXNEtGWDEwalFlaVJpelkzMTNnREZrR1NtRHZwbmxHYjUyOC1WS0hmNE5kT1FjQW4zdGd4UDE0NWZwSnB6ZmJ1bWZQVFRpbkhRZVB6WGY0TlpOSjlKb3hqaXRGVzFyeFFlNXlGV1RvVjZFMUVwQ1p6UE1ESnhCTEpEZk1mejJHbkZWVi1neG5R?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX0t0MFlXRkZWenJ5a245ZHZSOUhMNkZVZlN3RHdqRGV0RmlXNEtGWDEwalFlaVJpelkzMTNnREZrR1NtRHZwbmxHYjUyOC1WS0hmNE5kT1FjQW4zdGd4UDE0NWZwSnB6ZmJ1bWZQVFRpbkhRZVB6WGY0TlpOSjlKb3hqaXRGVzFyeFFlNXlGV1RvVjZFMUVwQ1p6UE1ESnhCTEpEZk1mejJHbkZWVi1neG5R0gG3AUFVX3lxTE9NalV1VUdKNG44MTM2b3JVRlFGYS14VUZtdDYyZ0FxNDBaX0hSd3ZYVlRLLUdfeFJUOF93Zzd0bVhDT29iMEwyNkQ2dGl2QXFaODZSMXZwZTVjUTQ2MlJDNHpYQ2NuV2dDVDRralRtQlhGdHZVaUpDMzZlWXVXclg5d0Q1VzROaUJiRzBXbXd1Ql8zY3R2ZUtfQXNTZkZEOHhrMnJJYXBHYWl0eHBYaHY1MTNSTlJLcw?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260731T002733Z",
+          "pinned": false
+        },
+        {
+          "title": "Ethiopia-Tigray: Hundreds flee fighting in northern Ethiopia as fears rise of return to civil war",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sbUQ2RkdYaGo4ZnJKUm9HVlczZnU3MHFUTTd2WHRDZDE3U0xhTTZvZzRILU0xUFVGaXFhRFdDVHdjRzQwM2dDMU1EOVdKeUp5eFpRRlBuVGxKQQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260803T114948Z",
           "pinned": false
         },
         {
@@ -427,14 +451,6 @@
           "pinned": false
         },
         {
-          "title": "Trump says Gulf leaders' input weighed heavily in decision to hold off on ordering new Iran strikes",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZy05LW5ObUpORjFnYnd6WWR0UmJrOVVXR19TU1JqcFBxdUtwMGRGZm5DX2hNZ3h0dWhRWk5Rd3M1cGY5WnpneE85T1JDOEdtYnZUMWl0b1AwN0JseTRCQTNmVlllQzN1djg3RzIyWENCdGx2SzdZSXJLNHJJeXFPVHVwc292NnlCbDJTdDhHQ3ZURE0zaEJvdHR2dkxyRVk1a1FoTmtoZw?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260803T020300Z",
-          "pinned": false
-        },
-        {
           "title": "Who will shape post-war Iran?",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9TM0VXZ0thZmxVMmRZTXJuV1RpT25zMjZxWXkxYVdZUjZXMGlpRUhsS21XdF9nUHlBZ3haSVRtaG9sV3lnY3V2SktuSDF3Y1oyaE5vNDAxeDYtLWpod1g5MHdyRGdGZ01WRUg2NDVjWXhyQmtNelR4OEw5MHDSAYIBQVVfeXFMTUdIRE9EeDkxaGZicm9TYzhxQmtra2FMcmdieExEcHBaME1SWjY4VEhiOW1WRzU3czZHcnQ4eFcxQ3Q5ZWUwdUpwRjhRT0VpWVN2OVpnaloxYkhNM19raHVSNTZneTlueHB4eUYwV3JTakpxdVkwQXFsejRNTjZLdUtVZw?oc=5",
           "domain": "aljazeera.com",
@@ -443,11 +459,19 @@
           "pinned": false
         },
         {
-          "title": "Why has Trump halted Iran attacks, and what is the deal he is hinting at?",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTlFxR3BvcjBYNXBISkYtejNnMkNVZ1NhcG1Mdlg2cnpQdXV4UUNPUEFtSGkwZWtsLXljd1NXbVZ0alp6R1Q5Qi03OHhCc3M2MjZVUW04YktGQlBjR0VlMERaNnRDOGJBNFh6OVU2ZEk5VXpfRFZvSlR2YVc4RGxmVDZ2N2FDd3RPUzJQckpEdHh3U2ZUR01JQ2p5NXhPZlg2QjY0d2I2QmgzYUhWVUlRc9IBtgFBVV95cUxQb3VXTWhyWjQ1UGRDZWdVbzFHNTNRUWxCbXVDX0FHTk9XMnVWcjIwdk13S0ZURVVkeEZJcTFaQ2Q3R3ItVGxqTzVmMXVzM0haV1F6OUVEbjVwSmxpYXp6WEVoRVJaTGxuUEZHQ0d1MWZGTGxsVVlWUEthcEhXcld3a2l5eDliV2xnOE5GbTlWem8zRnFjY0tyTG4yaDlEbVJmb3VIWndsb0dkRHd6MEpSQ3FZdzJ3QQ?oc=5",
+          "title": "Trump cancels Iran strike, says ‘deal perimeters’ reached",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVEljRnczZFZtcGFZTzFxVW1tV21sS01MSVpPMkZGNXNCbDZ1TkRtNE9SeTQtRmlHclVUS18wNTZvbWZKQzZXQTdHWkIzWHlPQjRmcC12Ym9SaHZMSUdjQ0Q5bEZDZWJBelVvZWwtVE9helNKYXoxWkx3akRvYzJUX0k5MF80WmNFdDFpdUw4bE5EODRTZU9WUEZ30gGfAUFVX3lxTE5iZEZrWUxSM0xsZ2JaMTRiVjBBcmp5ODFSanpZallaZDZUM1pjVXBGWEtVRGtjOVJnYlYzNkdjdVlDRlplMGI4eHNSOVQ5TW9TTlJPNHEyUlQ3R1A1S2I4b0ZvVXZacEJqcGJHNC1qLWF5Xzc3cENXYnRQUjM2VHhQWnd1WXNqZ0JobU5WOUYtT3VSanFOY0ttclZjU3hvaw?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260802T095416Z",
+          "seen": "20260802T034743Z",
+          "pinned": false
+        },
+        {
+          "title": "Israel defies Trump’s peace plan as it escalates deadly attacks on Gaza",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORGstcFRLbFMwcUZybG8yc3RiM3owWHJFeWhGbkdKYlhYdWRuSlBnTVEtOUhRdHRPc1JkWWlNX3JtSzdMM3hBazN5RmJ6WWREWEppM3VETTZ2c1pZTVJDV01ETFplZ3M4QWdoRWpmNWtmUWNleVRCTmtMSDBqNC02b0NDa2lSb21mWHhrbUt4QzNhY2JlS0FXYkRyYllha183WnFvNnlRbDJXYTd6WnVJ0gG0AUFVX3lxTE5VMXlvR3hiUnlBYjNobGxIU1ZiNXYwVXlVODJMUmxPWU5TVzI3cUZCVVRaMl8tNDZJN2syT3dMYjI5T09xRnhaa2VCeWpNMnJYTWRwMmd3MjJrWVo2ZXhfQXk2MmotYXhLZFRqZndnTE9fRi1oT3YwNnI3aGVBMGZ4cFQ4NkI1LUlqcTFBbnlBUkZFUmZROXZaR3l0M2VJQkFMMm9fLXJNRERuTmVHYnNkLWlobQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260803T110319Z",
           "pinned": false
         },
         {
@@ -459,11 +483,11 @@
           "pinned": false
         },
         {
-          "title": "Iran: The Making of a War",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOXlhQ0RCNDduQmNJaTYwanl4aTduRllvamRuQmpZQVg1M0t3T1h0YW1BYnVycWlYdUUzY3VuYURZaFBzUFpNT3c3NExCX2xHb2s5XzFVdHM4VThKd2o0bFk1Z3dJbU9vOW9IdEtQWGpWektfdE9vaXQ1RlJTN1NHdjIzSUdGUkJCbEpKWXhDVnNmd9IBlwFBVV95cUxPWVJ6NG51V2tHeXdPTEs3SjdPbWZKRm9UdEJaTGc2M2o0Nk16VUpJQy1iRTROVGpmeVdYY3FlSllxa3U3Mmk1bVJGRFdGLXVfSXRiQlBTNzFHOVVmQ0lNMnd6Q0FGSFd5VjF5ZnA3YW9XX0FUdUxaN1pZaWdET1B0S3JwSTZnYy14QWZXRjBqY2V4aE5sRl9R?oc=5",
+          "title": "‘Marathon’ shines light on Gaza’s orphaned children and humanitarian crisis",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWDhqN2x0cGdJUFR3VkVkRG5qckp5ZDM1T3gtVzgtUzBLUHpIbk1YdjQweWJCRUExQjNraW9EeHdmRHpRZWE4aU5RLWIwZWtNSV81a2JPY0tpb082Sk1yblVNYVFabkt3SnVNSERNMTREZlUtUXZ2QURDNURacWJrWjNMdjZnTXBnNlUzamJRUUtZbkdxUG9DSmctQXNNVzgwQlZMT0ZCNlQ5eE11VmFfanZn0gG3AUFVX3lxTE5uRXdWZDF4OUUwTjQwU2t1aGhBdEtXc0JickpEYlNjYWpvaDUtRld2WkNwV0x5dnZ2WVIwNTJHeHg5aldwWllwUG1zemxjMWY2dzU4aWlQR3lEQ3dpWk5mSEhHZHVoVTE5TGdxU3EzblVqeHkwaHNHX0cwdlNfcFo4UEdmb1Q4TGotWTNaaHI0OXNkcnRKazlTY3BzLWI1cjM4TFFncHpSRFhPX0d5eC14TElVSmVHdw?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260801T103736Z",
+          "seen": "20260801T180916Z",
           "pinned": false
         },
         {
@@ -475,11 +499,11 @@
           "pinned": false
         },
         {
-          "title": "‘Marathon’ shines light on Gaza’s orphaned children and humanitarian crisis",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWDhqN2x0cGdJUFR3VkVkRG5qckp5ZDM1T3gtVzgtUzBLUHpIbk1YdjQweWJCRUExQjNraW9EeHdmRHpRZWE4aU5RLWIwZWtNSV81a2JPY0tpb082Sk1yblVNYVFabkt3SnVNSERNMTREZlUtUXZ2QURDNURacWJrWjNMdjZnTXBnNlUzamJRUUtZbkdxUG9DSmctQXNNVzgwQlZMT0ZCNlQ5eE11VmFfanZn0gG3AUFVX3lxTE5uRXdWZDF4OUUwTjQwU2t1aGhBdEtXc0JickpEYlNjYWpvaDUtRld2WkNwV0x5dnZ2WVIwNTJHeHg5aldwWllwUG1zemxjMWY2dzU4aWlQR3lEQ3dpWk5mSEhHZHVoVTE5TGdxU3EzblVqeHkwaHNHX0cwdlNfcFo4UEdmb1Q4TGotWTNaaHI0OXNkcnRKazlTY3BzLWI1cjM4TFFncHpSRFhPX0d5eC14TElVSmVHdw?oc=5",
+          "title": "Iran: The Making of a War",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOXlhQ0RCNDduQmNJaTYwanl4aTduRllvamRuQmpZQVg1M0t3T1h0YW1BYnVycWlYdUUzY3VuYURZaFBzUFpNT3c3NExCX2xHb2s5XzFVdHM4VThKd2o0bFk1Z3dJbU9vOW9IdEtQWGpWektfdE9vaXQ1RlJTN1NHdjIzSUdGUkJCbEpKWXhDVnNmd9IBlwFBVV95cUxPWVJ6NG51V2tHeXdPTEs3SjdPbWZKRm9UdEJaTGc2M2o0Nk16VUpJQy1iRTROVGpmeVdYY3FlSllxa3U3Mmk1bVJGRFdGLXVfSXRiQlBTNzFHOVVmQ0lNMnd6Q0FGSFd5VjF5ZnA3YW9XX0FUdUxaN1pZaWdET1B0S3JwSTZnYy14QWZXRjBqY2V4aE5sRl9R?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260801T180916Z",
+          "seen": "20260801T103736Z",
           "pinned": false
         },
         {
@@ -491,27 +515,11 @@
           "pinned": false
         },
         {
-          "title": "Iran’s leaders show a united front over the war but are divided over what the goal is",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRHVlUnB6RFd3NEl1N0l5Q2RvNVVISGRjSXhyX2ZoRURSbTVmd0RJNlg3eDY5a3dfOTBjNXFkX1FLaGxveDg0SUlpc2Vrbm5DbmJval8xci1NazI1eWFSS0IyNkpDNUFkMURvZHRVVklOZ0hFUUZxY0R6ck5sMkpiMHBQczFuVUdLT3JHOEdKdHJaTlJPS0ZJdjliUjlYdlBaSW9YMQ?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260802T040000Z",
-          "pinned": false
-        },
-        {
           "title": "Russian and Ukrainian strikes kill 14 on both sides",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNjJraExWMWtxcUNOZ3N5c25vajR5cmFaamFrbng4eEVMVEpSN1FOMGd2eUtDUUx0czgzOXpfdW9EZFVja1ZsaTJ0TWVzRVlkNXp2SXEwYmh0aXV3WFRJb3lQQVFfN3k4YWNFRlVhckhMOWRZOEV2RWVHdmMtYXRzaWNBRkFPZS03UHduTEthOHNGOS16UFBrOHctWjMxN1JuR3dWTW55YlU3QdIBrwFBVV95cUxNeXA5R1laeHFMQ1VheTV4Zzg0TUQzZ3gwUGpiLUNMUUZ6cW9jMmpNUDY0NTFOcThUYVhtU0RDaHBjUFRrZFdHU0RUVjF3NlNES25GRGFsVENuNU4tRXI1c2FqXzdBcGJlMjZYazEwbEdUekFMODBSUkZhWTBDM2U4cGg0TVlwU1NMcFFLb3NkSmVESkg2cFJRX1laeEQ1UFVfOEdlaURwZUJPdVBnTXh3?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260802T205839Z",
-          "pinned": false
-        },
-        {
-          "title": "Palestinians in Gaza react to latest ceasefire deal",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaDUxWS1ublJKYjBmT1VrSEV2eHlrX05XZVdnR0Zqb1p6eGprenRzVGdkTm9SVUJsNy1mZi1nb2Z3Rk14YWxObG5UenJraDZVOFE0b0I5cEZJMWtKRzBDUWJVZW9nVy1NQkd1SldLc2w4d0tsM3ZBUDNKSUxvVWJNU181aDE5VHJKRlNsQ1JxckgyVVdm0gGaAUFVX3lxTE1oSm5zbGMtYTk5T1lYSGxJVF9FMmpiX1NhQXhUQ1oxT1VxOExXTTVsd25Jai1QYVFJY081Nnh5UHZJNWd2c215MlZrOGk5cFQwTWJFTlFTSWxKNHBvaFpwelFHRnEyY3ZfcTVhd19RaFF3QU1zQVNfbHFGVWpnRWRCdDBkUEJLUU4zMnBjcng4WU45WE1XejFPeFE?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260731T130745Z",
           "pinned": false
         },
         {
@@ -523,14 +531,6 @@
           "pinned": false
         },
         {
-          "title": "Trump says he will order halt to Iran strikes after parameters reached for deal to end war",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdjdiZU1CVmhFWmRaYWtqRW82NnNUMEZjRzNlR293WTljQW1McXpnY3BiLXdWbVdobmRIdUJDVmVuWngwUHRVSUtyMkJjejRkQTl4WU0xc2xfcFpwaHBKamZGdUNqd1RIblhERllZY01hYjlmVUdOblVIVGxjTjVqVndGSURnTGJ5M2U5Vkp6dDVIRHZPZW8wTmRYaXl4WmQtejR6SzFBaw?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260802T025800Z",
-          "pinned": false
-        },
-        {
           "title": "Ukraine strikes Russia’s biggest retailer again",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONE5uYzFTUkN1Rk4ybk83UVo0eXlFeXpZMTN4UWNGT0xkRnJGWk1ldGU1UTJVc2w1czJBLU40cWNUekxFYlkzOTExUnBrRUtfcThFMDNER0tTd3lKTUFYcXZpd1RoYXFNZzRMb3VGQVFsODVVWTljVk5oenZ1dHU4TkJoNElSODVBSFlTdnR0eTRONTMyLXl4X1h30gGfAUFVX3lxTFBfdkRCRnQwQ2ViTGRLbDFKRjluOWE3bW0tVVYzYloweW0xLWVLVzR3MW5FQmI1OElFUGkzU1RGTXRwMW5KYXRUM0pkcS1LLU4tTzRnLVhya3FsV0VhOUJyNDQzV1dMSDdfc01EdmNyX3lkWTBlWUI1anVBVVExaUh5YnRyQUVBaUNMeFREdFl0dy15a0FaY19oMHVCNzg3bw?oc=5",
           "domain": "aljazeera.com",
@@ -539,47 +539,56 @@
           "pinned": false
         },
         {
-          "title": "Poland protests to Russian ambassador over missile incursion",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNd2tTRXJsMnk0M2F4c2lvWHZ0MkgzajNyQ1o2dm1zSjFxbWstbC0yam9ZdEViV0VmazBSYnNMbnBKaFpHbm9TOXgxNUhUVlZJak5DU1BRM2xqSlNaTDhsNXk4UFQwLWdYTHM3MW0wdXdsX1gtZHZweU1XWTdDa0VaQTR5NmUwQ0o2NklVS1ZmMWtyUjE2blN3Y21vakJISEtfNWhN0gGoAUFVX3lxTE8wWkViemdwcEVLUDdWbHhrOVNFVHNLdW9KSjE2azdKUWl6R05rM0h1cHFZNVBIMmlWVXRrNUhXMWxBeWhzZnltU0xuR2lndFVndzlvY3NjWGV6endsaGVuWVVLMmhKTzhjc1dDYlZ6R0N4R3dfLXNQaWFoVWkwY19pa0pub3JWVTJ5RzRkdWdQcVY0TWYxZHNEZTlYTnF6VU0tbjVzdFNxLQ?oc=5",
+          "title": "US Arabs eye ‘historic’ Senate win for Abdul El-Sayed despite AIPAC attacks",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYnRFc3BRQTBxZ2VqMklDV2V5RUJhRTROZFUyS1pCM085REhnTGhNXzBnZVRwemlmNUxfdnZSZGVXTFd4NUNiRVlna0Ffd3p0clllMWZTazFVQ1VSdmlkdHRxamo1OXIxdTQ0cWF2THFuVHg4VWdxV2xVcDBMSC1xV2hVdWVsOHRaMVdWX1ZjUktFcnFmamFWU3Z6YkdsejhhaWtCQm5TaGpvLWVjQWFWLXNGNNIBuAFBVV95cUxOSVNmN3Btd1F0TmVRQ0wxbEJXT1BqY1FFTDJSWGJfYUFjdnpuS05BSWktNzVxQmx0MVNYVU9yclBhWmQtMnloQ2ZSZ1Zxejg1TGNocTJjeUpVNkRBd1REVkZ3a0E1QnB2SVdEb1B1dWhBM2FPS3pJUEpsMWNWVkFaSmxzSm12WEg3VFhGLTFvZ1c3ZnFJOUxKSElBSkdxNmQtSm51OGNEaW9VcTY1NHY0YkFOTEV2NU9E?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260731T195915Z",
+          "seen": "20260801T223946Z",
           "pinned": false
         },
         {
-          "title": "Three dead including female bomber in Moscow restaurant attack",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYjlKZ0dOVzdjQnJrbWJOcThaUzVreC1WWE5pRndOLXB5TzRlSWJPNWJ0OGZJRW1DR2RibzZHRTlsRGpyNTk0SDA1OTBlZ3UtVjkwS0l3OVQ0UERGSDROWXZycF90RDMwR3FoZC1JOVhNMHItWHYxY2JsMnR2a000V0RZMldmcTJTUjJRZWlMX095MHpiQ016MDIzbExVRXRvV1Ata0hqNkVObUxfNkZtRWtn0gG3AUFVX3lxTFAtamt1ZXFkU2xlckl4WkxtQmlUTW4xVFJoWEs0ZGR4cGQ0ZEpFX1I5R3R1eU5EOWN3bXdod0dCb1Y4aGRzT25PTnBwalVBY1hLaURLQ1dJQ3BQNV9pbGpMc21pM2ZXRFdJOFd4ZjhOTFpuUjlpQmlWM0xoQUdrdDYxUEdibzhLa2FLME8zT1R4V2dDWWhDS0ZQV2kyaHp6UzNEY284M1dTclNzRU42M1J3cWZCWmZtYw?oc=5",
+          "title": "Palestinians in Gaza react to latest ceasefire deal",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaDUxWS1ublJKYjBmT1VrSEV2eHlrX05XZVdnR0Zqb1p6eGprenRzVGdkTm9SVUJsNy1mZi1nb2Z3Rk14YWxObG5UenJraDZVOFE0b0I5cEZJMWtKRzBDUWJVZW9nVy1NQkd1SldLc2w4d0tsM3ZBUDNKSUxvVWJNU181aDE5VHJKRlNsQ1JxckgyVVdm0gGaAUFVX3lxTE1oSm5zbGMtYTk5T1lYSGxJVF9FMmpiX1NhQXhUQ1oxT1VxOExXTTVsd25Jai1QYVFJY081Nnh5UHZJNWd2c215MlZrOGk5cFQwTWJFTlFTSWxKNHBvaFpwelFHRnEyY3ZfcTVhd19RaFF3QU1zQVNfbHFGVWpnRWRCdDBkUEJLUU4zMnBjcng4WU45WE1XejFPeFE?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260802T044827Z",
+          "seen": "20260731T130745Z",
           "pinned": false
         },
         {
-          "title": "Israel kills 19 in Gaza as attacks escalate despite latest Trump plan",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ19adVVFZ2hWV2R1X3djN25IMGczbkFPbXRweTlqamRJYmRPaWpIazlFYUIwNE1zZmZBVXFDbXBjRkZnWnk1d2Rhb3RwSC1XUFBudWNJdnZTdG1MY3ZOV21sdHhVQno5ZllJQ3dnR19UZ20zNTJVeFJPb2JYRms2RkxqOGVqcnVzcUpIemlUNllMT25BakRSNGJ0Z1M2SVh4Vmg3YXpn0gGrAUFVX3lxTE96V2pjZk5iM3lyOTcxV2l3TXlreTNvd2xLYm5BdDZSM0ZWWnJGek9iS2t0RlhMZlBLc2FFVzZBNjZPbktUSDkzNWVjejNpbUkxYlFUdUgxLUJrWFFkVjduam5qZDQ0M0VMYU1NMDJ1cTU5NVhoZkFsNk5CWDNrakZMNnFSVC12cTMtU2VWMEl3VDRQSmllTUlyMmpEcGFqdDBUb1duRVBsZDJBSQ?oc=5",
-          "domain": "aljazeera.com",
+          "title": "Trump says he will order halt to Iran strikes after parameters reached for deal to end war",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdjdiZU1CVmhFWmRaYWtqRW82NnNUMEZjRzNlR293WTljQW1McXpnY3BiLXdWbVdobmRIdUJDVmVuWngwUHRVSUtyMkJjejRkQTl4WU0xc2xfcFpwaHBKamZGdUNqd1RIblhERllZY01hYjlmVUdOblVIVGxjTjVqVndGSURnTGJ5M2U5Vkp6dDVIRHZPZW8wTmRYaXl4WmQtejR6SzFBaw?oc=5",
+          "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260802T141546Z",
+          "seen": "20260802T025800Z",
           "pinned": false
         },
         {
-          "title": "If Hamas disarmament plan holds, it could mark first credible step to ending Gaza war",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FVU9JcVZLeXpEbVRNVjJDdVNtRDNURXB4cjJrcEhoZjNaSlBRWHlqcWV0ZmtSYkIxZlJTWUlJaWk0TmVjUFgtZkhqSzRzb2JVby1ZVXduTVFrdw?oc=5",
+          "title": "New talks are 'last chance' for Iran to forge a deal and avoid escalation of US strikes, Trump says",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQektERUZodzkzOXlDY2NnVEhHRzF4eElSdXV3VG1Gd2Ria3FNbUdLS3VKUFhiRzhpTHVwT3k2WXJxanZRNVNQRjJEQjBsSGl5cGV5TVViTXhDMUY5WDZPRnduaE96cFQxMVgwc1FVQl9KMThMOFRlVl9VM04yOE42cVI0eGo3YUhzWGFWeUk4bw?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260803T195800Z",
+          "pinned": false
+        },
+        {
+          "title": "Threat to oil tankers in Middle East worst since start of Iran war, analysts say",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mcHZLclUtbzRtOW9uNVdyNFNZWVZwWjB0bzQ0aFB5RVZTQXQyZWIyY093RW1mbU5pQ0NaZFZHemNCbFBNRzFRUEtxdnFiYWVCbWpYSFI1aWltZw?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260731T042549Z",
-          "pinned": false
-        },
-        {
-          "title": "Russian missile attacks kill at least nine in Ukraine’s Kyiv",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORXV2dkxDX25CSFZ4RVpvYVdYWXIzOTJmNnBNVlNteTV4dTd3akFzLTUzek9Hdm5FSDdYRjNnSDM3eTFnSDNaX2oyMFdGRTgzZnZ5XzRVVzBKbGNaQkVxOHZPUFZSNFVoVmphdkVYeEtGTTFKME51dlRsRUJ4YkZJbXVKU1d5bFoyUng3WHNGMHVYVXdFdkHSAZsBQVVfeXFMUDZ0SF9oTDlZaHdWci1Ya0M1d04yelNJZ2U2NXlEaVVpSXF4TDRVU0JRTUFHVUNFS2syRENvQWdfWXdJckdPNEFpNmx6R2dSWUN2QjltLTViVllnMWNPQVAzbGRTZmhMY2xBNmpJa0U0NmJXSkY3M01ZdnFMYkhvWnhzNTFsaHRCRVpRZmR3YzZyV0JJTkxBbTNRSW8?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260801T174845Z",
+          "seen": "20260803T155727Z",
           "pinned": false
         }
       ],
       "reports": [
+        {
+          "id": "report-b024a687e378",
+          "title": "Uncertainty on Iranians’ minds as Trump fluctuates on war and talk",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMVdxNVVuU3g0QUE2WC04WjlfQWRFci1iWDdHOFNCV2JMUXB4RGFwYVlhV1Q0dk9QUEJ5WnVlNDlQUUdSZXY0QTd1ZGx6eEFlUWJXcnAzWGFRTFpWaWxRWDJldjlUTjZFcDhMV2E0eUViUDdnZDFtM19OTk02QkdUVFBkSEZDZzlKdEp3OG01Umd0MTNiaFJ1U3h6eHhEcDBsZ0MwNnFkb0XSAa4BQVVfeXFMTkdneWQyRmtnZ3ZaVF9mc3dIM1VIaEJNd00wOTUwXzZJVk5HLUZCbWpNbU9raGw2bDBNU2E0YkVYZXI1RTI0OU1ERzV3MEFzWVFmOTRrWDd2RGN4ZHYzN2FRVnlZcEJmSktGREY2ZHFLUk5JMlBHeXB4QjFveTdLSE5UdnBLMEdzNUcyWXBFc1U1VVMzT2Z0cHpfR3BJQkxjQXNPU0RSak1JeG1pQ3VB?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-03T16:35:52Z"
+        },
         {
           "id": "report-b4a5ebbbfd62",
           "title": "Saudi Crown Prince MBS urges Trump to ‘prioritise dialogue’ in US-Iran war",
@@ -608,13 +617,31 @@
           "reportedAt": "2026-08-02T14:15:46Z"
         },
         {
-          "id": "report-8f835980971b",
+          "id": "report-70273b4362f4",
+          "title": "Why has Trump halted Iran attacks, and what is the deal he is hinting at?",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTlFxR3BvcjBYNXBISkYtejNnMkNVZ1NhcG1Mdlg2cnpQdXV4UUNPUEFtSGkwZWtsLXljd1NXbVZ0alp6R1Q5Qi03OHhCc3M2MjZVUW04YktGQlBjR0VlMERaNnRDOGJBNFh6OVU2ZEk5VXpfRFZvSlR2YVc4RGxmVDZ2N2FDd3RPUzJQckpEdHh3U2ZUR01JQ2p5NXhPZlg2QjY0d2I2QmgzYUhWVUlRc9IBtgFBVV95cUxQb3VXTWhyWjQ1UGRDZWdVbzFHNTNRUWxCbXVDX0FHTk9XMnVWcjIwdk13S0ZURVVkeEZJcTFaQ2Q3R3ItVGxqTzVmMXVzM0haV1F6OUVEbjVwSmxpYXp6WEVoRVJaTGxuUEZHQ0d1MWZGTGxsVVlWUEthcEhXcld3a2l5eDliV2xnOE5GbTlWem8zRnFjY0tyTG4yaDlEbVJmb3VIWndsb0dkRHd6MEpSQ3FZdzJ3QQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-02T09:54:16Z"
+        },
+        {
+          "id": "report-b01a669d8101",
           "title": "US Escalation with Iran is ‘pointless’, warns former US diplomat",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX0t0MFlXRkZWenJ5a245ZHZSOUhMNkZVZlN3RHdqRGV0RmlXNEtGWDEwalFlaVJpelkzMTNnREZrR1NtRHZwbmxHYjUyOC1WS0hmNE5kT1FjQW4zdGd4UDE0NWZwSnB6ZmJ1bWZQVFRpbkhRZVB6WGY0TlpOSjlKb3hqaXRGVzFyeFFlNXlGV1RvVjZFMUVwQ1p6UE1ESnhCTEpEZk1mejJHbkZWVi1neG5R?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX0t0MFlXRkZWenJ5a245ZHZSOUhMNkZVZlN3RHdqRGV0RmlXNEtGWDEwalFlaVJpelkzMTNnREZrR1NtRHZwbmxHYjUyOC1WS0hmNE5kT1FjQW4zdGd4UDE0NWZwSnB6ZmJ1bWZQVFRpbkhRZVB6WGY0TlpOSjlKb3hqaXRGVzFyeFFlNXlGV1RvVjZFMUVwQ1p6UE1ESnhCTEpEZk1mejJHbkZWVi1neG5R0gG3AUFVX3lxTE9NalV1VUdKNG44MTM2b3JVRlFGYS14VUZtdDYyZ0FxNDBaX0hSd3ZYVlRLLUdfeFJUOF93Zzd0bVhDT29iMEwyNkQ2dGl2QXFaODZSMXZwZTVjUTQ2MlJDNHpYQ2NuV2dDVDRralRtQlhGdHZVaUpDMzZlWXVXclg5d0Q1VzROaUJiRzBXbXd1Ql8zY3R2ZUtfQXNTZkZEOHhrMnJJYXBHYWl0eHBYaHY1MTNSTlJLcw?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-07-31T00:27:33Z"
+        },
+        {
+          "id": "report-35ab115ecb20",
+          "title": "Ethiopia-Tigray: Hundreds flee fighting in northern Ethiopia as fears rise of return to civil war",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sbUQ2RkdYaGo4ZnJKUm9HVlczZnU3MHFUTTd2WHRDZDE3U0xhTTZvZzRILU0xUFVGaXFhRFdDVHdjRzQwM2dDMU1EOVdKeUp5eFpRRlBuVGxKQQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-03T11:49:48Z"
         },
         {
           "id": "report-460e060cb1b9",
@@ -626,15 +653,6 @@
           "reportedAt": "2026-08-02T15:55:23Z"
         },
         {
-          "id": "report-8e10b0fb6198",
-          "title": "Trump says Gulf leaders' input weighed heavily in decision to hold off on ordering new Iran strikes",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZy05LW5ObUpORjFnYnd6WWR0UmJrOVVXR19TU1JqcFBxdUtwMGRGZm5DX2hNZ3h0dWhRWk5Rd3M1cGY5WnpneE85T1JDOEdtYnZUMWl0b1AwN0JseTRCQTNmVlllQzN1djg3RzIyWENCdGx2SzdZSXJLNHJJeXFPVHVwc292NnlCbDJTdDhHQ3ZURE0zaEJvdHR2dkxyRVk1a1FoTmtoZw?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-03T02:03:00Z"
-        },
-        {
           "id": "report-aa81921d8499",
           "title": "Who will shape post-war Iran?",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9TM0VXZ0thZmxVMmRZTXJuV1RpT25zMjZxWXkxYVdZUjZXMGlpRUhsS21XdF9nUHlBZ3haSVRtaG9sV3lnY3V2SktuSDF3Y1oyaE5vNDAxeDYtLWpod1g5MHdyRGdGZ01WRUg2NDVjWXhyQmtNelR4OEw5MHDSAYIBQVVfeXFMTUdIRE9EeDkxaGZicm9TYzhxQmtra2FMcmdieExEcHBaME1SWjY4VEhiOW1WRzU3czZHcnQ4eFcxQ3Q5ZWUwdUpwRjhRT0VpWVN2OVpnaloxYkhNM19raHVSNTZneTlueHB4eUYwV3JTakpxdVkwQXFsejRNTjZLdUtVZw?oc=5",
@@ -644,13 +662,22 @@
           "reportedAt": "2026-08-03T12:15:35Z"
         },
         {
-          "id": "report-70273b4362f4",
-          "title": "Why has Trump halted Iran attacks, and what is the deal he is hinting at?",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTlFxR3BvcjBYNXBISkYtejNnMkNVZ1NhcG1Mdlg2cnpQdXV4UUNPUEFtSGkwZWtsLXljd1NXbVZ0alp6R1Q5Qi03OHhCc3M2MjZVUW04YktGQlBjR0VlMERaNnRDOGJBNFh6OVU2ZEk5VXpfRFZvSlR2YVc4RGxmVDZ2N2FDd3RPUzJQckpEdHh3U2ZUR01JQ2p5NXhPZlg2QjY0d2I2QmgzYUhWVUlRc9IBtgFBVV95cUxQb3VXTWhyWjQ1UGRDZWdVbzFHNTNRUWxCbXVDX0FHTk9XMnVWcjIwdk13S0ZURVVkeEZJcTFaQ2Q3R3ItVGxqTzVmMXVzM0haV1F6OUVEbjVwSmxpYXp6WEVoRVJaTGxuUEZHQ0d1MWZGTGxsVVlWUEthcEhXcld3a2l5eDliV2xnOE5GbTlWem8zRnFjY0tyTG4yaDlEbVJmb3VIWndsb0dkRHd6MEpSQ3FZdzJ3QQ?oc=5",
+          "id": "report-fbc36e565ba0",
+          "title": "Trump cancels Iran strike, says ‘deal perimeters’ reached",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVEljRnczZFZtcGFZTzFxVW1tV21sS01MSVpPMkZGNXNCbDZ1TkRtNE9SeTQtRmlHclVUS18wNTZvbWZKQzZXQTdHWkIzWHlPQjRmcC12Ym9SaHZMSUdjQ0Q5bEZDZWJBelVvZWwtVE9helNKYXoxWkx3akRvYzJUX0k5MF80WmNFdDFpdUw4bE5EODRTZU9WUEZ30gGfAUFVX3lxTE5iZEZrWUxSM0xsZ2JaMTRiVjBBcmp5ODFSanpZallaZDZUM1pjVXBGWEtVRGtjOVJnYlYzNkdjdVlDRlplMGI4eHNSOVQ5TW9TTlJPNHEyUlQ3R1A1S2I4b0ZvVXZacEJqcGJHNC1qLWF5Xzc3cENXYnRQUjM2VHhQWnd1WXNqZ0JobU5WOUYtT3VSanFOY0ttclZjU3hvaw?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-02T09:54:16Z"
+          "reportedAt": "2026-08-02T03:47:43Z"
+        },
+        {
+          "id": "report-4cdaab36be00",
+          "title": "Israel defies Trump’s peace plan as it escalates deadly attacks on Gaza",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORGstcFRLbFMwcUZybG8yc3RiM3owWHJFeWhGbkdKYlhYdWRuSlBnTVEtOUhRdHRPc1JkWWlNX3JtSzdMM3hBazN5RmJ6WWREWEppM3VETTZ2c1pZTVJDV01ETFplZ3M4QWdoRWpmNWtmUWNleVRCTmtMSDBqNC02b0NDa2lSb21mWHhrbUt4QzNhY2JlS0FXYkRyYllha183WnFvNnlRbDJXYTd6WnVJ0gG0AUFVX3lxTE5VMXlvR3hiUnlBYjNobGxIU1ZiNXYwVXlVODJMUmxPWU5TVzI3cUZCVVRaMl8tNDZJN2syT3dMYjI5T09xRnhaa2VCeWpNMnJYTWRwMmd3MjJrWVo2ZXhfQXk2MmotYXhLZFRqZndnTE9fRi1oT3YwNnI3aGVBMGZ4cFQ4NkI1LUlqcTFBbnlBUkZFUmZROXZaR3l0M2VJQkFMMm9fLXJNRERuTmVHYnNkLWlobQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-03T11:03:19Z"
         },
         {
           "id": "report-9d93485d8a69",
@@ -662,13 +689,13 @@
           "reportedAt": "2026-08-02T22:53:16Z"
         },
         {
-          "id": "report-792b16519a4b",
-          "title": "Iran: The Making of a War",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOXlhQ0RCNDduQmNJaTYwanl4aTduRllvamRuQmpZQVg1M0t3T1h0YW1BYnVycWlYdUUzY3VuYURZaFBzUFpNT3c3NExCX2xHb2s5XzFVdHM4VThKd2o0bFk1Z3dJbU9vOW9IdEtQWGpWektfdE9vaXQ1RlJTN1NHdjIzSUdGUkJCbEpKWXhDVnNmd9IBlwFBVV95cUxPWVJ6NG51V2tHeXdPTEs3SjdPbWZKRm9UdEJaTGc2M2o0Nk16VUpJQy1iRTROVGpmeVdYY3FlSllxa3U3Mmk1bVJGRFdGLXVfSXRiQlBTNzFHOVVmQ0lNMnd6Q0FGSFd5VjF5ZnA3YW9XX0FUdUxaN1pZaWdET1B0S3JwSTZnYy14QWZXRjBqY2V4aE5sRl9R?oc=5",
+          "id": "report-11039bfe9b9b",
+          "title": "‘Marathon’ shines light on Gaza’s orphaned children and humanitarian crisis",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWDhqN2x0cGdJUFR3VkVkRG5qckp5ZDM1T3gtVzgtUzBLUHpIbk1YdjQweWJCRUExQjNraW9EeHdmRHpRZWE4aU5RLWIwZWtNSV81a2JPY0tpb082Sk1yblVNYVFabkt3SnVNSERNMTREZlUtUXZ2QURDNURacWJrWjNMdjZnTXBnNlUzamJRUUtZbkdxUG9DSmctQXNNVzgwQlZMT0ZCNlQ5eE11VmFfanZn0gG3AUFVX3lxTE5uRXdWZDF4OUUwTjQwU2t1aGhBdEtXc0JickpEYlNjYWpvaDUtRld2WkNwV0x5dnZ2WVIwNTJHeHg5aldwWllwUG1zemxjMWY2dzU4aWlQR3lEQ3dpWk5mSEhHZHVoVTE5TGdxU3EzblVqeHkwaHNHX0cwdlNfcFo4UEdmb1Q4TGotWTNaaHI0OXNkcnRKazlTY3BzLWI1cjM4TFFncHpSRFhPX0d5eC14TElVSmVHdw?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-01T10:37:36Z"
+          "reportedAt": "2026-08-01T18:09:16Z"
         },
         {
           "id": "report-825d56d727c6",
@@ -680,13 +707,13 @@
           "reportedAt": "2026-08-02T17:06:50Z"
         },
         {
-          "id": "report-11039bfe9b9b",
-          "title": "‘Marathon’ shines light on Gaza’s orphaned children and humanitarian crisis",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWDhqN2x0cGdJUFR3VkVkRG5qckp5ZDM1T3gtVzgtUzBLUHpIbk1YdjQweWJCRUExQjNraW9EeHdmRHpRZWE4aU5RLWIwZWtNSV81a2JPY0tpb082Sk1yblVNYVFabkt3SnVNSERNMTREZlUtUXZ2QURDNURacWJrWjNMdjZnTXBnNlUzamJRUUtZbkdxUG9DSmctQXNNVzgwQlZMT0ZCNlQ5eE11VmFfanZn0gG3AUFVX3lxTE5uRXdWZDF4OUUwTjQwU2t1aGhBdEtXc0JickpEYlNjYWpvaDUtRld2WkNwV0x5dnZ2WVIwNTJHeHg5aldwWllwUG1zemxjMWY2dzU4aWlQR3lEQ3dpWk5mSEhHZHVoVTE5TGdxU3EzblVqeHkwaHNHX0cwdlNfcFo4UEdmb1Q4TGotWTNaaHI0OXNkcnRKazlTY3BzLWI1cjM4TFFncHpSRFhPX0d5eC14TElVSmVHdw?oc=5",
+          "id": "report-792b16519a4b",
+          "title": "Iran: The Making of a War",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOXlhQ0RCNDduQmNJaTYwanl4aTduRllvamRuQmpZQVg1M0t3T1h0YW1BYnVycWlYdUUzY3VuYURZaFBzUFpNT3c3NExCX2xHb2s5XzFVdHM4VThKd2o0bFk1Z3dJbU9vOW9IdEtQWGpWektfdE9vaXQ1RlJTN1NHdjIzSUdGUkJCbEpKWXhDVnNmd9IBlwFBVV95cUxPWVJ6NG51V2tHeXdPTEs3SjdPbWZKRm9UdEJaTGc2M2o0Nk16VUpJQy1iRTROVGpmeVdYY3FlSllxa3U3Mmk1bVJGRFdGLXVfSXRiQlBTNzFHOVVmQ0lNMnd6Q0FGSFd5VjF5ZnA3YW9XX0FUdUxaN1pZaWdET1B0S3JwSTZnYy14QWZXRjBqY2V4aE5sRl9R?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-01T18:09:16Z"
+          "reportedAt": "2026-08-01T10:37:36Z"
         },
         {
           "id": "report-676ef0e173ef",
@@ -698,15 +725,6 @@
           "reportedAt": "2026-07-31T10:00:00Z"
         },
         {
-          "id": "report-f5c24acbece1",
-          "title": "Iran’s leaders show a united front over the war but are divided over what the goal is",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRHVlUnB6RFd3NEl1N0l5Q2RvNVVISGRjSXhyX2ZoRURSbTVmd0RJNlg3eDY5a3dfOTBjNXFkX1FLaGxveDg0SUlpc2Vrbm5DbmJval8xci1NazI1eWFSS0IyNkpDNUFkMURvZHRVVklOZ0hFUUZxY0R6ck5sMkpiMHBQczFuVUdLT3JHOEdKdHJaTlJPS0ZJdjliUjlYdlBaSW9YMQ?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-02T04:00:00Z"
-        },
-        {
           "id": "report-5b16e668f369",
           "title": "Russian and Ukrainian strikes kill 14 on both sides",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNjJraExWMWtxcUNOZ3N5c25vajR5cmFaamFrbng4eEVMVEpSN1FOMGd2eUtDUUx0czgzOXpfdW9EZFVja1ZsaTJ0TWVzRVlkNXp2SXEwYmh0aXV3WFRJb3lQQVFfN3k4YWNFRlVhckhMOWRZOEV2RWVHdmMtYXRzaWNBRkFPZS03UHduTEthOHNGOS16UFBrOHctWjMxN1JuR3dWTW55YlU3QdIBrwFBVV95cUxNeXA5R1laeHFMQ1VheTV4Zzg0TUQzZ3gwUGpiLUNMUUZ6cW9jMmpNUDY0NTFOcThUYVhtU0RDaHBjUFRrZFdHU0RUVjF3NlNES25GRGFsVENuNU4tRXI1c2FqXzdBcGJlMjZYazEwbEdUekFMODBSUkZhWTBDM2U4cGg0TVlwU1NMcFFLb3NkSmVESkg2cFJRX1laeEQ1UFVfOEdlaURwZUJPdVBnTXh3?oc=5",
@@ -714,15 +732,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-02T20:58:39Z"
-        },
-        {
-          "id": "report-7d56d3aeca39",
-          "title": "Palestinians in Gaza react to latest ceasefire deal",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaDUxWS1ublJKYjBmT1VrSEV2eHlrX05XZVdnR0Zqb1p6eGprenRzVGdkTm9SVUJsNy1mZi1nb2Z3Rk14YWxObG5UenJraDZVOFE0b0I5cEZJMWtKRzBDUWJVZW9nVy1NQkd1SldLc2w4d0tsM3ZBUDNKSUxvVWJNU181aDE5VHJKRlNsQ1JxckgyVVdm0gGaAUFVX3lxTE1oSm5zbGMtYTk5T1lYSGxJVF9FMmpiX1NhQXhUQ1oxT1VxOExXTTVsd25Jai1QYVFJY081Nnh5UHZJNWd2c215MlZrOGk5cFQwTWJFTlFTSWxKNHBvaFpwelFHRnEyY3ZfcTVhd19RaFF3QU1zQVNfbHFGVWpnRWRCdDBkUEJLUU4zMnBjcng4WU45WE1XejFPeFE?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-07-31T13:07:45Z"
         },
         {
           "id": "report-bc33c79a26ed",
@@ -734,15 +743,6 @@
           "reportedAt": "2026-08-02T03:43:00Z"
         },
         {
-          "id": "report-33b6314da431",
-          "title": "Trump says he will order halt to Iran strikes after parameters reached for deal to end war",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdjdiZU1CVmhFWmRaYWtqRW82NnNUMEZjRzNlR293WTljQW1McXpnY3BiLXdWbVdobmRIdUJDVmVuWngwUHRVSUtyMkJjejRkQTl4WU0xc2xfcFpwaHBKamZGdUNqd1RIblhERllZY01hYjlmVUdOblVIVGxjTjVqVndGSURnTGJ5M2U5Vkp6dDVIRHZPZW8wTmRYaXl4WmQtejR6SzFBaw?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-02T02:58:00Z"
-        },
-        {
           "id": "report-e74ec74599c3",
           "title": "Ukraine strikes Russia’s biggest retailer again",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONE5uYzFTUkN1Rk4ybk83UVo0eXlFeXpZMTN4UWNGT0xkRnJGWk1ldGU1UTJVc2w1czJBLU40cWNUekxFYlkzOTExUnBrRUtfcThFMDNER0tTd3lKTUFYcXZpd1RoYXFNZzRMb3VGQVFsODVVWTljVk5oenZ1dHU4TkJoNElSODVBSFlTdnR0eTRONTMyLXl4X1h30gGfAUFVX3lxTFBfdkRCRnQwQ2ViTGRLbDFKRjluOWE3bW0tVVYzYloweW0xLWVLVzR3MW5FQmI1OElFUGkzU1RGTXRwMW5KYXRUM0pkcS1LLU4tTzRnLVhya3FsV0VhOUJyNDQzV1dMSDdfc01EdmNyX3lkWTBlWUI1anVBVVExaUh5YnRyQUVBaUNMeFREdFl0dy15a0FaY19oMHVCNzg3bw?oc=5",
@@ -752,49 +752,49 @@
           "reportedAt": "2026-08-03T11:19:05Z"
         },
         {
-          "id": "report-534f0e3c3ab2",
-          "title": "Poland protests to Russian ambassador over missile incursion",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNd2tTRXJsMnk0M2F4c2lvWHZ0MkgzajNyQ1o2dm1zSjFxbWstbC0yam9ZdEViV0VmazBSYnNMbnBKaFpHbm9TOXgxNUhUVlZJak5DU1BRM2xqSlNaTDhsNXk4UFQwLWdYTHM3MW0wdXdsX1gtZHZweU1XWTdDa0VaQTR5NmUwQ0o2NklVS1ZmMWtyUjE2blN3Y21vakJISEtfNWhN0gGoAUFVX3lxTE8wWkViemdwcEVLUDdWbHhrOVNFVHNLdW9KSjE2azdKUWl6R05rM0h1cHFZNVBIMmlWVXRrNUhXMWxBeWhzZnltU0xuR2lndFVndzlvY3NjWGV6endsaGVuWVVLMmhKTzhjc1dDYlZ6R0N4R3dfLXNQaWFoVWkwY19pa0pub3JWVTJ5RzRkdWdQcVY0TWYxZHNEZTlYTnF6VU0tbjVzdFNxLQ?oc=5",
+          "id": "report-c8fa6f171b9c",
+          "title": "US Arabs eye ‘historic’ Senate win for Abdul El-Sayed despite AIPAC attacks",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYnRFc3BRQTBxZ2VqMklDV2V5RUJhRTROZFUyS1pCM085REhnTGhNXzBnZVRwemlmNUxfdnZSZGVXTFd4NUNiRVlna0Ffd3p0clllMWZTazFVQ1VSdmlkdHRxamo1OXIxdTQ0cWF2THFuVHg4VWdxV2xVcDBMSC1xV2hVdWVsOHRaMVdWX1ZjUktFcnFmamFWU3Z6YkdsejhhaWtCQm5TaGpvLWVjQWFWLXNGNNIBuAFBVV95cUxOSVNmN3Btd1F0TmVRQ0wxbEJXT1BqY1FFTDJSWGJfYUFjdnpuS05BSWktNzVxQmx0MVNYVU9yclBhWmQtMnloQ2ZSZ1Zxejg1TGNocTJjeUpVNkRBd1REVkZ3a0E1QnB2SVdEb1B1dWhBM2FPS3pJUEpsMWNWVkFaSmxzSm12WEg3VFhGLTFvZ1c3ZnFJOUxKSElBSkdxNmQtSm51OGNEaW9VcTY1NHY0YkFOTEV2NU9E?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-07-31T19:59:15Z"
+          "reportedAt": "2026-08-01T22:39:46Z"
         },
         {
-          "id": "report-21324fe747d6",
-          "title": "Three dead including female bomber in Moscow restaurant attack",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYjlKZ0dOVzdjQnJrbWJOcThaUzVreC1WWE5pRndOLXB5TzRlSWJPNWJ0OGZJRW1DR2RibzZHRTlsRGpyNTk0SDA1OTBlZ3UtVjkwS0l3OVQ0UERGSDROWXZycF90RDMwR3FoZC1JOVhNMHItWHYxY2JsMnR2a000V0RZMldmcTJTUjJRZWlMX095MHpiQ016MDIzbExVRXRvV1Ata0hqNkVObUxfNkZtRWtn0gG3AUFVX3lxTFAtamt1ZXFkU2xlckl4WkxtQmlUTW4xVFJoWEs0ZGR4cGQ0ZEpFX1I5R3R1eU5EOWN3bXdod0dCb1Y4aGRzT25PTnBwalVBY1hLaURLQ1dJQ3BQNV9pbGpMc21pM2ZXRFdJOFd4ZjhOTFpuUjlpQmlWM0xoQUdrdDYxUEdibzhLa2FLME8zT1R4V2dDWWhDS0ZQV2kyaHp6UzNEY284M1dTclNzRU42M1J3cWZCWmZtYw?oc=5",
+          "id": "report-7d56d3aeca39",
+          "title": "Palestinians in Gaza react to latest ceasefire deal",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaDUxWS1ublJKYjBmT1VrSEV2eHlrX05XZVdnR0Zqb1p6eGprenRzVGdkTm9SVUJsNy1mZi1nb2Z3Rk14YWxObG5UenJraDZVOFE0b0I5cEZJMWtKRzBDUWJVZW9nVy1NQkd1SldLc2w4d0tsM3ZBUDNKSUxvVWJNU181aDE5VHJKRlNsQ1JxckgyVVdm0gGaAUFVX3lxTE1oSm5zbGMtYTk5T1lYSGxJVF9FMmpiX1NhQXhUQ1oxT1VxOExXTTVsd25Jai1QYVFJY081Nnh5UHZJNWd2c215MlZrOGk5cFQwTWJFTlFTSWxKNHBvaFpwelFHRnEyY3ZfcTVhd19RaFF3QU1zQVNfbHFGVWpnRWRCdDBkUEJLUU4zMnBjcng4WU45WE1XejFPeFE?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-02T04:48:27Z"
+          "reportedAt": "2026-07-31T13:07:45Z"
         },
         {
-          "id": "report-7de89cf7257f",
-          "title": "Israel kills 19 in Gaza as attacks escalate despite latest Trump plan",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ19adVVFZ2hWV2R1X3djN25IMGczbkFPbXRweTlqamRJYmRPaWpIazlFYUIwNE1zZmZBVXFDbXBjRkZnWnk1d2Rhb3RwSC1XUFBudWNJdnZTdG1MY3ZOV21sdHhVQno5ZllJQ3dnR19UZ20zNTJVeFJPb2JYRms2RkxqOGVqcnVzcUpIemlUNllMT25BakRSNGJ0Z1M2SVh4Vmg3YXpn0gGrAUFVX3lxTE96V2pjZk5iM3lyOTcxV2l3TXlreTNvd2xLYm5BdDZSM0ZWWnJGek9iS2t0RlhMZlBLc2FFVzZBNjZPbktUSDkzNWVjejNpbUkxYlFUdUgxLUJrWFFkVjduam5qZDQ0M0VMYU1NMDJ1cTU5NVhoZkFsNk5CWDNrakZMNnFSVC12cTMtU2VWMEl3VDRQSmllTUlyMmpEcGFqdDBUb1duRVBsZDJBSQ?oc=5",
-          "domain": "aljazeera.com",
+          "id": "report-33b6314da431",
+          "title": "Trump says he will order halt to Iran strikes after parameters reached for deal to end war",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdjdiZU1CVmhFWmRaYWtqRW82NnNUMEZjRzNlR293WTljQW1McXpnY3BiLXdWbVdobmRIdUJDVmVuWngwUHRVSUtyMkJjejRkQTl4WU0xc2xfcFpwaHBKamZGdUNqd1RIblhERllZY01hYjlmVUdOblVIVGxjTjVqVndGSURnTGJ5M2U5Vkp6dDVIRHZPZW8wTmRYaXl4WmQtejR6SzFBaw?oc=5",
+          "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-02T14:15:46Z"
+          "reportedAt": "2026-08-02T02:58:00Z"
         },
         {
-          "id": "report-818227281bc2",
-          "title": "If Hamas disarmament plan holds, it could mark first credible step to ending Gaza war",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FVU9JcVZLeXpEbVRNVjJDdVNtRDNURXB4cjJrcEhoZjNaSlBRWHlqcWV0ZmtSYkIxZlJTWUlJaWk0TmVjUFgtZkhqSzRzb2JVby1ZVXduTVFrdw?oc=5",
+          "id": "report-2e0e538dbe31",
+          "title": "New talks are 'last chance' for Iran to forge a deal and avoid escalation of US strikes, Trump says",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQektERUZodzkzOXlDY2NnVEhHRzF4eElSdXV3VG1Gd2Ria3FNbUdLS3VKUFhiRzhpTHVwT3k2WXJxanZRNVNQRjJEQjBsSGl5cGV5TVViTXhDMUY5WDZPRnduaE96cFQxMVgwc1FVQl9KMThMOFRlVl9VM04yOE42cVI0eGo3YUhzWGFWeUk4bw?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-03T19:58:00Z"
+        },
+        {
+          "id": "report-55723f4337db",
+          "title": "Threat to oil tankers in Middle East worst since start of Iran war, analysts say",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mcHZLclUtbzRtOW9uNVdyNFNZWVZwWjB0bzQ0aFB5RVZTQXQyZWIyY093RW1mbU5pQ0NaZFZHemNCbFBNRzFRUEtxdnFiYWVCbWpYSFI1aWltZw?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-07-31T04:25:49Z"
-        },
-        {
-          "id": "report-31e6832ec385",
-          "title": "Russian missile attacks kill at least nine in Ukraine’s Kyiv",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORXV2dkxDX25CSFZ4RVpvYVdYWXIzOTJmNnBNVlNteTV4dTd3akFzLTUzek9Hdm5FSDdYRjNnSDM3eTFnSDNaX2oyMFdGRTgzZnZ5XzRVVzBKbGNaQkVxOHZPUFZSNFVoVmphdkVYeEtGTTFKME51dlRsRUJ4YkZJbXVKU1d5bFoyUng3WHNGMHVYVXdFdkHSAZsBQVVfeXFMUDZ0SF9oTDlZaHdWci1Ya0M1d04yelNJZ2U2NXlEaVVpSXF4TDRVU0JRTUFHVUNFS2syRENvQWdfWXdJckdPNEFpNmx6R2dSWUN2QjltLTViVllnMWNPQVAzbGRTZmhMY2xBNmpJa0U0NmJXSkY3M01ZdnFMYkhvWnhzNTFsaHRCRVpRZmR3YzZyV0JJTkxBbTNRSW8?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-01T17:48:45Z"
+          "reportedAt": "2026-08-03T15:57:27Z"
         },
         {
           "id": "report-dd2a1637dc48",
