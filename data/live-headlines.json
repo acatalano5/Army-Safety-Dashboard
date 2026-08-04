@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T10:19:54.655Z",
+  "generatedAt": "2026-08-04T18:19:29.435Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-08-04T10:19:54.655Z",
+      "generatedAt": "2026-08-04T18:19:29.435Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -383,7 +383,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-08-04T10:19:54.655Z",
+      "generatedAt": "2026-08-04T18:19:29.435Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -411,19 +411,19 @@
           "pinned": false
         },
         {
-          "title": "How to end the ‘Hormuz war’",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLQVRJbUJ4Y1BKNm5kblNlV2RpT055M2p1eEdLX2QyMFdRREZqT0U1TGYyODV3TTVGXzFQUDR3QmE0T0NkYjI2b0pJMVdMcXVQNk5GVHpuOE5WQ0NhQXJVOVhkT1cyckl3cDlZS2Ficmlib3PSAXhBVV95cUxQU3F6aFFVNWR6SUVLdGJ2MUt2WDRtVkx1ZVdaZWdPQUZoQWh3bFYzSFVRaVVza3RTT2FQc2djT1QzeFVxUEp2Z3J4RnVSSlZNQ1BQVllKb0gzTEVYQ3dzekNfa1BkU2NSRGM1YUFESDR0dF9SRWJVcF8?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260802T155523Z",
-          "pinned": false
-        },
-        {
           "title": "Ethiopia-Tigray: Hundreds flee fighting in northern Ethiopia as fears rise of return to civil war",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sbUQ2RkdYaGo4ZnJKUm9HVlczZnU3MHFUTTd2WHRDZDE3U0xhTTZvZzRILU0xUFVGaXFhRFdDVHdjRzQwM2dDMU1EOVdKeUp5eFpRRlBuVGxKQQ?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20260803T114948Z",
+          "pinned": false
+        },
+        {
+          "title": "How to end the ‘Hormuz war’",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLQVRJbUJ4Y1BKNm5kblNlV2RpT055M2p1eEdLX2QyMFdRREZqT0U1TGYyODV3TTVGXzFQUDR3QmE0T0NkYjI2b0pJMVdMcXVQNk5GVHpuOE5WQ0NhQXJVOVhkT1cyckl3cDlZS2Ficmlib3PSAXhBVV95cUxQU3F6aFFVNWR6SUVLdGJ2MUt2WDRtVkx1ZVdaZWdPQUZoQWh3bFYzSFVRaVVza3RTT2FQc2djT1QzeFVxUEp2Z3J4RnVSSlZNQ1BQVllKb0gzTEVYQ3dzekNfa1BkU2NSRGM1YUFESDR0dF9SRWJVcF8?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260802T155523Z",
           "pinned": false
         },
         {
@@ -459,14 +459,6 @@
           "pinned": false
         },
         {
-          "title": "Oil prices drop after Trump orders US forces to hold off on new strikes against Iran",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcEZkWTg3a001MVcwRG1xUHMyZEswTmlEdWZTSjhHc0ZoTDhjcHJjeG9RajROSHJRQzV1RHQyMTJtTFo0czE3NDRnUzJlcjZZblZtRzZZRWlFODlUZEhoeU1ETzJiTlEwWGQ5RU5XS1pTV2Fib2FnWXJNRHhkRmx4MDlwUGkzTHVxcFc4VzJB?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260802T230200Z",
-          "pinned": false
-        },
-        {
           "title": "Sudan army drone attack on Darfur kills 35, rights group says",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYnktTWNUUzM4dUdhQzBjWDRJNk53aWlzdERKYW5rREROeVhIMk9xeHNRZTFTRGpYWHQ0MDJ6T2ZmbG5GbDZyTC00Sjc4ZDVvSDNfenZ6bFJUVVdsTnFWTHdfZTVJelpSTFRHcTlNWjhTaWtFdDQ2Umd0eXNXRFp0cldJTHo3Vk1xY2c1bk5nRjFLNFdPZEJJUUhGU2dLVnFqbUHSAacBQVVfeXFMTW05XzA3aHYzcVUtcG5GN1lGRDNrNWt3X3IzLWF1RlY5VC1GdVFDUWVyeHVrUTRLZVhsa1JzaGI2cUVTZkZnVjFDX1BveFFaZnNWaEVRWkxuQW1OdHRnRnRKaWI1dUlsVzE0d0MwTVpGQloyXzJQUEtweXFPUDhQWW9fMFZiMk54S1RPVURLZF9JLWRyM3NNc0ZyZGI3bzRhV1FYZlJVbWc?oc=5",
           "domain": "aljazeera.com",
@@ -480,6 +472,14 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260801T103736Z",
+          "pinned": false
+        },
+        {
+          "title": "‘Iran war participation trophy’ mocking Trump appears in New York",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYUpsYzVqOXR0Zm5jNlhtM3FxU182S3JGTFV6QUJxZjd0bTBwSEk2TUlyUlItTXptdk01amNmU29EVWVwLVE0Q1gxb0ljQlNDMzV5WmkxYUl0dGIxUllKLUFueGp0UE1YSERQNDE2MV9hZWhVQ2xZb3lKcG1Pa2ZfeG5FZkVrTTZwaVRDemU3cVpDd3RfX3hrN1V4WXo1RGxJcVRNMTJUclJhZWxsQnJNQzhXSdIBuAFBVV95cUxOdFRTRW1iX0N6RnlGTXd3RHJkOTlrN3JfX1pobjA2UnpkVmtGM3RVN080cmFETXRVanRHbmJxVUgzWnJRUkdWdUZacUpPX1RVcFZrTGdVTUtRNnFMM2txTHo1SE1QaF9mYm9VWU9pZ2RrdVdWcEY3NDR4TzJwQlppWi1CRW5SVU9zSXhRLXVTVGJzaGMtX1NlS2dxOW1jOVB6LWxZQk81cXFSTE5VLXR4WEpfX1lTbTlm?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260802T170650Z",
           "pinned": false
         },
         {
@@ -499,6 +499,22 @@
           "pinned": false
         },
         {
+          "title": "BP's $5.7bn profit highest since 2022 as Iran war pushes up oil price",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5USVJWdmRGb3JNSmpfOXNUUWdOZmd6RUd3VUVoNWFJRUhWVmRYV2l1ZmxuWUhxTHphaThKN3lGbXRuZ3dveVlLamFXMS1JYXRpdjRJZkozTkYzUQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260804T100705Z",
+          "pinned": false
+        },
+        {
+          "title": "Threat to oil tankers in Middle East worst since start of Iran war, analysts say",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mcHZLclUtbzRtOW9uNVdyNFNZWVZwWjB0bzQ0aFB5RVZTQXQyZWIyY093RW1mbU5pQ0NaZFZHemNCbFBNRzFRUEtxdnFiYWVCbWpYSFI1aWltZw?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260803T155727Z",
+          "pinned": false
+        },
+        {
           "title": "Ukraine strikes Russia’s biggest retailer again",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONE5uYzFTUkN1Rk4ybk83UVo0eXlFeXpZMTN4UWNGT0xkRnJGWk1ldGU1UTJVc2w1czJBLU40cWNUekxFYlkzOTExUnBrRUtfcThFMDNER0tTd3lKTUFYcXZpd1RoYXFNZzRMb3VGQVFsODVVWTljVk5oenZ1dHU4TkJoNElSODVBSFlTdnR0eTRONTMyLXl4X1h30gGfAUFVX3lxTFBfdkRCRnQwQ2ViTGRLbDFKRjluOWE3bW0tVVYzYloweW0xLWVLVzR3MW5FQmI1OElFUGkzU1RGTXRwMW5KYXRUM0pkcS1LLU4tTzRnLVhya3FsV0VhOUJyNDQzV1dMSDdfc01EdmNyX3lkWTBlWUI1anVBVVExaUh5YnRyQUVBaUNMeFREdFl0dy15a0FaY19oMHVCNzg3bw?oc=5",
           "domain": "aljazeera.com",
@@ -515,19 +531,19 @@
           "pinned": false
         },
         {
-          "title": "Threat to oil tankers in Middle East worst since start of Iran war, analysts say",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mcHZLclUtbzRtOW9uNVdyNFNZWVZwWjB0bzQ0aFB5RVZTQXQyZWIyY093RW1mbU5pQ0NaZFZHemNCbFBNRzFRUEtxdnFiYWVCbWpYSFI1aWltZw?oc=5",
+          "title": "Russian anti-war politician says he has fled the country",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rX1ZwN2VJTGFmTmZ5X0Vpd0E4YWRSOWZsNC1BaEw4ekpsSkFhUkp4LWNjSzJmYkZDeDQ3eF9WX01YcGlFalU2UzllVmpGdEZwTEp0TXZCNFhQdw?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260803T155727Z",
+          "seen": "20260803T154108Z",
           "pinned": false
         },
         {
-          "title": "Israel kills 19 in Gaza as attacks escalate despite latest Trump plan",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ19adVVFZ2hWV2R1X3djN25IMGczbkFPbXRweTlqamRJYmRPaWpIazlFYUIwNE1zZmZBVXFDbXBjRkZnWnk1d2Rhb3RwSC1XUFBudWNJdnZTdG1MY3ZOV21sdHhVQno5ZllJQ3dnR19UZ20zNTJVeFJPb2JYRms2RkxqOGVqcnVzcUpIemlUNllMT25BakRSNGJ0Z1M2SVh4Vmg3YXpn0gGrAUFVX3lxTE96V2pjZk5iM3lyOTcxV2l3TXlreTNvd2xLYm5BdDZSM0ZWWnJGek9iS2t0RlhMZlBLc2FFVzZBNjZPbktUSDkzNWVjejNpbUkxYlFUdUgxLUJrWFFkVjduam5qZDQ0M0VMYU1NMDJ1cTU5NVhoZkFsNk5CWDNrakZMNnFSVC12cTMtU2VWMEl3VDRQSmllTUlyMmpEcGFqdDBUb1duRVBsZDJBSQ?oc=5",
+          "title": "Why are oil companies posting record profits amid Iran war disruption?",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT1JuMkFnZG9sOWxZLVIwSjhiaHBqUEhETzRrN2JtUEI2TC1jeHlXb2pVSElSeUlRWEFpNWVBRVY5N1JzYWl6c2F5RTdURDRIM3d3UTlJRWVpcDFfSUdsVmFXTkRtNG1ZMWZhZ0hYYVkwRkpBelZrRVphSWhkaF9JYzJPUmw0b1QxbFZFVzI5X0RZc3oxRHZVWDFuZ01mekM1QXhIRDJlcWNNVm5NbHV4VF93SdIBuAFBVV95cUxNUGNjWkxiV09lbUtOV1hlbEU2dEdXTUhtLW5VODAyRmhXUXN4dWczMHdrU3BrdDI3UllXVFNPUjI0MXFfSHBZMHZfWXEzWGJhd3hWUE5neDNyVzN0cHlqUGJEMjdSS21mMmNTbGNEMWk0alB2eFpmVzRCamVJbXFSRnBvUUdsNF9sN3lzVEhfSWJLdFNzclpDUmdlVUVycjdGaTB0cW5YaFlRRXdsYl9SVGdib0R0TjZf?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260802T141546Z",
+          "seen": "20260804T140633Z",
           "pinned": false
         },
         {
@@ -539,6 +555,14 @@
           "pinned": false
         },
         {
+          "title": "Israel kills 19 in Gaza as attacks escalate despite latest Trump plan",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ19adVVFZ2hWV2R1X3djN25IMGczbkFPbXRweTlqamRJYmRPaWpIazlFYUIwNE1zZmZBVXFDbXBjRkZnWnk1d2Rhb3RwSC1XUFBudWNJdnZTdG1MY3ZOV21sdHhVQno5ZllJQ3dnR19UZ20zNTJVeFJPb2JYRms2RkxqOGVqcnVzcUpIemlUNllMT25BakRSNGJ0Z1M2SVh4Vmg3YXpn0gGrAUFVX3lxTE96V2pjZk5iM3lyOTcxV2l3TXlreTNvd2xLYm5BdDZSM0ZWWnJGek9iS2t0RlhMZlBLc2FFVzZBNjZPbktUSDkzNWVjejNpbUkxYlFUdUgxLUJrWFFkVjduam5qZDQ0M0VMYU1NMDJ1cTU5NVhoZkFsNk5CWDNrakZMNnFSVC12cTMtU2VWMEl3VDRQSmllTUlyMmpEcGFqdDBUb1duRVBsZDJBSQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260802T141546Z",
+          "pinned": false
+        },
+        {
           "title": "New talks are 'last chance' for Iran to forge a deal and avoid escalation of US strikes, Trump says",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQektERUZodzkzOXlDY2NnVEhHRzF4eElSdXV3VG1Gd2Ria3FNbUdLS3VKUFhiRzhpTHVwT3k2WXJxanZRNVNQRjJEQjBsSGl5cGV5TVViTXhDMUY5WDZPRnduaE96cFQxMVgwc1FVQl9KMThMOFRlVl9VM04yOE42cVI0eGo3YUhzWGFWeUk4bw?oc=5",
           "domain": "apnews.com",
@@ -547,35 +571,11 @@
           "pinned": false
         },
         {
-          "title": "Russian missile attacks kill at least nine in Ukraine’s Kyiv",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORXV2dkxDX25CSFZ4RVpvYVdYWXIzOTJmNnBNVlNteTV4dTd3akFzLTUzek9Hdm5FSDdYRjNnSDM3eTFnSDNaX2oyMFdGRTgzZnZ5XzRVVzBKbGNaQkVxOHZPUFZSNFVoVmphdkVYeEtGTTFKME51dlRsRUJ4YkZJbXVKU1d5bFoyUng3WHNGMHVYVXdFdkHSAZsBQVVfeXFMUDZ0SF9oTDlZaHdWci1Ya0M1d04yelNJZ2U2NXlEaVVpSXF4TDRVU0JRTUFHVUNFS2syRENvQWdfWXdJckdPNEFpNmx6R2dSWUN2QjltLTViVllnMWNPQVAzbGRTZmhMY2xBNmpJa0U0NmJXSkY3M01ZdnFMYkhvWnhzNTFsaHRCRVpRZmR3YzZyV0JJTkxBbTNRSW8?oc=5",
+          "title": "Nine killed in escalating long-range strikes between Russia and Ukraine",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNzFwblJCbVpGZUFvaGlLZ3BaRW1Hcll2TzMtVVpqXzdDNGdOVDZIYUlNSVNhNjJiS2lYekNkbks4LXhYeEtVbGpSSXhDM0RrRERaLVdZVVh1aXZMUXRLQ25pdGFqTXFtdkxENGpiSUtWWmh0ZV9Yd2M3YV9UTGNjd2JXNWpDUnBxNzFyaG93dDh0dzFfbzBZdGNkUkpSV2JMRDFrb2lHb0Ytc3dCWHJGNNIBtgFBVV95cUxOUmNOOXZhaU1wYTlyZk9CQ1hVRWhGQlpvYklsVjFWZVFzVDNZZmxVWklXYjNHMUJIX1ZjVW5YaEcxMzY3MFBNNDJtS1Rxc1FwTHZkWjdqOWZ6MnA4SEdyN25lSlJlaTkzNlhWZVFEMzUyQVBKLTJFdmlEZDl4UjY5RkdUNkQ0cGlPS2FNWko4ZkVWbU8tY2xLTXdaQl9jU05jNnhDMmRWSjFKYUtVWmZOWXFqd3RGZw?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260801T174845Z",
-          "pinned": false
-        },
-        {
-          "title": "BP profits highest in four years as Iran war pushes up oil price",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5USVJWdmRGb3JNSmpfOXNUUWdOZmd6RUd3VUVoNWFJRUhWVmRYV2l1ZmxuWUhxTHphaThKN3lGbXRuZ3dveVlLamFXMS1JYXRpdjRJZkozTkYzUQ?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260804T090446Z",
-          "pinned": false
-        },
-        {
-          "title": "Sudan army drone strike on court session kills 35, rights group says",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41MnNydWszSVNYekxnNHZCWFlnOGUyQVNubC1IXy1mTmQxTUpPaWlKbENTUkMxM015X3hoYWJJalJzZmhHeHo0RDNyRE5CQ19BbnVvRU5PZ196QQ?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260803T102924Z",
-          "pinned": false
-        },
-        {
-          "title": "Russian anti-war politician says he has fled the country",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rX1ZwN2VJTGFmTmZ5X0Vpd0E4YWRSOWZsNC1BaEw4ekpsSkFhUkp4LWNjSzJmYkZDeDQ3eF9WX01YcGlFalU2UzllVmpGdEZwTEp0TXZCNFhQdw?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260803T154108Z",
+          "seen": "20260804T113923Z",
           "pinned": false
         }
       ],
@@ -608,15 +608,6 @@
           "reportedAt": "2026-08-02T14:15:46Z"
         },
         {
-          "id": "report-460e060cb1b9",
-          "title": "How to end the ‘Hormuz war’",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLQVRJbUJ4Y1BKNm5kblNlV2RpT055M2p1eEdLX2QyMFdRREZqT0U1TGYyODV3TTVGXzFQUDR3QmE0T0NkYjI2b0pJMVdMcXVQNk5GVHpuOE5WQ0NhQXJVOVhkT1cyckl3cDlZS2Ficmlib3PSAXhBVV95cUxQU3F6aFFVNWR6SUVLdGJ2MUt2WDRtVkx1ZVdaZWdPQUZoQWh3bFYzSFVRaVVza3RTT2FQc2djT1QzeFVxUEp2Z3J4RnVSSlZNQ1BQVllKb0gzTEVYQ3dzekNfa1BkU2NSRGM1YUFESDR0dF9SRWJVcF8?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-02T15:55:23Z"
-        },
-        {
           "id": "report-35ab115ecb20",
           "title": "Ethiopia-Tigray: Hundreds flee fighting in northern Ethiopia as fears rise of return to civil war",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sbUQ2RkdYaGo4ZnJKUm9HVlczZnU3MHFUTTd2WHRDZDE3U0xhTTZvZzRILU0xUFVGaXFhRFdDVHdjRzQwM2dDMU1EOVdKeUp5eFpRRlBuVGxKQQ?oc=5",
@@ -624,6 +615,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-03T11:49:48Z"
+        },
+        {
+          "id": "report-460e060cb1b9",
+          "title": "How to end the ‘Hormuz war’",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLQVRJbUJ4Y1BKNm5kblNlV2RpT055M2p1eEdLX2QyMFdRREZqT0U1TGYyODV3TTVGXzFQUDR3QmE0T0NkYjI2b0pJMVdMcXVQNk5GVHpuOE5WQ0NhQXJVOVhkT1cyckl3cDlZS2Ficmlib3PSAXhBVV95cUxQU3F6aFFVNWR6SUVLdGJ2MUt2WDRtVkx1ZVdaZWdPQUZoQWh3bFYzSFVRaVVza3RTT2FQc2djT1QzeFVxUEp2Z3J4RnVSSlZNQ1BQVllKb0gzTEVYQ3dzekNfa1BkU2NSRGM1YUFESDR0dF9SRWJVcF8?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-02T15:55:23Z"
         },
         {
           "id": "report-aa81921d8499",
@@ -662,15 +662,6 @@
           "reportedAt": "2026-08-01T18:09:16Z"
         },
         {
-          "id": "report-4cef47d8b2a7",
-          "title": "Oil prices drop after Trump orders US forces to hold off on new strikes against Iran",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcEZkWTg3a001MVcwRG1xUHMyZEswTmlEdWZTSjhHc0ZoTDhjcHJjeG9RajROSHJRQzV1RHQyMTJtTFo0czE3NDRnUzJlcjZZblZtRzZZRWlFODlUZEhoeU1ETzJiTlEwWGQ5RU5XS1pTV2Fib2FnWXJNRHhkRmx4MDlwUGkzTHVxcFc4VzJB?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-02T23:02:00Z"
-        },
-        {
           "id": "report-9d93485d8a69",
           "title": "Sudan army drone attack on Darfur kills 35, rights group says",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYnktTWNUUzM4dUdhQzBjWDRJNk53aWlzdERKYW5rREROeVhIMk9xeHNRZTFTRGpYWHQ0MDJ6T2ZmbG5GbDZyTC00Sjc4ZDVvSDNfenZ6bFJUVVdsTnFWTHdfZTVJelpSTFRHcTlNWjhTaWtFdDQ2Umd0eXNXRFp0cldJTHo3Vk1xY2c1bk5nRjFLNFdPZEJJUUhGU2dLVnFqbUHSAacBQVVfeXFMTW05XzA3aHYzcVUtcG5GN1lGRDNrNWt3X3IzLWF1RlY5VC1GdVFDUWVyeHVrUTRLZVhsa1JzaGI2cUVTZkZnVjFDX1BveFFaZnNWaEVRWkxuQW1OdHRnRnRKaWI1dUlsVzE0d0MwTVpGQloyXzJQUEtweXFPUDhQWW9fMFZiMk54S1RPVURLZF9JLWRyM3NNc0ZyZGI3bzRhV1FYZlJVbWc?oc=5",
@@ -687,6 +678,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-01T10:37:36Z"
+        },
+        {
+          "id": "report-825d56d727c6",
+          "title": "‘Iran war participation trophy’ mocking Trump appears in New York",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYUpsYzVqOXR0Zm5jNlhtM3FxU182S3JGTFV6QUJxZjd0bTBwSEk2TUlyUlItTXptdk01amNmU29EVWVwLVE0Q1gxb0ljQlNDMzV5WmkxYUl0dGIxUllKLUFueGp0UE1YSERQNDE2MV9hZWhVQ2xZb3lKcG1Pa2ZfeG5FZkVrTTZwaVRDemU3cVpDd3RfX3hrN1V4WXo1RGxJcVRNMTJUclJhZWxsQnJNQzhXSdIBuAFBVV95cUxOdFRTRW1iX0N6RnlGTXd3RHJkOTlrN3JfX1pobjA2UnpkVmtGM3RVN080cmFETXRVanRHbmJxVUgzWnJRUkdWdUZacUpPX1RVcFZrTGdVTUtRNnFMM2txTHo1SE1QaF9mYm9VWU9pZ2RrdVdWcEY3NDR4TzJwQlppWi1CRW5SVU9zSXhRLXVTVGJzaGMtX1NlS2dxOW1jOVB6LWxZQk81cXFSTE5VLXR4WEpfX1lTbTlm?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-02T17:06:50Z"
         },
         {
           "id": "report-f5c24acbece1",
@@ -707,6 +707,24 @@
           "reportedAt": "2026-08-02T20:58:39Z"
         },
         {
+          "id": "report-3fe48c2051af",
+          "title": "BP's $5.7bn profit highest since 2022 as Iran war pushes up oil price",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5USVJWdmRGb3JNSmpfOXNUUWdOZmd6RUd3VUVoNWFJRUhWVmRYV2l1ZmxuWUhxTHphaThKN3lGbXRuZ3dveVlLamFXMS1JYXRpdjRJZkozTkYzUQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-04T10:07:05Z"
+        },
+        {
+          "id": "report-55723f4337db",
+          "title": "Threat to oil tankers in Middle East worst since start of Iran war, analysts say",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mcHZLclUtbzRtOW9uNVdyNFNZWVZwWjB0bzQ0aFB5RVZTQXQyZWIyY093RW1mbU5pQ0NaZFZHemNCbFBNRzFRUEtxdnFiYWVCbWpYSFI1aWltZw?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-03T15:57:27Z"
+        },
+        {
           "id": "report-e74ec74599c3",
           "title": "Ukraine strikes Russia’s biggest retailer again",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONE5uYzFTUkN1Rk4ybk83UVo0eXlFeXpZMTN4UWNGT0xkRnJGWk1ldGU1UTJVc2w1czJBLU40cWNUekxFYlkzOTExUnBrRUtfcThFMDNER0tTd3lKTUFYcXZpd1RoYXFNZzRMb3VGQVFsODVVWTljVk5oenZ1dHU4TkJoNElSODVBSFlTdnR0eTRONTMyLXl4X1h30gGfAUFVX3lxTFBfdkRCRnQwQ2ViTGRLbDFKRjluOWE3bW0tVVYzYloweW0xLWVLVzR3MW5FQmI1OElFUGkzU1RGTXRwMW5KYXRUM0pkcS1LLU4tTzRnLVhya3FsV0VhOUJyNDQzV1dMSDdfc01EdmNyX3lkWTBlWUI1anVBVVExaUh5YnRyQUVBaUNMeFREdFl0dy15a0FaY19oMHVCNzg3bw?oc=5",
@@ -725,22 +743,22 @@
           "reportedAt": "2026-08-02T03:43:00Z"
         },
         {
-          "id": "report-55723f4337db",
-          "title": "Threat to oil tankers in Middle East worst since start of Iran war, analysts say",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mcHZLclUtbzRtOW9uNVdyNFNZWVZwWjB0bzQ0aFB5RVZTQXQyZWIyY093RW1mbU5pQ0NaZFZHemNCbFBNRzFRUEtxdnFiYWVCbWpYSFI1aWltZw?oc=5",
+          "id": "report-8e30f0f8eae7",
+          "title": "Russian anti-war politician says he has fled the country",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rX1ZwN2VJTGFmTmZ5X0Vpd0E4YWRSOWZsNC1BaEw4ekpsSkFhUkp4LWNjSzJmYkZDeDQ3eF9WX01YcGlFalU2UzllVmpGdEZwTEp0TXZCNFhQdw?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-03T15:57:27Z"
+          "reportedAt": "2026-08-03T15:41:08Z"
         },
         {
-          "id": "report-7de89cf7257f",
-          "title": "Israel kills 19 in Gaza as attacks escalate despite latest Trump plan",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ19adVVFZ2hWV2R1X3djN25IMGczbkFPbXRweTlqamRJYmRPaWpIazlFYUIwNE1zZmZBVXFDbXBjRkZnWnk1d2Rhb3RwSC1XUFBudWNJdnZTdG1MY3ZOV21sdHhVQno5ZllJQ3dnR19UZ20zNTJVeFJPb2JYRms2RkxqOGVqcnVzcUpIemlUNllMT25BakRSNGJ0Z1M2SVh4Vmg3YXpn0gGrAUFVX3lxTE96V2pjZk5iM3lyOTcxV2l3TXlreTNvd2xLYm5BdDZSM0ZWWnJGek9iS2t0RlhMZlBLc2FFVzZBNjZPbktUSDkzNWVjejNpbUkxYlFUdUgxLUJrWFFkVjduam5qZDQ0M0VMYU1NMDJ1cTU5NVhoZkFsNk5CWDNrakZMNnFSVC12cTMtU2VWMEl3VDRQSmllTUlyMmpEcGFqdDBUb1duRVBsZDJBSQ?oc=5",
+          "id": "report-fe4a8adf04e0",
+          "title": "Why are oil companies posting record profits amid Iran war disruption?",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT1JuMkFnZG9sOWxZLVIwSjhiaHBqUEhETzRrN2JtUEI2TC1jeHlXb2pVSElSeUlRWEFpNWVBRVY5N1JzYWl6c2F5RTdURDRIM3d3UTlJRWVpcDFfSUdsVmFXTkRtNG1ZMWZhZ0hYYVkwRkpBelZrRVphSWhkaF9JYzJPUmw0b1QxbFZFVzI5X0RZc3oxRHZVWDFuZ01mekM1QXhIRDJlcWNNVm5NbHV4VF93SdIBuAFBVV95cUxNUGNjWkxiV09lbUtOV1hlbEU2dEdXTUhtLW5VODAyRmhXUXN4dWczMHdrU3BrdDI3UllXVFNPUjI0MXFfSHBZMHZfWXEzWGJhd3hWUE5neDNyVzN0cHlqUGJEMjdSS21mMmNTbGNEMWk0alB2eFpmVzRCamVJbXFSRnBvUUdsNF9sN3lzVEhfSWJLdFNzclpDUmdlVUVycjdGaTB0cW5YaFlRRXdsYl9SVGdib0R0TjZf?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-02T14:15:46Z"
+          "reportedAt": "2026-08-04T14:06:33Z"
         },
         {
           "id": "report-21324fe747d6",
@@ -752,6 +770,15 @@
           "reportedAt": "2026-08-02T04:48:27Z"
         },
         {
+          "id": "report-7de89cf7257f",
+          "title": "Israel kills 19 in Gaza as attacks escalate despite latest Trump plan",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ19adVVFZ2hWV2R1X3djN25IMGczbkFPbXRweTlqamRJYmRPaWpIazlFYUIwNE1zZmZBVXFDbXBjRkZnWnk1d2Rhb3RwSC1XUFBudWNJdnZTdG1MY3ZOV21sdHhVQno5ZllJQ3dnR19UZ20zNTJVeFJPb2JYRms2RkxqOGVqcnVzcUpIemlUNllMT25BakRSNGJ0Z1M2SVh4Vmg3YXpn0gGrAUFVX3lxTE96V2pjZk5iM3lyOTcxV2l3TXlreTNvd2xLYm5BdDZSM0ZWWnJGek9iS2t0RlhMZlBLc2FFVzZBNjZPbktUSDkzNWVjejNpbUkxYlFUdUgxLUJrWFFkVjduam5qZDQ0M0VMYU1NMDJ1cTU5NVhoZkFsNk5CWDNrakZMNnFSVC12cTMtU2VWMEl3VDRQSmllTUlyMmpEcGFqdDBUb1duRVBsZDJBSQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-02T14:15:46Z"
+        },
+        {
           "id": "report-2e0e538dbe31",
           "title": "New talks are 'last chance' for Iran to forge a deal and avoid escalation of US strikes, Trump says",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQektERUZodzkzOXlDY2NnVEhHRzF4eElSdXV3VG1Gd2Ria3FNbUdLS3VKUFhiRzhpTHVwT3k2WXJxanZRNVNQRjJEQjBsSGl5cGV5TVViTXhDMUY5WDZPRnduaE96cFQxMVgwc1FVQl9KMThMOFRlVl9VM04yOE42cVI0eGo3YUhzWGFWeUk4bw?oc=5",
@@ -761,40 +788,13 @@
           "reportedAt": "2026-08-03T19:58:00Z"
         },
         {
-          "id": "report-31e6832ec385",
-          "title": "Russian missile attacks kill at least nine in Ukraine’s Kyiv",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORXV2dkxDX25CSFZ4RVpvYVdYWXIzOTJmNnBNVlNteTV4dTd3akFzLTUzek9Hdm5FSDdYRjNnSDM3eTFnSDNaX2oyMFdGRTgzZnZ5XzRVVzBKbGNaQkVxOHZPUFZSNFVoVmphdkVYeEtGTTFKME51dlRsRUJ4YkZJbXVKU1d5bFoyUng3WHNGMHVYVXdFdkHSAZsBQVVfeXFMUDZ0SF9oTDlZaHdWci1Ya0M1d04yelNJZ2U2NXlEaVVpSXF4TDRVU0JRTUFHVUNFS2syRENvQWdfWXdJckdPNEFpNmx6R2dSWUN2QjltLTViVllnMWNPQVAzbGRTZmhMY2xBNmpJa0U0NmJXSkY3M01ZdnFMYkhvWnhzNTFsaHRCRVpRZmR3YzZyV0JJTkxBbTNRSW8?oc=5",
+          "id": "report-ff367a35366f",
+          "title": "Nine killed in escalating long-range strikes between Russia and Ukraine",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNzFwblJCbVpGZUFvaGlLZ3BaRW1Hcll2TzMtVVpqXzdDNGdOVDZIYUlNSVNhNjJiS2lYekNkbks4LXhYeEtVbGpSSXhDM0RrRERaLVdZVVh1aXZMUXRLQ25pdGFqTXFtdkxENGpiSUtWWmh0ZV9Yd2M3YV9UTGNjd2JXNWpDUnBxNzFyaG93dDh0dzFfbzBZdGNkUkpSV2JMRDFrb2lHb0Ytc3dCWHJGNNIBtgFBVV95cUxOUmNOOXZhaU1wYTlyZk9CQ1hVRWhGQlpvYklsVjFWZVFzVDNZZmxVWklXYjNHMUJIX1ZjVW5YaEcxMzY3MFBNNDJtS1Rxc1FwTHZkWjdqOWZ6MnA4SEdyN25lSlJlaTkzNlhWZVFEMzUyQVBKLTJFdmlEZDl4UjY5RkdUNkQ0cGlPS2FNWko4ZkVWbU8tY2xLTXdaQl9jU05jNnhDMmRWSjFKYUtVWmZOWXFqd3RGZw?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-01T17:48:45Z"
-        },
-        {
-          "id": "report-3fe48c2051af",
-          "title": "BP profits highest in four years as Iran war pushes up oil price",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5USVJWdmRGb3JNSmpfOXNUUWdOZmd6RUd3VUVoNWFJRUhWVmRYV2l1ZmxuWUhxTHphaThKN3lGbXRuZ3dveVlLamFXMS1JYXRpdjRJZkozTkYzUQ?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-04T09:04:46Z"
-        },
-        {
-          "id": "report-6e1060ea10f0",
-          "title": "Sudan army drone strike on court session kills 35, rights group says",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41MnNydWszSVNYekxnNHZCWFlnOGUyQVNubC1IXy1mTmQxTUpPaWlKbENTUkMxM015X3hoYWJJalJzZmhHeHo0RDNyRE5CQ19BbnVvRU5PZ196QQ?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-03T10:29:24Z"
-        },
-        {
-          "id": "report-8e30f0f8eae7",
-          "title": "Russian anti-war politician says he has fled the country",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rX1ZwN2VJTGFmTmZ5X0Vpd0E4YWRSOWZsNC1BaEw4ekpsSkFhUkp4LWNjSzJmYkZDeDQ3eF9WX01YcGlFalU2UzllVmpGdEZwTEp0TXZCNFhQdw?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-03T15:41:08Z"
+          "reportedAt": "2026-08-04T11:39:23Z"
         },
         {
           "id": "report-dd2a1637dc48",
