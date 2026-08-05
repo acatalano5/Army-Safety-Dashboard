@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-05T17:16:09.136Z",
+  "generatedAt": "2026-08-05T20:42:14.646Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -9,7 +9,7 @@
       "items": []
     },
     "safety": {
-      "generatedAt": "2026-08-04T20:56:07.660Z",
+      "generatedAt": "2026-08-05T20:42:14.646Z",
       "cadence": "daily",
       "items": [
         {
@@ -26,14 +26,6 @@
           "domain": "militarytimes.com",
           "sourceTier": "Independent reporting",
           "seen": "20260721T174800Z",
-          "pinned": false
-        },
-        {
-          "title": "Navy suspends search after MH-60S helicopter mishap; one Sailor missing",
-          "url": "https://www.navy.mil/Press-Office/Statements/display-statement/Article/4533332/us-navy-suspended-active-search-for-a-sailor-assigned-to-helicopter-sea-combat/",
-          "domain": "navy.mil",
-          "sourceTier": "Official military source",
-          "seen": "20260705T150000Z",
           "pinned": false
         },
         {
@@ -61,14 +53,6 @@
           "pinned": false
         },
         {
-          "title": "PLR 26-052 – Automobile Mishap Claims One Soldier's Life",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMFA5OUdwWFlNMlhsWTh2MW5XZ2xoZEUzMjNyUF9rUzNYbFFMeXlOV2xXdExFMTFsZHpNMXg4Q2JJa2Q5TUFhM2k3dktkRURiYURocmFTdk9fVmpHX045VnJ0QUVYeE1HMXliNUxPcUczV0FRZ3N2Nk1Fa2E4UHI3aGh3Yl9kNGxjd1ZsOXB3NURKdlhpRnBXUmJyTXhrNTE2YVI1Mk52RTFvWHI3RGxIZG9hWGN5TXdaWGg2X0d1YllwTEgtNkdESWU3OHg5X3lM?oc=5",
-          "domain": "safety.army.mil",
-          "sourceTier": "Official military source",
-          "seen": "20260720T214927Z",
-          "pinned": false
-        },
-        {
           "title": "PLR 26-053 – Automobile Mishap Claims One Soldier's Life",
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQLTF4dFVXQUVUR01mU0dsWUVZcVZmRXJHQXpFUTU2NTF4RDNOdGZwYTg5WklVNXZ4T1Z4ZjJUT1lYYXZfcm1sMXgxVTNKZGFLNHZTdUczVHlrWUM0UHk0Y0tKcURRVjJIalAtTTBfNW5KTjRURHdyRjhSM0lYelNGYndiRHNMVVFOVkh4bk9Vc2lpUncwUUpIT2duNmRCWUxpTUZOQ3NKQ3BkSE8yVnVwVlhRdENVS2lxUk5xOS04eHQzdkIweTMxM0JybHlhSTYt?oc=5",
           "domain": "safety.army.mil",
@@ -82,6 +66,14 @@
           "domain": "taskandpurpose.com",
           "sourceTier": "Independent reporting",
           "seen": "20260731T182626Z",
+          "pinned": false
+        },
+        {
+          "title": "PLR 26-049 – On-Duty Sports, Recreation and Physical Training Mishap Claims One Soldier's Life",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQMlZyZU9RWWFVT1Noa09rTXBzS0xwMTF3QVUwSmF2ckxPZTZaRFpIdHhESU9hcDlXRmJ4YjQ2MjJvSFZKMzVPNkZYUEFuaC1MU3ZEZXpJcEVCWjJ2SVpuN01wbGx3LU9PWHZ3ZlNRUE45Yk9pODBfUEZhS1N5c1U5ZW5fdUNQNDljM3A5cGxsdGw3RWpVNTV6b1h1NzFBYktiU0lRVGtjRjJhRExWRS0wWGYwNEV3cWNoT2dlVjh4dUdfR1VmdnI0UFhwaXgwaDVUVG5MVm11b2Z5OWtDc2pSLTQ1Z09PclRfVEF1V3pmSW1GVGpKWHZ4ZU5oLWxtY3NYVmc?oc=5",
+          "domain": "safety.army.mil",
+          "sourceTier": "Official military source",
+          "seen": "20260707T070000Z",
           "pinned": false
         },
         {
@@ -335,6 +327,24 @@
           "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
           "source": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTkh3dWZnN1JqMTB2cjhCTC1yaEFJY0pmR0QtTkhZdGlYNkRDSDhCbUlGd1FmTFFSMzVvQkVwNUhyWnZraDhUWlFHTVZWRHowa1hzdTZyVFdpUnpUS2lCQXFEOF9lUnQ1a29Uc0M1dFptYzItRGpWblhJSWxNRUk3dFFsTlpfcWRCYS1seVBXVmk3YlkzZXZ3VWVxNy1HSHhvQnVmZU44WEt1ZEJ5eENJSU9lR0FrbzRCX2s0b1JKaXp3dw?oc=5",
           "sourceLabel": "news.uscg.mil"
+        },
+        {
+          "id": "auto-b48c6d253a24",
+          "reportDate": "2026-07-07",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Other",
+          "event": "PLR 26-049 – On-Duty Sports, Recreation and Physical Training Mishap Claims One Soldier's Life",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "OFFICIAL INTAKE",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Official military source",
+          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
+          "source": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQMlZyZU9RWWFVT1Noa09rTXBzS0xwMTF3QVUwSmF2ckxPZTZaRFpIdHhESU9hcDlXRmJ4YjQ2MjJvSFZKMzVPNkZYUEFuaC1MU3ZEZXpJcEVCWjJ2SVpuN01wbGx3LU9PWHZ3ZlNRUE45Yk9pODBfUEZhS1N5c1U5ZW5fdUNQNDljM3A5cGxsdGw3RWpVNTV6b1h1NzFBYktiU0lRVGtjRjJhRExWRS0wWGYwNEV3cWNoT2dlVjh4dUdfR1VmdnI0UFhwaXgwaDVUVG5MVm11b2Z5OWtDc2pSLTQ1Z09PclRfVEF1V3pmSW1GVGpKWHZ4ZU5oLWxtY3NYVmc?oc=5",
+          "sourceLabel": "safety.army.mil"
         },
         {
           "id": "auto-8a083d981f71",
