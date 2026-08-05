@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-05T10:17:25.250Z",
+  "generatedAt": "2026-08-05T17:16:09.136Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-08-05T10:17:25.250Z",
+      "generatedAt": "2026-08-05T17:16:09.136Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -375,7 +375,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-08-05T10:17:25.250Z",
+      "generatedAt": "2026-08-05T17:16:09.136Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -384,6 +384,14 @@
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20260805T034542Z",
+          "pinned": false
+        },
+        {
+          "title": "In Bandar Abbas, the ceasefire never came",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZjN1ejc2RTFDVWZHRXB1LVZVdWZsUWU1MEVtZXFYSEN2VkdWakh3Q000RWF5c2dDNnNkaU5vMUF6MzhCeEh1QXU5V1JVSUdoS2s1WkN5bWp0V2poRjMtX3FtYzlSTDZ4SFdKYVo5Wmg1UG1yYnJ0Y1NQQmpMTmlvSXBHZzhJUHlEVmVGSNIBkgFBVV95cUxNa0lVQk4taGZGZmZ2cktGeFFTWVhNTGp1WXZJSzQtd2VNWnlPQ1ZCLWRSSm5tWHM4RzdfelFtRXdvMUFabDFkWVhBbjM5bVhhZ0kxeEozS25iZndfQ0VmYmtYWExvNTdkcXh3NFFXMmx6YVRtTDFzeHQxYW12QWIxZUVMZHl0Rml6VFA1UkNJWDhsQQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260805T121816Z",
           "pinned": false
         },
         {
@@ -459,11 +467,11 @@
           "pinned": false
         },
         {
-          "title": "Iran’s leaders show a united front over the war but are divided over what the goal is",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRHVlUnB6RFd3NEl1N0l5Q2RvNVVISGRjSXhyX2ZoRURSbTVmd0RJNlg3eDY5a3dfOTBjNXFkX1FLaGxveDg0SUlpc2Vrbm5DbmJval8xci1NazI1eWFSS0IyNkpDNUFkMURvZHRVVklOZ0hFUUZxY0R6ck5sMkpiMHBQczFuVUdLT3JHOEdKdHJaTlJPS0ZJdjliUjlYdlBaSW9YMQ?oc=5",
-          "domain": "apnews.com",
+          "title": "Why are US Republicans losing faith in War Secretary Pete Hegseth?",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcnFQM1ZJVEFQNllwWFA5Tk5UV0xFdWx2Vm95LXI2ODFoRzZZYU5FMURaRm1ZV0tpeGpYVENlSHJvOWhQLVAwODY0YmFyMlRYdzVxaUNJMkJ6b0tSMjh1UGtYT2tadENlTDNLUDJXd2FubVc5Z0ZqT0ZOVm5fRHJXd1ZNM1NGVFUtUFJQUk5ZZk5jMkUtVVJmdmd0N201MVpvakE2X1VoeEnSAa4BQVVfeXFMUDJVMlVtU05HcFA5dC1OU3dxMk5HV2FGQnJJREM4VHRzS0JmZjJKdDZoUkFxanhSVHM5LUsxejlqZGtqS1NBOHpxeXdHNGJPZ0FxaEZrRVRGQkNHZENfeU5kRkFPLWpKNzE3bDdfZDZESTFBdDlhQmxiSW04OVRtUUx4TXd3bFE0anp6M2xyd3RXLWVJMUllQi1wOUg3d3g5UEI1cDdmT19GZ0JQdGF3?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260802T040000Z",
+          "seen": "20260805T135551Z",
           "pinned": false
         },
         {
@@ -491,27 +499,11 @@
           "pinned": false
         },
         {
-          "title": "Russian and Ukrainian strikes kill 14 on both sides",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNjJraExWMWtxcUNOZ3N5c25vajR5cmFaamFrbng4eEVMVEpSN1FOMGd2eUtDUUx0czgzOXpfdW9EZFVja1ZsaTJ0TWVzRVlkNXp2SXEwYmh0aXV3WFRJb3lQQVFfN3k4YWNFRlVhckhMOWRZOEV2RWVHdmMtYXRzaWNBRkFPZS03UHduTEthOHNGOS16UFBrOHctWjMxN1JuR3dWTW55YlU3QdIBrwFBVV95cUxNeXA5R1laeHFMQ1VheTV4Zzg0TUQzZ3gwUGpiLUNMUUZ6cW9jMmpNUDY0NTFOcThUYVhtU0RDaHBjUFRrZFdHU0RUVjF3NlNES25GRGFsVENuNU4tRXI1c2FqXzdBcGJlMjZYazEwbEdUekFMODBSUkZhWTBDM2U4cGg0TVlwU1NMcFFLb3NkSmVESkg2cFJRX1laeEQ1UFVfOEdlaURwZUJPdVBnTXh3?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260802T205839Z",
-          "pinned": false
-        },
-        {
-          "title": "Nine killed in escalating long-range strikes between Russia and Ukraine",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNzFwblJCbVpGZUFvaGlLZ3BaRW1Hcll2TzMtVVpqXzdDNGdOVDZIYUlNSVNhNjJiS2lYekNkbks4LXhYeEtVbGpSSXhDM0RrRERaLVdZVVh1aXZMUXRLQ25pdGFqTXFtdkxENGpiSUtWWmh0ZV9Yd2M3YV9UTGNjd2JXNWpDUnBxNzFyaG93dDh0dzFfbzBZdGNkUkpSV2JMRDFrb2lHb0Ytc3dCWHJGNNIBtgFBVV95cUxOUmNOOXZhaU1wYTlyZk9CQ1hVRWhGQlpvYklsVjFWZVFzVDNZZmxVWklXYjNHMUJIX1ZjVW5YaEcxMzY3MFBNNDJtS1Rxc1FwTHZkWjdqOWZ6MnA4SEdyN25lSlJlaTkzNlhWZVFEMzUyQVBKLTJFdmlEZDl4UjY5RkdUNkQ0cGlPS2FNWko4ZkVWbU8tY2xLTXdaQl9jU05jNnhDMmRWSjFKYUtVWmZOWXFqd3RGZw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260804T113923Z",
-          "pinned": false
-        },
-        {
-          "title": "Trump says Mideast allies have reached outlines of deal to end Iran war, says US to stop new strikes",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWUxMdnNIZ1MzaWNwNXBYV19IbUpVbUo2LTBiR3BiS05fVE1fOUczeVM1MVk3TEJWbjA5cmVZZmlNZ2ZLdnp6NlNLRlBmanlpTnhVbFZPc0RicnVJRjFBUS1uNU1kMldjb2F3ZnN3QTRkZGVLNW8wSklmVjZIcG52dks0TE5kXzlmdkF1d01SUW9TemFEQ09DSGlZdkxON1k?oc=5",
+          "title": "Iran’s leaders show a united front over the war but are divided over what the goal is",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRHVlUnB6RFd3NEl1N0l5Q2RvNVVISGRjSXhyX2ZoRURSbTVmd0RJNlg3eDY5a3dfOTBjNXFkX1FLaGxveDg0SUlpc2Vrbm5DbmJval8xci1NazI1eWFSS0IyNkpDNUFkMURvZHRVVklOZ0hFUUZxY0R6ck5sMkpiMHBQczFuVUdLT3JHOEdKdHJaTlJPS0ZJdjliUjlYdlBaSW9YMQ?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260802T034300Z",
+          "seen": "20260802T040000Z",
           "pinned": false
         },
         {
@@ -523,11 +515,27 @@
           "pinned": false
         },
         {
-          "title": "Threat to oil tankers in Middle East worst since start of Iran war, analysts say",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mcHZLclUtbzRtOW9uNVdyNFNZWVZwWjB0bzQ0aFB5RVZTQXQyZWIyY093RW1mbU5pQ0NaZFZHemNCbFBNRzFRUEtxdnFiYWVCbWpYSFI1aWltZw?oc=5",
-          "domain": "bbc.com",
+          "title": "Trump says Mideast allies have reached outlines of deal to end Iran war, says US to stop new strikes",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWUxMdnNIZ1MzaWNwNXBYV19IbUpVbUo2LTBiR3BiS05fVE1fOUczeVM1MVk3TEJWbjA5cmVZZmlNZ2ZLdnp6NlNLRlBmanlpTnhVbFZPc0RicnVJRjFBUS1uNU1kMldjb2F3ZnN3QTRkZGVLNW8wSklmVjZIcG52dks0TE5kXzlmdkF1d01SUW9TemFEQ09DSGlZdkxON1k?oc=5",
+          "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260803T155727Z",
+          "seen": "20260802T034300Z",
+          "pinned": false
+        },
+        {
+          "title": "Russian and Ukrainian strikes kill 14 on both sides",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNjJraExWMWtxcUNOZ3N5c25vajR5cmFaamFrbng4eEVMVEpSN1FOMGd2eUtDUUx0czgzOXpfdW9EZFVja1ZsaTJ0TWVzRVlkNXp2SXEwYmh0aXV3WFRJb3lQQVFfN3k4YWNFRlVhckhMOWRZOEV2RWVHdmMtYXRzaWNBRkFPZS03UHduTEthOHNGOS16UFBrOHctWjMxN1JuR3dWTW55YlU3QdIBrwFBVV95cUxNeXA5R1laeHFMQ1VheTV4Zzg0TUQzZ3gwUGpiLUNMUUZ6cW9jMmpNUDY0NTFOcThUYVhtU0RDaHBjUFRrZFdHU0RUVjF3NlNES25GRGFsVENuNU4tRXI1c2FqXzdBcGJlMjZYazEwbEdUekFMODBSUkZhWTBDM2U4cGg0TVlwU1NMcFFLb3NkSmVESkg2cFJRX1laeEQ1UFVfOEdlaURwZUJPdVBnTXh3?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260802T205839Z",
+          "pinned": false
+        },
+        {
+          "title": "Nine killed in escalating long-range strikes between Russia and Ukraine",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNzFwblJCbVpGZUFvaGlLZ3BaRW1Hcll2TzMtVVpqXzdDNGdOVDZIYUlNSVNhNjJiS2lYekNkbks4LXhYeEtVbGpSSXhDM0RrRERaLVdZVVh1aXZMUXRLQ25pdGFqTXFtdkxENGpiSUtWWmh0ZV9Yd2M3YV9UTGNjd2JXNWpDUnBxNzFyaG93dDh0dzFfbzBZdGNkUkpSV2JMRDFrb2lHb0Ytc3dCWHJGNA?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260804T113923Z",
           "pinned": false
         },
         {
@@ -539,35 +547,27 @@
           "pinned": false
         },
         {
-          "title": "New talks are 'last chance' for Iran to forge a deal and avoid escalation of US strikes, Trump says",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQektERUZodzkzOXlDY2NnVEhHRzF4eElSdXV3VG1Gd2Ria3FNbUdLS3VKUFhiRzhpTHVwT3k2WXJxanZRNVNQRjJEQjBsSGl5cGV5TVViTXhDMUY5WDZPRnduaE96cFQxMVgwc1FVQl9KMThMOFRlVl9VM04yOE42cVI0eGo3YUhzWGFWeUk4bw?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260803T195800Z",
-          "pinned": false
-        },
-        {
-          "title": "Russian anti-war politician says he has fled the country",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rX1ZwN2VJTGFmTmZ5X0Vpd0E4YWRSOWZsNC1BaEw4ekpsSkFhUkp4LWNjSzJmYkZDeDQ3eF9WX01YcGlFalU2UzllVmpGdEZwTEp0TXZCNFhQdw?oc=5",
+          "title": "Threat to oil tankers in Middle East worst since start of Iran war, analysts say",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mcHZLclUtbzRtOW9uNVdyNFNZWVZwWjB0bzQ0aFB5RVZTQXQyZWIyY093RW1mbU5pQ0NaZFZHemNCbFBNRzFRUEtxdnFiYWVCbWpYSFI1aWltZw?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260803T154108Z",
+          "seen": "20260803T155727Z",
           "pinned": false
         },
         {
-          "title": "Three dead including female bomber in Moscow restaurant attack",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYjlKZ0dOVzdjQnJrbWJOcThaUzVreC1WWE5pRndOLXB5TzRlSWJPNWJ0OGZJRW1DR2RibzZHRTlsRGpyNTk0SDA1OTBlZ3UtVjkwS0l3OVQ0UERGSDROWXZycF90RDMwR3FoZC1JOVhNMHItWHYxY2JsMnR2a000V0RZMldmcTJTUjJRZWlMX095MHpiQ016MDIzbExVRXRvV1Ata0hqNkVObUxfNkZtRWtn0gG3AUFVX3lxTFAtamt1ZXFkU2xlckl4WkxtQmlUTW4xVFJoWEs0ZGR4cGQ0ZEpFX1I5R3R1eU5EOWN3bXdod0dCb1Y4aGRzT25PTnBwalVBY1hLaURLQ1dJQ3BQNV9pbGpMc21pM2ZXRFdJOFd4ZjhOTFpuUjlpQmlWM0xoQUdrdDYxUEdibzhLa2FLME8zT1R4V2dDWWhDS0ZQV2kyaHp6UzNEY284M1dTclNzRU42M1J3cWZCWmZtYw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260802T044827Z",
+          "title": "US military depletes nearly 80% of key missile interceptors amid Iran war: Report",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa182dkV4UUdVLWx1cEFTYXV0dmtLcXY3d3czLUhTYUFjT1o3dllDTmdpU1pLd3lEQ1dMeWM4R3kzcnBQQTUwZ3E2VDZSZ1dlY1JWdWE5SnFsNGc4Q0dmLWV6OTdicG1LYkxVUTlZUnROcmhjYko5YkljUzlCYVVYTDdLR2NVOU45dUZFczlHcUVlUTcycnZVQllSelNWN3NjT1p5Z1RVRFhSOGtDdWRqXzlfS1dXV05VdVFkLXlB?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20260804T210828Z",
           "pinned": false
         },
         {
-          "title": "Israel kills 19 in Gaza as attacks escalate despite latest Trump plan",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ19adVVFZ2hWV2R1X3djN25IMGczbkFPbXRweTlqamRJYmRPaWpIazlFYUIwNE1zZmZBVXFDbXBjRkZnWnk1d2Rhb3RwSC1XUFBudWNJdnZTdG1MY3ZOV21sdHhVQno5ZllJQ3dnR19UZ20zNTJVeFJPb2JYRms2RkxqOGVqcnVzcUpIemlUNllMT25BakRSNGJ0Z1M2SVh4Vmg3YXpn0gGrAUFVX3lxTE96V2pjZk5iM3lyOTcxV2l3TXlreTNvd2xLYm5BdDZSM0ZWWnJGek9iS2t0RlhMZlBLc2FFVzZBNjZPbktUSDkzNWVjejNpbUkxYlFUdUgxLUJrWFFkVjduam5qZDQ0M0VMYU1NMDJ1cTU5NVhoZkFsNk5CWDNrakZMNnFSVC12cTMtU2VWMEl3VDRQSmllTUlyMmpEcGFqdDBUb1duRVBsZDJBSQ?oc=5",
+          "title": "Explosions across Kyiv as Russian missiles strike Ukraine’s capital",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUFBCU09NMms3NXRCdERTTlBQWnJMR0U3T1daeHZmaHBYVXRKcDNITmJiOVotWmZVRW0xRzNGbnd0bDEwQVluaExNTGVhQ1FBaV9JU09hRXBiN0dBMjNWZ0Q5b20wX19mWjYyeXEya3BtbDN4d3AtMTNvc3lHODRnMnFFaUdUeDlyd0FWLTRiNnA1TFRjSHhTZnltR1dHM3JuV2dGS2I5NkxvZ0JqSzRzWHpDNVZ6OXPSAbwBQVVfeXFMTVlLUm5FV2RFdXZIV3dteG5NdU50VUgyc1o1NmhhUGRPelVmT3V0U211YXU5b0pobEF1NDRLcG8wV1VTT09PVjhFWnZjdWtxcG9EcXdUWnBSd2drR3dfWTMwTF9Pd2xTT1lBVXBtQ05BTUxvQ0pud2ZDblFYTGd5VVJ4STUweTNzSnphRUFPLXBjZFp0YjNVMlNtSExNenFMSVNBYTdxY3RfOFJTbkFVQi1wT0xwM0VxT3BKNzg?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260802T141546Z",
+          "seen": "20260805T044751Z",
           "pinned": false
         }
       ],
@@ -580,6 +580,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-05T03:45:42Z"
+        },
+        {
+          "id": "report-94db5ee7abf1",
+          "title": "In Bandar Abbas, the ceasefire never came",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZjN1ejc2RTFDVWZHRXB1LVZVdWZsUWU1MEVtZXFYSEN2VkdWakh3Q000RWF5c2dDNnNkaU5vMUF6MzhCeEh1QXU5V1JVSUdoS2s1WkN5bWp0V2poRjMtX3FtYzlSTDZ4SFdKYVo5Wmg1UG1yYnJ0Y1NQQmpMTmlvSXBHZzhJUHlEVmVGSNIBkgFBVV95cUxNa0lVQk4taGZGZmZ2cktGeFFTWVhNTGp1WXZJSzQtd2VNWnlPQ1ZCLWRSSm5tWHM4RzdfelFtRXdvMUFabDFkWVhBbjM5bVhhZ0kxeEozS25iZndfQ0VmYmtYWExvNTdkcXh3NFFXMmx6YVRtTDFzeHQxYW12QWIxZUVMZHl0Rml6VFA1UkNJWDhsQQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-05T12:18:16Z"
         },
         {
           "id": "report-b024a687e378",
@@ -663,13 +672,13 @@
           "reportedAt": "2026-08-03T02:03:00Z"
         },
         {
-          "id": "report-f5c24acbece1",
-          "title": "Iran’s leaders show a united front over the war but are divided over what the goal is",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRHVlUnB6RFd3NEl1N0l5Q2RvNVVISGRjSXhyX2ZoRURSbTVmd0RJNlg3eDY5a3dfOTBjNXFkX1FLaGxveDg0SUlpc2Vrbm5DbmJval8xci1NazI1eWFSS0IyNkpDNUFkMURvZHRVVklOZ0hFUUZxY0R6ck5sMkpiMHBQczFuVUdLT3JHOEdKdHJaTlJPS0ZJdjliUjlYdlBaSW9YMQ?oc=5",
-          "domain": "apnews.com",
+          "id": "report-532672f563a3",
+          "title": "Why are US Republicans losing faith in War Secretary Pete Hegseth?",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcnFQM1ZJVEFQNllwWFA5Tk5UV0xFdWx2Vm95LXI2ODFoRzZZYU5FMURaRm1ZV0tpeGpYVENlSHJvOWhQLVAwODY0YmFyMlRYdzVxaUNJMkJ6b0tSMjh1UGtYT2tadENlTDNLUDJXd2FubVc5Z0ZqT0ZOVm5fRHJXd1ZNM1NGVFUtUFJQUk5ZZk5jMkUtVVJmdmd0N201MVpvakE2X1VoeEnSAa4BQVVfeXFMUDJVMlVtU05HcFA5dC1OU3dxMk5HV2FGQnJJREM4VHRzS0JmZjJKdDZoUkFxanhSVHM5LUsxejlqZGtqS1NBOHpxeXdHNGJPZ0FxaEZrRVRGQkNHZENfeU5kRkFPLWpKNzE3bDdfZDZESTFBdDlhQmxiSW04OVRtUUx4TXd3bFE0anp6M2xyd3RXLWVJMUllQi1wOUg3d3g5UEI1cDdmT19GZ0JQdGF3?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-02T04:00:00Z"
+          "reportedAt": "2026-08-05T13:55:51Z"
         },
         {
           "id": "report-9d93485d8a69",
@@ -699,31 +708,13 @@
           "reportedAt": "2026-08-04T14:06:33Z"
         },
         {
-          "id": "report-5b16e668f369",
-          "title": "Russian and Ukrainian strikes kill 14 on both sides",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNjJraExWMWtxcUNOZ3N5c25vajR5cmFaamFrbng4eEVMVEpSN1FOMGd2eUtDUUx0czgzOXpfdW9EZFVja1ZsaTJ0TWVzRVlkNXp2SXEwYmh0aXV3WFRJb3lQQVFfN3k4YWNFRlVhckhMOWRZOEV2RWVHdmMtYXRzaWNBRkFPZS03UHduTEthOHNGOS16UFBrOHctWjMxN1JuR3dWTW55YlU3QdIBrwFBVV95cUxNeXA5R1laeHFMQ1VheTV4Zzg0TUQzZ3gwUGpiLUNMUUZ6cW9jMmpNUDY0NTFOcThUYVhtU0RDaHBjUFRrZFdHU0RUVjF3NlNES25GRGFsVENuNU4tRXI1c2FqXzdBcGJlMjZYazEwbEdUekFMODBSUkZhWTBDM2U4cGg0TVlwU1NMcFFLb3NkSmVESkg2cFJRX1laeEQ1UFVfOEdlaURwZUJPdVBnTXh3?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-02T20:58:39Z"
-        },
-        {
-          "id": "report-ff367a35366f",
-          "title": "Nine killed in escalating long-range strikes between Russia and Ukraine",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNzFwblJCbVpGZUFvaGlLZ3BaRW1Hcll2TzMtVVpqXzdDNGdOVDZIYUlNSVNhNjJiS2lYekNkbks4LXhYeEtVbGpSSXhDM0RrRERaLVdZVVh1aXZMUXRLQ25pdGFqTXFtdkxENGpiSUtWWmh0ZV9Yd2M3YV9UTGNjd2JXNWpDUnBxNzFyaG93dDh0dzFfbzBZdGNkUkpSV2JMRDFrb2lHb0Ytc3dCWHJGNNIBtgFBVV95cUxOUmNOOXZhaU1wYTlyZk9CQ1hVRWhGQlpvYklsVjFWZVFzVDNZZmxVWklXYjNHMUJIX1ZjVW5YaEcxMzY3MFBNNDJtS1Rxc1FwTHZkWjdqOWZ6MnA4SEdyN25lSlJlaTkzNlhWZVFEMzUyQVBKLTJFdmlEZDl4UjY5RkdUNkQ0cGlPS2FNWko4ZkVWbU8tY2xLTXdaQl9jU05jNnhDMmRWSjFKYUtVWmZOWXFqd3RGZw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-04T11:39:23Z"
-        },
-        {
-          "id": "report-bc33c79a26ed",
-          "title": "Trump says Mideast allies have reached outlines of deal to end Iran war, says US to stop new strikes",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWUxMdnNIZ1MzaWNwNXBYV19IbUpVbUo2LTBiR3BiS05fVE1fOUczeVM1MVk3TEJWbjA5cmVZZmlNZ2ZLdnp6NlNLRlBmanlpTnhVbFZPc0RicnVJRjFBUS1uNU1kMldjb2F3ZnN3QTRkZGVLNW8wSklmVjZIcG52dks0TE5kXzlmdkF1d01SUW9TemFEQ09DSGlZdkxON1k?oc=5",
+          "id": "report-f5c24acbece1",
+          "title": "Iran’s leaders show a united front over the war but are divided over what the goal is",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRHVlUnB6RFd3NEl1N0l5Q2RvNVVISGRjSXhyX2ZoRURSbTVmd0RJNlg3eDY5a3dfOTBjNXFkX1FLaGxveDg0SUlpc2Vrbm5DbmJval8xci1NazI1eWFSS0IyNkpDNUFkMURvZHRVVklOZ0hFUUZxY0R6ck5sMkpiMHBQczFuVUdLT3JHOEdKdHJaTlJPS0ZJdjliUjlYdlBaSW9YMQ?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-02T03:43:00Z"
+          "reportedAt": "2026-08-02T04:00:00Z"
         },
         {
           "id": "report-3fe48c2051af",
@@ -735,13 +726,31 @@
           "reportedAt": "2026-08-04T10:07:05Z"
         },
         {
-          "id": "report-55723f4337db",
-          "title": "Threat to oil tankers in Middle East worst since start of Iran war, analysts say",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mcHZLclUtbzRtOW9uNVdyNFNZWVZwWjB0bzQ0aFB5RVZTQXQyZWIyY093RW1mbU5pQ0NaZFZHemNCbFBNRzFRUEtxdnFiYWVCbWpYSFI1aWltZw?oc=5",
-          "domain": "bbc.com",
+          "id": "report-bc33c79a26ed",
+          "title": "Trump says Mideast allies have reached outlines of deal to end Iran war, says US to stop new strikes",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWUxMdnNIZ1MzaWNwNXBYV19IbUpVbUo2LTBiR3BiS05fVE1fOUczeVM1MVk3TEJWbjA5cmVZZmlNZ2ZLdnp6NlNLRlBmanlpTnhVbFZPc0RicnVJRjFBUS1uNU1kMldjb2F3ZnN3QTRkZGVLNW8wSklmVjZIcG52dks0TE5kXzlmdkF1d01SUW9TemFEQ09DSGlZdkxON1k?oc=5",
+          "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-03T15:57:27Z"
+          "reportedAt": "2026-08-02T03:43:00Z"
+        },
+        {
+          "id": "report-5b16e668f369",
+          "title": "Russian and Ukrainian strikes kill 14 on both sides",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNjJraExWMWtxcUNOZ3N5c25vajR5cmFaamFrbng4eEVMVEpSN1FOMGd2eUtDUUx0czgzOXpfdW9EZFVja1ZsaTJ0TWVzRVlkNXp2SXEwYmh0aXV3WFRJb3lQQVFfN3k4YWNFRlVhckhMOWRZOEV2RWVHdmMtYXRzaWNBRkFPZS03UHduTEthOHNGOS16UFBrOHctWjMxN1JuR3dWTW55YlU3QdIBrwFBVV95cUxNeXA5R1laeHFMQ1VheTV4Zzg0TUQzZ3gwUGpiLUNMUUZ6cW9jMmpNUDY0NTFOcThUYVhtU0RDaHBjUFRrZFdHU0RUVjF3NlNES25GRGFsVENuNU4tRXI1c2FqXzdBcGJlMjZYazEwbEdUekFMODBSUkZhWTBDM2U4cGg0TVlwU1NMcFFLb3NkSmVESkg2cFJRX1laeEQ1UFVfOEdlaURwZUJPdVBnTXh3?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-02T20:58:39Z"
+        },
+        {
+          "id": "report-e09e558a5292",
+          "title": "Nine killed in escalating long-range strikes between Russia and Ukraine",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNzFwblJCbVpGZUFvaGlLZ3BaRW1Hcll2TzMtVVpqXzdDNGdOVDZIYUlNSVNhNjJiS2lYekNkbks4LXhYeEtVbGpSSXhDM0RrRERaLVdZVVh1aXZMUXRLQ25pdGFqTXFtdkxENGpiSUtWWmh0ZV9Yd2M3YV9UTGNjd2JXNWpDUnBxNzFyaG93dDh0dzFfbzBZdGNkUkpSV2JMRDFrb2lHb0Ytc3dCWHJGNA?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-04T11:39:23Z"
         },
         {
           "id": "report-e74ec74599c3",
@@ -753,40 +762,31 @@
           "reportedAt": "2026-08-03T11:19:05Z"
         },
         {
-          "id": "report-2e0e538dbe31",
-          "title": "New talks are 'last chance' for Iran to forge a deal and avoid escalation of US strikes, Trump says",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQektERUZodzkzOXlDY2NnVEhHRzF4eElSdXV3VG1Gd2Ria3FNbUdLS3VKUFhiRzhpTHVwT3k2WXJxanZRNVNQRjJEQjBsSGl5cGV5TVViTXhDMUY5WDZPRnduaE96cFQxMVgwc1FVQl9KMThMOFRlVl9VM04yOE42cVI0eGo3YUhzWGFWeUk4bw?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-03T19:58:00Z"
-        },
-        {
-          "id": "report-8e30f0f8eae7",
-          "title": "Russian anti-war politician says he has fled the country",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rX1ZwN2VJTGFmTmZ5X0Vpd0E4YWRSOWZsNC1BaEw4ekpsSkFhUkp4LWNjSzJmYkZDeDQ3eF9WX01YcGlFalU2UzllVmpGdEZwTEp0TXZCNFhQdw?oc=5",
+          "id": "report-55723f4337db",
+          "title": "Threat to oil tankers in Middle East worst since start of Iran war, analysts say",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mcHZLclUtbzRtOW9uNVdyNFNZWVZwWjB0bzQ0aFB5RVZTQXQyZWIyY093RW1mbU5pQ0NaZFZHemNCbFBNRzFRUEtxdnFiYWVCbWpYSFI1aWltZw?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-03T15:41:08Z"
+          "reportedAt": "2026-08-03T15:57:27Z"
         },
         {
-          "id": "report-21324fe747d6",
-          "title": "Three dead including female bomber in Moscow restaurant attack",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYjlKZ0dOVzdjQnJrbWJOcThaUzVreC1WWE5pRndOLXB5TzRlSWJPNWJ0OGZJRW1DR2RibzZHRTlsRGpyNTk0SDA1OTBlZ3UtVjkwS0l3OVQ0UERGSDROWXZycF90RDMwR3FoZC1JOVhNMHItWHYxY2JsMnR2a000V0RZMldmcTJTUjJRZWlMX095MHpiQ016MDIzbExVRXRvV1Ata0hqNkVObUxfNkZtRWtn0gG3AUFVX3lxTFAtamt1ZXFkU2xlckl4WkxtQmlUTW4xVFJoWEs0ZGR4cGQ0ZEpFX1I5R3R1eU5EOWN3bXdod0dCb1Y4aGRzT25PTnBwalVBY1hLaURLQ1dJQ3BQNV9pbGpMc21pM2ZXRFdJOFd4ZjhOTFpuUjlpQmlWM0xoQUdrdDYxUEdibzhLa2FLME8zT1R4V2dDWWhDS0ZQV2kyaHp6UzNEY284M1dTclNzRU42M1J3cWZCWmZtYw?oc=5",
+          "id": "report-31e097761dfd",
+          "title": "US military depletes nearly 80% of key missile interceptors amid Iran war: Report",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa182dkV4UUdVLWx1cEFTYXV0dmtLcXY3d3czLUhTYUFjT1o3dllDTmdpU1pLd3lEQ1dMeWM4R3kzcnBQQTUwZ3E2VDZSZ1dlY1JWdWE5SnFsNGc4Q0dmLWV6OTdicG1LYkxVUTlZUnROcmhjYko5YkljUzlCYVVYTDdLR2NVOU45dUZFczlHcUVlUTcycnZVQllSelNWN3NjT1p5Z1RVRFhSOGtDdWRqXzlfS1dXV05VdVFkLXlB?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-08-04T21:08:28Z"
+        },
+        {
+          "id": "report-6cf15bf7ec74",
+          "title": "Explosions across Kyiv as Russian missiles strike Ukraine’s capital",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUFBCU09NMms3NXRCdERTTlBQWnJMR0U3T1daeHZmaHBYVXRKcDNITmJiOVotWmZVRW0xRzNGbnd0bDEwQVluaExNTGVhQ1FBaV9JU09hRXBiN0dBMjNWZ0Q5b20wX19mWjYyeXEya3BtbDN4d3AtMTNvc3lHODRnMnFFaUdUeDlyd0FWLTRiNnA1TFRjSHhTZnltR1dHM3JuV2dGS2I5NkxvZ0JqSzRzWHpDNVZ6OXPSAbwBQVVfeXFMTVlLUm5FV2RFdXZIV3dteG5NdU50VUgyc1o1NmhhUGRPelVmT3V0U211YXU5b0pobEF1NDRLcG8wV1VTT09PVjhFWnZjdWtxcG9EcXdUWnBSd2drR3dfWTMwTF9Pd2xTT1lBVXBtQ05BTUxvQ0pud2ZDblFYTGd5VVJ4STUweTNzSnphRUFPLXBjZFp0YjNVMlNtSExNenFMSVNBYTdxY3RfOFJTbkFVQi1wT0xwM0VxT3BKNzg?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-02T04:48:27Z"
-        },
-        {
-          "id": "report-7de89cf7257f",
-          "title": "Israel kills 19 in Gaza as attacks escalate despite latest Trump plan",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ19adVVFZ2hWV2R1X3djN25IMGczbkFPbXRweTlqamRJYmRPaWpIazlFYUIwNE1zZmZBVXFDbXBjRkZnWnk1d2Rhb3RwSC1XUFBudWNJdnZTdG1MY3ZOV21sdHhVQno5ZllJQ3dnR19UZ20zNTJVeFJPb2JYRms2RkxqOGVqcnVzcUpIemlUNllMT25BakRSNGJ0Z1M2SVh4Vmg3YXpn0gGrAUFVX3lxTE96V2pjZk5iM3lyOTcxV2l3TXlreTNvd2xLYm5BdDZSM0ZWWnJGek9iS2t0RlhMZlBLc2FFVzZBNjZPbktUSDkzNWVjejNpbUkxYlFUdUgxLUJrWFFkVjduam5qZDQ0M0VMYU1NMDJ1cTU5NVhoZkFsNk5CWDNrakZMNnFSVC12cTMtU2VWMEl3VDRQSmllTUlyMmpEcGFqdDBUb1duRVBsZDJBSQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-02T14:15:46Z"
+          "reportedAt": "2026-08-05T04:47:51Z"
         },
         {
           "id": "report-dd2a1637dc48",
