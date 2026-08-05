@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-05T20:42:14.646Z",
+  "generatedAt": "2026-08-05T22:22:33.767Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-08-05T17:16:09.136Z",
+      "generatedAt": "2026-08-05T22:22:33.767Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -385,23 +385,23 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-08-05T17:16:09.136Z",
+      "generatedAt": "2026-08-05T22:22:33.767Z",
       "cadence": "every 6 hours",
       "items": [
-        {
-          "title": "'Profits of war' and 'Super-rain'",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rSV9zb0x5Tmd0U3hUT2R4SlZzeUVJWERra1hRTnpQWi1nUEpZSkpqdHd6eFdadUNKT2FHaWVDR0pRRVA4TkhDSTBabGI3dmstV01PNkRqamtRQQ?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260805T034542Z",
-          "pinned": false
-        },
         {
           "title": "In Bandar Abbas, the ceasefire never came",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZjN1ejc2RTFDVWZHRXB1LVZVdWZsUWU1MEVtZXFYSEN2VkdWakh3Q000RWF5c2dDNnNkaU5vMUF6MzhCeEh1QXU5V1JVSUdoS2s1WkN5bWp0V2poRjMtX3FtYzlSTDZ4SFdKYVo5Wmg1UG1yYnJ0Y1NQQmpMTmlvSXBHZzhJUHlEVmVGSNIBkgFBVV95cUxNa0lVQk4taGZGZmZ2cktGeFFTWVhNTGp1WXZJSzQtd2VNWnlPQ1ZCLWRSSm5tWHM4RzdfelFtRXdvMUFabDFkWVhBbjM5bVhhZ0kxeEozS25iZndfQ0VmYmtYWExvNTdkcXh3NFFXMmx6YVRtTDFzeHQxYW12QWIxZUVMZHl0Rml6VFA1UkNJWDhsQQ?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260805T121816Z",
+          "pinned": false
+        },
+        {
+          "title": "'Profits of war' and 'Super-rain'",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rSV9zb0x5Tmd0U3hUT2R4SlZzeUVJWERra1hRTnpQWi1nUEpZSkpqdHd6eFdadUNKT2FHaWVDR0pRRVA4TkhDSTBabGI3dmstV01PNkRqamtRQQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260805T034542Z",
           "pinned": false
         },
         {
@@ -461,6 +461,14 @@
           "pinned": false
         },
         {
+          "title": "Why are US Republicans losing faith in War Secretary Pete Hegseth?",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcnFQM1ZJVEFQNllwWFA5Tk5UV0xFdWx2Vm95LXI2ODFoRzZZYU5FMURaRm1ZV0tpeGpYVENlSHJvOWhQLVAwODY0YmFyMlRYdzVxaUNJMkJ6b0tSMjh1UGtYT2tadENlTDNLUDJXd2FubVc5Z0ZqT0ZOVm5fRHJXd1ZNM1NGVFUtUFJQUk5ZZk5jMkUtVVJmdmd0N201MVpvakE2X1VoeEnSAa4BQVVfeXFMUDJVMlVtU05HcFA5dC1OU3dxMk5HV2FGQnJJREM4VHRzS0JmZjJKdDZoUkFxanhSVHM5LUsxejlqZGtqS1NBOHpxeXdHNGJPZ0FxaEZrRVRGQkNHZENfeU5kRkFPLWpKNzE3bDdfZDZESTFBdDlhQmxiSW04OVRtUUx4TXd3bFE0anp6M2xyd3RXLWVJMUllQi1wOUg3d3g5UEI1cDdmT19GZ0JQdGF3?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260805T135551Z",
+          "pinned": false
+        },
+        {
           "title": "Who will shape post-war Iran?",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9TM0VXZ0thZmxVMmRZTXJuV1RpT25zMjZxWXkxYVdZUjZXMGlpRUhsS21XdF9nUHlBZ3haSVRtaG9sV3lnY3V2SktuSDF3Y1oyaE5vNDAxeDYtLWpod1g5MHdyRGdGZ01WRUg2NDVjWXhyQmtNelR4OEw5MHDSAYIBQVVfeXFMTUdIRE9EeDkxaGZicm9TYzhxQmtra2FMcmdieExEcHBaME1SWjY4VEhiOW1WRzU3czZHcnQ4eFcxQ3Q5ZWUwdUpwRjhRT0VpWVN2OVpnaloxYkhNM19raHVSNTZneTlueHB4eUYwV3JTakpxdVkwQXFsejRNTjZLdUtVZw?oc=5",
           "domain": "aljazeera.com",
@@ -474,14 +482,6 @@
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "seen": "20260803T020300Z",
-          "pinned": false
-        },
-        {
-          "title": "Why are US Republicans losing faith in War Secretary Pete Hegseth?",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcnFQM1ZJVEFQNllwWFA5Tk5UV0xFdWx2Vm95LXI2ODFoRzZZYU5FMURaRm1ZV0tpeGpYVENlSHJvOWhQLVAwODY0YmFyMlRYdzVxaUNJMkJ6b0tSMjh1UGtYT2tadENlTDNLUDJXd2FubVc5Z0ZqT0ZOVm5fRHJXd1ZNM1NGVFUtUFJQUk5ZZk5jMkUtVVJmdmd0N201MVpvakE2X1VoeEnSAa4BQVVfeXFMUDJVMlVtU05HcFA5dC1OU3dxMk5HV2FGQnJJREM4VHRzS0JmZjJKdDZoUkFxanhSVHM5LUsxejlqZGtqS1NBOHpxeXdHNGJPZ0FxaEZrRVRGQkNHZENfeU5kRkFPLWpKNzE3bDdfZDZESTFBdDlhQmxiSW04OVRtUUx4TXd3bFE0anp6M2xyd3RXLWVJMUllQi1wOUg3d3g5UEI1cDdmT19GZ0JQdGF3?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260805T135551Z",
           "pinned": false
         },
         {
@@ -501,11 +501,11 @@
           "pinned": false
         },
         {
-          "title": "Why are oil companies posting record profits amid Iran war disruption?",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT1JuMkFnZG9sOWxZLVIwSjhiaHBqUEhETzRrN2JtUEI2TC1jeHlXb2pVSElSeUlRWEFpNWVBRVY5N1JzYWl6c2F5RTdURDRIM3d3UTlJRWVpcDFfSUdsVmFXTkRtNG1ZMWZhZ0hYYVkwRkpBelZrRVphSWhkaF9JYzJPUmw0b1QxbFZFVzI5X0RZc3oxRHZVWDFuZ01mekM1QXhIRDJlcWNNVm5NbHV4VF93SdIBuAFBVV95cUxNUGNjWkxiV09lbUtOV1hlbEU2dEdXTUhtLW5VODAyRmhXUXN4dWczMHdrU3BrdDI3UllXVFNPUjI0MXFfSHBZMHZfWXEzWGJhd3hWUE5neDNyVzN0cHlqUGJEMjdSS21mMmNTbGNEMWk0alB2eFpmVzRCamVJbXFSRnBvUUdsNF9sN3lzVEhfSWJLdFNzclpDUmdlVUVycjdGaTB0cW5YaFlRRXdsYl9SVGdib0R0TjZf?oc=5",
+          "title": "War on Iran: US-Iran deal edges closer",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRzFab0tRUHUtYW1Ob2VJMXpqcGlBQXdaWkduZmYtMWIzX1JSNEM1aUxFX0JLbFFDRFdxNDZvaWl1a1p5Z2laSmdId01BcmV2bW4yOHZZZU1udEo4ZzlJUHFfWVhyXzhxZjFDanFlQ0F2SGg4dG9fWFV6eDd5RnEtT1lVaFRWYWRCUUJWQjdORXfSAZYBQVVfeXFMTUl0WlAzYzJpN1Btb1BWUGhCOUtuc2hzU2F3eXE2LTRvemx5VXFRQWlCb212ck1EenVaWDZ4V2RvanVPVHR0OG5NeGdONEZxaXdQSnBJaVhCWUZOU3ZLYU8xMkZjMHJfUWNFdWtJZUZ1UnhhYkJ0MF9yTHFOc19Jb2hxTkZxd1JPcTNqLXVxUzBMWW45cGh3?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260804T140633Z",
+          "seen": "20260805T153735Z",
           "pinned": false
         },
         {
@@ -533,14 +533,6 @@
           "pinned": false
         },
         {
-          "title": "Russian and Ukrainian strikes kill 14 on both sides",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNjJraExWMWtxcUNOZ3N5c25vajR5cmFaamFrbng4eEVMVEpSN1FOMGd2eUtDUUx0czgzOXpfdW9EZFVja1ZsaTJ0TWVzRVlkNXp2SXEwYmh0aXV3WFRJb3lQQVFfN3k4YWNFRlVhckhMOWRZOEV2RWVHdmMtYXRzaWNBRkFPZS03UHduTEthOHNGOS16UFBrOHctWjMxN1JuR3dWTW55YlU3QdIBrwFBVV95cUxNeXA5R1laeHFMQ1VheTV4Zzg0TUQzZ3gwUGpiLUNMUUZ6cW9jMmpNUDY0NTFOcThUYVhtU0RDaHBjUFRrZFdHU0RUVjF3NlNES25GRGFsVENuNU4tRXI1c2FqXzdBcGJlMjZYazEwbEdUekFMODBSUkZhWTBDM2U4cGg0TVlwU1NMcFFLb3NkSmVESkg2cFJRX1laeEQ1UFVfOEdlaURwZUJPdVBnTXh3?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260802T205839Z",
-          "pinned": false
-        },
-        {
           "title": "Nine killed in escalating long-range strikes between Russia and Ukraine",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNzFwblJCbVpGZUFvaGlLZ3BaRW1Hcll2TzMtVVpqXzdDNGdOVDZIYUlNSVNhNjJiS2lYekNkbks4LXhYeEtVbGpSSXhDM0RrRERaLVdZVVh1aXZMUXRLQ25pdGFqTXFtdkxENGpiSUtWWmh0ZV9Yd2M3YV9UTGNjd2JXNWpDUnBxNzFyaG93dDh0dzFfbzBZdGNkUkpSV2JMRDFrb2lHb0Ytc3dCWHJGNA?oc=5",
           "domain": "aljazeera.com",
@@ -554,6 +546,14 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260803T111905Z",
+          "pinned": false
+        },
+        {
+          "title": "Explosions across Kyiv as Russian missiles strike Ukraine’s capital",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUFBCU09NMms3NXRCdERTTlBQWnJMR0U3T1daeHZmaHBYVXRKcDNITmJiOVotWmZVRW0xRzNGbnd0bDEwQVluaExNTGVhQ1FBaV9JU09hRXBiN0dBMjNWZ0Q5b20wX19mWjYyeXEya3BtbDN4d3AtMTNvc3lHODRnMnFFaUdUeDlyd0FWLTRiNnA1TFRjSHhTZnltR1dHM3JuV2dGS2I5NkxvZ0JqSzRzWHpDNVZ6OXPSAbwBQVVfeXFMTVlLUm5FV2RFdXZIV3dteG5NdU50VUgyc1o1NmhhUGRPelVmT3V0U211YXU5b0pobEF1NDRLcG8wV1VTT09PVjhFWnZjdWtxcG9EcXdUWnBSd2drR3dfWTMwTF9Pd2xTT1lBVXBtQ05BTUxvQ0pud2ZDblFYTGd5VVJ4STUweTNzSnphRUFPLXBjZFp0YjNVMlNtSExNenFMSVNBYTdxY3RfOFJTbkFVQi1wT0xwM0VxT3BKNzg?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260805T044751Z",
           "pinned": false
         },
         {
@@ -573,24 +573,15 @@
           "pinned": false
         },
         {
-          "title": "Explosions across Kyiv as Russian missiles strike Ukraine’s capital",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUFBCU09NMms3NXRCdERTTlBQWnJMR0U3T1daeHZmaHBYVXRKcDNITmJiOVotWmZVRW0xRzNGbnd0bDEwQVluaExNTGVhQ1FBaV9JU09hRXBiN0dBMjNWZ0Q5b20wX19mWjYyeXEya3BtbDN4d3AtMTNvc3lHODRnMnFFaUdUeDlyd0FWLTRiNnA1TFRjSHhTZnltR1dHM3JuV2dGS2I5NkxvZ0JqSzRzWHpDNVZ6OXPSAbwBQVVfeXFMTVlLUm5FV2RFdXZIV3dteG5NdU50VUgyc1o1NmhhUGRPelVmT3V0U211YXU5b0pobEF1NDRLcG8wV1VTT09PVjhFWnZjdWtxcG9EcXdUWnBSd2drR3dfWTMwTF9Pd2xTT1lBVXBtQ05BTUxvQ0pud2ZDblFYTGd5VVJ4STUweTNzSnphRUFPLXBjZFp0YjNVMlNtSExNenFMSVNBYTdxY3RfOFJTbkFVQi1wT0xwM0VxT3BKNzg?oc=5",
-          "domain": "aljazeera.com",
+          "title": "Russian anti-war politician says he has fled the country",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rX1ZwN2VJTGFmTmZ5X0Vpd0E4YWRSOWZsNC1BaEw4ekpsSkFhUkp4LWNjSzJmYkZDeDQ3eF9WX01YcGlFalU2UzllVmpGdEZwTEp0TXZCNFhQdw?oc=5",
+          "domain": "bbc.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260805T044751Z",
+          "seen": "20260803T154108Z",
           "pinned": false
         }
       ],
       "reports": [
-        {
-          "id": "report-dcba5494530a",
-          "title": "'Profits of war' and 'Super-rain'",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rSV9zb0x5Tmd0U3hUT2R4SlZzeUVJWERra1hRTnpQWi1nUEpZSkpqdHd6eFdadUNKT2FHaWVDR0pRRVA4TkhDSTBabGI3dmstV01PNkRqamtRQQ?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-05T03:45:42Z"
-        },
         {
           "id": "report-94db5ee7abf1",
           "title": "In Bandar Abbas, the ceasefire never came",
@@ -599,6 +590,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-05T12:18:16Z"
+        },
+        {
+          "id": "report-dcba5494530a",
+          "title": "'Profits of war' and 'Super-rain'",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rSV9zb0x5Tmd0U3hUT2R4SlZzeUVJWERra1hRTnpQWi1nUEpZSkpqdHd6eFdadUNKT2FHaWVDR0pRRVA4TkhDSTBabGI3dmstV01PNkRqamtRQQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-05T03:45:42Z"
         },
         {
           "id": "report-b024a687e378",
@@ -664,6 +664,15 @@
           "reportedAt": "2026-08-02T09:54:16Z"
         },
         {
+          "id": "report-532672f563a3",
+          "title": "Why are US Republicans losing faith in War Secretary Pete Hegseth?",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcnFQM1ZJVEFQNllwWFA5Tk5UV0xFdWx2Vm95LXI2ODFoRzZZYU5FMURaRm1ZV0tpeGpYVENlSHJvOWhQLVAwODY0YmFyMlRYdzVxaUNJMkJ6b0tSMjh1UGtYT2tadENlTDNLUDJXd2FubVc5Z0ZqT0ZOVm5fRHJXd1ZNM1NGVFUtUFJQUk5ZZk5jMkUtVVJmdmd0N201MVpvakE2X1VoeEnSAa4BQVVfeXFMUDJVMlVtU05HcFA5dC1OU3dxMk5HV2FGQnJJREM4VHRzS0JmZjJKdDZoUkFxanhSVHM5LUsxejlqZGtqS1NBOHpxeXdHNGJPZ0FxaEZrRVRGQkNHZENfeU5kRkFPLWpKNzE3bDdfZDZESTFBdDlhQmxiSW04OVRtUUx4TXd3bFE0anp6M2xyd3RXLWVJMUllQi1wOUg3d3g5UEI1cDdmT19GZ0JQdGF3?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-05T13:55:51Z"
+        },
+        {
           "id": "report-aa81921d8499",
           "title": "Who will shape post-war Iran?",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9TM0VXZ0thZmxVMmRZTXJuV1RpT25zMjZxWXkxYVdZUjZXMGlpRUhsS21XdF9nUHlBZ3haSVRtaG9sV3lnY3V2SktuSDF3Y1oyaE5vNDAxeDYtLWpod1g5MHdyRGdGZ01WRUg2NDVjWXhyQmtNelR4OEw5MHDSAYIBQVVfeXFMTUdIRE9EeDkxaGZicm9TYzhxQmtra2FMcmdieExEcHBaME1SWjY4VEhiOW1WRzU3czZHcnQ4eFcxQ3Q5ZWUwdUpwRjhRT0VpWVN2OVpnaloxYkhNM19raHVSNTZneTlueHB4eUYwV3JTakpxdVkwQXFsejRNTjZLdUtVZw?oc=5",
@@ -680,15 +689,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-03T02:03:00Z"
-        },
-        {
-          "id": "report-532672f563a3",
-          "title": "Why are US Republicans losing faith in War Secretary Pete Hegseth?",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcnFQM1ZJVEFQNllwWFA5Tk5UV0xFdWx2Vm95LXI2ODFoRzZZYU5FMURaRm1ZV0tpeGpYVENlSHJvOWhQLVAwODY0YmFyMlRYdzVxaUNJMkJ6b0tSMjh1UGtYT2tadENlTDNLUDJXd2FubVc5Z0ZqT0ZOVm5fRHJXd1ZNM1NGVFUtUFJQUk5ZZk5jMkUtVVJmdmd0N201MVpvakE2X1VoeEnSAa4BQVVfeXFMUDJVMlVtU05HcFA5dC1OU3dxMk5HV2FGQnJJREM4VHRzS0JmZjJKdDZoUkFxanhSVHM5LUsxejlqZGtqS1NBOHpxeXdHNGJPZ0FxaEZrRVRGQkNHZENfeU5kRkFPLWpKNzE3bDdfZDZESTFBdDlhQmxiSW04OVRtUUx4TXd3bFE0anp6M2xyd3RXLWVJMUllQi1wOUg3d3g5UEI1cDdmT19GZ0JQdGF3?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-05T13:55:51Z"
         },
         {
           "id": "report-9d93485d8a69",
@@ -709,13 +709,13 @@
           "reportedAt": "2026-08-04T18:37:48Z"
         },
         {
-          "id": "report-fe4a8adf04e0",
-          "title": "Why are oil companies posting record profits amid Iran war disruption?",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT1JuMkFnZG9sOWxZLVIwSjhiaHBqUEhETzRrN2JtUEI2TC1jeHlXb2pVSElSeUlRWEFpNWVBRVY5N1JzYWl6c2F5RTdURDRIM3d3UTlJRWVpcDFfSUdsVmFXTkRtNG1ZMWZhZ0hYYVkwRkpBelZrRVphSWhkaF9JYzJPUmw0b1QxbFZFVzI5X0RZc3oxRHZVWDFuZ01mekM1QXhIRDJlcWNNVm5NbHV4VF93SdIBuAFBVV95cUxNUGNjWkxiV09lbUtOV1hlbEU2dEdXTUhtLW5VODAyRmhXUXN4dWczMHdrU3BrdDI3UllXVFNPUjI0MXFfSHBZMHZfWXEzWGJhd3hWUE5neDNyVzN0cHlqUGJEMjdSS21mMmNTbGNEMWk0alB2eFpmVzRCamVJbXFSRnBvUUdsNF9sN3lzVEhfSWJLdFNzclpDUmdlVUVycjdGaTB0cW5YaFlRRXdsYl9SVGdib0R0TjZf?oc=5",
+          "id": "report-15e9a7edd722",
+          "title": "War on Iran: US-Iran deal edges closer",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRzFab0tRUHUtYW1Ob2VJMXpqcGlBQXdaWkduZmYtMWIzX1JSNEM1aUxFX0JLbFFDRFdxNDZvaWl1a1p5Z2laSmdId01BcmV2bW4yOHZZZU1udEo4ZzlJUHFfWVhyXzhxZjFDanFlQ0F2SGg4dG9fWFV6eDd5RnEtT1lVaFRWYWRCUUJWQjdORXfSAZYBQVVfeXFMTUl0WlAzYzJpN1Btb1BWUGhCOUtuc2hzU2F3eXE2LTRvemx5VXFRQWlCb212ck1EenVaWDZ4V2RvanVPVHR0OG5NeGdONEZxaXdQSnBJaVhCWUZOU3ZLYU8xMkZjMHJfUWNFdWtJZUZ1UnhhYkJ0MF9yTHFOc19Jb2hxTkZxd1JPcTNqLXVxUzBMWW45cGh3?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-04T14:06:33Z"
+          "reportedAt": "2026-08-05T15:37:35Z"
         },
         {
           "id": "report-f5c24acbece1",
@@ -745,15 +745,6 @@
           "reportedAt": "2026-08-02T03:43:00Z"
         },
         {
-          "id": "report-5b16e668f369",
-          "title": "Russian and Ukrainian strikes kill 14 on both sides",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNjJraExWMWtxcUNOZ3N5c25vajR5cmFaamFrbng4eEVMVEpSN1FOMGd2eUtDUUx0czgzOXpfdW9EZFVja1ZsaTJ0TWVzRVlkNXp2SXEwYmh0aXV3WFRJb3lQQVFfN3k4YWNFRlVhckhMOWRZOEV2RWVHdmMtYXRzaWNBRkFPZS03UHduTEthOHNGOS16UFBrOHctWjMxN1JuR3dWTW55YlU3QdIBrwFBVV95cUxNeXA5R1laeHFMQ1VheTV4Zzg0TUQzZ3gwUGpiLUNMUUZ6cW9jMmpNUDY0NTFOcThUYVhtU0RDaHBjUFRrZFdHU0RUVjF3NlNES25GRGFsVENuNU4tRXI1c2FqXzdBcGJlMjZYazEwbEdUekFMODBSUkZhWTBDM2U4cGg0TVlwU1NMcFFLb3NkSmVESkg2cFJRX1laeEQ1UFVfOEdlaURwZUJPdVBnTXh3?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-02T20:58:39Z"
-        },
-        {
           "id": "report-e09e558a5292",
           "title": "Nine killed in escalating long-range strikes between Russia and Ukraine",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNzFwblJCbVpGZUFvaGlLZ3BaRW1Hcll2TzMtVVpqXzdDNGdOVDZIYUlNSVNhNjJiS2lYekNkbks4LXhYeEtVbGpSSXhDM0RrRERaLVdZVVh1aXZMUXRLQ25pdGFqTXFtdkxENGpiSUtWWmh0ZV9Yd2M3YV9UTGNjd2JXNWpDUnBxNzFyaG93dDh0dzFfbzBZdGNkUkpSV2JMRDFrb2lHb0Ytc3dCWHJGNA?oc=5",
@@ -770,6 +761,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-03T11:19:05Z"
+        },
+        {
+          "id": "report-6cf15bf7ec74",
+          "title": "Explosions across Kyiv as Russian missiles strike Ukraine’s capital",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUFBCU09NMms3NXRCdERTTlBQWnJMR0U3T1daeHZmaHBYVXRKcDNITmJiOVotWmZVRW0xRzNGbnd0bDEwQVluaExNTGVhQ1FBaV9JU09hRXBiN0dBMjNWZ0Q5b20wX19mWjYyeXEya3BtbDN4d3AtMTNvc3lHODRnMnFFaUdUeDlyd0FWLTRiNnA1TFRjSHhTZnltR1dHM3JuV2dGS2I5NkxvZ0JqSzRzWHpDNVZ6OXPSAbwBQVVfeXFMTVlLUm5FV2RFdXZIV3dteG5NdU50VUgyc1o1NmhhUGRPelVmT3V0U211YXU5b0pobEF1NDRLcG8wV1VTT09PVjhFWnZjdWtxcG9EcXdUWnBSd2drR3dfWTMwTF9Pd2xTT1lBVXBtQ05BTUxvQ0pud2ZDblFYTGd5VVJ4STUweTNzSnphRUFPLXBjZFp0YjNVMlNtSExNenFMSVNBYTdxY3RfOFJTbkFVQi1wT0xwM0VxT3BKNzg?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-05T04:47:51Z"
         },
         {
           "id": "report-55723f4337db",
@@ -790,13 +790,13 @@
           "reportedAt": "2026-08-04T21:08:28Z"
         },
         {
-          "id": "report-6cf15bf7ec74",
-          "title": "Explosions across Kyiv as Russian missiles strike Ukraine’s capital",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUFBCU09NMms3NXRCdERTTlBQWnJMR0U3T1daeHZmaHBYVXRKcDNITmJiOVotWmZVRW0xRzNGbnd0bDEwQVluaExNTGVhQ1FBaV9JU09hRXBiN0dBMjNWZ0Q5b20wX19mWjYyeXEya3BtbDN4d3AtMTNvc3lHODRnMnFFaUdUeDlyd0FWLTRiNnA1TFRjSHhTZnltR1dHM3JuV2dGS2I5NkxvZ0JqSzRzWHpDNVZ6OXPSAbwBQVVfeXFMTVlLUm5FV2RFdXZIV3dteG5NdU50VUgyc1o1NmhhUGRPelVmT3V0U211YXU5b0pobEF1NDRLcG8wV1VTT09PVjhFWnZjdWtxcG9EcXdUWnBSd2drR3dfWTMwTF9Pd2xTT1lBVXBtQ05BTUxvQ0pud2ZDblFYTGd5VVJ4STUweTNzSnphRUFPLXBjZFp0YjNVMlNtSExNenFMSVNBYTdxY3RfOFJTbkFVQi1wT0xwM0VxT3BKNzg?oc=5",
-          "domain": "aljazeera.com",
+          "id": "report-8e30f0f8eae7",
+          "title": "Russian anti-war politician says he has fled the country",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rX1ZwN2VJTGFmTmZ5X0Vpd0E4YWRSOWZsNC1BaEw4ekpsSkFhUkp4LWNjSzJmYkZDeDQ3eF9WX01YcGlFalU2UzllVmpGdEZwTEp0TXZCNFhQdw?oc=5",
+          "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-05T04:47:51Z"
+          "reportedAt": "2026-08-03T15:41:08Z"
         },
         {
           "id": "report-dd2a1637dc48",
