@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-07T15:14:46.338Z",
+  "generatedAt": "2026-08-07T18:12:01.976Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -9,7 +9,7 @@
       "items": []
     },
     "safety": {
-      "generatedAt": "2026-08-07T01:43:37.237Z",
+      "generatedAt": "2026-08-07T18:12:01.976Z",
       "cadence": "daily",
       "items": [
         {
@@ -45,6 +45,14 @@
           "pinned": false
         },
         {
+          "title": "EXCLUSIVE: Jailed ex-US Marine may be near death in Russia, sister, advocacy groups say",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSWRhUUV5QVBtOWJSQng1SVlmbGJjTmVqWnJ5SGt5eXJXbGpnRGxFNm91ODJGS3NMZkRPeGZGLUNIWUFRVDlQd2UtMXdOdjg4Z1RJckN6UXNLQVVBU293cGRLdTVYTmRiOHBwZUlST2FpSFpOcEozcXB5UmU0LS1yMzd2dldISTQwcGNjZmFKTHgyQ25UWHhoTUFyNU1KRlFGSlpVSU10UXBITTkwNldLcDBRWld4UE0?oc=5",
+          "domain": "reuters.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260806T184948Z",
+          "pinned": false
+        },
+        {
           "title": "Marine F-35 involved in fiery mishap at Miramar base in California; pilot ejects safely",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQTY2THYtYXZSQXBMTlhtamlYSkRpSWlmNnFqd3JZWFIzd0lEaTlOTzNlRVRlUTZOdmcwYnNKN0NCUzFLZ1ZsRFduWW0xbWluTDcwZk5nSGVDMTJVTUdHbEFDWThrQy03c1RURmM4TFBZdzVfcHdTQUQwLUkwMEtldlhvTTg5XzJMUmFjamhIQmh5RnhMX1ZwY3FR?oc=5",
           "domain": "stripes.com",
@@ -58,14 +66,6 @@
           "domain": "safety.army.mil",
           "sourceTier": "Official military source",
           "seen": "20260720T070000Z",
-          "pinned": false
-        },
-        {
-          "title": "PLR 26-053 – Automobile Mishap Claims One Soldier's Life",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQLTF4dFVXQUVUR01mU0dsWUVZcVZmRXJHQXpFUTU2NTF4RDNOdGZwYTg5WklVNXZ4T1Z4ZjJUT1lYYXZfcm1sMXgxVTNKZGFLNHZTdUczVHlrWUM0UHk0Y0tKcURRVjJIalAtTTBfNW5KTjRURHdyRjhSM0lYelNGYndiRHNMVVFOVkh4bk9Vc2lpUncwUUpIT2duNmRCWUxpTUZOQ3NKQ3BkSE8yVnVwVlhRdENVS2lxUk5xOS04eHQzdkIweTMxM0JybHlhSTYt?oc=5",
-          "domain": "safety.army.mil",
-          "sourceTier": "Official military source",
-          "seen": "20260730T212627Z",
           "pinned": false
         },
         {
@@ -110,6 +110,24 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
           "source": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWlF2VnVUdWhBVDVXWjJOZEV1Y2ZKYmFYRXh4Z2daRHh5WnJfdlZkODlCWTRwaFc4dGx1enhnWU44NExiUlNyTnBZdTRKak9LMDZaOURZX3BpTnNBQTZfOVdtX3g1WDlBa3MzQXJtOW1IZVRaVl9TOTJZMjBIa045ZktuSzJUazhwNFBXMUtLVzNGTHJUNWxaVWxIeHU5X3d0czIzdE1hMi1MSjNuQW1NZkZUc2RNdWdrTHpWTDlaZ2I2cVZkQ0xB?oc=5",
+          "sourceLabel": "reuters.com"
+        },
+        {
+          "id": "auto-01bbb6e7cc0a",
+          "reportDate": "2026-08-06",
+          "dateBasis": "report discovery date",
+          "branch": "Marine Corps",
+          "department": "Department of the Navy",
+          "type": "Other",
+          "event": "EXCLUSIVE: Jailed ex-US Marine may be near death in Russia, sister, advocacy groups say",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSWRhUUV5QVBtOWJSQng1SVlmbGJjTmVqWnJ5SGt5eXJXbGpnRGxFNm91ODJGS3NMZkRPeGZGLUNIWUFRVDlQd2UtMXdOdjg4Z1RJckN6UXNLQVVBU293cGRLdTVYTmRiOHBwZUlST2FpSFpOcEozcXB5UmU0LS1yMzd2dldISTQwcGNjZmFKTHgyQ25UWHhoTUFyNU1KRlFGSlpVSU10UXBITTkwNldLcDBRWld4UE0?oc=5",
           "sourceLabel": "reuters.com"
         },
         {
