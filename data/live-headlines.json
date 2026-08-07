@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-06T10:18:59.509Z",
+  "generatedAt": "2026-08-07T01:43:37.237Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -9,7 +9,7 @@
       "items": []
     },
     "safety": {
-      "generatedAt": "2026-08-05T20:42:14.646Z",
+      "generatedAt": "2026-08-07T01:43:37.237Z",
       "cadence": "daily",
       "items": [
         {
@@ -34,6 +34,14 @@
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "seen": "20260716T220900Z",
+          "pinned": false
+        },
+        {
+          "title": "Two Chinese coast guard personnel marked as \"martyrs\" after South China Sea collision last year",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWlF2VnVUdWhBVDVXWjJOZEV1Y2ZKYmFYRXh4Z2daRHh5WnJfdlZkODlCWTRwaFc4dGx1enhnWU44NExiUlNyTnBZdTRKak9LMDZaOURZX3BpTnNBQTZfOVdtX3g1WDlBa3MzQXJtOW1IZVRaVl9TOTJZMjBIa045ZktuSzJUazhwNFBXMUtLVzNGTHJUNWxaVWxIeHU5X3d0czIzdE1hMi1MSjNuQW1NZkZUc2RNdWdrTHpWTDlaZ2I2cVZkQ0xB?oc=5",
+          "domain": "reuters.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260806T095400Z",
           "pinned": false
         },
         {
@@ -69,14 +77,6 @@
           "pinned": false
         },
         {
-          "title": "PLR 26-049 – On-Duty Sports, Recreation and Physical Training Mishap Claims One Soldier's Life",
-          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQMlZyZU9RWWFVT1Noa09rTXBzS0xwMTF3QVUwSmF2ckxPZTZaRFpIdHhESU9hcDlXRmJ4YjQ2MjJvSFZKMzVPNkZYUEFuaC1MU3ZEZXpJcEVCWjJ2SVpuN01wbGx3LU9PWHZ3ZlNRUE45Yk9pODBfUEZhS1N5c1U5ZW5fdUNQNDljM3A5cGxsdGw3RWpVNTV6b1h1NzFBYktiU0lRVGtjRjJhRExWRS0wWGYwNEV3cWNoT2dlVjh4dUdfR1VmdnI0UFhwaXgwaDVUVG5MVm11b2Z5OWtDc2pSLTQ1Z09PclRfVEF1V3pmSW1GVGpKWHZ4ZU5oLWxtY3NYVmc?oc=5",
-          "domain": "safety.army.mil",
-          "sourceTier": "Official military source",
-          "seen": "20260707T070000Z",
-          "pinned": false
-        },
-        {
           "title": "PLR 26-050 – Automobile Mishap Claims One Soldier's Life",
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZjJhVmhtaUpjaXRLQkhJaVdCTkRGVTBGbzhxdzBrYzByc2s5NTdhUkE0Ny04bUR2ZE40a19sRFhsQ0o4X3FJU3JjajAyUHc0UVZjek5mNGZDMWpyamF2Nm56YlV2SHFaTjB6dW42Z3FSSFBhY0hIdS0yQ3phQ3lVajJjbXBjb3VTa3ducllWNHcyYkdsQ1QyeWNlS1o5YWRlbFlnN1NEQlJlQkx0WmdKbllJY2RiSTdqUGZiQVZLV081MmtnbGs3bW1RbFJxQmpN?oc=5",
           "domain": "safety.army.mil",
@@ -94,6 +94,24 @@
         }
       ],
       "incidents": [
+        {
+          "id": "auto-1427960fe531",
+          "reportDate": "2026-08-06",
+          "dateBasis": "report discovery date",
+          "branch": "Coast Guard",
+          "department": "Department of Homeland Security",
+          "type": "Other",
+          "event": "Two Chinese coast guard personnel marked as \"martyrs\" after South China Sea collision last year",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWlF2VnVUdWhBVDVXWjJOZEV1Y2ZKYmFYRXh4Z2daRHh5WnJfdlZkODlCWTRwaFc4dGx1enhnWU44NExiUlNyTnBZdTRKak9LMDZaOURZX3BpTnNBQTZfOVdtX3g1WDlBa3MzQXJtOW1IZVRaVl9TOTJZMjBIa045ZktuSzJUazhwNFBXMUtLVzNGTHJUNWxaVWxIeHU5X3d0czIzdE1hMi1MSjNuQW1NZkZUc2RNdWdrTHpWTDlaZ2I2cVZkQ0xB?oc=5",
+          "sourceLabel": "reuters.com"
+        },
         {
           "id": "auto-bb2cc9c97202",
           "reportDate": "2026-07-31",
