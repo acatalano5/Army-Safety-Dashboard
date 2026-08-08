@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T08:09:37.478Z",
+  "generatedAt": "2026-08-08T14:10:56.970Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-08-08T08:09:37.478Z",
+      "generatedAt": "2026-08-08T14:10:56.970Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -421,7 +421,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-08-08T08:09:37.478Z",
+      "generatedAt": "2026-08-08T14:10:56.970Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -513,11 +513,35 @@
           "pinned": false
         },
         {
+          "title": "Russian strikes near Ukrainian capital kill four, including child",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVFJDbUp1TEFMSTZvWWM0TGY3NkVlRnc1V25ibFV4aXEycnNFVVltMlNxQkN3YnZjTmRDX0JqbFhMRW96bDU3M3gteWVUWkJvaFJocHExTWNDeldNMGxaNFZrN2VXbXlsV3N2cTlCbno3T3k3ZmRZd2plTGZITURoQS0wU3VxX096ZS1uMHNkd2YyTzNlZ1QxcmJtM3BWbDU1Q2ctTV83X1rSAa4BQVVfeXFMUGJrYWFjMzdwd0JQa0lkZ3NEaU5MdFc2SmRqQWVQS0RyMC1WTURmRnBuMDNHNXZqamx0TEI0blZwUm93YUliUm5rUjc4QnFPd2lyQjFWWXRDNGMydy1uX0ROT2ZVaW95ZjdheEladGRzRW8xWGlQTFJlQ2VmM09IWlhGOEFMQ0VmRjBUWEt4YVI4Qmo4TkNWOGJsUHdpY2Y4ampja0NiSTVKYnROdHdn?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260808T130054Z",
+          "pinned": false
+        },
+        {
           "title": "Sudan’s war threatens an ‘entire generation’s’ future, UN warns",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd1dlc3RpbmFHS3ZxNVIwcWNKTmkzeXBlVlE3SmRZNzRNNnptX3RKeF9wbnhneVI2b2hYOTQ0dTVpWkVUNk94R0xDMUJpTUZYMmtIQlBxUlF0SEx5Nnl4cFg2NFA4S295WndQT3pILXVndTlMQ1NNUGR6SUNQLTUxcXE4d2R5NFpxLXVMNXl2b0tfTFNDdlQwMVB3SHBOM0HSAaQBQVVfeXFMTjVDRHliYVk3dzJTY2pEaXZUOFlvX2c2YmpDQkJvbEVnc3c2TnRKR05fa3RVMU1lOHI4azlvOWdGUlFiaDVPQWVYT0hVd1VzeHBUYXRoNEgya0U0QkpIRUg0TFdXeVU1bFI3TlRjb2dSaWRyVFBXY2NtU0tzbEpkMHlGSkZXM2xUVlU1Z1ZtZGdJbTlDMDl5VTFnLWplVTNpOGJNRHg?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260808T002934Z",
+          "pinned": false
+        },
+        {
+          "title": "War on Iran: Saudi Arabia, Turkiye and Pakistan sign defence pact",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMTh5ZWwxZEpzdjVZX3B0NS12NVBfYzZCOEJCRkx1MmdMNlJHdlNKeS02WnVmWDhoYTYwY0R1RlM2enE3VFZsOE9iemloM0RCc2lpXzFQUi1BTXpYY25CSUpVeGU4R3VpWEp4ejNCUGZlT005OUc0RXJlSXVDdE9QT21wMkxKZUVFaEg3SVFvdDQtcG8tbEFZdDBGamw4MWlNRDk4N1p3ZlI0cTZ1M0tGMll1c9IBuAFBVV95cUxOc2l4eFZ3UzBPcHBkU1RkMUFxWGVUS2x6SG8xWGFxekEwT3pHcUJ1VlBLTnBsNmtPNTB1U3RjalAwMGRWOURCWVdCSHhScHF0bE93NWFfZTBLcVk0aGlDVVJ6V3JTQU12OExyYl9lZDlSejBlajYtRE1KZndRX1RUZHRSbGs0TGJkZU85clEtTlJjajVCRU9IMXRwOGlJNmpSLVRwdlBTWFJwUHpPYm96ZVlVeVFrNE5w?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260807T170221Z",
+          "pinned": false
+        },
+        {
+          "title": "Woman screams for her man as Ukraine war recruiters pounce",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa0dyX1owa3pyOGJNNkFHODloLUw4R2Nod3ZaU0k0Vy1IN0UxaXZsc2tGSmRPQ2VwUlNlY1RtVlhxN1MwT3JScXVra0NsS0llUmhuN1ZhNHhKeVlHUVl6WC1SOE9jZWRDV3RyNmVqX0dOdTgwZGxsSGtyR1A2c20tTXBKWG1mSE1LbjlEck9tdE1BZFhXRUlnVmJtV2M3WFg1TjNtdENCazdwenVK0gGyAUFVX3lxTE04NzlXOGs3QWZvS19OQklJNWw3X29RSmdVSXdpMGgwaVVvdG9aQTFVbDNwQ1pTS2xSV3JpVVNjQlJsbS00WTUyOXlOc3pFZWZuZ3piMVBaNFBzbGdXdVQxLWdtbWZfbExnT2Uzcmh3OVR1S3cwb1BRT0FSUGI3NlBRZUh3MlVka3hYWFFHOXIxeEJvNXNHd0htR1pvajBvUDRIQk5mdmFhbkJMQ09helRGM1E?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260808T113148Z",
           "pinned": false
         },
         {
@@ -537,27 +561,11 @@
           "pinned": false
         },
         {
-          "title": "War on Iran: Saudi Arabia, Turkiye and Pakistan sign defence pact",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMTh5ZWwxZEpzdjVZX3B0NS12NVBfYzZCOEJCRkx1MmdMNlJHdlNKeS02WnVmWDhoYTYwY0R1RlM2enE3VFZsOE9iemloM0RCc2lpXzFQUi1BTXpYY25CSUpVeGU4R3VpWEp4ejNCUGZlT005OUc0RXJlSXVDdE9QT21wMkxKZUVFaEg3SVFvdDQtcG8tbEFZdDBGamw4MWlNRDk4N1p3ZlI0cTZ1M0tGMll1c9IBuAFBVV95cUxOc2l4eFZ3UzBPcHBkU1RkMUFxWGVUS2x6SG8xWGFxekEwT3pHcUJ1VlBLTnBsNmtPNTB1U3RjalAwMGRWOURCWVdCSHhScHF0bE93NWFfZTBLcVk0aGlDVVJ6V3JTQU12OExyYl9lZDlSejBlajYtRE1KZndRX1RUZHRSbGs0TGJkZU85clEtTlJjajVCRU9IMXRwOGlJNmpSLVRwdlBTWFJwUHpPYm96ZVlVeVFrNE5w?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260807T170221Z",
-          "pinned": false
-        },
-        {
           "title": "Could the Iran war derail Donald Trump’s legacy?",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNT0VvNkpuVlZaMXJneE94UGRrTWt3OHB3dnFJLWM2dkxkVlVsdVdUVlhDQW9zMGZpQS0wNm1nUU03ZzhSU1Ayd0NiNlVZY0N4VG9jVTRCRmJGMks0YUphQU9XR1ZsSk9oQlRvVU44ZHUxYVNMRFkwai15ZVN4WTFMRkY4WDdYZTdBeXEtS2cwTEpzMVJjd0hWWXVVMVjSAaIBQVVfeXFMTUZqVXNpS2dBNVJwclMxTFlwTnR6NzlJSllZQ01PaVgwWG9NcTY5OEI2QTYwVGRHTjMwZTlXMG5Qbzk2amRKaUp3LXBvRXYwdDNwLWZkaERqMF91YzdKRWRUVG9LMzhCR1YtTTEtYTJvOEczUVhlZEVqZnFoNFYtWnZOM19UQVdnc0hJZFZSTmQxRWNkZnpSYXFvc0swZV9KOElR?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260806T034737Z",
-          "pinned": false
-        },
-        {
-          "title": "Russian strikes near Ukrainian capital kill three, including child",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVFJDbUp1TEFMSTZvWWM0TGY3NkVlRnc1V25ibFV4aXEycnNFVVltMlNxQkN3YnZjTmRDX0JqbFhMRW96bDU3M3gteWVUWkJvaFJocHExTWNDeldNMGxaNFZrN2VXbXlsV3N2cTlCbno3T3k3ZmRZd2plTGZITURoQS0wU3VxX096ZS1uMHNkd2YyTzNlZ1QxcmJtM3BWbDU1Q2ctTV83X1rSAa4BQVVfeXFMUGJrYWFjMzdwd0JQa0lkZ3NEaU5MdFc2SmRqQWVQS0RyMC1WTURmRnBuMDNHNXZqamx0TEI0blZwUm93YUliUm5rUjc4QnFPd2lyQjFWWXRDNGMydy1uX0ROT2ZVaW95ZjdheEladGRzRW8xWGlQTFJlQ2VmM09IWlhGOEFMQ0VmRjBUWEt4YVI4Qmo4TkNWOGJsUHdpY2Y4ampja0NiSTVKYnROdHdn?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260808T041918Z",
           "pinned": false
         },
         {
@@ -585,6 +593,14 @@
           "pinned": false
         },
         {
+          "title": "Drones spotted in Bulgaria and Germany raise concerns of Russian escalation",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWGN3STBkTXUwR3NXZDN3TzJEcjJXR29rZDFJNW1LS1V6WVdZenh1SzQtTjZTOEhtNk8wTUotSmFPN2ZqRTR6ZEhwSTZ0dDFxUEhZQkVFVFg2YVZTQzY2RzJoTFBWcVVQQjRPeUVCaHdSem1lclJYeTNTZVY3SFp6X2hRRzFDMFVxTWxlYmN0N1RqWFVZZEVZMTBSdTBNWGVwY0ZrNk9NY3pXbjYtc3RTenYxYmVZUdIBuwFBVV95cUxOZGIwWXdiTmNOSy1MMXBBWUFLd1JWS0tmUmNyWk9UNHZ4bmRuZW15TU83NDBtQkxBQU1Qa2dDN0xyS1V0QVFzWmJlSm9MN0lGTG5IZndpMjlxZGJyallKVkZSem0tV1h4X2M5M2E0bjc2Vm85V0Q3Sm5yYTBTUnh4VHBJcEV4S0JhQUJTTGJVenBwT0VzR3hMVGtsT2E3bXhaRllsY1lBWlRjVkFSWU0xeUswZnVoTGFVR3JN?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260808T123759Z",
+          "pinned": false
+        },
+        {
           "title": "Trump denies reported clash with defense chief over Iran war munitions shortage",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdDJ4SldqWjBFdkdORWt6YVM5d2tudHZUQjlBbUxZMjBTbkFWb3laWUk0d0J0aElMZkZhd3UtRVctMC1wMnhZaFh5UG96NHlhMHc1cGhyLW5GaFFwN0ZrWE8xZGdLVGpvR0RZalZkWGcybEFEMERrUHFEZTIzTElwMW50cXRJeGZnTzlhTG5sOV8tczV6bk1jWHdCbE81UTA1azZlSlRDT3dQLVNVWlBVMkV3cVRfTExVcmRmc05R?oc=5",
           "domain": "aa.com.tr",
@@ -598,22 +614,6 @@
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20260807T002652Z",
-          "pinned": false
-        },
-        {
-          "title": "Iran war renews concerns about the lasting toll of traumatic brain injuries to US troops",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcThHa3E4S2QtZFp5ZEJqRHdlVGhyM2N0UTI5YUhUeUFqbEhQVjcxOXM4NkdTUzFRalVybkYweDRINGIyZHJWM0VWZjhrSXpldHpIQ25PWE5LSnlRRWEyNTNsTGlnamtHdUVyZHpxMlpWTXY4RkxyUVdJU1ZSdXJvWVE2dV9NNHo0cjUySldVU1N4dmx2Q0JDemZuQUdFVVhxdWc?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260806T181400Z",
-          "pinned": false
-        },
-        {
-          "title": "Several killed in attacks on Ukraine as Kyiv hits Russian e-commerce giant",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNakhfdklfYWJiVFZtMWZiMWp5dXZUOEtaaTdndFM0RWIyYVF5Q19NQ243bk5uUDFPQ2p2bllmek1EQXlNMzg2S2RpaUhSdVpFN3lEUGhDSTZ3X3RNV296SnF2WnB2dlFFSGZqMjQwekM1T1Rzd1hOMEZvenNKVlZ6dl9PX2Y0eXJFWGVPdDJfVGpkS0FLMnFfNkctV0dhZ25hbnZfZ1lMVTEyRWZxSFl0dElEU1bSAboBQVVfeXFMUHAzbDdNNHJocnpfemtLeE9ZYlAyNGV4WFlYWjROX0FnUFNPN0V3Q3hHdHA4MjRHOENueXptbUhicDhjNzZ1UHVRMTBUX2h3RDN5REpPVURwTnJOZEE0VHdLbDYzUldQVDQ0bko1Z3l6Z1hkX1lWcF85YUVNZnVkZ0ZuVDZiWFZSSFhkS2preWRXUE1fZzJ1amhPeEZOZGJvYV9Rd3R3SGNULTV3RFNxZWZEc3pmVUZqUzZR?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260806T070000Z",
           "pinned": false
         }
       ],
@@ -718,6 +718,15 @@
           "reportedAt": "2026-08-07T11:19:35Z"
         },
         {
+          "id": "report-1b7bba276ab8",
+          "title": "Russian strikes near Ukrainian capital kill four, including child",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVFJDbUp1TEFMSTZvWWM0TGY3NkVlRnc1V25ibFV4aXEycnNFVVltMlNxQkN3YnZjTmRDX0JqbFhMRW96bDU3M3gteWVUWkJvaFJocHExTWNDeldNMGxaNFZrN2VXbXlsV3N2cTlCbno3T3k3ZmRZd2plTGZITURoQS0wU3VxX096ZS1uMHNkd2YyTzNlZ1QxcmJtM3BWbDU1Q2ctTV83X1rSAa4BQVVfeXFMUGJrYWFjMzdwd0JQa0lkZ3NEaU5MdFc2SmRqQWVQS0RyMC1WTURmRnBuMDNHNXZqamx0TEI0blZwUm93YUliUm5rUjc4QnFPd2lyQjFWWXRDNGMydy1uX0ROT2ZVaW95ZjdheEladGRzRW8xWGlQTFJlQ2VmM09IWlhGOEFMQ0VmRjBUWEt4YVI4Qmo4TkNWOGJsUHdpY2Y4ampja0NiSTVKYnROdHdn?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-08T13:00:54Z"
+        },
+        {
           "id": "report-7f97b0806231",
           "title": "Sudan’s war threatens an ‘entire generation’s’ future, UN warns",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd1dlc3RpbmFHS3ZxNVIwcWNKTmkzeXBlVlE3SmRZNzRNNnptX3RKeF9wbnhneVI2b2hYOTQ0dTVpWkVUNk94R0xDMUJpTUZYMmtIQlBxUlF0SEx5Nnl4cFg2NFA4S295WndQT3pILXVndTlMQ1NNUGR6SUNQLTUxcXE4d2R5NFpxLXVMNXl2b0tfTFNDdlQwMVB3SHBOM0HSAaQBQVVfeXFMTjVDRHliYVk3dzJTY2pEaXZUOFlvX2c2YmpDQkJvbEVnc3c2TnRKR05fa3RVMU1lOHI4azlvOWdGUlFiaDVPQWVYT0hVd1VzeHBUYXRoNEgya0U0QkpIRUg0TFdXeVU1bFI3TlRjb2dSaWRyVFBXY2NtU0tzbEpkMHlGSkZXM2xUVlU1Z1ZtZGdJbTlDMDl5VTFnLWplVTNpOGJNRHg?oc=5",
@@ -725,6 +734,24 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-08T00:29:34Z"
+        },
+        {
+          "id": "report-09c874dddc34",
+          "title": "War on Iran: Saudi Arabia, Turkiye and Pakistan sign defence pact",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMTh5ZWwxZEpzdjVZX3B0NS12NVBfYzZCOEJCRkx1MmdMNlJHdlNKeS02WnVmWDhoYTYwY0R1RlM2enE3VFZsOE9iemloM0RCc2lpXzFQUi1BTXpYY25CSUpVeGU4R3VpWEp4ejNCUGZlT005OUc0RXJlSXVDdE9QT21wMkxKZUVFaEg3SVFvdDQtcG8tbEFZdDBGamw4MWlNRDk4N1p3ZlI0cTZ1M0tGMll1c9IBuAFBVV95cUxOc2l4eFZ3UzBPcHBkU1RkMUFxWGVUS2x6SG8xWGFxekEwT3pHcUJ1VlBLTnBsNmtPNTB1U3RjalAwMGRWOURCWVdCSHhScHF0bE93NWFfZTBLcVk0aGlDVVJ6V3JTQU12OExyYl9lZDlSejBlajYtRE1KZndRX1RUZHRSbGs0TGJkZU85clEtTlJjajVCRU9IMXRwOGlJNmpSLVRwdlBTWFJwUHpPYm96ZVlVeVFrNE5w?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-07T17:02:21Z"
+        },
+        {
+          "id": "report-d84b6cf74216",
+          "title": "Woman screams for her man as Ukraine war recruiters pounce",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa0dyX1owa3pyOGJNNkFHODloLUw4R2Nod3ZaU0k0Vy1IN0UxaXZsc2tGSmRPQ2VwUlNlY1RtVlhxN1MwT3JScXVra0NsS0llUmhuN1ZhNHhKeVlHUVl6WC1SOE9jZWRDV3RyNmVqX0dOdTgwZGxsSGtyR1A2c20tTXBKWG1mSE1LbjlEck9tdE1BZFhXRUlnVmJtV2M3WFg1TjNtdENCazdwenVK0gGyAUFVX3lxTE04NzlXOGs3QWZvS19OQklJNWw3X29RSmdVSXdpMGgwaVVvdG9aQTFVbDNwQ1pTS2xSV3JpVVNjQlJsbS00WTUyOXlOc3pFZWZuZ3piMVBaNFBzbGdXdVQxLWdtbWZfbExnT2Uzcmh3OVR1S3cwb1BRT0FSUGI3NlBRZUh3MlVka3hYWFFHOXIxeEJvNXNHd0htR1pvajBvUDRIQk5mdmFhbkJMQ09helRGM1E?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-08T11:31:48Z"
         },
         {
           "id": "report-15e9a7edd722",
@@ -745,15 +772,6 @@
           "reportedAt": "2026-08-07T10:56:39Z"
         },
         {
-          "id": "report-09c874dddc34",
-          "title": "War on Iran: Saudi Arabia, Turkiye and Pakistan sign defence pact",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMTh5ZWwxZEpzdjVZX3B0NS12NVBfYzZCOEJCRkx1MmdMNlJHdlNKeS02WnVmWDhoYTYwY0R1RlM2enE3VFZsOE9iemloM0RCc2lpXzFQUi1BTXpYY25CSUpVeGU4R3VpWEp4ejNCUGZlT005OUc0RXJlSXVDdE9QT21wMkxKZUVFaEg3SVFvdDQtcG8tbEFZdDBGamw4MWlNRDk4N1p3ZlI0cTZ1M0tGMll1c9IBuAFBVV95cUxOc2l4eFZ3UzBPcHBkU1RkMUFxWGVUS2x6SG8xWGFxekEwT3pHcUJ1VlBLTnBsNmtPNTB1U3RjalAwMGRWOURCWVdCSHhScHF0bE93NWFfZTBLcVk0aGlDVVJ6V3JTQU12OExyYl9lZDlSejBlajYtRE1KZndRX1RUZHRSbGs0TGJkZU85clEtTlJjajVCRU9IMXRwOGlJNmpSLVRwdlBTWFJwUHpPYm96ZVlVeVFrNE5w?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-07T17:02:21Z"
-        },
-        {
           "id": "report-8d6e22cedc62",
           "title": "Could the Iran war derail Donald Trump’s legacy?",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNT0VvNkpuVlZaMXJneE94UGRrTWt3OHB3dnFJLWM2dkxkVlVsdVdUVlhDQW9zMGZpQS0wNm1nUU03ZzhSU1Ayd0NiNlVZY0N4VG9jVTRCRmJGMks0YUphQU9XR1ZsSk9oQlRvVU44ZHUxYVNMRFkwai15ZVN4WTFMRkY4WDdYZTdBeXEtS2cwTEpzMVJjd0hWWXVVMVjSAaIBQVVfeXFMTUZqVXNpS2dBNVJwclMxTFlwTnR6NzlJSllZQ01PaVgwWG9NcTY5OEI2QTYwVGRHTjMwZTlXMG5Qbzk2amRKaUp3LXBvRXYwdDNwLWZkaERqMF91YzdKRWRUVG9LMzhCR1YtTTEtYTJvOEczUVhlZEVqZnFoNFYtWnZOM19UQVdnc0hJZFZSTmQxRWNkZnpSYXFvc0swZV9KOElR?oc=5",
@@ -761,15 +779,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-06T03:47:37Z"
-        },
-        {
-          "id": "report-1b7bba276ab8",
-          "title": "Russian strikes near Ukrainian capital kill three, including child",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVFJDbUp1TEFMSTZvWWM0TGY3NkVlRnc1V25ibFV4aXEycnNFVVltMlNxQkN3YnZjTmRDX0JqbFhMRW96bDU3M3gteWVUWkJvaFJocHExTWNDeldNMGxaNFZrN2VXbXlsV3N2cTlCbno3T3k3ZmRZd2plTGZITURoQS0wU3VxX096ZS1uMHNkd2YyTzNlZ1QxcmJtM3BWbDU1Q2ctTV83X1rSAa4BQVVfeXFMUGJrYWFjMzdwd0JQa0lkZ3NEaU5MdFc2SmRqQWVQS0RyMC1WTURmRnBuMDNHNXZqamx0TEI0blZwUm93YUliUm5rUjc4QnFPd2lyQjFWWXRDNGMydy1uX0ROT2ZVaW95ZjdheEladGRzRW8xWGlQTFJlQ2VmM09IWlhGOEFMQ0VmRjBUWEt4YVI4Qmo4TkNWOGJsUHdpY2Y4ampja0NiSTVKYnROdHdn?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-08T04:19:18Z"
         },
         {
           "id": "report-198134b457fd",
@@ -799,6 +808,15 @@
           "reportedAt": "2026-08-06T13:19:37Z"
         },
         {
+          "id": "report-cdeab4f938c0",
+          "title": "Drones spotted in Bulgaria and Germany raise concerns of Russian escalation",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWGN3STBkTXUwR3NXZDN3TzJEcjJXR29rZDFJNW1LS1V6WVdZenh1SzQtTjZTOEhtNk8wTUotSmFPN2ZqRTR6ZEhwSTZ0dDFxUEhZQkVFVFg2YVZTQzY2RzJoTFBWcVVQQjRPeUVCaHdSem1lclJYeTNTZVY3SFp6X2hRRzFDMFVxTWxlYmN0N1RqWFVZZEVZMTBSdTBNWGVwY0ZrNk9NY3pXbjYtc3RTenYxYmVZUdIBuwFBVV95cUxOZGIwWXdiTmNOSy1MMXBBWUFLd1JWS0tmUmNyWk9UNHZ4bmRuZW15TU83NDBtQkxBQU1Qa2dDN0xyS1V0QVFzWmJlSm9MN0lGTG5IZndpMjlxZGJyallKVkZSem0tV1h4X2M5M2E0bjc2Vm85V0Q3Sm5yYTBTUnh4VHBJcEV4S0JhQUJTTGJVenBwT0VzR3hMVGtsT2E3bXhaRllsY1lBWlRjVkFSWU0xeUswZnVoTGFVR3JN?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-08T12:37:59Z"
+        },
+        {
           "id": "report-d3e2b0340487",
           "title": "Trump denies reported clash with defense chief over Iran war munitions shortage",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdDJ4SldqWjBFdkdORWt6YVM5d2tudHZUQjlBbUxZMjBTbkFWb3laWUk0d0J0aElMZkZhd3UtRVctMC1wMnhZaFh5UG96NHlhMHc1cGhyLW5GaFFwN0ZrWE8xZGdLVGpvR0RZalZkWGcybEFEMERrUHFEZTIzTElwMW50cXRJeGZnTzlhTG5sOV8tczV6bk1jWHdCbE81UTA1azZlSlRDT3dQLVNVWlBVMkV3cVRfTExVcmRmc05R?oc=5",
@@ -815,24 +833,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-07T00:26:52Z"
-        },
-        {
-          "id": "report-890f30a84ab9",
-          "title": "Iran war renews concerns about the lasting toll of traumatic brain injuries to US troops",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcThHa3E4S2QtZFp5ZEJqRHdlVGhyM2N0UTI5YUhUeUFqbEhQVjcxOXM4NkdTUzFRalVybkYweDRINGIyZHJWM0VWZjhrSXpldHpIQ25PWE5LSnlRRWEyNTNsTGlnamtHdUVyZHpxMlpWTXY4RkxyUVdJU1ZSdXJvWVE2dV9NNHo0cjUySldVU1N4dmx2Q0JDemZuQUdFVVhxdWc?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-06T18:14:00Z"
-        },
-        {
-          "id": "report-75d962f88071",
-          "title": "Several killed in attacks on Ukraine as Kyiv hits Russian e-commerce giant",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNakhfdklfYWJiVFZtMWZiMWp5dXZUOEtaaTdndFM0RWIyYVF5Q19NQ243bk5uUDFPQ2p2bllmek1EQXlNMzg2S2RpaUhSdVpFN3lEUGhDSTZ3X3RNV296SnF2WnB2dlFFSGZqMjQwekM1T1Rzd1hOMEZvenNKVlZ6dl9PX2Y0eXJFWGVPdDJfVGpkS0FLMnFfNkctV0dhZ25hbnZfZ1lMVTEyRWZxSFl0dElEU1bSAboBQVVfeXFMUHAzbDdNNHJocnpfemtLeE9ZYlAyNGV4WFlYWjROX0FnUFNPN0V3Q3hHdHA4MjRHOENueXptbUhicDhjNzZ1UHVRMTBUX2h3RDN5REpPVURwTnJOZEE0VHdLbDYzUldQVDQ0bko1Z3l6Z1hkX1lWcF85YUVNZnVkZ0ZuVDZiWFZSSFhkS2preWRXUE1fZzJ1amhPeEZOZGJvYV9Rd3R3SGNULTV3RFNxZWZEc3pmVUZqUzZR?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-06T07:00:00Z"
         },
         {
           "id": "report-dd2a1637dc48",
