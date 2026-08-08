@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-07T20:11:54.595Z",
+  "generatedAt": "2026-08-08T04:34:33.969Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-08-07T20:11:54.595Z",
+      "generatedAt": "2026-08-08T04:34:33.969Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -421,7 +421,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-08-07T20:11:54.595Z",
+      "generatedAt": "2026-08-08T04:34:33.969Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -465,6 +465,14 @@
           "pinned": false
         },
         {
+          "title": "UN chief condemns both Ukraine and Russia amid escalation in war",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ0JTZjl2dHZoVFVod1NhTnVQNjRDeEIxQkUzUlk1TGYxLU5aYk9iQkJwa3hteWR5WWdfSmFsNGxxRVJwTVNFNVdfZVpNeHhxU3NlVDdFWkZaemwyNDRLdkN4eUZNVzVpS2dzU2JZcmhtVzlTdFNlVnNlQTFkYWhsMTBGTUNFbndwTmFFV1Q3cDBfVjlhOXdvRHVTN0ZxcVdEckp6c2tIMy1TQjRDQWlvU09VTFLSAboBQVVfeXFMT2l5RTZfXzlhQmV0UjFEc3VRZVFDejZmN1R3YnI4bFNmLTRVd1hVcVp6cHFna0tYd3NhSk5iMTNSMGMwT3R5UWRaX3ctVldkT0ZLaU5ETkVNbHRwdGFsa3h0Q1FqMEg2VzhhRnZzZUlBMlRxM0FiS0N1YldlQmNMbk05cXZQTzJKbUxXUlVESjdDQUxjNnFEbXh0YkZWWHhIbGtUX0J2clhseFJMQ1hxTlFyOXlGUmhRYjZ3?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260807T124259Z",
+          "pinned": false
+        },
+        {
           "title": "Sudan war threatens ancient Meroe pyramids, a UNESCO Heritage Site",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRkVoZHBXcmh5Vkl4VC1ISzFoZ1hLZ1A2V2N4UDJyWDRKNTVZdEpDTEx0c3c3bU81elE2cU5DNldiRWpfTWxTQU94bHo3elBnczktdFcwSEVMZDZLNHFLamlfVzZ3YUtueERkTTN1aVdvcURVZDhsQVdGOVc4ZEt0RDBKYVdmVEY1UUhzMVNObi1IQUdBYXlPWHVmc0xDWnhfaEVXSTJqTXN0Ny1f0gGyAUFVX3lxTE5tNTRpM2R6MHpwdEVZRlpDSDlfcnIxc1BXUkdWV2xqc19YZVhDczJHSmlOS21CTkJrVWM5RjdtaFJ2Z192UVNWUHh4SXhZUGkzMkQ2bDFMQXhCZTRxcDR4MzhDWWY5VFlTcF9aMmpaQnZPUnVNakRtTnhhc0plXzdoenR6YnpHajVRSDRYNWUzbndzU3pOc202OWpYQkhWdy16S2E5UDk4X29uZlVNZlZTdmc?oc=5",
           "domain": "aljazeera.com",
@@ -497,27 +505,19 @@
           "pinned": false
         },
         {
+          "title": "Sudan’s war threatens an ‘entire generation’s’ future, UN warns",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd1dlc3RpbmFHS3ZxNVIwcWNKTmkzeXBlVlE3SmRZNzRNNnptX3RKeF9wbnhneVI2b2hYOTQ0dTVpWkVUNk94R0xDMUJpTUZYMmtIQlBxUlF0SEx5Nnl4cFg2NFA4S295WndQT3pILXVndTlMQ1NNUGR6SUNQLTUxcXE4d2R5NFpxLXVMNXl2b0tfTFNDdlQwMVB3SHBOM0HSAaQBQVVfeXFMTjVDRHliYVk3dzJTY2pEaXZUOFlvX2c2YmpDQkJvbEVnc3c2TnRKR05fa3RVMU1lOHI4azlvOWdGUlFiaDVPQWVYT0hVd1VzeHBUYXRoNEgya0U0QkpIRUg0TFdXeVU1bFI3TlRjb2dSaWRyVFBXY2NtU0tzbEpkMHlGSkZXM2xUVlU1Z1ZtZGdJbTlDMDl5VTFnLWplVTNpOGJNRHg?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260808T002934Z",
+          "pinned": false
+        },
+        {
           "title": "Houthi attacks on gov’t forces hint that a major battle in Yemen is brewing",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSm5zYllnbms2MmxrX093bTdMTWdaTVJiUkF6T09VNzFvYmRaTG5LYjZWR3p1a2RVdVFrRE9XN2VZc0VIRy1nNUE4ZlJ0eFNIYXduUHQ5Y3VZSVBjdzdyOVpiVkdvZkp0YS01NGJFM1dEZjFMck5IVWNKR3BBV1RHU0Z4X3NiS3dMNUpTQjlZT3EtS2JIemNSSEdIUXFvMVpfUU5la0l3S2ZQQWZXOEVBWXNycEzSAboBQVVfeXFMTV95RXlyQ1c1ZkpEMzlLbFVLYTAtV1d0cHlnbzk1eHV4QWwyd04wMk5VYmJVeTllVlVuU0Z6ZjVWSlhmWTRDOVB6WHhBcTlZOEJ3RGtvdjJaOTE3ZzJNTlZGcTh2N2JpY3dxYkN2WHpOcWNISXRCaFpxWkJKQ3hsNGZpalZYQWJaZHRfS0U1ZWNwZEY0OUxYMnRCMGpKSFVqMlRBYWpmSFFJUUlSaXZDd2VMaVlkNXpyNlpR?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260807T111935Z",
-          "pinned": false
-        },
-        {
-          "title": "‘Maximum use’: Iran boosts military strength during ceasefire with US",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ1ZWdFpFZTkyZ1RndkhjTXZhQVlYRmpGX0tNaDJMNFozOU85aUVOZHQ4TUUwMHdSTFd5anZHOVRYeWtEY1lZeWE2YjRyYmpWUWRFNlhOd25uUldsZHpsNU1ZQjd4OE1HZllSWkU5eVR2bENTWFRNQ1pfdXFkTVliajgtWlByWUR6VHMzaGR6bjBBT0NGN2JQMEo2NTE5MVctdnh1aEFEZUVRQdIBrwFBVV95cUxPcVFDVXpySzJYdWpJdzgxeDVIcmJsWm5qaGtTRU91UV9HWXA0blVIOGxFQkhnSXEwazVPRW1GcnpyM242RWVGQml4Tlk3dWhJN2VSOFB0bGJTVEtGTGllSERKeVRadmtob3JTV1dCanl3bHhyRzhObjFoMVVuNWZXRm5VSnBCMEFjT0QxWHl6Q1Y4Nk9RZW9vOEZBYVZMTGtTeXNpT0J0YWhaTmdvQkdZ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260804T183748Z",
-          "pinned": false
-        },
-        {
-          "title": "War on Iran: Saudi Arabia, Turkiye and Pakistan sign defence pact",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMTh5ZWwxZEpzdjVZX3B0NS12NVBfYzZCOEJCRkx1MmdMNlJHdlNKeS02WnVmWDhoYTYwY0R1RlM2enE3VFZsOE9iemloM0RCc2lpXzFQUi1BTXpYY25CSUpVeGU4R3VpWEp4ejNCUGZlT005OUc0RXJlSXVDdE9QT21wMkxKZUVFaEg3SVFvdDQtcG8tbEFZdDBGamw4MWlNRDk4N1p3ZlI0cTZ1M0tGMll1c9IBuAFBVV95cUxOc2l4eFZ3UzBPcHBkU1RkMUFxWGVUS2x6SG8xWGFxekEwT3pHcUJ1VlBLTnBsNmtPNTB1U3RjalAwMGRWOURCWVdCSHhScHF0bE93NWFfZTBLcVk0aGlDVVJ6V3JTQU12OExyYl9lZDlSejBlajYtRE1KZndRX1RUZHRSbGs0TGJkZU85clEtTlJjajVCRU9IMXRwOGlJNmpSLVRwdlBTWFJwUHpPYm96ZVlVeVFrNE5w?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260807T170221Z",
           "pinned": false
         },
         {
@@ -534,6 +534,14 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260805T153735Z",
+          "pinned": false
+        },
+        {
+          "title": "War on Iran: Saudi Arabia, Turkiye and Pakistan sign defence pact",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMTh5ZWwxZEpzdjVZX3B0NS12NVBfYzZCOEJCRkx1MmdMNlJHdlNKeS02WnVmWDhoYTYwY0R1RlM2enE3VFZsOE9iemloM0RCc2lpXzFQUi1BTXpYY25CSUpVeGU4R3VpWEp4ejNCUGZlT005OUc0RXJlSXVDdE9QT21wMkxKZUVFaEg3SVFvdDQtcG8tbEFZdDBGamw4MWlNRDk4N1p3ZlI0cTZ1M0tGMll1c9IBuAFBVV95cUxOc2l4eFZ3UzBPcHBkU1RkMUFxWGVUS2x6SG8xWGFxekEwT3pHcUJ1VlBLTnBsNmtPNTB1U3RjalAwMGRWOURCWVdCSHhScHF0bE93NWFfZTBLcVk0aGlDVVJ6V3JTQU12OExyYl9lZDlSejBlajYtRE1KZndRX1RUZHRSbGs0TGJkZU85clEtTlJjajVCRU9IMXRwOGlJNmpSLVRwdlBTWFJwUHpPYm96ZVlVeVFrNE5w?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260807T170221Z",
           "pinned": false
         },
         {
@@ -577,14 +585,6 @@
           "pinned": false
         },
         {
-          "title": "BP's $5.7bn profit highest since 2022 as Iran war pushes up oil price",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5USVJWdmRGb3JNSmpfOXNUUWdOZmd6RUd3VUVoNWFJRUhWVmRYV2l1ZmxuWUhxTHphaThKN3lGbXRuZ3dveVlLamFXMS1JYXRpdjRJZkozTkYzUQ?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260804T100705Z",
-          "pinned": false
-        },
-        {
           "title": "Sudan's invisible children - born in war with no legal identity",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNbUJZSjcxbjg2WV9XTDhGNUxycEgyUTlMX2s1dzFiU0M1WTlqS1VDaG5uZTl0ZS1LclBKMnpWODVfSk9GMzBYODl4bGt2djZqV3ZBdERSRjVDdw?oc=5",
           "domain": "bbc.com",
@@ -601,19 +601,19 @@
           "pinned": false
         },
         {
-          "title": "Explosions across Kyiv as Russian missiles strike Ukraine’s capital",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUFBCU09NMms3NXRCdERTTlBQWnJMR0U3T1daeHZmaHBYVXRKcDNITmJiOVotWmZVRW0xRzNGbnd0bDEwQVluaExNTGVhQ1FBaV9JU09hRXBiN0dBMjNWZ0Q5b20wX19mWjYyeXEya3BtbDN4d3AtMTNvc3lHODRnMnFFaUdUeDlyd0FWLTRiNnA1TFRjSHhTZnltR1dHM3JuV2dGS2I5NkxvZ0JqSzRzWHpDNVZ6OXPSAbwBQVVfeXFMTVlLUm5FV2RFdXZIV3dteG5NdU50VUgyc1o1NmhhUGRPelVmT3V0U211YXU5b0pobEF1NDRLcG8wV1VTT09PVjhFWnZjdWtxcG9EcXdUWnBSd2drR3dfWTMwTF9Pd2xTT1lBVXBtQ05BTUxvQ0pud2ZDblFYTGd5VVJ4STUweTNzSnphRUFPLXBjZFp0YjNVMlNtSExNenFMSVNBYTdxY3RfOFJTbkFVQi1wT0xwM0VxT3BKNzg?oc=5",
+          "title": "Several killed in attacks on Ukraine as Kyiv hits Russian e-commerce giant",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNakhfdklfYWJiVFZtMWZiMWp5dXZUOEtaaTdndFM0RWIyYVF5Q19NQ243bk5uUDFPQ2p2bllmek1EQXlNMzg2S2RpaUhSdVpFN3lEUGhDSTZ3X3RNV296SnF2WnB2dlFFSGZqMjQwekM1T1Rzd1hOMEZvenNKVlZ6dl9PX2Y0eXJFWGVPdDJfVGpkS0FLMnFfNkctV0dhZ25hbnZfZ1lMVTEyRWZxSFl0dElEU1bSAboBQVVfeXFMUHAzbDdNNHJocnpfemtLeE9ZYlAyNGV4WFlYWjROX0FnUFNPN0V3Q3hHdHA4MjRHOENueXptbUhicDhjNzZ1UHVRMTBUX2h3RDN5REpPVURwTnJOZEE0VHdLbDYzUldQVDQ0bko1Z3l6Z1hkX1lWcF85YUVNZnVkZ0ZuVDZiWFZSSFhkS2preWRXUE1fZzJ1amhPeEZOZGJvYV9Rd3R3SGNULTV3RFNxZWZEc3pmVUZqUzZR?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260805T044751Z",
+          "seen": "20260807T185938Z",
           "pinned": false
         },
         {
-          "title": "Nine killed in escalating long-range strikes between Russia and Ukraine",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNzFwblJCbVpGZUFvaGlLZ3BaRW1Hcll2TzMtVVpqXzdDNGdOVDZIYUlNSVNhNjJiS2lYekNkbks4LXhYeEtVbGpSSXhDM0RrRERaLVdZVVh1aXZMUXRLQ25pdGFqTXFtdkxENGpiSUtWWmh0ZV9Yd2M3YV9UTGNjd2JXNWpDUnBxNzFyaG93dDh0dzFfbzBZdGNkUkpSV2JMRDFrb2lHb0Ytc3dCWHJGNNIBtgFBVV95cUxOUmNOOXZhaU1wYTlyZk9CQ1hVRWhGQlpvYklsVjFWZVFzVDNZZmxVWklXYjNHMUJIX1ZjVW5YaEcxMzY3MFBNNDJtS1Rxc1FwTHZkWjdqOWZ6MnA4SEdyN25lSlJlaTkzNlhWZVFEMzUyQVBKLTJFdmlEZDl4UjY5RkdUNkQ0cGlPS2FNWko4ZkVWbU8tY2xLTXdaQl9jU05jNnhDMmRWSjFKYUtVWmZOWXFqd3RGZw?oc=5",
+          "title": "Rights groups call Israel’s killing of journalist Amal Khalil a ‘war crime’",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdDZYbF92V2ZYTW1LeEJpb1B2bXJ0MV9ZcVIxSUFMVXJrWloxS0EwSUhoMlNPWVY0dFpNTXpxM21GaVpmSS1IUGVUa3VtejdUU0MzZktvdEpJZGw1My1KRDc1NFFyclZKRDZBYWNGbkZ6ZmZtZGN0UGV1dU5nbl9uZXlzWFdUZmxrOU15Q3dZd3RqdzlLTFgzNHV5MGNacTl6V0ZGTWtsLWlTS3VHcVl3VFhB0gG3AUFVX3lxTFBCTEp2U01VWHQ0N2ZGQUVrcE1jVFVHWWwwNkxaaFpQV0IzMHAzeE1ZaWJFZGh3SEpSWEQxMWxwOXJLSEpRaUFzVHRiS0h6c2Q0T3lxZExDU3V5UzdTXzNKX3hqWEhuLWpMM3NFaVgwS1dYVDM2aFhJczVwX25FaExtZko3UVVWX0gwWFUzODJsZ3dnZkNLMzMybmhUTWV2S0NldDFYaHJXUi1XaFJuZHhWVzZ2U1NDdw?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260804T113923Z",
+          "seen": "20260806T144304Z",
           "pinned": false
         }
       ],
@@ -664,6 +664,15 @@
           "reportedAt": "2026-08-07T11:19:32Z"
         },
         {
+          "id": "report-d083776995f6",
+          "title": "UN chief condemns both Ukraine and Russia amid escalation in war",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ0JTZjl2dHZoVFVod1NhTnVQNjRDeEIxQkUzUlk1TGYxLU5aYk9iQkJwa3hteWR5WWdfSmFsNGxxRVJwTVNFNVdfZVpNeHhxU3NlVDdFWkZaemwyNDRLdkN4eUZNVzVpS2dzU2JZcmhtVzlTdFNlVnNlQTFkYWhsMTBGTUNFbndwTmFFV1Q3cDBfVjlhOXdvRHVTN0ZxcVdEckp6c2tIMy1TQjRDQWlvU09VTFLSAboBQVVfeXFMT2l5RTZfXzlhQmV0UjFEc3VRZVFDejZmN1R3YnI4bFNmLTRVd1hVcVp6cHFna0tYd3NhSk5iMTNSMGMwT3R5UWRaX3ctVldkT0ZLaU5ETkVNbHRwdGFsa3h0Q1FqMEg2VzhhRnZzZUlBMlRxM0FiS0N1YldlQmNMbk05cXZQTzJKbUxXUlVESjdDQUxjNnFEbXh0YkZWWHhIbGtUX0J2clhseFJMQ1hxTlFyOXlGUmhRYjZ3?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-07T12:42:59Z"
+        },
+        {
           "id": "report-de22ac8a75f5",
           "title": "Sudan war threatens ancient Meroe pyramids, a UNESCO Heritage Site",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRkVoZHBXcmh5Vkl4VC1ISzFoZ1hLZ1A2V2N4UDJyWDRKNTVZdEpDTEx0c3c3bU81elE2cU5DNldiRWpfTWxTQU94bHo3elBnczktdFcwSEVMZDZLNHFLamlfVzZ3YUtueERkTTN1aVdvcURVZDhsQVdGOVc4ZEt0RDBKYVdmVEY1UUhzMVNObi1IQUdBYXlPWHVmc0xDWnhfaEVXSTJqTXN0Ny1f0gGyAUFVX3lxTE5tNTRpM2R6MHpwdEVZRlpDSDlfcnIxc1BXUkdWV2xqc19YZVhDczJHSmlOS21CTkJrVWM5RjdtaFJ2Z192UVNWUHh4SXhZUGkzMkQ2bDFMQXhCZTRxcDR4MzhDWWY5VFlTcF9aMmpaQnZPUnVNakRtTnhhc0plXzdoenR6YnpHajVRSDRYNWUzbndzU3pOc202OWpYQkhWdy16S2E5UDk4X29uZlVNZlZTdmc?oc=5",
@@ -700,6 +709,15 @@
           "reportedAt": "2026-08-05T13:55:51Z"
         },
         {
+          "id": "report-7f97b0806231",
+          "title": "Sudan’s war threatens an ‘entire generation’s’ future, UN warns",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd1dlc3RpbmFHS3ZxNVIwcWNKTmkzeXBlVlE3SmRZNzRNNnptX3RKeF9wbnhneVI2b2hYOTQ0dTVpWkVUNk94R0xDMUJpTUZYMmtIQlBxUlF0SEx5Nnl4cFg2NFA4S295WndQT3pILXVndTlMQ1NNUGR6SUNQLTUxcXE4d2R5NFpxLXVMNXl2b0tfTFNDdlQwMVB3SHBOM0HSAaQBQVVfeXFMTjVDRHliYVk3dzJTY2pEaXZUOFlvX2c2YmpDQkJvbEVnc3c2TnRKR05fa3RVMU1lOHI4azlvOWdGUlFiaDVPQWVYT0hVd1VzeHBUYXRoNEgya0U0QkpIRUg0TFdXeVU1bFI3TlRjb2dSaWRyVFBXY2NtU0tzbEpkMHlGSkZXM2xUVlU1Z1ZtZGdJbTlDMDl5VTFnLWplVTNpOGJNRHg?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-08T00:29:34Z"
+        },
+        {
           "id": "report-69e4d6034ccf",
           "title": "Houthi attacks on gov’t forces hint that a major battle in Yemen is brewing",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSm5zYllnbms2MmxrX093bTdMTWdaTVJiUkF6T09VNzFvYmRaTG5LYjZWR3p1a2RVdVFrRE9XN2VZc0VIRy1nNUE4ZlJ0eFNIYXduUHQ5Y3VZSVBjdzdyOVpiVkdvZkp0YS01NGJFM1dEZjFMck5IVWNKR3BBV1RHU0Z4X3NiS3dMNUpTQjlZT3EtS2JIemNSSEdIUXFvMVpfUU5la0l3S2ZQQWZXOEVBWXNycEzSAboBQVVfeXFMTV95RXlyQ1c1ZkpEMzlLbFVLYTAtV1d0cHlnbzk1eHV4QWwyd04wMk5VYmJVeTllVlVuU0Z6ZjVWSlhmWTRDOVB6WHhBcTlZOEJ3RGtvdjJaOTE3ZzJNTlZGcTh2N2JpY3dxYkN2WHpOcWNISXRCaFpxWkJKQ3hsNGZpalZYQWJaZHRfS0U1ZWNwZEY0OUxYMnRCMGpKSFVqMlRBYWpmSFFJUUlSaXZDd2VMaVlkNXpyNlpR?oc=5",
@@ -707,24 +725,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-07T11:19:35Z"
-        },
-        {
-          "id": "report-2e71c9485433",
-          "title": "‘Maximum use’: Iran boosts military strength during ceasefire with US",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ1ZWdFpFZTkyZ1RndkhjTXZhQVlYRmpGX0tNaDJMNFozOU85aUVOZHQ4TUUwMHdSTFd5anZHOVRYeWtEY1lZeWE2YjRyYmpWUWRFNlhOd25uUldsZHpsNU1ZQjd4OE1HZllSWkU5eVR2bENTWFRNQ1pfdXFkTVliajgtWlByWUR6VHMzaGR6bjBBT0NGN2JQMEo2NTE5MVctdnh1aEFEZUVRQdIBrwFBVV95cUxPcVFDVXpySzJYdWpJdzgxeDVIcmJsWm5qaGtTRU91UV9HWXA0blVIOGxFQkhnSXEwazVPRW1GcnpyM242RWVGQml4Tlk3dWhJN2VSOFB0bGJTVEtGTGllSERKeVRadmtob3JTV1dCanl3bHhyRzhObjFoMVVuNWZXRm5VSnBCMEFjT0QxWHl6Q1Y4Nk9RZW9vOEZBYVZMTGtTeXNpT0J0YWhaTmdvQkdZ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-04T18:37:48Z"
-        },
-        {
-          "id": "report-09c874dddc34",
-          "title": "War on Iran: Saudi Arabia, Turkiye and Pakistan sign defence pact",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMTh5ZWwxZEpzdjVZX3B0NS12NVBfYzZCOEJCRkx1MmdMNlJHdlNKeS02WnVmWDhoYTYwY0R1RlM2enE3VFZsOE9iemloM0RCc2lpXzFQUi1BTXpYY25CSUpVeGU4R3VpWEp4ejNCUGZlT005OUc0RXJlSXVDdE9QT21wMkxKZUVFaEg3SVFvdDQtcG8tbEFZdDBGamw4MWlNRDk4N1p3ZlI0cTZ1M0tGMll1c9IBuAFBVV95cUxOc2l4eFZ3UzBPcHBkU1RkMUFxWGVUS2x6SG8xWGFxekEwT3pHcUJ1VlBLTnBsNmtPNTB1U3RjalAwMGRWOURCWVdCSHhScHF0bE93NWFfZTBLcVk0aGlDVVJ6V3JTQU12OExyYl9lZDlSejBlajYtRE1KZndRX1RUZHRSbGs0TGJkZU85clEtTlJjajVCRU9IMXRwOGlJNmpSLVRwdlBTWFJwUHpPYm96ZVlVeVFrNE5w?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-07T17:02:21Z"
         },
         {
           "id": "report-90e61f0147f8",
@@ -743,6 +743,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-05T15:37:35Z"
+        },
+        {
+          "id": "report-09c874dddc34",
+          "title": "War on Iran: Saudi Arabia, Turkiye and Pakistan sign defence pact",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMTh5ZWwxZEpzdjVZX3B0NS12NVBfYzZCOEJCRkx1MmdMNlJHdlNKeS02WnVmWDhoYTYwY0R1RlM2enE3VFZsOE9iemloM0RCc2lpXzFQUi1BTXpYY25CSUpVeGU4R3VpWEp4ejNCUGZlT005OUc0RXJlSXVDdE9QT21wMkxKZUVFaEg3SVFvdDQtcG8tbEFZdDBGamw4MWlNRDk4N1p3ZlI0cTZ1M0tGMll1c9IBuAFBVV95cUxOc2l4eFZ3UzBPcHBkU1RkMUFxWGVUS2x6SG8xWGFxekEwT3pHcUJ1VlBLTnBsNmtPNTB1U3RjalAwMGRWOURCWVdCSHhScHF0bE93NWFfZTBLcVk0aGlDVVJ6V3JTQU12OExyYl9lZDlSejBlajYtRE1KZndRX1RUZHRSbGs0TGJkZU85clEtTlJjajVCRU9IMXRwOGlJNmpSLVRwdlBTWFJwUHpPYm96ZVlVeVFrNE5w?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-07T17:02:21Z"
         },
         {
           "id": "report-456372edcde6",
@@ -790,15 +799,6 @@
           "reportedAt": "2026-08-06T17:24:50Z"
         },
         {
-          "id": "report-3fe48c2051af",
-          "title": "BP's $5.7bn profit highest since 2022 as Iran war pushes up oil price",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5USVJWdmRGb3JNSmpfOXNUUWdOZmd6RUd3VUVoNWFJRUhWVmRYV2l1ZmxuWUhxTHphaThKN3lGbXRuZ3dveVlLamFXMS1JYXRpdjRJZkozTkYzUQ?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-04T10:07:05Z"
-        },
-        {
           "id": "report-d3865ff13cdc",
           "title": "Sudan's invisible children - born in war with no legal identity",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNbUJZSjcxbjg2WV9XTDhGNUxycEgyUTlMX2s1dzFiU0M1WTlqS1VDaG5uZTl0ZS1LclBKMnpWODVfSk9GMzBYODl4bGt2djZqV3ZBdERSRjVDdw?oc=5",
@@ -817,22 +817,22 @@
           "reportedAt": "2026-08-06T18:14:00Z"
         },
         {
-          "id": "report-6cf15bf7ec74",
-          "title": "Explosions across Kyiv as Russian missiles strike Ukraine’s capital",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUFBCU09NMms3NXRCdERTTlBQWnJMR0U3T1daeHZmaHBYVXRKcDNITmJiOVotWmZVRW0xRzNGbnd0bDEwQVluaExNTGVhQ1FBaV9JU09hRXBiN0dBMjNWZ0Q5b20wX19mWjYyeXEya3BtbDN4d3AtMTNvc3lHODRnMnFFaUdUeDlyd0FWLTRiNnA1TFRjSHhTZnltR1dHM3JuV2dGS2I5NkxvZ0JqSzRzWHpDNVZ6OXPSAbwBQVVfeXFMTVlLUm5FV2RFdXZIV3dteG5NdU50VUgyc1o1NmhhUGRPelVmT3V0U211YXU5b0pobEF1NDRLcG8wV1VTT09PVjhFWnZjdWtxcG9EcXdUWnBSd2drR3dfWTMwTF9Pd2xTT1lBVXBtQ05BTUxvQ0pud2ZDblFYTGd5VVJ4STUweTNzSnphRUFPLXBjZFp0YjNVMlNtSExNenFMSVNBYTdxY3RfOFJTbkFVQi1wT0xwM0VxT3BKNzg?oc=5",
+          "id": "report-75d962f88071",
+          "title": "Several killed in attacks on Ukraine as Kyiv hits Russian e-commerce giant",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNakhfdklfYWJiVFZtMWZiMWp5dXZUOEtaaTdndFM0RWIyYVF5Q19NQ243bk5uUDFPQ2p2bllmek1EQXlNMzg2S2RpaUhSdVpFN3lEUGhDSTZ3X3RNV296SnF2WnB2dlFFSGZqMjQwekM1T1Rzd1hOMEZvenNKVlZ6dl9PX2Y0eXJFWGVPdDJfVGpkS0FLMnFfNkctV0dhZ25hbnZfZ1lMVTEyRWZxSFl0dElEU1bSAboBQVVfeXFMUHAzbDdNNHJocnpfemtLeE9ZYlAyNGV4WFlYWjROX0FnUFNPN0V3Q3hHdHA4MjRHOENueXptbUhicDhjNzZ1UHVRMTBUX2h3RDN5REpPVURwTnJOZEE0VHdLbDYzUldQVDQ0bko1Z3l6Z1hkX1lWcF85YUVNZnVkZ0ZuVDZiWFZSSFhkS2preWRXUE1fZzJ1amhPeEZOZGJvYV9Rd3R3SGNULTV3RFNxZWZEc3pmVUZqUzZR?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-05T04:47:51Z"
+          "reportedAt": "2026-08-07T18:59:38Z"
         },
         {
-          "id": "report-ff367a35366f",
-          "title": "Nine killed in escalating long-range strikes between Russia and Ukraine",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNzFwblJCbVpGZUFvaGlLZ3BaRW1Hcll2TzMtVVpqXzdDNGdOVDZIYUlNSVNhNjJiS2lYekNkbks4LXhYeEtVbGpSSXhDM0RrRERaLVdZVVh1aXZMUXRLQ25pdGFqTXFtdkxENGpiSUtWWmh0ZV9Yd2M3YV9UTGNjd2JXNWpDUnBxNzFyaG93dDh0dzFfbzBZdGNkUkpSV2JMRDFrb2lHb0Ytc3dCWHJGNNIBtgFBVV95cUxOUmNOOXZhaU1wYTlyZk9CQ1hVRWhGQlpvYklsVjFWZVFzVDNZZmxVWklXYjNHMUJIX1ZjVW5YaEcxMzY3MFBNNDJtS1Rxc1FwTHZkWjdqOWZ6MnA4SEdyN25lSlJlaTkzNlhWZVFEMzUyQVBKLTJFdmlEZDl4UjY5RkdUNkQ0cGlPS2FNWko4ZkVWbU8tY2xLTXdaQl9jU05jNnhDMmRWSjFKYUtVWmZOWXFqd3RGZw?oc=5",
+          "id": "report-3da669abdd12",
+          "title": "Rights groups call Israel’s killing of journalist Amal Khalil a ‘war crime’",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdDZYbF92V2ZYTW1LeEJpb1B2bXJ0MV9ZcVIxSUFMVXJrWloxS0EwSUhoMlNPWVY0dFpNTXpxM21GaVpmSS1IUGVUa3VtejdUU0MzZktvdEpJZGw1My1KRDc1NFFyclZKRDZBYWNGbkZ6ZmZtZGN0UGV1dU5nbl9uZXlzWFdUZmxrOU15Q3dZd3RqdzlLTFgzNHV5MGNacTl6V0ZGTWtsLWlTS3VHcVl3VFhB0gG3AUFVX3lxTFBCTEp2U01VWHQ0N2ZGQUVrcE1jVFVHWWwwNkxaaFpQV0IzMHAzeE1ZaWJFZGh3SEpSWEQxMWxwOXJLSEpRaUFzVHRiS0h6c2Q0T3lxZExDU3V5UzdTXzNKX3hqWEhuLWpMM3NFaVgwS1dYVDM2aFhJczVwX25FaExtZko3UVVWX0gwWFUzODJsZ3dnZkNLMzMybmhUTWV2S0NldDFYaHJXUi1XaFJuZHhWVzZ2U1NDdw?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-04T11:39:23Z"
+          "reportedAt": "2026-08-06T14:43:04Z"
         },
         {
           "id": "report-dd2a1637dc48",
