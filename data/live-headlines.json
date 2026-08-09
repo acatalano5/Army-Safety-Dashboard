@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-09T08:26:06.794Z",
+  "generatedAt": "2026-08-09T14:19:43.826Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-08-09T08:26:06.794Z",
+      "generatedAt": "2026-08-09T14:19:43.826Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -421,7 +421,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-08-09T08:26:06.794Z",
+      "generatedAt": "2026-08-09T14:19:43.826Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -441,6 +441,14 @@
           "pinned": false
         },
         {
+          "title": "UN chief condemns both Ukraine and Russia amid escalation in war",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ0JTZjl2dHZoVFVod1NhTnVQNjRDeEIxQkUzUlk1TGYxLU5aYk9iQkJwa3hteWR5WWdfSmFsNGxxRVJwTVNFNVdfZVpNeHhxU3NlVDdFWkZaemwyNDRLdkN4eUZNVzVpS2dzU2JZcmhtVzlTdFNlVnNlQTFkYWhsMTBGTUNFbndwTmFFV1Q3cDBfVjlhOXdvRHVTN0ZxcVdEckp6c2tIMy1TQjRDQWlvU09VTFLSAboBQVVfeXFMT2l5RTZfXzlhQmV0UjFEc3VRZVFDejZmN1R3YnI4bFNmLTRVd1hVcVp6cHFna0tYd3NhSk5iMTNSMGMwT3R5UWRaX3ctVldkT0ZLaU5ETkVNbHRwdGFsa3h0Q1FqMEg2VzhhRnZzZUlBMlRxM0FiS0N1YldlQmNMbk05cXZQTzJKbUxXUlVESjdDQUxjNnFEbXh0YkZWWHhIbGtUX0J2clhseFJMQ1hxTlFyOXlGUmhRYjZ3?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260807T124259Z",
+          "pinned": false
+        },
+        {
           "title": "War and accumulating sand threaten Sudan’s Meroe pyramids, in photos",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNXBKdnU1T3BOSmRFZ0hKYzlucmh2NHVoV21TOXJ4ckh3WTlmODJxTkI1aWtkV0ZYUTNjZTdlOWxzZWVwa0FXNWMzQkloV1FMdHkxNlNTZjB4THRTRDREWi0xUjl4THM3LVRFcnZBMllNak9xMElEejFMSi1aSks3aVByNU1aSkZqekJ6Y1J1aTJyWDFvZnhkd2EwNFl3bzhHNGdvS0tGQQ?oc=5",
           "domain": "apnews.com",
@@ -449,11 +457,11 @@
           "pinned": false
         },
         {
-          "title": "UN chief condemns both Ukraine and Russia amid escalation in war",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ0JTZjl2dHZoVFVod1NhTnVQNjRDeEIxQkUzUlk1TGYxLU5aYk9iQkJwa3hteWR5WWdfSmFsNGxxRVJwTVNFNVdfZVpNeHhxU3NlVDdFWkZaemwyNDRLdkN4eUZNVzVpS2dzU2JZcmhtVzlTdFNlVnNlQTFkYWhsMTBGTUNFbndwTmFFV1Q3cDBfVjlhOXdvRHVTN0ZxcVdEckp6c2tIMy1TQjRDQWlvU09VTFLSAboBQVVfeXFMT2l5RTZfXzlhQmV0UjFEc3VRZVFDejZmN1R3YnI4bFNmLTRVd1hVcVp6cHFna0tYd3NhSk5iMTNSMGMwT3R5UWRaX3ctVldkT0ZLaU5ETkVNbHRwdGFsa3h0Q1FqMEg2VzhhRnZzZUlBMlRxM0FiS0N1YldlQmNMbk05cXZQTzJKbUxXUlVESjdDQUxjNnFEbXh0YkZWWHhIbGtUX0J2clhseFJMQ1hxTlFyOXlGUmhRYjZ3?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260807T124259Z",
+          "title": "Turkish foreign minister warns Russia-Ukraine war could push Moscow toward ‘last option’",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbG5XNWZUV2d6aVR6MW53eUYyTlEtQjU2TWdrcFBFSmx5UFhhQmRLdFlPY09UUW5LaU84eGdfb0VKWi1rdTFHeTkxYTlmMjAycDBIMEZ5MUY1Q2R6b0c4b0hveUN0aWlKbjk5eHZrWjgtSEZnbXh5U3BHUGlmWkNpWW5RSWtKQTdtX2RROTBvdVR1YnNmR1ZZUGt4U2FwdFc2S3hzNUVQMUJWMzZLbkpoSUk2MWJqY3VEdS1RZW1mVDZhUTI0Znc1bA?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20260809T090731Z",
           "pinned": false
         },
         {
@@ -521,6 +529,14 @@
           "pinned": false
         },
         {
+          "title": "Russian forces kill several in Ukraine, launch ‘brutal’ attack in Odesa",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN3NaTmJfUXJzYXFHOWtNWTFYM2h6dmZ3N2Zual9aMnBXVk9VTUJzQmp6eXpJam9lSm9RaEhHWXFpdTQ2dW1tVUtXQUxJbDJySV8tYk8ybGY1RTFqWTlfU3AzMFQ3UnVDV2U1RHZfby1tTlBWNHc4SjNOTW8xaGVYTkxVNWp2NTF0Q0VGWU43MTJIWGJBbjl6cGtiMGVYWkNCQ01jMGRWOVJ1am1K0gGyAUFVX3lxTFBfUmdsSGFFdW9rRUxUZ0txZXJYUkxlY2FtYzJvMDV0YkdwVTNyZGhkZ1dQLUNvS3Z2NnR4dGJkUU40UVNYeE52VzZsMzU0RmZJZkV5Mll3Q3VPSEFOLS1wTEQ4dUFmaWdWSmVvdV96SGxYellNLXVHc1A5NUR2NUxuaVFKR1hEQm00LUZoVUkyWWF2c01VN2F0eHVZUWg3VVdWX0hVajZiZ19NZ054WmVHN2c?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260809T110938Z",
+          "pinned": false
+        },
+        {
           "title": "Woman screams in fear as Ukraine war recruiters pounce on man",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa0dyX1owa3pyOGJNNkFHODloLUw4R2Nod3ZaU0k0Vy1IN0UxaXZsc2tGSmRPQ2VwUlNlY1RtVlhxN1MwT3JScXVra0NsS0llUmhuN1ZhNHhKeVlHUVl6WC1SOE9jZWRDV3RyNmVqX0dOdTgwZGxsSGtyR1A2c20tTXBKWG1mSE1LbjlEck9tdE1BZFhXRUlnVmJtV2M3WFg1TjNtdENCazdwenVK0gGyAUFVX3lxTE04NzlXOGs3QWZvS19OQklJNWw3X29RSmdVSXdpMGgwaVVvdG9aQTFVbDNwQ1pTS2xSV3JpVVNjQlJsbS00WTUyOXlOc3pFZWZuZ3piMVBaNFBzbGdXdVQxLWdtbWZfbExnT2Uzcmh3OVR1S3cwb1BRT0FSUGI3NlBRZUh3MlVka3hYWFFHOXIxeEJvNXNHd0htR1pvajBvUDRIQk5mdmFhbkJMQ09helRGM1E?oc=5",
           "domain": "aljazeera.com",
@@ -550,6 +566,14 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260809T065104Z",
+          "pinned": false
+        },
+        {
+          "title": "Why is Pezeshkian urging an end to Iran’s ‘no war, no peace’ status?",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNekhIU3NwMjBHc0FzcjY2b2FCVjN5a0lBZ2dHNFkxQ2R2ZlA4X3h5eHN5WDQwdExkMkN1ZjRGNE5tRmdYWXdQZllyNXAzempoUmFMejhkR0hlWDZVcDZWU0Q2NG13NG5mMHhXVmVNRU1PYUx4aVN4NWstaHJwdTRoTFVSRTlsQmpYWGhyUU1GUnVSRkp4Sk9odDJ6d3Y3Z1F3aFhFVi1B0gGrAUFVX3lxTE15SnIxanV5NDNQOTVIM0VUMDZEWHo4OVVlZ3o2a3JqeENkSnVCdXdkVW56Z3pFaW5VWm1FUWZ5V3A3ZVF3X19aQ3JQOHVsb0JCTnljN1BwRV9oYU9fakhUVUpWVWh2QjNEa2lwRWFvd2Q1QjVwU0UtT3FkS3N4VlVpdE9iTVFnTnBzbDVabVY1LXpUMEJUSnFwT21GLVZFQU01bUlYTHo4NnBsMA?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260809T123753Z",
           "pinned": false
         },
         {
@@ -585,35 +609,11 @@
           "pinned": false
         },
         {
-          "title": "Iran seeks way out of ‘neither war nor peace’ stalemate with US",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPV2VrcWc4MzZyVWp5eWpsZ0gwZi1CRE5kMm5UQktUazM1clJrMFhKYWVQM0YzSXh5UllibVlwRFlMY0VVNWR6UnhlNExHNEZEcEJJaE04V2V6STVfcHlDQTN2NVZnNDIwdjEzcVRndjVUemNQVGtiZ21EUE9qVDZzTEpYWlQwd9IBiwFBVV95cUxNemRsNjhoZTZ1R2plTWxtamJYeEMzVHRySXM1MzJpbTNOZ3ZMb0hRbWRXRDBibWdJVnRvS3R1UE1rQlNfQXlWWWcyXzdQMXloWnhKUVd0dmZyNnJEdWUzNDh3eUtzRXJyS2tHLWpCOXlRdnBDU0F3TDFTaV9pTGYxTzNDZXduazl0WW1N?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260809T044752Z",
-          "pinned": false
-        },
-        {
-          "title": "Sudan's invisible children - born in war with no legal identity",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNbUJZSjcxbjg2WV9XTDhGNUxycEgyUTlMX2s1dzFiU0M1WTlqS1VDaG5uZTl0ZS1LclBKMnpWODVfSk9GMzBYODl4bGt2djZqV3ZBdERSRjVDdw?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260807T002652Z",
-          "pinned": false
-        },
-        {
           "title": "UNICEF says one child killed per day in Gaza since ‘ceasefire’",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcFpsYmlrSUkyWWtxZ1A0Ui1mWkhzd1pWZUhUanB5c2pKcDJHQ2VBbVNlWExSZ0Q2cTZjdENKa3A0MFpaSDlUb3ROR3BCWEJmN0FlX0lLaElRTnRaLUtNUmVRaW80UmFwNHY2RllhTUp1ak9weWFmTkpmYXNvdTZKM1F3eG9pR196Z3JJX0NmUkZwRWR0SUJvQnpCdlBqX0ZfU2JzUdIBqgFBVV95cUxQeVA1NXh4dzliZ3hYYTJmU0FjZXZIdWxfV0JLQlFnelV5TDJMdHFrUklWcjMxQ1pmWUpMOGMySE95TmFhRWhtZVI4LU5Md3FDY2E5VDlzSGZ0NENFcGVfNndWLVNCbW81Uk0tTUxEWkszTmtxVldBeHkwV3lSNDgyMGZsU19aM19ZSDVjNlFXZXlOSUdMLTl0c2NfeWxkeW43Y0ZaTEpGX2EwQQ?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260806T151034Z",
-          "pinned": false
-        },
-        {
-          "title": "Iran war renews concerns about the lasting toll of traumatic brain injuries to US troops",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcThHa3E4S2QtZFp5ZEJqRHdlVGhyM2N0UTI5YUhUeUFqbEhQVjcxOXM4NkdTUzFRalVybkYweDRINGIyZHJWM0VWZjhrSXpldHpIQ25PWE5LSnlRRWEyNTNsTGlnamtHdUVyZHpxMlpWTXY4RkxyUVdJU1ZSdXJvWVE2dV9NNHo0cjUySldVU1N4dmx2Q0JDemZuQUdFVVhxdWc?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260806T181400Z",
           "pinned": false
         }
       ],
@@ -637,6 +637,15 @@
           "reportedAt": "2026-08-07T11:19:32Z"
         },
         {
+          "id": "report-d083776995f6",
+          "title": "UN chief condemns both Ukraine and Russia amid escalation in war",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ0JTZjl2dHZoVFVod1NhTnVQNjRDeEIxQkUzUlk1TGYxLU5aYk9iQkJwa3hteWR5WWdfSmFsNGxxRVJwTVNFNVdfZVpNeHhxU3NlVDdFWkZaemwyNDRLdkN4eUZNVzVpS2dzU2JZcmhtVzlTdFNlVnNlQTFkYWhsMTBGTUNFbndwTmFFV1Q3cDBfVjlhOXdvRHVTN0ZxcVdEckp6c2tIMy1TQjRDQWlvU09VTFLSAboBQVVfeXFMT2l5RTZfXzlhQmV0UjFEc3VRZVFDejZmN1R3YnI4bFNmLTRVd1hVcVp6cHFna0tYd3NhSk5iMTNSMGMwT3R5UWRaX3ctVldkT0ZLaU5ETkVNbHRwdGFsa3h0Q1FqMEg2VzhhRnZzZUlBMlRxM0FiS0N1YldlQmNMbk05cXZQTzJKbUxXUlVESjdDQUxjNnFEbXh0YkZWWHhIbGtUX0J2clhseFJMQ1hxTlFyOXlGUmhRYjZ3?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-07T12:42:59Z"
+        },
+        {
           "id": "report-c6e558799f80",
           "title": "War and accumulating sand threaten Sudan’s Meroe pyramids, in photos",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNXBKdnU1T3BOSmRFZ0hKYzlucmh2NHVoV21TOXJ4ckh3WTlmODJxTkI1aWtkV0ZYUTNjZTdlOWxzZWVwa0FXNWMzQkloV1FMdHkxNlNTZjB4THRTRDREWi0xUjl4THM3LVRFcnZBMllNak9xMElEejFMSi1aSks3aVByNU1aSkZqekJ6Y1J1aTJyWDFvZnhkd2EwNFl3bzhHNGdvS0tGQQ?oc=5",
@@ -646,13 +655,13 @@
           "reportedAt": "2026-08-06T10:48:00Z"
         },
         {
-          "id": "report-d083776995f6",
-          "title": "UN chief condemns both Ukraine and Russia amid escalation in war",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ0JTZjl2dHZoVFVod1NhTnVQNjRDeEIxQkUzUlk1TGYxLU5aYk9iQkJwa3hteWR5WWdfSmFsNGxxRVJwTVNFNVdfZVpNeHhxU3NlVDdFWkZaemwyNDRLdkN4eUZNVzVpS2dzU2JZcmhtVzlTdFNlVnNlQTFkYWhsMTBGTUNFbndwTmFFV1Q3cDBfVjlhOXdvRHVTN0ZxcVdEckp6c2tIMy1TQjRDQWlvU09VTFLSAboBQVVfeXFMT2l5RTZfXzlhQmV0UjFEc3VRZVFDejZmN1R3YnI4bFNmLTRVd1hVcVp6cHFna0tYd3NhSk5iMTNSMGMwT3R5UWRaX3ctVldkT0ZLaU5ETkVNbHRwdGFsa3h0Q1FqMEg2VzhhRnZzZUlBMlRxM0FiS0N1YldlQmNMbk05cXZQTzJKbUxXUlVESjdDQUxjNnFEbXh0YkZWWHhIbGtUX0J2clhseFJMQ1hxTlFyOXlGUmhRYjZ3?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-07T12:42:59Z"
+          "id": "report-3d38dd7c63f8",
+          "title": "Turkish foreign minister warns Russia-Ukraine war could push Moscow toward ‘last option’",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbG5XNWZUV2d6aVR6MW53eUYyTlEtQjU2TWdrcFBFSmx5UFhhQmRLdFlPY09UUW5LaU84eGdfb0VKWi1rdTFHeTkxYTlmMjAycDBIMEZ5MUY1Q2R6b0c4b0hveUN0aWlKbjk5eHZrWjgtSEZnbXh5U3BHUGlmWkNpWW5RSWtKQTdtX2RROTBvdVR1YnNmR1ZZUGt4U2FwdFc2S3hzNUVQMUJWMzZLbkpoSUk2MWJqY3VEdS1RZW1mVDZhUTI0Znc1bA?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-08-09T09:07:31Z"
         },
         {
           "id": "report-254f1050aac5",
@@ -727,6 +736,15 @@
           "reportedAt": "2026-08-08T00:29:34Z"
         },
         {
+          "id": "report-c912b4b76205",
+          "title": "Russian forces kill several in Ukraine, launch ‘brutal’ attack in Odesa",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN3NaTmJfUXJzYXFHOWtNWTFYM2h6dmZ3N2Zual9aMnBXVk9VTUJzQmp6eXpJam9lSm9RaEhHWXFpdTQ2dW1tVUtXQUxJbDJySV8tYk8ybGY1RTFqWTlfU3AzMFQ3UnVDV2U1RHZfby1tTlBWNHc4SjNOTW8xaGVYTkxVNWp2NTF0Q0VGWU43MTJIWGJBbjl6cGtiMGVYWkNCQ01jMGRWOVJ1am1K0gGyAUFVX3lxTFBfUmdsSGFFdW9rRUxUZ0txZXJYUkxlY2FtYzJvMDV0YkdwVTNyZGhkZ1dQLUNvS3Z2NnR4dGJkUU40UVNYeE52VzZsMzU0RmZJZkV5Mll3Q3VPSEFOLS1wTEQ4dUFmaWdWSmVvdV96SGxYellNLXVHc1A5NUR2NUxuaVFKR1hEQm00LUZoVUkyWWF2c01VN2F0eHVZUWg3VVdWX0hVajZiZ19NZ054WmVHN2c?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-09T11:09:38Z"
+        },
+        {
           "id": "report-d84b6cf74216",
           "title": "Woman screams in fear as Ukraine war recruiters pounce on man",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa0dyX1owa3pyOGJNNkFHODloLUw4R2Nod3ZaU0k0Vy1IN0UxaXZsc2tGSmRPQ2VwUlNlY1RtVlhxN1MwT3JScXVra0NsS0llUmhuN1ZhNHhKeVlHUVl6WC1SOE9jZWRDV3RyNmVqX0dOdTgwZGxsSGtyR1A2c20tTXBKWG1mSE1LbjlEck9tdE1BZFhXRUlnVmJtV2M3WFg1TjNtdENCazdwenVK0gGyAUFVX3lxTE04NzlXOGs3QWZvS19OQklJNWw3X29RSmdVSXdpMGgwaVVvdG9aQTFVbDNwQ1pTS2xSV3JpVVNjQlJsbS00WTUyOXlOc3pFZWZuZ3piMVBaNFBzbGdXdVQxLWdtbWZfbExnT2Uzcmh3OVR1S3cwb1BRT0FSUGI3NlBRZUh3MlVka3hYWFFHOXIxeEJvNXNHd0htR1pvajBvUDRIQk5mdmFhbkJMQ09helRGM1E?oc=5",
@@ -761,6 +779,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-09T06:51:04Z"
+        },
+        {
+          "id": "report-79bc31ed1a5b",
+          "title": "Why is Pezeshkian urging an end to Iran’s ‘no war, no peace’ status?",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNekhIU3NwMjBHc0FzcjY2b2FCVjN5a0lBZ2dHNFkxQ2R2ZlA4X3h5eHN5WDQwdExkMkN1ZjRGNE5tRmdYWXdQZllyNXAzempoUmFMejhkR0hlWDZVcDZWU0Q2NG13NG5mMHhXVmVNRU1PYUx4aVN4NWstaHJwdTRoTFVSRTlsQmpYWGhyUU1GUnVSRkp4Sk9odDJ6d3Y3Z1F3aFhFVi1B0gGrAUFVX3lxTE15SnIxanV5NDNQOTVIM0VUMDZEWHo4OVVlZ3o2a3JqeENkSnVCdXdkVW56Z3pFaW5VWm1FUWZ5V3A3ZVF3X19aQ3JQOHVsb0JCTnljN1BwRV9oYU9fakhUVUpWVWh2QjNEa2lwRWFvd2Q1QjVwU0UtT3FkS3N4VlVpdE9iTVFnTnBzbDVabVY1LXpUMEJUSnFwT21GLVZFQU01bUlYTHo4NnBsMA?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-09T12:37:53Z"
         },
         {
           "id": "report-8d6e22cedc62",
@@ -799,24 +826,6 @@
           "reportedAt": "2026-08-06T13:19:37Z"
         },
         {
-          "id": "report-33ae1a5a9943",
-          "title": "Iran seeks way out of ‘neither war nor peace’ stalemate with US",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPV2VrcWc4MzZyVWp5eWpsZ0gwZi1CRE5kMm5UQktUazM1clJrMFhKYWVQM0YzSXh5UllibVlwRFlMY0VVNWR6UnhlNExHNEZEcEJJaE04V2V6STVfcHlDQTN2NVZnNDIwdjEzcVRndjVUemNQVGtiZ21EUE9qVDZzTEpYWlQwd9IBiwFBVV95cUxNemRsNjhoZTZ1R2plTWxtamJYeEMzVHRySXM1MzJpbTNOZ3ZMb0hRbWRXRDBibWdJVnRvS3R1UE1rQlNfQXlWWWcyXzdQMXloWnhKUVd0dmZyNnJEdWUzNDh3eUtzRXJyS2tHLWpCOXlRdnBDU0F3TDFTaV9pTGYxTzNDZXduazl0WW1N?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-09T04:47:52Z"
-        },
-        {
-          "id": "report-d3865ff13cdc",
-          "title": "Sudan's invisible children - born in war with no legal identity",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNbUJZSjcxbjg2WV9XTDhGNUxycEgyUTlMX2s1dzFiU0M1WTlqS1VDaG5uZTl0ZS1LclBKMnpWODVfSk9GMzBYODl4bGt2djZqV3ZBdERSRjVDdw?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-07T00:26:52Z"
-        },
-        {
           "id": "report-1c34e443ec02",
           "title": "UNICEF says one child killed per day in Gaza since ‘ceasefire’",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcFpsYmlrSUkyWWtxZ1A0Ui1mWkhzd1pWZUhUanB5c2pKcDJHQ2VBbVNlWExSZ0Q2cTZjdENKa3A0MFpaSDlUb3ROR3BCWEJmN0FlX0lLaElRTnRaLUtNUmVRaW80UmFwNHY2RllhTUp1ak9weWFmTkpmYXNvdTZKM1F3eG9pR196Z3JJX0NmUkZwRWR0SUJvQnpCdlBqX0ZfU2JzUdIBqgFBVV95cUxQeVA1NXh4dzliZ3hYYTJmU0FjZXZIdWxfV0JLQlFnelV5TDJMdHFrUklWcjMxQ1pmWUpMOGMySE95TmFhRWhtZVI4LU5Md3FDY2E5VDlzSGZ0NENFcGVfNndWLVNCbW81Uk0tTUxEWkszTmtxVldBeHkwV3lSNDgyMGZsU19aM19ZSDVjNlFXZXlOSUdMLTl0c2NfeWxkeW43Y0ZaTEpGX2EwQQ?oc=5",
@@ -824,15 +833,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-06T15:10:34Z"
-        },
-        {
-          "id": "report-890f30a84ab9",
-          "title": "Iran war renews concerns about the lasting toll of traumatic brain injuries to US troops",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcThHa3E4S2QtZFp5ZEJqRHdlVGhyM2N0UTI5YUhUeUFqbEhQVjcxOXM4NkdTUzFRalVybkYweDRINGIyZHJWM0VWZjhrSXpldHpIQ25PWE5LSnlRRWEyNTNsTGlnamtHdUVyZHpxMlpWTXY4RkxyUVdJU1ZSdXJvWVE2dV9NNHo0cjUySldVU1N4dmx2Q0JDemZuQUdFVVhxdWc?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-06T18:14:00Z"
         },
         {
           "id": "report-dd2a1637dc48",
