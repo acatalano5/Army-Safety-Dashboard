@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-09T17:54:43.140Z",
+  "generatedAt": "2026-08-09T19:52:34.912Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-08-09T14:19:43.826Z",
+      "generatedAt": "2026-08-09T19:52:34.912Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -717,7 +717,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-08-09T14:19:43.826Z",
+      "generatedAt": "2026-08-09T19:52:34.912Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -745,19 +745,19 @@
           "pinned": false
         },
         {
-          "title": "War and accumulating sand threaten Sudan’s Meroe pyramids, in photos",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNXBKdnU1T3BOSmRFZ0hKYzlucmh2NHVoV21TOXJ4ckh3WTlmODJxTkI1aWtkV0ZYUTNjZTdlOWxzZWVwa0FXNWMzQkloV1FMdHkxNlNTZjB4THRTRDREWi0xUjl4THM3LVRFcnZBMllNak9xMElEejFMSi1aSks3aVByNU1aSkZqekJ6Y1J1aTJyWDFvZnhkd2EwNFl3bzhHNGdvS0tGQQ?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260806T104800Z",
-          "pinned": false
-        },
-        {
           "title": "Turkish foreign minister warns Russia-Ukraine war could push Moscow toward ‘last option’",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbG5XNWZUV2d6aVR6MW53eUYyTlEtQjU2TWdrcFBFSmx5UFhhQmRLdFlPY09UUW5LaU84eGdfb0VKWi1rdTFHeTkxYTlmMjAycDBIMEZ5MUY1Q2R6b0c4b0hveUN0aWlKbjk5eHZrWjgtSEZnbXh5U3BHUGlmWkNpWW5RSWtKQTdtX2RROTBvdVR1YnNmR1ZZUGt4U2FwdFc2S3hzNUVQMUJWMzZLbkpoSUk2MWJqY3VEdS1RZW1mVDZhUTI0Znc1bA?oc=5",
           "domain": "aa.com.tr",
           "sourceTier": "State-affiliated reporting",
           "seen": "20260809T090731Z",
+          "pinned": false
+        },
+        {
+          "title": "War and accumulating sand threaten Sudan’s Meroe pyramids, in photos",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNXBKdnU1T3BOSmRFZ0hKYzlucmh2NHVoV21TOXJ4ckh3WTlmODJxTkI1aWtkV0ZYUTNjZTdlOWxzZWVwa0FXNWMzQkloV1FMdHkxNlNTZjB4THRTRDREWi0xUjl4THM3LVRFcnZBMllNak9xMElEejFMSi1aSks3aVByNU1aSkZqekJ6Y1J1aTJyWDFvZnhkd2EwNFl3bzhHNGdvS0tGQQ?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260806T104800Z",
           "pinned": false
         },
         {
@@ -817,14 +817,6 @@
           "pinned": false
         },
         {
-          "title": "Sudan’s war threatens an ‘entire generation’s’ future, UN warns",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd1dlc3RpbmFHS3ZxNVIwcWNKTmkzeXBlVlE3SmRZNzRNNnptX3RKeF9wbnhneVI2b2hYOTQ0dTVpWkVUNk94R0xDMUJpTUZYMmtIQlBxUlF0SEx5Nnl4cFg2NFA4S295WndQT3pILXVndTlMQ1NNUGR6SUNQLTUxcXE4d2R5NFpxLXVMNXl2b0tfTFNDdlQwMVB3SHBOM0HSAaQBQVVfeXFMTjVDRHliYVk3dzJTY2pEaXZUOFlvX2c2YmpDQkJvbEVnc3c2TnRKR05fa3RVMU1lOHI4azlvOWdGUlFiaDVPQWVYT0hVd1VzeHBUYXRoNEgya0U0QkpIRUg0TFdXeVU1bFI3TlRjb2dSaWRyVFBXY2NtU0tzbEpkMHlGSkZXM2xUVlU1Z1ZtZGdJbTlDMDl5VTFnLWplVTNpOGJNRHg?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260808T002934Z",
-          "pinned": false
-        },
-        {
           "title": "Russian forces kill several in Ukraine, launch ‘brutal’ attack in Odesa",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN3NaTmJfUXJzYXFHOWtNWTFYM2h6dmZ3N2Zual9aMnBXVk9VTUJzQmp6eXpJam9lSm9RaEhHWXFpdTQ2dW1tVUtXQUxJbDJySV8tYk8ybGY1RTFqWTlfU3AzMFQ3UnVDV2U1RHZfby1tTlBWNHc4SjNOTW8xaGVYTkxVNWp2NTF0Q0VGWU43MTJIWGJBbjl6cGtiMGVYWkNCQ01jMGRWOVJ1am1K0gGyAUFVX3lxTFBfUmdsSGFFdW9rRUxUZ0txZXJYUkxlY2FtYzJvMDV0YkdwVTNyZGhkZ1dQLUNvS3Z2NnR4dGJkUU40UVNYeE52VzZsMzU0RmZJZkV5Mll3Q3VPSEFOLS1wTEQ4dUFmaWdWSmVvdV96SGxYellNLXVHc1A5NUR2NUxuaVFKR1hEQm00LUZoVUkyWWF2c01VN2F0eHVZUWg3VVdWX0hVajZiZ19NZ054WmVHN2c?oc=5",
           "domain": "aljazeera.com",
@@ -833,11 +825,27 @@
           "pinned": false
         },
         {
+          "title": "Sudan’s war threatens an ‘entire generation’s’ future, UN warns",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd1dlc3RpbmFHS3ZxNVIwcWNKTmkzeXBlVlE3SmRZNzRNNnptX3RKeF9wbnhneVI2b2hYOTQ0dTVpWkVUNk94R0xDMUJpTUZYMmtIQlBxUlF0SEx5Nnl4cFg2NFA4S295WndQT3pILXVndTlMQ1NNUGR6SUNQLTUxcXE4d2R5NFpxLXVMNXl2b0tfTFNDdlQwMVB3SHBOM0HSAaQBQVVfeXFMTjVDRHliYVk3dzJTY2pEaXZUOFlvX2c2YmpDQkJvbEVnc3c2TnRKR05fa3RVMU1lOHI4azlvOWdGUlFiaDVPQWVYT0hVd1VzeHBUYXRoNEgya0U0QkpIRUg0TFdXeVU1bFI3TlRjb2dSaWRyVFBXY2NtU0tzbEpkMHlGSkZXM2xUVlU1Z1ZtZGdJbTlDMDl5VTFnLWplVTNpOGJNRHg?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260808T002934Z",
+          "pinned": false
+        },
+        {
           "title": "Woman screams in fear as Ukraine war recruiters pounce on man",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa0dyX1owa3pyOGJNNkFHODloLUw4R2Nod3ZaU0k0Vy1IN0UxaXZsc2tGSmRPQ2VwUlNlY1RtVlhxN1MwT3JScXVra0NsS0llUmhuN1ZhNHhKeVlHUVl6WC1SOE9jZWRDV3RyNmVqX0dOdTgwZGxsSGtyR1A2c20tTXBKWG1mSE1LbjlEck9tdE1BZFhXRUlnVmJtV2M3WFg1TjNtdENCazdwenVK0gGyAUFVX3lxTE04NzlXOGs3QWZvS19OQklJNWw3X29RSmdVSXdpMGgwaVVvdG9aQTFVbDNwQ1pTS2xSV3JpVVNjQlJsbS00WTUyOXlOc3pFZWZuZ3piMVBaNFBzbGdXdVQxLWdtbWZfbExnT2Uzcmh3OVR1S3cwb1BRT0FSUGI3NlBRZUh3MlVka3hYWFFHOXIxeEJvNXNHd0htR1pvajBvUDRIQk5mdmFhbkJMQ09helRGM1E?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260808T121759Z",
+          "pinned": false
+        },
+        {
+          "title": "Iran seeks way out of ‘neither war nor peace’ stalemate with US",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPV2VrcWc4MzZyVWp5eWpsZ0gwZi1CRE5kMm5UQktUazM1clJrMFhKYWVQM0YzSXh5UllibVlwRFlMY0VVNWR6UnhlNExHNEZEcEJJaE04V2V6STVfcHlDQTN2NVZnNDIwdjEzcVRndjVUemNQVGtiZ21EUE9qVDZzTEpYWlQwd9IBiwFBVV95cUxNemRsNjhoZTZ1R2plTWxtamJYeEMzVHRySXM1MzJpbTNOZ3ZMb0hRbWRXRDBibWdJVnRvS3R1UE1rQlNfQXlWWWcyXzdQMXloWnhKUVd0dmZyNnJEdWUzNDh3eUtzRXJyS2tHLWpCOXlRdnBDU0F3TDFTaV9pTGYxTzNDZXduazl0WW1N?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260809T044752Z",
           "pinned": false
         },
         {
@@ -857,6 +865,14 @@
           "pinned": false
         },
         {
+          "title": "Why is Pezeshkian urging an end to Iran’s ‘no war, no peace’ status?",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNekhIU3NwMjBHc0FzcjY2b2FCVjN5a0lBZ2dHNFkxQ2R2ZlA4X3h5eHN5WDQwdExkMkN1ZjRGNE5tRmdYWXdQZllyNXAzempoUmFMejhkR0hlWDZVcDZWU0Q2NG13NG5mMHhXVmVNRU1PYUx4aVN4NWstaHJwdTRoTFVSRTlsQmpYWGhyUU1GUnVSRkp4Sk9odDJ6d3Y3Z1F3aFhFVi1B0gGrAUFVX3lxTE15SnIxanV5NDNQOTVIM0VUMDZEWHo4OVVlZ3o2a3JqeENkSnVCdXdkVW56Z3pFaW5VWm1FUWZ5V3A3ZVF3X19aQ3JQOHVsb0JCTnljN1BwRV9oYU9fakhUVUpWVWh2QjNEa2lwRWFvd2Q1QjVwU0UtT3FkS3N4VlVpdE9iTVFnTnBzbDVabVY1LXpUMEJUSnFwT21GLVZFQU01bUlYTHo4NnBsMA?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260809T123753Z",
+          "pinned": false
+        },
+        {
           "title": "Bulgaria, Germany drone incidents raise security fears amid Ukraine war",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWGN3STBkTXUwR3NXZDN3TzJEcjJXR29rZDFJNW1LS1V6WVdZenh1SzQtTjZTOEhtNk8wTUotSmFPN2ZqRTR6ZEhwSTZ0dDFxUEhZQkVFVFg2YVZTQzY2RzJoTFBWcVVQQjRPeUVCaHdSem1lclJYeTNTZVY3SFp6X2hRRzFDMFVxTWxlYmN0N1RqWFVZZEVZMTBSdTBNWGVwY0ZrNk9NY3pXbjYtc3RTenYxYmVZUdIBuwFBVV95cUxOZGIwWXdiTmNOSy1MMXBBWUFLd1JWS0tmUmNyWk9UNHZ4bmRuZW15TU83NDBtQkxBQU1Qa2dDN0xyS1V0QVFzWmJlSm9MN0lGTG5IZndpMjlxZGJyallKVkZSem0tV1h4X2M5M2E0bjc2Vm85V0Q3Sm5yYTBTUnh4VHBJcEV4S0JhQUJTTGJVenBwT0VzR3hMVGtsT2E3bXhaRllsY1lBWlRjVkFSWU0xeUswZnVoTGFVR3JN?oc=5",
           "domain": "aljazeera.com",
@@ -865,11 +881,11 @@
           "pinned": false
         },
         {
-          "title": "Why is Pezeshkian urging an end to Iran’s ‘no war, no peace’ status?",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNekhIU3NwMjBHc0FzcjY2b2FCVjN5a0lBZ2dHNFkxQ2R2ZlA4X3h5eHN5WDQwdExkMkN1ZjRGNE5tRmdYWXdQZllyNXAzempoUmFMejhkR0hlWDZVcDZWU0Q2NG13NG5mMHhXVmVNRU1PYUx4aVN4NWstaHJwdTRoTFVSRTlsQmpYWGhyUU1GUnVSRkp4Sk9odDJ6d3Y3Z1F3aFhFVi1B0gGrAUFVX3lxTE15SnIxanV5NDNQOTVIM0VUMDZEWHo4OVVlZ3o2a3JqeENkSnVCdXdkVW56Z3pFaW5VWm1FUWZ5V3A3ZVF3X19aQ3JQOHVsb0JCTnljN1BwRV9oYU9fakhUVUpWVWh2QjNEa2lwRWFvd2Q1QjVwU0UtT3FkS3N4VlVpdE9iTVFnTnBzbDVabVY1LXpUMEJUSnFwT21GLVZFQU01bUlYTHo4NnBsMA?oc=5",
+          "title": "War on Iran: Phase II: Day 29",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRW56N3I4cWpfTF9UVTUzMGc5enBYNVdnU0dFaUF0NmNqOGdyVWVBU1BzTXRJZVpaRGdiX09EQklLYWJKcm45ejdRTkV0bVg4UVlvUG1fclk0ODlnTi1xQXFUUl9yTE9LX08yRXlOMWpyNjRJNjNYUVFnQTltOFlhZzFyMNIBiAFBVV95cUxONUE2UTVUelBxM3p1cG1HZl9UZjJRZFowVUFmZk1JLWMwQ1RNWGxBMVl4M2ZRSXZHSVQ1Q25DYmQwTl9jNmZ1LWNrcW1ENWRZZDl4dTd0RGRocmdPT2E2UHdVRFNRcXNCLVBFMThCQm1uS2pWZVI5VXBKOHBVOGFPenluNDM2cmFz?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260809T123753Z",
+          "seen": "20260809T160840Z",
           "pinned": false
         },
         {
@@ -894,22 +910,6 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260806T193852Z",
-          "pinned": false
-        },
-        {
-          "title": "The old pact between Israel’s government and military has broken down",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeUphQ0U1ei1GTG1sdGNxVHdMVDdMcktoODZhcWU4Y3A1QWVCLVRweFJRbHFwanpDcFhZSUVNSUgzUFhoQjVOeFpHOEdJUUtBcHJNb3Q1cEJ1N1YzV0lFbGJUbUswN3l3cGlFczIwTmZONnJnbFVmUUVxTUJyWGVydlZRcldMa2xzcGw1ZGh4RDAwaXkxRzE4UVJ4ODRkMk5BR0Ntd2twOEVLM096YU1nd3JR0gG3AUFVX3lxTE5EYmZ3TEx6a0NMbzQyLUpRcXdGdm1JaFF3a2NYdUpiczhiMkRPQ1BkVHJiMkZuOXY4Qzdzdi1wTEhaWkQwdzJJcjQ0dHVxcU1jdG1haWlLUGtUaFU0NVhtMFA2RzlzT1ctcnc1NzNiZmJNWUM4MnFmU1ROaWtEYjFCMFBsZmo0V2pxZTlXemJ0VDVQMk5KMlZWTURYaEFyWTVvVC1EMFhXTnpiTUg0Z2dWdzNXeTBiYw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260806T131937Z",
-          "pinned": false
-        },
-        {
-          "title": "UNICEF says one child killed per day in Gaza since ‘ceasefire’",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcFpsYmlrSUkyWWtxZ1A0Ui1mWkhzd1pWZUhUanB5c2pKcDJHQ2VBbVNlWExSZ0Q2cTZjdENKa3A0MFpaSDlUb3ROR3BCWEJmN0FlX0lLaElRTnRaLUtNUmVRaW80UmFwNHY2RllhTUp1ak9weWFmTkpmYXNvdTZKM1F3eG9pR196Z3JJX0NmUkZwRWR0SUJvQnpCdlBqX0ZfU2JzUdIBqgFBVV95cUxQeVA1NXh4dzliZ3hYYTJmU0FjZXZIdWxfV0JLQlFnelV5TDJMdHFrUklWcjMxQ1pmWUpMOGMySE95TmFhRWhtZVI4LU5Md3FDY2E5VDlzSGZ0NENFcGVfNndWLVNCbW81Uk0tTUxEWkszTmtxVldBeHkwV3lSNDgyMGZsU19aM19ZSDVjNlFXZXlOSUdMLTl0c2NfeWxkeW43Y0ZaTEpGX2EwQQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260806T151034Z",
           "pinned": false
         }
       ],
@@ -942,15 +942,6 @@
           "reportedAt": "2026-08-07T12:42:59Z"
         },
         {
-          "id": "report-c6e558799f80",
-          "title": "War and accumulating sand threaten Sudan’s Meroe pyramids, in photos",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNXBKdnU1T3BOSmRFZ0hKYzlucmh2NHVoV21TOXJ4ckh3WTlmODJxTkI1aWtkV0ZYUTNjZTdlOWxzZWVwa0FXNWMzQkloV1FMdHkxNlNTZjB4THRTRDREWi0xUjl4THM3LVRFcnZBMllNak9xMElEejFMSi1aSks3aVByNU1aSkZqekJ6Y1J1aTJyWDFvZnhkd2EwNFl3bzhHNGdvS0tGQQ?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-06T10:48:00Z"
-        },
-        {
           "id": "report-3d38dd7c63f8",
           "title": "Turkish foreign minister warns Russia-Ukraine war could push Moscow toward ‘last option’",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbG5XNWZUV2d6aVR6MW53eUYyTlEtQjU2TWdrcFBFSmx5UFhhQmRLdFlPY09UUW5LaU84eGdfb0VKWi1rdTFHeTkxYTlmMjAycDBIMEZ5MUY1Q2R6b0c4b0hveUN0aWlKbjk5eHZrWjgtSEZnbXh5U3BHUGlmWkNpWW5RSWtKQTdtX2RROTBvdVR1YnNmR1ZZUGt4U2FwdFc2S3hzNUVQMUJWMzZLbkpoSUk2MWJqY3VEdS1RZW1mVDZhUTI0Znc1bA?oc=5",
@@ -958,6 +949,15 @@
           "sourceTier": "State-affiliated reporting",
           "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
           "reportedAt": "2026-08-09T09:07:31Z"
+        },
+        {
+          "id": "report-c6e558799f80",
+          "title": "War and accumulating sand threaten Sudan’s Meroe pyramids, in photos",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNXBKdnU1T3BOSmRFZ0hKYzlucmh2NHVoV21TOXJ4ckh3WTlmODJxTkI1aWtkV0ZYUTNjZTdlOWxzZWVwa0FXNWMzQkloV1FMdHkxNlNTZjB4THRTRDREWi0xUjl4THM3LVRFcnZBMllNak9xMElEejFMSi1aSks3aVByNU1aSkZqekJ6Y1J1aTJyWDFvZnhkd2EwNFl3bzhHNGdvS0tGQQ?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-06T10:48:00Z"
         },
         {
           "id": "report-254f1050aac5",
@@ -1023,15 +1023,6 @@
           "reportedAt": "2026-08-07T11:19:35Z"
         },
         {
-          "id": "report-7f97b0806231",
-          "title": "Sudan’s war threatens an ‘entire generation’s’ future, UN warns",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd1dlc3RpbmFHS3ZxNVIwcWNKTmkzeXBlVlE3SmRZNzRNNnptX3RKeF9wbnhneVI2b2hYOTQ0dTVpWkVUNk94R0xDMUJpTUZYMmtIQlBxUlF0SEx5Nnl4cFg2NFA4S295WndQT3pILXVndTlMQ1NNUGR6SUNQLTUxcXE4d2R5NFpxLXVMNXl2b0tfTFNDdlQwMVB3SHBOM0HSAaQBQVVfeXFMTjVDRHliYVk3dzJTY2pEaXZUOFlvX2c2YmpDQkJvbEVnc3c2TnRKR05fa3RVMU1lOHI4azlvOWdGUlFiaDVPQWVYT0hVd1VzeHBUYXRoNEgya0U0QkpIRUg0TFdXeVU1bFI3TlRjb2dSaWRyVFBXY2NtU0tzbEpkMHlGSkZXM2xUVlU1Z1ZtZGdJbTlDMDl5VTFnLWplVTNpOGJNRHg?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-08T00:29:34Z"
-        },
-        {
           "id": "report-c912b4b76205",
           "title": "Russian forces kill several in Ukraine, launch ‘brutal’ attack in Odesa",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN3NaTmJfUXJzYXFHOWtNWTFYM2h6dmZ3N2Zual9aMnBXVk9VTUJzQmp6eXpJam9lSm9RaEhHWXFpdTQ2dW1tVUtXQUxJbDJySV8tYk8ybGY1RTFqWTlfU3AzMFQ3UnVDV2U1RHZfby1tTlBWNHc4SjNOTW8xaGVYTkxVNWp2NTF0Q0VGWU43MTJIWGJBbjl6cGtiMGVYWkNCQ01jMGRWOVJ1am1K0gGyAUFVX3lxTFBfUmdsSGFFdW9rRUxUZ0txZXJYUkxlY2FtYzJvMDV0YkdwVTNyZGhkZ1dQLUNvS3Z2NnR4dGJkUU40UVNYeE52VzZsMzU0RmZJZkV5Mll3Q3VPSEFOLS1wTEQ4dUFmaWdWSmVvdV96SGxYellNLXVHc1A5NUR2NUxuaVFKR1hEQm00LUZoVUkyWWF2c01VN2F0eHVZUWg3VVdWX0hVajZiZ19NZ054WmVHN2c?oc=5",
@@ -1041,6 +1032,15 @@
           "reportedAt": "2026-08-09T11:09:38Z"
         },
         {
+          "id": "report-7f97b0806231",
+          "title": "Sudan’s war threatens an ‘entire generation’s’ future, UN warns",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd1dlc3RpbmFHS3ZxNVIwcWNKTmkzeXBlVlE3SmRZNzRNNnptX3RKeF9wbnhneVI2b2hYOTQ0dTVpWkVUNk94R0xDMUJpTUZYMmtIQlBxUlF0SEx5Nnl4cFg2NFA4S295WndQT3pILXVndTlMQ1NNUGR6SUNQLTUxcXE4d2R5NFpxLXVMNXl2b0tfTFNDdlQwMVB3SHBOM0HSAaQBQVVfeXFMTjVDRHliYVk3dzJTY2pEaXZUOFlvX2c2YmpDQkJvbEVnc3c2TnRKR05fa3RVMU1lOHI4azlvOWdGUlFiaDVPQWVYT0hVd1VzeHBUYXRoNEgya0U0QkpIRUg0TFdXeVU1bFI3TlRjb2dSaWRyVFBXY2NtU0tzbEpkMHlGSkZXM2xUVlU1Z1ZtZGdJbTlDMDl5VTFnLWplVTNpOGJNRHg?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-08T00:29:34Z"
+        },
+        {
           "id": "report-d84b6cf74216",
           "title": "Woman screams in fear as Ukraine war recruiters pounce on man",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa0dyX1owa3pyOGJNNkFHODloLUw4R2Nod3ZaU0k0Vy1IN0UxaXZsc2tGSmRPQ2VwUlNlY1RtVlhxN1MwT3JScXVra0NsS0llUmhuN1ZhNHhKeVlHUVl6WC1SOE9jZWRDV3RyNmVqX0dOdTgwZGxsSGtyR1A2c20tTXBKWG1mSE1LbjlEck9tdE1BZFhXRUlnVmJtV2M3WFg1TjNtdENCazdwenVK0gGyAUFVX3lxTE04NzlXOGs3QWZvS19OQklJNWw3X29RSmdVSXdpMGgwaVVvdG9aQTFVbDNwQ1pTS2xSV3JpVVNjQlJsbS00WTUyOXlOc3pFZWZuZ3piMVBaNFBzbGdXdVQxLWdtbWZfbExnT2Uzcmh3OVR1S3cwb1BRT0FSUGI3NlBRZUh3MlVka3hYWFFHOXIxeEJvNXNHd0htR1pvajBvUDRIQk5mdmFhbkJMQ09helRGM1E?oc=5",
@@ -1048,6 +1048,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-08T12:17:59Z"
+        },
+        {
+          "id": "report-33ae1a5a9943",
+          "title": "Iran seeks way out of ‘neither war nor peace’ stalemate with US",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPV2VrcWc4MzZyVWp5eWpsZ0gwZi1CRE5kMm5UQktUazM1clJrMFhKYWVQM0YzSXh5UllibVlwRFlMY0VVNWR6UnhlNExHNEZEcEJJaE04V2V6STVfcHlDQTN2NVZnNDIwdjEzcVRndjVUemNQVGtiZ21EUE9qVDZzTEpYWlQwd9IBiwFBVV95cUxNemRsNjhoZTZ1R2plTWxtamJYeEMzVHRySXM1MzJpbTNOZ3ZMb0hRbWRXRDBibWdJVnRvS3R1UE1rQlNfQXlWWWcyXzdQMXloWnhKUVd0dmZyNnJEdWUzNDh3eUtzRXJyS2tHLWpCOXlRdnBDU0F3TDFTaV9pTGYxTzNDZXduazl0WW1N?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-09T04:47:52Z"
         },
         {
           "id": "report-09c874dddc34",
@@ -1068,6 +1077,15 @@
           "reportedAt": "2026-08-07T10:56:39Z"
         },
         {
+          "id": "report-79bc31ed1a5b",
+          "title": "Why is Pezeshkian urging an end to Iran’s ‘no war, no peace’ status?",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNekhIU3NwMjBHc0FzcjY2b2FCVjN5a0lBZ2dHNFkxQ2R2ZlA4X3h5eHN5WDQwdExkMkN1ZjRGNE5tRmdYWXdQZllyNXAzempoUmFMejhkR0hlWDZVcDZWU0Q2NG13NG5mMHhXVmVNRU1PYUx4aVN4NWstaHJwdTRoTFVSRTlsQmpYWGhyUU1GUnVSRkp4Sk9odDJ6d3Y3Z1F3aFhFVi1B0gGrAUFVX3lxTE15SnIxanV5NDNQOTVIM0VUMDZEWHo4OVVlZ3o2a3JqeENkSnVCdXdkVW56Z3pFaW5VWm1FUWZ5V3A3ZVF3X19aQ3JQOHVsb0JCTnljN1BwRV9oYU9fakhUVUpWVWh2QjNEa2lwRWFvd2Q1QjVwU0UtT3FkS3N4VlVpdE9iTVFnTnBzbDVabVY1LXpUMEJUSnFwT21GLVZFQU01bUlYTHo4NnBsMA?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-09T12:37:53Z"
+        },
+        {
           "id": "report-cdeab4f938c0",
           "title": "Bulgaria, Germany drone incidents raise security fears amid Ukraine war",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWGN3STBkTXUwR3NXZDN3TzJEcjJXR29rZDFJNW1LS1V6WVdZenh1SzQtTjZTOEhtNk8wTUotSmFPN2ZqRTR6ZEhwSTZ0dDFxUEhZQkVFVFg2YVZTQzY2RzJoTFBWcVVQQjRPeUVCaHdSem1lclJYeTNTZVY3SFp6X2hRRzFDMFVxTWxlYmN0N1RqWFVZZEVZMTBSdTBNWGVwY0ZrNk9NY3pXbjYtc3RTenYxYmVZUdIBuwFBVV95cUxOZGIwWXdiTmNOSy1MMXBBWUFLd1JWS0tmUmNyWk9UNHZ4bmRuZW15TU83NDBtQkxBQU1Qa2dDN0xyS1V0QVFzWmJlSm9MN0lGTG5IZndpMjlxZGJyallKVkZSem0tV1h4X2M5M2E0bjc2Vm85V0Q3Sm5yYTBTUnh4VHBJcEV4S0JhQUJTTGJVenBwT0VzR3hMVGtsT2E3bXhaRllsY1lBWlRjVkFSWU0xeUswZnVoTGFVR3JN?oc=5",
@@ -1077,13 +1095,13 @@
           "reportedAt": "2026-08-09T06:51:04Z"
         },
         {
-          "id": "report-79bc31ed1a5b",
-          "title": "Why is Pezeshkian urging an end to Iran’s ‘no war, no peace’ status?",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNekhIU3NwMjBHc0FzcjY2b2FCVjN5a0lBZ2dHNFkxQ2R2ZlA4X3h5eHN5WDQwdExkMkN1ZjRGNE5tRmdYWXdQZllyNXAzempoUmFMejhkR0hlWDZVcDZWU0Q2NG13NG5mMHhXVmVNRU1PYUx4aVN4NWstaHJwdTRoTFVSRTlsQmpYWGhyUU1GUnVSRkp4Sk9odDJ6d3Y3Z1F3aFhFVi1B0gGrAUFVX3lxTE15SnIxanV5NDNQOTVIM0VUMDZEWHo4OVVlZ3o2a3JqeENkSnVCdXdkVW56Z3pFaW5VWm1FUWZ5V3A3ZVF3X19aQ3JQOHVsb0JCTnljN1BwRV9oYU9fakhUVUpWVWh2QjNEa2lwRWFvd2Q1QjVwU0UtT3FkS3N4VlVpdE9iTVFnTnBzbDVabVY1LXpUMEJUSnFwT21GLVZFQU01bUlYTHo4NnBsMA?oc=5",
+          "id": "report-2970ff3c8e81",
+          "title": "War on Iran: Phase II: Day 29",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRW56N3I4cWpfTF9UVTUzMGc5enBYNVdnU0dFaUF0NmNqOGdyVWVBU1BzTXRJZVpaRGdiX09EQklLYWJKcm45ejdRTkV0bVg4UVlvUG1fclk0ODlnTi1xQXFUUl9yTE9LX08yRXlOMWpyNjRJNjNYUVFnQTltOFlhZzFyMNIBiAFBVV95cUxONUE2UTVUelBxM3p1cG1HZl9UZjJRZFowVUFmZk1JLWMwQ1RNWGxBMVl4M2ZRSXZHSVQ1Q25DYmQwTl9jNmZ1LWNrcW1ENWRZZDl4dTd0RGRocmdPT2E2UHdVRFNRcXNCLVBFMThCQm1uS2pWZVI5VXBKOHBVOGFPenluNDM2cmFz?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-09T12:37:53Z"
+          "reportedAt": "2026-08-09T16:08:40Z"
         },
         {
           "id": "report-8d6e22cedc62",
@@ -1111,24 +1129,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-06T19:38:52Z"
-        },
-        {
-          "id": "report-08edca943e01",
-          "title": "The old pact between Israel’s government and military has broken down",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeUphQ0U1ei1GTG1sdGNxVHdMVDdMcktoODZhcWU4Y3A1QWVCLVRweFJRbHFwanpDcFhZSUVNSUgzUFhoQjVOeFpHOEdJUUtBcHJNb3Q1cEJ1N1YzV0lFbGJUbUswN3l3cGlFczIwTmZONnJnbFVmUUVxTUJyWGVydlZRcldMa2xzcGw1ZGh4RDAwaXkxRzE4UVJ4ODRkMk5BR0Ntd2twOEVLM096YU1nd3JR0gG3AUFVX3lxTE5EYmZ3TEx6a0NMbzQyLUpRcXdGdm1JaFF3a2NYdUpiczhiMkRPQ1BkVHJiMkZuOXY4Qzdzdi1wTEhaWkQwdzJJcjQ0dHVxcU1jdG1haWlLUGtUaFU0NVhtMFA2RzlzT1ctcnc1NzNiZmJNWUM4MnFmU1ROaWtEYjFCMFBsZmo0V2pxZTlXemJ0VDVQMk5KMlZWTURYaEFyWTVvVC1EMFhXTnpiTUg0Z2dWdzNXeTBiYw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-06T13:19:37Z"
-        },
-        {
-          "id": "report-1c34e443ec02",
-          "title": "UNICEF says one child killed per day in Gaza since ‘ceasefire’",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcFpsYmlrSUkyWWtxZ1A0Ui1mWkhzd1pWZUhUanB5c2pKcDJHQ2VBbVNlWExSZ0Q2cTZjdENKa3A0MFpaSDlUb3ROR3BCWEJmN0FlX0lLaElRTnRaLUtNUmVRaW80UmFwNHY2RllhTUp1ak9weWFmTkpmYXNvdTZKM1F3eG9pR196Z3JJX0NmUkZwRWR0SUJvQnpCdlBqX0ZfU2JzUdIBqgFBVV95cUxQeVA1NXh4dzliZ3hYYTJmU0FjZXZIdWxfV0JLQlFnelV5TDJMdHFrUklWcjMxQ1pmWUpMOGMySE95TmFhRWhtZVI4LU5Md3FDY2E5VDlzSGZ0NENFcGVfNndWLVNCbW81Uk0tTUxEWkszTmtxVldBeHkwV3lSNDgyMGZsU19aM19ZSDVjNlFXZXlOSUdMLTl0c2NfeWxkeW43Y0ZaTEpGX2EwQQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-06T15:10:34Z"
         },
         {
           "id": "report-dd2a1637dc48",
