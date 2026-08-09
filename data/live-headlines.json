@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T19:49:30.997Z",
+  "generatedAt": "2026-08-09T04:50:15.334Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-08-08T19:49:30.997Z",
+      "generatedAt": "2026-08-09T04:50:15.334Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -421,39 +421,15 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-08-08T19:49:30.997Z",
+      "generatedAt": "2026-08-09T04:50:15.334Z",
       "cadence": "every 6 hours",
       "items": [
-        {
-          "title": "'Profits of war' and 'Super-rain'",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rSV9zb0x5Tmd0U3hUT2R4SlZzeUVJWERra1hRTnpQWi1nUEpZSkpqdHd6eFdadUNKT2FHaWVDR0pRRVA4TkhDSTBabGI3dmstV01PNkRqamtRQQ?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260805T034542Z",
-          "pinned": false
-        },
         {
           "title": "Will the US-Iran war and Hormuz deadlock last for months?",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeWV1dlM0Uk8ya1hsSnUwMDluTlBGQW9zak8zVzh4RnRRNVBIMEszdkZjdTNoTFN2UlNpSDFXNXZZUlBfcWQ5YWpVMkptd2ZSV3oxNTBPbkU5eTAzRkhSUHhuSTVRclNQbS1kOF9QaDlVV21nZ3c5eVkyVWRYY09xZWlWMFZ0X0tZQTNTSlV0MGlKblFKS3ppN1p4bETSAaIBQVVfeXFMTWZkOHNkZkRlMUE5dTVSbXNsLVo3ZDB5b1hsS1QtMnY2Q1B2aG84dGoyYldwMmpidnZXdUtZa1JGMUVIS3VJcmhtaGU4eXRzVzVSR2o0QTR4R3ltZlM1aExuU3dyMWlkU3RIYmM1Sy0yZTRNMWFpTnFKbkRXTmxkTDNJRUVRbmZxal9vWWgwZUNDRHF5MDEyUHFiWUVOR1dWZ09n?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260806T133305Z",
-          "pinned": false
-        },
-        {
-          "title": "In Bandar Abbas, the ceasefire never came",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZjN1ejc2RTFDVWZHRXB1LVZVdWZsUWU1MEVtZXFYSEN2VkdWakh3Q000RWF5c2dDNnNkaU5vMUF6MzhCeEh1QXU5V1JVSUdoS2s1WkN5bWp0V2poRjMtX3FtYzlSTDZ4SFdKYVo5Wmg1UG1yYnJ0Y1NQQmpMTmlvSXBHZzhJUHlEVmVGSNIBkgFBVV95cUxNa0lVQk4taGZGZmZ2cktGeFFTWVhNTGp1WXZJSzQtd2VNWnlPQ1ZCLWRSSm5tWHM4RzdfelFtRXdvMUFabDFkWVhBbjM5bVhhZ0kxeEozS25iZndfQ0VmYmtYWExvNTdkcXh3NFFXMmx6YVRtTDFzeHQxYW12QWIxZUVMZHl0Rml6VFA1UkNJWDhsQQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260805T121816Z",
-          "pinned": false
-        },
-        {
-          "title": "War and accumulating sand threaten Sudan’s Meroe pyramids, in photos",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNXBKdnU1T3BOSmRFZ0hKYzlucmh2NHVoV21TOXJ4ckh3WTlmODJxTkI1aWtkV0ZYUTNjZTdlOWxzZWVwa0FXNWMzQkloV1FMdHkxNlNTZjB4THRTRDREWi0xUjl4THM3LVRFcnZBMllNak9xMElEejFMSi1aSks3aVByNU1aSkZqekJ6Y1J1aTJyWDFvZnhkd2EwNFl3bzhHNGdvS0tGQQ?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260806T104800Z",
           "pinned": false
         },
         {
@@ -465,11 +441,27 @@
           "pinned": false
         },
         {
+          "title": "War and accumulating sand threaten Sudan’s Meroe pyramids, in photos",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNXBKdnU1T3BOSmRFZ0hKYzlucmh2NHVoV21TOXJ4ckh3WTlmODJxTkI1aWtkV0ZYUTNjZTdlOWxzZWVwa0FXNWMzQkloV1FMdHkxNlNTZjB4THRTRDREWi0xUjl4THM3LVRFcnZBMllNak9xMElEejFMSi1aSks3aVByNU1aSkZqekJ6Y1J1aTJyWDFvZnhkd2EwNFl3bzhHNGdvS0tGQQ?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260806T104800Z",
+          "pinned": false
+        },
+        {
           "title": "UN chief condemns both Ukraine and Russia amid escalation in war",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ0JTZjl2dHZoVFVod1NhTnVQNjRDeEIxQkUzUlk1TGYxLU5aYk9iQkJwa3hteWR5WWdfSmFsNGxxRVJwTVNFNVdfZVpNeHhxU3NlVDdFWkZaemwyNDRLdkN4eUZNVzVpS2dzU2JZcmhtVzlTdFNlVnNlQTFkYWhsMTBGTUNFbndwTmFFV1Q3cDBfVjlhOXdvRHVTN0ZxcVdEckp6c2tIMy1TQjRDQWlvU09VTFLSAboBQVVfeXFMT2l5RTZfXzlhQmV0UjFEc3VRZVFDejZmN1R3YnI4bFNmLTRVd1hVcVp6cHFna0tYd3NhSk5iMTNSMGMwT3R5UWRaX3ctVldkT0ZLaU5ETkVNbHRwdGFsa3h0Q1FqMEg2VzhhRnZzZUlBMlRxM0FiS0N1YldlQmNMbk05cXZQTzJKbUxXUlVESjdDQUxjNnFEbXh0YkZWWHhIbGtUX0J2clhseFJMQ1hxTlFyOXlGUmhRYjZ3?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260807T124259Z",
+          "pinned": false
+        },
+        {
+          "title": "Israel prepares for possible unilateral strikes on Iran: Israeli media",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORnBwMDd2NXlSclA4SjZxUzNxckZMVFRHckt1X25YRnlMaWxhVEJsUU9QUU1aNkhnc3o5RmVMUXJQRmFMRWFVSHVZVzhwbWpFM3RGdlRtN3R6RUFqdF9uYVVsTjlkaEJVeHA5ZXh5bnl2V0VZYkYtOXhJVFN2Q0VWcEtYaWNiQXhTMHZoc3lXbDIxdU1wNzh1azM3S0NrdnBSLTh5ZHlScmRfazkxM0FtblVNaTE?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20260808T224001Z",
           "pinned": false
         },
         {
@@ -497,11 +489,11 @@
           "pinned": false
         },
         {
-          "title": "Why are US Republicans losing faith in War Secretary Pete Hegseth?",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcnFQM1ZJVEFQNllwWFA5Tk5UV0xFdWx2Vm95LXI2ODFoRzZZYU5FMURaRm1ZV0tpeGpYVENlSHJvOWhQLVAwODY0YmFyMlRYdzVxaUNJMkJ6b0tSMjh1UGtYT2tadENlTDNLUDJXd2FubVc5Z0ZqT0ZOVm5fRHJXd1ZNM1NGVFUtUFJQUk5ZZk5jMkUtVVJmdmd0N201MVpvakE2X1VoeEnSAa4BQVVfeXFMUDJVMlVtU05HcFA5dC1OU3dxMk5HV2FGQnJJREM4VHRzS0JmZjJKdDZoUkFxanhSVHM5LUsxejlqZGtqS1NBOHpxeXdHNGJPZ0FxaEZrRVRGQkNHZENfeU5kRkFPLWpKNzE3bDdfZDZESTFBdDlhQmxiSW04OVRtUUx4TXd3bFE0anp6M2xyd3RXLWVJMUllQi1wOUg3d3g5UEI1cDdmT19GZ0JQdGF3?oc=5",
+          "title": "Iraq’s Kurdish region wants to stay out of regional conflicts: PM Barzani",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObjdZTVQ3OTl6TWtHWXFmYTg2QW5NZFFoM1ZuWHdtb0ZsZVhCQTR5eG45a3Vncld5MEJaS2hkNElVX1lsNERVMllxNE1XV1IwQWhLR3NtU0F4QmJseUJHMnJkZkZYVVpQMWZjeHRNY05YaGk3T2h6OWZxYmpzTHFBVnlTRTFxcTJtS1ZoaVRvVzVVRXA3VmRnLUdOV0Nfai1PNlo3dXc3dW5tSUhZODZCYtIBtgFBVV95cUxNd3BkU05peUh0czFnck5wM0U4ODM2a05EU3l5LVZTSzYxalFyN1RndWNHd3VMRTRjSjgyTHdlNkx4UE1nZUxmYkNERTlpXzExMjluaS1rRnMtMHduRHBTNERxaXdXSzFpTWxrVl9MVG1ZWVowVmpnMzUxTkgtSzN2dnVQaHJtLW9XdUZmdW9rQldkX1hTbUdUSDVMa1l6RVVtM3RHVXhfaDU4dVlPMlRSVjVkQTVqZw?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260805T135551Z",
+          "seen": "20260808T151349Z",
           "pinned": false
         },
         {
@@ -510,14 +502,6 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260808T130054Z",
-          "pinned": false
-        },
-        {
-          "title": "Iraq’s Kurdish region wants to stay out of regional conflicts: PM Barzani",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObjdZTVQ3OTl6TWtHWXFmYTg2QW5NZFFoM1ZuWHdtb0ZsZVhCQTR5eG45a3Vncld5MEJaS2hkNElVX1lsNERVMllxNE1XV1IwQWhLR3NtU0F4QmJseUJHMnJkZkZYVVpQMWZjeHRNY05YaGk3T2h6OWZxYmpzTHFBVnlTRTFxcTJtS1ZoaVRvVzVVRXA3VmRnLUdOV0Nfai1PNlo3dXc3dW5tSUhZODZCYtIBtgFBVV95cUxNd3BkU05peUh0czFnck5wM0U4ODM2a05EU3l5LVZTSzYxalFyN1RndWNHd3VMRTRjSjgyTHdlNkx4UE1nZUxmYkNERTlpXzExMjluaS1rRnMtMHduRHBTNERxaXdXSzFpTWxrVl9MVG1ZWVowVmpnMzUxTkgtSzN2dnVQaHJtLW9XdUZmdW9rQldkX1hTbUdUSDVMa1l6RVVtM3RHVXhfaDU4dVlPMlRSVjVkQTVqZw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260808T151349Z",
           "pinned": false
         },
         {
@@ -561,19 +545,19 @@
           "pinned": false
         },
         {
-          "title": "War on Iran: US-Iran deal edges closer",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRzFab0tRUHUtYW1Ob2VJMXpqcGlBQXdaWkduZmYtMWIzX1JSNEM1aUxFX0JLbFFDRFdxNDZvaWl1a1p5Z2laSmdId01BcmV2bW4yOHZZZU1udEo4ZzlJUHFfWVhyXzhxZjFDanFlQ0F2SGg4dG9fWFV6eDd5RnEtT1lVaFRWYWRCUUJWQjdORXfSAZYBQVVfeXFMTUl0WlAzYzJpN1Btb1BWUGhCOUtuc2hzU2F3eXE2LTRvemx5VXFRQWlCb212ck1EenVaWDZ4V2RvanVPVHR0OG5NeGdONEZxaXdQSnBJaVhCWUZOU3ZLYU8xMkZjMHJfUWNFdWtJZUZ1UnhhYkJ0MF9yTHFOc19Jb2hxTkZxd1JPcTNqLXVxUzBMWW45cGh3?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260805T153735Z",
-          "pinned": false
-        },
-        {
           "title": "Could the Iran war derail Donald Trump’s legacy?",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNT0VvNkpuVlZaMXJneE94UGRrTWt3OHB3dnFJLWM2dkxkVlVsdVdUVlhDQW9zMGZpQS0wNm1nUU03ZzhSU1Ayd0NiNlVZY0N4VG9jVTRCRmJGMks0YUphQU9XR1ZsSk9oQlRvVU44ZHUxYVNMRFkwai15ZVN4WTFMRkY4WDdYZTdBeXEtS2cwTEpzMVJjd0hWWXVVMVjSAaIBQVVfeXFMTUZqVXNpS2dBNVJwclMxTFlwTnR6NzlJSllZQ01PaVgwWG9NcTY5OEI2QTYwVGRHTjMwZTlXMG5Qbzk2amRKaUp3LXBvRXYwdDNwLWZkaERqMF91YzdKRWRUVG9LMzhCR1YtTTEtYTJvOEczUVhlZEVqZnFoNFYtWnZOM19UQVdnc0hJZFZSTmQxRWNkZnpSYXFvc0swZV9KOElR?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260806T034737Z",
+          "pinned": false
+        },
+        {
+          "title": "How Ukraine is taking the war 'deeper' into Russia",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1KNFcxc1g1RUxmVGxoa2FaMTlRV3AzWEpRQlUteERBU25jUFFwM0JtSEg5NnJCN092QmNFeWZQa1E2N0JlRUJPbU5IdGl4dzU2eUFUZDdEUQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260806T175111Z",
           "pinned": false
         },
         {
@@ -585,19 +569,19 @@
           "pinned": false
         },
         {
-          "title": "The old pact between Israel’s government and military has broken down",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeUphQ0U1ei1GTG1sdGNxVHdMVDdMcktoODZhcWU4Y3A1QWVCLVRweFJRbHFwanpDcFhZSUVNSUgzUFhoQjVOeFpHOEdJUUtBcHJNb3Q1cEJ1N1YzV0lFbGJUbUswN3l3cGlFczIwTmZONnJnbFVmUUVxTUJyWGVydlZRcldMa2xzcGw1ZGh4RDAwaXkxRzE4UVJ4ODRkMk5BR0Ntd2twOEVLM096YU1nd3JR0gG3AUFVX3lxTE5EYmZ3TEx6a0NMbzQyLUpRcXdGdm1JaFF3a2NYdUpiczhiMkRPQ1BkVHJiMkZuOXY4Qzdzdi1wTEhaWkQwdzJJcjQ0dHVxcU1jdG1haWlLUGtUaFU0NVhtMFA2RzlzT1ctcnc1NzNiZmJNWUM4MnFmU1ROaWtEYjFCMFBsZmo0V2pxZTlXemJ0VDVQMk5KMlZWTURYaEFyWTVvVC1EMFhXTnpiTUg0Z2dWdzNXeTBiYw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260806T131937Z",
-          "pinned": false
-        },
-        {
           "title": "Drones spotted in Bulgaria and Germany raise concerns about Russian escalation",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWGN3STBkTXUwR3NXZDN3TzJEcjJXR29rZDFJNW1LS1V6WVdZenh1SzQtTjZTOEhtNk8wTUotSmFPN2ZqRTR6ZEhwSTZ0dDFxUEhZQkVFVFg2YVZTQzY2RzJoTFBWcVVQQjRPeUVCaHdSem1lclJYeTNTZVY3SFp6X2hRRzFDMFVxTWxlYmN0N1RqWFVZZEVZMTBSdTBNWGVwY0ZrNk9NY3pXbjYtc3RTenYxYmVZUdIBuwFBVV95cUxOZGIwWXdiTmNOSy1MMXBBWUFLd1JWS0tmUmNyWk9UNHZ4bmRuZW15TU83NDBtQkxBQU1Qa2dDN0xyS1V0QVFzWmJlSm9MN0lGTG5IZndpMjlxZGJyallKVkZSem0tV1h4X2M5M2E0bjc2Vm85V0Q3Sm5yYTBTUnh4VHBJcEV4S0JhQUJTTGJVenBwT0VzR3hMVGtsT2E3bXhaRllsY1lBWlRjVkFSWU0xeUswZnVoTGFVR3JN?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260808T163054Z",
+          "pinned": false
+        },
+        {
+          "title": "The old pact between Israel’s government and military has broken down",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeUphQ0U1ei1GTG1sdGNxVHdMVDdMcktoODZhcWU4Y3A1QWVCLVRweFJRbHFwanpDcFhZSUVNSUgzUFhoQjVOeFpHOEdJUUtBcHJNb3Q1cEJ1N1YzV0lFbGJUbUswN3l3cGlFczIwTmZONnJnbFVmUUVxTUJyWGVydlZRcldMa2xzcGw1ZGh4RDAwaXkxRzE4UVJ4ODRkMk5BR0Ntd2twOEVLM096YU1nd3JR0gG3AUFVX3lxTE5EYmZ3TEx6a0NMbzQyLUpRcXdGdm1JaFF3a2NYdUpiczhiMkRPQ1BkVHJiMkZuOXY4Qzdzdi1wTEhaWkQwdzJJcjQ0dHVxcU1jdG1haWlLUGtUaFU0NVhtMFA2RzlzT1ctcnc1NzNiZmJNWUM4MnFmU1ROaWtEYjFCMFBsZmo0V2pxZTlXemJ0VDVQMk5KMlZWTURYaEFyWTVvVC1EMFhXTnpiTUg0Z2dWdzNXeTBiYw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260806T131937Z",
           "pinned": false
         },
         {
@@ -615,18 +599,25 @@
           "sourceTier": "Independent reporting",
           "seen": "20260806T181400Z",
           "pinned": false
+        },
+        {
+          "title": "Several killed in attacks on Ukraine as Kyiv hits Russian e-commerce giant",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNakhfdklfYWJiVFZtMWZiMWp5dXZUOEtaaTdndFM0RWIyYVF5Q19NQ243bk5uUDFPQ2p2bllmek1EQXlNMzg2S2RpaUhSdVpFN3lEUGhDSTZ3X3RNV296SnF2WnB2dlFFSGZqMjQwekM1T1Rzd1hOMEZvenNKVlZ6dl9PX2Y0eXJFWGVPdDJfVGpkS0FLMnFfNkctV0dhZ25hbnZfZ1lMVTEyRWZxSFl0dElEU1bSAboBQVVfeXFMUHAzbDdNNHJocnpfemtLeE9ZYlAyNGV4WFlYWjROX0FnUFNPN0V3Q3hHdHA4MjRHOENueXptbUhicDhjNzZ1UHVRMTBUX2h3RDN5REpPVURwTnJOZEE0VHdLbDYzUldQVDQ0bko1Z3l6Z1hkX1lWcF85YUVNZnVkZ0ZuVDZiWFZSSFhkS2preWRXUE1fZzJ1amhPeEZOZGJvYV9Rd3R3SGNULTV3RFNxZWZEc3pmVUZqUzZR?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260806T070000Z",
+          "pinned": false
+        },
+        {
+          "title": "Rights groups call Israel’s killing of journalist Amal Khalil a ‘war crime’",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdDZYbF92V2ZYTW1LeEJpb1B2bXJ0MV9ZcVIxSUFMVXJrWloxS0EwSUhoMlNPWVY0dFpNTXpxM21GaVpmSS1IUGVUa3VtejdUU0MzZktvdEpJZGw1My1KRDc1NFFyclZKRDZBYWNGbkZ6ZmZtZGN0UGV1dU5nbl9uZXlzWFdUZmxrOU15Q3dZd3RqdzlLTFgzNHV5MGNacTl6V0ZGTWtsLWlTS3VHcVl3VFhB0gG3AUFVX3lxTFBCTEp2U01VWHQ0N2ZGQUVrcE1jVFVHWWwwNkxaaFpQV0IzMHAzeE1ZaWJFZGh3SEpSWEQxMWxwOXJLSEpRaUFzVHRiS0h6c2Q0T3lxZExDU3V5UzdTXzNKX3hqWEhuLWpMM3NFaVgwS1dYVDM2aFhJczVwX25FaExtZko3UVVWX0gwWFUzODJsZ3dnZkNLMzMybmhUTWV2S0NldDFYaHJXUi1XaFJuZHhWVzZ2U1NDdw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260806T144304Z",
+          "pinned": false
         }
       ],
       "reports": [
-        {
-          "id": "report-dcba5494530a",
-          "title": "'Profits of war' and 'Super-rain'",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rSV9zb0x5Tmd0U3hUT2R4SlZzeUVJWERra1hRTnpQWi1nUEpZSkpqdHd6eFdadUNKT2FHaWVDR0pRRVA4TkhDSTBabGI3dmstV01PNkRqamtRQQ?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-05T03:45:42Z"
-        },
         {
           "id": "report-52e24d54acf2",
           "title": "Will the US-Iran war and Hormuz deadlock last for months?",
@@ -635,24 +626,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-06T13:33:05Z"
-        },
-        {
-          "id": "report-94db5ee7abf1",
-          "title": "In Bandar Abbas, the ceasefire never came",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZjN1ejc2RTFDVWZHRXB1LVZVdWZsUWU1MEVtZXFYSEN2VkdWakh3Q000RWF5c2dDNnNkaU5vMUF6MzhCeEh1QXU5V1JVSUdoS2s1WkN5bWp0V2poRjMtX3FtYzlSTDZ4SFdKYVo5Wmg1UG1yYnJ0Y1NQQmpMTmlvSXBHZzhJUHlEVmVGSNIBkgFBVV95cUxNa0lVQk4taGZGZmZ2cktGeFFTWVhNTGp1WXZJSzQtd2VNWnlPQ1ZCLWRSSm5tWHM4RzdfelFtRXdvMUFabDFkWVhBbjM5bVhhZ0kxeEozS25iZndfQ0VmYmtYWExvNTdkcXh3NFFXMmx6YVRtTDFzeHQxYW12QWIxZUVMZHl0Rml6VFA1UkNJWDhsQQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-05T12:18:16Z"
-        },
-        {
-          "id": "report-c6e558799f80",
-          "title": "War and accumulating sand threaten Sudan’s Meroe pyramids, in photos",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNXBKdnU1T3BOSmRFZ0hKYzlucmh2NHVoV21TOXJ4ckh3WTlmODJxTkI1aWtkV0ZYUTNjZTdlOWxzZWVwa0FXNWMzQkloV1FMdHkxNlNTZjB4THRTRDREWi0xUjl4THM3LVRFcnZBMllNak9xMElEejFMSi1aSks3aVByNU1aSkZqekJ6Y1J1aTJyWDFvZnhkd2EwNFl3bzhHNGdvS0tGQQ?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-06T10:48:00Z"
         },
         {
           "id": "report-08b2b0726d32",
@@ -664,6 +637,15 @@
           "reportedAt": "2026-08-07T11:19:32Z"
         },
         {
+          "id": "report-c6e558799f80",
+          "title": "War and accumulating sand threaten Sudan’s Meroe pyramids, in photos",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNXBKdnU1T3BOSmRFZ0hKYzlucmh2NHVoV21TOXJ4ckh3WTlmODJxTkI1aWtkV0ZYUTNjZTdlOWxzZWVwa0FXNWMzQkloV1FMdHkxNlNTZjB4THRTRDREWi0xUjl4THM3LVRFcnZBMllNak9xMElEejFMSi1aSks3aVByNU1aSkZqekJ6Y1J1aTJyWDFvZnhkd2EwNFl3bzhHNGdvS0tGQQ?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-06T10:48:00Z"
+        },
+        {
           "id": "report-d083776995f6",
           "title": "UN chief condemns both Ukraine and Russia amid escalation in war",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ0JTZjl2dHZoVFVod1NhTnVQNjRDeEIxQkUzUlk1TGYxLU5aYk9iQkJwa3hteWR5WWdfSmFsNGxxRVJwTVNFNVdfZVpNeHhxU3NlVDdFWkZaemwyNDRLdkN4eUZNVzVpS2dzU2JZcmhtVzlTdFNlVnNlQTFkYWhsMTBGTUNFbndwTmFFV1Q3cDBfVjlhOXdvRHVTN0ZxcVdEckp6c2tIMy1TQjRDQWlvU09VTFLSAboBQVVfeXFMT2l5RTZfXzlhQmV0UjFEc3VRZVFDejZmN1R3YnI4bFNmLTRVd1hVcVp6cHFna0tYd3NhSk5iMTNSMGMwT3R5UWRaX3ctVldkT0ZLaU5ETkVNbHRwdGFsa3h0Q1FqMEg2VzhhRnZzZUlBMlRxM0FiS0N1YldlQmNMbk05cXZQTzJKbUxXUlVESjdDQUxjNnFEbXh0YkZWWHhIbGtUX0J2clhseFJMQ1hxTlFyOXlGUmhRYjZ3?oc=5",
@@ -671,6 +653,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-07T12:42:59Z"
+        },
+        {
+          "id": "report-254f1050aac5",
+          "title": "Israel prepares for possible unilateral strikes on Iran: Israeli media",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORnBwMDd2NXlSclA4SjZxUzNxckZMVFRHckt1X25YRnlMaWxhVEJsUU9QUU1aNkhnc3o5RmVMUXJQRmFMRWFVSHVZVzhwbWpFM3RGdlRtN3R6RUFqdF9uYVVsTjlkaEJVeHA5ZXh5bnl2V0VZYkYtOXhJVFN2Q0VWcEtYaWNiQXhTMHZoc3lXbDIxdU1wNzh1azM3S0NrdnBSLTh5ZHlScmRfazkxM0FtblVNaTE?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-08-08T22:40:01Z"
         },
         {
           "id": "report-de22ac8a75f5",
@@ -700,13 +691,13 @@
           "reportedAt": "2026-08-06T13:31:34Z"
         },
         {
-          "id": "report-532672f563a3",
-          "title": "Why are US Republicans losing faith in War Secretary Pete Hegseth?",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcnFQM1ZJVEFQNllwWFA5Tk5UV0xFdWx2Vm95LXI2ODFoRzZZYU5FMURaRm1ZV0tpeGpYVENlSHJvOWhQLVAwODY0YmFyMlRYdzVxaUNJMkJ6b0tSMjh1UGtYT2tadENlTDNLUDJXd2FubVc5Z0ZqT0ZOVm5fRHJXd1ZNM1NGVFUtUFJQUk5ZZk5jMkUtVVJmdmd0N201MVpvakE2X1VoeEnSAa4BQVVfeXFMUDJVMlVtU05HcFA5dC1OU3dxMk5HV2FGQnJJREM4VHRzS0JmZjJKdDZoUkFxanhSVHM5LUsxejlqZGtqS1NBOHpxeXdHNGJPZ0FxaEZrRVRGQkNHZENfeU5kRkFPLWpKNzE3bDdfZDZESTFBdDlhQmxiSW04OVRtUUx4TXd3bFE0anp6M2xyd3RXLWVJMUllQi1wOUg3d3g5UEI1cDdmT19GZ0JQdGF3?oc=5",
+          "id": "report-439e5d8ab644",
+          "title": "Iraq’s Kurdish region wants to stay out of regional conflicts: PM Barzani",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObjdZTVQ3OTl6TWtHWXFmYTg2QW5NZFFoM1ZuWHdtb0ZsZVhCQTR5eG45a3Vncld5MEJaS2hkNElVX1lsNERVMllxNE1XV1IwQWhLR3NtU0F4QmJseUJHMnJkZkZYVVpQMWZjeHRNY05YaGk3T2h6OWZxYmpzTHFBVnlTRTFxcTJtS1ZoaVRvVzVVRXA3VmRnLUdOV0Nfai1PNlo3dXc3dW5tSUhZODZCYtIBtgFBVV95cUxNd3BkU05peUh0czFnck5wM0U4ODM2a05EU3l5LVZTSzYxalFyN1RndWNHd3VMRTRjSjgyTHdlNkx4UE1nZUxmYkNERTlpXzExMjluaS1rRnMtMHduRHBTNERxaXdXSzFpTWxrVl9MVG1ZWVowVmpnMzUxTkgtSzN2dnVQaHJtLW9XdUZmdW9rQldkX1hTbUdUSDVMa1l6RVVtM3RHVXhfaDU4dVlPMlRSVjVkQTVqZw?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-05T13:55:51Z"
+          "reportedAt": "2026-08-08T15:13:49Z"
         },
         {
           "id": "report-1b7bba276ab8",
@@ -716,15 +707,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-08T13:00:54Z"
-        },
-        {
-          "id": "report-439e5d8ab644",
-          "title": "Iraq’s Kurdish region wants to stay out of regional conflicts: PM Barzani",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObjdZTVQ3OTl6TWtHWXFmYTg2QW5NZFFoM1ZuWHdtb0ZsZVhCQTR5eG45a3Vncld5MEJaS2hkNElVX1lsNERVMllxNE1XV1IwQWhLR3NtU0F4QmJseUJHMnJkZkZYVVpQMWZjeHRNY05YaGk3T2h6OWZxYmpzTHFBVnlTRTFxcTJtS1ZoaVRvVzVVRXA3VmRnLUdOV0Nfai1PNlo3dXc3dW5tSUhZODZCYtIBtgFBVV95cUxNd3BkU05peUh0czFnck5wM0U4ODM2a05EU3l5LVZTSzYxalFyN1RndWNHd3VMRTRjSjgyTHdlNkx4UE1nZUxmYkNERTlpXzExMjluaS1rRnMtMHduRHBTNERxaXdXSzFpTWxrVl9MVG1ZWVowVmpnMzUxTkgtSzN2dnVQaHJtLW9XdUZmdW9rQldkX1hTbUdUSDVMa1l6RVVtM3RHVXhfaDU4dVlPMlRSVjVkQTVqZw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-08T15:13:49Z"
         },
         {
           "id": "report-69e4d6034ccf",
@@ -772,15 +754,6 @@
           "reportedAt": "2026-08-07T10:56:39Z"
         },
         {
-          "id": "report-15e9a7edd722",
-          "title": "War on Iran: US-Iran deal edges closer",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRzFab0tRUHUtYW1Ob2VJMXpqcGlBQXdaWkduZmYtMWIzX1JSNEM1aUxFX0JLbFFDRFdxNDZvaWl1a1p5Z2laSmdId01BcmV2bW4yOHZZZU1udEo4ZzlJUHFfWVhyXzhxZjFDanFlQ0F2SGg4dG9fWFV6eDd5RnEtT1lVaFRWYWRCUUJWQjdORXfSAZYBQVVfeXFMTUl0WlAzYzJpN1Btb1BWUGhCOUtuc2hzU2F3eXE2LTRvemx5VXFRQWlCb212ck1EenVaWDZ4V2RvanVPVHR0OG5NeGdONEZxaXdQSnBJaVhCWUZOU3ZLYU8xMkZjMHJfUWNFdWtJZUZ1UnhhYkJ0MF9yTHFOc19Jb2hxTkZxd1JPcTNqLXVxUzBMWW45cGh3?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-05T15:37:35Z"
-        },
-        {
           "id": "report-8d6e22cedc62",
           "title": "Could the Iran war derail Donald Trump’s legacy?",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNT0VvNkpuVlZaMXJneE94UGRrTWt3OHB3dnFJLWM2dkxkVlVsdVdUVlhDQW9zMGZpQS0wNm1nUU03ZzhSU1Ayd0NiNlVZY0N4VG9jVTRCRmJGMks0YUphQU9XR1ZsSk9oQlRvVU44ZHUxYVNMRFkwai15ZVN4WTFMRkY4WDdYZTdBeXEtS2cwTEpzMVJjd0hWWXVVMVjSAaIBQVVfeXFMTUZqVXNpS2dBNVJwclMxTFlwTnR6NzlJSllZQ01PaVgwWG9NcTY5OEI2QTYwVGRHTjMwZTlXMG5Qbzk2amRKaUp3LXBvRXYwdDNwLWZkaERqMF91YzdKRWRUVG9LMzhCR1YtTTEtYTJvOEczUVhlZEVqZnFoNFYtWnZOM19UQVdnc0hJZFZSTmQxRWNkZnpSYXFvc0swZV9KOElR?oc=5",
@@ -788,6 +761,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-06T03:47:37Z"
+        },
+        {
+          "id": "report-c7715a8deca6",
+          "title": "How Ukraine is taking the war 'deeper' into Russia",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1KNFcxc1g1RUxmVGxoa2FaMTlRV3AzWEpRQlUteERBU25jUFFwM0JtSEg5NnJCN092QmNFeWZQa1E2N0JlRUJPbU5IdGl4dzU2eUFUZDdEUQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-06T17:51:11Z"
         },
         {
           "id": "report-198134b457fd",
@@ -799,15 +781,6 @@
           "reportedAt": "2026-08-06T19:38:52Z"
         },
         {
-          "id": "report-08edca943e01",
-          "title": "The old pact between Israel’s government and military has broken down",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeUphQ0U1ei1GTG1sdGNxVHdMVDdMcktoODZhcWU4Y3A1QWVCLVRweFJRbHFwanpDcFhZSUVNSUgzUFhoQjVOeFpHOEdJUUtBcHJNb3Q1cEJ1N1YzV0lFbGJUbUswN3l3cGlFczIwTmZONnJnbFVmUUVxTUJyWGVydlZRcldMa2xzcGw1ZGh4RDAwaXkxRzE4UVJ4ODRkMk5BR0Ntd2twOEVLM096YU1nd3JR0gG3AUFVX3lxTE5EYmZ3TEx6a0NMbzQyLUpRcXdGdm1JaFF3a2NYdUpiczhiMkRPQ1BkVHJiMkZuOXY4Qzdzdi1wTEhaWkQwdzJJcjQ0dHVxcU1jdG1haWlLUGtUaFU0NVhtMFA2RzlzT1ctcnc1NzNiZmJNWUM4MnFmU1ROaWtEYjFCMFBsZmo0V2pxZTlXemJ0VDVQMk5KMlZWTURYaEFyWTVvVC1EMFhXTnpiTUg0Z2dWdzNXeTBiYw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-06T13:19:37Z"
-        },
-        {
           "id": "report-cdeab4f938c0",
           "title": "Drones spotted in Bulgaria and Germany raise concerns about Russian escalation",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWGN3STBkTXUwR3NXZDN3TzJEcjJXR29rZDFJNW1LS1V6WVdZenh1SzQtTjZTOEhtNk8wTUotSmFPN2ZqRTR6ZEhwSTZ0dDFxUEhZQkVFVFg2YVZTQzY2RzJoTFBWcVVQQjRPeUVCaHdSem1lclJYeTNTZVY3SFp6X2hRRzFDMFVxTWxlYmN0N1RqWFVZZEVZMTBSdTBNWGVwY0ZrNk9NY3pXbjYtc3RTenYxYmVZUdIBuwFBVV95cUxOZGIwWXdiTmNOSy1MMXBBWUFLd1JWS0tmUmNyWk9UNHZ4bmRuZW15TU83NDBtQkxBQU1Qa2dDN0xyS1V0QVFzWmJlSm9MN0lGTG5IZndpMjlxZGJyallKVkZSem0tV1h4X2M5M2E0bjc2Vm85V0Q3Sm5yYTBTUnh4VHBJcEV4S0JhQUJTTGJVenBwT0VzR3hMVGtsT2E3bXhaRllsY1lBWlRjVkFSWU0xeUswZnVoTGFVR3JN?oc=5",
@@ -815,6 +788,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-08T16:30:54Z"
+        },
+        {
+          "id": "report-08edca943e01",
+          "title": "The old pact between Israel’s government and military has broken down",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeUphQ0U1ei1GTG1sdGNxVHdMVDdMcktoODZhcWU4Y3A1QWVCLVRweFJRbHFwanpDcFhZSUVNSUgzUFhoQjVOeFpHOEdJUUtBcHJNb3Q1cEJ1N1YzV0lFbGJUbUswN3l3cGlFczIwTmZONnJnbFVmUUVxTUJyWGVydlZRcldMa2xzcGw1ZGh4RDAwaXkxRzE4UVJ4ODRkMk5BR0Ntd2twOEVLM096YU1nd3JR0gG3AUFVX3lxTE5EYmZ3TEx6a0NMbzQyLUpRcXdGdm1JaFF3a2NYdUpiczhiMkRPQ1BkVHJiMkZuOXY4Qzdzdi1wTEhaWkQwdzJJcjQ0dHVxcU1jdG1haWlLUGtUaFU0NVhtMFA2RzlzT1ctcnc1NzNiZmJNWUM4MnFmU1ROaWtEYjFCMFBsZmo0V2pxZTlXemJ0VDVQMk5KMlZWTURYaEFyWTVvVC1EMFhXTnpiTUg0Z2dWdzNXeTBiYw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-06T13:19:37Z"
         },
         {
           "id": "report-d3865ff13cdc",
@@ -833,6 +815,24 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-06T18:14:00Z"
+        },
+        {
+          "id": "report-75d962f88071",
+          "title": "Several killed in attacks on Ukraine as Kyiv hits Russian e-commerce giant",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNakhfdklfYWJiVFZtMWZiMWp5dXZUOEtaaTdndFM0RWIyYVF5Q19NQ243bk5uUDFPQ2p2bllmek1EQXlNMzg2S2RpaUhSdVpFN3lEUGhDSTZ3X3RNV296SnF2WnB2dlFFSGZqMjQwekM1T1Rzd1hOMEZvenNKVlZ6dl9PX2Y0eXJFWGVPdDJfVGpkS0FLMnFfNkctV0dhZ25hbnZfZ1lMVTEyRWZxSFl0dElEU1bSAboBQVVfeXFMUHAzbDdNNHJocnpfemtLeE9ZYlAyNGV4WFlYWjROX0FnUFNPN0V3Q3hHdHA4MjRHOENueXptbUhicDhjNzZ1UHVRMTBUX2h3RDN5REpPVURwTnJOZEE0VHdLbDYzUldQVDQ0bko1Z3l6Z1hkX1lWcF85YUVNZnVkZ0ZuVDZiWFZSSFhkS2preWRXUE1fZzJ1amhPeEZOZGJvYV9Rd3R3SGNULTV3RFNxZWZEc3pmVUZqUzZR?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-06T07:00:00Z"
+        },
+        {
+          "id": "report-3da669abdd12",
+          "title": "Rights groups call Israel’s killing of journalist Amal Khalil a ‘war crime’",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdDZYbF92V2ZYTW1LeEJpb1B2bXJ0MV9ZcVIxSUFMVXJrWloxS0EwSUhoMlNPWVY0dFpNTXpxM21GaVpmSS1IUGVUa3VtejdUU0MzZktvdEpJZGw1My1KRDc1NFFyclZKRDZBYWNGbkZ6ZmZtZGN0UGV1dU5nbl9uZXlzWFdUZmxrOU15Q3dZd3RqdzlLTFgzNHV5MGNacTl6V0ZGTWtsLWlTS3VHcVl3VFhB0gG3AUFVX3lxTFBCTEp2U01VWHQ0N2ZGQUVrcE1jVFVHWWwwNkxaaFpQV0IzMHAzeE1ZaWJFZGh3SEpSWEQxMWxwOXJLSEpRaUFzVHRiS0h6c2Q0T3lxZExDU3V5UzdTXzNKX3hqWEhuLWpMM3NFaVgwS1dYVDM2aFhJczVwX25FaExtZko3UVVWX0gwWFUzODJsZ3dnZkNLMzMybmhUTWV2S0NldDFYaHJXUi1XaFJuZHhWVzZ2U1NDdw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-06T14:43:04Z"
         },
         {
           "id": "report-dd2a1637dc48",
