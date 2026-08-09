@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-09T14:19:43.826Z",
+  "generatedAt": "2026-08-09T17:17:30.963Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -9,7 +9,7 @@
       "items": []
     },
     "safety": {
-      "generatedAt": "2026-08-07T18:12:01.976Z",
+      "generatedAt": "2026-08-09T17:17:30.963Z",
       "cadence": "daily",
       "items": [
         {
@@ -45,19 +45,19 @@
           "pinned": false
         },
         {
-          "title": "EXCLUSIVE: Jailed ex-US Marine may be near death in Russia, sister, advocacy groups say",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSWRhUUV5QVBtOWJSQng1SVlmbGJjTmVqWnJ5SGt5eXJXbGpnRGxFNm91ODJGS3NMZkRPeGZGLUNIWUFRVDlQd2UtMXdOdjg4Z1RJckN6UXNLQVVBU293cGRLdTVYTmRiOHBwZUlST2FpSFpOcEozcXB5UmU0LS1yMzd2dldISTQwcGNjZmFKTHgyQ25UWHhoTUFyNU1KRlFGSlpVSU10UXBITTkwNldLcDBRWld4UE0?oc=5",
-          "domain": "reuters.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260806T184948Z",
-          "pinned": false
-        },
-        {
           "title": "Marine F-35 involved in fiery mishap at Miramar base in California; pilot ejects safely",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQTY2THYtYXZSQXBMTlhtamlYSkRpSWlmNnFqd3JZWFIzd0lEaTlOTzNlRVRlUTZOdmcwYnNKN0NCUzFLZ1ZsRFduWW0xbWluTDcwZk5nSGVDMTJVTUdHbEFDWThrQy03c1RURmM4TFBZdzVfcHdTQUQwLUkwMEtldlhvTTg5XzJMUmFjamhIQmh5RnhMX1ZwY3FR?oc=5",
           "domain": "stripes.com",
           "sourceTier": "Independent reporting",
           "seen": "20260731T230359Z",
+          "pinned": false
+        },
+        {
+          "title": "PLR 26-054 – Automobile Mishap Claims One Soldier’s Life",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORHg1d0JDeHVsMVFkd3RBWTBLUXU0WTN3RnBJQy1iNmtwa184WTdaLW5XckNPZmVIYVBONlRSM0otSUllajFQMm8xa1prbHFtUnowTE9nM1haUW1pTURKUjBWb3J6RVNyTnRhX2Rra3FLODBnaHNCWTJfVGdtNDBEa0dZYzlBLWptZkwzSE4wVUxUQW9BY0NuVGhQNkR5VjBQMHVnTEZaWnd5VkhycWk2R0NjUVdCYVlkWDFvcEpNQjc3NllPcWE3ZzNIRVZncDBsVmlLLTd3S29xcXNNTGNN?oc=5",
+          "domain": "safety.army.mil",
+          "sourceTier": "Official military source",
+          "seen": "20260806T070000Z",
           "pinned": false
         },
         {
@@ -77,23 +77,33 @@
           "pinned": false
         },
         {
-          "title": "PLR 26-050 – Automobile Mishap Claims One Soldier's Life",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZjJhVmhtaUpjaXRLQkhJaVdCTkRGVTBGbzhxdzBrYzByc2s5NTdhUkE0Ny04bUR2ZE40a19sRFhsQ0o4X3FJU3JjajAyUHc0UVZjek5mNGZDMWpyamF2Nm56YlV2SHFaTjB6dW42Z3FSSFBhY0hIdS0yQ3phQ3lVajJjbXBjb3VTa3ducllWNHcyYkdsQ1QyeWNlS1o5YWRlbFlnN1NEQlJlQkx0WmdKbllJY2RiSTdqUGZiQVZLV081MmtnbGs3bW1RbFJxQmpN?oc=5",
-          "domain": "safety.army.mil",
-          "sourceTier": "Official military source",
-          "seen": "20260714T220748Z",
-          "pinned": false
-        },
-        {
-          "title": "UPDATE: Coast Guard suspends search for overdue paddler near Pinole",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTkh3dWZnN1JqMTB2cjhCTC1yaEFJY0pmR0QtTkhZdGlYNkRDSDhCbUlGd1FmTFFSMzVvQkVwNUhyWnZraDhUWlFHTVZWRHowa1hzdTZyVFdpUnpUS2lCQXFEOF9lUnQ1a29Uc0M1dFptYzItRGpWblhJSWxNRUk3dFFsTlpfcWRCYS1seVBXVmk3YlkzZXZ3VWVxNy1HSHhvQnVmZU44WEt1ZEJ5eENJSU9lR0FrbzRCX2s0b1JKaXp3dw?oc=5",
+          "title": "Coast Guard Conducting Investigation to Fatal Incident near Liberty Island",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPR1BTQU9ETXY3djdvaDJZNTdhWkk0TFhiUUdQc1BBQ2R2bEtaRHFpTnF0RGJWSVhnZlBXUkFsQ0hKSDJLRE45emtlUEpjRlRBUHhYaHpLOEZZYUk3WWMxdHBMelFHRm1PMzhJeWVFUDd6UU5VN1k4cGphRkhiclZrUjZwMUVOdHJrM0lXTkpVQkdTTHBablBlWlhiVEpYRk5WLVhWcnBaQTdtUlljRkhxdXA0NmFtSk5fVG5jWF9IU3Y3OVB6cmdZblZ3RGo?oc=5",
           "domain": "news.uscg.mil",
           "sourceTier": "Official military source",
-          "seen": "20260709T070000Z",
+          "seen": "20260809T144832Z",
           "pinned": false
         }
       ],
       "incidents": [
+        {
+          "id": "auto-b659e6401b6e",
+          "reportDate": "2026-08-09",
+          "dateBasis": "report discovery date",
+          "branch": "Coast Guard",
+          "department": "Department of Homeland Security",
+          "type": "Other",
+          "event": "Coast Guard Conducting Investigation to Fatal Incident near Liberty Island",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "OFFICIAL INTAKE",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Official military source",
+          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
+          "source": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPR1BTQU9ETXY3djdvaDJZNTdhWkk0TFhiUUdQc1BBQ2R2bEtaRHFpTnF0RGJWSVhnZlBXUkFsQ0hKSDJLRE45emtlUEpjRlRBUHhYaHpLOEZZYUk3WWMxdHBMelFHRm1PMzhJeWVFUDd6UU5VN1k4cGphRkhiclZrUjZwMUVOdHJrM0lXTkpVQkdTTHBablBlWlhiVEpYRk5WLVhWcnBaQTdtUlljRkhxdXA0NmFtSk5fVG5jWF9IU3Y3OVB6cmdZblZ3RGo?oc=5",
+          "sourceLabel": "news.uscg.mil"
+        },
         {
           "id": "auto-1427960fe531",
           "reportDate": "2026-08-06",
@@ -111,6 +121,24 @@
           "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
           "source": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWlF2VnVUdWhBVDVXWjJOZEV1Y2ZKYmFYRXh4Z2daRHh5WnJfdlZkODlCWTRwaFc4dGx1enhnWU44NExiUlNyTnBZdTRKak9LMDZaOURZX3BpTnNBQTZfOVdtX3g1WDlBa3MzQXJtOW1IZVRaVl9TOTJZMjBIa045ZktuSzJUazhwNFBXMUtLVzNGTHJUNWxaVWxIeHU5X3d0czIzdE1hMi1MSjNuQW1NZkZUc2RNdWdrTHpWTDlaZ2I2cVZkQ0xB?oc=5",
           "sourceLabel": "reuters.com"
+        },
+        {
+          "id": "auto-83cbbea00d54",
+          "reportDate": "2026-08-06",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Other",
+          "event": "PLR 26-054 – Automobile Mishap Claims One Soldier’s Life",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "OFFICIAL INTAKE",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Official military source",
+          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
+          "source": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORHg1d0JDeHVsMVFkd3RBWTBLUXU0WTN3RnBJQy1iNmtwa184WTdaLW5XckNPZmVIYVBONlRSM0otSUllajFQMm8xa1prbHFtUnowTE9nM1haUW1pTURKUjBWb3J6RVNyTnRhX2Rra3FLODBnaHNCWTJfVGdtNDBEa0dZYzlBLWptZkwzSE4wVUxUQW9BY0NuVGhQNkR5VjBQMHVnTEZaWnd5VkhycWk2R0NjUVdCYVlkWDFvcEpNQjc3NllPcWE3ZzNIRVZncDBsVmlLLTd3S29xcXNNTGNN?oc=5",
+          "sourceLabel": "safety.army.mil"
         },
         {
           "id": "auto-01bbb6e7cc0a",
