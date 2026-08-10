@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-10T15:35:14.137Z",
+  "generatedAt": "2026-08-10T18:36:32.347Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -9,7 +9,7 @@
       "items": []
     },
     "safety": {
-      "generatedAt": "2026-08-09T17:54:43.140Z",
+      "generatedAt": "2026-08-10T18:36:32.347Z",
       "cadence": "daily",
       "items": [
         {
@@ -29,35 +29,11 @@
           "pinned": false
         },
         {
-          "title": "Navy suspends search after MH-60S helicopter mishap; one Sailor missing",
-          "url": "https://www.navy.mil/Press-Office/Statements/display-statement/Article/4533332/us-navy-suspended-active-search-for-a-sailor-assigned-to-helicopter-sea-combat/",
-          "domain": "navy.mil",
-          "sourceTier": "Official military source",
-          "seen": "20260705T150000Z",
-          "pinned": false
-        },
-        {
           "title": "Navy conducts safety review after Blue Angels low-altitude flyover",
           "url": "https://apnews.com/article/hegseth-blue-angels-military-flyovers-safety-c2601ce50f433996c919464f1de7985c",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "seen": "20260716T220900Z",
-          "pinned": false
-        },
-        {
-          "title": "USNS Mercy Sailors participate in crash and salvage drill [Image 8 of 8]",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMjJVcHZRenhUZmRWTmxTWXBhek41QWdlNmU4N2g5akdBTGxROVdfRHdVNDdNeDZDQ2Jib0Y2NXJVOHhYa2UtR1UzM0pmNzQyMXl3SnNDaEs0aFROS1hnblZMdUZlZTQtTXhTbEV4cGdXMHdvRWF3c3FiZDF5dkdNNVZIdzlCYVp3OGdZSVhEUGs5UHlYeURXVA?oc=5",
-          "domain": "dvidshub.net",
-          "sourceTier": "Official military source",
-          "seen": "20220828T070000Z",
-          "pinned": false
-        },
-        {
-          "title": "Two Chinese coast guard personnel marked as \"martyrs\" after South China Sea collision last year",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWlF2VnVUdWhBVDVXWjJOZEV1Y2ZKYmFYRXh4Z2daRHh5WnJfdlZkODlCWTRwaFc4dGx1enhnWU44NExiUlNyTnBZdTRKak9LMDZaOURZX3BpTnNBQTZfOVdtX3g1WDlBa3MzQXJtOW1IZVRaVl9TOTJZMjBIa045ZktuSzJUazhwNFBXMUtLVzNGTHJUNWxaVWxIeHU5X3d0czIzdE1hMi1MSjNuQW1NZkZUc2RNdWdrTHpWTDlaZ2I2cVZkQ0xB?oc=5",
-          "domain": "reuters.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260806T095400Z",
           "pinned": false
         },
         {
@@ -77,14 +53,6 @@
           "pinned": false
         },
         {
-          "title": "PLR 26-054 – Automobile Mishap Claims One Soldier’s Life",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORHg1d0JDeHVsMVFkd3RBWTBLUXU0WTN3RnBJQy1iNmtwa184WTdaLW5XckNPZmVIYVBONlRSM0otSUllajFQMm8xa1prbHFtUnowTE9nM1haUW1pTURKUjBWb3J6RVNyTnRhX2Rra3FLODBnaHNCWTJfVGdtNDBEa0dZYzlBLWptZkwzSE4wVUxUQW9BY0NuVGhQNkR5VjBQMHVnTEZaWnd5VkhycWk2R0NjUVdCYVlkWDFvcEpNQjc3NllPcWE3ZzNIRVZncDBsVmlLLTd3S29xcXNNTGNN?oc=5",
-          "domain": "safety.army.mil",
-          "sourceTier": "Official military source",
-          "seen": "20260806T070000Z",
-          "pinned": false
-        },
-        {
           "title": "PLR 26-051 – Motorcycle Mishap Claims One Soldier's Life",
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaVpiYzFyRVhaWHZuV2VuVzVoM050d0FnTzR1QVZlQnZkVE14WWpvQXZjY3BXMDF3SW1URFc0VC1DS1pHeWdXeDU3T2hHN1NuZjI0dXp4b1Z3STJlMEw4RFEtb05KeWxQWnpoV3JCYmR3U0dPVFJfQ0ZGTmdrX2ZtN2ZrdzdyTmRhZ1BGZ0JpX2NMTFYyNzhlUVV0dk9OczVQVlhjeUlYSFNUM1ZOSVUzWkpjQ2NKM2p1bUJNSWNWR0p6emt6VnhEYTJobHluaWlW?oc=5",
           "domain": "safety.army.mil",
@@ -101,75 +69,11 @@
           "pinned": false
         },
         {
-          "title": "Mishap Investigation Advice",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc19FY29CaU9ZS05HZ010VnR3R2FGa1JBMFZTb2tZdEJLZkpfRTRLdm9VdGEwallmUi14dGlYNC12dmhYU3ZxaXJrQWJBM25LdmxadFFOanlYUWhkZFhmVTF2NG5iTUtfNHVJaWpiRVZ6UmdoVkxxUlU4OFFVVG13UA?oc=5",
-          "domain": "safety.army.mil",
+          "title": "Coast Guard Conducting Investigation to Fatal Incident near Liberty Island",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPR1BTQU9ETXY3djdvaDJZNTdhWkk0TFhiUUdQc1BBQ2R2bEtaRHFpTnF0RGJWSVhnZlBXUkFsQ0hKSDJLRE45emtlUEpjRlRBUHhYaHpLOEZZYUk3WWMxdHBMelFHRm1PMzhJeWVFUDd6UU5VN1k4cGphRkhiclZrUjZwMUVOdHJrM0lXTkpVQkdTTHBablBlWlhiVEpYRk5WLVhWcnBaQTdtUlljRkhxdXA0NmFtSk5fVG5jWF9IU3Y3OVB6cmdZblZ3RGo?oc=5",
+          "domain": "news.uscg.mil",
           "sourceTier": "Official military source",
-          "seen": "20221207T215155Z",
-          "pinned": false
-        },
-        {
-          "title": "PLR 26-026 – Industrial/Occupational Mishap Claims One Soldier's Life",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVFBVWXBUbHd4ZjZrRUxIczczNkR4bVNBNGYxNElhdGU5WkRvaFJCMEQ0RFg0NXJCcUdiUkNZU3RCc3lJaDR1UWlDME1aOXBZNlFLY21IaGh4cmlJMTVzekVkN3VPcjdYcklvZjdsYmxLcEZZdF8zOFFQeEgwT0lXNDVLRE5semZ1cnE3dDBobmpWUWZ4TkZ2X1ZwYllMYlphbG5aLU1PTkpnZW0tbS1OQWEwQ0RiTUV1OG1ILVhfNnM1SUltUG5sYTBISFJtT0F5ZFRzaUdyZUdVQ09UY0lKTQ?oc=5",
-          "domain": "safety.army.mil",
-          "sourceTier": "Official military source",
-          "seen": "20260421T070000Z",
-          "pinned": false
-        },
-        {
-          "title": "Is It an Army Mishap?",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVENvcDNTNkJyUlB6MS1IalgxYTBIZXU5U2pzRFUtd2dybC0wQkttM0dhcEJHR0hHZXRRWWo0V19jWmtsUmhMU3NIOVlJbVc1elZpMXBNb0NSanZGTHE5ZS0xeVhuQ2tuLS03LWVsUU1uZ1BIV01UX1FISG1jNlNTUjNhdzBQaTZ2YUEydkl2eXRoQWlwQ2ttbUIyaUlnWVduOXVoQ1VoZnNveDB5djBtR3IxUEZ0aU1EUWZFM29uOFI5VVJ0aVJIVEpHamZ0QUlJNDBZ?oc=5",
-          "domain": "safety.army.mil",
-          "sourceTier": "Official military source",
-          "seen": "20260413T212558Z",
-          "pinned": false
-        },
-        {
-          "title": "8 US soldiers released from hospital after armored vehicle crash at Hohenfels",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOTViVVZJUGVFWGUtRmlLV2l6MmhlUkdfRHBad2JBQjVOV0hnTFp5Z19HS1lETWZpOVVLWDlXaHhNQUE1V203Q0RLZ1EyX2tZRGs5bk9LUEQ1bTc4UGp0WVdDWmF1cElIbUxiaERyYXRVd1ZlNExVYkJYendiZGdUYUY0SWMwendxYmhNell4dkZtdS1nRjdQeg?oc=5",
-          "domain": "stripes.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20230914T070000Z",
-          "pinned": false
-        },
-        {
-          "title": "PLR 25-080 – Weapons and Explosives Mishap Claims One Soldier's Life",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTWx6TjVfelZZNE5uTnpWYVZtUld5TWRTZHlKY1AtRDQ1T0RTelpaczR1S2R3YkdSbEQyMmlsT2hYajN2WE9laWp2Vi1CMS1oYWN6ZkZHeEJpblVEQVFCTmpxdmNBa0VwNEtmSjFrOGpSdXM0U2l6RmszVU01Ujk1bjNtYW9xM3VBd0o4WG9QajIxNENjYWFOek95dkUxQm1jdVlMTkJPWTkxVG9GWVlqQVpUYlc1R2ZNUFZTcEQzOE42WmdpOERvT1VtV2dXbTFxZ2NWcHpKUTgyLTJBc2g3cw?oc=5",
-          "domain": "safety.army.mil",
-          "sourceTier": "Official military source",
-          "seen": "20250814T070000Z",
-          "pinned": false
-        },
-        {
-          "title": "Was it Really an Accident?",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdHhIX0o1VkIycm1nVUMzUVVTTV82eWoyZDZuSzlPSG1QQ3VrSTVXc2ZtbkJOaVJGTGc2SkJQTnlDaEdVX2psQW1kMDhZVTlhQXNIeVY4QVp5cE03THBnQVNQQy1GUDlBaXlkcGZCM1VYN2dkTjBMUUhvOUN4RUtleEZuakpBMXZ0akktY0ZRSjVPQ1REZmp5ZkFrcDFQOUZDMVNPN0s5NjBGcXVFeE43SXk5WWcwbU5WdHFXOXc1eEx4M3lBaGtZZUNR?oc=5",
-          "domain": "safety.army.mil",
-          "sourceTier": "Official military source",
-          "seen": "20220302T080000Z",
-          "pinned": false
-        },
-        {
-          "title": "Weapons and Explosives Mishap Claims One Soldier’s Life",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMDJ0VUMwa1Q3VFM3WVdDVG9SRG9tSHJHM2x0NlZVb2ZLTml0YlFncVFXcmtIenQzS25NS3RWdUIyTWsxeUZNZWdyTExDTFhvRjJ6aE5QbWRFdGN3ODhiQXJ4ek5xMk1MVGp4MGZWV3dWRWp5R3dHZEdYbzdxVVlGWExFLWhKa2c?oc=5",
-          "domain": "safety.army.mil",
-          "sourceTier": "Official military source",
-          "seen": "20260522T141233Z",
-          "pinned": false
-        },
-        {
-          "title": "Mishap & Near Miss Reporting (MNMR) Frequently Asked Questions",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNZ281TEZrSDVQaXFqOE8tY3o4bjJGTWlWQXBaNWR6Y1JkRE5aanV0allhUDFaejZoV3dUdm45QUtCb29lazM3M0F0TWo1NlZ0U1lPeHlkSWYwLU5JNWk5a0U5VVFxZExEVXZreFRMX2pIM2VLNndmNy1oQ2tHM1pfWUZRWnFxZUljVzFvY0JnT0RfcVJEZUhSVzYxOTVyeUZSZS1ZdVVVLUV0eFpHd1BmZm1wWDBlMVQzZGZqVnBhLVRQN0UxZEMwLVFzdkFqd0VSLVdXZHE0emVhT1ZvUEtENmNoMnJUTDF1OEVXTlIyQ0JBQVU1cUUxU0RhWQ?oc=5",
-          "domain": "safety.army.mil",
-          "sourceTier": "Official military source",
-          "seen": "20241009T205027Z",
-          "pinned": false
-        },
-        {
-          "title": "F-16 makes emergency landing on Okinawa, report says, as Vermont F-35s arrive for duty",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQnhCLWFQN21UVWFLQk1lU2tZWmhBdXIyalBwMTRFQ1F1bFVmZDZLYU1SVnhRenVKcHdGS2RnNkxXRG9mcGZtWkdCMzQxdVlFUlhYNm1Qb3o1NUNqc3hvVUowUzFyMkF5Zlh5dXIzOWx1Rzh2cmRXRDBQa0tOTHdTdkc0azlQQ1VkLWEwQzJfMGV6STV0cnFjS2tEN2ZSWl9KMHF2SHhXbw?oc=5",
-          "domain": "stripes.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20250114T080000Z",
+          "seen": "20260809T144832Z",
           "pinned": false
         }
       ],
