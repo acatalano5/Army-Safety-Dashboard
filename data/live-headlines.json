@@ -1,12 +1,24 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-10T18:36:32.347Z",
+  "generatedAt": "2026-08-10T20:26:44.142Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-08-10T15:35:14.137Z",
+      "generatedAt": "2026-08-10T20:26:44.142Z",
       "cadence": "every 6 hours",
-      "items": []
+      "items": [
+        {
+          "title": "News - Marine Corps Integrates C-sUAS lanes Into Service Level Training Exercise",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPc2NwcXQyVzRxN2dTZmJzRnlFODByNWdST3Boek1najNLQ2JKMDJsRGwwZklEUWMzNzJwbXpQZ0xSQnFlNElIS0xxX2NtRzNIbGxERjlxakZWUVRoSlZJc213YkZueTZfSTJudjZqMjlfeTd3MTZLZW1XU0dRZGI3STFHTnZxTWo1Q2FwMWpieDcwSmdycTBsZkJjNkhZbXFUNmlmUW5hdE84eEFydEY4?oc=5",
+          "domain": "dvidshub.net",
+          "sourceTier": "Official military source",
+          "seen": "20260810T184000Z",
+          "pinned": false,
+          "components": [
+            "Component not specified"
+          ]
+        }
+      ]
     },
     "safety": {
       "generatedAt": "2026-08-10T18:36:32.347Z",
@@ -621,7 +633,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-08-10T15:35:14.137Z",
+      "generatedAt": "2026-08-10T20:26:44.142Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -677,7 +689,7 @@
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPS2hpbG04YURpX083TjZVR2tZZ1JEM1ZmR1dVeXdaQzBlZllZS2V5VzRwXzBocGRxaTc1QUtwWlJDazhjV3NvLTNjRDAxNXl5WkhxZjEyM29LTDN1cDA3XzNETGhXNnl2NkxuWldkYVJSX1RXclh5UjA0YnBKR1A3RFJzcUhnQUs5MWt0bG9RWDIzdWs1UnBIeXJPUGlwMHBLWFJMZW44V080V2hS0gGyAUFVX3lxTE5uSTlTRnQ4VWE2QkxwajVTaE4tTDVWTnl2UlliM3VIbWVmLWRXZF95UlJVRlFtYjM5bHJsb1prRHBheUZTYmVXdWw1SFlMTXVWVWZ3NDVhNXgyNi1TNVQ0TS1hcXUtTkdIOU9OY0JaYlpQcFJkTDdSUlBJZDJVQWdBN2VwWDVSb0QxYW1RWjdHbjFOblRLNm03TV9ZSHo3VlRJTXhNMHJVRmJlRk03R18yOHc?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260810T110308Z",
+          "seen": "20260810T171824Z",
           "pinned": false
         },
         {
@@ -710,6 +722,14 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260808T002934Z",
+          "pinned": false
+        },
+        {
+          "title": "War on Iran: Phase II: Day 29",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRW56N3I4cWpfTF9UVTUzMGc5enBYNVdnU0dFaUF0NmNqOGdyVWVBU1BzTXRJZVpaRGdiX09EQklLYWJKcm45ejdRTkV0bVg4UVlvUG1fclk0ODlnTi1xQXFUUl9yTE9LX08yRXlOMWpyNjRJNjNYUVFnQTltOFlhZzFyMNIBiAFBVV95cUxONUE2UTVUelBxM3p1cG1HZl9UZjJRZFowVUFmZk1JLWMwQ1RNWGxBMVl4M2ZRSXZHSVQ1Q25DYmQwTl9jNmZ1LWNrcW1ENWRZZDl4dTd0RGRocmdPT2E2UHdVRFNRcXNCLVBFMThCQm1uS2pWZVI5VXBKOHBVOGFPenluNDM2cmFz?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260809T160840Z",
           "pinned": false
         },
         {
@@ -761,11 +781,11 @@
           "pinned": false
         },
         {
-          "title": "War on Iran: Phase II: Day 29",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRW56N3I4cWpfTF9UVTUzMGc5enBYNVdnU0dFaUF0NmNqOGdyVWVBU1BzTXRJZVpaRGdiX09EQklLYWJKcm45ejdRTkV0bVg4UVlvUG1fclk0ODlnTi1xQXFUUl9yTE9LX08yRXlOMWpyNjRJNjNYUVFnQTltOFlhZzFyMNIBiAFBVV95cUxONUE2UTVUelBxM3p1cG1HZl9UZjJRZFowVUFmZk1JLWMwQ1RNWGxBMVl4M2ZRSXZHSVQ1Q25DYmQwTl9jNmZ1LWNrcW1ENWRZZDl4dTd0RGRocmdPT2E2UHdVRFNRcXNCLVBFMThCQm1uS2pWZVI5VXBKOHBVOGFPenluNDM2cmFz?oc=5",
+          "title": "Why Netanyahu’s ‘coup’ against Gaza plan risks endless war",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQamZpdThYNWpmX0xZSWdqQVBZUDl6MFJkWWFzUnB1M05HZk1hdzgzMDlhZEN3OTFVamQ5Ny1hVll1dm5xWWZtSXBwVTFoVFplTDBUT1RVSW42WmtHMzJ3Y2VLNkcwV2pIVnhQbXVqU2lSRXBSVGNLRWs4MHFTd0haZ2haaTZJZGdRN25BQ3BDYjRTVjZQQW1vNUtCNVbSAaIBQVVfeXFMT2lOSndmT255Q2xwOFg0eG5FRHg5akNOaUxaMVNISVBWel80NkpHOUxMY3dDdzJydklNaW1wN3pILXlCRmFqblp5LWloM0VDVkN0RENSYVZwdVprUG4zMXVpaW5aLTFpRVR1alVYejFGRFNzUVpIbW94UFU4bU9LZk1UQjZVQXNRVlROVUl2Tkd1Q2tBczAwY1V1d2R4R1FzYkpR?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260809T160840Z",
+          "seen": "20260810T140352Z",
           "pinned": false
         },
         {
@@ -785,11 +805,11 @@
           "pinned": false
         },
         {
-          "title": "Why Netanyahu’s ‘coup’ against Gaza plan risks endless war",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQamZpdThYNWpmX0xZSWdqQVBZUDl6MFJkWWFzUnB1M05HZk1hdzgzMDlhZEN3OTFVamQ5Ny1hVll1dm5xWWZtSXBwVTFoVFplTDBUT1RVSW42WmtHMzJ3Y2VLNkcwV2pIVnhQbXVqU2lSRXBSVGNLRWs4MHFTd0haZ2haaTZJZGdRN25BQ3BDYjRTVjZQQW1vNUtCNVbSAaIBQVVfeXFMT2lOSndmT255Q2xwOFg0eG5FRHg5akNOaUxaMVNISVBWel80NkpHOUxMY3dDdzJydklNaW1wN3pILXlCRmFqblp5LWloM0VDVkN0RENSYVZwdVprUG4zMXVpaW5aLTFpRVR1alVYejFGRFNzUVpIbW94UFU4bU9LZk1UQjZVQXNRVlROVUl2Tkd1Q2tBczAwY1V1d2R4R1FzYkpR?oc=5",
+          "title": "War on Iran: Phase II: Day 30",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTzQ3M1VjeEFHN2FIRC0taWFlc1RiNEx0ZTlkZzNJc1FLOVhMUW1TMzBObVZMa2xNTThrRVNnbm9rblBOWVJfeEoyUDRKV2RSNExyMThUWnNPclZTTzFSVTZDRG1YdVVTUUl5TE8xWEI5dGNIR2dDMzN5cllibGwwbUd3aTDSAYoBQVVfeXFMT3RPTjdfcXpYbXU2MFZDeXl5a0d3OV9xbG9TcmF2MGdIazFQM3hzVHZBcUtrQ3NtdHhyOGRmVkRiM29GOGdBZzdfRmxrLVFtTjVkUUFjT0FGYW9IOHU5akswdUw4MkhybGxZVHc5emljQ2V5RTQ4WTBwczFuSTIzWldGdG9FZG5aNEJR?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260810T140345Z",
+          "seen": "20260810T140932Z",
           "pinned": false
         },
         {
@@ -801,19 +821,11 @@
           "pinned": false
         },
         {
-          "title": "Trump signals shift to economic pressure on Iran over new military strikes",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZUp2OWhnVmxOYkpZTTM5TEktOUY1REswc3Roc04zNDNKbDAwQl9ib2JhZ1QtbHY3UHJXc2JjVkNYam5WNVJPR1lNNnlmS3ZkX253WTJtRE9ESG1BdnVSanQxWk9MR2NDeG15dlpzaEZrTm1Rcnowc1RLRmlaSnNPVmJxRHBUU0M1RWlqNTlSYmtDbW1zRzVDZHNkSk5SR1RWMWFmeVVMUHBCNzlJeVZmXzEyeURfd015SmfSAb8BQVVfeXFMUFFkMFhlblVNbUtKdmNacEI5cHVJRjJJbW44VXFoQzkwNXozeEoxZHFIWHZ2aEllSGpEQkYwVXhQV210LUFsMUloaWFZVXlQdmJjcTBOb2JmdzlaWnVyQkcxSUd1eGFtMzRUaW1BaktraDBxcnJGZjNvSjBJSXpaMzJtLTBPcGgyaWE2ZHE1TkhkY19ZRXdqR1Vubk1JbVJJMDZ6d2w1dmwtVVZPb244OGtYeW1pRC1tN2p1b3BiZlU?oc=5",
+          "title": "Palestinian club football to restart in September after Gaza war suspension",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQM0FJX2NfVWJtcXZTMUtzS2FpcU41NDRlTGtWSFB5cnhjRE9aRmhIOEFwM0FXOTVzMDkyWGpMb2JqUmNOZkdqdmhyZkxMUVA4WmVqNG12M1BQbWRsSTNsdGt3TDFZNV91dWNZeGVFUTA3VnY5bTZZc2k5RC1qczVuR1ZsWXpUOEZiaTJtQUFCMUdhNUtnV3VyaW9CN0hxSnNzRlZNZGUySmF2TnJRbXZnanhUQmh4WHpZR0HSAb8BQVVfeXFMTUhXUHlZRU1ac05Ha19PejZfNVBXMkRNRlU2Q2M0R3o2QXJSLXVVOUZQcjhvYXp4Y2Y4RjM4c1FkOTgwb2l1Z2NRRFlOWGRGQTRmUERIdFcwaDJweGk3bHEySDJ6QTVyT1J3emhqRW5hZkhNaDFOdFRiQUZiY1NBRV9Na2RoVENJdkpnVUtHMWhEWnNVSGsxdHd0TTBPczZYNER4azdLZ2twblBVLXJOS1l1ZU1fbTU4bm9ZWmVXcWM?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260810T035136Z",
-          "pinned": false
-        },
-        {
-          "title": "Ukraine honors its ‘collector of souls’ volunteer killed while recovering the war dead",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVkI3UGpBZkg3d2ptZUUtcUJjbk5WQjlNVFdFcmZiSERjeUhVWEhLcjJhbS15UEtQdkVQMGpTR2pKMVoxR2tRdnFkOGY4RmpFeG5qZnRORHZ1anA3VnJTMXFhTzJxcjh2WkJGdGtyb3luWFlkcTVrVWxadEd6dktkVHBoaVFQcWdDVzF2VjNjc2V2eXZuTm1OaXo4OEw2UG16YUxJ?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260808T203900Z",
+          "seen": "20260810T174033Z",
           "pinned": false
         }
       ],
@@ -879,7 +891,7 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-10T11:03:08Z"
+          "reportedAt": "2026-08-10T17:18:24Z"
         },
         {
           "id": "report-1b7bba276ab8",
@@ -916,6 +928,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-08T00:29:34Z"
+        },
+        {
+          "id": "report-2970ff3c8e81",
+          "title": "War on Iran: Phase II: Day 29",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRW56N3I4cWpfTF9UVTUzMGc5enBYNVdnU0dFaUF0NmNqOGdyVWVBU1BzTXRJZVpaRGdiX09EQklLYWJKcm45ejdRTkV0bVg4UVlvUG1fclk0ODlnTi1xQXFUUl9yTE9LX08yRXlOMWpyNjRJNjNYUVFnQTltOFlhZzFyMNIBiAFBVV95cUxONUE2UTVUelBxM3p1cG1HZl9UZjJRZFowVUFmZk1JLWMwQ1RNWGxBMVl4M2ZRSXZHSVQ1Q25DYmQwTl9jNmZ1LWNrcW1ENWRZZDl4dTd0RGRocmdPT2E2UHdVRFNRcXNCLVBFMThCQm1uS2pWZVI5VXBKOHBVOGFPenluNDM2cmFz?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-09T16:08:40Z"
         },
         {
           "id": "report-d84b6cf74216",
@@ -972,13 +993,13 @@
           "reportedAt": "2026-08-07T10:56:39Z"
         },
         {
-          "id": "report-2970ff3c8e81",
-          "title": "War on Iran: Phase II: Day 29",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRW56N3I4cWpfTF9UVTUzMGc5enBYNVdnU0dFaUF0NmNqOGdyVWVBU1BzTXRJZVpaRGdiX09EQklLYWJKcm45ejdRTkV0bVg4UVlvUG1fclk0ODlnTi1xQXFUUl9yTE9LX08yRXlOMWpyNjRJNjNYUVFnQTltOFlhZzFyMNIBiAFBVV95cUxONUE2UTVUelBxM3p1cG1HZl9UZjJRZFowVUFmZk1JLWMwQ1RNWGxBMVl4M2ZRSXZHSVQ1Q25DYmQwTl9jNmZ1LWNrcW1ENWRZZDl4dTd0RGRocmdPT2E2UHdVRFNRcXNCLVBFMThCQm1uS2pWZVI5VXBKOHBVOGFPenluNDM2cmFz?oc=5",
+          "id": "report-ec4bbf147c6e",
+          "title": "Why Netanyahu’s ‘coup’ against Gaza plan risks endless war",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQamZpdThYNWpmX0xZSWdqQVBZUDl6MFJkWWFzUnB1M05HZk1hdzgzMDlhZEN3OTFVamQ5Ny1hVll1dm5xWWZtSXBwVTFoVFplTDBUT1RVSW42WmtHMzJ3Y2VLNkcwV2pIVnhQbXVqU2lSRXBSVGNLRWs4MHFTd0haZ2haaTZJZGdRN25BQ3BDYjRTVjZQQW1vNUtCNVbSAaIBQVVfeXFMT2lOSndmT255Q2xwOFg0eG5FRHg5akNOaUxaMVNISVBWel80NkpHOUxMY3dDdzJydklNaW1wN3pILXlCRmFqblp5LWloM0VDVkN0RENSYVZwdVprUG4zMXVpaW5aLTFpRVR1alVYejFGRFNzUVpIbW94UFU4bU9LZk1UQjZVQXNRVlROVUl2Tkd1Q2tBczAwY1V1d2R4R1FzYkpR?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-09T16:08:40Z"
+          "reportedAt": "2026-08-10T14:03:52Z"
         },
         {
           "id": "report-c49420751f90",
@@ -999,13 +1020,13 @@
           "reportedAt": "2026-08-07T00:26:52Z"
         },
         {
-          "id": "report-ec4bbf147c6e",
-          "title": "Why Netanyahu’s ‘coup’ against Gaza plan risks endless war",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQamZpdThYNWpmX0xZSWdqQVBZUDl6MFJkWWFzUnB1M05HZk1hdzgzMDlhZEN3OTFVamQ5Ny1hVll1dm5xWWZtSXBwVTFoVFplTDBUT1RVSW42WmtHMzJ3Y2VLNkcwV2pIVnhQbXVqU2lSRXBSVGNLRWs4MHFTd0haZ2haaTZJZGdRN25BQ3BDYjRTVjZQQW1vNUtCNVbSAaIBQVVfeXFMT2lOSndmT255Q2xwOFg0eG5FRHg5akNOaUxaMVNISVBWel80NkpHOUxMY3dDdzJydklNaW1wN3pILXlCRmFqblp5LWloM0VDVkN0RENSYVZwdVprUG4zMXVpaW5aLTFpRVR1alVYejFGRFNzUVpIbW94UFU4bU9LZk1UQjZVQXNRVlROVUl2Tkd1Q2tBczAwY1V1d2R4R1FzYkpR?oc=5",
+          "id": "report-0d5aaeccd002",
+          "title": "War on Iran: Phase II: Day 30",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTzQ3M1VjeEFHN2FIRC0taWFlc1RiNEx0ZTlkZzNJc1FLOVhMUW1TMzBObVZMa2xNTThrRVNnbm9rblBOWVJfeEoyUDRKV2RSNExyMThUWnNPclZTTzFSVTZDRG1YdVVTUUl5TE8xWEI5dGNIR2dDMzN5cllibGwwbUd3aTDSAYoBQVVfeXFMT3RPTjdfcXpYbXU2MFZDeXl5a0d3OV9xbG9TcmF2MGdIazFQM3hzVHZBcUtrQ3NtdHhyOGRmVkRiM29GOGdBZzdfRmxrLVFtTjVkUUFjT0FGYW9IOHU5akswdUw4MkhybGxZVHc5emljQ2V5RTQ4WTBwczFuSTIzWldGdG9FZG5aNEJR?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-10T14:03:45Z"
+          "reportedAt": "2026-08-10T14:09:32Z"
         },
         {
           "id": "report-576e6741f0a0",
@@ -1017,22 +1038,13 @@
           "reportedAt": "2026-08-10T11:57:26Z"
         },
         {
-          "id": "report-da82bc0f10d4",
-          "title": "Trump signals shift to economic pressure on Iran over new military strikes",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZUp2OWhnVmxOYkpZTTM5TEktOUY1REswc3Roc04zNDNKbDAwQl9ib2JhZ1QtbHY3UHJXc2JjVkNYam5WNVJPR1lNNnlmS3ZkX253WTJtRE9ESG1BdnVSanQxWk9MR2NDeG15dlpzaEZrTm1Rcnowc1RLRmlaSnNPVmJxRHBUU0M1RWlqNTlSYmtDbW1zRzVDZHNkSk5SR1RWMWFmeVVMUHBCNzlJeVZmXzEyeURfd015SmfSAb8BQVVfeXFMUFFkMFhlblVNbUtKdmNacEI5cHVJRjJJbW44VXFoQzkwNXozeEoxZHFIWHZ2aEllSGpEQkYwVXhQV210LUFsMUloaWFZVXlQdmJjcTBOb2JmdzlaWnVyQkcxSUd1eGFtMzRUaW1BaktraDBxcnJGZjNvSjBJSXpaMzJtLTBPcGgyaWE2ZHE1TkhkY19ZRXdqR1Vubk1JbVJJMDZ6d2w1dmwtVVZPb244OGtYeW1pRC1tN2p1b3BiZlU?oc=5",
+          "id": "report-b8b6c5225f0f",
+          "title": "Palestinian club football to restart in September after Gaza war suspension",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQM0FJX2NfVWJtcXZTMUtzS2FpcU41NDRlTGtWSFB5cnhjRE9aRmhIOEFwM0FXOTVzMDkyWGpMb2JqUmNOZkdqdmhyZkxMUVA4WmVqNG12M1BQbWRsSTNsdGt3TDFZNV91dWNZeGVFUTA3VnY5bTZZc2k5RC1qczVuR1ZsWXpUOEZiaTJtQUFCMUdhNUtnV3VyaW9CN0hxSnNzRlZNZGUySmF2TnJRbXZnanhUQmh4WHpZR0HSAb8BQVVfeXFMTUhXUHlZRU1ac05Ha19PejZfNVBXMkRNRlU2Q2M0R3o2QXJSLXVVOUZQcjhvYXp4Y2Y4RjM4c1FkOTgwb2l1Z2NRRFlOWGRGQTRmUERIdFcwaDJweGk3bHEySDJ6QTVyT1J3emhqRW5hZkhNaDFOdFRiQUZiY1NBRV9Na2RoVENJdkpnVUtHMWhEWnNVSGsxdHd0TTBPczZYNER4azdLZ2twblBVLXJOS1l1ZU1fbTU4bm9ZWmVXcWM?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-10T03:51:36Z"
-        },
-        {
-          "id": "report-8d829971babd",
-          "title": "Ukraine honors its ‘collector of souls’ volunteer killed while recovering the war dead",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVkI3UGpBZkg3d2ptZUUtcUJjbk5WQjlNVFdFcmZiSERjeUhVWEhLcjJhbS15UEtQdkVQMGpTR2pKMVoxR2tRdnFkOGY4RmpFeG5qZnRORHZ1anA3VnJTMXFhTzJxcjh2WkJGdGtyb3luWFlkcTVrVWxadEd6dktkVHBoaVFQcWdDVzF2VjNjc2V2eXZuTm1OaXo4OEw2UG16YUxJ?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-08T20:39:00Z"
+          "reportedAt": "2026-08-10T17:40:33Z"
         },
         {
           "id": "report-dd2a1637dc48",
