@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-10T05:14:04.464Z",
+  "generatedAt": "2026-08-10T10:46:14.497Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-08-10T05:14:04.464Z",
+      "generatedAt": "2026-08-10T10:46:14.497Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -717,7 +717,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-08-10T05:14:04.464Z",
+      "generatedAt": "2026-08-10T10:46:14.497Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -750,6 +750,14 @@
           "domain": "aa.com.tr",
           "sourceTier": "State-affiliated reporting",
           "seen": "20260808T224001Z",
+          "pinned": false
+        },
+        {
+          "title": "US senator says Trump has ‘lost’ Iran war",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdUs5OWtrWGtib0Z4YjVSSnpreGRLbUExbFlGZndlOVBaeUU4eHYteFQzY21xLXA1alE4aHhYa1JNNGJhZm5wcFVwR0dRQ3VBQTdyNVRLSDF3ZXdGQ3lfTWQzcEM0bzl2WWh1QmViSThxRHdZRjIxUVRfQXcwWDlkZXgwVG12cFZW?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20260810T030028Z",
           "pinned": false
         },
         {
@@ -790,14 +798,6 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260808T002934Z",
-          "pinned": false
-        },
-        {
-          "title": "War on Iran: Phase II: Day 29",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRW56N3I4cWpfTF9UVTUzMGc5enBYNVdnU0dFaUF0NmNqOGdyVWVBU1BzTXRJZVpaRGdiX09EQklLYWJKcm45ejdRTkV0bVg4UVlvUG1fclk0ODlnTi1xQXFUUl9yTE9LX08yRXlOMWpyNjRJNjNYUVFnQTltOFlhZzFyMNIBiAFBVV95cUxONUE2UTVUelBxM3p1cG1HZl9UZjJRZFowVUFmZk1JLWMwQ1RNWGxBMVl4M2ZRSXZHSVQ1Q25DYmQwTl9jNmZ1LWNrcW1ENWRZZDl4dTd0RGRocmdPT2E2UHdVRFNRcXNCLVBFMThCQm1uS2pWZVI5VXBKOHBVOGFPenluNDM2cmFz?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260809T160840Z",
           "pinned": false
         },
         {
@@ -849,11 +849,11 @@
           "pinned": false
         },
         {
-          "title": "Sudan's invisible children - born in war with no legal identity",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNbUJZSjcxbjg2WV9XTDhGNUxycEgyUTlMX2s1dzFiU0M1WTlqS1VDaG5uZTl0ZS1LclBKMnpWODVfSk9GMzBYODl4bGt2djZqV3ZBdERSRjVDdw?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260807T002652Z",
+          "title": "Trump's top general seeks path out of Iran war as military options narrow: Report",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaERYTVlHdnNXZzJERndvTHdOcmlBYUl1QmNEb0ZYdjV0UGY1M3RXWnVOY0F3U3paWkg3QjJoZ3AzN2RYODR1aG43MG85b005am1ZeEtDWVN1dXhfV1ZwRzhMZkRMejBRSjk0dFNfTEpwMm45ZTNNM1N4NDhYYXl1cnl1ZVl4eVJtNzRNWGpja20tYzM4aUZLVXVnWEJhVjZESWNQUlpTVVVTdTlRX2xyd0JTNWN2U1U0b0JHc2RhT24xNll0NllOdkNRNA?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20260808T024947Z",
           "pinned": false
         },
         {
@@ -865,11 +865,19 @@
           "pinned": false
         },
         {
+          "title": "Sudan's invisible children - born in war with no legal identity",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNbUJZSjcxbjg2WV9XTDhGNUxycEgyUTlMX2s1dzFiU0M1WTlqS1VDaG5uZTl0ZS1LclBKMnpWODVfSk9GMzBYODl4bGt2djZqV3ZBdERSRjVDdw?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260807T002652Z",
+          "pinned": false
+        },
+        {
           "title": "Trump signals shift to economic pressure on Iran over new military strikes",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZUp2OWhnVmxOYkpZTTM5TEktOUY1REswc3Roc04zNDNKbDAwQl9ib2JhZ1QtbHY3UHJXc2JjVkNYam5WNVJPR1lNNnlmS3ZkX253WTJtRE9ESG1BdnVSanQxWk9MR2NDeG15dlpzaEZrTm1Rcnowc1RLRmlaSnNPVmJxRHBUU0M1RWlqNTlSYmtDbW1zRzVDZHNkSk5SR1RWMWFmeVVMUHBCNzlJeVZmXzEyeURfd015SmfSAb8BQVVfeXFMUFFkMFhlblVNbUtKdmNacEI5cHVJRjJJbW44VXFoQzkwNXozeEoxZHFIWHZ2aEllSGpEQkYwVXhQV210LUFsMUloaWFZVXlQdmJjcTBOb2JmdzlaWnVyQkcxSUd1eGFtMzRUaW1BaktraDBxcnJGZjNvSjBJSXpaMzJtLTBPcGgyaWE2ZHE1TkhkY19ZRXdqR1Vubk1JbVJJMDZ6d2w1dmwtVVZPb244OGtYeW1pRC1tN2p1b3BiZlU?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260810T035101Z",
+          "seen": "20260810T035136Z",
           "pinned": false
         },
         {
@@ -881,14 +889,6 @@
           "pinned": false
         },
         {
-          "title": "Russia, Ukraine exchange overnight strikes that leave 7 dead, many injured",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZUUwZGVYSU5sMHpMazg3MEo2YkJ0RlJEOGloN2UxcXVNSENMSWYwdFM2aFdTa3g1ZjdER3FxS3ZDS3c1cWZoSy1nVUFWODlOM2g4VzRmN2VvYWZxaGJ3aHdvX2VSdTJlN3RyOVhsQW5NTllELTI5U1d0VmxwYWlsRWNVNnlQWk01eGtMQ09mYV9JLVFETDJncU4xaUpab0Vrc2lGVw?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260809T151800Z",
-          "pinned": false
-        },
-        {
           "title": "Houthi attacks kill seven in Yemen, refinery targeted in Saudi Arabia",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTUZxOWROQkhqU0lHQ25IUWpWc2lwNmFPSUNWSTRGN2tDTFBwRlBXWlpXeEZLaGpGQi14RkFWVzZMdUlxSWVvNWxUdE0wa01hcUU1elJRamNBdEtQdXVSSVIyNVVyeV9tZTlyakdWTW5fYVlKdHNlbzJENHpGOFNaa2lUcXRtejdsNXRNcWpWRlNWVW0wQ1ZiaVVmN1BpQjdVV1ktQVJB0gGrAUFVX3lxTE1YV2laV1dHR0h1YXdEV3RLZHBSNDVnYVZZZHhFWjNxZG1DZ3FkRDkya24xV1FJTUROaHhSUUs5QnJ1ZTNUR04xSTgtWFM2ZDhyZ2Q2UFV4c3JBUnpSdzE0dWJmTWcya0tEeWx1YS10b1ZEWi00Mk1CY1VxMEdUaklsQl9OQlR0RkdRT1p0Uks4c3VfOWJheXBFVnlpQUJkNm0xcVBCMjZicVJxcw?oc=5",
           "domain": "aljazeera.com",
@@ -897,19 +897,19 @@
           "pinned": false
         },
         {
+          "title": "Russia, Ukraine exchange overnight strikes that leave 7 dead, many injured",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZUUwZGVYSU5sMHpMazg3MEo2YkJ0RlJEOGloN2UxcXVNSENMSWYwdFM2aFdTa3g1ZjdER3FxS3ZDS3c1cWZoSy1nVUFWODlOM2g4VzRmN2VvYWZxaGJ3aHdvX2VSdTJlN3RyOVhsQW5NTllELTI5U1d0VmxwYWlsRWNVNnlQWk01eGtMQ09mYV9JLVFETDJncU4xaUpab0Vrc2lGVw?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260809T151800Z",
+          "pinned": false
+        },
+        {
           "title": "Child among three dead in Russian nightly strikes near Kyiv",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JRW51dTJkckJQckpncDJDdVloS0pKZ01TeVdTVnZUX1pOb2ZlVVRIdHU0Q3NVd0NGb19oZVBOcmtqa1JXb1dSVE41THhNblhpWlpwR21mWW5odw?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20260808T180625Z",
-          "pinned": false
-        },
-        {
-          "title": "Zelenskyy visits Moscow-friendly Serbia as Russian attacks on Kyiv region kill 4",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbDFfY3QyOTNzV21YQ0VINm5YT013Y3BXZ2Y5aWg5M0xVUVhTRFc0U2JxTktwa0MyS0RERFR3RWZvekQzdVBYdnBnWGhtckZDay1sMS1iZmUyZllQN2hjNGM2X1ZNTjRlaVJMTnNDdW92ekg5QkJDRUVmZzhNYzNhOWM2cUpFMEU3VjB5U0lWQm40enFTUHJMSnJKWEk3T0lXUHJleHhQbEE?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260808T151200Z",
           "pinned": false
         }
       ],
@@ -949,6 +949,15 @@
           "sourceTier": "State-affiliated reporting",
           "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
           "reportedAt": "2026-08-08T22:40:01Z"
+        },
+        {
+          "id": "report-b6f1830e3a32",
+          "title": "US senator says Trump has ‘lost’ Iran war",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdUs5OWtrWGtib0Z4YjVSSnpreGRLbUExbFlGZndlOVBaeUU4eHYteFQzY21xLXA1alE4aHhYa1JNNGJhZm5wcFVwR0dRQ3VBQTdyNVRLSDF3ZXdGQ3lfTWQzcEM0bzl2WWh1QmViSThxRHdZRjIxUVRfQXcwWDlkZXgwVG12cFZW?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-08-10T03:00:28Z"
         },
         {
           "id": "report-439e5d8ab644",
@@ -994,15 +1003,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-08T00:29:34Z"
-        },
-        {
-          "id": "report-2970ff3c8e81",
-          "title": "War on Iran: Phase II: Day 29",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRW56N3I4cWpfTF9UVTUzMGc5enBYNVdnU0dFaUF0NmNqOGdyVWVBU1BzTXRJZVpaRGdiX09EQklLYWJKcm45ejdRTkV0bVg4UVlvUG1fclk0ODlnTi1xQXFUUl9yTE9LX08yRXlOMWpyNjRJNjNYUVFnQTltOFlhZzFyMNIBiAFBVV95cUxONUE2UTVUelBxM3p1cG1HZl9UZjJRZFowVUFmZk1JLWMwQ1RNWGxBMVl4M2ZRSXZHSVQ1Q25DYmQwTl9jNmZ1LWNrcW1ENWRZZDl4dTd0RGRocmdPT2E2UHdVRFNRcXNCLVBFMThCQm1uS2pWZVI5VXBKOHBVOGFPenluNDM2cmFz?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-09T16:08:40Z"
         },
         {
           "id": "report-d84b6cf74216",
@@ -1059,13 +1059,13 @@
           "reportedAt": "2026-08-09T06:51:04Z"
         },
         {
-          "id": "report-d3865ff13cdc",
-          "title": "Sudan's invisible children - born in war with no legal identity",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNbUJZSjcxbjg2WV9XTDhGNUxycEgyUTlMX2s1dzFiU0M1WTlqS1VDaG5uZTl0ZS1LclBKMnpWODVfSk9GMzBYODl4bGt2djZqV3ZBdERSRjVDdw?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-07T00:26:52Z"
+          "id": "report-24326b2ed182",
+          "title": "Trump's top general seeks path out of Iran war as military options narrow: Report",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaERYTVlHdnNXZzJERndvTHdOcmlBYUl1QmNEb0ZYdjV0UGY1M3RXWnVOY0F3U3paWkg3QjJoZ3AzN2RYODR1aG43MG85b005am1ZeEtDWVN1dXhfV1ZwRzhMZkRMejBRSjk0dFNfTEpwMm45ZTNNM1N4NDhYYXl1cnl1ZVl4eVJtNzRNWGpja20tYzM4aUZLVXVnWEJhVjZESWNQUlpTVVVTdTlRX2xyd0JTNWN2U1U0b0JHc2RhT24xNll0NllOdkNRNA?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-08-08T02:49:47Z"
         },
         {
           "id": "report-c49420751f90",
@@ -1077,13 +1077,22 @@
           "reportedAt": "2026-08-09T20:50:37Z"
         },
         {
+          "id": "report-d3865ff13cdc",
+          "title": "Sudan's invisible children - born in war with no legal identity",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNbUJZSjcxbjg2WV9XTDhGNUxycEgyUTlMX2s1dzFiU0M1WTlqS1VDaG5uZTl0ZS1LclBKMnpWODVfSk9GMzBYODl4bGt2djZqV3ZBdERSRjVDdw?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-07T00:26:52Z"
+        },
+        {
           "id": "report-da82bc0f10d4",
           "title": "Trump signals shift to economic pressure on Iran over new military strikes",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZUp2OWhnVmxOYkpZTTM5TEktOUY1REswc3Roc04zNDNKbDAwQl9ib2JhZ1QtbHY3UHJXc2JjVkNYam5WNVJPR1lNNnlmS3ZkX253WTJtRE9ESG1BdnVSanQxWk9MR2NDeG15dlpzaEZrTm1Rcnowc1RLRmlaSnNPVmJxRHBUU0M1RWlqNTlSYmtDbW1zRzVDZHNkSk5SR1RWMWFmeVVMUHBCNzlJeVZmXzEyeURfd015SmfSAb8BQVVfeXFMUFFkMFhlblVNbUtKdmNacEI5cHVJRjJJbW44VXFoQzkwNXozeEoxZHFIWHZ2aEllSGpEQkYwVXhQV210LUFsMUloaWFZVXlQdmJjcTBOb2JmdzlaWnVyQkcxSUd1eGFtMzRUaW1BaktraDBxcnJGZjNvSjBJSXpaMzJtLTBPcGgyaWE2ZHE1TkhkY19ZRXdqR1Vubk1JbVJJMDZ6d2w1dmwtVVZPb244OGtYeW1pRC1tN2p1b3BiZlU?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-10T03:51:01Z"
+          "reportedAt": "2026-08-10T03:51:36Z"
         },
         {
           "id": "report-8d829971babd",
@@ -1095,15 +1104,6 @@
           "reportedAt": "2026-08-08T20:39:00Z"
         },
         {
-          "id": "report-7f3ab9b8a195",
-          "title": "Russia, Ukraine exchange overnight strikes that leave 7 dead, many injured",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZUUwZGVYSU5sMHpMazg3MEo2YkJ0RlJEOGloN2UxcXVNSENMSWYwdFM2aFdTa3g1ZjdER3FxS3ZDS3c1cWZoSy1nVUFWODlOM2g4VzRmN2VvYWZxaGJ3aHdvX2VSdTJlN3RyOVhsQW5NTllELTI5U1d0VmxwYWlsRWNVNnlQWk01eGtMQ09mYV9JLVFETDJncU4xaUpab0Vrc2lGVw?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-09T15:18:00Z"
-        },
-        {
           "id": "report-6b450fbf80f0",
           "title": "Houthi attacks kill seven in Yemen, refinery targeted in Saudi Arabia",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTUZxOWROQkhqU0lHQ25IUWpWc2lwNmFPSUNWSTRGN2tDTFBwRlBXWlpXeEZLaGpGQi14RkFWVzZMdUlxSWVvNWxUdE0wa01hcUU1elJRamNBdEtQdXVSSVIyNVVyeV9tZTlyakdWTW5fYVlKdHNlbzJENHpGOFNaa2lUcXRtejdsNXRNcWpWRlNWVW0wQ1ZiaVVmN1BpQjdVV1ktQVJB0gGrAUFVX3lxTE1YV2laV1dHR0h1YXdEV3RLZHBSNDVnYVZZZHhFWjNxZG1DZ3FkRDkya24xV1FJTUROaHhSUUs5QnJ1ZTNUR04xSTgtWFM2ZDhyZ2Q2UFV4c3JBUnpSdzE0dWJmTWcya0tEeWx1YS10b1ZEWi00Mk1CY1VxMEdUaklsQl9OQlR0RkdRT1p0Uks4c3VfOWJheXBFVnlpQUJkNm0xcVBCMjZicVJxcw?oc=5",
@@ -1113,6 +1113,15 @@
           "reportedAt": "2026-08-09T19:21:35Z"
         },
         {
+          "id": "report-7f3ab9b8a195",
+          "title": "Russia, Ukraine exchange overnight strikes that leave 7 dead, many injured",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZUUwZGVYSU5sMHpMazg3MEo2YkJ0RlJEOGloN2UxcXVNSENMSWYwdFM2aFdTa3g1ZjdER3FxS3ZDS3c1cWZoSy1nVUFWODlOM2g4VzRmN2VvYWZxaGJ3aHdvX2VSdTJlN3RyOVhsQW5NTllELTI5U1d0VmxwYWlsRWNVNnlQWk01eGtMQ09mYV9JLVFETDJncU4xaUpab0Vrc2lGVw?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-09T15:18:00Z"
+        },
+        {
           "id": "report-965e05e2956f",
           "title": "Child among three dead in Russian nightly strikes near Kyiv",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JRW51dTJkckJQckpncDJDdVloS0pKZ01TeVdTVnZUX1pOb2ZlVVRIdHU0Q3NVd0NGb19oZVBOcmtqa1JXb1dSVE41THhNblhpWlpwR21mWW5odw?oc=5",
@@ -1120,15 +1129,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-08T18:06:25Z"
-        },
-        {
-          "id": "report-fdde8a67e27a",
-          "title": "Zelenskyy visits Moscow-friendly Serbia as Russian attacks on Kyiv region kill 4",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbDFfY3QyOTNzV21YQ0VINm5YT013Y3BXZ2Y5aWg5M0xVUVhTRFc0U2JxTktwa0MyS0RERFR3RWZvekQzdVBYdnBnWGhtckZDay1sMS1iZmUyZllQN2hjNGM2X1ZNTjRlaVJMTnNDdW92ekg5QkJDRUVmZzhNYzNhOWM2cUpFMEU3VjB5U0lWQm40enFTUHJMSnJKWEk3T0lXUHJleHhQbEE?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-08T15:12:00Z"
         },
         {
           "id": "report-dd2a1637dc48",
