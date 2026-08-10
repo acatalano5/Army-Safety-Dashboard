@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-10T10:46:14.497Z",
+  "generatedAt": "2026-08-10T15:35:14.137Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-08-10T10:46:14.497Z",
+      "generatedAt": "2026-08-10T15:35:14.137Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -717,23 +717,15 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-08-10T10:46:14.497Z",
+      "generatedAt": "2026-08-10T15:35:14.137Z",
       "cadence": "every 6 hours",
       "items": [
         {
-          "title": "Trump says war ‘can’t go much longer’ – what’s the latest on talks?",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcm5CZUFmeUtIeDNGUXhOckUxSEN4VnhlY3JBQTNkSTBXWUVfekxRMXNhdzMzcTRjMjZydzVIMDI1czc5aHY5VnB1WmJtTkVhOHNlMFI0MkkzTEJqNlBWb1dBTFExdnhnd1pKOVk5anNzNlRZZXpXMGE5b2xJQVZjN3ZjRkVtQW5SYzNWbXlNTnVPVmNsRF92THJR0gGfAUFVX3lxTFBsdWNwdTgtWUdfM0tlaVIzNVJRRGR3Q0lsVExGV2xyQTFsQTNPWmNyME00aTdTT2RZdENaejVTMmthTDJGZi1tQm9BcHlhWFY3SktiVGdQTkxmTlFXOG1xekZrVEFIcjQzbVZibXI5TjhlZEE3WFdaaXJCUUJyRFhFQzVzbmRHc3VJeHA0MmkzY1FYZVdVYzE4NjYzMnhpRQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260807T111932Z",
-          "pinned": false
-        },
-        {
-          "title": "UN chief condemns both Ukraine and Russia amid escalation in war",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ0JTZjl2dHZoVFVod1NhTnVQNjRDeEIxQkUzUlk1TGYxLU5aYk9iQkJwa3hteWR5WWdfSmFsNGxxRVJwTVNFNVdfZVpNeHhxU3NlVDdFWkZaemwyNDRLdkN4eUZNVzVpS2dzU2JZcmhtVzlTdFNlVnNlQTFkYWhsMTBGTUNFbndwTmFFV1Q3cDBfVjlhOXdvRHVTN0ZxcVdEckp6c2tIMy1TQjRDQWlvU09VTFLSAboBQVVfeXFMT2l5RTZfXzlhQmV0UjFEc3VRZVFDejZmN1R3YnI4bFNmLTRVd1hVcVp6cHFna0tYd3NhSk5iMTNSMGMwT3R5UWRaX3ctVldkT0ZLaU5ETkVNbHRwdGFsa3h0Q1FqMEg2VzhhRnZzZUlBMlRxM0FiS0N1YldlQmNMbk05cXZQTzJKbUxXUlVESjdDQUxjNnFEbXh0YkZWWHhIbGtUX0J2clhseFJMQ1hxTlFyOXlGUmhRYjZ3?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260807T124259Z",
+          "title": "US senator says Trump has ‘lost’ Iran war",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdUs5OWtrWGtib0Z4YjVSSnpreGRLbUExbFlGZndlOVBaeUU4eHYteFQzY21xLXA1alE4aHhYa1JNNGJhZm5wcFVwR0dRQ3VBQTdyNVRLSDF3ZXdGQ3lfTWQzcEM0bzl2WWh1QmViSThxRHdZRjIxUVRfQXcwWDlkZXgwVG12cFZW?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20260810T030028Z",
           "pinned": false
         },
         {
@@ -745,6 +737,22 @@
           "pinned": false
         },
         {
+          "title": "UN chief condemns both Ukraine and Russia amid escalation in war",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ0JTZjl2dHZoVFVod1NhTnVQNjRDeEIxQkUzUlk1TGYxLU5aYk9iQkJwa3hteWR5WWdfSmFsNGxxRVJwTVNFNVdfZVpNeHhxU3NlVDdFWkZaemwyNDRLdkN4eUZNVzVpS2dzU2JZcmhtVzlTdFNlVnNlQTFkYWhsMTBGTUNFbndwTmFFV1Q3cDBfVjlhOXdvRHVTN0ZxcVdEckp6c2tIMy1TQjRDQWlvU09VTFLSAboBQVVfeXFMT2l5RTZfXzlhQmV0UjFEc3VRZVFDejZmN1R3YnI4bFNmLTRVd1hVcVp6cHFna0tYd3NhSk5iMTNSMGMwT3R5UWRaX3ctVldkT0ZLaU5ETkVNbHRwdGFsa3h0Q1FqMEg2VzhhRnZzZUlBMlRxM0FiS0N1YldlQmNMbk05cXZQTzJKbUxXUlVESjdDQUxjNnFEbXh0YkZWWHhIbGtUX0J2clhseFJMQ1hxTlFyOXlGUmhRYjZ3?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260807T124259Z",
+          "pinned": false
+        },
+        {
+          "title": "Trump says war ‘can’t go much longer’ – what’s the latest on talks?",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcm5CZUFmeUtIeDNGUXhOckUxSEN4VnhlY3JBQTNkSTBXWUVfekxRMXNhdzMzcTRjMjZydzVIMDI1czc5aHY5VnB1WmJtTkVhOHNlMFI0MkkzTEJqNlBWb1dBTFExdnhnd1pKOVk5anNzNlRZZXpXMGE5b2xJQVZjN3ZjRkVtQW5SYzNWbXlNTnVPVmNsRF92THJR0gGfAUFVX3lxTFBsdWNwdTgtWUdfM0tlaVIzNVJRRGR3Q0lsVExGV2xyQTFsQTNPWmNyME00aTdTT2RZdENaejVTMmthTDJGZi1tQm9BcHlhWFY3SktiVGdQTkxmTlFXOG1xekZrVEFIcjQzbVZibXI5TjhlZEE3WFdaaXJCUUJyRFhFQzVzbmRHc3VJeHA0MmkzY1FYZVdVYzE4NjYzMnhpRQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260807T111932Z",
+          "pinned": false
+        },
+        {
           "title": "Israel prepares for possible unilateral strikes on Iran: Israeli media",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORnBwMDd2NXlSclA4SjZxUzNxckZMVFRHckt1X25YRnlMaWxhVEJsUU9QUU1aNkhnc3o5RmVMUXJQRmFMRWFVSHVZVzhwbWpFM3RGdlRtN3R6RUFqdF9uYVVsTjlkaEJVeHA5ZXh5bnl2V0VZYkYtOXhJVFN2Q0VWcEtYaWNiQXhTMHZoc3lXbDIxdU1wNzh1azM3S0NrdnBSLTh5ZHlScmRfazkxM0FtblVNaTE?oc=5",
           "domain": "aa.com.tr",
@@ -753,19 +761,19 @@
           "pinned": false
         },
         {
-          "title": "US senator says Trump has ‘lost’ Iran war",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdUs5OWtrWGtib0Z4YjVSSnpreGRLbUExbFlGZndlOVBaeUU4eHYteFQzY21xLXA1alE4aHhYa1JNNGJhZm5wcFVwR0dRQ3VBQTdyNVRLSDF3ZXdGQ3lfTWQzcEM0bzl2WWh1QmViSThxRHdZRjIxUVRfQXcwWDlkZXgwVG12cFZW?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "seen": "20260810T030028Z",
-          "pinned": false
-        },
-        {
           "title": "Iraq’s Kurdish region wants to stay out of regional conflicts: PM Barzani",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObjdZTVQ3OTl6TWtHWXFmYTg2QW5NZFFoM1ZuWHdtb0ZsZVhCQTR5eG45a3Vncld5MEJaS2hkNElVX1lsNERVMllxNE1XV1IwQWhLR3NtU0F4QmJseUJHMnJkZkZYVVpQMWZjeHRNY05YaGk3T2h6OWZxYmpzTHFBVnlTRTFxcTJtS1ZoaVRvVzVVRXA3VmRnLUdOV0Nfai1PNlo3dXc3dW5tSUhZODZCYtIBtgFBVV95cUxNd3BkU05peUh0czFnck5wM0U4ODM2a05EU3l5LVZTSzYxalFyN1RndWNHd3VMRTRjSjgyTHdlNkx4UE1nZUxmYkNERTlpXzExMjluaS1rRnMtMHduRHBTNERxaXdXSzFpTWxrVl9MVG1ZWVowVmpnMzUxTkgtSzN2dnVQaHJtLW9XdUZmdW9rQldkX1hTbUdUSDVMa1l6RVVtM3RHVXhfaDU4dVlPMlRSVjVkQTVqZw?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260808T151349Z",
+          "pinned": false
+        },
+        {
+          "title": "At least 13 killed in Ukrainian drone attack on Russia’s Nizhnekamsk",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPS2hpbG04YURpX083TjZVR2tZZ1JEM1ZmR1dVeXdaQzBlZllZS2V5VzRwXzBocGRxaTc1QUtwWlJDazhjV3NvLTNjRDAxNXl5WkhxZjEyM29LTDN1cDA3XzNETGhXNnl2NkxuWldkYVJSX1RXclh5UjA0YnBKR1A3RFJzcUhnQUs5MWt0bG9RWDIzdWs1UnBIeXJPUGlwMHBLWFJMZW44V080V2hS0gGyAUFVX3lxTE5uSTlTRnQ4VWE2QkxwajVTaE4tTDVWTnl2UlliM3VIbWVmLWRXZF95UlJVRlFtYjM5bHJsb1prRHBheUZTYmVXdWw1SFlMTXVWVWZ3NDVhNXgyNi1TNVQ0TS1hcXUtTkdIOU9OY0JaYlpQcFJkTDdSUlBJZDJVQWdBN2VwWDVSb0QxYW1RWjdHbjFOblRLNm03TV9ZSHo3VlRJTXhNMHJVRmJlRk03R18yOHc?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260810T110308Z",
           "pinned": false
         },
         {
@@ -809,22 +817,6 @@
           "pinned": false
         },
         {
-          "title": "Iran seeks way out of ‘neither war nor peace’ stalemate with US",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPV2VrcWc4MzZyVWp5eWpsZ0gwZi1CRE5kMm5UQktUazM1clJrMFhKYWVQM0YzSXh5UllibVlwRFlMY0VVNWR6UnhlNExHNEZEcEJJaE04V2V6STVfcHlDQTN2NVZnNDIwdjEzcVRndjVUemNQVGtiZ21EUE9qVDZzTEpYWlQwd9IBiwFBVV95cUxNemRsNjhoZTZ1R2plTWxtamJYeEMzVHRySXM1MzJpbTNOZ3ZMb0hRbWRXRDBibWdJVnRvS3R1UE1rQlNfQXlWWWcyXzdQMXloWnhKUVd0dmZyNnJEdWUzNDh3eUtzRXJyS2tHLWpCOXlRdnBDU0F3TDFTaV9pTGYxTzNDZXduazl0WW1N?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260809T044752Z",
-          "pinned": false
-        },
-        {
-          "title": "War on Iran: Saudi Arabia, Turkiye and Pakistan sign defence pact",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMTh5ZWwxZEpzdjVZX3B0NS12NVBfYzZCOEJCRkx1MmdMNlJHdlNKeS02WnVmWDhoYTYwY0R1RlM2enE3VFZsOE9iemloM0RCc2lpXzFQUi1BTXpYY25CSUpVeGU4R3VpWEp4ejNCUGZlT005OUc0RXJlSXVDdE9QT21wMkxKZUVFaEg3SVFvdDQtcG8tbEFZdDBGamw4MWlNRDk4N1p3ZlI0cTZ1M0tGMll1c9IBuAFBVV95cUxOc2l4eFZ3UzBPcHBkU1RkMUFxWGVUS2x6SG8xWGFxekEwT3pHcUJ1VlBLTnBsNmtPNTB1U3RjalAwMGRWOURCWVdCSHhScHF0bE93NWFfZTBLcVk0aGlDVVJ6V3JTQU12OExyYl9lZDlSejBlajYtRE1KZndRX1RUZHRSbGs0TGJkZU85clEtTlJjajVCRU9IMXRwOGlJNmpSLVRwdlBTWFJwUHpPYm96ZVlVeVFrNE5w?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260807T170221Z",
-          "pinned": false
-        },
-        {
           "title": "Why is Pezeshkian urging an end to Iran’s ‘no war, no peace’ status?",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNekhIU3NwMjBHc0FzcjY2b2FCVjN5a0lBZ2dHNFkxQ2R2ZlA4X3h5eHN5WDQwdExkMkN1ZjRGNE5tRmdYWXdQZllyNXAzempoUmFMejhkR0hlWDZVcDZWU0Q2NG13NG5mMHhXVmVNRU1PYUx4aVN4NWstaHJwdTRoTFVSRTlsQmpYWGhyUU1GUnVSRkp4Sk9odDJ6d3Y3Z1F3aFhFVi1B0gGrAUFVX3lxTE15SnIxanV5NDNQOTVIM0VUMDZEWHo4OVVlZ3o2a3JqeENkSnVCdXdkVW56Z3pFaW5VWm1FUWZ5V3A3ZVF3X19aQ3JQOHVsb0JCTnljN1BwRV9oYU9fakhUVUpWVWh2QjNEa2lwRWFvd2Q1QjVwU0UtT3FkS3N4VlVpdE9iTVFnTnBzbDVabVY1LXpUMEJUSnFwT21GLVZFQU01bUlYTHo4NnBsMA?oc=5",
           "domain": "aljazeera.com",
@@ -833,11 +825,11 @@
           "pinned": false
         },
         {
-          "title": "Houthi strikes in Yemen as Saudi Arabia braces for attacks: What we know",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVy1aejJVOTJEdzhFTzNTUV80eUpJUnh1ZjRzcE1BMm1ueDF3XzZOMmVDTWVWVzc2S29kTDdBVUhoQTE0Mm1OTkdDYmpnUVBGT3h1MFkwQWFuM3pVcW9xOW9YSGJweklEMTdEM0hnSFBKQTI0RXpRUWRxNHdLYkxhZWhaaTFWRkxycDlvUmhIOXlseTQ4ZkdJbzFmWEtVcWVELTBmV2NlOU85TXE4NW5SSzVB0gG3AUFVX3lxTE5CTGxzYlNCcC1aMTA2Qk1RYTBaVjlNZnRKdWs5QWJMbDMyR3A2SWo3NmhOaXBHbkFfZUxFSXVOMm9CNU5KYmNBZUw0dmRua0NFTnhJdkZYMzBEXzJfWmpKWnF0dktQTnU0OUFYbnA5S0FTQjFzaDlacG1NNi1xOENqVVBUYXYwQmNZeEVMRUZHYVJ5OE5hWGRyX24zLVo4WUNtWU9TbE91NVJYcVdrYmhJLVhiUG9qOA?oc=5",
+          "title": "Iran seeks way out of ‘neither war nor peace’ stalemate with US",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPV2VrcWc4MzZyVWp5eWpsZ0gwZi1CRE5kMm5UQktUazM1clJrMFhKYWVQM0YzSXh5UllibVlwRFlMY0VVNWR6UnhlNExHNEZEcEJJaE04V2V6STVfcHlDQTN2NVZnNDIwdjEzcVRndjVUemNQVGtiZ21EUE9qVDZzTEpYWlQwd9IBiwFBVV95cUxNemRsNjhoZTZ1R2plTWxtamJYeEMzVHRySXM1MzJpbTNOZ3ZMb0hRbWRXRDBibWdJVnRvS3R1UE1rQlNfQXlWWWcyXzdQMXloWnhKUVd0dmZyNnJEdWUzNDh3eUtzRXJyS2tHLWpCOXlRdnBDU0F3TDFTaV9pTGYxTzNDZXduazl0WW1N?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260807T105639Z",
+          "seen": "20260809T044752Z",
           "pinned": false
         },
         {
@@ -849,11 +841,27 @@
           "pinned": false
         },
         {
-          "title": "Trump's top general seeks path out of Iran war as military options narrow: Report",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaERYTVlHdnNXZzJERndvTHdOcmlBYUl1QmNEb0ZYdjV0UGY1M3RXWnVOY0F3U3paWkg3QjJoZ3AzN2RYODR1aG43MG85b005am1ZeEtDWVN1dXhfV1ZwRzhMZkRMejBRSjk0dFNfTEpwMm45ZTNNM1N4NDhYYXl1cnl1ZVl4eVJtNzRNWGpja20tYzM4aUZLVXVnWEJhVjZESWNQUlpTVVVTdTlRX2xyd0JTNWN2U1U0b0JHc2RhT24xNll0NllOdkNRNA?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "seen": "20260808T024947Z",
+          "title": "War on Iran: Saudi Arabia, Turkiye and Pakistan sign defence pact",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMTh5ZWwxZEpzdjVZX3B0NS12NVBfYzZCOEJCRkx1MmdMNlJHdlNKeS02WnVmWDhoYTYwY0R1RlM2enE3VFZsOE9iemloM0RCc2lpXzFQUi1BTXpYY25CSUpVeGU4R3VpWEp4ejNCUGZlT005OUc0RXJlSXVDdE9QT21wMkxKZUVFaEg3SVFvdDQtcG8tbEFZdDBGamw4MWlNRDk4N1p3ZlI0cTZ1M0tGMll1c9IBuAFBVV95cUxOc2l4eFZ3UzBPcHBkU1RkMUFxWGVUS2x6SG8xWGFxekEwT3pHcUJ1VlBLTnBsNmtPNTB1U3RjalAwMGRWOURCWVdCSHhScHF0bE93NWFfZTBLcVk0aGlDVVJ6V3JTQU12OExyYl9lZDlSejBlajYtRE1KZndRX1RUZHRSbGs0TGJkZU85clEtTlJjajVCRU9IMXRwOGlJNmpSLVRwdlBTWFJwUHpPYm96ZVlVeVFrNE5w?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260807T170221Z",
+          "pinned": false
+        },
+        {
+          "title": "Houthi strikes in Yemen as Saudi Arabia braces for attacks: What we know",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVy1aejJVOTJEdzhFTzNTUV80eUpJUnh1ZjRzcE1BMm1ueDF3XzZOMmVDTWVWVzc2S29kTDdBVUhoQTE0Mm1OTkdDYmpnUVBGT3h1MFkwQWFuM3pVcW9xOW9YSGJweklEMTdEM0hnSFBKQTI0RXpRUWRxNHdLYkxhZWhaaTFWRkxycDlvUmhIOXlseTQ4ZkdJbzFmWEtVcWVELTBmV2NlOU85TXE4NW5SSzVB0gG3AUFVX3lxTE5CTGxzYlNCcC1aMTA2Qk1RYTBaVjlNZnRKdWs5QWJMbDMyR3A2SWo3NmhOaXBHbkFfZUxFSXVOMm9CNU5KYmNBZUw0dmRua0NFTnhJdkZYMzBEXzJfWmpKWnF0dktQTnU0OUFYbnA5S0FTQjFzaDlacG1NNi1xOENqVVBUYXYwQmNZeEVMRUZHYVJ5OE5hWGRyX24zLVo4WUNtWU9TbE91NVJYcVdrYmhJLVhiUG9qOA?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260807T105639Z",
+          "pinned": false
+        },
+        {
+          "title": "War on Iran: Phase II: Day 29",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRW56N3I4cWpfTF9UVTUzMGc5enBYNVdnU0dFaUF0NmNqOGdyVWVBU1BzTXRJZVpaRGdiX09EQklLYWJKcm45ejdRTkV0bVg4UVlvUG1fclk0ODlnTi1xQXFUUl9yTE9LX08yRXlOMWpyNjRJNjNYUVFnQTltOFlhZzFyMNIBiAFBVV95cUxONUE2UTVUelBxM3p1cG1HZl9UZjJRZFowVUFmZk1JLWMwQ1RNWGxBMVl4M2ZRSXZHSVQ1Q25DYmQwTl9jNmZ1LWNrcW1ENWRZZDl4dTd0RGRocmdPT2E2UHdVRFNRcXNCLVBFMThCQm1uS2pWZVI5VXBKOHBVOGFPenluNDM2cmFz?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260809T160840Z",
           "pinned": false
         },
         {
@@ -873,6 +881,22 @@
           "pinned": false
         },
         {
+          "title": "Why Netanyahu’s ‘coup’ against Gaza plan risks endless war",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQamZpdThYNWpmX0xZSWdqQVBZUDl6MFJkWWFzUnB1M05HZk1hdzgzMDlhZEN3OTFVamQ5Ny1hVll1dm5xWWZtSXBwVTFoVFplTDBUT1RVSW42WmtHMzJ3Y2VLNkcwV2pIVnhQbXVqU2lSRXBSVGNLRWs4MHFTd0haZ2haaTZJZGdRN25BQ3BDYjRTVjZQQW1vNUtCNVbSAaIBQVVfeXFMT2lOSndmT255Q2xwOFg0eG5FRHg5akNOaUxaMVNISVBWel80NkpHOUxMY3dDdzJydklNaW1wN3pILXlCRmFqblp5LWloM0VDVkN0RENSYVZwdVprUG4zMXVpaW5aLTFpRVR1alVYejFGRFNzUVpIbW94UFU4bU9LZk1UQjZVQXNRVlROVUl2Tkd1Q2tBczAwY1V1d2R4R1FzYkpR?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260810T140345Z",
+          "pinned": false
+        },
+        {
+          "title": "‘Long-range sanctions’: Ukraine hopes strikes cause Russia fear and losses",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTWh0UHBzOVZRUVI4TGpRdnp6Y1FJTkl6Y2VwWVRuWEtydXEtb1lwWjhpVGFDT3FwaDJTTGppQkZ5Uld2Umh0RUFsejlnUVJKbXEyZDRXYVA3THlhQk1EWTRVZ0ljQWE1S3lQS3Z5b0gzNFYtZTJBR3JyMHRXZlZJcnNHNWZEUmFqSWxteHBkMnlCVWFMZUVhZnBEZjl3aVpjV2ZyNl9sQjhVNW9rUGtyeHN30gG3AUFVX3lxTE5TYXJMLTRCRnpZRjUtN29EazN2LXFtajR6YThTZVY1Rm5lLXd5TDV5V3pKRGpYTk5jRFNMM3h2bTlnWFplbnBtUGgyRk1sY29DYVdQZFRRbDNEMkdQUXhDUjdPUWotZnBPMU9oN2lISjFNd3hHZkQyU2k2bE4tZU83QVVhV2tBM3BwLTc1eUx1c0duQnhseEZ2SXBLZEg5aEJfMUJsWTNmYkpZUkVOQ1RKcS1aWjFBOA?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260810T115726Z",
+          "pinned": false
+        },
+        {
           "title": "Trump signals shift to economic pressure on Iran over new military strikes",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZUp2OWhnVmxOYkpZTTM5TEktOUY1REswc3Roc04zNDNKbDAwQl9ib2JhZ1QtbHY3UHJXc2JjVkNYam5WNVJPR1lNNnlmS3ZkX253WTJtRE9ESG1BdnVSanQxWk9MR2NDeG15dlpzaEZrTm1Rcnowc1RLRmlaSnNPVmJxRHBUU0M1RWlqNTlSYmtDbW1zRzVDZHNkSk5SR1RWMWFmeVVMUHBCNzlJeVZmXzEyeURfd015SmfSAb8BQVVfeXFMUFFkMFhlblVNbUtKdmNacEI5cHVJRjJJbW44VXFoQzkwNXozeEoxZHFIWHZ2aEllSGpEQkYwVXhQV210LUFsMUloaWFZVXlQdmJjcTBOb2JmdzlaWnVyQkcxSUd1eGFtMzRUaW1BaktraDBxcnJGZjNvSjBJSXpaMzJtLTBPcGgyaWE2ZHE1TkhkY19ZRXdqR1Vubk1JbVJJMDZ6d2w1dmwtVVZPb244OGtYeW1pRC1tN2p1b3BiZlU?oc=5",
           "domain": "aljazeera.com",
@@ -887,50 +911,17 @@
           "sourceTier": "Independent reporting",
           "seen": "20260808T203900Z",
           "pinned": false
-        },
-        {
-          "title": "Houthi attacks kill seven in Yemen, refinery targeted in Saudi Arabia",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTUZxOWROQkhqU0lHQ25IUWpWc2lwNmFPSUNWSTRGN2tDTFBwRlBXWlpXeEZLaGpGQi14RkFWVzZMdUlxSWVvNWxUdE0wa01hcUU1elJRamNBdEtQdXVSSVIyNVVyeV9tZTlyakdWTW5fYVlKdHNlbzJENHpGOFNaa2lUcXRtejdsNXRNcWpWRlNWVW0wQ1ZiaVVmN1BpQjdVV1ktQVJB0gGrAUFVX3lxTE1YV2laV1dHR0h1YXdEV3RLZHBSNDVnYVZZZHhFWjNxZG1DZ3FkRDkya24xV1FJTUROaHhSUUs5QnJ1ZTNUR04xSTgtWFM2ZDhyZ2Q2UFV4c3JBUnpSdzE0dWJmTWcya0tEeWx1YS10b1ZEWi00Mk1CY1VxMEdUaklsQl9OQlR0RkdRT1p0Uks4c3VfOWJheXBFVnlpQUJkNm0xcVBCMjZicVJxcw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260809T192135Z",
-          "pinned": false
-        },
-        {
-          "title": "Russia, Ukraine exchange overnight strikes that leave 7 dead, many injured",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZUUwZGVYSU5sMHpMazg3MEo2YkJ0RlJEOGloN2UxcXVNSENMSWYwdFM2aFdTa3g1ZjdER3FxS3ZDS3c1cWZoSy1nVUFWODlOM2g4VzRmN2VvYWZxaGJ3aHdvX2VSdTJlN3RyOVhsQW5NTllELTI5U1d0VmxwYWlsRWNVNnlQWk01eGtMQ09mYV9JLVFETDJncU4xaUpab0Vrc2lGVw?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260809T151800Z",
-          "pinned": false
-        },
-        {
-          "title": "Child among three dead in Russian nightly strikes near Kyiv",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JRW51dTJkckJQckpncDJDdVloS0pKZ01TeVdTVnZUX1pOb2ZlVVRIdHU0Q3NVd0NGb19oZVBOcmtqa1JXb1dSVE41THhNblhpWlpwR21mWW5odw?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260808T180625Z",
-          "pinned": false
         }
       ],
       "reports": [
         {
-          "id": "report-08b2b0726d32",
-          "title": "Trump says war ‘can’t go much longer’ – what’s the latest on talks?",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcm5CZUFmeUtIeDNGUXhOckUxSEN4VnhlY3JBQTNkSTBXWUVfekxRMXNhdzMzcTRjMjZydzVIMDI1czc5aHY5VnB1WmJtTkVhOHNlMFI0MkkzTEJqNlBWb1dBTFExdnhnd1pKOVk5anNzNlRZZXpXMGE5b2xJQVZjN3ZjRkVtQW5SYzNWbXlNTnVPVmNsRF92THJR0gGfAUFVX3lxTFBsdWNwdTgtWUdfM0tlaVIzNVJRRGR3Q0lsVExGV2xyQTFsQTNPWmNyME00aTdTT2RZdENaejVTMmthTDJGZi1tQm9BcHlhWFY3SktiVGdQTkxmTlFXOG1xekZrVEFIcjQzbVZibXI5TjhlZEE3WFdaaXJCUUJyRFhFQzVzbmRHc3VJeHA0MmkzY1FYZVdVYzE4NjYzMnhpRQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-07T11:19:32Z"
-        },
-        {
-          "id": "report-d083776995f6",
-          "title": "UN chief condemns both Ukraine and Russia amid escalation in war",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ0JTZjl2dHZoVFVod1NhTnVQNjRDeEIxQkUzUlk1TGYxLU5aYk9iQkJwa3hteWR5WWdfSmFsNGxxRVJwTVNFNVdfZVpNeHhxU3NlVDdFWkZaemwyNDRLdkN4eUZNVzVpS2dzU2JZcmhtVzlTdFNlVnNlQTFkYWhsMTBGTUNFbndwTmFFV1Q3cDBfVjlhOXdvRHVTN0ZxcVdEckp6c2tIMy1TQjRDQWlvU09VTFLSAboBQVVfeXFMT2l5RTZfXzlhQmV0UjFEc3VRZVFDejZmN1R3YnI4bFNmLTRVd1hVcVp6cHFna0tYd3NhSk5iMTNSMGMwT3R5UWRaX3ctVldkT0ZLaU5ETkVNbHRwdGFsa3h0Q1FqMEg2VzhhRnZzZUlBMlRxM0FiS0N1YldlQmNMbk05cXZQTzJKbUxXUlVESjdDQUxjNnFEbXh0YkZWWHhIbGtUX0J2clhseFJMQ1hxTlFyOXlGUmhRYjZ3?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-07T12:42:59Z"
+          "id": "report-b6f1830e3a32",
+          "title": "US senator says Trump has ‘lost’ Iran war",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdUs5OWtrWGtib0Z4YjVSSnpreGRLbUExbFlGZndlOVBaeUU4eHYteFQzY21xLXA1alE4aHhYa1JNNGJhZm5wcFVwR0dRQ3VBQTdyNVRLSDF3ZXdGQ3lfTWQzcEM0bzl2WWh1QmViSThxRHdZRjIxUVRfQXcwWDlkZXgwVG12cFZW?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-08-10T03:00:28Z"
         },
         {
           "id": "report-3d38dd7c63f8",
@@ -942,6 +933,24 @@
           "reportedAt": "2026-08-09T09:03:56Z"
         },
         {
+          "id": "report-d083776995f6",
+          "title": "UN chief condemns both Ukraine and Russia amid escalation in war",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ0JTZjl2dHZoVFVod1NhTnVQNjRDeEIxQkUzUlk1TGYxLU5aYk9iQkJwa3hteWR5WWdfSmFsNGxxRVJwTVNFNVdfZVpNeHhxU3NlVDdFWkZaemwyNDRLdkN4eUZNVzVpS2dzU2JZcmhtVzlTdFNlVnNlQTFkYWhsMTBGTUNFbndwTmFFV1Q3cDBfVjlhOXdvRHVTN0ZxcVdEckp6c2tIMy1TQjRDQWlvU09VTFLSAboBQVVfeXFMT2l5RTZfXzlhQmV0UjFEc3VRZVFDejZmN1R3YnI4bFNmLTRVd1hVcVp6cHFna0tYd3NhSk5iMTNSMGMwT3R5UWRaX3ctVldkT0ZLaU5ETkVNbHRwdGFsa3h0Q1FqMEg2VzhhRnZzZUlBMlRxM0FiS0N1YldlQmNMbk05cXZQTzJKbUxXUlVESjdDQUxjNnFEbXh0YkZWWHhIbGtUX0J2clhseFJMQ1hxTlFyOXlGUmhRYjZ3?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-07T12:42:59Z"
+        },
+        {
+          "id": "report-08b2b0726d32",
+          "title": "Trump says war ‘can’t go much longer’ – what’s the latest on talks?",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcm5CZUFmeUtIeDNGUXhOckUxSEN4VnhlY3JBQTNkSTBXWUVfekxRMXNhdzMzcTRjMjZydzVIMDI1czc5aHY5VnB1WmJtTkVhOHNlMFI0MkkzTEJqNlBWb1dBTFExdnhnd1pKOVk5anNzNlRZZXpXMGE5b2xJQVZjN3ZjRkVtQW5SYzNWbXlNTnVPVmNsRF92THJR0gGfAUFVX3lxTFBsdWNwdTgtWUdfM0tlaVIzNVJRRGR3Q0lsVExGV2xyQTFsQTNPWmNyME00aTdTT2RZdENaejVTMmthTDJGZi1tQm9BcHlhWFY3SktiVGdQTkxmTlFXOG1xekZrVEFIcjQzbVZibXI5TjhlZEE3WFdaaXJCUUJyRFhFQzVzbmRHc3VJeHA0MmkzY1FYZVdVYzE4NjYzMnhpRQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-07T11:19:32Z"
+        },
+        {
           "id": "report-254f1050aac5",
           "title": "Israel prepares for possible unilateral strikes on Iran: Israeli media",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORnBwMDd2NXlSclA4SjZxUzNxckZMVFRHckt1X25YRnlMaWxhVEJsUU9QUU1aNkhnc3o5RmVMUXJQRmFMRWFVSHVZVzhwbWpFM3RGdlRtN3R6RUFqdF9uYVVsTjlkaEJVeHA5ZXh5bnl2V0VZYkYtOXhJVFN2Q0VWcEtYaWNiQXhTMHZoc3lXbDIxdU1wNzh1azM3S0NrdnBSLTh5ZHlScmRfazkxM0FtblVNaTE?oc=5",
@@ -951,15 +960,6 @@
           "reportedAt": "2026-08-08T22:40:01Z"
         },
         {
-          "id": "report-b6f1830e3a32",
-          "title": "US senator says Trump has ‘lost’ Iran war",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdUs5OWtrWGtib0Z4YjVSSnpreGRLbUExbFlGZndlOVBaeUU4eHYteFQzY21xLXA1alE4aHhYa1JNNGJhZm5wcFVwR0dRQ3VBQTdyNVRLSDF3ZXdGQ3lfTWQzcEM0bzl2WWh1QmViSThxRHdZRjIxUVRfQXcwWDlkZXgwVG12cFZW?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
-          "reportedAt": "2026-08-10T03:00:28Z"
-        },
-        {
           "id": "report-439e5d8ab644",
           "title": "Iraq’s Kurdish region wants to stay out of regional conflicts: PM Barzani",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObjdZTVQ3OTl6TWtHWXFmYTg2QW5NZFFoM1ZuWHdtb0ZsZVhCQTR5eG45a3Vncld5MEJaS2hkNElVX1lsNERVMllxNE1XV1IwQWhLR3NtU0F4QmJseUJHMnJkZkZYVVpQMWZjeHRNY05YaGk3T2h6OWZxYmpzTHFBVnlTRTFxcTJtS1ZoaVRvVzVVRXA3VmRnLUdOV0Nfai1PNlo3dXc3dW5tSUhZODZCYtIBtgFBVV95cUxNd3BkU05peUh0czFnck5wM0U4ODM2a05EU3l5LVZTSzYxalFyN1RndWNHd3VMRTRjSjgyTHdlNkx4UE1nZUxmYkNERTlpXzExMjluaS1rRnMtMHduRHBTNERxaXdXSzFpTWxrVl9MVG1ZWVowVmpnMzUxTkgtSzN2dnVQaHJtLW9XdUZmdW9rQldkX1hTbUdUSDVMa1l6RVVtM3RHVXhfaDU4dVlPMlRSVjVkQTVqZw?oc=5",
@@ -967,6 +967,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-08T15:13:49Z"
+        },
+        {
+          "id": "report-c108be1a5eb9",
+          "title": "At least 13 killed in Ukrainian drone attack on Russia’s Nizhnekamsk",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPS2hpbG04YURpX083TjZVR2tZZ1JEM1ZmR1dVeXdaQzBlZllZS2V5VzRwXzBocGRxaTc1QUtwWlJDazhjV3NvLTNjRDAxNXl5WkhxZjEyM29LTDN1cDA3XzNETGhXNnl2NkxuWldkYVJSX1RXclh5UjA0YnBKR1A3RFJzcUhnQUs5MWt0bG9RWDIzdWs1UnBIeXJPUGlwMHBLWFJMZW44V080V2hS0gGyAUFVX3lxTE5uSTlTRnQ4VWE2QkxwajVTaE4tTDVWTnl2UlliM3VIbWVmLWRXZF95UlJVRlFtYjM5bHJsb1prRHBheUZTYmVXdWw1SFlMTXVWVWZ3NDVhNXgyNi1TNVQ0TS1hcXUtTkdIOU9OY0JaYlpQcFJkTDdSUlBJZDJVQWdBN2VwWDVSb0QxYW1RWjdHbjFOblRLNm03TV9ZSHo3VlRJTXhNMHJVRmJlRk03R18yOHc?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-10T11:03:08Z"
         },
         {
           "id": "report-1b7bba276ab8",
@@ -1014,24 +1023,6 @@
           "reportedAt": "2026-08-08T12:17:59Z"
         },
         {
-          "id": "report-33ae1a5a9943",
-          "title": "Iran seeks way out of ‘neither war nor peace’ stalemate with US",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPV2VrcWc4MzZyVWp5eWpsZ0gwZi1CRE5kMm5UQktUazM1clJrMFhKYWVQM0YzSXh5UllibVlwRFlMY0VVNWR6UnhlNExHNEZEcEJJaE04V2V6STVfcHlDQTN2NVZnNDIwdjEzcVRndjVUemNQVGtiZ21EUE9qVDZzTEpYWlQwd9IBiwFBVV95cUxNemRsNjhoZTZ1R2plTWxtamJYeEMzVHRySXM1MzJpbTNOZ3ZMb0hRbWRXRDBibWdJVnRvS3R1UE1rQlNfQXlWWWcyXzdQMXloWnhKUVd0dmZyNnJEdWUzNDh3eUtzRXJyS2tHLWpCOXlRdnBDU0F3TDFTaV9pTGYxTzNDZXduazl0WW1N?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-09T04:47:52Z"
-        },
-        {
-          "id": "report-09c874dddc34",
-          "title": "War on Iran: Saudi Arabia, Turkiye and Pakistan sign defence pact",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMTh5ZWwxZEpzdjVZX3B0NS12NVBfYzZCOEJCRkx1MmdMNlJHdlNKeS02WnVmWDhoYTYwY0R1RlM2enE3VFZsOE9iemloM0RCc2lpXzFQUi1BTXpYY25CSUpVeGU4R3VpWEp4ejNCUGZlT005OUc0RXJlSXVDdE9QT21wMkxKZUVFaEg3SVFvdDQtcG8tbEFZdDBGamw4MWlNRDk4N1p3ZlI0cTZ1M0tGMll1c9IBuAFBVV95cUxOc2l4eFZ3UzBPcHBkU1RkMUFxWGVUS2x6SG8xWGFxekEwT3pHcUJ1VlBLTnBsNmtPNTB1U3RjalAwMGRWOURCWVdCSHhScHF0bE93NWFfZTBLcVk0aGlDVVJ6V3JTQU12OExyYl9lZDlSejBlajYtRE1KZndRX1RUZHRSbGs0TGJkZU85clEtTlJjajVCRU9IMXRwOGlJNmpSLVRwdlBTWFJwUHpPYm96ZVlVeVFrNE5w?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-07T17:02:21Z"
-        },
-        {
           "id": "report-79bc31ed1a5b",
           "title": "Why is Pezeshkian urging an end to Iran’s ‘no war, no peace’ status?",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNekhIU3NwMjBHc0FzcjY2b2FCVjN5a0lBZ2dHNFkxQ2R2ZlA4X3h5eHN5WDQwdExkMkN1ZjRGNE5tRmdYWXdQZllyNXAzempoUmFMejhkR0hlWDZVcDZWU0Q2NG13NG5mMHhXVmVNRU1PYUx4aVN4NWstaHJwdTRoTFVSRTlsQmpYWGhyUU1GUnVSRkp4Sk9odDJ6d3Y3Z1F3aFhFVi1B0gGrAUFVX3lxTE15SnIxanV5NDNQOTVIM0VUMDZEWHo4OVVlZ3o2a3JqeENkSnVCdXdkVW56Z3pFaW5VWm1FUWZ5V3A3ZVF3X19aQ3JQOHVsb0JCTnljN1BwRV9oYU9fakhUVUpWVWh2QjNEa2lwRWFvd2Q1QjVwU0UtT3FkS3N4VlVpdE9iTVFnTnBzbDVabVY1LXpUMEJUSnFwT21GLVZFQU01bUlYTHo4NnBsMA?oc=5",
@@ -1041,13 +1032,13 @@
           "reportedAt": "2026-08-09T12:37:53Z"
         },
         {
-          "id": "report-456372edcde6",
-          "title": "Houthi strikes in Yemen as Saudi Arabia braces for attacks: What we know",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVy1aejJVOTJEdzhFTzNTUV80eUpJUnh1ZjRzcE1BMm1ueDF3XzZOMmVDTWVWVzc2S29kTDdBVUhoQTE0Mm1OTkdDYmpnUVBGT3h1MFkwQWFuM3pVcW9xOW9YSGJweklEMTdEM0hnSFBKQTI0RXpRUWRxNHdLYkxhZWhaaTFWRkxycDlvUmhIOXlseTQ4ZkdJbzFmWEtVcWVELTBmV2NlOU85TXE4NW5SSzVB0gG3AUFVX3lxTE5CTGxzYlNCcC1aMTA2Qk1RYTBaVjlNZnRKdWs5QWJMbDMyR3A2SWo3NmhOaXBHbkFfZUxFSXVOMm9CNU5KYmNBZUw0dmRua0NFTnhJdkZYMzBEXzJfWmpKWnF0dktQTnU0OUFYbnA5S0FTQjFzaDlacG1NNi1xOENqVVBUYXYwQmNZeEVMRUZHYVJ5OE5hWGRyX24zLVo4WUNtWU9TbE91NVJYcVdrYmhJLVhiUG9qOA?oc=5",
+          "id": "report-33ae1a5a9943",
+          "title": "Iran seeks way out of ‘neither war nor peace’ stalemate with US",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPV2VrcWc4MzZyVWp5eWpsZ0gwZi1CRE5kMm5UQktUazM1clJrMFhKYWVQM0YzSXh5UllibVlwRFlMY0VVNWR6UnhlNExHNEZEcEJJaE04V2V6STVfcHlDQTN2NVZnNDIwdjEzcVRndjVUemNQVGtiZ21EUE9qVDZzTEpYWlQwd9IBiwFBVV95cUxNemRsNjhoZTZ1R2plTWxtamJYeEMzVHRySXM1MzJpbTNOZ3ZMb0hRbWRXRDBibWdJVnRvS3R1UE1rQlNfQXlWWWcyXzdQMXloWnhKUVd0dmZyNnJEdWUzNDh3eUtzRXJyS2tHLWpCOXlRdnBDU0F3TDFTaV9pTGYxTzNDZXduazl0WW1N?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-07T10:56:39Z"
+          "reportedAt": "2026-08-09T04:47:52Z"
         },
         {
           "id": "report-cdeab4f938c0",
@@ -1059,13 +1050,31 @@
           "reportedAt": "2026-08-09T06:51:04Z"
         },
         {
-          "id": "report-24326b2ed182",
-          "title": "Trump's top general seeks path out of Iran war as military options narrow: Report",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaERYTVlHdnNXZzJERndvTHdOcmlBYUl1QmNEb0ZYdjV0UGY1M3RXWnVOY0F3U3paWkg3QjJoZ3AzN2RYODR1aG43MG85b005am1ZeEtDWVN1dXhfV1ZwRzhMZkRMejBRSjk0dFNfTEpwMm45ZTNNM1N4NDhYYXl1cnl1ZVl4eVJtNzRNWGpja20tYzM4aUZLVXVnWEJhVjZESWNQUlpTVVVTdTlRX2xyd0JTNWN2U1U0b0JHc2RhT24xNll0NllOdkNRNA?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
-          "reportedAt": "2026-08-08T02:49:47Z"
+          "id": "report-09c874dddc34",
+          "title": "War on Iran: Saudi Arabia, Turkiye and Pakistan sign defence pact",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMTh5ZWwxZEpzdjVZX3B0NS12NVBfYzZCOEJCRkx1MmdMNlJHdlNKeS02WnVmWDhoYTYwY0R1RlM2enE3VFZsOE9iemloM0RCc2lpXzFQUi1BTXpYY25CSUpVeGU4R3VpWEp4ejNCUGZlT005OUc0RXJlSXVDdE9QT21wMkxKZUVFaEg3SVFvdDQtcG8tbEFZdDBGamw4MWlNRDk4N1p3ZlI0cTZ1M0tGMll1c9IBuAFBVV95cUxOc2l4eFZ3UzBPcHBkU1RkMUFxWGVUS2x6SG8xWGFxekEwT3pHcUJ1VlBLTnBsNmtPNTB1U3RjalAwMGRWOURCWVdCSHhScHF0bE93NWFfZTBLcVk0aGlDVVJ6V3JTQU12OExyYl9lZDlSejBlajYtRE1KZndRX1RUZHRSbGs0TGJkZU85clEtTlJjajVCRU9IMXRwOGlJNmpSLVRwdlBTWFJwUHpPYm96ZVlVeVFrNE5w?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-07T17:02:21Z"
+        },
+        {
+          "id": "report-456372edcde6",
+          "title": "Houthi strikes in Yemen as Saudi Arabia braces for attacks: What we know",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVy1aejJVOTJEdzhFTzNTUV80eUpJUnh1ZjRzcE1BMm1ueDF3XzZOMmVDTWVWVzc2S29kTDdBVUhoQTE0Mm1OTkdDYmpnUVBGT3h1MFkwQWFuM3pVcW9xOW9YSGJweklEMTdEM0hnSFBKQTI0RXpRUWRxNHdLYkxhZWhaaTFWRkxycDlvUmhIOXlseTQ4ZkdJbzFmWEtVcWVELTBmV2NlOU85TXE4NW5SSzVB0gG3AUFVX3lxTE5CTGxzYlNCcC1aMTA2Qk1RYTBaVjlNZnRKdWs5QWJMbDMyR3A2SWo3NmhOaXBHbkFfZUxFSXVOMm9CNU5KYmNBZUw0dmRua0NFTnhJdkZYMzBEXzJfWmpKWnF0dktQTnU0OUFYbnA5S0FTQjFzaDlacG1NNi1xOENqVVBUYXYwQmNZeEVMRUZHYVJ5OE5hWGRyX24zLVo4WUNtWU9TbE91NVJYcVdrYmhJLVhiUG9qOA?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-07T10:56:39Z"
+        },
+        {
+          "id": "report-2970ff3c8e81",
+          "title": "War on Iran: Phase II: Day 29",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRW56N3I4cWpfTF9UVTUzMGc5enBYNVdnU0dFaUF0NmNqOGdyVWVBU1BzTXRJZVpaRGdiX09EQklLYWJKcm45ejdRTkV0bVg4UVlvUG1fclk0ODlnTi1xQXFUUl9yTE9LX08yRXlOMWpyNjRJNjNYUVFnQTltOFlhZzFyMNIBiAFBVV95cUxONUE2UTVUelBxM3p1cG1HZl9UZjJRZFowVUFmZk1JLWMwQ1RNWGxBMVl4M2ZRSXZHSVQ1Q25DYmQwTl9jNmZ1LWNrcW1ENWRZZDl4dTd0RGRocmdPT2E2UHdVRFNRcXNCLVBFMThCQm1uS2pWZVI5VXBKOHBVOGFPenluNDM2cmFz?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-09T16:08:40Z"
         },
         {
           "id": "report-c49420751f90",
@@ -1086,6 +1095,24 @@
           "reportedAt": "2026-08-07T00:26:52Z"
         },
         {
+          "id": "report-ec4bbf147c6e",
+          "title": "Why Netanyahu’s ‘coup’ against Gaza plan risks endless war",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQamZpdThYNWpmX0xZSWdqQVBZUDl6MFJkWWFzUnB1M05HZk1hdzgzMDlhZEN3OTFVamQ5Ny1hVll1dm5xWWZtSXBwVTFoVFplTDBUT1RVSW42WmtHMzJ3Y2VLNkcwV2pIVnhQbXVqU2lSRXBSVGNLRWs4MHFTd0haZ2haaTZJZGdRN25BQ3BDYjRTVjZQQW1vNUtCNVbSAaIBQVVfeXFMT2lOSndmT255Q2xwOFg0eG5FRHg5akNOaUxaMVNISVBWel80NkpHOUxMY3dDdzJydklNaW1wN3pILXlCRmFqblp5LWloM0VDVkN0RENSYVZwdVprUG4zMXVpaW5aLTFpRVR1alVYejFGRFNzUVpIbW94UFU4bU9LZk1UQjZVQXNRVlROVUl2Tkd1Q2tBczAwY1V1d2R4R1FzYkpR?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-10T14:03:45Z"
+        },
+        {
+          "id": "report-576e6741f0a0",
+          "title": "‘Long-range sanctions’: Ukraine hopes strikes cause Russia fear and losses",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTWh0UHBzOVZRUVI4TGpRdnp6Y1FJTkl6Y2VwWVRuWEtydXEtb1lwWjhpVGFDT3FwaDJTTGppQkZ5Uld2Umh0RUFsejlnUVJKbXEyZDRXYVA3THlhQk1EWTRVZ0ljQWE1S3lQS3Z5b0gzNFYtZTJBR3JyMHRXZlZJcnNHNWZEUmFqSWxteHBkMnlCVWFMZUVhZnBEZjl3aVpjV2ZyNl9sQjhVNW9rUGtyeHN30gG3AUFVX3lxTE5TYXJMLTRCRnpZRjUtN29EazN2LXFtajR6YThTZVY1Rm5lLXd5TDV5V3pKRGpYTk5jRFNMM3h2bTlnWFplbnBtUGgyRk1sY29DYVdQZFRRbDNEMkdQUXhDUjdPUWotZnBPMU9oN2lISjFNd3hHZkQyU2k2bE4tZU83QVVhV2tBM3BwLTc1eUx1c0duQnhseEZ2SXBLZEg5aEJfMUJsWTNmYkpZUkVOQ1RKcS1aWjFBOA?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-10T11:57:26Z"
+        },
+        {
           "id": "report-da82bc0f10d4",
           "title": "Trump signals shift to economic pressure on Iran over new military strikes",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZUp2OWhnVmxOYkpZTTM5TEktOUY1REswc3Roc04zNDNKbDAwQl9ib2JhZ1QtbHY3UHJXc2JjVkNYam5WNVJPR1lNNnlmS3ZkX253WTJtRE9ESG1BdnVSanQxWk9MR2NDeG15dlpzaEZrTm1Rcnowc1RLRmlaSnNPVmJxRHBUU0M1RWlqNTlSYmtDbW1zRzVDZHNkSk5SR1RWMWFmeVVMUHBCNzlJeVZmXzEyeURfd015SmfSAb8BQVVfeXFMUFFkMFhlblVNbUtKdmNacEI5cHVJRjJJbW44VXFoQzkwNXozeEoxZHFIWHZ2aEllSGpEQkYwVXhQV210LUFsMUloaWFZVXlQdmJjcTBOb2JmdzlaWnVyQkcxSUd1eGFtMzRUaW1BaktraDBxcnJGZjNvSjBJSXpaMzJtLTBPcGgyaWE2ZHE1TkhkY19ZRXdqR1Vubk1JbVJJMDZ6d2w1dmwtVVZPb244OGtYeW1pRC1tN2p1b3BiZlU?oc=5",
@@ -1102,33 +1129,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-08T20:39:00Z"
-        },
-        {
-          "id": "report-6b450fbf80f0",
-          "title": "Houthi attacks kill seven in Yemen, refinery targeted in Saudi Arabia",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTUZxOWROQkhqU0lHQ25IUWpWc2lwNmFPSUNWSTRGN2tDTFBwRlBXWlpXeEZLaGpGQi14RkFWVzZMdUlxSWVvNWxUdE0wa01hcUU1elJRamNBdEtQdXVSSVIyNVVyeV9tZTlyakdWTW5fYVlKdHNlbzJENHpGOFNaa2lUcXRtejdsNXRNcWpWRlNWVW0wQ1ZiaVVmN1BpQjdVV1ktQVJB0gGrAUFVX3lxTE1YV2laV1dHR0h1YXdEV3RLZHBSNDVnYVZZZHhFWjNxZG1DZ3FkRDkya24xV1FJTUROaHhSUUs5QnJ1ZTNUR04xSTgtWFM2ZDhyZ2Q2UFV4c3JBUnpSdzE0dWJmTWcya0tEeWx1YS10b1ZEWi00Mk1CY1VxMEdUaklsQl9OQlR0RkdRT1p0Uks4c3VfOWJheXBFVnlpQUJkNm0xcVBCMjZicVJxcw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-09T19:21:35Z"
-        },
-        {
-          "id": "report-7f3ab9b8a195",
-          "title": "Russia, Ukraine exchange overnight strikes that leave 7 dead, many injured",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZUUwZGVYSU5sMHpMazg3MEo2YkJ0RlJEOGloN2UxcXVNSENMSWYwdFM2aFdTa3g1ZjdER3FxS3ZDS3c1cWZoSy1nVUFWODlOM2g4VzRmN2VvYWZxaGJ3aHdvX2VSdTJlN3RyOVhsQW5NTllELTI5U1d0VmxwYWlsRWNVNnlQWk01eGtMQ09mYV9JLVFETDJncU4xaUpab0Vrc2lGVw?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-09T15:18:00Z"
-        },
-        {
-          "id": "report-965e05e2956f",
-          "title": "Child among three dead in Russian nightly strikes near Kyiv",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JRW51dTJkckJQckpncDJDdVloS0pKZ01TeVdTVnZUX1pOb2ZlVVRIdHU0Q3NVd0NGb19oZVBOcmtqa1JXb1dSVE41THhNblhpWlpwR21mWW5odw?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-08T18:06:25Z"
         },
         {
           "id": "report-dd2a1637dc48",
