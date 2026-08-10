@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-09T19:52:34.912Z",
+  "generatedAt": "2026-08-10T05:14:04.464Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-08-09T19:52:34.912Z",
+      "generatedAt": "2026-08-10T05:14:04.464Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -717,17 +717,9 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-08-09T19:52:34.912Z",
+      "generatedAt": "2026-08-10T05:14:04.464Z",
       "cadence": "every 6 hours",
       "items": [
-        {
-          "title": "Will the US-Iran war and Hormuz deadlock last for months?",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeWV1dlM0Uk8ya1hsSnUwMDluTlBGQW9zak8zVzh4RnRRNVBIMEszdkZjdTNoTFN2UlNpSDFXNXZZUlBfcWQ5YWpVMkptd2ZSV3oxNTBPbkU5eTAzRkhSUHhuSTVRclNQbS1kOF9QaDlVV21nZ3c5eVkyVWRYY09xZWlWMFZ0X0tZQTNTSlV0MGlKblFKS3ppN1p4bETSAaIBQVVfeXFMTWZkOHNkZkRlMUE5dTVSbXNsLVo3ZDB5b1hsS1QtMnY2Q1B2aG84dGoyYldwMmpidnZXdUtZa1JGMUVIS3VJcmhtaGU4eXRzVzVSR2o0QTR4R3ltZlM1aExuU3dyMWlkU3RIYmM1Sy0yZTRNMWFpTnFKbkRXTmxkTDNJRUVRbmZxal9vWWgwZUNDRHF5MDEyUHFiWUVOR1dWZ09n?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260806T133305Z",
-          "pinned": false
-        },
         {
           "title": "Trump says war ‘can’t go much longer’ – what’s the latest on talks?",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcm5CZUFmeUtIeDNGUXhOckUxSEN4VnhlY3JBQTNkSTBXWUVfekxRMXNhdzMzcTRjMjZydzVIMDI1czc5aHY5VnB1WmJtTkVhOHNlMFI0MkkzTEJqNlBWb1dBTFExdnhnd1pKOVk5anNzNlRZZXpXMGE5b2xJQVZjN3ZjRkVtQW5SYzNWbXlNTnVPVmNsRF92THJR0gGfAUFVX3lxTFBsdWNwdTgtWUdfM0tlaVIzNVJRRGR3Q0lsVExGV2xyQTFsQTNPWmNyME00aTdTT2RZdENaejVTMmthTDJGZi1tQm9BcHlhWFY3SktiVGdQTkxmTlFXOG1xekZrVEFIcjQzbVZibXI5TjhlZEE3WFdaaXJCUUJyRFhFQzVzbmRHc3VJeHA0MmkzY1FYZVdVYzE4NjYzMnhpRQ?oc=5",
@@ -749,15 +741,7 @@
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbG5XNWZUV2d6aVR6MW53eUYyTlEtQjU2TWdrcFBFSmx5UFhhQmRLdFlPY09UUW5LaU84eGdfb0VKWi1rdTFHeTkxYTlmMjAycDBIMEZ5MUY1Q2R6b0c4b0hveUN0aWlKbjk5eHZrWjgtSEZnbXh5U3BHUGlmWkNpWW5RSWtKQTdtX2RROTBvdVR1YnNmR1ZZUGt4U2FwdFc2S3hzNUVQMUJWMzZLbkpoSUk2MWJqY3VEdS1RZW1mVDZhUTI0Znc1bA?oc=5",
           "domain": "aa.com.tr",
           "sourceTier": "State-affiliated reporting",
-          "seen": "20260809T090731Z",
-          "pinned": false
-        },
-        {
-          "title": "War and accumulating sand threaten Sudan’s Meroe pyramids, in photos",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNXBKdnU1T3BOSmRFZ0hKYzlucmh2NHVoV21TOXJ4ckh3WTlmODJxTkI1aWtkV0ZYUTNjZTdlOWxzZWVwa0FXNWMzQkloV1FMdHkxNlNTZjB4THRTRDREWi0xUjl4THM3LVRFcnZBMllNak9xMElEejFMSi1aSks3aVByNU1aSkZqekJ6Y1J1aTJyWDFvZnhkd2EwNFl3bzhHNGdvS0tGQQ?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260806T104800Z",
+          "seen": "20260809T090356Z",
           "pinned": false
         },
         {
@@ -766,30 +750,6 @@
           "domain": "aa.com.tr",
           "sourceTier": "State-affiliated reporting",
           "seen": "20260808T224001Z",
-          "pinned": false
-        },
-        {
-          "title": "Sudan war threatens ancient Meroe pyramids, a UNESCO Heritage Site",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRkVoZHBXcmh5Vkl4VC1ISzFoZ1hLZ1A2V2N4UDJyWDRKNTVZdEpDTEx0c3c3bU81elE2cU5DNldiRWpfTWxTQU94bHo3elBnczktdFcwSEVMZDZLNHFLamlfVzZ3YUtueERkTTN1aVdvcURVZDhsQVdGOVc4ZEt0RDBKYVdmVEY1UUhzMVNObi1IQUdBYXlPWHVmc0xDWnhfaEVXSTJqTXN0Ny1f0gGyAUFVX3lxTE5tNTRpM2R6MHpwdEVZRlpDSDlfcnIxc1BXUkdWV2xqc19YZVhDczJHSmlOS21CTkJrVWM5RjdtaFJ2Z192UVNWUHh4SXhZUGkzMkQ2bDFMQXhCZTRxcDR4MzhDWWY5VFlTcF9aMmpaQnZPUnVNakRtTnhhc0plXzdoenR6YnpHajVRSDRYNWUzbndzU3pOc202OWpYQkhWdy16S2E5UDk4X29uZlVNZlZTdmc?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260806T093643Z",
-          "pinned": false
-        },
-        {
-          "title": "Trump vows to find ‘leakers’ after reports of depleted Iran war munitions",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZlhYTTZZajdNV1pyc1djUEdoVTRHa1pfd0lITjN6NjU3bTFKLUVqS3IzMDJjbnhlZ2o3aDNNZUF0QnpmWldiVUhnRHZUZE9SaHVHTFdSTjJ6ZXlvLWlXZ2ZRMVRzaElxOVZWWEN3QkZ0amNOX0txQ1JvUmpQSEVaTVlOLXp0cnhoXzc1alRuU3BMNjBla2J2OFlKUVVCSDRBbjd4NldoT0ZmZ1diaEpHTdIBtgFBVV95cUxPR2FkZklDT1ZHZWJocDlEbVhaOG5aQTlHUXdJaTMxaXhQbUtoaXQ3RFlmZlM0Mm5NODVnT1hIN2FNeWJncTE4eUtXVHQ4eVpRY3A2TU5SLTJhZkdGNTh4TTBhaHpDTDg3Zkc3SmcyN29PcDg0Ump3aHc4RnVNcnRoTEN6VXdCY3dYcU0zVWp2TmxoUFVNbkViUXJvNmlVaFV4RDlDMi04YWJ3VGgtNHZSNTI2bVlvdw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260806T181428Z",
-          "pinned": false
-        },
-        {
-          "title": "Iran tightens security grip at home as war conditions with US linger",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQVE3VUhTSE1jQ0lGSjE2TTZtcFJOWWdldHVxT1hxbkx2T3BPMGFiZ3V1bzJicFZPdHhZbjFScHdIaUt1d2R2M21fS3VUb2VOTjJzekl4QmhHaVlpVjhQay1OdF9wdy04X2laR2VJa1pWNGJ4TmdpMF9kcnMxd0Jtc090RnhFOXByMk03dWg3NjNROGRFNnhRWHQ3WFFNbjgwM3lqVkhQcTZyZEpj0gGyAUFVX3lxTE1MeFJhNUh6U1VqTmotUmRtX1FiQUh1RVdhZHBZbmtQZV84Zk5zdzV3emxER2VOdWRBa2tsOXNNcVdMc0VNdllidUQ0MUQ0OWk4MEVCQnJqQzFxdU9XUnF3cDRfSEZWS1hBTkF5bDJzWWtjNVl3TDB4WW1wRlhpbEVnRllHMUxTNEFjTFdpV1VqNlRYNklqMnctYWxEWnpydzdzZk10UTBadXVGT1ZkT1ZSVHc?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260806T133134Z",
           "pinned": false
         },
         {
@@ -833,6 +793,14 @@
           "pinned": false
         },
         {
+          "title": "War on Iran: Phase II: Day 29",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRW56N3I4cWpfTF9UVTUzMGc5enBYNVdnU0dFaUF0NmNqOGdyVWVBU1BzTXRJZVpaRGdiX09EQklLYWJKcm45ejdRTkV0bVg4UVlvUG1fclk0ODlnTi1xQXFUUl9yTE9LX08yRXlOMWpyNjRJNjNYUVFnQTltOFlhZzFyMNIBiAFBVV95cUxONUE2UTVUelBxM3p1cG1HZl9UZjJRZFowVUFmZk1JLWMwQ1RNWGxBMVl4M2ZRSXZHSVQ1Q25DYmQwTl9jNmZ1LWNrcW1ENWRZZDl4dTd0RGRocmdPT2E2UHdVRFNRcXNCLVBFMThCQm1uS2pWZVI5VXBKOHBVOGFPenluNDM2cmFz?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260809T160840Z",
+          "pinned": false
+        },
+        {
           "title": "Woman screams in fear as Ukraine war recruiters pounce on man",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa0dyX1owa3pyOGJNNkFHODloLUw4R2Nod3ZaU0k0Vy1IN0UxaXZsc2tGSmRPQ2VwUlNlY1RtVlhxN1MwT3JScXVra0NsS0llUmhuN1ZhNHhKeVlHUVl6WC1SOE9jZWRDV3RyNmVqX0dOdTgwZGxsSGtyR1A2c20tTXBKWG1mSE1LbjlEck9tdE1BZFhXRUlnVmJtV2M3WFg1TjNtdENCazdwenVK0gGyAUFVX3lxTE04NzlXOGs3QWZvS19OQklJNWw3X29RSmdVSXdpMGgwaVVvdG9aQTFVbDNwQ1pTS2xSV3JpVVNjQlJsbS00WTUyOXlOc3pFZWZuZ3piMVBaNFBzbGdXdVQxLWdtbWZfbExnT2Uzcmh3OVR1S3cwb1BRT0FSUGI3NlBRZUh3MlVka3hYWFFHOXIxeEJvNXNHd0htR1pvajBvUDRIQk5mdmFhbkJMQ09helRGM1E?oc=5",
           "domain": "aljazeera.com",
@@ -857,19 +825,19 @@
           "pinned": false
         },
         {
-          "title": "Houthi strikes in Yemen as Saudi Arabia braces for attacks: What we know",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVy1aejJVOTJEdzhFTzNTUV80eUpJUnh1ZjRzcE1BMm1ueDF3XzZOMmVDTWVWVzc2S29kTDdBVUhoQTE0Mm1OTkdDYmpnUVBGT3h1MFkwQWFuM3pVcW9xOW9YSGJweklEMTdEM0hnSFBKQTI0RXpRUWRxNHdLYkxhZWhaaTFWRkxycDlvUmhIOXlseTQ4ZkdJbzFmWEtVcWVELTBmV2NlOU85TXE4NW5SSzVB0gG3AUFVX3lxTE5CTGxzYlNCcC1aMTA2Qk1RYTBaVjlNZnRKdWs5QWJMbDMyR3A2SWo3NmhOaXBHbkFfZUxFSXVOMm9CNU5KYmNBZUw0dmRua0NFTnhJdkZYMzBEXzJfWmpKWnF0dktQTnU0OUFYbnA5S0FTQjFzaDlacG1NNi1xOENqVVBUYXYwQmNZeEVMRUZHYVJ5OE5hWGRyX24zLVo4WUNtWU9TbE91NVJYcVdrYmhJLVhiUG9qOA?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260807T105639Z",
-          "pinned": false
-        },
-        {
           "title": "Why is Pezeshkian urging an end to Iran’s ‘no war, no peace’ status?",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNekhIU3NwMjBHc0FzcjY2b2FCVjN5a0lBZ2dHNFkxQ2R2ZlA4X3h5eHN5WDQwdExkMkN1ZjRGNE5tRmdYWXdQZllyNXAzempoUmFMejhkR0hlWDZVcDZWU0Q2NG13NG5mMHhXVmVNRU1PYUx4aVN4NWstaHJwdTRoTFVSRTlsQmpYWGhyUU1GUnVSRkp4Sk9odDJ6d3Y3Z1F3aFhFVi1B0gGrAUFVX3lxTE15SnIxanV5NDNQOTVIM0VUMDZEWHo4OVVlZ3o2a3JqeENkSnVCdXdkVW56Z3pFaW5VWm1FUWZ5V3A3ZVF3X19aQ3JQOHVsb0JCTnljN1BwRV9oYU9fakhUVUpWVWh2QjNEa2lwRWFvd2Q1QjVwU0UtT3FkS3N4VlVpdE9iTVFnTnBzbDVabVY1LXpUMEJUSnFwT21GLVZFQU01bUlYTHo4NnBsMA?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260809T123753Z",
+          "pinned": false
+        },
+        {
+          "title": "Houthi strikes in Yemen as Saudi Arabia braces for attacks: What we know",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVy1aejJVOTJEdzhFTzNTUV80eUpJUnh1ZjRzcE1BMm1ueDF3XzZOMmVDTWVWVzc2S29kTDdBVUhoQTE0Mm1OTkdDYmpnUVBGT3h1MFkwQWFuM3pVcW9xOW9YSGJweklEMTdEM0hnSFBKQTI0RXpRUWRxNHdLYkxhZWhaaTFWRkxycDlvUmhIOXlseTQ4ZkdJbzFmWEtVcWVELTBmV2NlOU85TXE4NW5SSzVB0gG3AUFVX3lxTE5CTGxzYlNCcC1aMTA2Qk1RYTBaVjlNZnRKdWs5QWJMbDMyR3A2SWo3NmhOaXBHbkFfZUxFSXVOMm9CNU5KYmNBZUw0dmRua0NFTnhJdkZYMzBEXzJfWmpKWnF0dktQTnU0OUFYbnA5S0FTQjFzaDlacG1NNi1xOENqVVBUYXYwQmNZeEVMRUZHYVJ5OE5hWGRyX24zLVo4WUNtWU9TbE91NVJYcVdrYmhJLVhiUG9qOA?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260807T105639Z",
           "pinned": false
         },
         {
@@ -881,48 +849,71 @@
           "pinned": false
         },
         {
-          "title": "War on Iran: Phase II: Day 29",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRW56N3I4cWpfTF9UVTUzMGc5enBYNVdnU0dFaUF0NmNqOGdyVWVBU1BzTXRJZVpaRGdiX09EQklLYWJKcm45ejdRTkV0bVg4UVlvUG1fclk0ODlnTi1xQXFUUl9yTE9LX08yRXlOMWpyNjRJNjNYUVFnQTltOFlhZzFyMNIBiAFBVV95cUxONUE2UTVUelBxM3p1cG1HZl9UZjJRZFowVUFmZk1JLWMwQ1RNWGxBMVl4M2ZRSXZHSVQ1Q25DYmQwTl9jNmZ1LWNrcW1ENWRZZDl4dTd0RGRocmdPT2E2UHdVRFNRcXNCLVBFMThCQm1uS2pWZVI5VXBKOHBVOGFPenluNDM2cmFz?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260809T160840Z",
-          "pinned": false
-        },
-        {
-          "title": "Could the Iran war derail Donald Trump’s legacy?",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNT0VvNkpuVlZaMXJneE94UGRrTWt3OHB3dnFJLWM2dkxkVlVsdVdUVlhDQW9zMGZpQS0wNm1nUU03ZzhSU1Ayd0NiNlVZY0N4VG9jVTRCRmJGMks0YUphQU9XR1ZsSk9oQlRvVU44ZHUxYVNMRFkwai15ZVN4WTFMRkY4WDdYZTdBeXEtS2cwTEpzMVJjd0hWWXVVMVjSAaIBQVVfeXFMTUZqVXNpS2dBNVJwclMxTFlwTnR6NzlJSllZQ01PaVgwWG9NcTY5OEI2QTYwVGRHTjMwZTlXMG5Qbzk2amRKaUp3LXBvRXYwdDNwLWZkaERqMF91YzdKRWRUVG9LMzhCR1YtTTEtYTJvOEczUVhlZEVqZnFoNFYtWnZOM19UQVdnc0hJZFZSTmQxRWNkZnpSYXFvc0swZV9KOElR?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260806T034737Z",
-          "pinned": false
-        },
-        {
-          "title": "How Ukraine is taking the war 'deeper' into Russia",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1KNFcxc1g1RUxmVGxoa2FaMTlRV3AzWEpRQlUteERBU25jUFFwM0JtSEg5NnJCN092QmNFeWZQa1E2N0JlRUJPbU5IdGl4dzU2eUFUZDdEUQ?oc=5",
+          "title": "Sudan's invisible children - born in war with no legal identity",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNbUJZSjcxbjg2WV9XTDhGNUxycEgyUTlMX2s1dzFiU0M1WTlqS1VDaG5uZTl0ZS1LclBKMnpWODVfSk9GMzBYODl4bGt2djZqV3ZBdERSRjVDdw?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260806T175111Z",
+          "seen": "20260807T002652Z",
           "pinned": false
         },
         {
-          "title": "Houthi attacks on Yemeni government forces kill at least 30",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUTZFVkJ1MkFwSmJma1RPdm1wdnJmd1BsQ1BFdnVlYWZmbklOWmZGN1hKUUkyb0pQUXZHcjEzcEZGYmZvMzlVM2d5bmRDa3g4eUs5eGE1V0dPVE1abnphYzdaVFhURWw3dTRMODNVdzhSRVhPWGJycXRSaVU5bVEwd1ZNSkVsVXBSN04tS1R2Sm5icmxtODdGcUQ2VUw5T0Q2TUpZQWU3U25fYjM3THdr0gG0AUFVX3lxTE9KRzNmSW5LOFktOTFwdnVPclItMWNvNUZLSV9fYXN1bDRfSVhvaGhMVWprVFBsTGNmMlIxajdRRko5cVVjOXF5Q0hqV3A3LUs0RzZQYjExZGl0ZG9aMVNsODhJRlljQ0Y4RTdrNDNWM3hwQ0lNYXpLYkprejJZcDFfaXNPenRaX3F1VXUyRHpMVGlibXYwalN3S2xXQ0MweC0xbnVKM24xSGExQUtnMU5vbFM5bQ?oc=5",
+          "title": "Germany warns of ‘daily hybrid warfare’ after explosive-laden drone found",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWjlJM2xsN3VUWEJiUHZkcUsxX2RiOEZITVJBazI3WmNpTzFfX0VGQkhIWU1LU3haY0g5MktCd0ZYRjJ6YnQ2U0J4cnFRTVNWcW81MlRlWlA0VkRfM1NoSkgzTnpqWUhycFk5MDZiN3ktbVlDMUEtb0p3Y0ZyTU9PZ2hSQXhMSE5wWEtuOXRDQ2dmM215cUxoLTNNcFpIUWxEVmlaSURidU9RaEs5RGpr0gG0AUFVX3lxTE1FQkJoRWxhaS13LTBVRThjbURDMjZfRlRlVHhoRDloYXRHcFQtY3R1WVRaN1YtbjkwdzNhY19Gc3RhcThJdmM5RzROSk5vckp2MkZhb2NIRS1TSkhlRE1oRE1jMWFBWUk1M2VUTWFFcjh3QzBWYi1KZTFGR0ZtTUhZMVRlNnNMdHVHbnBObEpkdG5nMWVMSUtXVEVFak1TNV9GNWpqOEJEYS1mRU0zTTVnQm9lUA?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260806T193852Z",
+          "seen": "20260809T205037Z",
+          "pinned": false
+        },
+        {
+          "title": "Trump signals shift to economic pressure on Iran over new military strikes",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZUp2OWhnVmxOYkpZTTM5TEktOUY1REswc3Roc04zNDNKbDAwQl9ib2JhZ1QtbHY3UHJXc2JjVkNYam5WNVJPR1lNNnlmS3ZkX253WTJtRE9ESG1BdnVSanQxWk9MR2NDeG15dlpzaEZrTm1Rcnowc1RLRmlaSnNPVmJxRHBUU0M1RWlqNTlSYmtDbW1zRzVDZHNkSk5SR1RWMWFmeVVMUHBCNzlJeVZmXzEyeURfd015SmfSAb8BQVVfeXFMUFFkMFhlblVNbUtKdmNacEI5cHVJRjJJbW44VXFoQzkwNXozeEoxZHFIWHZ2aEllSGpEQkYwVXhQV210LUFsMUloaWFZVXlQdmJjcTBOb2JmdzlaWnVyQkcxSUd1eGFtMzRUaW1BaktraDBxcnJGZjNvSjBJSXpaMzJtLTBPcGgyaWE2ZHE1TkhkY19ZRXdqR1Vubk1JbVJJMDZ6d2w1dmwtVVZPb244OGtYeW1pRC1tN2p1b3BiZlU?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260810T035101Z",
+          "pinned": false
+        },
+        {
+          "title": "Ukraine honors its ‘collector of souls’ volunteer killed while recovering the war dead",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVkI3UGpBZkg3d2ptZUUtcUJjbk5WQjlNVFdFcmZiSERjeUhVWEhLcjJhbS15UEtQdkVQMGpTR2pKMVoxR2tRdnFkOGY4RmpFeG5qZnRORHZ1anA3VnJTMXFhTzJxcjh2WkJGdGtyb3luWFlkcTVrVWxadEd6dktkVHBoaVFQcWdDVzF2VjNjc2V2eXZuTm1OaXo4OEw2UG16YUxJ?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260808T203900Z",
+          "pinned": false
+        },
+        {
+          "title": "Russia, Ukraine exchange overnight strikes that leave 7 dead, many injured",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZUUwZGVYSU5sMHpMazg3MEo2YkJ0RlJEOGloN2UxcXVNSENMSWYwdFM2aFdTa3g1ZjdER3FxS3ZDS3c1cWZoSy1nVUFWODlOM2g4VzRmN2VvYWZxaGJ3aHdvX2VSdTJlN3RyOVhsQW5NTllELTI5U1d0VmxwYWlsRWNVNnlQWk01eGtMQ09mYV9JLVFETDJncU4xaUpab0Vrc2lGVw?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260809T151800Z",
+          "pinned": false
+        },
+        {
+          "title": "Houthi attacks kill seven in Yemen, refinery targeted in Saudi Arabia",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTUZxOWROQkhqU0lHQ25IUWpWc2lwNmFPSUNWSTRGN2tDTFBwRlBXWlpXeEZLaGpGQi14RkFWVzZMdUlxSWVvNWxUdE0wa01hcUU1elJRamNBdEtQdXVSSVIyNVVyeV9tZTlyakdWTW5fYVlKdHNlbzJENHpGOFNaa2lUcXRtejdsNXRNcWpWRlNWVW0wQ1ZiaVVmN1BpQjdVV1ktQVJB0gGrAUFVX3lxTE1YV2laV1dHR0h1YXdEV3RLZHBSNDVnYVZZZHhFWjNxZG1DZ3FkRDkya24xV1FJTUROaHhSUUs5QnJ1ZTNUR04xSTgtWFM2ZDhyZ2Q2UFV4c3JBUnpSdzE0dWJmTWcya0tEeWx1YS10b1ZEWi00Mk1CY1VxMEdUaklsQl9OQlR0RkdRT1p0Uks4c3VfOWJheXBFVnlpQUJkNm0xcVBCMjZicVJxcw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260809T192135Z",
+          "pinned": false
+        },
+        {
+          "title": "Child among three dead in Russian nightly strikes near Kyiv",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JRW51dTJkckJQckpncDJDdVloS0pKZ01TeVdTVnZUX1pOb2ZlVVRIdHU0Q3NVd0NGb19oZVBOcmtqa1JXb1dSVE41THhNblhpWlpwR21mWW5odw?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260808T180625Z",
+          "pinned": false
+        },
+        {
+          "title": "Zelenskyy visits Moscow-friendly Serbia as Russian attacks on Kyiv region kill 4",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbDFfY3QyOTNzV21YQ0VINm5YT013Y3BXZ2Y5aWg5M0xVUVhTRFc0U2JxTktwa0MyS0RERFR3RWZvekQzdVBYdnBnWGhtckZDay1sMS1iZmUyZllQN2hjNGM2X1ZNTjRlaVJMTnNDdW92ekg5QkJDRUVmZzhNYzNhOWM2cUpFMEU3VjB5U0lWQm40enFTUHJMSnJKWEk3T0lXUHJleHhQbEE?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260808T151200Z",
           "pinned": false
         }
       ],
       "reports": [
-        {
-          "id": "report-52e24d54acf2",
-          "title": "Will the US-Iran war and Hormuz deadlock last for months?",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeWV1dlM0Uk8ya1hsSnUwMDluTlBGQW9zak8zVzh4RnRRNVBIMEszdkZjdTNoTFN2UlNpSDFXNXZZUlBfcWQ5YWpVMkptd2ZSV3oxNTBPbkU5eTAzRkhSUHhuSTVRclNQbS1kOF9QaDlVV21nZ3c5eVkyVWRYY09xZWlWMFZ0X0tZQTNTSlV0MGlKblFKS3ppN1p4bETSAaIBQVVfeXFMTWZkOHNkZkRlMUE5dTVSbXNsLVo3ZDB5b1hsS1QtMnY2Q1B2aG84dGoyYldwMmpidnZXdUtZa1JGMUVIS3VJcmhtaGU4eXRzVzVSR2o0QTR4R3ltZlM1aExuU3dyMWlkU3RIYmM1Sy0yZTRNMWFpTnFKbkRXTmxkTDNJRUVRbmZxal9vWWgwZUNDRHF5MDEyUHFiWUVOR1dWZ09n?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-06T13:33:05Z"
-        },
         {
           "id": "report-08b2b0726d32",
           "title": "Trump says war ‘can’t go much longer’ – what’s the latest on talks?",
@@ -948,16 +939,7 @@
           "domain": "aa.com.tr",
           "sourceTier": "State-affiliated reporting",
           "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
-          "reportedAt": "2026-08-09T09:07:31Z"
-        },
-        {
-          "id": "report-c6e558799f80",
-          "title": "War and accumulating sand threaten Sudan’s Meroe pyramids, in photos",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNXBKdnU1T3BOSmRFZ0hKYzlucmh2NHVoV21TOXJ4ckh3WTlmODJxTkI1aWtkV0ZYUTNjZTdlOWxzZWVwa0FXNWMzQkloV1FMdHkxNlNTZjB4THRTRDREWi0xUjl4THM3LVRFcnZBMllNak9xMElEejFMSi1aSks3aVByNU1aSkZqekJ6Y1J1aTJyWDFvZnhkd2EwNFl3bzhHNGdvS0tGQQ?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-06T10:48:00Z"
+          "reportedAt": "2026-08-09T09:03:56Z"
         },
         {
           "id": "report-254f1050aac5",
@@ -967,33 +949,6 @@
           "sourceTier": "State-affiliated reporting",
           "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
           "reportedAt": "2026-08-08T22:40:01Z"
-        },
-        {
-          "id": "report-de22ac8a75f5",
-          "title": "Sudan war threatens ancient Meroe pyramids, a UNESCO Heritage Site",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRkVoZHBXcmh5Vkl4VC1ISzFoZ1hLZ1A2V2N4UDJyWDRKNTVZdEpDTEx0c3c3bU81elE2cU5DNldiRWpfTWxTQU94bHo3elBnczktdFcwSEVMZDZLNHFLamlfVzZ3YUtueERkTTN1aVdvcURVZDhsQVdGOVc4ZEt0RDBKYVdmVEY1UUhzMVNObi1IQUdBYXlPWHVmc0xDWnhfaEVXSTJqTXN0Ny1f0gGyAUFVX3lxTE5tNTRpM2R6MHpwdEVZRlpDSDlfcnIxc1BXUkdWV2xqc19YZVhDczJHSmlOS21CTkJrVWM5RjdtaFJ2Z192UVNWUHh4SXhZUGkzMkQ2bDFMQXhCZTRxcDR4MzhDWWY5VFlTcF9aMmpaQnZPUnVNakRtTnhhc0plXzdoenR6YnpHajVRSDRYNWUzbndzU3pOc202OWpYQkhWdy16S2E5UDk4X29uZlVNZlZTdmc?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-06T09:36:43Z"
-        },
-        {
-          "id": "report-e4def8606a35",
-          "title": "Trump vows to find ‘leakers’ after reports of depleted Iran war munitions",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZlhYTTZZajdNV1pyc1djUEdoVTRHa1pfd0lITjN6NjU3bTFKLUVqS3IzMDJjbnhlZ2o3aDNNZUF0QnpmWldiVUhnRHZUZE9SaHVHTFdSTjJ6ZXlvLWlXZ2ZRMVRzaElxOVZWWEN3QkZ0amNOX0txQ1JvUmpQSEVaTVlOLXp0cnhoXzc1alRuU3BMNjBla2J2OFlKUVVCSDRBbjd4NldoT0ZmZ1diaEpHTdIBtgFBVV95cUxPR2FkZklDT1ZHZWJocDlEbVhaOG5aQTlHUXdJaTMxaXhQbUtoaXQ3RFlmZlM0Mm5NODVnT1hIN2FNeWJncTE4eUtXVHQ4eVpRY3A2TU5SLTJhZkdGNTh4TTBhaHpDTDg3Zkc3SmcyN29PcDg0Ump3aHc4RnVNcnRoTEN6VXdCY3dYcU0zVWp2TmxoUFVNbkViUXJvNmlVaFV4RDlDMi04YWJ3VGgtNHZSNTI2bVlvdw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-06T18:14:28Z"
-        },
-        {
-          "id": "report-0eeb78a25187",
-          "title": "Iran tightens security grip at home as war conditions with US linger",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQVE3VUhTSE1jQ0lGSjE2TTZtcFJOWWdldHVxT1hxbkx2T3BPMGFiZ3V1bzJicFZPdHhZbjFScHdIaUt1d2R2M21fS3VUb2VOTjJzekl4QmhHaVlpVjhQay1OdF9wdy04X2laR2VJa1pWNGJ4TmdpMF9kcnMxd0Jtc090RnhFOXByMk03dWg3NjNROGRFNnhRWHQ3WFFNbjgwM3lqVkhQcTZyZEpj0gGyAUFVX3lxTE1MeFJhNUh6U1VqTmotUmRtX1FiQUh1RVdhZHBZbmtQZV84Zk5zdzV3emxER2VOdWRBa2tsOXNNcVdMc0VNdllidUQ0MUQ0OWk4MEVCQnJqQzFxdU9XUnF3cDRfSEZWS1hBTkF5bDJzWWtjNVl3TDB4WW1wRlhpbEVnRllHMUxTNEFjTFdpV1VqNlRYNklqMnctYWxEWnpydzdzZk10UTBadXVGT1ZkT1ZSVHc?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-06T13:31:34Z"
         },
         {
           "id": "report-439e5d8ab644",
@@ -1041,6 +996,15 @@
           "reportedAt": "2026-08-08T00:29:34Z"
         },
         {
+          "id": "report-2970ff3c8e81",
+          "title": "War on Iran: Phase II: Day 29",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRW56N3I4cWpfTF9UVTUzMGc5enBYNVdnU0dFaUF0NmNqOGdyVWVBU1BzTXRJZVpaRGdiX09EQklLYWJKcm45ejdRTkV0bVg4UVlvUG1fclk0ODlnTi1xQXFUUl9yTE9LX08yRXlOMWpyNjRJNjNYUVFnQTltOFlhZzFyMNIBiAFBVV95cUxONUE2UTVUelBxM3p1cG1HZl9UZjJRZFowVUFmZk1JLWMwQ1RNWGxBMVl4M2ZRSXZHSVQ1Q25DYmQwTl9jNmZ1LWNrcW1ENWRZZDl4dTd0RGRocmdPT2E2UHdVRFNRcXNCLVBFMThCQm1uS2pWZVI5VXBKOHBVOGFPenluNDM2cmFz?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-09T16:08:40Z"
+        },
+        {
           "id": "report-d84b6cf74216",
           "title": "Woman screams in fear as Ukraine war recruiters pounce on man",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa0dyX1owa3pyOGJNNkFHODloLUw4R2Nod3ZaU0k0Vy1IN0UxaXZsc2tGSmRPQ2VwUlNlY1RtVlhxN1MwT3JScXVra0NsS0llUmhuN1ZhNHhKeVlHUVl6WC1SOE9jZWRDV3RyNmVqX0dOdTgwZGxsSGtyR1A2c20tTXBKWG1mSE1LbjlEck9tdE1BZFhXRUlnVmJtV2M3WFg1TjNtdENCazdwenVK0gGyAUFVX3lxTE04NzlXOGs3QWZvS19OQklJNWw3X29RSmdVSXdpMGgwaVVvdG9aQTFVbDNwQ1pTS2xSV3JpVVNjQlJsbS00WTUyOXlOc3pFZWZuZ3piMVBaNFBzbGdXdVQxLWdtbWZfbExnT2Uzcmh3OVR1S3cwb1BRT0FSUGI3NlBRZUh3MlVka3hYWFFHOXIxeEJvNXNHd0htR1pvajBvUDRIQk5mdmFhbkJMQ09helRGM1E?oc=5",
@@ -1068,15 +1032,6 @@
           "reportedAt": "2026-08-07T17:02:21Z"
         },
         {
-          "id": "report-456372edcde6",
-          "title": "Houthi strikes in Yemen as Saudi Arabia braces for attacks: What we know",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVy1aejJVOTJEdzhFTzNTUV80eUpJUnh1ZjRzcE1BMm1ueDF3XzZOMmVDTWVWVzc2S29kTDdBVUhoQTE0Mm1OTkdDYmpnUVBGT3h1MFkwQWFuM3pVcW9xOW9YSGJweklEMTdEM0hnSFBKQTI0RXpRUWRxNHdLYkxhZWhaaTFWRkxycDlvUmhIOXlseTQ4ZkdJbzFmWEtVcWVELTBmV2NlOU85TXE4NW5SSzVB0gG3AUFVX3lxTE5CTGxzYlNCcC1aMTA2Qk1RYTBaVjlNZnRKdWs5QWJMbDMyR3A2SWo3NmhOaXBHbkFfZUxFSXVOMm9CNU5KYmNBZUw0dmRua0NFTnhJdkZYMzBEXzJfWmpKWnF0dktQTnU0OUFYbnA5S0FTQjFzaDlacG1NNi1xOENqVVBUYXYwQmNZeEVMRUZHYVJ5OE5hWGRyX24zLVo4WUNtWU9TbE91NVJYcVdrYmhJLVhiUG9qOA?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-07T10:56:39Z"
-        },
-        {
           "id": "report-79bc31ed1a5b",
           "title": "Why is Pezeshkian urging an end to Iran’s ‘no war, no peace’ status?",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNekhIU3NwMjBHc0FzcjY2b2FCVjN5a0lBZ2dHNFkxQ2R2ZlA4X3h5eHN5WDQwdExkMkN1ZjRGNE5tRmdYWXdQZllyNXAzempoUmFMejhkR0hlWDZVcDZWU0Q2NG13NG5mMHhXVmVNRU1PYUx4aVN4NWstaHJwdTRoTFVSRTlsQmpYWGhyUU1GUnVSRkp4Sk9odDJ6d3Y3Z1F3aFhFVi1B0gGrAUFVX3lxTE15SnIxanV5NDNQOTVIM0VUMDZEWHo4OVVlZ3o2a3JqeENkSnVCdXdkVW56Z3pFaW5VWm1FUWZ5V3A3ZVF3X19aQ3JQOHVsb0JCTnljN1BwRV9oYU9fakhUVUpWVWh2QjNEa2lwRWFvd2Q1QjVwU0UtT3FkS3N4VlVpdE9iTVFnTnBzbDVabVY1LXpUMEJUSnFwT21GLVZFQU01bUlYTHo4NnBsMA?oc=5",
@@ -1084,6 +1039,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-09T12:37:53Z"
+        },
+        {
+          "id": "report-456372edcde6",
+          "title": "Houthi strikes in Yemen as Saudi Arabia braces for attacks: What we know",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVy1aejJVOTJEdzhFTzNTUV80eUpJUnh1ZjRzcE1BMm1ueDF3XzZOMmVDTWVWVzc2S29kTDdBVUhoQTE0Mm1OTkdDYmpnUVBGT3h1MFkwQWFuM3pVcW9xOW9YSGJweklEMTdEM0hnSFBKQTI0RXpRUWRxNHdLYkxhZWhaaTFWRkxycDlvUmhIOXlseTQ4ZkdJbzFmWEtVcWVELTBmV2NlOU85TXE4NW5SSzVB0gG3AUFVX3lxTE5CTGxzYlNCcC1aMTA2Qk1RYTBaVjlNZnRKdWs5QWJMbDMyR3A2SWo3NmhOaXBHbkFfZUxFSXVOMm9CNU5KYmNBZUw0dmRua0NFTnhJdkZYMzBEXzJfWmpKWnF0dktQTnU0OUFYbnA5S0FTQjFzaDlacG1NNi1xOENqVVBUYXYwQmNZeEVMRUZHYVJ5OE5hWGRyX24zLVo4WUNtWU9TbE91NVJYcVdrYmhJLVhiUG9qOA?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-07T10:56:39Z"
         },
         {
           "id": "report-cdeab4f938c0",
@@ -1095,40 +1059,76 @@
           "reportedAt": "2026-08-09T06:51:04Z"
         },
         {
-          "id": "report-2970ff3c8e81",
-          "title": "War on Iran: Phase II: Day 29",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRW56N3I4cWpfTF9UVTUzMGc5enBYNVdnU0dFaUF0NmNqOGdyVWVBU1BzTXRJZVpaRGdiX09EQklLYWJKcm45ejdRTkV0bVg4UVlvUG1fclk0ODlnTi1xQXFUUl9yTE9LX08yRXlOMWpyNjRJNjNYUVFnQTltOFlhZzFyMNIBiAFBVV95cUxONUE2UTVUelBxM3p1cG1HZl9UZjJRZFowVUFmZk1JLWMwQ1RNWGxBMVl4M2ZRSXZHSVQ1Q25DYmQwTl9jNmZ1LWNrcW1ENWRZZDl4dTd0RGRocmdPT2E2UHdVRFNRcXNCLVBFMThCQm1uS2pWZVI5VXBKOHBVOGFPenluNDM2cmFz?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-09T16:08:40Z"
-        },
-        {
-          "id": "report-8d6e22cedc62",
-          "title": "Could the Iran war derail Donald Trump’s legacy?",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNT0VvNkpuVlZaMXJneE94UGRrTWt3OHB3dnFJLWM2dkxkVlVsdVdUVlhDQW9zMGZpQS0wNm1nUU03ZzhSU1Ayd0NiNlVZY0N4VG9jVTRCRmJGMks0YUphQU9XR1ZsSk9oQlRvVU44ZHUxYVNMRFkwai15ZVN4WTFMRkY4WDdYZTdBeXEtS2cwTEpzMVJjd0hWWXVVMVjSAaIBQVVfeXFMTUZqVXNpS2dBNVJwclMxTFlwTnR6NzlJSllZQ01PaVgwWG9NcTY5OEI2QTYwVGRHTjMwZTlXMG5Qbzk2amRKaUp3LXBvRXYwdDNwLWZkaERqMF91YzdKRWRUVG9LMzhCR1YtTTEtYTJvOEczUVhlZEVqZnFoNFYtWnZOM19UQVdnc0hJZFZSTmQxRWNkZnpSYXFvc0swZV9KOElR?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-06T03:47:37Z"
-        },
-        {
-          "id": "report-c7715a8deca6",
-          "title": "How Ukraine is taking the war 'deeper' into Russia",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1KNFcxc1g1RUxmVGxoa2FaMTlRV3AzWEpRQlUteERBU25jUFFwM0JtSEg5NnJCN092QmNFeWZQa1E2N0JlRUJPbU5IdGl4dzU2eUFUZDdEUQ?oc=5",
+          "id": "report-d3865ff13cdc",
+          "title": "Sudan's invisible children - born in war with no legal identity",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNbUJZSjcxbjg2WV9XTDhGNUxycEgyUTlMX2s1dzFiU0M1WTlqS1VDaG5uZTl0ZS1LclBKMnpWODVfSk9GMzBYODl4bGt2djZqV3ZBdERSRjVDdw?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-06T17:51:11Z"
+          "reportedAt": "2026-08-07T00:26:52Z"
         },
         {
-          "id": "report-198134b457fd",
-          "title": "Houthi attacks on Yemeni government forces kill at least 30",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUTZFVkJ1MkFwSmJma1RPdm1wdnJmd1BsQ1BFdnVlYWZmbklOWmZGN1hKUUkyb0pQUXZHcjEzcEZGYmZvMzlVM2d5bmRDa3g4eUs5eGE1V0dPVE1abnphYzdaVFhURWw3dTRMODNVdzhSRVhPWGJycXRSaVU5bVEwd1ZNSkVsVXBSN04tS1R2Sm5icmxtODdGcUQ2VUw5T0Q2TUpZQWU3U25fYjM3THdr0gG0AUFVX3lxTE9KRzNmSW5LOFktOTFwdnVPclItMWNvNUZLSV9fYXN1bDRfSVhvaGhMVWprVFBsTGNmMlIxajdRRko5cVVjOXF5Q0hqV3A3LUs0RzZQYjExZGl0ZG9aMVNsODhJRlljQ0Y4RTdrNDNWM3hwQ0lNYXpLYkprejJZcDFfaXNPenRaX3F1VXUyRHpMVGlibXYwalN3S2xXQ0MweC0xbnVKM24xSGExQUtnMU5vbFM5bQ?oc=5",
+          "id": "report-c49420751f90",
+          "title": "Germany warns of ‘daily hybrid warfare’ after explosive-laden drone found",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWjlJM2xsN3VUWEJiUHZkcUsxX2RiOEZITVJBazI3WmNpTzFfX0VGQkhIWU1LU3haY0g5MktCd0ZYRjJ6YnQ2U0J4cnFRTVNWcW81MlRlWlA0VkRfM1NoSkgzTnpqWUhycFk5MDZiN3ktbVlDMUEtb0p3Y0ZyTU9PZ2hSQXhMSE5wWEtuOXRDQ2dmM215cUxoLTNNcFpIUWxEVmlaSURidU9RaEs5RGpr0gG0AUFVX3lxTE1FQkJoRWxhaS13LTBVRThjbURDMjZfRlRlVHhoRDloYXRHcFQtY3R1WVRaN1YtbjkwdzNhY19Gc3RhcThJdmM5RzROSk5vckp2MkZhb2NIRS1TSkhlRE1oRE1jMWFBWUk1M2VUTWFFcjh3QzBWYi1KZTFGR0ZtTUhZMVRlNnNMdHVHbnBObEpkdG5nMWVMSUtXVEVFak1TNV9GNWpqOEJEYS1mRU0zTTVnQm9lUA?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-06T19:38:52Z"
+          "reportedAt": "2026-08-09T20:50:37Z"
+        },
+        {
+          "id": "report-da82bc0f10d4",
+          "title": "Trump signals shift to economic pressure on Iran over new military strikes",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZUp2OWhnVmxOYkpZTTM5TEktOUY1REswc3Roc04zNDNKbDAwQl9ib2JhZ1QtbHY3UHJXc2JjVkNYam5WNVJPR1lNNnlmS3ZkX253WTJtRE9ESG1BdnVSanQxWk9MR2NDeG15dlpzaEZrTm1Rcnowc1RLRmlaSnNPVmJxRHBUU0M1RWlqNTlSYmtDbW1zRzVDZHNkSk5SR1RWMWFmeVVMUHBCNzlJeVZmXzEyeURfd015SmfSAb8BQVVfeXFMUFFkMFhlblVNbUtKdmNacEI5cHVJRjJJbW44VXFoQzkwNXozeEoxZHFIWHZ2aEllSGpEQkYwVXhQV210LUFsMUloaWFZVXlQdmJjcTBOb2JmdzlaWnVyQkcxSUd1eGFtMzRUaW1BaktraDBxcnJGZjNvSjBJSXpaMzJtLTBPcGgyaWE2ZHE1TkhkY19ZRXdqR1Vubk1JbVJJMDZ6d2w1dmwtVVZPb244OGtYeW1pRC1tN2p1b3BiZlU?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-10T03:51:01Z"
+        },
+        {
+          "id": "report-8d829971babd",
+          "title": "Ukraine honors its ‘collector of souls’ volunteer killed while recovering the war dead",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVkI3UGpBZkg3d2ptZUUtcUJjbk5WQjlNVFdFcmZiSERjeUhVWEhLcjJhbS15UEtQdkVQMGpTR2pKMVoxR2tRdnFkOGY4RmpFeG5qZnRORHZ1anA3VnJTMXFhTzJxcjh2WkJGdGtyb3luWFlkcTVrVWxadEd6dktkVHBoaVFQcWdDVzF2VjNjc2V2eXZuTm1OaXo4OEw2UG16YUxJ?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-08T20:39:00Z"
+        },
+        {
+          "id": "report-7f3ab9b8a195",
+          "title": "Russia, Ukraine exchange overnight strikes that leave 7 dead, many injured",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZUUwZGVYSU5sMHpMazg3MEo2YkJ0RlJEOGloN2UxcXVNSENMSWYwdFM2aFdTa3g1ZjdER3FxS3ZDS3c1cWZoSy1nVUFWODlOM2g4VzRmN2VvYWZxaGJ3aHdvX2VSdTJlN3RyOVhsQW5NTllELTI5U1d0VmxwYWlsRWNVNnlQWk01eGtMQ09mYV9JLVFETDJncU4xaUpab0Vrc2lGVw?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-09T15:18:00Z"
+        },
+        {
+          "id": "report-6b450fbf80f0",
+          "title": "Houthi attacks kill seven in Yemen, refinery targeted in Saudi Arabia",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTUZxOWROQkhqU0lHQ25IUWpWc2lwNmFPSUNWSTRGN2tDTFBwRlBXWlpXeEZLaGpGQi14RkFWVzZMdUlxSWVvNWxUdE0wa01hcUU1elJRamNBdEtQdXVSSVIyNVVyeV9tZTlyakdWTW5fYVlKdHNlbzJENHpGOFNaa2lUcXRtejdsNXRNcWpWRlNWVW0wQ1ZiaVVmN1BpQjdVV1ktQVJB0gGrAUFVX3lxTE1YV2laV1dHR0h1YXdEV3RLZHBSNDVnYVZZZHhFWjNxZG1DZ3FkRDkya24xV1FJTUROaHhSUUs5QnJ1ZTNUR04xSTgtWFM2ZDhyZ2Q2UFV4c3JBUnpSdzE0dWJmTWcya0tEeWx1YS10b1ZEWi00Mk1CY1VxMEdUaklsQl9OQlR0RkdRT1p0Uks4c3VfOWJheXBFVnlpQUJkNm0xcVBCMjZicVJxcw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-09T19:21:35Z"
+        },
+        {
+          "id": "report-965e05e2956f",
+          "title": "Child among three dead in Russian nightly strikes near Kyiv",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JRW51dTJkckJQckpncDJDdVloS0pKZ01TeVdTVnZUX1pOb2ZlVVRIdHU0Q3NVd0NGb19oZVBOcmtqa1JXb1dSVE41THhNblhpWlpwR21mWW5odw?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-08T18:06:25Z"
+        },
+        {
+          "id": "report-fdde8a67e27a",
+          "title": "Zelenskyy visits Moscow-friendly Serbia as Russian attacks on Kyiv region kill 4",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbDFfY3QyOTNzV21YQ0VINm5YT013Y3BXZ2Y5aWg5M0xVUVhTRFc0U2JxTktwa0MyS0RERFR3RWZvekQzdVBYdnBnWGhtckZDay1sMS1iZmUyZllQN2hjNGM2X1ZNTjRlaVJMTnNDdW92ekg5QkJDRUVmZzhNYzNhOWM2cUpFMEU3VjB5U0lWQm40enFTUHJMSnJKWEk3T0lXUHJleHhQbEE?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-08T15:12:00Z"
         },
         {
           "id": "report-dd2a1637dc48",
