@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-11T09:45:09.982Z",
+  "generatedAt": "2026-08-11T15:35:07.305Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-08-11T09:45:09.982Z",
+      "generatedAt": "2026-08-11T15:35:07.305Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -633,7 +633,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-08-11T09:45:09.982Z",
+      "generatedAt": "2026-08-11T15:35:07.305Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -642,14 +642,6 @@
           "domain": "aa.com.tr",
           "sourceTier": "State-affiliated reporting",
           "seen": "20260810T030028Z",
-          "pinned": false
-        },
-        {
-          "title": "Turkish foreign minister warns Russia-Ukraine war could push Moscow toward ‘last option’",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbG5XNWZUV2d6aVR6MW53eUYyTlEtQjU2TWdrcFBFSmx5UFhhQmRLdFlPY09UUW5LaU84eGdfb0VKWi1rdTFHeTkxYTlmMjAycDBIMEZ5MUY1Q2R6b0c4b0hveUN0aWlKbjk5eHZrWjgtSEZnbXh5U3BHUGlmWkNpWW5RSWtKQTdtX2RROTBvdVR1YnNmR1ZZUGt4U2FwdFc2S3hzNUVQMUJWMzZLbkpoSUk2MWJqY3VEdS1RZW1mVDZhUTI0Znc1bA?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "seen": "20260809T090356Z",
           "pinned": false
         },
         {
@@ -665,7 +657,7 @@
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcGxXUjJDYVoxazlCMldPWHJvUnpYZlNCYXZxRUc1LW1adEdEdjVETlV1bjhOTk4wSjNNajQtRWM1NlN4NHVjanpsY0FJTjNic1VOaGpJTXJvNnVKMkpERGd6cW5mOF9WRFNDVEstYTM5YkdtU2Z6NlNkWktTbjcxd2RhaFlDYlRxU2JjaVFXMllFRnFqdUZ0UlpBRlRTYTRDUlhETzFhcmFERXFSdXdj0gG0AUFVX3lxTE5kQmR0Ti0zM1U3VFFCZlUxa2NvSHlJeFpiczFCcnhIYnRJMHhEOFlydUsyZmc4ZnI0MEc0eU4zdXFaTERBU3ZnWW13N2llWUU4MXd1UE1rSjQ2NE1pbWJrZU0tVm9aUnd0ZWktOVI1S0x0RUVtS044RTVHNGdMMlhoS2lNOGlGbDkzT0xLOXNZU2VFX0NKbldvYU9iTGNFQTRhdjJ3V0tKYVFXbW0ydVhEVk5iMg?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260811T081500Z",
+          "seen": "20260811T081726Z",
           "pinned": false
         },
         {
@@ -685,19 +677,11 @@
           "pinned": false
         },
         {
-          "title": "Russian forces kill several in Ukraine, launch ‘brutal’ attack in Odesa",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN3NaTmJfUXJzYXFHOWtNWTFYM2h6dmZ3N2Zual9aMnBXVk9VTUJzQmp6eXpJam9lSm9RaEhHWXFpdTQ2dW1tVUtXQUxJbDJySV8tYk8ybGY1RTFqWTlfU3AzMFQ3UnVDV2U1RHZfby1tTlBWNHc4SjNOTW8xaGVYTkxVNWp2NTF0Q0VGWU43MTJIWGJBbjl6cGtiMGVYWkNCQ01jMGRWOVJ1am1K0gGyAUFVX3lxTFBfUmdsSGFFdW9rRUxUZ0txZXJYUkxlY2FtYzJvMDV0YkdwVTNyZGhkZ1dQLUNvS3Z2NnR4dGJkUU40UVNYeE52VzZsMzU0RmZJZkV5Mll3Q3VPSEFOLS1wTEQ4dUFmaWdWSmVvdV96SGxYellNLXVHc1A5NUR2NUxuaVFKR1hEQm00LUZoVUkyWWF2c01VN2F0eHVZUWg3VVdWX0hVajZiZ19NZ054WmVHN2c?oc=5",
+          "title": "What’s behind Iran’s new military appointments and what do they indicate?",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZEktOFNDLVRfMEpfLVVlRHpZb0kyS0RMWVN4bXdWZmpmQVZsQk1KYjJlOVlSSFFZcnd3b00yT2thZVRqRUFmWFNEUU5UOHc5UWpLSUl0MEZhUDNWdlVqZmt2alpCUUxfMHRCOGU4djQxOUZ0WDJpMlJTNWNaWUFhUFZLZktpaVpraktZeXpVSHl4M0N2ODVaNkYtV3k3MDQ5SmIzNDQ0RnZRYWdta1VGcNIBtgFBVV95cUxNTlhPcmp3QnYzbENhRW84YlQ2YVBRVUFEcUpleDJQT2lJTGI5N2RDcEJtM041SFltT3g3N2xheE85Y2xZMXViRnFNTGVoSGZ0emFuZHJqV3F0R2tvWVlMX29lc1N3am4wUjN4ZVhRVml6M0d5QlJnRjRNYllsWERzT0JsNlBTMGxLT213b3lmYjJ4Q21XaG9PU3BGWTdkMmFnWDlON1lYSnBfOVRCdjYtV0VvZGZ2UQ?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260809T110938Z",
-          "pinned": false
-        },
-        {
-          "title": "Sudan’s war threatens an ‘entire generation’s’ future, UN warns",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd1dlc3RpbmFHS3ZxNVIwcWNKTmkzeXBlVlE3SmRZNzRNNnptX3RKeF9wbnhneVI2b2hYOTQ0dTVpWkVUNk94R0xDMUJpTUZYMmtIQlBxUlF0SEx5Nnl4cFg2NFA4S295WndQT3pILXVndTlMQ1NNUGR6SUNQLTUxcXE4d2R5NFpxLXVMNXl2b0tfTFNDdlQwMVB3SHBOM0HSAaQBQVVfeXFMTjVDRHliYVk3dzJTY2pEaXZUOFlvX2c2YmpDQkJvbEVnc3c2TnRKR05fa3RVMU1lOHI4azlvOWdGUlFiaDVPQWVYT0hVd1VzeHBUYXRoNEgya0U0QkpIRUg0TFdXeVU1bFI3TlRjb2dSaWRyVFBXY2NtU0tzbEpkMHlGSkZXM2xUVlU1Z1ZtZGdJbTlDMDl5VTFnLWplVTNpOGJNRHg?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260808T002934Z",
+          "seen": "20260811T133213Z",
           "pinned": false
         },
         {
@@ -709,11 +693,27 @@
           "pinned": false
         },
         {
-          "title": "War on Iran: Phase II: Day 29",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRW56N3I4cWpfTF9UVTUzMGc5enBYNVdnU0dFaUF0NmNqOGdyVWVBU1BzTXRJZVpaRGdiX09EQklLYWJKcm45ejdRTkV0bVg4UVlvUG1fclk0ODlnTi1xQXFUUl9yTE9LX08yRXlOMWpyNjRJNjNYUVFnQTltOFlhZzFyMNIBiAFBVV95cUxONUE2UTVUelBxM3p1cG1HZl9UZjJRZFowVUFmZk1JLWMwQ1RNWGxBMVl4M2ZRSXZHSVQ1Q25DYmQwTl9jNmZ1LWNrcW1ENWRZZDl4dTd0RGRocmdPT2E2UHdVRFNRcXNCLVBFMThCQm1uS2pWZVI5VXBKOHBVOGFPenluNDM2cmFz?oc=5",
+          "title": "Russian forces kill several in Ukraine, launch ‘brutal’ attack in Odesa",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN3NaTmJfUXJzYXFHOWtNWTFYM2h6dmZ3N2Zual9aMnBXVk9VTUJzQmp6eXpJam9lSm9RaEhHWXFpdTQ2dW1tVUtXQUxJbDJySV8tYk8ybGY1RTFqWTlfU3AzMFQ3UnVDV2U1RHZfby1tTlBWNHc4SjNOTW8xaGVYTkxVNWp2NTF0Q0VGWU43MTJIWGJBbjl6cGtiMGVYWkNCQ01jMGRWOVJ1am1K0gGyAUFVX3lxTFBfUmdsSGFFdW9rRUxUZ0txZXJYUkxlY2FtYzJvMDV0YkdwVTNyZGhkZ1dQLUNvS3Z2NnR4dGJkUU40UVNYeE52VzZsMzU0RmZJZkV5Mll3Q3VPSEFOLS1wTEQ4dUFmaWdWSmVvdV96SGxYellNLXVHc1A5NUR2NUxuaVFKR1hEQm00LUZoVUkyWWF2c01VN2F0eHVZUWg3VVdWX0hVajZiZ19NZ054WmVHN2c?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260809T160840Z",
+          "seen": "20260809T110938Z",
+          "pinned": false
+        },
+        {
+          "title": "Iran war",
+          "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260810T125051Z",
+          "pinned": false
+        },
+        {
+          "title": "Sudan’s war threatens an ‘entire generation’s’ future, UN warns",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd1dlc3RpbmFHS3ZxNVIwcWNKTmkzeXBlVlE3SmRZNzRNNnptX3RKeF9wbnhneVI2b2hYOTQ0dTVpWkVUNk94R0xDMUJpTUZYMmtIQlBxUlF0SEx5Nnl4cFg2NFA4S295WndQT3pILXVndTlMQ1NNUGR6SUNQLTUxcXE4d2R5NFpxLXVMNXl2b0tfTFNDdlQwMVB3SHBOM0HSAaQBQVVfeXFMTjVDRHliYVk3dzJTY2pEaXZUOFlvX2c2YmpDQkJvbEVnc3c2TnRKR05fa3RVMU1lOHI4azlvOWdGUlFiaDVPQWVYT0hVd1VzeHBUYXRoNEgya0U0QkpIRUg0TFdXeVU1bFI3TlRjb2dSaWRyVFBXY2NtU0tzbEpkMHlGSkZXM2xUVlU1Z1ZtZGdJbTlDMDl5VTFnLWplVTNpOGJNRHg?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260808T002934Z",
           "pinned": false
         },
         {
@@ -733,6 +733,14 @@
           "pinned": false
         },
         {
+          "title": "War on Iran: Phase II: Day 29",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRW56N3I4cWpfTF9UVTUzMGc5enBYNVdnU0dFaUF0NmNqOGdyVWVBU1BzTXRJZVpaRGdiX09EQklLYWJKcm45ejdRTkV0bVg4UVlvUG1fclk0ODlnTi1xQXFUUl9yTE9LX08yRXlOMWpyNjRJNjNYUVFnQTltOFlhZzFyMNIBiAFBVV95cUxONUE2UTVUelBxM3p1cG1HZl9UZjJRZFowVUFmZk1JLWMwQ1RNWGxBMVl4M2ZRSXZHSVQ1Q25DYmQwTl9jNmZ1LWNrcW1ENWRZZDl4dTd0RGRocmdPT2E2UHdVRFNRcXNCLVBFMThCQm1uS2pWZVI5VXBKOHBVOGFPenluNDM2cmFz?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260809T160840Z",
+          "pinned": false
+        },
+        {
           "title": "Iran seeks way out of ‘neither war nor peace’ stalemate with US",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPV2VrcWc4MzZyVWp5eWpsZ0gwZi1CRE5kMm5UQktUazM1clJrMFhKYWVQM0YzSXh5UllibVlwRFlMY0VVNWR6UnhlNExHNEZEcEJJaE04V2V6STVfcHlDQTN2NVZnNDIwdjEzcVRndjVUemNQVGtiZ21EUE9qVDZzTEpYWlQwd9IBiwFBVV95cUxNemRsNjhoZTZ1R2plTWxtamJYeEMzVHRySXM1MzJpbTNOZ3ZMb0hRbWRXRDBibWdJVnRvS3R1UE1rQlNfQXlWWWcyXzdQMXloWnhKUVd0dmZyNnJEdWUzNDh3eUtzRXJyS2tHLWpCOXlRdnBDU0F3TDFTaV9pTGYxTzNDZXduazl0WW1N?oc=5",
           "domain": "aljazeera.com",
@@ -749,6 +757,14 @@
           "pinned": false
         },
         {
+          "title": "Russia bars only party opposing war in Ukraine from parliamentary vote",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUjcxSFNFc2lBQkFFWnRvSkt0dE5JTEtIU2Nhc25KODVBYnRETjBMdW1rMGZDM2taWTFqY05oZXpobi15Z1d4VnNFQ1FZVFpBNWdtdlFib0tRZllzcmVmS1I2UkNod1JsTG1vSEo4TFZGMzh4ZnF4NzJwb3BNQTFWODdZWkN4NC1wZk43YXByODVsOF9CZ3pXNXluYzFTR1VvMFJMbzl3ZFBVUFUxaUg1WdIBtgFBVV95cUxOdS1FTTdhRXNBZ1d6R2lPZnQ4LXJuR29jUVlkeFBTTmlsQWJEc29ZWmRKWWtBdER1UGYtcGdjYjdNNW1QSjcwaTR6R1prSUc4TjhaYnJXQ3psUWJsZko0TzNuUi00SHhYNVB3cTR4VXozcWdUNDRLRUJtTXZ4RGJjUDlYSU1fVTlRai16U3FhNDVOWmhCaHNXUERmdi1RVUcwdXBVRHRpMmwzSE1LREd6U2pQZVYzdw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260810T195552Z",
+          "pinned": false
+        },
+        {
           "title": "Bulgaria, Germany drone incidents raise security fears amid Ukraine war",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWGN3STBkTXUwR3NXZDN3TzJEcjJXR29rZDFJNW1LS1V6WVdZenh1SzQtTjZTOEhtNk8wTUotSmFPN2ZqRTR6ZEhwSTZ0dDFxUEhZQkVFVFg2YVZTQzY2RzJoTFBWcVVQQjRPeUVCaHdSem1lclJYeTNTZVY3SFp6X2hRRzFDMFVxTWxlYmN0N1RqWFVZZEVZMTBSdTBNWGVwY0ZrNk9NY3pXbjYtc3RTenYxYmVZUdIBuwFBVV95cUxOZGIwWXdiTmNOSy1MMXBBWUFLd1JWS0tmUmNyWk9UNHZ4bmRuZW15TU83NDBtQkxBQU1Qa2dDN0xyS1V0QVFzWmJlSm9MN0lGTG5IZndpMjlxZGJyallKVkZSem0tV1h4X2M5M2E0bjc2Vm85V0Q3Sm5yYTBTUnh4VHBJcEV4S0JhQUJTTGJVenBwT0VzR3hMVGtsT2E3bXhaRllsY1lBWlRjVkFSWU0xeUswZnVoTGFVR3JN?oc=5",
           "domain": "aljazeera.com",
@@ -757,11 +773,27 @@
           "pinned": false
         },
         {
-          "title": "Russia bars only party opposing war in Ukraine from parliamentary vote",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUjcxSFNFc2lBQkFFWnRvSkt0dE5JTEtIU2Nhc25KODVBYnRETjBMdW1rMGZDM2taWTFqY05oZXpobi15Z1d4VnNFQ1FZVFpBNWdtdlFib0tRZllzcmVmS1I2UkNod1JsTG1vSEo4TFZGMzh4ZnF4NzJwb3BNQTFWODdZWkN4NC1wZk43YXByODVsOF9CZ3pXNXluYzFTR1VvMFJMbzl3ZFBVUFUxaUg1WdIBtgFBVV95cUxOdS1FTTdhRXNBZ1d6R2lPZnQ4LXJuR29jUVlkeFBTTmlsQWJEc29ZWmRKWWtBdER1UGYtcGdjYjdNNW1QSjcwaTR6R1prSUc4TjhaYnJXQ3psUWJsZko0TzNuUi00SHhYNVB3cTR4VXozcWdUNDRLRUJtTXZ4RGJjUDlYSU1fVTlRai16U3FhNDVOWmhCaHNXUERmdi1RVUcwdXBVRHRpMmwzSE1LREd6U2pQZVYzdw?oc=5",
+          "title": "‘New level of danger’: Drone incidents scare Europe amid Russia-Ukraine war",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQkFUWGJ0YzJTamsxVVJIUkFTMlMyUkhfbDVyRzZ5ZUNzeGpNckdsemdrMC1HZUdxaWNyRmI0MGM3ZjVyS1ZibTFjaG85UzdIUmRLT2N6SGNaNW5wR0ZKWXJHaTRrbmI2cnZhNl84VEllNnE4SXNZUzJhOFlxTS15X0YzNTV5Tm9tU3kxVWpEbjc0bWFyc3BwUDJBckpra0RFVTBKTEp3SlJveFlseXZ5eGFfONIBuAFBVV95cUxQTHhMamxEeFdEaG13MnN6emhPQ1laMDZ0d3ZUeHZ2VXIwaGdRWVVuM2MtU3NDbExDcThLTWRsVVlrXzRFUU9TTkdMeGNra29EblRZQmxTUHQ0MUFpQ3ZrNUNQTC1JdG1VeDlfTFJJYzFsMTBZUDhybElaX1gwa1VJbkNFTE1WR2pKM3ktWWx1a3pOTS03WlFpSWlKU0pPM2FPbGJxOWxjbTdnZFJFYXYtVWFVTTZzTWlZ?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260810T195552Z",
+          "seen": "20260811T113139Z",
+          "pinned": false
+        },
+        {
+          "title": "Iraq’s semi-autonomous Kurdish region suffers as US-Iran war drags on",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWdtaUltQWVYdTM4M3QtSDR0QVFvZFFoOE9hTjloWGdJSzAtT0kyR3ZOUEtJWXd4VFlPb09KUzg0YnpnbGZzTWI1UVpBMG9oMFpzNENBSE9wd3JqWUJXSUoybGs0WjVxSFRuRzlHRjY4S1l1aWVuYzVMUDRsVTE3TkF6NnlYUDc2bS0yVk1wVEszTWZ4M3poeHhBOWR4LUNQWEtGMHNoYUVLWnNCMXfSAbMBQVVfeXFMUHcteXpxYjFZRnEzalVaTVpOczB6RjlkSXZQeDREVllrekstMjM5ZGtvTHBoanhOcXhLd3VSejZYcFhPWGdrNmVOWG5SSmNIaWZ2ZDAtQ3M5TXYxR2Z3alJtUHhTbTVPV0NTenl6OFktbXA3MS16NlBWOTQtQlhqR1lORl9vTjVzVmFPb281RUtvVmJfdlZjVDJWUy1kTm41OUNNSDVpZXJFWl9uTGRRZ1lCNXc?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260811T095254Z",
+          "pinned": false
+        },
+        {
+          "title": "Trump told Ukraine it had no cards. Then Kyiv took the war to Russia",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBaMUwzUGYyQ2IyNXNfS1JPQi13cktObW5NSXV0SmJwbURsaU9FNDRpeWlFR3ZPS01YdG9pNFlvZ0lWeTBTRUJfQ2l6dW5hWjB1NFJUSGk4QUpiUVYzRWZUcVlzNktFTzQxc3VqTFQ3bUZSUFdjZll3Zg?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260811T120850Z",
           "pinned": false
         },
         {
@@ -777,39 +809,7 @@
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTHRSRTdObVh1eUFaNml6X3lhU0FnaEJvWHM2V2g2eC0yblF2QktZTnctM1Vud0pqZ2ZzQ0ZZTzBRNUV2TnpFNkV2V3lNUVhfcGlHbmtzT1k5bnJCclRCS1dTYnB5WTdmRk5aaHM4aEktLVFzc1lhallpd1FfM2J1aTE3NzBIejRSaTctUDdETm1hSFBadWk2aTR1ZDk?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260811T054500Z",
-          "pinned": false
-        },
-        {
-          "title": "Germany warns of ‘daily hybrid warfare’ after explosive-laden drone found",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWjlJM2xsN3VUWEJiUHZkcUsxX2RiOEZITVJBazI3WmNpTzFfX0VGQkhIWU1LU3haY0g5MktCd0ZYRjJ6YnQ2U0J4cnFRTVNWcW81MlRlWlA0VkRfM1NoSkgzTnpqWUhycFk5MDZiN3ktbVlDMUEtb0p3Y0ZyTU9PZ2hSQXhMSE5wWEtuOXRDQ2dmM215cUxoLTNNcFpIUWxEVmlaSURidU9RaEs5RGpr0gG0AUFVX3lxTE1FQkJoRWxhaS13LTBVRThjbURDMjZfRlRlVHhoRDloYXRHcFQtY3R1WVRaN1YtbjkwdzNhY19Gc3RhcThJdmM5RzROSk5vckp2MkZhb2NIRS1TSkhlRE1oRE1jMWFBWUk1M2VUTWFFcjh3QzBWYi1KZTFGR0ZtTUhZMVRlNnNMdHVHbnBObEpkdG5nMWVMSUtXVEVFak1TNV9GNWpqOEJEYS1mRU0zTTVnQm9lUA?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260809T205037Z",
-          "pinned": false
-        },
-        {
-          "title": "Trump to demand compensation for Tehran’s ‘conflicts’",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUXVlTkpFUWlDRUFXQUpUUXJIZEt4Zk0xZ0N0dkthU1pHWHVFVFctM1pFNTA4SFlDRmVDT25GSEFGajZkMUs4Y3BOOGRQemRNTHZsakFzaVU2U19tYjFoZXB5RF9TOTNJOENEZkhxOEp4ajFpUGxEWHJQbFZLQjl3MWJqZTcwd1ozWXpqWFlUQU1qa19SeFHSAZsBQVVfeXFMTTBjM1hwQjhQXzF0a3JUMF9kX3JHVnVWZGZqa0lfbnltZkdMdTR4RUlKcWVQOEM2TjZzZl9hVXFZNUZhUDBqc0tBbm5ZVkJubVZOQUJBT0FlYllac1ZvSVJhcXg1VHFNLUE3cUFRbm5lNnJSR2hlT1pLZUhRY3pEWGdFeEhnZFdPdWR6NUhCbDAxaHNleEdCSi1KU2c?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260810T210924Z",
-          "pinned": false
-        },
-        {
-          "title": "Ukraine honors its ‘collector of souls’ volunteer killed while recovering the war dead",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVkI3UGpBZkg3d2ptZUUtcUJjbk5WQjlNVFdFcmZiSERjeUhVWEhLcjJhbS15UEtQdkVQMGpTR2pKMVoxR2tRdnFkOGY4RmpFeG5qZnRORHZ1anA3VnJTMXFhTzJxcjh2WkJGdGtyb3luWFlkcTVrVWxadEd6dktkVHBoaVFQcWdDVzF2VjNjc2V2eXZuTm1OaXo4OEw2UG16YUxJ?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260808T203900Z",
-          "pinned": false
-        },
-        {
-          "title": "‘Long-range sanctions’: Ukraine hopes strikes cause Russia fear and losses",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTWh0UHBzOVZRUVI4TGpRdnp6Y1FJTkl6Y2VwWVRuWEtydXEtb1lwWjhpVGFDT3FwaDJTTGppQkZ5Uld2Umh0RUFsejlnUVJKbXEyZDRXYVA3THlhQk1EWTRVZ0ljQWE1S3lQS3Z5b0gzNFYtZTJBR3JyMHRXZlZJcnNHNWZEUmFqSWxteHBkMnlCVWFMZUVhZnBEZjl3aVpjV2ZyNl9sQjhVNW9rUGtyeHN30gG3AUFVX3lxTE5TYXJMLTRCRnpZRjUtN29EazN2LXFtajR6YThTZVY1Rm5lLXd5TDV5V3pKRGpYTk5jRFNMM3h2bTlnWFplbnBtUGgyRk1sY29DYVdQZFRRbDNEMkdQUXhDUjdPUWotZnBPMU9oN2lISjFNd3hHZkQyU2k2bE4tZU83QVVhV2tBM3BwLTc1eUx1c0duQnhseEZ2SXBLZEg5aEJfMUJsWTNmYkpZUkVOQ1RKcS1aWjFBOA?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260810T115726Z",
+          "seen": "20260810T131658Z",
           "pinned": false
         },
         {
@@ -821,11 +821,11 @@
           "pinned": false
         },
         {
-          "title": "Russia, Ukraine exchange overnight strikes that leave 7 dead, many injured",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZUUwZGVYSU5sMHpMazg3MEo2YkJ0RlJEOGloN2UxcXVNSENMSWYwdFM2aFdTa3g1ZjdER3FxS3ZDS3c1cWZoSy1nVUFWODlOM2g4VzRmN2VvYWZxaGJ3aHdvX2VSdTJlN3RyOVhsQW5NTllELTI5U1d0VmxwYWlsRWNVNnlQWk01eGtMQ09mYV9JLVFETDJncU4xaUpab0Vrc2lGVw?oc=5",
-          "domain": "apnews.com",
+          "title": "Germany warns of ‘daily hybrid warfare’ after explosive-laden drone found",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWjlJM2xsN3VUWEJiUHZkcUsxX2RiOEZITVJBazI3WmNpTzFfX0VGQkhIWU1LU3haY0g5MktCd0ZYRjJ6YnQ2U0J4cnFRTVNWcW81MlRlWlA0VkRfM1NoSkgzTnpqWUhycFk5MDZiN3ktbVlDMUEtb0p3Y0ZyTU9PZ2hSQXhMSE5wWEtuOXRDQ2dmM215cUxoLTNNcFpIUWxEVmlaSURidU9RaEs5RGpr0gG0AUFVX3lxTE1FQkJoRWxhaS13LTBVRThjbURDMjZfRlRlVHhoRDloYXRHcFQtY3R1WVRaN1YtbjkwdzNhY19Gc3RhcThJdmM5RzROSk5vckp2MkZhb2NIRS1TSkhlRE1oRE1jMWFBWUk1M2VUTWFFcjh3QzBWYi1KZTFGR0ZtTUhZMVRlNnNMdHVHbnBObEpkdG5nMWVMSUtXVEVFak1TNV9GNWpqOEJEYS1mRU0zTTVnQm9lUA?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260809T151800Z",
+          "seen": "20260809T205037Z",
           "pinned": false
         }
       ],
@@ -838,15 +838,6 @@
           "sourceTier": "State-affiliated reporting",
           "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
           "reportedAt": "2026-08-10T03:00:28Z"
-        },
-        {
-          "id": "report-3d38dd7c63f8",
-          "title": "Turkish foreign minister warns Russia-Ukraine war could push Moscow toward ‘last option’",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbG5XNWZUV2d6aVR6MW53eUYyTlEtQjU2TWdrcFBFSmx5UFhhQmRLdFlPY09UUW5LaU84eGdfb0VKWi1rdTFHeTkxYTlmMjAycDBIMEZ5MUY1Q2R6b0c4b0hveUN0aWlKbjk5eHZrWjgtSEZnbXh5U3BHUGlmWkNpWW5RSWtKQTdtX2RROTBvdVR1YnNmR1ZZUGt4U2FwdFc2S3hzNUVQMUJWMzZLbkpoSUk2MWJqY3VEdS1RZW1mVDZhUTI0Znc1bA?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
-          "reportedAt": "2026-08-09T09:03:56Z"
         },
         {
           "id": "report-254f1050aac5",
@@ -864,7 +855,7 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-11T08:15:00Z"
+          "reportedAt": "2026-08-11T08:17:26Z"
         },
         {
           "id": "report-439e5d8ab644",
@@ -885,22 +876,13 @@
           "reportedAt": "2026-08-10T17:18:24Z"
         },
         {
-          "id": "report-c912b4b76205",
-          "title": "Russian forces kill several in Ukraine, launch ‘brutal’ attack in Odesa",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN3NaTmJfUXJzYXFHOWtNWTFYM2h6dmZ3N2Zual9aMnBXVk9VTUJzQmp6eXpJam9lSm9RaEhHWXFpdTQ2dW1tVUtXQUxJbDJySV8tYk8ybGY1RTFqWTlfU3AzMFQ3UnVDV2U1RHZfby1tTlBWNHc4SjNOTW8xaGVYTkxVNWp2NTF0Q0VGWU43MTJIWGJBbjl6cGtiMGVYWkNCQ01jMGRWOVJ1am1K0gGyAUFVX3lxTFBfUmdsSGFFdW9rRUxUZ0txZXJYUkxlY2FtYzJvMDV0YkdwVTNyZGhkZ1dQLUNvS3Z2NnR4dGJkUU40UVNYeE52VzZsMzU0RmZJZkV5Mll3Q3VPSEFOLS1wTEQ4dUFmaWdWSmVvdV96SGxYellNLXVHc1A5NUR2NUxuaVFKR1hEQm00LUZoVUkyWWF2c01VN2F0eHVZUWg3VVdWX0hVajZiZ19NZ054WmVHN2c?oc=5",
+          "id": "report-b5ae6dd4bed8",
+          "title": "What’s behind Iran’s new military appointments and what do they indicate?",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZEktOFNDLVRfMEpfLVVlRHpZb0kyS0RMWVN4bXdWZmpmQVZsQk1KYjJlOVlSSFFZcnd3b00yT2thZVRqRUFmWFNEUU5UOHc5UWpLSUl0MEZhUDNWdlVqZmt2alpCUUxfMHRCOGU4djQxOUZ0WDJpMlJTNWNaWUFhUFZLZktpaVpraktZeXpVSHl4M0N2ODVaNkYtV3k3MDQ5SmIzNDQ0RnZRYWdta1VGcNIBtgFBVV95cUxNTlhPcmp3QnYzbENhRW84YlQ2YVBRVUFEcUpleDJQT2lJTGI5N2RDcEJtM041SFltT3g3N2xheE85Y2xZMXViRnFNTGVoSGZ0emFuZHJqV3F0R2tvWVlMX29lc1N3am4wUjN4ZVhRVml6M0d5QlJnRjRNYllsWERzT0JsNlBTMGxLT213b3lmYjJ4Q21XaG9PU3BGWTdkMmFnWDlON1lYSnBfOVRCdjYtV0VvZGZ2UQ?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-09T11:09:38Z"
-        },
-        {
-          "id": "report-7f97b0806231",
-          "title": "Sudan’s war threatens an ‘entire generation’s’ future, UN warns",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd1dlc3RpbmFHS3ZxNVIwcWNKTmkzeXBlVlE3SmRZNzRNNnptX3RKeF9wbnhneVI2b2hYOTQ0dTVpWkVUNk94R0xDMUJpTUZYMmtIQlBxUlF0SEx5Nnl4cFg2NFA4S295WndQT3pILXVndTlMQ1NNUGR6SUNQLTUxcXE4d2R5NFpxLXVMNXl2b0tfTFNDdlQwMVB3SHBOM0HSAaQBQVVfeXFMTjVDRHliYVk3dzJTY2pEaXZUOFlvX2c2YmpDQkJvbEVnc3c2TnRKR05fa3RVMU1lOHI4azlvOWdGUlFiaDVPQWVYT0hVd1VzeHBUYXRoNEgya0U0QkpIRUg0TFdXeVU1bFI3TlRjb2dSaWRyVFBXY2NtU0tzbEpkMHlGSkZXM2xUVlU1Z1ZtZGdJbTlDMDl5VTFnLWplVTNpOGJNRHg?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-08T00:29:34Z"
+          "reportedAt": "2026-08-11T13:32:13Z"
         },
         {
           "id": "report-00aca2ef0f75",
@@ -912,13 +894,31 @@
           "reportedAt": "2026-08-11T06:09:43Z"
         },
         {
-          "id": "report-2970ff3c8e81",
-          "title": "War on Iran: Phase II: Day 29",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRW56N3I4cWpfTF9UVTUzMGc5enBYNVdnU0dFaUF0NmNqOGdyVWVBU1BzTXRJZVpaRGdiX09EQklLYWJKcm45ejdRTkV0bVg4UVlvUG1fclk0ODlnTi1xQXFUUl9yTE9LX08yRXlOMWpyNjRJNjNYUVFnQTltOFlhZzFyMNIBiAFBVV95cUxONUE2UTVUelBxM3p1cG1HZl9UZjJRZFowVUFmZk1JLWMwQ1RNWGxBMVl4M2ZRSXZHSVQ1Q25DYmQwTl9jNmZ1LWNrcW1ENWRZZDl4dTd0RGRocmdPT2E2UHdVRFNRcXNCLVBFMThCQm1uS2pWZVI5VXBKOHBVOGFPenluNDM2cmFz?oc=5",
+          "id": "report-c912b4b76205",
+          "title": "Russian forces kill several in Ukraine, launch ‘brutal’ attack in Odesa",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN3NaTmJfUXJzYXFHOWtNWTFYM2h6dmZ3N2Zual9aMnBXVk9VTUJzQmp6eXpJam9lSm9RaEhHWXFpdTQ2dW1tVUtXQUxJbDJySV8tYk8ybGY1RTFqWTlfU3AzMFQ3UnVDV2U1RHZfby1tTlBWNHc4SjNOTW8xaGVYTkxVNWp2NTF0Q0VGWU43MTJIWGJBbjl6cGtiMGVYWkNCQ01jMGRWOVJ1am1K0gGyAUFVX3lxTFBfUmdsSGFFdW9rRUxUZ0txZXJYUkxlY2FtYzJvMDV0YkdwVTNyZGhkZ1dQLUNvS3Z2NnR4dGJkUU40UVNYeE52VzZsMzU0RmZJZkV5Mll3Q3VPSEFOLS1wTEQ4dUFmaWdWSmVvdV96SGxYellNLXVHc1A5NUR2NUxuaVFKR1hEQm00LUZoVUkyWWF2c01VN2F0eHVZUWg3VVdWX0hVajZiZ19NZ054WmVHN2c?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-09T16:08:40Z"
+          "reportedAt": "2026-08-09T11:09:38Z"
+        },
+        {
+          "id": "report-a755c78656d2",
+          "title": "Iran war",
+          "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-10T12:50:51Z"
+        },
+        {
+          "id": "report-7f97b0806231",
+          "title": "Sudan’s war threatens an ‘entire generation’s’ future, UN warns",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd1dlc3RpbmFHS3ZxNVIwcWNKTmkzeXBlVlE3SmRZNzRNNnptX3RKeF9wbnhneVI2b2hYOTQ0dTVpWkVUNk94R0xDMUJpTUZYMmtIQlBxUlF0SEx5Nnl4cFg2NFA4S295WndQT3pILXVndTlMQ1NNUGR6SUNQLTUxcXE4d2R5NFpxLXVMNXl2b0tfTFNDdlQwMVB3SHBOM0HSAaQBQVVfeXFMTjVDRHliYVk3dzJTY2pEaXZUOFlvX2c2YmpDQkJvbEVnc3c2TnRKR05fa3RVMU1lOHI4azlvOWdGUlFiaDVPQWVYT0hVd1VzeHBUYXRoNEgya0U0QkpIRUg0TFdXeVU1bFI3TlRjb2dSaWRyVFBXY2NtU0tzbEpkMHlGSkZXM2xUVlU1Z1ZtZGdJbTlDMDl5VTFnLWplVTNpOGJNRHg?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-08T00:29:34Z"
         },
         {
           "id": "report-d84b6cf74216",
@@ -939,6 +939,15 @@
           "reportedAt": "2026-08-10T14:09:32Z"
         },
         {
+          "id": "report-2970ff3c8e81",
+          "title": "War on Iran: Phase II: Day 29",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRW56N3I4cWpfTF9UVTUzMGc5enBYNVdnU0dFaUF0NmNqOGdyVWVBU1BzTXRJZVpaRGdiX09EQklLYWJKcm45ejdRTkV0bVg4UVlvUG1fclk0ODlnTi1xQXFUUl9yTE9LX08yRXlOMWpyNjRJNjNYUVFnQTltOFlhZzFyMNIBiAFBVV95cUxONUE2UTVUelBxM3p1cG1HZl9UZjJRZFowVUFmZk1JLWMwQ1RNWGxBMVl4M2ZRSXZHSVQ1Q25DYmQwTl9jNmZ1LWNrcW1ENWRZZDl4dTd0RGRocmdPT2E2UHdVRFNRcXNCLVBFMThCQm1uS2pWZVI5VXBKOHBVOGFPenluNDM2cmFz?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-09T16:08:40Z"
+        },
+        {
           "id": "report-33ae1a5a9943",
           "title": "Iran seeks way out of ‘neither war nor peace’ stalemate with US",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPV2VrcWc4MzZyVWp5eWpsZ0gwZi1CRE5kMm5UQktUazM1clJrMFhKYWVQM0YzSXh5UllibVlwRFlMY0VVNWR6UnhlNExHNEZEcEJJaE04V2V6STVfcHlDQTN2NVZnNDIwdjEzcVRndjVUemNQVGtiZ21EUE9qVDZzTEpYWlQwd9IBiwFBVV95cUxNemRsNjhoZTZ1R2plTWxtamJYeEMzVHRySXM1MzJpbTNOZ3ZMb0hRbWRXRDBibWdJVnRvS3R1UE1rQlNfQXlWWWcyXzdQMXloWnhKUVd0dmZyNnJEdWUzNDh3eUtzRXJyS2tHLWpCOXlRdnBDU0F3TDFTaV9pTGYxTzNDZXduazl0WW1N?oc=5",
@@ -957,6 +966,15 @@
           "reportedAt": "2026-08-09T12:37:53Z"
         },
         {
+          "id": "report-97fb5c165511",
+          "title": "Russia bars only party opposing war in Ukraine from parliamentary vote",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUjcxSFNFc2lBQkFFWnRvSkt0dE5JTEtIU2Nhc25KODVBYnRETjBMdW1rMGZDM2taWTFqY05oZXpobi15Z1d4VnNFQ1FZVFpBNWdtdlFib0tRZllzcmVmS1I2UkNod1JsTG1vSEo4TFZGMzh4ZnF4NzJwb3BNQTFWODdZWkN4NC1wZk43YXByODVsOF9CZ3pXNXluYzFTR1VvMFJMbzl3ZFBVUFUxaUg1WdIBtgFBVV95cUxOdS1FTTdhRXNBZ1d6R2lPZnQ4LXJuR29jUVlkeFBTTmlsQWJEc29ZWmRKWWtBdER1UGYtcGdjYjdNNW1QSjcwaTR6R1prSUc4TjhaYnJXQ3psUWJsZko0TzNuUi00SHhYNVB3cTR4VXozcWdUNDRLRUJtTXZ4RGJjUDlYSU1fVTlRai16U3FhNDVOWmhCaHNXUERmdi1RVUcwdXBVRHRpMmwzSE1LREd6U2pQZVYzdw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-10T19:55:52Z"
+        },
+        {
           "id": "report-cdeab4f938c0",
           "title": "Bulgaria, Germany drone incidents raise security fears amid Ukraine war",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWGN3STBkTXUwR3NXZDN3TzJEcjJXR29rZDFJNW1LS1V6WVdZenh1SzQtTjZTOEhtNk8wTUotSmFPN2ZqRTR6ZEhwSTZ0dDFxUEhZQkVFVFg2YVZTQzY2RzJoTFBWcVVQQjRPeUVCaHdSem1lclJYeTNTZVY3SFp6X2hRRzFDMFVxTWxlYmN0N1RqWFVZZEVZMTBSdTBNWGVwY0ZrNk9NY3pXbjYtc3RTenYxYmVZUdIBuwFBVV95cUxOZGIwWXdiTmNOSy1MMXBBWUFLd1JWS0tmUmNyWk9UNHZ4bmRuZW15TU83NDBtQkxBQU1Qa2dDN0xyS1V0QVFzWmJlSm9MN0lGTG5IZndpMjlxZGJyallKVkZSem0tV1h4X2M5M2E0bjc2Vm85V0Q3Sm5yYTBTUnh4VHBJcEV4S0JhQUJTTGJVenBwT0VzR3hMVGtsT2E3bXhaRllsY1lBWlRjVkFSWU0xeUswZnVoTGFVR3JN?oc=5",
@@ -966,13 +984,31 @@
           "reportedAt": "2026-08-09T06:51:04Z"
         },
         {
-          "id": "report-97fb5c165511",
-          "title": "Russia bars only party opposing war in Ukraine from parliamentary vote",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUjcxSFNFc2lBQkFFWnRvSkt0dE5JTEtIU2Nhc25KODVBYnRETjBMdW1rMGZDM2taWTFqY05oZXpobi15Z1d4VnNFQ1FZVFpBNWdtdlFib0tRZllzcmVmS1I2UkNod1JsTG1vSEo4TFZGMzh4ZnF4NzJwb3BNQTFWODdZWkN4NC1wZk43YXByODVsOF9CZ3pXNXluYzFTR1VvMFJMbzl3ZFBVUFUxaUg1WdIBtgFBVV95cUxOdS1FTTdhRXNBZ1d6R2lPZnQ4LXJuR29jUVlkeFBTTmlsQWJEc29ZWmRKWWtBdER1UGYtcGdjYjdNNW1QSjcwaTR6R1prSUc4TjhaYnJXQ3psUWJsZko0TzNuUi00SHhYNVB3cTR4VXozcWdUNDRLRUJtTXZ4RGJjUDlYSU1fVTlRai16U3FhNDVOWmhCaHNXUERmdi1RVUcwdXBVRHRpMmwzSE1LREd6U2pQZVYzdw?oc=5",
+          "id": "report-25004455cfae",
+          "title": "‘New level of danger’: Drone incidents scare Europe amid Russia-Ukraine war",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQkFUWGJ0YzJTamsxVVJIUkFTMlMyUkhfbDVyRzZ5ZUNzeGpNckdsemdrMC1HZUdxaWNyRmI0MGM3ZjVyS1ZibTFjaG85UzdIUmRLT2N6SGNaNW5wR0ZKWXJHaTRrbmI2cnZhNl84VEllNnE4SXNZUzJhOFlxTS15X0YzNTV5Tm9tU3kxVWpEbjc0bWFyc3BwUDJBckpra0RFVTBKTEp3SlJveFlseXZ5eGFfONIBuAFBVV95cUxQTHhMamxEeFdEaG13MnN6emhPQ1laMDZ0d3ZUeHZ2VXIwaGdRWVVuM2MtU3NDbExDcThLTWRsVVlrXzRFUU9TTkdMeGNra29EblRZQmxTUHQ0MUFpQ3ZrNUNQTC1JdG1VeDlfTFJJYzFsMTBZUDhybElaX1gwa1VJbkNFTE1WR2pKM3ktWWx1a3pOTS03WlFpSWlKU0pPM2FPbGJxOWxjbTdnZFJFYXYtVWFVTTZzTWlZ?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-10T19:55:52Z"
+          "reportedAt": "2026-08-11T11:31:39Z"
+        },
+        {
+          "id": "report-64c601c47f0d",
+          "title": "Iraq’s semi-autonomous Kurdish region suffers as US-Iran war drags on",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWdtaUltQWVYdTM4M3QtSDR0QVFvZFFoOE9hTjloWGdJSzAtT0kyR3ZOUEtJWXd4VFlPb09KUzg0YnpnbGZzTWI1UVpBMG9oMFpzNENBSE9wd3JqWUJXSUoybGs0WjVxSFRuRzlHRjY4S1l1aWVuYzVMUDRsVTE3TkF6NnlYUDc2bS0yVk1wVEszTWZ4M3poeHhBOWR4LUNQWEtGMHNoYUVLWnNCMXfSAbMBQVVfeXFMUHcteXpxYjFZRnEzalVaTVpOczB6RjlkSXZQeDREVllrekstMjM5ZGtvTHBoanhOcXhLd3VSejZYcFhPWGdrNmVOWG5SSmNIaWZ2ZDAtQ3M5TXYxR2Z3alJtUHhTbTVPV0NTenl6OFktbXA3MS16NlBWOTQtQlhqR1lORl9vTjVzVmFPb281RUtvVmJfdlZjVDJWUy1kTm41OUNNSDVpZXJFWl9uTGRRZ1lCNXc?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-11T09:52:54Z"
+        },
+        {
+          "id": "report-138231438083",
+          "title": "Trump told Ukraine it had no cards. Then Kyiv took the war to Russia",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBaMUwzUGYyQ2IyNXNfS1JPQi13cktObW5NSXV0SmJwbURsaU9FNDRpeWlFR3ZPS01YdG9pNFlvZ0lWeTBTRUJfQ2l6dW5hWjB1NFJUSGk4QUpiUVYzRWZUcVlzNktFTzQxc3VqTFQ3bUZSUFdjZll3Zg?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-11T12:08:50Z"
         },
         {
           "id": "report-ec4bbf147c6e",
@@ -990,43 +1026,7 @@
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-11T05:45:00Z"
-        },
-        {
-          "id": "report-c49420751f90",
-          "title": "Germany warns of ‘daily hybrid warfare’ after explosive-laden drone found",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWjlJM2xsN3VUWEJiUHZkcUsxX2RiOEZITVJBazI3WmNpTzFfX0VGQkhIWU1LU3haY0g5MktCd0ZYRjJ6YnQ2U0J4cnFRTVNWcW81MlRlWlA0VkRfM1NoSkgzTnpqWUhycFk5MDZiN3ktbVlDMUEtb0p3Y0ZyTU9PZ2hSQXhMSE5wWEtuOXRDQ2dmM215cUxoLTNNcFpIUWxEVmlaSURidU9RaEs5RGpr0gG0AUFVX3lxTE1FQkJoRWxhaS13LTBVRThjbURDMjZfRlRlVHhoRDloYXRHcFQtY3R1WVRaN1YtbjkwdzNhY19Gc3RhcThJdmM5RzROSk5vckp2MkZhb2NIRS1TSkhlRE1oRE1jMWFBWUk1M2VUTWFFcjh3QzBWYi1KZTFGR0ZtTUhZMVRlNnNMdHVHbnBObEpkdG5nMWVMSUtXVEVFak1TNV9GNWpqOEJEYS1mRU0zTTVnQm9lUA?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-09T20:50:37Z"
-        },
-        {
-          "id": "report-3e960af6450b",
-          "title": "Trump to demand compensation for Tehran’s ‘conflicts’",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUXVlTkpFUWlDRUFXQUpUUXJIZEt4Zk0xZ0N0dkthU1pHWHVFVFctM1pFNTA4SFlDRmVDT25GSEFGajZkMUs4Y3BOOGRQemRNTHZsakFzaVU2U19tYjFoZXB5RF9TOTNJOENEZkhxOEp4ajFpUGxEWHJQbFZLQjl3MWJqZTcwd1ozWXpqWFlUQU1qa19SeFHSAZsBQVVfeXFMTTBjM1hwQjhQXzF0a3JUMF9kX3JHVnVWZGZqa0lfbnltZkdMdTR4RUlKcWVQOEM2TjZzZl9hVXFZNUZhUDBqc0tBbm5ZVkJubVZOQUJBT0FlYllac1ZvSVJhcXg1VHFNLUE3cUFRbm5lNnJSR2hlT1pLZUhRY3pEWGdFeEhnZFdPdWR6NUhCbDAxaHNleEdCSi1KU2c?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-10T21:09:24Z"
-        },
-        {
-          "id": "report-8d829971babd",
-          "title": "Ukraine honors its ‘collector of souls’ volunteer killed while recovering the war dead",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVkI3UGpBZkg3d2ptZUUtcUJjbk5WQjlNVFdFcmZiSERjeUhVWEhLcjJhbS15UEtQdkVQMGpTR2pKMVoxR2tRdnFkOGY4RmpFeG5qZnRORHZ1anA3VnJTMXFhTzJxcjh2WkJGdGtyb3luWFlkcTVrVWxadEd6dktkVHBoaVFQcWdDVzF2VjNjc2V2eXZuTm1OaXo4OEw2UG16YUxJ?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-08T20:39:00Z"
-        },
-        {
-          "id": "report-576e6741f0a0",
-          "title": "‘Long-range sanctions’: Ukraine hopes strikes cause Russia fear and losses",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTWh0UHBzOVZRUVI4TGpRdnp6Y1FJTkl6Y2VwWVRuWEtydXEtb1lwWjhpVGFDT3FwaDJTTGppQkZ5Uld2Umh0RUFsejlnUVJKbXEyZDRXYVA3THlhQk1EWTRVZ0ljQWE1S3lQS3Z5b0gzNFYtZTJBR3JyMHRXZlZJcnNHNWZEUmFqSWxteHBkMnlCVWFMZUVhZnBEZjl3aVpjV2ZyNl9sQjhVNW9rUGtyeHN30gG3AUFVX3lxTE5TYXJMLTRCRnpZRjUtN29EazN2LXFtajR6YThTZVY1Rm5lLXd5TDV5V3pKRGpYTk5jRFNMM3h2bTlnWFplbnBtUGgyRk1sY29DYVdQZFRRbDNEMkdQUXhDUjdPUWotZnBPMU9oN2lISjFNd3hHZkQyU2k2bE4tZU83QVVhV2tBM3BwLTc1eUx1c0duQnhseEZ2SXBLZEg5aEJfMUJsWTNmYkpZUkVOQ1RKcS1aWjFBOA?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-10T11:57:26Z"
+          "reportedAt": "2026-08-10T13:16:58Z"
         },
         {
           "id": "report-b8b6c5225f0f",
@@ -1038,13 +1038,13 @@
           "reportedAt": "2026-08-10T17:40:33Z"
         },
         {
-          "id": "report-7f3ab9b8a195",
-          "title": "Russia, Ukraine exchange overnight strikes that leave 7 dead, many injured",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZUUwZGVYSU5sMHpMazg3MEo2YkJ0RlJEOGloN2UxcXVNSENMSWYwdFM2aFdTa3g1ZjdER3FxS3ZDS3c1cWZoSy1nVUFWODlOM2g4VzRmN2VvYWZxaGJ3aHdvX2VSdTJlN3RyOVhsQW5NTllELTI5U1d0VmxwYWlsRWNVNnlQWk01eGtMQ09mYV9JLVFETDJncU4xaUpab0Vrc2lGVw?oc=5",
-          "domain": "apnews.com",
+          "id": "report-c49420751f90",
+          "title": "Germany warns of ‘daily hybrid warfare’ after explosive-laden drone found",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWjlJM2xsN3VUWEJiUHZkcUsxX2RiOEZITVJBazI3WmNpTzFfX0VGQkhIWU1LU3haY0g5MktCd0ZYRjJ6YnQ2U0J4cnFRTVNWcW81MlRlWlA0VkRfM1NoSkgzTnpqWUhycFk5MDZiN3ktbVlDMUEtb0p3Y0ZyTU9PZ2hSQXhMSE5wWEtuOXRDQ2dmM215cUxoLTNNcFpIUWxEVmlaSURidU9RaEs5RGpr0gG0AUFVX3lxTE1FQkJoRWxhaS13LTBVRThjbURDMjZfRlRlVHhoRDloYXRHcFQtY3R1WVRaN1YtbjkwdzNhY19Gc3RhcThJdmM5RzROSk5vckp2MkZhb2NIRS1TSkhlRE1oRE1jMWFBWUk1M2VUTWFFcjh3QzBWYi1KZTFGR0ZtTUhZMVRlNnNMdHVHbnBObEpkdG5nMWVMSUtXVEVFak1TNV9GNWpqOEJEYS1mRU0zTTVnQm9lUA?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-09T15:18:00Z"
+          "reportedAt": "2026-08-09T20:50:37Z"
         },
         {
           "id": "report-dd2a1637dc48",
