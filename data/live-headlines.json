@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-11T15:35:07.305Z",
+  "generatedAt": "2026-08-11T18:41:11.979Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -21,7 +21,7 @@
       ]
     },
     "safety": {
-      "generatedAt": "2026-08-10T18:36:32.347Z",
+      "generatedAt": "2026-08-11T18:41:11.979Z",
       "cadence": "daily",
       "items": [
         {
@@ -53,7 +53,7 @@
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQTY2THYtYXZSQXBMTlhtamlYSkRpSWlmNnFqd3JZWFIzd0lEaTlOTzNlRVRlUTZOdmcwYnNKN0NCUzFLZ1ZsRFduWW0xbWluTDcwZk5nSGVDMTJVTUdHbEFDWThrQy03c1RURmM4TFBZdzVfcHdTQUQwLUkwMEtldlhvTTg5XzJMUmFjamhIQmh5RnhMX1ZwY3FR?oc=5",
           "domain": "stripes.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260731T230359Z",
+          "seen": "20260731T070000Z",
           "pinned": false
         },
         {
@@ -65,19 +65,19 @@
           "pinned": false
         },
         {
+          "title": "PLR 26-054 – Automobile Mishap Claims One Soldier’s Life",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORHg1d0JDeHVsMVFkd3RBWTBLUXU0WTN3RnBJQy1iNmtwa184WTdaLW5XckNPZmVIYVBONlRSM0otSUllajFQMm8xa1prbHFtUnowTE9nM1haUW1pTURKUjBWb3J6RVNyTnRhX2Rra3FLODBnaHNCWTJfVGdtNDBEa0dZYzlBLWptZkwzSE4wVUxUQW9BY0NuVGhQNkR5VjBQMHVnTEZaWnd5VkhycWk2R0NjUVdCYVlkWDFvcEpNQjc3NllPcWE3ZzNIRVZncDBsVmlLLTd3S29xcXNNTGNN?oc=5",
+          "domain": "safety.army.mil",
+          "sourceTier": "Official military source",
+          "seen": "20260806T070000Z",
+          "pinned": false
+        },
+        {
           "title": "PLR 26-051 – Motorcycle Mishap Claims One Soldier's Life",
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaVpiYzFyRVhaWHZuV2VuVzVoM050d0FnTzR1QVZlQnZkVE14WWpvQXZjY3BXMDF3SW1URFc0VC1DS1pHeWdXeDU3T2hHN1NuZjI0dXp4b1Z3STJlMEw4RFEtb05KeWxQWnpoV3JCYmR3U0dPVFJfQ0ZGTmdrX2ZtN2ZrdzdyTmRhZ1BGZ0JpX2NMTFYyNzhlUVV0dk9OczVQVlhjeUlYSFNUM1ZOSVUzWkpjQ2NKM2p1bUJNSWNWR0p6emt6VnhEYTJobHluaWlW?oc=5",
           "domain": "safety.army.mil",
           "sourceTier": "Official military source",
           "seen": "20260720T070000Z",
-          "pinned": false
-        },
-        {
-          "title": "Marine Corps F-35B crashes on runway of California base, pilot safe",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5kSHlCVzNRd21ldGlFVHZWcXZWbGRhTThvazFkOEMtb2dQQ0FaOXRVRFdNS0Z1VGl3cDYtRXBnOHdJbGhQaWFTTFhzam1YQjMxVEhReU1VNkxpeVNCclF1MTlBTVkzZ0w1eDJFbGZiZnRmeVk?oc=5",
-          "domain": "taskandpurpose.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260731T182626Z",
           "pinned": false
         },
         {
@@ -109,24 +109,6 @@
           "sourceLabel": "news.uscg.mil"
         },
         {
-          "id": "auto-1427960fe531",
-          "reportDate": "2026-08-06",
-          "dateBasis": "report discovery date",
-          "branch": "Coast Guard",
-          "department": "Department of Homeland Security",
-          "type": "Other",
-          "event": "Two Chinese coast guard personnel marked as \"martyrs\" after South China Sea collision last year",
-          "location": "See official source",
-          "fatalities": null,
-          "injuries": null,
-          "status": "REPORTED / UNVALIDATED",
-          "signalClass": "REPORTED MISHAP",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
-          "source": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWlF2VnVUdWhBVDVXWjJOZEV1Y2ZKYmFYRXh4Z2daRHh5WnJfdlZkODlCWTRwaFc4dGx1enhnWU44NExiUlNyTnBZdTRKak9LMDZaOURZX3BpTnNBQTZfOVdtX3g1WDlBa3MzQXJtOW1IZVRaVl9TOTJZMjBIa045ZktuSzJUazhwNFBXMUtLVzNGTHJUNWxaVWxIeHU5X3d0czIzdE1hMi1MSjNuQW1NZkZUc2RNdWdrTHpWTDlaZ2I2cVZkQ0xB?oc=5",
-          "sourceLabel": "reuters.com"
-        },
-        {
           "id": "auto-83cbbea00d54",
           "reportDate": "2026-08-06",
           "dateBasis": "report discovery date",
@@ -143,6 +125,24 @@
           "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
           "source": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORHg1d0JDeHVsMVFkd3RBWTBLUXU0WTN3RnBJQy1iNmtwa184WTdaLW5XckNPZmVIYVBONlRSM0otSUllajFQMm8xa1prbHFtUnowTE9nM1haUW1pTURKUjBWb3J6RVNyTnRhX2Rra3FLODBnaHNCWTJfVGdtNDBEa0dZYzlBLWptZkwzSE4wVUxUQW9BY0NuVGhQNkR5VjBQMHVnTEZaWnd5VkhycWk2R0NjUVdCYVlkWDFvcEpNQjc3NllPcWE3ZzNIRVZncDBsVmlLLTd3S29xcXNNTGNN?oc=5",
           "sourceLabel": "safety.army.mil"
+        },
+        {
+          "id": "auto-1427960fe531",
+          "reportDate": "2026-08-06",
+          "dateBasis": "report discovery date",
+          "branch": "Coast Guard",
+          "department": "Department of Homeland Security",
+          "type": "Other",
+          "event": "Two Chinese coast guard personnel marked as \"martyrs\" after South China Sea collision last year",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWlF2VnVUdWhBVDVXWjJOZEV1Y2ZKYmFYRXh4Z2daRHh5WnJfdlZkODlCWTRwaFc4dGx1enhnWU44NExiUlNyTnBZdTRKak9LMDZaOURZX3BpTnNBQTZfOVdtX3g1WDlBa3MzQXJtOW1IZVRaVl9TOTJZMjBIa045ZktuSzJUazhwNFBXMUtLVzNGTHJUNWxaVWxIeHU5X3d0czIzdE1hMi1MSjNuQW1NZkZUc2RNdWdrTHpWTDlaZ2I2cVZkQ0xB?oc=5",
+          "sourceLabel": "reuters.com"
         },
         {
           "id": "auto-01bbb6e7cc0a",
