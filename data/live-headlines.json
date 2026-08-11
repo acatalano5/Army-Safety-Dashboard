@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-11T18:41:11.979Z",
+  "generatedAt": "2026-08-11T20:29:10.179Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-08-11T15:35:07.305Z",
+      "generatedAt": "2026-08-11T20:29:10.179Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -633,7 +633,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-08-11T15:35:07.305Z",
+      "generatedAt": "2026-08-11T20:29:10.179Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -701,14 +701,6 @@
           "pinned": false
         },
         {
-          "title": "Iran war",
-          "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260810T125051Z",
-          "pinned": false
-        },
-        {
           "title": "Sudan’s war threatens an ‘entire generation’s’ future, UN warns",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd1dlc3RpbmFHS3ZxNVIwcWNKTmkzeXBlVlE3SmRZNzRNNnptX3RKeF9wbnhneVI2b2hYOTQ0dTVpWkVUNk94R0xDMUJpTUZYMmtIQlBxUlF0SEx5Nnl4cFg2NFA4S295WndQT3pILXVndTlMQ1NNUGR6SUNQLTUxcXE4d2R5NFpxLXVMNXl2b0tfTFNDdlQwMVB3SHBOM0HSAaQBQVVfeXFMTjVDRHliYVk3dzJTY2pEaXZUOFlvX2c2YmpDQkJvbEVnc3c2TnRKR05fa3RVMU1lOHI4azlvOWdGUlFiaDVPQWVYT0hVd1VzeHBUYXRoNEgya0U0QkpIRUg0TFdXeVU1bFI3TlRjb2dSaWRyVFBXY2NtU0tzbEpkMHlGSkZXM2xUVlU1Z1ZtZGdJbTlDMDl5VTFnLWplVTNpOGJNRHg?oc=5",
           "domain": "aljazeera.com",
@@ -722,6 +714,14 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260808T121759Z",
+          "pinned": false
+        },
+        {
+          "title": "War on Iran: Mojtaba Khamenei is in ‘perfect health’, Iran says",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUzhRdXEyMVRsbFpaWnVYMGFsenhDU1FmNHUzRFFNa0ctd1l2dlhEbzBlbVBMdTJYdGtXV2JXdE5FdGFGWXVSNG5QbzJfVmh6YTYwNTJnejNYS2MxdFdnNXpybko4a24tV2xjSVAyUzhncFhMMXJmdHI2c2tMUmZnQTJySmhCSnE0WUEzbW1PeWIxblVNSzRQRG43Yl8wQTZub3J3M3RJWS0zZlJrekxF0gG0AUFVX3lxTE1RcURLZGR6WWNSYkJsZVE4NDA1UjJEYjRjU0NSRUxpRzJjTmpkLU0zNGZhdzdia1dOU1BpRXV5aDlzSG1HUWlEMW1HU0diTHBPMlhpNjh4Mkk4ZThYT243bWtGTnRwcWdkRzdXcjRoLXI0SEVfeXZ0MlkwT1BXMDFTUlA1QnZYM1NaaXI1TEtfRHFndXBHOU9jekp4M2ppVV9WQk5YWjg0NERnb1pmVUhGd1FDdw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260811T145239Z",
           "pinned": false
         },
         {
@@ -809,7 +809,7 @@
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTHRSRTdObVh1eUFaNml6X3lhU0FnaEJvWHM2V2g2eC0yblF2QktZTnctM1Vud0pqZ2ZzQ0ZZTzBRNUV2TnpFNkV2V3lNUVhfcGlHbmtzT1k5bnJCclRCS1dTYnB5WTdmRk5aaHM4aEktLVFzc1lhallpd1FfM2J1aTE3NzBIejRSaTctUDdETm1hSFBadWk2aTR1ZDk?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260810T131658Z",
+          "seen": "20260811T054500Z",
           "pinned": false
         },
         {
@@ -903,15 +903,6 @@
           "reportedAt": "2026-08-09T11:09:38Z"
         },
         {
-          "id": "report-a755c78656d2",
-          "title": "Iran war",
-          "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-10T12:50:51Z"
-        },
-        {
           "id": "report-7f97b0806231",
           "title": "Sudan’s war threatens an ‘entire generation’s’ future, UN warns",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd1dlc3RpbmFHS3ZxNVIwcWNKTmkzeXBlVlE3SmRZNzRNNnptX3RKeF9wbnhneVI2b2hYOTQ0dTVpWkVUNk94R0xDMUJpTUZYMmtIQlBxUlF0SEx5Nnl4cFg2NFA4S295WndQT3pILXVndTlMQ1NNUGR6SUNQLTUxcXE4d2R5NFpxLXVMNXl2b0tfTFNDdlQwMVB3SHBOM0HSAaQBQVVfeXFMTjVDRHliYVk3dzJTY2pEaXZUOFlvX2c2YmpDQkJvbEVnc3c2TnRKR05fa3RVMU1lOHI4azlvOWdGUlFiaDVPQWVYT0hVd1VzeHBUYXRoNEgya0U0QkpIRUg0TFdXeVU1bFI3TlRjb2dSaWRyVFBXY2NtU0tzbEpkMHlGSkZXM2xUVlU1Z1ZtZGdJbTlDMDl5VTFnLWplVTNpOGJNRHg?oc=5",
@@ -928,6 +919,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-08T12:17:59Z"
+        },
+        {
+          "id": "report-17fafe7d65e4",
+          "title": "War on Iran: Mojtaba Khamenei is in ‘perfect health’, Iran says",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUzhRdXEyMVRsbFpaWnVYMGFsenhDU1FmNHUzRFFNa0ctd1l2dlhEbzBlbVBMdTJYdGtXV2JXdE5FdGFGWXVSNG5QbzJfVmh6YTYwNTJnejNYS2MxdFdnNXpybko4a24tV2xjSVAyUzhncFhMMXJmdHI2c2tMUmZnQTJySmhCSnE0WUEzbW1PeWIxblVNSzRQRG43Yl8wQTZub3J3M3RJWS0zZlJrekxF0gG0AUFVX3lxTE1RcURLZGR6WWNSYkJsZVE4NDA1UjJEYjRjU0NSRUxpRzJjTmpkLU0zNGZhdzdia1dOU1BpRXV5aDlzSG1HUWlEMW1HU0diTHBPMlhpNjh4Mkk4ZThYT243bWtGTnRwcWdkRzdXcjRoLXI0SEVfeXZ0MlkwT1BXMDFTUlA1QnZYM1NaaXI1TEtfRHFndXBHOU9jekp4M2ppVV9WQk5YWjg0NERnb1pmVUhGd1FDdw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-11T14:52:39Z"
         },
         {
           "id": "report-0d5aaeccd002",
@@ -1026,7 +1026,7 @@
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-10T13:16:58Z"
+          "reportedAt": "2026-08-11T05:45:00Z"
         },
         {
           "id": "report-b8b6c5225f0f",
