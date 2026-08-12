@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-12T15:33:57.046Z",
+  "generatedAt": "2026-08-12T18:42:26.191Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -21,7 +21,7 @@
       ]
     },
     "safety": {
-      "generatedAt": "2026-08-11T18:41:11.979Z",
+      "generatedAt": "2026-08-12T18:42:26.191Z",
       "cadence": "daily",
       "items": [
         {
@@ -46,6 +46,14 @@
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "seen": "20260716T220900Z",
+          "pinned": false
+        },
+        {
+          "title": "Advocates for former US Marine held in Russia for more than 4 years say he is near death",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV3c2S3h2dndCRWxhYklMNmZTSnlGVU82Q0dxc2hZWi1DZ0JENzNOeUpUUUU0OGxCdDRlUzBSdGtTQWtsYThIaG9Rc0E5cWxPdDBPYUQwSHFZM2Vjb2I2bXNYYjA1U0E5S2cydmhabkY4bFFndEhQUWdLTXY1eUNBd2RGVm1TS1NpLXU5T0JIaXg0VWs?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260807T180800Z",
           "pinned": false
         },
         {
@@ -107,6 +115,24 @@
           "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
           "source": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPR1BTQU9ETXY3djdvaDJZNTdhWkk0TFhiUUdQc1BBQ2R2bEtaRHFpTnF0RGJWSVhnZlBXUkFsQ0hKSDJLRE45emtlUEpjRlRBUHhYaHpLOEZZYUk3WWMxdHBMelFHRm1PMzhJeWVFUDd6UU5VN1k4cGphRkhiclZrUjZwMUVOdHJrM0lXTkpVQkdTTHBablBlWlhiVEpYRk5WLVhWcnBaQTdtUlljRkhxdXA0NmFtSk5fVG5jWF9IU3Y3OVB6cmdZblZ3RGo?oc=5",
           "sourceLabel": "news.uscg.mil"
+        },
+        {
+          "id": "auto-8bb322fdd628",
+          "reportDate": "2026-08-07",
+          "dateBasis": "report discovery date",
+          "branch": "Marine Corps",
+          "department": "Department of the Navy",
+          "type": "Other",
+          "event": "Advocates for former US Marine held in Russia for more than 4 years say he is near death",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV3c2S3h2dndCRWxhYklMNmZTSnlGVU82Q0dxc2hZWi1DZ0JENzNOeUpUUUU0OGxCdDRlUzBSdGtTQWtsYThIaG9Rc0E5cWxPdDBPYUQwSHFZM2Vjb2I2bXNYYjA1U0E5S2cydmhabkY4bFFndEhQUWdLTXY1eUNBd2RGVm1TS1NpLXU5T0JIaXg0VWs?oc=5",
+          "sourceLabel": "apnews.com"
         },
         {
           "id": "auto-83cbbea00d54",
