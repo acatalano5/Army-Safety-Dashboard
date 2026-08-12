@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-11T20:29:10.179Z",
+  "generatedAt": "2026-08-12T05:50:33.992Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-08-11T20:29:10.179Z",
+      "generatedAt": "2026-08-12T05:50:33.992Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -633,7 +633,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-08-11T20:29:10.179Z",
+      "generatedAt": "2026-08-12T05:50:33.992Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -645,11 +645,11 @@
           "pinned": false
         },
         {
-          "title": "Israel prepares for possible unilateral strikes on Iran: Israeli media",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORnBwMDd2NXlSclA4SjZxUzNxckZMVFRHckt1X25YRnlMaWxhVEJsUU9QUU1aNkhnc3o5RmVMUXJQRmFMRWFVSHVZVzhwbWpFM3RGdlRtN3R6RUFqdF9uYVVsTjlkaEJVeHA5ZXh5bnl2V0VZYkYtOXhJVFN2Q0VWcEtYaWNiQXhTMHZoc3lXbDIxdU1wNzh1azM3S0NrdnBSLTh5ZHlScmRfazkxM0FtblVNaTE?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "seen": "20260808T224001Z",
+          "title": "What’s behind Iran’s new military appointments and what do they indicate?",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZEktOFNDLVRfMEpfLVVlRHpZb0kyS0RMWVN4bXdWZmpmQVZsQk1KYjJlOVlSSFFZcnd3b00yT2thZVRqRUFmWFNEUU5UOHc5UWpLSUl0MEZhUDNWdlVqZmt2alpCUUxfMHRCOGU4djQxOUZ0WDJpMlJTNWNaWUFhUFZLZktpaVpraktZeXpVSHl4M0N2ODVaNkYtV3k3MDQ5SmIzNDQ0RnZRYWdta1VGcNIBtgFBVV95cUxNTlhPcmp3QnYzbENhRW84YlQ2YVBRVUFEcUpleDJQT2lJTGI5N2RDcEJtM041SFltT3g3N2xheE85Y2xZMXViRnFNTGVoSGZ0emFuZHJqV3F0R2tvWVlMX29lc1N3am4wUjN4ZVhRVml6M0d5QlJnRjRNYllsWERzT0JsNlBTMGxLT213b3lmYjJ4Q21XaG9PU3BGWTdkMmFnWDlON1lYSnBfOVRCdjYtV0VvZGZ2UQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260811T133213Z",
           "pinned": false
         },
         {
@@ -661,27 +661,11 @@
           "pinned": false
         },
         {
-          "title": "Iraq’s Kurdish region wants to stay out of regional conflicts: PM Barzani",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObjdZTVQ3OTl6TWtHWXFmYTg2QW5NZFFoM1ZuWHdtb0ZsZVhCQTR5eG45a3Vncld5MEJaS2hkNElVX1lsNERVMllxNE1XV1IwQWhLR3NtU0F4QmJseUJHMnJkZkZYVVpQMWZjeHRNY05YaGk3T2h6OWZxYmpzTHFBVnlTRTFxcTJtS1ZoaVRvVzVVRXA3VmRnLUdOV0Nfai1PNlo3dXc3dW5tSUhZODZCYtIBtgFBVV95cUxNd3BkU05peUh0czFnck5wM0U4ODM2a05EU3l5LVZTSzYxalFyN1RndWNHd3VMRTRjSjgyTHdlNkx4UE1nZUxmYkNERTlpXzExMjluaS1rRnMtMHduRHBTNERxaXdXSzFpTWxrVl9MVG1ZWVowVmpnMzUxTkgtSzN2dnVQaHJtLW9XdUZmdW9rQldkX1hTbUdUSDVMa1l6RVVtM3RHVXhfaDU4dVlPMlRSVjVkQTVqZw?oc=5",
-          "domain": "aljazeera.com",
+          "title": "Trump's dramatic plane swap hints at personal stakes of Iran war",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ra1N2dXFobmtMSmpCZHpKSi1vejdqeGpTeHdfTHQ3RnhTd0dudWlDV1NWN211a2FoVExtSjNmdjhucG0taXJZeGd2Wk9TTVFQZDgtcmJYYV9LUQ?oc=5",
+          "domain": "bbc.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260808T151349Z",
-          "pinned": false
-        },
-        {
-          "title": "At least 13 killed in Ukrainian drone attack on Russia’s Nizhnekamsk",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPS2hpbG04YURpX083TjZVR2tZZ1JEM1ZmR1dVeXdaQzBlZllZS2V5VzRwXzBocGRxaTc1QUtwWlJDazhjV3NvLTNjRDAxNXl5WkhxZjEyM29LTDN1cDA3XzNETGhXNnl2NkxuWldkYVJSX1RXclh5UjA0YnBKR1A3RFJzcUhnQUs5MWt0bG9RWDIzdWs1UnBIeXJPUGlwMHBLWFJMZW44V080V2hS0gGyAUFVX3lxTE5uSTlTRnQ4VWE2QkxwajVTaE4tTDVWTnl2UlliM3VIbWVmLWRXZF95UlJVRlFtYjM5bHJsb1prRHBheUZTYmVXdWw1SFlMTXVWVWZ3NDVhNXgyNi1TNVQ0TS1hcXUtTkdIOU9OY0JaYlpQcFJkTDdSUlBJZDJVQWdBN2VwWDVSb0QxYW1RWjdHbjFOblRLNm03TV9ZSHo3VlRJTXhNMHJVRmJlRk03R18yOHc?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260810T171824Z",
-          "pinned": false
-        },
-        {
-          "title": "What’s behind Iran’s new military appointments and what do they indicate?",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZEktOFNDLVRfMEpfLVVlRHpZb0kyS0RMWVN4bXdWZmpmQVZsQk1KYjJlOVlSSFFZcnd3b00yT2thZVRqRUFmWFNEUU5UOHc5UWpLSUl0MEZhUDNWdlVqZmt2alpCUUxfMHRCOGU4djQxOUZ0WDJpMlJTNWNaWUFhUFZLZktpaVpraktZeXpVSHl4M0N2ODVaNkYtV3k3MDQ5SmIzNDQ0RnZRYWdta1VGcNIBtgFBVV95cUxNTlhPcmp3QnYzbENhRW84YlQ2YVBRVUFEcUpleDJQT2lJTGI5N2RDcEJtM041SFltT3g3N2xheE85Y2xZMXViRnFNTGVoSGZ0emFuZHJqV3F0R2tvWVlMX29lc1N3am4wUjN4ZVhRVml6M0d5QlJnRjRNYllsWERzT0JsNlBTMGxLT213b3lmYjJ4Q21XaG9PU3BGWTdkMmFnWDlON1lYSnBfOVRCdjYtV0VvZGZ2UQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260811T133213Z",
+          "seen": "20260812T001442Z",
           "pinned": false
         },
         {
@@ -693,6 +677,22 @@
           "pinned": false
         },
         {
+          "title": "At least 13 killed in Ukrainian drone attack on Russia’s Nizhnekamsk",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPS2hpbG04YURpX083TjZVR2tZZ1JEM1ZmR1dVeXdaQzBlZllZS2V5VzRwXzBocGRxaTc1QUtwWlJDazhjV3NvLTNjRDAxNXl5WkhxZjEyM29LTDN1cDA3XzNETGhXNnl2NkxuWldkYVJSX1RXclh5UjA0YnBKR1A3RFJzcUhnQUs5MWt0bG9RWDIzdWs1UnBIeXJPUGlwMHBLWFJMZW44V080V2hS0gGyAUFVX3lxTE5uSTlTRnQ4VWE2QkxwajVTaE4tTDVWTnl2UlliM3VIbWVmLWRXZF95UlJVRlFtYjM5bHJsb1prRHBheUZTYmVXdWw1SFlMTXVWVWZ3NDVhNXgyNi1TNVQ0TS1hcXUtTkdIOU9OY0JaYlpQcFJkTDdSUlBJZDJVQWdBN2VwWDVSb0QxYW1RWjdHbjFOblRLNm03TV9ZSHo3VlRJTXhNMHJVRmJlRk03R18yOHc?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260810T171824Z",
+          "pinned": false
+        },
+        {
+          "title": "US says it fired missiles to disable ship breaking Iran blockade",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LLU5XdnA2TXZEdkJUMDRWdUxpMEFrRE5ndVV0UzVzYTBYY2V2NVdoTkRva1Q2MlFmUGZFbzdUcHJVRWgtWVFDT2l3b19WS2k2RWp4aEpoVkprdw?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260811T211456Z",
+          "pinned": false
+        },
+        {
           "title": "Russian forces kill several in Ukraine, launch ‘brutal’ attack in Odesa",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN3NaTmJfUXJzYXFHOWtNWTFYM2h6dmZ3N2Zual9aMnBXVk9VTUJzQmp6eXpJam9lSm9RaEhHWXFpdTQ2dW1tVUtXQUxJbDJySV8tYk8ybGY1RTFqWTlfU3AzMFQ3UnVDV2U1RHZfby1tTlBWNHc4SjNOTW8xaGVYTkxVNWp2NTF0Q0VGWU43MTJIWGJBbjl6cGtiMGVYWkNCQ01jMGRWOVJ1am1K0gGyAUFVX3lxTFBfUmdsSGFFdW9rRUxUZ0txZXJYUkxlY2FtYzJvMDV0YkdwVTNyZGhkZ1dQLUNvS3Z2NnR4dGJkUU40UVNYeE52VzZsMzU0RmZJZkV5Mll3Q3VPSEFOLS1wTEQ4dUFmaWdWSmVvdV96SGxYellNLXVHc1A5NUR2NUxuaVFKR1hEQm00LUZoVUkyWWF2c01VN2F0eHVZUWg3VVdWX0hVajZiZ19NZ054WmVHN2c?oc=5",
           "domain": "aljazeera.com",
@@ -701,27 +701,11 @@
           "pinned": false
         },
         {
-          "title": "Sudan’s war threatens an ‘entire generation’s’ future, UN warns",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd1dlc3RpbmFHS3ZxNVIwcWNKTmkzeXBlVlE3SmRZNzRNNnptX3RKeF9wbnhneVI2b2hYOTQ0dTVpWkVUNk94R0xDMUJpTUZYMmtIQlBxUlF0SEx5Nnl4cFg2NFA4S295WndQT3pILXVndTlMQ1NNUGR6SUNQLTUxcXE4d2R5NFpxLXVMNXl2b0tfTFNDdlQwMVB3SHBOM0HSAaQBQVVfeXFMTjVDRHliYVk3dzJTY2pEaXZUOFlvX2c2YmpDQkJvbEVnc3c2TnRKR05fa3RVMU1lOHI4azlvOWdGUlFiaDVPQWVYT0hVd1VzeHBUYXRoNEgya0U0QkpIRUg0TFdXeVU1bFI3TlRjb2dSaWRyVFBXY2NtU0tzbEpkMHlGSkZXM2xUVlU1Z1ZtZGdJbTlDMDl5VTFnLWplVTNpOGJNRHg?oc=5",
-          "domain": "aljazeera.com",
+          "title": "Iran war",
+          "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
+          "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260808T002934Z",
-          "pinned": false
-        },
-        {
-          "title": "Woman screams in fear as Ukraine war recruiters pounce on man",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa0dyX1owa3pyOGJNNkFHODloLUw4R2Nod3ZaU0k0Vy1IN0UxaXZsc2tGSmRPQ2VwUlNlY1RtVlhxN1MwT3JScXVra0NsS0llUmhuN1ZhNHhKeVlHUVl6WC1SOE9jZWRDV3RyNmVqX0dOdTgwZGxsSGtyR1A2c20tTXBKWG1mSE1LbjlEck9tdE1BZFhXRUlnVmJtV2M3WFg1TjNtdENCazdwenVK0gGyAUFVX3lxTE04NzlXOGs3QWZvS19OQklJNWw3X29RSmdVSXdpMGgwaVVvdG9aQTFVbDNwQ1pTS2xSV3JpVVNjQlJsbS00WTUyOXlOc3pFZWZuZ3piMVBaNFBzbGdXdVQxLWdtbWZfbExnT2Uzcmh3OVR1S3cwb1BRT0FSUGI3NlBRZUh3MlVka3hYWFFHOXIxeEJvNXNHd0htR1pvajBvUDRIQk5mdmFhbkJMQ09helRGM1E?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260808T121759Z",
-          "pinned": false
-        },
-        {
-          "title": "War on Iran: Mojtaba Khamenei is in ‘perfect health’, Iran says",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUzhRdXEyMVRsbFpaWnVYMGFsenhDU1FmNHUzRFFNa0ctd1l2dlhEbzBlbVBMdTJYdGtXV2JXdE5FdGFGWXVSNG5QbzJfVmh6YTYwNTJnejNYS2MxdFdnNXpybko4a24tV2xjSVAyUzhncFhMMXJmdHI2c2tMUmZnQTJySmhCSnE0WUEzbW1PeWIxblVNSzRQRG43Yl8wQTZub3J3M3RJWS0zZlJrekxF0gG0AUFVX3lxTE1RcURLZGR6WWNSYkJsZVE4NDA1UjJEYjRjU0NSRUxpRzJjTmpkLU0zNGZhdzdia1dOU1BpRXV5aDlzSG1HUWlEMW1HU0diTHBPMlhpNjh4Mkk4ZThYT243bWtGTnRwcWdkRzdXcjRoLXI0SEVfeXZ0MlkwT1BXMDFTUlA1QnZYM1NaaXI1TEtfRHFndXBHOU9jekp4M2ppVV9WQk5YWjg0NERnb1pmVUhGd1FDdw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260811T145239Z",
+          "seen": "20260811T032540Z",
           "pinned": false
         },
         {
@@ -730,6 +714,14 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260810T140932Z",
+          "pinned": false
+        },
+        {
+          "title": "War on Iran: Mojtaba Khamenei is in ‘perfect health’, Iran says",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUzhRdXEyMVRsbFpaWnVYMGFsenhDU1FmNHUzRFFNa0ctd1l2dlhEbzBlbVBMdTJYdGtXV2JXdE5FdGFGWXVSNG5QbzJfVmh6YTYwNTJnejNYS2MxdFdnNXpybko4a24tV2xjSVAyUzhncFhMMXJmdHI2c2tMUmZnQTJySmhCSnE0WUEzbW1PeWIxblVNSzRQRG43Yl8wQTZub3J3M3RJWS0zZlJrekxF0gG0AUFVX3lxTE1RcURLZGR6WWNSYkJsZVE4NDA1UjJEYjRjU0NSRUxpRzJjTmpkLU0zNGZhdzdia1dOU1BpRXV5aDlzSG1HUWlEMW1HU0diTHBPMlhpNjh4Mkk4ZThYT243bWtGTnRwcWdkRzdXcjRoLXI0SEVfeXZ0MlkwT1BXMDFTUlA1QnZYM1NaaXI1TEtfRHFndXBHOU9jekp4M2ppVV9WQk5YWjg0NERnb1pmVUhGd1FDdw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260811T145239Z",
           "pinned": false
         },
         {
@@ -749,14 +741,6 @@
           "pinned": false
         },
         {
-          "title": "Why is Pezeshkian urging an end to Iran’s ‘no war, no peace’ status?",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNekhIU3NwMjBHc0FzcjY2b2FCVjN5a0lBZ2dHNFkxQ2R2ZlA4X3h5eHN5WDQwdExkMkN1ZjRGNE5tRmdYWXdQZllyNXAzempoUmFMejhkR0hlWDZVcDZWU0Q2NG13NG5mMHhXVmVNRU1PYUx4aVN4NWstaHJwdTRoTFVSRTlsQmpYWGhyUU1GUnVSRkp4Sk9odDJ6d3Y3Z1F3aFhFVi1B0gGrAUFVX3lxTE15SnIxanV5NDNQOTVIM0VUMDZEWHo4OVVlZ3o2a3JqeENkSnVCdXdkVW56Z3pFaW5VWm1FUWZ5V3A3ZVF3X19aQ3JQOHVsb0JCTnljN1BwRV9oYU9fakhUVUpWVWh2QjNEa2lwRWFvd2Q1QjVwU0UtT3FkS3N4VlVpdE9iTVFnTnBzbDVabVY1LXpUMEJUSnFwT21GLVZFQU01bUlYTHo4NnBsMA?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260809T123753Z",
-          "pinned": false
-        },
-        {
           "title": "Russia bars only party opposing war in Ukraine from parliamentary vote",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUjcxSFNFc2lBQkFFWnRvSkt0dE5JTEtIU2Nhc25KODVBYnRETjBMdW1rMGZDM2taWTFqY05oZXpobi15Z1d4VnNFQ1FZVFpBNWdtdlFib0tRZllzcmVmS1I2UkNod1JsTG1vSEo4TFZGMzh4ZnF4NzJwb3BNQTFWODdZWkN4NC1wZk43YXByODVsOF9CZ3pXNXluYzFTR1VvMFJMbzl3ZFBVUFUxaUg1WdIBtgFBVV95cUxOdS1FTTdhRXNBZ1d6R2lPZnQ4LXJuR29jUVlkeFBTTmlsQWJEc29ZWmRKWWtBdER1UGYtcGdjYjdNNW1QSjcwaTR6R1prSUc4TjhaYnJXQ3psUWJsZko0TzNuUi00SHhYNVB3cTR4VXozcWdUNDRLRUJtTXZ4RGJjUDlYSU1fVTlRai16U3FhNDVOWmhCaHNXUERmdi1RVUcwdXBVRHRpMmwzSE1LREd6U2pQZVYzdw?oc=5",
           "domain": "aljazeera.com",
@@ -765,11 +749,11 @@
           "pinned": false
         },
         {
-          "title": "Bulgaria, Germany drone incidents raise security fears amid Ukraine war",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWGN3STBkTXUwR3NXZDN3TzJEcjJXR29rZDFJNW1LS1V6WVdZenh1SzQtTjZTOEhtNk8wTUotSmFPN2ZqRTR6ZEhwSTZ0dDFxUEhZQkVFVFg2YVZTQzY2RzJoTFBWcVVQQjRPeUVCaHdSem1lclJYeTNTZVY3SFp6X2hRRzFDMFVxTWxlYmN0N1RqWFVZZEVZMTBSdTBNWGVwY0ZrNk9NY3pXbjYtc3RTenYxYmVZUdIBuwFBVV95cUxOZGIwWXdiTmNOSy1MMXBBWUFLd1JWS0tmUmNyWk9UNHZ4bmRuZW15TU83NDBtQkxBQU1Qa2dDN0xyS1V0QVFzWmJlSm9MN0lGTG5IZndpMjlxZGJyallKVkZSem0tV1h4X2M5M2E0bjc2Vm85V0Q3Sm5yYTBTUnh4VHBJcEV4S0JhQUJTTGJVenBwT0VzR3hMVGtsT2E3bXhaRllsY1lBWlRjVkFSWU0xeUswZnVoTGFVR3JN?oc=5",
+          "title": "Why is Pezeshkian urging an end to Iran’s ‘no war, no peace’ status?",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNekhIU3NwMjBHc0FzcjY2b2FCVjN5a0lBZ2dHNFkxQ2R2ZlA4X3h5eHN5WDQwdExkMkN1ZjRGNE5tRmdYWXdQZllyNXAzempoUmFMejhkR0hlWDZVcDZWU0Q2NG13NG5mMHhXVmVNRU1PYUx4aVN4NWstaHJwdTRoTFVSRTlsQmpYWGhyUU1GUnVSRkp4Sk9odDJ6d3Y3Z1F3aFhFVi1B0gGrAUFVX3lxTE15SnIxanV5NDNQOTVIM0VUMDZEWHo4OVVlZ3o2a3JqeENkSnVCdXdkVW56Z3pFaW5VWm1FUWZ5V3A3ZVF3X19aQ3JQOHVsb0JCTnljN1BwRV9oYU9fakhUVUpWVWh2QjNEa2lwRWFvd2Q1QjVwU0UtT3FkS3N4VlVpdE9iTVFnTnBzbDVabVY1LXpUMEJUSnFwT21GLVZFQU01bUlYTHo4NnBsMA?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260809T065104Z",
+          "seen": "20260809T123753Z",
           "pinned": false
         },
         {
@@ -781,19 +765,19 @@
           "pinned": false
         },
         {
+          "title": "Bulgaria, Germany drone incidents raise security fears amid Ukraine war",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWGN3STBkTXUwR3NXZDN3TzJEcjJXR29rZDFJNW1LS1V6WVdZenh1SzQtTjZTOEhtNk8wTUotSmFPN2ZqRTR6ZEhwSTZ0dDFxUEhZQkVFVFg2YVZTQzY2RzJoTFBWcVVQQjRPeUVCaHdSem1lclJYeTNTZVY3SFp6X2hRRzFDMFVxTWxlYmN0N1RqWFVZZEVZMTBSdTBNWGVwY0ZrNk9NY3pXbjYtc3RTenYxYmVZUdIBuwFBVV95cUxOZGIwWXdiTmNOSy1MMXBBWUFLd1JWS0tmUmNyWk9UNHZ4bmRuZW15TU83NDBtQkxBQU1Qa2dDN0xyS1V0QVFzWmJlSm9MN0lGTG5IZndpMjlxZGJyallKVkZSem0tV1h4X2M5M2E0bjc2Vm85V0Q3Sm5yYTBTUnh4VHBJcEV4S0JhQUJTTGJVenBwT0VzR3hMVGtsT2E3bXhaRllsY1lBWlRjVkFSWU0xeUswZnVoTGFVR3JN?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260809T065104Z",
+          "pinned": false
+        },
+        {
           "title": "Iraq’s semi-autonomous Kurdish region suffers as US-Iran war drags on",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWdtaUltQWVYdTM4M3QtSDR0QVFvZFFoOE9hTjloWGdJSzAtT0kyR3ZOUEtJWXd4VFlPb09KUzg0YnpnbGZzTWI1UVpBMG9oMFpzNENBSE9wd3JqWUJXSUoybGs0WjVxSFRuRzlHRjY4S1l1aWVuYzVMUDRsVTE3TkF6NnlYUDc2bS0yVk1wVEszTWZ4M3poeHhBOWR4LUNQWEtGMHNoYUVLWnNCMXfSAbMBQVVfeXFMUHcteXpxYjFZRnEzalVaTVpOczB6RjlkSXZQeDREVllrekstMjM5ZGtvTHBoanhOcXhLd3VSejZYcFhPWGdrNmVOWG5SSmNIaWZ2ZDAtQ3M5TXYxR2Z3alJtUHhTbTVPV0NTenl6OFktbXA3MS16NlBWOTQtQlhqR1lORl9vTjVzVmFPb281RUtvVmJfdlZjVDJWUy1kTm41OUNNSDVpZXJFWl9uTGRRZ1lCNXc?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260811T095254Z",
-          "pinned": false
-        },
-        {
-          "title": "Trump told Ukraine it had no cards. Then Kyiv took the war to Russia",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBaMUwzUGYyQ2IyNXNfS1JPQi13cktObW5NSXV0SmJwbURsaU9FNDRpeWlFR3ZPS01YdG9pNFlvZ0lWeTBTRUJfQ2l6dW5hWjB1NFJUSGk4QUpiUVYzRWZUcVlzNktFTzQxc3VqTFQ3bUZSUFdjZll3Zg?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260811T120850Z",
           "pinned": false
         },
         {
@@ -805,6 +789,14 @@
           "pinned": false
         },
         {
+          "title": "Trump told Ukraine it had no cards. Then Kyiv took the war to Russia",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBaMUwzUGYyQ2IyNXNfS1JPQi13cktObW5NSXV0SmJwbURsaU9FNDRpeWlFR3ZPS01YdG9pNFlvZ0lWeTBTRUJfQ2l6dW5hWjB1NFJUSGk4QUpiUVYzRWZUcVlzNktFTzQxc3VqTFQ3bUZSUFdjZll3Zg?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260811T120850Z",
+          "pinned": false
+        },
+        {
           "title": "Trump scoffs at Iran’s demand for war reparations and other Mideast developments",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTHRSRTdObVh1eUFaNml6X3lhU0FnaEJvWHM2V2g2eC0yblF2QktZTnctM1Vud0pqZ2ZzQ0ZZTzBRNUV2TnpFNkV2V3lNUVhfcGlHbmtzT1k5bnJCclRCS1dTYnB5WTdmRk5aaHM4aEktLVFzc1lhallpd1FfM2J1aTE3NzBIejRSaTctUDdETm1hSFBadWk2aTR1ZDk?oc=5",
           "domain": "apnews.com",
@@ -813,11 +805,11 @@
           "pinned": false
         },
         {
-          "title": "Palestinian club football to restart in September after Gaza war suspension",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQM0FJX2NfVWJtcXZTMUtzS2FpcU41NDRlTGtWSFB5cnhjRE9aRmhIOEFwM0FXOTVzMDkyWGpMb2JqUmNOZkdqdmhyZkxMUVA4WmVqNG12M1BQbWRsSTNsdGt3TDFZNV91dWNZeGVFUTA3VnY5bTZZc2k5RC1qczVuR1ZsWXpUOEZiaTJtQUFCMUdhNUtnV3VyaW9CN0hxSnNzRlZNZGUySmF2TnJRbXZnanhUQmh4WHpZR0HSAb8BQVVfeXFMTUhXUHlZRU1ac05Ha19PejZfNVBXMkRNRlU2Q2M0R3o2QXJSLXVVOUZQcjhvYXp4Y2Y4RjM4c1FkOTgwb2l1Z2NRRFlOWGRGQTRmUERIdFcwaDJweGk3bHEySDJ6QTVyT1J3emhqRW5hZkhNaDFOdFRiQUZiY1NBRV9Na2RoVENJdkpnVUtHMWhEWnNVSGsxdHd0TTBPczZYNER4azdLZ2twblBVLXJOS1l1ZU1fbTU4bm9ZWmVXcWM?oc=5",
+          "title": "Trump to demand compensation for Tehran’s ‘conflicts’",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUXVlTkpFUWlDRUFXQUpUUXJIZEt4Zk0xZ0N0dkthU1pHWHVFVFctM1pFNTA4SFlDRmVDT25GSEFGajZkMUs4Y3BOOGRQemRNTHZsakFzaVU2U19tYjFoZXB5RF9TOTNJOENEZkhxOEp4ajFpUGxEWHJQbFZLQjl3MWJqZTcwd1ozWXpqWFlUQU1qa19SeFHSAZsBQVVfeXFMTTBjM1hwQjhQXzF0a3JUMF9kX3JHVnVWZGZqa0lfbnltZkdMdTR4RUlKcWVQOEM2TjZzZl9hVXFZNUZhUDBqc0tBbm5ZVkJubVZOQUJBT0FlYllac1ZvSVJhcXg1VHFNLUE3cUFRbm5lNnJSR2hlT1pLZUhRY3pEWGdFeEhnZFdPdWR6NUhCbDAxaHNleEdCSi1KU2c?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260810T174033Z",
+          "seen": "20260810T210924Z",
           "pinned": false
         },
         {
@@ -826,6 +818,14 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260809T205037Z",
+          "pinned": false
+        },
+        {
+          "title": "Palestinian club football to restart in September after Gaza war suspension",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQM0FJX2NfVWJtcXZTMUtzS2FpcU41NDRlTGtWSFB5cnhjRE9aRmhIOEFwM0FXOTVzMDkyWGpMb2JqUmNOZkdqdmhyZkxMUVA4WmVqNG12M1BQbWRsSTNsdGt3TDFZNV91dWNZeGVFUTA3VnY5bTZZc2k5RC1qczVuR1ZsWXpUOEZiaTJtQUFCMUdhNUtnV3VyaW9CN0hxSnNzRlZNZGUySmF2TnJRbXZnanhUQmh4WHpZR0HSAb8BQVVfeXFMTUhXUHlZRU1ac05Ha19PejZfNVBXMkRNRlU2Q2M0R3o2QXJSLXVVOUZQcjhvYXp4Y2Y4RjM4c1FkOTgwb2l1Z2NRRFlOWGRGQTRmUERIdFcwaDJweGk3bHEySDJ6QTVyT1J3emhqRW5hZkhNaDFOdFRiQUZiY1NBRV9Na2RoVENJdkpnVUtHMWhEWnNVSGsxdHd0TTBPczZYNER4azdLZ2twblBVLXJOS1l1ZU1fbTU4bm9ZWmVXcWM?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260810T174033Z",
           "pinned": false
         }
       ],
@@ -840,13 +840,13 @@
           "reportedAt": "2026-08-10T03:00:28Z"
         },
         {
-          "id": "report-254f1050aac5",
-          "title": "Israel prepares for possible unilateral strikes on Iran: Israeli media",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORnBwMDd2NXlSclA4SjZxUzNxckZMVFRHckt1X25YRnlMaWxhVEJsUU9QUU1aNkhnc3o5RmVMUXJQRmFMRWFVSHVZVzhwbWpFM3RGdlRtN3R6RUFqdF9uYVVsTjlkaEJVeHA5ZXh5bnl2V0VZYkYtOXhJVFN2Q0VWcEtYaWNiQXhTMHZoc3lXbDIxdU1wNzh1azM3S0NrdnBSLTh5ZHlScmRfazkxM0FtblVNaTE?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
-          "reportedAt": "2026-08-08T22:40:01Z"
+          "id": "report-b5ae6dd4bed8",
+          "title": "What’s behind Iran’s new military appointments and what do they indicate?",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZEktOFNDLVRfMEpfLVVlRHpZb0kyS0RMWVN4bXdWZmpmQVZsQk1KYjJlOVlSSFFZcnd3b00yT2thZVRqRUFmWFNEUU5UOHc5UWpLSUl0MEZhUDNWdlVqZmt2alpCUUxfMHRCOGU4djQxOUZ0WDJpMlJTNWNaWUFhUFZLZktpaVpraktZeXpVSHl4M0N2ODVaNkYtV3k3MDQ5SmIzNDQ0RnZRYWdta1VGcNIBtgFBVV95cUxNTlhPcmp3QnYzbENhRW84YlQ2YVBRVUFEcUpleDJQT2lJTGI5N2RDcEJtM041SFltT3g3N2xheE85Y2xZMXViRnFNTGVoSGZ0emFuZHJqV3F0R2tvWVlMX29lc1N3am4wUjN4ZVhRVml6M0d5QlJnRjRNYllsWERzT0JsNlBTMGxLT213b3lmYjJ4Q21XaG9PU3BGWTdkMmFnWDlON1lYSnBfOVRCdjYtV0VvZGZ2UQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-11T13:32:13Z"
         },
         {
           "id": "report-31fa7876050b",
@@ -858,31 +858,13 @@
           "reportedAt": "2026-08-11T08:17:26Z"
         },
         {
-          "id": "report-439e5d8ab644",
-          "title": "Iraq’s Kurdish region wants to stay out of regional conflicts: PM Barzani",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObjdZTVQ3OTl6TWtHWXFmYTg2QW5NZFFoM1ZuWHdtb0ZsZVhCQTR5eG45a3Vncld5MEJaS2hkNElVX1lsNERVMllxNE1XV1IwQWhLR3NtU0F4QmJseUJHMnJkZkZYVVpQMWZjeHRNY05YaGk3T2h6OWZxYmpzTHFBVnlTRTFxcTJtS1ZoaVRvVzVVRXA3VmRnLUdOV0Nfai1PNlo3dXc3dW5tSUhZODZCYtIBtgFBVV95cUxNd3BkU05peUh0czFnck5wM0U4ODM2a05EU3l5LVZTSzYxalFyN1RndWNHd3VMRTRjSjgyTHdlNkx4UE1nZUxmYkNERTlpXzExMjluaS1rRnMtMHduRHBTNERxaXdXSzFpTWxrVl9MVG1ZWVowVmpnMzUxTkgtSzN2dnVQaHJtLW9XdUZmdW9rQldkX1hTbUdUSDVMa1l6RVVtM3RHVXhfaDU4dVlPMlRSVjVkQTVqZw?oc=5",
-          "domain": "aljazeera.com",
+          "id": "report-695ed321399a",
+          "title": "Trump's dramatic plane swap hints at personal stakes of Iran war",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ra1N2dXFobmtMSmpCZHpKSi1vejdqeGpTeHdfTHQ3RnhTd0dudWlDV1NWN211a2FoVExtSjNmdjhucG0taXJZeGd2Wk9TTVFQZDgtcmJYYV9LUQ?oc=5",
+          "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-08T15:13:49Z"
-        },
-        {
-          "id": "report-c108be1a5eb9",
-          "title": "At least 13 killed in Ukrainian drone attack on Russia’s Nizhnekamsk",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPS2hpbG04YURpX083TjZVR2tZZ1JEM1ZmR1dVeXdaQzBlZllZS2V5VzRwXzBocGRxaTc1QUtwWlJDazhjV3NvLTNjRDAxNXl5WkhxZjEyM29LTDN1cDA3XzNETGhXNnl2NkxuWldkYVJSX1RXclh5UjA0YnBKR1A3RFJzcUhnQUs5MWt0bG9RWDIzdWs1UnBIeXJPUGlwMHBLWFJMZW44V080V2hS0gGyAUFVX3lxTE5uSTlTRnQ4VWE2QkxwajVTaE4tTDVWTnl2UlliM3VIbWVmLWRXZF95UlJVRlFtYjM5bHJsb1prRHBheUZTYmVXdWw1SFlMTXVWVWZ3NDVhNXgyNi1TNVQ0TS1hcXUtTkdIOU9OY0JaYlpQcFJkTDdSUlBJZDJVQWdBN2VwWDVSb0QxYW1RWjdHbjFOblRLNm03TV9ZSHo3VlRJTXhNMHJVRmJlRk03R18yOHc?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-10T17:18:24Z"
-        },
-        {
-          "id": "report-b5ae6dd4bed8",
-          "title": "What’s behind Iran’s new military appointments and what do they indicate?",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZEktOFNDLVRfMEpfLVVlRHpZb0kyS0RMWVN4bXdWZmpmQVZsQk1KYjJlOVlSSFFZcnd3b00yT2thZVRqRUFmWFNEUU5UOHc5UWpLSUl0MEZhUDNWdlVqZmt2alpCUUxfMHRCOGU4djQxOUZ0WDJpMlJTNWNaWUFhUFZLZktpaVpraktZeXpVSHl4M0N2ODVaNkYtV3k3MDQ5SmIzNDQ0RnZRYWdta1VGcNIBtgFBVV95cUxNTlhPcmp3QnYzbENhRW84YlQ2YVBRVUFEcUpleDJQT2lJTGI5N2RDcEJtM041SFltT3g3N2xheE85Y2xZMXViRnFNTGVoSGZ0emFuZHJqV3F0R2tvWVlMX29lc1N3am4wUjN4ZVhRVml6M0d5QlJnRjRNYllsWERzT0JsNlBTMGxLT213b3lmYjJ4Q21XaG9PU3BGWTdkMmFnWDlON1lYSnBfOVRCdjYtV0VvZGZ2UQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-11T13:32:13Z"
+          "reportedAt": "2026-08-12T00:14:42Z"
         },
         {
           "id": "report-00aca2ef0f75",
@@ -894,6 +876,24 @@
           "reportedAt": "2026-08-11T06:09:43Z"
         },
         {
+          "id": "report-c108be1a5eb9",
+          "title": "At least 13 killed in Ukrainian drone attack on Russia’s Nizhnekamsk",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPS2hpbG04YURpX083TjZVR2tZZ1JEM1ZmR1dVeXdaQzBlZllZS2V5VzRwXzBocGRxaTc1QUtwWlJDazhjV3NvLTNjRDAxNXl5WkhxZjEyM29LTDN1cDA3XzNETGhXNnl2NkxuWldkYVJSX1RXclh5UjA0YnBKR1A3RFJzcUhnQUs5MWt0bG9RWDIzdWs1UnBIeXJPUGlwMHBLWFJMZW44V080V2hS0gGyAUFVX3lxTE5uSTlTRnQ4VWE2QkxwajVTaE4tTDVWTnl2UlliM3VIbWVmLWRXZF95UlJVRlFtYjM5bHJsb1prRHBheUZTYmVXdWw1SFlMTXVWVWZ3NDVhNXgyNi1TNVQ0TS1hcXUtTkdIOU9OY0JaYlpQcFJkTDdSUlBJZDJVQWdBN2VwWDVSb0QxYW1RWjdHbjFOblRLNm03TV9ZSHo3VlRJTXhNMHJVRmJlRk03R18yOHc?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-10T17:18:24Z"
+        },
+        {
+          "id": "report-476cc555e5df",
+          "title": "US says it fired missiles to disable ship breaking Iran blockade",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LLU5XdnA2TXZEdkJUMDRWdUxpMEFrRE5ndVV0UzVzYTBYY2V2NVdoTkRva1Q2MlFmUGZFbzdUcHJVRWgtWVFDT2l3b19WS2k2RWp4aEpoVkprdw?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-11T21:14:56Z"
+        },
+        {
           "id": "report-c912b4b76205",
           "title": "Russian forces kill several in Ukraine, launch ‘brutal’ attack in Odesa",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN3NaTmJfUXJzYXFHOWtNWTFYM2h6dmZ3N2Zual9aMnBXVk9VTUJzQmp6eXpJam9lSm9RaEhHWXFpdTQ2dW1tVUtXQUxJbDJySV8tYk8ybGY1RTFqWTlfU3AzMFQ3UnVDV2U1RHZfby1tTlBWNHc4SjNOTW8xaGVYTkxVNWp2NTF0Q0VGWU43MTJIWGJBbjl6cGtiMGVYWkNCQ01jMGRWOVJ1am1K0gGyAUFVX3lxTFBfUmdsSGFFdW9rRUxUZ0txZXJYUkxlY2FtYzJvMDV0YkdwVTNyZGhkZ1dQLUNvS3Z2NnR4dGJkUU40UVNYeE52VzZsMzU0RmZJZkV5Mll3Q3VPSEFOLS1wTEQ4dUFmaWdWSmVvdV96SGxYellNLXVHc1A5NUR2NUxuaVFKR1hEQm00LUZoVUkyWWF2c01VN2F0eHVZUWg3VVdWX0hVajZiZ19NZ054WmVHN2c?oc=5",
@@ -903,31 +903,13 @@
           "reportedAt": "2026-08-09T11:09:38Z"
         },
         {
-          "id": "report-7f97b0806231",
-          "title": "Sudan’s war threatens an ‘entire generation’s’ future, UN warns",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd1dlc3RpbmFHS3ZxNVIwcWNKTmkzeXBlVlE3SmRZNzRNNnptX3RKeF9wbnhneVI2b2hYOTQ0dTVpWkVUNk94R0xDMUJpTUZYMmtIQlBxUlF0SEx5Nnl4cFg2NFA4S295WndQT3pILXVndTlMQ1NNUGR6SUNQLTUxcXE4d2R5NFpxLXVMNXl2b0tfTFNDdlQwMVB3SHBOM0HSAaQBQVVfeXFMTjVDRHliYVk3dzJTY2pEaXZUOFlvX2c2YmpDQkJvbEVnc3c2TnRKR05fa3RVMU1lOHI4azlvOWdGUlFiaDVPQWVYT0hVd1VzeHBUYXRoNEgya0U0QkpIRUg0TFdXeVU1bFI3TlRjb2dSaWRyVFBXY2NtU0tzbEpkMHlGSkZXM2xUVlU1Z1ZtZGdJbTlDMDl5VTFnLWplVTNpOGJNRHg?oc=5",
-          "domain": "aljazeera.com",
+          "id": "report-a755c78656d2",
+          "title": "Iran war",
+          "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
+          "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-08T00:29:34Z"
-        },
-        {
-          "id": "report-d84b6cf74216",
-          "title": "Woman screams in fear as Ukraine war recruiters pounce on man",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa0dyX1owa3pyOGJNNkFHODloLUw4R2Nod3ZaU0k0Vy1IN0UxaXZsc2tGSmRPQ2VwUlNlY1RtVlhxN1MwT3JScXVra0NsS0llUmhuN1ZhNHhKeVlHUVl6WC1SOE9jZWRDV3RyNmVqX0dOdTgwZGxsSGtyR1A2c20tTXBKWG1mSE1LbjlEck9tdE1BZFhXRUlnVmJtV2M3WFg1TjNtdENCazdwenVK0gGyAUFVX3lxTE04NzlXOGs3QWZvS19OQklJNWw3X29RSmdVSXdpMGgwaVVvdG9aQTFVbDNwQ1pTS2xSV3JpVVNjQlJsbS00WTUyOXlOc3pFZWZuZ3piMVBaNFBzbGdXdVQxLWdtbWZfbExnT2Uzcmh3OVR1S3cwb1BRT0FSUGI3NlBRZUh3MlVka3hYWFFHOXIxeEJvNXNHd0htR1pvajBvUDRIQk5mdmFhbkJMQ09helRGM1E?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-08T12:17:59Z"
-        },
-        {
-          "id": "report-17fafe7d65e4",
-          "title": "War on Iran: Mojtaba Khamenei is in ‘perfect health’, Iran says",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUzhRdXEyMVRsbFpaWnVYMGFsenhDU1FmNHUzRFFNa0ctd1l2dlhEbzBlbVBMdTJYdGtXV2JXdE5FdGFGWXVSNG5QbzJfVmh6YTYwNTJnejNYS2MxdFdnNXpybko4a24tV2xjSVAyUzhncFhMMXJmdHI2c2tMUmZnQTJySmhCSnE0WUEzbW1PeWIxblVNSzRQRG43Yl8wQTZub3J3M3RJWS0zZlJrekxF0gG0AUFVX3lxTE1RcURLZGR6WWNSYkJsZVE4NDA1UjJEYjRjU0NSRUxpRzJjTmpkLU0zNGZhdzdia1dOU1BpRXV5aDlzSG1HUWlEMW1HU0diTHBPMlhpNjh4Mkk4ZThYT243bWtGTnRwcWdkRzdXcjRoLXI0SEVfeXZ0MlkwT1BXMDFTUlA1QnZYM1NaaXI1TEtfRHFndXBHOU9jekp4M2ppVV9WQk5YWjg0NERnb1pmVUhGd1FDdw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-11T14:52:39Z"
+          "reportedAt": "2026-08-11T03:25:40Z"
         },
         {
           "id": "report-0d5aaeccd002",
@@ -937,6 +919,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-10T14:09:32Z"
+        },
+        {
+          "id": "report-17fafe7d65e4",
+          "title": "War on Iran: Mojtaba Khamenei is in ‘perfect health’, Iran says",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUzhRdXEyMVRsbFpaWnVYMGFsenhDU1FmNHUzRFFNa0ctd1l2dlhEbzBlbVBMdTJYdGtXV2JXdE5FdGFGWXVSNG5QbzJfVmh6YTYwNTJnejNYS2MxdFdnNXpybko4a24tV2xjSVAyUzhncFhMMXJmdHI2c2tMUmZnQTJySmhCSnE0WUEzbW1PeWIxblVNSzRQRG43Yl8wQTZub3J3M3RJWS0zZlJrekxF0gG0AUFVX3lxTE1RcURLZGR6WWNSYkJsZVE4NDA1UjJEYjRjU0NSRUxpRzJjTmpkLU0zNGZhdzdia1dOU1BpRXV5aDlzSG1HUWlEMW1HU0diTHBPMlhpNjh4Mkk4ZThYT243bWtGTnRwcWdkRzdXcjRoLXI0SEVfeXZ0MlkwT1BXMDFTUlA1QnZYM1NaaXI1TEtfRHFndXBHOU9jekp4M2ppVV9WQk5YWjg0NERnb1pmVUhGd1FDdw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-11T14:52:39Z"
         },
         {
           "id": "report-2970ff3c8e81",
@@ -957,15 +948,6 @@
           "reportedAt": "2026-08-09T04:47:52Z"
         },
         {
-          "id": "report-79bc31ed1a5b",
-          "title": "Why is Pezeshkian urging an end to Iran’s ‘no war, no peace’ status?",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNekhIU3NwMjBHc0FzcjY2b2FCVjN5a0lBZ2dHNFkxQ2R2ZlA4X3h5eHN5WDQwdExkMkN1ZjRGNE5tRmdYWXdQZllyNXAzempoUmFMejhkR0hlWDZVcDZWU0Q2NG13NG5mMHhXVmVNRU1PYUx4aVN4NWstaHJwdTRoTFVSRTlsQmpYWGhyUU1GUnVSRkp4Sk9odDJ6d3Y3Z1F3aFhFVi1B0gGrAUFVX3lxTE15SnIxanV5NDNQOTVIM0VUMDZEWHo4OVVlZ3o2a3JqeENkSnVCdXdkVW56Z3pFaW5VWm1FUWZ5V3A3ZVF3X19aQ3JQOHVsb0JCTnljN1BwRV9oYU9fakhUVUpWVWh2QjNEa2lwRWFvd2Q1QjVwU0UtT3FkS3N4VlVpdE9iTVFnTnBzbDVabVY1LXpUMEJUSnFwT21GLVZFQU01bUlYTHo4NnBsMA?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-09T12:37:53Z"
-        },
-        {
           "id": "report-97fb5c165511",
           "title": "Russia bars only party opposing war in Ukraine from parliamentary vote",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUjcxSFNFc2lBQkFFWnRvSkt0dE5JTEtIU2Nhc25KODVBYnRETjBMdW1rMGZDM2taWTFqY05oZXpobi15Z1d4VnNFQ1FZVFpBNWdtdlFib0tRZllzcmVmS1I2UkNod1JsTG1vSEo4TFZGMzh4ZnF4NzJwb3BNQTFWODdZWkN4NC1wZk43YXByODVsOF9CZ3pXNXluYzFTR1VvMFJMbzl3ZFBVUFUxaUg1WdIBtgFBVV95cUxOdS1FTTdhRXNBZ1d6R2lPZnQ4LXJuR29jUVlkeFBTTmlsQWJEc29ZWmRKWWtBdER1UGYtcGdjYjdNNW1QSjcwaTR6R1prSUc4TjhaYnJXQ3psUWJsZko0TzNuUi00SHhYNVB3cTR4VXozcWdUNDRLRUJtTXZ4RGJjUDlYSU1fVTlRai16U3FhNDVOWmhCaHNXUERmdi1RVUcwdXBVRHRpMmwzSE1LREd6U2pQZVYzdw?oc=5",
@@ -975,13 +957,13 @@
           "reportedAt": "2026-08-10T19:55:52Z"
         },
         {
-          "id": "report-cdeab4f938c0",
-          "title": "Bulgaria, Germany drone incidents raise security fears amid Ukraine war",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWGN3STBkTXUwR3NXZDN3TzJEcjJXR29rZDFJNW1LS1V6WVdZenh1SzQtTjZTOEhtNk8wTUotSmFPN2ZqRTR6ZEhwSTZ0dDFxUEhZQkVFVFg2YVZTQzY2RzJoTFBWcVVQQjRPeUVCaHdSem1lclJYeTNTZVY3SFp6X2hRRzFDMFVxTWxlYmN0N1RqWFVZZEVZMTBSdTBNWGVwY0ZrNk9NY3pXbjYtc3RTenYxYmVZUdIBuwFBVV95cUxOZGIwWXdiTmNOSy1MMXBBWUFLd1JWS0tmUmNyWk9UNHZ4bmRuZW15TU83NDBtQkxBQU1Qa2dDN0xyS1V0QVFzWmJlSm9MN0lGTG5IZndpMjlxZGJyallKVkZSem0tV1h4X2M5M2E0bjc2Vm85V0Q3Sm5yYTBTUnh4VHBJcEV4S0JhQUJTTGJVenBwT0VzR3hMVGtsT2E3bXhaRllsY1lBWlRjVkFSWU0xeUswZnVoTGFVR3JN?oc=5",
+          "id": "report-79bc31ed1a5b",
+          "title": "Why is Pezeshkian urging an end to Iran’s ‘no war, no peace’ status?",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNekhIU3NwMjBHc0FzcjY2b2FCVjN5a0lBZ2dHNFkxQ2R2ZlA4X3h5eHN5WDQwdExkMkN1ZjRGNE5tRmdYWXdQZllyNXAzempoUmFMejhkR0hlWDZVcDZWU0Q2NG13NG5mMHhXVmVNRU1PYUx4aVN4NWstaHJwdTRoTFVSRTlsQmpYWGhyUU1GUnVSRkp4Sk9odDJ6d3Y3Z1F3aFhFVi1B0gGrAUFVX3lxTE15SnIxanV5NDNQOTVIM0VUMDZEWHo4OVVlZ3o2a3JqeENkSnVCdXdkVW56Z3pFaW5VWm1FUWZ5V3A3ZVF3X19aQ3JQOHVsb0JCTnljN1BwRV9oYU9fakhUVUpWVWh2QjNEa2lwRWFvd2Q1QjVwU0UtT3FkS3N4VlVpdE9iTVFnTnBzbDVabVY1LXpUMEJUSnFwT21GLVZFQU01bUlYTHo4NnBsMA?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-09T06:51:04Z"
+          "reportedAt": "2026-08-09T12:37:53Z"
         },
         {
           "id": "report-25004455cfae",
@@ -993,6 +975,15 @@
           "reportedAt": "2026-08-11T11:31:39Z"
         },
         {
+          "id": "report-cdeab4f938c0",
+          "title": "Bulgaria, Germany drone incidents raise security fears amid Ukraine war",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWGN3STBkTXUwR3NXZDN3TzJEcjJXR29rZDFJNW1LS1V6WVdZenh1SzQtTjZTOEhtNk8wTUotSmFPN2ZqRTR6ZEhwSTZ0dDFxUEhZQkVFVFg2YVZTQzY2RzJoTFBWcVVQQjRPeUVCaHdSem1lclJYeTNTZVY3SFp6X2hRRzFDMFVxTWxlYmN0N1RqWFVZZEVZMTBSdTBNWGVwY0ZrNk9NY3pXbjYtc3RTenYxYmVZUdIBuwFBVV95cUxOZGIwWXdiTmNOSy1MMXBBWUFLd1JWS0tmUmNyWk9UNHZ4bmRuZW15TU83NDBtQkxBQU1Qa2dDN0xyS1V0QVFzWmJlSm9MN0lGTG5IZndpMjlxZGJyallKVkZSem0tV1h4X2M5M2E0bjc2Vm85V0Q3Sm5yYTBTUnh4VHBJcEV4S0JhQUJTTGJVenBwT0VzR3hMVGtsT2E3bXhaRllsY1lBWlRjVkFSWU0xeUswZnVoTGFVR3JN?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-09T06:51:04Z"
+        },
+        {
           "id": "report-64c601c47f0d",
           "title": "Iraq’s semi-autonomous Kurdish region suffers as US-Iran war drags on",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWdtaUltQWVYdTM4M3QtSDR0QVFvZFFoOE9hTjloWGdJSzAtT0kyR3ZOUEtJWXd4VFlPb09KUzg0YnpnbGZzTWI1UVpBMG9oMFpzNENBSE9wd3JqWUJXSUoybGs0WjVxSFRuRzlHRjY4S1l1aWVuYzVMUDRsVTE3TkF6NnlYUDc2bS0yVk1wVEszTWZ4M3poeHhBOWR4LUNQWEtGMHNoYUVLWnNCMXfSAbMBQVVfeXFMUHcteXpxYjFZRnEzalVaTVpOczB6RjlkSXZQeDREVllrekstMjM5ZGtvTHBoanhOcXhLd3VSejZYcFhPWGdrNmVOWG5SSmNIaWZ2ZDAtQ3M5TXYxR2Z3alJtUHhTbTVPV0NTenl6OFktbXA3MS16NlBWOTQtQlhqR1lORl9vTjVzVmFPb281RUtvVmJfdlZjVDJWUy1kTm41OUNNSDVpZXJFWl9uTGRRZ1lCNXc?oc=5",
@@ -1000,15 +991,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-11T09:52:54Z"
-        },
-        {
-          "id": "report-138231438083",
-          "title": "Trump told Ukraine it had no cards. Then Kyiv took the war to Russia",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBaMUwzUGYyQ2IyNXNfS1JPQi13cktObW5NSXV0SmJwbURsaU9FNDRpeWlFR3ZPS01YdG9pNFlvZ0lWeTBTRUJfQ2l6dW5hWjB1NFJUSGk4QUpiUVYzRWZUcVlzNktFTzQxc3VqTFQ3bUZSUFdjZll3Zg?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-11T12:08:50Z"
         },
         {
           "id": "report-ec4bbf147c6e",
@@ -1020,6 +1002,15 @@
           "reportedAt": "2026-08-10T14:03:52Z"
         },
         {
+          "id": "report-138231438083",
+          "title": "Trump told Ukraine it had no cards. Then Kyiv took the war to Russia",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBaMUwzUGYyQ2IyNXNfS1JPQi13cktObW5NSXV0SmJwbURsaU9FNDRpeWlFR3ZPS01YdG9pNFlvZ0lWeTBTRUJfQ2l6dW5hWjB1NFJUSGk4QUpiUVYzRWZUcVlzNktFTzQxc3VqTFQ3bUZSUFdjZll3Zg?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-11T12:08:50Z"
+        },
+        {
           "id": "report-54a5a85eb5e2",
           "title": "Trump scoffs at Iran’s demand for war reparations and other Mideast developments",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTHRSRTdObVh1eUFaNml6X3lhU0FnaEJvWHM2V2g2eC0yblF2QktZTnctM1Vud0pqZ2ZzQ0ZZTzBRNUV2TnpFNkV2V3lNUVhfcGlHbmtzT1k5bnJCclRCS1dTYnB5WTdmRk5aaHM4aEktLVFzc1lhallpd1FfM2J1aTE3NzBIejRSaTctUDdETm1hSFBadWk2aTR1ZDk?oc=5",
@@ -1029,13 +1020,13 @@
           "reportedAt": "2026-08-11T05:45:00Z"
         },
         {
-          "id": "report-b8b6c5225f0f",
-          "title": "Palestinian club football to restart in September after Gaza war suspension",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQM0FJX2NfVWJtcXZTMUtzS2FpcU41NDRlTGtWSFB5cnhjRE9aRmhIOEFwM0FXOTVzMDkyWGpMb2JqUmNOZkdqdmhyZkxMUVA4WmVqNG12M1BQbWRsSTNsdGt3TDFZNV91dWNZeGVFUTA3VnY5bTZZc2k5RC1qczVuR1ZsWXpUOEZiaTJtQUFCMUdhNUtnV3VyaW9CN0hxSnNzRlZNZGUySmF2TnJRbXZnanhUQmh4WHpZR0HSAb8BQVVfeXFMTUhXUHlZRU1ac05Ha19PejZfNVBXMkRNRlU2Q2M0R3o2QXJSLXVVOUZQcjhvYXp4Y2Y4RjM4c1FkOTgwb2l1Z2NRRFlOWGRGQTRmUERIdFcwaDJweGk3bHEySDJ6QTVyT1J3emhqRW5hZkhNaDFOdFRiQUZiY1NBRV9Na2RoVENJdkpnVUtHMWhEWnNVSGsxdHd0TTBPczZYNER4azdLZ2twblBVLXJOS1l1ZU1fbTU4bm9ZWmVXcWM?oc=5",
+          "id": "report-3e960af6450b",
+          "title": "Trump to demand compensation for Tehran’s ‘conflicts’",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUXVlTkpFUWlDRUFXQUpUUXJIZEt4Zk0xZ0N0dkthU1pHWHVFVFctM1pFNTA4SFlDRmVDT25GSEFGajZkMUs4Y3BOOGRQemRNTHZsakFzaVU2U19tYjFoZXB5RF9TOTNJOENEZkhxOEp4ajFpUGxEWHJQbFZLQjl3MWJqZTcwd1ozWXpqWFlUQU1qa19SeFHSAZsBQVVfeXFMTTBjM1hwQjhQXzF0a3JUMF9kX3JHVnVWZGZqa0lfbnltZkdMdTR4RUlKcWVQOEM2TjZzZl9hVXFZNUZhUDBqc0tBbm5ZVkJubVZOQUJBT0FlYllac1ZvSVJhcXg1VHFNLUE3cUFRbm5lNnJSR2hlT1pLZUhRY3pEWGdFeEhnZFdPdWR6NUhCbDAxaHNleEdCSi1KU2c?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-10T17:40:33Z"
+          "reportedAt": "2026-08-10T21:09:24Z"
         },
         {
           "id": "report-c49420751f90",
@@ -1045,6 +1036,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-09T20:50:37Z"
+        },
+        {
+          "id": "report-b8b6c5225f0f",
+          "title": "Palestinian club football to restart in September after Gaza war suspension",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQM0FJX2NfVWJtcXZTMUtzS2FpcU41NDRlTGtWSFB5cnhjRE9aRmhIOEFwM0FXOTVzMDkyWGpMb2JqUmNOZkdqdmhyZkxMUVA4WmVqNG12M1BQbWRsSTNsdGt3TDFZNV91dWNZeGVFUTA3VnY5bTZZc2k5RC1qczVuR1ZsWXpUOEZiaTJtQUFCMUdhNUtnV3VyaW9CN0hxSnNzRlZNZGUySmF2TnJRbXZnanhUQmh4WHpZR0HSAb8BQVVfeXFMTUhXUHlZRU1ac05Ha19PejZfNVBXMkRNRlU2Q2M0R3o2QXJSLXVVOUZQcjhvYXp4Y2Y4RjM4c1FkOTgwb2l1Z2NRRFlOWGRGQTRmUERIdFcwaDJweGk3bHEySDJ6QTVyT1J3emhqRW5hZkhNaDFOdFRiQUZiY1NBRV9Na2RoVENJdkpnVUtHMWhEWnNVSGsxdHd0TTBPczZYNER4azdLZ2twblBVLXJOS1l1ZU1fbTU4bm9ZWmVXcWM?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-10T17:40:33Z"
         },
         {
           "id": "report-dd2a1637dc48",
