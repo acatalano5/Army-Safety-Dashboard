@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-12T05:50:33.992Z",
+  "generatedAt": "2026-08-12T09:48:59.478Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-08-12T05:50:33.992Z",
+      "generatedAt": "2026-08-12T09:48:59.478Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -633,9 +633,25 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-08-12T05:50:33.992Z",
+      "generatedAt": "2026-08-12T09:48:59.478Z",
       "cadence": "every 6 hours",
       "items": [
+        {
+          "title": "Ukraine’s 40-day campaign has not brought the war closer to an end",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcGxXUjJDYVoxazlCMldPWHJvUnpYZlNCYXZxRUc1LW1adEdEdjVETlV1bjhOTk4wSjNNajQtRWM1NlN4NHVjanpsY0FJTjNic1VOaGpJTXJvNnVKMkpERGd6cW5mOF9WRFNDVEstYTM5YkdtU2Z6NlNkWktTbjcxd2RhaFlDYlRxU2JjaVFXMllFRnFqdUZ0UlpBRlRTYTRDUlhETzFhcmFERXFSdXdj0gG0AUFVX3lxTE5kQmR0Ti0zM1U3VFFCZlUxa2NvSHlJeFpiczFCcnhIYnRJMHhEOFlydUsyZmc4ZnI0MEc0eU4zdXFaTERBU3ZnWW13N2llWUU4MXd1UE1rSjQ2NE1pbWJrZU0tVm9aUnd0ZWktOVI1S0x0RUVtS044RTVHNGdMMlhoS2lNOGlGbDkzT0xLOXNZU2VFX0NKbldvYU9iTGNFQTRhdjJ3V0tKYVFXbW0ydVhEVk5iMg?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260811T081726Z",
+          "pinned": false
+        },
+        {
+          "title": "Trump's dramatic plane swap hints at personal stakes of Iran war",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ra1N2dXFobmtMSmpCZHpKSi1vejdqeGpTeHdfTHQ3RnhTd0dudWlDV1NWN211a2FoVExtSjNmdjhucG0taXJZeGd2Wk9TTVFQZDgtcmJYYV9LUQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260812T001442Z",
+          "pinned": false
+        },
         {
           "title": "US senator says Trump has ‘lost’ Iran war",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdUs5OWtrWGtib0Z4YjVSSnpreGRLbUExbFlGZndlOVBaeUU4eHYteFQzY21xLXA1alE4aHhYa1JNNGJhZm5wcFVwR0dRQ3VBQTdyNVRLSDF3ZXdGQ3lfTWQzcEM0bzl2WWh1QmViSThxRHdZRjIxUVRfQXcwWDlkZXgwVG12cFZW?oc=5",
@@ -653,19 +669,11 @@
           "pinned": false
         },
         {
-          "title": "Ukraine’s 40-day campaign has not brought the war closer to an end",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcGxXUjJDYVoxazlCMldPWHJvUnpYZlNCYXZxRUc1LW1adEdEdjVETlV1bjhOTk4wSjNNajQtRWM1NlN4NHVjanpsY0FJTjNic1VOaGpJTXJvNnVKMkpERGd6cW5mOF9WRFNDVEstYTM5YkdtU2Z6NlNkWktTbjcxd2RhaFlDYlRxU2JjaVFXMllFRnFqdUZ0UlpBRlRTYTRDUlhETzFhcmFERXFSdXdj0gG0AUFVX3lxTE5kQmR0Ti0zM1U3VFFCZlUxa2NvSHlJeFpiczFCcnhIYnRJMHhEOFlydUsyZmc4ZnI0MEc0eU4zdXFaTERBU3ZnWW13N2llWUU4MXd1UE1rSjQ2NE1pbWJrZU0tVm9aUnd0ZWktOVI1S0x0RUVtS044RTVHNGdMMlhoS2lNOGlGbDkzT0xLOXNZU2VFX0NKbldvYU9iTGNFQTRhdjJ3V0tKYVFXbW0ydVhEVk5iMg?oc=5",
+          "title": "Zelenskyy says Ukraine has sent proposals to US to end war with Russia",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY09CX0xHVTVqZGtKYUUtOGFJZ2NSZEhyeWRlRHJLZ3Y4MXJiOWFpWTFKNXRTNUlQbGk4QzBqbUVmalg1Ry12QVkyM3RDTUtENkp2ZlJQLVpQd0o1VFlqZ0xmOTFXQkt0am5IMFJBem0zNENYVElKZ3RjM0M0a2oyOUNMUkl0alg2c1lfLWtNeHVfR3Fzajl2ZGZtUWdtbHVEMUJRWDQtSlU3NWJtTmJybtIBtgFBVV95cUxNa0JfckJCbVlIXzduMWtDbC1Odk1BSDBMWjZNaGFNc2ZhSzdoS3BZb0s4ODFqMTB2UFBWSXFGZWc3aS1IcXBJX3dic1RpeXdNLTdSMW1FVkl1V0pIRndKTHRtZFRuamNVaTdCeUIxeUhnYUxIZkE2eXZOZ21SY0FNNnd5ZHdvSEM2WjhNcjdLVGF5MmNyVExrazd0X0s2U0ZncU9DZEthbzdWMU1WbExLZll3UlNtQQ?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260811T081726Z",
-          "pinned": false
-        },
-        {
-          "title": "Trump's dramatic plane swap hints at personal stakes of Iran war",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ra1N2dXFobmtMSmpCZHpKSi1vejdqeGpTeHdfTHQ3RnhTd0dudWlDV1NWN211a2FoVExtSjNmdjhucG0taXJZeGd2Wk9TTVFQZDgtcmJYYV9LUQ?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260812T001442Z",
+          "seen": "20260812T053334Z",
           "pinned": false
         },
         {
@@ -685,7 +693,7 @@
           "pinned": false
         },
         {
-          "title": "US says it fired missiles to disable ship breaking Iran blockade",
+          "title": "US says helicopter fired missiles to disable ship breaking Iran blockade",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LLU5XdnA2TXZEdkJUMDRWdUxpMEFrRE5ndVV0UzVzYTBYY2V2NVdoTkRva1Q2MlFmUGZFbzdUcHJVRWgtWVFDT2l3b19WS2k2RWp4aEpoVkprdw?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
@@ -701,11 +709,11 @@
           "pinned": false
         },
         {
-          "title": "Iran war",
-          "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
-          "domain": "apnews.com",
+          "title": "Ukraine’s strikes on Russia’s Wildberries ‘aren’t about the front line’",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM1FWbmRRRnZ3VXp3MHFhSWdWNjM1bFM3WGFFdVctTlBSZFRySHprVm1hcklQajNoX0xIdU1VeWZFcTFNQTJ4bDRzT0wxSVp0Z2drb1k1cWFnM0E4YldNTDhJVUlaTldwb0UzUFNMSkRyekhWSXBVY0sza3dDZlhVdTRDMkFHRXJYOTJjY21kWUpMbV9YWEJ0Z2JMNXZvbW90OXlnZXJ3V21jZE3SAbABQVVfeXFMTlE0TjVMN2FlZzhuTVhjck1IQU1VZjljMzR1eGI2NmMwbVd5Y2Q3ZDJpLU9WTC1JQ21oWWdzNWJyVlhPZVdPbU9SWFpYcS1CaWg4bzdBaTRLMDZzdmplU0NDOWhGUDJEbHRCNGJpYzZhQWNrLVBHSjFXUWVrYWtuR2hXRFI3RzllNzZWdlY0R3JlMHdObW8tM1p0cGx2UWp0OE95NXlmX3lNdFRuaFd6dno?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260811T032540Z",
+          "seen": "20260812T082807Z",
           "pinned": false
         },
         {
@@ -741,19 +749,19 @@
           "pinned": false
         },
         {
-          "title": "Russia bars only party opposing war in Ukraine from parliamentary vote",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUjcxSFNFc2lBQkFFWnRvSkt0dE5JTEtIU2Nhc25KODVBYnRETjBMdW1rMGZDM2taWTFqY05oZXpobi15Z1d4VnNFQ1FZVFpBNWdtdlFib0tRZllzcmVmS1I2UkNod1JsTG1vSEo4TFZGMzh4ZnF4NzJwb3BNQTFWODdZWkN4NC1wZk43YXByODVsOF9CZ3pXNXluYzFTR1VvMFJMbzl3ZFBVUFUxaUg1WdIBtgFBVV95cUxOdS1FTTdhRXNBZ1d6R2lPZnQ4LXJuR29jUVlkeFBTTmlsQWJEc29ZWmRKWWtBdER1UGYtcGdjYjdNNW1QSjcwaTR6R1prSUc4TjhaYnJXQ3psUWJsZko0TzNuUi00SHhYNVB3cTR4VXozcWdUNDRLRUJtTXZ4RGJjUDlYSU1fVTlRai16U3FhNDVOWmhCaHNXUERmdi1RVUcwdXBVRHRpMmwzSE1LREd6U2pQZVYzdw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260810T195552Z",
-          "pinned": false
-        },
-        {
           "title": "Why is Pezeshkian urging an end to Iran’s ‘no war, no peace’ status?",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNekhIU3NwMjBHc0FzcjY2b2FCVjN5a0lBZ2dHNFkxQ2R2ZlA4X3h5eHN5WDQwdExkMkN1ZjRGNE5tRmdYWXdQZllyNXAzempoUmFMejhkR0hlWDZVcDZWU0Q2NG13NG5mMHhXVmVNRU1PYUx4aVN4NWstaHJwdTRoTFVSRTlsQmpYWGhyUU1GUnVSRkp4Sk9odDJ6d3Y3Z1F3aFhFVi1B0gGrAUFVX3lxTE15SnIxanV5NDNQOTVIM0VUMDZEWHo4OVVlZ3o2a3JqeENkSnVCdXdkVW56Z3pFaW5VWm1FUWZ5V3A3ZVF3X19aQ3JQOHVsb0JCTnljN1BwRV9oYU9fakhUVUpWVWh2QjNEa2lwRWFvd2Q1QjVwU0UtT3FkS3N4VlVpdE9iTVFnTnBzbDVabVY1LXpUMEJUSnFwT21GLVZFQU01bUlYTHo4NnBsMA?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260809T123753Z",
+          "pinned": false
+        },
+        {
+          "title": "Russia bars only party opposing war in Ukraine from parliamentary vote",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUjcxSFNFc2lBQkFFWnRvSkt0dE5JTEtIU2Nhc25KODVBYnRETjBMdW1rMGZDM2taWTFqY05oZXpobi15Z1d4VnNFQ1FZVFpBNWdtdlFib0tRZllzcmVmS1I2UkNod1JsTG1vSEo4TFZGMzh4ZnF4NzJwb3BNQTFWODdZWkN4NC1wZk43YXByODVsOF9CZ3pXNXluYzFTR1VvMFJMbzl3ZFBVUFUxaUg1WdIBtgFBVV95cUxOdS1FTTdhRXNBZ1d6R2lPZnQ4LXJuR29jUVlkeFBTTmlsQWJEc29ZWmRKWWtBdER1UGYtcGdjYjdNNW1QSjcwaTR6R1prSUc4TjhaYnJXQ3psUWJsZko0TzNuUi00SHhYNVB3cTR4VXozcWdUNDRLRUJtTXZ4RGJjUDlYSU1fVTlRai16U3FhNDVOWmhCaHNXUERmdi1RVUcwdXBVRHRpMmwzSE1LREd6U2pQZVYzdw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260810T195552Z",
           "pinned": false
         },
         {
@@ -781,14 +789,6 @@
           "pinned": false
         },
         {
-          "title": "Why Netanyahu’s ‘coup’ against Gaza plan risks endless war",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQamZpdThYNWpmX0xZSWdqQVBZUDl6MFJkWWFzUnB1M05HZk1hdzgzMDlhZEN3OTFVamQ5Ny1hVll1dm5xWWZtSXBwVTFoVFplTDBUT1RVSW42WmtHMzJ3Y2VLNkcwV2pIVnhQbXVqU2lSRXBSVGNLRWs4MHFTd0haZ2haaTZJZGdRN25BQ3BDYjRTVjZQQW1vNUtCNVbSAaIBQVVfeXFMT2lOSndmT255Q2xwOFg0eG5FRHg5akNOaUxaMVNISVBWel80NkpHOUxMY3dDdzJydklNaW1wN3pILXlCRmFqblp5LWloM0VDVkN0RENSYVZwdVprUG4zMXVpaW5aLTFpRVR1alVYejFGRFNzUVpIbW94UFU4bU9LZk1UQjZVQXNRVlROVUl2Tkd1Q2tBczAwY1V1d2R4R1FzYkpR?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260810T140352Z",
-          "pinned": false
-        },
-        {
           "title": "Trump told Ukraine it had no cards. Then Kyiv took the war to Russia",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBaMUwzUGYyQ2IyNXNfS1JPQi13cktObW5NSXV0SmJwbURsaU9FNDRpeWlFR3ZPS01YdG9pNFlvZ0lWeTBTRUJfQ2l6dW5hWjB1NFJUSGk4QUpiUVYzRWZUcVlzNktFTzQxc3VqTFQ3bUZSUFdjZll3Zg?oc=5",
           "domain": "apnews.com",
@@ -802,6 +802,14 @@
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "seen": "20260811T054500Z",
+          "pinned": false
+        },
+        {
+          "title": "US, Iran agree to extend 60-day ceasefire ahead of Aug. 17 deadline",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPek56alVlMGxBbTRqSzN3Y2E1WGI3NnFDYVRuYjlXY3pPdEJtREFNbjIxaHJ1eXpRd016WnFtNjBkb1pEWS0tRzg0WFdDQTFZRTBLSzZWNG1GeEFHQ1lKRHpnek44MFhRVEZLdE56aTctbUlQVFgzRnlMcVgwX1lYNzdqZ292eHFNQ2xWb3A1eDBQODM4WXZ5T19NZVhwbmNHdGViMUpnT1ItQ3pqRTdVUkJ3bDVoT3Yw?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20260812T091228Z",
           "pinned": false
         },
         {
@@ -819,17 +827,27 @@
           "sourceTier": "Independent reporting",
           "seen": "20260809T205037Z",
           "pinned": false
-        },
-        {
-          "title": "Palestinian club football to restart in September after Gaza war suspension",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQM0FJX2NfVWJtcXZTMUtzS2FpcU41NDRlTGtWSFB5cnhjRE9aRmhIOEFwM0FXOTVzMDkyWGpMb2JqUmNOZkdqdmhyZkxMUVA4WmVqNG12M1BQbWRsSTNsdGt3TDFZNV91dWNZeGVFUTA3VnY5bTZZc2k5RC1qczVuR1ZsWXpUOEZiaTJtQUFCMUdhNUtnV3VyaW9CN0hxSnNzRlZNZGUySmF2TnJRbXZnanhUQmh4WHpZR0HSAb8BQVVfeXFMTUhXUHlZRU1ac05Ha19PejZfNVBXMkRNRlU2Q2M0R3o2QXJSLXVVOUZQcjhvYXp4Y2Y4RjM4c1FkOTgwb2l1Z2NRRFlOWGRGQTRmUERIdFcwaDJweGk3bHEySDJ6QTVyT1J3emhqRW5hZkhNaDFOdFRiQUZiY1NBRV9Na2RoVENJdkpnVUtHMWhEWnNVSGsxdHd0TTBPczZYNER4azdLZ2twblBVLXJOS1l1ZU1fbTU4bm9ZWmVXcWM?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260810T174033Z",
-          "pinned": false
         }
       ],
       "reports": [
+        {
+          "id": "report-31fa7876050b",
+          "title": "Ukraine’s 40-day campaign has not brought the war closer to an end",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcGxXUjJDYVoxazlCMldPWHJvUnpYZlNCYXZxRUc1LW1adEdEdjVETlV1bjhOTk4wSjNNajQtRWM1NlN4NHVjanpsY0FJTjNic1VOaGpJTXJvNnVKMkpERGd6cW5mOF9WRFNDVEstYTM5YkdtU2Z6NlNkWktTbjcxd2RhaFlDYlRxU2JjaVFXMllFRnFqdUZ0UlpBRlRTYTRDUlhETzFhcmFERXFSdXdj0gG0AUFVX3lxTE5kQmR0Ti0zM1U3VFFCZlUxa2NvSHlJeFpiczFCcnhIYnRJMHhEOFlydUsyZmc4ZnI0MEc0eU4zdXFaTERBU3ZnWW13N2llWUU4MXd1UE1rSjQ2NE1pbWJrZU0tVm9aUnd0ZWktOVI1S0x0RUVtS044RTVHNGdMMlhoS2lNOGlGbDkzT0xLOXNZU2VFX0NKbldvYU9iTGNFQTRhdjJ3V0tKYVFXbW0ydVhEVk5iMg?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-11T08:17:26Z"
+        },
+        {
+          "id": "report-695ed321399a",
+          "title": "Trump's dramatic plane swap hints at personal stakes of Iran war",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ra1N2dXFobmtMSmpCZHpKSi1vejdqeGpTeHdfTHQ3RnhTd0dudWlDV1NWN211a2FoVExtSjNmdjhucG0taXJZeGd2Wk9TTVFQZDgtcmJYYV9LUQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-12T00:14:42Z"
+        },
         {
           "id": "report-b6f1830e3a32",
           "title": "US senator says Trump has ‘lost’ Iran war",
@@ -849,22 +867,13 @@
           "reportedAt": "2026-08-11T13:32:13Z"
         },
         {
-          "id": "report-31fa7876050b",
-          "title": "Ukraine’s 40-day campaign has not brought the war closer to an end",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcGxXUjJDYVoxazlCMldPWHJvUnpYZlNCYXZxRUc1LW1adEdEdjVETlV1bjhOTk4wSjNNajQtRWM1NlN4NHVjanpsY0FJTjNic1VOaGpJTXJvNnVKMkpERGd6cW5mOF9WRFNDVEstYTM5YkdtU2Z6NlNkWktTbjcxd2RhaFlDYlRxU2JjaVFXMllFRnFqdUZ0UlpBRlRTYTRDUlhETzFhcmFERXFSdXdj0gG0AUFVX3lxTE5kQmR0Ti0zM1U3VFFCZlUxa2NvSHlJeFpiczFCcnhIYnRJMHhEOFlydUsyZmc4ZnI0MEc0eU4zdXFaTERBU3ZnWW13N2llWUU4MXd1UE1rSjQ2NE1pbWJrZU0tVm9aUnd0ZWktOVI1S0x0RUVtS044RTVHNGdMMlhoS2lNOGlGbDkzT0xLOXNZU2VFX0NKbldvYU9iTGNFQTRhdjJ3V0tKYVFXbW0ydVhEVk5iMg?oc=5",
+          "id": "report-0c0e82498494",
+          "title": "Zelenskyy says Ukraine has sent proposals to US to end war with Russia",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY09CX0xHVTVqZGtKYUUtOGFJZ2NSZEhyeWRlRHJLZ3Y4MXJiOWFpWTFKNXRTNUlQbGk4QzBqbUVmalg1Ry12QVkyM3RDTUtENkp2ZlJQLVpQd0o1VFlqZ0xmOTFXQkt0am5IMFJBem0zNENYVElKZ3RjM0M0a2oyOUNMUkl0alg2c1lfLWtNeHVfR3Fzajl2ZGZtUWdtbHVEMUJRWDQtSlU3NWJtTmJybtIBtgFBVV95cUxNa0JfckJCbVlIXzduMWtDbC1Odk1BSDBMWjZNaGFNc2ZhSzdoS3BZb0s4ODFqMTB2UFBWSXFGZWc3aS1IcXBJX3dic1RpeXdNLTdSMW1FVkl1V0pIRndKTHRtZFRuamNVaTdCeUIxeUhnYUxIZkE2eXZOZ21SY0FNNnd5ZHdvSEM2WjhNcjdLVGF5MmNyVExrazd0X0s2U0ZncU9DZEthbzdWMU1WbExLZll3UlNtQQ?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-11T08:17:26Z"
-        },
-        {
-          "id": "report-695ed321399a",
-          "title": "Trump's dramatic plane swap hints at personal stakes of Iran war",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ra1N2dXFobmtMSmpCZHpKSi1vejdqeGpTeHdfTHQ3RnhTd0dudWlDV1NWN211a2FoVExtSjNmdjhucG0taXJZeGd2Wk9TTVFQZDgtcmJYYV9LUQ?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-12T00:14:42Z"
+          "reportedAt": "2026-08-12T05:33:34Z"
         },
         {
           "id": "report-00aca2ef0f75",
@@ -886,7 +895,7 @@
         },
         {
           "id": "report-476cc555e5df",
-          "title": "US says it fired missiles to disable ship breaking Iran blockade",
+          "title": "US says helicopter fired missiles to disable ship breaking Iran blockade",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LLU5XdnA2TXZEdkJUMDRWdUxpMEFrRE5ndVV0UzVzYTBYY2V2NVdoTkRva1Q2MlFmUGZFbzdUcHJVRWgtWVFDT2l3b19WS2k2RWp4aEpoVkprdw?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
@@ -903,13 +912,13 @@
           "reportedAt": "2026-08-09T11:09:38Z"
         },
         {
-          "id": "report-a755c78656d2",
-          "title": "Iran war",
-          "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
-          "domain": "apnews.com",
+          "id": "report-d6f7ee02eda9",
+          "title": "Ukraine’s strikes on Russia’s Wildberries ‘aren’t about the front line’",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM1FWbmRRRnZ3VXp3MHFhSWdWNjM1bFM3WGFFdVctTlBSZFRySHprVm1hcklQajNoX0xIdU1VeWZFcTFNQTJ4bDRzT0wxSVp0Z2drb1k1cWFnM0E4YldNTDhJVUlaTldwb0UzUFNMSkRyekhWSXBVY0sza3dDZlhVdTRDMkFHRXJYOTJjY21kWUpMbV9YWEJ0Z2JMNXZvbW90OXlnZXJ3V21jZE3SAbABQVVfeXFMTlE0TjVMN2FlZzhuTVhjck1IQU1VZjljMzR1eGI2NmMwbVd5Y2Q3ZDJpLU9WTC1JQ21oWWdzNWJyVlhPZVdPbU9SWFpYcS1CaWg4bzdBaTRLMDZzdmplU0NDOWhGUDJEbHRCNGJpYzZhQWNrLVBHSjFXUWVrYWtuR2hXRFI3RzllNzZWdlY0R3JlMHdObW8tM1p0cGx2UWp0OE95NXlmX3lNdFRuaFd6dno?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-11T03:25:40Z"
+          "reportedAt": "2026-08-12T08:28:07Z"
         },
         {
           "id": "report-0d5aaeccd002",
@@ -948,15 +957,6 @@
           "reportedAt": "2026-08-09T04:47:52Z"
         },
         {
-          "id": "report-97fb5c165511",
-          "title": "Russia bars only party opposing war in Ukraine from parliamentary vote",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUjcxSFNFc2lBQkFFWnRvSkt0dE5JTEtIU2Nhc25KODVBYnRETjBMdW1rMGZDM2taWTFqY05oZXpobi15Z1d4VnNFQ1FZVFpBNWdtdlFib0tRZllzcmVmS1I2UkNod1JsTG1vSEo4TFZGMzh4ZnF4NzJwb3BNQTFWODdZWkN4NC1wZk43YXByODVsOF9CZ3pXNXluYzFTR1VvMFJMbzl3ZFBVUFUxaUg1WdIBtgFBVV95cUxOdS1FTTdhRXNBZ1d6R2lPZnQ4LXJuR29jUVlkeFBTTmlsQWJEc29ZWmRKWWtBdER1UGYtcGdjYjdNNW1QSjcwaTR6R1prSUc4TjhaYnJXQ3psUWJsZko0TzNuUi00SHhYNVB3cTR4VXozcWdUNDRLRUJtTXZ4RGJjUDlYSU1fVTlRai16U3FhNDVOWmhCaHNXUERmdi1RVUcwdXBVRHRpMmwzSE1LREd6U2pQZVYzdw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-10T19:55:52Z"
-        },
-        {
           "id": "report-79bc31ed1a5b",
           "title": "Why is Pezeshkian urging an end to Iran’s ‘no war, no peace’ status?",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNekhIU3NwMjBHc0FzcjY2b2FCVjN5a0lBZ2dHNFkxQ2R2ZlA4X3h5eHN5WDQwdExkMkN1ZjRGNE5tRmdYWXdQZllyNXAzempoUmFMejhkR0hlWDZVcDZWU0Q2NG13NG5mMHhXVmVNRU1PYUx4aVN4NWstaHJwdTRoTFVSRTlsQmpYWGhyUU1GUnVSRkp4Sk9odDJ6d3Y3Z1F3aFhFVi1B0gGrAUFVX3lxTE15SnIxanV5NDNQOTVIM0VUMDZEWHo4OVVlZ3o2a3JqeENkSnVCdXdkVW56Z3pFaW5VWm1FUWZ5V3A3ZVF3X19aQ3JQOHVsb0JCTnljN1BwRV9oYU9fakhUVUpWVWh2QjNEa2lwRWFvd2Q1QjVwU0UtT3FkS3N4VlVpdE9iTVFnTnBzbDVabVY1LXpUMEJUSnFwT21GLVZFQU01bUlYTHo4NnBsMA?oc=5",
@@ -964,6 +964,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-09T12:37:53Z"
+        },
+        {
+          "id": "report-97fb5c165511",
+          "title": "Russia bars only party opposing war in Ukraine from parliamentary vote",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUjcxSFNFc2lBQkFFWnRvSkt0dE5JTEtIU2Nhc25KODVBYnRETjBMdW1rMGZDM2taWTFqY05oZXpobi15Z1d4VnNFQ1FZVFpBNWdtdlFib0tRZllzcmVmS1I2UkNod1JsTG1vSEo4TFZGMzh4ZnF4NzJwb3BNQTFWODdZWkN4NC1wZk43YXByODVsOF9CZ3pXNXluYzFTR1VvMFJMbzl3ZFBVUFUxaUg1WdIBtgFBVV95cUxOdS1FTTdhRXNBZ1d6R2lPZnQ4LXJuR29jUVlkeFBTTmlsQWJEc29ZWmRKWWtBdER1UGYtcGdjYjdNNW1QSjcwaTR6R1prSUc4TjhaYnJXQ3psUWJsZko0TzNuUi00SHhYNVB3cTR4VXozcWdUNDRLRUJtTXZ4RGJjUDlYSU1fVTlRai16U3FhNDVOWmhCaHNXUERmdi1RVUcwdXBVRHRpMmwzSE1LREd6U2pQZVYzdw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-10T19:55:52Z"
         },
         {
           "id": "report-25004455cfae",
@@ -993,15 +1002,6 @@
           "reportedAt": "2026-08-11T09:52:54Z"
         },
         {
-          "id": "report-ec4bbf147c6e",
-          "title": "Why Netanyahu’s ‘coup’ against Gaza plan risks endless war",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQamZpdThYNWpmX0xZSWdqQVBZUDl6MFJkWWFzUnB1M05HZk1hdzgzMDlhZEN3OTFVamQ5Ny1hVll1dm5xWWZtSXBwVTFoVFplTDBUT1RVSW42WmtHMzJ3Y2VLNkcwV2pIVnhQbXVqU2lSRXBSVGNLRWs4MHFTd0haZ2haaTZJZGdRN25BQ3BDYjRTVjZQQW1vNUtCNVbSAaIBQVVfeXFMT2lOSndmT255Q2xwOFg0eG5FRHg5akNOaUxaMVNISVBWel80NkpHOUxMY3dDdzJydklNaW1wN3pILXlCRmFqblp5LWloM0VDVkN0RENSYVZwdVprUG4zMXVpaW5aLTFpRVR1alVYejFGRFNzUVpIbW94UFU4bU9LZk1UQjZVQXNRVlROVUl2Tkd1Q2tBczAwY1V1d2R4R1FzYkpR?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-10T14:03:52Z"
-        },
-        {
           "id": "report-138231438083",
           "title": "Trump told Ukraine it had no cards. Then Kyiv took the war to Russia",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBaMUwzUGYyQ2IyNXNfS1JPQi13cktObW5NSXV0SmJwbURsaU9FNDRpeWlFR3ZPS01YdG9pNFlvZ0lWeTBTRUJfQ2l6dW5hWjB1NFJUSGk4QUpiUVYzRWZUcVlzNktFTzQxc3VqTFQ3bUZSUFdjZll3Zg?oc=5",
@@ -1020,6 +1020,15 @@
           "reportedAt": "2026-08-11T05:45:00Z"
         },
         {
+          "id": "report-7300c439a59b",
+          "title": "US, Iran agree to extend 60-day ceasefire ahead of Aug. 17 deadline",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPek56alVlMGxBbTRqSzN3Y2E1WGI3NnFDYVRuYjlXY3pPdEJtREFNbjIxaHJ1eXpRd016WnFtNjBkb1pEWS0tRzg0WFdDQTFZRTBLSzZWNG1GeEFHQ1lKRHpnek44MFhRVEZLdE56aTctbUlQVFgzRnlMcVgwX1lYNzdqZ292eHFNQ2xWb3A1eDBQODM4WXZ5T19NZVhwbmNHdGViMUpnT1ItQ3pqRTdVUkJ3bDVoT3Yw?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-08-12T09:12:28Z"
+        },
+        {
           "id": "report-3e960af6450b",
           "title": "Trump to demand compensation for Tehran’s ‘conflicts’",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUXVlTkpFUWlDRUFXQUpUUXJIZEt4Zk0xZ0N0dkthU1pHWHVFVFctM1pFNTA4SFlDRmVDT25GSEFGajZkMUs4Y3BOOGRQemRNTHZsakFzaVU2U19tYjFoZXB5RF9TOTNJOENEZkhxOEp4ajFpUGxEWHJQbFZLQjl3MWJqZTcwd1ozWXpqWFlUQU1qa19SeFHSAZsBQVVfeXFMTTBjM1hwQjhQXzF0a3JUMF9kX3JHVnVWZGZqa0lfbnltZkdMdTR4RUlKcWVQOEM2TjZzZl9hVXFZNUZhUDBqc0tBbm5ZVkJubVZOQUJBT0FlYllac1ZvSVJhcXg1VHFNLUE3cUFRbm5lNnJSR2hlT1pLZUhRY3pEWGdFeEhnZFdPdWR6NUhCbDAxaHNleEdCSi1KU2c?oc=5",
@@ -1036,15 +1045,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-09T20:50:37Z"
-        },
-        {
-          "id": "report-b8b6c5225f0f",
-          "title": "Palestinian club football to restart in September after Gaza war suspension",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQM0FJX2NfVWJtcXZTMUtzS2FpcU41NDRlTGtWSFB5cnhjRE9aRmhIOEFwM0FXOTVzMDkyWGpMb2JqUmNOZkdqdmhyZkxMUVA4WmVqNG12M1BQbWRsSTNsdGt3TDFZNV91dWNZeGVFUTA3VnY5bTZZc2k5RC1qczVuR1ZsWXpUOEZiaTJtQUFCMUdhNUtnV3VyaW9CN0hxSnNzRlZNZGUySmF2TnJRbXZnanhUQmh4WHpZR0HSAb8BQVVfeXFMTUhXUHlZRU1ac05Ha19PejZfNVBXMkRNRlU2Q2M0R3o2QXJSLXVVOUZQcjhvYXp4Y2Y4RjM4c1FkOTgwb2l1Z2NRRFlOWGRGQTRmUERIdFcwaDJweGk3bHEySDJ6QTVyT1J3emhqRW5hZkhNaDFOdFRiQUZiY1NBRV9Na2RoVENJdkpnVUtHMWhEWnNVSGsxdHd0TTBPczZYNER4azdLZ2twblBVLXJOS1l1ZU1fbTU4bm9ZWmVXcWM?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-10T17:40:33Z"
         },
         {
           "id": "report-dd2a1637dc48",
