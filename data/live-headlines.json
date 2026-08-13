@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-13T09:51:38.155Z",
+  "generatedAt": "2026-08-13T15:37:05.616Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-08-13T09:51:38.155Z",
+      "generatedAt": "2026-08-13T15:37:05.616Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -659,9 +659,17 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-08-13T09:51:38.155Z",
+      "generatedAt": "2026-08-13T15:37:05.616Z",
       "cadence": "every 6 hours",
       "items": [
+        {
+          "title": "Eurovision to bar countries at war from hosting: What that means",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTUo2SEotbzJ6M0N5SHJNLTNzdjAwd1p5aC1sWkJIREpld0hVZjlwLVR2RFcxZjdTV2JDWEZkcmlMR1V4bFdHUWM4WmJRdlVPZnNCZnVrNzRXSDdWdkZ0Qm93TU11ZlY4bHNrN0EyR3g5RGZBLVZQYy1xQUhKN081NWpCNXd1UlNXUU1PQ01vSElLbGxmdWdKeEFxQ29MSXRHNWp1X3RNb9IBrAFBVV95cUxQQjBZVkxHUEhlVTB0QWNOeWE2Y1QyTjk2QkxJbHEwWkQ0NFFYUVNMZVNVZWNRS3YwSzZWSkxQZEhpek5lSkhDZmI2WVF2RW9sLWhjdEVwaGZsV0JjazdCWGE3Q2RyeEdqSzY4akFlMGRrYmdVSVZ2dDdSeV81VW1HanlBSjJXdVhtelYzZ2dxMzVnY25yd2IyVnp2Vk1WRVNGSlo5cm9yRUZzSmtN?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260813T104534Z",
+          "pinned": false
+        },
         {
           "title": "Trump's dramatic plane swap hints at personal stakes of Iran war",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ra1N2dXFobmtMSmpCZHpKSi1vejdqeGpTeHdfTHQ3RnhTd0dudWlDV1NWN211a2FoVExtSjNmdjhucG0taXJZeGd2Wk9TTVFQZDgtcmJYYV9LUQ?oc=5",
@@ -687,19 +695,19 @@
           "pinned": false
         },
         {
-          "title": "Iran war",
-          "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
+          "title": "Inflation slows but prices remain elevated as Iran war and spending on AI push up prices",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT1p4OTRrUDJrbTJJTmk5Uk05TFV3a2JDOXhXa0pXQm1EdWE4ZnE3WU1pQ1hEdG80RFd6bzQ2QkN2X2NjZnA4U19zZzBmMm1aaG1oUmg4LTZZY2NsSV9SeFpJamZZYVRXQXlXZ0VDT0tIRVo4M3B4WW1VZFltbnVLTkRiU01BN2szVncteXcxQUJFX01jTFdfTUR1MjMydGZjN1d3Wmp2QQ?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260813T072707Z",
+          "seen": "20260812T152700Z",
           "pinned": false
         },
         {
-          "title": "'If you're not conservative, don't come here': The town making missiles for Trump",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03WmR5OHJFd3hsOE5mbmF3M1NpUEpmcm9rZk5NcG00N1FDV0F0bXI3YjYxbTY4R2tDRHRtdlJyRklGYnhxU3hwU3dwLV9xdGp5SlRKOUdkaEc5QQ?oc=5",
+          "title": "Ethiopia drone strike in north kills three, Tigray sources say",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSdWlRc1QxcHdIemVNSVZiZU1BOG9YbXl6RUk5Tkp3YWxndDZiRjhrX1JWRlQtaG8wM1ViQnlyWlhIUFBmN3AwLXVoXzNRb2hLdFZ6N1ZMU2FzUQ?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260812T232621Z",
+          "seen": "20260811T131127Z",
           "pinned": false
         },
         {
@@ -708,14 +716,6 @@
           "domain": "cfr.org",
           "sourceTier": "Structured / analytic",
           "seen": "20260812T173810Z",
-          "pinned": false
-        },
-        {
-          "title": "Inflation slows but prices remain elevated as Iran war and spending on AI push up prices",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT1p4OTRrUDJrbTJJTmk5Uk05TFV3a2JDOXhXa0pXQm1EdWE4ZnE3WU1pQ1hEdG80RFd6bzQ2QkN2X2NjZnA4U19zZzBmMm1aaG1oUmg4LTZZY2NsSV9SeFpJamZZYVRXQXlXZ0VDT0tIRVo4M3B4WW1VZFltbnVLTkRiU01BN2szVncteXcxQUJFX01jTFdfTUR1MjMydGZjN1d3Wmp2QQ?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260812T152700Z",
           "pinned": false
         },
         {
@@ -740,14 +740,6 @@
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20260811T211456Z",
-          "pinned": false
-        },
-        {
-          "title": "Ethiopia drone strike in north kills three, Tigray sources say",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSdWlRc1QxcHdIemVNSVZiZU1BOG9YbXl6RUk5Tkp3YWxndDZiRjhrX1JWRlQtaG8wM1ViQnlyWlhIUFBmN3AwLXVoXzNRb2hLdFZ6N1ZMU2FzUQ?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260811T131127Z",
           "pinned": false
         },
         {
@@ -807,11 +799,27 @@
           "pinned": false
         },
         {
+          "title": "Myanmar’s military has escalated airstrikes against civilians, UN investigation finds",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPclVKR1ZmbjFNcXAxbDdrbG5Sc1VGeFlxbnZRVDdCeTl2eGYwMWZvMXR6ajBCbU9qbUZYeV82UWxFYXJWcG5XMFQ5M2NEekp5Q1hsenEyQzdCcU1EN0NwX2ZqQWZscGZfdVdYaVlqaW15QTF5YVJzUWtjcDdpc29HdHhEUnk1RmZtYWJpYXA2MGRrMkhGb3FEbWpfMXBPY0hmdUE?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260812T003100Z",
+          "pinned": false
+        },
+        {
           "title": "Iraq’s semi-autonomous Kurdish region suffers as US-Iran war drags on",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWdtaUltQWVYdTM4M3QtSDR0QVFvZFFoOE9hTjloWGdJSzAtT0kyR3ZOUEtJWXd4VFlPb09KUzg0YnpnbGZzTWI1UVpBMG9oMFpzNENBSE9wd3JqWUJXSUoybGs0WjVxSFRuRzlHRjY4S1l1aWVuYzVMUDRsVTE3TkF6NnlYUDc2bS0yVk1wVEszTWZ4M3poeHhBOWR4LUNQWEtGMHNoYUVLWnNCMXfSAbMBQVVfeXFMUHcteXpxYjFZRnEzalVaTVpOczB6RjlkSXZQeDREVllrekstMjM5ZGtvTHBoanhOcXhLd3VSejZYcFhPWGdrNmVOWG5SSmNIaWZ2ZDAtQ3M5TXYxR2Z3alJtUHhTbTVPV0NTenl6OFktbXA3MS16NlBWOTQtQlhqR1lORl9vTjVzVmFPb281RUtvVmJfdlZjVDJWUy1kTm41OUNNSDVpZXJFWl9uTGRRZ1lCNXc?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260811T095254Z",
+          "pinned": false
+        },
+        {
+          "title": "Yemeni forces say Houthi attack repelled in Taiz amid escalation",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObG1mck84WmVJcXVfRFQ3M2pxMU9YLVNaaUd3dTdZQ2djQWo0TWJyS0lSUW80c2lzUmJaZnJqdUhuREdVR2hZMkJQdlJHZVF1NTMzQWhTRTNSRTdNTzhmQU91amNkR0JPLVlOVVFCcFBlemlBeTNHclRTaE9WT2VEcmJqaFVyMml1Ylk3WktiV3VJOUdQVzJiZXEzbERDMkFHU2d4dHJPU0XSAa4BQVVfeXFMTWthMFhZcFFuYVZUZktxRGdjTTBCSFFNaXhzXzh5dzlLNkdZblg4c2w5WW9RTllxMWx4MTlUSDdFUFlncjZLT3k1YTVHb0Fha0lLQ29LTlBhYUVuay1IbTRid2s3V3VORzV0bGJJRVRKWXo1bW9OT1RBdktkaUMzdGFhbmlZZEdIUGNRbDNmX1JMNlhydGVha0tEblV2bXZ1UE9iT2ZiOTlCc1locXJ3?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260813T094231Z",
           "pinned": false
         },
         {
@@ -827,7 +835,7 @@
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTHRSRTdObVh1eUFaNml6X3lhU0FnaEJvWHM2V2g2eC0yblF2QktZTnctM1Vud0pqZ2ZzQ0ZZTzBRNUV2TnpFNkV2V3lNUVhfcGlHbmtzT1k5bnJCclRCS1dTYnB5WTdmRk5aaHM4aEktLVFzc1lhallpd1FfM2J1aTE3NzBIejRSaTctUDdETm1hSFBadWk2aTR1ZDk?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260810T105824Z",
+          "seen": "20260811T054500Z",
           "pinned": false
         },
         {
@@ -845,17 +853,18 @@
           "sourceTier": "Independent reporting",
           "seen": "20260810T174033Z",
           "pinned": false
-        },
-        {
-          "title": "Former Syrian President Assad sentenced to death in absentia for war crimes",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbFZ5cVRQTjZBaDZEOFZuSi1ZUXFwd0J6SnNBeGVleVBqdExEY3VweDY5a3ZnUnNpal83SS03QWVGUlN4TExhNDU4VmxKd1FlTDRUaExBbDY2MjU3ZWVqRGptSllyTjRFS2Mzd1JHdlFFaVE5NkY2WjdYREdjYWxqUnJreWZwemR6SVJN?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260811T161600Z",
-          "pinned": false
         }
       ],
       "reports": [
+        {
+          "id": "report-c2c14047f9c4",
+          "title": "Eurovision to bar countries at war from hosting: What that means",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTUo2SEotbzJ6M0N5SHJNLTNzdjAwd1p5aC1sWkJIREpld0hVZjlwLVR2RFcxZjdTV2JDWEZkcmlMR1V4bFdHUWM4WmJRdlVPZnNCZnVrNzRXSDdWdkZ0Qm93TU11ZlY4bHNrN0EyR3g5RGZBLVZQYy1xQUhKN081NWpCNXd1UlNXUU1PQ01vSElLbGxmdWdKeEFxQ29MSXRHNWp1X3RNb9IBrAFBVV95cUxQQjBZVkxHUEhlVTB0QWNOeWE2Y1QyTjk2QkxJbHEwWkQ0NFFYUVNMZVNVZWNRS3YwSzZWSkxQZEhpek5lSkhDZmI2WVF2RW9sLWhjdEVwaGZsV0JjazdCWGE3Q2RyeEdqSzY4akFlMGRrYmdVSVZ2dDdSeV81VW1HanlBSjJXdVhtelYzZ2dxMzVnY25yd2IyVnp2Vk1WRVNGSlo5cm9yRUZzSmtN?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-13T10:45:34Z"
+        },
         {
           "id": "report-695ed321399a",
           "title": "Trump's dramatic plane swap hints at personal stakes of Iran war",
@@ -884,22 +893,22 @@
           "reportedAt": "2026-08-11T13:32:13Z"
         },
         {
-          "id": "report-a755c78656d2",
-          "title": "Iran war",
-          "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
+          "id": "report-246fbe2c2f4a",
+          "title": "Inflation slows but prices remain elevated as Iran war and spending on AI push up prices",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT1p4OTRrUDJrbTJJTmk5Uk05TFV3a2JDOXhXa0pXQm1EdWE4ZnE3WU1pQ1hEdG80RFd6bzQ2QkN2X2NjZnA4U19zZzBmMm1aaG1oUmg4LTZZY2NsSV9SeFpJamZZYVRXQXlXZ0VDT0tIRVo4M3B4WW1VZFltbnVLTkRiU01BN2szVncteXcxQUJFX01jTFdfTUR1MjMydGZjN1d3Wmp2QQ?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-13T07:27:07Z"
+          "reportedAt": "2026-08-12T15:27:00Z"
         },
         {
-          "id": "report-6aaf5c35bc54",
-          "title": "'If you're not conservative, don't come here': The town making missiles for Trump",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03WmR5OHJFd3hsOE5mbmF3M1NpUEpmcm9rZk5NcG00N1FDV0F0bXI3YjYxbTY4R2tDRHRtdlJyRklGYnhxU3hwU3dwLV9xdGp5SlRKOUdkaEc5QQ?oc=5",
+          "id": "report-c3e60ea1e230",
+          "title": "Ethiopia drone strike in north kills three, Tigray sources say",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSdWlRc1QxcHdIemVNSVZiZU1BOG9YbXl6RUk5Tkp3YWxndDZiRjhrX1JWRlQtaG8wM1ViQnlyWlhIUFBmN3AwLXVoXzNRb2hLdFZ6N1ZMU2FzUQ?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-12T23:26:21Z"
+          "reportedAt": "2026-08-11T13:11:27Z"
         },
         {
           "id": "report-372b096ff4db",
@@ -909,15 +918,6 @@
           "sourceTier": "Structured / analytic",
           "confidenceLabel": "ANALYTIC REPORT",
           "reportedAt": "2026-08-12T17:38:10Z"
-        },
-        {
-          "id": "report-246fbe2c2f4a",
-          "title": "Inflation slows but prices remain elevated as Iran war and spending on AI push up prices",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT1p4OTRrUDJrbTJJTmk5Uk05TFV3a2JDOXhXa0pXQm1EdWE4ZnE3WU1pQ1hEdG80RFd6bzQ2QkN2X2NjZnA4U19zZzBmMm1aaG1oUmg4LTZZY2NsSV9SeFpJamZZYVRXQXlXZ0VDT0tIRVo4M3B4WW1VZFltbnVLTkRiU01BN2szVncteXcxQUJFX01jTFdfTUR1MjMydGZjN1d3Wmp2QQ?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-12T15:27:00Z"
         },
         {
           "id": "report-fb7ff26522fe",
@@ -945,15 +945,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-11T21:14:56Z"
-        },
-        {
-          "id": "report-c3e60ea1e230",
-          "title": "Ethiopia drone strike in north kills three, Tigray sources say",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSdWlRc1QxcHdIemVNSVZiZU1BOG9YbXl6RUk5Tkp3YWxndDZiRjhrX1JWRlQtaG8wM1ViQnlyWlhIUFBmN3AwLXVoXzNRb2hLdFZ6N1ZMU2FzUQ?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-11T13:11:27Z"
         },
         {
           "id": "report-2902b89c9c86",
@@ -1019,6 +1010,15 @@
           "reportedAt": "2026-08-10T19:55:52Z"
         },
         {
+          "id": "report-6f2bd172a58b",
+          "title": "Myanmar’s military has escalated airstrikes against civilians, UN investigation finds",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPclVKR1ZmbjFNcXAxbDdrbG5Sc1VGeFlxbnZRVDdCeTl2eGYwMWZvMXR6ajBCbU9qbUZYeV82UWxFYXJWcG5XMFQ5M2NEekp5Q1hsenEyQzdCcU1EN0NwX2ZqQWZscGZfdVdYaVlqaW15QTF5YVJzUWtjcDdpc29HdHhEUnk1RmZtYWJpYXA2MGRrMkhGb3FEbWpfMXBPY0hmdUE?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-12T00:31:00Z"
+        },
+        {
           "id": "report-64c601c47f0d",
           "title": "Iraq’s semi-autonomous Kurdish region suffers as US-Iran war drags on",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWdtaUltQWVYdTM4M3QtSDR0QVFvZFFoOE9hTjloWGdJSzAtT0kyR3ZOUEtJWXd4VFlPb09KUzg0YnpnbGZzTWI1UVpBMG9oMFpzNENBSE9wd3JqWUJXSUoybGs0WjVxSFRuRzlHRjY4S1l1aWVuYzVMUDRsVTE3TkF6NnlYUDc2bS0yVk1wVEszTWZ4M3poeHhBOWR4LUNQWEtGMHNoYUVLWnNCMXfSAbMBQVVfeXFMUHcteXpxYjFZRnEzalVaTVpOczB6RjlkSXZQeDREVllrekstMjM5ZGtvTHBoanhOcXhLd3VSejZYcFhPWGdrNmVOWG5SSmNIaWZ2ZDAtQ3M5TXYxR2Z3alJtUHhTbTVPV0NTenl6OFktbXA3MS16NlBWOTQtQlhqR1lORl9vTjVzVmFPb281RUtvVmJfdlZjVDJWUy1kTm41OUNNSDVpZXJFWl9uTGRRZ1lCNXc?oc=5",
@@ -1026,6 +1026,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-11T09:52:54Z"
+        },
+        {
+          "id": "report-82195d686f59",
+          "title": "Yemeni forces say Houthi attack repelled in Taiz amid escalation",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObG1mck84WmVJcXVfRFQ3M2pxMU9YLVNaaUd3dTdZQ2djQWo0TWJyS0lSUW80c2lzUmJaZnJqdUhuREdVR2hZMkJQdlJHZVF1NTMzQWhTRTNSRTdNTzhmQU91amNkR0JPLVlOVVFCcFBlemlBeTNHclRTaE9WT2VEcmJqaFVyMml1Ylk3WktiV3VJOUdQVzJiZXEzbERDMkFHU2d4dHJPU0XSAa4BQVVfeXFMTWthMFhZcFFuYVZUZktxRGdjTTBCSFFNaXhzXzh5dzlLNkdZblg4c2w5WW9RTllxMWx4MTlUSDdFUFlncjZLT3k1YTVHb0Fha0lLQ29LTlBhYUVuay1IbTRid2s3V3VORzV0bGJJRVRKWXo1bW9OT1RBdktkaUMzdGFhbmlZZEdIUGNRbDNmX1JMNlhydGVha0tEblV2bXZ1UE9iT2ZiOTlCc1locXJ3?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-13T09:42:31Z"
         },
         {
           "id": "report-7300c439a59b",
@@ -1043,7 +1052,7 @@
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-10T10:58:24Z"
+          "reportedAt": "2026-08-11T05:45:00Z"
         },
         {
           "id": "report-3e960af6450b",
@@ -1062,15 +1071,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-10T17:40:33Z"
-        },
-        {
-          "id": "report-95402d7d2d33",
-          "title": "Former Syrian President Assad sentenced to death in absentia for war crimes",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbFZ5cVRQTjZBaDZEOFZuSi1ZUXFwd0J6SnNBeGVleVBqdExEY3VweDY5a3ZnUnNpal83SS03QWVGUlN4TExhNDU4VmxKd1FlTDRUaExBbDY2MjU3ZWVqRGptSllyTjRFS2Mzd1JHdlFFaVE5NkY2WjdYREdjYWxqUnJreWZwemR6SVJN?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-11T16:16:00Z"
         },
         {
           "id": "report-dd2a1637dc48",
