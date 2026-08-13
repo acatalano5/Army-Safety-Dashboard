@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-13T15:37:05.616Z",
+  "generatedAt": "2026-08-13T18:43:16.484Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -21,7 +21,7 @@
       ]
     },
     "safety": {
-      "generatedAt": "2026-08-12T18:42:26.191Z",
+      "generatedAt": "2026-08-13T18:43:16.484Z",
       "cadence": "daily",
       "items": [
         {
@@ -57,6 +57,22 @@
           "pinned": false
         },
         {
+          "title": "Two US Army soldiers killed in Texas helicopter crash",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYVROdG1WU2licEoyR2xYTHB0NG1VZUc3cElhampMR0k4WDlXQVBkUDFTMUFlcDF4LXBrUjZDWlplR0xMNld0cVRUaEE4QlVZeTFpRnRvd1EtMjEtRzJSejR1Vk8ySl9IMm1xWDc1WVk1S2g4Vjk1ZW50OVY2MEZnZElFMFIwLXY0T3Rfb2MycVB6RUNNVTFmR0l2QQ?oc=5",
+          "domain": "reuters.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260812T230614Z",
+          "pinned": false
+        },
+        {
+          "title": "Army Apache helicopter crash in Texas kills 2 crew members aboard",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wZ2dndl9pV01FamMxRXhBVDlXcGpMUkdWM2hvV2NCM2NPSTVmaU5UN1B1eXBFMUg1TFdZdllRaF9md0R1VloweGhxX2FSQnNETl95SjllemFBMm1rVllXQnhLZldOSHM?oc=5",
+          "domain": "taskandpurpose.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260812T221748Z",
+          "pinned": false
+        },
+        {
           "title": "Marine F-35 involved in fiery mishap at Miramar base in California; pilot ejects safely",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQTY2THYtYXZSQXBMTlhtamlYSkRpSWlmNnFqd3JZWFIzd0lEaTlOTzNlRVRlUTZOdmcwYnNKN0NCUzFLZ1ZsRFduWW0xbWluTDcwZk5nSGVDMTJVTUdHbEFDWThrQy03c1RURmM4TFBZdzVfcHdTQUQwLUkwMEtldlhvTTg5XzJMUmFjamhIQmh5RnhMX1ZwY3FR?oc=5",
           "domain": "stripes.com",
@@ -70,6 +86,14 @@
           "domain": "safety.army.mil",
           "sourceTier": "Official military source",
           "seen": "20260730T212627Z",
+          "pinned": false
+        },
+        {
+          "title": "PLR 26-056 – Automobile Mishap Claims One Soldier’s Life",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSEZnUzY5SU8zcHRPQldIUWxsbU5TNVIzTDQ3UXJ6ZUpjWFJQckVzd1ZHT1AtaDRxU0hySnd4S2RIYjRfX1FVbVRhM01iYkdCMTVmQlZzQjFPMkVDeGdpQkxpVm1MUzN4US04cV9wU3puV3ZtWGQ0aHNjMlJmOWtTVWtNRlVfb3lQOWtxYXc4anRZejdaZnJOSTB4aGw4cVFVVGRsVWFOMWVjZU9BYzVUemNoSkd3YjBObXhqdVB5Yk5FOVBmYU9DTEtCSWlmWkYyMGlHemZmaUlZSEIxWXBN?oc=5",
+          "domain": "safety.army.mil",
+          "sourceTier": "Official military source",
+          "seen": "20260812T204821Z",
           "pinned": false
         },
         {
@@ -95,9 +119,89 @@
           "sourceTier": "Official military source",
           "seen": "20260809T144832Z",
           "pinned": false
+        },
+        {
+          "title": "Update: Coast Guard suspends search for missing man in Lake Erie",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeEhCZEd6eGRpc1RvV0lkYWlmczdfQkF2SjV4LUtIbVpHR1E0TjB0cm9qWVo0SThxa2N3RVdmRjctNENoZm9lU3NTNmhPUWVtdWRjV0M1SERDWXgzdGNORWdUM1BrM1hzcXpYd3g4dF85cVFrWUFPQjBUTXdtLWRJemIzN0c0RXZORnVPS21OQUVzTy1UX3NhMkhpNkRJNTNiVU9yTHY3ZFFLMmNRSkJQTGdfal9neEV6VE01REh3?oc=5",
+          "domain": "news.uscg.mil",
+          "sourceTier": "Official military source",
+          "seen": "20260813T150834Z",
+          "pinned": false
         }
       ],
       "incidents": [
+        {
+          "id": "auto-750812e8ddaa",
+          "reportDate": "2026-08-13",
+          "dateBasis": "report discovery date",
+          "branch": "Coast Guard",
+          "department": "Department of Homeland Security",
+          "type": "Other",
+          "event": "Update: Coast Guard suspends search for missing man in Lake Erie",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "OFFICIAL INTAKE",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Official military source",
+          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
+          "source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeEhCZEd6eGRpc1RvV0lkYWlmczdfQkF2SjV4LUtIbVpHR1E0TjB0cm9qWVo0SThxa2N3RVdmRjctNENoZm9lU3NTNmhPUWVtdWRjV0M1SERDWXgzdGNORWdUM1BrM1hzcXpYd3g4dF85cVFrWUFPQjBUTXdtLWRJemIzN0c0RXZORnVPS21OQUVzTy1UX3NhMkhpNkRJNTNiVU9yTHY3ZFFLMmNRSkJQTGdfal9neEV6VE01REh3?oc=5",
+          "sourceLabel": "news.uscg.mil"
+        },
+        {
+          "id": "auto-aaf1eda411b2",
+          "reportDate": "2026-08-12",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Aviation",
+          "event": "Two US Army soldiers killed in Texas helicopter crash",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYVROdG1WU2licEoyR2xYTHB0NG1VZUc3cElhampMR0k4WDlXQVBkUDFTMUFlcDF4LXBrUjZDWlplR0xMNld0cVRUaEE4QlVZeTFpRnRvd1EtMjEtRzJSejR1Vk8ySl9IMm1xWDc1WVk1S2g4Vjk1ZW50OVY2MEZnZElFMFIwLXY0T3Rfb2MycVB6RUNNVTFmR0l2QQ?oc=5",
+          "sourceLabel": "reuters.com"
+        },
+        {
+          "id": "auto-35c60536014e",
+          "reportDate": "2026-08-12",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Aviation",
+          "event": "Army Apache helicopter crash in Texas kills 2 crew members aboard",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wZ2dndl9pV01FamMxRXhBVDlXcGpMUkdWM2hvV2NCM2NPSTVmaU5UN1B1eXBFMUg1TFdZdllRaF9md0R1VloweGhxX2FSQnNETl95SjllemFBMm1rVllXQnhLZldOSHM?oc=5",
+          "sourceLabel": "taskandpurpose.com"
+        },
+        {
+          "id": "auto-0c6e64313e79",
+          "reportDate": "2026-08-12",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Other",
+          "event": "PLR 26-056 – Automobile Mishap Claims One Soldier’s Life",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "OFFICIAL INTAKE",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Official military source",
+          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
+          "source": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSEZnUzY5SU8zcHRPQldIUWxsbU5TNVIzTDQ3UXJ6ZUpjWFJQckVzd1ZHT1AtaDRxU0hySnd4S2RIYjRfX1FVbVRhM01iYkdCMTVmQlZzQjFPMkVDeGdpQkxpVm1MUzN4US04cV9wU3puV3ZtWGQ0aHNjMlJmOWtTVWtNRlVfb3lQOWtxYXc4anRZejdaZnJOSTB4aGw4cVFVVGRsVWFOMWVjZU9BYzVUemNoSkd3YjBObXhqdVB5Yk5FOVBmYU9DTEtCSWlmWkYyMGlHemZmaUlZSEIxWXBN?oc=5",
+          "sourceLabel": "safety.army.mil"
+        },
         {
           "id": "auto-b659e6401b6e",
           "reportDate": "2026-08-09",
