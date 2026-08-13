@@ -1,18 +1,18 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-12T20:24:42.858Z",
+  "generatedAt": "2026-08-13T05:53:49.527Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-08-12T20:24:42.858Z",
+      "generatedAt": "2026-08-13T05:53:49.527Z",
       "cadence": "every 6 hours",
       "items": [
         {
-          "title": "News - Marine Corps Integrates C-sUAS lanes Into Service Level Training Exercise",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPc2NwcXQyVzRxN2dTZmJzRnlFODByNWdST3Boek1najNLQ2JKMDJsRGwwZklEUWMzNzJwbXpQZ0xSQnFlNElIS0xxX2NtRzNIbGxERjlxakZWUVRoSlZJc213YkZueTZfSTJudjZqMjlfeTd3MTZLZW1XU0dRZGI3STFHTnZxTWo1Q2FwMWpieDcwSmdycTBsZkJjNkhZbXFUNmlmUW5hdE84eEFydEY4?oc=5",
-          "domain": "dvidshub.net",
+          "title": "Marine Corps Integrates C-sUAS lanes Into Service Level Training Exercise",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONmZoWDdDZUhSMkV6TVFQdzFMMkZ4aHBodmZxMVB1dEU4eUd4VlV4UFZuazdIXzVWdkNZQlNCd0tVRTVVWU5VVkNicGlHZUxmc1h6bElJa2l4emNkTTNVT191QUd5WXBqRW5SV2JqdGVkMFM0bTROTzQ0Qk9mZk9yN3FGMF9LODFVVWp1MkdGc3MxUHd3ZVBiNlE0ZjhtRDhuZzVMbzlKdUdOYUItU0ltblFTMXhuX0lzd3dVdFROYm1yTmx6aEU4clBiV0g?oc=5",
+          "domain": "marines.mil",
           "sourceTier": "Official military source",
-          "seen": "20260810T184000Z",
+          "seen": "20260811T070000Z",
           "pinned": false,
           "components": [
             "Component not specified"
@@ -659,11 +659,11 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-08-12T20:24:42.858Z",
+      "generatedAt": "2026-08-13T05:53:49.527Z",
       "cadence": "every 6 hours",
       "items": [
         {
-          "title": "Trump's dramatic plane swap hints at personal stakes of Iran war",
+          "title": "Trump's secret plane swap highlights personal stakes of Iran war",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ra1N2dXFobmtMSmpCZHpKSi1vejdqeGpTeHdfTHQ3RnhTd0dudWlDV1NWN211a2FoVExtSjNmdjhucG0taXJZeGd2Wk9TTVFQZDgtcmJYYV9LUQ?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
@@ -687,11 +687,19 @@
           "pinned": false
         },
         {
-          "title": "Inflation slows but prices remain elevated as Iran war and spending on AI push up prices",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT1p4OTRrUDJrbTJJTmk5Uk05TFV3a2JDOXhXa0pXQm1EdWE4ZnE3WU1pQ1hEdG80RFd6bzQ2QkN2X2NjZnA4U19zZzBmMm1aaG1oUmg4LTZZY2NsSV9SeFpJamZZYVRXQXlXZ0VDT0tIRVo4M3B4WW1VZFltbnVLTkRiU01BN2szVncteXcxQUJFX01jTFdfTUR1MjMydGZjN1d3Wmp2QQ?oc=5",
+          "title": "Iran war",
+          "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260812T152700Z",
+          "seen": "20260812T035335Z",
+          "pinned": false
+        },
+        {
+          "title": "'If you're not conservative, don't come here': The town making missiles for Trump",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03WmR5OHJFd3hsOE5mbmF3M1NpUEpmcm9rZk5NcG00N1FDV0F0bXI3YjYxbTY4R2tDRHRtdlJyRklGYnhxU3hwU3dwLV9xdGp5SlRKOUdkaEc5QQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260812T232621Z",
           "pinned": false
         },
         {
@@ -703,19 +711,19 @@
           "pinned": false
         },
         {
+          "title": "Inflation slows but prices remain elevated as Iran war and spending on AI push up prices",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT1p4OTRrUDJrbTJJTmk5Uk05TFV3a2JDOXhXa0pXQm1EdWE4ZnE3WU1pQ1hEdG80RFd6bzQ2QkN2X2NjZnA4U19zZzBmMm1aaG1oUmg4LTZZY2NsSV9SeFpJamZZYVRXQXlXZ0VDT0tIRVo4M3B4WW1VZFltbnVLTkRiU01BN2szVncteXcxQUJFX01jTFdfTUR1MjMydGZjN1d3Wmp2QQ?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260812T152700Z",
+          "pinned": false
+        },
+        {
           "title": "Former Syrian President Assad sentenced to death in absentia for war crimes",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbFZ5cVRQTjZBaDZEOFZuSi1ZUXFwd0J6SnNBeGVleVBqdExEY3VweDY5a3ZnUnNpal83SS03QWVGUlN4TExhNDU4VmxKd1FlTDRUaExBbDY2MjU3ZWVqRGptSllyTjRFS2Mzd1JHdlFFaVE5NkY2WjdYREdjYWxqUnJreWZwemR6SVJN?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "seen": "20260811T161600Z",
-          "pinned": false
-        },
-        {
-          "title": "Turkish foreign minister warns Russia-Ukraine war could push Moscow toward ‘last option’",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbG5XNWZUV2d6aVR6MW53eUYyTlEtQjU2TWdrcFBFSmx5UFhhQmRLdFlPY09UUW5LaU84eGdfb0VKWi1rdTFHeTkxYTlmMjAycDBIMEZ5MUY1Q2R6b0c4b0hveUN0aWlKbjk5eHZrWjgtSEZnbXh5U3BHUGlmWkNpWW5RSWtKQTdtX2RROTBvdVR1YnNmR1ZZUGt4U2FwdFc2S3hzNUVQMUJWMzZLbkpoSUk2MWJqY3VEdS1RZW1mVDZhUTI0Znc1bA?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "seen": "20260809T090356Z",
           "pinned": false
         },
         {
@@ -743,27 +751,11 @@
           "pinned": false
         },
         {
-          "title": "Ukraine’s push to cripple Russia in Crimea is just getting started, drone chief tells AP",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZGI3ZEkwRkVXWXhoWDVOWDNQQi1ZaXU1RE1BWWxpWlJYeWxxZDdmS0xfRDBVYW1jOGt1Q1NRU3dPZWJVVXpwNEdCbEloN0ZiWHozOG5YaE5yUzlhR2R6dVhoM2w2MWg3ejZoa2RRY3FHLWVMSmQxOHdEZ1A4V0kyVWJrYy04SV9xSWM3NGdQLXFydi1yU2NpWWtiNA?oc=5",
+          "title": "Over 16,000 civilians detained by Russia during the war in Ukraine are still held, UN estimates",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVU1CTG8taFVPT2ZNRTI3STVhaGZKdktpR2hiWGNJbFBSY2d1TG00b1gyaDdXUUdvSnNVeHZIME1MZkx0UVZ5NlpfRGgwSktvTVhwS3N1dnI1dk1kbUNNYlJacG1KbEhBR1RzQnFub29pVWpjcXZEc0pnM3VoelFEVjNpakxuc25kV3E2OXIxVXZ5TUZnZzhqOXBtaDgtalFYS2JkVWhaVWt5empkcWRncmlQVQ?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260810T133000Z",
-          "pinned": false
-        },
-        {
-          "title": "Iranian-backed Houthis kill 6 in attack on vessel, and other developments in the Mideast",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORXhISUZDNXVZTlFMeWpOeGVEUDVsYWZKYkFQV2tmaXVSSW45SW5RZmtyeGQtaVIxMlVGdVZVNm5vemI5Rm9yMS1xMFc4Q0kzcTN4UThPTnF1anVDd1FSdWlIdEY2SWM2bkRiZ0VQQVQxOUJ4dXl2U2pIZFZOWVJyQ0NrelJvSlJsUWlpOHhxeFBSa0V6Y1BYb3dvaXQ?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260812T084600Z",
-          "pinned": false
-        },
-        {
-          "title": "At least 13 killed in Ukrainian drone attack on Russia’s Nizhnekamsk",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPS2hpbG04YURpX083TjZVR2tZZ1JEM1ZmR1dVeXdaQzBlZllZS2V5VzRwXzBocGRxaTc1QUtwWlJDazhjV3NvLTNjRDAxNXl5WkhxZjEyM29LTDN1cDA3XzNETGhXNnl2NkxuWldkYVJSX1RXclh5UjA0YnBKR1A3RFJzcUhnQUs5MWt0bG9RWDIzdWs1UnBIeXJPUGlwMHBLWFJMZW44V080V2hS0gGyAUFVX3lxTE5uSTlTRnQ4VWE2QkxwajVTaE4tTDVWTnl2UlliM3VIbWVmLWRXZF95UlJVRlFtYjM5bHJsb1prRHBheUZTYmVXdWw1SFlMTXVWVWZ3NDVhNXgyNi1TNVQ0TS1hcXUtTkdIOU9OY0JaYlpQcFJkTDdSUlBJZDJVQWdBN2VwWDVSb0QxYW1RWjdHbjFOblRLNm03TV9ZSHo3VlRJTXhNMHJVRmJlRk03R18yOHc?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260810T171824Z",
+          "seen": "20260811T170541Z",
           "pinned": false
         },
         {
@@ -775,11 +767,19 @@
           "pinned": false
         },
         {
-          "title": "War on Iran: Mojtaba Khamenei is in ‘perfect health’, Iran says",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUzhRdXEyMVRsbFpaWnVYMGFsenhDU1FmNHUzRFFNa0ctd1l2dlhEbzBlbVBMdTJYdGtXV2JXdE5FdGFGWXVSNG5QbzJfVmh6YTYwNTJnejNYS2MxdFdnNXpybko4a24tV2xjSVAyUzhncFhMMXJmdHI2c2tMUmZnQTJySmhCSnE0WUEzbW1PeWIxblVNSzRQRG43Yl8wQTZub3J3M3RJWS0zZlJrekxF0gG0AUFVX3lxTE1RcURLZGR6WWNSYkJsZVE4NDA1UjJEYjRjU0NSRUxpRzJjTmpkLU0zNGZhdzdia1dOU1BpRXV5aDlzSG1HUWlEMW1HU0diTHBPMlhpNjh4Mkk4ZThYT243bWtGTnRwcWdkRzdXcjRoLXI0SEVfeXZ0MlkwT1BXMDFTUlA1QnZYM1NaaXI1TEtfRHFndXBHOU9jekp4M2ppVV9WQk5YWjg0NERnb1pmVUhGd1FDdw?oc=5",
-          "domain": "aljazeera.com",
+          "title": "Iranian-backed Houthis kill 6 in attack on vessel, and other developments in the Mideast",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORXhISUZDNXVZTlFMeWpOeGVEUDVsYWZKYkFQV2tmaXVSSW45SW5RZmtyeGQtaVIxMlVGdVZVNm5vemI5Rm9yMS1xMFc4Q0kzcTN4UThPTnF1anVDd1FSdWlIdEY2SWM2bkRiZ0VQQVQxOUJ4dXl2U2pIZFZOWVJyQ0NrelJvSlJsUWlpOHhxeFBSa0V6Y1BYb3dvaXQ?oc=5",
+          "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260811T145239Z",
+          "seen": "20260812T084600Z",
+          "pinned": false
+        },
+        {
+          "title": "Ukraine’s push to cripple Russia in Crimea is just getting started, drone chief tells AP",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZGI3ZEkwRkVXWXhoWDVOWDNQQi1ZaXU1RE1BWWxpWlJYeWxxZDdmS0xfRDBVYW1jOGt1Q1NRU3dPZWJVVXpwNEdCbEloN0ZiWHozOG5YaE5yUzlhR2R6dVhoM2w2MWg3ejZoa2RRY3FHLWVMSmQxOHdEZ1A4V0kyVWJrYy04SV9xSWM3NGdQLXFydi1yU2NpWWtiNA?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260810T133000Z",
           "pinned": false
         },
         {
@@ -791,27 +791,35 @@
           "pinned": false
         },
         {
-          "title": "War on Iran: Phase II: Day 29",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRW56N3I4cWpfTF9UVTUzMGc5enBYNVdnU0dFaUF0NmNqOGdyVWVBU1BzTXRJZVpaRGdiX09EQklLYWJKcm45ejdRTkV0bVg4UVlvUG1fclk0ODlnTi1xQXFUUl9yTE9LX08yRXlOMWpyNjRJNjNYUVFnQTltOFlhZzFyMNIBiAFBVV95cUxONUE2UTVUelBxM3p1cG1HZl9UZjJRZFowVUFmZk1JLWMwQ1RNWGxBMVl4M2ZRSXZHSVQ1Q25DYmQwTl9jNmZ1LWNrcW1ENWRZZDl4dTd0RGRocmdPT2E2UHdVRFNRcXNCLVBFMThCQm1uS2pWZVI5VXBKOHBVOGFPenluNDM2cmFz?oc=5",
+          "title": "War on Iran: Mojtaba Khamenei is in ‘perfect health’, Iran says",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUzhRdXEyMVRsbFpaWnVYMGFsenhDU1FmNHUzRFFNa0ctd1l2dlhEbzBlbVBMdTJYdGtXV2JXdE5FdGFGWXVSNG5QbzJfVmh6YTYwNTJnejNYS2MxdFdnNXpybko4a24tV2xjSVAyUzhncFhMMXJmdHI2c2tMUmZnQTJySmhCSnE0WUEzbW1PeWIxblVNSzRQRG43Yl8wQTZub3J3M3RJWS0zZlJrekxF0gG0AUFVX3lxTE1RcURLZGR6WWNSYkJsZVE4NDA1UjJEYjRjU0NSRUxpRzJjTmpkLU0zNGZhdzdia1dOU1BpRXV5aDlzSG1HUWlEMW1HU0diTHBPMlhpNjh4Mkk4ZThYT243bWtGTnRwcWdkRzdXcjRoLXI0SEVfeXZ0MlkwT1BXMDFTUlA1QnZYM1NaaXI1TEtfRHFndXBHOU9jekp4M2ppVV9WQk5YWjg0NERnb1pmVUhGd1FDdw?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260809T160840Z",
+          "seen": "20260811T145239Z",
           "pinned": false
         },
         {
-          "title": "Why is Pezeshkian urging an end to Iran’s ‘no war, no peace’ status?",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNekhIU3NwMjBHc0FzcjY2b2FCVjN5a0lBZ2dHNFkxQ2R2ZlA4X3h5eHN5WDQwdExkMkN1ZjRGNE5tRmdYWXdQZllyNXAzempoUmFMejhkR0hlWDZVcDZWU0Q2NG13NG5mMHhXVmVNRU1PYUx4aVN4NWstaHJwdTRoTFVSRTlsQmpYWGhyUU1GUnVSRkp4Sk9odDJ6d3Y3Z1F3aFhFVi1B0gGrAUFVX3lxTE15SnIxanV5NDNQOTVIM0VUMDZEWHo4OVVlZ3o2a3JqeENkSnVCdXdkVW56Z3pFaW5VWm1FUWZ5V3A3ZVF3X19aQ3JQOHVsb0JCTnljN1BwRV9oYU9fakhUVUpWVWh2QjNEa2lwRWFvd2Q1QjVwU0UtT3FkS3N4VlVpdE9iTVFnTnBzbDVabVY1LXpUMEJUSnFwT21GLVZFQU01bUlYTHo4NnBsMA?oc=5",
-          "domain": "aljazeera.com",
+          "title": "Kosovo begins excavations at newly found mass graves tied to 1998-99 war missing",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMlNoUWN0MHRObnRhQTVmdDhaWmlldHBWU1ZuMW13ZkNyd241bUlsNWdHUWUxaEtkVnYzLTJfOEl6cW9haWhDMXRKckVlNzl0a0pYZFR2Q2RYM2EwQ2NnZHJjejRHRWRnMnpiZDZLaGJVVXdINnBKMFhCQVV0NWF1Qnk3QmVpMXp1RGI0dmwyemR4blF1?oc=5",
+          "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260809T123753Z",
+          "seen": "20260812T082300Z",
           "pinned": false
         },
         {
-          "title": "Russia bars only party opposing war in Ukraine from parliamentary vote",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUjcxSFNFc2lBQkFFWnRvSkt0dE5JTEtIU2Nhc25KODVBYnRETjBMdW1rMGZDM2taWTFqY05oZXpobi15Z1d4VnNFQ1FZVFpBNWdtdlFib0tRZllzcmVmS1I2UkNod1JsTG1vSEo4TFZGMzh4ZnF4NzJwb3BNQTFWODdZWkN4NC1wZk43YXByODVsOF9CZ3pXNXluYzFTR1VvMFJMbzl3ZFBVUFUxaUg1WdIBtgFBVV95cUxOdS1FTTdhRXNBZ1d6R2lPZnQ4LXJuR29jUVlkeFBTTmlsQWJEc29ZWmRKWWtBdER1UGYtcGdjYjdNNW1QSjcwaTR6R1prSUc4TjhaYnJXQ3psUWJsZko0TzNuUi00SHhYNVB3cTR4VXozcWdUNDRLRUJtTXZ4RGJjUDlYSU1fVTlRai16U3FhNDVOWmhCaHNXUERmdi1RVUcwdXBVRHRpMmwzSE1LREd6U2pQZVYzdw?oc=5",
-          "domain": "aljazeera.com",
+          "title": "Trump told Ukraine it had no cards. Then Kyiv took the war to Russia",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBaMUwzUGYyQ2IyNXNfS1JPQi13cktObW5NSXV0SmJwbURsaU9FNDRpeWlFR3ZPS01YdG9pNFlvZ0lWeTBTRUJfQ2l6dW5hWjB1NFJUSGk4QUpiUVYzRWZUcVlzNktFTzQxc3VqTFQ3bUZSUFdjZll3Zg?oc=5",
+          "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260810T195552Z",
+          "seen": "20260811T120850Z",
+          "pinned": false
+        },
+        {
+          "title": "Russian attacks kill 10 in Ukraine as Zelenskyy says Moscow is getting more North Korean missiles",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeVotMUdKMG1abkZ1TVBVLXZnck0tRnFMenNzM3pYblBwR0cyd1A2M0FQMnhkWWhPM3RBcjRHcDU1MjdwdDkxRTMzN2ZISVF5VDJyRXhjM28wZkdsdmF3N0w0SGU5cVA4UVkyTUxsS3R1bkFXMGJiaExtb0MzY1IzX0Zkbm5ZaXdxWlYyX1N5TnpaT3BNVERHaVFERlZUNHRBOEota204WlV4UQ?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260811T183300Z",
           "pinned": false
         },
         {
@@ -823,11 +831,11 @@
           "pinned": false
         },
         {
-          "title": "Trump told Ukraine it had no cards. Then Kyiv took the war to Russia",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBaMUwzUGYyQ2IyNXNfS1JPQi13cktObW5NSXV0SmJwbURsaU9FNDRpeWlFR3ZPS01YdG9pNFlvZ0lWeTBTRUJfQ2l6dW5hWjB1NFJUSGk4QUpiUVYzRWZUcVlzNktFTzQxc3VqTFQ3bUZSUFdjZll3Zg?oc=5",
-          "domain": "apnews.com",
+          "title": "Russia bars only party opposing war in Ukraine from parliamentary vote",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUjcxSFNFc2lBQkFFWnRvSkt0dE5JTEtIU2Nhc25KODVBYnRETjBMdW1rMGZDM2taWTFqY05oZXpobi15Z1d4VnNFQ1FZVFpBNWdtdlFib0tRZllzcmVmS1I2UkNod1JsTG1vSEo4TFZGMzh4ZnF4NzJwb3BNQTFWODdZWkN4NC1wZk43YXByODVsOF9CZ3pXNXluYzFTR1VvMFJMbzl3ZFBVUFUxaUg1WdIBtgFBVV95cUxOdS1FTTdhRXNBZ1d6R2lPZnQ4LXJuR29jUVlkeFBTTmlsQWJEc29ZWmRKWWtBdER1UGYtcGdjYjdNNW1QSjcwaTR6R1prSUc4TjhaYnJXQ3psUWJsZko0TzNuUi00SHhYNVB3cTR4VXozcWdUNDRLRUJtTXZ4RGJjUDlYSU1fVTlRai16U3FhNDVOWmhCaHNXUERmdi1RVUcwdXBVRHRpMmwzSE1LREd6U2pQZVYzdw?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260811T120850Z",
+          "seen": "20260810T195552Z",
           "pinned": false
         },
         {
@@ -845,20 +853,12 @@
           "sourceTier": "State-affiliated reporting",
           "seen": "20260812T091228Z",
           "pinned": false
-        },
-        {
-          "title": "Trump to demand compensation for Tehran’s ‘conflicts’",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUXVlTkpFUWlDRUFXQUpUUXJIZEt4Zk0xZ0N0dkthU1pHWHVFVFctM1pFNTA4SFlDRmVDT25GSEFGajZkMUs4Y3BOOGRQemRNTHZsakFzaVU2U19tYjFoZXB5RF9TOTNJOENEZkhxOEp4ajFpUGxEWHJQbFZLQjl3MWJqZTcwd1ozWXpqWFlUQU1qa19SeFHSAZsBQVVfeXFMTTBjM1hwQjhQXzF0a3JUMF9kX3JHVnVWZGZqa0lfbnltZkdMdTR4RUlKcWVQOEM2TjZzZl9hVXFZNUZhUDBqc0tBbm5ZVkJubVZOQUJBT0FlYllac1ZvSVJhcXg1VHFNLUE3cUFRbm5lNnJSR2hlT1pLZUhRY3pEWGdFeEhnZFdPdWR6NUhCbDAxaHNleEdCSi1KU2c?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260810T210924Z",
-          "pinned": false
         }
       ],
       "reports": [
         {
           "id": "report-695ed321399a",
-          "title": "Trump's dramatic plane swap hints at personal stakes of Iran war",
+          "title": "Trump's secret plane swap highlights personal stakes of Iran war",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ra1N2dXFobmtMSmpCZHpKSi1vejdqeGpTeHdfTHQ3RnhTd0dudWlDV1NWN211a2FoVExtSjNmdjhucG0taXJZeGd2Wk9TTVFQZDgtcmJYYV9LUQ?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
@@ -884,13 +884,22 @@
           "reportedAt": "2026-08-11T13:32:13Z"
         },
         {
-          "id": "report-246fbe2c2f4a",
-          "title": "Inflation slows but prices remain elevated as Iran war and spending on AI push up prices",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT1p4OTRrUDJrbTJJTmk5Uk05TFV3a2JDOXhXa0pXQm1EdWE4ZnE3WU1pQ1hEdG80RFd6bzQ2QkN2X2NjZnA4U19zZzBmMm1aaG1oUmg4LTZZY2NsSV9SeFpJamZZYVRXQXlXZ0VDT0tIRVo4M3B4WW1VZFltbnVLTkRiU01BN2szVncteXcxQUJFX01jTFdfTUR1MjMydGZjN1d3Wmp2QQ?oc=5",
+          "id": "report-a755c78656d2",
+          "title": "Iran war",
+          "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-12T15:27:00Z"
+          "reportedAt": "2026-08-12T03:53:35Z"
+        },
+        {
+          "id": "report-6aaf5c35bc54",
+          "title": "'If you're not conservative, don't come here': The town making missiles for Trump",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03WmR5OHJFd3hsOE5mbmF3M1NpUEpmcm9rZk5NcG00N1FDV0F0bXI3YjYxbTY4R2tDRHRtdlJyRklGYnhxU3hwU3dwLV9xdGp5SlRKOUdkaEc5QQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-12T23:26:21Z"
         },
         {
           "id": "report-54a5a85eb5e2",
@@ -902,6 +911,15 @@
           "reportedAt": "2026-08-11T05:45:00Z"
         },
         {
+          "id": "report-246fbe2c2f4a",
+          "title": "Inflation slows but prices remain elevated as Iran war and spending on AI push up prices",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT1p4OTRrUDJrbTJJTmk5Uk05TFV3a2JDOXhXa0pXQm1EdWE4ZnE3WU1pQ1hEdG80RFd6bzQ2QkN2X2NjZnA4U19zZzBmMm1aaG1oUmg4LTZZY2NsSV9SeFpJamZZYVRXQXlXZ0VDT0tIRVo4M3B4WW1VZFltbnVLTkRiU01BN2szVncteXcxQUJFX01jTFdfTUR1MjMydGZjN1d3Wmp2QQ?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-12T15:27:00Z"
+        },
+        {
           "id": "report-95402d7d2d33",
           "title": "Former Syrian President Assad sentenced to death in absentia for war crimes",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbFZ5cVRQTjZBaDZEOFZuSi1ZUXFwd0J6SnNBeGVleVBqdExEY3VweDY5a3ZnUnNpal83SS03QWVGUlN4TExhNDU4VmxKd1FlTDRUaExBbDY2MjU3ZWVqRGptSllyTjRFS2Mzd1JHdlFFaVE5NkY2WjdYREdjYWxqUnJreWZwemR6SVJN?oc=5",
@@ -909,15 +927,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-11T16:16:00Z"
-        },
-        {
-          "id": "report-3d38dd7c63f8",
-          "title": "Turkish foreign minister warns Russia-Ukraine war could push Moscow toward ‘last option’",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbG5XNWZUV2d6aVR6MW53eUYyTlEtQjU2TWdrcFBFSmx5UFhhQmRLdFlPY09UUW5LaU84eGdfb0VKWi1rdTFHeTkxYTlmMjAycDBIMEZ5MUY1Q2R6b0c4b0hveUN0aWlKbjk5eHZrWjgtSEZnbXh5U3BHUGlmWkNpWW5RSWtKQTdtX2RROTBvdVR1YnNmR1ZZUGt4U2FwdFc2S3hzNUVQMUJWMzZLbkpoSUk2MWJqY3VEdS1RZW1mVDZhUTI0Znc1bA?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
-          "reportedAt": "2026-08-09T09:03:56Z"
         },
         {
           "id": "report-765549e720bd",
@@ -947,31 +956,13 @@
           "reportedAt": "2026-08-11T06:09:43Z"
         },
         {
-          "id": "report-8431ae7cd5a2",
-          "title": "Ukraine’s push to cripple Russia in Crimea is just getting started, drone chief tells AP",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZGI3ZEkwRkVXWXhoWDVOWDNQQi1ZaXU1RE1BWWxpWlJYeWxxZDdmS0xfRDBVYW1jOGt1Q1NRU3dPZWJVVXpwNEdCbEloN0ZiWHozOG5YaE5yUzlhR2R6dVhoM2w2MWg3ejZoa2RRY3FHLWVMSmQxOHdEZ1A4V0kyVWJrYy04SV9xSWM3NGdQLXFydi1yU2NpWWtiNA?oc=5",
+          "id": "report-50a3e91f0279",
+          "title": "Over 16,000 civilians detained by Russia during the war in Ukraine are still held, UN estimates",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVU1CTG8taFVPT2ZNRTI3STVhaGZKdktpR2hiWGNJbFBSY2d1TG00b1gyaDdXUUdvSnNVeHZIME1MZkx0UVZ5NlpfRGgwSktvTVhwS3N1dnI1dk1kbUNNYlJacG1KbEhBR1RzQnFub29pVWpjcXZEc0pnM3VoelFEVjNpakxuc25kV3E2OXIxVXZ5TUZnZzhqOXBtaDgtalFYS2JkVWhaVWt5empkcWRncmlQVQ?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-10T13:30:00Z"
-        },
-        {
-          "id": "report-f683e40b8734",
-          "title": "Iranian-backed Houthis kill 6 in attack on vessel, and other developments in the Mideast",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORXhISUZDNXVZTlFMeWpOeGVEUDVsYWZKYkFQV2tmaXVSSW45SW5RZmtyeGQtaVIxMlVGdVZVNm5vemI5Rm9yMS1xMFc4Q0kzcTN4UThPTnF1anVDd1FSdWlIdEY2SWM2bkRiZ0VQQVQxOUJ4dXl2U2pIZFZOWVJyQ0NrelJvSlJsUWlpOHhxeFBSa0V6Y1BYb3dvaXQ?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-12T08:46:00Z"
-        },
-        {
-          "id": "report-c108be1a5eb9",
-          "title": "At least 13 killed in Ukrainian drone attack on Russia’s Nizhnekamsk",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPS2hpbG04YURpX083TjZVR2tZZ1JEM1ZmR1dVeXdaQzBlZllZS2V5VzRwXzBocGRxaTc1QUtwWlJDazhjV3NvLTNjRDAxNXl5WkhxZjEyM29LTDN1cDA3XzNETGhXNnl2NkxuWldkYVJSX1RXclh5UjA0YnBKR1A3RFJzcUhnQUs5MWt0bG9RWDIzdWs1UnBIeXJPUGlwMHBLWFJMZW44V080V2hS0gGyAUFVX3lxTE5uSTlTRnQ4VWE2QkxwajVTaE4tTDVWTnl2UlliM3VIbWVmLWRXZF95UlJVRlFtYjM5bHJsb1prRHBheUZTYmVXdWw1SFlMTXVWVWZ3NDVhNXgyNi1TNVQ0TS1hcXUtTkdIOU9OY0JaYlpQcFJkTDdSUlBJZDJVQWdBN2VwWDVSb0QxYW1RWjdHbjFOblRLNm03TV9ZSHo3VlRJTXhNMHJVRmJlRk03R18yOHc?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-10T17:18:24Z"
+          "reportedAt": "2026-08-11T17:05:41Z"
         },
         {
           "id": "report-476cc555e5df",
@@ -983,13 +974,22 @@
           "reportedAt": "2026-08-11T21:14:56Z"
         },
         {
-          "id": "report-17fafe7d65e4",
-          "title": "War on Iran: Mojtaba Khamenei is in ‘perfect health’, Iran says",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUzhRdXEyMVRsbFpaWnVYMGFsenhDU1FmNHUzRFFNa0ctd1l2dlhEbzBlbVBMdTJYdGtXV2JXdE5FdGFGWXVSNG5QbzJfVmh6YTYwNTJnejNYS2MxdFdnNXpybko4a24tV2xjSVAyUzhncFhMMXJmdHI2c2tMUmZnQTJySmhCSnE0WUEzbW1PeWIxblVNSzRQRG43Yl8wQTZub3J3M3RJWS0zZlJrekxF0gG0AUFVX3lxTE1RcURLZGR6WWNSYkJsZVE4NDA1UjJEYjRjU0NSRUxpRzJjTmpkLU0zNGZhdzdia1dOU1BpRXV5aDlzSG1HUWlEMW1HU0diTHBPMlhpNjh4Mkk4ZThYT243bWtGTnRwcWdkRzdXcjRoLXI0SEVfeXZ0MlkwT1BXMDFTUlA1QnZYM1NaaXI1TEtfRHFndXBHOU9jekp4M2ppVV9WQk5YWjg0NERnb1pmVUhGd1FDdw?oc=5",
-          "domain": "aljazeera.com",
+          "id": "report-f683e40b8734",
+          "title": "Iranian-backed Houthis kill 6 in attack on vessel, and other developments in the Mideast",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORXhISUZDNXVZTlFMeWpOeGVEUDVsYWZKYkFQV2tmaXVSSW45SW5RZmtyeGQtaVIxMlVGdVZVNm5vemI5Rm9yMS1xMFc4Q0kzcTN4UThPTnF1anVDd1FSdWlIdEY2SWM2bkRiZ0VQQVQxOUJ4dXl2U2pIZFZOWVJyQ0NrelJvSlJsUWlpOHhxeFBSa0V6Y1BYb3dvaXQ?oc=5",
+          "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-11T14:52:39Z"
+          "reportedAt": "2026-08-12T08:46:00Z"
+        },
+        {
+          "id": "report-8431ae7cd5a2",
+          "title": "Ukraine’s push to cripple Russia in Crimea is just getting started, drone chief tells AP",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZGI3ZEkwRkVXWXhoWDVOWDNQQi1ZaXU1RE1BWWxpWlJYeWxxZDdmS0xfRDBVYW1jOGt1Q1NRU3dPZWJVVXpwNEdCbEloN0ZiWHozOG5YaE5yUzlhR2R6dVhoM2w2MWg3ejZoa2RRY3FHLWVMSmQxOHdEZ1A4V0kyVWJrYy04SV9xSWM3NGdQLXFydi1yU2NpWWtiNA?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-10T13:30:00Z"
         },
         {
           "id": "report-5b050b611539",
@@ -1001,31 +1001,40 @@
           "reportedAt": "2026-08-12T15:52:15Z"
         },
         {
-          "id": "report-2970ff3c8e81",
-          "title": "War on Iran: Phase II: Day 29",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRW56N3I4cWpfTF9UVTUzMGc5enBYNVdnU0dFaUF0NmNqOGdyVWVBU1BzTXRJZVpaRGdiX09EQklLYWJKcm45ejdRTkV0bVg4UVlvUG1fclk0ODlnTi1xQXFUUl9yTE9LX08yRXlOMWpyNjRJNjNYUVFnQTltOFlhZzFyMNIBiAFBVV95cUxONUE2UTVUelBxM3p1cG1HZl9UZjJRZFowVUFmZk1JLWMwQ1RNWGxBMVl4M2ZRSXZHSVQ1Q25DYmQwTl9jNmZ1LWNrcW1ENWRZZDl4dTd0RGRocmdPT2E2UHdVRFNRcXNCLVBFMThCQm1uS2pWZVI5VXBKOHBVOGFPenluNDM2cmFz?oc=5",
+          "id": "report-17fafe7d65e4",
+          "title": "War on Iran: Mojtaba Khamenei is in ‘perfect health’, Iran says",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUzhRdXEyMVRsbFpaWnVYMGFsenhDU1FmNHUzRFFNa0ctd1l2dlhEbzBlbVBMdTJYdGtXV2JXdE5FdGFGWXVSNG5QbzJfVmh6YTYwNTJnejNYS2MxdFdnNXpybko4a24tV2xjSVAyUzhncFhMMXJmdHI2c2tMUmZnQTJySmhCSnE0WUEzbW1PeWIxblVNSzRQRG43Yl8wQTZub3J3M3RJWS0zZlJrekxF0gG0AUFVX3lxTE1RcURLZGR6WWNSYkJsZVE4NDA1UjJEYjRjU0NSRUxpRzJjTmpkLU0zNGZhdzdia1dOU1BpRXV5aDlzSG1HUWlEMW1HU0diTHBPMlhpNjh4Mkk4ZThYT243bWtGTnRwcWdkRzdXcjRoLXI0SEVfeXZ0MlkwT1BXMDFTUlA1QnZYM1NaaXI1TEtfRHFndXBHOU9jekp4M2ppVV9WQk5YWjg0NERnb1pmVUhGd1FDdw?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-09T16:08:40Z"
+          "reportedAt": "2026-08-11T14:52:39Z"
         },
         {
-          "id": "report-79bc31ed1a5b",
-          "title": "Why is Pezeshkian urging an end to Iran’s ‘no war, no peace’ status?",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNekhIU3NwMjBHc0FzcjY2b2FCVjN5a0lBZ2dHNFkxQ2R2ZlA4X3h5eHN5WDQwdExkMkN1ZjRGNE5tRmdYWXdQZllyNXAzempoUmFMejhkR0hlWDZVcDZWU0Q2NG13NG5mMHhXVmVNRU1PYUx4aVN4NWstaHJwdTRoTFVSRTlsQmpYWGhyUU1GUnVSRkp4Sk9odDJ6d3Y3Z1F3aFhFVi1B0gGrAUFVX3lxTE15SnIxanV5NDNQOTVIM0VUMDZEWHo4OVVlZ3o2a3JqeENkSnVCdXdkVW56Z3pFaW5VWm1FUWZ5V3A3ZVF3X19aQ3JQOHVsb0JCTnljN1BwRV9oYU9fakhUVUpWVWh2QjNEa2lwRWFvd2Q1QjVwU0UtT3FkS3N4VlVpdE9iTVFnTnBzbDVabVY1LXpUMEJUSnFwT21GLVZFQU01bUlYTHo4NnBsMA?oc=5",
-          "domain": "aljazeera.com",
+          "id": "report-5c7f899f088f",
+          "title": "Kosovo begins excavations at newly found mass graves tied to 1998-99 war missing",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMlNoUWN0MHRObnRhQTVmdDhaWmlldHBWU1ZuMW13ZkNyd241bUlsNWdHUWUxaEtkVnYzLTJfOEl6cW9haWhDMXRKckVlNzl0a0pYZFR2Q2RYM2EwQ2NnZHJjejRHRWRnMnpiZDZLaGJVVXdINnBKMFhCQVV0NWF1Qnk3QmVpMXp1RGI0dmwyemR4blF1?oc=5",
+          "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-09T12:37:53Z"
+          "reportedAt": "2026-08-12T08:23:00Z"
         },
         {
-          "id": "report-97fb5c165511",
-          "title": "Russia bars only party opposing war in Ukraine from parliamentary vote",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUjcxSFNFc2lBQkFFWnRvSkt0dE5JTEtIU2Nhc25KODVBYnRETjBMdW1rMGZDM2taWTFqY05oZXpobi15Z1d4VnNFQ1FZVFpBNWdtdlFib0tRZllzcmVmS1I2UkNod1JsTG1vSEo4TFZGMzh4ZnF4NzJwb3BNQTFWODdZWkN4NC1wZk43YXByODVsOF9CZ3pXNXluYzFTR1VvMFJMbzl3ZFBVUFUxaUg1WdIBtgFBVV95cUxOdS1FTTdhRXNBZ1d6R2lPZnQ4LXJuR29jUVlkeFBTTmlsQWJEc29ZWmRKWWtBdER1UGYtcGdjYjdNNW1QSjcwaTR6R1prSUc4TjhaYnJXQ3psUWJsZko0TzNuUi00SHhYNVB3cTR4VXozcWdUNDRLRUJtTXZ4RGJjUDlYSU1fVTlRai16U3FhNDVOWmhCaHNXUERmdi1RVUcwdXBVRHRpMmwzSE1LREd6U2pQZVYzdw?oc=5",
-          "domain": "aljazeera.com",
+          "id": "report-138231438083",
+          "title": "Trump told Ukraine it had no cards. Then Kyiv took the war to Russia",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBaMUwzUGYyQ2IyNXNfS1JPQi13cktObW5NSXV0SmJwbURsaU9FNDRpeWlFR3ZPS01YdG9pNFlvZ0lWeTBTRUJfQ2l6dW5hWjB1NFJUSGk4QUpiUVYzRWZUcVlzNktFTzQxc3VqTFQ3bUZSUFdjZll3Zg?oc=5",
+          "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-10T19:55:52Z"
+          "reportedAt": "2026-08-11T12:08:50Z"
+        },
+        {
+          "id": "report-7644c8c9c436",
+          "title": "Russian attacks kill 10 in Ukraine as Zelenskyy says Moscow is getting more North Korean missiles",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeVotMUdKMG1abkZ1TVBVLXZnck0tRnFMenNzM3pYblBwR0cyd1A2M0FQMnhkWWhPM3RBcjRHcDU1MjdwdDkxRTMzN2ZISVF5VDJyRXhjM28wZkdsdmF3N0w0SGU5cVA4UVkyTUxsS3R1bkFXMGJiaExtb0MzY1IzX0Zkbm5ZaXdxWlYyX1N5TnpaT3BNVERHaVFERlZUNHRBOEota204WlV4UQ?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-11T18:33:00Z"
         },
         {
           "id": "report-25004455cfae",
@@ -1037,13 +1046,13 @@
           "reportedAt": "2026-08-11T11:31:39Z"
         },
         {
-          "id": "report-138231438083",
-          "title": "Trump told Ukraine it had no cards. Then Kyiv took the war to Russia",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBaMUwzUGYyQ2IyNXNfS1JPQi13cktObW5NSXV0SmJwbURsaU9FNDRpeWlFR3ZPS01YdG9pNFlvZ0lWeTBTRUJfQ2l6dW5hWjB1NFJUSGk4QUpiUVYzRWZUcVlzNktFTzQxc3VqTFQ3bUZSUFdjZll3Zg?oc=5",
-          "domain": "apnews.com",
+          "id": "report-97fb5c165511",
+          "title": "Russia bars only party opposing war in Ukraine from parliamentary vote",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUjcxSFNFc2lBQkFFWnRvSkt0dE5JTEtIU2Nhc25KODVBYnRETjBMdW1rMGZDM2taWTFqY05oZXpobi15Z1d4VnNFQ1FZVFpBNWdtdlFib0tRZllzcmVmS1I2UkNod1JsTG1vSEo4TFZGMzh4ZnF4NzJwb3BNQTFWODdZWkN4NC1wZk43YXByODVsOF9CZ3pXNXluYzFTR1VvMFJMbzl3ZFBVUFUxaUg1WdIBtgFBVV95cUxOdS1FTTdhRXNBZ1d6R2lPZnQ4LXJuR29jUVlkeFBTTmlsQWJEc29ZWmRKWWtBdER1UGYtcGdjYjdNNW1QSjcwaTR6R1prSUc4TjhaYnJXQ3psUWJsZko0TzNuUi00SHhYNVB3cTR4VXozcWdUNDRLRUJtTXZ4RGJjUDlYSU1fVTlRai16U3FhNDVOWmhCaHNXUERmdi1RVUcwdXBVRHRpMmwzSE1LREd6U2pQZVYzdw?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-11T12:08:50Z"
+          "reportedAt": "2026-08-10T19:55:52Z"
         },
         {
           "id": "report-64c601c47f0d",
@@ -1062,15 +1071,6 @@
           "sourceTier": "State-affiliated reporting",
           "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
           "reportedAt": "2026-08-12T09:12:28Z"
-        },
-        {
-          "id": "report-3e960af6450b",
-          "title": "Trump to demand compensation for Tehran’s ‘conflicts’",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUXVlTkpFUWlDRUFXQUpUUXJIZEt4Zk0xZ0N0dkthU1pHWHVFVFctM1pFNTA4SFlDRmVDT25GSEFGajZkMUs4Y3BOOGRQemRNTHZsakFzaVU2U19tYjFoZXB5RF9TOTNJOENEZkhxOEp4ajFpUGxEWHJQbFZLQjl3MWJqZTcwd1ozWXpqWFlUQU1qa19SeFHSAZsBQVVfeXFMTTBjM1hwQjhQXzF0a3JUMF9kX3JHVnVWZGZqa0lfbnltZkdMdTR4RUlKcWVQOEM2TjZzZl9hVXFZNUZhUDBqc0tBbm5ZVkJubVZOQUJBT0FlYllac1ZvSVJhcXg1VHFNLUE3cUFRbm5lNnJSR2hlT1pLZUhRY3pEWGdFeEhnZFdPdWR6NUhCbDAxaHNleEdCSi1KU2c?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-10T21:09:24Z"
         },
         {
           "id": "report-dd2a1637dc48",
