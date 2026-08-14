@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-13T20:07:47.056Z",
+  "generatedAt": "2026-08-14T09:47:00.877Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-08-13T20:07:47.056Z",
+      "generatedAt": "2026-08-14T09:47:00.877Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -763,7 +763,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-08-13T20:07:47.056Z",
+      "generatedAt": "2026-08-14T09:47:00.877Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -807,19 +807,19 @@
           "pinned": false
         },
         {
-          "title": "Zelenskyy says Ukraine has sent proposals to US to end war with Russia",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY09CX0xHVTVqZGtKYUUtOGFJZ2NSZEhyeWRlRHJLZ3Y4MXJiOWFpWTFKNXRTNUlQbGk4QzBqbUVmalg1Ry12QVkyM3RDTUtENkp2ZlJQLVpQd0o1VFlqZ0xmOTFXQkt0am5IMFJBem0zNENYVElKZ3RjM0M0a2oyOUNMUkl0alg2c1lfLWtNeHVfR3Fzajl2ZGZtUWdtbHVEMUJRWDQtSlU3NWJtTmJybtIBtgFBVV95cUxNa0JfckJCbVlIXzduMWtDbC1Odk1BSDBMWjZNaGFNc2ZhSzdoS3BZb0s4ODFqMTB2UFBWSXFGZWc3aS1IcXBJX3dic1RpeXdNLTdSMW1FVkl1V0pIRndKTHRtZFRuamNVaTdCeUIxeUhnYUxIZkE2eXZOZ21SY0FNNnd5ZHdvSEM2WjhNcjdLVGF5MmNyVExrazd0X0s2U0ZncU9DZEthbzdWMU1WbExLZll3UlNtQQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260812T053334Z",
-          "pinned": false
-        },
-        {
           "title": "Ethiopia drone strike in north kills three, Tigray sources say",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSdWlRc1QxcHdIemVNSVZiZU1BOG9YbXl6RUk5Tkp3YWxndDZiRjhrX1JWRlQtaG8wM1ViQnlyWlhIUFBmN3AwLXVoXzNRb2hLdFZ6N1ZMU2FzUQ?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20260811T131127Z",
+          "pinned": false
+        },
+        {
+          "title": "Eurovision Song Contest changes rules for countries at war",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PaTctaGhKLXdReERBaWFTdWc0bjBaVnVIX1dpbS1GZHdrQzI0d2Vtbm44RUlFZTBzTmVJS0pkOTAtMGVuR1VNUVlNdHJRcmxrNnNpVi1BeTQ5dw?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260812T154937Z",
           "pinned": false
         },
         {
@@ -847,19 +847,11 @@
           "pinned": false
         },
         {
-          "title": "US says helicopter fired missiles to disable ship breaking Iran blockade",
+          "title": "US says it fired missiles to disable ship breaking Iran blockade",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LLU5XdnA2TXZEdkJUMDRWdUxpMEFrRE5ndVV0UzVzYTBYY2V2NVdoTkRva1Q2MlFmUGZFbzdUcHJVRWgtWVFDT2l3b19WS2k2RWp4aEpoVkprdw?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20260811T211456Z",
-          "pinned": false
-        },
-        {
-          "title": "Ukrainian drone attack on an oil hub deep inside Russia kills 13, officials say",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUUNmLWxickRLU05ySXVrTTR6U2Q4aTVSZExPY3ZaZnhCR01UcUtUMzhMU1c5Q0YwNFFCc0ZRVWpLYWo0RWZHWkhRc3Y2d1lLdDhwbTFNSmRZcXJ0SHV1VUtVWmdxQUZOei1iS1dwNEk3dkhyVTJvSWZiSjl6MXU1X01nQTZjenBZWkdUYmU4eG4tdUk?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260810T155200Z",
           "pinned": false
         },
         {
@@ -879,19 +871,19 @@
           "pinned": false
         },
         {
+          "title": "Will all-out war in Yemen reignite as the Houthis escalate attacks?",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNUx1NlFUQ0lkSkpES0NkeXpmYlQ3anlWLVQtSi1CSTNaTUJRVGlpM3F0RFdTX0U0c19QNGFqZlE1Y1g0Z2FjZnRCSVIzYklRYTZfcUMyWjBRbHltY0w3WUxrSXJZX3RUaGNyRUkwZmhGNnpXM21DTG5naWs0WEFvM01EcFZpaEllSFdpeGwtTHU4LV8ySWF6U25iNlduVDZ5WWVRSF930gGrAUFVX3lxTE5wd1RXTmdZalhXRHlxQXd0TXNyR1NwaGdkR0xLb3pQUmRYYlhQZnEzNXVzVDZpVm1hSENhQnVzTFhrU1daeVQtUkY3ZmNGTzlkV2E3X2VROEVRWWVKNjZhTXFTZGRyYjNOczVvT3VIanJNLTdfU3VBUy1GcDNORGp4ZVRYVXRxX2hrVVhlbzIyaHVCWUxDOENNdEtGSVFsam9JUzJSQVNSbTl2dw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260813T154231Z",
+          "pinned": false
+        },
+        {
           "title": "Trump told Ukraine it had no cards. Then Kyiv took the war to Russia",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBaMUwzUGYyQ2IyNXNfS1JPQi13cktObW5NSXV0SmJwbURsaU9FNDRpeWlFR3ZPS01YdG9pNFlvZ0lWeTBTRUJfQ2l6dW5hWjB1NFJUSGk4QUpiUVYzRWZUcVlzNktFTzQxc3VqTFQ3bUZSUFdjZll3Zg?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "seen": "20260811T120850Z",
-          "pinned": false
-        },
-        {
-          "title": "Russian attacks kill 10 in Ukraine as Zelenskyy says Moscow is getting more North Korean missiles",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeVotMUdKMG1abkZ1TVBVLXZnck0tRnFMenNzM3pYblBwR0cyd1A2M0FQMnhkWWhPM3RBcjRHcDU1MjdwdDkxRTMzN2ZISVF5VDJyRXhjM28wZkdsdmF3N0w0SGU5cVA4UVkyTUxsS3R1bkFXMGJiaExtb0MzY1IzX0Zkbm5ZaXdxWlYyX1N5TnpaT3BNVERHaVFERlZUNHRBOEota204WlV4UQ?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260811T183300Z",
           "pinned": false
         },
         {
@@ -903,27 +895,11 @@
           "pinned": false
         },
         {
-          "title": "Russia bars only party opposing war in Ukraine from parliamentary vote",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUjcxSFNFc2lBQkFFWnRvSkt0dE5JTEtIU2Nhc25KODVBYnRETjBMdW1rMGZDM2taWTFqY05oZXpobi15Z1d4VnNFQ1FZVFpBNWdtdlFib0tRZllzcmVmS1I2UkNod1JsTG1vSEo4TFZGMzh4ZnF4NzJwb3BNQTFWODdZWkN4NC1wZk43YXByODVsOF9CZ3pXNXluYzFTR1VvMFJMbzl3ZFBVUFUxaUg1WdIBtgFBVV95cUxOdS1FTTdhRXNBZ1d6R2lPZnQ4LXJuR29jUVlkeFBTTmlsQWJEc29ZWmRKWWtBdER1UGYtcGdjYjdNNW1QSjcwaTR6R1prSUc4TjhaYnJXQ3psUWJsZko0TzNuUi00SHhYNVB3cTR4VXozcWdUNDRLRUJtTXZ4RGJjUDlYSU1fVTlRai16U3FhNDVOWmhCaHNXUERmdi1RVUcwdXBVRHRpMmwzSE1LREd6U2pQZVYzdw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260810T195552Z",
-          "pinned": false
-        },
-        {
           "title": "Myanmar’s military has escalated airstrikes against civilians, UN investigation finds",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPclVKR1ZmbjFNcXAxbDdrbG5Sc1VGeFlxbnZRVDdCeTl2eGYwMWZvMXR6ajBCbU9qbUZYeV82UWxFYXJWcG5XMFQ5M2NEekp5Q1hsenEyQzdCcU1EN0NwX2ZqQWZscGZfdVdYaVlqaW15QTF5YVJzUWtjcDdpc29HdHhEUnk1RmZtYWJpYXA2MGRrMkhGb3FEbWpfMXBPY0hmdUE?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "seen": "20260812T003100Z",
-          "pinned": false
-        },
-        {
-          "title": "Will all-out war in Yemen reignite as the Houthis escalate attacks?",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNUx1NlFUQ0lkSkpES0NkeXpmYlQ3anlWLVQtSi1CSTNaTUJRVGlpM3F0RFdTX0U0c19QNGFqZlE1Y1g0Z2FjZnRCSVIzYklRYTZfcUMyWjBRbHltY0w3WUxrSXJZX3RUaGNyRUkwZmhGNnpXM21DTG5naWs0WEFvM01EcFZpaEllSFdpeGwtTHU4LV8ySWF6U25iNlduVDZ5WWVRSF930gGrAUFVX3lxTE5wd1RXTmdZalhXRHlxQXd0TXNyR1NwaGdkR0xLb3pQUmRYYlhQZnEzNXVzVDZpVm1hSENhQnVzTFhrU1daeVQtUkY3ZmNGTzlkV2E3X2VROEVRWWVKNjZhTXFTZGRyYjNOczVvT3VIanJNLTdfU3VBUy1GcDNORGp4ZVRYVXRxX2hrVVhlbzIyaHVCWUxDOENNdEtGSVFsam9JUzJSQVNSbTl2dw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260813T154231Z",
           "pinned": false
         },
         {
@@ -935,14 +911,6 @@
           "pinned": false
         },
         {
-          "title": "Yemeni forces say Houthi attack repelled in Taiz amid escalation",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObG1mck84WmVJcXVfRFQ3M2pxMU9YLVNaaUd3dTdZQ2djQWo0TWJyS0lSUW80c2lzUmJaZnJqdUhuREdVR2hZMkJQdlJHZVF1NTMzQWhTRTNSRTdNTzhmQU91amNkR0JPLVlOVVFCcFBlemlBeTNHclRTaE9WT2VEcmJqaFVyMml1Ylk3WktiV3VJOUdQVzJiZXEzbERDMkFHU2d4dHJPU0XSAa4BQVVfeXFMTWthMFhZcFFuYVZUZktxRGdjTTBCSFFNaXhzXzh5dzlLNkdZblg4c2w5WW9RTllxMWx4MTlUSDdFUFlncjZLT3k1YTVHb0Fha0lLQ29LTlBhYUVuay1IbTRid2s3V3VORzV0bGJJRVRKWXo1bW9OT1RBdktkaUMzdGFhbmlZZEdIUGNRbDNmX1JMNlhydGVha0tEblV2bXZ1UE9iT2ZiOTlCc1locXJ3?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260813T094231Z",
-          "pinned": false
-        },
-        {
           "title": "US, Iran agree to extend 60-day ceasefire ahead of Aug. 17 deadline",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPek56alVlMGxBbTRqSzN3Y2E1WGI3NnFDYVRuYjlXY3pPdEJtREFNbjIxaHJ1eXpRd016WnFtNjBkb1pEWS0tRzg0WFdDQTFZRTBLSzZWNG1GeEFHQ1lKRHpnek44MFhRVEZLdE56aTctbUlQVFgzRnlMcVgwX1lYNzdqZ292eHFNQ2xWb3A1eDBQODM4WXZ5T19NZVhwbmNHdGViMUpnT1ItQ3pqRTdVUkJ3bDVoT3Yw?oc=5",
           "domain": "aa.com.tr",
@@ -951,11 +919,43 @@
           "pinned": false
         },
         {
+          "title": "Iran leader’s adviser warns war may turn offensive if Tehran’s conditions unmet",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZTUyLW1vY3lseEtLQWFPc3JLZmZPYUw3di0zdFliUXYwNWREM3JycEw4VGdSdzhRdkpybkF5dzFiTWRTanRVUDZvaVlkYl9jXzJ1bjNUUjRoRGJ4THZtSTdwWDQzQVhxWXRWbzIzeE9XZ1lzaVM2VnVwSENUVzhTNlB3RFI3b2dwV3JvVVd3WFBibFJRMmRjemQ3emdzakZXM1QyY3FKbjlnSHFDQ05udDlMVjVETGJWdnNKZnlPVHFwdw?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20260813T191210Z",
+          "pinned": false
+        },
+        {
+          "title": "Yemeni forces say Houthi attack repelled in Taiz amid escalation",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObG1mck84WmVJcXVfRFQ3M2pxMU9YLVNaaUd3dTdZQ2djQWo0TWJyS0lSUW80c2lzUmJaZnJqdUhuREdVR2hZMkJQdlJHZVF1NTMzQWhTRTNSRTdNTzhmQU91amNkR0JPLVlOVVFCcFBlemlBeTNHclRTaE9WT2VEcmJqaFVyMml1Ylk3WktiV3VJOUdQVzJiZXEzbERDMkFHU2d4dHJPU0XSAa4BQVVfeXFMTWthMFhZcFFuYVZUZktxRGdjTTBCSFFNaXhzXzh5dzlLNkdZblg4c2w5WW9RTllxMWx4MTlUSDdFUFlncjZLT3k1YTVHb0Fha0lLQ29LTlBhYUVuay1IbTRid2s3V3VORzV0bGJJRVRKWXo1bW9OT1RBdktkaUMzdGFhbmlZZEdIUGNRbDNmX1JMNlhydGVha0tEblV2bXZ1UE9iT2ZiOTlCc1locXJ3?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260813T094231Z",
+          "pinned": false
+        },
+        {
           "title": "Trump scoffs at Iran’s demand for war reparations and other Mideast developments",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTHRSRTdObVh1eUFaNml6X3lhU0FnaEJvWHM2V2g2eC0yblF2QktZTnctM1Vud0pqZ2ZzQ0ZZTzBRNUV2TnpFNkV2V3lNUVhfcGlHbmtzT1k5bnJCclRCS1dTYnB5WTdmRk5aaHM4aEktLVFzc1lhallpd1FfM2J1aTE3NzBIejRSaTctUDdETm1hSFBadWk2aTR1ZDk?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "seen": "20260811T054500Z",
+          "pinned": false
+        },
+        {
+          "title": "Former Syrian President Assad sentenced to death in absentia for war crimes",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbFZ5cVRQTjZBaDZEOFZuSi1ZUXFwd0J6SnNBeGVleVBqdExEY3VweDY5a3ZnUnNpal83SS03QWVGUlN4TExhNDU4VmxKd1FlTDRUaExBbDY2MjU3ZWVqRGptSllyTjRFS2Mzd1JHdlFFaVE5NkY2WjdYREdjYWxqUnJreWZwemR6SVJN?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260811T161600Z",
+          "pinned": false
+        },
+        {
+          "title": "Yemen faces highest risk of returning to war since 2022 truce, UN warns",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNWFEeGdBYlhyWWFOejAwMW4zZXRLNXpiMHF4TWw1RjBCNDBOcmVReDk1S2RPd1hKQ2MxYTlDckpyUlY5bHBXWUowZHAwWGU5UDljbDlrOTlVYlFLRzZiSzBuTGJoSGVpMWt0OG5pQUpMb25VbVZIdFpGdlBkNmNWNWdhVllhY3B6X181WkpvT0w2SXNGUGFqOENaT29hcFFkSDJFTFdhb215UXlDdWtPaNIBtgFBVV95cUxPR0QtNms3V0dBMHhzWnViR3BUX0JkeThQLVhYYkR4WGZNVEl0Sjd2YVlzQjVyNW82T1RFYm95aXlONlUzOVYtOFQyN3lPSmNRVmwxdmcwRFRJdjFPTnFjOHBPcXlreHNkYTl5UFhPQ0NQZkY5SlhYS2hSU21LTmtVV0lyVktBTE1lVmdFaDFFRzlfSm9lc2VBYzFpZllRTW9YUTEtcUh1Y0tXZjUxNHJYa0gzb1lfUQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260814T001607Z",
           "pinned": false
         }
       ],
@@ -1006,15 +1006,6 @@
           "reportedAt": "2026-08-11T13:32:13Z"
         },
         {
-          "id": "report-0c0e82498494",
-          "title": "Zelenskyy says Ukraine has sent proposals to US to end war with Russia",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY09CX0xHVTVqZGtKYUUtOGFJZ2NSZEhyeWRlRHJLZ3Y4MXJiOWFpWTFKNXRTNUlQbGk4QzBqbUVmalg1Ry12QVkyM3RDTUtENkp2ZlJQLVpQd0o1VFlqZ0xmOTFXQkt0am5IMFJBem0zNENYVElKZ3RjM0M0a2oyOUNMUkl0alg2c1lfLWtNeHVfR3Fzajl2ZGZtUWdtbHVEMUJRWDQtSlU3NWJtTmJybtIBtgFBVV95cUxNa0JfckJCbVlIXzduMWtDbC1Odk1BSDBMWjZNaGFNc2ZhSzdoS3BZb0s4ODFqMTB2UFBWSXFGZWc3aS1IcXBJX3dic1RpeXdNLTdSMW1FVkl1V0pIRndKTHRtZFRuamNVaTdCeUIxeUhnYUxIZkE2eXZOZ21SY0FNNnd5ZHdvSEM2WjhNcjdLVGF5MmNyVExrazd0X0s2U0ZncU9DZEthbzdWMU1WbExLZll3UlNtQQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-12T05:33:34Z"
-        },
-        {
           "id": "report-c3e60ea1e230",
           "title": "Ethiopia drone strike in north kills three, Tigray sources say",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSdWlRc1QxcHdIemVNSVZiZU1BOG9YbXl6RUk5Tkp3YWxndDZiRjhrX1JWRlQtaG8wM1ViQnlyWlhIUFBmN3AwLXVoXzNRb2hLdFZ6N1ZMU2FzUQ?oc=5",
@@ -1022,6 +1013,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-11T13:11:27Z"
+        },
+        {
+          "id": "report-84b03cc43ac7",
+          "title": "Eurovision Song Contest changes rules for countries at war",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PaTctaGhKLXdReERBaWFTdWc0bjBaVnVIX1dpbS1GZHdrQzI0d2Vtbm44RUlFZTBzTmVJS0pkOTAtMGVuR1VNUVlNdHJRcmxrNnNpVi1BeTQ5dw?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-12T15:49:37Z"
         },
         {
           "id": "report-372b096ff4db",
@@ -1052,21 +1052,12 @@
         },
         {
           "id": "report-476cc555e5df",
-          "title": "US says helicopter fired missiles to disable ship breaking Iran blockade",
+          "title": "US says it fired missiles to disable ship breaking Iran blockade",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LLU5XdnA2TXZEdkJUMDRWdUxpMEFrRE5ndVV0UzVzYTBYY2V2NVdoTkRva1Q2MlFmUGZFbzdUcHJVRWgtWVFDT2l3b19WS2k2RWp4aEpoVkprdw?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-11T21:14:56Z"
-        },
-        {
-          "id": "report-2902b89c9c86",
-          "title": "Ukrainian drone attack on an oil hub deep inside Russia kills 13, officials say",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUUNmLWxickRLU05ySXVrTTR6U2Q4aTVSZExPY3ZaZnhCR01UcUtUMzhMU1c5Q0YwNFFCc0ZRVWpLYWo0RWZHWkhRc3Y2d1lLdDhwbTFNSmRZcXJ0SHV1VUtVWmdxQUZOei1iS1dwNEk3dkhyVTJvSWZiSjl6MXU1X01nQTZjenBZWkdUYmU4eG4tdUk?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-10T15:52:00Z"
         },
         {
           "id": "report-5b050b611539",
@@ -1087,6 +1078,15 @@
           "reportedAt": "2026-08-11T14:52:39Z"
         },
         {
+          "id": "report-dc8235eaa41a",
+          "title": "Will all-out war in Yemen reignite as the Houthis escalate attacks?",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNUx1NlFUQ0lkSkpES0NkeXpmYlQ3anlWLVQtSi1CSTNaTUJRVGlpM3F0RFdTX0U0c19QNGFqZlE1Y1g0Z2FjZnRCSVIzYklRYTZfcUMyWjBRbHltY0w3WUxrSXJZX3RUaGNyRUkwZmhGNnpXM21DTG5naWs0WEFvM01EcFZpaEllSFdpeGwtTHU4LV8ySWF6U25iNlduVDZ5WWVRSF930gGrAUFVX3lxTE5wd1RXTmdZalhXRHlxQXd0TXNyR1NwaGdkR0xLb3pQUmRYYlhQZnEzNXVzVDZpVm1hSENhQnVzTFhrU1daeVQtUkY3ZmNGTzlkV2E3X2VROEVRWWVKNjZhTXFTZGRyYjNOczVvT3VIanJNLTdfU3VBUy1GcDNORGp4ZVRYVXRxX2hrVVhlbzIyaHVCWUxDOENNdEtGSVFsam9JUzJSQVNSbTl2dw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-13T15:42:31Z"
+        },
+        {
           "id": "report-138231438083",
           "title": "Trump told Ukraine it had no cards. Then Kyiv took the war to Russia",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBaMUwzUGYyQ2IyNXNfS1JPQi13cktObW5NSXV0SmJwbURsaU9FNDRpeWlFR3ZPS01YdG9pNFlvZ0lWeTBTRUJfQ2l6dW5hWjB1NFJUSGk4QUpiUVYzRWZUcVlzNktFTzQxc3VqTFQ3bUZSUFdjZll3Zg?oc=5",
@@ -1094,15 +1094,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-11T12:08:50Z"
-        },
-        {
-          "id": "report-7644c8c9c436",
-          "title": "Russian attacks kill 10 in Ukraine as Zelenskyy says Moscow is getting more North Korean missiles",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeVotMUdKMG1abkZ1TVBVLXZnck0tRnFMenNzM3pYblBwR0cyd1A2M0FQMnhkWWhPM3RBcjRHcDU1MjdwdDkxRTMzN2ZISVF5VDJyRXhjM28wZkdsdmF3N0w0SGU5cVA4UVkyTUxsS3R1bkFXMGJiaExtb0MzY1IzX0Zkbm5ZaXdxWlYyX1N5TnpaT3BNVERHaVFERlZUNHRBOEota204WlV4UQ?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-11T18:33:00Z"
         },
         {
           "id": "report-25004455cfae",
@@ -1114,15 +1105,6 @@
           "reportedAt": "2026-08-11T11:31:39Z"
         },
         {
-          "id": "report-97fb5c165511",
-          "title": "Russia bars only party opposing war in Ukraine from parliamentary vote",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUjcxSFNFc2lBQkFFWnRvSkt0dE5JTEtIU2Nhc25KODVBYnRETjBMdW1rMGZDM2taWTFqY05oZXpobi15Z1d4VnNFQ1FZVFpBNWdtdlFib0tRZllzcmVmS1I2UkNod1JsTG1vSEo4TFZGMzh4ZnF4NzJwb3BNQTFWODdZWkN4NC1wZk43YXByODVsOF9CZ3pXNXluYzFTR1VvMFJMbzl3ZFBVUFUxaUg1WdIBtgFBVV95cUxOdS1FTTdhRXNBZ1d6R2lPZnQ4LXJuR29jUVlkeFBTTmlsQWJEc29ZWmRKWWtBdER1UGYtcGdjYjdNNW1QSjcwaTR6R1prSUc4TjhaYnJXQ3psUWJsZko0TzNuUi00SHhYNVB3cTR4VXozcWdUNDRLRUJtTXZ4RGJjUDlYSU1fVTlRai16U3FhNDVOWmhCaHNXUERmdi1RVUcwdXBVRHRpMmwzSE1LREd6U2pQZVYzdw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-10T19:55:52Z"
-        },
-        {
           "id": "report-6f2bd172a58b",
           "title": "Myanmar’s military has escalated airstrikes against civilians, UN investigation finds",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPclVKR1ZmbjFNcXAxbDdrbG5Sc1VGeFlxbnZRVDdCeTl2eGYwMWZvMXR6ajBCbU9qbUZYeV82UWxFYXJWcG5XMFQ5M2NEekp5Q1hsenEyQzdCcU1EN0NwX2ZqQWZscGZfdVdYaVlqaW15QTF5YVJzUWtjcDdpc29HdHhEUnk1RmZtYWJpYXA2MGRrMkhGb3FEbWpfMXBPY0hmdUE?oc=5",
@@ -1130,15 +1112,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-12T00:31:00Z"
-        },
-        {
-          "id": "report-dc8235eaa41a",
-          "title": "Will all-out war in Yemen reignite as the Houthis escalate attacks?",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNUx1NlFUQ0lkSkpES0NkeXpmYlQ3anlWLVQtSi1CSTNaTUJRVGlpM3F0RFdTX0U0c19QNGFqZlE1Y1g0Z2FjZnRCSVIzYklRYTZfcUMyWjBRbHltY0w3WUxrSXJZX3RUaGNyRUkwZmhGNnpXM21DTG5naWs0WEFvM01EcFZpaEllSFdpeGwtTHU4LV8ySWF6U25iNlduVDZ5WWVRSF930gGrAUFVX3lxTE5wd1RXTmdZalhXRHlxQXd0TXNyR1NwaGdkR0xLb3pQUmRYYlhQZnEzNXVzVDZpVm1hSENhQnVzTFhrU1daeVQtUkY3ZmNGTzlkV2E3X2VROEVRWWVKNjZhTXFTZGRyYjNOczVvT3VIanJNLTdfU3VBUy1GcDNORGp4ZVRYVXRxX2hrVVhlbzIyaHVCWUxDOENNdEtGSVFsam9JUzJSQVNSbTl2dw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-13T15:42:31Z"
         },
         {
           "id": "report-64c601c47f0d",
@@ -1150,15 +1123,6 @@
           "reportedAt": "2026-08-11T09:52:54Z"
         },
         {
-          "id": "report-82195d686f59",
-          "title": "Yemeni forces say Houthi attack repelled in Taiz amid escalation",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObG1mck84WmVJcXVfRFQ3M2pxMU9YLVNaaUd3dTdZQ2djQWo0TWJyS0lSUW80c2lzUmJaZnJqdUhuREdVR2hZMkJQdlJHZVF1NTMzQWhTRTNSRTdNTzhmQU91amNkR0JPLVlOVVFCcFBlemlBeTNHclRTaE9WT2VEcmJqaFVyMml1Ylk3WktiV3VJOUdQVzJiZXEzbERDMkFHU2d4dHJPU0XSAa4BQVVfeXFMTWthMFhZcFFuYVZUZktxRGdjTTBCSFFNaXhzXzh5dzlLNkdZblg4c2w5WW9RTllxMWx4MTlUSDdFUFlncjZLT3k1YTVHb0Fha0lLQ29LTlBhYUVuay1IbTRid2s3V3VORzV0bGJJRVRKWXo1bW9OT1RBdktkaUMzdGFhbmlZZEdIUGNRbDNmX1JMNlhydGVha0tEblV2bXZ1UE9iT2ZiOTlCc1locXJ3?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-13T09:42:31Z"
-        },
-        {
           "id": "report-7300c439a59b",
           "title": "US, Iran agree to extend 60-day ceasefire ahead of Aug. 17 deadline",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPek56alVlMGxBbTRqSzN3Y2E1WGI3NnFDYVRuYjlXY3pPdEJtREFNbjIxaHJ1eXpRd016WnFtNjBkb1pEWS0tRzg0WFdDQTFZRTBLSzZWNG1GeEFHQ1lKRHpnek44MFhRVEZLdE56aTctbUlQVFgzRnlMcVgwX1lYNzdqZ292eHFNQ2xWb3A1eDBQODM4WXZ5T19NZVhwbmNHdGViMUpnT1ItQ3pqRTdVUkJ3bDVoT3Yw?oc=5",
@@ -1168,6 +1132,24 @@
           "reportedAt": "2026-08-12T09:12:28Z"
         },
         {
+          "id": "report-6c710c1db09e",
+          "title": "Iran leader’s adviser warns war may turn offensive if Tehran’s conditions unmet",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZTUyLW1vY3lseEtLQWFPc3JLZmZPYUw3di0zdFliUXYwNWREM3JycEw4VGdSdzhRdkpybkF5dzFiTWRTanRVUDZvaVlkYl9jXzJ1bjNUUjRoRGJ4THZtSTdwWDQzQVhxWXRWbzIzeE9XZ1lzaVM2VnVwSENUVzhTNlB3RFI3b2dwV3JvVVd3WFBibFJRMmRjemQ3emdzakZXM1QyY3FKbjlnSHFDQ05udDlMVjVETGJWdnNKZnlPVHFwdw?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-08-13T19:12:10Z"
+        },
+        {
+          "id": "report-82195d686f59",
+          "title": "Yemeni forces say Houthi attack repelled in Taiz amid escalation",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObG1mck84WmVJcXVfRFQ3M2pxMU9YLVNaaUd3dTdZQ2djQWo0TWJyS0lSUW80c2lzUmJaZnJqdUhuREdVR2hZMkJQdlJHZVF1NTMzQWhTRTNSRTdNTzhmQU91amNkR0JPLVlOVVFCcFBlemlBeTNHclRTaE9WT2VEcmJqaFVyMml1Ylk3WktiV3VJOUdQVzJiZXEzbERDMkFHU2d4dHJPU0XSAa4BQVVfeXFMTWthMFhZcFFuYVZUZktxRGdjTTBCSFFNaXhzXzh5dzlLNkdZblg4c2w5WW9RTllxMWx4MTlUSDdFUFlncjZLT3k1YTVHb0Fha0lLQ29LTlBhYUVuay1IbTRid2s3V3VORzV0bGJJRVRKWXo1bW9OT1RBdktkaUMzdGFhbmlZZEdIUGNRbDNmX1JMNlhydGVha0tEblV2bXZ1UE9iT2ZiOTlCc1locXJ3?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-13T09:42:31Z"
+        },
+        {
           "id": "report-54a5a85eb5e2",
           "title": "Trump scoffs at Iran’s demand for war reparations and other Mideast developments",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTHRSRTdObVh1eUFaNml6X3lhU0FnaEJvWHM2V2g2eC0yblF2QktZTnctM1Vud0pqZ2ZzQ0ZZTzBRNUV2TnpFNkV2V3lNUVhfcGlHbmtzT1k5bnJCclRCS1dTYnB5WTdmRk5aaHM4aEktLVFzc1lhallpd1FfM2J1aTE3NzBIejRSaTctUDdETm1hSFBadWk2aTR1ZDk?oc=5",
@@ -1175,6 +1157,24 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-11T05:45:00Z"
+        },
+        {
+          "id": "report-95402d7d2d33",
+          "title": "Former Syrian President Assad sentenced to death in absentia for war crimes",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbFZ5cVRQTjZBaDZEOFZuSi1ZUXFwd0J6SnNBeGVleVBqdExEY3VweDY5a3ZnUnNpal83SS03QWVGUlN4TExhNDU4VmxKd1FlTDRUaExBbDY2MjU3ZWVqRGptSllyTjRFS2Mzd1JHdlFFaVE5NkY2WjdYREdjYWxqUnJreWZwemR6SVJN?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-11T16:16:00Z"
+        },
+        {
+          "id": "report-e297bc09cefa",
+          "title": "Yemen faces highest risk of returning to war since 2022 truce, UN warns",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNWFEeGdBYlhyWWFOejAwMW4zZXRLNXpiMHF4TWw1RjBCNDBOcmVReDk1S2RPd1hKQ2MxYTlDckpyUlY5bHBXWUowZHAwWGU5UDljbDlrOTlVYlFLRzZiSzBuTGJoSGVpMWt0OG5pQUpMb25VbVZIdFpGdlBkNmNWNWdhVllhY3B6X181WkpvT0w2SXNGUGFqOENaT29hcFFkSDJFTFdhb215UXlDdWtPaNIBtgFBVV95cUxPR0QtNms3V0dBMHhzWnViR3BUX0JkeThQLVhYYkR4WGZNVEl0Sjd2YVlzQjVyNW82T1RFYm95aXlONlUzOVYtOFQyN3lPSmNRVmwxdmcwRFRJdjFPTnFjOHBPcXlreHNkYTl5UFhPQ0NQZkY5SlhYS2hSU21LTmtVV0lyVktBTE1lVmdFaDFFRzlfSm9lc2VBYzFpZllRTW9YUTEtcUh1Y0tXZjUxNHJYa0gzb1lfUQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-14T00:16:07Z"
         },
         {
           "id": "report-dd2a1637dc48",
