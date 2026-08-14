@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-14T16:16:27.962Z",
+  "generatedAt": "2026-08-14T18:36:36.344Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -21,7 +21,7 @@
       ]
     },
     "safety": {
-      "generatedAt": "2026-08-13T18:43:16.484Z",
+      "generatedAt": "2026-08-14T18:36:36.344Z",
       "cadence": "daily",
       "items": [
         {
@@ -65,11 +65,27 @@
           "pinned": false
         },
         {
+          "title": "Army identifies soldiers killed in Texas Apache helicopter crash",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZTU84TkwxQ3Vad0x3TlFfMFlxa1dnQUdEcHRRZ1A5ZGhXV1VoeUdBTk1lS1RmdmVTLS11RUNNcmdaNXdSZ0FFcEdzS3ZLc3d6Q1IzeEZXR2lYN21yQmpZeFN5NjRBT1JnZGJtVVY1T2M3THE5c2cw?oc=5",
+          "domain": "taskandpurpose.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260814T125012Z",
+          "pinned": false
+        },
+        {
           "title": "Army Apache helicopter crash in Texas kills 2 crew members aboard",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wZ2dndl9pV01FamMxRXhBVDlXcGpMUkdWM2hvV2NCM2NPSTVmaU5UN1B1eXBFMUg1TFdZdllRaF9md0R1VloweGhxX2FSQnNETl95SjllemFBMm1rVllXQnhLZldOSHM?oc=5",
           "domain": "taskandpurpose.com",
           "sourceTier": "Independent reporting",
           "seen": "20260812T221748Z",
+          "pinned": false
+        },
+        {
+          "title": "Court rules Air Force diverted injured, sick service members from official disability evaluation",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQzMxLThDNzhZMUNpYWJMa2JRcE04TEsxQU5CXzdsZWNVYUpKMGttSjFhVzVqVEpTSEswTHk1dlBSU2RlQzZJZ0hjOURJY1c2VmVYTmFRR3FPRlMtVFZ2M0hpWE1jQjF2OGVmZnZrYkVyLWkyRXUtb1pDVFNtTVJZNXpXNzJpbWhmbHNjajNfM1pvc1dIbjVKU042aGY0WUlncHhqaA?oc=5",
+          "domain": "stripes.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260810T214701Z",
           "pinned": false
         },
         {
@@ -125,11 +141,29 @@
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeEhCZEd6eGRpc1RvV0lkYWlmczdfQkF2SjV4LUtIbVpHR1E0TjB0cm9qWVo0SThxa2N3RVdmRjctNENoZm9lU3NTNmhPUWVtdWRjV0M1SERDWXgzdGNORWdUM1BrM1hzcXpYd3g4dF85cVFrWUFPQjBUTXdtLWRJemIzN0c0RXZORnVPS21OQUVzTy1UX3NhMkhpNkRJNTNiVU9yTHY3ZFFLMmNRSkJQTGdfal9neEV6VE01REh3?oc=5",
           "domain": "news.uscg.mil",
           "sourceTier": "Official military source",
-          "seen": "20260813T150834Z",
+          "seen": "20260813T151142Z",
           "pinned": false
         }
       ],
       "incidents": [
+        {
+          "id": "auto-686b02b2cfc8",
+          "reportDate": "2026-08-14",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Aviation",
+          "event": "Army identifies soldiers killed in Texas Apache helicopter crash",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZTU84TkwxQ3Vad0x3TlFfMFlxa1dnQUdEcHRRZ1A5ZGhXV1VoeUdBTk1lS1RmdmVTLS11RUNNcmdaNXdSZ0FFcEdzS3ZLc3d6Q1IzeEZXR2lYN21yQmpZeFN5NjRBT1JnZGJtVVY1T2M3THE5c2cw?oc=5",
+          "sourceLabel": "taskandpurpose.com"
+        },
         {
           "id": "auto-750812e8ddaa",
           "reportDate": "2026-08-13",
@@ -201,6 +235,24 @@
           "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
           "source": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSEZnUzY5SU8zcHRPQldIUWxsbU5TNVIzTDQ3UXJ6ZUpjWFJQckVzd1ZHT1AtaDRxU0hySnd4S2RIYjRfX1FVbVRhM01iYkdCMTVmQlZzQjFPMkVDeGdpQkxpVm1MUzN4US04cV9wU3puV3ZtWGQ0aHNjMlJmOWtTVWtNRlVfb3lQOWtxYXc4anRZejdaZnJOSTB4aGw4cVFVVGRsVWFOMWVjZU9BYzVUemNoSkd3YjBObXhqdVB5Yk5FOVBmYU9DTEtCSWlmWkYyMGlHemZmaUlZSEIxWXBN?oc=5",
           "sourceLabel": "safety.army.mil"
+        },
+        {
+          "id": "auto-4f6f4c176387",
+          "reportDate": "2026-08-10",
+          "dateBasis": "report discovery date",
+          "branch": "Air Force",
+          "department": "Department of the Air Force",
+          "type": "Other",
+          "event": "Court rules Air Force diverted injured, sick service members from official disability evaluation",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQzMxLThDNzhZMUNpYWJMa2JRcE04TEsxQU5CXzdsZWNVYUpKMGttSjFhVzVqVEpTSEswTHk1dlBSU2RlQzZJZ0hjOURJY1c2VmVYTmFRR3FPRlMtVFZ2M0hpWE1jQjF2OGVmZnZrYkVyLWkyRXUtb1pDVFNtTVJZNXpXNzJpbWhmbHNjajNfM1pvc1dIbjVKU042aGY0WUlncHhqaA?oc=5",
+          "sourceLabel": "stripes.com"
         },
         {
           "id": "auto-b659e6401b6e",
