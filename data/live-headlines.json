@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-15T13:47:42.518Z",
+  "generatedAt": "2026-08-15T16:02:23.799Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -21,7 +21,7 @@
       ]
     },
     "safety": {
-      "generatedAt": "2026-08-14T18:36:36.344Z",
+      "generatedAt": "2026-08-15T16:02:23.799Z",
       "cadence": "daily",
       "items": [
         {
@@ -49,6 +49,14 @@
           "pinned": false
         },
         {
+          "title": "Army temporarily halts Apache helicopter training missions after Texas crash that killed 2",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUHJKakZQVFZXSVozZVdiZ0Q0NkNvQXJMUmE1VkV6YlVNSDRDMFJFVWE1bFByZ01SdXdPMEJ3RUVDNUpmNnZQdGZzYzZwLU9MNUVIckxSQzk1MVRzUkEyb2pPNWV0bW9CSkc1QnpSRm4xVlFMMmEzdFVpYnlpaWxWN0J3elFCYTFlQnJxdllXeGZzVGdPdFlIal9yODRzOGlvbzNneFBWQzY?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260814T224100Z",
+          "pinned": false
+        },
+        {
           "title": "Advocates for former US Marine held in Russia for more than 4 years say he is near death",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV3c2S3h2dndCRWxhYklMNmZTSnlGVU82Q0dxc2hZWi1DZ0JENzNOeUpUUUU0OGxCdDRlUzBSdGtTQWtsYThIaG9Rc0E5cWxPdDBPYUQwSHFZM2Vjb2I2bXNYYjA1U0E5S2cydmhabkY4bFFndEhQUWdLTXY1eUNBd2RGVm1TS1NpLXU5T0JIaXg0VWs?oc=5",
           "domain": "apnews.com",
@@ -70,6 +78,22 @@
           "domain": "taskandpurpose.com",
           "sourceTier": "Independent reporting",
           "seen": "20260814T125012Z",
+          "pinned": false
+        },
+        {
+          "title": "Army temporarily grounds training flights of Apache helicopters after Fort Hood crash",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQXhDSWw2RXFuekdlTGpxNEF6NFY4UnNoSVBlS3l3eWZhQ09KZHZOSV9zUTlEREVaQnRGaVhYWW9Sell4cTc2UjJNd3FlZGJnTWI1WV9zeV9aRnhzSHkyZ2NRN2RJMU5mRGVZWTRLRFNZd1BfeUhpX2VicnZsRzNLTWJ0dWNDUTlqX2RNN2dJM1JYV2VMSmt2QkpzTFRPdHBxYmFHZTFUM0tHdzlJRmhF?oc=5",
+          "domain": "stripes.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260814T050200Z",
+          "pinned": false
+        },
+        {
+          "title": "Army grounds Apache helicopter training flights after deadly Fort Hood crash",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4zM2dvVmRQZVdBazNrdU9ER3dKbm9BY1pXaV9jLXJGWW0wbHlsZGpiSy1ObFBMM0ZPRGlQQkpXSFpzYVpFU28xdGVFeGlyUzhScEk1MXZOc0kyNXVpZ0RleGtxRk1MYTRjcXZRYmxWWnhCMUx5Q0taMQ?oc=5",
+          "domain": "taskandpurpose.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260814T221617Z",
           "pinned": false
         },
         {
@@ -121,19 +145,19 @@
           "pinned": false
         },
         {
-          "title": "PLR 26-051 – Motorcycle Mishap Claims One Soldier's Life",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaVpiYzFyRVhaWHZuV2VuVzVoM050d0FnTzR1QVZlQnZkVE14WWpvQXZjY3BXMDF3SW1URFc0VC1DS1pHeWdXeDU3T2hHN1NuZjI0dXp4b1Z3STJlMEw4RFEtb05KeWxQWnpoV3JCYmR3U0dPVFJfQ0ZGTmdrX2ZtN2ZrdzdyTmRhZ1BGZ0JpX2NMTFYyNzhlUVV0dk9OczVQVlhjeUlYSFNUM1ZOSVUzWkpjQ2NKM2p1bUJNSWNWR0p6emt6VnhEYTJobHluaWlW?oc=5",
-          "domain": "safety.army.mil",
-          "sourceTier": "Official military source",
-          "seen": "20260720T070000Z",
-          "pinned": false
-        },
-        {
           "title": "Coast Guard Conducting Investigation to Fatal Incident near Liberty Island",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPR1BTQU9ETXY3djdvaDJZNTdhWkk0TFhiUUdQc1BBQ2R2bEtaRHFpTnF0RGJWSVhnZlBXUkFsQ0hKSDJLRE45emtlUEpjRlRBUHhYaHpLOEZZYUk3WWMxdHBMelFHRm1PMzhJeWVFUDd6UU5VN1k4cGphRkhiclZrUjZwMUVOdHJrM0lXTkpVQkdTTHBablBlWlhiVEpYRk5WLVhWcnBaQTdtUlljRkhxdXA0NmFtSk5fVG5jWF9IU3Y3OVB6cmdZblZ3RGo?oc=5",
           "domain": "news.uscg.mil",
           "sourceTier": "Official military source",
           "seen": "20260809T144832Z",
+          "pinned": false
+        },
+        {
+          "title": "Coast Guard suspends search for missing male at Gun Beach, Guam",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObGtBUGhrZ2JIT1RId3RsV2xrV0FZcy11RnNlQzkxeTdFZnJZaWJsWVVWN0ZhRWxQTDFwVk9IQUh5dXhkSkg5cm9Sc3lIYXRuR2RzcVlDVkRnc2hDXzVxam8ycERuUzZZTHRsN1JVZUVLZzJXcUpkYU5NMmZqVmtnV1N6dS1DeFBOVFdQZE5wU2xCU0tNd3BNU1NOTTh3QzR1clJSc1FFdXpodEJwY0RFektqeHU5SU5rRnF3QQ?oc=5",
+          "domain": "news.uscg.mil",
+          "sourceTier": "Official military source",
+          "seen": "20260814T234727Z",
           "pinned": false
         },
         {
@@ -146,6 +170,24 @@
         }
       ],
       "incidents": [
+        {
+          "id": "auto-ab00bffa9249",
+          "reportDate": "2026-08-14",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Aviation",
+          "event": "Army temporarily halts Apache helicopter training missions after Texas crash that killed 2",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUHJKakZQVFZXSVozZVdiZ0Q0NkNvQXJMUmE1VkV6YlVNSDRDMFJFVWE1bFByZ01SdXdPMEJ3RUVDNUpmNnZQdGZzYzZwLU9MNUVIckxSQzk1MVRzUkEyb2pPNWV0bW9CSkc1QnpSRm4xVlFMMmEzdFVpYnlpaWxWN0J3elFCYTFlQnJxdllXeGZzVGdPdFlIal9yODRzOGlvbzNneFBWQzY?oc=5",
+          "sourceLabel": "apnews.com"
+        },
         {
           "id": "auto-686b02b2cfc8",
           "reportDate": "2026-08-14",
@@ -163,6 +205,60 @@
           "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
           "source": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZTU84TkwxQ3Vad0x3TlFfMFlxa1dnQUdEcHRRZ1A5ZGhXV1VoeUdBTk1lS1RmdmVTLS11RUNNcmdaNXdSZ0FFcEdzS3ZLc3d6Q1IzeEZXR2lYN21yQmpZeFN5NjRBT1JnZGJtVVY1T2M3THE5c2cw?oc=5",
           "sourceLabel": "taskandpurpose.com"
+        },
+        {
+          "id": "auto-cbae79c7b676",
+          "reportDate": "2026-08-14",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Aviation",
+          "event": "Army temporarily grounds training flights of Apache helicopters after Fort Hood crash",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQXhDSWw2RXFuekdlTGpxNEF6NFY4UnNoSVBlS3l3eWZhQ09KZHZOSV9zUTlEREVaQnRGaVhYWW9Sell4cTc2UjJNd3FlZGJnTWI1WV9zeV9aRnhzSHkyZ2NRN2RJMU5mRGVZWTRLRFNZd1BfeUhpX2VicnZsRzNLTWJ0dWNDUTlqX2RNN2dJM1JYV2VMSmt2QkpzTFRPdHBxYmFHZTFUM0tHdzlJRmhF?oc=5",
+          "sourceLabel": "stripes.com"
+        },
+        {
+          "id": "auto-a4e7e2f36509",
+          "reportDate": "2026-08-14",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Aviation",
+          "event": "Army grounds Apache helicopter training flights after deadly Fort Hood crash",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4zM2dvVmRQZVdBazNrdU9ER3dKbm9BY1pXaV9jLXJGWW0wbHlsZGpiSy1ObFBMM0ZPRGlQQkpXSFpzYVpFU28xdGVFeGlyUzhScEk1MXZOc0kyNXVpZ0RleGtxRk1MYTRjcXZRYmxWWnhCMUx5Q0taMQ?oc=5",
+          "sourceLabel": "taskandpurpose.com"
+        },
+        {
+          "id": "auto-763ccc53e205",
+          "reportDate": "2026-08-14",
+          "dateBasis": "report discovery date",
+          "branch": "Coast Guard",
+          "department": "Department of Homeland Security",
+          "type": "Other",
+          "event": "Coast Guard suspends search for missing male at Gun Beach, Guam",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "OFFICIAL INTAKE",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Official military source",
+          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
+          "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObGtBUGhrZ2JIT1RId3RsV2xrV0FZcy11RnNlQzkxeTdFZnJZaWJsWVVWN0ZhRWxQTDFwVk9IQUh5dXhkSkg5cm9Sc3lIYXRuR2RzcVlDVkRnc2hDXzVxam8ycERuUzZZTHRsN1JVZUVLZzJXcUpkYU5NMmZqVmtnV1N6dS1DeFBOVFdQZE5wU2xCU0tNd3BNU1NOTTh3QzR1clJSc1FFdXpodEJwY0RFektqeHU5SU5rRnF3QQ?oc=5",
+          "sourceLabel": "news.uscg.mil"
         },
         {
           "id": "auto-750812e8ddaa",
