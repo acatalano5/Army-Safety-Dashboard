@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-15T03:11:40.532Z",
+  "generatedAt": "2026-08-15T07:48:43.098Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-08-15T03:11:40.532Z",
+      "generatedAt": "2026-08-15T07:48:43.098Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -815,7 +815,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-08-15T03:11:40.532Z",
+      "generatedAt": "2026-08-15T07:48:43.098Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -907,14 +907,6 @@
           "pinned": false
         },
         {
-          "title": "Yemeni forces say Houthi attack repelled in Taiz amid escalation",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObG1mck84WmVJcXVfRFQ3M2pxMU9YLVNaaUd3dTdZQ2djQWo0TWJyS0lSUW80c2lzUmJaZnJqdUhuREdVR2hZMkJQdlJHZVF1NTMzQWhTRTNSRTdNTzhmQU91amNkR0JPLVlOVVFCcFBlemlBeTNHclRTaE9WT2VEcmJqaFVyMml1Ylk3WktiV3VJOUdQVzJiZXEzbERDMkFHU2d4dHJPU0XSAa4BQVVfeXFMTWthMFhZcFFuYVZUZktxRGdjTTBCSFFNaXhzXzh5dzlLNkdZblg4c2w5WW9RTllxMWx4MTlUSDdFUFlncjZLT3k1YTVHb0Fha0lLQ29LTlBhYUVuay1IbTRid2s3V3VORzV0bGJJRVRKWXo1bW9OT1RBdktkaUMzdGFhbmlZZEdIUGNRbDNmX1JMNlhydGVha0tEblV2bXZ1UE9iT2ZiOTlCc1locXJ3?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260813T094231Z",
-          "pinned": false
-        },
-        {
           "title": "Suspect arrested in World War II Memorial vandalism in Washington",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcW1nSHJsWXRCY0gzME12RElZYVl0d2c2N25xeFhFM0duZzhsdmtyMEpPdFVtS3JiYk1IU2lndTVIZVkxeDJBVzNqZ2tkSVBqM1laZ1ZXQWoxTHkxRUxpVmRCcjY1WjJhSndpeGlFemk2bnBrSFNMcTZJU2lwUWF1LW5rTmM1azR2eEY0cXlPMlpWY0JjR3g1R2xIbHVYMWc?oc=5",
           "domain": "apnews.com",
@@ -923,11 +915,11 @@
           "pinned": false
         },
         {
-          "title": "Yemen faces highest risk of returning to war since 2022 truce, UN warns",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNWFEeGdBYlhyWWFOejAwMW4zZXRLNXpiMHF4TWw1RjBCNDBOcmVReDk1S2RPd1hKQ2MxYTlDckpyUlY5bHBXWUowZHAwWGU5UDljbDlrOTlVYlFLRzZiSzBuTGJoSGVpMWt0OG5pQUpMb25VbVZIdFpGdlBkNmNWNWdhVllhY3B6X181WkpvT0w2SXNGUGFqOENaT29hcFFkSDJFTFdhb215UXlDdWtPaNIBtgFBVV95cUxPR0QtNms3V0dBMHhzWnViR3BUX0JkeThQLVhYYkR4WGZNVEl0Sjd2YVlzQjVyNW82T1RFYm95aXlONlUzOVYtOFQyN3lPSmNRVmwxdmcwRFRJdjFPTnFjOHBPcXlreHNkYTl5UFhPQ0NQZkY5SlhYS2hSU21LTmtVV0lyVktBTE1lVmdFaDFFRzlfSm9lc2VBYzFpZllRTW9YUTEtcUh1Y0tXZjUxNHJYa0gzb1lfUQ?oc=5",
+          "title": "Yemeni forces say Houthi attack repelled in Taiz amid escalation",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObG1mck84WmVJcXVfRFQ3M2pxMU9YLVNaaUd3dTdZQ2djQWo0TWJyS0lSUW80c2lzUmJaZnJqdUhuREdVR2hZMkJQdlJHZVF1NTMzQWhTRTNSRTdNTzhmQU91amNkR0JPLVlOVVFCcFBlemlBeTNHclRTaE9WT2VEcmJqaFVyMml1Ylk3WktiV3VJOUdQVzJiZXEzbERDMkFHU2d4dHJPU0XSAa4BQVVfeXFMTWthMFhZcFFuYVZUZktxRGdjTTBCSFFNaXhzXzh5dzlLNkdZblg4c2w5WW9RTllxMWx4MTlUSDdFUFlncjZLT3k1YTVHb0Fha0lLQ29LTlBhYUVuay1IbTRid2s3V3VORzV0bGJJRVRKWXo1bW9OT1RBdktkaUMzdGFhbmlZZEdIUGNRbDNmX1JMNlhydGVha0tEblV2bXZ1UE9iT2ZiOTlCc1locXJ3?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260814T001607Z",
+          "seen": "20260813T094231Z",
           "pinned": false
         },
         {
@@ -952,14 +944,6 @@
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "seen": "20260814T131600Z",
-          "pinned": false
-        },
-        {
-          "title": "Israeli air strike kills one in northern Gaza",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPN1ljRVZMV2c2cVJOVEt0YVZhdkdtR0hfcHVvZGVZZThfdUszaW5WMmMzYnd1bXBnc09pQ3NObm9jaF8wc0xELUJueU1FMGZwZ0RhMDZWeHFWazd5ZlZVeloyN1VsWGJsNnoyZ2IxUy1MMko3VFR3Y2h2dWhPclhFT2czeVZ6LXN1NWdNeUpHSdIBlAFBVV95cUxQcks3bWNfYnpRcTBYd2t3SmJxOXRvcmw3dWZ5QWljNjRIbXlha1dwTV95VjhzdF9fbzhaTkRtMGUzdHVZM2xpbjRjempPMlA1NUlINFJTazVSRmgtYmpkLUpPdmJPU2M5clJaaExQMGJIU1VnT3d4MVdsRHVORTJpV3k2bFBEQ3pBVHFjZ2VnYlVPYUVi?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260812T211124Z",
           "pinned": false
         },
         {
@@ -995,19 +979,35 @@
           "pinned": false
         },
         {
-          "title": "Ukrainian drones strike a major refinery deep inside Russia, setting it ablaze",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa1I3UzM3M1VROS00bkZEN2ZJZnNJZUF0bnIwOHVxR3JIcm5FOC1CWjBhaWNCZzAwMmhLZm1UNEdZRnppTkZQc0JEb2o1NVlpSG8xbk1kaF9YYjFwMDZHMUpyX3A5UmpraFJsTVZENUNqVktmWGRCemdpTzFyWGNaWGNwMFlSdUJTU1FIazkzVE5IeW1fbnc?oc=5",
-          "domain": "apnews.com",
+          "title": "Yemen’s government says Houthi attack on al-Makha kills at least four",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTVBOTXhzdU1DUmFZVk9lVmFiYXZUZndyUlRuQzA5TGRfNm9NRUg1eGtzZEc3TzZsVlloQTFMVWxBMVFsUlJWOUx3M2xENVp0c0xDYTgwYnhlU3llY1hfMjBKVm10cU1JYlJxYXZNQWoyaGR6Q3JFSDZ0OXhBVlcwNmwtOUtla2t1dGhwOGhEUFl2clZKQjM2TFF1SHZSNEE0QTRKTkJwYXZpVHkydUHSAbMBQVVfeXFMTWFYbkV5dmRyZUFsaHF6UUxfTlM0c3J1dGZoNDQ3ZTlxTFVJMnJsblZFVFBjUEJkSEt1TDJJTEhVVVotX19ZQWtKdlh0TURJWVZSNEJSempWX3VYU0FiSXdld1hsY2JRaElMM2pEdUVEZnVPTFpsalIxbVE1UlcyTFpLeFJRUW4wd0lZbjlESWFjY0dfaHBENjAzQjloUWQwQ3hrRXZpYWdValk1TnRUajhpSkk?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260813T114844Z",
+          "seen": "20260814T224829Z",
           "pinned": false
         },
         {
-          "title": "Gaza City police chief killed as Israel pushes on with deadly strikes",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR1ZYTzVwVTRyd01hTV9WZ0hDeUxIeldPc1RNNjVQOFo5U2NSdUJTV0k4ZUJnMmJtR3Z0c0hYQ1FIMmp1dkMyWkVzVDJEaVBfXzJYZFI2cEg1TWpya2NSdC0zbDNkRnRQbW5MakRyOGktN0xIREd3bGt4UG9JbEJ6UFNCSFlhQk81MFRYTTA2MzhIeDhfeTFsYXNQenpaT3EyXzZRUDJaVGlRVjU3aVdR0gG0AUFVX3lxTE81WERIWXdheUE3Vm9SRGFjWk1fSm40RkdkUjJ2dVFpMThvTUhGbVdsZXM3RVRsblA4YWZyc0dKaE9Pc2ltam5COXBsMHNQeWJRV0k1dndMY19yakNVSEFWLUJ2NnlYVlV6QlItNXZXWHhSOG9pUEo2WFVLbGtBV1p3Z2JVb1FvU21LdEJDNDZNRkdrOXFuYTkwWEJXSDVaM3NpckZ4ZEdlS0VCNUtwamFEOFBVMw?oc=5",
+          "title": "North Korea fumes over upcoming US-South Korea military drills",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObEhnX0xTOHFuOUtNOWRrRVJrUUVTVWRoUU1mSFdZdUdqZ3NRdkVUclpNMkE1dnVkNUNZX2xZNmotV214RHEtbFc1UEp3b3ZTXzFhUGdkamx5cTlDY0RGU1J4cUlGTTZ4bUdNTTJaTXNuSHpRdGVBYjRJaG5PblpncW14Vmc0OVdnUHdSM0hQcDV2NThuNW5WX0pta0NBLXJtSV9MLVh30gGrAUFVX3lxTE5odlg2YVA4VTVrUHJJOXpLQXFNOURQeTZ5QTFmeURlN0diNUM5REs2RWptdWl0TFAtdnUxb3loc3hfQjZBVXBiT0RwRDhsUFRXbVZNeG5RRmhBVzViNE90TmlLcmNnTkNUejI2ZF9DZklaWG10c3BMZDlPaE9jOGRjOENsY202Q3plM0ZRUGRTSDAyNkNrbUV6ZjVIVDBrYWkwSG5STG9kVEQ5MA?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260813T231207Z",
+          "seen": "20260814T054907Z",
+          "pinned": false
+        },
+        {
+          "title": "Hegseth cautions that ICC may investigate US boat strikes in Latin America",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd25ZaTBmTEt5ZjBXV2lOQUYyYVhtbE5fMlA0b2NtSnZiQlR6M0wySWVtZG9TYl9hR2Jha3kzeGZMSlp1X2ZCTVVaTEtNUW1fTlA3YUxMQ0dfbVRpdzJsck8wbXB2NW9Vd1pPeGNKZ3dEZGJZNmNzSkVmVkk4WS1rWVN5LWJTR0FVWExNM2VXZFBoRFc2ZzA2eW5vcFVrQm8wUjF1bmRiT2psMUVyOUhZcy00c1E4Z9IBuwFBVV95cUxPTDJYd1RTOUlBdFBEa2R3VjZqVUhhcEtDdVRIMGNXUGhyVmp3Uy0zMjFEQ1NiM3gtT3FCWDMxakVBNmJJelFYMnhpaG1zYlh0YS05LUdUc0pfT1A2LVRPYkptRkRURG1LVFFaTEtjdmJSYTBEMmsyd0oxbGRZS3dIX0NaNUNkX0xlRlRkazBjQmYtVVdSaG5GV1BJVlk0TDRTQXgzZ29xNkpzYTBvS0lodTUzS25KeXdydS1n?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260812T215953Z",
+          "pinned": false
+        },
+        {
+          "title": "UK economy grows but experts warn of challenging months ahead",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CRWxMQlhxSXd3cjEyMkRCSGUtQzl2UXIzcF9GRVJpdkVTMEdaeHFpT2lwVXpsNVNld1VkakN2VmVVRmFJekZPVkRwalVXWWtvYVJQLXBqRTJKUQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260813T101756Z",
           "pinned": false
         }
       ],
@@ -1112,15 +1112,6 @@
           "reportedAt": "2026-08-13T19:12:10Z"
         },
         {
-          "id": "report-82195d686f59",
-          "title": "Yemeni forces say Houthi attack repelled in Taiz amid escalation",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObG1mck84WmVJcXVfRFQ3M2pxMU9YLVNaaUd3dTdZQ2djQWo0TWJyS0lSUW80c2lzUmJaZnJqdUhuREdVR2hZMkJQdlJHZVF1NTMzQWhTRTNSRTdNTzhmQU91amNkR0JPLVlOVVFCcFBlemlBeTNHclRTaE9WT2VEcmJqaFVyMml1Ylk3WktiV3VJOUdQVzJiZXEzbERDMkFHU2d4dHJPU0XSAa4BQVVfeXFMTWthMFhZcFFuYVZUZktxRGdjTTBCSFFNaXhzXzh5dzlLNkdZblg4c2w5WW9RTllxMWx4MTlUSDdFUFlncjZLT3k1YTVHb0Fha0lLQ29LTlBhYUVuay1IbTRid2s3V3VORzV0bGJJRVRKWXo1bW9OT1RBdktkaUMzdGFhbmlZZEdIUGNRbDNmX1JMNlhydGVha0tEblV2bXZ1UE9iT2ZiOTlCc1locXJ3?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-13T09:42:31Z"
-        },
-        {
           "id": "report-adfaa3be82c8",
           "title": "Suspect arrested in World War II Memorial vandalism in Washington",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcW1nSHJsWXRCY0gzME12RElZYVl0d2c2N25xeFhFM0duZzhsdmtyMEpPdFVtS3JiYk1IU2lndTVIZVkxeDJBVzNqZ2tkSVBqM1laZ1ZXQWoxTHkxRUxpVmRCcjY1WjJhSndpeGlFemk2bnBrSFNMcTZJU2lwUWF1LW5rTmM1azR2eEY0cXlPMlpWY0JjR3g1R2xIbHVYMWc?oc=5",
@@ -1130,13 +1121,13 @@
           "reportedAt": "2026-08-14T17:40:00Z"
         },
         {
-          "id": "report-e297bc09cefa",
-          "title": "Yemen faces highest risk of returning to war since 2022 truce, UN warns",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNWFEeGdBYlhyWWFOejAwMW4zZXRLNXpiMHF4TWw1RjBCNDBOcmVReDk1S2RPd1hKQ2MxYTlDckpyUlY5bHBXWUowZHAwWGU5UDljbDlrOTlVYlFLRzZiSzBuTGJoSGVpMWt0OG5pQUpMb25VbVZIdFpGdlBkNmNWNWdhVllhY3B6X181WkpvT0w2SXNGUGFqOENaT29hcFFkSDJFTFdhb215UXlDdWtPaNIBtgFBVV95cUxPR0QtNms3V0dBMHhzWnViR3BUX0JkeThQLVhYYkR4WGZNVEl0Sjd2YVlzQjVyNW82T1RFYm95aXlONlUzOVYtOFQyN3lPSmNRVmwxdmcwRFRJdjFPTnFjOHBPcXlreHNkYTl5UFhPQ0NQZkY5SlhYS2hSU21LTmtVV0lyVktBTE1lVmdFaDFFRzlfSm9lc2VBYzFpZllRTW9YUTEtcUh1Y0tXZjUxNHJYa0gzb1lfUQ?oc=5",
+          "id": "report-82195d686f59",
+          "title": "Yemeni forces say Houthi attack repelled in Taiz amid escalation",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObG1mck84WmVJcXVfRFQ3M2pxMU9YLVNaaUd3dTdZQ2djQWo0TWJyS0lSUW80c2lzUmJaZnJqdUhuREdVR2hZMkJQdlJHZVF1NTMzQWhTRTNSRTdNTzhmQU91amNkR0JPLVlOVVFCcFBlemlBeTNHclRTaE9WT2VEcmJqaFVyMml1Ylk3WktiV3VJOUdQVzJiZXEzbERDMkFHU2d4dHJPU0XSAa4BQVVfeXFMTWthMFhZcFFuYVZUZktxRGdjTTBCSFFNaXhzXzh5dzlLNkdZblg4c2w5WW9RTllxMWx4MTlUSDdFUFlncjZLT3k1YTVHb0Fha0lLQ29LTlBhYUVuay1IbTRid2s3V3VORzV0bGJJRVRKWXo1bW9OT1RBdktkaUMzdGFhbmlZZEdIUGNRbDNmX1JMNlhydGVha0tEblV2bXZ1UE9iT2ZiOTlCc1locXJ3?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-14T00:16:07Z"
+          "reportedAt": "2026-08-13T09:42:31Z"
         },
         {
           "id": "report-c45b3859059b",
@@ -1164,15 +1155,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-14T13:16:00Z"
-        },
-        {
-          "id": "report-2d38d7168609",
-          "title": "Israeli air strike kills one in northern Gaza",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPN1ljRVZMV2c2cVJOVEt0YVZhdkdtR0hfcHVvZGVZZThfdUszaW5WMmMzYnd1bXBnc09pQ3NObm9jaF8wc0xELUJueU1FMGZwZ0RhMDZWeHFWazd5ZlZVeloyN1VsWGJsNnoyZ2IxUy1MMko3VFR3Y2h2dWhPclhFT2czeVZ6LXN1NWdNeUpHSdIBlAFBVV95cUxQcks3bWNfYnpRcTBYd2t3SmJxOXRvcmw3dWZ5QWljNjRIbXlha1dwTV95VjhzdF9fbzhaTkRtMGUzdHVZM2xpbjRjempPMlA1NUlINFJTazVSRmgtYmpkLUpPdmJPU2M5clJaaExQMGJIU1VnT3d4MVdsRHVORTJpV3k2bFBEQ3pBVHFjZ2VnYlVPYUVi?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-12T21:11:24Z"
         },
         {
           "id": "report-31ee281469c0",
@@ -1211,22 +1193,40 @@
           "reportedAt": "2026-08-13T17:27:15Z"
         },
         {
-          "id": "report-d5e790f8c77d",
-          "title": "Ukrainian drones strike a major refinery deep inside Russia, setting it ablaze",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa1I3UzM3M1VROS00bkZEN2ZJZnNJZUF0bnIwOHVxR3JIcm5FOC1CWjBhaWNCZzAwMmhLZm1UNEdZRnppTkZQc0JEb2o1NVlpSG8xbk1kaF9YYjFwMDZHMUpyX3A5UmpraFJsTVZENUNqVktmWGRCemdpTzFyWGNaWGNwMFlSdUJTU1FIazkzVE5IeW1fbnc?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-13T11:48:44Z"
-        },
-        {
-          "id": "report-a2be198a7521",
-          "title": "Gaza City police chief killed as Israel pushes on with deadly strikes",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR1ZYTzVwVTRyd01hTV9WZ0hDeUxIeldPc1RNNjVQOFo5U2NSdUJTV0k4ZUJnMmJtR3Z0c0hYQ1FIMmp1dkMyWkVzVDJEaVBfXzJYZFI2cEg1TWpya2NSdC0zbDNkRnRQbW5MakRyOGktN0xIREd3bGt4UG9JbEJ6UFNCSFlhQk81MFRYTTA2MzhIeDhfeTFsYXNQenpaT3EyXzZRUDJaVGlRVjU3aVdR0gG0AUFVX3lxTE81WERIWXdheUE3Vm9SRGFjWk1fSm40RkdkUjJ2dVFpMThvTUhGbVdsZXM3RVRsblA4YWZyc0dKaE9Pc2ltam5COXBsMHNQeWJRV0k1dndMY19yakNVSEFWLUJ2NnlYVlV6QlItNXZXWHhSOG9pUEo2WFVLbGtBV1p3Z2JVb1FvU21LdEJDNDZNRkdrOXFuYTkwWEJXSDVaM3NpckZ4ZEdlS0VCNUtwamFEOFBVMw?oc=5",
+          "id": "report-c81b8199d1c7",
+          "title": "Yemen’s government says Houthi attack on al-Makha kills at least four",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTVBOTXhzdU1DUmFZVk9lVmFiYXZUZndyUlRuQzA5TGRfNm9NRUg1eGtzZEc3TzZsVlloQTFMVWxBMVFsUlJWOUx3M2xENVp0c0xDYTgwYnhlU3llY1hfMjBKVm10cU1JYlJxYXZNQWoyaGR6Q3JFSDZ0OXhBVlcwNmwtOUtla2t1dGhwOGhEUFl2clZKQjM2TFF1SHZSNEE0QTRKTkJwYXZpVHkydUHSAbMBQVVfeXFMTWFYbkV5dmRyZUFsaHF6UUxfTlM0c3J1dGZoNDQ3ZTlxTFVJMnJsblZFVFBjUEJkSEt1TDJJTEhVVVotX19ZQWtKdlh0TURJWVZSNEJSempWX3VYU0FiSXdld1hsY2JRaElMM2pEdUVEZnVPTFpsalIxbVE1UlcyTFpLeFJRUW4wd0lZbjlESWFjY0dfaHBENjAzQjloUWQwQ3hrRXZpYWdValk1TnRUajhpSkk?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-13T23:12:07Z"
+          "reportedAt": "2026-08-14T22:48:29Z"
+        },
+        {
+          "id": "report-0231136a55fd",
+          "title": "North Korea fumes over upcoming US-South Korea military drills",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObEhnX0xTOHFuOUtNOWRrRVJrUUVTVWRoUU1mSFdZdUdqZ3NRdkVUclpNMkE1dnVkNUNZX2xZNmotV214RHEtbFc1UEp3b3ZTXzFhUGdkamx5cTlDY0RGU1J4cUlGTTZ4bUdNTTJaTXNuSHpRdGVBYjRJaG5PblpncW14Vmc0OVdnUHdSM0hQcDV2NThuNW5WX0pta0NBLXJtSV9MLVh30gGrAUFVX3lxTE5odlg2YVA4VTVrUHJJOXpLQXFNOURQeTZ5QTFmeURlN0diNUM5REs2RWptdWl0TFAtdnUxb3loc3hfQjZBVXBiT0RwRDhsUFRXbVZNeG5RRmhBVzViNE90TmlLcmNnTkNUejI2ZF9DZklaWG10c3BMZDlPaE9jOGRjOENsY202Q3plM0ZRUGRTSDAyNkNrbUV6ZjVIVDBrYWkwSG5STG9kVEQ5MA?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-14T05:49:07Z"
+        },
+        {
+          "id": "report-f8651bc7c07b",
+          "title": "Hegseth cautions that ICC may investigate US boat strikes in Latin America",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd25ZaTBmTEt5ZjBXV2lOQUYyYVhtbE5fMlA0b2NtSnZiQlR6M0wySWVtZG9TYl9hR2Jha3kzeGZMSlp1X2ZCTVVaTEtNUW1fTlA3YUxMQ0dfbVRpdzJsck8wbXB2NW9Vd1pPeGNKZ3dEZGJZNmNzSkVmVkk4WS1rWVN5LWJTR0FVWExNM2VXZFBoRFc2ZzA2eW5vcFVrQm8wUjF1bmRiT2psMUVyOUhZcy00c1E4Z9IBuwFBVV95cUxPTDJYd1RTOUlBdFBEa2R3VjZqVUhhcEtDdVRIMGNXUGhyVmp3Uy0zMjFEQ1NiM3gtT3FCWDMxakVBNmJJelFYMnhpaG1zYlh0YS05LUdUc0pfT1A2LVRPYkptRkRURG1LVFFaTEtjdmJSYTBEMmsyd0oxbGRZS3dIX0NaNUNkX0xlRlRkazBjQmYtVVdSaG5GV1BJVlk0TDRTQXgzZ29xNkpzYTBvS0lodTUzS25KeXdydS1n?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-12T21:59:53Z"
+        },
+        {
+          "id": "report-0a8202a40f94",
+          "title": "UK economy grows but experts warn of challenging months ahead",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CRWxMQlhxSXd3cjEyMkRCSGUtQzl2UXIzcF9GRVJpdkVTMEdaeHFpT2lwVXpsNVNld1VkakN2VmVVRmFJekZPVkRwalVXWWtvYVJQLXBqRTJKUQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-13T10:17:56Z"
         },
         {
           "id": "report-dd2a1637dc48",
