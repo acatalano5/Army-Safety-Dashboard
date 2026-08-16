@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-16T13:01:43.407Z",
+  "generatedAt": "2026-08-16T16:49:42.123Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -21,7 +21,7 @@
       ]
     },
     "safety": {
-      "generatedAt": "2026-08-15T16:02:23.799Z",
+      "generatedAt": "2026-08-16T16:49:42.123Z",
       "cadence": "daily",
       "items": [
         {
@@ -41,27 +41,11 @@
           "pinned": false
         },
         {
-          "title": "Navy conducts safety review after Blue Angels low-altitude flyover",
-          "url": "https://apnews.com/article/hegseth-blue-angels-military-flyovers-safety-c2601ce50f433996c919464f1de7985c",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260716T220900Z",
-          "pinned": false
-        },
-        {
           "title": "Army temporarily halts Apache helicopter training missions after Texas crash that killed 2",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUHJKakZQVFZXSVozZVdiZ0Q0NkNvQXJMUmE1VkV6YlVNSDRDMFJFVWE1bFByZ01SdXdPMEJ3RUVDNUpmNnZQdGZzYzZwLU9MNUVIckxSQzk1MVRzUkEyb2pPNWV0bW9CSkc1QnpSRm4xVlFMMmEzdFVpYnlpaWxWN0J3elFCYTFlQnJxdllXeGZzVGdPdFlIal9yODRzOGlvbzNneFBWQzY?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "seen": "20260814T224100Z",
-          "pinned": false
-        },
-        {
-          "title": "Advocates for former US Marine held in Russia for more than 4 years say he is near death",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV3c2S3h2dndCRWxhYklMNmZTSnlGVU82Q0dxc2hZWi1DZ0JENzNOeUpUUUU0OGxCdDRlUzBSdGtTQWtsYThIaG9Rc0E5cWxPdDBPYUQwSHFZM2Vjb2I2bXNYYjA1U0E5S2cydmhabkY4bFFndEhQUWdLTXY1eUNBd2RGVm1TS1NpLXU5T0JIaXg0VWs?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260807T180800Z",
           "pinned": false
         },
         {
@@ -73,19 +57,11 @@
           "pinned": false
         },
         {
-          "title": "Army identifies soldiers killed in Texas Apache helicopter crash",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZTU84TkwxQ3Vad0x3TlFfMFlxa1dnQUdEcHRRZ1A5ZGhXV1VoeUdBTk1lS1RmdmVTLS11RUNNcmdaNXdSZ0FFcEdzS3ZLc3d6Q1IzeEZXR2lYN21yQmpZeFN5NjRBT1JnZGJtVVY1T2M3THE5c2cw?oc=5",
-          "domain": "taskandpurpose.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260814T125012Z",
-          "pinned": false
-        },
-        {
           "title": "Army temporarily grounds training flights of Apache helicopters after Fort Hood crash",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQXhDSWw2RXFuekdlTGpxNEF6NFY4UnNoSVBlS3l3eWZhQ09KZHZOSV9zUTlEREVaQnRGaVhYWW9Sell4cTc2UjJNd3FlZGJnTWI1WV9zeV9aRnhzSHkyZ2NRN2RJMU5mRGVZWTRLRFNZd1BfeUhpX2VicnZsRzNLTWJ0dWNDUTlqX2RNN2dJM1JYV2VMSmt2QkpzTFRPdHBxYmFHZTFUM0tHdzlJRmhF?oc=5",
           "domain": "stripes.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260814T050200Z",
+          "seen": "20260814T213808Z",
           "pinned": false
         },
         {
@@ -97,19 +73,19 @@
           "pinned": false
         },
         {
+          "title": "Army identifies soldiers killed in Texas Apache helicopter crash",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZTU84TkwxQ3Vad0x3TlFfMFlxa1dnQUdEcHRRZ1A5ZGhXV1VoeUdBTk1lS1RmdmVTLS11RUNNcmdaNXdSZ0FFcEdzS3ZLc3d6Q1IzeEZXR2lYN21yQmpZeFN5NjRBT1JnZGJtVVY1T2M3THE5c2cw?oc=5",
+          "domain": "taskandpurpose.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260814T125012Z",
+          "pinned": false
+        },
+        {
           "title": "Army Apache helicopter crash in Texas kills 2 crew members aboard",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wZ2dndl9pV01FamMxRXhBVDlXcGpMUkdWM2hvV2NCM2NPSTVmaU5UN1B1eXBFMUg1TFdZdllRaF9md0R1VloweGhxX2FSQnNETl95SjllemFBMm1rVllXQnhLZldOSHM?oc=5",
           "domain": "taskandpurpose.com",
           "sourceTier": "Independent reporting",
           "seen": "20260812T221748Z",
-          "pinned": false
-        },
-        {
-          "title": "Court rules Air Force diverted injured, sick service members from official disability evaluation",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQzMxLThDNzhZMUNpYWJMa2JRcE04TEsxQU5CXzdsZWNVYUpKMGttSjFhVzVqVEpTSEswTHk1dlBSU2RlQzZJZ0hjOURJY1c2VmVYTmFRR3FPRlMtVFZ2M0hpWE1jQjF2OGVmZnZrYkVyLWkyRXUtb1pDVFNtTVJZNXpXNzJpbWhmbHNjajNfM1pvc1dIbjVKU042aGY0WUlncHhqaA?oc=5",
-          "domain": "stripes.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260810T214701Z",
           "pinned": false
         },
         {
@@ -189,24 +165,6 @@
           "sourceLabel": "apnews.com"
         },
         {
-          "id": "auto-686b02b2cfc8",
-          "reportDate": "2026-08-14",
-          "dateBasis": "report discovery date",
-          "branch": "Army",
-          "department": "Department of the Army",
-          "type": "Aviation",
-          "event": "Army identifies soldiers killed in Texas Apache helicopter crash",
-          "location": "See official source",
-          "fatalities": null,
-          "injuries": null,
-          "status": "REPORTED / UNVALIDATED",
-          "signalClass": "REPORTED MISHAP",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
-          "source": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZTU84TkwxQ3Vad0x3TlFfMFlxa1dnQUdEcHRRZ1A5ZGhXV1VoeUdBTk1lS1RmdmVTLS11RUNNcmdaNXdSZ0FFcEdzS3ZLc3d6Q1IzeEZXR2lYN21yQmpZeFN5NjRBT1JnZGJtVVY1T2M3THE5c2cw?oc=5",
-          "sourceLabel": "taskandpurpose.com"
-        },
-        {
           "id": "auto-cbae79c7b676",
           "reportDate": "2026-08-14",
           "dateBasis": "report discovery date",
@@ -240,6 +198,24 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
           "source": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4zM2dvVmRQZVdBazNrdU9ER3dKbm9BY1pXaV9jLXJGWW0wbHlsZGpiSy1ObFBMM0ZPRGlQQkpXSFpzYVpFU28xdGVFeGlyUzhScEk1MXZOc0kyNXVpZ0RleGtxRk1MYTRjcXZRYmxWWnhCMUx5Q0taMQ?oc=5",
+          "sourceLabel": "taskandpurpose.com"
+        },
+        {
+          "id": "auto-686b02b2cfc8",
+          "reportDate": "2026-08-14",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Aviation",
+          "event": "Army identifies soldiers killed in Texas Apache helicopter crash",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZTU84TkwxQ3Vad0x3TlFfMFlxa1dnQUdEcHRRZ1A5ZGhXV1VoeUdBTk1lS1RmdmVTLS11RUNNcmdaNXdSZ0FFcEdzS3ZLc3d6Q1IzeEZXR2lYN21yQmpZeFN5NjRBT1JnZGJtVVY1T2M3THE5c2cw?oc=5",
           "sourceLabel": "taskandpurpose.com"
         },
         {
