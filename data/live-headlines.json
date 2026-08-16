@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-16T16:49:42.123Z",
+  "generatedAt": "2026-08-16T16:59:50.455Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -21,7 +21,7 @@
       ]
     },
     "safety": {
-      "generatedAt": "2026-08-16T16:49:42.123Z",
+      "generatedAt": "2026-08-16T16:59:50.455Z",
       "cadence": "daily",
       "items": [
         {
@@ -41,11 +41,35 @@
           "pinned": false
         },
         {
+          "title": "Navy suspends search after MH-60S helicopter mishap; one Sailor missing",
+          "url": "https://www.navy.mil/Press-Office/Statements/display-statement/Article/4533332/us-navy-suspended-active-search-for-a-sailor-assigned-to-helicopter-sea-combat/",
+          "domain": "navy.mil",
+          "sourceTier": "Official military source",
+          "seen": "20260705T150000Z",
+          "pinned": false
+        },
+        {
+          "title": "Navy conducts safety review after Blue Angels low-altitude flyover",
+          "url": "https://apnews.com/article/hegseth-blue-angels-military-flyovers-safety-c2601ce50f433996c919464f1de7985c",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260716T220900Z",
+          "pinned": false
+        },
+        {
           "title": "Army temporarily halts Apache helicopter training missions after Texas crash that killed 2",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUHJKakZQVFZXSVozZVdiZ0Q0NkNvQXJMUmE1VkV6YlVNSDRDMFJFVWE1bFByZ01SdXdPMEJ3RUVDNUpmNnZQdGZzYzZwLU9MNUVIckxSQzk1MVRzUkEyb2pPNWV0bW9CSkc1QnpSRm4xVlFMMmEzdFVpYnlpaWxWN0J3elFCYTFlQnJxdllXeGZzVGdPdFlIal9yODRzOGlvbzNneFBWQzY?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "seen": "20260814T224100Z",
+          "pinned": false
+        },
+        {
+          "title": "Sailors aboard the USS John Finn conduct a crash and salvage drill in the South China Sea [Image 5 of 5]",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMlpFbk4xWmpVMnpodXFaWEt3LWFQd1dnc0E5VDhZRjBJTTZsZF8tZTg3enpoZlN0eHlhSjZteEUtT1pIWDBjcVNqaENsYWFnTG1Kam1OdGlRVkFjNmQ5bFJ0XzFoek1za3hGS2hERVVZN3h4WjBEX0Q4dk02aF9qOUxNal84OU5rOVZ4SjdtUjNNYVpTY2hIQnVVcm9IVmF5ejcyYXF6UUg1V29KT1Z6emxYTUVwZw?oc=5",
+          "domain": "dvidshub.net",
+          "sourceTier": "Official military source",
+          "seen": "20260131T080000Z",
           "pinned": false
         },
         {
@@ -121,27 +145,43 @@
           "pinned": false
         },
         {
-          "title": "Coast Guard Conducting Investigation to Fatal Incident near Liberty Island",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPR1BTQU9ETXY3djdvaDJZNTdhWkk0TFhiUUdQc1BBQ2R2bEtaRHFpTnF0RGJWSVhnZlBXUkFsQ0hKSDJLRE45emtlUEpjRlRBUHhYaHpLOEZZYUk3WWMxdHBMelFHRm1PMzhJeWVFUDd6UU5VN1k4cGphRkhiclZrUjZwMUVOdHJrM0lXTkpVQkdTTHBablBlWlhiVEpYRk5WLVhWcnBaQTdtUlljRkhxdXA0NmFtSk5fVG5jWF9IU3Y3OVB6cmdZblZ3RGo?oc=5",
-          "domain": "news.uscg.mil",
+          "title": "Mishap Investigation Advice",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc19FY29CaU9ZS05HZ010VnR3R2FGa1JBMFZTb2tZdEJLZkpfRTRLdm9VdGEwallmUi14dGlYNC12dmhYU3ZxaXJrQWJBM25LdmxadFFOanlYUWhkZFhmVTF2NG5iTUtfNHVJaWpiRVZ6UmdoVkxxUlU4OFFVVG13UA?oc=5",
+          "domain": "safety.army.mil",
           "sourceTier": "Official military source",
-          "seen": "20260809T144832Z",
+          "seen": "20221207T215155Z",
           "pinned": false
         },
         {
-          "title": "Coast Guard suspends search for missing male at Gun Beach, Guam",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObGtBUGhrZ2JIT1RId3RsV2xrV0FZcy11RnNlQzkxeTdFZnJZaWJsWVVWN0ZhRWxQTDFwVk9IQUh5dXhkSkg5cm9Sc3lIYXRuR2RzcVlDVkRnc2hDXzVxam8ycERuUzZZTHRsN1JVZUVLZzJXcUpkYU5NMmZqVmtnV1N6dS1DeFBOVFdQZE5wU2xCU0tNd3BNU1NOTTh3QzR1clJSc1FFdXpodEJwY0RFektqeHU5SU5rRnF3QQ?oc=5",
-          "domain": "news.uscg.mil",
+          "title": "PLR 26-026 – Industrial/Occupational Mishap Claims One Soldier's Life",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVFBVWXBUbHd4ZjZrRUxIczczNkR4bVNBNGYxNElhdGU5WkRvaFJCMEQ0RFg0NXJCcUdiUkNZU3RCc3lJaDR1UWlDME1aOXBZNlFLY21IaGh4cmlJMTVzekVkN3VPcjdYcklvZjdsYmxLcEZZdF8zOFFQeEgwT0lXNDVLRE5semZ1cnE3dDBobmpWUWZ4TkZ2X1ZwYllMYlphbG5aLU1PTkpnZW0tbS1OQWEwQ0RiTUV1OG1ILVhfNnM1SUltUG5sYTBISFJtT0F5ZFRzaUdyZUdVQ09UY0lKTQ?oc=5",
+          "domain": "safety.army.mil",
           "sourceTier": "Official military source",
-          "seen": "20260814T234727Z",
+          "seen": "20260421T070000Z",
           "pinned": false
         },
         {
-          "title": "Update: Coast Guard suspends search for missing man in Lake Erie",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeEhCZEd6eGRpc1RvV0lkYWlmczdfQkF2SjV4LUtIbVpHR1E0TjB0cm9qWVo0SThxa2N3RVdmRjctNENoZm9lU3NTNmhPUWVtdWRjV0M1SERDWXgzdGNORWdUM1BrM1hzcXpYd3g4dF85cVFrWUFPQjBUTXdtLWRJemIzN0c0RXZORnVPS21OQUVzTy1UX3NhMkhpNkRJNTNiVU9yTHY3ZFFLMmNRSkJQTGdfal9neEV6VE01REh3?oc=5",
-          "domain": "news.uscg.mil",
+          "title": "8 US soldiers released from hospital after armored vehicle crash at Hohenfels",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOTViVVZJUGVFWGUtRmlLV2l6MmhlUkdfRHBad2JBQjVOV0hnTFp5Z19HS1lETWZpOVVLWDlXaHhNQUE1V203Q0RLZ1EyX2tZRGs5bk9LUEQ1bTc4UGp0WVdDWmF1cElIbUxiaERyYXRVd1ZlNExVYkJYendiZGdUYUY0SWMwendxYmhNell4dkZtdS1nRjdQeg?oc=5",
+          "domain": "stripes.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20230914T070000Z",
+          "pinned": false
+        },
+        {
+          "title": "PLR 25-080 – Weapons and Explosives Mishap Claims One Soldier's Life",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTWx6TjVfelZZNE5uTnpWYVZtUld5TWRTZHlKY1AtRDQ1T0RTelpaczR1S2R3YkdSbEQyMmlsT2hYajN2WE9laWp2Vi1CMS1oYWN6ZkZHeEJpblVEQVFCTmpxdmNBa0VwNEtmSjFrOGpSdXM0U2l6RmszVU01Ujk1bjNtYW9xM3VBd0o4WG9QajIxNENjYWFOek95dkUxQm1jdVlMTkJPWTkxVG9GWVlqQVpUYlc1R2ZNUFZTcEQzOE42WmdpOERvT1VtV2dXbTFxZ2NWcHpKUTgyLTJBc2g3cw?oc=5",
+          "domain": "safety.army.mil",
           "sourceTier": "Official military source",
-          "seen": "20260813T151142Z",
+          "seen": "20250814T070000Z",
+          "pinned": false
+        },
+        {
+          "title": "Was it Really an Accident?",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdHhIX0o1VkIycm1nVUMzUVVTTV82eWoyZDZuSzlPSG1QQ3VrSTVXc2ZtbkJOaVJGTGc2SkJQTnlDaEdVX2psQW1kMDhZVTlhQXNIeVY4QVp5cE03THBnQVNQQy1GUDlBaXlkcGZCM1VYN2dkTjBMUUhvOUN4RUtleEZuakpBMXZ0akktY0ZRSjVPQ1REZmp5ZkFrcDFQOUZDMVNPN0s5NjBGcXVFeE43SXk5WWcwbU5WdHFXOXc1eEx4M3lBaGtZZUNR?oc=5",
+          "domain": "safety.army.mil",
+          "sourceTier": "Official military source",
+          "seen": "20220302T080000Z",
           "pinned": false
         }
       ],
@@ -739,6 +779,24 @@
           "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
           "source": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVENvcDNTNkJyUlB6MS1IalgxYTBIZXU5U2pzRFUtd2dybC0wQkttM0dhcEJHR0hHZXRRWWo0V19jWmtsUmhMU3NIOVlJbVc1elZpMXBNb0NSanZGTHE5ZS0xeVhuQ2tuLS03LWVsUU1uZ1BIV01UX1FISG1jNlNTUjNhdzBQaTZ2YUEydkl2eXRoQWlwQ2ttbUIyaUlnWVduOXVoQ1VoZnNveDB5djBtR3IxUEZ0aU1EUWZFM29uOFI5VVJ0aVJIVEpHamZ0QUlJNDBZ?oc=5",
           "sourceLabel": "safety.army.mil"
+        },
+        {
+          "id": "auto-6f41029af622",
+          "reportDate": "2026-01-31",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Aviation",
+          "event": "Sailors aboard the USS John Finn conduct a crash and salvage drill in the South China Sea [Image 5 of 5]",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "OFFICIAL INTAKE",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Official military source",
+          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
+          "source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMlpFbk4xWmpVMnpodXFaWEt3LWFQd1dnc0E5VDhZRjBJTTZsZF8tZTg3enpoZlN0eHlhSjZteEUtT1pIWDBjcVNqaENsYWFnTG1Kam1OdGlRVkFjNmQ5bFJ0XzFoek1za3hGS2hERVVZN3h4WjBEX0Q4dk02aF9qOUxNal84OU5rOVZ4SjdtUjNNYVpTY2hIQnVVcm9IVmF5ejcyYXF6UUg1V29KT1Z6emxYTUVwZw?oc=5",
+          "sourceLabel": "dvidshub.net"
         },
         {
           "id": "auto-150d25f19a3a",
