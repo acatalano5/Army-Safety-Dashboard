@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-16T03:31:26.785Z",
+  "generatedAt": "2026-08-16T06:59:30.183Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-08-16T03:31:26.785Z",
+      "generatedAt": "2026-08-16T06:59:30.183Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -911,7 +911,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-08-16T03:31:26.785Z",
+      "generatedAt": "2026-08-16T06:59:30.183Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -979,6 +979,14 @@
           "pinned": false
         },
         {
+          "title": "Arrest announced in vandalism of World War II Memorial",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcW1nSHJsWXRCY0gzME12RElZYVl0d2c2N25xeFhFM0duZzhsdmtyMEpPdFVtS3JiYk1IU2lndTVIZVkxeDJBVzNqZ2tkSVBqM1laZ1ZXQWoxTHkxRUxpVmRCcjY1WjJhSndpeGlFemk2bnBrSFNMcTZJU2lwUWF1LW5rTmM1azR2eEY0cXlPMlpWY0JjR3g1R2xIbHVYMWc?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260814T174000Z",
+          "pinned": false
+        },
+        {
           "title": "Yemeni forces say Houthi attack repelled in Taiz amid escalation",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObG1mck84WmVJcXVfRFQ3M2pxMU9YLVNaaUd3dTdZQ2djQWo0TWJyS0lSUW80c2lzUmJaZnJqdUhuREdVR2hZMkJQdlJHZVF1NTMzQWhTRTNSRTdNTzhmQU91amNkR0JPLVlOVVFCcFBlemlBeTNHclRTaE9WT2VEcmJqaFVyMml1Ylk3WktiV3VJOUdQVzJiZXEzbERDMkFHU2d4dHJPU0XSAa4BQVVfeXFMTWthMFhZcFFuYVZUZktxRGdjTTBCSFFNaXhzXzh5dzlLNkdZblg4c2w5WW9RTllxMWx4MTlUSDdFUFlncjZLT3k1YTVHb0Fha0lLQ29LTlBhYUVuay1IbTRid2s3V3VORzV0bGJJRVRKWXo1bW9OT1RBdktkaUMzdGFhbmlZZEdIUGNRbDNmX1JMNlhydGVha0tEblV2bXZ1UE9iT2ZiOTlCc1locXJ3?oc=5",
           "domain": "aljazeera.com",
@@ -1003,27 +1011,11 @@
           "pinned": false
         },
         {
-          "title": "Arrest announced in vandalism of World War II Memorial",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcW1nSHJsWXRCY0gzME12RElZYVl0d2c2N25xeFhFM0duZzhsdmtyMEpPdFVtS3JiYk1IU2lndTVIZVkxeDJBVzNqZ2tkSVBqM1laZ1ZXQWoxTHkxRUxpVmRCcjY1WjJhSndpeGlFemk2bnBrSFNMcTZJU2lwUWF1LW5rTmM1azR2eEY0cXlPMlpWY0JjR3g1R2xIbHVYMWc?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260814T174000Z",
-          "pinned": false
-        },
-        {
           "title": "Woman charged over vandalism of World War II Memorial in Washington, DC",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaTBUdXF2QlJQVGZqNzZkQzdpdmMxZ0hmQ3ZQMUhNaGpKZ0NmSWk2SjBJQ0s4VGRJZ3M4M0laOHdkYm84RE5TbEtjNlBpWm05azVNbS0zeWl4OThoZHdXRTVSTTM3RkpzT01lNU80T0FMb21ZZHlRcmlzd0ZfSXUtT0VhRmwzYmFJZFozZl9xcFMwRHI4cFRXaUVlWklWTS1OLW1WVk0wYmhTc1JNekFtNdIBtgFBVV95cUxOYW5ubnFmaEQ0ODNMWjd6djZOamhnT1p6UmhjTlJhQmJoZmdWdFllZWZMUmdYdzdyU1FqMEJ1alhWN095TWJhMkgxNDRSRVRyYTRjcENfdHpNdWhTTGYtdzdkTjhRcXdhd3VkakRfQnhhR0JLYmEzS19MR3lzRFVlUnVnMVQ3RlhsZDlMVGt2NVhBTXNKTXVRdkdHVXgzdXB5UlJScVhLcnppTjgzLUlMSUVWZjNSQQ?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260814T190214Z",
-          "pinned": false
-        },
-        {
-          "title": "Houthi attack on port kills four eroding truce with Yemen’s government",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaThDTlI0Q2gxMndJOHd1c1IxWHYzVUNrOWFnRzUtYXIzV2xZRUQ3SDhQT3l1dnp0WGFDTU1LOUpzTzUwdGVHNmZ0QUdUX3VXUTlwc1M0LVIya1dwTnNCTWFCdWtRUEVLRmtwdERlY1l2MVplRXUwdTR4aGRNdm5hRk1pX2o4dnF1ZkFpeXdPeFI3YXRVc2tRU0dVMGFjZGlJN3lEY040ZzFIVTFBQnVNTlN6VVpBUFlQNHBwRNIBwgFBVV95cUxQUkQwRE5aY3lkY0Rkc1JLekFGazNVZDBhQ0o5SnB3WGNkVDFKdEVOaERpU2NuX2QxU042UU9hZEZsb3laVldSQkh4dVZfRGdGaTFXaDNEcUdoLWF1SG54TXJlaTVxelRXSGZmMlJ5MVRFazN4blk5dFJIdGdwVnRiSGNnNjhxd2RQV2VoQVo2eFVkNE9UdGFtVFRyTmdfbHZ6dWdMemVoay0zMXpnUU5BZGE0UENUQUhsV2JxRE9naUxtUQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260814T225921Z",
           "pinned": false
         },
         {
@@ -1035,19 +1027,19 @@
           "pinned": false
         },
         {
+          "title": "Houthi attack on port kills four eroding truce with Yemen’s government",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaThDTlI0Q2gxMndJOHd1c1IxWHYzVUNrOWFnRzUtYXIzV2xZRUQ3SDhQT3l1dnp0WGFDTU1LOUpzTzUwdGVHNmZ0QUdUX3VXUTlwc1M0LVIya1dwTnNCTWFCdWtRUEVLRmtwdERlY1l2MVplRXUwdTR4aGRNdm5hRk1pX2o4dnF1ZkFpeXdPeFI3YXRVc2tRU0dVMGFjZGlJN3lEY040ZzFIVTFBQnVNTlN6VVpBUFlQNHBwRNIBwgFBVV95cUxQUkQwRE5aY3lkY0Rkc1JLekFGazNVZDBhQ0o5SnB3WGNkVDFKdEVOaERpU2NuX2QxU042UU9hZEZsb3laVldSQkh4dVZfRGdGaTFXaDNEcUdoLWF1SG54TXJlaTVxelRXSGZmMlJ5MVRFazN4blk5dFJIdGdwVnRiSGNnNjhxd2RQV2VoQVo2eFVkNE9UdGFtVFRyTmdfbHZ6dWdMemVoay0zMXpnUU5BZGE0UENUQUhsV2JxRE9naUxtUQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260814T225921Z",
+          "pinned": false
+        },
+        {
           "title": "What we know about the crisis aboard the USS Lincoln",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMHdyQmMxM2ozYnhfcUVtUlotMy1GVGNhb1BaSktKSE05TmJqd0dwamRXVVNOSmp4aHU5SE45ckxvVEJWMjAtWEpsaTh4akZFQnVzcmNxYjRiVVlweXp3X2tmazkwN3FvUDItUmcwX0JDX3hDM1N1cU9BcGUyaUIwQmF5LS1SaGtIQ2dwdTN3ck1Tcmd4UmdUaWtmOVEtaWJ0NVJFQ0JB0gGrAUFVX3lxTFA3NHN5OXdEbVZDTHRqTEVTREdNQnJpTUZWM0MyeG1JZFhIQl85UGZxVUkxQm9wb3hUa0lXRnZJWkNOd2hzVGpiX0NHSHhoQVdsak5xQTdTRU5xZ3d0bVBLX1Z5WEFvTi15cFRvWlNTejM3Ny15bVByZTZlbEVST3FfM1RUNG91cGxjOGRJdjZBdlpQVndnQk9qb2c2NlFQb2NQek1qQzVWS3Y4OA?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260815T043233Z",
-          "pinned": false
-        },
-        {
-          "title": "Israeli strikes in south Lebanon a ‘violation of international law’: PM",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRnB4UF9QTFotQjZJTEhMQWhtX0VqQ2czNjlLMFBzYlJ6enBpQnE2anVNaGtNR0RnUEJoeFI2OW9EV1NvUUtZVHR2WkZWRU5NR0lzUnhrMnhUbm9XN2Z3aXZzV081cFV1YUVqVmF2bE1YS1NQX04yRmZhYXR6eWc3RnppZTlldDhTb3ZIY0dWYUJvamxZNjl1cG5SOFk3ck5waVNmSlhaRC16TlUtTkHSAbMBQVVfeXFMT3d0QnR0SEVDM3lfTWtxejVDOVotWGpCRFJsUHZyamZxVW1RWWVMMlBxT3IxUlFYaVF0aHVNTkNFdXVCY200RTZnN1M1V2pvZ3hoLTB5RnZxVDlPY2NpWmp1MURSUlZGYkZOX0pLX3RDd2RYdTBpblJyVjNJNmdRWHp6eGVVbGNkX21kT2lvV2pKeEVwMjRKWi1lci1VaUNIS1Z5cmF3WElBbV9iaFV0SmtibTA?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260813T071539Z",
           "pinned": false
         },
         {
@@ -1067,19 +1059,19 @@
           "pinned": false
         },
         {
-          "title": "World War Two veterans fly in Spitfires above Kent for first time",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fZzdTSmVTa2dSYm9aSTF4bjNuaTUzdjNNUnZ6dE1KV29TblV5QndQUGdmSTZkd3hqREl1NVFLMUR6SmQxWW9ud2c2ZWpHSkRmWGNfVHg2U3ZEUQ?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260813T172715Z",
-          "pinned": false
-        },
-        {
           "title": "Israeli strikes kill 11 in southern Lebanon as attacks intensify",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNelhxblFxbjdvdUYyRC1QRm04Q2k0R0FMSUxDRnFoOXAtY3NGR0d3VDk1X0tRRlJRbDdCcFZOSnFtOVJaZkFmOENXN0Nac3dDbkhSZGJVekF4MGJocXpacjBUVk1lNlVzdm94ajdwYXFkcGFzWDhsWlF4R2xhVF90aTNaYzNuT2pKZHp3SkNWZFJNSjJOTnVBbDNGVW5VZWNEZDdUUEYtWGXSAa4BQVVfeXFMT3lmV0E4Ym1SbDRUX2ZjMWluVEMxbUFJOGZpWnhRcmota2dhMENmeVdvRWVqYW1YQXZwQkZ0UnpVd01OUFBDWGNHVzdoTmMzLUQ4aWVfVDdKbnVSRHFXeFhrbktTUmdGTVZQVkhuOXAxVER5RDE3S0VDY2NVVnBBN2c5NWpzS2hQaFpYMlJHSjlMZ21aZF9xVFNTQ0NLanc4cHlSUWlhQmdSZGdlaVFR?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260815T164415Z",
+          "pinned": false
+        },
+        {
+          "title": "World War Two veterans fly in Spitfires above Kent for first time",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fZzdTSmVTa2dSYm9aSTF4bjNuaTUzdjNNUnZ6dE1KV29TblV5QndQUGdmSTZkd3hqREl1NVFLMUR6SmQxWW9ud2c2ZWpHSkRmWGNfVHg2U3ZEUQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260813T172715Z",
           "pinned": false
         },
         {
@@ -1104,6 +1096,14 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260814T054907Z",
+          "pinned": false
+        },
+        {
+          "title": "Iran claims Qatar is holding pilots, Israeli strikes kill 11 in Lebanon, and other Middle East news",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOU0NBVmpueWNUWGJ1ckoxSW1wR1dkX0ZHRzk3bWFUcUlGamk0NjBjMEo2LXVRNTlUUkxibVdSbHdLS245VF9Hc2hzbE9JYld3WEt4VnBPSWVwMjFoTlQyc2RSYjdzLU5ZN0FoZ1dSaVVGUGIwbU1XbzlCY256ZnloUFBuNnlPakV3RFlFWHpqRERKa3lIblRReG80R1hyN1RCczFLdXYtRmJQNlo3?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260815T200600Z",
           "pinned": false
         }
       ],
@@ -1181,6 +1181,15 @@
           "reportedAt": "2026-08-13T19:12:10Z"
         },
         {
+          "id": "report-adfaa3be82c8",
+          "title": "Arrest announced in vandalism of World War II Memorial",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcW1nSHJsWXRCY0gzME12RElZYVl0d2c2N25xeFhFM0duZzhsdmtyMEpPdFVtS3JiYk1IU2lndTVIZVkxeDJBVzNqZ2tkSVBqM1laZ1ZXQWoxTHkxRUxpVmRCcjY1WjJhSndpeGlFemk2bnBrSFNMcTZJU2lwUWF1LW5rTmM1azR2eEY0cXlPMlpWY0JjR3g1R2xIbHVYMWc?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-14T17:40:00Z"
+        },
+        {
           "id": "report-82195d686f59",
           "title": "Yemeni forces say Houthi attack repelled in Taiz amid escalation",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObG1mck84WmVJcXVfRFQ3M2pxMU9YLVNaaUd3dTdZQ2djQWo0TWJyS0lSUW80c2lzUmJaZnJqdUhuREdVR2hZMkJQdlJHZVF1NTMzQWhTRTNSRTdNTzhmQU91amNkR0JPLVlOVVFCcFBlemlBeTNHclRTaE9WT2VEcmJqaFVyMml1Ylk3WktiV3VJOUdQVzJiZXEzbERDMkFHU2d4dHJPU0XSAa4BQVVfeXFMTWthMFhZcFFuYVZUZktxRGdjTTBCSFFNaXhzXzh5dzlLNkdZblg4c2w5WW9RTllxMWx4MTlUSDdFUFlncjZLT3k1YTVHb0Fha0lLQ29LTlBhYUVuay1IbTRid2s3V3VORzV0bGJJRVRKWXo1bW9OT1RBdktkaUMzdGFhbmlZZEdIUGNRbDNmX1JMNlhydGVha0tEblV2bXZ1UE9iT2ZiOTlCc1locXJ3?oc=5",
@@ -1208,15 +1217,6 @@
           "reportedAt": "2026-08-14T11:06:10Z"
         },
         {
-          "id": "report-adfaa3be82c8",
-          "title": "Arrest announced in vandalism of World War II Memorial",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcW1nSHJsWXRCY0gzME12RElZYVl0d2c2N25xeFhFM0duZzhsdmtyMEpPdFVtS3JiYk1IU2lndTVIZVkxeDJBVzNqZ2tkSVBqM1laZ1ZXQWoxTHkxRUxpVmRCcjY1WjJhSndpeGlFemk2bnBrSFNMcTZJU2lwUWF1LW5rTmM1azR2eEY0cXlPMlpWY0JjR3g1R2xIbHVYMWc?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-14T17:40:00Z"
-        },
-        {
           "id": "report-e95a1eafd0db",
           "title": "Woman charged over vandalism of World War II Memorial in Washington, DC",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaTBUdXF2QlJQVGZqNzZkQzdpdmMxZ0hmQ3ZQMUhNaGpKZ0NmSWk2SjBJQ0s4VGRJZ3M4M0laOHdkYm84RE5TbEtjNlBpWm05azVNbS0zeWl4OThoZHdXRTVSTTM3RkpzT01lNU80T0FMb21ZZHlRcmlzd0ZfSXUtT0VhRmwzYmFJZFozZl9xcFMwRHI4cFRXaUVlWklWTS1OLW1WVk0wYmhTc1JNekFtNdIBtgFBVV95cUxOYW5ubnFmaEQ0ODNMWjd6djZOamhnT1p6UmhjTlJhQmJoZmdWdFllZWZMUmdYdzdyU1FqMEJ1alhWN095TWJhMkgxNDRSRVRyYTRjcENfdHpNdWhTTGYtdzdkTjhRcXdhd3VkakRfQnhhR0JLYmEzS19MR3lzRFVlUnVnMVQ3RlhsZDlMVGt2NVhBTXNKTXVRdkdHVXgzdXB5UlJScVhLcnppTjgzLUlMSUVWZjNSQQ?oc=5",
@@ -1224,15 +1224,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-14T19:02:14Z"
-        },
-        {
-          "id": "report-3e723dcc0817",
-          "title": "Houthi attack on port kills four eroding truce with Yemen’s government",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaThDTlI0Q2gxMndJOHd1c1IxWHYzVUNrOWFnRzUtYXIzV2xZRUQ3SDhQT3l1dnp0WGFDTU1LOUpzTzUwdGVHNmZ0QUdUX3VXUTlwc1M0LVIya1dwTnNCTWFCdWtRUEVLRmtwdERlY1l2MVplRXUwdTR4aGRNdm5hRk1pX2o4dnF1ZkFpeXdPeFI3YXRVc2tRU0dVMGFjZGlJN3lEY040ZzFIVTFBQnVNTlN6VVpBUFlQNHBwRNIBwgFBVV95cUxQUkQwRE5aY3lkY0Rkc1JLekFGazNVZDBhQ0o5SnB3WGNkVDFKdEVOaERpU2NuX2QxU042UU9hZEZsb3laVldSQkh4dVZfRGdGaTFXaDNEcUdoLWF1SG54TXJlaTVxelRXSGZmMlJ5MVRFazN4blk5dFJIdGdwVnRiSGNnNjhxd2RQV2VoQVo2eFVkNE9UdGFtVFRyTmdfbHZ6dWdMemVoay0zMXpnUU5BZGE0UENUQUhsV2JxRE9naUxtUQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-14T22:59:21Z"
         },
         {
           "id": "report-82e1d03ca116",
@@ -1244,6 +1235,15 @@
           "reportedAt": "2026-08-14T13:16:00Z"
         },
         {
+          "id": "report-3e723dcc0817",
+          "title": "Houthi attack on port kills four eroding truce with Yemen’s government",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaThDTlI0Q2gxMndJOHd1c1IxWHYzVUNrOWFnRzUtYXIzV2xZRUQ3SDhQT3l1dnp0WGFDTU1LOUpzTzUwdGVHNmZ0QUdUX3VXUTlwc1M0LVIya1dwTnNCTWFCdWtRUEVLRmtwdERlY1l2MVplRXUwdTR4aGRNdm5hRk1pX2o4dnF1ZkFpeXdPeFI3YXRVc2tRU0dVMGFjZGlJN3lEY040ZzFIVTFBQnVNTlN6VVpBUFlQNHBwRNIBwgFBVV95cUxQUkQwRE5aY3lkY0Rkc1JLekFGazNVZDBhQ0o5SnB3WGNkVDFKdEVOaERpU2NuX2QxU042UU9hZEZsb3laVldSQkh4dVZfRGdGaTFXaDNEcUdoLWF1SG54TXJlaTVxelRXSGZmMlJ5MVRFazN4blk5dFJIdGdwVnRiSGNnNjhxd2RQV2VoQVo2eFVkNE9UdGFtVFRyTmdfbHZ6dWdMemVoay0zMXpnUU5BZGE0UENUQUhsV2JxRE9naUxtUQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-14T22:59:21Z"
+        },
+        {
           "id": "report-e27087ad598c",
           "title": "What we know about the crisis aboard the USS Lincoln",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMHdyQmMxM2ozYnhfcUVtUlotMy1GVGNhb1BaSktKSE05TmJqd0dwamRXVVNOSmp4aHU5SE45ckxvVEJWMjAtWEpsaTh4akZFQnVzcmNxYjRiVVlweXp3X2tmazkwN3FvUDItUmcwX0JDX3hDM1N1cU9BcGUyaUIwQmF5LS1SaGtIQ2dwdTN3ck1Tcmd4UmdUaWtmOVEtaWJ0NVJFQ0JB0gGrAUFVX3lxTFA3NHN5OXdEbVZDTHRqTEVTREdNQnJpTUZWM0MyeG1JZFhIQl85UGZxVUkxQm9wb3hUa0lXRnZJWkNOd2hzVGpiX0NHSHhoQVdsak5xQTdTRU5xZ3d0bVBLX1Z5WEFvTi15cFRvWlNTejM3Ny15bVByZTZlbEVST3FfM1RUNG91cGxjOGRJdjZBdlpQVndnQk9qb2c2NlFQb2NQek1qQzVWS3Y4OA?oc=5",
@@ -1251,15 +1251,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-15T04:32:33Z"
-        },
-        {
-          "id": "report-62bbac67019a",
-          "title": "Israeli strikes in south Lebanon a ‘violation of international law’: PM",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRnB4UF9QTFotQjZJTEhMQWhtX0VqQ2czNjlLMFBzYlJ6enBpQnE2anVNaGtNR0RnUEJoeFI2OW9EV1NvUUtZVHR2WkZWRU5NR0lzUnhrMnhUbm9XN2Z3aXZzV081cFV1YUVqVmF2bE1YS1NQX04yRmZhYXR6eWc3RnppZTlldDhTb3ZIY0dWYUJvamxZNjl1cG5SOFk3ck5waVNmSlhaRC16TlUtTkHSAbMBQVVfeXFMT3d0QnR0SEVDM3lfTWtxejVDOVotWGpCRFJsUHZyamZxVW1RWWVMMlBxT3IxUlFYaVF0aHVNTkNFdXVCY200RTZnN1M1V2pvZ3hoLTB5RnZxVDlPY2NpWmp1MURSUlZGYkZOX0pLX3RDd2RYdTBpblJyVjNJNmdRWHp6eGVVbGNkX21kT2lvV2pKeEVwMjRKWi1lci1VaUNIS1Z5cmF3WElBbV9iaFV0SmtibTA?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-13T07:15:39Z"
         },
         {
           "id": "report-326673a062fc",
@@ -1280,15 +1271,6 @@
           "reportedAt": "2026-08-14T22:48:29Z"
         },
         {
-          "id": "report-4f4f191d1ca1",
-          "title": "World War Two veterans fly in Spitfires above Kent for first time",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fZzdTSmVTa2dSYm9aSTF4bjNuaTUzdjNNUnZ6dE1KV29TblV5QndQUGdmSTZkd3hqREl1NVFLMUR6SmQxWW9ud2c2ZWpHSkRmWGNfVHg2U3ZEUQ?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-13T17:27:15Z"
-        },
-        {
           "id": "report-2a5b94bc6cbe",
           "title": "Israeli strikes kill 11 in southern Lebanon as attacks intensify",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNelhxblFxbjdvdUYyRC1QRm04Q2k0R0FMSUxDRnFoOXAtY3NGR0d3VDk1X0tRRlJRbDdCcFZOSnFtOVJaZkFmOENXN0Nac3dDbkhSZGJVekF4MGJocXpacjBUVk1lNlVzdm94ajdwYXFkcGFzWDhsWlF4R2xhVF90aTNaYzNuT2pKZHp3SkNWZFJNSjJOTnVBbDNGVW5VZWNEZDdUUEYtWGXSAa4BQVVfeXFMT3lmV0E4Ym1SbDRUX2ZjMWluVEMxbUFJOGZpWnhRcmota2dhMENmeVdvRWVqYW1YQXZwQkZ0UnpVd01OUFBDWGNHVzdoTmMzLUQ4aWVfVDdKbnVSRHFXeFhrbktTUmdGTVZQVkhuOXAxVER5RDE3S0VDY2NVVnBBN2c5NWpzS2hQaFpYMlJHSjlMZ21aZF9xVFNTQ0NLanc4cHlSUWlhQmdSZGdlaVFR?oc=5",
@@ -1296,6 +1278,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-15T16:44:15Z"
+        },
+        {
+          "id": "report-4f4f191d1ca1",
+          "title": "World War Two veterans fly in Spitfires above Kent for first time",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fZzdTSmVTa2dSYm9aSTF4bjNuaTUzdjNNUnZ6dE1KV29TblV5QndQUGdmSTZkd3hqREl1NVFLMUR6SmQxWW9ud2c2ZWpHSkRmWGNfVHg2U3ZEUQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-13T17:27:15Z"
         },
         {
           "id": "report-7dd00af271a9",
@@ -1323,6 +1314,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-14T05:49:07Z"
+        },
+        {
+          "id": "report-9d0095d097bf",
+          "title": "Iran claims Qatar is holding pilots, Israeli strikes kill 11 in Lebanon, and other Middle East news",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOU0NBVmpueWNUWGJ1ckoxSW1wR1dkX0ZHRzk3bWFUcUlGamk0NjBjMEo2LXVRNTlUUkxibVdSbHdLS245VF9Hc2hzbE9JYld3WEt4VnBPSWVwMjFoTlQyc2RSYjdzLU5ZN0FoZ1dSaVVGUGIwbU1XbzlCY256ZnloUFBuNnlPakV3RFlFWHpqRERKa3lIblRReG80R1hyN1RCczFLdXYtRmJQNlo3?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-15T20:06:00Z"
         },
         {
           "id": "report-372b096ff4db",
