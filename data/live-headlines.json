@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T01:52:14.905Z",
+  "generatedAt": "2026-08-18T07:05:22.235Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-08-18T01:52:14.905Z",
+      "generatedAt": "2026-08-18T07:05:22.235Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -931,7 +931,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-08-18T01:52:14.905Z",
+      "generatedAt": "2026-08-18T07:05:22.235Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -940,14 +940,6 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260816T114209Z",
-          "pinned": false
-        },
-        {
-          "title": "Gulf allies growing frustrated with US over prolonged Iran war: Report",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObXp4WFp2dWVnYVV0Nk0xYjVOeVpFYzF3SWdXdmdKMm81eFAxQzB0UXJxRV9nd3BXTEFzZThvTWVWbVh6NklvalJjR0o1MlVpRWpFVzNwdDl3XzNhU3NwX0toT1JiT2NVN2xEc0I0QVhHVUlTX29yelN6TEhFN0hnbXFqSGNNX3VPaWpMTDZBNFgtX3laSFByYWxuUm9zdWEwclRrSU9jUENVREhYVnlNeHktNnk?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "seen": "20260815T204915Z",
           "pinned": false
         },
         {
@@ -983,19 +975,19 @@
           "pinned": false
         },
         {
-          "title": "Iran’s top negotiator declares victory in war against the US and Israel",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUkxHZlQ2ZVNBZTZiTEk1eGh3ZFNUbDUzdVQyd2VWTEdxcnAzQmNNQUE0bkU1TkpvaDYwbjZENV8xcXJSRmh0aDF0QTFGZGJ6M29OSzAtTERIVUV0S1BVUzBGUHpPdVd4RmxJT2dKSVg1VWdSaGo3QkZsbHAyemczNFVwSmVhSDl2RUhCbE43Y1M1b2QxUDJIZ1RRQ1VxeVp4dlN4WE9lSTd5X2VveFVzTUpJZlBrMUtpMHdidlJ30gHDAUFVX3lxTE43cUpESXRMclJJQXR0NUI0TjlyZGNzUF9tNU1DOUxiX2dFMW5ib2E1LUxVZzQ3NzVyVF9SVkl4bjR2VEEzeWRYM2xXRmFZT1pZTWlHUDNhLWVXaFlNZENpR1VaMkVia2E2ZFY3V2piTGc2RFlJQ1pTME5qM0xaQWU0ek1RY2Y2emczb1lQTTlMSG0xcUd0ZlRhWEJSR0hhaEJzZDBjMHluS0QxTFR2dDhpOW5kdjRHVHpvbDVJX3M5R3BVTQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260817T082907Z",
-          "pinned": false
-        },
-        {
           "title": "Trump says US scaling back joint military operations with South Korea",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mZjhLYWc5Uld6bFdvNHRRU3dsVTB6N3FBUVo0SFIwZ0xpTjlfQ0s0QmJhWEpsdUVsTXlrOWlZRnlXZzJqUVBOa3FjS1RZNGxJTjRXRUN2SWhLUQ?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20260817T183939Z",
+          "pinned": false
+        },
+        {
+          "title": "Iran’s top negotiator declares victory in war against the US and Israel",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUkxHZlQ2ZVNBZTZiTEk1eGh3ZFNUbDUzdVQyd2VWTEdxcnAzQmNNQUE0bkU1TkpvaDYwbjZENV8xcXJSRmh0aDF0QTFGZGJ6M29OSzAtTERIVUV0S1BVUzBGUHpPdVd4RmxJT2dKSVg1VWdSaGo3QkZsbHAyemczNFVwSmVhSDl2RUhCbE43Y1M1b2QxUDJIZ1RRQ1VxeVp4dlN4WE9lSTd5X2VveFVzTUpJZlBrMUtpMHdidlJ30gHDAUFVX3lxTE43cUpESXRMclJJQXR0NUI0TjlyZGNzUF9tNU1DOUxiX2dFMW5ib2E1LUxVZzQ3NzVyVF9SVkl4bjR2VEEzeWRYM2xXRmFZT1pZTWlHUDNhLWVXaFlNZENpR1VaMkVia2E2ZFY3V2piTGc2RFlJQ1pTME5qM0xaQWU0ek1RY2Y2emczb1lQTTlMSG0xcUd0ZlRhWEJSR0hhaEJzZDBjMHluS0QxTFR2dDhpOW5kdjRHVHpvbDVJX3M5R3BVTQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260817T082907Z",
           "pinned": false
         },
         {
@@ -1028,6 +1020,14 @@
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "seen": "20260816T180400Z",
+          "pinned": false
+        },
+        {
+          "title": "Iran slams Canada's participation in US war on Iran",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZmFUNnk1RmU1RHRtbkN0cXNaam9Gb21VQi1uZUpBLUFsWjl4eHJ3c1FlVncxREVCLWppT1BlNERDenJnUUVnTHVCYzFmdXh3bVp1ajFTTE9GdTFFSlRwVjNFS3VQNXhEVUlrMjc0Wk1tN0toUHUtMThVM1B1LVF0VF9OU2hFLWpqcVlCUWtZeTVqdmZ3UVZOTlBZTQ?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20260817T005732Z",
           "pinned": false
         },
         {
@@ -1071,6 +1071,14 @@
           "pinned": false
         },
         {
+          "title": "What it's like to be on a warship like the USS Abraham Lincoln",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GYjlSd211dEFqekpsSWJWcnd5Zy1hd2lpbjF4UkdIdVFKX052b0NCT1RTaDVKR2trMDg2UE5jcllGdndYeXB5ejRCWjRJSzRyUEppMXdVX29sQQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260818T050706Z",
+          "pinned": false
+        },
+        {
           "title": "Ben Franklin chose America. Son William chose the crown. This civil war is a microcosm of revolution",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUnRkMVE4QTdrNDFwZFlDYXFwbS1URVl4RE9KQVowVVlyZ3RodHU0YkZjRVZ1OEF0WFFFMGZIMWQwZWpqVTJVM3FWZ1hLc2lOSE9jQy1mbC10cktfZmhxNFNfVVhLY0FkU0p0eGp6dzNxNk9QNE9GQXVaU0d1emRuc2tlUkVvclk5ZnFSYXByT005UWdrVnNiZlNTcVNaN1VLcHRn?oc=5",
           "domain": "apnews.com",
@@ -1079,11 +1087,11 @@
           "pinned": false
         },
         {
-          "title": "Israel strikes south Lebanon again as families flee north",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYTFBMHZvR3hYMk1EN0ZtcXZ6Mk12b1RtQzRsTDN6Qm1qWXFRZXI4dmNpWXIyOG5QWVJpbGNmem1FOUU2QmtWQzIyZVBLbDZyZ2dTR1Zvd1hfdzVBS2ZPbnhEUXYyMkR2Q1ZwMTh6dEc1RWNZQ01QRDI0YUJQcDg1NUMxNnE0UHI1UGNzSEZlZlpjcjdZSmdrVWtRcDhydEE2cWpjeU9LVE9ucU4w0gGyAUFVX3lxTFBoZXFieDRyU1lqUkc4RkVpYVMxQmx0S2lUT0RvMTlQaFQwOW8xMEJ0LWpYS2pYQ0h5Mk9jamprVFRBT3BOel9IQUlDMm5rRUpyU2Z6NE9jNzRZMjg0SDVvZUZsaUYwWEZCbDZiWGgyM3Z2UHFOTWlpU1c2bGNRdWtYSXdtVlZmVmNMZmV2UDFGTDRUemstdE5rV29FVld2V0pnaW15bHlXVkVwa05TcURuM1E?oc=5",
+          "title": "USS Lincoln crisis: How it compares to past aircraft carrier deployments",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMktqQTktUjRIdEtXUkJDM0I5bEswN2VmeE9yYUNLTjA2LXo4Y1YtNzhqZHR2RkpiaEs0TE5hQlJmQTI0ZlZxUHhDUnVyVHdPQm9WRnNfOHY5Y2trTnQ3Ym85UEpSSVBteGJGVTU1QUlLcHVYN3N0UFIwdzBOTVUtMHd2djF6dkFwcmM0RnVTMzluWVZKN0NCdmQ2d1VTQTBQYmtfRWlQUlIzcjhCeHlkTENB0gG3AUFVX3lxTE9aaTVJZGphZUlWa0ViREhIOThkbng0a08xR1NMMzlvejU5WlpKZkEtTWlNc1NxUzdNaXV6MVgtTE02SzZFdENqeGl3Y3YtZzk4Zlc0dFNnMFp1X1ZIV1RRSXhNb3NRX01CdFBHYzJJVnNjTTlIT0JNR2VodGxyRzR4dnRSM3pKN00wWHlDMHFHbGdxZmZ4eHhoNmR5ZzlibHZtaFdEUkRSOHM2NFg5SnpaQ0FESnV2SQ?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260816T045122Z",
+          "seen": "20260817T111334Z",
           "pinned": false
         },
         {
@@ -1100,14 +1108,6 @@
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "seen": "20260815T142400Z",
-          "pinned": false
-        },
-        {
-          "title": "USS Lincoln crisis: How it compares to past aircraft carrier deployments",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMktqQTktUjRIdEtXUkJDM0I5bEswN2VmeE9yYUNLTjA2LXo4Y1YtNzhqZHR2RkpiaEs0TE5hQlJmQTI0ZlZxUHhDUnVyVHdPQm9WRnNfOHY5Y2trTnQ3Ym85UEpSSVBteGJGVTU1QUlLcHVYN3N0UFIwdzBOTVUtMHd2djF6dkFwcmM0RnVTMzluWVZKN0NCdmQ2d1VTQTBQYmtfRWlQUlIzcjhCeHlkTENB0gG3AUFVX3lxTE9aaTVJZGphZUlWa0ViREhIOThkbng0a08xR1NMMzlvejU5WlpKZkEtTWlNc1NxUzdNaXV6MVgtTE02SzZFdENqeGl3Y3YtZzk4Zlc0dFNnMFp1X1ZIV1RRSXhNb3NRX01CdFBHYzJJVnNjTTlIT0JNR2VodGxyRzR4dnRSM3pKN00wWHlDMHFHbGdxZmZ4eHhoNmR5ZzlibHZtaFdEUkRSOHM2NFg5SnpaQ0FESnV2SQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260817T111334Z",
           "pinned": false
         },
         {
@@ -1136,15 +1136,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-16T11:42:09Z"
-        },
-        {
-          "id": "report-5b49eb707cea",
-          "title": "Gulf allies growing frustrated with US over prolonged Iran war: Report",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObXp4WFp2dWVnYVV0Nk0xYjVOeVpFYzF3SWdXdmdKMm81eFAxQzB0UXJxRV9nd3BXTEFzZThvTWVWbVh6NklvalJjR0o1MlVpRWpFVzNwdDl3XzNhU3NwX0toT1JiT2NVN2xEc0I0QVhHVUlTX29yelN6TEhFN0hnbXFqSGNNX3VPaWpMTDZBNFgtX3laSFByYWxuUm9zdWEwclRrSU9jUENVREhYVnlNeHktNnk?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
-          "reportedAt": "2026-08-15T20:49:15Z"
         },
         {
           "id": "report-de51796bce6b",
@@ -1183,15 +1174,6 @@
           "reportedAt": "2026-08-17T12:25:55Z"
         },
         {
-          "id": "report-be856730c0fb",
-          "title": "Iran’s top negotiator declares victory in war against the US and Israel",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUkxHZlQ2ZVNBZTZiTEk1eGh3ZFNUbDUzdVQyd2VWTEdxcnAzQmNNQUE0bkU1TkpvaDYwbjZENV8xcXJSRmh0aDF0QTFGZGJ6M29OSzAtTERIVUV0S1BVUzBGUHpPdVd4RmxJT2dKSVg1VWdSaGo3QkZsbHAyemczNFVwSmVhSDl2RUhCbE43Y1M1b2QxUDJIZ1RRQ1VxeVp4dlN4WE9lSTd5X2VveFVzTUpJZlBrMUtpMHdidlJ30gHDAUFVX3lxTE43cUpESXRMclJJQXR0NUI0TjlyZGNzUF9tNU1DOUxiX2dFMW5ib2E1LUxVZzQ3NzVyVF9SVkl4bjR2VEEzeWRYM2xXRmFZT1pZTWlHUDNhLWVXaFlNZENpR1VaMkVia2E2ZFY3V2piTGc2RFlJQ1pTME5qM0xaQWU0ek1RY2Y2emczb1lQTTlMSG0xcUd0ZlRhWEJSR0hhaEJzZDBjMHluS0QxTFR2dDhpOW5kdjRHVHpvbDVJX3M5R3BVTQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-17T08:29:07Z"
-        },
-        {
           "id": "report-804d9d970d1c",
           "title": "Trump says US scaling back joint military operations with South Korea",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mZjhLYWc5Uld6bFdvNHRRU3dsVTB6N3FBUVo0SFIwZ0xpTjlfQ0s0QmJhWEpsdUVsTXlrOWlZRnlXZzJqUVBOa3FjS1RZNGxJTjRXRUN2SWhLUQ?oc=5",
@@ -1199,6 +1181,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-17T18:39:39Z"
+        },
+        {
+          "id": "report-be856730c0fb",
+          "title": "Iran’s top negotiator declares victory in war against the US and Israel",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUkxHZlQ2ZVNBZTZiTEk1eGh3ZFNUbDUzdVQyd2VWTEdxcnAzQmNNQUE0bkU1TkpvaDYwbjZENV8xcXJSRmh0aDF0QTFGZGJ6M29OSzAtTERIVUV0S1BVUzBGUHpPdVd4RmxJT2dKSVg1VWdSaGo3QkZsbHAyemczNFVwSmVhSDl2RUhCbE43Y1M1b2QxUDJIZ1RRQ1VxeVp4dlN4WE9lSTd5X2VveFVzTUpJZlBrMUtpMHdidlJ30gHDAUFVX3lxTE43cUpESXRMclJJQXR0NUI0TjlyZGNzUF9tNU1DOUxiX2dFMW5ib2E1LUxVZzQ3NzVyVF9SVkl4bjR2VEEzeWRYM2xXRmFZT1pZTWlHUDNhLWVXaFlNZENpR1VaMkVia2E2ZFY3V2piTGc2RFlJQ1pTME5qM0xaQWU0ek1RY2Y2emczb1lQTTlMSG0xcUd0ZlRhWEJSR0hhaEJzZDBjMHluS0QxTFR2dDhpOW5kdjRHVHpvbDVJX3M5R3BVTQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-17T08:29:07Z"
         },
         {
           "id": "report-1c1e43439102",
@@ -1235,6 +1226,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-16T18:04:00Z"
+        },
+        {
+          "id": "report-95883118a28e",
+          "title": "Iran slams Canada's participation in US war on Iran",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZmFUNnk1RmU1RHRtbkN0cXNaam9Gb21VQi1uZUpBLUFsWjl4eHJ3c1FlVncxREVCLWppT1BlNERDenJnUUVnTHVCYzFmdXh3bVp1ajFTTE9GdTFFSlRwVjNFS3VQNXhEVUlrMjc0Wk1tN0toUHUtMThVM1B1LVF0VF9OU2hFLWpqcVlCUWtZeTVqdmZ3UVZOTlBZTQ?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-08-17T00:57:32Z"
         },
         {
           "id": "report-264a0a1e0caa",
@@ -1282,6 +1282,15 @@
           "reportedAt": "2026-08-17T12:46:06Z"
         },
         {
+          "id": "report-08b3431589e1",
+          "title": "What it's like to be on a warship like the USS Abraham Lincoln",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GYjlSd211dEFqekpsSWJWcnd5Zy1hd2lpbjF4UkdIdVFKX052b0NCT1RTaDVKR2trMDg2UE5jcllGdndYeXB5ejRCWjRJSzRyUEppMXdVX29sQQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-18T05:07:06Z"
+        },
+        {
           "id": "report-a55a96f89a6f",
           "title": "Ben Franklin chose America. Son William chose the crown. This civil war is a microcosm of revolution",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUnRkMVE4QTdrNDFwZFlDYXFwbS1URVl4RE9KQVowVVlyZ3RodHU0YkZjRVZ1OEF0WFFFMGZIMWQwZWpqVTJVM3FWZ1hLc2lOSE9jQy1mbC10cktfZmhxNFNfVVhLY0FkU0p0eGp6dzNxNk9QNE9GQXVaU0d1emRuc2tlUkVvclk5ZnFSYXByT005UWdrVnNiZlNTcVNaN1VLcHRn?oc=5",
@@ -1291,13 +1300,13 @@
           "reportedAt": "2026-08-16T11:38:00Z"
         },
         {
-          "id": "report-c45116853d1d",
-          "title": "Israel strikes south Lebanon again as families flee north",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYTFBMHZvR3hYMk1EN0ZtcXZ6Mk12b1RtQzRsTDN6Qm1qWXFRZXI4dmNpWXIyOG5QWVJpbGNmem1FOUU2QmtWQzIyZVBLbDZyZ2dTR1Zvd1hfdzVBS2ZPbnhEUXYyMkR2Q1ZwMTh6dEc1RWNZQ01QRDI0YUJQcDg1NUMxNnE0UHI1UGNzSEZlZlpjcjdZSmdrVWtRcDhydEE2cWpjeU9LVE9ucU4w0gGyAUFVX3lxTFBoZXFieDRyU1lqUkc4RkVpYVMxQmx0S2lUT0RvMTlQaFQwOW8xMEJ0LWpYS2pYQ0h5Mk9jamprVFRBT3BOel9IQUlDMm5rRUpyU2Z6NE9jNzRZMjg0SDVvZUZsaUYwWEZCbDZiWGgyM3Z2UHFOTWlpU1c2bGNRdWtYSXdtVlZmVmNMZmV2UDFGTDRUemstdE5rV29FVld2V0pnaW15bHlXVkVwa05TcURuM1E?oc=5",
+          "id": "report-12fd94385868",
+          "title": "USS Lincoln crisis: How it compares to past aircraft carrier deployments",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMktqQTktUjRIdEtXUkJDM0I5bEswN2VmeE9yYUNLTjA2LXo4Y1YtNzhqZHR2RkpiaEs0TE5hQlJmQTI0ZlZxUHhDUnVyVHdPQm9WRnNfOHY5Y2trTnQ3Ym85UEpSSVBteGJGVTU1QUlLcHVYN3N0UFIwdzBOTVUtMHd2djF6dkFwcmM0RnVTMzluWVZKN0NCdmQ2d1VTQTBQYmtfRWlQUlIzcjhCeHlkTENB0gG3AUFVX3lxTE9aaTVJZGphZUlWa0ViREhIOThkbng0a08xR1NMMzlvejU5WlpKZkEtTWlNc1NxUzdNaXV6MVgtTE02SzZFdENqeGl3Y3YtZzk4Zlc0dFNnMFp1X1ZIV1RRSXhNb3NRX01CdFBHYzJJVnNjTTlIT0JNR2VodGxyRzR4dnRSM3pKN00wWHlDMHFHbGdxZmZ4eHhoNmR5ZzlibHZtaFdEUkRSOHM2NFg5SnpaQ0FESnV2SQ?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-16T04:51:22Z"
+          "reportedAt": "2026-08-17T11:13:34Z"
         },
         {
           "id": "report-164d6b802059",
@@ -1316,15 +1325,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-15T14:24:00Z"
-        },
-        {
-          "id": "report-12fd94385868",
-          "title": "USS Lincoln crisis: How it compares to past aircraft carrier deployments",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMktqQTktUjRIdEtXUkJDM0I5bEswN2VmeE9yYUNLTjA2LXo4Y1YtNzhqZHR2RkpiaEs0TE5hQlJmQTI0ZlZxUHhDUnVyVHdPQm9WRnNfOHY5Y2trTnQ3Ym85UEpSSVBteGJGVTU1QUlLcHVYN3N0UFIwdzBOTVUtMHd2djF6dkFwcmM0RnVTMzluWVZKN0NCdmQ2d1VTQTBQYmtfRWlQUlIzcjhCeHlkTENB0gG3AUFVX3lxTE9aaTVJZGphZUlWa0ViREhIOThkbng0a08xR1NMMzlvejU5WlpKZkEtTWlNc1NxUzdNaXV6MVgtTE02SzZFdENqeGl3Y3YtZzk4Zlc0dFNnMFp1X1ZIV1RRSXhNb3NRX01CdFBHYzJJVnNjTTlIT0JNR2VodGxyRzR4dnRSM3pKN00wWHlDMHFHbGdxZmZ4eHhoNmR5ZzlibHZtaFdEUkRSOHM2NFg5SnpaQ0FESnV2SQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-17T11:13:34Z"
         },
         {
           "id": "report-6870b9eea325",
