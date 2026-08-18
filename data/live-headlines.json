@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-17T18:58:28.489Z",
+  "generatedAt": "2026-08-18T01:52:14.905Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-08-17T18:58:28.489Z",
+      "generatedAt": "2026-08-18T01:52:14.905Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -931,7 +931,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-08-17T18:58:28.489Z",
+      "generatedAt": "2026-08-18T01:52:14.905Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -967,22 +967,6 @@
           "pinned": false
         },
         {
-          "title": "Iran war",
-          "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260816T173936Z",
-          "pinned": false
-        },
-        {
-          "title": "Art offers young Gaza survivors solace and escape from war’s devastation",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPX2d1QUZqMVNQZ2FTMVVZMlVGbk9BaDZodk5TcUFRY1BqMTJMME1IU01OZkhqMXJQM0F3M3BISnRZcF9veXZ3QnEzeVhaUUJ0dUxXdXYwd3JTTEYyc0twelRQZ1FLTmdrZFBwZ3NscG4wQ0oyWnJIWDNyNGhpbFUwVWJtNmVVS2NucVllSDR6TzNHdzgxd0o5N3U1RTJ6NzlhNHd3bENTXy10RmNuenI1eWhMcFFRclHSAbwBQVVfeXFMTnFETzg4bkVBcm1BNGJYYTd5LV9VWVRHQmdURF9JeERHN1F3V1VneHQxNy0wWDQ3ZTRNcXBNMUMyR09aUWdLMFZCRWd4OEFGaVE3dkc0aUpFVWppQ01IeE1HVElzQTRvX3Z4T3M1cmVSRVBuTE5oZWJDX1hnU1dlMzg5MXBBN1NxcFBkZ1ZNenJ5cEU4Q2Rpb1J4Tmg3UTZCOE5tMS02SEl3TWlLdEYwQzREUlNLMm83V05jeU4?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260814T185114Z",
-          "pinned": false
-        },
-        {
           "title": "Russia's prominent anti-war politician jailed for 11 years",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45MVdaTkVkbnVORm1fOExwVExGX0daRDAwX05fYk1FSV9sUm5ienZaLUM2Yk1VZ0FyX2d2Wk1Za2ZGQUduVy1nMDBYcEw0aFRoVHpQc0lnaGpuQQ?oc=5",
           "domain": "bbc.com",
@@ -1015,6 +999,14 @@
           "pinned": false
         },
         {
+          "title": "War on Iran: Phase II, Day 37",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVmhkMlVLRER4MFMyUFlZem9QaGdNc1diNFNtVlpOR3BJNDhtak4yTzdFRXRtNy1LOWMyd283bTJITVlVcjBfNGgzWXN6TkhWM2pvM1AwVlp6Q2VCOF9QRzV4SkNFSXlqQ0dyOXZnRHZyMVpjbXZ6aTRud0o2N3FwamM4Yk_SAYoBQVVfeXFMTWNWbGg4U0tDeWY0RUJjdW4taEhWZGJaVWJYQk00UHphX2ltQXVDbUZXT3NlOHJsM0xBWlF0a1YtUU9xay1GRGw3bEhwQThSUmFwcFpCcTROVmtSU0tqNjBmeXpZbGpuY3d1ZTZ0a1lrS25vRFFXRkRtQjRnN1NCSFFvRUNyZUF5Z19n?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260817T163129Z",
+          "pinned": false
+        },
+        {
           "title": "South Korea proposes talks to officially end war with North",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtSkRNUFdmYTNHMHBic2ozdWVjaUxIbEhDeHNVZUJ4ZmFZMmRWUzg1X0NJWjNIM0FDSnJtVGJRemVOTnRhQy0zYzZvX3VMdFdpcGZQcGpTd3JaUQ?oc=5",
           "domain": "bbc.com",
@@ -1039,14 +1031,6 @@
           "pinned": false
         },
         {
-          "title": "Army drops roses on Syrian crowds in a far cry from war",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORGJURF9nUUduTXRrZndUVEJ3Q0pRTndHQnJoQkFucjdWdnZCbGg4NlVWMmdINkxjQkNYUDk5bEhSTmI3di1qWjhXT25VcWNEYjl3MTFlSFZkNkVjNnZTdUNkLU9lQUZmUy1SeXgzQ0hZb25OX0RMcGtMLUhQNlp3WkVLM0NucmV2Qm5BZm85VnXSAZYBQVVfeXFMTmcxaGN5LWV2X1JPbFNwUklNQW1uTGdpX1lKdzgxUTBtNGRnRm1aX2JrSWt3aTh6eXVXQ2ZIVjV3Vm5iYVlEek11cVNScC1IVVZxTmtpSUpybDJzYVRXMWIzdFhueUgzSnlTdjhuN2FvV0ZBbXJlNlY2NmxQU1d1WWRwZkR0bThmcEZVaGVoLXh3SEprSTZ3?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260816T005039Z",
-          "pinned": false
-        },
-        {
           "title": "Iran says Qatar captured 3 pilots after fighter jets crashed during war with US, Israel",
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMnZhVXRxNWt1NE1TX1BTaGtfYUp5SWdISXdqWFZwcEl1YlU4U0hocVhvUjZoX0dLZllxeTRGRUhsZ2lIMzNSTERwSVE5amo5SUVGVDA5Mmp3SThkQm1CelozVXJyckZBX1FnejIzb0VIMUFidnBCM0tqczRBdF9ya0VHMDlQUFVfU181NE1UMFhzRzV2WlVTTXpLa3NtYk1uc2Y5WVpjVUpUR1ctNFhFWmZGMzhhaWJ6UDNYYm5vUnhEOHhzQXE2MnJHNA?oc=5",
           "domain": "aa.com.tr",
@@ -1055,27 +1039,11 @@
           "pinned": false
         },
         {
-          "title": "Russian ballistic attacks intensify as Kyiv claims Dnipropetrovsk advance",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTmRQdUV1T3M3cHpoa21GUjQ1U0g4QWpjT0huV3Y2Z19iSnNSb1h2QnRNSFBmX29BUnpVaXNCQi14NlcyZEJta1FzbnM0SWdQbC15SF91M1RlV3NDbGtpWnhaVUhGVnpIWVZ4b29TNUxqVWNkY0RfZGxqN1E4UkNOMTA2SVRuWW81REpGWS1fQ1ZSWTFRZW5VcFhrc3ZfR29tNDhOMnV2MTBDeWFoVUlVStIBtgFBVV95cUxPeC0xOGlnQkFxTGlHdG1RV01SRUpXN1FqQ1FaaXpxLWdmbmZCVGVEMS0wSDAtY1BhMTNZYlZscG41WVFoMWxXT1JmdWJ1S2NOWURHTF9zQUJ3N3U1T1hyMVJaVUkxWnJ4ZWRUZ2poaUdXVXpibm92Sk0wMGQxbHAzeVF5Ti05VG1nTTVNbTBwR2R3QUxvVzl1eVhWbzFFanU4Z0MtWFRzcV9kaElibE5kcXpvZE9mZw?oc=5",
+          "title": "Army drops roses on Syrian crowds in a far cry from war",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORGJURF9nUUduTXRrZndUVEJ3Q0pRTndHQnJoQkFucjdWdnZCbGg4NlVWMmdINkxjQkNYUDk5bEhSTmI3di1qWjhXT25VcWNEYjl3MTFlSFZkNkVjNnZTdUNkLU9lQUZmUy1SeXgzQ0hZb25OX0RMcGtMLUhQNlp3WkVLM0NucmV2Qm5BZm85VnXSAZYBQVVfeXFMTmcxaGN5LWV2X1JPbFNwUklNQW1uTGdpX1lKdzgxUTBtNGRnRm1aX2JrSWt3aTh6eXVXQ2ZIVjV3Vm5iYVlEek11cVNScC1IVVZxTmtpSUpybDJzYVRXMWIzdFhueUgzSnlTdjhuN2FvV0ZBbXJlNlY2NmxQU1d1WWRwZkR0bThmcEZVaGVoLXh3SEprSTZ3?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260814T110610Z",
-          "pinned": false
-        },
-        {
-          "title": "Arrest announced in vandalism of World War II Memorial",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcW1nSHJsWXRCY0gzME12RElZYVl0d2c2N25xeFhFM0duZzhsdmtyMEpPdFVtS3JiYk1IU2lndTVIZVkxeDJBVzNqZ2tkSVBqM1laZ1ZXQWoxTHkxRUxpVmRCcjY1WjJhSndpeGlFemk2bnBrSFNMcTZJU2lwUWF1LW5rTmM1azR2eEY0cXlPMlpWY0JjR3g1R2xIbHVYMWc?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260814T174000Z",
-          "pinned": false
-        },
-        {
-          "title": "War on Iran: Phase II, Day 37",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVmhkMlVLRER4MFMyUFlZem9QaGdNc1diNFNtVlpOR3BJNDhtak4yTzdFRXRtNy1LOWMyd283bTJITVlVcjBfNGgzWXN6TkhWM2pvM1AwVlp6Q2VCOF9QRzV4SkNFSXlqQ0dyOXZnRHZyMVpjbXZ6aTRud0o2N3FwamM4Yk_SAYoBQVVfeXFMTWNWbGg4U0tDeWY0RUJjdW4taEhWZGJaVWJYQk00UHphX2ltQXVDbUZXT3NlOHJsM0xBWlF0a1YtUU9xay1GRGw3bEhwQThSUmFwcFpCcTROVmtSU0tqNjBmeXpZbGpuY3d1ZTZ0a1lrS25vRFFXRkRtQjRnN1NCSFFvRUNyZUF5Z19n?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260817T163129Z",
+          "seen": "20260816T005039Z",
           "pinned": false
         },
         {
@@ -1087,11 +1055,11 @@
           "pinned": false
         },
         {
-          "title": "Yemen faces highest risk of returning to war since 2022 truce, UN warns",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNWFEeGdBYlhyWWFOejAwMW4zZXRLNXpiMHF4TWw1RjBCNDBOcmVReDk1S2RPd1hKQ2MxYTlDckpyUlY5bHBXWUowZHAwWGU5UDljbDlrOTlVYlFLRzZiSzBuTGJoSGVpMWt0OG5pQUpMb25VbVZIdFpGdlBkNmNWNWdhVllhY3B6X181WkpvT0w2SXNGUGFqOENaT29hcFFkSDJFTFdhb215UXlDdWtPaNIBtgFBVV95cUxPR0QtNms3V0dBMHhzWnViR3BUX0JkeThQLVhYYkR4WGZNVEl0Sjd2YVlzQjVyNW82T1RFYm95aXlONlUzOVYtOFQyN3lPSmNRVmwxdmcwRFRJdjFPTnFjOHBPcXlreHNkYTl5UFhPQ0NQZkY5SlhYS2hSU21LTmtVV0lyVktBTE1lVmdFaDFFRzlfSm9lc2VBYzFpZllRTW9YUTEtcUh1Y0tXZjUxNHJYa0gzb1lfUQ?oc=5",
+          "title": "Why did Trump scale back war games with South Korea?",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRFZJOGt3TXVIV2d0dTlxUmJoS0RxR2Z0NElnQW5CWkhXZzNZOG91QXFkNVViNVFZSHlNcjdwdzZxSU1ZamNGMzdNakxPQ1J0ZDA3b1NFSkFrbWZ1M0c4OGI1NjFLV2ozMWVXOG51WVBGQnRLV2lYTEliN1FRbGpZME50YzRVQW93WmFVOTlYTjltaEJITl9reFNYSi02a1dWLVZjYkVIMW1MQdIBrwFBVV95cUxQRllWdDFFNlpQLW9SM21OOVNIbHdiVTJ1QV8zR0RmdVVlUlRSV2dLRWNKZktxQlNNSnJxclVmS0hVNW5RSzVnenFfZ1dheEd5ODd4ZEJ4Nms0dld6US1fWGNXY2prbWJsLWpkdVQ3VHdzVlc0blB2YUFhZW1Ddzd1cmdqRlo5aUNuOG5pTzJJTGNFSDdSdG9uUlRjUkpWVmN2cG9zTl9pS25TU01od21j?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260814T001607Z",
+          "seen": "20260817T193520Z",
           "pinned": false
         },
         {
@@ -1103,27 +1071,59 @@
           "pinned": false
         },
         {
-          "title": "A look at the history and beliefs behind Japan’s controversial shrine to the war dead",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaFJMdmFEd1hXa20ybWV3VXdQblVRcU5JMm5SNUYxM3BjalRNdnE5SGU1eEVhblhjZlhBYVdKaHFDTDBjRjRybDVHelRESFNrVzZZLVJEZTBZUm0wVW5uZHZ2UkhjSllublc4R3UtaGZTd08yUEFFY2pXSkxSVGFMaWgxdlhkTnMtbTJfSV9zR01SRjlkTDVzNWxjckczY1daRE9STVVB?oc=5",
+          "title": "Ben Franklin chose America. Son William chose the crown. This civil war is a microcosm of revolution",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUnRkMVE4QTdrNDFwZFlDYXFwbS1URVl4RE9KQVowVVlyZ3RodHU0YkZjRVZ1OEF0WFFFMGZIMWQwZWpqVTJVM3FWZ1hLc2lOSE9jQy1mbC10cktfZmhxNFNfVVhLY0FkU0p0eGp6dzNxNk9QNE9GQXVaU0d1emRuc2tlUkVvclk5ZnFSYXByT005UWdrVnNiZlNTcVNaN1VLcHRn?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260814T045600Z",
+          "seen": "20260816T113800Z",
           "pinned": false
         },
         {
-          "title": "Houthi attack on port kills four eroding truce with Yemen’s government",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaThDTlI0Q2gxMndJOHd1c1IxWHYzVUNrOWFnRzUtYXIzV2xZRUQ3SDhQT3l1dnp0WGFDTU1LOUpzTzUwdGVHNmZ0QUdUX3VXUTlwc1M0LVIya1dwTnNCTWFCdWtRUEVLRmtwdERlY1l2MVplRXUwdTR4aGRNdm5hRk1pX2o4dnF1ZkFpeXdPeFI3YXRVc2tRU0dVMGFjZGlJN3lEY040ZzFIVTFBQnVNTlN6VVpBUFlQNHBwRNIBwgFBVV95cUxQUkQwRE5aY3lkY0Rkc1JLekFGazNVZDBhQ0o5SnB3WGNkVDFKdEVOaERpU2NuX2QxU042UU9hZEZsb3laVldSQkh4dVZfRGdGaTFXaDNEcUdoLWF1SG54TXJlaTVxelRXSGZmMlJ5MVRFazN4blk5dFJIdGdwVnRiSGNnNjhxd2RQV2VoQVo2eFVkNE9UdGFtVFRyTmdfbHZ6dWdMemVoay0zMXpnUU5BZGE0UENUQUhsV2JxRE9naUxtUQ?oc=5",
+          "title": "Israel strikes south Lebanon again as families flee north",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYTFBMHZvR3hYMk1EN0ZtcXZ6Mk12b1RtQzRsTDN6Qm1qWXFRZXI4dmNpWXIyOG5QWVJpbGNmem1FOUU2QmtWQzIyZVBLbDZyZ2dTR1Zvd1hfdzVBS2ZPbnhEUXYyMkR2Q1ZwMTh6dEc1RWNZQ01QRDI0YUJQcDg1NUMxNnE0UHI1UGNzSEZlZlpjcjdZSmdrVWtRcDhydEE2cWpjeU9LVE9ucU4w0gGyAUFVX3lxTFBoZXFieDRyU1lqUkc4RkVpYVMxQmx0S2lUT0RvMTlQaFQwOW8xMEJ0LWpYS2pYQ0h5Mk9jamprVFRBT3BOel9IQUlDMm5rRUpyU2Z6NE9jNzRZMjg0SDVvZUZsaUYwWEZCbDZiWGgyM3Z2UHFOTWlpU1c2bGNRdWtYSXdtVlZmVmNMZmV2UDFGTDRUemstdE5rV29FVld2V0pnaW15bHlXVkVwa05TcURuM1E?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260814T225921Z",
+          "seen": "20260816T045122Z",
           "pinned": false
         },
         {
-          "title": "World War II Memorial vandalized with graffiti and soap in fountain in Washington",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdzRQOGw0LTFKbEcwRzlVUk5UQWpjSUVDRkpCOGQwUWk3aE13NXB0SjNxaWo3U2J0RFhjb2Z3S0VaQ2hXUm4tZ24xckVkQnduZ2Qwa1pxejZySnZsdnhWV04wWEdqOXpGcTVNTk9kMk1DaGFwdFh6SlpZcXd1aGFJcTJKV1puN2tXQ0VVeDFOWjVXQWp6S2ptUkxNMDVPNzMzTnA0Z3ctYVc1aUt3OEhnRklpV0NLc2szci13a2RvLWJPZW56QW12NXdja0VXdDBndVE1bmFR?oc=5",
+          "title": "What is Tokyo’s Yasukuni Shrine, linked to Japan’s wartime atrocities?",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTEdDNlFVanJPMVl0SGhYbG9FX1UzMXg4NUpLUmEyc05QSkJEX0FWWnpsTzdmLTNRNkh4WnlBeDh2MWpGNTE3SkJKV0hqeC0wWmp6bnhnSVVIT0FSbXFjNHdnRGNDYXJwV0ZIRHBDZWh2Vm1nbFBMNXFFOXo5YzM2VHBKMW1GWDh4VWtXZl92TlVIa3Z0MzRrZTh2aVZtbDFZczJsVy0tdVhHTWPSAbABQVVfeXFMTmRDUkRVTndjVV9UMEo3SzZqYUo4eTN5NllXeGw2OGs5TjFQVkp5cVVXbDI3eTBGYnNYU2Ric0ZZakNBMkNSYU92VG5xZnVJSTVXb0xZZnMySTJWUy1VMl8wbWw1MGs5dnY2YXZMWDJnMC1JdFQ1V2twYUlrYjZOZEF6LUJTUnRnN3JiRFJ3bXJBcl9NRzZna21OOUVoUDRvaVg3TzVkSjFPMjF4T05wSDk?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260816T143801Z",
+          "pinned": false
+        },
+        {
+          "title": "Takaichi skips controversial shrine visit on 81st anniversary of country's World War II surrender",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTS1XUDY1NEp3RlJQdGxCVlRyWFVWckpxZlYtbENGQ0k5UmkzSFJNUTR4eWEtcDRZem5fZVVpNi1rcVRoYV9KZFFyRkg2SXpkVWhPVFIzLXdmN3EyWVJIUF9HQTF5R1FxeVU4aHktZnNEZlI4dkJneVhTYmRiVl9DaTZCN3JaSERHRE85VFBTeEtHT3cyYmd3?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260814T131600Z",
+          "seen": "20260815T142400Z",
+          "pinned": false
+        },
+        {
+          "title": "USS Lincoln crisis: How it compares to past aircraft carrier deployments",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMktqQTktUjRIdEtXUkJDM0I5bEswN2VmeE9yYUNLTjA2LXo4Y1YtNzhqZHR2RkpiaEs0TE5hQlJmQTI0ZlZxUHhDUnVyVHdPQm9WRnNfOHY5Y2trTnQ3Ym85UEpSSVBteGJGVTU1QUlLcHVYN3N0UFIwdzBOTVUtMHd2djF6dkFwcmM0RnVTMzluWVZKN0NCdmQ2d1VTQTBQYmtfRWlQUlIzcjhCeHlkTENB0gG3AUFVX3lxTE9aaTVJZGphZUlWa0ViREhIOThkbng0a08xR1NMMzlvejU5WlpKZkEtTWlNc1NxUzdNaXV6MVgtTE02SzZFdENqeGl3Y3YtZzk4Zlc0dFNnMFp1X1ZIV1RRSXhNb3NRX01CdFBHYzJJVnNjTTlIT0JNR2VodGxyRzR4dnRSM3pKN00wWHlDMHFHbGdxZmZ4eHhoNmR5ZzlibHZtaFdEUkRSOHM2NFg5SnpaQ0FESnV2SQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260817T111334Z",
+          "pinned": false
+        },
+        {
+          "title": "Trump orders US to scale back South Korea military drills",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaFdQZi1ra0RNVFphLXBUV3dWaFg1cmp3UzI4LWJjYlQybWFoOUFfMElsTWJBbHdKSm9RVU9MX3BRaTZ4TFQwMm9Hc3FJSmxtc29HYWVXaDBqNlkyZndreGRoVS1yc2VlYXlQNEwzUElTck93TTNMWlhQTGJKc2hKeVpHWXBIM2FnNTFvcFF0ZE14X1NTeHFwQjhSM2paTTRsTm9SN3JSeE9FWngt0gGyAUFVX3lxTE05UVRLWURnRTV5cVp2anFXc3hKcE9HM3ppenlOWjREVUltaEdOTnhpRU5VbXpTLWlmNjZvMW9td0dtMk4wVVNPWi1PTmpaLXhGcTFHcl95cHJBZWxBZ1Bja2xCOU1NYWtNQ0lDRlc2U1ltMnRzNmZSSFhmOGprLVY0NmZhdjBTOWNkekVObDVBdXQ3Zzc4YkswZVlEWFMwNTI4a1pMUGQtQVc5ZVRydjFsUnc?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260817T114349Z",
+          "pinned": false
+        },
+        {
+          "title": "Democrats rebuke Trump over scaling back military drills with South Korea",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUXVCMnZjenVFOVNYaTJCVHlrbk5MRVJmWXhaN19hckltNXRVNmZuOHFreHF6OVZFdmtBRGdPUVZXd1BNcEhscmI2NVp6bXJWUVh1QlV4Z3pDM25MeGQtaXQwSlkySDhQNTFEOG5VSGtYMEZfYTQtclR3Rm81SGZUYkdUaGJ3U0hlZWtSQmNKYV85aHJoSlZERVc4T1lVMXU5YmQ0LVBQbmlpOFlueS1saUgyYULSAboBQVVfeXFMTUVxbWthZXpQYUM3M2RseG1rZDFKSFYyX3R0eHh6cFg4SkR6YXdYcnpFSXBnSDNZOTVHSm9vUkpIeHA5NWhXdkdQT0lmeXB2S0dqR1Q4NTVzWkkxMkZDbC1IYXJCM1p0b004S2s5Y1BKUnVDSEtNUDJ2Y3MtLXNaeUlXYkdCaUNnTFE4LUFWTlViVmxSQ3Mwc1BBZm15WFdXZnZfWll3YUViWjRmbi0wdnBSTzUyZ0xXTnlB?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260817T191226Z",
           "pinned": false
         }
       ],
@@ -1165,24 +1165,6 @@
           "reportedAt": "2026-08-16T11:02:07Z"
         },
         {
-          "id": "report-a755c78656d2",
-          "title": "Iran war",
-          "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-16T17:39:36Z"
-        },
-        {
-          "id": "report-c3458eafc46d",
-          "title": "Art offers young Gaza survivors solace and escape from war’s devastation",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPX2d1QUZqMVNQZ2FTMVVZMlVGbk9BaDZodk5TcUFRY1BqMTJMME1IU01OZkhqMXJQM0F3M3BISnRZcF9veXZ3QnEzeVhaUUJ0dUxXdXYwd3JTTEYyc0twelRQZ1FLTmdrZFBwZ3NscG4wQ0oyWnJIWDNyNGhpbFUwVWJtNmVVS2NucVllSDR6TzNHdzgxd0o5N3U1RTJ6NzlhNHd3bENTXy10RmNuenI1eWhMcFFRclHSAbwBQVVfeXFMTnFETzg4bkVBcm1BNGJYYTd5LV9VWVRHQmdURF9JeERHN1F3V1VneHQxNy0wWDQ3ZTRNcXBNMUMyR09aUWdLMFZCRWd4OEFGaVE3dkc0aUpFVWppQ01IeE1HVElzQTRvX3Z4T3M1cmVSRVBuTE5oZWJDX1hnU1dlMzg5MXBBN1NxcFBkZ1ZNenJ5cEU4Q2Rpb1J4Tmg3UTZCOE5tMS02SEl3TWlLdEYwQzREUlNLMm83V05jeU4?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-14T18:51:14Z"
-        },
-        {
           "id": "report-9babebd4ad1f",
           "title": "Russia's prominent anti-war politician jailed for 11 years",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45MVdaTkVkbnVORm1fOExwVExGX0daRDAwX05fYk1FSV9sUm5ienZaLUM2Yk1VZ0FyX2d2Wk1Za2ZGQUduVy1nMDBYcEw0aFRoVHpQc0lnaGpuQQ?oc=5",
@@ -1219,6 +1201,15 @@
           "reportedAt": "2026-08-17T18:39:39Z"
         },
         {
+          "id": "report-1c1e43439102",
+          "title": "War on Iran: Phase II, Day 37",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVmhkMlVLRER4MFMyUFlZem9QaGdNc1diNFNtVlpOR3BJNDhtak4yTzdFRXRtNy1LOWMyd283bTJITVlVcjBfNGgzWXN6TkhWM2pvM1AwVlp6Q2VCOF9QRzV4SkNFSXlqQ0dyOXZnRHZyMVpjbXZ6aTRud0o2N3FwamM4Yk_SAYoBQVVfeXFMTWNWbGg4U0tDeWY0RUJjdW4taEhWZGJaVWJYQk00UHphX2ltQXVDbUZXT3NlOHJsM0xBWlF0a1YtUU9xay1GRGw3bEhwQThSUmFwcFpCcTROVmtSU0tqNjBmeXpZbGpuY3d1ZTZ0a1lrS25vRFFXRkRtQjRnN1NCSFFvRUNyZUF5Z19n?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-17T16:31:29Z"
+        },
+        {
           "id": "report-e0cc0eb798aa",
           "title": "South Korea proposes talks to officially end war with North",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtSkRNUFdmYTNHMHBic2ozdWVjaUxIbEhDeHNVZUJ4ZmFZMmRWUzg1X0NJWjNIM0FDSnJtVGJRemVOTnRhQy0zYzZvX3VMdFdpcGZQcGpTd3JaUQ?oc=5",
@@ -1246,15 +1237,6 @@
           "reportedAt": "2026-08-16T18:04:00Z"
         },
         {
-          "id": "report-6b6da2e3b8e8",
-          "title": "Army drops roses on Syrian crowds in a far cry from war",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORGJURF9nUUduTXRrZndUVEJ3Q0pRTndHQnJoQkFucjdWdnZCbGg4NlVWMmdINkxjQkNYUDk5bEhSTmI3di1qWjhXT25VcWNEYjl3MTFlSFZkNkVjNnZTdUNkLU9lQUZmUy1SeXgzQ0hZb25OX0RMcGtMLUhQNlp3WkVLM0NucmV2Qm5BZm85VnXSAZYBQVVfeXFMTmcxaGN5LWV2X1JPbFNwUklNQW1uTGdpX1lKdzgxUTBtNGRnRm1aX2JrSWt3aTh6eXVXQ2ZIVjV3Vm5iYVlEek11cVNScC1IVVZxTmtpSUpybDJzYVRXMWIzdFhueUgzSnlTdjhuN2FvV0ZBbXJlNlY2NmxQU1d1WWRwZkR0bThmcEZVaGVoLXh3SEprSTZ3?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-16T00:50:39Z"
-        },
-        {
           "id": "report-264a0a1e0caa",
           "title": "Iran says Qatar captured 3 pilots after fighter jets crashed during war with US, Israel",
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMnZhVXRxNWt1NE1TX1BTaGtfYUp5SWdISXdqWFZwcEl1YlU4U0hocVhvUjZoX0dLZllxeTRGRUhsZ2lIMzNSTERwSVE5amo5SUVGVDA5Mmp3SThkQm1CelozVXJyckZBX1FnejIzb0VIMUFidnBCM0tqczRBdF9ya0VHMDlQUFVfU181NE1UMFhzRzV2WlVTTXpLa3NtYk1uc2Y5WVpjVUpUR1ctNFhFWmZGMzhhaWJ6UDNYYm5vUnhEOHhzQXE2MnJHNA?oc=5",
@@ -1264,31 +1246,13 @@
           "reportedAt": "2026-08-15T12:36:07Z"
         },
         {
-          "id": "report-c45b3859059b",
-          "title": "Russian ballistic attacks intensify as Kyiv claims Dnipropetrovsk advance",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTmRQdUV1T3M3cHpoa21GUjQ1U0g4QWpjT0huV3Y2Z19iSnNSb1h2QnRNSFBmX29BUnpVaXNCQi14NlcyZEJta1FzbnM0SWdQbC15SF91M1RlV3NDbGtpWnhaVUhGVnpIWVZ4b29TNUxqVWNkY0RfZGxqN1E4UkNOMTA2SVRuWW81REpGWS1fQ1ZSWTFRZW5VcFhrc3ZfR29tNDhOMnV2MTBDeWFoVUlVStIBtgFBVV95cUxPeC0xOGlnQkFxTGlHdG1RV01SRUpXN1FqQ1FaaXpxLWdmbmZCVGVEMS0wSDAtY1BhMTNZYlZscG41WVFoMWxXT1JmdWJ1S2NOWURHTF9zQUJ3N3U1T1hyMVJaVUkxWnJ4ZWRUZ2poaUdXVXpibm92Sk0wMGQxbHAzeVF5Ti05VG1nTTVNbTBwR2R3QUxvVzl1eVhWbzFFanU4Z0MtWFRzcV9kaElibE5kcXpvZE9mZw?oc=5",
+          "id": "report-6b6da2e3b8e8",
+          "title": "Army drops roses on Syrian crowds in a far cry from war",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORGJURF9nUUduTXRrZndUVEJ3Q0pRTndHQnJoQkFucjdWdnZCbGg4NlVWMmdINkxjQkNYUDk5bEhSTmI3di1qWjhXT25VcWNEYjl3MTFlSFZkNkVjNnZTdUNkLU9lQUZmUy1SeXgzQ0hZb25OX0RMcGtMLUhQNlp3WkVLM0NucmV2Qm5BZm85VnXSAZYBQVVfeXFMTmcxaGN5LWV2X1JPbFNwUklNQW1uTGdpX1lKdzgxUTBtNGRnRm1aX2JrSWt3aTh6eXVXQ2ZIVjV3Vm5iYVlEek11cVNScC1IVVZxTmtpSUpybDJzYVRXMWIzdFhueUgzSnlTdjhuN2FvV0ZBbXJlNlY2NmxQU1d1WWRwZkR0bThmcEZVaGVoLXh3SEprSTZ3?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-14T11:06:10Z"
-        },
-        {
-          "id": "report-adfaa3be82c8",
-          "title": "Arrest announced in vandalism of World War II Memorial",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcW1nSHJsWXRCY0gzME12RElZYVl0d2c2N25xeFhFM0duZzhsdmtyMEpPdFVtS3JiYk1IU2lndTVIZVkxeDJBVzNqZ2tkSVBqM1laZ1ZXQWoxTHkxRUxpVmRCcjY1WjJhSndpeGlFemk2bnBrSFNMcTZJU2lwUWF1LW5rTmM1azR2eEY0cXlPMlpWY0JjR3g1R2xIbHVYMWc?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-14T17:40:00Z"
-        },
-        {
-          "id": "report-1c1e43439102",
-          "title": "War on Iran: Phase II, Day 37",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVmhkMlVLRER4MFMyUFlZem9QaGdNc1diNFNtVlpOR3BJNDhtak4yTzdFRXRtNy1LOWMyd283bTJITVlVcjBfNGgzWXN6TkhWM2pvM1AwVlp6Q2VCOF9QRzV4SkNFSXlqQ0dyOXZnRHZyMVpjbXZ6aTRud0o2N3FwamM4Yk_SAYoBQVVfeXFMTWNWbGg4U0tDeWY0RUJjdW4taEhWZGJaVWJYQk00UHphX2ltQXVDbUZXT3NlOHJsM0xBWlF0a1YtUU9xay1GRGw3bEhwQThSUmFwcFpCcTROVmtSU0tqNjBmeXpZbGpuY3d1ZTZ0a1lrS25vRFFXRkRtQjRnN1NCSFFvRUNyZUF5Z19n?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-17T16:31:29Z"
+          "reportedAt": "2026-08-16T00:50:39Z"
         },
         {
           "id": "report-ca6ae1dfb736",
@@ -1300,13 +1264,13 @@
           "reportedAt": "2026-08-17T10:55:00Z"
         },
         {
-          "id": "report-e297bc09cefa",
-          "title": "Yemen faces highest risk of returning to war since 2022 truce, UN warns",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNWFEeGdBYlhyWWFOejAwMW4zZXRLNXpiMHF4TWw1RjBCNDBOcmVReDk1S2RPd1hKQ2MxYTlDckpyUlY5bHBXWUowZHAwWGU5UDljbDlrOTlVYlFLRzZiSzBuTGJoSGVpMWt0OG5pQUpMb25VbVZIdFpGdlBkNmNWNWdhVllhY3B6X181WkpvT0w2SXNGUGFqOENaT29hcFFkSDJFTFdhb215UXlDdWtPaNIBtgFBVV95cUxPR0QtNms3V0dBMHhzWnViR3BUX0JkeThQLVhYYkR4WGZNVEl0Sjd2YVlzQjVyNW82T1RFYm95aXlONlUzOVYtOFQyN3lPSmNRVmwxdmcwRFRJdjFPTnFjOHBPcXlreHNkYTl5UFhPQ0NQZkY5SlhYS2hSU21LTmtVV0lyVktBTE1lVmdFaDFFRzlfSm9lc2VBYzFpZllRTW9YUTEtcUh1Y0tXZjUxNHJYa0gzb1lfUQ?oc=5",
+          "id": "report-26817d5f07b9",
+          "title": "Why did Trump scale back war games with South Korea?",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRFZJOGt3TXVIV2d0dTlxUmJoS0RxR2Z0NElnQW5CWkhXZzNZOG91QXFkNVViNVFZSHlNcjdwdzZxSU1ZamNGMzdNakxPQ1J0ZDA3b1NFSkFrbWZ1M0c4OGI1NjFLV2ozMWVXOG51WVBGQnRLV2lYTEliN1FRbGpZME50YzRVQW93WmFVOTlYTjltaEJITl9reFNYSi02a1dWLVZjYkVIMW1MQdIBrwFBVV95cUxQRllWdDFFNlpQLW9SM21OOVNIbHdiVTJ1QV8zR0RmdVVlUlRSV2dLRWNKZktxQlNNSnJxclVmS0hVNW5RSzVnenFfZ1dheEd5ODd4ZEJ4Nms0dld6US1fWGNXY2prbWJsLWpkdVQ3VHdzVlc0blB2YUFhZW1Ddzd1cmdqRlo5aUNuOG5pTzJJTGNFSDdSdG9uUlRjUkpWVmN2cG9zTl9pS25TU01od21j?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-14T00:16:07Z"
+          "reportedAt": "2026-08-17T19:35:20Z"
         },
         {
           "id": "report-d77a27413a8d",
@@ -1318,31 +1282,67 @@
           "reportedAt": "2026-08-17T12:46:06Z"
         },
         {
-          "id": "report-04f788a7f25f",
-          "title": "A look at the history and beliefs behind Japan’s controversial shrine to the war dead",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaFJMdmFEd1hXa20ybWV3VXdQblVRcU5JMm5SNUYxM3BjalRNdnE5SGU1eEVhblhjZlhBYVdKaHFDTDBjRjRybDVHelRESFNrVzZZLVJEZTBZUm0wVW5uZHZ2UkhjSllublc4R3UtaGZTd08yUEFFY2pXSkxSVGFMaWgxdlhkTnMtbTJfSV9zR01SRjlkTDVzNWxjckczY1daRE9STVVB?oc=5",
+          "id": "report-a55a96f89a6f",
+          "title": "Ben Franklin chose America. Son William chose the crown. This civil war is a microcosm of revolution",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUnRkMVE4QTdrNDFwZFlDYXFwbS1URVl4RE9KQVowVVlyZ3RodHU0YkZjRVZ1OEF0WFFFMGZIMWQwZWpqVTJVM3FWZ1hLc2lOSE9jQy1mbC10cktfZmhxNFNfVVhLY0FkU0p0eGp6dzNxNk9QNE9GQXVaU0d1emRuc2tlUkVvclk5ZnFSYXByT005UWdrVnNiZlNTcVNaN1VLcHRn?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-14T04:56:00Z"
+          "reportedAt": "2026-08-16T11:38:00Z"
         },
         {
-          "id": "report-3e723dcc0817",
-          "title": "Houthi attack on port kills four eroding truce with Yemen’s government",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaThDTlI0Q2gxMndJOHd1c1IxWHYzVUNrOWFnRzUtYXIzV2xZRUQ3SDhQT3l1dnp0WGFDTU1LOUpzTzUwdGVHNmZ0QUdUX3VXUTlwc1M0LVIya1dwTnNCTWFCdWtRUEVLRmtwdERlY1l2MVplRXUwdTR4aGRNdm5hRk1pX2o4dnF1ZkFpeXdPeFI3YXRVc2tRU0dVMGFjZGlJN3lEY040ZzFIVTFBQnVNTlN6VVpBUFlQNHBwRNIBwgFBVV95cUxQUkQwRE5aY3lkY0Rkc1JLekFGazNVZDBhQ0o5SnB3WGNkVDFKdEVOaERpU2NuX2QxU042UU9hZEZsb3laVldSQkh4dVZfRGdGaTFXaDNEcUdoLWF1SG54TXJlaTVxelRXSGZmMlJ5MVRFazN4blk5dFJIdGdwVnRiSGNnNjhxd2RQV2VoQVo2eFVkNE9UdGFtVFRyTmdfbHZ6dWdMemVoay0zMXpnUU5BZGE0UENUQUhsV2JxRE9naUxtUQ?oc=5",
+          "id": "report-c45116853d1d",
+          "title": "Israel strikes south Lebanon again as families flee north",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYTFBMHZvR3hYMk1EN0ZtcXZ6Mk12b1RtQzRsTDN6Qm1qWXFRZXI4dmNpWXIyOG5QWVJpbGNmem1FOUU2QmtWQzIyZVBLbDZyZ2dTR1Zvd1hfdzVBS2ZPbnhEUXYyMkR2Q1ZwMTh6dEc1RWNZQ01QRDI0YUJQcDg1NUMxNnE0UHI1UGNzSEZlZlpjcjdZSmdrVWtRcDhydEE2cWpjeU9LVE9ucU4w0gGyAUFVX3lxTFBoZXFieDRyU1lqUkc4RkVpYVMxQmx0S2lUT0RvMTlQaFQwOW8xMEJ0LWpYS2pYQ0h5Mk9jamprVFRBT3BOel9IQUlDMm5rRUpyU2Z6NE9jNzRZMjg0SDVvZUZsaUYwWEZCbDZiWGgyM3Z2UHFOTWlpU1c2bGNRdWtYSXdtVlZmVmNMZmV2UDFGTDRUemstdE5rV29FVld2V0pnaW15bHlXVkVwa05TcURuM1E?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-14T22:59:21Z"
+          "reportedAt": "2026-08-16T04:51:22Z"
         },
         {
-          "id": "report-82e1d03ca116",
-          "title": "World War II Memorial vandalized with graffiti and soap in fountain in Washington",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdzRQOGw0LTFKbEcwRzlVUk5UQWpjSUVDRkpCOGQwUWk3aE13NXB0SjNxaWo3U2J0RFhjb2Z3S0VaQ2hXUm4tZ24xckVkQnduZ2Qwa1pxejZySnZsdnhWV04wWEdqOXpGcTVNTk9kMk1DaGFwdFh6SlpZcXd1aGFJcTJKV1puN2tXQ0VVeDFOWjVXQWp6S2ptUkxNMDVPNzMzTnA0Z3ctYVc1aUt3OEhnRklpV0NLc2szci13a2RvLWJPZW56QW12NXdja0VXdDBndVE1bmFR?oc=5",
+          "id": "report-164d6b802059",
+          "title": "What is Tokyo’s Yasukuni Shrine, linked to Japan’s wartime atrocities?",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTEdDNlFVanJPMVl0SGhYbG9FX1UzMXg4NUpLUmEyc05QSkJEX0FWWnpsTzdmLTNRNkh4WnlBeDh2MWpGNTE3SkJKV0hqeC0wWmp6bnhnSVVIT0FSbXFjNHdnRGNDYXJwV0ZIRHBDZWh2Vm1nbFBMNXFFOXo5YzM2VHBKMW1GWDh4VWtXZl92TlVIa3Z0MzRrZTh2aVZtbDFZczJsVy0tdVhHTWPSAbABQVVfeXFMTmRDUkRVTndjVV9UMEo3SzZqYUo4eTN5NllXeGw2OGs5TjFQVkp5cVVXbDI3eTBGYnNYU2Ric0ZZakNBMkNSYU92VG5xZnVJSTVXb0xZZnMySTJWUy1VMl8wbWw1MGs5dnY2YXZMWDJnMC1JdFQ1V2twYUlrYjZOZEF6LUJTUnRnN3JiRFJ3bXJBcl9NRzZna21OOUVoUDRvaVg3TzVkSjFPMjF4T05wSDk?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-16T14:38:01Z"
+        },
+        {
+          "id": "report-7dd00af271a9",
+          "title": "Takaichi skips controversial shrine visit on 81st anniversary of country's World War II surrender",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTS1XUDY1NEp3RlJQdGxCVlRyWFVWckpxZlYtbENGQ0k5UmkzSFJNUTR4eWEtcDRZem5fZVVpNi1rcVRoYV9KZFFyRkg2SXpkVWhPVFIzLXdmN3EyWVJIUF9HQTF5R1FxeVU4aHktZnNEZlI4dkJneVhTYmRiVl9DaTZCN3JaSERHRE85VFBTeEtHT3cyYmd3?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-14T13:16:00Z"
+          "reportedAt": "2026-08-15T14:24:00Z"
+        },
+        {
+          "id": "report-12fd94385868",
+          "title": "USS Lincoln crisis: How it compares to past aircraft carrier deployments",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMktqQTktUjRIdEtXUkJDM0I5bEswN2VmeE9yYUNLTjA2LXo4Y1YtNzhqZHR2RkpiaEs0TE5hQlJmQTI0ZlZxUHhDUnVyVHdPQm9WRnNfOHY5Y2trTnQ3Ym85UEpSSVBteGJGVTU1QUlLcHVYN3N0UFIwdzBOTVUtMHd2djF6dkFwcmM0RnVTMzluWVZKN0NCdmQ2d1VTQTBQYmtfRWlQUlIzcjhCeHlkTENB0gG3AUFVX3lxTE9aaTVJZGphZUlWa0ViREhIOThkbng0a08xR1NMMzlvejU5WlpKZkEtTWlNc1NxUzdNaXV6MVgtTE02SzZFdENqeGl3Y3YtZzk4Zlc0dFNnMFp1X1ZIV1RRSXhNb3NRX01CdFBHYzJJVnNjTTlIT0JNR2VodGxyRzR4dnRSM3pKN00wWHlDMHFHbGdxZmZ4eHhoNmR5ZzlibHZtaFdEUkRSOHM2NFg5SnpaQ0FESnV2SQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-17T11:13:34Z"
+        },
+        {
+          "id": "report-6870b9eea325",
+          "title": "Trump orders US to scale back South Korea military drills",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaFdQZi1ra0RNVFphLXBUV3dWaFg1cmp3UzI4LWJjYlQybWFoOUFfMElsTWJBbHdKSm9RVU9MX3BRaTZ4TFQwMm9Hc3FJSmxtc29HYWVXaDBqNlkyZndreGRoVS1yc2VlYXlQNEwzUElTck93TTNMWlhQTGJKc2hKeVpHWXBIM2FnNTFvcFF0ZE14X1NTeHFwQjhSM2paTTRsTm9SN3JSeE9FWngt0gGyAUFVX3lxTE05UVRLWURnRTV5cVp2anFXc3hKcE9HM3ppenlOWjREVUltaEdOTnhpRU5VbXpTLWlmNjZvMW9td0dtMk4wVVNPWi1PTmpaLXhGcTFHcl95cHJBZWxBZ1Bja2xCOU1NYWtNQ0lDRlc2U1ltMnRzNmZSSFhmOGprLVY0NmZhdjBTOWNkekVObDVBdXQ3Zzc4YkswZVlEWFMwNTI4a1pMUGQtQVc5ZVRydjFsUnc?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-17T11:43:49Z"
+        },
+        {
+          "id": "report-4cca64c1e075",
+          "title": "Democrats rebuke Trump over scaling back military drills with South Korea",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUXVCMnZjenVFOVNYaTJCVHlrbk5MRVJmWXhaN19hckltNXRVNmZuOHFreHF6OVZFdmtBRGdPUVZXd1BNcEhscmI2NVp6bXJWUVh1QlV4Z3pDM25MeGQtaXQwSlkySDhQNTFEOG5VSGtYMEZfYTQtclR3Rm81SGZUYkdUaGJ3U0hlZWtSQmNKYV85aHJoSlZERVc4T1lVMXU5YmQ0LVBQbmlpOFlueS1saUgyYULSAboBQVVfeXFMTUVxbWthZXpQYUM3M2RseG1rZDFKSFYyX3R0eHh6cFg4SkR6YXdYcnpFSXBnSDNZOTVHSm9vUkpIeHA5NWhXdkdQT0lmeXB2S0dqR1Q4NTVzWkkxMkZDbC1IYXJCM1p0b004S2s5Y1BKUnVDSEtNUDJ2Y3MtLXNaeUlXYkdCaUNnTFE4LUFWTlViVmxSQ3Mwc1BBZm15WFdXZnZfWll3YUViWjRmbi0wdnBSTzUyZ0xXTnlB?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-17T19:12:26Z"
         },
         {
           "id": "report-372b096ff4db",
