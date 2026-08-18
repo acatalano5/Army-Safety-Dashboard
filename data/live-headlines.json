@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T13:13:03.609Z",
+  "generatedAt": "2026-08-18T16:03:28.666Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -21,7 +21,7 @@
       ]
     },
     "safety": {
-      "generatedAt": "2026-08-17T16:00:09.535Z",
+      "generatedAt": "2026-08-18T16:03:28.666Z",
       "cadence": "daily",
       "items": [
         {
@@ -38,14 +38,6 @@
           "domain": "militarytimes.com",
           "sourceTier": "Independent reporting",
           "seen": "20260721T174800Z",
-          "pinned": false
-        },
-        {
-          "title": "Army Orders Temporary Apache Stand-Down Following Fatal Fort Hood Crash | Article | The United States Army",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQ3lKRnRhdWJIWTBxV0I4Z25CVERJQ0ZQcElqZFBBczZNemt5cVJYdTFqb3dlcnVQLThuOVhzODJFWmFKTXNhaFh5d1dJTTJZNzh3aE9fRGhmZVZ3bGRuNU1XdHdnRlkyU2FIeGl2UzhYYmZFS0RNRDhrZGhZNnQ2YkNLN0VTYkwwYS14YjBMUTBxWkg3c0RQaTEzVE4wa0NldGRodHd6QkVJS1E?oc=5",
-          "domain": "army.mil",
-          "sourceTier": "Official military source",
-          "seen": "20260814T213606Z",
           "pinned": false
         },
         {
@@ -86,14 +78,6 @@
           "domain": "taskandpurpose.com",
           "sourceTier": "Independent reporting",
           "seen": "20260812T221748Z",
-          "pinned": false
-        },
-        {
-          "title": "Court rules Air Force diverted injured, sick service members from official disability evaluation",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQzMxLThDNzhZMUNpYWJMa2JRcE04TEsxQU5CXzdsZWNVYUpKMGttSjFhVzVqVEpTSEswTHk1dlBSU2RlQzZJZ0hjOURJY1c2VmVYTmFRR3FPRlMtVFZ2M0hpWE1jQjF2OGVmZnZrYkVyLWkyRXUtb1pDVFNtTVJZNXpXNzJpbWhmbHNjajNfM1pvc1dIbjVKU042aGY0WUlncHhqaA?oc=5",
-          "domain": "stripes.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260810T214701Z",
           "pinned": false
         },
         {
@@ -154,24 +138,6 @@
         }
       ],
       "incidents": [
-        {
-          "id": "auto-91f23173c00a",
-          "reportDate": "2026-08-14",
-          "dateBasis": "report discovery date",
-          "branch": "Army",
-          "department": "Department of the Army",
-          "type": "Aviation",
-          "event": "Army Orders Temporary Apache Stand-Down Following Fatal Fort Hood Crash | Article | The United States Army",
-          "location": "See official source",
-          "fatalities": null,
-          "injuries": null,
-          "status": "OFFICIAL INTAKE",
-          "signalClass": "REPORTED MISHAP",
-          "sourceTier": "Official military source",
-          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
-          "source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQ3lKRnRhdWJIWTBxV0I4Z25CVERJQ0ZQcElqZFBBczZNemt5cVJYdTFqb3dlcnVQLThuOVhzODJFWmFKTXNhaFh5d1dJTTJZNzh3aE9fRGhmZVZ3bGRuNU1XdHdnRlkyU2FIeGl2UzhYYmZFS0RNRDhrZGhZNnQ2YkNLN0VTYkwwYS14YjBMUTBxWkg3c0RQaTEzVE4wa0NldGRodHd6QkVJS1E?oc=5",
-          "sourceLabel": "army.mil"
-        },
         {
           "id": "auto-cbae79c7b676",
           "reportDate": "2026-08-14",
@@ -243,6 +209,24 @@
           "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
           "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObGtBUGhrZ2JIT1RId3RsV2xrV0FZcy11RnNlQzkxeTdFZnJZaWJsWVVWN0ZhRWxQTDFwVk9IQUh5dXhkSkg5cm9Sc3lIYXRuR2RzcVlDVkRnc2hDXzVxam8ycERuUzZZTHRsN1JVZUVLZzJXcUpkYU5NMmZqVmtnV1N6dS1DeFBOVFdQZE5wU2xCU0tNd3BNU1NOTTh3QzR1clJSc1FFdXpodEJwY0RFektqeHU5SU5rRnF3QQ?oc=5",
           "sourceLabel": "news.uscg.mil"
+        },
+        {
+          "id": "auto-91f23173c00a",
+          "reportDate": "2026-08-14",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Aviation",
+          "event": "Army Orders Temporary Apache Stand-Down Following Fatal Fort Hood Crash | Article | The United States Army",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "OFFICIAL INTAKE",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Official military source",
+          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
+          "source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQ3lKRnRhdWJIWTBxV0I4Z25CVERJQ0ZQcElqZFBBczZNemt5cVJYdTFqb3dlcnVQLThuOVhzODJFWmFKTXNhaFh5d1dJTTJZNzh3aE9fRGhmZVZ3bGRuNU1XdHdnRlkyU2FIeGl2UzhYYmZFS0RNRDhrZGhZNnQ2YkNLN0VTYkwwYS14YjBMUTBxWkg3c0RQaTEzVE4wa0NldGRodHd6QkVJS1E?oc=5",
+          "sourceLabel": "army.mil"
         },
         {
           "id": "auto-ab00bffa9249",
