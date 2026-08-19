@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-19T01:54:23.113Z",
+  "generatedAt": "2026-08-19T07:06:42.050Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-08-19T01:54:23.113Z",
+      "generatedAt": "2026-08-19T07:06:42.050Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -903,7 +903,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-08-19T01:54:23.113Z",
+      "generatedAt": "2026-08-19T07:06:42.050Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -955,6 +955,14 @@
           "pinned": false
         },
         {
+          "title": "UAE imposes indefinite trade embargo on Iran over alleged missile attacks",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUmllc1dobzVIUzRBUl9ydXdrRTlTUDFwZW9qWGZlbFAwcWh4MkhTX3NjOUQ3S2tlMVRudUZ3TVR6bk9SdWFQN3g2QmNpYm1ZT3gxTEJfVVdnNmFMS01nNXNaMkZ3T0hQcFpOM0RUdTV0b0E5a1UxUHR0dWZ3QUlhSkZzWkl6MGsyVVFWMDNVRTNHeWx2NExYUlFNcnU4MDNBR0xKaEtlcjlBcElhQXRzbmlFOGPSAboBQVVfeXFMUHdKbW85MVRhT242aE5QLVZENFc5VVNSeTVHNHZzZkJPSHdnY1JGd2J5UEk0RzhKYXdmNWs5c2xTWHQ4UUNkRXVYaTZuQkNySWt4dzZtQzNHNnhYOWRRMVVGaFl6NlpNaGxfQ1d1TGQtbzl3TEJCUG00WG50YUpkNk1fc2laQTBOVW95SnYyZlNsZDNVcjdwc1V3ZXY4TnBSMWR4dFpPMURRQkUxMURQUlFyRHo2VHgtYlNn?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260819T033926Z",
+          "pinned": false
+        },
+        {
           "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FOV9IY1V1dlNiOW1UV3Z6a2w5dG9zQk9MaVNiUV83MGhmYzN5NDFZdVlGSFFXVlN3SWxkdTFZbmJIQlk3UTJCNVRkb09UOUJ2ekc5ckN0M2k1dw?oc=5",
           "domain": "bbc.com",
@@ -971,19 +979,27 @@
           "pinned": false
         },
         {
-          "title": "Iran’s top negotiator declares victory in war against the US and Israel",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUkxHZlQ2ZVNBZTZiTEk1eGh3ZFNUbDUzdVQyd2VWTEdxcnAzQmNNQUE0bkU1TkpvaDYwbjZENV8xcXJSRmh0aDF0QTFGZGJ6M29OSzAtTERIVUV0S1BVUzBGUHpPdVd4RmxJT2dKSVg1VWdSaGo3QkZsbHAyemczNFVwSmVhSDl2RUhCbE43Y1M1b2QxUDJIZ1RRQ1VxeVp4dlN4WE9lSTd5X2VveFVzTUpJZlBrMUtpMHdidlJ30gHDAUFVX3lxTE43cUpESXRMclJJQXR0NUI0TjlyZGNzUF9tNU1DOUxiX2dFMW5ib2E1LUxVZzQ3NzVyVF9SVkl4bjR2VEEzeWRYM2xXRmFZT1pZTWlHUDNhLWVXaFlNZENpR1VaMkVia2E2ZFY3V2piTGc2RFlJQ1pTME5qM0xaQWU0ek1RY2Y2emczb1lQTTlMSG0xcUd0ZlRhWEJSR0hhaEJzZDBjMHluS0QxTFR2dDhpOW5kdjRHVHpvbDVJX3M5R3BVTQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260817T082907Z",
-          "pinned": false
-        },
-        {
           "title": "Israel’s siege on Gaza is creating a breast cancer crisis",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZDZsa3lXYXhLbWUtTG9SOFJMSGJ0NTZReXNzanVSWEc5RC0zVEZLNHkybnJhWGFRVk9LbV9YS2VqeE5kVlpVNFU2cXUwaUJaWGlndW5rMnJTQ0Y1elUydzlZTlZTZGR6SzNwbm9jQ3UwdThURGxMOW5CN1otVGVidkhLdVUydHFRTjU5VnBiUUJ1c1ZRTlpSYVBZNlVCOVBuTnVv0gGoAUFVX3lxTE5JaHF3bFFUNGF1cnJHSXF6ajRLRjRia2Z5c0JyckN1RkU3X08zbEpwSjZvcG9qTEFadnB5VWkxVlNiMFVUeTUzeldyYXl5eFU0czNNQlFMbnlSYTh3VFU3alRXQng2MWowQ0tPVEVCaUI3OGRCVENuLWZnWkZZTEZBamNOemhlWDluS3NzdDdqNFJRTWtGelBjNUF6WHBjY1hINWNyVGJpag?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260818T075153Z",
+          "pinned": false
+        },
+        {
+          "title": "Analysis: Syrian airbase attack is an Israeli message to Damascus, Ankara",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTWFCUTc0LVpkd21oaEJYRFNyUUFOREtzZG9aQjVRTW9jSjhkMjJGMGFNUkhxY2dsWlpvNkc0NDM5NHhPRUR0NmwwRnQyQ1h3VkE5YUFyUjRZOFJsX2d1dDlsc0s3RVpnc00tbkh1UTNta2w4RUg5RWtZNVl4Q3V2Y25IMXFYaTJIQ2NyWjIxUHZLaXZXWGJnTHQxS0o5Ynp5WUVscjVCSXd2X1dpRVg0MUZpWWtkcVXSAbwBQVVfeXFMTm5fckd6eHo0SjJlQzB6UjN3T1dYWDFnWFlXdWU2cG1QUHFSU1BodVJIX0xDTEZUd3VndE5ndGZNMzJIR3F6bmhKZEFoTWtLaVVyaVoydi11bEVkVkp6QXJOOW40c1Rya2U1MTVNZEdWX29fckttalFaSTRmUjhMWks1LWZpVF9aRjN2RE9XRUl1d2U2aE50WUU1MFRBbngyTGZjVXBoYUg4YnNxcTdrUmF3NC1XSW9MUWE1UDU?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260818T180246Z",
+          "pinned": false
+        },
+        {
+          "title": "Iran’s top negotiator declares victory in war against the US and Israel",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUkxHZlQ2ZVNBZTZiTEk1eGh3ZFNUbDUzdVQyd2VWTEdxcnAzQmNNQUE0bkU1TkpvaDYwbjZENV8xcXJSRmh0aDF0QTFGZGJ6M29OSzAtTERIVUV0S1BVUzBGUHpPdVd4RmxJT2dKSVg1VWdSaGo3QkZsbHAyemczNFVwSmVhSDl2RUhCbE43Y1M1b2QxUDJIZ1RRQ1VxeVp4dlN4WE9lSTd5X2VveFVzTUpJZlBrMUtpMHdidlJ30gHDAUFVX3lxTE43cUpESXRMclJJQXR0NUI0TjlyZGNzUF9tNU1DOUxiX2dFMW5ib2E1LUxVZzQ3NzVyVF9SVkl4bjR2VEEzeWRYM2xXRmFZT1pZTWlHUDNhLWVXaFlNZENpR1VaMkVia2E2ZFY3V2piTGc2RFlJQ1pTME5qM0xaQWU0ek1RY2Y2emczb1lQTTlMSG0xcUd0ZlRhWEJSR0hhaEJzZDBjMHluS0QxTFR2dDhpOW5kdjRHVHpvbDVJX3M5R3BVTQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260817T082907Z",
           "pinned": false
         },
         {
@@ -1003,11 +1019,19 @@
           "pinned": false
         },
         {
-          "title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSW9mTFNZNmhNT3Rucy1OdzIyUzZxYlZVMk1oY2liVkNobXMtYXJPTUI2MFZfYWt3QkJwTVhaNnlEbzY2M0I4NWZtVFRyLVpwX3JQdUZXOVlkZVZXNThuQmRXMjFsOFN2QWRnX3ZCNk1DRlUyQWZIdUNrM0IwWGFRdHhIWHQ?oc=5",
-          "domain": "apnews.com",
+          "title": "US condemns 'unnecessary escalation' after Israeli airstrikes on Syrian airbase",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BdnNyLUJpOW8zbG0ySkhLRkROeC10Z1FfalRQOXFBNEpnVW4yNWkyZkVhdlZ6V3ctbFVXX2VHU1M1dlJLMnM4eWVLZkg0bWNhMGYwaEs1dWdCUQ?oc=5",
+          "domain": "bbc.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260816T180400Z",
+          "seen": "20260819T004816Z",
+          "pinned": false
+        },
+        {
+          "title": "Iran slams Canada's participation in US war on Iran",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZmFUNnk1RmU1RHRtbkN0cXNaam9Gb21VQi1uZUpBLUFsWjl4eHJ3c1FlVncxREVCLWppT1BlNERDenJnUUVnTHVCYzFmdXh3bVp1ajFTTE9GdTFFSlRwVjNFS3VQNXhEVUlrMjc0Wk1tN0toUHUtMThVM1B1LVF0VF9OU2hFLWpqcVlCUWtZeTVqdmZ3UVZOTlBZTQ?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20260817T005732Z",
           "pinned": false
         },
         {
@@ -1019,11 +1043,11 @@
           "pinned": false
         },
         {
-          "title": "Iran slams Canada's participation in US war on Iran",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZmFUNnk1RmU1RHRtbkN0cXNaam9Gb21VQi1uZUpBLUFsWjl4eHJ3c1FlVncxREVCLWppT1BlNERDenJnUUVnTHVCYzFmdXh3bVp1ajFTTE9GdTFFSlRwVjNFS3VQNXhEVUlrMjc0Wk1tN0toUHUtMThVM1B1LVF0VF9OU2hFLWpqcVlCUWtZeTVqdmZ3UVZOTlBZTQ?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "seen": "20260817T005732Z",
+          "title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSW9mTFNZNmhNT3Rucy1OdzIyUzZxYlZVMk1oY2liVkNobXMtYXJPTUI2MFZfYWt3QkJwTVhaNnlEbzY2M0I4NWZtVFRyLVpwX3JQdUZXOVlkZVZXNThuQmRXMjFsOFN2QWRnX3ZCNk1DRlUyQWZIdUNrM0IwWGFRdHhIWHQ?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260816T180400Z",
           "pinned": false
         },
         {
@@ -1060,42 +1084,18 @@
         },
         {
           "title": "Russia reports Ukrainian drone strike near Zaporizhzhia nuclear plant",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWU1mTHgzVHRPVzFQRkF6UnBpS0lSbVo2LUZrWFVvYjQ5SDdsVWxoc3BDSVNQdzB1YWI0aGZ6WkRaaW01SWpLX2JCTUpkT0RYOXVielZFTUR4TndVajRBbU13TEJlSnBRMGN6UC0wTVBYYTFvbjRfU2Y3Umd1djRrTjdickVlRFg3SDNiX1g2TU1wbnJ3aUpNVFE1Wl9haW4zRGY0RWlPQ0hDZi1WWWtr0gG0AUFVX3lxTE9rYWhoU2ZUSkNzREtqYWVIQzNZVGxWRlJvMktfWnR1M1U0VjBYQ3FXVnhxYTdST2lZUWhET2gtQjRwRVZVZG14RmdJU3pIX3pnaVp6UWg2TFVrbFVibldsNlZydFhGb1l5ZDg3aU5OV3BwRWJLMVVoQW1Ya3U1NmdLME16LURUWFZGZE1kbFo4RFV6Nmx4cVY4bjBYQ0tBN3dwb0xXbHVBSXdWbm43YWZtTUdtVg?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWU1mTHgzVHRPVzFQRkF6UnBpS0lSbVo2LUZrWFVvYjQ5SDdsVWxoc3BDSVNQdzB1YWI0aGZ6WkRaaW01SWpLX2JCTUpkT0RYOXVielZFTUR4TndVajRBbU13TEJlSnBRMGN6UC0wTVBYYTFvbjRfU2Y3Umd1djRrTjdickVlRFg3SDNiX1g2TU1wbnJ3aUpNVFE1Wl9haW4zRGY0RWlPQ0hDZi1WWWtr?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260818T205438Z",
           "pinned": false
         },
         {
-          "title": "Yemen’s drone war: Rivals flex growing aerial muscle",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUEZPanl2RHZFR21fa2llRTRITHo0TnFBMFBsUVBOd2pnTGI4RXpMMzlSY2lBYUNtb2Q0V2ZmS3VmdkIyaEMxRGF5NzlmRjZMVWh6VklzeHd2LXFwUko4c3JKNkdSelEtYkZsLTBlXzZoUnV6WV9HQzJGWEcxSW5vZW1VVUhVMk1LREdpdV9jcklQOXJGR0HSAZsBQVVfeXFMTWtSVUtvSGtwTUkwLXp2UG1GdzVvb3Jnb3prRG1PTE9ONXQ4LTl4VmJ2QW5HT2VlYUFIVk5oWU1WekpTckhtS2lTMTd2SEhCZUVHVmNXWGdhZDFYSk0yWmNLTzdsN2RGdU8xSGdqVTNqcU5GYWRMaUFBUW1jMEExRmxMWmpkUXpTN2NSUUhtT2RqYmtqX0RyRVRoUTA?oc=5",
+          "title": "Ukraine’s ousted defence minister calls for elections during war",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZkJWbVNIc1o1dU1UaGt1cUFIcTJJMmxPdUlobUJ4eGxzRGNZTzl5OGJ3MmVNV25tRzNiX3psV2JSRW5FN0Y4R0ljaGUwMWt2bnZzV1ZQNDdGdE5LMXJKMV9RNV83TUg0YW4yMGtUcDlCWi1PeV81UnVTaHRHQmdaem5rb1ZwRkhweTUtMzMwQk43aFJsclhlOENMSFBsenUwYnZpcFQ2Z9IBrAFBVV95cUxPT0p4NElIdE9IUGdnRXA2TURiN2ZfUHZ2aDJVQVZxMERldW8tUUZ2QWEwM0xRaHhzNXA0UXg1bGRHQkozRjNPb1NkaEVDSEJHd2s4bXZrTnE1aTVvYnRmNG9lcExBZmNqMjd2Sm9lOFpRTzVFT01MRkZONlJtZ0xnX3FDeEVjUmVBRUNiNVFfM3VJQUI5RzFQcmc0UkFmalA3X1dOVDRDSnVzdXZD?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260817T124606Z",
-          "pinned": false
-        },
-        {
-          "title": "Syrian court sentences Wassim al-Assad to death for war crimes",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNS2hYQW5IdVRla0IyMTdBcjdhbzQ2Z1JBaFZicTh3YXlVbnNrX1NIcjk0S3V0V2c5V0lFdzFBWHV0akdFR213ZEVpMjBVWldEN3BkNHN5RDBXUHRIQmlpVURDeF9BWV9GbnZZWHlLeWh0aWZad2tjMnowYU9RSnY2Y0pUZkhDY3Uzb1HSAY8BQVVfeXFMUG9PSlAwNVhCb2JXWTNwX0ZKeTJBNS0wVDBManM4bGlwV2k0cVJwOTNsbE82UlNJN1B0RmhNS0ZEUGV4Qk5qdG81aHpsaS1TTFBqTkd0Uk1obmw4ajRqLVh2cDJDSzM3YVZXZFRQbklfalRjMFBVRk5PblVoaTdHUDMtb0tleldzblhCNjN0clk?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260818T111818Z",
-          "pinned": false
-        },
-        {
-          "title": "Russian attacks kill 10 in Kharkiv as Ukrainian drones hit Moscow",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaW1wR0ZhajM4bElWb2RxLWRldW43a0VBQWh2ZHBJcFNoT055Nm51b09PbGZ1N1VSWXBoU2ZJdlg3UWkwS2ZMVC15YXBOTkhOMXB6LVQ3aTNwSF83ejU4MUtKNTQ1THNMNnIwVnlwYnVEYzljYktfamF0T01Xb1pPSTdrOXdKc0o4RENyWUgwVjlXWEt6UnNGNm5CZHbSAaIBQVVfeXFMTmZsYlVWVHEzUEQ4bFBxaFFYc2sycnlWZElwbUxWdHFzS2dFSHduY3huaUF0YzVhRHJXRWxZWjJQZlZtSVdjR1hsOG5kblNDUWNyamFOd1hoSW5kNFVFN1RpZFdqV2tOeEZpU3NrUHB2Q2JmMDluOVRIUGc1QTlfVE8yQmtxRDBfaExrV0tMb2VfTk5aakV1MFVyMW5qY3hwR3F3?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260818T120521Z",
-          "pinned": false
-        },
-        {
-          "title": "Putin’s ‘illusion of victory:’ Russia ramps up missile attacks on Ukraine",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNnoyZUxHVmZVNk9kdU41SnZMVTBJU1ZXRUpRaGtvN1hHQ3d3djIyRk54N3NCM3Y3Wk5MWkQtM29VUm94SFdfMnpVSDUtRUVPN2RjNlBsVnp4Ynk2S0pyM2RaeVgxeGtMZHpQZUpZRkVlYXEyR1FvcXBfNjZGUlZXb0taQW5nZUE3ZThzNVotS05IWk5tVFNfLUxRUUx1R0sxczNJeURIbkZGb196Zkww0gG0AUFVX3lxTE1NTW00Q0REYkE0dW81SUpWWnlhSHlBR29zVmlLTjJraEptMjBrMjNmQ0NSS1JxRURXa3hmLVFKQlBlUWlSaVBhTEllY3hBN0hkR0lqNG9sYXpKZHZGenRxc3haOXh6SWpYd1lIcl9wekRramtKcXc5a1NpT0J2NjVYZ3BNLTRFOXlqZExkVlR2eGxhdVdERWtxYVpvQmRsbm1IdGpMeE9CZ1lIb1dNNDJXblh0Nw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260818T105025Z",
+          "seen": "20260819T060718Z",
           "pinned": false
         }
       ],
@@ -1155,6 +1155,15 @@
           "reportedAt": "2026-08-17T12:25:55Z"
         },
         {
+          "id": "report-06e195303b5f",
+          "title": "UAE imposes indefinite trade embargo on Iran over alleged missile attacks",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUmllc1dobzVIUzRBUl9ydXdrRTlTUDFwZW9qWGZlbFAwcWh4MkhTX3NjOUQ3S2tlMVRudUZ3TVR6bk9SdWFQN3g2QmNpYm1ZT3gxTEJfVVdnNmFMS01nNXNaMkZ3T0hQcFpOM0RUdTV0b0E5a1UxUHR0dWZ3QUlhSkZzWkl6MGsyVVFWMDNVRTNHeWx2NExYUlFNcnU4MDNBR0xKaEtlcjlBcElhQXRzbmlFOGPSAboBQVVfeXFMUHdKbW85MVRhT242aE5QLVZENFc5VVNSeTVHNHZzZkJPSHdnY1JGd2J5UEk0RzhKYXdmNWs5c2xTWHQ4UUNkRXVYaTZuQkNySWt4dzZtQzNHNnhYOWRRMVVGaFl6NlpNaGxfQ1d1TGQtbzl3TEJCUG00WG50YUpkNk1fc2laQTBOVW95SnYyZlNsZDNVcjdwc1V3ZXY4TnBSMWR4dFpPMURRQkUxMURQUlFyRHo2VHgtYlNn?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-19T03:39:26Z"
+        },
+        {
           "id": "report-a1f2bc62c837",
           "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FOV9IY1V1dlNiOW1UV3Z6a2w5dG9zQk9MaVNiUV83MGhmYzN5NDFZdVlGSFFXVlN3SWxkdTFZbmJIQlk3UTJCNVRkb09UOUJ2ekc5ckN0M2k1dw?oc=5",
@@ -1173,15 +1182,6 @@
           "reportedAt": "2026-08-17T18:39:39Z"
         },
         {
-          "id": "report-be856730c0fb",
-          "title": "Iran’s top negotiator declares victory in war against the US and Israel",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUkxHZlQ2ZVNBZTZiTEk1eGh3ZFNUbDUzdVQyd2VWTEdxcnAzQmNNQUE0bkU1TkpvaDYwbjZENV8xcXJSRmh0aDF0QTFGZGJ6M29OSzAtTERIVUV0S1BVUzBGUHpPdVd4RmxJT2dKSVg1VWdSaGo3QkZsbHAyemczNFVwSmVhSDl2RUhCbE43Y1M1b2QxUDJIZ1RRQ1VxeVp4dlN4WE9lSTd5X2VveFVzTUpJZlBrMUtpMHdidlJ30gHDAUFVX3lxTE43cUpESXRMclJJQXR0NUI0TjlyZGNzUF9tNU1DOUxiX2dFMW5ib2E1LUxVZzQ3NzVyVF9SVkl4bjR2VEEzeWRYM2xXRmFZT1pZTWlHUDNhLWVXaFlNZENpR1VaMkVia2E2ZFY3V2piTGc2RFlJQ1pTME5qM0xaQWU0ek1RY2Y2emczb1lQTTlMSG0xcUd0ZlRhWEJSR0hhaEJzZDBjMHluS0QxTFR2dDhpOW5kdjRHVHpvbDVJX3M5R3BVTQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-17T08:29:07Z"
-        },
-        {
           "id": "report-065ad437dea9",
           "title": "Israel’s siege on Gaza is creating a breast cancer crisis",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZDZsa3lXYXhLbWUtTG9SOFJMSGJ0NTZReXNzanVSWEc5RC0zVEZLNHkybnJhWGFRVk9LbV9YS2VqeE5kVlpVNFU2cXUwaUJaWGlndW5rMnJTQ0Y1elUydzlZTlZTZGR6SzNwbm9jQ3UwdThURGxMOW5CN1otVGVidkhLdVUydHFRTjU5VnBiUUJ1c1ZRTlpSYVBZNlVCOVBuTnVv0gGoAUFVX3lxTE5JaHF3bFFUNGF1cnJHSXF6ajRLRjRia2Z5c0JyckN1RkU3X08zbEpwSjZvcG9qTEFadnB5VWkxVlNiMFVUeTUzeldyYXl5eFU0czNNQlFMbnlSYTh3VFU3alRXQng2MWowQ0tPVEVCaUI3OGRCVENuLWZnWkZZTEZBamNOemhlWDluS3NzdDdqNFJRTWtGelBjNUF6WHBjY1hINWNyVGJpag?oc=5",
@@ -1189,6 +1189,24 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-18T07:51:53Z"
+        },
+        {
+          "id": "report-2850bd13c71b",
+          "title": "Analysis: Syrian airbase attack is an Israeli message to Damascus, Ankara",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTWFCUTc0LVpkd21oaEJYRFNyUUFOREtzZG9aQjVRTW9jSjhkMjJGMGFNUkhxY2dsWlpvNkc0NDM5NHhPRUR0NmwwRnQyQ1h3VkE5YUFyUjRZOFJsX2d1dDlsc0s3RVpnc00tbkh1UTNta2w4RUg5RWtZNVl4Q3V2Y25IMXFYaTJIQ2NyWjIxUHZLaXZXWGJnTHQxS0o5Ynp5WUVscjVCSXd2X1dpRVg0MUZpWWtkcVXSAbwBQVVfeXFMTm5fckd6eHo0SjJlQzB6UjN3T1dYWDFnWFlXdWU2cG1QUHFSU1BodVJIX0xDTEZUd3VndE5ndGZNMzJIR3F6bmhKZEFoTWtLaVVyaVoydi11bEVkVkp6QXJOOW40c1Rya2U1MTVNZEdWX29fckttalFaSTRmUjhMWks1LWZpVF9aRjN2RE9XRUl1d2U2aE50WUU1MFRBbngyTGZjVXBoYUg4YnNxcTdrUmF3NC1XSW9MUWE1UDU?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-18T18:02:46Z"
+        },
+        {
+          "id": "report-be856730c0fb",
+          "title": "Iran’s top negotiator declares victory in war against the US and Israel",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUkxHZlQ2ZVNBZTZiTEk1eGh3ZFNUbDUzdVQyd2VWTEdxcnAzQmNNQUE0bkU1TkpvaDYwbjZENV8xcXJSRmh0aDF0QTFGZGJ6M29OSzAtTERIVUV0S1BVUzBGUHpPdVd4RmxJT2dKSVg1VWdSaGo3QkZsbHAyemczNFVwSmVhSDl2RUhCbE43Y1M1b2QxUDJIZ1RRQ1VxeVp4dlN4WE9lSTd5X2VveFVzTUpJZlBrMUtpMHdidlJ30gHDAUFVX3lxTE43cUpESXRMclJJQXR0NUI0TjlyZGNzUF9tNU1DOUxiX2dFMW5ib2E1LUxVZzQ3NzVyVF9SVkl4bjR2VEEzeWRYM2xXRmFZT1pZTWlHUDNhLWVXaFlNZENpR1VaMkVia2E2ZFY3V2piTGc2RFlJQ1pTME5qM0xaQWU0ek1RY2Y2emczb1lQTTlMSG0xcUd0ZlRhWEJSR0hhaEJzZDBjMHluS0QxTFR2dDhpOW5kdjRHVHpvbDVJX3M5R3BVTQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-17T08:29:07Z"
         },
         {
           "id": "report-1c1e43439102",
@@ -1209,13 +1227,22 @@
           "reportedAt": "2026-08-18T08:20:25Z"
         },
         {
-          "id": "report-ed437e8d2378",
-          "title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSW9mTFNZNmhNT3Rucy1OdzIyUzZxYlZVMk1oY2liVkNobXMtYXJPTUI2MFZfYWt3QkJwTVhaNnlEbzY2M0I4NWZtVFRyLVpwX3JQdUZXOVlkZVZXNThuQmRXMjFsOFN2QWRnX3ZCNk1DRlUyQWZIdUNrM0IwWGFRdHhIWHQ?oc=5",
-          "domain": "apnews.com",
+          "id": "report-88709d520356",
+          "title": "US condemns 'unnecessary escalation' after Israeli airstrikes on Syrian airbase",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BdnNyLUJpOW8zbG0ySkhLRkROeC10Z1FfalRQOXFBNEpnVW4yNWkyZkVhdlZ6V3ctbFVXX2VHU1M1dlJLMnM4eWVLZkg0bWNhMGYwaEs1dWdCUQ?oc=5",
+          "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-16T18:04:00Z"
+          "reportedAt": "2026-08-19T00:48:16Z"
+        },
+        {
+          "id": "report-95883118a28e",
+          "title": "Iran slams Canada's participation in US war on Iran",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZmFUNnk1RmU1RHRtbkN0cXNaam9Gb21VQi1uZUpBLUFsWjl4eHJ3c1FlVncxREVCLWppT1BlNERDenJnUUVnTHVCYzFmdXh3bVp1ajFTTE9GdTFFSlRwVjNFS3VQNXhEVUlrMjc0Wk1tN0toUHUtMThVM1B1LVF0VF9OU2hFLWpqcVlCUWtZeTVqdmZ3UVZOTlBZTQ?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-08-17T00:57:32Z"
         },
         {
           "id": "report-df16386c4688",
@@ -1227,13 +1254,13 @@
           "reportedAt": "2026-08-17T18:31:51Z"
         },
         {
-          "id": "report-95883118a28e",
-          "title": "Iran slams Canada's participation in US war on Iran",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZmFUNnk1RmU1RHRtbkN0cXNaam9Gb21VQi1uZUpBLUFsWjl4eHJ3c1FlVncxREVCLWppT1BlNERDenJnUUVnTHVCYzFmdXh3bVp1ajFTTE9GdTFFSlRwVjNFS3VQNXhEVUlrMjc0Wk1tN0toUHUtMThVM1B1LVF0VF9OU2hFLWpqcVlCUWtZeTVqdmZ3UVZOTlBZTQ?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
-          "reportedAt": "2026-08-17T00:57:32Z"
+          "id": "report-ed437e8d2378",
+          "title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSW9mTFNZNmhNT3Rucy1OdzIyUzZxYlZVMk1oY2liVkNobXMtYXJPTUI2MFZfYWt3QkJwTVhaNnlEbzY2M0I4NWZtVFRyLVpwX3JQdUZXOVlkZVZXNThuQmRXMjFsOFN2QWRnX3ZCNk1DRlUyQWZIdUNrM0IwWGFRdHhIWHQ?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-16T18:04:00Z"
         },
         {
           "id": "report-26817d5f07b9",
@@ -1272,49 +1299,22 @@
           "reportedAt": "2026-08-18T05:07:06Z"
         },
         {
-          "id": "report-e2480e1c7782",
+          "id": "report-2bbb58857cfd",
           "title": "Russia reports Ukrainian drone strike near Zaporizhzhia nuclear plant",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWU1mTHgzVHRPVzFQRkF6UnBpS0lSbVo2LUZrWFVvYjQ5SDdsVWxoc3BDSVNQdzB1YWI0aGZ6WkRaaW01SWpLX2JCTUpkT0RYOXVielZFTUR4TndVajRBbU13TEJlSnBRMGN6UC0wTVBYYTFvbjRfU2Y3Umd1djRrTjdickVlRFg3SDNiX1g2TU1wbnJ3aUpNVFE1Wl9haW4zRGY0RWlPQ0hDZi1WWWtr0gG0AUFVX3lxTE9rYWhoU2ZUSkNzREtqYWVIQzNZVGxWRlJvMktfWnR1M1U0VjBYQ3FXVnhxYTdST2lZUWhET2gtQjRwRVZVZG14RmdJU3pIX3pnaVp6UWg2TFVrbFVibldsNlZydFhGb1l5ZDg3aU5OV3BwRWJLMVVoQW1Ya3U1NmdLME16LURUWFZGZE1kbFo4RFV6Nmx4cVY4bjBYQ0tBN3dwb0xXbHVBSXdWbm43YWZtTUdtVg?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWU1mTHgzVHRPVzFQRkF6UnBpS0lSbVo2LUZrWFVvYjQ5SDdsVWxoc3BDSVNQdzB1YWI0aGZ6WkRaaW01SWpLX2JCTUpkT0RYOXVielZFTUR4TndVajRBbU13TEJlSnBRMGN6UC0wTVBYYTFvbjRfU2Y3Umd1djRrTjdickVlRFg3SDNiX1g2TU1wbnJ3aUpNVFE1Wl9haW4zRGY0RWlPQ0hDZi1WWWtr?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-18T20:54:38Z"
         },
         {
-          "id": "report-d77a27413a8d",
-          "title": "Yemen’s drone war: Rivals flex growing aerial muscle",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUEZPanl2RHZFR21fa2llRTRITHo0TnFBMFBsUVBOd2pnTGI4RXpMMzlSY2lBYUNtb2Q0V2ZmS3VmdkIyaEMxRGF5NzlmRjZMVWh6VklzeHd2LXFwUko4c3JKNkdSelEtYkZsLTBlXzZoUnV6WV9HQzJGWEcxSW5vZW1VVUhVMk1LREdpdV9jcklQOXJGR0HSAZsBQVVfeXFMTWtSVUtvSGtwTUkwLXp2UG1GdzVvb3Jnb3prRG1PTE9ONXQ4LTl4VmJ2QW5HT2VlYUFIVk5oWU1WekpTckhtS2lTMTd2SEhCZUVHVmNXWGdhZDFYSk0yWmNLTzdsN2RGdU8xSGdqVTNqcU5GYWRMaUFBUW1jMEExRmxMWmpkUXpTN2NSUUhtT2RqYmtqX0RyRVRoUTA?oc=5",
+          "id": "report-1e4ea0af3fda",
+          "title": "Ukraine’s ousted defence minister calls for elections during war",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZkJWbVNIc1o1dU1UaGt1cUFIcTJJMmxPdUlobUJ4eGxzRGNZTzl5OGJ3MmVNV25tRzNiX3psV2JSRW5FN0Y4R0ljaGUwMWt2bnZzV1ZQNDdGdE5LMXJKMV9RNV83TUg0YW4yMGtUcDlCWi1PeV81UnVTaHRHQmdaem5rb1ZwRkhweTUtMzMwQk43aFJsclhlOENMSFBsenUwYnZpcFQ2Z9IBrAFBVV95cUxPT0p4NElIdE9IUGdnRXA2TURiN2ZfUHZ2aDJVQVZxMERldW8tUUZ2QWEwM0xRaHhzNXA0UXg1bGRHQkozRjNPb1NkaEVDSEJHd2s4bXZrTnE1aTVvYnRmNG9lcExBZmNqMjd2Sm9lOFpRTzVFT01MRkZONlJtZ0xnX3FDeEVjUmVBRUNiNVFfM3VJQUI5RzFQcmc0UkFmalA3X1dOVDRDSnVzdXZD?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-17T12:46:06Z"
-        },
-        {
-          "id": "report-03ac5321f68c",
-          "title": "Syrian court sentences Wassim al-Assad to death for war crimes",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNS2hYQW5IdVRla0IyMTdBcjdhbzQ2Z1JBaFZicTh3YXlVbnNrX1NIcjk0S3V0V2c5V0lFdzFBWHV0akdFR213ZEVpMjBVWldEN3BkNHN5RDBXUHRIQmlpVURDeF9BWV9GbnZZWHlLeWh0aWZad2tjMnowYU9RSnY2Y0pUZkhDY3Uzb1HSAY8BQVVfeXFMUG9PSlAwNVhCb2JXWTNwX0ZKeTJBNS0wVDBManM4bGlwV2k0cVJwOTNsbE82UlNJN1B0RmhNS0ZEUGV4Qk5qdG81aHpsaS1TTFBqTkd0Uk1obmw4ajRqLVh2cDJDSzM3YVZXZFRQbklfalRjMFBVRk5PblVoaTdHUDMtb0tleldzblhCNjN0clk?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-18T11:18:18Z"
-        },
-        {
-          "id": "report-b3cc7ebccd91",
-          "title": "Russian attacks kill 10 in Kharkiv as Ukrainian drones hit Moscow",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaW1wR0ZhajM4bElWb2RxLWRldW43a0VBQWh2ZHBJcFNoT055Nm51b09PbGZ1N1VSWXBoU2ZJdlg3UWkwS2ZMVC15YXBOTkhOMXB6LVQ3aTNwSF83ejU4MUtKNTQ1THNMNnIwVnlwYnVEYzljYktfamF0T01Xb1pPSTdrOXdKc0o4RENyWUgwVjlXWEt6UnNGNm5CZHbSAaIBQVVfeXFMTmZsYlVWVHEzUEQ4bFBxaFFYc2sycnlWZElwbUxWdHFzS2dFSHduY3huaUF0YzVhRHJXRWxZWjJQZlZtSVdjR1hsOG5kblNDUWNyamFOd1hoSW5kNFVFN1RpZFdqV2tOeEZpU3NrUHB2Q2JmMDluOVRIUGc1QTlfVE8yQmtxRDBfaExrV0tMb2VfTk5aakV1MFVyMW5qY3hwR3F3?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-18T12:05:21Z"
-        },
-        {
-          "id": "report-5636bb1ac6ed",
-          "title": "Putin’s ‘illusion of victory:’ Russia ramps up missile attacks on Ukraine",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNnoyZUxHVmZVNk9kdU41SnZMVTBJU1ZXRUpRaGtvN1hHQ3d3djIyRk54N3NCM3Y3Wk5MWkQtM29VUm94SFdfMnpVSDUtRUVPN2RjNlBsVnp4Ynk2S0pyM2RaeVgxeGtMZHpQZUpZRkVlYXEyR1FvcXBfNjZGUlZXb0taQW5nZUE3ZThzNVotS05IWk5tVFNfLUxRUUx1R0sxczNJeURIbkZGb196Zkww0gG0AUFVX3lxTE1NTW00Q0REYkE0dW81SUpWWnlhSHlBR29zVmlLTjJraEptMjBrMjNmQ0NSS1JxRURXa3hmLVFKQlBlUWlSaVBhTEllY3hBN0hkR0lqNG9sYXpKZHZGenRxc3haOXh6SWpYd1lIcl9wekRramtKcXc5a1NpT0J2NjVYZ3BNLTRFOXlqZExkVlR2eGxhdVdERWtxYVpvQmRsbm1IdGpMeE9CZ1lIb1dNNDJXblh0Nw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-18T10:50:25Z"
+          "reportedAt": "2026-08-19T06:07:18Z"
         },
         {
           "id": "report-372b096ff4db",
