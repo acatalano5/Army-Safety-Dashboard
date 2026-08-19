@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-19T16:04:23.436Z",
+  "generatedAt": "2026-08-19T18:54:47.198Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-08-19T13:07:48.887Z",
+      "generatedAt": "2026-08-19T18:54:47.198Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -939,7 +939,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-08-19T13:07:48.887Z",
+      "generatedAt": "2026-08-19T18:54:47.198Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -996,6 +996,14 @@
           "domain": "aa.com.tr",
           "sourceTier": "State-affiliated reporting",
           "seen": "20260819T084301Z",
+          "pinned": false
+        },
+        {
+          "title": "Israel’s siege on Gaza is creating a breast cancer crisis",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZDZsa3lXYXhLbWUtTG9SOFJMSGJ0NTZReXNzanVSWEc5RC0zVEZLNHkybnJhWGFRVk9LbV9YS2VqeE5kVlpVNFU2cXUwaUJaWGlndW5rMnJTQ0Y1elUydzlZTlZTZGR6SzNwbm9jQ3UwdThURGxMOW5CN1otVGVidkhLdVUydHFRTjU5VnBiUUJ1c1ZRTlpSYVBZNlVCOVBuTnVv0gGoAUFVX3lxTE5JaHF3bFFUNGF1cnJHSXF6ajRLRjRia2Z5c0JyckN1RkU3X08zbEpwSjZvcG9qTEFadnB5VWkxVlNiMFVUeTUzeldyYXl5eFU0czNNQlFMbnlSYTh3VFU3alRXQng2MWowQ0tPVEVCaUI3OGRCVENuLWZnWkZZTEZBamNOemhlWDluS3NzdDdqNFJRTWtGelBjNUF6WHBjY1hINWNyVGJpag?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260818T075153Z",
           "pinned": false
         },
         {
@@ -1063,11 +1071,11 @@
           "pinned": false
         },
         {
-          "title": "Israel’s siege on Gaza is creating a breast cancer crisis",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZDZsa3lXYXhLbWUtTG9SOFJMSGJ0NTZReXNzanVSWEc5RC0zVEZLNHkybnJhWGFRVk9LbV9YS2VqeE5kVlpVNFU2cXUwaUJaWGlndW5rMnJTQ0Y1elUydzlZTlZTZGR6SzNwbm9jQ3UwdThURGxMOW5CN1otVGVidkhLdVUydHFRTjU5VnBiUUJ1c1ZRTlpSYVBZNlVCOVBuTnVv0gGoAUFVX3lxTE5JaHF3bFFUNGF1cnJHSXF6ajRLRjRia2Z5c0JyckN1RkU3X08zbEpwSjZvcG9qTEFadnB5VWkxVlNiMFVUeTUzeldyYXl5eFU0czNNQlFMbnlSYTh3VFU3alRXQng2MWowQ0tPVEVCaUI3OGRCVENuLWZnWkZZTEZBamNOemhlWDluS3NzdDdqNFJRTWtGelBjNUF6WHBjY1hINWNyVGJpag?oc=5",
+          "title": "In Ukraine, forcible military recruitment efforts escalate into violence",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMW5FZ0FIaGx6ZDhuYm9OT182LWhPOGdOQmJhSm9kQzZrZXMxVWtpM25ybEN6UkNfNzNwbVhmaUhNeXZhcnRkLU9KM2V2OXRmY2NkaUU3NG5uQzE2Q2pFaEdUa2ZQcHZUN2JiV2JnNUhLc3hJdmZManRYTXFEaGU3QklqaWcxdVh2OWVlOUhQRTgyVElscDh1TDV2X1NUMVE0SjdsajIzZy15TXFJSm1vWnRn0gG3AUFVX3lxTE5OYlNuY0hsMXgtT2hJMFhfWmN3TkdDTkdoOXl6QWo1XzhTNThQR1Fhd3JmQmZ5Q0pKQWZVVG9CTGM5UkF3c2dmQ21tV2N2Tkw1VlBKUlFRUlI0OXhYeXpFTW5Sc1dPdWdfZmFEN1FoQkhQMzB0S0ZBelJ3YlBQYTdvd0F2bkR6ZXB6MXdxUWpNUDBQWWZGSmR6ZWVPTU5vYnR1V01LajlEM2pjQjdOLXZKRWN6blM4MA?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260818T075153Z",
+          "seen": "20260819T115509Z",
           "pinned": false
         },
         {
@@ -1111,27 +1119,19 @@
           "pinned": false
         },
         {
+          "title": "Canada pledges $50m aid to Lebanon and condemns Israeli ‘unlawful invasion’",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNng4d095SnVtNlN1OVpLTEtuSTBWZmpJc0pQRTBpUXBDN01UX0ZrSFZCdzVzZ2dEem9zd1pNMmxtMVp0WTJOejNJcmtuUFNKaWE1UEZyREc3OFR0RlFiNjlUMS0wNi1sMFhhRWdaM2M1Q1hGajBvWWJXMzNrVWRfcFkyZWFWY1gtUGJ6ZTFPM0poWHZYUFNlSFpNWHJCYkUtVS0wNElZd3hSWDU3Rkw2VDYzZ9IBuAFBVV95cUxOQlZyeWY5ZTFoRm9xZ2g4STdKeHR1aEprcGk3OUZuaUpubGQtWVdyc2EzU3owdnQ1b2tBVHpxN1Z4RHRUNXVJQTVwVHJYY1NXT3VfRnZ2QWZuVnZEa0RZUklVaFhkeVZuOTUxQU5Yc0JhN2YwUlhJdm1mZ3dVaU4tSmxheVp4WDBfdmh2QXkzMEJCU002ejNXRW5raGlGQ09IVnMxTWZZRW1TX3M3VXNDaUhuNGYtTFIy?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260819T180954Z",
+          "pinned": false
+        },
+        {
           "title": "The ripple effects of the Iran war could threaten education for millions of kids around the world",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWENnQ1pZN1l2Z01aSURjZXQta19UR2hyd0lXcC0wUi1OVll5Qmk3NnZvTHBHMU14Qmdab2xPWGlvemNEMFEwMkRqY2xucmYyTkJ0MUl0R0lKa0M0dVFGQXhqd2w2WURyNWpjWnNoU2VPby01bXhpU2xPb2xRQUp2dGg5bDNpY09HRDhoM0JYNy1jZDRRS1dxZFE1Mlo5U1hROElTUw?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "seen": "20260817T105500Z",
-          "pinned": false
-        },
-        {
-          "title": "US-South Korea war games cut short after Washington request, Seoul says",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53eDFDN3ctS2d0M2FlM2FOekdBYVk3NXN3VXZ3X2hZQ09YTDAyUVpaR1BmS0JwRFZtTFpOdEhpcnRhNzFyczd1M29VbFJXRjNFUVY3YjMxbGRwQQ?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260819T055353Z",
-          "pinned": false
-        },
-        {
-          "title": "'A floating prison' - sailors describe life on warships like USS Abraham Lincoln",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GYjlSd211dEFqekpsSWJWcnd5Zy1hd2lpbjF4UkdIdVFKX052b0NCT1RTaDVKR2trMDg2UE5jcllGdndYeXB5ejRCWjRJSzRyUEppMXdVX29sQQ?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260818T050706Z",
           "pinned": false
         }
       ],
@@ -1198,6 +1198,15 @@
           "sourceTier": "State-affiliated reporting",
           "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
           "reportedAt": "2026-08-19T08:43:01Z"
+        },
+        {
+          "id": "report-065ad437dea9",
+          "title": "Israel’s siege on Gaza is creating a breast cancer crisis",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZDZsa3lXYXhLbWUtTG9SOFJMSGJ0NTZReXNzanVSWEc5RC0zVEZLNHkybnJhWGFRVk9LbV9YS2VqeE5kVlpVNFU2cXUwaUJaWGlndW5rMnJTQ0Y1elUydzlZTlZTZGR6SzNwbm9jQ3UwdThURGxMOW5CN1otVGVidkhLdVUydHFRTjU5VnBiUUJ1c1ZRTlpSYVBZNlVCOVBuTnVv0gGoAUFVX3lxTE5JaHF3bFFUNGF1cnJHSXF6ajRLRjRia2Z5c0JyckN1RkU3X08zbEpwSjZvcG9qTEFadnB5VWkxVlNiMFVUeTUzeldyYXl5eFU0czNNQlFMbnlSYTh3VFU3alRXQng2MWowQ0tPVEVCaUI3OGRCVENuLWZnWkZZTEZBamNOemhlWDluS3NzdDdqNFJRTWtGelBjNUF6WHBjY1hINWNyVGJpag?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-18T07:51:53Z"
         },
         {
           "id": "report-06e195303b5f",
@@ -1272,13 +1281,13 @@
           "reportedAt": "2026-08-18T08:20:25Z"
         },
         {
-          "id": "report-065ad437dea9",
-          "title": "Israel’s siege on Gaza is creating a breast cancer crisis",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZDZsa3lXYXhLbWUtTG9SOFJMSGJ0NTZReXNzanVSWEc5RC0zVEZLNHkybnJhWGFRVk9LbV9YS2VqeE5kVlpVNFU2cXUwaUJaWGlndW5rMnJTQ0Y1elUydzlZTlZTZGR6SzNwbm9jQ3UwdThURGxMOW5CN1otVGVidkhLdVUydHFRTjU5VnBiUUJ1c1ZRTlpSYVBZNlVCOVBuTnVv0gGoAUFVX3lxTE5JaHF3bFFUNGF1cnJHSXF6ajRLRjRia2Z5c0JyckN1RkU3X08zbEpwSjZvcG9qTEFadnB5VWkxVlNiMFVUeTUzeldyYXl5eFU0czNNQlFMbnlSYTh3VFU3alRXQng2MWowQ0tPVEVCaUI3OGRCVENuLWZnWkZZTEZBamNOemhlWDluS3NzdDdqNFJRTWtGelBjNUF6WHBjY1hINWNyVGJpag?oc=5",
+          "id": "report-f0db82a40c5d",
+          "title": "In Ukraine, forcible military recruitment efforts escalate into violence",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMW5FZ0FIaGx6ZDhuYm9OT182LWhPOGdOQmJhSm9kQzZrZXMxVWtpM25ybEN6UkNfNzNwbVhmaUhNeXZhcnRkLU9KM2V2OXRmY2NkaUU3NG5uQzE2Q2pFaEdUa2ZQcHZUN2JiV2JnNUhLc3hJdmZManRYTXFEaGU3QklqaWcxdVh2OWVlOUhQRTgyVElscDh1TDV2X1NUMVE0SjdsajIzZy15TXFJSm1vWnRn0gG3AUFVX3lxTE5OYlNuY0hsMXgtT2hJMFhfWmN3TkdDTkdoOXl6QWo1XzhTNThQR1Fhd3JmQmZ5Q0pKQWZVVG9CTGM5UkF3c2dmQ21tV2N2Tkw1VlBKUlFRUlI0OXhYeXpFTW5Sc1dPdWdfZmFEN1FoQkhQMzB0S0ZBelJ3YlBQYTdvd0F2bkR6ZXB6MXdxUWpNUDBQWWZGSmR6ZWVPTU5vYnR1V01LajlEM2pjQjdOLXZKRWN6blM4MA?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-18T07:51:53Z"
+          "reportedAt": "2026-08-19T11:55:09Z"
         },
         {
           "id": "report-88709d520356",
@@ -1326,6 +1335,15 @@
           "reportedAt": "2026-08-17T19:35:20Z"
         },
         {
+          "id": "report-2ed065259ee4",
+          "title": "Canada pledges $50m aid to Lebanon and condemns Israeli ‘unlawful invasion’",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNng4d095SnVtNlN1OVpLTEtuSTBWZmpJc0pQRTBpUXBDN01UX0ZrSFZCdzVzZ2dEem9zd1pNMmxtMVp0WTJOejNJcmtuUFNKaWE1UEZyREc3OFR0RlFiNjlUMS0wNi1sMFhhRWdaM2M1Q1hGajBvWWJXMzNrVWRfcFkyZWFWY1gtUGJ6ZTFPM0poWHZYUFNlSFpNWHJCYkUtVS0wNElZd3hSWDU3Rkw2VDYzZ9IBuAFBVV95cUxOQlZyeWY5ZTFoRm9xZ2g4STdKeHR1aEprcGk3OUZuaUpubGQtWVdyc2EzU3owdnQ1b2tBVHpxN1Z4RHRUNXVJQTVwVHJYY1NXT3VfRnZ2QWZuVnZEa0RZUklVaFhkeVZuOTUxQU5Yc0JhN2YwUlhJdm1mZ3dVaU4tSmxheVp4WDBfdmh2QXkzMEJCU002ejNXRW5raGlGQ09IVnMxTWZZRW1TX3M3VXNDaUhuNGYtTFIy?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-19T18:09:54Z"
+        },
+        {
           "id": "report-ca6ae1dfb736",
           "title": "The ripple effects of the Iran war could threaten education for millions of kids around the world",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWENnQ1pZN1l2Z01aSURjZXQta19UR2hyd0lXcC0wUi1OVll5Qmk3NnZvTHBHMU14Qmdab2xPWGlvemNEMFEwMkRqY2xucmYyTkJ0MUl0R0lKa0M0dVFGQXhqd2w2WURyNWpjWnNoU2VPby01bXhpU2xPb2xRQUp2dGg5bDNpY09HRDhoM0JYNy1jZDRRS1dxZFE1Mlo5U1hROElTUw?oc=5",
@@ -1333,24 +1351,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-17T10:55:00Z"
-        },
-        {
-          "id": "report-00a59d0ef877",
-          "title": "US-South Korea war games cut short after Washington request, Seoul says",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53eDFDN3ctS2d0M2FlM2FOekdBYVk3NXN3VXZ3X2hZQ09YTDAyUVpaR1BmS0JwRFZtTFpOdEhpcnRhNzFyczd1M29VbFJXRjNFUVY3YjMxbGRwQQ?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-19T05:53:53Z"
-        },
-        {
-          "id": "report-08b3431589e1",
-          "title": "'A floating prison' - sailors describe life on warships like USS Abraham Lincoln",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GYjlSd211dEFqekpsSWJWcnd5Zy1hd2lpbjF4UkdIdVFKX052b0NCT1RTaDVKR2trMDg2UE5jcllGdndYeXB5ejRCWjRJSzRyUEppMXdVX29sQQ?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-18T05:07:06Z"
         },
         {
           "id": "report-372b096ff4db",
