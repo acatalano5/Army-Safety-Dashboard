@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-19T13:07:48.887Z",
+  "generatedAt": "2026-08-19T16:04:23.436Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -9,7 +9,7 @@
       "items": []
     },
     "safety": {
-      "generatedAt": "2026-08-18T16:03:28.666Z",
+      "generatedAt": "2026-08-19T16:04:23.436Z",
       "cadence": "daily",
       "items": [
         {
@@ -29,11 +29,11 @@
           "pinned": false
         },
         {
-          "title": "Two US Army soldiers killed in Texas helicopter crash",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYVROdG1WU2licEoyR2xYTHB0NG1VZUc3cElhampMR0k4WDlXQVBkUDFTMUFlcDF4LXBrUjZDWlplR0xMNld0cVRUaEE4QlVZeTFpRnRvd1EtMjEtRzJSejR1Vk8ySl9IMm1xWDc1WVk1S2g4Vjk1ZW50OVY2MEZnZElFMFIwLXY0T3Rfb2MycVB6RUNNVTFmR0l2QQ?oc=5",
-          "domain": "reuters.com",
+          "title": "'I just crashed’ — New footage shows Marine after F-18 ejection",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ENC16amhkbmlxTnRKbi1lalU4Yjh5T1I0UWpURTBXeVNpWldicVc2Yl81OHJxYlJBWTNzM2p3M1RxVlV0QzNMX0RkQkpMallpSFdHc1hYeVlSTzNMSzBqRVVRM0VqYjVVLVpSbzhlY0tCNElDVFo2ag?oc=5",
+          "domain": "taskandpurpose.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260812T230614Z",
+          "seen": "20260818T202702Z",
           "pinned": false
         },
         {
@@ -77,19 +77,19 @@
           "pinned": false
         },
         {
-          "title": "PLR 26-053 – Automobile Mishap Claims One Soldier's Life",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQLTF4dFVXQUVUR01mU0dsWUVZcVZmRXJHQXpFUTU2NTF4RDNOdGZwYTg5WklVNXZ4T1Z4ZjJUT1lYYXZfcm1sMXgxVTNKZGFLNHZTdUczVHlrWUM0UHk0Y0tKcURRVjJIalAtTTBfNW5KTjRURHdyRjhSM0lYelNGYndiRHNMVVFOVkh4bk9Vc2lpUncwUUpIT2duNmRCWUxpTUZOQ3NKQ3BkSE8yVnVwVlhRdENVS2lxUk5xOS04eHQzdkIweTMxM0JybHlhSTYt?oc=5",
-          "domain": "safety.army.mil",
-          "sourceTier": "Official military source",
-          "seen": "20260730T212627Z",
-          "pinned": false
-        },
-        {
           "title": "PLR 26-056 – Automobile Mishap Claims One Soldier’s Life",
           "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSEZnUzY5SU8zcHRPQldIUWxsbU5TNVIzTDQ3UXJ6ZUpjWFJQckVzd1ZHT1AtaDRxU0hySnd4S2RIYjRfX1FVbVRhM01iYkdCMTVmQlZzQjFPMkVDeGdpQkxpVm1MUzN4US04cV9wU3puV3ZtWGQ0aHNjMlJmOWtTVWtNRlVfb3lQOWtxYXc4anRZejdaZnJOSTB4aGw4cVFVVGRsVWFOMWVjZU9BYzVUemNoSkd3YjBObXhqdVB5Yk5FOVBmYU9DTEtCSWlmWkYyMGlHemZmaUlZSEIxWXBN?oc=5",
           "domain": "safety.army.mil",
           "sourceTier": "Official military source",
           "seen": "20260812T204821Z",
+          "pinned": false
+        },
+        {
+          "title": "Japanese F-15 mishap closes runway, disrupts flights at Okinawa airport",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVjNZMWhVSTBuZDZZNmdRMkpJYnBtcUoxaDM3ZUh5THF2RUttRUlYbGFFbkxGU2RmM3haRHFab19HblcwdjB2RHBrMlZjZ2QtVy00RGUybHE1SGdULVIxWTZaU0JQX0M2X05Nb2I4N0tJSlNYYWtCS05KVGkyZmR4cnhaSldDMnU5aVBhRFU1NjBCLW9vZ1VITWxMMl9MdFRDS21BTG02TkZqcWNmNnBr?oc=5",
+          "domain": "stripes.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260819T021253Z",
           "pinned": false
         },
         {
@@ -101,19 +101,19 @@
           "pinned": false
         },
         {
+          "title": "PLR 26-053 – Automobile Mishap Claims One Soldier's Life",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQLTF4dFVXQUVUR01mU0dsWUVZcVZmRXJHQXpFUTU2NTF4RDNOdGZwYTg5WklVNXZ4T1Z4ZjJUT1lYYXZfcm1sMXgxVTNKZGFLNHZTdUczVHlrWUM0UHk0Y0tKcURRVjJIalAtTTBfNW5KTjRURHdyRjhSM0lYelNGYndiRHNMVVFOVkh4bk9Vc2lpUncwUUpIT2duNmRCWUxpTUZOQ3NKQ3BkSE8yVnVwVlhRdENVS2lxUk5xOS04eHQzdkIweTMxM0JybHlhSTYt?oc=5",
+          "domain": "safety.army.mil",
+          "sourceTier": "Official military source",
+          "seen": "20260730T212627Z",
+          "pinned": false
+        },
+        {
           "title": "Coast Guard Conducting Investigation to Fatal Incident near Liberty Island",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPR1BTQU9ETXY3djdvaDJZNTdhWkk0TFhiUUdQc1BBQ2R2bEtaRHFpTnF0RGJWSVhnZlBXUkFsQ0hKSDJLRE45emtlUEpjRlRBUHhYaHpLOEZZYUk3WWMxdHBMelFHRm1PMzhJeWVFUDd6UU5VN1k4cGphRkhiclZrUjZwMUVOdHJrM0lXTkpVQkdTTHBablBlWlhiVEpYRk5WLVhWcnBaQTdtUlljRkhxdXA0NmFtSk5fVG5jWF9IU3Y3OVB6cmdZblZ3RGo?oc=5",
           "domain": "news.uscg.mil",
           "sourceTier": "Official military source",
           "seen": "20260809T070000Z",
-          "pinned": false
-        },
-        {
-          "title": "Coast Guard suspends search for missing male at Gun Beach, Guam",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObGtBUGhrZ2JIT1RId3RsV2xrV0FZcy11RnNlQzkxeTdFZnJZaWJsWVVWN0ZhRWxQTDFwVk9IQUh5dXhkSkg5cm9Sc3lIYXRuR2RzcVlDVkRnc2hDXzVxam8ycERuUzZZTHRsN1JVZUVLZzJXcUpkYU5NMmZqVmtnV1N6dS1DeFBOVFdQZE5wU2xCU0tNd3BNU1NOTTh3QzR1clJSc1FFdXpodEJwY0RFektqeHU5SU5rRnF3QQ?oc=5",
-          "domain": "news.uscg.mil",
-          "sourceTier": "Official military source",
-          "seen": "20260814T234727Z",
           "pinned": false
         },
         {
@@ -126,6 +126,42 @@
         }
       ],
       "incidents": [
+        {
+          "id": "auto-0666b0008475",
+          "reportDate": "2026-08-19",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Aviation",
+          "event": "Japanese F-15 mishap closes runway, disrupts flights at Okinawa airport",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVjNZMWhVSTBuZDZZNmdRMkpJYnBtcUoxaDM3ZUh5THF2RUttRUlYbGFFbkxGU2RmM3haRHFab19HblcwdjB2RHBrMlZjZ2QtVy00RGUybHE1SGdULVIxWTZaU0JQX0M2X05Nb2I4N0tJSlNYYWtCS05KVGkyZmR4cnhaSldDMnU5aVBhRFU1NjBCLW9vZ1VITWxMMl9MdFRDS21BTG02TkZqcWNmNnBr?oc=5",
+          "sourceLabel": "stripes.com"
+        },
+        {
+          "id": "auto-9157f0e3a28a",
+          "reportDate": "2026-08-18",
+          "dateBasis": "report discovery date",
+          "branch": "Marine Corps",
+          "department": "Department of the Navy",
+          "type": "Aviation",
+          "event": "'I just crashed’ — New footage shows Marine after F-18 ejection",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ENC16amhkbmlxTnRKbi1lalU4Yjh5T1I0UWpURTBXeVNpWldicVc2Yl81OHJxYlJBWTNzM2p3M1RxVlV0QzNMX0RkQkpMallpSFdHc1hYeVlSTzNMSzBqRVVRM0VqYjVVLVpSbzhlY0tCNElDVFo2ag?oc=5",
+          "sourceLabel": "taskandpurpose.com"
+        },
         {
           "id": "auto-cbae79c7b676",
           "reportDate": "2026-08-14",
@@ -253,24 +289,6 @@
           "sourceLabel": "news.uscg.mil"
         },
         {
-          "id": "auto-aaf1eda411b2",
-          "reportDate": "2026-08-12",
-          "dateBasis": "report discovery date",
-          "branch": "Army",
-          "department": "Department of the Army",
-          "type": "Aviation",
-          "event": "Two US Army soldiers killed in Texas helicopter crash",
-          "location": "See official source",
-          "fatalities": null,
-          "injuries": null,
-          "status": "REPORTED / UNVALIDATED",
-          "signalClass": "REPORTED MISHAP",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
-          "source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYVROdG1WU2licEoyR2xYTHB0NG1VZUc3cElhampMR0k4WDlXQVBkUDFTMUFlcDF4LXBrUjZDWlplR0xMNld0cVRUaEE4QlVZeTFpRnRvd1EtMjEtRzJSejR1Vk8ySl9IMm1xWDc1WVk1S2g4Vjk1ZW50OVY2MEZnZElFMFIwLXY0T3Rfb2MycVB6RUNNVTFmR0l2QQ?oc=5",
-          "sourceLabel": "reuters.com"
-        },
-        {
           "id": "auto-35c60536014e",
           "reportDate": "2026-08-12",
           "dateBasis": "report discovery date",
@@ -305,6 +323,24 @@
           "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
           "source": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSEZnUzY5SU8zcHRPQldIUWxsbU5TNVIzTDQ3UXJ6ZUpjWFJQckVzd1ZHT1AtaDRxU0hySnd4S2RIYjRfX1FVbVRhM01iYkdCMTVmQlZzQjFPMkVDeGdpQkxpVm1MUzN4US04cV9wU3puV3ZtWGQ0aHNjMlJmOWtTVWtNRlVfb3lQOWtxYXc4anRZejdaZnJOSTB4aGw4cVFVVGRsVWFOMWVjZU9BYzVUemNoSkd3YjBObXhqdVB5Yk5FOVBmYU9DTEtCSWlmWkYyMGlHemZmaUlZSEIxWXBN?oc=5",
           "sourceLabel": "safety.army.mil"
+        },
+        {
+          "id": "auto-aaf1eda411b2",
+          "reportDate": "2026-08-12",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Aviation",
+          "event": "Two US Army soldiers killed in Texas helicopter crash",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYVROdG1WU2licEoyR2xYTHB0NG1VZUc3cElhampMR0k4WDlXQVBkUDFTMUFlcDF4LXBrUjZDWlplR0xMNld0cVRUaEE4QlVZeTFpRnRvd1EtMjEtRzJSejR1Vk8ySl9IMm1xWDc1WVk1S2g4Vjk1ZW50OVY2MEZnZElFMFIwLXY0T3Rfb2MycVB6RUNNVTFmR0l2QQ?oc=5",
+          "sourceLabel": "reuters.com"
         },
         {
           "id": "auto-4f6f4c176387",
