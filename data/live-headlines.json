@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-19T07:06:42.050Z",
+  "generatedAt": "2026-08-19T13:07:48.887Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-08-19T07:06:42.050Z",
+      "generatedAt": "2026-08-19T13:07:48.887Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -903,7 +903,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-08-19T07:06:42.050Z",
+      "generatedAt": "2026-08-19T13:07:48.887Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -955,6 +955,14 @@
           "pinned": false
         },
         {
+          "title": "Iran weighs strikes on US military targets in Europe if war escalates: Report",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcjl6ckR6NWVJUnFON3paMW95SWhKTEdnUjZoRkVYSWNQVXJOa0VUT3I2Uk5FNEhfWGVUYTRmXzl5ekphU1QydFI5cXowUGRVNktHVHpqYmtZcGJKSXlmYmpFMjJUOTdTbFMtWXlaVV9WTjJRaERWUkhFeTVYRVVxOGNKV1FOanVxN2hfYTJNbW9QWGFYYmxTYzdlSXNBZVRiZ3luTWpzMXBYb2xscHh6X1pnbTJfWXM?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20260819T084301Z",
+          "pinned": false
+        },
+        {
           "title": "UAE imposes indefinite trade embargo on Iran over alleged missile attacks",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUmllc1dobzVIUzRBUl9ydXdrRTlTUDFwZW9qWGZlbFAwcWh4MkhTX3NjOUQ3S2tlMVRudUZ3TVR6bk9SdWFQN3g2QmNpYm1ZT3gxTEJfVVdnNmFMS01nNXNaMkZ3T0hQcFpOM0RUdTV0b0E5a1UxUHR0dWZ3QUlhSkZzWkl6MGsyVVFWMDNVRTNHeWx2NExYUlFNcnU4MDNBR0xKaEtlcjlBcElhQXRzbmlFOGPSAboBQVVfeXFMUHdKbW85MVRhT242aE5QLVZENFc5VVNSeTVHNHZzZkJPSHdnY1JGd2J5UEk0RzhKYXdmNWs5c2xTWHQ4UUNkRXVYaTZuQkNySWt4dzZtQzNHNnhYOWRRMVVGaFl6NlpNaGxfQ1d1TGQtbzl3TEJCUG00WG50YUpkNk1fc2laQTBOVW95SnYyZlNsZDNVcjdwc1V3ZXY4TnBSMWR4dFpPMURRQkUxMURQUlFyRHo2VHgtYlNn?oc=5",
           "domain": "aljazeera.com",
@@ -976,14 +984,6 @@
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20260817T183939Z",
-          "pinned": false
-        },
-        {
-          "title": "Israel’s siege on Gaza is creating a breast cancer crisis",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZDZsa3lXYXhLbWUtTG9SOFJMSGJ0NTZReXNzanVSWEc5RC0zVEZLNHkybnJhWGFRVk9LbV9YS2VqeE5kVlpVNFU2cXUwaUJaWGlndW5rMnJTQ0Y1elUydzlZTlZTZGR6SzNwbm9jQ3UwdThURGxMOW5CN1otVGVidkhLdVUydHFRTjU5VnBiUUJ1c1ZRTlpSYVBZNlVCOVBuTnVv0gGoAUFVX3lxTE5JaHF3bFFUNGF1cnJHSXF6ajRLRjRia2Z5c0JyckN1RkU3X08zbEpwSjZvcG9qTEFadnB5VWkxVlNiMFVUeTUzeldyYXl5eFU0czNNQlFMbnlSYTh3VFU3alRXQng2MWowQ0tPVEVCaUI3OGRCVENuLWZnWkZZTEZBamNOemhlWDluS3NzdDdqNFJRTWtGelBjNUF6WHBjY1hINWNyVGJpag?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260818T075153Z",
           "pinned": false
         },
         {
@@ -1011,11 +1011,27 @@
           "pinned": false
         },
         {
+          "title": "Ukraine’s ousted defence minister calls for elections during war",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZkJWbVNIc1o1dU1UaGt1cUFIcTJJMmxPdUlobUJ4eGxzRGNZTzl5OGJ3MmVNV25tRzNiX3psV2JSRW5FN0Y4R0ljaGUwMWt2bnZzV1ZQNDdGdE5LMXJKMV9RNV83TUg0YW4yMGtUcDlCWi1PeV81UnVTaHRHQmdaem5rb1ZwRkhweTUtMzMwQk43aFJsclhlOENMSFBsenUwYnZpcFQ2Z9IBrAFBVV95cUxPT0p4NElIdE9IUGdnRXA2TURiN2ZfUHZ2aDJVQVZxMERldW8tUUZ2QWEwM0xRaHhzNXA0UXg1bGRHQkozRjNPb1NkaEVDSEJHd2s4bXZrTnE1aTVvYnRmNG9lcExBZmNqMjd2Sm9lOFpRTzVFT01MRkZONlJtZ0xnX3FDeEVjUmVBRUNiNVFfM3VJQUI5RzFQcmc0UkFmalA3X1dOVDRDSnVzdXZD?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260819T060718Z",
+          "pinned": false
+        },
+        {
           "title": "Top Russian economist ousted after warning of growing costs of Ukraine war",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaDRhUWR1Q0ZVd1BLSUJBLTJIeTFISWdFc1kzclJqM21VZlhHcTNMUWVKTC1kRUlkNXhHRnlPTS1FcHkwQ1cyaFNsLXJYRVVfdmhtVWZiblluSHFBcE9DWFcxY3BpY0VnR253ODd6cFJlZXBtazZRSVBtcXlWSmttY2x1dXRSMW5Zc29NVmZNVXJkY3pkRk1GeG1oSFQ3UTYyN2F3R0JBZkx0eC10YUZZQmpDM1hBUdIBuwFBVV95cUxNSE9tbWxhSHJqaWFkRWlqTGFhZmY2NkF3R3E4dmVaNUJPMlNCanZ1RVhTaXE5QUpQcDFYbkJoMTNLZ1VDX1R6T244NHAwSTY2ZElnV0o3RmozX0tfSHJhbW90LWpzZ1NtLWRjT3hkUlZtUXVWc0hxaU9tb2ZNcmF0V1FMeWtrVFJnQWZkd3lMc29Xa0E1U1BYSFlJZmJCZWVIbmV2VE9jamIxNTF4RHN6dXctQ2IwMUk5WUFJ?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260818T082025Z",
+          "pinned": false
+        },
+        {
+          "title": "Israel’s siege on Gaza is creating a breast cancer crisis",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZDZsa3lXYXhLbWUtTG9SOFJMSGJ0NTZReXNzanVSWEc5RC0zVEZLNHkybnJhWGFRVk9LbV9YS2VqeE5kVlpVNFU2cXUwaUJaWGlndW5rMnJTQ0Y1elUydzlZTlZTZGR6SzNwbm9jQ3UwdThURGxMOW5CN1otVGVidkhLdVUydHFRTjU5VnBiUUJ1c1ZRTlpSYVBZNlVCOVBuTnVv0gGoAUFVX3lxTE5JaHF3bFFUNGF1cnJHSXF6ajRLRjRia2Z5c0JyckN1RkU3X08zbEpwSjZvcG9qTEFadnB5VWkxVlNiMFVUeTUzeldyYXl5eFU0czNNQlFMbnlSYTh3VFU3alRXQng2MWowQ0tPVEVCaUI3OGRCVENuLWZnWkZZTEZBamNOemhlWDluS3NzdDdqNFJRTWtGelBjNUF6WHBjY1hINWNyVGJpag?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260818T075153Z",
           "pinned": false
         },
         {
@@ -1035,19 +1051,19 @@
           "pinned": false
         },
         {
-          "title": "Dozens detained in Russia as only anti-war party struck from election",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE81M3NjbVBiZDFXekQ1T3VIVVo4T2xyaDllaHFRQlMwSmxfWGkycjY4eTV3c1MxOE01Qkx6b0g5bFhPVnZCLVd5OHRrbzRXaXRPanlWbTBXaw?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260817T183151Z",
-          "pinned": false
-        },
-        {
           "title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSW9mTFNZNmhNT3Rucy1OdzIyUzZxYlZVMk1oY2liVkNobXMtYXJPTUI2MFZfYWt3QkJwTVhaNnlEbzY2M0I4NWZtVFRyLVpwX3JQdUZXOVlkZVZXNThuQmRXMjFsOFN2QWRnX3ZCNk1DRlUyQWZIdUNrM0IwWGFRdHhIWHQ?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "seen": "20260816T180400Z",
+          "pinned": false
+        },
+        {
+          "title": "Dozens detained in Russia as only anti-war party struck from election",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE81M3NjbVBiZDFXekQ1T3VIVVo4T2xyaDllaHFRQlMwSmxfWGkycjY4eTV3c1MxOE01Qkx6b0g5bFhPVnZCLVd5OHRrbzRXaXRPanlWbTBXaw?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260817T183151Z",
           "pinned": false
         },
         {
@@ -1067,11 +1083,11 @@
           "pinned": false
         },
         {
-          "title": "Army drops roses on Syrian crowds in a far cry from war",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORGJURF9nUUduTXRrZndUVEJ3Q0pRTndHQnJoQkFucjdWdnZCbGg4NlVWMmdINkxjQkNYUDk5bEhSTmI3di1qWjhXT25VcWNEYjl3MTFlSFZkNkVjNnZTdUNkLU9lQUZmUy1SeXgzQ0hZb25OX0RMcGtMLUhQNlp3WkVLM0NucmV2Qm5BZm85VnXSAZYBQVVfeXFMTmcxaGN5LWV2X1JPbFNwUklNQW1uTGdpX1lKdzgxUTBtNGRnRm1aX2JrSWt3aTh6eXVXQ2ZIVjV3Vm5iYVlEek11cVNScC1IVVZxTmtpSUpybDJzYVRXMWIzdFhueUgzSnlTdjhuN2FvV0ZBbXJlNlY2NmxQU1d1WWRwZkR0bThmcEZVaGVoLXh3SEprSTZ3?oc=5",
-          "domain": "aljazeera.com",
+          "title": "US-South Korea war games cut short after Washington request, Seoul says",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53eDFDN3ctS2d0M2FlM2FOekdBYVk3NXN3VXZ3X2hZQ09YTDAyUVpaR1BmS0JwRFZtTFpOdEhpcnRhNzFyczd1M29VbFJXRjNFUVY3YjMxbGRwQQ?oc=5",
+          "domain": "bbc.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260816T005039Z",
+          "seen": "20260819T055353Z",
           "pinned": false
         },
         {
@@ -1080,22 +1096,6 @@
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20260818T050706Z",
-          "pinned": false
-        },
-        {
-          "title": "Russia reports Ukrainian drone strike near Zaporizhzhia nuclear plant",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWU1mTHgzVHRPVzFQRkF6UnBpS0lSbVo2LUZrWFVvYjQ5SDdsVWxoc3BDSVNQdzB1YWI0aGZ6WkRaaW01SWpLX2JCTUpkT0RYOXVielZFTUR4TndVajRBbU13TEJlSnBRMGN6UC0wTVBYYTFvbjRfU2Y3Umd1djRrTjdickVlRFg3SDNiX1g2TU1wbnJ3aUpNVFE1Wl9haW4zRGY0RWlPQ0hDZi1WWWtr?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260818T205438Z",
-          "pinned": false
-        },
-        {
-          "title": "Ukraine’s ousted defence minister calls for elections during war",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZkJWbVNIc1o1dU1UaGt1cUFIcTJJMmxPdUlobUJ4eGxzRGNZTzl5OGJ3MmVNV25tRzNiX3psV2JSRW5FN0Y4R0ljaGUwMWt2bnZzV1ZQNDdGdE5LMXJKMV9RNV83TUg0YW4yMGtUcDlCWi1PeV81UnVTaHRHQmdaem5rb1ZwRkhweTUtMzMwQk43aFJsclhlOENMSFBsenUwYnZpcFQ2Z9IBrAFBVV95cUxPT0p4NElIdE9IUGdnRXA2TURiN2ZfUHZ2aDJVQVZxMERldW8tUUZ2QWEwM0xRaHhzNXA0UXg1bGRHQkozRjNPb1NkaEVDSEJHd2s4bXZrTnE1aTVvYnRmNG9lcExBZmNqMjd2Sm9lOFpRTzVFT01MRkZONlJtZ0xnX3FDeEVjUmVBRUNiNVFfM3VJQUI5RzFQcmc0UkFmalA3X1dOVDRDSnVzdXZD?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260819T060718Z",
           "pinned": false
         }
       ],
@@ -1155,6 +1155,15 @@
           "reportedAt": "2026-08-17T12:25:55Z"
         },
         {
+          "id": "report-8a3be66d1a18",
+          "title": "Iran weighs strikes on US military targets in Europe if war escalates: Report",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcjl6ckR6NWVJUnFON3paMW95SWhKTEdnUjZoRkVYSWNQVXJOa0VUT3I2Uk5FNEhfWGVUYTRmXzl5ekphU1QydFI5cXowUGRVNktHVHpqYmtZcGJKSXlmYmpFMjJUOTdTbFMtWXlaVV9WTjJRaERWUkhFeTVYRVVxOGNKV1FOanVxN2hfYTJNbW9QWGFYYmxTYzdlSXNBZVRiZ3luTWpzMXBYb2xscHh6X1pnbTJfWXM?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-08-19T08:43:01Z"
+        },
+        {
           "id": "report-06e195303b5f",
           "title": "UAE imposes indefinite trade embargo on Iran over alleged missile attacks",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUmllc1dobzVIUzRBUl9ydXdrRTlTUDFwZW9qWGZlbFAwcWh4MkhTX3NjOUQ3S2tlMVRudUZ3TVR6bk9SdWFQN3g2QmNpYm1ZT3gxTEJfVVdnNmFMS01nNXNaMkZ3T0hQcFpOM0RUdTV0b0E5a1UxUHR0dWZ3QUlhSkZzWkl6MGsyVVFWMDNVRTNHeWx2NExYUlFNcnU4MDNBR0xKaEtlcjlBcElhQXRzbmlFOGPSAboBQVVfeXFMUHdKbW85MVRhT242aE5QLVZENFc5VVNSeTVHNHZzZkJPSHdnY1JGd2J5UEk0RzhKYXdmNWs5c2xTWHQ4UUNkRXVYaTZuQkNySWt4dzZtQzNHNnhYOWRRMVVGaFl6NlpNaGxfQ1d1TGQtbzl3TEJCUG00WG50YUpkNk1fc2laQTBOVW95SnYyZlNsZDNVcjdwc1V3ZXY4TnBSMWR4dFpPMURRQkUxMURQUlFyRHo2VHgtYlNn?oc=5",
@@ -1180,15 +1189,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-17T18:39:39Z"
-        },
-        {
-          "id": "report-065ad437dea9",
-          "title": "Israel’s siege on Gaza is creating a breast cancer crisis",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZDZsa3lXYXhLbWUtTG9SOFJMSGJ0NTZReXNzanVSWEc5RC0zVEZLNHkybnJhWGFRVk9LbV9YS2VqeE5kVlpVNFU2cXUwaUJaWGlndW5rMnJTQ0Y1elUydzlZTlZTZGR6SzNwbm9jQ3UwdThURGxMOW5CN1otVGVidkhLdVUydHFRTjU5VnBiUUJ1c1ZRTlpSYVBZNlVCOVBuTnVv0gGoAUFVX3lxTE5JaHF3bFFUNGF1cnJHSXF6ajRLRjRia2Z5c0JyckN1RkU3X08zbEpwSjZvcG9qTEFadnB5VWkxVlNiMFVUeTUzeldyYXl5eFU0czNNQlFMbnlSYTh3VFU3alRXQng2MWowQ0tPVEVCaUI3OGRCVENuLWZnWkZZTEZBamNOemhlWDluS3NzdDdqNFJRTWtGelBjNUF6WHBjY1hINWNyVGJpag?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-18T07:51:53Z"
         },
         {
           "id": "report-2850bd13c71b",
@@ -1218,6 +1218,15 @@
           "reportedAt": "2026-08-17T16:31:29Z"
         },
         {
+          "id": "report-1e4ea0af3fda",
+          "title": "Ukraine’s ousted defence minister calls for elections during war",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZkJWbVNIc1o1dU1UaGt1cUFIcTJJMmxPdUlobUJ4eGxzRGNZTzl5OGJ3MmVNV25tRzNiX3psV2JSRW5FN0Y4R0ljaGUwMWt2bnZzV1ZQNDdGdE5LMXJKMV9RNV83TUg0YW4yMGtUcDlCWi1PeV81UnVTaHRHQmdaem5rb1ZwRkhweTUtMzMwQk43aFJsclhlOENMSFBsenUwYnZpcFQ2Z9IBrAFBVV95cUxPT0p4NElIdE9IUGdnRXA2TURiN2ZfUHZ2aDJVQVZxMERldW8tUUZ2QWEwM0xRaHhzNXA0UXg1bGRHQkozRjNPb1NkaEVDSEJHd2s4bXZrTnE1aTVvYnRmNG9lcExBZmNqMjd2Sm9lOFpRTzVFT01MRkZONlJtZ0xnX3FDeEVjUmVBRUNiNVFfM3VJQUI5RzFQcmc0UkFmalA3X1dOVDRDSnVzdXZD?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-19T06:07:18Z"
+        },
+        {
           "id": "report-4b6df98ee85b",
           "title": "Top Russian economist ousted after warning of growing costs of Ukraine war",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaDRhUWR1Q0ZVd1BLSUJBLTJIeTFISWdFc1kzclJqM21VZlhHcTNMUWVKTC1kRUlkNXhHRnlPTS1FcHkwQ1cyaFNsLXJYRVVfdmhtVWZiblluSHFBcE9DWFcxY3BpY0VnR253ODd6cFJlZXBtazZRSVBtcXlWSmttY2x1dXRSMW5Zc29NVmZNVXJkY3pkRk1GeG1oSFQ3UTYyN2F3R0JBZkx0eC10YUZZQmpDM1hBUdIBuwFBVV95cUxNSE9tbWxhSHJqaWFkRWlqTGFhZmY2NkF3R3E4dmVaNUJPMlNCanZ1RVhTaXE5QUpQcDFYbkJoMTNLZ1VDX1R6T244NHAwSTY2ZElnV0o3RmozX0tfSHJhbW90LWpzZ1NtLWRjT3hkUlZtUXVWc0hxaU9tb2ZNcmF0V1FMeWtrVFJnQWZkd3lMc29Xa0E1U1BYSFlJZmJCZWVIbmV2VE9jamIxNTF4RHN6dXctQ2IwMUk5WUFJ?oc=5",
@@ -1225,6 +1234,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-18T08:20:25Z"
+        },
+        {
+          "id": "report-065ad437dea9",
+          "title": "Israel’s siege on Gaza is creating a breast cancer crisis",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZDZsa3lXYXhLbWUtTG9SOFJMSGJ0NTZReXNzanVSWEc5RC0zVEZLNHkybnJhWGFRVk9LbV9YS2VqeE5kVlpVNFU2cXUwaUJaWGlndW5rMnJTQ0Y1elUydzlZTlZTZGR6SzNwbm9jQ3UwdThURGxMOW5CN1otVGVidkhLdVUydHFRTjU5VnBiUUJ1c1ZRTlpSYVBZNlVCOVBuTnVv0gGoAUFVX3lxTE5JaHF3bFFUNGF1cnJHSXF6ajRLRjRia2Z5c0JyckN1RkU3X08zbEpwSjZvcG9qTEFadnB5VWkxVlNiMFVUeTUzeldyYXl5eFU0czNNQlFMbnlSYTh3VFU3alRXQng2MWowQ0tPVEVCaUI3OGRCVENuLWZnWkZZTEZBamNOemhlWDluS3NzdDdqNFJRTWtGelBjNUF6WHBjY1hINWNyVGJpag?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-18T07:51:53Z"
         },
         {
           "id": "report-88709d520356",
@@ -1245,15 +1263,6 @@
           "reportedAt": "2026-08-17T00:57:32Z"
         },
         {
-          "id": "report-df16386c4688",
-          "title": "Dozens detained in Russia as only anti-war party struck from election",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE81M3NjbVBiZDFXekQ1T3VIVVo4T2xyaDllaHFRQlMwSmxfWGkycjY4eTV3c1MxOE01Qkx6b0g5bFhPVnZCLVd5OHRrbzRXaXRPanlWbTBXaw?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-17T18:31:51Z"
-        },
-        {
           "id": "report-ed437e8d2378",
           "title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSW9mTFNZNmhNT3Rucy1OdzIyUzZxYlZVMk1oY2liVkNobXMtYXJPTUI2MFZfYWt3QkJwTVhaNnlEbzY2M0I4NWZtVFRyLVpwX3JQdUZXOVlkZVZXNThuQmRXMjFsOFN2QWRnX3ZCNk1DRlUyQWZIdUNrM0IwWGFRdHhIWHQ?oc=5",
@@ -1261,6 +1270,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-16T18:04:00Z"
+        },
+        {
+          "id": "report-df16386c4688",
+          "title": "Dozens detained in Russia as only anti-war party struck from election",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE81M3NjbVBiZDFXekQ1T3VIVVo4T2xyaDllaHFRQlMwSmxfWGkycjY4eTV3c1MxOE01Qkx6b0g5bFhPVnZCLVd5OHRrbzRXaXRPanlWbTBXaw?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-17T18:31:51Z"
         },
         {
           "id": "report-26817d5f07b9",
@@ -1281,13 +1299,13 @@
           "reportedAt": "2026-08-17T10:55:00Z"
         },
         {
-          "id": "report-6b6da2e3b8e8",
-          "title": "Army drops roses on Syrian crowds in a far cry from war",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORGJURF9nUUduTXRrZndUVEJ3Q0pRTndHQnJoQkFucjdWdnZCbGg4NlVWMmdINkxjQkNYUDk5bEhSTmI3di1qWjhXT25VcWNEYjl3MTFlSFZkNkVjNnZTdUNkLU9lQUZmUy1SeXgzQ0hZb25OX0RMcGtMLUhQNlp3WkVLM0NucmV2Qm5BZm85VnXSAZYBQVVfeXFMTmcxaGN5LWV2X1JPbFNwUklNQW1uTGdpX1lKdzgxUTBtNGRnRm1aX2JrSWt3aTh6eXVXQ2ZIVjV3Vm5iYVlEek11cVNScC1IVVZxTmtpSUpybDJzYVRXMWIzdFhueUgzSnlTdjhuN2FvV0ZBbXJlNlY2NmxQU1d1WWRwZkR0bThmcEZVaGVoLXh3SEprSTZ3?oc=5",
-          "domain": "aljazeera.com",
+          "id": "report-00a59d0ef877",
+          "title": "US-South Korea war games cut short after Washington request, Seoul says",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53eDFDN3ctS2d0M2FlM2FOekdBYVk3NXN3VXZ3X2hZQ09YTDAyUVpaR1BmS0JwRFZtTFpOdEhpcnRhNzFyczd1M29VbFJXRjNFUVY3YjMxbGRwQQ?oc=5",
+          "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-16T00:50:39Z"
+          "reportedAt": "2026-08-19T05:53:53Z"
         },
         {
           "id": "report-08b3431589e1",
@@ -1297,24 +1315,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-18T05:07:06Z"
-        },
-        {
-          "id": "report-2bbb58857cfd",
-          "title": "Russia reports Ukrainian drone strike near Zaporizhzhia nuclear plant",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWU1mTHgzVHRPVzFQRkF6UnBpS0lSbVo2LUZrWFVvYjQ5SDdsVWxoc3BDSVNQdzB1YWI0aGZ6WkRaaW01SWpLX2JCTUpkT0RYOXVielZFTUR4TndVajRBbU13TEJlSnBRMGN6UC0wTVBYYTFvbjRfU2Y3Umd1djRrTjdickVlRFg3SDNiX1g2TU1wbnJ3aUpNVFE1Wl9haW4zRGY0RWlPQ0hDZi1WWWtr?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-18T20:54:38Z"
-        },
-        {
-          "id": "report-1e4ea0af3fda",
-          "title": "Ukraine’s ousted defence minister calls for elections during war",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZkJWbVNIc1o1dU1UaGt1cUFIcTJJMmxPdUlobUJ4eGxzRGNZTzl5OGJ3MmVNV25tRzNiX3psV2JSRW5FN0Y4R0ljaGUwMWt2bnZzV1ZQNDdGdE5LMXJKMV9RNV83TUg0YW4yMGtUcDlCWi1PeV81UnVTaHRHQmdaem5rb1ZwRkhweTUtMzMwQk43aFJsclhlOENMSFBsenUwYnZpcFQ2Z9IBrAFBVV95cUxPT0p4NElIdE9IUGdnRXA2TURiN2ZfUHZ2aDJVQVZxMERldW8tUUZ2QWEwM0xRaHhzNXA0UXg1bGRHQkozRjNPb1NkaEVDSEJHd2s4bXZrTnE1aTVvYnRmNG9lcExBZmNqMjd2Sm9lOFpRTzVFT01MRkZONlJtZ0xnX3FDeEVjUmVBRUNiNVFfM3VJQUI5RzFQcmc0UkFmalA3X1dOVDRDSnVzdXZD?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-19T06:07:18Z"
         },
         {
           "id": "report-372b096ff4db",
