@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-21T07:08:53.994Z",
+  "generatedAt": "2026-08-21T13:12:13.713Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-08-21T07:08:53.994Z",
+      "generatedAt": "2026-08-21T13:12:13.713Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -957,7 +957,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-08-21T07:08:53.994Z",
+      "generatedAt": "2026-08-21T13:12:13.713Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -977,27 +977,19 @@
           "pinned": false
         },
         {
-          "title": "Israeli airstrikes hit Abu al-Duhur military airport in Syria's Idlib province",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNU2VESUNGLVlxYjI3c09qM29lOF9fQnlxQndJTUduX2RqdF9OLWF1Y3lFOWZsWVJWNzh1dHR0dVVVT21URFpjMzRFbjhqaEhUS1BHUGRhdVdhQmNKRlB4Sm5hemJRdGlsNDdMV0lfcDBIVDNCZzBWLU1OQjBnMUFDZW5ZTkdzMG9UWm91cF9mdFFWTlppc3I0N1pHb0I4TEdrZUNyc1VDRHdhNnhLZHg4aE5rWnhyYnl2MUVuVWUyZw?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "seen": "20260818T070207Z",
-          "pinned": false
-        },
-        {
-          "title": "Iran weighs strikes on US military targets in Europe if war escalates: Report",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcjl6ckR6NWVJUnFON3paMW95SWhKTEdnUjZoRkVYSWNQVXJOa0VUT3I2Uk5FNEhfWGVUYTRmXzl5ekphU1QydFI5cXowUGRVNktHVHpqYmtZcGJKSXlmYmpFMjJUOTdTbFMtWXlaVV9WTjJRaERWUkhFeTVYRVVxOGNKV1FOanVxN2hfYTJNbW9QWGFYYmxTYzdlSXNBZVRiZ3luTWpzMXBYb2xscHh6X1pnbTJfWXM?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "seen": "20260819T084301Z",
-          "pinned": false
-        },
-        {
           "title": "Assad officer extradited to Syria on war crimes charges for first time",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Pd0hMSThGX1hMU3A3TEpoZ2U5Y1MtaFlTNmNqd2ZIUFpZdWJ2cXRkYjRuN01NdGRmUzB0Q1hmYmt2ZFlIb3ducFdBRm96bHY0amRBWEpZN0xYdw?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20260820T123835Z",
+          "pinned": false
+        },
+        {
+          "title": "Israeli airstrikes hit Abu al-Duhur military airport in Syria's Idlib province",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNU2VESUNGLVlxYjI3c09qM29lOF9fQnlxQndJTUduX2RqdF9OLWF1Y3lFOWZsWVJWNzh1dHR0dVVVT21URFpjMzRFbjhqaEhUS1BHUGRhdVdhQmNKRlB4Sm5hemJRdGlsNDdMV0lfcDBIVDNCZzBWLU1OQjBnMUFDZW5ZTkdzMG9UWm91cF9mdFFWTlppc3I0N1pHb0I4TEdrZUNyc1VDRHdhNnhLZHg4aE5rWnhyYnl2MUVuVWUyZw?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20260818T070207Z",
           "pinned": false
         },
         {
@@ -1014,6 +1006,14 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260819T210358Z",
+          "pinned": false
+        },
+        {
+          "title": "Iran weighs strikes on US military targets in Europe if war escalates: Report",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRzZyUjZRZGlXMFl1cm9BYnFET0l1cVUzYkEtNkJROUZXM2JSMTI2MkV6THI5RzI4b1ZwbWhHS3h1MWRxZk9MTUlLZXBsWGZoT1c5UmJrdVhpQklhc2lCN1RWQmhTMHZ2eUxfRDZvR0RLdEFUVVFjMEw1OS1tX01EUVBQMUJyUENwckVfUk52YXQ5TTJHVEZKQUxzQXk1RnJTX3VXWF9nYklQNHF2eUdpcUxR?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20260819T084301Z",
           "pinned": false
         },
         {
@@ -1041,19 +1041,19 @@
           "pinned": false
         },
         {
-          "title": "War on Iran: Iran allegedly targets the UAE",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSV9NNWFDV0V0U1lZSU5qa0p6eWV4ckx0eG5ybnN2Mm1qS2xYOWc1b1dJYWpYM1FCSzJhUEFLWUZmZDdXRHJJZUU5S1Y2ZlY1NGxlWlliS3lGc2tORnMwTENVMnRjVEUzTXk5Qmk4MWw3cWpJekRRVEJRZ2ZaYkRkUUFzejQzX1VWeDJQeUFjb2kyN25GTU1qV9IBngFBVV95cUxONjlaQ0xDZ2hYMFE1c3FvTkhPR3poVkR0eXdFY2NERFc2MmNSUmRqb0RFSHFaamRDU050cGcwR0o3U09KWjJ3VlpkbVNaek40LU9xbnFtTlVlRWUwRXBnaHFSU0d3eDgyNHg3ZTh6Y1FKWmZKQU00TU9iang4QjVjcnByeEZ2TVZDcDNSSlhuVjFYNDUydmkxOG5qbmlJQQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260819T133706Z",
-          "pinned": false
-        },
-        {
           "title": "In Ukraine, forcible military recruitment efforts escalate into violence",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMW5FZ0FIaGx6ZDhuYm9OT182LWhPOGdOQmJhSm9kQzZrZXMxVWtpM25ybEN6UkNfNzNwbVhmaUhNeXZhcnRkLU9KM2V2OXRmY2NkaUU3NG5uQzE2Q2pFaEdUa2ZQcHZUN2JiV2JnNUhLc3hJdmZManRYTXFEaGU3QklqaWcxdVh2OWVlOUhQRTgyVElscDh1TDV2X1NUMVE0SjdsajIzZy15TXFJSm1vWnRn0gG3AUFVX3lxTE5OYlNuY0hsMXgtT2hJMFhfWmN3TkdDTkdoOXl6QWo1XzhTNThQR1Fhd3JmQmZ5Q0pKQWZVVG9CTGM5UkF3c2dmQ21tV2N2Tkw1VlBKUlFRUlI0OXhYeXpFTW5Sc1dPdWdfZmFEN1FoQkhQMzB0S0ZBelJ3YlBQYTdvd0F2bkR6ZXB6MXdxUWpNUDBQWWZGSmR6ZWVPTU5vYnR1V01LajlEM2pjQjdOLXZKRWN6blM4MA?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260819T115509Z",
+          "pinned": false
+        },
+        {
+          "title": "US condemns 'unnecessary escalation' after Israeli airstrikes on Syrian airbase",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BdnNyLUJpOW8zbG0ySkhLRkROeC10Z1FfalRQOXFBNEpnVW4yNWkyZkVhdlZ6V3ctbFVXX2VHU1M1dlJLMnM4eWVLZkg0bWNhMGYwaEs1dWdCUQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260819T004816Z",
           "pinned": false
         },
         {
@@ -1073,19 +1073,19 @@
           "pinned": false
         },
         {
-          "title": "US condemns 'unnecessary escalation' after Israeli airstrikes on Syrian airbase",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BdnNyLUJpOW8zbG0ySkhLRkROeC10Z1FfalRQOXFBNEpnVW4yNWkyZkVhdlZ6V3ctbFVXX2VHU1M1dlJLMnM4eWVLZkg0bWNhMGYwaEs1dWdCUQ?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260819T004816Z",
-          "pinned": false
-        },
-        {
           "title": "Myanmar military chief visits Bangkok as diplomatic offensive continues",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVWVRaUFpQmxtVE1DSmhlcmMwVndCMXJFSVVaU182TktKazRwbGFMUDR2MzRIR2dVeW8tUWhKZGlSUThtOTJXU0xrSFdfZ1Vqd3VHSVdxWk8tMVJQdl8wMXhRTHFvZ045RTdtd1ZWeW5zLUUtUUlyVFZlTlg2S3JLOTJ0cTlBcmZxaDk3S3VRNlp2QWg5YXNjbVU1X0txWDlKMzJmMlZ0WGp1NVltRW9jX3lB0gG3AUFVX3lxTFAtbjhvVEoxT05Edm16NXZLQ0lJM2pwYVh2ekVRajdYNmtWNzlONURSbU10eXF1VG5lWk9lcmZ3TFJLRW5qaG5KMmtNbzVmdHBBU2tnNllsODJ0ZGZ2T0ZUY0htWjN5c1VFaU93MW9tUWszVWhPcVpsUlI5TFdXM3pQSnZSTGpYSndla09GUklfZ29pVTZudS1wSzhELWxWRGNLVjJfTUo2RUIwZFdJQm5COEdpVjRhRQ?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260820T131552Z",
+          "pinned": false
+        },
+        {
+          "title": "Houthis and government trade attacks as Yemen slides back to full-scale war",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR1ZxQnBHRTViZFl4MlV5Y2V1ckVTbkpmLUVVMnM2ZWVLTjJvejBoMTc4RHdSbUYxaEtIa3RIYi1oWFNxOXNXVE5IbjZ4UkpxbHl0Sk5QT2pMS2hkT2lVd0I2TXVLTUVrNFlmR3o0UVRNajJpMlh4YU1qeHU4R2Z0QTcwZHhQeDR4dUNycnZ1ZkhyaTVlaHZoOGp0dld6M3ZjT2QyaHkwX1hMS29rUlZkTUR0Nmo0UknSAbwBQVVfeXFMTVM4UHd4S1FhVFJhdmRtQ05UeVJFV0tFWnVCVkNUM3d3THdfWEVVeVdRU28tWmlMZ2dValJrUGJiMWVYSjJVcE5lSHZsckg1dGlaaUJqWE44eXhfdDRNMVQwQU0wcFN3Y2FxSmtURlhfLVplUF9DNF9TV2NmNHFxc1NwQklTUFN6eGNWNVdfaDhTcXBpb3NKZFFqMU1WODVQa2dZVlpacFJ5aUxZLWxnNFpvaTZNMEdwSzNuWTE?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260820T234532Z",
           "pinned": false
         },
         {
@@ -1105,11 +1105,11 @@
           "pinned": false
         },
         {
-          "title": "US-South Korea war games cut short after Washington request, Seoul says",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53eDFDN3ctS2d0M2FlM2FOekdBYVk3NXN3VXZ3X2hZQ09YTDAyUVpaR1BmS0JwRFZtTFpOdEhpcnRhNzFyczd1M29VbFJXRjNFUVY3YjMxbGRwQQ?oc=5",
-          "domain": "bbc.com",
+          "title": "How Myanmar’s war drives the Rohingya crisis",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOV2hKdWNKNkNTQnd6ejlJbFUxNXIwdUlCV2hMNVlZLVI2UG5UR3hGeEdXdDB3N191SDY0UHNtZk5NNGJJY3hQNHhmTzdmYUNvcHRPUnhqVHJIRWhCeDF5RmVoMWdya3Z1V3lURU5TSmZjQXNqRnJES0NDb09tWUJLWmhMWGw4YTdmdkF6ejNuMElQWDBjWmNmZGswMjA3N1d3NlHSAacBQVVfeXFMTWU3M0pIcXctdlJhLWRiSlpiQ2FucnFjdFkxQld0SUtoZTRLWjZEMnVvVW9NWEUwQ2JjeEJnTU90aVg3bjFRWFJwWkNzenhCUF9aUXhlTldoMWFZcVVkcGhhVjRvU05ISERRMWFZQWpLRmYtT0FXR2Q2RFdEeENGZ0R4VmpHVHRrY3A0RC1kQ2c1V2ZxaXlUSFNqSFNvcWN3MFJGQ2Q3d2c?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260819T173949Z",
+          "seen": "20260820T110742Z",
           "pinned": false
         },
         {
@@ -1121,6 +1121,14 @@
           "pinned": false
         },
         {
+          "title": "US-South Korea war games cut short after Washington request, Seoul says",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53eDFDN3ctS2d0M2FlM2FOekdBYVk3NXN3VXZ3X2hZQ09YTDAyUVpaR1BmS0JwRFZtTFpOdEhpcnRhNzFyczd1M29VbFJXRjNFUVY3YjMxbGRwQQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260819T173949Z",
+          "pinned": false
+        },
+        {
           "title": "Russia reports Ukrainian drone strike near Zaporizhzhia nuclear plant",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWU1mTHgzVHRPVzFQRkF6UnBpS0lSbVo2LUZrWFVvYjQ5SDdsVWxoc3BDSVNQdzB1YWI0aGZ6WkRaaW01SWpLX2JCTUpkT0RYOXVielZFTUR4TndVajRBbU13TEJlSnBRMGN6UC0wTVBYYTFvbjRfU2Y3Umd1djRrTjdickVlRFg3SDNiX1g2TU1wbnJ3aUpNVFE1Wl9haW4zRGY0RWlPQ0hDZi1WWWtr0gG0AUFVX3lxTE9rYWhoU2ZUSkNzREtqYWVIQzNZVGxWRlJvMktfWnR1M1U0VjBYQ3FXVnhxYTdST2lZUWhET2gtQjRwRVZVZG14RmdJU3pIX3pnaVp6UWg2TFVrbFVibldsNlZydFhGb1l5ZDg3aU5OV3BwRWJLMVVoQW1Ya3U1NmdLME16LURUWFZGZE1kbFo4RFV6Nmx4cVY4bjBYQ0tBN3dwb0xXbHVBSXdWbm43YWZtTUdtVg?oc=5",
           "domain": "aljazeera.com",
@@ -1129,27 +1137,19 @@
           "pinned": false
         },
         {
-          "title": "Houthis and government trade attacks as Yemen slides back to full-scale war",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR1ZxQnBHRTViZFl4MlV5Y2V1ckVTbkpmLUVVMnM2ZWVLTjJvejBoMTc4RHdSbUYxaEtIa3RIYi1oWFNxOXNXVE5IbjZ4UkpxbHl0Sk5QT2pMS2hkT2lVd0I2TXVLTUVrNFlmR3o0UVRNajJpMlh4YU1qeHU4R2Z0QTcwZHhQeDR4dUNycnZ1ZkhyaTVlaHZoOGp0dld6M3ZjT2QyaHkwX1hMS29rUlZkTUR0Nmo0UknSAbwBQVVfeXFMTVM4UHd4S1FhVFJhdmRtQ05UeVJFV0tFWnVCVkNUM3d3THdfWEVVeVdRU28tWmlMZ2dValJrUGJiMWVYSjJVcE5lSHZsckg1dGlaaUJqWE44eXhfdDRNMVQwQU0wcFN3Y2FxSmtURlhfLVplUF9DNF9TV2NmNHFxc1NwQklTUFN6eGNWNVdfaDhTcXBpb3NKZFFqMU1WODVQa2dZVlpacFJ5aUxZLWxnNFpvaTZNMEdwSzNuWTE?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260820T234532Z",
-          "pinned": false
-        },
-        {
-          "title": "How Myanmar’s war drives the Rohingya crisis",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOV2hKdWNKNkNTQnd6ejlJbFUxNXIwdUlCV2hMNVlZLVI2UG5UR3hGeEdXdDB3N191SDY0UHNtZk5NNGJJY3hQNHhmTzdmYUNvcHRPUnhqVHJIRWhCeDF5RmVoMWdya3Z1V3lURU5TSmZjQXNqRnJES0NDb09tWUJLWmhMWGw4YTdmdkF6ejNuMElQWDBjWmNmZGswMjA3N1d3NlHSAacBQVVfeXFMTWU3M0pIcXctdlJhLWRiSlpiQ2FucnFjdFkxQld0SUtoZTRLWjZEMnVvVW9NWEUwQ2JjeEJnTU90aVg3bjFRWFJwWkNzenhCUF9aUXhlTldoMWFZcVVkcGhhVjRvU05ISERRMWFZQWpLRmYtT0FXR2Q2RFdEeENGZ0R4VmpHVHRrY3A0RC1kQ2c1V2ZxaXlUSFNqSFNvcWN3MFJGQ2Q3d2c?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260820T110742Z",
-          "pinned": false
-        },
-        {
           "title": "At least 18 people killed in Ukraine as Russia carries out more attacks",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYTFGMG9FZmw2TlR3MXR5M09NSEVzLXlNMlh2d3VVdzZ6Mk1LcFh0UmlTenJUYk1pVlhfTDFnNVhwckZWemFJVlR2QTN6Y3BuRmFHTDdSTVRUSFNYY2Z2b2ZSTXF3ZElfTkh1cE1Oa2JEdHhEN21xNFF5NXJwYXl6RlZiVnUzNENNSGQ1bUNHSXdXeFNWdE1leGE5Ykx4by1jcjZXYUNqM2NpaVYtWk9j0gG0AUFVX3lxTE9QUUZLUWY5VE9Zbk5iend0eHhmXzFJUW5pWDhjMmF0c2gwVDVNcVM0MDBRV01XQnJBYkwxNUpiOTI5VS1OWG5HMXQtUjBmeWdvRkVXbFZxUjN5NHQ3eTlTZ3BoSUU3NjItLXZsZ0t0VGxvSVV2LTVJVlVGdnlPTVVQUWZKYU5UUWdIMWF1VjNzbGpPLWNVSV9qeXUzLWRxcHFlTFhiQWhaXzBlNTVKYWd3MkpHZg?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260820T203310Z",
+          "pinned": false
+        },
+        {
+          "title": "Why White House envoys cannot sway Israel’s war leader",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNN1I2OTVyb29CMXlqNFp4SVVEd2NmemY5ODlONXhJdWM5a29EazZWSDhiSWdRSVFIdHZ5X1lNaWFOcVVxSmlyeWp6MTg1LXRHRk45OFVySW1Ub2Z1M1RZQWVpUlhab2tQNWZOeDMtdEdlLVJKWjdRajVjdEhtWTRNMjNLZTJNOXFwMWRqRFFGaHRGbHAzMnFIVnZOeTZINGvSAaQBQVVfeXFMUFhTOUIyQnlkcVlPZVlWd28wYUp3dkp0N0ZGUVY3ZmVTa3lkMGREbXNqbjAyT195Ung2Y0xVLTNaQll0bjhnMFpJMHBNQUhuby1PR19hWmxBU0xHWUZjMjlDSVZQUEpNUUE1bmlfTGhFNkhsU3BvUXJ6clhHc0tTbGVMQ2Y1eDVNTFlXUmxoTUNHaWxmbzhtWTB3UzVBblA3WjJpQnI?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260819T103536Z",
           "pinned": false
         }
       ],
@@ -1173,24 +1173,6 @@
           "reportedAt": "2026-08-18T14:55:25Z"
         },
         {
-          "id": "report-100b63e8dd72",
-          "title": "Israeli airstrikes hit Abu al-Duhur military airport in Syria's Idlib province",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNU2VESUNGLVlxYjI3c09qM29lOF9fQnlxQndJTUduX2RqdF9OLWF1Y3lFOWZsWVJWNzh1dHR0dVVVT21URFpjMzRFbjhqaEhUS1BHUGRhdVdhQmNKRlB4Sm5hemJRdGlsNDdMV0lfcDBIVDNCZzBWLU1OQjBnMUFDZW5ZTkdzMG9UWm91cF9mdFFWTlppc3I0N1pHb0I4TEdrZUNyc1VDRHdhNnhLZHg4aE5rWnhyYnl2MUVuVWUyZw?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
-          "reportedAt": "2026-08-18T07:02:07Z"
-        },
-        {
-          "id": "report-8a3be66d1a18",
-          "title": "Iran weighs strikes on US military targets in Europe if war escalates: Report",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcjl6ckR6NWVJUnFON3paMW95SWhKTEdnUjZoRkVYSWNQVXJOa0VUT3I2Uk5FNEhfWGVUYTRmXzl5ekphU1QydFI5cXowUGRVNktHVHpqYmtZcGJKSXlmYmpFMjJUOTdTbFMtWXlaVV9WTjJRaERWUkhFeTVYRVVxOGNKV1FOanVxN2hfYTJNbW9QWGFYYmxTYzdlSXNBZVRiZ3luTWpzMXBYb2xscHh6X1pnbTJfWXM?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
-          "reportedAt": "2026-08-19T08:43:01Z"
-        },
-        {
           "id": "report-ccf970b824ab",
           "title": "Assad officer extradited to Syria on war crimes charges for first time",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Pd0hMSThGX1hMU3A3TEpoZ2U5Y1MtaFlTNmNqd2ZIUFpZdWJ2cXRkYjRuN01NdGRmUzB0Q1hmYmt2ZFlIb3ducFdBRm96bHY0amRBWEpZN0xYdw?oc=5",
@@ -1198,6 +1180,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-20T12:38:35Z"
+        },
+        {
+          "id": "report-100b63e8dd72",
+          "title": "Israeli airstrikes hit Abu al-Duhur military airport in Syria's Idlib province",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNU2VESUNGLVlxYjI3c09qM29lOF9fQnlxQndJTUduX2RqdF9OLWF1Y3lFOWZsWVJWNzh1dHR0dVVVT21URFpjMzRFbjhqaEhUS1BHUGRhdVdhQmNKRlB4Sm5hemJRdGlsNDdMV0lfcDBIVDNCZzBWLU1OQjBnMUFDZW5ZTkdzMG9UWm91cF9mdFFWTlppc3I0N1pHb0I4TEdrZUNyc1VDRHdhNnhLZHg4aE5rWnhyYnl2MUVuVWUyZw?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-08-18T07:02:07Z"
         },
         {
           "id": "report-065ad437dea9",
@@ -1216,6 +1207,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-19T21:03:58Z"
+        },
+        {
+          "id": "report-ea76b25431d5",
+          "title": "Iran weighs strikes on US military targets in Europe if war escalates: Report",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRzZyUjZRZGlXMFl1cm9BYnFET0l1cVUzYkEtNkJROUZXM2JSMTI2MkV6THI5RzI4b1ZwbWhHS3h1MWRxZk9MTUlLZXBsWGZoT1c5UmJrdVhpQklhc2lCN1RWQmhTMHZ2eUxfRDZvR0RLdEFUVVFjMEw1OS1tX01EUVBQMUJyUENwckVfUk52YXQ5TTJHVEZKQUxzQXk1RnJTX3VXWF9nYklQNHF2eUdpcUxR?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-08-19T08:43:01Z"
         },
         {
           "id": "report-06e195303b5f",
@@ -1245,15 +1245,6 @@
           "reportedAt": "2026-08-18T18:02:46Z"
         },
         {
-          "id": "report-15c68535ba32",
-          "title": "War on Iran: Iran allegedly targets the UAE",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSV9NNWFDV0V0U1lZSU5qa0p6eWV4ckx0eG5ybnN2Mm1qS2xYOWc1b1dJYWpYM1FCSzJhUEFLWUZmZDdXRHJJZUU5S1Y2ZlY1NGxlWlliS3lGc2tORnMwTENVMnRjVEUzTXk5Qmk4MWw3cWpJekRRVEJRZ2ZaYkRkUUFzejQzX1VWeDJQeUFjb2kyN25GTU1qV9IBngFBVV95cUxONjlaQ0xDZ2hYMFE1c3FvTkhPR3poVkR0eXdFY2NERFc2MmNSUmRqb0RFSHFaamRDU050cGcwR0o3U09KWjJ3VlpkbVNaek40LU9xbnFtTlVlRWUwRXBnaHFSU0d3eDgyNHg3ZTh6Y1FKWmZKQU00TU9iang4QjVjcnByeEZ2TVZDcDNSSlhuVjFYNDUydmkxOG5qbmlJQQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-19T13:37:06Z"
-        },
-        {
           "id": "report-f0db82a40c5d",
           "title": "In Ukraine, forcible military recruitment efforts escalate into violence",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMW5FZ0FIaGx6ZDhuYm9OT182LWhPOGdOQmJhSm9kQzZrZXMxVWtpM25ybEN6UkNfNzNwbVhmaUhNeXZhcnRkLU9KM2V2OXRmY2NkaUU3NG5uQzE2Q2pFaEdUa2ZQcHZUN2JiV2JnNUhLc3hJdmZManRYTXFEaGU3QklqaWcxdVh2OWVlOUhQRTgyVElscDh1TDV2X1NUMVE0SjdsajIzZy15TXFJSm1vWnRn0gG3AUFVX3lxTE5OYlNuY0hsMXgtT2hJMFhfWmN3TkdDTkdoOXl6QWo1XzhTNThQR1Fhd3JmQmZ5Q0pKQWZVVG9CTGM5UkF3c2dmQ21tV2N2Tkw1VlBKUlFRUlI0OXhYeXpFTW5Sc1dPdWdfZmFEN1FoQkhQMzB0S0ZBelJ3YlBQYTdvd0F2bkR6ZXB6MXdxUWpNUDBQWWZGSmR6ZWVPTU5vYnR1V01LajlEM2pjQjdOLXZKRWN6blM4MA?oc=5",
@@ -1261,6 +1252,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-19T11:55:09Z"
+        },
+        {
+          "id": "report-88709d520356",
+          "title": "US condemns 'unnecessary escalation' after Israeli airstrikes on Syrian airbase",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BdnNyLUJpOW8zbG0ySkhLRkROeC10Z1FfalRQOXFBNEpnVW4yNWkyZkVhdlZ6V3ctbFVXX2VHU1M1dlJLMnM4eWVLZkg0bWNhMGYwaEs1dWdCUQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-19T00:48:16Z"
         },
         {
           "id": "report-1e4ea0af3fda",
@@ -1281,15 +1281,6 @@
           "reportedAt": "2026-08-19T17:17:19Z"
         },
         {
-          "id": "report-88709d520356",
-          "title": "US condemns 'unnecessary escalation' after Israeli airstrikes on Syrian airbase",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BdnNyLUJpOW8zbG0ySkhLRkROeC10Z1FfalRQOXFBNEpnVW4yNWkyZkVhdlZ6V3ctbFVXX2VHU1M1dlJLMnM4eWVLZkg0bWNhMGYwaEs1dWdCUQ?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-19T00:48:16Z"
-        },
-        {
           "id": "report-94fffa07a208",
           "title": "Myanmar military chief visits Bangkok as diplomatic offensive continues",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVWVRaUFpQmxtVE1DSmhlcmMwVndCMXJFSVVaU182TktKazRwbGFMUDR2MzRIR2dVeW8tUWhKZGlSUThtOTJXU0xrSFdfZ1Vqd3VHSVdxWk8tMVJQdl8wMXhRTHFvZ045RTdtd1ZWeW5zLUUtUUlyVFZlTlg2S3JLOTJ0cTlBcmZxaDk3S3VRNlp2QWg5YXNjbVU1X0txWDlKMzJmMlZ0WGp1NVltRW9jX3lB0gG3AUFVX3lxTFAtbjhvVEoxT05Edm16NXZLQ0lJM2pwYVh2ekVRajdYNmtWNzlONURSbU10eXF1VG5lWk9lcmZ3TFJLRW5qaG5KMmtNbzVmdHBBU2tnNllsODJ0ZGZ2T0ZUY0htWjN5c1VFaU93MW9tUWszVWhPcVpsUlI5TFdXM3pQSnZSTGpYSndla09GUklfZ29pVTZudS1wSzhELWxWRGNLVjJfTUo2RUIwZFdJQm5COEdpVjRhRQ?oc=5",
@@ -1297,6 +1288,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-20T13:15:52Z"
+        },
+        {
+          "id": "report-a59bcb690f25",
+          "title": "Houthis and government trade attacks as Yemen slides back to full-scale war",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR1ZxQnBHRTViZFl4MlV5Y2V1ckVTbkpmLUVVMnM2ZWVLTjJvejBoMTc4RHdSbUYxaEtIa3RIYi1oWFNxOXNXVE5IbjZ4UkpxbHl0Sk5QT2pMS2hkT2lVd0I2TXVLTUVrNFlmR3o0UVRNajJpMlh4YU1qeHU4R2Z0QTcwZHhQeDR4dUNycnZ1ZkhyaTVlaHZoOGp0dld6M3ZjT2QyaHkwX1hMS29rUlZkTUR0Nmo0UknSAbwBQVVfeXFMTVM4UHd4S1FhVFJhdmRtQ05UeVJFV0tFWnVCVkNUM3d3THdfWEVVeVdRU28tWmlMZ2dValJrUGJiMWVYSjJVcE5lSHZsckg1dGlaaUJqWE44eXhfdDRNMVQwQU0wcFN3Y2FxSmtURlhfLVplUF9DNF9TV2NmNHFxc1NwQklTUFN6eGNWNVdfaDhTcXBpb3NKZFFqMU1WODVQa2dZVlpacFJ5aUxZLWxnNFpvaTZNMEdwSzNuWTE?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-20T23:45:32Z"
         },
         {
           "id": "report-4b6df98ee85b",
@@ -1317,13 +1317,13 @@
           "reportedAt": "2026-08-19T18:09:54Z"
         },
         {
-          "id": "report-00a59d0ef877",
-          "title": "US-South Korea war games cut short after Washington request, Seoul says",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53eDFDN3ctS2d0M2FlM2FOekdBYVk3NXN3VXZ3X2hZQ09YTDAyUVpaR1BmS0JwRFZtTFpOdEhpcnRhNzFyczd1M29VbFJXRjNFUVY3YjMxbGRwQQ?oc=5",
-          "domain": "bbc.com",
+          "id": "report-eef41c250824",
+          "title": "How Myanmar’s war drives the Rohingya crisis",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOV2hKdWNKNkNTQnd6ejlJbFUxNXIwdUlCV2hMNVlZLVI2UG5UR3hGeEdXdDB3N191SDY0UHNtZk5NNGJJY3hQNHhmTzdmYUNvcHRPUnhqVHJIRWhCeDF5RmVoMWdya3Z1V3lURU5TSmZjQXNqRnJES0NDb09tWUJLWmhMWGw4YTdmdkF6ejNuMElQWDBjWmNmZGswMjA3N1d3NlHSAacBQVVfeXFMTWU3M0pIcXctdlJhLWRiSlpiQ2FucnFjdFkxQld0SUtoZTRLWjZEMnVvVW9NWEUwQ2JjeEJnTU90aVg3bjFRWFJwWkNzenhCUF9aUXhlTldoMWFZcVVkcGhhVjRvU05ISERRMWFZQWpLRmYtT0FXR2Q2RFdEeENGZ0R4VmpHVHRrY3A0RC1kQ2c1V2ZxaXlUSFNqSFNvcWN3MFJGQ2Q3d2c?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-19T17:39:49Z"
+          "reportedAt": "2026-08-20T11:07:42Z"
         },
         {
           "id": "report-08b3431589e1",
@@ -1335,6 +1335,15 @@
           "reportedAt": "2026-08-18T05:07:06Z"
         },
         {
+          "id": "report-00a59d0ef877",
+          "title": "US-South Korea war games cut short after Washington request, Seoul says",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53eDFDN3ctS2d0M2FlM2FOekdBYVk3NXN3VXZ3X2hZQ09YTDAyUVpaR1BmS0JwRFZtTFpOdEhpcnRhNzFyczd1M29VbFJXRjNFUVY3YjMxbGRwQQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-19T17:39:49Z"
+        },
+        {
           "id": "report-e2480e1c7782",
           "title": "Russia reports Ukrainian drone strike near Zaporizhzhia nuclear plant",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWU1mTHgzVHRPVzFQRkF6UnBpS0lSbVo2LUZrWFVvYjQ5SDdsVWxoc3BDSVNQdzB1YWI0aGZ6WkRaaW01SWpLX2JCTUpkT0RYOXVielZFTUR4TndVajRBbU13TEJlSnBRMGN6UC0wTVBYYTFvbjRfU2Y3Umd1djRrTjdickVlRFg3SDNiX1g2TU1wbnJ3aUpNVFE1Wl9haW4zRGY0RWlPQ0hDZi1WWWtr0gG0AUFVX3lxTE9rYWhoU2ZUSkNzREtqYWVIQzNZVGxWRlJvMktfWnR1M1U0VjBYQ3FXVnhxYTdST2lZUWhET2gtQjRwRVZVZG14RmdJU3pIX3pnaVp6UWg2TFVrbFVibldsNlZydFhGb1l5ZDg3aU5OV3BwRWJLMVVoQW1Ya3U1NmdLME16LURUWFZGZE1kbFo4RFV6Nmx4cVY4bjBYQ0tBN3dwb0xXbHVBSXdWbm43YWZtTUdtVg?oc=5",
@@ -1344,24 +1353,6 @@
           "reportedAt": "2026-08-18T20:54:38Z"
         },
         {
-          "id": "report-a59bcb690f25",
-          "title": "Houthis and government trade attacks as Yemen slides back to full-scale war",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR1ZxQnBHRTViZFl4MlV5Y2V1ckVTbkpmLUVVMnM2ZWVLTjJvejBoMTc4RHdSbUYxaEtIa3RIYi1oWFNxOXNXVE5IbjZ4UkpxbHl0Sk5QT2pMS2hkT2lVd0I2TXVLTUVrNFlmR3o0UVRNajJpMlh4YU1qeHU4R2Z0QTcwZHhQeDR4dUNycnZ1ZkhyaTVlaHZoOGp0dld6M3ZjT2QyaHkwX1hMS29rUlZkTUR0Nmo0UknSAbwBQVVfeXFMTVM4UHd4S1FhVFJhdmRtQ05UeVJFV0tFWnVCVkNUM3d3THdfWEVVeVdRU28tWmlMZ2dValJrUGJiMWVYSjJVcE5lSHZsckg1dGlaaUJqWE44eXhfdDRNMVQwQU0wcFN3Y2FxSmtURlhfLVplUF9DNF9TV2NmNHFxc1NwQklTUFN6eGNWNVdfaDhTcXBpb3NKZFFqMU1WODVQa2dZVlpacFJ5aUxZLWxnNFpvaTZNMEdwSzNuWTE?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-20T23:45:32Z"
-        },
-        {
-          "id": "report-eef41c250824",
-          "title": "How Myanmar’s war drives the Rohingya crisis",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOV2hKdWNKNkNTQnd6ejlJbFUxNXIwdUlCV2hMNVlZLVI2UG5UR3hGeEdXdDB3N191SDY0UHNtZk5NNGJJY3hQNHhmTzdmYUNvcHRPUnhqVHJIRWhCeDF5RmVoMWdya3Z1V3lURU5TSmZjQXNqRnJES0NDb09tWUJLWmhMWGw4YTdmdkF6ejNuMElQWDBjWmNmZGswMjA3N1d3NlHSAacBQVVfeXFMTWU3M0pIcXctdlJhLWRiSlpiQ2FucnFjdFkxQld0SUtoZTRLWjZEMnVvVW9NWEUwQ2JjeEJnTU90aVg3bjFRWFJwWkNzenhCUF9aUXhlTldoMWFZcVVkcGhhVjRvU05ISERRMWFZQWpLRmYtT0FXR2Q2RFdEeENGZ0R4VmpHVHRrY3A0RC1kQ2c1V2ZxaXlUSFNqSFNvcWN3MFJGQ2Q3d2c?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-20T11:07:42Z"
-        },
-        {
           "id": "report-aeae000b2b87",
           "title": "At least 18 people killed in Ukraine as Russia carries out more attacks",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYTFGMG9FZmw2TlR3MXR5M09NSEVzLXlNMlh2d3VVdzZ6Mk1LcFh0UmlTenJUYk1pVlhfTDFnNVhwckZWemFJVlR2QTN6Y3BuRmFHTDdSTVRUSFNYY2Z2b2ZSTXF3ZElfTkh1cE1Oa2JEdHhEN21xNFF5NXJwYXl6RlZiVnUzNENNSGQ1bUNHSXdXeFNWdE1leGE5Ykx4by1jcjZXYUNqM2NpaVYtWk9j0gG0AUFVX3lxTE9QUUZLUWY5VE9Zbk5iend0eHhmXzFJUW5pWDhjMmF0c2gwVDVNcVM0MDBRV01XQnJBYkwxNUpiOTI5VS1OWG5HMXQtUjBmeWdvRkVXbFZxUjN5NHQ3eTlTZ3BoSUU3NjItLXZsZ0t0VGxvSVV2LTVJVlVGdnlPTVVQUWZKYU5UUWdIMWF1VjNzbGpPLWNVSV9qeXUzLWRxcHFlTFhiQWhaXzBlNTVKYWd3MkpHZg?oc=5",
@@ -1369,6 +1360,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-20T20:33:10Z"
+        },
+        {
+          "id": "report-1ced0d1998f9",
+          "title": "Why White House envoys cannot sway Israel’s war leader",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNN1I2OTVyb29CMXlqNFp4SVVEd2NmemY5ODlONXhJdWM5a29EazZWSDhiSWdRSVFIdHZ5X1lNaWFOcVVxSmlyeWp6MTg1LXRHRk45OFVySW1Ub2Z1M1RZQWVpUlhab2tQNWZOeDMtdEdlLVJKWjdRajVjdEhtWTRNMjNLZTJNOXFwMWRqRFFGaHRGbHAzMnFIVnZOeTZINGvSAaQBQVVfeXFMUFhTOUIyQnlkcVlPZVlWd28wYUp3dkp0N0ZGUVY3ZmVTa3lkMGREbXNqbjAyT195Ung2Y0xVLTNaQll0bjhnMFpJMHBNQUhuby1PR19hWmxBU0xHWUZjMjlDSVZQUEpNUUE1bmlfTGhFNkhsU3BvUXJ6clhHc0tTbGVMQ2Y1eDVNTFlXUmxoTUNHaWxmbzhtWTB3UzVBblA3WjJpQnI?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-19T10:35:36Z"
         },
         {
           "id": "report-372b096ff4db",
