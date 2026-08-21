@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-21T13:12:13.713Z",
+  "generatedAt": "2026-08-21T16:04:53.916Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -9,7 +9,7 @@
       "items": []
     },
     "safety": {
-      "generatedAt": "2026-08-20T16:05:38.610Z",
+      "generatedAt": "2026-08-21T16:04:53.916Z",
       "cadence": "daily",
       "items": [
         {
@@ -21,11 +21,19 @@
           "pinned": true
         },
         {
-          "title": "Marine Corps MV-22 Osprey suffers engine fire during Air Force training exercise",
-          "url": "https://www.militarytimes.com/news/your-military/2026/07/21/marine-corps-mv-22-osprey-suffers-engine-fire-during-air-force-training-exercise/",
-          "domain": "militarytimes.com",
+          "title": "US Army Corps of Engineers chartered plane crashes near Alaska radar site, killing all 8 aboard",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYjJWZE9raUpObEpLRDllTXBEeUw4N1I3ZHlfbjk3RExjZXJhd3dwdkFYNktNVkwzaUNQM3Q2d0ViUjEwMFAxeVFScHBueTRSX2RnOVMxMThlRldWa1RPOFZvR0ZEWFlzZjE0N1UzX3M0S1c1RERITXVzYnZyX1JGQldnWXJmd29jbDRCWUs3S0t3emxwb0E?oc=5",
+          "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260721T174800Z",
+          "seen": "20260821T134200Z",
+          "pinned": false
+        },
+        {
+          "title": "Ukrainian Army Soldier Opens Up About US, Fighting Russia Since 2014, and Being 'Tired' of Missing Family",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPY21tZFdFNmlwbDNxQlZIZWtDRS1SNUNsOXVjNnBHUDg5M3ZIY0JwOWJ2NlRLamhudHozRlZBVkZkcVhDZXFUNzEzX28zRHVlalctWEkweWp6U1dqVmxsVGVCS2cyWGFqcW1WdlNGNldHX2J5U1Zia29ZVnZpWDNUU3VDS3lTaUdtbURsZlJ5X2xWOWR0LVY4WHd4VmRGOFdN?oc=5",
+          "domain": "military.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260820T090013Z",
           "pinned": false
         },
         {
@@ -45,19 +53,19 @@
           "pinned": false
         },
         {
-          "title": "Army identifies soldiers killed in Texas Apache helicopter crash",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZTU84TkwxQ3Vad0x3TlFfMFlxa1dnQUdEcHRRZ1A5ZGhXV1VoeUdBTk1lS1RmdmVTLS11RUNNcmdaNXdSZ0FFcEdzS3ZLc3d6Q1IzeEZXR2lYN21yQmpZeFN5NjRBT1JnZGJtVVY1T2M3THE5c2cw?oc=5",
-          "domain": "taskandpurpose.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260814T125012Z",
-          "pinned": false
-        },
-        {
           "title": "Army grounds Apache helicopter training flights after deadly Fort Hood crash",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4zM2dvVmRQZVdBazNrdU9ER3dKbm9BY1pXaV9jLXJGWW0wbHlsZGpiSy1ObFBMM0ZPRGlQQkpXSFpzYVpFU28xdGVFeGlyUzhScEk1MXZOc0kyNXVpZ0RleGtxRk1MYTRjcXZRYmxWWnhCMUx5Q0taMQ?oc=5",
           "domain": "taskandpurpose.com",
           "sourceTier": "Independent reporting",
           "seen": "20260814T221617Z",
+          "pinned": false
+        },
+        {
+          "title": "Army identifies soldiers killed in Texas Apache helicopter crash",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZTU84TkwxQ3Vad0x3TlFfMFlxa1dnQUdEcHRRZ1A5ZGhXV1VoeUdBTk1lS1RmdmVTLS11RUNNcmdaNXdSZ0FFcEdzS3ZLc3d6Q1IzeEZXR2lYN21yQmpZeFN5NjRBT1JnZGJtVVY1T2M3THE5c2cw?oc=5",
+          "domain": "taskandpurpose.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260814T125012Z",
           "pinned": false
         },
         {
@@ -115,17 +123,45 @@
           "sourceTier": "Official military source",
           "seen": "20260816T070000Z",
           "pinned": false
-        },
-        {
-          "title": "Update: Coast Guard suspends search for missing man in Lake Erie",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeEhCZEd6eGRpc1RvV0lkYWlmczdfQkF2SjV4LUtIbVpHR1E0TjB0cm9qWVo0SThxa2N3RVdmRjctNENoZm9lU3NTNmhPUWVtdWRjV0M1SERDWXgzdGNORWdUM1BrM1hzcXpYd3g4dF85cVFrWUFPQjBUTXdtLWRJemIzN0c0RXZORnVPS21OQUVzTy1UX3NhMkhpNkRJNTNiVU9yTHY3ZFFLMmNRSkJQTGdfal9neEV6VE01REh3?oc=5",
-          "domain": "news.uscg.mil",
-          "sourceTier": "Official military source",
-          "seen": "20260813T151142Z",
-          "pinned": false
         }
       ],
       "incidents": [
+        {
+          "id": "auto-e0a0df40e40c",
+          "reportDate": "2026-08-21",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Aviation",
+          "event": "US Army Corps of Engineers chartered plane crashes near Alaska radar site, killing all 8 aboard",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYjJWZE9raUpObEpLRDllTXBEeUw4N1I3ZHlfbjk3RExjZXJhd3dwdkFYNktNVkwzaUNQM3Q2d0ViUjEwMFAxeVFScHBueTRSX2RnOVMxMThlRldWa1RPOFZvR0ZEWFlzZjE0N1UzX3M0S1c1RERITXVzYnZyX1JGQldnWXJmd29jbDRCWUs3S0t3emxwb0E?oc=5",
+          "sourceLabel": "apnews.com"
+        },
+        {
+          "id": "auto-f69cb208237d",
+          "reportDate": "2026-08-20",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Other",
+          "event": "Ukrainian Army Soldier Opens Up About US, Fighting Russia Since 2014, and Being 'Tired' of Missing Family",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPY21tZFdFNmlwbDNxQlZIZWtDRS1SNUNsOXVjNnBHUDg5M3ZIY0JwOWJ2NlRLamhudHozRlZBVkZkcVhDZXFUNzEzX28zRHVlalctWEkweWp6U1dqVmxsVGVCS2cyWGFqcW1WdlNGNldHX2J5U1Zia29ZVnZpWDNUU3VDS3lTaUdtbURsZlJ5X2xWOWR0LVY4WHd4VmRGOFdN?oc=5",
+          "sourceLabel": "military.com"
+        },
         {
           "id": "auto-38a9d74e2a4d",
           "reportDate": "2026-08-19",
@@ -217,24 +253,6 @@
           "sourceLabel": "stripes.com"
         },
         {
-          "id": "auto-686b02b2cfc8",
-          "reportDate": "2026-08-14",
-          "dateBasis": "report discovery date",
-          "branch": "Army",
-          "department": "Department of the Army",
-          "type": "Aviation",
-          "event": "Army identifies soldiers killed in Texas Apache helicopter crash",
-          "location": "See official source",
-          "fatalities": null,
-          "injuries": null,
-          "status": "REPORTED / UNVALIDATED",
-          "signalClass": "REPORTED MISHAP",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
-          "source": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZTU84TkwxQ3Vad0x3TlFfMFlxa1dnQUdEcHRRZ1A5ZGhXV1VoeUdBTk1lS1RmdmVTLS11RUNNcmdaNXdSZ0FFcEdzS3ZLc3d6Q1IzeEZXR2lYN21yQmpZeFN5NjRBT1JnZGJtVVY1T2M3THE5c2cw?oc=5",
-          "sourceLabel": "taskandpurpose.com"
-        },
-        {
           "id": "auto-a4e7e2f36509",
           "reportDate": "2026-08-14",
           "dateBasis": "report discovery date",
@@ -250,6 +268,24 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
           "source": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4zM2dvVmRQZVdBazNrdU9ER3dKbm9BY1pXaV9jLXJGWW0wbHlsZGpiSy1ObFBMM0ZPRGlQQkpXSFpzYVpFU28xdGVFeGlyUzhScEk1MXZOc0kyNXVpZ0RleGtxRk1MYTRjcXZRYmxWWnhCMUx5Q0taMQ?oc=5",
+          "sourceLabel": "taskandpurpose.com"
+        },
+        {
+          "id": "auto-686b02b2cfc8",
+          "reportDate": "2026-08-14",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Aviation",
+          "event": "Army identifies soldiers killed in Texas Apache helicopter crash",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZTU84TkwxQ3Vad0x3TlFfMFlxa1dnQUdEcHRRZ1A5ZGhXV1VoeUdBTk1lS1RmdmVTLS11RUNNcmdaNXdSZ0FFcEdzS3ZLc3d6Q1IzeEZXR2lYN21yQmpZeFN5NjRBT1JnZGJtVVY1T2M3THE5c2cw?oc=5",
           "sourceLabel": "taskandpurpose.com"
         },
         {
