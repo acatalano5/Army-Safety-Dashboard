@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-22T13:02:03.898Z",
+  "generatedAt": "2026-08-22T15:57:44.864Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -9,7 +9,7 @@
       "items": []
     },
     "safety": {
-      "generatedAt": "2026-08-21T16:04:53.916Z",
+      "generatedAt": "2026-08-22T15:57:44.864Z",
       "cadence": "daily",
       "items": [
         {
@@ -19,14 +19,6 @@
           "sourceTier": "Official / intergovernmental",
           "seen": "20250129T204800Z",
           "pinned": true
-        },
-        {
-          "title": "US Army Corps of Engineers chartered plane crashes near Alaska radar site, killing all 8 aboard",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYjJWZE9raUpObEpLRDllTXBEeUw4N1I3ZHlfbjk3RExjZXJhd3dwdkFYNktNVkwzaUNQM3Q2d0ViUjEwMFAxeVFScHBueTRSX2RnOVMxMThlRldWa1RPOFZvR0ZEWFlzZjE0N1UzX3M0S1c1RERITXVzYnZyX1JGQldnWXJmd29jbDRCWUs3S0t3emxwb0E?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260821T134200Z",
-          "pinned": false
         },
         {
           "title": "Ukrainian Army Soldier Opens Up About US, Fighting Russia Since 2014, and Being 'Tired' of Missing Family",
@@ -69,14 +61,6 @@
           "pinned": false
         },
         {
-          "title": "Army Apache helicopter crash in Texas kills 2 crew members aboard",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wZ2dndl9pV01FamMxRXhBVDlXcGpMUkdWM2hvV2NCM2NPSTVmaU5UN1B1eXBFMUg1TFdZdllRaF9md0R1VloweGhxX2FSQnNETl95SjllemFBMm1rVllXQnhLZldOSHM?oc=5",
-          "domain": "taskandpurpose.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260812T221748Z",
-          "pinned": false
-        },
-        {
           "title": "PLR 26-056 – Automobile Mishap Claims One Soldier’s Life",
           "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSEZnUzY5SU8zcHRPQldIUWxsbU5TNVIzTDQ3UXJ6ZUpjWFJQckVzd1ZHT1AtaDRxU0hySnd4S2RIYjRfX1FVbVRhM01iYkdCMTVmQlZzQjFPMkVDeGdpQkxpVm1MUzN4US04cV9wU3puV3ZtWGQ0aHNjMlJmOWtTVWtNRlVfb3lQOWtxYXc4anRZejdaZnJOSTB4aGw4cVFVVGRsVWFOMWVjZU9BYzVUemNoSkd3YjBObXhqdVB5Yk5FOVBmYU9DTEtCSWlmWkYyMGlHemZmaUlZSEIxWXBN?oc=5",
           "domain": "safety.army.mil",
@@ -109,11 +93,11 @@
           "pinned": false
         },
         {
-          "title": "PLR 26-053 – Automobile Mishap Claims One Soldier's Life",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQLTF4dFVXQUVUR01mU0dsWUVZcVZmRXJHQXpFUTU2NTF4RDNOdGZwYTg5WklVNXZ4T1Z4ZjJUT1lYYXZfcm1sMXgxVTNKZGFLNHZTdUczVHlrWUM0UHk0Y0tKcURRVjJIalAtTTBfNW5KTjRURHdyRjhSM0lYelNGYndiRHNMVVFOVkh4bk9Vc2lpUncwUUpIT2duNmRCWUxpTUZOQ3NKQ3BkSE8yVnVwVlhRdENVS2lxUk5xOS04eHQzdkIweTMxM0JybHlhSTYt?oc=5",
-          "domain": "safety.army.mil",
-          "sourceTier": "Official military source",
-          "seen": "20260730T212627Z",
+          "title": "Army Apache helicopter crash in Texas kills 2 crew members aboard",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wZ2dndl9pV01FamMxRXhBVDlXcGpMUkdWM2hvV2NCM2NPSTVmaU5UN1B1eXBFMUg1TFdZdllRaF9md0R1VloweGhxX2FSQnNETl95SjllemFBMm1rVllXQnhLZldOSHM?oc=5",
+          "domain": "taskandpurpose.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260812T070000Z",
           "pinned": false
         },
         {
@@ -122,6 +106,14 @@
           "domain": "safety.army.mil",
           "sourceTier": "Official military source",
           "seen": "20260816T070000Z",
+          "pinned": false
+        },
+        {
+          "title": "Coast Guard Conducting Investigation to Fatal Incident near Liberty Island",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPR1BTQU9ETXY3djdvaDJZNTdhWkk0TFhiUUdQc1BBQ2R2bEtaRHFpTnF0RGJWSVhnZlBXUkFsQ0hKSDJLRE45emtlUEpjRlRBUHhYaHpLOEZZYUk3WWMxdHBMelFHRm1PMzhJeWVFUDd6UU5VN1k4cGphRkhiclZrUjZwMUVOdHJrM0lXTkpVQkdTTHBablBlWlhiVEpYRk5WLVhWcnBaQTdtUlljRkhxdXA0NmFtSk5fVG5jWF9IU3Y3OVB6cmdZblZ3RGo?oc=5",
+          "domain": "news.uscg.mil",
+          "sourceTier": "Official military source",
+          "seen": "20260809T070000Z",
           "pinned": false
         }
       ],
@@ -361,24 +353,6 @@
           "sourceLabel": "news.uscg.mil"
         },
         {
-          "id": "auto-35c60536014e",
-          "reportDate": "2026-08-12",
-          "dateBasis": "report discovery date",
-          "branch": "Army",
-          "department": "Department of the Army",
-          "type": "Aviation",
-          "event": "Army Apache helicopter crash in Texas kills 2 crew members aboard",
-          "location": "See official source",
-          "fatalities": null,
-          "injuries": null,
-          "status": "REPORTED / UNVALIDATED",
-          "signalClass": "REPORTED MISHAP",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
-          "source": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wZ2dndl9pV01FamMxRXhBVDlXcGpMUkdWM2hvV2NCM2NPSTVmaU5UN1B1eXBFMUg1TFdZdllRaF9md0R1VloweGhxX2FSQnNETl95SjllemFBMm1rVllXQnhLZldOSHM?oc=5",
-          "sourceLabel": "taskandpurpose.com"
-        },
-        {
           "id": "auto-0c6e64313e79",
           "reportDate": "2026-08-12",
           "dateBasis": "report discovery date",
@@ -395,6 +369,24 @@
           "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
           "source": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSEZnUzY5SU8zcHRPQldIUWxsbU5TNVIzTDQ3UXJ6ZUpjWFJQckVzd1ZHT1AtaDRxU0hySnd4S2RIYjRfX1FVbVRhM01iYkdCMTVmQlZzQjFPMkVDeGdpQkxpVm1MUzN4US04cV9wU3puV3ZtWGQ0aHNjMlJmOWtTVWtNRlVfb3lQOWtxYXc4anRZejdaZnJOSTB4aGw4cVFVVGRsVWFOMWVjZU9BYzVUemNoSkd3YjBObXhqdVB5Yk5FOVBmYU9DTEtCSWlmWkYyMGlHemZmaUlZSEIxWXBN?oc=5",
           "sourceLabel": "safety.army.mil"
+        },
+        {
+          "id": "auto-35c60536014e",
+          "reportDate": "2026-08-12",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Aviation",
+          "event": "Army Apache helicopter crash in Texas kills 2 crew members aboard",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wZ2dndl9pV01FamMxRXhBVDlXcGpMUkdWM2hvV2NCM2NPSTVmaU5UN1B1eXBFMUg1TFdZdllRaF9md0R1VloweGhxX2FSQnNETl95SjllemFBMm1rVllXQnhLZldOSHM?oc=5",
+          "sourceLabel": "taskandpurpose.com"
         },
         {
           "id": "auto-aaf1eda411b2",
