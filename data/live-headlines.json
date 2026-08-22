@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-22T15:57:44.864Z",
+  "generatedAt": "2026-08-22T18:50:19.662Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-08-22T13:02:03.898Z",
+      "generatedAt": "2026-08-22T18:50:19.662Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -985,7 +985,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-08-22T13:02:03.898Z",
+      "generatedAt": "2026-08-22T18:50:19.662Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -1013,6 +1013,14 @@
           "pinned": false
         },
         {
+          "title": "A trade war between Canada and the US further ruptures a once-close and durable alliance",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQVlYNWswSUYyM3pKRmI0SGpaU3k2WEVGa19ubU5fZmNRclBiMUpRcHFnRGU4SzZoLVVVbWxsR25fTHZ1NzI1ZUswYVdXUk85MnpTc1NpakhqSC1OMk1KMG5CcGdmaF90TVIyanhiWUNweTRzVVhFQXJhaXllQnlOMFo1Z2ktRmZKNEdpTEtWb2IzVmFaQ1RuS2pOLTJPcVdmWEE?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260822T173300Z",
+          "pinned": false
+        },
+        {
           "title": "USS Lincoln woes highlight US Navy limits in prolonged Iran war: Experts",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ0VsY3NzcURYdjFxWWdWVkFtNmxJX2ZRR3JTQ2NGZndKNk9reUxXUU5udVdwYTRVZlBiRmM1aGdLRTZZVGl1aWVWWkFIWHk0SnBqM3BtV3JYdDNqMUdKMG4yR19SWEx0WVhZUHA0a2N5TnJHaW8xZ3Y1U3NhRVBybHcyd1EyX3FFWHlYQXVrNlhkMnBKRDNUUFJfdGVIeWg2dG42RUpIQ3FyQUtzSGcwdTV30gG3AUFVX3lxTFBfYTVPOWI4TkdsaW9vcUhSeUhPYVNRNkVEdHZjU1Z5VlBydkpJS0VHZS0tN1dMWFZUWjM2SFJ0ZHN2cDFyWDNaTVMybGhzaGdVajcxTzBFdTl2VUpybjVQdDNIY1VKZjlCMk4tQzgwUHBxbHQtcDVCSVhZUlo5OHlhN3NjTGNPbnZvN1hTNThTb3ZRZFBQSDZ4b1dIODctQS0weU1JU2cxazJndkRMVUp2UnRuZ040TQ?oc=5",
           "domain": "aljazeera.com",
@@ -1026,6 +1034,14 @@
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20260821T162055Z",
+          "pinned": false
+        },
+        {
+          "title": "What did war with the US reveal about Iran’s weapons capabilities?",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMlVwLXBzM2xDX2hDc01sWE54elFDYTVPbF9zV3hDejl3NWMwczZnUF8zejVtcE9QTUxzWW1JVmwxaHNvYVRSeVd0cVFmczBNZ2NDUndDalpPUDJkRkN2My1TRlhNZGJqLXpKVjc2ZGlKNV9UWjRCb1hSOU5CN3I5VFRIOW9nYTdGVFRuOHNja3k2cXJMa24wSGUxb01QS1psY0NVTW1lWTXSAa4BQVVfeXFMT3BOajZLb0UxQmxfdjJUS0tsYTZtLWcxcy1Sek0wd3VEbG9OQkoxazU5cUt0QlA1eXhJbnBnZzdTc1ZDRHMxVmxpLWhwX0pLb1BRb2hRdXZ1djBHRDI0TU5va29YLUt0MDVzWmRLSDJWU1JKak1GN0JxVGpHQWthMkxXa0FzRDVMOC1md3ZRUmpoVENsb0NNQmdlclFYR2xhYlBNdGp6VFBJcV9LUGFn?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260822T143157Z",
           "pinned": false
         },
         {
@@ -1053,14 +1069,6 @@
           "pinned": false
         },
         {
-          "title": "Ukraine’s ousted defence minister calls for elections during war",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZkJWbVNIc1o1dU1UaGt1cUFIcTJJMmxPdUlobUJ4eGxzRGNZTzl5OGJ3MmVNV25tRzNiX3psV2JSRW5FN0Y4R0ljaGUwMWt2bnZzV1ZQNDdGdE5LMXJKMV9RNV83TUg0YW4yMGtUcDlCWi1PeV81UnVTaHRHQmdaem5rb1ZwRkhweTUtMzMwQk43aFJsclhlOENMSFBsenUwYnZpcFQ2Z9IBrAFBVV95cUxPT0p4NElIdE9IUGdnRXA2TURiN2ZfUHZ2aDJVQVZxMERldW8tUUZ2QWEwM0xRaHhzNXA0UXg1bGRHQkozRjNPb1NkaEVDSEJHd2s4bXZrTnE1aTVvYnRmNG9lcExBZmNqMjd2Sm9lOFpRTzVFT01MRkZONlJtZ0xnX3FDeEVjUmVBRUNiNVFfM3VJQUI5RzFQcmc0UkFmalA3X1dOVDRDSnVzdXZD?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260819T060718Z",
-          "pinned": false
-        },
-        {
           "title": "Hamas condemns ‘new war crime’ as Israel kills 10 in crowded Gaza hubs",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNc3RDbUh6Q1JIcW1wUkFOVTctWVVHVkJmM2tQSlczLXQ4bnlIV21XdWluaGdYYUUwbDhwLTkzQk4tVjZja3Nsanlyc3NoNHNmZ2ZKeE9aRUpwbWVCclRXQ1dCemZjeng3dXhVdGhvYjBNdnFqeGkweFdIbDUxOGItZk1fRmtvX200b1dKSjZXZVRNZkNnVXlUbENmTzNLNy1ETzkzM1VyR0FZTlhKNkHSAbMBQVVfeXFMTUVRRC0ySUxKZG9QM3IwODhvTjRYbFRsX2VJd1RIVEI1ZWtxMUhFYUhwX05BS3VRV3h0ZHBKNWJxakQ0TGJvTW9YZGk4OW9GbjVCRWxDc1phSU42aFEyWGxMQUVHV2Z0Nk9ValV3OWNuUjhBdU51eW8tejB0VkRBdjFHYlRkWEZwUkdKRjVad0ZIUnA5LWlOb3JYZ19qa3JFZGI3LXBXOUdiMnlKNXY3dXQ4a1E?oc=5",
           "domain": "aljazeera.com",
@@ -1074,6 +1082,14 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260821T123537Z",
+          "pinned": false
+        },
+        {
+          "title": "Ukraine’s ousted defence minister calls for elections during war",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZkJWbVNIc1o1dU1UaGt1cUFIcTJJMmxPdUlobUJ4eGxzRGNZTzl5OGJ3MmVNV25tRzNiX3psV2JSRW5FN0Y4R0ljaGUwMWt2bnZzV1ZQNDdGdE5LMXJKMV9RNV83TUg0YW4yMGtUcDlCWi1PeV81UnVTaHRHQmdaem5rb1ZwRkhweTUtMzMwQk43aFJsclhlOENMSFBsenUwYnZpcFQ2Z9IBrAFBVV95cUxPT0p4NElIdE9IUGdnRXA2TURiN2ZfUHZ2aDJVQVZxMERldW8tUUZ2QWEwM0xRaHhzNXA0UXg1bGRHQkozRjNPb1NkaEVDSEJHd2s4bXZrTnE1aTVvYnRmNG9lcExBZmNqMjd2Sm9lOFpRTzVFT01MRkZONlJtZ0xnX3FDeEVjUmVBRUNiNVFfM3VJQUI5RzFQcmc0UkFmalA3X1dOVDRDSnVzdXZD?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260819T060718Z",
           "pinned": false
         },
         {
@@ -1117,6 +1133,14 @@
           "pinned": false
         },
         {
+          "title": "US and Canada fall deeper into a trade war with new tariffs as talks collapse and blame is spread",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTFZQdTRIMXVabHVfUTNldG4yeGlBSWlHNTFsNUt4WktQeHBuT1RzUUxVT3NZMTQ4ampFeFMtQVhVUDN4bXZXVWlzWXY5LTBEVTI1d29obi03ZGd2dTB6WG0zRGtsa3llaHhtVlVnRjFKYW4tOGpubG1qSWp6NWZfNG5WUVlpeGdjc0s0ck5GM0F3eWs?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260822T034336Z",
+          "pinned": false
+        },
+        {
           "title": "At least 18 people killed in Ukraine as Russia carries out more attacks",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYTFGMG9FZmw2TlR3MXR5M09NSEVzLXlNMlh2d3VVdzZ6Mk1LcFh0UmlTenJUYk1pVlhfTDFnNVhwckZWemFJVlR2QTN6Y3BuRmFHTDdSTVRUSFNYY2Z2b2ZSTXF3ZElfTkh1cE1Oa2JEdHhEN21xNFF5NXJwYXl6RlZiVnUzNENNSGQ1bUNHSXdXeFNWdE1leGE5Ykx4by1jcjZXYUNqM2NpaVYtWk9j0gG0AUFVX3lxTE9QUUZLUWY5VE9Zbk5iend0eHhmXzFJUW5pWDhjMmF0c2gwVDVNcVM0MDBRV01XQnJBYkwxNUpiOTI5VS1OWG5HMXQtUjBmeWdvRkVXbFZxUjN5NHQ3eTlTZ3BoSUU3NjItLXZsZ0t0VGxvSVV2LTVJVlVGdnlPTVVQUWZKYU5UUWdIMWF1VjNzbGpPLWNVSV9qeXUzLWRxcHFlTFhiQWhaXzBlNTVKYWd3MkpHZg?oc=5",
           "domain": "aljazeera.com",
@@ -1141,14 +1165,6 @@
           "pinned": false
         },
         {
-          "title": "At least six killed in Russian air attacks on Ukraine",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQWVZTXFPaE5vTFVPbGY4ZlcwZHI0Y3o0cElOUHJaM1lwLXBKclZMS2lTaHB5WDJGOThyZDFsRmlWaDFRa3VCVEIzSk9Fc2JxR1g3aDM4SWNXNVlrYkMwdTVzOXJ2S0J2eHdnLXNLMTZhczQybGNVR3B0QU14SVNGZVFtZVR3dTREZlVSU3dJYjlQeUZkT210dVpac9IBoAFBVV95cUxQZGJ0TU1PZTN5UXR0eXlHQzRBNl9jTDVRVzU0ek5jVmE1YkJSZWY2d1hETk5RcmlQd1BrODAyZFRGSmhFUnBwMGxib2wwZmlRaDJFUjBFU0lyLVVkX0xQVE82QlFEZmgteHJCb3o0YTJwUlE4TnhiZG0tTzkweFAxN0RianVGWnpvY19jcFF2ZUVQS245QVVtZ0ZTN1RIR21t?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260819T125009Z",
-          "pinned": false
-        },
-        {
           "title": "Trump vows ‘economic warfare’ on countries helping Iran",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOXzJucTQ3YkF1aEJ2ejRqVFh3Tmd2N3UxR3FFMUNmaElpaVAzOUk5cXNUVjh1NGJxZEZISk1sMGpSMjZwQnpfMGN4M01XMWk0OHdMT3gxSXl3UVEtd1ZXSnBGNVBLa3d5bnNPX3JIYm04anRrdHlQUHN2bnJFVXdtWGJfVDRual9mSnJqUzFCN2s1QlgySDNtcTEzWHdDcEVFdDE2Sks3RdIBrAFBVV95cUxOT2RkTnVZakd1T2xLQUVPeWR0QjItTVZzLVNMTGJNVWNCUWdzRkNLQTJfREM0Q2YyYkI0U1dxaHZXQWhvSG9ocHRPRjMyckN1OFR3b3RscVhOcGVKc0tvX0lMbUdvaER1VS1FQnlzeHNpcUpZSHJhbGZSZG1va2R3QURTT1FQS3h3Q3pJR2M4eVNodWNRb2U5M1p4Y2EtcHBoaWJrQ3BvSFFJS040?oc=5",
           "domain": "aljazeera.com",
@@ -1162,22 +1178,6 @@
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20260820T052942Z",
-          "pinned": false
-        },
-        {
-          "title": "Why is Ukraine's ex-defence minister calling for wartime elections?",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5GSWFGZldxTEJQMjNCYWpyWldhRDlPdEZlQkw4RldZeVpMOEdhQlVYU1JneUItVFQwNU5raEd3Q3JwRDRoUjVyVFpiMEhPS3dqZ2tWTktqMA?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260819T153838Z",
-          "pinned": false
-        },
-        {
-          "title": "Turkey signals restraint as war of words with Israel escalates over Syria - Al-Monitor",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLW1OR1NMSlFIU1pCUVNHemZoR2VFdU5LSFA5V3RjTGkxVnpoelo2MFdOUGI5SG1oandEQzBBSXpfcUl0Xy1QX0hYYzRiLXVkcDZhdjhvQzlPd2ZEY0RUMEV4T0x4ZUd3bG9GanBkUjd5S2ttUmdBbmRXNFZnVWtxOEViM09xbzFLcWVLczhDMFVOcDlsbnFvV1NuaF9NR2RrdjRPSkI2UUlxU3M?oc=5",
-          "domain": "al-monitor.com",
-          "sourceTier": "Regional reporting",
-          "seen": "20260820T174156Z",
           "pinned": false
         }
       ],
@@ -1210,6 +1210,15 @@
           "reportedAt": "2026-08-20T08:59:28Z"
         },
         {
+          "id": "report-9affffa9882f",
+          "title": "A trade war between Canada and the US further ruptures a once-close and durable alliance",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQVlYNWswSUYyM3pKRmI0SGpaU3k2WEVGa19ubU5fZmNRclBiMUpRcHFnRGU4SzZoLVVVbWxsR25fTHZ1NzI1ZUswYVdXUk85MnpTc1NpakhqSC1OMk1KMG5CcGdmaF90TVIyanhiWUNweTRzVVhFQXJhaXllQnlOMFo1Z2ktRmZKNEdpTEtWb2IzVmFaQ1RuS2pOLTJPcVdmWEE?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-22T17:33:00Z"
+        },
+        {
           "id": "report-645f780f69ea",
           "title": "USS Lincoln woes highlight US Navy limits in prolonged Iran war: Experts",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ0VsY3NzcURYdjFxWWdWVkFtNmxJX2ZRR3JTQ2NGZndKNk9reUxXUU5udVdwYTRVZlBiRmM1aGdLRTZZVGl1aWVWWkFIWHk0SnBqM3BtV3JYdDNqMUdKMG4yR19SWEx0WVhZUHA0a2N5TnJHaW8xZ3Y1U3NhRVBybHcyd1EyX3FFWHlYQXVrNlhkMnBKRDNUUFJfdGVIeWg2dG42RUpIQ3FyQUtzSGcwdTV30gG3AUFVX3lxTFBfYTVPOWI4TkdsaW9vcUhSeUhPYVNRNkVEdHZjU1Z5VlBydkpJS0VHZS0tN1dMWFZUWjM2SFJ0ZHN2cDFyWDNaTVMybGhzaGdVajcxTzBFdTl2VUpybjVQdDNIY1VKZjlCMk4tQzgwUHBxbHQtcDVCSVhZUlo5OHlhN3NjTGNPbnZvN1hTNThTb3ZRZFBQSDZ4b1dIODctQS0weU1JU2cxazJndkRMVUp2UnRuZ040TQ?oc=5",
@@ -1226,6 +1235,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-21T16:20:55Z"
+        },
+        {
+          "id": "report-a7bc6dbf7ba1",
+          "title": "What did war with the US reveal about Iran’s weapons capabilities?",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMlVwLXBzM2xDX2hDc01sWE54elFDYTVPbF9zV3hDejl3NWMwczZnUF8zejVtcE9QTUxzWW1JVmwxaHNvYVRSeVd0cVFmczBNZ2NDUndDalpPUDJkRkN2My1TRlhNZGJqLXpKVjc2ZGlKNV9UWjRCb1hSOU5CN3I5VFRIOW9nYTdGVFRuOHNja3k2cXJMa24wSGUxb01QS1psY0NVTW1lWTXSAa4BQVVfeXFMT3BOajZLb0UxQmxfdjJUS0tsYTZtLWcxcy1Sek0wd3VEbG9OQkoxazU5cUt0QlA1eXhJbnBnZzdTc1ZDRHMxVmxpLWhwX0pLb1BRb2hRdXZ1djBHRDI0TU5va29YLUt0MDVzWmRLSDJWU1JKak1GN0JxVGpHQWthMkxXa0FzRDVMOC1md3ZRUmpoVENsb0NNQmdlclFYR2xhYlBNdGp6VFBJcV9LUGFn?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-22T14:31:57Z"
         },
         {
           "id": "report-15c68535ba32",
@@ -1255,15 +1273,6 @@
           "reportedAt": "2026-08-19T00:48:16Z"
         },
         {
-          "id": "report-1e4ea0af3fda",
-          "title": "Ukraine’s ousted defence minister calls for elections during war",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZkJWbVNIc1o1dU1UaGt1cUFIcTJJMmxPdUlobUJ4eGxzRGNZTzl5OGJ3MmVNV25tRzNiX3psV2JSRW5FN0Y4R0ljaGUwMWt2bnZzV1ZQNDdGdE5LMXJKMV9RNV83TUg0YW4yMGtUcDlCWi1PeV81UnVTaHRHQmdaem5rb1ZwRkhweTUtMzMwQk43aFJsclhlOENMSFBsenUwYnZpcFQ2Z9IBrAFBVV95cUxPT0p4NElIdE9IUGdnRXA2TURiN2ZfUHZ2aDJVQVZxMERldW8tUUZ2QWEwM0xRaHhzNXA0UXg1bGRHQkozRjNPb1NkaEVDSEJHd2s4bXZrTnE1aTVvYnRmNG9lcExBZmNqMjd2Sm9lOFpRTzVFT01MRkZONlJtZ0xnX3FDeEVjUmVBRUNiNVFfM3VJQUI5RzFQcmc0UkFmalA3X1dOVDRDSnVzdXZD?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-19T06:07:18Z"
-        },
-        {
           "id": "report-e3c641f3004f",
           "title": "Hamas condemns ‘new war crime’ as Israel kills 10 in crowded Gaza hubs",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNc3RDbUh6Q1JIcW1wUkFOVTctWVVHVkJmM2tQSlczLXQ4bnlIV21XdWluaGdYYUUwbDhwLTkzQk4tVjZja3Nsanlyc3NoNHNmZ2ZKeE9aRUpwbWVCclRXQ1dCemZjeng3dXhVdGhvYjBNdnFqeGkweFdIbDUxOGItZk1fRmtvX200b1dKSjZXZVRNZkNnVXlUbENmTzNLNy1ETzkzM1VyR0FZTlhKNkHSAbMBQVVfeXFMTUVRRC0ySUxKZG9QM3IwODhvTjRYbFRsX2VJd1RIVEI1ZWtxMUhFYUhwX05BS3VRV3h0ZHBKNWJxakQ0TGJvTW9YZGk4OW9GbjVCRWxDc1phSU42aFEyWGxMQUVHV2Z0Nk9ValV3OWNuUjhBdU51eW8tejB0VkRBdjFHYlRkWEZwUkdKRjVad0ZIUnA5LWlOb3JYZ19qa3JFZGI3LXBXOUdiMnlKNXY3dXQ4a1E?oc=5",
@@ -1280,6 +1289,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-21T12:35:37Z"
+        },
+        {
+          "id": "report-1e4ea0af3fda",
+          "title": "Ukraine’s ousted defence minister calls for elections during war",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZkJWbVNIc1o1dU1UaGt1cUFIcTJJMmxPdUlobUJ4eGxzRGNZTzl5OGJ3MmVNV25tRzNiX3psV2JSRW5FN0Y4R0ljaGUwMWt2bnZzV1ZQNDdGdE5LMXJKMV9RNV83TUg0YW4yMGtUcDlCWi1PeV81UnVTaHRHQmdaem5rb1ZwRkhweTUtMzMwQk43aFJsclhlOENMSFBsenUwYnZpcFQ2Z9IBrAFBVV95cUxPT0p4NElIdE9IUGdnRXA2TURiN2ZfUHZ2aDJVQVZxMERldW8tUUZ2QWEwM0xRaHhzNXA0UXg1bGRHQkozRjNPb1NkaEVDSEJHd2s4bXZrTnE1aTVvYnRmNG9lcExBZmNqMjd2Sm9lOFpRTzVFT01MRkZONlJtZ0xnX3FDeEVjUmVBRUNiNVFfM3VJQUI5RzFQcmc0UkFmalA3X1dOVDRDSnVzdXZD?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-19T06:07:18Z"
         },
         {
           "id": "report-a59bcb690f25",
@@ -1327,6 +1345,15 @@
           "reportedAt": "2026-08-19T17:39:49Z"
         },
         {
+          "id": "report-f47016ddedd6",
+          "title": "US and Canada fall deeper into a trade war with new tariffs as talks collapse and blame is spread",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTFZQdTRIMXVabHVfUTNldG4yeGlBSWlHNTFsNUt4WktQeHBuT1RzUUxVT3NZMTQ4ampFeFMtQVhVUDN4bXZXVWlzWXY5LTBEVTI1d29obi03ZGd2dTB6WG0zRGtsa3llaHhtVlVnRjFKYW4tOGpubG1qSWp6NWZfNG5WUVlpeGdjc0s0ck5GM0F3eWs?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-22T03:43:36Z"
+        },
+        {
           "id": "report-aeae000b2b87",
           "title": "At least 18 people killed in Ukraine as Russia carries out more attacks",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYTFGMG9FZmw2TlR3MXR5M09NSEVzLXlNMlh2d3VVdzZ6Mk1LcFh0UmlTenJUYk1pVlhfTDFnNVhwckZWemFJVlR2QTN6Y3BuRmFHTDdSTVRUSFNYY2Z2b2ZSTXF3ZElfTkh1cE1Oa2JEdHhEN21xNFF5NXJwYXl6RlZiVnUzNENNSGQ1bUNHSXdXeFNWdE1leGE5Ykx4by1jcjZXYUNqM2NpaVYtWk9j0gG0AUFVX3lxTE9QUUZLUWY5VE9Zbk5iend0eHhmXzFJUW5pWDhjMmF0c2gwVDVNcVM0MDBRV01XQnJBYkwxNUpiOTI5VS1OWG5HMXQtUjBmeWdvRkVXbFZxUjN5NHQ3eTlTZ3BoSUU3NjItLXZsZ0t0VGxvSVV2LTVJVlVGdnlPTVVQUWZKYU5UUWdIMWF1VjNzbGpPLWNVSV9qeXUzLWRxcHFlTFhiQWhaXzBlNTVKYWd3MkpHZg?oc=5",
@@ -1354,15 +1381,6 @@
           "reportedAt": "2026-08-21T15:16:49Z"
         },
         {
-          "id": "report-0e015825fbf5",
-          "title": "At least six killed in Russian air attacks on Ukraine",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQWVZTXFPaE5vTFVPbGY4ZlcwZHI0Y3o0cElOUHJaM1lwLXBKclZMS2lTaHB5WDJGOThyZDFsRmlWaDFRa3VCVEIzSk9Fc2JxR1g3aDM4SWNXNVlrYkMwdTVzOXJ2S0J2eHdnLXNLMTZhczQybGNVR3B0QU14SVNGZVFtZVR3dTREZlVSU3dJYjlQeUZkT210dVpac9IBoAFBVV95cUxQZGJ0TU1PZTN5UXR0eXlHQzRBNl9jTDVRVzU0ek5jVmE1YkJSZWY2d1hETk5RcmlQd1BrODAyZFRGSmhFUnBwMGxib2wwZmlRaDJFUjBFU0lyLVVkX0xQVE82QlFEZmgteHJCb3o0YTJwUlE4TnhiZG0tTzkweFAxN0RianVGWnpvY19jcFF2ZUVQS245QVVtZ0ZTN1RIR21t?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-19T12:50:09Z"
-        },
-        {
           "id": "report-839f938be6f2",
           "title": "Trump vows ‘economic warfare’ on countries helping Iran",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOXzJucTQ3YkF1aEJ2ejRqVFh3Tmd2N3UxR3FFMUNmaElpaVAzOUk5cXNUVjh1NGJxZEZISk1sMGpSMjZwQnpfMGN4M01XMWk0OHdMT3gxSXl3UVEtd1ZXSnBGNVBLa3d5bnNPX3JIYm04anRrdHlQUHN2bnJFVXdtWGJfVDRual9mSnJqUzFCN2s1QlgySDNtcTEzWHdDcEVFdDE2Sks3RdIBrAFBVV95cUxOT2RkTnVZakd1T2xLQUVPeWR0QjItTVZzLVNMTGJNVWNCUWdzRkNLQTJfREM0Q2YyYkI0U1dxaHZXQWhvSG9ocHRPRjMyckN1OFR3b3RscVhOcGVKc0tvX0lMbUdvaER1VS1FQnlzeHNpcUpZSHJhbGZSZG1va2R3QURTT1FQS3h3Q3pJR2M4eVNodWNRb2U5M1p4Y2EtcHBoaWJrQ3BvSFFJS040?oc=5",
@@ -1379,24 +1397,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-20T05:29:42Z"
-        },
-        {
-          "id": "report-7136ef235c75",
-          "title": "Why is Ukraine's ex-defence minister calling for wartime elections?",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5GSWFGZldxTEJQMjNCYWpyWldhRDlPdEZlQkw4RldZeVpMOEdhQlVYU1JneUItVFQwNU5raEd3Q3JwRDRoUjVyVFpiMEhPS3dqZ2tWTktqMA?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-19T15:38:38Z"
-        },
-        {
-          "id": "report-a9f59a4e72d9",
-          "title": "Turkey signals restraint as war of words with Israel escalates over Syria - Al-Monitor",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLW1OR1NMSlFIU1pCUVNHemZoR2VFdU5LSFA5V3RjTGkxVnpoelo2MFdOUGI5SG1oandEQzBBSXpfcUl0Xy1QX0hYYzRiLXVkcDZhdjhvQzlPd2ZEY0RUMEV4T0x4ZUd3bG9GanBkUjd5S2ttUmdBbmRXNFZnVWtxOEViM09xbzFLcWVLczhDMFVOcDlsbnFvV1NuaF9NR2RrdjRPSkI2UUlxU3M?oc=5",
-          "domain": "al-monitor.com",
-          "sourceTier": "Regional reporting",
-          "confidenceLabel": "REGIONAL REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-20T17:41:56Z"
         },
         {
           "id": "report-372b096ff4db",
