@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-22T06:59:47.828Z",
+  "generatedAt": "2026-08-22T13:02:03.898Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-08-22T06:59:47.828Z",
+      "generatedAt": "2026-08-22T13:02:03.898Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -993,7 +993,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-08-22T06:59:47.828Z",
+      "generatedAt": "2026-08-22T13:02:03.898Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -1026,6 +1026,14 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260819T210358Z",
+          "pinned": false
+        },
+        {
+          "title": "Ethiopia's Ashenda festival: Tigray cancels event celebrating the Virgin Mary over drone attack fears",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6OGtoUDZWdVlhbjJqNnBHQzYtVGpvaEJwMXBqY2pnZEd4dlVWdHZmMnRTUUFQelJJSnNGNm9fV0RoOGZSbzBsZmhobjVaalBWaXRONk1tSmJ5Zw?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260821T162055Z",
           "pinned": false
         },
         {
@@ -1066,14 +1074,6 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260819T171719Z",
-          "pinned": false
-        },
-        {
-          "title": "Ethiopia's Ashenda festival: Tigray cancels event celebrating the Virgin Mary over drone attack fears",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6OGtoUDZWdVlhbjJqNnBHQzYtVGpvaEJwMXBqY2pnZEd4dlVWdHZmMnRTUUFQelJJSnNGNm9fV0RoOGZSbzBsZmhobjVaalBWaXRONk1tSmJ5Zw?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260821T162055Z",
           "pinned": false
         },
         {
@@ -1181,11 +1181,11 @@
           "pinned": false
         },
         {
-          "title": "Russian drone attack on busy shopping centre kills 15 in Ukraine",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY1FwdzZuQzZkMG80NnNsa3ZvN3dUdnFDLXJCaVljTW9NbkNjeV8tYmQyaGI0Q2Z6TU1scVhpcFNhTGt4ZkJIOXE2RU9aNXpqSlkyMGdxbkYwN19uRVpqdzVzTThTQnIyS0V1MUxPRkJma0cxMl9DZHdzVWxxenZfLWN4UHRUU21fcVR5UkZGUlNDa2d3VlJPaVltT0trV2JjZ1FmZHd2YkPSAa4BQVVfeXFMTldlWUNfcHpockNTTG1IbTNhY3FrYzUzcWhjODlRNmVXU2lQNWZFU2ZFOHpfdnp5VW5wVDdVLTBtLUFJQkxaVTlxd1ByNVZ1RE5JdnhYaE5YVFhiQzNQRHdfY2E2OXRwRm1wY1g4dmNqakQ4TDIxaXV2bEUtcUJKNndqVTRZbnE5T29OSnFIWVVLYTU4ZVJzdnctcjA4Z3MzNlFjQmNwSVAxalVjM2l3?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260821T210205Z",
+          "title": "Turkey signals restraint as war of words with Israel escalates over Syria - Al-Monitor",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLW1OR1NMSlFIU1pCUVNHemZoR2VFdU5LSFA5V3RjTGkxVnpoelo2MFdOUGI5SG1oandEQzBBSXpfcUl0Xy1QX0hYYzRiLXVkcDZhdjhvQzlPd2ZEY0RUMEV4T0x4ZUd3bG9GanBkUjd5S2ttUmdBbmRXNFZnVWtxOEViM09xbzFLcWVLczhDMFVOcDlsbnFvV1NuaF9NR2RrdjRPSkI2UUlxU3M?oc=5",
+          "domain": "al-monitor.com",
+          "sourceTier": "Regional reporting",
+          "seen": "20260820T174156Z",
           "pinned": false
         }
       ],
@@ -1225,6 +1225,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-19T21:03:58Z"
+        },
+        {
+          "id": "report-2cc2106920b5",
+          "title": "Ethiopia's Ashenda festival: Tigray cancels event celebrating the Virgin Mary over drone attack fears",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6OGtoUDZWdVlhbjJqNnBHQzYtVGpvaEJwMXBqY2pnZEd4dlVWdHZmMnRTUUFQelJJSnNGNm9fV0RoOGZSbzBsZmhobjVaalBWaXRONk1tSmJ5Zw?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-21T16:20:55Z"
         },
         {
           "id": "report-15c68535ba32",
@@ -1270,15 +1279,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-19T17:17:19Z"
-        },
-        {
-          "id": "report-2cc2106920b5",
-          "title": "Ethiopia's Ashenda festival: Tigray cancels event celebrating the Virgin Mary over drone attack fears",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6OGtoUDZWdVlhbjJqNnBHQzYtVGpvaEJwMXBqY2pnZEd4dlVWdHZmMnRTUUFQelJJSnNGNm9fV0RoOGZSbzBsZmhobjVaalBWaXRONk1tSmJ5Zw?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-21T16:20:55Z"
         },
         {
           "id": "report-dc713638e362",
@@ -1398,13 +1398,13 @@
           "reportedAt": "2026-08-19T15:38:38Z"
         },
         {
-          "id": "report-9a671d2f1525",
-          "title": "Russian drone attack on busy shopping centre kills 15 in Ukraine",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY1FwdzZuQzZkMG80NnNsa3ZvN3dUdnFDLXJCaVljTW9NbkNjeV8tYmQyaGI0Q2Z6TU1scVhpcFNhTGt4ZkJIOXE2RU9aNXpqSlkyMGdxbkYwN19uRVpqdzVzTThTQnIyS0V1MUxPRkJma0cxMl9DZHdzVWxxenZfLWN4UHRUU21fcVR5UkZGUlNDa2d3VlJPaVltT0trV2JjZ1FmZHd2YkPSAa4BQVVfeXFMTldlWUNfcHpockNTTG1IbTNhY3FrYzUzcWhjODlRNmVXU2lQNWZFU2ZFOHpfdnp5VW5wVDdVLTBtLUFJQkxaVTlxd1ByNVZ1RE5JdnhYaE5YVFhiQzNQRHdfY2E2OXRwRm1wY1g4dmNqakQ4TDIxaXV2bEUtcUJKNndqVTRZbnE5T29OSnFIWVVLYTU4ZVJzdnctcjA4Z3MzNlFjQmNwSVAxalVjM2l3?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-21T21:02:05Z"
+          "id": "report-a9f59a4e72d9",
+          "title": "Turkey signals restraint as war of words with Israel escalates over Syria - Al-Monitor",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLW1OR1NMSlFIU1pCUVNHemZoR2VFdU5LSFA5V3RjTGkxVnpoelo2MFdOUGI5SG1oandEQzBBSXpfcUl0Xy1QX0hYYzRiLXVkcDZhdjhvQzlPd2ZEY0RUMEV4T0x4ZUd3bG9GanBkUjd5S2ttUmdBbmRXNFZnVWtxOEViM09xbzFLcWVLczhDMFVOcDlsbnFvV1NuaF9NR2RrdjRPSkI2UUlxU3M?oc=5",
+          "domain": "al-monitor.com",
+          "sourceTier": "Regional reporting",
+          "confidenceLabel": "REGIONAL REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-20T17:41:56Z"
         },
         {
           "id": "report-372b096ff4db",
