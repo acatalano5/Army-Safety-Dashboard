@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-23T13:03:05.131Z",
+  "generatedAt": "2026-08-23T16:41:07.636Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -9,7 +9,7 @@
       "items": []
     },
     "safety": {
-      "generatedAt": "2026-08-22T15:57:44.864Z",
+      "generatedAt": "2026-08-23T16:41:07.636Z",
       "cadence": "daily",
       "items": [
         {
@@ -21,6 +21,38 @@
           "pinned": true
         },
         {
+          "title": "Marine Corps MV-22 Osprey suffers engine fire during Air Force training exercise",
+          "url": "https://www.militarytimes.com/news/your-military/2026/07/21/marine-corps-mv-22-osprey-suffers-engine-fire-during-air-force-training-exercise/",
+          "domain": "militarytimes.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260721T174800Z",
+          "pinned": false
+        },
+        {
+          "title": "Navy suspends search after MH-60S helicopter mishap; one Sailor missing",
+          "url": "https://www.navy.mil/Press-Office/Statements/display-statement/Article/4533332/us-navy-suspended-active-search-for-a-sailor-assigned-to-helicopter-sea-combat/",
+          "domain": "navy.mil",
+          "sourceTier": "Official military source",
+          "seen": "20260705T150000Z",
+          "pinned": false
+        },
+        {
+          "title": "Navy conducts safety review after Blue Angels low-altitude flyover",
+          "url": "https://apnews.com/article/hegseth-blue-angels-military-flyovers-safety-c2601ce50f433996c919464f1de7985c",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260716T220900Z",
+          "pinned": false
+        },
+        {
+          "title": "Army resumes Apache helicopter training missions after Texas crash that killed 2",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTXllVUxNMHZXYzZJT3QtalVQaWZ0OFJnSHdxNEhTYTB4MjRONDdxUnJZd2M4YXd3ZDRVdHRGaWRXLTZVb0JNV0ZBclJGX1V6cGgxUGpWbXNmZlROYzhXYXV1QVN1VHlwODc0MmFreHA4c01oWkF2MWpuVGlHUktybEFtYkpxS1NSamhNR04yMElTaDBjeWlEOGRwYjkySmM?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260819T230500Z",
+          "pinned": false
+        },
+        {
           "title": "Ukrainian Army Soldier Opens Up About US, Fighting Russia Since 2014, and Being 'Tired' of Missing Family",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPY21tZFdFNmlwbDNxQlZIZWtDRS1SNUNsOXVjNnBHUDg5M3ZIY0JwOWJ2NlRLamhudHozRlZBVkZkcVhDZXFUNzEzX28zRHVlalctWEkweWp6U1dqVmxsVGVCS2cyWGFqcW1WdlNGNldHX2J5U1Zia29ZVnZpWDNUU3VDS3lTaUdtbURsZlJ5X2xWOWR0LVY4WHd4VmRGOFdN?oc=5",
           "domain": "military.com",
@@ -29,7 +61,7 @@
           "pinned": false
         },
         {
-          "title": "'I just crashed’ — New footage shows Marine after F-18 ejection",
+          "title": "Body cam footage shows Marine after ejecting from F-18: ‘Hey buddy, I just crashed’",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ENC16amhkbmlxTnRKbi1lalU4Yjh5T1I0UWpURTBXeVNpWldicVc2Yl81OHJxYlJBWTNzM2p3M1RxVlV0QzNMX0RkQkpMallpSFdHc1hYeVlSTzNMSzBqRVVRM0VqYjVVLVpSbzhlY0tCNElDVFo2ag?oc=5",
           "domain": "taskandpurpose.com",
           "sourceTier": "Independent reporting",
@@ -45,19 +77,19 @@
           "pinned": false
         },
         {
-          "title": "Army grounds Apache helicopter training flights after deadly Fort Hood crash",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4zM2dvVmRQZVdBazNrdU9ER3dKbm9BY1pXaV9jLXJGWW0wbHlsZGpiSy1ObFBMM0ZPRGlQQkpXSFpzYVpFU28xdGVFeGlyUzhScEk1MXZOc0kyNXVpZ0RleGtxRk1MYTRjcXZRYmxWWnhCMUx5Q0taMQ?oc=5",
-          "domain": "taskandpurpose.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260814T221617Z",
-          "pinned": false
-        },
-        {
           "title": "Army identifies soldiers killed in Texas Apache helicopter crash",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZTU84TkwxQ3Vad0x3TlFfMFlxa1dnQUdEcHRRZ1A5ZGhXV1VoeUdBTk1lS1RmdmVTLS11RUNNcmdaNXdSZ0FFcEdzS3ZLc3d6Q1IzeEZXR2lYN21yQmpZeFN5NjRBT1JnZGJtVVY1T2M3THE5c2cw?oc=5",
           "domain": "taskandpurpose.com",
           "sourceTier": "Independent reporting",
           "seen": "20260814T125012Z",
+          "pinned": false
+        },
+        {
+          "title": "Army grounds Apache helicopter training flights after deadly Fort Hood crash",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4zM2dvVmRQZVdBazNrdU9ER3dKbm9BY1pXaV9jLXJGWW0wbHlsZGpiSy1ObFBMM0ZPRGlQQkpXSFpzYVpFU28xdGVFeGlyUzhScEk1MXZOc0kyNXVpZ0RleGtxRk1MYTRjcXZRYmxWWnhCMUx5Q0taMQ?oc=5",
+          "domain": "taskandpurpose.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260814T221617Z",
           "pinned": false
         },
         {
@@ -85,11 +117,11 @@
           "pinned": false
         },
         {
-          "title": "Marine F-35 involved in fiery mishap at Miramar base in California; pilot ejects safely",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQTY2THYtYXZSQXBMTlhtamlYSkRpSWlmNnFqd3JZWFIzd0lEaTlOTzNlRVRlUTZOdmcwYnNKN0NCUzFLZ1ZsRFduWW0xbWluTDcwZk5nSGVDMTJVTUdHbEFDWThrQy03c1RURmM4TFBZdzVfcHdTQUQwLUkwMEtldlhvTTg5XzJMUmFjamhIQmh5RnhMX1ZwY3FR?oc=5",
-          "domain": "stripes.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260731T070000Z",
+          "title": "A Lasting Lesson: What the Rotak CH-47D Crash Teaches Us About Crew Discipline",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUTdMM2hwSUw3Szk1Y3VpOVFRTjdQdnJmZzZaZWp6N3JzbjJpa3ZES0JyVm0za3Y4Z05zUmptck9FbHRCU2JyOVVFQTdVNC1nYUxEWEVQY2FRenhZWEI5YjVpS0ZTLW9NdWJyWWtpSU92dXQ2eVVMcHZGT18xdEVvc05YUWV3a2tHS1YyYldKRDlhel9zN3hGY0dUaTk4WDVGN1hGWm5DOUQtbFNiWGlHdktOb1htbDF6blNnV0JLbUY2S2RJX1hkbVMxaWxWRm1jcHVFcm5OZ2R1VXZTc0w1NnBNWWJ1UC1CZmYzV0hNaUY?oc=5",
+          "domain": "safety.army.mil",
+          "sourceTier": "Official military source",
+          "seen": "20260823T090700Z",
           "pinned": false
         },
         {
@@ -101,6 +133,22 @@
           "pinned": false
         },
         {
+          "title": "Marine F-35 involved in fiery mishap at Miramar base in California; pilot ejects safely",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQTY2THYtYXZSQXBMTlhtamlYSkRpSWlmNnFqd3JZWFIzd0lEaTlOTzNlRVRlUTZOdmcwYnNKN0NCUzFLZ1ZsRFduWW0xbWluTDcwZk5nSGVDMTJVTUdHbEFDWThrQy03c1RURmM4TFBZdzVfcHdTQUQwLUkwMEtldlhvTTg5XzJMUmFjamhIQmh5RnhMX1ZwY3FR?oc=5",
+          "domain": "stripes.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260731T070000Z",
+          "pinned": false
+        },
+        {
+          "title": "Marine Corps F-35B crashes on runway of California base, pilot safe",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5kSHlCVzNRd21ldGlFVHZWcXZWbGRhTThvazFkOEMtb2dQQ0FaOXRVRFdNS0Z1VGl3cDYtRXBnOHdJbGhQaWFTTFhzam1YQjMxVEhReU1VNkxpeVNCclF1MTlBTVkzZ0w1eDJFbGZiZnRmeVk?oc=5",
+          "domain": "taskandpurpose.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260731T070000Z",
+          "pinned": false
+        },
+        {
           "title": "Mishap Investigation Advice",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc19FY29CaU9ZS05HZ010VnR3R2FGa1JBMFZTb2tZdEJLZkpfRTRLdm9VdGEwallmUi14dGlYNC12dmhYU3ZxaXJrQWJBM25LdmxadFFOanlYUWhkZFhmVTF2NG5iTUtfNHVJaWpiRVZ6UmdoVkxxUlU4OFFVVG13UA?oc=5",
           "domain": "safety.army.mil",
@@ -109,15 +157,41 @@
           "pinned": false
         },
         {
-          "title": "Coast Guard Conducting Investigation to Fatal Incident near Liberty Island",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPR1BTQU9ETXY3djdvaDJZNTdhWkk0TFhiUUdQc1BBQ2R2bEtaRHFpTnF0RGJWSVhnZlBXUkFsQ0hKSDJLRE45emtlUEpjRlRBUHhYaHpLOEZZYUk3WWMxdHBMelFHRm1PMzhJeWVFUDd6UU5VN1k4cGphRkhiclZrUjZwMUVOdHJrM0lXTkpVQkdTTHBablBlWlhiVEpYRk5WLVhWcnBaQTdtUlljRkhxdXA0NmFtSk5fVG5jWF9IU3Y3OVB6cmdZblZ3RGo?oc=5",
-          "domain": "news.uscg.mil",
+          "title": "PLR 26-026 – Industrial/Occupational Mishap Claims One Soldier's Life",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVFBVWXBUbHd4ZjZrRUxIczczNkR4bVNBNGYxNElhdGU5WkRvaFJCMEQ0RFg0NXJCcUdiUkNZU3RCc3lJaDR1UWlDME1aOXBZNlFLY21IaGh4cmlJMTVzekVkN3VPcjdYcklvZjdsYmxLcEZZdF8zOFFQeEgwT0lXNDVLRE5semZ1cnE3dDBobmpWUWZ4TkZ2X1ZwYllMYlphbG5aLU1PTkpnZW0tbS1OQWEwQ0RiTUV1OG1ILVhfNnM1SUltUG5sYTBISFJtT0F5ZFRzaUdyZUdVQ09UY0lKTQ?oc=5",
+          "domain": "safety.army.mil",
           "sourceTier": "Official military source",
-          "seen": "20260809T070000Z",
+          "seen": "20260421T070000Z",
+          "pinned": false
+        },
+        {
+          "title": "PMV-4 Mishap Claims One Soldier’s Life",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRjhXYklOd3VPRVpkNjRLQ1ZVcGtLcnFyOGRTMWsyNzhGcnpXTEVZVXdtdndILWNyOWhRbjlhN3dyb0FNVGtwVEJnSmhGU09LQTZxOGwwWlpQS3VOX2F6LUVZQ0tpOHh1X19rQ244VXZNMXd1SzRFcEtBN2ZmSEowODVFUWEzNlk?oc=5",
+          "domain": "safety.army.mil",
+          "sourceTier": "Official military source",
+          "seen": "20240318T070000Z",
           "pinned": false
         }
       ],
       "incidents": [
+        {
+          "id": "auto-5511f2d1a34c",
+          "reportDate": "2026-08-23",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Aviation",
+          "event": "A Lasting Lesson: What the Rotak CH-47D Crash Teaches Us About Crew Discipline",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "OFFICIAL INTAKE",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Official military source",
+          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
+          "source": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUTdMM2hwSUw3Szk1Y3VpOVFRTjdQdnJmZzZaZWp6N3JzbjJpa3ZES0JyVm0za3Y4Z05zUmptck9FbHRCU2JyOVVFQTdVNC1nYUxEWEVQY2FRenhZWEI5YjVpS0ZTLW9NdWJyWWtpSU92dXQ2eVVMcHZGT18xdEVvc05YUWV3a2tHS1YyYldKRDlhel9zN3hGY0dUaTk4WDVGN1hGWm5DOUQtbFNiWGlHdktOb1htbDF6blNnV0JLbUY2S2RJX1hkbVMxaWxWRm1jcHVFcm5OZ2R1VXZTc0w1NnBNWWJ1UC1CZmYzV0hNaUY?oc=5",
+          "sourceLabel": "safety.army.mil"
+        },
         {
           "id": "auto-e0a0df40e40c",
           "reportDate": "2026-08-21",
@@ -153,6 +227,24 @@
           "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
           "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPY21tZFdFNmlwbDNxQlZIZWtDRS1SNUNsOXVjNnBHUDg5M3ZIY0JwOWJ2NlRLamhudHozRlZBVkZkcVhDZXFUNzEzX28zRHVlalctWEkweWp6U1dqVmxsVGVCS2cyWGFqcW1WdlNGNldHX2J5U1Zia29ZVnZpWDNUU3VDS3lTaUdtbURsZlJ5X2xWOWR0LVY4WHd4VmRGOFdN?oc=5",
           "sourceLabel": "military.com"
+        },
+        {
+          "id": "auto-9e1a222176b6",
+          "reportDate": "2026-08-19",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Aviation",
+          "event": "Army resumes Apache helicopter training missions after Texas crash that killed 2",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTXllVUxNMHZXYzZJT3QtalVQaWZ0OFJnSHdxNEhTYTB4MjRONDdxUnJZd2M4YXd3ZDRVdHRGaWRXLTZVb0JNV0ZBclJGX1V6cGgxUGpWbXNmZlROYzhXYXV1QVN1VHlwODc0MmFreHA4c01oWkF2MWpuVGlHUktybEFtYkpxS1NSamhNR04yMElTaDBjeWlEOGRwYjkySmM?oc=5",
+          "sourceLabel": "apnews.com"
         },
         {
           "id": "auto-38a9d74e2a4d",
@@ -197,7 +289,7 @@
           "branch": "Marine Corps",
           "department": "Department of the Navy",
           "type": "Aviation",
-          "event": "'I just crashed’ — New footage shows Marine after F-18 ejection",
+          "event": "Body cam footage shows Marine after ejecting from F-18: ‘Hey buddy, I just crashed’",
           "location": "See official source",
           "fatalities": null,
           "injuries": null,
@@ -245,24 +337,6 @@
           "sourceLabel": "stripes.com"
         },
         {
-          "id": "auto-a4e7e2f36509",
-          "reportDate": "2026-08-14",
-          "dateBasis": "report discovery date",
-          "branch": "Army",
-          "department": "Department of the Army",
-          "type": "Aviation",
-          "event": "Army grounds Apache helicopter training flights after deadly Fort Hood crash",
-          "location": "See official source",
-          "fatalities": null,
-          "injuries": null,
-          "status": "REPORTED / UNVALIDATED",
-          "signalClass": "REPORTED MISHAP",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
-          "source": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4zM2dvVmRQZVdBazNrdU9ER3dKbm9BY1pXaV9jLXJGWW0wbHlsZGpiSy1ObFBMM0ZPRGlQQkpXSFpzYVpFU28xdGVFeGlyUzhScEk1MXZOc0kyNXVpZ0RleGtxRk1MYTRjcXZRYmxWWnhCMUx5Q0taMQ?oc=5",
-          "sourceLabel": "taskandpurpose.com"
-        },
-        {
           "id": "auto-686b02b2cfc8",
           "reportDate": "2026-08-14",
           "dateBasis": "report discovery date",
@@ -278,6 +352,24 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
           "source": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZTU84TkwxQ3Vad0x3TlFfMFlxa1dnQUdEcHRRZ1A5ZGhXV1VoeUdBTk1lS1RmdmVTLS11RUNNcmdaNXdSZ0FFcEdzS3ZLc3d6Q1IzeEZXR2lYN21yQmpZeFN5NjRBT1JnZGJtVVY1T2M3THE5c2cw?oc=5",
+          "sourceLabel": "taskandpurpose.com"
+        },
+        {
+          "id": "auto-a4e7e2f36509",
+          "reportDate": "2026-08-14",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Aviation",
+          "event": "Army grounds Apache helicopter training flights after deadly Fort Hood crash",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4zM2dvVmRQZVdBazNrdU9ER3dKbm9BY1pXaV9jLXJGWW0wbHlsZGpiSy1ObFBMM0ZPRGlQQkpXSFpzYVpFU28xdGVFeGlyUzhScEk1MXZOc0kyNXVpZ0RleGtxRk1MYTRjcXZRYmxWWnhCMUx5Q0taMQ?oc=5",
           "sourceLabel": "taskandpurpose.com"
         },
         {
@@ -926,6 +1018,24 @@
           "sourceTier": "Official military source",
           "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
           "source": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNZ281TEZrSDVQaXFqOE8tY3o4bjJGTWlWQXBaNWR6Y1JkRE5aanV0allhUDFaejZoV3dUdm45QUtCb29lazM3M0F0TWo1NlZ0U1lPeHlkSWYwLU5JNWk5a0U5VVFxZExEVXZreFRMX2pIM2VLNndmNy1oQ2tHM1pfWUZRWnFxZUljVzFvY0JnT0RfcVJEZUhSVzYxOTVyeUZSZS1ZdVVVLUV0eFpHd1BmZm1wWDBlMVQzZGZqVnBhLVRQN0UxZEMwLVFzdkFqd0VSLVdXZHE0emVhT1ZvUEtENmNoMnJUTDF1OEVXTlIyQ0JBQVU1cUUxU0RhWQ?oc=5",
+          "sourceLabel": "safety.army.mil"
+        },
+        {
+          "id": "auto-fb700e13d74f",
+          "reportDate": "2024-03-18",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Other",
+          "event": "PMV-4 Mishap Claims One Soldier’s Life",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "OFFICIAL INTAKE",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Official military source",
+          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
+          "source": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRjhXYklOd3VPRVpkNjRLQ1ZVcGtLcnFyOGRTMWsyNzhGcnpXTEVZVXdtdndILWNyOWhRbjlhN3dyb0FNVGtwVEJnSmhGU09LQTZxOGwwWlpQS3VOX2F6LUVZQ0tpOHh1X19rQ244VXZNMXd1SzRFcEtBN2ZmSEowODVFUWEzNlk?oc=5",
           "sourceLabel": "safety.army.mil"
         },
         {
