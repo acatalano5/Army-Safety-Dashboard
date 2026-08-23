@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-23T07:01:28.880Z",
+  "generatedAt": "2026-08-23T13:03:05.131Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-08-23T07:01:28.880Z",
+      "generatedAt": "2026-08-23T13:03:05.131Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -985,23 +985,31 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-08-23T07:01:28.880Z",
+      "generatedAt": "2026-08-23T13:03:05.131Z",
       "cadence": "every 6 hours",
       "items": [
-        {
-          "title": "A trade war between Canada and the US further ruptures a once-close and durable alliance",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQVlYNWswSUYyM3pKRmI0SGpaU3k2WEVGa19ubU5fZmNRclBiMUpRcHFnRGU4SzZoLVVVbWxsR25fTHZ1NzI1ZUswYVdXUk85MnpTc1NpakhqSC1OMk1KMG5CcGdmaF90TVIyanhiWUNweTRzVVhFQXJhaXllQnlOMFo1Z2ktRmZKNEdpTEtWb2IzVmFaQ1RuS2pOLTJPcVdmWEE?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260822T183100Z",
-          "pinned": false
-        },
         {
           "title": "Gaza holds mass funeral for 50 Palestinians killed in Israeli genocidal war",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM0swS2VYREtteEZDVnlKLUV4RDdoMUkwdDF1NC1zSUdhaVg2ZGN2LUhoSF9DTzRnV1VRMTZiX0VSNEJMM0kwcWpDX2RmTnlfOVM5YXZMTUFJOUFSTXBwbWVmVEc1WVJWdWh6WDlzc0RRR0NTNEdyZUUydHphRlUtQjVIeE91emxhSzlmWENfT0hxaXhhQUNJcnZnUGRUZjBJVnNSSjFyNkJNMVdPdk5zNkdKYWpFMFnSAbwBQVVfeXFMTTJjallXbTNUWFlGUm9pOVhuVmc0Wk9oQVdJV19MRXdBZjdsQ09SZmNiUDhUMDljaE92ejdocXZIZFNFY1lpcWxmeDhVSVhNT1ozX0Zma1VlMmtXcVhiUWNGUy1XcklubnljUTNkUGdhbTVYWENFbkF4eXA3SmllVEJMZDVvQW4tMlN0Sk5JaVNtR3dyNS1YUTZ5TFJOaUtycXBucHk5bWdkVTcxWmhnSkNOUnVVT3FudGpaRmU?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260820T131352Z",
+          "pinned": false
+        },
+        {
+          "title": "Can Iran retaliate against countries that join US ‘economic war’?",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObTd4NEFUNFNoTGljajhvWHNHYkF3ZkNjSFUxLWNaQnpYWnZkTTJUZnF5VXI4Y0QyMHRWbU9nYVRPTjNWbTdBWHBnenZ4MzVUdTROZEVLcm9LNmIwSU04U20weXdBd0ItQ09aZ2ZwMEJPWG9EemI4dGMyQ25mQWl2bTR0WkR3TVpoSjMycXp1a21DUHpVNFNEaHNfUHhnTEhlWEpHVlR30gGrAUFVX3lxTFBtNHFnMmFyQ2F2MlpwN0daZ2laV0p5eHhVYjlZZWVwUU11MGRwV3F0VUo0S19VeTIxaWZ5d3BiUWZwZlBlZExPNFA0clh6YU9rTGRCcmVhU2lmMEFCZGRBOFBMYUFFNW5rcHd4Wlh6SHBBTndjZ0hvQlR3TmhWZkZFdElsQkhsLTFLQmd2Sk1BM1FrVWRpcGJPQmc1V1FCN3h3bEZsc2FZLUREMA?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260823T115448Z",
+          "pinned": false
+        },
+        {
+          "title": "US allies in Asia wary as Trump moves military assets for Iran war",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcjFkTDdDTURoUFNsQXFzRGlNTl8xNDh3UDVVOUpqSTBPOGZpUHFHZnBNeHFBOV9relBhVzIycDd2dFVlWnJHTm5LUTZDQXZvSHJQU3lsMnYtaDV4cUVaWF9OWU8tN3ZtY2taRjRfLUxTWVJxb2JaSW9TVi0zTUpKTXJ1d1ZrX2wtN1Mwblh0TEpVZVM0bGVHN0hkU2lHaDZDNUo1RXZuWG5LVTjSAbABQVVfeXFMTTJ6WFZsRkVaMzU4b2VtVlNEU2VfODhHdWNrS3VPQUQwYTJFaWdGS01sMDhoRHdSX2VQUC05SlJLTzIzR2tabzNrcjZjcVN2UWNhSU43THFvM3R5WkloVHgxOXBydlRGN3ZreXdUQlBnbVhicG00OUxLMVpwaENuR0Noc1lCRVN0eDVNLUw3cURrdGw3N1BZZVlVNUlrVEhnclVNWHRNb0FDTmhtUy1wU2w?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260821T123537Z",
           "pinned": false
         },
         {
@@ -1013,11 +1021,27 @@
           "pinned": false
         },
         {
-          "title": "Iranian Central Bank says oil exports have fallen to zero amid war, sanctions",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU2ZOOHBkR2paQk5hY0hmaXVpR1JMMkg5N1g2Zk94ZThYb3F3eER6Ykk1bnZXa1NqdTJJWnp6cUY5UmFPNC1iM3d1SWFzSktBUmMwUGJzSWFOcGFMUDlmR2h5QTFDTjh1YWFKbTdxbmJJNEFRek5KaWhicjhFYUM2UGtqLWFTWnZzWkZicVJRVjhOMm5VRklySWFUeko4TDYxeUtaOUM1Y0VrVW96VFFjb3ZsOWUtT181?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "seen": "20260820T085928Z",
+          "title": "Iran’s president says US memorandum is best path out of stalled war, and other Middle East news",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaHdQUFYyOHpTM3RqRFRpLVhoaDJZNVdRZFhqS3pDRHpkSlJ2VUxPaG0wUVN0WWpwQWphNzFGUFM0SHpHZTh4QW04cllJRTJsRWRCMWpSLTFpUS1TR0Q0elNabDVMcC1Iek1hZHFEN3hUeG5Rc2xHYTM5RnVzdGFDUDR1ME5KYWNYX08zcTNpa0stN0E5R2FpY09sSXdvV1FkV0kxa3I4LWQwT0gy?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260823T101100Z",
+          "pinned": false
+        },
+        {
+          "title": "Russian expert warns of impending social crisis as Ukraine death toll rises",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRVBwd2JreGFKU0lXbkJxNllkYW9abUF6eUFCaGIyTFZCOW5lSm9XQklBN0hqQ0xhUlR4azVaLVdCd2tfRGVNNFE3VC1aRS0yRzN1SE9VUVRyMUVaRkpFWmtwVVMyNkVwNEhYbnIySUJSYTB5TF81cThVWkhjQ1l4eHNZV3E5MDlKNXNITnF2RmQxMVM2MGM0Z0NLVks1R3hTWERNd2RFcFFLWlFQTW9ScEg5aG5WMjTSAbwBQVVfeXFMTnc3MEJELXVpWFZQMElTTGNXUTItSElDQjJfVWU5TFN1UTlOeGstX1NwLTh3Z04wWURaTjBIcm5SMjBKMEpZcWdPX1ZQbGs4TVFRQkZwVmxqbTVUbFRaTWJIc1pVMWlHLWE3V29BUGdxOWNReUFHSWl0Uk8wemZQeXhxLURBazd5ZFUxTG9iekJ0VzdoaFZ0dkczczJvdWktaEE4d1RsR29NMGQ2TkRUVGs0dGNXSUNjSE1oNGQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260821T151649Z",
+          "pinned": false
+        },
+        {
+          "title": "A trade war between Canada and the US further ruptures a once-close and durable alliance",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQVlYNWswSUYyM3pKRmI0SGpaU3k2WEVGa19ubU5fZmNRclBiMUpRcHFnRGU4SzZoLVVVbWxsR25fTHZ1NzI1ZUswYVdXUk85MnpTc1NpakhqSC1OMk1KMG5CcGdmaF90TVIyanhiWUNweTRzVVhFQXJhaXllQnlOMFo1Z2ktRmZKNEdpTEtWb2IzVmFaQ1RuS2pOLTJPcVdmWEE?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260822T183100Z",
           "pinned": false
         },
         {
@@ -1033,7 +1057,7 @@
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORlFYOHBOWnRTWC00UkQ2U2FBWWJYRXFNT2NXUXJla1pNU1JFTzJZX1dsOGVvVGJLdEItUlBHUHlrMkJJSE1lS0gxSGIzTTR5T0F3RkRfbGNhalRQV3dsQ3dHbEx4OS1yOG9ldjAtamVWVUpnZHNyekhLYVdMRWpaa1k3a1ExdDFheHYzMGVrWDFmczktdHpjOXNnX0pkSVFVZzBKcnNLTEhxQdIBrwFBVV95cUxQT3VjZlFtdm1HYzhhQmZyZ05QWXAxUFJFc2J3d2NiSWRtbVFmWUhXSk9qNmF3dHotQmhJWm9aakxEcDkwb2cydU5KclJ2WlpYODhmZTFaZENuVmdiVWdicU4xdHBMaGIxcXY5VFk2RG1SZld2WkhWeGp5TlN0TjdVWWpOYmtSZllhQzZRMzduby1CWGJNdkRPM3g2MmJGSnJaWnBkWVpMZVA3YS1pYy1v?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260823T053730Z",
+          "seen": "20260823T054403Z",
           "pinned": false
         },
         {
@@ -1058,14 +1082,6 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260823T054403Z",
-          "pinned": false
-        },
-        {
-          "title": "US allies in Asia wary as Trump moves military assets for Iran war",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcjFkTDdDTURoUFNsQXFzRGlNTl8xNDh3UDVVOUpqSTBPOGZpUHFHZnBNeHFBOV9relBhVzIycDd2dFVlWnJHTm5LUTZDQXZvSHJQU3lsMnYtaDV4cUVaWF9OWU8tN3ZtY2taRjRfLUxTWVJxb2JaSW9TVi0zTUpKTXJ1d1ZrX2wtN1Mwblh0TEpVZVM0bGVHN0hkU2lHaDZDNUo1RXZuWG5LVTjSAbABQVVfeXFMTTJ6WFZsRkVaMzU4b2VtVlNEU2VfODhHdWNrS3VPQUQwYTJFaWdGS01sMDhoRHdSX2VQUC05SlJLTzIzR2tabzNrcjZjcVN2UWNhSU43THFvM3R5WkloVHgxOXBydlRGN3ZreXdUQlBnbVhicG00OUxLMVpwaENuR0Noc1lCRVN0eDVNLUw3cURrdGw3N1BZZVlVNUlrVEhnclVNWHRNb0FDTmhtUy1wU2w?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260821T123537Z",
           "pinned": false
         },
         {
@@ -1101,11 +1117,11 @@
           "pinned": false
         },
         {
-          "title": "Russian expert warns of impending social crisis as Ukraine death toll rises",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRVBwd2JreGFKU0lXbkJxNllkYW9abUF6eUFCaGIyTFZCOW5lSm9XQklBN0hqQ0xhUlR4azVaLVdCd2tfRGVNNFE3VC1aRS0yRzN1SE9VUVRyMUVaRkpFWmtwVVMyNkVwNEhYbnIySUJSYTB5TF81cThVWkhjQ1l4eHNZV3E5MDlKNXNITnF2RmQxMVM2MGM0Z0NLVks1R3hTWERNd2RFcFFLWlFQTW9ScEg5aG5WMjTSAbwBQVVfeXFMTnc3MEJELXVpWFZQMElTTGNXUTItSElDQjJfVWU5TFN1UTlOeGstX1NwLTh3Z04wWURaTjBIcm5SMjBKMEpZcWdPX1ZQbGs4TVFRQkZwVmxqbTVUbFRaTWJIc1pVMWlHLWE3V29BUGdxOWNReUFHSWl0Uk8wemZQeXhxLURBazd5ZFUxTG9iekJ0VzdoaFZ0dkczczJvdWktaEE4d1RsR29NMGQ2TkRUVGs0dGNXSUNjSE1oNGQ?oc=5",
+          "title": "Somalia child hunger crisis deepens after aid cuts, UNICEF says",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVHQ3X1NITFVlX0RwYkJaMTNGMXRPanV2cmtJVVBqb1UxUElfcXZyZVRnSS1qNkUtNHNNWHJtNUd4LVFRRU16UGdETmRrY2xFcG5EV2dsVUMzdWFMZXBuQkt6a3NHcVdLMm80S1ptdk5DUWxGR1BoUzRpd3NMdllja0V4UVlMeENseXh5aG5JMWluMUdldjVodjFGWGpvMW8wellHY1RB0gGrAUFVX3lxTE5SWTF5MkJCX3NlV0JWQXNLRmVMNGFiTFNMb3Y0TnlNSEpTWGZtRnVsQ3JFRzlHYml4ck4yYnIxbUNGcFRwVGY2dHRxMV9kRHNBclhtNWQ5RnFxNDB1SW9ydjdaZW5QcTJ6TE9OOEdrRG9aWEdpQWtyWTJ6M0hybi1DdV8tUXRjbVFzWXBuOE9IakdPRjVRTVF0aHRVUnlYV0V3amthdURRb1QtTQ?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260821T151649Z",
+          "seen": "20260822T071704Z",
           "pinned": false
         },
         {
@@ -1117,19 +1133,11 @@
           "pinned": false
         },
         {
-          "title": "Taunton war memorial restoration begins due to sinking ground",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xS1VhVG9GZjJVZ2g3cU1iX2FSZ2psUlVNZ3YxZjVYTHMycGV3N0J1OXoxaFVLZEVZNlI1b0FYV1pkLW1yNng0UlZPaUJGSzlxWWlacDNQMWN0dw?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260820T052942Z",
-          "pinned": false
-        },
-        {
-          "title": "Trump vows ‘economic warfare’ on countries helping Iran",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOXzJucTQ3YkF1aEJ2ejRqVFh3Tmd2N3UxR3FFMUNmaElpaVAzOUk5cXNUVjh1NGJxZEZISk1sMGpSMjZwQnpfMGN4M01XMWk0OHdMT3gxSXl3UVEtd1ZXSnBGNVBLa3d5bnNPX3JIYm04anRrdHlQUHN2bnJFVXdtWGJfVDRual9mSnJqUzFCN2s1QlgySDNtcTEzWHdDcEVFdDE2Sks3RdIBrAFBVV95cUxOT2RkTnVZakd1T2xLQUVPeWR0QjItTVZzLVNMTGJNVWNCUWdzRkNLQTJfREM0Q2YyYkI0U1dxaHZXQWhvSG9ocHRPRjMyckN1OFR3b3RscVhOcGVKc0tvX0lMbUdvaER1VS1FQnlzeHNpcUpZSHJhbGZSZG1va2R3QURTT1FQS3h3Q3pJR2M4eVNodWNRb2U5M1p4Y2EtcHBoaWJrQ3BvSFFJS040?oc=5",
+          "title": "‘You just can’t trust Trump’: Canadian premiers fire back in trade war",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYVp3b1lFbEZPY05VWnZWeHFQU1IxVjM1YllUOUZ3bGs3dlJROFdQbkkwRHhMMFJGeWNHSWI3WmRlMDdUSi1LY0ZlaTBSdVBIQ2c2aU41dnNQc0tfWUpwU013eVBTQ29fRi1NSVVETWN4S0ZKNXhjdUdMY18wVnlmMXJXQ3RhTzZWMEU1R3NHSFo0SlBZZnNtMVRzaUtIRGc1QU9YQUxxRklldnVwYlFEcVBxWmsyYUhD0gG-AUFVX3lxTE5waTZEbllaZHoxbHhtSjFjclJua0dKTHMtWjh0ajllVE9sU2VlaFIxdW9xV1hQVzVzQ24yQ1l0NVJTTHd3MHlPZnhTZnpiLXUyZWdFWWhKZXBqckZMYTF5NURsNWRiREd3bEZRQmRDckhYY1RSZmsxZUZyMGQ2b3FRSE1SQU16Qm55V2N5RkJZZW93VVZGVFdqTTdGandmVWpVbjVtbzAwcUhidGJyMGtyRjliNVo1TVIxZHJBQlE?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260820T044021Z",
+          "seen": "20260823T035303Z",
           "pinned": false
         },
         {
@@ -1157,19 +1165,11 @@
           "pinned": false
         },
         {
-          "title": "Turkey signals restraint as war of words with Israel escalates over Syria - Al-Monitor",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLW1OR1NMSlFIU1pCUVNHemZoR2VFdU5LSFA5V3RjTGkxVnpoelo2MFdOUGI5SG1oandEQzBBSXpfcUl0Xy1QX0hYYzRiLXVkcDZhdjhvQzlPd2ZEY0RUMEV4T0x4ZUd3bG9GanBkUjd5S2ttUmdBbmRXNFZnVWtxOEViM09xbzFLcWVLczhDMFVOcDlsbnFvV1NuaF9NR2RrdjRPSkI2UUlxU3M?oc=5",
-          "domain": "al-monitor.com",
-          "sourceTier": "Regional reporting",
-          "seen": "20260820T174156Z",
-          "pinned": false
-        },
-        {
-          "title": "‘You just can’t trust Trump’: Canadian premiers fire back in trade war",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYVp3b1lFbEZPY05VWnZWeHFQU1IxVjM1YllUOUZ3bGs3dlJROFdQbkkwRHhMMFJGeWNHSWI3WmRlMDdUSi1LY0ZlaTBSdVBIQ2c2aU41dnNQc0tfWUpwU013eVBTQ29fRi1NSVVETWN4S0ZKNXhjdUdMY18wVnlmMXJXQ3RhTzZWMEU1R3NHSFo0SlBZZnNtMVRzaUtIRGc1QU9YQUxxRklldnVwYlFEcVBxWmsyYUhD0gG-AUFVX3lxTE5waTZEbllaZHoxbHhtSjFjclJua0dKTHMtWjh0ajllVE9sU2VlaFIxdW9xV1hQVzVzQ24yQ1l0NVJTTHd3MHlPZnhTZnpiLXUyZWdFWWhKZXBqckZMYTF5NURsNWRiREd3bEZRQmRDckhYY1RSZmsxZUZyMGQ2b3FRSE1SQU16Qm55V2N5RkJZZW93VVZGVFdqTTdGandmVWpVbjVtbzAwcUhidGJyMGtyRjliNVo1TVIxZHJBQlE?oc=5",
-          "domain": "aljazeera.com",
+          "title": "Myanmar military strike kills 14 people at a Buddhist monastery, opposition group says",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaTJMQldGVEJ4Q1d2MXVWY19QaV9aUmJEWTVvb0JNT3p1TzNuYUF1cnlpOWxpMWJTNzM2el9GVVkwSEtvUlZtaEZod28yR2tGMno4Z0lfX0QxR3RpS3hTQ29kd1padGZIRU5qZ2ZTTVkzVks4QjhZdGZmRXpMSHBUYkI5WElsTE94N0hVUl9NNFZRYWc0SHdyWTFFcjR1WGtNa0cw?oc=5",
+          "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260823T035303Z",
+          "seen": "20260821T153100Z",
           "pinned": false
         },
         {
@@ -1183,15 +1183,6 @@
       ],
       "reports": [
         {
-          "id": "report-9affffa9882f",
-          "title": "A trade war between Canada and the US further ruptures a once-close and durable alliance",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQVlYNWswSUYyM3pKRmI0SGpaU3k2WEVGa19ubU5fZmNRclBiMUpRcHFnRGU4SzZoLVVVbWxsR25fTHZ1NzI1ZUswYVdXUk85MnpTc1NpakhqSC1OMk1KMG5CcGdmaF90TVIyanhiWUNweTRzVVhFQXJhaXllQnlOMFo1Z2ktRmZKNEdpTEtWb2IzVmFaQ1RuS2pOLTJPcVdmWEE?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-22T18:31:00Z"
-        },
-        {
           "id": "report-57d1ad213b08",
           "title": "Gaza holds mass funeral for 50 Palestinians killed in Israeli genocidal war",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM0swS2VYREtteEZDVnlKLUV4RDdoMUkwdDF1NC1zSUdhaVg2ZGN2LUhoSF9DTzRnV1VRMTZiX0VSNEJMM0kwcWpDX2RmTnlfOVM5YXZMTUFJOUFSTXBwbWVmVEc1WVJWdWh6WDlzc0RRR0NTNEdyZUUydHphRlUtQjVIeE91emxhSzlmWENfT0hxaXhhQUNJcnZnUGRUZjBJVnNSSjFyNkJNMVdPdk5zNkdKYWpFMFnSAbwBQVVfeXFMTTJjallXbTNUWFlGUm9pOVhuVmc0Wk9oQVdJV19MRXdBZjdsQ09SZmNiUDhUMDljaE92ejdocXZIZFNFY1lpcWxmeDhVSVhNT1ozX0Zma1VlMmtXcVhiUWNGUy1XcklubnljUTNkUGdhbTVYWENFbkF4eXA3SmllVEJMZDVvQW4tMlN0Sk5JaVNtR3dyNS1YUTZ5TFJOaUtycXBucHk5bWdkVTcxWmhnSkNOUnVVT3FudGpaRmU?oc=5",
@@ -1199,6 +1190,24 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-20T13:13:52Z"
+        },
+        {
+          "id": "report-57de3ba67233",
+          "title": "Can Iran retaliate against countries that join US ‘economic war’?",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObTd4NEFUNFNoTGljajhvWHNHYkF3ZkNjSFUxLWNaQnpYWnZkTTJUZnF5VXI4Y0QyMHRWbU9nYVRPTjNWbTdBWHBnenZ4MzVUdTROZEVLcm9LNmIwSU04U20weXdBd0ItQ09aZ2ZwMEJPWG9EemI4dGMyQ25mQWl2bTR0WkR3TVpoSjMycXp1a21DUHpVNFNEaHNfUHhnTEhlWEpHVlR30gGrAUFVX3lxTFBtNHFnMmFyQ2F2MlpwN0daZ2laV0p5eHhVYjlZZWVwUU11MGRwV3F0VUo0S19VeTIxaWZ5d3BiUWZwZlBlZExPNFA0clh6YU9rTGRCcmVhU2lmMEFCZGRBOFBMYUFFNW5rcHd4Wlh6SHBBTndjZ0hvQlR3TmhWZkZFdElsQkhsLTFLQmd2Sk1BM1FrVWRpcGJPQmc1V1FCN3h3bEZsc2FZLUREMA?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-23T11:54:48Z"
+        },
+        {
+          "id": "report-dc713638e362",
+          "title": "US allies in Asia wary as Trump moves military assets for Iran war",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcjFkTDdDTURoUFNsQXFzRGlNTl8xNDh3UDVVOUpqSTBPOGZpUHFHZnBNeHFBOV9relBhVzIycDd2dFVlWnJHTm5LUTZDQXZvSHJQU3lsMnYtaDV4cUVaWF9OWU8tN3ZtY2taRjRfLUxTWVJxb2JaSW9TVi0zTUpKTXJ1d1ZrX2wtN1Mwblh0TEpVZVM0bGVHN0hkU2lHaDZDNUo1RXZuWG5LVTjSAbABQVVfeXFMTTJ6WFZsRkVaMzU4b2VtVlNEU2VfODhHdWNrS3VPQUQwYTJFaWdGS01sMDhoRHdSX2VQUC05SlJLTzIzR2tabzNrcjZjcVN2UWNhSU43THFvM3R5WkloVHgxOXBydlRGN3ZreXdUQlBnbVhicG00OUxLMVpwaENuR0Noc1lCRVN0eDVNLUw3cURrdGw3N1BZZVlVNUlrVEhnclVNWHRNb0FDTmhtUy1wU2w?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-21T12:35:37Z"
         },
         {
           "id": "report-ccf970b824ab",
@@ -1210,13 +1219,31 @@
           "reportedAt": "2026-08-20T12:38:35Z"
         },
         {
-          "id": "report-4d3d8b3dcab5",
-          "title": "Iranian Central Bank says oil exports have fallen to zero amid war, sanctions",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU2ZOOHBkR2paQk5hY0hmaXVpR1JMMkg5N1g2Zk94ZThYb3F3eER6Ykk1bnZXa1NqdTJJWnp6cUY5UmFPNC1iM3d1SWFzSktBUmMwUGJzSWFOcGFMUDlmR2h5QTFDTjh1YWFKbTdxbmJJNEFRek5KaWhicjhFYUM2UGtqLWFTWnZzWkZicVJRVjhOMm5VRklySWFUeko4TDYxeUtaOUM1Y0VrVW96VFFjb3ZsOWUtT181?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
-          "reportedAt": "2026-08-20T08:59:28Z"
+          "id": "report-a0982169fbf4",
+          "title": "Iran’s president says US memorandum is best path out of stalled war, and other Middle East news",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaHdQUFYyOHpTM3RqRFRpLVhoaDJZNVdRZFhqS3pDRHpkSlJ2VUxPaG0wUVN0WWpwQWphNzFGUFM0SHpHZTh4QW04cllJRTJsRWRCMWpSLTFpUS1TR0Q0elNabDVMcC1Iek1hZHFEN3hUeG5Rc2xHYTM5RnVzdGFDUDR1ME5KYWNYX08zcTNpa0stN0E5R2FpY09sSXdvV1FkV0kxa3I4LWQwT0gy?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-23T10:11:00Z"
+        },
+        {
+          "id": "report-776cc2f7cf40",
+          "title": "Russian expert warns of impending social crisis as Ukraine death toll rises",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRVBwd2JreGFKU0lXbkJxNllkYW9abUF6eUFCaGIyTFZCOW5lSm9XQklBN0hqQ0xhUlR4azVaLVdCd2tfRGVNNFE3VC1aRS0yRzN1SE9VUVRyMUVaRkpFWmtwVVMyNkVwNEhYbnIySUJSYTB5TF81cThVWkhjQ1l4eHNZV3E5MDlKNXNITnF2RmQxMVM2MGM0Z0NLVks1R3hTWERNd2RFcFFLWlFQTW9ScEg5aG5WMjTSAbwBQVVfeXFMTnc3MEJELXVpWFZQMElTTGNXUTItSElDQjJfVWU5TFN1UTlOeGstX1NwLTh3Z04wWURaTjBIcm5SMjBKMEpZcWdPX1ZQbGs4TVFRQkZwVmxqbTVUbFRaTWJIc1pVMWlHLWE3V29BUGdxOWNReUFHSWl0Uk8wemZQeXhxLURBazd5ZFUxTG9iekJ0VzdoaFZ0dkczczJvdWktaEE4d1RsR29NMGQ2TkRUVGs0dGNXSUNjSE1oNGQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-21T15:16:49Z"
+        },
+        {
+          "id": "report-9affffa9882f",
+          "title": "A trade war between Canada and the US further ruptures a once-close and durable alliance",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQVlYNWswSUYyM3pKRmI0SGpaU3k2WEVGa19ubU5fZmNRclBiMUpRcHFnRGU4SzZoLVVVbWxsR25fTHZ1NzI1ZUswYVdXUk85MnpTc1NpakhqSC1OMk1KMG5CcGdmaF90TVIyanhiWUNweTRzVVhFQXJhaXllQnlOMFo1Z2ktRmZKNEdpTEtWb2IzVmFaQ1RuS2pOLTJPcVdmWEE?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-22T18:31:00Z"
         },
         {
           "id": "report-5bca886c747d",
@@ -1234,7 +1261,7 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-23T05:37:30Z"
+          "reportedAt": "2026-08-23T05:44:03Z"
         },
         {
           "id": "report-2cc2106920b5",
@@ -1262,15 +1289,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-23T05:44:03Z"
-        },
-        {
-          "id": "report-dc713638e362",
-          "title": "US allies in Asia wary as Trump moves military assets for Iran war",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcjFkTDdDTURoUFNsQXFzRGlNTl8xNDh3UDVVOUpqSTBPOGZpUHFHZnBNeHFBOV9relBhVzIycDd2dFVlWnJHTm5LUTZDQXZvSHJQU3lsMnYtaDV4cUVaWF9OWU8tN3ZtY2taRjRfLUxTWVJxb2JaSW9TVi0zTUpKTXJ1d1ZrX2wtN1Mwblh0TEpVZVM0bGVHN0hkU2lHaDZDNUo1RXZuWG5LVTjSAbABQVVfeXFMTTJ6WFZsRkVaMzU4b2VtVlNEU2VfODhHdWNrS3VPQUQwYTJFaWdGS01sMDhoRHdSX2VQUC05SlJLTzIzR2tabzNrcjZjcVN2UWNhSU43THFvM3R5WkloVHgxOXBydlRGN3ZreXdUQlBnbVhicG00OUxLMVpwaENuR0Noc1lCRVN0eDVNLUw3cURrdGw3N1BZZVlVNUlrVEhnclVNWHRNb0FDTmhtUy1wU2w?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-21T12:35:37Z"
         },
         {
           "id": "report-a59bcb690f25",
@@ -1309,13 +1327,13 @@
           "reportedAt": "2026-08-20T11:07:42Z"
         },
         {
-          "id": "report-776cc2f7cf40",
-          "title": "Russian expert warns of impending social crisis as Ukraine death toll rises",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRVBwd2JreGFKU0lXbkJxNllkYW9abUF6eUFCaGIyTFZCOW5lSm9XQklBN0hqQ0xhUlR4azVaLVdCd2tfRGVNNFE3VC1aRS0yRzN1SE9VUVRyMUVaRkpFWmtwVVMyNkVwNEhYbnIySUJSYTB5TF81cThVWkhjQ1l4eHNZV3E5MDlKNXNITnF2RmQxMVM2MGM0Z0NLVks1R3hTWERNd2RFcFFLWlFQTW9ScEg5aG5WMjTSAbwBQVVfeXFMTnc3MEJELXVpWFZQMElTTGNXUTItSElDQjJfVWU5TFN1UTlOeGstX1NwLTh3Z04wWURaTjBIcm5SMjBKMEpZcWdPX1ZQbGs4TVFRQkZwVmxqbTVUbFRaTWJIc1pVMWlHLWE3V29BUGdxOWNReUFHSWl0Uk8wemZQeXhxLURBazd5ZFUxTG9iekJ0VzdoaFZ0dkczczJvdWktaEE4d1RsR29NMGQ2TkRUVGs0dGNXSUNjSE1oNGQ?oc=5",
+          "id": "report-c405b4a84868",
+          "title": "Somalia child hunger crisis deepens after aid cuts, UNICEF says",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVHQ3X1NITFVlX0RwYkJaMTNGMXRPanV2cmtJVVBqb1UxUElfcXZyZVRnSS1qNkUtNHNNWHJtNUd4LVFRRU16UGdETmRrY2xFcG5EV2dsVUMzdWFMZXBuQkt6a3NHcVdLMm80S1ptdk5DUWxGR1BoUzRpd3NMdllja0V4UVlMeENseXh5aG5JMWluMUdldjVodjFGWGpvMW8wellHY1RB0gGrAUFVX3lxTE5SWTF5MkJCX3NlV0JWQXNLRmVMNGFiTFNMb3Y0TnlNSEpTWGZtRnVsQ3JFRzlHYml4ck4yYnIxbUNGcFRwVGY2dHRxMV9kRHNBclhtNWQ5RnFxNDB1SW9ydjdaZW5QcTJ6TE9OOEdrRG9aWEdpQWtyWTJ6M0hybi1DdV8tUXRjbVFzWXBuOE9IakdPRjVRTVF0aHRVUnlYV0V3amthdURRb1QtTQ?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-21T15:16:49Z"
+          "reportedAt": "2026-08-22T07:17:04Z"
         },
         {
           "id": "report-aeae000b2b87",
@@ -1327,22 +1345,13 @@
           "reportedAt": "2026-08-20T20:33:10Z"
         },
         {
-          "id": "report-9ce9a1d7e528",
-          "title": "Taunton war memorial restoration begins due to sinking ground",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xS1VhVG9GZjJVZ2g3cU1iX2FSZ2psUlVNZ3YxZjVYTHMycGV3N0J1OXoxaFVLZEVZNlI1b0FYV1pkLW1yNng0UlZPaUJGSzlxWWlacDNQMWN0dw?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-20T05:29:42Z"
-        },
-        {
-          "id": "report-839f938be6f2",
-          "title": "Trump vows ‘economic warfare’ on countries helping Iran",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOXzJucTQ3YkF1aEJ2ejRqVFh3Tmd2N3UxR3FFMUNmaElpaVAzOUk5cXNUVjh1NGJxZEZISk1sMGpSMjZwQnpfMGN4M01XMWk0OHdMT3gxSXl3UVEtd1ZXSnBGNVBLa3d5bnNPX3JIYm04anRrdHlQUHN2bnJFVXdtWGJfVDRual9mSnJqUzFCN2s1QlgySDNtcTEzWHdDcEVFdDE2Sks3RdIBrAFBVV95cUxOT2RkTnVZakd1T2xLQUVPeWR0QjItTVZzLVNMTGJNVWNCUWdzRkNLQTJfREM0Q2YyYkI0U1dxaHZXQWhvSG9ocHRPRjMyckN1OFR3b3RscVhOcGVKc0tvX0lMbUdvaER1VS1FQnlzeHNpcUpZSHJhbGZSZG1va2R3QURTT1FQS3h3Q3pJR2M4eVNodWNRb2U5M1p4Y2EtcHBoaWJrQ3BvSFFJS040?oc=5",
+          "id": "report-ee504de2d131",
+          "title": "‘You just can’t trust Trump’: Canadian premiers fire back in trade war",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYVp3b1lFbEZPY05VWnZWeHFQU1IxVjM1YllUOUZ3bGs3dlJROFdQbkkwRHhMMFJGeWNHSWI3WmRlMDdUSi1LY0ZlaTBSdVBIQ2c2aU41dnNQc0tfWUpwU013eVBTQ29fRi1NSVVETWN4S0ZKNXhjdUdMY18wVnlmMXJXQ3RhTzZWMEU1R3NHSFo0SlBZZnNtMVRzaUtIRGc1QU9YQUxxRklldnVwYlFEcVBxWmsyYUhD0gG-AUFVX3lxTE5waTZEbllaZHoxbHhtSjFjclJua0dKTHMtWjh0ajllVE9sU2VlaFIxdW9xV1hQVzVzQ24yQ1l0NVJTTHd3MHlPZnhTZnpiLXUyZWdFWWhKZXBqckZMYTF5NURsNWRiREd3bEZRQmRDckhYY1RSZmsxZUZyMGQ2b3FRSE1SQU16Qm55V2N5RkJZZW93VVZGVFdqTTdGandmVWpVbjVtbzAwcUhidGJyMGtyRjliNVo1TVIxZHJBQlE?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-20T04:40:21Z"
+          "reportedAt": "2026-08-23T03:53:03Z"
         },
         {
           "id": "report-68c4f94ea796",
@@ -1372,22 +1381,13 @@
           "reportedAt": "2026-08-21T21:02:05Z"
         },
         {
-          "id": "report-a9f59a4e72d9",
-          "title": "Turkey signals restraint as war of words with Israel escalates over Syria - Al-Monitor",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLW1OR1NMSlFIU1pCUVNHemZoR2VFdU5LSFA5V3RjTGkxVnpoelo2MFdOUGI5SG1oandEQzBBSXpfcUl0Xy1QX0hYYzRiLXVkcDZhdjhvQzlPd2ZEY0RUMEV4T0x4ZUd3bG9GanBkUjd5S2ttUmdBbmRXNFZnVWtxOEViM09xbzFLcWVLczhDMFVOcDlsbnFvV1NuaF9NR2RrdjRPSkI2UUlxU3M?oc=5",
-          "domain": "al-monitor.com",
-          "sourceTier": "Regional reporting",
-          "confidenceLabel": "REGIONAL REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-20T17:41:56Z"
-        },
-        {
-          "id": "report-ee504de2d131",
-          "title": "‘You just can’t trust Trump’: Canadian premiers fire back in trade war",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYVp3b1lFbEZPY05VWnZWeHFQU1IxVjM1YllUOUZ3bGs3dlJROFdQbkkwRHhMMFJGeWNHSWI3WmRlMDdUSi1LY0ZlaTBSdVBIQ2c2aU41dnNQc0tfWUpwU013eVBTQ29fRi1NSVVETWN4S0ZKNXhjdUdMY18wVnlmMXJXQ3RhTzZWMEU1R3NHSFo0SlBZZnNtMVRzaUtIRGc1QU9YQUxxRklldnVwYlFEcVBxWmsyYUhD0gG-AUFVX3lxTE5waTZEbllaZHoxbHhtSjFjclJua0dKTHMtWjh0ajllVE9sU2VlaFIxdW9xV1hQVzVzQ24yQ1l0NVJTTHd3MHlPZnhTZnpiLXUyZWdFWWhKZXBqckZMYTF5NURsNWRiREd3bEZRQmRDckhYY1RSZmsxZUZyMGQ2b3FRSE1SQU16Qm55V2N5RkJZZW93VVZGVFdqTTdGandmVWpVbjVtbzAwcUhidGJyMGtyRjliNVo1TVIxZHJBQlE?oc=5",
-          "domain": "aljazeera.com",
+          "id": "report-bca9aa55f76b",
+          "title": "Myanmar military strike kills 14 people at a Buddhist monastery, opposition group says",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaTJMQldGVEJ4Q1d2MXVWY19QaV9aUmJEWTVvb0JNT3p1TzNuYUF1cnlpOWxpMWJTNzM2el9GVVkwSEtvUlZtaEZod28yR2tGMno4Z0lfX0QxR3RpS3hTQ29kd1padGZIRU5qZ2ZTTVkzVks4QjhZdGZmRXpMSHBUYkI5WElsTE94N0hVUl9NNFZRYWc0SHdyWTFFcjR1WGtNa0cw?oc=5",
+          "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-23T03:53:03Z"
+          "reportedAt": "2026-08-21T15:31:00Z"
         },
         {
           "id": "report-d7504fa9a98b",
