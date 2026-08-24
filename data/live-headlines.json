@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-24T13:12:34.079Z",
+  "generatedAt": "2026-08-24T16:17:28.639Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -9,7 +9,7 @@
       "items": []
     },
     "safety": {
-      "generatedAt": "2026-08-23T16:41:07.636Z",
+      "generatedAt": "2026-08-24T16:17:28.639Z",
       "cadence": "daily",
       "items": [
         {
@@ -21,27 +21,11 @@
           "pinned": true
         },
         {
-          "title": "Marine Corps MV-22 Osprey suffers engine fire during Air Force training exercise",
-          "url": "https://www.militarytimes.com/news/your-military/2026/07/21/marine-corps-mv-22-osprey-suffers-engine-fire-during-air-force-training-exercise/",
-          "domain": "militarytimes.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260721T174800Z",
-          "pinned": false
-        },
-        {
-          "title": "Navy suspends search after MH-60S helicopter mishap; one Sailor missing",
-          "url": "https://www.navy.mil/Press-Office/Statements/display-statement/Article/4533332/us-navy-suspended-active-search-for-a-sailor-assigned-to-helicopter-sea-combat/",
-          "domain": "navy.mil",
-          "sourceTier": "Official military source",
-          "seen": "20260705T150000Z",
-          "pinned": false
-        },
-        {
-          "title": "Navy conducts safety review after Blue Angels low-altitude flyover",
-          "url": "https://apnews.com/article/hegseth-blue-angels-military-flyovers-safety-c2601ce50f433996c919464f1de7985c",
+          "title": "Hungarian air force Gripen jet crashes, pilot ejects safely, prime minister says",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUDllbUZsT3lnVmRfVU96WkJqV1V6TDRya1d4U2g1TGxTWjcwTjZvMjdGbVA3MHo2S3NmZEdzc08wLUJvZHhHV091d2pQUmVlb0Uwdi03cGZtX3haQXRBcHNnUlNvemluMV85MmNkQW1PejNhYWp1NDR5a2VDa1ZtNWxSUEVyZktsN2t3NXUzRllrNXhFQ2t4T0Nyd08?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260716T220900Z",
+          "seen": "20260824T095500Z",
           "pinned": false
         },
         {
@@ -61,35 +45,11 @@
           "pinned": false
         },
         {
-          "title": "Body cam footage shows Marine after ejecting from F-18: ‘Hey buddy, I just crashed’",
+          "title": "'I just crashed’ — New footage shows Marine after F-18 ejection",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ENC16amhkbmlxTnRKbi1lalU4Yjh5T1I0UWpURTBXeVNpWldicVc2Yl81OHJxYlJBWTNzM2p3M1RxVlV0QzNMX0RkQkpMallpSFdHc1hYeVlSTzNMSzBqRVVRM0VqYjVVLVpSbzhlY0tCNElDVFo2ag?oc=5",
           "domain": "taskandpurpose.com",
           "sourceTier": "Independent reporting",
           "seen": "20260818T202702Z",
-          "pinned": false
-        },
-        {
-          "title": "Army temporarily grounds training flights of Apache helicopters after Fort Hood crash",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQXhDSWw2RXFuekdlTGpxNEF6NFY4UnNoSVBlS3l3eWZhQ09KZHZOSV9zUTlEREVaQnRGaVhYWW9Sell4cTc2UjJNd3FlZGJnTWI1WV9zeV9aRnhzSHkyZ2NRN2RJMU5mRGVZWTRLRFNZd1BfeUhpX2VicnZsRzNLTWJ0dWNDUTlqX2RNN2dJM1JYV2VMSmt2QkpzTFRPdHBxYmFHZTFUM0tHdzlJRmhF?oc=5",
-          "domain": "stripes.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260814T213808Z",
-          "pinned": false
-        },
-        {
-          "title": "Army identifies soldiers killed in Texas Apache helicopter crash",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZTU84TkwxQ3Vad0x3TlFfMFlxa1dnQUdEcHRRZ1A5ZGhXV1VoeUdBTk1lS1RmdmVTLS11RUNNcmdaNXdSZ0FFcEdzS3ZLc3d6Q1IzeEZXR2lYN21yQmpZeFN5NjRBT1JnZGJtVVY1T2M3THE5c2cw?oc=5",
-          "domain": "taskandpurpose.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260814T125012Z",
-          "pinned": false
-        },
-        {
-          "title": "Army grounds Apache helicopter training flights after deadly Fort Hood crash",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4zM2dvVmRQZVdBazNrdU9ER3dKbm9BY1pXaV9jLXJGWW0wbHlsZGpiSy1ObFBMM0ZPRGlQQkpXSFpzYVpFU28xdGVFeGlyUzhScEk1MXZOc0kyNXVpZ0RleGtxRk1MYTRjcXZRYmxWWnhCMUx5Q0taMQ?oc=5",
-          "domain": "taskandpurpose.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260814T221617Z",
           "pinned": false
         },
         {
@@ -98,14 +58,6 @@
           "domain": "safety.army.mil",
           "sourceTier": "Official military source",
           "seen": "20260812T204821Z",
-          "pinned": false
-        },
-        {
-          "title": "PLR 26-057 – Aviation Mishap Claims Two Soldiers’ Lives",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdFRicUQybFQ3QXBsdWdxWTNKcWkwcjJVV0xmV09NWFMxcjNILTdkbjFKcXhOLUJBVXktWWhUd0ZKLWo2WVF0ZXdDRDBBN2ZrbmJWNGMyT1ZGbUVOTWV6U2NrRHM5bnNJOUloaWowR2dLZF9LY3o4bEw4U2hVN3Vqb05wV1hqVW1oWWxNemJqekticjdHSENJNXJXa1FocDFGZHd4TnFyWDBKQUE2a2ZOaFN2amljS0F0SDdrTGg2TWhfX1JxVlV3WUJCeDdsZjF4d0Y1c1hqN21PMmpCUFE?oc=5",
-          "domain": "safety.army.mil",
-          "sourceTier": "Official military source",
-          "seen": "20260819T203445Z",
           "pinned": false
         },
         {
@@ -122,14 +74,6 @@
           "domain": "safety.army.mil",
           "sourceTier": "Official military source",
           "seen": "20260823T090700Z",
-          "pinned": false
-        },
-        {
-          "title": "Army Apache helicopter crash in Texas kills 2 crew members aboard",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wZ2dndl9pV01FamMxRXhBVDlXcGpMUkdWM2hvV2NCM2NPSTVmaU5UN1B1eXBFMUg1TFdZdllRaF9md0R1VloweGhxX2FSQnNETl95SjllemFBMm1rVllXQnhLZldOSHM?oc=5",
-          "domain": "taskandpurpose.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260812T070000Z",
           "pinned": false
         },
         {
@@ -157,23 +101,41 @@
           "pinned": false
         },
         {
-          "title": "PLR 26-026 – Industrial/Occupational Mishap Claims One Soldier's Life",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVFBVWXBUbHd4ZjZrRUxIczczNkR4bVNBNGYxNElhdGU5WkRvaFJCMEQ0RFg0NXJCcUdiUkNZU3RCc3lJaDR1UWlDME1aOXBZNlFLY21IaGh4cmlJMTVzekVkN3VPcjdYcklvZjdsYmxLcEZZdF8zOFFQeEgwT0lXNDVLRE5semZ1cnE3dDBobmpWUWZ4TkZ2X1ZwYllMYlphbG5aLU1PTkpnZW0tbS1OQWEwQ0RiTUV1OG1ILVhfNnM1SUltUG5sYTBISFJtT0F5ZFRzaUdyZUdVQ09UY0lKTQ?oc=5",
-          "domain": "safety.army.mil",
+          "title": "Coast Guard Conducting Investigation to Fatal Incident near Liberty Island",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPR1BTQU9ETXY3djdvaDJZNTdhWkk0TFhiUUdQc1BBQ2R2bEtaRHFpTnF0RGJWSVhnZlBXUkFsQ0hKSDJLRE45emtlUEpjRlRBUHhYaHpLOEZZYUk3WWMxdHBMelFHRm1PMzhJeWVFUDd6UU5VN1k4cGphRkhiclZrUjZwMUVOdHJrM0lXTkpVQkdTTHBablBlWlhiVEpYRk5WLVhWcnBaQTdtUlljRkhxdXA0NmFtSk5fVG5jWF9IU3Y3OVB6cmdZblZ3RGo?oc=5",
+          "domain": "news.uscg.mil",
           "sourceTier": "Official military source",
-          "seen": "20260421T070000Z",
+          "seen": "20260809T070000Z",
           "pinned": false
         },
         {
-          "title": "PMV-4 Mishap Claims One Soldier’s Life",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRjhXYklOd3VPRVpkNjRLQ1ZVcGtLcnFyOGRTMWsyNzhGcnpXTEVZVXdtdndILWNyOWhRbjlhN3dyb0FNVGtwVEJnSmhGU09LQTZxOGwwWlpQS3VOX2F6LUVZQ0tpOHh1X19rQ244VXZNMXd1SzRFcEtBN2ZmSEowODVFUWEzNlk?oc=5",
-          "domain": "safety.army.mil",
+          "title": "Update: Coast Guard suspends search for missing man in Lake Erie",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeEhCZEd6eGRpc1RvV0lkYWlmczdfQkF2SjV4LUtIbVpHR1E0TjB0cm9qWVo0SThxa2N3RVdmRjctNENoZm9lU3NTNmhPUWVtdWRjV0M1SERDWXgzdGNORWdUM1BrM1hzcXpYd3g4dF85cVFrWUFPQjBUTXdtLWRJemIzN0c0RXZORnVPS21OQUVzTy1UX3NhMkhpNkRJNTNiVU9yTHY3ZFFLMmNRSkJQTGdfal9neEV6VE01REh3?oc=5",
+          "domain": "news.uscg.mil",
           "sourceTier": "Official military source",
-          "seen": "20240318T070000Z",
+          "seen": "20260813T070000Z",
           "pinned": false
         }
       ],
       "incidents": [
+        {
+          "id": "auto-6436abbe493a",
+          "reportDate": "2026-08-24",
+          "dateBasis": "report discovery date",
+          "branch": "Air Force",
+          "department": "Department of the Air Force",
+          "type": "Aviation",
+          "event": "Hungarian air force Gripen jet crashes, pilot ejects safely, prime minister says",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUDllbUZsT3lnVmRfVU96WkJqV1V6TDRya1d4U2g1TGxTWjcwTjZvMjdGbVA3MHo2S3NmZEdzc08wLUJvZHhHV091d2pQUmVlb0Uwdi03cGZtX3haQXRBcHNnUlNvemluMV85MmNkQW1PejNhYWp1NDR5a2VDa1ZtNWxSUEVyZktsN2t3NXUzRllrNXhFQ2t4T0Nyd08?oc=5",
+          "sourceLabel": "apnews.com"
+        },
         {
           "id": "auto-5511f2d1a34c",
           "reportDate": "2026-08-23",
@@ -247,24 +209,6 @@
           "sourceLabel": "apnews.com"
         },
         {
-          "id": "auto-38a9d74e2a4d",
-          "reportDate": "2026-08-19",
-          "dateBasis": "report discovery date",
-          "branch": "Army",
-          "department": "Department of the Army",
-          "type": "Aviation",
-          "event": "PLR 26-057 – Aviation Mishap Claims Two Soldiers’ Lives",
-          "location": "See official source",
-          "fatalities": null,
-          "injuries": null,
-          "status": "OFFICIAL INTAKE",
-          "signalClass": "REPORTED MISHAP",
-          "sourceTier": "Official military source",
-          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
-          "source": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdFRicUQybFQ3QXBsdWdxWTNKcWkwcjJVV0xmV09NWFMxcjNILTdkbjFKcXhOLUJBVXktWWhUd0ZKLWo2WVF0ZXdDRDBBN2ZrbmJWNGMyT1ZGbUVOTWV6U2NrRHM5bnNJOUloaWowR2dLZF9LY3o4bEw4U2hVN3Vqb05wV1hqVW1oWWxNemJqekticjdHSENJNXJXa1FocDFGZHd4TnFyWDBKQUE2a2ZOaFN2amljS0F0SDdrTGg2TWhfX1JxVlV3WUJCeDdsZjF4d0Y1c1hqN21PMmpCUFE?oc=5",
-          "sourceLabel": "safety.army.mil"
-        },
-        {
           "id": "auto-0666b0008475",
           "reportDate": "2026-08-19",
           "dateBasis": "report discovery date",
@@ -283,13 +227,31 @@
           "sourceLabel": "stripes.com"
         },
         {
+          "id": "auto-38a9d74e2a4d",
+          "reportDate": "2026-08-19",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Aviation",
+          "event": "PLR 26-057 – Aviation Mishap Claims Two Soldiers’ Lives",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "OFFICIAL INTAKE",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Official military source",
+          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
+          "source": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdFRicUQybFQ3QXBsdWdxWTNKcWkwcjJVV0xmV09NWFMxcjNILTdkbjFKcXhOLUJBVXktWWhUd0ZKLWo2WVF0ZXdDRDBBN2ZrbmJWNGMyT1ZGbUVOTWV6U2NrRHM5bnNJOUloaWowR2dLZF9LY3o4bEw4U2hVN3Vqb05wV1hqVW1oWWxNemJqekticjdHSENJNXJXa1FocDFGZHd4TnFyWDBKQUE2a2ZOaFN2amljS0F0SDdrTGg2TWhfX1JxVlV3WUJCeDdsZjF4d0Y1c1hqN21PMmpCUFE?oc=5",
+          "sourceLabel": "safety.army.mil"
+        },
+        {
           "id": "auto-9157f0e3a28a",
           "reportDate": "2026-08-18",
           "dateBasis": "report discovery date",
           "branch": "Marine Corps",
           "department": "Department of the Navy",
           "type": "Aviation",
-          "event": "Body cam footage shows Marine after ejecting from F-18: ‘Hey buddy, I just crashed’",
+          "event": "'I just crashed’ — New footage shows Marine after F-18 ejection",
           "location": "See official source",
           "fatalities": null,
           "injuries": null,
