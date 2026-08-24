@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-24T01:58:57.569Z",
+  "generatedAt": "2026-08-24T07:20:42.077Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-08-24T01:58:57.569Z",
+      "generatedAt": "2026-08-24T07:20:42.077Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -1095,7 +1095,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-08-24T01:58:57.569Z",
+      "generatedAt": "2026-08-24T07:20:42.077Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -1139,6 +1139,14 @@
           "pinned": false
         },
         {
+          "title": "Iran warns of retaliation against countries joining US ‘economic war’",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORlFYOHBOWnRTWC00UkQ2U2FBWWJYRXFNT2NXUXJla1pNU1JFTzJZX1dsOGVvVGJLdEItUlBHUHlrMkJJSE1lS0gxSGIzTTR5T0F3RkRfbGNhalRQV3dsQ3dHbEx4OS1yOG9ldjAtamVWVUpnZHNyekhLYVdMRWpaa1k3a1ExdDFheHYzMGVrWDFmczktdHpjOXNnX0pkSVFVZzBKcnNLTEhxQdIBrwFBVV95cUxQT3VjZlFtdm1HYzhhQmZyZ05QWXAxUFJFc2J3d2NiSWRtbVFmWUhXSk9qNmF3dHotQmhJWm9aakxEcDkwb2cydU5KclJ2WlpYODhmZTFaZENuVmdiVWdicU4xdHBMaGIxcXY5VFk2RG1SZld2WkhWeGp5TlN0TjdVWWpOYmtSZllhQzZRMzduby1CWGJNdkRPM3g2MmJGSnJaWnBkWVpMZVA3YS1pYy1v?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260823T054403Z",
+          "pinned": false
+        },
+        {
           "title": "Can Iran retaliate against countries that join US ‘economic war’?",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObTd4NEFUNFNoTGljajhvWHNHYkF3ZkNjSFUxLWNaQnpYWnZkTTJUZnF5VXI4Y0QyMHRWbU9nYVRPTjNWbTdBWHBnenZ4MzVUdTROZEVLcm9LNmIwSU04U20weXdBd0ItQ09aZ2ZwMEJPWG9EemI4dGMyQ25mQWl2bTR0WkR3TVpoSjMycXp1a21DUHpVNFNEaHNfUHhnTEhlWEpHVlR30gGrAUFVX3lxTFBtNHFnMmFyQ2F2MlpwN0daZ2laV0p5eHhVYjlZZWVwUU11MGRwV3F0VUo0S19VeTIxaWZ5d3BiUWZwZlBlZExPNFA0clh6YU9rTGRCcmVhU2lmMEFCZGRBOFBMYUFFNW5rcHd4Wlh6SHBBTndjZ0hvQlR3TmhWZkZFdElsQkhsLTFLQmd2Sk1BM1FrVWRpcGJPQmc1V1FCN3h3bEZsc2FZLUREMA?oc=5",
           "domain": "aljazeera.com",
@@ -1151,7 +1159,7 @@
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTFZQdTRIMXVabHVfUTNldG4yeGlBSWlHNTFsNUt4WktQeHBuT1RzUUxVT3NZMTQ4ampFeFMtQVhVUDN4bXZXVWlzWXY5LTBEVTI1d29obi03ZGd2dTB6WG0zRGtsa3llaHhtVlVnRjFKYW4tOGpubG1qSWp6NWZfNG5WUVlpeGdjc0s0ck5GM0F3eWs?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260822T194300Z",
+          "seen": "20260822T034336Z",
           "pinned": false
         },
         {
@@ -1179,14 +1187,6 @@
           "pinned": false
         },
         {
-          "title": "Myanmar military bombing kills 14 at Buddhist monastery, opposition reports",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWmdSZ19OZkdoS2QwZ2VRZGlGejZ3VVd6UGlTYTltakxyeUQtRFdma2w3dzRwY2swdElxaWZvZ2pyVGttZ3lxeXRScTJ2anhoVU1NMjlGcjJGLVo0NTFpM0hyRjFqbTlVQjUyUElNd2FlVXBQd2NTZGhSeTJuUFlJRExEb3h1cTk0NUtCS2RfNW13aHd4bWFjWGFtRXpCanVfaExBcDFiZGxwb3p5dmdjaGVpX3dlZ9IBuwFBVV95cUxNemFQcG5TdldRUVFwWjZCOUVqT0hNeUw3WXhzWFQxZWl0LVpFSGZyUUdtcFA4TGFBQzY2dENWTnltZnRSMEs0UFlqeE05VHZEN0d3dDdZYjZTenhDTVl4OXVuSDk5WHhtSXA1cmlobTlkVmRmSGdLaHlyWEhZaDJVRlRET3JhaDAza3JHV2RWSWdVc2lCaUFPbkNFYjVwZVZNRHFVNWxFcHlyRUkzaktQRUJ3U0VZcEJRM2Y0?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260821T235653Z",
-          "pinned": false
-        },
-        {
           "title": "Myanmar military strike kills 14 people at a Buddhist monastery, opposition group says",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaTJMQldGVEJ4Q1d2MXVWY19QaV9aUmJEWTVvb0JNT3p1TzNuYUF1cnlpOWxpMWJTNzM2el9GVVkwSEtvUlZtaEZod28yR2tGMno4Z0lfX0QxR3RpS3hTQ29kd1padGZIRU5qZ2ZTTVkzVks4QjhZdGZmRXpMSHBUYkI5WElsTE94N0hVUl9NNFZRYWc0SHdyWTFFcjR1WGtNa0cw?oc=5",
           "domain": "apnews.com",
@@ -1203,19 +1203,27 @@
           "pinned": false
         },
         {
-          "title": "Russian drones kill 15 people at a shopping mall in a central Ukrainian city, officials say",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNDhjUUItSEFEc3plVmVWdEdUQk95RXJmeWFRQmpWdlZlUjVwWE1DcGhhQXhoYk5fRkhCU0RWbklwdC1FUnlmTF9KZGN2VkhJSXpsNUo5Vkc0UFFOMmxCZ2xHZzN2YVFfUWVzV3VjTzJHX1g0aWtIa2JIeU1vS3hYbGZjblA?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260821T190100Z",
-          "pinned": false
-        },
-        {
           "title": "A US envoy says Israel did not give a warning to the US ahead of a recent Syria air strike",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMTRPSG42N2hfX1hDV0FtOUxMeXdvNVM5WUhwRmtDYVR1VnZQc3BCYnBWU0YyWG1VNFdSZ3NZMDVJYTY5dHpLSHFTZUM3WjR3MEM4VDdaNVp3X1JVU0drSGVJNS1FQ0lma19hc0htaG9BbktsaTMtM09GVDRHU25jMDdtTHA5M2ZXMkFvOTl2V3RqMlMzZHAzcEJJTVk?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "seen": "20260822T163200Z",
+          "pinned": false
+        },
+        {
+          "title": "Pakistan’s army chief Munir returns to Iran: Can he break US war deadlock?",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNY0lXa0lXbGMzcVFOSjljdDNQNTY4Zkg1WFJlVlY2VFJCT0FtbjR3STdaZTBfMFdiNkhpN3UxLXBTUXR1SHpFNGlSMy1YVmRBNDdYTTBuVlFOTDRJTHBZVlZ3RUFCRkwwNkFWT3hMTGEzWmFtVVFKNGt6WXBVLXQ2UUYtSGt5YmJhUTlHYzNMUzhpZUQ3UUtSYXl2a3NnRjhQMFo5cnZpV084bTdEdnNDMmt30gG3AUFVX3lxTE00UV80TGVvWWZwbkRyNWpIUklTcUxuWkNWSUp1bjRPYU1adDFZZXhQYTBMMTBjOUZQSkdDRjl4TGptT3g4Y3U4UnRxOXBmREluNEtGX3hUdDVZMFhIUFdUSE81d0tpdE84Vmp5Sm50Z1lPM2dxei1iQWFNa3RtZkJMNXdSS1AyRzBXNHczamVpUWNjTFJMNXV2aWNNM0w0NXBVWVJvY3VhR1pnRWFhSF94ZnFnUWMxcw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260824T063539Z",
+          "pinned": false
+        },
+        {
+          "title": "Russian drones kill 15 people at a shopping mall in a central Ukrainian city, officials say",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNDhjUUItSEFEc3plVmVWdEdUQk95RXJmeWFRQmpWdlZlUjVwWE1DcGhhQXhoYk5fRkhCU0RWbklwdC1FUnlmTF9KZGN2VkhJSXpsNUo5Vkc0UFFOMmxCZ2xHZzN2YVFfUWVzV3VjTzJHX1g0aWtIa2JIeU1vS3hYbGZjblA?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260821T190100Z",
           "pinned": false
         },
         {
@@ -1239,15 +1247,7 @@
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVURpSFQ4WnVGVmZkQzdrYS1FTUVNdHRIREZWYU1iek1RV24tNjlINGRZSHU3bElZSFBHVHFTQklmdXRlaGk2eWFoM2NUWWVRTGkzbjdxM1FkTXFpM0hDOTBXaDZsQXFZZEJLcGtLai16ZjZHQmtpcVhLOG1Yc2dpSzJQSi1ObWNIT2xMbkwxQmxha0RmV0ZfNWFwQjFpeFNJ?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260822T075835Z",
-          "pinned": false
-        },
-        {
-          "title": "Iran warns of retaliation against countries joining US ‘economic war’",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORlFYOHBOWnRTWC00UkQ2U2FBWWJYRXFNT2NXUXJla1pNU1JFTzJZX1dsOGVvVGJLdEItUlBHUHlrMkJJSE1lS0gxSGIzTTR5T0F3RkRfbGNhalRQV3dsQ3dHbEx4OS1yOG9ldjAtamVWVUpnZHNyekhLYVdMRWpaa1k3a1ExdDFheHYzMGVrWDFmczktdHpjOXNnX0pkSVFVZzBKcnNLTEhxQdIBrwFBVV95cUxQT3VjZlFtdm1HYzhhQmZyZ05QWXAxUFJFc2J3d2NiSWRtbVFmWUhXSk9qNmF3dHotQmhJWm9aakxEcDkwb2cydU5KclJ2WlpYODhmZTFaZENuVmdiVWdicU4xdHBMaGIxcXY5VFk2RG1SZld2WkhWeGp5TlN0TjdVWWpOYmtSZllhQzZRMzduby1CWGJNdkRPM3g2MmJGSnJaWnBkWVpMZVA3YS1pYy1v?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260823T054403Z",
+          "seen": "20260822T164100Z",
           "pinned": false
         },
         {
@@ -1259,19 +1259,19 @@
           "pinned": false
         },
         {
-          "title": "The Suez Crisis stopped the British Empire. Will Hormuz defeat the US?",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPX1ZER0dfMnY5ZDgzSldyRy1DbGliWnZTODVRelgyeGtKT21INWJXTWZkaU1admYzODdZeWc1R0tFMXdOT0UwQU1JWXF4V0FIdzFmRHJzckpkeElhTWRKLVd4Yl9aaUNmTjdfWVFmcVhZdzYyaGFydzhheEZaN2ZTVEU0MDh1OE5sUVpuTUVzeHBadXhfWUtUd2d2ZTFya1Y2VkM3V294eWd6RFVBSk14MQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260823T074628Z",
-          "pinned": false
-        },
-        {
           "title": "Trump has ‘run out of options’ in Iran war: Stephen Walt",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRHczSUMzMHZrU2pQN2ZtZU5mc0loLTNFVmVDTmZNRnR4U0tGV2VueTRGTEZEQjZMRHhxNmRMX042M0RFNjJRbFhGaGh5ZDFfcTBZWWwtbGUzdWlEVE0yYXZSREZ3SFhPT3pCMnA2N2Z0TTFFcXpqd2xDY09SX3l2dVpCMVV3OGloTC1RdVFMTWFPdUhKVzNWZVVLWUNzV1hPMnBQZWlUQnh2Mi1zLXEzUdIBtgFBVV95cUxNOXVBdDluNERJWVRwOWxmR1lMb0w5TXlUQTl3NENNU0pTRTRHY21PWnhYOFFBbDVmMnR1WFhrWmJET0pCWndjemszeXhVMEl6VjVvUVVRay1pdVd2cGpiRlpULVFqLUhabUZlTDVnTDM4aF9EOFhNcnRIbTQ5U0dzc1dxbVF6WmJkcTluOTVpMFpTdFhFUjhqd2FpeWdjcUNKSm9wTlZlVlZaYWtwcDZ3RjdVVnNzUQ?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260823T183741Z",
+          "pinned": false
+        },
+        {
+          "title": "The Suez Crisis stopped the British Empire. Will Hormuz defeat the US?",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPX1ZER0dfMnY5ZDgzSldyRy1DbGliWnZTODVRelgyeGtKT21INWJXTWZkaU1admYzODdZeWc1R0tFMXdOT0UwQU1JWXF4V0FIdzFmRHJzckpkeElhTWRKLVd4Yl9aaUNmTjdfWVFmcVhZdzYyaGFydzhheEZaN2ZTVEU0MDh1OE5sUVpuTUVzeHBadXhfWUtUd2d2ZTFya1Y2VkM3V294eWd6RFVBSk14MQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260823T074628Z",
           "pinned": false
         },
         {
@@ -1338,6 +1338,15 @@
           "reportedAt": "2026-08-23T03:53:03Z"
         },
         {
+          "id": "report-e95878225d95",
+          "title": "Iran warns of retaliation against countries joining US ‘economic war’",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORlFYOHBOWnRTWC00UkQ2U2FBWWJYRXFNT2NXUXJla1pNU1JFTzJZX1dsOGVvVGJLdEItUlBHUHlrMkJJSE1lS0gxSGIzTTR5T0F3RkRfbGNhalRQV3dsQ3dHbEx4OS1yOG9ldjAtamVWVUpnZHNyekhLYVdMRWpaa1k3a1ExdDFheHYzMGVrWDFmczktdHpjOXNnX0pkSVFVZzBKcnNLTEhxQdIBrwFBVV95cUxQT3VjZlFtdm1HYzhhQmZyZ05QWXAxUFJFc2J3d2NiSWRtbVFmWUhXSk9qNmF3dHotQmhJWm9aakxEcDkwb2cydU5KclJ2WlpYODhmZTFaZENuVmdiVWdicU4xdHBMaGIxcXY5VFk2RG1SZld2WkhWeGp5TlN0TjdVWWpOYmtSZllhQzZRMzduby1CWGJNdkRPM3g2MmJGSnJaWnBkWVpMZVA3YS1pYy1v?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-23T05:44:03Z"
+        },
+        {
           "id": "report-57de3ba67233",
           "title": "Can Iran retaliate against countries that join US ‘economic war’?",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObTd4NEFUNFNoTGljajhvWHNHYkF3ZkNjSFUxLWNaQnpYWnZkTTJUZnF5VXI4Y0QyMHRWbU9nYVRPTjNWbTdBWHBnenZ4MzVUdTROZEVLcm9LNmIwSU04U20weXdBd0ItQ09aZ2ZwMEJPWG9EemI4dGMyQ25mQWl2bTR0WkR3TVpoSjMycXp1a21DUHpVNFNEaHNfUHhnTEhlWEpHVlR30gGrAUFVX3lxTFBtNHFnMmFyQ2F2MlpwN0daZ2laV0p5eHhVYjlZZWVwUU11MGRwV3F0VUo0S19VeTIxaWZ5d3BiUWZwZlBlZExPNFA0clh6YU9rTGRCcmVhU2lmMEFCZGRBOFBMYUFFNW5rcHd4Wlh6SHBBTndjZ0hvQlR3TmhWZkZFdElsQkhsLTFLQmd2Sk1BM1FrVWRpcGJPQmc1V1FCN3h3bEZsc2FZLUREMA?oc=5",
@@ -1353,7 +1362,7 @@
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-22T19:43:00Z"
+          "reportedAt": "2026-08-22T03:43:36Z"
         },
         {
           "id": "report-434225ad9e11",
@@ -1383,15 +1392,6 @@
           "reportedAt": "2026-08-21T09:06:00Z"
         },
         {
-          "id": "report-00529df01f8b",
-          "title": "Myanmar military bombing kills 14 at Buddhist monastery, opposition reports",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWmdSZ19OZkdoS2QwZ2VRZGlGejZ3VVd6UGlTYTltakxyeUQtRFdma2w3dzRwY2swdElxaWZvZ2pyVGttZ3lxeXRScTJ2anhoVU1NMjlGcjJGLVo0NTFpM0hyRjFqbTlVQjUyUElNd2FlVXBQd2NTZGhSeTJuUFlJRExEb3h1cTk0NUtCS2RfNW13aHd4bWFjWGFtRXpCanVfaExBcDFiZGxwb3p5dmdjaGVpX3dlZ9IBuwFBVV95cUxNemFQcG5TdldRUVFwWjZCOUVqT0hNeUw3WXhzWFQxZWl0LVpFSGZyUUdtcFA4TGFBQzY2dENWTnltZnRSMEs0UFlqeE05VHZEN0d3dDdZYjZTenhDTVl4OXVuSDk5WHhtSXA1cmlobTlkVmRmSGdLaHlyWEhZaDJVRlRET3JhaDAza3JHV2RWSWdVc2lCaUFPbkNFYjVwZVZNRHFVNWxFcHlyRUkzaktQRUJ3U0VZcEJRM2Y0?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-21T23:56:53Z"
-        },
-        {
           "id": "report-bca9aa55f76b",
           "title": "Myanmar military strike kills 14 people at a Buddhist monastery, opposition group says",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaTJMQldGVEJ4Q1d2MXVWY19QaV9aUmJEWTVvb0JNT3p1TzNuYUF1cnlpOWxpMWJTNzM2el9GVVkwSEtvUlZtaEZod28yR2tGMno4Z0lfX0QxR3RpS3hTQ29kd1padGZIRU5qZ2ZTTVkzVks4QjhZdGZmRXpMSHBUYkI5WElsTE94N0hVUl9NNFZRYWc0SHdyWTFFcjR1WGtNa0cw?oc=5",
@@ -1410,15 +1410,6 @@
           "reportedAt": "2026-08-21T15:16:49Z"
         },
         {
-          "id": "report-8b157d0861b7",
-          "title": "Russian drones kill 15 people at a shopping mall in a central Ukrainian city, officials say",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNDhjUUItSEFEc3plVmVWdEdUQk95RXJmeWFRQmpWdlZlUjVwWE1DcGhhQXhoYk5fRkhCU0RWbklwdC1FUnlmTF9KZGN2VkhJSXpsNUo5Vkc0UFFOMmxCZ2xHZzN2YVFfUWVzV3VjTzJHX1g0aWtIa2JIeU1vS3hYbGZjblA?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-21T19:01:00Z"
-        },
-        {
           "id": "report-bfc0c9ce3dec",
           "title": "A US envoy says Israel did not give a warning to the US ahead of a recent Syria air strike",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMTRPSG42N2hfX1hDV0FtOUxMeXdvNVM5WUhwRmtDYVR1VnZQc3BCYnBWU0YyWG1VNFdSZ3NZMDVJYTY5dHpLSHFTZUM3WjR3MEM4VDdaNVp3X1JVU0drSGVJNS1FQ0lma19hc0htaG9BbktsaTMtM09GVDRHU25jMDdtTHA5M2ZXMkFvOTl2V3RqMlMzZHAzcEJJTVk?oc=5",
@@ -1426,6 +1417,24 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-22T16:32:00Z"
+        },
+        {
+          "id": "report-e1052f029bb0",
+          "title": "Pakistan’s army chief Munir returns to Iran: Can he break US war deadlock?",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNY0lXa0lXbGMzcVFOSjljdDNQNTY4Zkg1WFJlVlY2VFJCT0FtbjR3STdaZTBfMFdiNkhpN3UxLXBTUXR1SHpFNGlSMy1YVmRBNDdYTTBuVlFOTDRJTHBZVlZ3RUFCRkwwNkFWT3hMTGEzWmFtVVFKNGt6WXBVLXQ2UUYtSGt5YmJhUTlHYzNMUzhpZUQ3UUtSYXl2a3NnRjhQMFo5cnZpV084bTdEdnNDMmt30gG3AUFVX3lxTE00UV80TGVvWWZwbkRyNWpIUklTcUxuWkNWSUp1bjRPYU1adDFZZXhQYTBMMTBjOUZQSkdDRjl4TGptT3g4Y3U4UnRxOXBmREluNEtGX3hUdDVZMFhIUFdUSE81d0tpdE84Vmp5Sm50Z1lPM2dxei1iQWFNa3RtZkJMNXdSS1AyRzBXNHczamVpUWNjTFJMNXV2aWNNM0w0NXBVWVJvY3VhR1pnRWFhSF94ZnFnUWMxcw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-24T06:35:39Z"
+        },
+        {
+          "id": "report-8b157d0861b7",
+          "title": "Russian drones kill 15 people at a shopping mall in a central Ukrainian city, officials say",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNDhjUUItSEFEc3plVmVWdEdUQk95RXJmeWFRQmpWdlZlUjVwWE1DcGhhQXhoYk5fRkhCU0RWbklwdC1FUnlmTF9KZGN2VkhJSXpsNUo5Vkc0UFFOMmxCZ2xHZzN2YVFfUWVzV3VjTzJHX1g0aWtIa2JIeU1vS3hYbGZjblA?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-21T19:01:00Z"
         },
         {
           "id": "report-e442827feced",
@@ -1452,16 +1461,7 @@
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-22T07:58:35Z"
-        },
-        {
-          "id": "report-e95878225d95",
-          "title": "Iran warns of retaliation against countries joining US ‘economic war’",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORlFYOHBOWnRTWC00UkQ2U2FBWWJYRXFNT2NXUXJla1pNU1JFTzJZX1dsOGVvVGJLdEItUlBHUHlrMkJJSE1lS0gxSGIzTTR5T0F3RkRfbGNhalRQV3dsQ3dHbEx4OS1yOG9ldjAtamVWVUpnZHNyekhLYVdMRWpaa1k3a1ExdDFheHYzMGVrWDFmczktdHpjOXNnX0pkSVFVZzBKcnNLTEhxQdIBrwFBVV95cUxQT3VjZlFtdm1HYzhhQmZyZ05QWXAxUFJFc2J3d2NiSWRtbVFmWUhXSk9qNmF3dHotQmhJWm9aakxEcDkwb2cydU5KclJ2WlpYODhmZTFaZENuVmdiVWdicU4xdHBMaGIxcXY5VFk2RG1SZld2WkhWeGp5TlN0TjdVWWpOYmtSZllhQzZRMzduby1CWGJNdkRPM3g2MmJGSnJaWnBkWVpMZVA3YS1pYy1v?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-23T05:44:03Z"
+          "reportedAt": "2026-08-22T16:41:00Z"
         },
         {
           "id": "report-a7bc6dbf7ba1",
@@ -1473,15 +1473,6 @@
           "reportedAt": "2026-08-22T14:31:57Z"
         },
         {
-          "id": "report-c7d950df39b8",
-          "title": "The Suez Crisis stopped the British Empire. Will Hormuz defeat the US?",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPX1ZER0dfMnY5ZDgzSldyRy1DbGliWnZTODVRelgyeGtKT21INWJXTWZkaU1admYzODdZeWc1R0tFMXdOT0UwQU1JWXF4V0FIdzFmRHJzckpkeElhTWRKLVd4Yl9aaUNmTjdfWVFmcVhZdzYyaGFydzhheEZaN2ZTVEU0MDh1OE5sUVpuTUVzeHBadXhfWUtUd2d2ZTFya1Y2VkM3V294eWd6RFVBSk14MQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-23T07:46:28Z"
-        },
-        {
           "id": "report-22de2c164db0",
           "title": "Trump has ‘run out of options’ in Iran war: Stephen Walt",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRHczSUMzMHZrU2pQN2ZtZU5mc0loLTNFVmVDTmZNRnR4U0tGV2VueTRGTEZEQjZMRHhxNmRMX042M0RFNjJRbFhGaGh5ZDFfcTBZWWwtbGUzdWlEVE0yYXZSREZ3SFhPT3pCMnA2N2Z0TTFFcXpqd2xDY09SX3l2dVpCMVV3OGloTC1RdVFMTWFPdUhKVzNWZVVLWUNzV1hPMnBQZWlUQnh2Mi1zLXEzUdIBtgFBVV95cUxNOXVBdDluNERJWVRwOWxmR1lMb0w5TXlUQTl3NENNU0pTRTRHY21PWnhYOFFBbDVmMnR1WFhrWmJET0pCWndjemszeXhVMEl6VjVvUVVRay1pdVd2cGpiRlpULVFqLUhabUZlTDVnTDM4aF9EOFhNcnRIbTQ5U0dzc1dxbVF6WmJkcTluOTVpMFpTdFhFUjhqd2FpeWdjcUNKSm9wTlZlVlZaYWtwcDZ3RjdVVnNzUQ?oc=5",
@@ -1489,6 +1480,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-23T18:37:41Z"
+        },
+        {
+          "id": "report-c7d950df39b8",
+          "title": "The Suez Crisis stopped the British Empire. Will Hormuz defeat the US?",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPX1ZER0dfMnY5ZDgzSldyRy1DbGliWnZTODVRelgyeGtKT21INWJXTWZkaU1admYzODdZeWc1R0tFMXdOT0UwQU1JWXF4V0FIdzFmRHJzckpkeElhTWRKLVd4Yl9aaUNmTjdfWVFmcVhZdzYyaGFydzhheEZaN2ZTVEU0MDh1OE5sUVpuTUVzeHBadXhfWUtUd2d2ZTFya1Y2VkM3V294eWd6RFVBSk14MQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-23T07:46:28Z"
         },
         {
           "id": "report-adc4ec754718",
