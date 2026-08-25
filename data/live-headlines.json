@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-25T16:19:48.971Z",
+  "generatedAt": "2026-08-25T18:58:35.378Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-08-25T13:12:46.524Z",
+      "generatedAt": "2026-08-25T18:58:35.378Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -1075,9 +1075,17 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-08-25T13:12:46.524Z",
+      "generatedAt": "2026-08-25T18:58:35.378Z",
       "cadence": "every 6 hours",
       "items": [
+        {
+          "title": "Iran official says support for new sanctions would be an 'act of war,' and other Middle East news",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaHdQUFYyOHpTM3RqRFRpLVhoaDJZNVdRZFhqS3pDRHpkSlJ2VUxPaG0wUVN0WWpwQWphNzFGUFM0SHpHZTh4QW04cllJRTJsRWRCMWpSLTFpUS1TR0Q0elNabDVMcC1Iek1hZHFEN3hUeG5Rc2xHYTM5RnVzdGFDUDR1ME5KYWNYX08zcTNpa0stN0E5R2FpY09sSXdvV1FkV0kxa3I4LWQwT0gy?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260823T200200Z",
+          "pinned": false
+        },
         {
           "title": "Pezeshkian says Iran ‘has not become Venezuela’ despite war and sanctions",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSGVEN3o0M1dLMVJTbk5ILW1qRFR4V3AwUXc2eFFMVWVkTV90MU05ay0xNXU3ME45N1Rta29YelhzdUZvMy1kMDdObnpvM2JzRXJRUHU0RTIyQkhYa2t4RWNtNWFYT1NJVHRQYUk0a3A0d0ZqTmw4TjNWWWRycXp0SVpHVEV6UVU1Mkxz0gGQAUFVX3lxTE1XRVJuRGd1OE5tOThZZXFOOTBsa2YwYWQ4cEM2Yk1ZN1YwUjdwcU5ZaXBpN2UwNGdGWnFpNzExcU1QNWQ2S21aX3Q3ZkhGMTU1SHBCeThCbGNSNk1ZOFptc2V1ZXFPak93QkxhRmhQc1JCcF8yRkhkbFdGeUQ0MDZRQ0NodF9iclo1VHVXRVc5aw?oc=5",
@@ -1167,6 +1175,14 @@
           "pinned": false
         },
         {
+          "title": "Popcorn and cartoons: A Gaza cinema gives girls a brief escape from war",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQVNrbVJfNW5ibzdKcFJKQWxPbVNpYTNJTmVORWR0UnhDZjYyNnhycjVzWlB5eVJuY0ZwMUNjbkZHbms3WjZYOGlObjZaRkpCcldybVdUY1pEUC1ua0xuY0RmMXp0U09KSElvMVE2aU5lTzFNWEY3SFF2cWNGSnEwSExWZXdESHd5MlhHOHRadnJSLUlzeWd4VkN1LU5PYjgxdF83Z0dQaUZWWVdoSjkyeUpOMGpGd9IBuwFBVV95cUxOMmhWSEpsYWVRdGdlSVdWX1dZenlFT2dTbTlJdU9aQ1V2bTZYcld1RWpJREhDV09ZTHFiOWlFeC1IbEp1cTVRZ0RMRDlGY082UkF3enBEVTdOWVVNU2VySjcwbUJTTGEwSFRvMUQ2ZTR4dVlYakhReEdOS2huRkhfMWVDeHQ0NHAxRTVOSDNBeGFIVjl6bjZodVBBNDV2UTYzZm9VUVZWYzhYSW5Cc25lcS1tbFBfTnU5djV3?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260825T133337Z",
+          "pinned": false
+        },
+        {
           "title": "Russia, Ukraine trade attacks as Putin warns of ‘far more destructive’ hits",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNal9uaHZjam43VTFQbXJnMWRNXzdnbU9Hdmp2S2kxTWlJZkZRYUV4SEVveGFQZzlabExEbzJlOTUwWUp6NFdXTWQ2b0w5di1ZT21uSkUtTkwwS2swNmlSeTllMUVKX3UxV3BPbWw0QVQ2d21GWWJVMzFnNVFoYmhVTlpHNmcxMGtwS0hfSUVBUFIwb3RpZjFNWkxsWENJU191RTBJb0FnRVd2SWZiX2RWRHJqdDNVUdIBuwFBVV95cUxNWk5xalpfektySTBjNlprcWZJWXQ4RXh4R0tQSW1NT2Y2YUlZTGNkeGdWbWs4c3ZyMWR2d19MNHFaSmM4OFZ5djNISURtTFJkX3VRMUdkWkJYQi1QWnA3aG4zVUxaYUhGRnFFbGQ2ODMwSXEyNmg0NUplZ3VFOUNTV1lXZ0gweFBIRDJCeE5aNWZJTjFYa18xWkxXZkI1WjJyOU9TX2s3YlZOSnF3VXpRVVd1Mzd1aG1uNUdn?oc=5",
           "domain": "aljazeera.com",
@@ -1199,14 +1215,6 @@
           "pinned": false
         },
         {
-          "title": "The Suez Crisis stopped the British Empire. Will Hormuz defeat the US?",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPX1ZER0dfMnY5ZDgzSldyRy1DbGliWnZTODVRelgyeGtKT21INWJXTWZkaU1admYzODdZeWc1R0tFMXdOT0UwQU1JWXF4V0FIdzFmRHJzckpkeElhTWRKLVd4Yl9aaUNmTjdfWVFmcVhZdzYyaGFydzhheEZaN2ZTVEU0MDh1OE5sUVpuTUVzeHBadXhfWUtUd2d2ZTFya1Y2VkM3V294eWd6RFVBSk14MQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260823T074628Z",
-          "pinned": false
-        },
-        {
           "title": "South Korea says US cancelled upcoming joint marine exercises over Iran war",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWWZVN1NJSUEtMDZZWTdKWnEyb3dUd3ptM2kwbGYwd1VOSE1QX3RvMDhIcGJkOWhKUUoxdkRpTVNraXBDMlpYTWhzV25sSG90NUlUMGRocTFxMW41QXRZYTExd1VvbjhJdHI4eUY4YU84eUxRcHpKQVJNa3B6aW9YVEdnM1AzUm1tS2ZzYTJrMFVsTkFSZ18xM25GSW1TbGxUclhsQ1lGcVVOdktrY0hMZEFndVJQLWfSAbwBQVVfeXFMT2pLM2tzZkh0Q1NaZEp4MFJNYVh6dzNOTFlNN1NGbmhFcUUwczR3NW9INFBlVFV1NTBTQXhndjJzNmhZMmVoNlRNWlJoX2FJcWlwQm5MRUstUzcwRFd1UjZXa19selZ0VHhKbnpoZHhUSV83dnpBNUxTS0tQemE0aHFENXRFY1FjODlzWmJYd29aUUJNbi05UE5nRnFNcVo0c3dkdm5SMnh5Q0lfTlNwcC1SaTBhOHY4OUxfNGs?oc=5",
           "domain": "aljazeera.com",
@@ -1223,19 +1231,19 @@
           "pinned": false
         },
         {
+          "title": "Ceasefire monitoring mission arrives in Democratic Republic of Congo",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPV2pEbDZBS2Y4RmlYSnNObkRSMUtmWTc0T0tIREhTY1BJLTQ4aTkxRFFUcHhRelI1TmhkbzNYMXg5SnctTUUzRXZSS1hMQV81Yi16WFZ5QkpmdnhtOExEcmN5d2pDVXZ0M3ZFeGRPYmlscnYxYUdJRnJxSUpvMHVnU0g4ZTZmWktDMkxJMEUteFNfekJ0UzNqQmswVmZqUlY1eWFabXJmMWNiZTR4QlHSAbMBQVVfeXFMT3g5VkR1eEpxcW9BX2x0RThuNEVlNTBzaW40LWpBUUtITFNvWEZHQTJDdVVJTVpmNFVWaU5QNU15bTBRQ0ZjNE43TE4wTkxMTmJibldKN2dsNWRRRFFvWUFQYmJtNDd0OWJQVDNKeVIxdDJwdjRmX0xhUnFZVElkb1I1cjZ2NVp2THlwUTVyRXhvSmwxRWNzYzNZT28wc0U4dUM3VS0zZW5DRTlPS2V4czNZcjA?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260824T211125Z",
+          "pinned": false
+        },
+        {
           "title": "Can Trump's economic war ultimately force Iran to compromise? - Al-Monitor",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQ2lBS3VJaV9KN2twdV9Oa2R6bFlJSmttU0p5c2dUZnFlOGdXb1pYckpzY2thZ2J4OTBuQkpEei03NFQ4VjdsSE9rbXF5X05vQjJIY3AtdGJXZGJXcUthd2FLUURieUdXTEo3cDNSVk8zeUVrUTVDM1c1SDJNMG5fNHdsTmR2X01rSk1pTXhnQmV5dk03SFdaMkxUbUctUEV3V3pZ?oc=5",
           "domain": "al-monitor.com",
           "sourceTier": "Regional reporting",
           "seen": "20260822T084449Z",
-          "pinned": false
-        },
-        {
-          "title": "How much more are you spending on petrol since the war on Iran began?",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRlRHcXJZQ3lkUXFmTE9nZGh0VVdEbkxSd0dja1luT2F2LWkzaWRzSHR2LWM0Y2FvUFROelozX0Z6YUxGb2dMd2dYWnp0eTFwcTFQdGUwMUZJOWVxWUMwa0Q3S1BVNjFVbEpSNVlUZGZDSW5BOHFsRFlNZkJ4VmVGWkFQN1BEUkhvY19aVGpKb3VVbl9sQjVBb05LLVpDdUc2eks0d0hhZ1FCT3JaY1HSAbMBQVVfeXFMTW5VN0ZFYUw2SS00SmNvSzRuRVh2Um5fR3pnVUdSSUM1bGZGOEsyUHFUNFBJb3J1QlQ2aDk4TmNvWmVKRWYtRnlBZFQ5OU1kaF9BZ1BPVHZRY3NRbktMZHFEek9QbW90RGJTUUJvcFNJSTJ6bHdXQnl3MzNjeGxuNUI4dnN1czFjdHhDRDlCd3BKSEhQaWdVejB4Vjl6UG9XVE01RndKNVgzQU15SV9lMHREeTg?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260824T073007Z",
           "pinned": false
         },
         {
@@ -1255,23 +1263,24 @@
           "pinned": false
         },
         {
-          "title": "Israel accused of using kites as pretext to justify escalating Gaza attacks",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVEhWU0NaVEhEU3FjQVlod1E4QmlWakJJMVh4bkk5cko5WjRJaVdkcXBKYTBFNXo4bTJRTFh5MnhzMmlWc2lweWxmZk5PLU5rTHZ2SVVlRGFBN2ZsNkF1VHcwMm1Ub0NiSVV4NVk4ZlpycHozNzlIWE1RVmFhUmM0cGFCbXpuc3JFdTYwNTVKUG1qQ0UyVERRTFFnTnlGUVpoRVpEejZpaWlWWU5VdEktXzlpdHduMjjSAbwBQVVfeXFMUFpQcFFhVTNacHhQTzhmcnd0UjBxZHBSRkczTEFvcDRwNmVPQWN6M3JlQUlSdGNQaDNOU3hCZ2NxdW9veUY4NV9EVURWVWVMeEtZa0ZWaUdNZG10dTJ0XzAxWHZEUHg3RXhpZGhzRmJJVVdBVnJJakhDdHdkU3F1TnZPLVdxUVZJaV83MHg3VG91S0E4Ry1tZ3F0X1haajBlbHdpRVlRM3AzaWhPTXNndXhEOTZ0Y0lrTmdIMGI?oc=5",
+          "title": "How much more are you spending on petrol since the war on Iran began?",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRlRHcXJZQ3lkUXFmTE9nZGh0VVdEbkxSd0dja1luT2F2LWkzaWRzSHR2LWM0Y2FvUFROelozX0Z6YUxGb2dMd2dYWnp0eTFwcTFQdGUwMUZJOWVxWUMwa0Q3S1BVNjFVbEpSNVlUZGZDSW5BOHFsRFlNZkJ4VmVGWkFQN1BEUkhvY19aVGpKb3VVbl9sQjVBb05LLVpDdUc2eks0d0hhZ1FCT3JaY1HSAbMBQVVfeXFMTW5VN0ZFYUw2SS00SmNvSzRuRVh2Um5fR3pnVUdSSUM1bGZGOEsyUHFUNFBJb3J1QlQ2aDk4TmNvWmVKRWYtRnlBZFQ5OU1kaF9BZ1BPVHZRY3NRbktMZHFEek9QbW90RGJTUUJvcFNJSTJ6bHdXQnl3MzNjeGxuNUI4dnN1czFjdHhDRDlCd3BKSEhQaWdVejB4Vjl6UG9XVE01RndKNVgzQU15SV9lMHREeTg?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260824T120826Z",
-          "pinned": false
-        },
-        {
-          "title": "Ceasefire monitoring mission arrives in Democratic Republic of Congo",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPV2pEbDZBS2Y4RmlYSnNObkRSMUtmWTc0T0tIREhTY1BJLTQ4aTkxRFFUcHhRelI1TmhkbzNYMXg5SnctTUUzRXZSS1hMQV81Yi16WFZ5QkpmdnhtOExEcmN5d2pDVXZ0M3ZFeGRPYmlscnYxYUdJRnJxSUpvMHVnU0g4ZTZmWktDMkxJMEUteFNfekJ0UzNqQmswVmZqUlY1eWFabXJmMWNiZTR4QlHSAbMBQVVfeXFMT3g5VkR1eEpxcW9BX2x0RThuNEVlNTBzaW40LWpBUUtITFNvWEZHQTJDdVVJTVpmNFVWaU5QNU15bTBRQ0ZjNE43TE4wTkxMTmJibldKN2dsNWRRRFFvWUFQYmJtNDd0OWJQVDNKeVIxdDJwdjRmX0xhUnFZVElkb1I1cjZ2NVp2THlwUTVyRXhvSmwxRWNzYzNZT28wc0U4dUM3VS0zZW5DRTlPS2V4czNZcjA?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260824T211125Z",
+          "seen": "20260824T073007Z",
           "pinned": false
         }
       ],
       "reports": [
+        {
+          "id": "report-a0982169fbf4",
+          "title": "Iran official says support for new sanctions would be an 'act of war,' and other Middle East news",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaHdQUFYyOHpTM3RqRFRpLVhoaDJZNVdRZFhqS3pDRHpkSlJ2VUxPaG0wUVN0WWpwQWphNzFGUFM0SHpHZTh4QW04cllJRTJsRWRCMWpSLTFpUS1TR0Q0elNabDVMcC1Iek1hZHFEN3hUeG5Rc2xHYTM5RnVzdGFDUDR1ME5KYWNYX08zcTNpa0stN0E5R2FpY09sSXdvV1FkV0kxa3I4LWQwT0gy?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-23T20:02:00Z"
+        },
         {
           "id": "report-d76081078b9c",
           "title": "Pezeshkian says Iran ‘has not become Venezuela’ despite war and sanctions",
@@ -1372,6 +1381,15 @@
           "reportedAt": "2026-08-22T18:31:00Z"
         },
         {
+          "id": "report-eca9610767a9",
+          "title": "Popcorn and cartoons: A Gaza cinema gives girls a brief escape from war",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQVNrbVJfNW5ibzdKcFJKQWxPbVNpYTNJTmVORWR0UnhDZjYyNnhycjVzWlB5eVJuY0ZwMUNjbkZHbms3WjZYOGlObjZaRkpCcldybVdUY1pEUC1ua0xuY0RmMXp0U09KSElvMVE2aU5lTzFNWEY3SFF2cWNGSnEwSExWZXdESHd5MlhHOHRadnJSLUlzeWd4VkN1LU5PYjgxdF83Z0dQaUZWWVdoSjkyeUpOMGpGd9IBuwFBVV95cUxOMmhWSEpsYWVRdGdlSVdWX1dZenlFT2dTbTlJdU9aQ1V2bTZYcld1RWpJREhDV09ZTHFiOWlFeC1IbEp1cTVRZ0RMRDlGY082UkF3enBEVTdOWVVNU2VySjcwbUJTTGEwSFRvMUQ2ZTR4dVlYakhReEdOS2huRkhfMWVDeHQ0NHAxRTVOSDNBeGFIVjl6bjZodVBBNDV2UTYzZm9VUVZWYzhYSW5Cc25lcS1tbFBfTnU5djV3?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-25T13:33:37Z"
+        },
+        {
           "id": "report-5bca886c747d",
           "title": "Russia, Ukraine trade attacks as Putin warns of ‘far more destructive’ hits",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNal9uaHZjam43VTFQbXJnMWRNXzdnbU9Hdmp2S2kxTWlJZkZRYUV4SEVveGFQZzlabExEbzJlOTUwWUp6NFdXTWQ2b0w5di1ZT21uSkUtTkwwS2swNmlSeTllMUVKX3UxV3BPbWw0QVQ2d21GWWJVMzFnNVFoYmhVTlpHNmcxMGtwS0hfSUVBUFIwb3RpZjFNWkxsWENJU191RTBJb0FnRVd2SWZiX2RWRHJqdDNVUdIBuwFBVV95cUxNWk5xalpfektySTBjNlprcWZJWXQ4RXh4R0tQSW1NT2Y2YUlZTGNkeGdWbWs4c3ZyMWR2d19MNHFaSmM4OFZ5djNISURtTFJkX3VRMUdkWkJYQi1QWnA3aG4zVUxaYUhGRnFFbGQ2ODMwSXEyNmg0NUplZ3VFOUNTV1lXZ0gweFBIRDJCeE5aNWZJTjFYa18xWkxXZkI1WjJyOU9TX2s3YlZOSnF3VXpRVVd1Mzd1aG1uNUdn?oc=5",
@@ -1408,15 +1426,6 @@
           "reportedAt": "2026-08-23T18:37:41Z"
         },
         {
-          "id": "report-c7d950df39b8",
-          "title": "The Suez Crisis stopped the British Empire. Will Hormuz defeat the US?",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPX1ZER0dfMnY5ZDgzSldyRy1DbGliWnZTODVRelgyeGtKT21INWJXTWZkaU1admYzODdZeWc1R0tFMXdOT0UwQU1JWXF4V0FIdzFmRHJzckpkeElhTWRKLVd4Yl9aaUNmTjdfWVFmcVhZdzYyaGFydzhheEZaN2ZTVEU0MDh1OE5sUVpuTUVzeHBadXhfWUtUd2d2ZTFya1Y2VkM3V294eWd6RFVBSk14MQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-23T07:46:28Z"
-        },
-        {
           "id": "report-d04dd70346a0",
           "title": "South Korea says US cancelled upcoming joint marine exercises over Iran war",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWWZVN1NJSUEtMDZZWTdKWnEyb3dUd3ptM2kwbGYwd1VOSE1QX3RvMDhIcGJkOWhKUUoxdkRpTVNraXBDMlpYTWhzV25sSG90NUlUMGRocTFxMW41QXRZYTExd1VvbjhJdHI4eUY4YU84eUxRcHpKQVJNa3B6aW9YVEdnM1AzUm1tS2ZzYTJrMFVsTkFSZ18xM25GSW1TbGxUclhsQ1lGcVVOdktrY0hMZEFndVJQLWfSAbwBQVVfeXFMT2pLM2tzZkh0Q1NaZEp4MFJNYVh6dzNOTFlNN1NGbmhFcUUwczR3NW9INFBlVFV1NTBTQXhndjJzNmhZMmVoNlRNWlJoX2FJcWlwQm5MRUstUzcwRFd1UjZXa19selZ0VHhKbnpoZHhUSV83dnpBNUxTS0tQemE0aHFENXRFY1FjODlzWmJYd29aUUJNbi05UE5nRnFNcVo0c3dkdm5SMnh5Q0lfTlNwcC1SaTBhOHY4OUxfNGs?oc=5",
@@ -1435,6 +1444,15 @@
           "reportedAt": "2026-08-22T14:31:57Z"
         },
         {
+          "id": "report-cf45d24a5d68",
+          "title": "Ceasefire monitoring mission arrives in Democratic Republic of Congo",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPV2pEbDZBS2Y4RmlYSnNObkRSMUtmWTc0T0tIREhTY1BJLTQ4aTkxRFFUcHhRelI1TmhkbzNYMXg5SnctTUUzRXZSS1hMQV81Yi16WFZ5QkpmdnhtOExEcmN5d2pDVXZ0M3ZFeGRPYmlscnYxYUdJRnJxSUpvMHVnU0g4ZTZmWktDMkxJMEUteFNfekJ0UzNqQmswVmZqUlY1eWFabXJmMWNiZTR4QlHSAbMBQVVfeXFMT3g5VkR1eEpxcW9BX2x0RThuNEVlNTBzaW40LWpBUUtITFNvWEZHQTJDdVVJTVpmNFVWaU5QNU15bTBRQ0ZjNE43TE4wTkxMTmJibldKN2dsNWRRRFFvWUFQYmJtNDd0OWJQVDNKeVIxdDJwdjRmX0xhUnFZVElkb1I1cjZ2NVp2THlwUTVyRXhvSmwxRWNzYzNZT28wc0U4dUM3VS0zZW5DRTlPS2V4czNZcjA?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-24T21:11:25Z"
+        },
+        {
           "id": "report-9e5fde3f7726",
           "title": "Can Trump's economic war ultimately force Iran to compromise? - Al-Monitor",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQ2lBS3VJaV9KN2twdV9Oa2R6bFlJSmttU0p5c2dUZnFlOGdXb1pYckpzY2thZ2J4OTBuQkpEei03NFQ4VjdsSE9rbXF5X05vQjJIY3AtdGJXZGJXcUthd2FLUURieUdXTEo3cDNSVk8zeUVrUTVDM1c1SDJNMG5fNHdsTmR2X01rSk1pTXhnQmV5dk03SFdaMkxUbUctUEV3V3pZ?oc=5",
@@ -1442,15 +1460,6 @@
           "sourceTier": "Regional reporting",
           "confidenceLabel": "REGIONAL REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-22T08:44:49Z"
-        },
-        {
-          "id": "report-be7f4facb863",
-          "title": "How much more are you spending on petrol since the war on Iran began?",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRlRHcXJZQ3lkUXFmTE9nZGh0VVdEbkxSd0dja1luT2F2LWkzaWRzSHR2LWM0Y2FvUFROelozX0Z6YUxGb2dMd2dYWnp0eTFwcTFQdGUwMUZJOWVxWUMwa0Q3S1BVNjFVbEpSNVlUZGZDSW5BOHFsRFlNZkJ4VmVGWkFQN1BEUkhvY19aVGpKb3VVbl9sQjVBb05LLVpDdUc2eks0d0hhZ1FCT3JaY1HSAbMBQVVfeXFMTW5VN0ZFYUw2SS00SmNvSzRuRVh2Um5fR3pnVUdSSUM1bGZGOEsyUHFUNFBJb3J1QlQ2aDk4TmNvWmVKRWYtRnlBZFQ5OU1kaF9BZ1BPVHZRY3NRbktMZHFEek9QbW90RGJTUUJvcFNJSTJ6bHdXQnl3MzNjeGxuNUI4dnN1czFjdHhDRDlCd3BKSEhQaWdVejB4Vjl6UG9XVE01RndKNVgzQU15SV9lMHREeTg?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-24T07:30:07Z"
         },
         {
           "id": "report-57b9f52f79d6",
@@ -1471,22 +1480,13 @@
           "reportedAt": "2026-08-25T10:25:40Z"
         },
         {
-          "id": "report-11a57e0d9099",
-          "title": "Israel accused of using kites as pretext to justify escalating Gaza attacks",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVEhWU0NaVEhEU3FjQVlod1E4QmlWakJJMVh4bkk5cko5WjRJaVdkcXBKYTBFNXo4bTJRTFh5MnhzMmlWc2lweWxmZk5PLU5rTHZ2SVVlRGFBN2ZsNkF1VHcwMm1Ub0NiSVV4NVk4ZlpycHozNzlIWE1RVmFhUmM0cGFCbXpuc3JFdTYwNTVKUG1qQ0UyVERRTFFnTnlGUVpoRVpEejZpaWlWWU5VdEktXzlpdHduMjjSAbwBQVVfeXFMUFpQcFFhVTNacHhQTzhmcnd0UjBxZHBSRkczTEFvcDRwNmVPQWN6M3JlQUlSdGNQaDNOU3hCZ2NxdW9veUY4NV9EVURWVWVMeEtZa0ZWaUdNZG10dTJ0XzAxWHZEUHg3RXhpZGhzRmJJVVdBVnJJakhDdHdkU3F1TnZPLVdxUVZJaV83MHg3VG91S0E4Ry1tZ3F0X1haajBlbHdpRVlRM3AzaWhPTXNndXhEOTZ0Y0lrTmdIMGI?oc=5",
+          "id": "report-be7f4facb863",
+          "title": "How much more are you spending on petrol since the war on Iran began?",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRlRHcXJZQ3lkUXFmTE9nZGh0VVdEbkxSd0dja1luT2F2LWkzaWRzSHR2LWM0Y2FvUFROelozX0Z6YUxGb2dMd2dYWnp0eTFwcTFQdGUwMUZJOWVxWUMwa0Q3S1BVNjFVbEpSNVlUZGZDSW5BOHFsRFlNZkJ4VmVGWkFQN1BEUkhvY19aVGpKb3VVbl9sQjVBb05LLVpDdUc2eks0d0hhZ1FCT3JaY1HSAbMBQVVfeXFMTW5VN0ZFYUw2SS00SmNvSzRuRVh2Um5fR3pnVUdSSUM1bGZGOEsyUHFUNFBJb3J1QlQ2aDk4TmNvWmVKRWYtRnlBZFQ5OU1kaF9BZ1BPVHZRY3NRbktMZHFEek9QbW90RGJTUUJvcFNJSTJ6bHdXQnl3MzNjeGxuNUI4dnN1czFjdHhDRDlCd3BKSEhQaWdVejB4Vjl6UG9XVE01RndKNVgzQU15SV9lMHREeTg?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-24T12:08:26Z"
-        },
-        {
-          "id": "report-cf45d24a5d68",
-          "title": "Ceasefire monitoring mission arrives in Democratic Republic of Congo",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPV2pEbDZBS2Y4RmlYSnNObkRSMUtmWTc0T0tIREhTY1BJLTQ4aTkxRFFUcHhRelI1TmhkbzNYMXg5SnctTUUzRXZSS1hMQV81Yi16WFZ5QkpmdnhtOExEcmN5d2pDVXZ0M3ZFeGRPYmlscnYxYUdJRnJxSUpvMHVnU0g4ZTZmWktDMkxJMEUteFNfekJ0UzNqQmswVmZqUlY1eWFabXJmMWNiZTR4QlHSAbMBQVVfeXFMT3g5VkR1eEpxcW9BX2x0RThuNEVlNTBzaW40LWpBUUtITFNvWEZHQTJDdVVJTVpmNFVWaU5QNU15bTBRQ0ZjNE43TE4wTkxMTmJibldKN2dsNWRRRFFvWUFQYmJtNDd0OWJQVDNKeVIxdDJwdjRmX0xhUnFZVElkb1I1cjZ2NVp2THlwUTVyRXhvSmwxRWNzYzNZT28wc0U4dUM3VS0zZW5DRTlPS2V4czNZcjA?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-24T21:11:25Z"
+          "reportedAt": "2026-08-24T07:30:07Z"
         },
         {
           "id": "report-372b096ff4db",
