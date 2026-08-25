@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-25T13:12:46.524Z",
+  "generatedAt": "2026-08-25T16:19:48.971Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -9,7 +9,7 @@
       "items": []
     },
     "safety": {
-      "generatedAt": "2026-08-24T16:17:28.639Z",
+      "generatedAt": "2026-08-25T16:19:48.971Z",
       "cadence": "daily",
       "items": [
         {
@@ -34,14 +34,6 @@
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "seen": "20260819T230500Z",
-          "pinned": false
-        },
-        {
-          "title": "Ukrainian Army Soldier Opens Up About US, Fighting Russia Since 2014, and Being 'Tired' of Missing Family",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPY21tZFdFNmlwbDNxQlZIZWtDRS1SNUNsOXVjNnBHUDg5M3ZIY0JwOWJ2NlRLamhudHozRlZBVkZkcVhDZXFUNzEzX28zRHVlalctWEkweWp6U1dqVmxsVGVCS2cyWGFqcW1WdlNGNldHX2J5U1Zia29ZVnZpWDNUU3VDS3lTaUdtbURsZlJ5X2xWOWR0LVY4WHd4VmRGOFdN?oc=5",
-          "domain": "military.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260820T090013Z",
           "pinned": false
         },
         {
@@ -74,6 +66,14 @@
           "domain": "safety.army.mil",
           "sourceTier": "Official military source",
           "seen": "20260823T090700Z",
+          "pinned": false
+        },
+        {
+          "title": "Air Force officer, 2 Army Corps of Engineers civilians among Alaska plane crash dead",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYWN2ZkJSSU15Ukg1b21aVmlMSmVyT0FFYnJLVjJJOW5BRnBzdzFadnBUUEprSDNEbzEzYVBOakRsYVRmdUN0YzZXc1llV0xVMklfRllWYVVJLVpnaVU3cU90aUlQY0RmQUtwYkFPdGpZMGNFd3FtN2pfdmpDclo4WGUyamVXN0phc1VWUU9JdzRDZHhUMVlnRE5FREt0U2JXVFhjSVplbWluZHB4T3RRbw?oc=5",
+          "domain": "stripes.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260825T100504Z",
           "pinned": false
         },
         {
@@ -118,6 +118,24 @@
         }
       ],
       "incidents": [
+        {
+          "id": "auto-7427334c6413",
+          "reportDate": "2026-08-25",
+          "dateBasis": "report discovery date",
+          "branch": "Air Force",
+          "department": "Department of the Air Force",
+          "type": "Aviation",
+          "event": "Air Force officer, 2 Army Corps of Engineers civilians among Alaska plane crash dead",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYWN2ZkJSSU15Ukg1b21aVmlMSmVyT0FFYnJLVjJJOW5BRnBzdzFadnBUUEprSDNEbzEzYVBOakRsYVRmdUN0YzZXc1llV0xVMklfRllWYVVJLVpnaVU3cU90aUlQY0RmQUtwYkFPdGpZMGNFd3FtN2pfdmpDclo4WGUyamVXN0phc1VWUU9JdzRDZHhUMVlnRE5FREt0U2JXVFhjSVplbWluZHB4T3RRbw?oc=5",
+          "sourceLabel": "stripes.com"
+        },
         {
           "id": "auto-6436abbe493a",
           "reportDate": "2026-08-24",
