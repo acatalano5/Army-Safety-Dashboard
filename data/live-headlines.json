@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-25T07:09:53.577Z",
+  "generatedAt": "2026-08-25T13:12:46.524Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-08-25T07:09:53.577Z",
+      "generatedAt": "2026-08-25T13:12:46.524Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -1057,17 +1057,9 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-08-25T07:09:53.577Z",
+      "generatedAt": "2026-08-25T13:12:46.524Z",
       "cadence": "every 6 hours",
       "items": [
-        {
-          "title": "Iran official says support for new sanctions would be an 'act of war,' and other Middle East news",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaHdQUFYyOHpTM3RqRFRpLVhoaDJZNVdRZFhqS3pDRHpkSlJ2VUxPaG0wUVN0WWpwQWphNzFGUFM0SHpHZTh4QW04cllJRTJsRWRCMWpSLTFpUS1TR0Q0elNabDVMcC1Iek1hZHFEN3hUeG5Rc2xHYTM5RnVzdGFDUDR1ME5KYWNYX08zcTNpa0stN0E5R2FpY09sSXdvV1FkV0kxa3I4LWQwT0gy?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260823T200200Z",
-          "pinned": false
-        },
         {
           "title": "Pezeshkian says Iran ‘has not become Venezuela’ despite war and sanctions",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSGVEN3o0M1dLMVJTbk5ILW1qRFR4V3AwUXc2eFFMVWVkTV90MU05ay0xNXU3ME45N1Rta29YelhzdUZvMy1kMDdObnpvM2JzRXJRUHU0RTIyQkhYa2t4RWNtNWFYT1NJVHRQYUk0a3A0d0ZqTmw4TjNWWWRycXp0SVpHVEV6UVU1Mkxz0gGQAUFVX3lxTE1XRVJuRGd1OE5tOThZZXFOOTBsa2YwYWQ4cEM2Yk1ZN1YwUjdwcU5ZaXBpN2UwNGdGWnFpNzExcU1QNWQ2S21aX3Q3ZkhGMTU1SHBCeThCbGNSNk1ZOFptc2V1ZXFPak93QkxhRmhQc1JCcF8yRkhkbFdGeUQ0MDZRQ0NodF9iclo1VHVXRVc5aw?oc=5",
@@ -1093,19 +1085,19 @@
           "pinned": false
         },
         {
-          "title": "Iran warns of retaliation against countries joining US ‘economic war’",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORlFYOHBOWnRTWC00UkQ2U2FBWWJYRXFNT2NXUXJla1pNU1JFTzJZX1dsOGVvVGJLdEItUlBHUHlrMkJJSE1lS0gxSGIzTTR5T0F3RkRfbGNhalRQV3dsQ3dHbEx4OS1yOG9ldjAtamVWVUpnZHNyekhLYVdMRWpaa1k3a1ExdDFheHYzMGVrWDFmczktdHpjOXNnX0pkSVFVZzBKcnNLTEhxQdIBrwFBVV95cUxQT3VjZlFtdm1HYzhhQmZyZ05QWXAxUFJFc2J3d2NiSWRtbVFmWUhXSk9qNmF3dHotQmhJWm9aakxEcDkwb2cydU5KclJ2WlpYODhmZTFaZENuVmdiVWdicU4xdHBMaGIxcXY5VFk2RG1SZld2WkhWeGp5TlN0TjdVWWpOYmtSZllhQzZRMzduby1CWGJNdkRPM3g2MmJGSnJaWnBkWVpMZVA3YS1pYy1v?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260823T054403Z",
-          "pinned": false
-        },
-        {
           "title": "US-Canada trade war heats up as Trump threatens to hike auto tariffs",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81UWcxQm1LSlMzSzdReXhpQ3VxUktlWlh1QTVLLThJVEduc1lWYVk1LWktNFhONkFTOEM0WG1CeGg5ZDczRlB2cmU1dGgyVzR4bFdIMTZTWnZPQQ?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20260825T025153Z",
+          "pinned": false
+        },
+        {
+          "title": "Iran warns of retaliation against countries joining US ‘economic war’",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORlFYOHBOWnRTWC00UkQ2U2FBWWJYRXFNT2NXUXJla1pNU1JFTzJZX1dsOGVvVGJLdEItUlBHUHlrMkJJSE1lS0gxSGIzTTR5T0F3RkRfbGNhalRQV3dsQ3dHbEx4OS1yOG9ldjAtamVWVUpnZHNyekhLYVdMRWpaa1k3a1ExdDFheHYzMGVrWDFmczktdHpjOXNnX0pkSVFVZzBKcnNLTEhxQdIBrwFBVV95cUxQT3VjZlFtdm1HYzhhQmZyZ05QWXAxUFJFc2J3d2NiSWRtbVFmWUhXSk9qNmF3dHotQmhJWm9aakxEcDkwb2cydU5KclJ2WlpYODhmZTFaZENuVmdiVWdicU4xdHBMaGIxcXY5VFk2RG1SZld2WkhWeGp5TlN0TjdVWWpOYmtSZllhQzZRMzduby1CWGJNdkRPM3g2MmJGSnJaWnBkWVpMZVA3YS1pYy1v?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260823T054403Z",
           "pinned": false
         },
         {
@@ -1165,6 +1157,14 @@
           "pinned": false
         },
         {
+          "title": "Israeli strikes hit water plant, warehouse in Gaza, killing at least seven",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZmNKejRmS1p6Yl9RQUp4NTlOVmNQWGJuVUo3VmR3Q29BMTZvR3lnLTVsOFdSYl8wUklIeE1tZWQ4U1VnaFVoOE1OLTRaNVRVTDhiWUFha0luYm1hZmtxZ0ttWlFPaTNoRjhNUWhET2diY2J4UUFmNmZsMFR5dWIzZXh2QkNyUG1kcFNnSDFHMEZacjFLblk3UNIBngFBVV95cUxNSE5nQWVHSm5DeFJRbjhXVXVxR292bEgyUHg5cHJ2d2o3TzluUmQ2dWVzTkNZQW94azE5Y0dSaTFXeEZkMlJuWlJJRWVqUWphLXpqdzJaX04xanJTbEUtcExhN0Q4OEVaZ05CTWM1U1BqRHpHSG1Pc1VSS0d6UzV0UzNMeVotbE5yTHQxZGhtZUNwSVZERnhsVy1yQzRqQQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260825T081334Z",
+          "pinned": false
+        },
+        {
           "title": "UK to help Ukraine build Storm Shadow long-range missiles: Why it matters",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVllyNmJZd09teXQ2LUlsZVBrSmFLbjF3MW1kc0JvbWxubGEwR1FBQXR3WjRrcldLOXFzMUJjSmFhczJYU1VRdFNNcnF5YnBjQWlzY0FmdmtjNXpBV3R5cW10dmtnY0w5XzltZDY0dDFTSnpmR2kySDFTcFkwaXFaMFhMN193WFB3ajE0VFZvSnh6MFUzckFFVjFScmhJRHprT245YmhfNTAwV1l1cUxEYW9DRdIBuAFBVV95cUxOTGNDUlBiX2VzOFNadVEtUW5UamdMTlcyZ2w1aGpJN3hIN1ZiZGd4RXJoT21iYlRmX3FKUXo2VlJwWk5iUHdEc1h2WHNKbjdLVTVoRXI1ZWhTZEllNnZfWWdUN3V0WXZsSkVxd2d5MktycEMtTGFLMk5xMzFGTk5QYTJaWlc1ZVZLTXNhUUtmRVRTU0xOMVRYOHBJWUZpdGROQXJZYVVjekd1SEZxclRtaE45QWxmLXVQ?oc=5",
           "domain": "aljazeera.com",
@@ -1213,11 +1213,27 @@
           "pinned": false
         },
         {
+          "title": "How much more are you spending on petrol since the war on Iran began?",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRlRHcXJZQ3lkUXFmTE9nZGh0VVdEbkxSd0dja1luT2F2LWkzaWRzSHR2LWM0Y2FvUFROelozX0Z6YUxGb2dMd2dYWnp0eTFwcTFQdGUwMUZJOWVxWUMwa0Q3S1BVNjFVbEpSNVlUZGZDSW5BOHFsRFlNZkJ4VmVGWkFQN1BEUkhvY19aVGpKb3VVbl9sQjVBb05LLVpDdUc2eks0d0hhZ1FCT3JaY1HSAbMBQVVfeXFMTW5VN0ZFYUw2SS00SmNvSzRuRVh2Um5fR3pnVUdSSUM1bGZGOEsyUHFUNFBJb3J1QlQ2aDk4TmNvWmVKRWYtRnlBZFQ5OU1kaF9BZ1BPVHZRY3NRbktMZHFEek9QbW90RGJTUUJvcFNJSTJ6bHdXQnl3MzNjeGxuNUI4dnN1czFjdHhDRDlCd3BKSEhQaWdVejB4Vjl6UG9XVE01RndKNVgzQU15SV9lMHREeTg?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260824T073007Z",
+          "pinned": false
+        },
+        {
           "title": "Iran in ‘full-scale war,' says President Pezeshkian",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbzZPOGR6bG9keVBJSWprVElLSlJCd3JaZDJWN2JhQTFrNko2YkNPVTV4Q201ejZnT056aHRIRXY0WndOODIxWnJoRXFlZE5XMDBzcVhWcnVGQkRsNWRvN1BTQTRxcFB3UXFmcUV3eUxQLTJQVlhuUTQ0RC1BTWFQYXhsR0hUNEx6YWhzV3A4cXZxNjRzRUtCaw?oc=5",
           "domain": "aa.com.tr",
           "sourceTier": "State-affiliated reporting",
           "seen": "20260823T074408Z",
+          "pinned": false
+        },
+        {
+          "title": "Can Pakistan’s Asim Munir convince Iran military chiefs to return to talks?",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOay1COUJiaHZoMmdiZ1ZXWFBhRE1FeThOWE1kY3NwaXQ4NUhVWGh6THJLUjNNTUFRTU5QQnJTMWZLU0VqMzRCMnVoM29vQ3RkaG5NV1p0RGZROG9WYk5xdXhaak8zemdzRENuUmlNTldrY2tqay12MjJyZnNzWm9DNkxsX1RGV1V6ZXhrSzVsV3dYeE5iNG5YSGZGTVl5aU1uRmQtVHc2N2Q4eDBmbDlBRXJ2ekvSAboBQVVfeXFMTTdiUmQwZ2NVZ2lXOWcyUTFnWDJBekpFaDVISGpkNmRHTHUtYkRNOEJLMjFZVUYtTnVPTWZObDk3eTJIWS03M01nZ18ydEpCX0dUdVFIX2JKbUxwTm9EeXlQZm5NUkV1ODlKNUNzT1JBU2piYzliTDRZT2liYXNXaXkzbXZfTXBMZWEyeTlIVHQ5S25ZLVQ5ampaLVcyMm1tY2h4ZzhaRjFGdVdza0xKS3JiOUJoX2lwTlF3?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260825T102540Z",
           "pinned": false
         },
         {
@@ -1235,34 +1251,9 @@
           "sourceTier": "Independent reporting",
           "seen": "20260824T211125Z",
           "pinned": false
-        },
-        {
-          "title": "Israel bombs Syria as US envoy says base attack aimed at ‘baiting’ Turkiye",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORTJLYU12dTBCT1NUYVlSQ3BrcTVRWFd6NUVLdnVpcmRoZURBd1dkM0JRd1NjY19faVBBYkhrQlpKUnVqRkFCMXRYbk5Hd0N0S291X2NSQ0RFVWgycHhWRGVXMGVJdk44cWdVbmUyNDNfeE45YnFVekdTSW5aanlEQVpWS052aUE4QklTaUNSQ3VETjdCNWZlNUFULUUtY1doWVdJbHAxMmdPUdIBrwFBVV95cUxNY09CbUtqTjdiUWl6R01LdVBqQXBEYVJ5RFI4UkdGNmMxT3NxX3VKUnQzZElkendCWFdsODJRcW04bVhtb20wZ0xvVERzOHY4bDFuOTJMWVpwd3I4ZmlCV2xnSVFJUHRzcEJWY0pCSGRPd3E2NmowU3dOTV9RbVRFdUhNdDRkNE9SMVVxR3J5andGR0N5S09YMUQ1TC1KS1JOelMzaWxkS1Y0V3pJTWtz?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260823T015601Z",
-          "pinned": false
-        },
-        {
-          "title": "Israeli strikes hit water plant, warehouse in Gaza, killing at least 6",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZmNKejRmS1p6Yl9RQUp4NTlOVmNQWGJuVUo3VmR3Q29BMTZvR3lnLTVsOFdSYl8wUklIeE1tZWQ4U1VnaFVoOE1OLTRaNVRVTDhiWUFha0luYm1hZmtxZ0ttWlFPaTNoRjhNUWhET2diY2J4UUFmNmZsMFR5dWIzZXh2QkNyUG1kcFNnSDFHMEZacjFLblk3UNIBngFBVV95cUxNSE5nQWVHSm5DeFJRbjhXVXVxR292bEgyUHg5cHJ2d2o3TzluUmQ2dWVzTkNZQW94azE5Y0dSaTFXeEZkMlJuWlJJRWVqUWphLXpqdzJaX04xanJTbEUtcExhN0Q4OEVaZ05CTWM1U1BqRHpHSG1Pc1VSS0d6UzV0UzNMeVotbE5yTHQxZGhtZUNwSVZERnhsVy1yQzRqQQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260824T163939Z",
-          "pinned": false
         }
       ],
       "reports": [
-        {
-          "id": "report-a0982169fbf4",
-          "title": "Iran official says support for new sanctions would be an 'act of war,' and other Middle East news",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaHdQUFYyOHpTM3RqRFRpLVhoaDJZNVdRZFhqS3pDRHpkSlJ2VUxPaG0wUVN0WWpwQWphNzFGUFM0SHpHZTh4QW04cllJRTJsRWRCMWpSLTFpUS1TR0Q0elNabDVMcC1Iek1hZHFEN3hUeG5Rc2xHYTM5RnVzdGFDUDR1ME5KYWNYX08zcTNpa0stN0E5R2FpY09sSXdvV1FkV0kxa3I4LWQwT0gy?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-23T20:02:00Z"
-        },
         {
           "id": "report-d76081078b9c",
           "title": "Pezeshkian says Iran ‘has not become Venezuela’ despite war and sanctions",
@@ -1291,15 +1282,6 @@
           "reportedAt": "2026-08-23T18:02:09Z"
         },
         {
-          "id": "report-e95878225d95",
-          "title": "Iran warns of retaliation against countries joining US ‘economic war’",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORlFYOHBOWnRTWC00UkQ2U2FBWWJYRXFNT2NXUXJla1pNU1JFTzJZX1dsOGVvVGJLdEItUlBHUHlrMkJJSE1lS0gxSGIzTTR5T0F3RkRfbGNhalRQV3dsQ3dHbEx4OS1yOG9ldjAtamVWVUpnZHNyekhLYVdMRWpaa1k3a1ExdDFheHYzMGVrWDFmczktdHpjOXNnX0pkSVFVZzBKcnNLTEhxQdIBrwFBVV95cUxQT3VjZlFtdm1HYzhhQmZyZ05QWXAxUFJFc2J3d2NiSWRtbVFmWUhXSk9qNmF3dHotQmhJWm9aakxEcDkwb2cydU5KclJ2WlpYODhmZTFaZENuVmdiVWdicU4xdHBMaGIxcXY5VFk2RG1SZld2WkhWeGp5TlN0TjdVWWpOYmtSZllhQzZRMzduby1CWGJNdkRPM3g2MmJGSnJaWnBkWVpMZVA3YS1pYy1v?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-23T05:44:03Z"
-        },
-        {
           "id": "report-717eddab19e0",
           "title": "US-Canada trade war heats up as Trump threatens to hike auto tariffs",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81UWcxQm1LSlMzSzdReXhpQ3VxUktlWlh1QTVLLThJVEduc1lWYVk1LWktNFhONkFTOEM0WG1CeGg5ZDczRlB2cmU1dGgyVzR4bFdIMTZTWnZPQQ?oc=5",
@@ -1307,6 +1289,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-25T02:51:53Z"
+        },
+        {
+          "id": "report-e95878225d95",
+          "title": "Iran warns of retaliation against countries joining US ‘economic war’",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORlFYOHBOWnRTWC00UkQ2U2FBWWJYRXFNT2NXUXJla1pNU1JFTzJZX1dsOGVvVGJLdEItUlBHUHlrMkJJSE1lS0gxSGIzTTR5T0F3RkRfbGNhalRQV3dsQ3dHbEx4OS1yOG9ldjAtamVWVUpnZHNyekhLYVdMRWpaa1k3a1ExdDFheHYzMGVrWDFmczktdHpjOXNnX0pkSVFVZzBKcnNLTEhxQdIBrwFBVV95cUxQT3VjZlFtdm1HYzhhQmZyZ05QWXAxUFJFc2J3d2NiSWRtbVFmWUhXSk9qNmF3dHotQmhJWm9aakxEcDkwb2cydU5KclJ2WlpYODhmZTFaZENuVmdiVWdicU4xdHBMaGIxcXY5VFk2RG1SZld2WkhWeGp5TlN0TjdVWWpOYmtSZllhQzZRMzduby1CWGJNdkRPM3g2MmJGSnJaWnBkWVpMZVA3YS1pYy1v?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-23T05:44:03Z"
         },
         {
           "id": "report-57de3ba67233",
@@ -1372,6 +1363,15 @@
           "reportedAt": "2026-08-22T22:00:04Z"
         },
         {
+          "id": "report-37f7ab9d659a",
+          "title": "Israeli strikes hit water plant, warehouse in Gaza, killing at least seven",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZmNKejRmS1p6Yl9RQUp4NTlOVmNQWGJuVUo3VmR3Q29BMTZvR3lnLTVsOFdSYl8wUklIeE1tZWQ4U1VnaFVoOE1OLTRaNVRVTDhiWUFha0luYm1hZmtxZ0ttWlFPaTNoRjhNUWhET2diY2J4UUFmNmZsMFR5dWIzZXh2QkNyUG1kcFNnSDFHMEZacjFLblk3UNIBngFBVV95cUxNSE5nQWVHSm5DeFJRbjhXVXVxR292bEgyUHg5cHJ2d2o3TzluUmQ2dWVzTkNZQW94azE5Y0dSaTFXeEZkMlJuWlJJRWVqUWphLXpqdzJaX04xanJTbEUtcExhN0Q4OEVaZ05CTWM1U1BqRHpHSG1Pc1VSS0d6UzV0UzNMeVotbE5yTHQxZGhtZUNwSVZERnhsVy1yQzRqQQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-25T08:13:34Z"
+        },
+        {
           "id": "report-e5c9c763ba06",
           "title": "UK to help Ukraine build Storm Shadow long-range missiles: Why it matters",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVllyNmJZd09teXQ2LUlsZVBrSmFLbjF3MW1kc0JvbWxubGEwR1FBQXR3WjRrcldLOXFzMUJjSmFhczJYU1VRdFNNcnF5YnBjQWlzY0FmdmtjNXpBV3R5cW10dmtnY0w5XzltZDY0dDFTSnpmR2kySDFTcFkwaXFaMFhMN193WFB3ajE0VFZvSnh6MFUzckFFVjFScmhJRHprT245YmhfNTAwV1l1cUxEYW9DRdIBuAFBVV95cUxOTGNDUlBiX2VzOFNadVEtUW5UamdMTlcyZ2w1aGpJN3hIN1ZiZGd4RXJoT21iYlRmX3FKUXo2VlJwWk5iUHdEc1h2WHNKbjdLVTVoRXI1ZWhTZEllNnZfWWdUN3V0WXZsSkVxd2d5MktycEMtTGFLMk5xMzFGTk5QYTJaWlc1ZVZLTXNhUUtmRVRTU0xOMVRYOHBJWUZpdGROQXJZYVVjekd1SEZxclRtaE45QWxmLXVQ?oc=5",
@@ -1426,6 +1426,15 @@
           "reportedAt": "2026-08-22T08:44:49Z"
         },
         {
+          "id": "report-be7f4facb863",
+          "title": "How much more are you spending on petrol since the war on Iran began?",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRlRHcXJZQ3lkUXFmTE9nZGh0VVdEbkxSd0dja1luT2F2LWkzaWRzSHR2LWM0Y2FvUFROelozX0Z6YUxGb2dMd2dYWnp0eTFwcTFQdGUwMUZJOWVxWUMwa0Q3S1BVNjFVbEpSNVlUZGZDSW5BOHFsRFlNZkJ4VmVGWkFQN1BEUkhvY19aVGpKb3VVbl9sQjVBb05LLVpDdUc2eks0d0hhZ1FCT3JaY1HSAbMBQVVfeXFMTW5VN0ZFYUw2SS00SmNvSzRuRVh2Um5fR3pnVUdSSUM1bGZGOEsyUHFUNFBJb3J1QlQ2aDk4TmNvWmVKRWYtRnlBZFQ5OU1kaF9BZ1BPVHZRY3NRbktMZHFEek9QbW90RGJTUUJvcFNJSTJ6bHdXQnl3MzNjeGxuNUI4dnN1czFjdHhDRDlCd3BKSEhQaWdVejB4Vjl6UG9XVE01RndKNVgzQU15SV9lMHREeTg?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-24T07:30:07Z"
+        },
+        {
           "id": "report-57b9f52f79d6",
           "title": "Iran in ‘full-scale war,' says President Pezeshkian",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbzZPOGR6bG9keVBJSWprVElLSlJCd3JaZDJWN2JhQTFrNko2YkNPVTV4Q201ejZnT056aHRIRXY0WndOODIxWnJoRXFlZE5XMDBzcVhWcnVGQkRsNWRvN1BTQTRxcFB3UXFmcUV3eUxQLTJQVlhuUTQ0RC1BTWFQYXhsR0hUNEx6YWhzV3A4cXZxNjRzRUtCaw?oc=5",
@@ -1433,6 +1442,15 @@
           "sourceTier": "State-affiliated reporting",
           "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
           "reportedAt": "2026-08-23T07:44:08Z"
+        },
+        {
+          "id": "report-5e4a56e99658",
+          "title": "Can Pakistan’s Asim Munir convince Iran military chiefs to return to talks?",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOay1COUJiaHZoMmdiZ1ZXWFBhRE1FeThOWE1kY3NwaXQ4NUhVWGh6THJLUjNNTUFRTU5QQnJTMWZLU0VqMzRCMnVoM29vQ3RkaG5NV1p0RGZROG9WYk5xdXhaak8zemdzRENuUmlNTldrY2tqay12MjJyZnNzWm9DNkxsX1RGV1V6ZXhrSzVsV3dYeE5iNG5YSGZGTVl5aU1uRmQtVHc2N2Q4eDBmbDlBRXJ2ekvSAboBQVVfeXFMTTdiUmQwZ2NVZ2lXOWcyUTFnWDJBekpFaDVISGpkNmRHTHUtYkRNOEJLMjFZVUYtTnVPTWZObDk3eTJIWS03M01nZ18ydEpCX0dUdVFIX2JKbUxwTm9EeXlQZm5NUkV1ODlKNUNzT1JBU2piYzliTDRZT2liYXNXaXkzbXZfTXBMZWEyeTlIVHQ5S25ZLVQ5ampaLVcyMm1tY2h4ZzhaRjFGdVdza0xKS3JiOUJoX2lwTlF3?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-25T10:25:40Z"
         },
         {
           "id": "report-11a57e0d9099",
@@ -1451,24 +1469,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-24T21:11:25Z"
-        },
-        {
-          "id": "report-779dc77876bc",
-          "title": "Israel bombs Syria as US envoy says base attack aimed at ‘baiting’ Turkiye",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORTJLYU12dTBCT1NUYVlSQ3BrcTVRWFd6NUVLdnVpcmRoZURBd1dkM0JRd1NjY19faVBBYkhrQlpKUnVqRkFCMXRYbk5Hd0N0S291X2NSQ0RFVWgycHhWRGVXMGVJdk44cWdVbmUyNDNfeE45YnFVekdTSW5aanlEQVpWS052aUE4QklTaUNSQ3VETjdCNWZlNUFULUUtY1doWVdJbHAxMmdPUdIBrwFBVV95cUxNY09CbUtqTjdiUWl6R01LdVBqQXBEYVJ5RFI4UkdGNmMxT3NxX3VKUnQzZElkendCWFdsODJRcW04bVhtb20wZ0xvVERzOHY4bDFuOTJMWVpwd3I4ZmlCV2xnSVFJUHRzcEJWY0pCSGRPd3E2NmowU3dOTV9RbVRFdUhNdDRkNE9SMVVxR3J5andGR0N5S09YMUQ1TC1KS1JOelMzaWxkS1Y0V3pJTWtz?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-23T01:56:01Z"
-        },
-        {
-          "id": "report-37f7ab9d659a",
-          "title": "Israeli strikes hit water plant, warehouse in Gaza, killing at least 6",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZmNKejRmS1p6Yl9RQUp4NTlOVmNQWGJuVUo3VmR3Q29BMTZvR3lnLTVsOFdSYl8wUklIeE1tZWQ4U1VnaFVoOE1OLTRaNVRVTDhiWUFha0luYm1hZmtxZ0ttWlFPaTNoRjhNUWhET2diY2J4UUFmNmZsMFR5dWIzZXh2QkNyUG1kcFNnSDFHMEZacjFLblk3UNIBngFBVV95cUxNSE5nQWVHSm5DeFJRbjhXVXVxR292bEgyUHg5cHJ2d2o3TzluUmQ2dWVzTkNZQW94azE5Y0dSaTFXeEZkMlJuWlJJRWVqUWphLXpqdzJaX04xanJTbEUtcExhN0Q4OEVaZ05CTWM1U1BqRHpHSG1Pc1VSS0d6UzV0UzNMeVotbE5yTHQxZGhtZUNwSVZERnhsVy1yQzRqQQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-24T16:39:39Z"
         },
         {
           "id": "report-372b096ff4db",
