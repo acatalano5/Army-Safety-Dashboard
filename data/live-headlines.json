@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-25T01:53:55.559Z",
+  "generatedAt": "2026-08-25T07:09:53.577Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-08-25T01:53:55.559Z",
+      "generatedAt": "2026-08-25T07:09:53.577Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -1057,7 +1057,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-08-25T01:53:55.559Z",
+      "generatedAt": "2026-08-25T07:09:53.577Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -1101,11 +1101,27 @@
           "pinned": false
         },
         {
+          "title": "US-Canada trade war heats up as Trump threatens to hike auto tariffs",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81UWcxQm1LSlMzSzdReXhpQ3VxUktlWlh1QTVLLThJVEduc1lWYVk1LWktNFhONkFTOEM0WG1CeGg5ZDczRlB2cmU1dGgyVzR4bFdIMTZTWnZPQQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260825T025153Z",
+          "pinned": false
+        },
+        {
           "title": "Can Iran retaliate against countries that join US ‘economic war’?",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObTd4NEFUNFNoTGljajhvWHNHYkF3ZkNjSFUxLWNaQnpYWnZkTTJUZnF5VXI4Y0QyMHRWbU9nYVRPTjNWbTdBWHBnenZ4MzVUdTROZEVLcm9LNmIwSU04U20weXdBd0ItQ09aZ2ZwMEJPWG9EemI4dGMyQ25mQWl2bTR0WkR3TVpoSjMycXp1a21DUHpVNFNEaHNfUHhnTEhlWEpHVlR30gGrAUFVX3lxTFBtNHFnMmFyQ2F2MlpwN0daZ2laV0p5eHhVYjlZZWVwUU11MGRwV3F0VUo0S19VeTIxaWZ5d3BiUWZwZlBlZExPNFA0clh6YU9rTGRCcmVhU2lmMEFCZGRBOFBMYUFFNW5rcHd4Wlh6SHBBTndjZ0hvQlR3TmhWZkZFdElsQkhsLTFLQmd2Sk1BM1FrVWRpcGJPQmc1V1FCN3h3bEZsc2FZLUREMA?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260823T115448Z",
+          "pinned": false
+        },
+        {
+          "title": "What to expect as Iran braces for new US economic measures amid war",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcUkxTW1ndzRNM3NBTTNJZ3ZhQnpRNEM3bmJEUC0tVzFXUDlxSFBRdWJkZEdmUXpmTHZiZFgwNFJwRWloSnBmWjI2anhXS3ExdzBZT3ZySzNUWkxYNUlDeXRVUFNDVFczS3A1WE9kWE1UMjhSbEhpTVNycUswTWc5VUx2TnBjYWkzZmNhOXRXUFljaG1FQU9ZZ1NzazRmekhpbXU1blNqNnlSbl9FdHNwetIBtgFBVV95cUxOSndqTURrSXFacTdzOHo4cU0zUXlzTGs3SlZFTEpLX2phNEpGZUVqd1lldjhlYVpvelBnVU9NcmRPOTFENE81SVl6a2syZE5yMjkxY2tWVmw4ektlTk1Xb3ExV243dFdPMlh4SHR6d014VWJTNmVFM20tdHQtSDB5b3lxcUZYT29EQ1NoTGZteDVjaHRRTW5NODVvOXo0eUMtOGFsN1czTklNLWFoWHIyYkFMWl9Xdw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260824T160601Z",
           "pinned": false
         },
         {
@@ -1189,27 +1205,11 @@
           "pinned": false
         },
         {
-          "title": "US public support for Iran war falls as Trump approval at record low: Poll",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVEIwTjRsMEVZR0Y1anpISy16SnpnZ2ZXWURndm1UVlp5bml0TUZTQmRuNzVpTmx6Smg1ckJqVllBN1BxU0ZuZ0M4aFpuWGEySlNnMTZPVzlGLXJmVGtlaFMxREczNUVHTEtaVzdSRy1LRjM2TzdCR19TcnhKdTdja2NuRXNhcWdzMUVzZTNZVE5UaHI2eE1LY3BlX2ZhZW5QRXU2UzNDaHhIQldlQmtaR2x6Um_SAboBQVVfeXFMTzFBbU8xNXQ5RkxyNW1qWnhXWF9jZ3MtUXpkcnlvd2dLSElCUjNfOUlnSzF5V0tYbzhPV3YteERjMFdtZG9ITzNRNXZVNE9rVEZKQnFOdWxLQ0VDaVZqdnRfS3pDbk1yMHFscklSYlZpeHROSU1QSmFab2o0WExVSG11Nkl2LXNhemVyYWtvUGNmV0c1eEJWY3lRU0d6MWJPWjl0S0NnLWpxSzFmV1NxVjV4X3JkX2ZZNUtR?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260824T213831Z",
-          "pinned": false
-        },
-        {
           "title": "Can Trump's economic war ultimately force Iran to compromise? - Al-Monitor",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQ2lBS3VJaV9KN2twdV9Oa2R6bFlJSmttU0p5c2dUZnFlOGdXb1pYckpzY2thZ2J4OTBuQkpEei03NFQ4VjdsSE9rbXF5X05vQjJIY3AtdGJXZGJXcUthd2FLUURieUdXTEo3cDNSVk8zeUVrUTVDM1c1SDJNMG5fNHdsTmR2X01rSk1pTXhnQmV5dk03SFdaMkxUbUctUEV3V3pZ?oc=5",
           "domain": "al-monitor.com",
           "sourceTier": "Regional reporting",
           "seen": "20260822T084449Z",
-          "pinned": false
-        },
-        {
-          "title": "What to expect as Iran braces for new US economic measures amid war",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcUkxTW1ndzRNM3NBTTNJZ3ZhQnpRNEM3bmJEUC0tVzFXUDlxSFBRdWJkZEdmUXpmTHZiZFgwNFJwRWloSnBmWjI2anhXS3ExdzBZT3ZySzNUWkxYNUlDeXRVUFNDVFczS3A1WE9kWE1UMjhSbEhpTVNycUswTWc5VUx2TnBjYWkzZmNhOXRXUFljaG1FQU9ZZ1NzazRmekhpbXU1blNqNnlSbl9FdHNwetIBtgFBVV95cUxOSndqTURrSXFacTdzOHo4cU0zUXlzTGs3SlZFTEpLX2phNEpGZUVqd1lldjhlYVpvelBnVU9NcmRPOTFENE81SVl6a2syZE5yMjkxY2tWVmw4ektlTk1Xb3ExV243dFdPMlh4SHR6d014VWJTNmVFM20tdHQtSDB5b3lxcUZYT29EQ1NoTGZteDVjaHRRTW5NODVvOXo0eUMtOGFsN1czTklNLWFoWHIyYkFMWl9Xdw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260824T160601Z",
           "pinned": false
         },
         {
@@ -1229,11 +1229,11 @@
           "pinned": false
         },
         {
-          "title": "US and Canada fall deeper into a trade war with new tariffs as talks collapse and blame is spread",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTFZQdTRIMXVabHVfUTNldG4yeGlBSWlHNTFsNUt4WktQeHBuT1RzUUxVT3NZMTQ4ampFeFMtQVhVUDN4bXZXVWlzWXY5LTBEVTI1d29obi03ZGd2dTB6WG0zRGtsa3llaHhtVlVnRjFKYW4tOGpubG1qSWp6NWZfNG5WUVlpeGdjc0s0ck5GM0F3eWs?oc=5",
-          "domain": "apnews.com",
+          "title": "Ceasefire monitoring mission arrives in Democratic Republic of Congo",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPV2pEbDZBS2Y4RmlYSnNObkRSMUtmWTc0T0tIREhTY1BJLTQ4aTkxRFFUcHhRelI1TmhkbzNYMXg5SnctTUUzRXZSS1hMQV81Yi16WFZ5QkpmdnhtOExEcmN5d2pDVXZ0M3ZFeGRPYmlscnYxYUdJRnJxSUpvMHVnU0g4ZTZmWktDMkxJMEUteFNfekJ0UzNqQmswVmZqUlY1eWFabXJmMWNiZTR4QlHSAbMBQVVfeXFMT3g5VkR1eEpxcW9BX2x0RThuNEVlNTBzaW40LWpBUUtITFNvWEZHQTJDdVVJTVpmNFVWaU5QNU15bTBRQ0ZjNE43TE4wTkxMTmJibldKN2dsNWRRRFFvWUFQYmJtNDd0OWJQVDNKeVIxdDJwdjRmX0xhUnFZVElkb1I1cjZ2NVp2THlwUTVyRXhvSmwxRWNzYzNZT28wc0U4dUM3VS0zZW5DRTlPS2V4czNZcjA?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260822T041101Z",
+          "seen": "20260824T211125Z",
           "pinned": false
         },
         {
@@ -1245,11 +1245,11 @@
           "pinned": false
         },
         {
-          "title": "Canada-US trade war: Who wins? Who loses?",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZ1lMQWJ1bjJmQzdIeDVVODlIdmNscUN4UU9vS0Zkb2V6MGZkbDNZZmhWcW9PVElhWU80UVVsZkx3b3E4SnhoRzNqMkdWSUtDV0p5T05qNWR5el9Vc2JpaEs3ZUtJbE1HQ19hRHRBS2lhMnpHdUN4ZFZ0bFk1bGhNMEJLNFozWHFKV3AwVm5ySDVsNTjSAZgBQVVfeXFMTm92amJDNlpHVGJTanQwME8xRUlxYWctMk1zNTlYSndUR0JrVTJWTURudVY0REZudEQySzk5TkxXa2RycHZqclBrZXBUWXNZWXhZc2Rkd3c4elJzelo2UEN5MUw1eW5wcU8wMEpVX3lCRlBmVmRvUFlvU0c0YkpsbWNBVS1xdHJuRF81Y1Y1YUYzWjl0VlhvcTM?oc=5",
+          "title": "Israeli strikes hit water plant, warehouse in Gaza, killing at least 6",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZmNKejRmS1p6Yl9RQUp4NTlOVmNQWGJuVUo3VmR3Q29BMTZvR3lnLTVsOFdSYl8wUklIeE1tZWQ4U1VnaFVoOE1OLTRaNVRVTDhiWUFha0luYm1hZmtxZ0ttWlFPaTNoRjhNUWhET2diY2J4UUFmNmZsMFR5dWIzZXh2QkNyUG1kcFNnSDFHMEZacjFLblk3UNIBngFBVV95cUxNSE5nQWVHSm5DeFJRbjhXVXVxR292bEgyUHg5cHJ2d2o3TzluUmQ2dWVzTkNZQW94azE5Y0dSaTFXeEZkMlJuWlJJRWVqUWphLXpqdzJaX04xanJTbEUtcExhN0Q4OEVaZ05CTWM1U1BqRHpHSG1Pc1VSS0d6UzV0UzNMeVotbE5yTHQxZGhtZUNwSVZERnhsVy1yQzRqQQ?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260824T071001Z",
+          "seen": "20260824T163939Z",
           "pinned": false
         }
       ],
@@ -1300,6 +1300,15 @@
           "reportedAt": "2026-08-23T05:44:03Z"
         },
         {
+          "id": "report-717eddab19e0",
+          "title": "US-Canada trade war heats up as Trump threatens to hike auto tariffs",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81UWcxQm1LSlMzSzdReXhpQ3VxUktlWlh1QTVLLThJVEduc1lWYVk1LWktNFhONkFTOEM0WG1CeGg5ZDczRlB2cmU1dGgyVzR4bFdIMTZTWnZPQQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-25T02:51:53Z"
+        },
+        {
           "id": "report-57de3ba67233",
           "title": "Can Iran retaliate against countries that join US ‘economic war’?",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObTd4NEFUNFNoTGljajhvWHNHYkF3ZkNjSFUxLWNaQnpYWnZkTTJUZnF5VXI4Y0QyMHRWbU9nYVRPTjNWbTdBWHBnenZ4MzVUdTROZEVLcm9LNmIwSU04U20weXdBd0ItQ09aZ2ZwMEJPWG9EemI4dGMyQ25mQWl2bTR0WkR3TVpoSjMycXp1a21DUHpVNFNEaHNfUHhnTEhlWEpHVlR30gGrAUFVX3lxTFBtNHFnMmFyQ2F2MlpwN0daZ2laV0p5eHhVYjlZZWVwUU11MGRwV3F0VUo0S19VeTIxaWZ5d3BiUWZwZlBlZExPNFA0clh6YU9rTGRCcmVhU2lmMEFCZGRBOFBMYUFFNW5rcHd4Wlh6SHBBTndjZ0hvQlR3TmhWZkZFdElsQkhsLTFLQmd2Sk1BM1FrVWRpcGJPQmc1V1FCN3h3bEZsc2FZLUREMA?oc=5",
@@ -1307,6 +1316,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-23T11:54:48Z"
+        },
+        {
+          "id": "report-ee9b8d897cb4",
+          "title": "What to expect as Iran braces for new US economic measures amid war",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcUkxTW1ndzRNM3NBTTNJZ3ZhQnpRNEM3bmJEUC0tVzFXUDlxSFBRdWJkZEdmUXpmTHZiZFgwNFJwRWloSnBmWjI2anhXS3ExdzBZT3ZySzNUWkxYNUlDeXRVUFNDVFczS3A1WE9kWE1UMjhSbEhpTVNycUswTWc5VUx2TnBjYWkzZmNhOXRXUFljaG1FQU9ZZ1NzazRmekhpbXU1blNqNnlSbl9FdHNwetIBtgFBVV95cUxOSndqTURrSXFacTdzOHo4cU0zUXlzTGs3SlZFTEpLX2phNEpGZUVqd1lldjhlYVpvelBnVU9NcmRPOTFENE81SVl6a2syZE5yMjkxY2tWVmw4ektlTk1Xb3ExV243dFdPMlh4SHR6d014VWJTNmVFM20tdHQtSDB5b3lxcUZYT29EQ1NoTGZteDVjaHRRTW5NODVvOXo0eUMtOGFsN1czTklNLWFoWHIyYkFMWl9Xdw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-24T16:06:01Z"
         },
         {
           "id": "report-434225ad9e11",
@@ -1399,15 +1417,6 @@
           "reportedAt": "2026-08-22T14:31:57Z"
         },
         {
-          "id": "report-79fb1cde4077",
-          "title": "US public support for Iran war falls as Trump approval at record low: Poll",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVEIwTjRsMEVZR0Y1anpISy16SnpnZ2ZXWURndm1UVlp5bml0TUZTQmRuNzVpTmx6Smg1ckJqVllBN1BxU0ZuZ0M4aFpuWGEySlNnMTZPVzlGLXJmVGtlaFMxREczNUVHTEtaVzdSRy1LRjM2TzdCR19TcnhKdTdja2NuRXNhcWdzMUVzZTNZVE5UaHI2eE1LY3BlX2ZhZW5QRXU2UzNDaHhIQldlQmtaR2x6Um_SAboBQVVfeXFMTzFBbU8xNXQ5RkxyNW1qWnhXWF9jZ3MtUXpkcnlvd2dLSElCUjNfOUlnSzF5V0tYbzhPV3YteERjMFdtZG9ITzNRNXZVNE9rVEZKQnFOdWxLQ0VDaVZqdnRfS3pDbk1yMHFscklSYlZpeHROSU1QSmFab2o0WExVSG11Nkl2LXNhemVyYWtvUGNmV0c1eEJWY3lRU0d6MWJPWjl0S0NnLWpxSzFmV1NxVjV4X3JkX2ZZNUtR?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-24T21:38:31Z"
-        },
-        {
           "id": "report-9e5fde3f7726",
           "title": "Can Trump's economic war ultimately force Iran to compromise? - Al-Monitor",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQ2lBS3VJaV9KN2twdV9Oa2R6bFlJSmttU0p5c2dUZnFlOGdXb1pYckpzY2thZ2J4OTBuQkpEei03NFQ4VjdsSE9rbXF5X05vQjJIY3AtdGJXZGJXcUthd2FLUURieUdXTEo3cDNSVk8zeUVrUTVDM1c1SDJNMG5fNHdsTmR2X01rSk1pTXhnQmV5dk03SFdaMkxUbUctUEV3V3pZ?oc=5",
@@ -1415,15 +1424,6 @@
           "sourceTier": "Regional reporting",
           "confidenceLabel": "REGIONAL REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-22T08:44:49Z"
-        },
-        {
-          "id": "report-ee9b8d897cb4",
-          "title": "What to expect as Iran braces for new US economic measures amid war",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcUkxTW1ndzRNM3NBTTNJZ3ZhQnpRNEM3bmJEUC0tVzFXUDlxSFBRdWJkZEdmUXpmTHZiZFgwNFJwRWloSnBmWjI2anhXS3ExdzBZT3ZySzNUWkxYNUlDeXRVUFNDVFczS3A1WE9kWE1UMjhSbEhpTVNycUswTWc5VUx2TnBjYWkzZmNhOXRXUFljaG1FQU9ZZ1NzazRmekhpbXU1blNqNnlSbl9FdHNwetIBtgFBVV95cUxOSndqTURrSXFacTdzOHo4cU0zUXlzTGs3SlZFTEpLX2phNEpGZUVqd1lldjhlYVpvelBnVU9NcmRPOTFENE81SVl6a2syZE5yMjkxY2tWVmw4ektlTk1Xb3ExV243dFdPMlh4SHR6d014VWJTNmVFM20tdHQtSDB5b3lxcUZYT29EQ1NoTGZteDVjaHRRTW5NODVvOXo0eUMtOGFsN1czTklNLWFoWHIyYkFMWl9Xdw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-24T16:06:01Z"
         },
         {
           "id": "report-57b9f52f79d6",
@@ -1444,13 +1444,13 @@
           "reportedAt": "2026-08-24T12:08:26Z"
         },
         {
-          "id": "report-f47016ddedd6",
-          "title": "US and Canada fall deeper into a trade war with new tariffs as talks collapse and blame is spread",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTFZQdTRIMXVabHVfUTNldG4yeGlBSWlHNTFsNUt4WktQeHBuT1RzUUxVT3NZMTQ4ampFeFMtQVhVUDN4bXZXVWlzWXY5LTBEVTI1d29obi03ZGd2dTB6WG0zRGtsa3llaHhtVlVnRjFKYW4tOGpubG1qSWp6NWZfNG5WUVlpeGdjc0s0ck5GM0F3eWs?oc=5",
-          "domain": "apnews.com",
+          "id": "report-cf45d24a5d68",
+          "title": "Ceasefire monitoring mission arrives in Democratic Republic of Congo",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPV2pEbDZBS2Y4RmlYSnNObkRSMUtmWTc0T0tIREhTY1BJLTQ4aTkxRFFUcHhRelI1TmhkbzNYMXg5SnctTUUzRXZSS1hMQV81Yi16WFZ5QkpmdnhtOExEcmN5d2pDVXZ0M3ZFeGRPYmlscnYxYUdJRnJxSUpvMHVnU0g4ZTZmWktDMkxJMEUteFNfekJ0UzNqQmswVmZqUlY1eWFabXJmMWNiZTR4QlHSAbMBQVVfeXFMT3g5VkR1eEpxcW9BX2x0RThuNEVlNTBzaW40LWpBUUtITFNvWEZHQTJDdVVJTVpmNFVWaU5QNU15bTBRQ0ZjNE43TE4wTkxMTmJibldKN2dsNWRRRFFvWUFQYmJtNDd0OWJQVDNKeVIxdDJwdjRmX0xhUnFZVElkb1I1cjZ2NVp2THlwUTVyRXhvSmwxRWNzYzNZT28wc0U4dUM3VS0zZW5DRTlPS2V4czNZcjA?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-22T04:11:01Z"
+          "reportedAt": "2026-08-24T21:11:25Z"
         },
         {
           "id": "report-779dc77876bc",
@@ -1462,13 +1462,13 @@
           "reportedAt": "2026-08-23T01:56:01Z"
         },
         {
-          "id": "report-0fa268034343",
-          "title": "Canada-US trade war: Who wins? Who loses?",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZ1lMQWJ1bjJmQzdIeDVVODlIdmNscUN4UU9vS0Zkb2V6MGZkbDNZZmhWcW9PVElhWU80UVVsZkx3b3E4SnhoRzNqMkdWSUtDV0p5T05qNWR5el9Vc2JpaEs3ZUtJbE1HQ19hRHRBS2lhMnpHdUN4ZFZ0bFk1bGhNMEJLNFozWHFKV3AwVm5ySDVsNTjSAZgBQVVfeXFMTm92amJDNlpHVGJTanQwME8xRUlxYWctMk1zNTlYSndUR0JrVTJWTURudVY0REZudEQySzk5TkxXa2RycHZqclBrZXBUWXNZWXhZc2Rkd3c4elJzelo2UEN5MUw1eW5wcU8wMEpVX3lCRlBmVmRvUFlvU0c0YkpsbWNBVS1xdHJuRF81Y1Y1YUYzWjl0VlhvcTM?oc=5",
+          "id": "report-37f7ab9d659a",
+          "title": "Israeli strikes hit water plant, warehouse in Gaza, killing at least 6",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZmNKejRmS1p6Yl9RQUp4NTlOVmNQWGJuVUo3VmR3Q29BMTZvR3lnLTVsOFdSYl8wUklIeE1tZWQ4U1VnaFVoOE1OLTRaNVRVTDhiWUFha0luYm1hZmtxZ0ttWlFPaTNoRjhNUWhET2diY2J4UUFmNmZsMFR5dWIzZXh2QkNyUG1kcFNnSDFHMEZacjFLblk3UNIBngFBVV95cUxNSE5nQWVHSm5DeFJRbjhXVXVxR292bEgyUHg5cHJ2d2o3TzluUmQ2dWVzTkNZQW94azE5Y0dSaTFXeEZkMlJuWlJJRWVqUWphLXpqdzJaX04xanJTbEUtcExhN0Q4OEVaZ05CTWM1U1BqRHpHSG1Pc1VSS0d6UzV0UzNMeVotbE5yTHQxZGhtZUNwSVZERnhsVy1yQzRqQQ?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-24T07:10:01Z"
+          "reportedAt": "2026-08-24T16:39:39Z"
         },
         {
           "id": "report-372b096ff4db",
