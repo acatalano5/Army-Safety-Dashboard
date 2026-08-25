@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-24T18:59:56.358Z",
+  "generatedAt": "2026-08-25T01:53:55.559Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-08-24T18:59:56.358Z",
+      "generatedAt": "2026-08-25T01:53:55.559Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -1057,7 +1057,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-08-24T18:59:56.358Z",
+      "generatedAt": "2026-08-25T01:53:55.559Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -1074,6 +1074,14 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260823T155721Z",
+          "pinned": false
+        },
+        {
+          "title": "Iran’s War With Israel and the United States | Global Conflict Tracker",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMWduRExjZXhMUjFuYjV4Zzc0LS11OHVKUEhXSlpUNUdFMm9MVGlJeFd5eGh1ZWpEWWhFNEdJX0tOVTlJbnZ5NmpBQ3dYeGNpSTBOSWtISUduak5WSHhfQUhQcHBKbVpLdG1IVi1ySWVGd05NM18yektrem1TM3ZvaV9xVjR2eC04cE9RZ3FZajNCZWFHNzBaS0hhSS02dw?oc=5",
+          "domain": "cfr.org",
+          "sourceTier": "Structured / analytic",
+          "seen": "20260824T140000Z",
           "pinned": false
         },
         {
@@ -1109,27 +1117,19 @@
           "pinned": false
         },
         {
+          "title": "Russia to seize poorly protected infrastructure amid Ukraine drone attacks",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbWg5ZkJZQXVNaGYwMFNOQUd4d0FSME41RmFjaW1aWWc0eUtaWE5CekYtaFdObkVTdUQ4MzFyU3c3SU9XUFFlYUJrTktZeG1oeWVFU2tYMlkxS2x4VWhoNVFYQWt5UWl0XzBGWlc0WXhyUW5rRWpmRmRQTFR4YVRFM0RtX1ZkUldDYkF2YTh5aUtrdWJSbG9ORGtLRGdYSElIQlFUSTNCTzB1Z0k0VjhMSmZJQWk0alXSAbwBQVVfeXFMTWRGS2xxQVVPNlZCRW1oWTEwejI3RjE0VThYV2Y0ZGdSZTBuZkt6RC1lRzEyZWZUZk53a0thMjYwdnB5N2ZtMUU3RDVGV1FDc0V0TjhQQ29TeTFXM1NRb0t4Qk9GaEVaSUtPNkd2Q0J0RDZWekdScDVuLU9MLWxXbTZGMS1OZ0FlYWF3UHNGTmRmTXhleS1FRzQ1QklxN1VZZ3lMTTBReXBTNnJTb1VFNGRjT0JiY3hvSTF2VTM?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260824T170936Z",
+          "pinned": false
+        },
+        {
           "title": "Canada to hit US with retaliatory tariffs as trade war escalates",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdUttUHYtVERQN3NfQU56RGhkLTBqMGRnZ3czM1JPQzVqOFNnODl3UzI3Uy0tdTJaQ2VDbGVJYkxMOWxyOGRiSWREU01IT2U5YXQzakktUGVrX1drVUViQ3lUXzAzYnA1NVhNZ2Q5ZnB4TkFrdnliNG5UenEtTVJQc2FJUldtMzF4Ry0xRW54U2M4a1lCRU5HNjBRcEI0UUtuUW1iMUtVRVLSAa4BQVVfeXFMTkNOd0hDU1IxTVNCZ1RZc2R0ejFjbXg3aUY1UGhJajQweUhIOVBFN2xYcFJyRGJ4MzE2LUZIb09EYnVWV1FsWUVTY3JNS0M1UWxEN1pIVldiZGhFUTlEOFd1NVNaakY1NjBSYmFWa3U2Ul9Tb3c2Ymc2LWVCNlFRVnZ5SXNOT1hmOFpjMUVoMXdyWVBGTW85YzdPYUVENGR6M0V1OG1nVGhIOGFsajhR?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260823T054403Z",
-          "pinned": false
-        },
-        {
-          "title": "Russian expert warns of impending social crisis as Ukraine death toll rises",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRVBwd2JreGFKU0lXbkJxNllkYW9abUF6eUFCaGIyTFZCOW5lSm9XQklBN0hqQ0xhUlR4azVaLVdCd2tfRGVNNFE3VC1aRS0yRzN1SE9VUVRyMUVaRkpFWmtwVVMyNkVwNEhYbnIySUJSYTB5TF81cThVWkhjQ1l4eHNZV3E5MDlKNXNITnF2RmQxMVM2MGM0Z0NLVks1R3hTWERNd2RFcFFLWlFQTW9ScEg5aG5WMjTSAbwBQVVfeXFMTnc3MEJELXVpWFZQMElTTGNXUTItSElDQjJfVWU5TFN1UTlOeGstX1NwLTh3Z04wWURaTjBIcm5SMjBKMEpZcWdPX1ZQbGs4TVFRQkZwVmxqbTVUbFRaTWJIc1pVMWlHLWE3V29BUGdxOWNReUFHSWl0Uk8wemZQeXhxLURBazd5ZFUxTG9iekJ0VzdoaFZ0dkczczJvdWktaEE4d1RsR29NMGQ2TkRUVGs0dGNXSUNjSE1oNGQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260821T151649Z",
-          "pinned": false
-        },
-        {
-          "title": "Myanmar military strike kills 14 people at a Buddhist monastery, opposition group says",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaTJMQldGVEJ4Q1d2MXVWY19QaV9aUmJEWTVvb0JNT3p1TzNuYUF1cnlpOWxpMWJTNzM2el9GVVkwSEtvUlZtaEZod28yR2tGMno4Z0lfX0QxR3RpS3hTQ29kd1padGZIRU5qZ2ZTTVkzVks4QjhZdGZmRXpMSHBUYkI5WElsTE94N0hVUl9NNFZRYWc0SHdyWTFFcjR1WGtNa0cw?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260821T153100Z",
           "pinned": false
         },
         {
@@ -1173,14 +1173,6 @@
           "pinned": false
         },
         {
-          "title": "What did war with the US reveal about Iran’s weapons capabilities?",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMlVwLXBzM2xDX2hDc01sWE54elFDYTVPbF9zV3hDejl3NWMwczZnUF8zejVtcE9QTUxzWW1JVmwxaHNvYVRSeVd0cVFmczBNZ2NDUndDalpPUDJkRkN2My1TRlhNZGJqLXpKVjc2ZGlKNV9UWjRCb1hSOU5CN3I5VFRIOW9nYTdGVFRuOHNja3k2cXJMa24wSGUxb01QS1psY0NVTW1lWTXSAa4BQVVfeXFMT3BOajZLb0UxQmxfdjJUS0tsYTZtLWcxcy1Sek0wd3VEbG9OQkoxazU5cUt0QlA1eXhJbnBnZzdTc1ZDRHMxVmxpLWhwX0pLb1BRb2hRdXZ1djBHRDI0TU5va29YLUt0MDVzWmRLSDJWU1JKak1GN0JxVGpHQWthMkxXa0FzRDVMOC1md3ZRUmpoVENsb0NNQmdlclFYR2xhYlBNdGp6VFBJcV9LUGFn?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260822T143157Z",
-          "pinned": false
-        },
-        {
           "title": "South Korea says US cancelled upcoming joint marine exercises over Iran war",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWWZVN1NJSUEtMDZZWTdKWnEyb3dUd3ptM2kwbGYwd1VOSE1QX3RvMDhIcGJkOWhKUUoxdkRpTVNraXBDMlpYTWhzV25sSG90NUlUMGRocTFxMW41QXRZYTExd1VvbjhJdHI4eUY4YU84eUxRcHpKQVJNa3B6aW9YVEdnM1AzUm1tS2ZzYTJrMFVsTkFSZ18xM25GSW1TbGxUclhsQ1lGcVVOdktrY0hMZEFndVJQLWfSAbwBQVVfeXFMT2pLM2tzZkh0Q1NaZEp4MFJNYVh6dzNOTFlNN1NGbmhFcUUwczR3NW9INFBlVFV1NTBTQXhndjJzNmhZMmVoNlRNWlJoX2FJcWlwQm5MRUstUzcwRFd1UjZXa19selZ0VHhKbnpoZHhUSV83dnpBNUxTS0tQemE0aHFENXRFY1FjODlzWmJYd29aUUJNbi05UE5nRnFNcVo0c3dkdm5SMnh5Q0lfTlNwcC1SaTBhOHY4OUxfNGs?oc=5",
           "domain": "aljazeera.com",
@@ -1189,11 +1181,27 @@
           "pinned": false
         },
         {
-          "title": "Iran in ‘full-scale war,' says President Pezeshkian",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbzZPOGR6bG9keVBJSWprVElLSlJCd3JaZDJWN2JhQTFrNko2YkNPVTV4Q201ejZnT056aHRIRXY0WndOODIxWnJoRXFlZE5XMDBzcVhWcnVGQkRsNWRvN1BTQTRxcFB3UXFmcUV3eUxQLTJQVlhuUTQ0RC1BTWFQYXhsR0hUNEx6YWhzV3A4cXZxNjRzRUtCaw?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "seen": "20260823T074408Z",
+          "title": "What did war with the US reveal about Iran’s weapons capabilities?",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMlVwLXBzM2xDX2hDc01sWE54elFDYTVPbF9zV3hDejl3NWMwczZnUF8zejVtcE9QTUxzWW1JVmwxaHNvYVRSeVd0cVFmczBNZ2NDUndDalpPUDJkRkN2My1TRlhNZGJqLXpKVjc2ZGlKNV9UWjRCb1hSOU5CN3I5VFRIOW9nYTdGVFRuOHNja3k2cXJMa24wSGUxb01QS1psY0NVTW1lWTXSAa4BQVVfeXFMT3BOajZLb0UxQmxfdjJUS0tsYTZtLWcxcy1Sek0wd3VEbG9OQkoxazU5cUt0QlA1eXhJbnBnZzdTc1ZDRHMxVmxpLWhwX0pLb1BRb2hRdXZ1djBHRDI0TU5va29YLUt0MDVzWmRLSDJWU1JKak1GN0JxVGpHQWthMkxXa0FzRDVMOC1md3ZRUmpoVENsb0NNQmdlclFYR2xhYlBNdGp6VFBJcV9LUGFn?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260822T143157Z",
+          "pinned": false
+        },
+        {
+          "title": "US public support for Iran war falls as Trump approval at record low: Poll",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVEIwTjRsMEVZR0Y1anpISy16SnpnZ2ZXWURndm1UVlp5bml0TUZTQmRuNzVpTmx6Smg1ckJqVllBN1BxU0ZuZ0M4aFpuWGEySlNnMTZPVzlGLXJmVGtlaFMxREczNUVHTEtaVzdSRy1LRjM2TzdCR19TcnhKdTdja2NuRXNhcWdzMUVzZTNZVE5UaHI2eE1LY3BlX2ZhZW5QRXU2UzNDaHhIQldlQmtaR2x6Um_SAboBQVVfeXFMTzFBbU8xNXQ5RkxyNW1qWnhXWF9jZ3MtUXpkcnlvd2dLSElCUjNfOUlnSzF5V0tYbzhPV3YteERjMFdtZG9ITzNRNXZVNE9rVEZKQnFOdWxLQ0VDaVZqdnRfS3pDbk1yMHFscklSYlZpeHROSU1QSmFab2o0WExVSG11Nkl2LXNhemVyYWtvUGNmV0c1eEJWY3lRU0d6MWJPWjl0S0NnLWpxSzFmV1NxVjV4X3JkX2ZZNUtR?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260824T213831Z",
+          "pinned": false
+        },
+        {
+          "title": "Can Trump's economic war ultimately force Iran to compromise? - Al-Monitor",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQ2lBS3VJaV9KN2twdV9Oa2R6bFlJSmttU0p5c2dUZnFlOGdXb1pYckpzY2thZ2J4OTBuQkpEei03NFQ4VjdsSE9rbXF5X05vQjJIY3AtdGJXZGJXcUthd2FLUURieUdXTEo3cDNSVk8zeUVrUTVDM1c1SDJNMG5fNHdsTmR2X01rSk1pTXhnQmV5dk03SFdaMkxUbUctUEV3V3pZ?oc=5",
+          "domain": "al-monitor.com",
+          "sourceTier": "Regional reporting",
+          "seen": "20260822T084449Z",
           "pinned": false
         },
         {
@@ -1205,19 +1213,11 @@
           "pinned": false
         },
         {
-          "title": "US allies in Asia wary as Trump moves military assets for Iran war",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcjFkTDdDTURoUFNsQXFzRGlNTl8xNDh3UDVVOUpqSTBPOGZpUHFHZnBNeHFBOV9relBhVzIycDd2dFVlWnJHTm5LUTZDQXZvSHJQU3lsMnYtaDV4cUVaWF9OWU8tN3ZtY2taRjRfLUxTWVJxb2JaSW9TVi0zTUpKTXJ1d1ZrX2wtN1Mwblh0TEpVZVM0bGVHN0hkU2lHaDZDNUo1RXZuWG5LVTjSAbABQVVfeXFMTTJ6WFZsRkVaMzU4b2VtVlNEU2VfODhHdWNrS3VPQUQwYTJFaWdGS01sMDhoRHdSX2VQUC05SlJLTzIzR2tabzNrcjZjcVN2UWNhSU43THFvM3R5WkloVHgxOXBydlRGN3ZreXdUQlBnbVhicG00OUxLMVpwaENuR0Noc1lCRVN0eDVNLUw3cURrdGw3N1BZZVlVNUlrVEhnclVNWHRNb0FDTmhtUy1wU2w?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260821T123537Z",
-          "pinned": false
-        },
-        {
-          "title": "Israel bombs Syria as US envoy says base attack aimed at ‘baiting’ Turkiye",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORTJLYU12dTBCT1NUYVlSQ3BrcTVRWFd6NUVLdnVpcmRoZURBd1dkM0JRd1NjY19faVBBYkhrQlpKUnVqRkFCMXRYbk5Hd0N0S291X2NSQ0RFVWgycHhWRGVXMGVJdk44cWdVbmUyNDNfeE45YnFVekdTSW5aanlEQVpWS052aUE4QklTaUNSQ3VETjdCNWZlNUFULUUtY1doWVdJbHAxMmdPUdIBrwFBVV95cUxNY09CbUtqTjdiUWl6R01LdVBqQXBEYVJ5RFI4UkdGNmMxT3NxX3VKUnQzZElkendCWFdsODJRcW04bVhtb20wZ0xvVERzOHY4bDFuOTJMWVpwd3I4ZmlCV2xnSVFJUHRzcEJWY0pCSGRPd3E2NmowU3dOTV9RbVRFdUhNdDRkNE9SMVVxR3J5andGR0N5S09YMUQ1TC1KS1JOelMzaWxkS1Y0V3pJTWtz?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260823T015601Z",
+          "title": "Iran in ‘full-scale war,' says President Pezeshkian",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbzZPOGR6bG9keVBJSWprVElLSlJCd3JaZDJWN2JhQTFrNko2YkNPVTV4Q201ejZnT056aHRIRXY0WndOODIxWnJoRXFlZE5XMDBzcVhWcnVGQkRsNWRvN1BTQTRxcFB3UXFmcUV3eUxQLTJQVlhuUTQ0RC1BTWFQYXhsR0hUNEx6YWhzV3A4cXZxNjRzRUtCaw?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20260823T074408Z",
           "pinned": false
         },
         {
@@ -1233,23 +1233,23 @@
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTFZQdTRIMXVabHVfUTNldG4yeGlBSWlHNTFsNUt4WktQeHBuT1RzUUxVT3NZMTQ4ampFeFMtQVhVUDN4bXZXVWlzWXY5LTBEVTI1d29obi03ZGd2dTB6WG0zRGtsa3llaHhtVlVnRjFKYW4tOGpubG1qSWp6NWZfNG5WUVlpeGdjc0s0ck5GM0F3eWs?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260822T034336Z",
+          "seen": "20260822T041101Z",
           "pinned": false
         },
         {
-          "title": "How much more are you spending on petrol since the war on Iran began?",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRlRHcXJZQ3lkUXFmTE9nZGh0VVdEbkxSd0dja1luT2F2LWkzaWRzSHR2LWM0Y2FvUFROelozX0Z6YUxGb2dMd2dYWnp0eTFwcTFQdGUwMUZJOWVxWUMwa0Q3S1BVNjFVbEpSNVlUZGZDSW5BOHFsRFlNZkJ4VmVGWkFQN1BEUkhvY19aVGpKb3VVbl9sQjVBb05LLVpDdUc2eks0d0hhZ1FCT3JaY1HSAbMBQVVfeXFMTW5VN0ZFYUw2SS00SmNvSzRuRVh2Um5fR3pnVUdSSUM1bGZGOEsyUHFUNFBJb3J1QlQ2aDk4TmNvWmVKRWYtRnlBZFQ5OU1kaF9BZ1BPVHZRY3NRbktMZHFEek9QbW90RGJTUUJvcFNJSTJ6bHdXQnl3MzNjeGxuNUI4dnN1czFjdHhDRDlCd3BKSEhQaWdVejB4Vjl6UG9XVE01RndKNVgzQU15SV9lMHREeTg?oc=5",
+          "title": "Israel bombs Syria as US envoy says base attack aimed at ‘baiting’ Turkiye",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORTJLYU12dTBCT1NUYVlSQ3BrcTVRWFd6NUVLdnVpcmRoZURBd1dkM0JRd1NjY19faVBBYkhrQlpKUnVqRkFCMXRYbk5Hd0N0S291X2NSQ0RFVWgycHhWRGVXMGVJdk44cWdVbmUyNDNfeE45YnFVekdTSW5aanlEQVpWS052aUE4QklTaUNSQ3VETjdCNWZlNUFULUUtY1doWVdJbHAxMmdPUdIBrwFBVV95cUxNY09CbUtqTjdiUWl6R01LdVBqQXBEYVJ5RFI4UkdGNmMxT3NxX3VKUnQzZElkendCWFdsODJRcW04bVhtb20wZ0xvVERzOHY4bDFuOTJMWVpwd3I4ZmlCV2xnSVFJUHRzcEJWY0pCSGRPd3E2NmowU3dOTV9RbVRFdUhNdDRkNE9SMVVxR3J5andGR0N5S09YMUQ1TC1KS1JOelMzaWxkS1Y0V3pJTWtz?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260824T073007Z",
+          "seen": "20260823T015601Z",
           "pinned": false
         },
         {
-          "title": "'Half my business will be gone' - firms in Canada and US fear trade war",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpZHpVWGZwS0RVR2VuRjJxSmttX0NQNWw2bzcya0tzRWRhWlN6V0NJdFdyRzdMUWxyNTg3TS1LdFNfZG5ZYUVJTHFJeGY2ZkhEanVXY2V5TmlsZw?oc=5",
-          "domain": "bbc.com",
+          "title": "Canada-US trade war: Who wins? Who loses?",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZ1lMQWJ1bjJmQzdIeDVVODlIdmNscUN4UU9vS0Zkb2V6MGZkbDNZZmhWcW9PVElhWU80UVVsZkx3b3E4SnhoRzNqMkdWSUtDV0p5T05qNWR5el9Vc2JpaEs3ZUtJbE1HQ19hRHRBS2lhMnpHdUN4ZFZ0bFk1bGhNMEJLNFozWHFKV3AwVm5ySDVsNTjSAZgBQVVfeXFMTm92amJDNlpHVGJTanQwME8xRUlxYWctMk1zNTlYSndUR0JrVTJWTURudVY0REZudEQySzk5TkxXa2RycHZqclBrZXBUWXNZWXhZc2Rkd3c4elJzelo2UEN5MUw1eW5wcU8wMEpVX3lCRlBmVmRvUFlvU0c0YkpsbWNBVS1xdHJuRF81Y1Y1YUYzWjl0VlhvcTM?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260824T094722Z",
+          "seen": "20260824T071001Z",
           "pinned": false
         }
       ],
@@ -1271,6 +1271,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-23T15:57:21Z"
+        },
+        {
+          "id": "report-defc72fd3c7f",
+          "title": "Iran’s War With Israel and the United States | Global Conflict Tracker",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMWduRExjZXhMUjFuYjV4Zzc0LS11OHVKUEhXSlpUNUdFMm9MVGlJeFd5eGh1ZWpEWWhFNEdJX0tOVTlJbnZ5NmpBQ3dYeGNpSTBOSWtISUduak5WSHhfQUhQcHBKbVpLdG1IVi1ySWVGd05NM18yektrem1TM3ZvaV9xVjR2eC04cE9RZ3FZajNCZWFHNzBaS0hhSS02dw?oc=5",
+          "domain": "cfr.org",
+          "sourceTier": "Structured / analytic",
+          "confidenceLabel": "ANALYTIC REPORT",
+          "reportedAt": "2026-08-24T14:00:00Z"
         },
         {
           "id": "report-4da680b108ab",
@@ -1309,6 +1318,15 @@
           "reportedAt": "2026-08-22T01:02:54Z"
         },
         {
+          "id": "report-60d1bbb80aa1",
+          "title": "Russia to seize poorly protected infrastructure amid Ukraine drone attacks",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbWg5ZkJZQXVNaGYwMFNOQUd4d0FSME41RmFjaW1aWWc0eUtaWE5CekYtaFdObkVTdUQ4MzFyU3c3SU9XUFFlYUJrTktZeG1oeWVFU2tYMlkxS2x4VWhoNVFYQWt5UWl0XzBGWlc0WXhyUW5rRWpmRmRQTFR4YVRFM0RtX1ZkUldDYkF2YTh5aUtrdWJSbG9ORGtLRGdYSElIQlFUSTNCTzB1Z0k0VjhMSmZJQWk0alXSAbwBQVVfeXFMTWRGS2xxQVVPNlZCRW1oWTEwejI3RjE0VThYV2Y0ZGdSZTBuZkt6RC1lRzEyZWZUZk53a0thMjYwdnB5N2ZtMUU3RDVGV1FDc0V0TjhQQ29TeTFXM1NRb0t4Qk9GaEVaSUtPNkd2Q0J0RDZWekdScDVuLU9MLWxXbTZGMS1OZ0FlYWF3UHNGTmRmTXhleS1FRzQ1QklxN1VZZ3lMTTBReXBTNnJTb1VFNGRjT0JiY3hvSTF2VTM?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-24T17:09:36Z"
+        },
+        {
           "id": "report-adc4ec754718",
           "title": "Canada to hit US with retaliatory tariffs as trade war escalates",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdUttUHYtVERQN3NfQU56RGhkLTBqMGRnZ3czM1JPQzVqOFNnODl3UzI3Uy0tdTJaQ2VDbGVJYkxMOWxyOGRiSWREU01IT2U5YXQzakktUGVrX1drVUViQ3lUXzAzYnA1NVhNZ2Q5ZnB4TkFrdnliNG5UenEtTVJQc2FJUldtMzF4Ry0xRW54U2M4a1lCRU5HNjBRcEI0UUtuUW1iMUtVRVLSAa4BQVVfeXFMTkNOd0hDU1IxTVNCZ1RZc2R0ejFjbXg3aUY1UGhJajQweUhIOVBFN2xYcFJyRGJ4MzE2LUZIb09EYnVWV1FsWUVTY3JNS0M1UWxEN1pIVldiZGhFUTlEOFd1NVNaakY1NjBSYmFWa3U2Ul9Tb3c2Ymc2LWVCNlFRVnZ5SXNOT1hmOFpjMUVoMXdyWVBGTW85YzdPYUVENGR6M0V1OG1nVGhIOGFsajhR?oc=5",
@@ -1316,24 +1334,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-23T05:44:03Z"
-        },
-        {
-          "id": "report-776cc2f7cf40",
-          "title": "Russian expert warns of impending social crisis as Ukraine death toll rises",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRVBwd2JreGFKU0lXbkJxNllkYW9abUF6eUFCaGIyTFZCOW5lSm9XQklBN0hqQ0xhUlR4azVaLVdCd2tfRGVNNFE3VC1aRS0yRzN1SE9VUVRyMUVaRkpFWmtwVVMyNkVwNEhYbnIySUJSYTB5TF81cThVWkhjQ1l4eHNZV3E5MDlKNXNITnF2RmQxMVM2MGM0Z0NLVks1R3hTWERNd2RFcFFLWlFQTW9ScEg5aG5WMjTSAbwBQVVfeXFMTnc3MEJELXVpWFZQMElTTGNXUTItSElDQjJfVWU5TFN1UTlOeGstX1NwLTh3Z04wWURaTjBIcm5SMjBKMEpZcWdPX1ZQbGs4TVFRQkZwVmxqbTVUbFRaTWJIc1pVMWlHLWE3V29BUGdxOWNReUFHSWl0Uk8wemZQeXhxLURBazd5ZFUxTG9iekJ0VzdoaFZ0dkczczJvdWktaEE4d1RsR29NMGQ2TkRUVGs0dGNXSUNjSE1oNGQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-21T15:16:49Z"
-        },
-        {
-          "id": "report-bca9aa55f76b",
-          "title": "Myanmar military strike kills 14 people at a Buddhist monastery, opposition group says",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaTJMQldGVEJ4Q1d2MXVWY19QaV9aUmJEWTVvb0JNT3p1TzNuYUF1cnlpOWxpMWJTNzM2el9GVVkwSEtvUlZtaEZod28yR2tGMno4Z0lfX0QxR3RpS3hTQ29kd1padGZIRU5qZ2ZTTVkzVks4QjhZdGZmRXpMSHBUYkI5WElsTE94N0hVUl9NNFZRYWc0SHdyWTFFcjR1WGtNa0cw?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-21T15:31:00Z"
         },
         {
           "id": "report-9affffa9882f",
@@ -1381,15 +1381,6 @@
           "reportedAt": "2026-08-23T07:46:28Z"
         },
         {
-          "id": "report-a7bc6dbf7ba1",
-          "title": "What did war with the US reveal about Iran’s weapons capabilities?",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMlVwLXBzM2xDX2hDc01sWE54elFDYTVPbF9zV3hDejl3NWMwczZnUF8zejVtcE9QTUxzWW1JVmwxaHNvYVRSeVd0cVFmczBNZ2NDUndDalpPUDJkRkN2My1TRlhNZGJqLXpKVjc2ZGlKNV9UWjRCb1hSOU5CN3I5VFRIOW9nYTdGVFRuOHNja3k2cXJMa24wSGUxb01QS1psY0NVTW1lWTXSAa4BQVVfeXFMT3BOajZLb0UxQmxfdjJUS0tsYTZtLWcxcy1Sek0wd3VEbG9OQkoxazU5cUt0QlA1eXhJbnBnZzdTc1ZDRHMxVmxpLWhwX0pLb1BRb2hRdXZ1djBHRDI0TU5va29YLUt0MDVzWmRLSDJWU1JKak1GN0JxVGpHQWthMkxXa0FzRDVMOC1md3ZRUmpoVENsb0NNQmdlclFYR2xhYlBNdGp6VFBJcV9LUGFn?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-22T14:31:57Z"
-        },
-        {
           "id": "report-d04dd70346a0",
           "title": "South Korea says US cancelled upcoming joint marine exercises over Iran war",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWWZVN1NJSUEtMDZZWTdKWnEyb3dUd3ptM2kwbGYwd1VOSE1QX3RvMDhIcGJkOWhKUUoxdkRpTVNraXBDMlpYTWhzV25sSG90NUlUMGRocTFxMW41QXRZYTExd1VvbjhJdHI4eUY4YU84eUxRcHpKQVJNa3B6aW9YVEdnM1AzUm1tS2ZzYTJrMFVsTkFSZ18xM25GSW1TbGxUclhsQ1lGcVVOdktrY0hMZEFndVJQLWfSAbwBQVVfeXFMT2pLM2tzZkh0Q1NaZEp4MFJNYVh6dzNOTFlNN1NGbmhFcUUwczR3NW9INFBlVFV1NTBTQXhndjJzNmhZMmVoNlRNWlJoX2FJcWlwQm5MRUstUzcwRFd1UjZXa19selZ0VHhKbnpoZHhUSV83dnpBNUxTS0tQemE0aHFENXRFY1FjODlzWmJYd29aUUJNbi05UE5nRnFNcVo0c3dkdm5SMnh5Q0lfTlNwcC1SaTBhOHY4OUxfNGs?oc=5",
@@ -1399,13 +1390,31 @@
           "reportedAt": "2026-08-24T12:36:13Z"
         },
         {
-          "id": "report-57b9f52f79d6",
-          "title": "Iran in ‘full-scale war,' says President Pezeshkian",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbzZPOGR6bG9keVBJSWprVElLSlJCd3JaZDJWN2JhQTFrNko2YkNPVTV4Q201ejZnT056aHRIRXY0WndOODIxWnJoRXFlZE5XMDBzcVhWcnVGQkRsNWRvN1BTQTRxcFB3UXFmcUV3eUxQLTJQVlhuUTQ0RC1BTWFQYXhsR0hUNEx6YWhzV3A4cXZxNjRzRUtCaw?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
-          "reportedAt": "2026-08-23T07:44:08Z"
+          "id": "report-a7bc6dbf7ba1",
+          "title": "What did war with the US reveal about Iran’s weapons capabilities?",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMlVwLXBzM2xDX2hDc01sWE54elFDYTVPbF9zV3hDejl3NWMwczZnUF8zejVtcE9QTUxzWW1JVmwxaHNvYVRSeVd0cVFmczBNZ2NDUndDalpPUDJkRkN2My1TRlhNZGJqLXpKVjc2ZGlKNV9UWjRCb1hSOU5CN3I5VFRIOW9nYTdGVFRuOHNja3k2cXJMa24wSGUxb01QS1psY0NVTW1lWTXSAa4BQVVfeXFMT3BOajZLb0UxQmxfdjJUS0tsYTZtLWcxcy1Sek0wd3VEbG9OQkoxazU5cUt0QlA1eXhJbnBnZzdTc1ZDRHMxVmxpLWhwX0pLb1BRb2hRdXZ1djBHRDI0TU5va29YLUt0MDVzWmRLSDJWU1JKak1GN0JxVGpHQWthMkxXa0FzRDVMOC1md3ZRUmpoVENsb0NNQmdlclFYR2xhYlBNdGp6VFBJcV9LUGFn?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-22T14:31:57Z"
+        },
+        {
+          "id": "report-79fb1cde4077",
+          "title": "US public support for Iran war falls as Trump approval at record low: Poll",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVEIwTjRsMEVZR0Y1anpISy16SnpnZ2ZXWURndm1UVlp5bml0TUZTQmRuNzVpTmx6Smg1ckJqVllBN1BxU0ZuZ0M4aFpuWGEySlNnMTZPVzlGLXJmVGtlaFMxREczNUVHTEtaVzdSRy1LRjM2TzdCR19TcnhKdTdja2NuRXNhcWdzMUVzZTNZVE5UaHI2eE1LY3BlX2ZhZW5QRXU2UzNDaHhIQldlQmtaR2x6Um_SAboBQVVfeXFMTzFBbU8xNXQ5RkxyNW1qWnhXWF9jZ3MtUXpkcnlvd2dLSElCUjNfOUlnSzF5V0tYbzhPV3YteERjMFdtZG9ITzNRNXZVNE9rVEZKQnFOdWxLQ0VDaVZqdnRfS3pDbk1yMHFscklSYlZpeHROSU1QSmFab2o0WExVSG11Nkl2LXNhemVyYWtvUGNmV0c1eEJWY3lRU0d6MWJPWjl0S0NnLWpxSzFmV1NxVjV4X3JkX2ZZNUtR?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-24T21:38:31Z"
+        },
+        {
+          "id": "report-9e5fde3f7726",
+          "title": "Can Trump's economic war ultimately force Iran to compromise? - Al-Monitor",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQ2lBS3VJaV9KN2twdV9Oa2R6bFlJSmttU0p5c2dUZnFlOGdXb1pYckpzY2thZ2J4OTBuQkpEei03NFQ4VjdsSE9rbXF5X05vQjJIY3AtdGJXZGJXcUthd2FLUURieUdXTEo3cDNSVk8zeUVrUTVDM1c1SDJNMG5fNHdsTmR2X01rSk1pTXhnQmV5dk03SFdaMkxUbUctUEV3V3pZ?oc=5",
+          "domain": "al-monitor.com",
+          "sourceTier": "Regional reporting",
+          "confidenceLabel": "REGIONAL REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-22T08:44:49Z"
         },
         {
           "id": "report-ee9b8d897cb4",
@@ -1417,22 +1426,13 @@
           "reportedAt": "2026-08-24T16:06:01Z"
         },
         {
-          "id": "report-dc713638e362",
-          "title": "US allies in Asia wary as Trump moves military assets for Iran war",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcjFkTDdDTURoUFNsQXFzRGlNTl8xNDh3UDVVOUpqSTBPOGZpUHFHZnBNeHFBOV9relBhVzIycDd2dFVlWnJHTm5LUTZDQXZvSHJQU3lsMnYtaDV4cUVaWF9OWU8tN3ZtY2taRjRfLUxTWVJxb2JaSW9TVi0zTUpKTXJ1d1ZrX2wtN1Mwblh0TEpVZVM0bGVHN0hkU2lHaDZDNUo1RXZuWG5LVTjSAbABQVVfeXFMTTJ6WFZsRkVaMzU4b2VtVlNEU2VfODhHdWNrS3VPQUQwYTJFaWdGS01sMDhoRHdSX2VQUC05SlJLTzIzR2tabzNrcjZjcVN2UWNhSU43THFvM3R5WkloVHgxOXBydlRGN3ZreXdUQlBnbVhicG00OUxLMVpwaENuR0Noc1lCRVN0eDVNLUw3cURrdGw3N1BZZVlVNUlrVEhnclVNWHRNb0FDTmhtUy1wU2w?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-21T12:35:37Z"
-        },
-        {
-          "id": "report-779dc77876bc",
-          "title": "Israel bombs Syria as US envoy says base attack aimed at ‘baiting’ Turkiye",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORTJLYU12dTBCT1NUYVlSQ3BrcTVRWFd6NUVLdnVpcmRoZURBd1dkM0JRd1NjY19faVBBYkhrQlpKUnVqRkFCMXRYbk5Hd0N0S291X2NSQ0RFVWgycHhWRGVXMGVJdk44cWdVbmUyNDNfeE45YnFVekdTSW5aanlEQVpWS052aUE4QklTaUNSQ3VETjdCNWZlNUFULUUtY1doWVdJbHAxMmdPUdIBrwFBVV95cUxNY09CbUtqTjdiUWl6R01LdVBqQXBEYVJ5RFI4UkdGNmMxT3NxX3VKUnQzZElkendCWFdsODJRcW04bVhtb20wZ0xvVERzOHY4bDFuOTJMWVpwd3I4ZmlCV2xnSVFJUHRzcEJWY0pCSGRPd3E2NmowU3dOTV9RbVRFdUhNdDRkNE9SMVVxR3J5andGR0N5S09YMUQ1TC1KS1JOelMzaWxkS1Y0V3pJTWtz?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-23T01:56:01Z"
+          "id": "report-57b9f52f79d6",
+          "title": "Iran in ‘full-scale war,' says President Pezeshkian",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbzZPOGR6bG9keVBJSWprVElLSlJCd3JaZDJWN2JhQTFrNko2YkNPVTV4Q201ejZnT056aHRIRXY0WndOODIxWnJoRXFlZE5XMDBzcVhWcnVGQkRsNWRvN1BTQTRxcFB3UXFmcUV3eUxQLTJQVlhuUTQ0RC1BTWFQYXhsR0hUNEx6YWhzV3A4cXZxNjRzRUtCaw?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-08-23T07:44:08Z"
         },
         {
           "id": "report-11a57e0d9099",
@@ -1450,25 +1450,25 @@
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-22T03:43:36Z"
+          "reportedAt": "2026-08-22T04:11:01Z"
         },
         {
-          "id": "report-be7f4facb863",
-          "title": "How much more are you spending on petrol since the war on Iran began?",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRlRHcXJZQ3lkUXFmTE9nZGh0VVdEbkxSd0dja1luT2F2LWkzaWRzSHR2LWM0Y2FvUFROelozX0Z6YUxGb2dMd2dYWnp0eTFwcTFQdGUwMUZJOWVxWUMwa0Q3S1BVNjFVbEpSNVlUZGZDSW5BOHFsRFlNZkJ4VmVGWkFQN1BEUkhvY19aVGpKb3VVbl9sQjVBb05LLVpDdUc2eks0d0hhZ1FCT3JaY1HSAbMBQVVfeXFMTW5VN0ZFYUw2SS00SmNvSzRuRVh2Um5fR3pnVUdSSUM1bGZGOEsyUHFUNFBJb3J1QlQ2aDk4TmNvWmVKRWYtRnlBZFQ5OU1kaF9BZ1BPVHZRY3NRbktMZHFEek9QbW90RGJTUUJvcFNJSTJ6bHdXQnl3MzNjeGxuNUI4dnN1czFjdHhDRDlCd3BKSEhQaWdVejB4Vjl6UG9XVE01RndKNVgzQU15SV9lMHREeTg?oc=5",
+          "id": "report-779dc77876bc",
+          "title": "Israel bombs Syria as US envoy says base attack aimed at ‘baiting’ Turkiye",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORTJLYU12dTBCT1NUYVlSQ3BrcTVRWFd6NUVLdnVpcmRoZURBd1dkM0JRd1NjY19faVBBYkhrQlpKUnVqRkFCMXRYbk5Hd0N0S291X2NSQ0RFVWgycHhWRGVXMGVJdk44cWdVbmUyNDNfeE45YnFVekdTSW5aanlEQVpWS052aUE4QklTaUNSQ3VETjdCNWZlNUFULUUtY1doWVdJbHAxMmdPUdIBrwFBVV95cUxNY09CbUtqTjdiUWl6R01LdVBqQXBEYVJ5RFI4UkdGNmMxT3NxX3VKUnQzZElkendCWFdsODJRcW04bVhtb20wZ0xvVERzOHY4bDFuOTJMWVpwd3I4ZmlCV2xnSVFJUHRzcEJWY0pCSGRPd3E2NmowU3dOTV9RbVRFdUhNdDRkNE9SMVVxR3J5andGR0N5S09YMUQ1TC1KS1JOelMzaWxkS1Y0V3pJTWtz?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-24T07:30:07Z"
+          "reportedAt": "2026-08-23T01:56:01Z"
         },
         {
-          "id": "report-0b3dd7d25d65",
-          "title": "'Half my business will be gone' - firms in Canada and US fear trade war",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpZHpVWGZwS0RVR2VuRjJxSmttX0NQNWw2bzcya0tzRWRhWlN6V0NJdFdyRzdMUWxyNTg3TS1LdFNfZG5ZYUVJTHFJeGY2ZkhEanVXY2V5TmlsZw?oc=5",
-          "domain": "bbc.com",
+          "id": "report-0fa268034343",
+          "title": "Canada-US trade war: Who wins? Who loses?",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZ1lMQWJ1bjJmQzdIeDVVODlIdmNscUN4UU9vS0Zkb2V6MGZkbDNZZmhWcW9PVElhWU80UVVsZkx3b3E4SnhoRzNqMkdWSUtDV0p5T05qNWR5el9Vc2JpaEs3ZUtJbE1HQ19hRHRBS2lhMnpHdUN4ZFZ0bFk1bGhNMEJLNFozWHFKV3AwVm5ySDVsNTjSAZgBQVVfeXFMTm92amJDNlpHVGJTanQwME8xRUlxYWctMk1zNTlYSndUR0JrVTJWTURudVY0REZudEQySzk5TkxXa2RycHZqclBrZXBUWXNZWXhZc2Rkd3c4elJzelo2UEN5MUw1eW5wcU8wMEpVX3lCRlBmVmRvUFlvU0c0YkpsbWNBVS1xdHJuRF81Y1Y1YUYzWjl0VlhvcTM?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-24T09:47:22Z"
+          "reportedAt": "2026-08-24T07:10:01Z"
         },
         {
           "id": "report-372b096ff4db",
