@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-26T16:39:20.891Z",
+  "generatedAt": "2026-08-26T20:04:17.576Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-08-26T13:18:00.222Z",
+      "generatedAt": "2026-08-26T20:04:17.576Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -1119,7 +1119,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-08-26T13:18:00.222Z",
+      "generatedAt": "2026-08-26T20:04:17.576Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -1128,14 +1128,6 @@
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "seen": "20260823T200200Z",
-          "pinned": false
-        },
-        {
-          "title": "Key inflation gauge remains elevated during Iran war and ongoing US trade fights",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOGxWNU1peGt5RWVFVmx6M2xLMVp5OUlfcmlzWFp0WXFoZnRCcE1jSklyNjV1bzZxTmxucmxuSi0yaVRBYXNsdWVVOUFhRkpsVjhQOGpYQ3JEYV9NN2M3c1YwbGN0RVZEQUl2QmZGTFphRGtoTUN4d2tCSlE1QmpITTJTTjZtdG5wdW9wTFhHNEp6QmtYRmhMeEx3TjA3OGVjZmZ3?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260826T124200Z",
           "pinned": false
         },
         {
@@ -1171,14 +1163,6 @@
           "pinned": false
         },
         {
-          "title": "Iran warns of retaliation against countries joining US ‘economic war’",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORlFYOHBOWnRTWC00UkQ2U2FBWWJYRXFNT2NXUXJla1pNU1JFTzJZX1dsOGVvVGJLdEItUlBHUHlrMkJJSE1lS0gxSGIzTTR5T0F3RkRfbGNhalRQV3dsQ3dHbEx4OS1yOG9ldjAtamVWVUpnZHNyekhLYVdMRWpaa1k3a1ExdDFheHYzMGVrWDFmczktdHpjOXNnX0pkSVFVZzBKcnNLTEhxQdIBrwFBVV95cUxQT3VjZlFtdm1HYzhhQmZyZ05QWXAxUFJFc2J3d2NiSWRtbVFmWUhXSk9qNmF3dHotQmhJWm9aakxEcDkwb2cydU5KclJ2WlpYODhmZTFaZENuVmdiVWdicU4xdHBMaGIxcXY5VFk2RG1SZld2WkhWeGp5TlN0TjdVWWpOYmtSZllhQzZRMzduby1CWGJNdkRPM3g2MmJGSnJaWnBkWVpMZVA3YS1pYy1v?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260823T054403Z",
-          "pinned": false
-        },
-        {
           "title": "Trump ignored top-level warnings before launching Iran war: Report",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTXIyZ05CMWtXS21HTU5EQTdLYTBmSEVPUUpxVTB1S3ozMU12NjVBNUsya1BWRWlyZGpWUjIyNHVsVEZlaWFaR2RSMFA2Q3VYSEJ3bi02VlByQ0NFX1dNMFM2S2NRR3VQakNzc2dZMVFOV3AtdmstbGVfcTU3cnpMdk9JZXN4aDBON3MybU9BZXNxd3dHVm1RVmhYNDhrRTI3eFpsY1ROQ1VCTDA?oc=5",
           "domain": "aa.com.tr",
@@ -1192,6 +1176,22 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260824T170936Z",
+          "pinned": false
+        },
+        {
+          "title": "'Half my business will be gone' - firms in Canada and US fear trade war",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpZHpVWGZwS0RVR2VuRjJxSmttX0NQNWw2bzcya0tzRWRhWlN6V0NJdFdyRzdMUWxyNTg3TS1LdFNfZG5ZYUVJTHFJeGY2ZkhEanVXY2V5TmlsZw?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260824T094722Z",
+          "pinned": false
+        },
+        {
+          "title": "Key inflation gauge remains elevated during Iran conflict and ongoing US trade fights",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOGxWNU1peGt5RWVFVmx6M2xLMVp5OUlfcmlzWFp0WXFoZnRCcE1jSklyNjV1bzZxTmxucmxuSi0yaVRBYXNsdWVVOUFhRkpsVjhQOGpYQ3JEYV9NN2M3c1YwbGN0RVZEQUl2QmZGTFphRGtoTUN4d2tCSlE1QmpITTJTTjZtdG5wdW9wTFhHNEp6QmtYRmhMeEx3TjA3OGVjZmZ3?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260826T142900Z",
           "pinned": false
         },
         {
@@ -1211,19 +1211,19 @@
           "pinned": false
         },
         {
-          "title": "Trump’s trade war with Canada could rattle economies in states with key Senate races",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUG40VWdpUHNfS0NDbFBSR1haNlhGYUtsdTk5TzlQcVhZV25BdmNjRlhBV3BiY3VRbzFNUDNwWlNxOXJlU0xXaHo2Wklvb0s2NnhqNFA5NHgwWXdQZlRKYkkxWkYtcnZNUFVDdWNkZmpvUlBhdGNPSVVadHp3Vmo0dzNzR0lSdmFrWXgzX21VME40NEM5dUtpREdWZVl2YTlIeFVB?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260825T040400Z",
-          "pinned": false
-        },
-        {
           "title": "Popcorn and cartoons: A Gaza cinema gives girls a brief escape from war",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQVNrbVJfNW5ibzdKcFJKQWxPbVNpYTNJTmVORWR0UnhDZjYyNnhycjVzWlB5eVJuY0ZwMUNjbkZHbms3WjZYOGlObjZaRkpCcldybVdUY1pEUC1ua0xuY0RmMXp0U09KSElvMVE2aU5lTzFNWEY3SFF2cWNGSnEwSExWZXdESHd5MlhHOHRadnJSLUlzeWd4VkN1LU5PYjgxdF83Z0dQaUZWWVdoSjkyeUpOMGpGd9IBuwFBVV95cUxOMmhWSEpsYWVRdGdlSVdWX1dZenlFT2dTbTlJdU9aQ1V2bTZYcld1RWpJREhDV09ZTHFiOWlFeC1IbEp1cTVRZ0RMRDlGY082UkF3enBEVTdOWVVNU2VySjcwbUJTTGEwSFRvMUQ2ZTR4dVlYakhReEdOS2huRkhfMWVDeHQ0NHAxRTVOSDNBeGFIVjl6bjZodVBBNDV2UTYzZm9VUVZWYzhYSW5Cc25lcS1tbFBfTnU5djV3?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260825T133337Z",
+          "pinned": false
+        },
+        {
+          "title": "Trump’s trade war with Canada could rattle economies in states with key Senate races",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUG40VWdpUHNfS0NDbFBSR1haNlhGYUtsdTk5TzlQcVhZV25BdmNjRlhBV3BiY3VRbzFNUDNwWlNxOXJlU0xXaHo2Wklvb0s2NnhqNFA5NHgwWXdQZlRKYkkxWkYtcnZNUFVDdWNkZmpvUlBhdGNPSVVadHp3Vmo0dzNzR0lSdmFrWXgzX21VME40NEM5dUtpREdWZVl2YTlIeFVB?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260825T040400Z",
           "pinned": false
         },
         {
@@ -1259,6 +1259,22 @@
           "pinned": false
         },
         {
+          "title": "Iran emphasises self-sufficiency in battle against US economic war",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOU9sSW5LUGoxYjV0VTZRR2xMT0NmdHJZUWR3VDhzWFZaSGJTNnFtYlpQbGdPTEdIbFczX0F2YnNMMkRZZmR0b01qNWxYY2lFbE1DM3FGQk92d0t5dHpRQ1ZKU19xOWllYVZDa0FsWFhFLVhELWlUZm0zZ3c3Ym11cjd2MHEwS2xEUktyaThncFFfdEgxLUxyVXQybDZUUVI2Q21UMjYzONIBrAFBVV95cUxNR2ZuckNWYXNhbTZ6RC1lTGhobjI0elptUXlkZUZGcDdNZDE4Tl9ISEtnWmdDYkRjSnplTnBVNHZGcEc5b05xUHg0S2RHX2MxWk9LSktxMFBTdi1OT3Q4TExrQkhyRjBkM1JTdmFrUDRvTXlfQUNBUi1TSHJuVmx5V3ZDaVVmQkVCSW94Y1FmT1NZSzNmQnh0RVlTZXo5YmQxMEZVTGU2aUM3dDF3?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260826T165659Z",
+          "pinned": false
+        },
+        {
+          "title": "Kurdish-led SDF has dissolved, but has Syria really unified its military?",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRzVtN2F2SHJXbWxsaTc0bW9rVlpzTXhKN1QyUVBXTlJUeWtjby1DOXpDZHZkOGJicVRCdUdUZ3ZxX2tiaDZUX3p3cDlLcTdSMTdWRnAzZVNhYkQxakllWXdWOTF3V3dtcnVQSC14V1JOZWZYZUxrSWhlVThNM3RCZ1lZa0dfd2c1RnV3UUxjdDdjd19BbDZmTXh2bGFOam1Pb0pCVW5YNFlPdWVMVV82bGNR0gG3AUFVX3lxTFByWUF5N19MeHpaaFJFVTBvbUg0am05NVpoNDBXMm5Sal9kV2lNVWlqLVdMWGtIcVZUb3YySVFXT21rdll3QXcyQXVJaDVHbnJYUTRmZjhHRUMwVUNVeWVNTXI3bEJSU0ZpWklLck1xaWZhR0MyVmhsdTB2ckFtaF8wTjgxd2ZkaU5ZYm5MS2JFWjQzNmE5TjZZQk5hOE1ZSzJPUTRWREJOV3UxMVM5MFE0YjJjY29yZw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260826T183513Z",
+          "pinned": false
+        },
+        {
           "title": "Ceasefire monitoring mission arrives in Democratic Republic of Congo",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPV2pEbDZBS2Y4RmlYSnNObkRSMUtmWTc0T0tIREhTY1BJLTQ4aTkxRFFUcHhRelI1TmhkbzNYMXg5SnctTUUzRXZSS1hMQV81Yi16WFZ5QkpmdnhtOExEcmN5d2pDVXZ0M3ZFeGRPYmlscnYxYUdJRnJxSUpvMHVnU0g4ZTZmWktDMkxJMEUteFNfekJ0UzNqQmswVmZqUlY1eWFabXJmMWNiZTR4QlHSAbMBQVVfeXFMT3g5VkR1eEpxcW9BX2x0RThuNEVlNTBzaW40LWpBUUtITFNvWEZHQTJDdVVJTVpmNFVWaU5QNU15bTBRQ0ZjNE43TE4wTkxMTmJibldKN2dsNWRRRFFvWUFQYmJtNDd0OWJQVDNKeVIxdDJwdjRmX0xhUnFZVElkb1I1cjZ2NVp2THlwUTVyRXhvSmwxRWNzYzNZT28wc0U4dUM3VS0zZW5DRTlPS2V4czNZcjA?oc=5",
           "domain": "aljazeera.com",
@@ -1275,22 +1291,6 @@
           "pinned": false
         },
         {
-          "title": "Trump administration announces global economic war on Iran",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaXJ5VTQ2aGNWQlFQTnc1Q3RidzBzcmNkeGhhWlBzQjducGdCQWxmMGVCRENSdlpSMnVmSGN2bTJLSGtKOEtTRVd6bmx0TUUxWF9WY29RLWhvazY5N3NLZ29XWVRydjVkX1lKTUZHTHd0Z1ZyVHE3MHFZS1lYRG5kdGFMemNBLVNNbjl0MEhPalVUMGUzMGgxX19iOGJjZlpxZU1kTkNEOVB2QnZWdXFWNNIBtgFBVV95cUxOaVpHcXcwUENtRkhWRmMwc25MYmpIWTFMN01GelZ6S2VBQ3lDMGpzcDB1ZkpFSGtWZnJzOERXMC1heF95NDJfYTM3YUhPWjVmSzlUTUhNT2RWMUVVRWRLSVp2XzFVZ1ZFN09XYnFzaTcxV3k3cFp0VVo2MnF3cWEwaHhCcnpjT1g0OXUweEs3YXE5SjhHcmxKYUJVQ3JPZVVwR0xQMXBHbmR3UUxIRkhtaFo2WTE1UQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260824T182710Z",
-          "pinned": false
-        },
-        {
-          "title": "The Iran war is bringing cyberwarfare into critical infrastructure",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbnd1WU0wWElIeGdXOFVoZWZkcHZoblhxQW9yV24zRDI0clEzT1prWmRFYmRnNmVxT2ZiQVdYengyRUpSOUZHZ0FCWHk5cUljdjg0NHcwNURrSGtUVHMwUi04dVFEOEFMS0dMTk1Rd0RWSEFpakplYmkwOXNrSUdrX2dLUGZmcHZDZlpXTTEyX296SENIUHhvZzZhOHB0eVdkempGUlhodlV1N1lqa19PTNIBtgFBVV95cUxQbXNnOEhpUkJWQUNCNkNTbTBWM2dNV25Hb0NRVVkyN09qY2F3YTI4UVRhMHZWZzh4b2FaZW5vUk9QTEN3ZkExQkZ5dnczakwwWGVtVGZuYXNCS25aaWdsZUNHSXAxVHZIMDVBV3pob1I5cnhoVXI0ZFZFQ0M3U1NNZkhjTm12QWNDbjJXSG9hX3VxaEJVbDdlX1QzbEFCTEtGb09iMUVhb0thUHp4V2VlYzZzcG9PUQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260825T063937Z",
-          "pinned": false
-        },
-        {
           "title": "Can Pakistan’s Asim Munir convince Iran military chiefs to return to talks?",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOay1COUJiaHZoMmdiZ1ZXWFBhRE1FeThOWE1kY3NwaXQ4NUhVWGh6THJLUjNNTUFRTU5QQnJTMWZLU0VqMzRCMnVoM29vQ3RkaG5NV1p0RGZROG9WYk5xdXhaak8zemdzRENuUmlNTldrY2tqay12MjJyZnNzWm9DNkxsX1RGV1V6ZXhrSzVsV3dYeE5iNG5YSGZGTVl5aU1uRmQtVHc2N2Q4eDBmbDlBRXJ2ekvSAboBQVVfeXFMTTdiUmQwZ2NVZ2lXOWcyUTFnWDJBekpFaDVISGpkNmRHTHUtYkRNOEJLMjFZVUYtTnVPTWZObDk3eTJIWS03M01nZ18ydEpCX0dUdVFIX2JKbUxwTm9EeXlQZm5NUkV1ODlKNUNzT1JBU2piYzliTDRZT2liYXNXaXkzbXZfTXBMZWEyeTlIVHQ5S25ZLVQ5ampaLVcyMm1tY2h4ZzhaRjFGdVdza0xKS3JiOUJoX2lwTlF3?oc=5",
           "domain": "aljazeera.com",
@@ -1299,19 +1299,19 @@
           "pinned": false
         },
         {
-          "title": "The US and Canada could pull back from an all-out trade war. It’s not clear that they will",
+          "title": "US-Canada animosity could impede an end to a trade war neither country wants",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcDFBLTNoRzBfUklOeE5RZDVndmoxRDN1aTFDT0JTX2JxZEVURnZJVHVpcUpYcUFubDdmTDhKamdRbnM2TW9xQ3pTOHh6MUVGelpfc1hwN05ERjNaMko3X3RQTVhnWmNZRVZ3R0doaS1NWGEyQWZGNEhQZV9iM1RuVFpOZjdEZmRRZVZkS25JWDFyYXpzTTNfLWhvcDB0dw?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260826T101300Z",
+          "seen": "20260826T182100Z",
           "pinned": false
         },
         {
-          "title": "Iran in ‘full-scale war,' says President Pezeshkian",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbzZPOGR6bG9keVBJSWprVElLSlJCd3JaZDJWN2JhQTFrNko2YkNPVTV4Q201ejZnT056aHRIRXY0WndOODIxWnJoRXFlZE5XMDBzcVhWcnVGQkRsNWRvN1BTQTRxcFB3UXFmcUV3eUxQLTJQVlhuUTQ0RC1BTWFQYXhsR0hUNEx6YWhzV3A4cXZxNjRzRUtCaw?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "seen": "20260823T074408Z",
+          "title": "The Iran war is bringing cyberwarfare into critical infrastructure",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbnd1WU0wWElIeGdXOFVoZWZkcHZoblhxQW9yV24zRDI0clEzT1prWmRFYmRnNmVxT2ZiQVdYengyRUpSOUZHZ0FCWHk5cUljdjg0NHcwNURrSGtUVHMwUi04dVFEOEFMS0dMTk1Rd0RWSEFpakplYmkwOXNrSUdrX2dLUGZmcHZDZlpXTTEyX296SENIUHhvZzZhOHB0eVdkempGUlhodlV1N1lqa19PTNIBtgFBVV95cUxQbXNnOEhpUkJWQUNCNkNTbTBWM2dNV25Hb0NRVVkyN09qY2F3YTI4UVRhMHZWZzh4b2FaZW5vUk9QTEN3ZkExQkZ5dnczakwwWGVtVGZuYXNCS25aaWdsZUNHSXAxVHZIMDVBV3pob1I5cnhoVXI0ZFZFQ0M3U1NNZkhjTm12QWNDbjJXSG9hX3VxaEJVbDdlX1QzbEFCTEtGb09iMUVhb0thUHp4V2VlYzZzcG9PUQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260825T063937Z",
           "pinned": false
         }
       ],
@@ -1324,15 +1324,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-23T20:02:00Z"
-        },
-        {
-          "id": "report-4707389ec614",
-          "title": "Key inflation gauge remains elevated during Iran war and ongoing US trade fights",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOGxWNU1peGt5RWVFVmx6M2xLMVp5OUlfcmlzWFp0WXFoZnRCcE1jSklyNjV1bzZxTmxucmxuSi0yaVRBYXNsdWVVOUFhRkpsVjhQOGpYQ3JEYV9NN2M3c1YwbGN0RVZEQUl2QmZGTFphRGtoTUN4d2tCSlE1QmpITTJTTjZtdG5wdW9wTFhHNEp6QmtYRmhMeEx3TjA3OGVjZmZ3?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-26T12:42:00Z"
         },
         {
           "id": "report-d76081078b9c",
@@ -1371,15 +1362,6 @@
           "reportedAt": "2026-08-24T16:06:01Z"
         },
         {
-          "id": "report-e95878225d95",
-          "title": "Iran warns of retaliation against countries joining US ‘economic war’",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORlFYOHBOWnRTWC00UkQ2U2FBWWJYRXFNT2NXUXJla1pNU1JFTzJZX1dsOGVvVGJLdEItUlBHUHlrMkJJSE1lS0gxSGIzTTR5T0F3RkRfbGNhalRQV3dsQ3dHbEx4OS1yOG9ldjAtamVWVUpnZHNyekhLYVdMRWpaa1k3a1ExdDFheHYzMGVrWDFmczktdHpjOXNnX0pkSVFVZzBKcnNLTEhxQdIBrwFBVV95cUxQT3VjZlFtdm1HYzhhQmZyZ05QWXAxUFJFc2J3d2NiSWRtbVFmWUhXSk9qNmF3dHotQmhJWm9aakxEcDkwb2cydU5KclJ2WlpYODhmZTFaZENuVmdiVWdicU4xdHBMaGIxcXY5VFk2RG1SZld2WkhWeGp5TlN0TjdVWWpOYmtSZllhQzZRMzduby1CWGJNdkRPM3g2MmJGSnJaWnBkWVpMZVA3YS1pYy1v?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-23T05:44:03Z"
-        },
-        {
           "id": "report-8cf0ac2d77f9",
           "title": "Trump ignored top-level warnings before launching Iran war: Report",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTXIyZ05CMWtXS21HTU5EQTdLYTBmSEVPUUpxVTB1S3ozMU12NjVBNUsya1BWRWlyZGpWUjIyNHVsVEZlaWFaR2RSMFA2Q3VYSEJ3bi02VlByQ0NFX1dNMFM2S2NRR3VQakNzc2dZMVFOV3AtdmstbGVfcTU3cnpMdk9JZXN4aDBON3MybU9BZXNxd3dHVm1RVmhYNDhrRTI3eFpsY1ROQ1VCTDA?oc=5",
@@ -1396,6 +1378,24 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-24T17:09:36Z"
+        },
+        {
+          "id": "report-0b3dd7d25d65",
+          "title": "'Half my business will be gone' - firms in Canada and US fear trade war",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpZHpVWGZwS0RVR2VuRjJxSmttX0NQNWw2bzcya0tzRWRhWlN6V0NJdFdyRzdMUWxyNTg3TS1LdFNfZG5ZYUVJTHFJeGY2ZkhEanVXY2V5TmlsZw?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-24T09:47:22Z"
+        },
+        {
+          "id": "report-4707389ec614",
+          "title": "Key inflation gauge remains elevated during Iran conflict and ongoing US trade fights",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOGxWNU1peGt5RWVFVmx6M2xLMVp5OUlfcmlzWFp0WXFoZnRCcE1jSklyNjV1bzZxTmxucmxuSi0yaVRBYXNsdWVVOUFhRkpsVjhQOGpYQ3JEYV9NN2M3c1YwbGN0RVZEQUl2QmZGTFphRGtoTUN4d2tCSlE1QmpITTJTTjZtdG5wdW9wTFhHNEp6QmtYRmhMeEx3TjA3OGVjZmZ3?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-26T14:29:00Z"
         },
         {
           "id": "report-11a57e0d9099",
@@ -1416,15 +1416,6 @@
           "reportedAt": "2026-08-23T05:44:03Z"
         },
         {
-          "id": "report-67439a7e36f6",
-          "title": "Trump’s trade war with Canada could rattle economies in states with key Senate races",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUG40VWdpUHNfS0NDbFBSR1haNlhGYUtsdTk5TzlQcVhZV25BdmNjRlhBV3BiY3VRbzFNUDNwWlNxOXJlU0xXaHo2Wklvb0s2NnhqNFA5NHgwWXdQZlRKYkkxWkYtcnZNUFVDdWNkZmpvUlBhdGNPSVVadHp3Vmo0dzNzR0lSdmFrWXgzX21VME40NEM5dUtpREdWZVl2YTlIeFVB?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-25T04:04:00Z"
-        },
-        {
           "id": "report-eca9610767a9",
           "title": "Popcorn and cartoons: A Gaza cinema gives girls a brief escape from war",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQVNrbVJfNW5ibzdKcFJKQWxPbVNpYTNJTmVORWR0UnhDZjYyNnhycjVzWlB5eVJuY0ZwMUNjbkZHbms3WjZYOGlObjZaRkpCcldybVdUY1pEUC1ua0xuY0RmMXp0U09KSElvMVE2aU5lTzFNWEY3SFF2cWNGSnEwSExWZXdESHd5MlhHOHRadnJSLUlzeWd4VkN1LU5PYjgxdF83Z0dQaUZWWVdoSjkyeUpOMGpGd9IBuwFBVV95cUxOMmhWSEpsYWVRdGdlSVdWX1dZenlFT2dTbTlJdU9aQ1V2bTZYcld1RWpJREhDV09ZTHFiOWlFeC1IbEp1cTVRZ0RMRDlGY082UkF3enBEVTdOWVVNU2VySjcwbUJTTGEwSFRvMUQ2ZTR4dVlYakhReEdOS2huRkhfMWVDeHQ0NHAxRTVOSDNBeGFIVjl6bjZodVBBNDV2UTYzZm9VUVZWYzhYSW5Cc25lcS1tbFBfTnU5djV3?oc=5",
@@ -1432,6 +1423,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-25T13:33:37Z"
+        },
+        {
+          "id": "report-67439a7e36f6",
+          "title": "Trump’s trade war with Canada could rattle economies in states with key Senate races",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUG40VWdpUHNfS0NDbFBSR1haNlhGYUtsdTk5TzlQcVhZV25BdmNjRlhBV3BiY3VRbzFNUDNwWlNxOXJlU0xXaHo2Wklvb0s2NnhqNFA5NHgwWXdQZlRKYkkxWkYtcnZNUFVDdWNkZmpvUlBhdGNPSVVadHp3Vmo0dzNzR0lSdmFrWXgzX21VME40NEM5dUtpREdWZVl2YTlIeFVB?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-25T04:04:00Z"
         },
         {
           "id": "report-32ecd53839f7",
@@ -1470,6 +1470,24 @@
           "reportedAt": "2026-08-23T18:37:41Z"
         },
         {
+          "id": "report-b6d4394de859",
+          "title": "Iran emphasises self-sufficiency in battle against US economic war",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOU9sSW5LUGoxYjV0VTZRR2xMT0NmdHJZUWR3VDhzWFZaSGJTNnFtYlpQbGdPTEdIbFczX0F2YnNMMkRZZmR0b01qNWxYY2lFbE1DM3FGQk92d0t5dHpRQ1ZKU19xOWllYVZDa0FsWFhFLVhELWlUZm0zZ3c3Ym11cjd2MHEwS2xEUktyaThncFFfdEgxLUxyVXQybDZUUVI2Q21UMjYzONIBrAFBVV95cUxNR2ZuckNWYXNhbTZ6RC1lTGhobjI0elptUXlkZUZGcDdNZDE4Tl9ISEtnWmdDYkRjSnplTnBVNHZGcEc5b05xUHg0S2RHX2MxWk9LSktxMFBTdi1OT3Q4TExrQkhyRjBkM1JTdmFrUDRvTXlfQUNBUi1TSHJuVmx5V3ZDaVVmQkVCSW94Y1FmT1NZSzNmQnh0RVlTZXo5YmQxMEZVTGU2aUM3dDF3?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-26T16:56:59Z"
+        },
+        {
+          "id": "report-559e81aafae6",
+          "title": "Kurdish-led SDF has dissolved, but has Syria really unified its military?",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRzVtN2F2SHJXbWxsaTc0bW9rVlpzTXhKN1QyUVBXTlJUeWtjby1DOXpDZHZkOGJicVRCdUdUZ3ZxX2tiaDZUX3p3cDlLcTdSMTdWRnAzZVNhYkQxakllWXdWOTF3V3dtcnVQSC14V1JOZWZYZUxrSWhlVThNM3RCZ1lZa0dfd2c1RnV3UUxjdDdjd19BbDZmTXh2bGFOam1Pb0pCVW5YNFlPdWVMVV82bGNR0gG3AUFVX3lxTFByWUF5N19MeHpaaFJFVTBvbUg0am05NVpoNDBXMm5Sal9kV2lNVWlqLVdMWGtIcVZUb3YySVFXT21rdll3QXcyQXVJaDVHbnJYUTRmZjhHRUMwVUNVeWVNTXI3bEJSU0ZpWklLck1xaWZhR0MyVmhsdTB2ckFtaF8wTjgxd2ZkaU5ZYm5MS2JFWjQzNmE5TjZZQk5hOE1ZSzJPUTRWREJOV3UxMVM5MFE0YjJjY29yZw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-26T18:35:13Z"
+        },
+        {
           "id": "report-cf45d24a5d68",
           "title": "Ceasefire monitoring mission arrives in Democratic Republic of Congo",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPV2pEbDZBS2Y4RmlYSnNObkRSMUtmWTc0T0tIREhTY1BJLTQ4aTkxRFFUcHhRelI1TmhkbzNYMXg5SnctTUUzRXZSS1hMQV81Yi16WFZ5QkpmdnhtOExEcmN5d2pDVXZ0M3ZFeGRPYmlscnYxYUdJRnJxSUpvMHVnU0g4ZTZmWktDMkxJMEUteFNfekJ0UzNqQmswVmZqUlY1eWFabXJmMWNiZTR4QlHSAbMBQVVfeXFMT3g5VkR1eEpxcW9BX2x0RThuNEVlNTBzaW40LWpBUUtITFNvWEZHQTJDdVVJTVpmNFVWaU5QNU15bTBRQ0ZjNE43TE4wTkxMTmJibldKN2dsNWRRRFFvWUFQYmJtNDd0OWJQVDNKeVIxdDJwdjRmX0xhUnFZVElkb1I1cjZ2NVp2THlwUTVyRXhvSmwxRWNzYzNZT28wc0U4dUM3VS0zZW5DRTlPS2V4czNZcjA?oc=5",
@@ -1488,24 +1506,6 @@
           "reportedAt": "2026-08-24T12:36:13Z"
         },
         {
-          "id": "report-82c677baa427",
-          "title": "Trump administration announces global economic war on Iran",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaXJ5VTQ2aGNWQlFQTnc1Q3RidzBzcmNkeGhhWlBzQjducGdCQWxmMGVCRENSdlpSMnVmSGN2bTJLSGtKOEtTRVd6bmx0TUUxWF9WY29RLWhvazY5N3NLZ29XWVRydjVkX1lKTUZHTHd0Z1ZyVHE3MHFZS1lYRG5kdGFMemNBLVNNbjl0MEhPalVUMGUzMGgxX19iOGJjZlpxZU1kTkNEOVB2QnZWdXFWNNIBtgFBVV95cUxOaVpHcXcwUENtRkhWRmMwc25MYmpIWTFMN01GelZ6S2VBQ3lDMGpzcDB1ZkpFSGtWZnJzOERXMC1heF95NDJfYTM3YUhPWjVmSzlUTUhNT2RWMUVVRWRLSVp2XzFVZ1ZFN09XYnFzaTcxV3k3cFp0VVo2MnF3cWEwaHhCcnpjT1g0OXUweEs3YXE5SjhHcmxKYUJVQ3JPZVVwR0xQMXBHbmR3UUxIRkhtaFo2WTE1UQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-24T18:27:10Z"
-        },
-        {
-          "id": "report-0b3640d1f790",
-          "title": "The Iran war is bringing cyberwarfare into critical infrastructure",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbnd1WU0wWElIeGdXOFVoZWZkcHZoblhxQW9yV24zRDI0clEzT1prWmRFYmRnNmVxT2ZiQVdYengyRUpSOUZHZ0FCWHk5cUljdjg0NHcwNURrSGtUVHMwUi04dVFEOEFMS0dMTk1Rd0RWSEFpakplYmkwOXNrSUdrX2dLUGZmcHZDZlpXTTEyX296SENIUHhvZzZhOHB0eVdkempGUlhodlV1N1lqa19PTNIBtgFBVV95cUxQbXNnOEhpUkJWQUNCNkNTbTBWM2dNV25Hb0NRVVkyN09qY2F3YTI4UVRhMHZWZzh4b2FaZW5vUk9QTEN3ZkExQkZ5dnczakwwWGVtVGZuYXNCS25aaWdsZUNHSXAxVHZIMDVBV3pob1I5cnhoVXI0ZFZFQ0M3U1NNZkhjTm12QWNDbjJXSG9hX3VxaEJVbDdlX1QzbEFCTEtGb09iMUVhb0thUHp4V2VlYzZzcG9PUQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-25T06:39:37Z"
-        },
-        {
           "id": "report-5e4a56e99658",
           "title": "Can Pakistan’s Asim Munir convince Iran military chiefs to return to talks?",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOay1COUJiaHZoMmdiZ1ZXWFBhRE1FeThOWE1kY3NwaXQ4NUhVWGh6THJLUjNNTUFRTU5QQnJTMWZLU0VqMzRCMnVoM29vQ3RkaG5NV1p0RGZROG9WYk5xdXhaak8zemdzRENuUmlNTldrY2tqay12MjJyZnNzWm9DNkxsX1RGV1V6ZXhrSzVsV3dYeE5iNG5YSGZGTVl5aU1uRmQtVHc2N2Q4eDBmbDlBRXJ2ekvSAboBQVVfeXFMTTdiUmQwZ2NVZ2lXOWcyUTFnWDJBekpFaDVISGpkNmRHTHUtYkRNOEJLMjFZVUYtTnVPTWZObDk3eTJIWS03M01nZ18ydEpCX0dUdVFIX2JKbUxwTm9EeXlQZm5NUkV1ODlKNUNzT1JBU2piYzliTDRZT2liYXNXaXkzbXZfTXBMZWEyeTlIVHQ5S25ZLVQ5ampaLVcyMm1tY2h4ZzhaRjFGdVdza0xKS3JiOUJoX2lwTlF3?oc=5",
@@ -1516,21 +1516,21 @@
         },
         {
           "id": "report-9afddffcf373",
-          "title": "The US and Canada could pull back from an all-out trade war. It’s not clear that they will",
+          "title": "US-Canada animosity could impede an end to a trade war neither country wants",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcDFBLTNoRzBfUklOeE5RZDVndmoxRDN1aTFDT0JTX2JxZEVURnZJVHVpcUpYcUFubDdmTDhKamdRbnM2TW9xQ3pTOHh6MUVGelpfc1hwN05ERjNaMko3X3RQTVhnWmNZRVZ3R0doaS1NWGEyQWZGNEhQZV9iM1RuVFpOZjdEZmRRZVZkS25JWDFyYXpzTTNfLWhvcDB0dw?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-26T10:13:00Z"
+          "reportedAt": "2026-08-26T18:21:00Z"
         },
         {
-          "id": "report-57b9f52f79d6",
-          "title": "Iran in ‘full-scale war,' says President Pezeshkian",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbzZPOGR6bG9keVBJSWprVElLSlJCd3JaZDJWN2JhQTFrNko2YkNPVTV4Q201ejZnT056aHRIRXY0WndOODIxWnJoRXFlZE5XMDBzcVhWcnVGQkRsNWRvN1BTQTRxcFB3UXFmcUV3eUxQLTJQVlhuUTQ0RC1BTWFQYXhsR0hUNEx6YWhzV3A4cXZxNjRzRUtCaw?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
-          "reportedAt": "2026-08-23T07:44:08Z"
+          "id": "report-0b3640d1f790",
+          "title": "The Iran war is bringing cyberwarfare into critical infrastructure",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbnd1WU0wWElIeGdXOFVoZWZkcHZoblhxQW9yV24zRDI0clEzT1prWmRFYmRnNmVxT2ZiQVdYengyRUpSOUZHZ0FCWHk5cUljdjg0NHcwNURrSGtUVHMwUi04dVFEOEFMS0dMTk1Rd0RWSEFpakplYmkwOXNrSUdrX2dLUGZmcHZDZlpXTTEyX296SENIUHhvZzZhOHB0eVdkempGUlhodlV1N1lqa19PTNIBtgFBVV95cUxQbXNnOEhpUkJWQUNCNkNTbTBWM2dNV25Hb0NRVVkyN09qY2F3YTI4UVRhMHZWZzh4b2FaZW5vUk9QTEN3ZkExQkZ5dnczakwwWGVtVGZuYXNCS25aaWdsZUNHSXAxVHZIMDVBV3pob1I5cnhoVXI0ZFZFQ0M3U1NNZkhjTm12QWNDbjJXSG9hX3VxaEJVbDdlX1QzbEFCTEtGb09iMUVhb0thUHp4V2VlYzZzcG9PUQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-25T06:39:37Z"
         },
         {
           "id": "report-defc72fd3c7f",
