@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-26T13:18:00.222Z",
+  "generatedAt": "2026-08-26T16:39:20.891Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -9,7 +9,7 @@
       "items": []
     },
     "safety": {
-      "generatedAt": "2026-08-25T16:19:48.971Z",
+      "generatedAt": "2026-08-26T16:39:20.891Z",
       "cadence": "daily",
       "items": [
         {
@@ -37,19 +37,19 @@
           "pinned": false
         },
         {
+          "title": "US Army Apache Helicopter Crashes Are On Rise, Showing Highest Numbers in 15 Years",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4VlQxT2VnTW5ranBqVEZSdUVEQS1QcWRhQWtJcjRZbnhhVUdBMFdkQnMtYXJ6bExoN25IMHRzRV93dENvUnNaT0JQaER1WmJtVEVLNE5oeUxoQWNZci1TaWs5eXFXWGMwVzhiNjdhcmQxbVlMM3c?oc=5",
+          "domain": "military.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260825T151030Z",
+          "pinned": false
+        },
+        {
           "title": "'I just crashed’ — New footage shows Marine after F-18 ejection",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ENC16amhkbmlxTnRKbi1lalU4Yjh5T1I0UWpURTBXeVNpWldicVc2Yl81OHJxYlJBWTNzM2p3M1RxVlV0QzNMX0RkQkpMallpSFdHc1hYeVlSTzNMSzBqRVVRM0VqYjVVLVpSbzhlY0tCNElDVFo2ag?oc=5",
           "domain": "taskandpurpose.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260818T202702Z",
-          "pinned": false
-        },
-        {
-          "title": "PLR 26-056 – Automobile Mishap Claims One Soldier’s Life",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSEZnUzY5SU8zcHRPQldIUWxsbU5TNVIzTDQ3UXJ6ZUpjWFJQckVzd1ZHT1AtaDRxU0hySnd4S2RIYjRfX1FVbVRhM01iYkdCMTVmQlZzQjFPMkVDeGdpQkxpVm1MUzN4US04cV9wU3puV3ZtWGQ0aHNjMlJmOWtTVWtNRlVfb3lQOWtxYXc4anRZejdaZnJOSTB4aGw4cVFVVGRsVWFOMWVjZU9BYzVUemNoSkd3YjBObXhqdVB5Yk5FOVBmYU9DTEtCSWlmWkYyMGlHemZmaUlZSEIxWXBN?oc=5",
-          "domain": "safety.army.mil",
-          "sourceTier": "Official military source",
-          "seen": "20260812T204821Z",
+          "seen": "20260818T070000Z",
           "pinned": false
         },
         {
@@ -58,6 +58,14 @@
           "domain": "stripes.com",
           "sourceTier": "Independent reporting",
           "seen": "20260819T062106Z",
+          "pinned": false
+        },
+        {
+          "title": "Air Force officer killed in remote Alaska crash was a ‘positive leader’",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yMTM3UTdNeXVhbVFBc2JTWDN4QzVJTG5sSk43aGh3a0FtRXI5dHgycy04dEhFUnBkSFd4NDUxNFkzQmZ0eXRRR29KTDNKV1FValItZzBoa25MNGI0WmhIOVVwZVhkZkk?oc=5",
+          "domain": "taskandpurpose.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260825T184439Z",
           "pinned": false
         },
         {
@@ -73,7 +81,7 @@
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYWN2ZkJSSU15Ukg1b21aVmlMSmVyT0FFYnJLVjJJOW5BRnBzdzFadnBUUEprSDNEbzEzYVBOakRsYVRmdUN0YzZXc1llV0xVMklfRllWYVVJLVpnaVU3cU90aUlQY0RmQUtwYkFPdGpZMGNFd3FtN2pfdmpDclo4WGUyamVXN0phc1VWUU9JdzRDZHhUMVlnRE5FREt0U2JXVFhjSVplbWluZHB4T3RRbw?oc=5",
           "domain": "stripes.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260825T100504Z",
+          "seen": "20260825T130243Z",
           "pinned": false
         },
         {
@@ -97,7 +105,7 @@
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc19FY29CaU9ZS05HZ010VnR3R2FGa1JBMFZTb2tZdEJLZkpfRTRLdm9VdGEwallmUi14dGlYNC12dmhYU3ZxaXJrQWJBM25LdmxadFFOanlYUWhkZFhmVTF2NG5iTUtfNHVJaWpiRVZ6UmdoVkxxUlU4OFFVVG13UA?oc=5",
           "domain": "safety.army.mil",
           "sourceTier": "Official military source",
-          "seen": "20260816T070000Z",
+          "seen": "20260823T070000Z",
           "pinned": false
         },
         {
@@ -118,6 +126,42 @@
         }
       ],
       "incidents": [
+        {
+          "id": "auto-f451a5233abb",
+          "reportDate": "2026-08-25",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Aviation",
+          "event": "US Army Apache Helicopter Crashes Are On Rise, Showing Highest Numbers in 15 Years",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4VlQxT2VnTW5ranBqVEZSdUVEQS1QcWRhQWtJcjRZbnhhVUdBMFdkQnMtYXJ6bExoN25IMHRzRV93dENvUnNaT0JQaER1WmJtVEVLNE5oeUxoQWNZci1TaWs5eXFXWGMwVzhiNjdhcmQxbVlMM3c?oc=5",
+          "sourceLabel": "military.com"
+        },
+        {
+          "id": "auto-bab30a20e514",
+          "reportDate": "2026-08-25",
+          "dateBasis": "report discovery date",
+          "branch": "Air Force",
+          "department": "Department of the Air Force",
+          "type": "Aviation",
+          "event": "Air Force officer killed in remote Alaska crash was a ‘positive leader’",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yMTM3UTdNeXVhbVFBc2JTWDN4QzVJTG5sSk43aGh3a0FtRXI5dHgycy04dEhFUnBkSFd4NDUxNFkzQmZ0eXRRR29KTDNKV1FValItZzBoa25MNGI0WmhIOVVwZVhkZkk?oc=5",
+          "sourceLabel": "taskandpurpose.com"
+        },
         {
           "id": "auto-7427334c6413",
           "reportDate": "2026-08-25",
@@ -170,6 +214,24 @@
           "sourceTier": "Official military source",
           "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
           "source": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUTdMM2hwSUw3Szk1Y3VpOVFRTjdQdnJmZzZaZWp6N3JzbjJpa3ZES0JyVm0za3Y4Z05zUmptck9FbHRCU2JyOVVFQTdVNC1nYUxEWEVQY2FRenhZWEI5YjVpS0ZTLW9NdWJyWWtpSU92dXQ2eVVMcHZGT18xdEVvc05YUWV3a2tHS1YyYldKRDlhel9zN3hGY0dUaTk4WDVGN1hGWm5DOUQtbFNiWGlHdktOb1htbDF6blNnV0JLbUY2S2RJX1hkbVMxaWxWRm1jcHVFcm5OZ2R1VXZTc0w1NnBNWWJ1UC1CZmYzV0hNaUY?oc=5",
+          "sourceLabel": "safety.army.mil"
+        },
+        {
+          "id": "auto-a349404d1c85",
+          "reportDate": "2026-08-23",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Other",
+          "event": "Mishap Investigation Advice",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "OFFICIAL INTAKE",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Official military source",
+          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
+          "source": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc19FY29CaU9ZS05HZ010VnR3R2FGa1JBMFZTb2tZdEJLZkpfRTRLdm9VdGEwallmUi14dGlYNC12dmhYU3ZxaXJrQWJBM25LdmxadFFOanlYUWhkZFhmVTF2NG5iTUtfNHVJaWpiRVZ6UmdoVkxxUlU4OFFVVG13UA?oc=5",
           "sourceLabel": "safety.army.mil"
         },
         {
@@ -279,24 +341,6 @@
           "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
           "source": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ENC16amhkbmlxTnRKbi1lalU4Yjh5T1I0UWpURTBXeVNpWldicVc2Yl81OHJxYlJBWTNzM2p3M1RxVlV0QzNMX0RkQkpMallpSFdHc1hYeVlSTzNMSzBqRVVRM0VqYjVVLVpSbzhlY0tCNElDVFo2ag?oc=5",
           "sourceLabel": "taskandpurpose.com"
-        },
-        {
-          "id": "auto-a349404d1c85",
-          "reportDate": "2026-08-16",
-          "dateBasis": "report discovery date",
-          "branch": "Army",
-          "department": "Department of the Army",
-          "type": "Other",
-          "event": "Mishap Investigation Advice",
-          "location": "See official source",
-          "fatalities": null,
-          "injuries": null,
-          "status": "OFFICIAL INTAKE",
-          "signalClass": "REPORTED MISHAP",
-          "sourceTier": "Official military source",
-          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
-          "source": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc19FY29CaU9ZS05HZ010VnR3R2FGa1JBMFZTb2tZdEJLZkpfRTRLdm9VdGEwallmUi14dGlYNC12dmhYU3ZxaXJrQWJBM25LdmxadFFOanlYUWhkZFhmVTF2NG5iTUtfNHVJaWpiRVZ6UmdoVkxxUlU4OFFVVG13UA?oc=5",
-          "sourceLabel": "safety.army.mil"
         },
         {
           "id": "auto-cbae79c7b676",
