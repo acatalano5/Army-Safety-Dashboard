@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-27T22:17:11.695Z",
+  "generatedAt": "2026-08-28T00:37:16.776Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -9,7 +9,7 @@
       "items": []
     },
     "safety": {
-      "generatedAt": "2026-08-26T16:39:20.891Z",
+      "generatedAt": "2026-08-28T00:37:16.776Z",
       "cadence": "daily",
       "items": [
         {
@@ -29,14 +29,6 @@
           "pinned": false
         },
         {
-          "title": "Army resumes Apache helicopter training missions after Texas crash that killed 2",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTXllVUxNMHZXYzZJT3QtalVQaWZ0OFJnSHdxNEhTYTB4MjRONDdxUnJZd2M4YXd3ZDRVdHRGaWRXLTZVb0JNV0ZBclJGX1V6cGgxUGpWbXNmZlROYzhXYXV1QVN1VHlwODc0MmFreHA4c01oWkF2MWpuVGlHUktybEFtYkpxS1NSamhNR04yMElTaDBjeWlEOGRwYjkySmM?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260819T230500Z",
-          "pinned": false
-        },
-        {
           "title": "US Army Apache Helicopter Crashes Are On Rise, Showing Highest Numbers in 15 Years",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4VlQxT2VnTW5ranBqVEZSdUVEQS1QcWRhQWtJcjRZbnhhVUdBMFdkQnMtYXJ6bExoN25IMHRzRV93dENvUnNaT0JQaER1WmJtVEVLNE5oeUxoQWNZci1TaWs5eXFXWGMwVzhiNjdhcmQxbVlMM3c?oc=5",
           "domain": "military.com",
@@ -45,19 +37,11 @@
           "pinned": false
         },
         {
-          "title": "'I just crashed’ — New footage shows Marine after F-18 ejection",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ENC16amhkbmlxTnRKbi1lalU4Yjh5T1I0UWpURTBXeVNpWldicVc2Yl81OHJxYlJBWTNzM2p3M1RxVlV0QzNMX0RkQkpMallpSFdHc1hYeVlSTzNMSzBqRVVRM0VqYjVVLVpSbzhlY0tCNElDVFo2ag?oc=5",
-          "domain": "taskandpurpose.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260818T070000Z",
-          "pinned": false
-        },
-        {
-          "title": "Japanese F-15 mishap closes runway, disrupts flights at Okinawa airport",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVjNZMWhVSTBuZDZZNmdRMkpJYnBtcUoxaDM3ZUh5THF2RUttRUlYbGFFbkxGU2RmM3haRHFab19HblcwdjB2RHBrMlZjZ2QtVy00RGUybHE1SGdULVIxWTZaU0JQX0M2X05Nb2I4N0tJSlNYYWtCS05KVGkyZmR4cnhaSldDMnU5aVBhRFU1NjBCLW9vZ1VITWxMMl9MdFRDS21BTG02TkZqcWNmNnBr?oc=5",
+          "title": "Air Force officer, 2 Army Corps of Engineers civilians among Alaska plane crash dead",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYWN2ZkJSSU15Ukg1b21aVmlMSmVyT0FFYnJLVjJJOW5BRnBzdzFadnBUUEprSDNEbzEzYVBOakRsYVRmdUN0YzZXc1llV0xVMklfRllWYVVJLVpnaVU3cU90aUlQY0RmQUtwYkFPdGpZMGNFd3FtN2pfdmpDclo4WGUyamVXN0phc1VWUU9JdzRDZHhUMVlnRE5FREt0U2JXVFhjSVplbWluZHB4T3RRbw?oc=5",
           "domain": "stripes.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260819T062106Z",
+          "seen": "20260825T130243Z",
           "pinned": false
         },
         {
@@ -69,6 +53,30 @@
           "pinned": false
         },
         {
+          "title": "Army identifies soldiers killed in Texas Apache helicopter crash",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZTU84TkwxQ3Vad0x3TlFfMFlxa1dnQUdEcHRRZ1A5ZGhXV1VoeUdBTk1lS1RmdmVTLS11RUNNcmdaNXdSZ0FFcEdzS3ZLc3d6Q1IzeEZXR2lYN21yQmpZeFN5NjRBT1JnZGJtVVY1T2M3THE5c2cw?oc=5",
+          "domain": "taskandpurpose.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260814T070000Z",
+          "pinned": false
+        },
+        {
+          "title": "'I just crashed’ — New footage shows Marine after F-18 ejection",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ENC16amhkbmlxTnRKbi1lalU4Yjh5T1I0UWpURTBXeVNpWldicVc2Yl81OHJxYlJBWTNzM2p3M1RxVlV0QzNMX0RkQkpMallpSFdHc1hYeVlSTzNMSzBqRVVRM0VqYjVVLVpSbzhlY0tCNElDVFo2ag?oc=5",
+          "domain": "taskandpurpose.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260818T070000Z",
+          "pinned": false
+        },
+        {
+          "title": "PLR 26-059 – Motorcycle Mishap Claims One Soldier’s Life",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMnFMS0otZmJyNDFJZDNPQWluRVhsUTZJSkVmZkZDUmFETjk4VFFvbEh5X1Uyb1RHY2ZzYngtWThtWGRfLU1vZ2lRTVFwNi1nbjk2ZXdGOVpsNEgtWUlmOHFlcU05eG03YWpSTnBWRFFXX2VkRUtkbGEyaXZxOFljb1VsNVVGcUNCeVQzNlJlTGhiSFNWWXhwRllMLXBNTzlJU1pqeFNfMFB6X1h1amNNVm9TUm8yWGhEY0JuNUFNOS01T1RMTEsybDVjTjhLNHlSQmxZbzdIS0kzTjlBN3Fj?oc=5",
+          "domain": "safety.army.mil",
+          "sourceTier": "Official military source",
+          "seen": "20260821T070000Z",
+          "pinned": false
+        },
+        {
           "title": "A Lasting Lesson: What the Rotak CH-47D Crash Teaches Us About Crew Discipline",
           "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUTdMM2hwSUw3Szk1Y3VpOVFRTjdQdnJmZzZaZWp6N3JzbjJpa3ZES0JyVm0za3Y4Z05zUmptck9FbHRCU2JyOVVFQTdVNC1nYUxEWEVQY2FRenhZWEI5YjVpS0ZTLW9NdWJyWWtpSU92dXQ2eVVMcHZGT18xdEVvc05YUWV3a2tHS1YyYldKRDlhel9zN3hGY0dUaTk4WDVGN1hGWm5DOUQtbFNiWGlHdktOb1htbDF6blNnV0JLbUY2S2RJX1hkbVMxaWxWRm1jcHVFcm5OZ2R1VXZTc0w1NnBNWWJ1UC1CZmYzV0hNaUY?oc=5",
           "domain": "safety.army.mil",
@@ -77,11 +85,11 @@
           "pinned": false
         },
         {
-          "title": "Air Force officer, 2 Army Corps of Engineers civilians among Alaska plane crash dead",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYWN2ZkJSSU15Ukg1b21aVmlMSmVyT0FFYnJLVjJJOW5BRnBzdzFadnBUUEprSDNEbzEzYVBOakRsYVRmdUN0YzZXc1llV0xVMklfRllWYVVJLVpnaVU3cU90aUlQY0RmQUtwYkFPdGpZMGNFd3FtN2pfdmpDclo4WGUyamVXN0phc1VWUU9JdzRDZHhUMVlnRE5FREt0U2JXVFhjSVplbWluZHB4T3RRbw?oc=5",
+          "title": "Army temporarily grounds training flights of Apache helicopters after Fort Hood crash",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQXhDSWw2RXFuekdlTGpxNEF6NFY4UnNoSVBlS3l3eWZhQ09KZHZOSV9zUTlEREVaQnRGaVhYWW9Sell4cTc2UjJNd3FlZGJnTWI1WV9zeV9aRnhzSHkyZ2NRN2RJMU5mRGVZWTRLRFNZd1BfeUhpX2VicnZsRzNLTWJ0dWNDUTlqX2RNN2dJM1JYV2VMSmt2QkpzTFRPdHBxYmFHZTFUM0tHdzlJRmhF?oc=5",
           "domain": "stripes.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260825T130243Z",
+          "seen": "20260814T070000Z",
           "pinned": false
         },
         {
@@ -117,6 +125,14 @@
           "pinned": false
         },
         {
+          "title": "Coast Guard suspends search for missing male at Gun Beach, Guam",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObGtBUGhrZ2JIT1RId3RsV2xrV0FZcy11RnNlQzkxeTdFZnJZaWJsWVVWN0ZhRWxQTDFwVk9IQUh5dXhkSkg5cm9Sc3lIYXRuR2RzcVlDVkRnc2hDXzVxam8ycERuUzZZTHRsN1JVZUVLZzJXcUpkYU5NMmZqVmtnV1N6dS1DeFBOVFdQZE5wU2xCU0tNd3BNU1NOTTh3QzR1clJSc1FFdXpodEJwY0RFektqeHU5SU5rRnF3QQ?oc=5",
+          "domain": "news.uscg.mil",
+          "sourceTier": "Official military source",
+          "seen": "20260814T234727Z",
+          "pinned": false
+        },
+        {
           "title": "Update: Coast Guard suspends search for missing man in Lake Erie",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeEhCZEd6eGRpc1RvV0lkYWlmczdfQkF2SjV4LUtIbVpHR1E0TjB0cm9qWVo0SThxa2N3RVdmRjctNENoZm9lU3NTNmhPUWVtdWRjV0M1SERDWXgzdGNORWdUM1BrM1hzcXpYd3g4dF85cVFrWUFPQjBUTXdtLWRJemIzN0c0RXZORnVPS21OQUVzTy1UX3NhMkhpNkRJNTNiVU9yTHY3ZFFLMmNRSkJQTGdfal9neEV6VE01REh3?oc=5",
           "domain": "news.uscg.mil",
@@ -145,24 +161,6 @@
           "sourceLabel": "military.com"
         },
         {
-          "id": "auto-bab30a20e514",
-          "reportDate": "2026-08-25",
-          "dateBasis": "report discovery date",
-          "branch": "Air Force",
-          "department": "Department of the Air Force",
-          "type": "Aviation",
-          "event": "Air Force officer killed in remote Alaska crash was a ‘positive leader’",
-          "location": "See official source",
-          "fatalities": null,
-          "injuries": null,
-          "status": "REPORTED / UNVALIDATED",
-          "signalClass": "REPORTED MISHAP",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
-          "source": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yMTM3UTdNeXVhbVFBc2JTWDN4QzVJTG5sSk43aGh3a0FtRXI5dHgycy04dEhFUnBkSFd4NDUxNFkzQmZ0eXRRR29KTDNKV1FValItZzBoa25MNGI0WmhIOVVwZVhkZkk?oc=5",
-          "sourceLabel": "taskandpurpose.com"
-        },
-        {
           "id": "auto-7427334c6413",
           "reportDate": "2026-08-25",
           "dateBasis": "report discovery date",
@@ -179,6 +177,24 @@
           "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
           "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYWN2ZkJSSU15Ukg1b21aVmlMSmVyT0FFYnJLVjJJOW5BRnBzdzFadnBUUEprSDNEbzEzYVBOakRsYVRmdUN0YzZXc1llV0xVMklfRllWYVVJLVpnaVU3cU90aUlQY0RmQUtwYkFPdGpZMGNFd3FtN2pfdmpDclo4WGUyamVXN0phc1VWUU9JdzRDZHhUMVlnRE5FREt0U2JXVFhjSVplbWluZHB4T3RRbw?oc=5",
           "sourceLabel": "stripes.com"
+        },
+        {
+          "id": "auto-bab30a20e514",
+          "reportDate": "2026-08-25",
+          "dateBasis": "report discovery date",
+          "branch": "Air Force",
+          "department": "Department of the Air Force",
+          "type": "Aviation",
+          "event": "Air Force officer killed in remote Alaska crash was a ‘positive leader’",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yMTM3UTdNeXVhbVFBc2JTWDN4QzVJTG5sSk43aGh3a0FtRXI5dHgycy04dEhFUnBkSFd4NDUxNFkzQmZ0eXRRR29KTDNKV1FValItZzBoa25MNGI0WmhIOVVwZVhkZkk?oc=5",
+          "sourceLabel": "taskandpurpose.com"
         },
         {
           "id": "auto-6436abbe493a",
@@ -232,6 +248,24 @@
           "sourceTier": "Official military source",
           "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
           "source": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc19FY29CaU9ZS05HZ010VnR3R2FGa1JBMFZTb2tZdEJLZkpfRTRLdm9VdGEwallmUi14dGlYNC12dmhYU3ZxaXJrQWJBM25LdmxadFFOanlYUWhkZFhmVTF2NG5iTUtfNHVJaWpiRVZ6UmdoVkxxUlU4OFFVVG13UA?oc=5",
+          "sourceLabel": "safety.army.mil"
+        },
+        {
+          "id": "auto-584076053ffa",
+          "reportDate": "2026-08-21",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Other",
+          "event": "PLR 26-059 – Motorcycle Mishap Claims One Soldier’s Life",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "OFFICIAL INTAKE",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Official military source",
+          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
+          "source": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMnFMS0otZmJyNDFJZDNPQWluRVhsUTZJSkVmZkZDUmFETjk4VFFvbEh5X1Uyb1RHY2ZzYngtWThtWGRfLU1vZ2lRTVFwNi1nbjk2ZXdGOVpsNEgtWUlmOHFlcU05eG03YWpSTnBWRFFXX2VkRUtkbGEyaXZxOFljb1VsNVVGcUNCeVQzNlJlTGhiSFNWWXhwRllMLXBNTzlJU1pqeFNfMFB6X1h1amNNVm9TUm8yWGhEY0JuNUFNOS01T1RMTEsybDVjTjhLNHlSQmxZbzdIS0kzTjlBN3Fj?oc=5",
           "sourceLabel": "safety.army.mil"
         },
         {
@@ -343,24 +377,6 @@
           "sourceLabel": "taskandpurpose.com"
         },
         {
-          "id": "auto-cbae79c7b676",
-          "reportDate": "2026-08-14",
-          "dateBasis": "report discovery date",
-          "branch": "Army",
-          "department": "Department of the Army",
-          "type": "Aviation",
-          "event": "Army temporarily grounds training flights of Apache helicopters after Fort Hood crash",
-          "location": "See official source",
-          "fatalities": null,
-          "injuries": null,
-          "status": "REPORTED / UNVALIDATED",
-          "signalClass": "REPORTED MISHAP",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
-          "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQXhDSWw2RXFuekdlTGpxNEF6NFY4UnNoSVBlS3l3eWZhQ09KZHZOSV9zUTlEREVaQnRGaVhYWW9Sell4cTc2UjJNd3FlZGJnTWI1WV9zeV9aRnhzSHkyZ2NRN2RJMU5mRGVZWTRLRFNZd1BfeUhpX2VicnZsRzNLTWJ0dWNDUTlqX2RNN2dJM1JYV2VMSmt2QkpzTFRPdHBxYmFHZTFUM0tHdzlJRmhF?oc=5",
-          "sourceLabel": "stripes.com"
-        },
-        {
           "id": "auto-686b02b2cfc8",
           "reportDate": "2026-08-14",
           "dateBasis": "report discovery date",
@@ -379,13 +395,13 @@
           "sourceLabel": "taskandpurpose.com"
         },
         {
-          "id": "auto-a4e7e2f36509",
+          "id": "auto-cbae79c7b676",
           "reportDate": "2026-08-14",
           "dateBasis": "report discovery date",
           "branch": "Army",
           "department": "Department of the Army",
           "type": "Aviation",
-          "event": "Army grounds Apache helicopter training flights after deadly Fort Hood crash",
+          "event": "Army temporarily grounds training flights of Apache helicopters after Fort Hood crash",
           "location": "See official source",
           "fatalities": null,
           "injuries": null,
@@ -393,8 +409,8 @@
           "signalClass": "REPORTED MISHAP",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
-          "source": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4zM2dvVmRQZVdBazNrdU9ER3dKbm9BY1pXaV9jLXJGWW0wbHlsZGpiSy1ObFBMM0ZPRGlQQkpXSFpzYVpFU28xdGVFeGlyUzhScEk1MXZOc0kyNXVpZ0RleGtxRk1MYTRjcXZRYmxWWnhCMUx5Q0taMQ?oc=5",
-          "sourceLabel": "taskandpurpose.com"
+          "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQXhDSWw2RXFuekdlTGpxNEF6NFY4UnNoSVBlS3l3eWZhQ09KZHZOSV9zUTlEREVaQnRGaVhYWW9Sell4cTc2UjJNd3FlZGJnTWI1WV9zeV9aRnhzSHkyZ2NRN2RJMU5mRGVZWTRLRFNZd1BfeUhpX2VicnZsRzNLTWJ0dWNDUTlqX2RNN2dJM1JYV2VMSmt2QkpzTFRPdHBxYmFHZTFUM0tHdzlJRmhF?oc=5",
+          "sourceLabel": "stripes.com"
         },
         {
           "id": "auto-763ccc53e205",
@@ -413,6 +429,24 @@
           "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
           "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObGtBUGhrZ2JIT1RId3RsV2xrV0FZcy11RnNlQzkxeTdFZnJZaWJsWVVWN0ZhRWxQTDFwVk9IQUh5dXhkSkg5cm9Sc3lIYXRuR2RzcVlDVkRnc2hDXzVxam8ycERuUzZZTHRsN1JVZUVLZzJXcUpkYU5NMmZqVmtnV1N6dS1DeFBOVFdQZE5wU2xCU0tNd3BNU1NOTTh3QzR1clJSc1FFdXpodEJwY0RFektqeHU5SU5rRnF3QQ?oc=5",
           "sourceLabel": "news.uscg.mil"
+        },
+        {
+          "id": "auto-a4e7e2f36509",
+          "reportDate": "2026-08-14",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Aviation",
+          "event": "Army grounds Apache helicopter training flights after deadly Fort Hood crash",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4zM2dvVmRQZVdBazNrdU9ER3dKbm9BY1pXaV9jLXJGWW0wbHlsZGpiSy1ObFBMM0ZPRGlQQkpXSFpzYVpFU28xdGVFeGlyUzhScEk1MXZOc0kyNXVpZ0RleGtxRk1MYTRjcXZRYmxWWnhCMUx5Q0taMQ?oc=5",
+          "sourceLabel": "taskandpurpose.com"
         },
         {
           "id": "auto-91f23173c00a",
