@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-28T22:18:51.041Z",
+  "generatedAt": "2026-08-29T00:07:20.542Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -9,7 +9,7 @@
       "items": []
     },
     "safety": {
-      "generatedAt": "2026-08-28T00:37:16.776Z",
+      "generatedAt": "2026-08-29T00:07:20.542Z",
       "cadence": "daily",
       "items": [
         {
@@ -26,6 +26,14 @@
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "seen": "20260824T095500Z",
+          "pinned": false
+        },
+        {
+          "title": "US military says it killed four in strike on alleged drug-smuggling boat in the Caribbean",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON3FWU0xMa0p2bDRZRnp0ZU83dzVLTEF0ZjNETDZUUVZmMlkzMUlBa0FjY3lQMHJDLTltNkxKYjNYbVI1SUJHQk5uMlA5S1JsaGtfWGp0YWtKcFJZZjFUZGVZczU3dE9jNElCbko3bU54M2ozQk5DYk1zOFhiRmN3MVE3YUVMZVlzMUZKa0p6cTVBTHdIQ2MycnBRNWxsZjhP?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260826T011800Z",
           "pinned": false
         },
         {
@@ -53,6 +61,14 @@
           "pinned": false
         },
         {
+          "title": "US, Japan step in after sailor leaves without paying bodily injury victims",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVTZ0ekRGeXFTVER4UjR6SkhPRkphdzFUNlhmbmJhUUl5eUwzOHdsZjNLWkFsemx5ajFzcW9oZmlrYjZiSUJ6bGxRR0Y2dzlXSGc5akJGd0ViREFnUGN5V3N3MzFkRWs1WFJKX09laFhWSTZyZUFoOEJrWUYtcmI1LTRzcEtmVHUyUjRRZTd0MjJONXZPbkFUWWN3?oc=5",
+          "domain": "stripes.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260824T081012Z",
+          "pinned": false
+        },
+        {
           "title": "Army identifies soldiers killed in Texas Apache helicopter crash",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZTU84TkwxQ3Vad0x3TlFfMFlxa1dnQUdEcHRRZ1A5ZGhXV1VoeUdBTk1lS1RmdmVTLS11RUNNcmdaNXdSZ0FFcEdzS3ZLc3d6Q1IzeEZXR2lYN21yQmpZeFN5NjRBT1JnZGJtVVY1T2M3THE5c2cw?oc=5",
           "domain": "taskandpurpose.com",
@@ -61,19 +77,11 @@
           "pinned": false
         },
         {
-          "title": "'I just crashed’ — New footage shows Marine after F-18 ejection",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ENC16amhkbmlxTnRKbi1lalU4Yjh5T1I0UWpURTBXeVNpWldicVc2Yl81OHJxYlJBWTNzM2p3M1RxVlV0QzNMX0RkQkpMallpSFdHc1hYeVlSTzNMSzBqRVVRM0VqYjVVLVpSbzhlY0tCNElDVFo2ag?oc=5",
-          "domain": "taskandpurpose.com",
+          "title": "US soldier dies in fiery crash on German highway",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ0QtVDN6TDYxa1VodE14UzJlUXl5WWRhNmc4T2NaZ3loSXBTdVRqNFJHNVNlYmlDenota243ZjJqaDl5MjBuMm10R0VILVFBWVhla085SWtHcGd6V2RidnJBdkxWMlB2QmZ3dzMxMHA0MVNyd3BGaEtfcU5CaWxDRzdwTTZjV0xfMXkzalllRXcxU0ZXOVk4aQ?oc=5",
+          "domain": "stripes.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260818T070000Z",
-          "pinned": false
-        },
-        {
-          "title": "PLR 26-059 – Motorcycle Mishap Claims One Soldier’s Life",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMnFMS0otZmJyNDFJZDNPQWluRVhsUTZJSkVmZkZDUmFETjk4VFFvbEh5X1Uyb1RHY2ZzYngtWThtWGRfLU1vZ2lRTVFwNi1nbjk2ZXdGOVpsNEgtWUlmOHFlcU05eG03YWpSTnBWRFFXX2VkRUtkbGEyaXZxOFljb1VsNVVGcUNCeVQzNlJlTGhiSFNWWXhwRllMLXBNTzlJU1pqeFNfMFB6X1h1amNNVm9TUm8yWGhEY0JuNUFNOS01T1RMTEsybDVjTjhLNHlSQmxZbzdIS0kzTjlBN3Fj?oc=5",
-          "domain": "safety.army.mil",
-          "sourceTier": "Official military source",
-          "seen": "20260821T070000Z",
+          "seen": "20260828T144920Z",
           "pinned": false
         },
         {
@@ -125,14 +133,6 @@
           "pinned": false
         },
         {
-          "title": "Coast Guard suspends search for missing male at Gun Beach, Guam",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObGtBUGhrZ2JIT1RId3RsV2xrV0FZcy11RnNlQzkxeTdFZnJZaWJsWVVWN0ZhRWxQTDFwVk9IQUh5dXhkSkg5cm9Sc3lIYXRuR2RzcVlDVkRnc2hDXzVxam8ycERuUzZZTHRsN1JVZUVLZzJXcUpkYU5NMmZqVmtnV1N6dS1DeFBOVFdQZE5wU2xCU0tNd3BNU1NOTTh3QzR1clJSc1FFdXpodEJwY0RFektqeHU5SU5rRnF3QQ?oc=5",
-          "domain": "news.uscg.mil",
-          "sourceTier": "Official military source",
-          "seen": "20260814T234727Z",
-          "pinned": false
-        },
-        {
           "title": "Update: Coast Guard suspends search for missing man in Lake Erie",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeEhCZEd6eGRpc1RvV0lkYWlmczdfQkF2SjV4LUtIbVpHR1E0TjB0cm9qWVo0SThxa2N3RVdmRjctNENoZm9lU3NTNmhPUWVtdWRjV0M1SERDWXgzdGNORWdUM1BrM1hzcXpYd3g4dF85cVFrWUFPQjBUTXdtLWRJemIzN0c0RXZORnVPS21OQUVzTy1UX3NhMkhpNkRJNTNiVU9yTHY3ZFFLMmNRSkJQTGdfal9neEV6VE01REh3?oc=5",
           "domain": "news.uscg.mil",
@@ -142,6 +142,42 @@
         }
       ],
       "incidents": [
+        {
+          "id": "auto-b7da7d41d52d",
+          "reportDate": "2026-08-28",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Aviation",
+          "event": "US soldier dies in fiery crash on German highway",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ0QtVDN6TDYxa1VodE14UzJlUXl5WWRhNmc4T2NaZ3loSXBTdVRqNFJHNVNlYmlDenota243ZjJqaDl5MjBuMm10R0VILVFBWVhla085SWtHcGd6V2RidnJBdkxWMlB2QmZ3dzMxMHA0MVNyd3BGaEtfcU5CaWxDRzdwTTZjV0xfMXkzalllRXcxU0ZXOVk4aQ?oc=5",
+          "sourceLabel": "stripes.com"
+        },
+        {
+          "id": "auto-3cc3deeeeb30",
+          "reportDate": "2026-08-26",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Maritime",
+          "event": "US military says it killed four in strike on alleged drug-smuggling boat in the Caribbean",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON3FWU0xMa0p2bDRZRnp0ZU83dzVLTEF0ZjNETDZUUVZmMlkzMUlBa0FjY3lQMHJDLTltNkxKYjNYbVI1SUJHQk5uMlA5S1JsaGtfWGp0YWtKcFJZZjFUZGVZczU3dE9jNElCbko3bU54M2ozQk5DYk1zOFhiRmN3MVE3YUVMZVlzMUZKa0p6cTVBTHdIQ2MycnBRNWxsZjhP?oc=5",
+          "sourceLabel": "apnews.com"
+        },
         {
           "id": "auto-f451a5233abb",
           "reportDate": "2026-08-25",
@@ -213,6 +249,24 @@
           "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
           "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUDllbUZsT3lnVmRfVU96WkJqV1V6TDRya1d4U2g1TGxTWjcwTjZvMjdGbVA3MHo2S3NmZEdzc08wLUJvZHhHV091d2pQUmVlb0Uwdi03cGZtX3haQXRBcHNnUlNvemluMV85MmNkQW1PejNhYWp1NDR5a2VDa1ZtNWxSUEVyZktsN2t3NXUzRllrNXhFQ2t4T0Nyd08?oc=5",
           "sourceLabel": "apnews.com"
+        },
+        {
+          "id": "auto-9490a37653e2",
+          "reportDate": "2026-08-24",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Other",
+          "event": "US, Japan step in after sailor leaves without paying bodily injury victims",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVTZ0ekRGeXFTVER4UjR6SkhPRkphdzFUNlhmbmJhUUl5eUwzOHdsZjNLWkFsemx5ajFzcW9oZmlrYjZiSUJ6bGxRR0Y2dzlXSGc5akJGd0ViREFnUGN5V3N3MzFkRWs1WFJKX09laFhWSTZyZUFoOEJrWUYtcmI1LTRzcEtmVHUyUjRRZTd0MjJONXZPbkFUWWN3?oc=5",
+          "sourceLabel": "stripes.com"
         },
         {
           "id": "auto-5511f2d1a34c",
