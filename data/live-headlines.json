@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-29T18:52:54.585Z",
+  "generatedAt": "2026-08-29T20:56:16.183Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-08-29T16:44:15.844Z",
+      "generatedAt": "2026-08-29T20:56:16.183Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -1199,7 +1199,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-08-29T16:44:15.844Z",
+      "generatedAt": "2026-08-29T20:56:16.183Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -1267,14 +1267,6 @@
           "pinned": false
         },
         {
-          "title": "Regional powers seek off-ramp from Iran war, and other Middle East developments",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPblotQXR6VEctdkdvVUhZYUNsWXBPQTd2QjU4TTNZd0pFTnk2LWtXejlfMjBRRDJjamYzRWthTE96NmpCMmROV1B2eW1uLXI4aFcwQTRGczJXTS1HUm1YTUo0U0J5ZTJFQkJNUVVVcGJsc2xhZ1FYQkpIRm5Ba2N4RnV4eG44UHdQdWZIMHdWX09IMGI1RVl5YllOTkJRanlKcWFxalM0d0dsVmRl?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260828T021700Z",
-          "pinned": false
-        },
-        {
           "title": "Is Iran war diplomacy ramping up, as Qatar, Oman, Pakistan officials visit?",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRmRHamdPemdTZ05VRXdWTko3eklSUXMxbDVFUlJFa0ptbm9xdVRycnNEVl9YUjZ5bkVfbkFvOFYtM1lUQ3JmZ2RsTGxtMWxFQzl6RmZ3d3VMOWh4R2VQU3pKMklLcVFHVGVDTzgtOWFoRWc3NVQxTm9OWmZhTF94SUxOeXQ0dGpHOXV5ZnFiNDlHQ1RhVXNJLThkRXYwaDJ2c2F1eWpqdEJSUE4wM2syczN30gG3AUFVX3lxTFBPcGlPNk5WUHpMZkZVWlBEcTZzWk8xeVVCcW1JZ1FOVWNzcEVUWW9ySkJrRkNOdG9WUEd1Mk92WTRWMnRnUDdLeXNydksxLVJnVERwbHRBMmcyNlZvaGtfNl95dWplaVdJOERLQkdYeERPV18xYmlfTUgwVGVXMC1WVWQ5dThyM0hvX09hUU9RUXZlU09Bd3c5SmdadW1QYko2aUZ5djlSZFB1cG1QRXlhR3JGY2U5NA?oc=5",
           "domain": "aljazeera.com",
@@ -1283,19 +1275,19 @@
           "pinned": false
         },
         {
-          "title": "Obituary: Ratko Mladic, war criminal convicted of Srebrenica genocide, dies",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRDY4QlJFZFV4QTJoSGRCQXBJNzRpQmozUHV4RW9oZDh2VHJOeGVLY3dyR1lMTUY1Wm9ETjVvckYtc0EyMzJQa2ZUVjJXcWlBTWNRclUzTllKamkxQjR6VHM4dFVOOGZCOVgtS3V2bGwtN3ZUVjV1dVhJLVhJTm1xMUwyZUU5ejQwRjRoU0lHWDVHSXVURTJ6OENUMUR0QXNPaGU1anY0bXVhYjdpNjZhaDhOVdIBuAFBVV95cUxORzZfWVdoLW9kcmZqSEs0enNOc3VZSl9qU3kyeF93aUZkYXoyVE1UTy1reFNWRnJjS19vMHVmRHh0anRneU5oQ0JQb2NIenQ4Tk9JQUpaUTdwV1JSVkd0aE5QU3FWc0ZUMlI5c2dzcjZXVy00S2dCVDJFRkxWWFVpUHBTeVIzNUhqLUhlcTA2cnJTcURJV29DWk9FdEhvYnhrMlp5NXJPYjlUN0pCR0wxUlhtRHVBZjhO?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260827T170857Z",
-          "pinned": false
-        },
-        {
           "title": "Watch: Six months into the Iran war: What has Trump accomplished?",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAzeTFiUktuaDBnUUdPRmU1bmN4WlZjbm9MZU9qRUtRU09nUnpObG9LeVQ1aVdPNmhOZkxFUl9ybW5QNzBzY2dlYW1qTmlxVmZrWWljWjVtOA?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20260828T063448Z",
+          "pinned": false
+        },
+        {
+          "title": "Obituary: Ratko Mladic, war criminal convicted of Srebrenica genocide, dies",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRDY4QlJFZFV4QTJoSGRCQXBJNzRpQmozUHV4RW9oZDh2VHJOeGVLY3dyR1lMTUY1Wm9ETjVvckYtc0EyMzJQa2ZUVjJXcWlBTWNRclUzTllKamkxQjR6VHM4dFVOOGZCOVgtS3V2bGwtN3ZUVjV1dVhJLVhJTm1xMUwyZUU5ejQwRjRoU0lHWDVHSXVURTJ6OENUMUR0QXNPaGU1anY0bXVhYjdpNjZhaDhOVdIBuAFBVV95cUxORzZfWVdoLW9kcmZqSEs0enNOc3VZSl9qU3kyeF93aUZkYXoyVE1UTy1reFNWRnJjS19vMHVmRHh0anRneU5oQ0JQb2NIenQ4Tk9JQUpaUTdwV1JSVkd0aE5QU3FWc0ZUMlI5c2dzcjZXVy00S2dCVDJFRkxWWFVpUHBTeVIzNUhqLUhlcTA2cnJTcURJV29DWk9FdEhvYnhrMlp5NXJPYjlUN0pCR0wxUlhtRHVBZjhO?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260827T170857Z",
           "pinned": false
         },
         {
@@ -1323,27 +1315,11 @@
           "pinned": false
         },
         {
-          "title": "Iranian strikes caused billions in damage to US intelligence sites: Report",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYzlVbWhabWV4eDRJaGdCOXNlM3FrdU1RUWhkVlFzMEFocTRFQW1vTGlJZmt6Ti1DY2FXMWNuQW5KRE9yUERTZWI2c2RyaVVCVjI0NVVZQnNsaXVRVHRBZE1tZUtPODNJM2VwczdsTzdYdzZjN2t2dm9XZ2xiMzRmQkozaTJFWEoxNkNucml0Tms4cWFXSmpjUmNQTzltNlFJX3dfRm02enhSM1BMRmlkNTcxanJ0SmZ4Z0xoS1FTTjlySmc?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "seen": "20260826T031841Z",
-          "pinned": false
-        },
-        {
           "title": "War on Iran: Diplomacy intensifies",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTDV6bFRHRVcycjhER2hULUF1TlBtVUVoek1hZ2w1VEpwYk42TTBfZl9RSkhBWDYtWEFaYWFoNnhnUjVRaGF4bWFlNGZzZHJEZWdkcGNRSXFWanpXaHJydTBWOVBNUTFMaXpjUVQtOUYzZFN1aU81TXJvaFluNEtnbHRQbU9yeV9sNEh2WdIBkgFBVV95cUxOdmstcjBtMmlNSkZFUFdWaWhsb3FhdkpGd0RhaW9mM3NjYUpvY0gzcDBGQnFTbjluYXR0cFlXbVluc050LU41LTdXY2lvNXpzQU9fUXFGVWhsSnJwN0EwdEc0bDVsR0psUld6WUtyenY3YmhSam1IWXBERmlVVUtoTjlDVFhzTm02SG44LWpTbGVDdw?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260827T151044Z",
-          "pinned": false
-        },
-        {
-          "title": "Gianni Infantino: Uefa's attack on Fifa president escalates football's civil war",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZVFRkallwY1ZIYzZLZk5VSDlfUHRYTmdmb1pjeTZFOE5ZN192S2k0dEN2UWxxNVdMbHZlaTZnaEFCLWNUVmMyM1NNTFlpd2lhVXJlZ29qYmM5YUFoU2NDM2trQUFFYlE?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260828T150020Z",
           "pinned": false
         },
         {
@@ -1355,11 +1331,27 @@
           "pinned": false
         },
         {
+          "title": "Gianni Infantino: Uefa's attack on Fifa president escalates football's civil war",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZVFRkallwY1ZIYzZLZk5VSDlfUHRYTmdmb1pjeTZFOE5ZN192S2k0dEN2UWxxNVdMbHZlaTZnaEFCLWNUVmMyM1NNTFlpd2lhVXJlZ29qYmM5YUFoU2NDM2trQUFFYlE?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260828T150020Z",
+          "pinned": false
+        },
+        {
           "title": "Iran emphasises self-sufficiency in battle against US economic war",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOU9sSW5LUGoxYjV0VTZRR2xMT0NmdHJZUWR3VDhzWFZaSGJTNnFtYlpQbGdPTEdIbFczX0F2YnNMMkRZZmR0b01qNWxYY2lFbE1DM3FGQk92d0t5dHpRQ1ZKU19xOWllYVZDa0FsWFhFLVhELWlUZm0zZ3c3Ym11cjd2MHEwS2xEUktyaThncFFfdEgxLUxyVXQybDZUUVI2Q21UMjYzONIBrAFBVV95cUxNR2ZuckNWYXNhbTZ6RC1lTGhobjI0elptUXlkZUZGcDdNZDE4Tl9ISEtnWmdDYkRjSnplTnBVNHZGcEc5b05xUHg0S2RHX2MxWk9LSktxMFBTdi1OT3Q4TExrQkhyRjBkM1JTdmFrUDRvTXlfQUNBUi1TSHJuVmx5V3ZDaVVmQkVCSW94Y1FmT1NZSzNmQnh0RVlTZXo5YmQxMEZVTGU2aUM3dDF3?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260826T165659Z",
+          "pinned": false
+        },
+        {
+          "title": "Regional powers seek off-ramp from Iran war, and other Middle East developments",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPblotQXR6VEctdkdvVUhZYUNsWXBPQTd2QjU4TTNZd0pFTnk2LWtXejlfMjBRRDJjamYzRWthTE96NmpCMmROV1B2eW1uLXI4aFcwQTRGczJXTS1HUm1YTUo0U0J5ZTJFQkJNUVVVcGJsc2xhZ1FYQkpIRm5Ba2N4RnV4eG44UHdQdWZIMHdWX09IMGI1RVl5YllOTkJRanlKcWFxalM0d0dsVmRl?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260828T021700Z",
           "pinned": false
         },
         {
@@ -1387,11 +1379,19 @@
           "pinned": false
         },
         {
-          "title": "Six months on, the Iran war has changed the Middle East, but not in the way its architects had hoped",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLVd0UHZRTDlTX05KbUhtNkdGV0hEaW5FTVUxazZsT0VBbGZQdzlkb3JOV0hKREdURGZKRjFxNzhDeWJ0Vk9CX3B5VUR4cThONHgwVDVSSWRpNkdNcVlzTVR0Q1lzOFhBQzRKX0NzWjdDNkhvc2ZsWkRyMURXcXN0eEwtbUYyZmVucHlQQWttdkNjQWZLeVdvRko1N0VqUQ?oc=5",
-          "domain": "apnews.com",
+          "title": "Iranian strikes caused billions in damage to US intelligence sites: Report",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYzlVbWhabWV4eDRJaGdCOXNlM3FrdU1RUWhkVlFzMEFocTRFQW1vTGlJZmt6Ti1DY2FXMWNuQW5KRE9yUERTZWI2c2RyaVVCVjI0NVVZQnNsaXVRVHRBZE1tZUtPODNJM2VwczdsTzdYdzZjN2t2dm9XZ2xiMzRmQkozaTJFWEoxNkNucml0Tms4cWFXSmpjUmNQTzltNlFJX3dfRm02enhSM1BMRmlkNTcxanJ0SmZ4Z0xoS1FTTjlySmc?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20260826T031841Z",
+          "pinned": false
+        },
+        {
+          "title": "Russia ramps up rhetoric but wants to avoid war with Nato, Western officials say",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hb3JyUHlBdkoxdXVXcFJpeXN6YS1PNmNHNk1RSkpzblBmU0hDNFFiWS1mbEZyNnFQMjIwZ1pZTzA2SDlMbEIybWxacDJzNzRNdFRIRWpRR2FqUQ?oc=5",
+          "domain": "bbc.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260828T041400Z",
+          "seen": "20260828T190523Z",
           "pinned": false
         }
       ],
@@ -1469,15 +1469,6 @@
           "reportedAt": "2026-08-28T11:49:44Z"
         },
         {
-          "id": "report-8286f6643a65",
-          "title": "Regional powers seek off-ramp from Iran war, and other Middle East developments",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPblotQXR6VEctdkdvVUhZYUNsWXBPQTd2QjU4TTNZd0pFTnk2LWtXejlfMjBRRDJjamYzRWthTE96NmpCMmROV1B2eW1uLXI4aFcwQTRGczJXTS1HUm1YTUo0U0J5ZTJFQkJNUVVVcGJsc2xhZ1FYQkpIRm5Ba2N4RnV4eG44UHdQdWZIMHdWX09IMGI1RVl5YllOTkJRanlKcWFxalM0d0dsVmRl?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-28T02:17:00Z"
-        },
-        {
           "id": "report-73f8de3c99db",
           "title": "Is Iran war diplomacy ramping up, as Qatar, Oman, Pakistan officials visit?",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRmRHamdPemdTZ05VRXdWTko3eklSUXMxbDVFUlJFa0ptbm9xdVRycnNEVl9YUjZ5bkVfbkFvOFYtM1lUQ3JmZ2RsTGxtMWxFQzl6RmZ3d3VMOWh4R2VQU3pKMklLcVFHVGVDTzgtOWFoRWc3NVQxTm9OWmZhTF94SUxOeXQ0dGpHOXV5ZnFiNDlHQ1RhVXNJLThkRXYwaDJ2c2F1eWpqdEJSUE4wM2syczN30gG3AUFVX3lxTFBPcGlPNk5WUHpMZkZVWlBEcTZzWk8xeVVCcW1JZ1FOVWNzcEVUWW9ySkJrRkNOdG9WUEd1Mk92WTRWMnRnUDdLeXNydksxLVJnVERwbHRBMmcyNlZvaGtfNl95dWplaVdJOERLQkdYeERPV18xYmlfTUgwVGVXMC1WVWQ5dThyM0hvX09hUU9RUXZlU09Bd3c5SmdadW1QYko2aUZ5djlSZFB1cG1QRXlhR3JGY2U5NA?oc=5",
@@ -1487,15 +1478,6 @@
           "reportedAt": "2026-08-27T10:52:33Z"
         },
         {
-          "id": "report-e7e996df8a17",
-          "title": "Obituary: Ratko Mladic, war criminal convicted of Srebrenica genocide, dies",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRDY4QlJFZFV4QTJoSGRCQXBJNzRpQmozUHV4RW9oZDh2VHJOeGVLY3dyR1lMTUY1Wm9ETjVvckYtc0EyMzJQa2ZUVjJXcWlBTWNRclUzTllKamkxQjR6VHM4dFVOOGZCOVgtS3V2bGwtN3ZUVjV1dVhJLVhJTm1xMUwyZUU5ejQwRjRoU0lHWDVHSXVURTJ6OENUMUR0QXNPaGU1anY0bXVhYjdpNjZhaDhOVdIBuAFBVV95cUxORzZfWVdoLW9kcmZqSEs0enNOc3VZSl9qU3kyeF93aUZkYXoyVE1UTy1reFNWRnJjS19vMHVmRHh0anRneU5oQ0JQb2NIenQ4Tk9JQUpaUTdwV1JSVkd0aE5QU3FWc0ZUMlI5c2dzcjZXVy00S2dCVDJFRkxWWFVpUHBTeVIzNUhqLUhlcTA2cnJTcURJV29DWk9FdEhvYnhrMlp5NXJPYjlUN0pCR0wxUlhtRHVBZjhO?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-27T17:08:57Z"
-        },
-        {
           "id": "report-388852bb621c",
           "title": "Watch: Six months into the Iran war: What has Trump accomplished?",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAzeTFiUktuaDBnUUdPRmU1bmN4WlZjbm9MZU9qRUtRU09nUnpObG9LeVQ1aVdPNmhOZkxFUl9ybW5QNzBzY2dlYW1qTmlxVmZrWWljWjVtOA?oc=5",
@@ -1503,6 +1485,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-28T06:34:48Z"
+        },
+        {
+          "id": "report-e7e996df8a17",
+          "title": "Obituary: Ratko Mladic, war criminal convicted of Srebrenica genocide, dies",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRDY4QlJFZFV4QTJoSGRCQXBJNzRpQmozUHV4RW9oZDh2VHJOeGVLY3dyR1lMTUY1Wm9ETjVvckYtc0EyMzJQa2ZUVjJXcWlBTWNRclUzTllKamkxQjR6VHM4dFVOOGZCOVgtS3V2bGwtN3ZUVjV1dVhJLVhJTm1xMUwyZUU5ejQwRjRoU0lHWDVHSXVURTJ6OENUMUR0QXNPaGU1anY0bXVhYjdpNjZhaDhOVdIBuAFBVV95cUxORzZfWVdoLW9kcmZqSEs0enNOc3VZSl9qU3kyeF93aUZkYXoyVE1UTy1reFNWRnJjS19vMHVmRHh0anRneU5oQ0JQb2NIenQ4Tk9JQUpaUTdwV1JSVkd0aE5QU3FWc0ZUMlI5c2dzcjZXVy00S2dCVDJFRkxWWFVpUHBTeVIzNUhqLUhlcTA2cnJTcURJV29DWk9FdEhvYnhrMlp5NXJPYjlUN0pCR0wxUlhtRHVBZjhO?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-27T17:08:57Z"
         },
         {
           "id": "report-79d3b7c48060",
@@ -1532,15 +1523,6 @@
           "reportedAt": "2026-08-26T18:35:13Z"
         },
         {
-          "id": "report-406fb310d2c0",
-          "title": "Iranian strikes caused billions in damage to US intelligence sites: Report",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYzlVbWhabWV4eDRJaGdCOXNlM3FrdU1RUWhkVlFzMEFocTRFQW1vTGlJZmt6Ti1DY2FXMWNuQW5KRE9yUERTZWI2c2RyaVVCVjI0NVVZQnNsaXVRVHRBZE1tZUtPODNJM2VwczdsTzdYdzZjN2t2dm9XZ2xiMzRmQkozaTJFWEoxNkNucml0Tms4cWFXSmpjUmNQTzltNlFJX3dfRm02enhSM1BMRmlkNTcxanJ0SmZ4Z0xoS1FTTjlySmc?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
-          "reportedAt": "2026-08-26T03:18:41Z"
-        },
-        {
           "id": "report-5a027f261d1b",
           "title": "War on Iran: Diplomacy intensifies",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTDV6bFRHRVcycjhER2hULUF1TlBtVUVoek1hZ2w1VEpwYk42TTBfZl9RSkhBWDYtWEFaYWFoNnhnUjVRaGF4bWFlNGZzZHJEZWdkcGNRSXFWanpXaHJydTBWOVBNUTFMaXpjUVQtOUYzZFN1aU81TXJvaFluNEtnbHRQbU9yeV9sNEh2WdIBkgFBVV95cUxOdmstcjBtMmlNSkZFUFdWaWhsb3FhdkpGd0RhaW9mM3NjYUpvY0gzcDBGQnFTbjluYXR0cFlXbVluc050LU41LTdXY2lvNXpzQU9fUXFGVWhsSnJwN0EwdEc0bDVsR0psUld6WUtyenY3YmhSam1IWXBERmlVVUtoTjlDVFhzTm02SG44LWpTbGVDdw?oc=5",
@@ -1548,15 +1530,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-27T15:10:44Z"
-        },
-        {
-          "id": "report-ea8baf0c5ead",
-          "title": "Gianni Infantino: Uefa's attack on Fifa president escalates football's civil war",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZVFRkallwY1ZIYzZLZk5VSDlfUHRYTmdmb1pjeTZFOE5ZN192S2k0dEN2UWxxNVdMbHZlaTZnaEFCLWNUVmMyM1NNTFlpd2lhVXJlZ29qYmM5YUFoU2NDM2trQUFFYlE?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-28T15:00:20Z"
         },
         {
           "id": "report-dd902aca0f8b",
@@ -1568,6 +1541,15 @@
           "reportedAt": "2026-08-29T10:14:42Z"
         },
         {
+          "id": "report-ea8baf0c5ead",
+          "title": "Gianni Infantino: Uefa's attack on Fifa president escalates football's civil war",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZVFRkallwY1ZIYzZLZk5VSDlfUHRYTmdmb1pjeTZFOE5ZN192S2k0dEN2UWxxNVdMbHZlaTZnaEFCLWNUVmMyM1NNTFlpd2lhVXJlZ29qYmM5YUFoU2NDM2trQUFFYlE?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-28T15:00:20Z"
+        },
+        {
           "id": "report-b6d4394de859",
           "title": "Iran emphasises self-sufficiency in battle against US economic war",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOU9sSW5LUGoxYjV0VTZRR2xMT0NmdHJZUWR3VDhzWFZaSGJTNnFtYlpQbGdPTEdIbFczX0F2YnNMMkRZZmR0b01qNWxYY2lFbE1DM3FGQk92d0t5dHpRQ1ZKU19xOWllYVZDa0FsWFhFLVhELWlUZm0zZ3c3Ym11cjd2MHEwS2xEUktyaThncFFfdEgxLUxyVXQybDZUUVI2Q21UMjYzONIBrAFBVV95cUxNR2ZuckNWYXNhbTZ6RC1lTGhobjI0elptUXlkZUZGcDdNZDE4Tl9ISEtnWmdDYkRjSnplTnBVNHZGcEc5b05xUHg0S2RHX2MxWk9LSktxMFBTdi1OT3Q4TExrQkhyRjBkM1JTdmFrUDRvTXlfQUNBUi1TSHJuVmx5V3ZDaVVmQkVCSW94Y1FmT1NZSzNmQnh0RVlTZXo5YmQxMEZVTGU2aUM3dDF3?oc=5",
@@ -1575,6 +1557,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-26T16:56:59Z"
+        },
+        {
+          "id": "report-8286f6643a65",
+          "title": "Regional powers seek off-ramp from Iran war, and other Middle East developments",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPblotQXR6VEctdkdvVUhZYUNsWXBPQTd2QjU4TTNZd0pFTnk2LWtXejlfMjBRRDJjamYzRWthTE96NmpCMmROV1B2eW1uLXI4aFcwQTRGczJXTS1HUm1YTUo0U0J5ZTJFQkJNUVVVcGJsc2xhZ1FYQkpIRm5Ba2N4RnV4eG44UHdQdWZIMHdWX09IMGI1RVl5YllOTkJRanlKcWFxalM0d0dsVmRl?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-28T02:17:00Z"
         },
         {
           "id": "report-33f2e5060e1f",
@@ -1604,13 +1595,22 @@
           "reportedAt": "2026-08-26T21:20:46Z"
         },
         {
-          "id": "report-2fac760553ee",
-          "title": "Six months on, the Iran war has changed the Middle East, but not in the way its architects had hoped",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLVd0UHZRTDlTX05KbUhtNkdGV0hEaW5FTVUxazZsT0VBbGZQdzlkb3JOV0hKREdURGZKRjFxNzhDeWJ0Vk9CX3B5VUR4cThONHgwVDVSSWRpNkdNcVlzTVR0Q1lzOFhBQzRKX0NzWjdDNkhvc2ZsWkRyMURXcXN0eEwtbUYyZmVucHlQQWttdkNjQWZLeVdvRko1N0VqUQ?oc=5",
-          "domain": "apnews.com",
+          "id": "report-406fb310d2c0",
+          "title": "Iranian strikes caused billions in damage to US intelligence sites: Report",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYzlVbWhabWV4eDRJaGdCOXNlM3FrdU1RUWhkVlFzMEFocTRFQW1vTGlJZmt6Ti1DY2FXMWNuQW5KRE9yUERTZWI2c2RyaVVCVjI0NVVZQnNsaXVRVHRBZE1tZUtPODNJM2VwczdsTzdYdzZjN2t2dm9XZ2xiMzRmQkozaTJFWEoxNkNucml0Tms4cWFXSmpjUmNQTzltNlFJX3dfRm02enhSM1BMRmlkNTcxanJ0SmZ4Z0xoS1FTTjlySmc?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-08-26T03:18:41Z"
+        },
+        {
+          "id": "report-79dcc3f1037d",
+          "title": "Russia ramps up rhetoric but wants to avoid war with Nato, Western officials say",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hb3JyUHlBdkoxdXVXcFJpeXN6YS1PNmNHNk1RSkpzblBmU0hDNFFiWS1mbEZyNnFQMjIwZ1pZTzA2SDlMbEIybWxacDJzNzRNdFRIRWpRR2FqUQ?oc=5",
+          "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-28T04:14:00Z"
+          "reportedAt": "2026-08-28T19:05:23Z"
         },
         {
           "id": "report-defc72fd3c7f",
