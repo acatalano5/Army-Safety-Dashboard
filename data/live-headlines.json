@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-29T16:44:15.844Z",
+  "generatedAt": "2026-08-29T18:52:54.585Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -9,7 +9,7 @@
       "items": []
     },
     "safety": {
-      "generatedAt": "2026-08-29T00:07:20.542Z",
+      "generatedAt": "2026-08-29T18:52:54.585Z",
       "cadence": "daily",
       "items": [
         {
@@ -25,15 +25,7 @@
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUDllbUZsT3lnVmRfVU96WkJqV1V6TDRya1d4U2g1TGxTWjcwTjZvMjdGbVA3MHo2S3NmZEdzc08wLUJvZHhHV091d2pQUmVlb0Uwdi03cGZtX3haQXRBcHNnUlNvemluMV85MmNkQW1PejNhYWp1NDR5a2VDa1ZtNWxSUEVyZktsN2t3NXUzRllrNXhFQ2t4T0Nyd08?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260824T095500Z",
-          "pinned": false
-        },
-        {
-          "title": "US military says it killed four in strike on alleged drug-smuggling boat in the Caribbean",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON3FWU0xMa0p2bDRZRnp0ZU83dzVLTEF0ZjNETDZUUVZmMlkzMUlBa0FjY3lQMHJDLTltNkxKYjNYbVI1SUJHQk5uMlA5S1JsaGtfWGp0YWtKcFJZZjFUZGVZczU3dE9jNElCbko3bU54M2ozQk5DYk1zOFhiRmN3MVE3YUVMZVlzMUZKa0p6cTVBTHdIQ2MycnBRNWxsZjhP?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260826T011800Z",
+          "seen": "20260824T104848Z",
           "pinned": false
         },
         {
@@ -42,30 +34,6 @@
           "domain": "military.com",
           "sourceTier": "Independent reporting",
           "seen": "20260825T151030Z",
-          "pinned": false
-        },
-        {
-          "title": "Air Force officer, 2 Army Corps of Engineers civilians among Alaska plane crash dead",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYWN2ZkJSSU15Ukg1b21aVmlMSmVyT0FFYnJLVjJJOW5BRnBzdzFadnBUUEprSDNEbzEzYVBOakRsYVRmdUN0YzZXc1llV0xVMklfRllWYVVJLVpnaVU3cU90aUlQY0RmQUtwYkFPdGpZMGNFd3FtN2pfdmpDclo4WGUyamVXN0phc1VWUU9JdzRDZHhUMVlnRE5FREt0U2JXVFhjSVplbWluZHB4T3RRbw?oc=5",
-          "domain": "stripes.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260825T130243Z",
-          "pinned": false
-        },
-        {
-          "title": "Air Force officer killed in remote Alaska crash was a ‘positive leader’",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yMTM3UTdNeXVhbVFBc2JTWDN4QzVJTG5sSk43aGh3a0FtRXI5dHgycy04dEhFUnBkSFd4NDUxNFkzQmZ0eXRRR29KTDNKV1FValItZzBoa25MNGI0WmhIOVVwZVhkZkk?oc=5",
-          "domain": "taskandpurpose.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260825T184439Z",
-          "pinned": false
-        },
-        {
-          "title": "US, Japan step in after sailor leaves without paying bodily injury victims",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVTZ0ekRGeXFTVER4UjR6SkhPRkphdzFUNlhmbmJhUUl5eUwzOHdsZjNLWkFsemx5ajFzcW9oZmlrYjZiSUJ6bGxRR0Y2dzlXSGc5akJGd0ViREFnUGN5V3N3MzFkRWs1WFJKX09laFhWSTZyZUFoOEJrWUYtcmI1LTRzcEtmVHUyUjRRZTd0MjJONXZPbkFUWWN3?oc=5",
-          "domain": "stripes.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260824T081012Z",
           "pinned": false
         },
         {
@@ -81,7 +49,7 @@
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ0QtVDN6TDYxa1VodE14UzJlUXl5WWRhNmc4T2NaZ3loSXBTdVRqNFJHNVNlYmlDenota243ZjJqaDl5MjBuMm10R0VILVFBWVhla085SWtHcGd6V2RidnJBdkxWMlB2QmZ3dzMxMHA0MVNyd3BGaEtfcU5CaWxDRzdwTTZjV0xfMXkzalllRXcxU0ZXOVk4aQ?oc=5",
           "domain": "stripes.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260828T144920Z",
+          "seen": "20260827T234920Z",
           "pinned": false
         },
         {
@@ -101,11 +69,27 @@
           "pinned": false
         },
         {
+          "title": "Air Force officer, 2 Army Corps of Engineers civilians among Alaska plane crash dead",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYWN2ZkJSSU15Ukg1b21aVmlMSmVyT0FFYnJLVjJJOW5BRnBzdzFadnBUUEprSDNEbzEzYVBOakRsYVRmdUN0YzZXc1llV0xVMklfRllWYVVJLVpnaVU3cU90aUlQY0RmQUtwYkFPdGpZMGNFd3FtN2pfdmpDclo4WGUyamVXN0phc1VWUU9JdzRDZHhUMVlnRE5FREt0U2JXVFhjSVplbWluZHB4T3RRbw?oc=5",
+          "domain": "stripes.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260825T130243Z",
+          "pinned": false
+        },
+        {
           "title": "Marine F-35 involved in fiery mishap at Miramar base in California; pilot ejects safely",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQTY2THYtYXZSQXBMTlhtamlYSkRpSWlmNnFqd3JZWFIzd0lEaTlOTzNlRVRlUTZOdmcwYnNKN0NCUzFLZ1ZsRFduWW0xbWluTDcwZk5nSGVDMTJVTUdHbEFDWThrQy03c1RURmM4TFBZdzVfcHdTQUQwLUkwMEtldlhvTTg5XzJMUmFjamhIQmh5RnhMX1ZwY3FR?oc=5",
           "domain": "stripes.com",
           "sourceTier": "Independent reporting",
           "seen": "20260731T070000Z",
+          "pinned": false
+        },
+        {
+          "title": "Air Force officer killed in remote Alaska crash was a ‘positive leader’",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yMTM3UTdNeXVhbVFBc2JTWDN4QzVJTG5sSk43aGh3a0FtRXI5dHgycy04dEhFUnBkSFd4NDUxNFkzQmZ0eXRRR29KTDNKV1FValItZzBoa25MNGI0WmhIOVVwZVhkZkk?oc=5",
+          "domain": "taskandpurpose.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260825T184439Z",
           "pinned": false
         },
         {
@@ -133,6 +117,14 @@
           "pinned": false
         },
         {
+          "title": "Coast Guard suspends search for missing male at Gun Beach, Guam",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObGtBUGhrZ2JIT1RId3RsV2xrV0FZcy11RnNlQzkxeTdFZnJZaWJsWVVWN0ZhRWxQTDFwVk9IQUh5dXhkSkg5cm9Sc3lIYXRuR2RzcVlDVkRnc2hDXzVxam8ycERuUzZZTHRsN1JVZUVLZzJXcUpkYU5NMmZqVmtnV1N6dS1DeFBOVFdQZE5wU2xCU0tNd3BNU1NOTTh3QzR1clJSc1FFdXpodEJwY0RFektqeHU5SU5rRnF3QQ?oc=5",
+          "domain": "news.uscg.mil",
+          "sourceTier": "Official military source",
+          "seen": "20260814T234727Z",
+          "pinned": false
+        },
+        {
           "title": "Update: Coast Guard suspends search for missing man in Lake Erie",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeEhCZEd6eGRpc1RvV0lkYWlmczdfQkF2SjV4LUtIbVpHR1E0TjB0cm9qWVo0SThxa2N3RVdmRjctNENoZm9lU3NTNmhPUWVtdWRjV0M1SERDWXgzdGNORWdUM1BrM1hzcXpYd3g4dF85cVFrWUFPQjBUTXdtLWRJemIzN0c0RXZORnVPS21OQUVzTy1UX3NhMkhpNkRJNTNiVU9yTHY3ZFFLMmNRSkJQTGdfal9neEV6VE01REh3?oc=5",
           "domain": "news.uscg.mil",
@@ -144,7 +136,7 @@
       "incidents": [
         {
           "id": "auto-b7da7d41d52d",
-          "reportDate": "2026-08-28",
+          "reportDate": "2026-08-27",
           "dateBasis": "report discovery date",
           "branch": "Army",
           "department": "Department of the Army",
