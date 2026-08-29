@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-29T07:05:10.792Z",
+  "generatedAt": "2026-08-29T16:44:15.844Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-08-29T07:05:10.792Z",
+      "generatedAt": "2026-08-29T16:44:15.844Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -1207,17 +1207,9 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-08-29T07:05:10.792Z",
+      "generatedAt": "2026-08-29T16:44:15.844Z",
       "cadence": "every 6 hours",
       "items": [
-        {
-          "title": "Trump says Iran war will continue for as long as necessary",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb29UMmxxNFQ0LTlHS3VLU3p5R3JXLWVNNjZEOUtnWTRFQ2RxWjF4eUl6WGphWGRPbG1saDYxZFNhOWtKOWtTRU81SmsxdmE4dXRlWHBCNVhOa1RLQ2ZEdVdjLWxRQnFfXzVaQ21QSDVsV1RJM0xpYURqM2V4WG9OTkszeEF3TU5UWlRVRFdhM2lkWE4xZkg1TEhHTzRObU95Y1dYUWFaNjNBNG1RM1HSAbMBQVVfeXFMT1NYMEt1TmFSWEdTNzZEelVTem5XWWFNLTZ3SEtsMTlHblhZbG40ZG10dVpBNE5wRDk4M2djc3JWaWZUa1l6YklpSjkyLUJEYWMwRzJKT3h1eXV2Y05ISXFxUXh0NHN1Z28yenRaeUZva2JVY2FOMllpZEpwR3pCYUZwZFdOVE11VXEzMUl0X25BTzdJSG1TVTV4OExLX01qejRGeFE5aTNkaUVadVRPRWs3MGs?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260826T181350Z",
-          "pinned": false
-        },
         {
           "title": "The Iran War at Six Months: A Region—and Its Relationship With the U.S.—Transformed",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVmV2aGlOQU5JRVc4N3lMVUxqa1l3empTb0dTRUJ4bEV4QXRJTTRSOHNfNGkxSG9lbWZKcGlkUHBWbjlHMzRWamRoYjdFaE5rVk5xcnRnRkxrb0RQTTFBN2xjdGl0MXVFSF9FSTd3YlVNMzVub3hTODJrQk01V2NEdjVHNUNkdUppUnVTaTdnUGREWFdlaDlYTFc1cGVTMmJpdHE1ZVpWdmFtZmZXYThz?oc=5",
@@ -1227,11 +1219,19 @@
           "pinned": false
         },
         {
-          "title": "Conflict With Iran | Global Conflict Tracker",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMWduRExjZXhMUjFuYjV4Zzc0LS11OHVKUEhXSlpUNUdFMm9MVGlJeFd5eGh1ZWpEWWhFNEdJX0tOVTlJbnZ5NmpBQ3dYeGNpSTBOSWtISUduak5WSHhfQUhQcHBKbVpLdG1IVi1ySWVGd05NM18yektrem1TM3ZvaV9xVjR2eC04cE9RZ3FZajNCZWFHNzBaS0hhSS02dw?oc=5",
-          "domain": "cfr.org",
-          "sourceTier": "Structured / analytic",
-          "seen": "20260827T000000Z",
+          "title": "Trump says Iran war will continue for as long as necessary",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb29UMmxxNFQ0LTlHS3VLU3p5R3JXLWVNNjZEOUtnWTRFQ2RxWjF4eUl6WGphWGRPbG1saDYxZFNhOWtKOWtTRU81SmsxdmE4dXRlWHBCNVhOa1RLQ2ZEdVdjLWxRQnFfXzVaQ21QSDVsV1RJM0xpYURqM2V4WG9OTkszeEF3TU5UWlRVRFdhM2lkWE4xZkg1TEhHTzRObU95Y1dYUWFaNjNBNG1RM1HSAbMBQVVfeXFMT1NYMEt1TmFSWEdTNzZEelVTem5XWWFNLTZ3SEtsMTlHblhZbG40ZG10dVpBNE5wRDk4M2djc3JWaWZUa1l6YklpSjkyLUJEYWMwRzJKT3h1eXV2Y05ISXFxUXh0NHN1Z28yenRaeUZva2JVY2FOMllpZEpwR3pCYUZwZFdOVE11VXEzMUl0X25BTzdJSG1TVTV4OExLX01qejRGeFE5aTNkaUVadVRPRWs3MGs?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260826T181350Z",
+          "pinned": false
+        },
+        {
+          "title": "Somali piracy surges as the impact of the US-Iran war ripples outwards",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TbWg5ZTRyb0p0YnpmQjFUVVJzcGcyNnNJb1Y2OVQ4Wm93dk83aFE3UHBrSFJGMl9aVDZ3aWpnUnBtems3dEVUNlM3UzJSR3Ewb2NQaXZlTnY0UQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260829T011413Z",
           "pinned": false
         },
         {
@@ -1251,19 +1251,11 @@
           "pinned": false
         },
         {
-          "title": "Somali piracy surges as the impact of the US-Iran war ripples outwards",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TbWg5ZTRyb0p0YnpmQjFUVVJzcGcyNnNJb1Y2OVQ4Wm93dk83aFE3UHBrSFJGMl9aVDZ3aWpnUnBtems3dEVUNlM3UzJSR3Ewb2NQaXZlTnY0UQ?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260829T011413Z",
-          "pinned": false
-        },
-        {
-          "title": "US-Israel war on Iran, six months down the line: In numbers",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcy1NQzdyLWdscWpPa3BXeFoydjY5eXJxYnh3eXdSajYxckNKNW4zVl8tdEFwcXlvX1VfMVg3ZkVLNG1uM0x2TzBNdDN5cjFVYi0wZHlWSlNiODJ1QV82SlIwS0QwS0k0V3JCZUZvMEM3OE1fQWFJTGtnUFhoU203YmI2elY2SjQ1Q29zMWxxMXRVcnh3bEthdzRwbUQ5NTjSAaQBQVVfeXFMTmFSOXFHWlJWRFA1SWhMRmpXYkZ0UTlIdHl6dXVGUnFxVTVhalptTGFDc210dkJsc0lDR3NWUFVqdV9fVVFDNGMyVldHbHd2MWZRYUlSNW0tc3gwZ3V4MjNhcWJkZVAzVC1icHlyNnJXUl9ZTS11d0xtaVhxYUNTWHBDUlVJU1dBdTI3TjF1UHBEenYtSVhRTGxWV0hRR09LT1k5QWc?oc=5",
+          "title": "With the US and Canada locked in a trade war, fears of a recession lurk",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTGt2QVppdi0xMkFKSGJuSk1TOEhLLUJib2FCS2pzeWZ2VVYzQlRTb0ZmVGlPYi12QzdBNWhsVjZxUy1OdTdUMzNzcmc5bW9zRUxfTzQ0Tldpb1dhQXEyOUpFLXJVMUp3QkxiWWRHekJwLXY1NGMtU1ZaX3kwZV9scldkUkhraHczZVo3QndMdlZsZEZmaDRWZ19NZkZNbDE4TmZxdjQxdEFIeTYtcEszenVRZlfSAboBQVVfeXFMUEhrVWI1NWJ1Y1JhUE45bDVpb0laaklUYW5CTTgwRzNjekdVZnpQUXFqZTlpRGtEcm16S1pLRFBodDV4cldVNE05Y3hvZXNRN1phSV94SjNyMlBwOW5zTk5tQVVXVDFwNDl6NS1ucnl2ZlZaUF9GR3Zaa3VvOWdCdWwzZk1SOHZ0d0RpeXV4aDFHZncyTzBjMDRsSjdRSjBMQWJoWGEwZzY2T1VPai15S1FuS20tNEh6TDhn?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260828T114944Z",
+          "seen": "20260828T214255Z",
           "pinned": false
         },
         {
@@ -1275,19 +1267,19 @@
           "pinned": false
         },
         {
-          "title": "Trump used to say he saw a quick end to his Iran war, but 6 months later he claims he's in no hurry",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUk44eE5qY2RCRDlrV18zU1A2dWFJWkJDdGVPWmpTNzlBRDMtZGpXakVucS01WFRkaVU1Z192cV9zbFI1SkRCSThzZWNlQkR1LVAzUnZrRE0yVkFtV2c1SzlOdXBiWm9obFhWMFJvVjh6RE10T3pLblA3dnBMZFZyOEZicS1mOU9vZHl4dUNMdldiMG9sZWVDTFFabUJwdHY3VXR5SHl3dw?oc=5",
-          "domain": "apnews.com",
+          "title": "US-Israel war on Iran, six months down the line: In numbers",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcy1NQzdyLWdscWpPa3BXeFoydjY5eXJxYnh3eXdSajYxckNKNW4zVl8tdEFwcXlvX1VfMVg3ZkVLNG1uM0x2TzBNdDN5cjFVYi0wZHlWSlNiODJ1QV82SlIwS0QwS0k0V3JCZUZvMEM3OE1fQWFJTGtnUFhoU203YmI2elY2SjQ1Q29zMWxxMXRVcnh3bEthdzRwbUQ5NTjSAaQBQVVfeXFMTmFSOXFHWlJWRFA1SWhMRmpXYkZ0UTlIdHl6dXVGUnFxVTVhalptTGFDc210dkJsc0lDR3NWUFVqdV9fVVFDNGMyVldHbHd2MWZRYUlSNW0tc3gwZ3V4MjNhcWJkZVAzVC1icHlyNnJXUl9ZTS11d0xtaVhxYUNTWHBDUlVJU1dBdTI3TjF1UHBEenYtSVhRTGxWV0hRR09LT1k5QWc?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260828T155300Z",
+          "seen": "20260828T114944Z",
           "pinned": false
         },
         {
-          "title": "Obituary: Ratko Mladic, war criminal convicted of Srebrenica genocide, dies",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRDY4QlJFZFV4QTJoSGRCQXBJNzRpQmozUHV4RW9oZDh2VHJOeGVLY3dyR1lMTUY1Wm9ETjVvckYtc0EyMzJQa2ZUVjJXcWlBTWNRclUzTllKamkxQjR6VHM4dFVOOGZCOVgtS3V2bGwtN3ZUVjV1dVhJLVhJTm1xMUwyZUU5ejQwRjRoU0lHWDVHSXVURTJ6OENUMUR0QXNPaGU1anY0bXVhYjdpNjZhaDhOVdIBuAFBVV95cUxORzZfWVdoLW9kcmZqSEs0enNOc3VZSl9qU3kyeF93aUZkYXoyVE1UTy1reFNWRnJjS19vMHVmRHh0anRneU5oQ0JQb2NIenQ4Tk9JQUpaUTdwV1JSVkd0aE5QU3FWc0ZUMlI5c2dzcjZXVy00S2dCVDJFRkxWWFVpUHBTeVIzNUhqLUhlcTA2cnJTcURJV29DWk9FdEhvYnhrMlp5NXJPYjlUN0pCR0wxUlhtRHVBZjhO?oc=5",
-          "domain": "aljazeera.com",
+          "title": "Regional powers seek off-ramp from Iran war, and other Middle East developments",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPblotQXR6VEctdkdvVUhZYUNsWXBPQTd2QjU4TTNZd0pFTnk2LWtXejlfMjBRRDJjamYzRWthTE96NmpCMmROV1B2eW1uLXI4aFcwQTRGczJXTS1HUm1YTUo0U0J5ZTJFQkJNUVVVcGJsc2xhZ1FYQkpIRm5Ba2N4RnV4eG44UHdQdWZIMHdWX09IMGI1RVl5YllOTkJRanlKcWFxalM0d0dsVmRl?oc=5",
+          "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260827T170857Z",
+          "seen": "20260828T021700Z",
           "pinned": false
         },
         {
@@ -1296,6 +1288,14 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260827T105233Z",
+          "pinned": false
+        },
+        {
+          "title": "Obituary: Ratko Mladic, war criminal convicted of Srebrenica genocide, dies",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRDY4QlJFZFV4QTJoSGRCQXBJNzRpQmozUHV4RW9oZDh2VHJOeGVLY3dyR1lMTUY1Wm9ETjVvckYtc0EyMzJQa2ZUVjJXcWlBTWNRclUzTllKamkxQjR6VHM4dFVOOGZCOVgtS3V2bGwtN3ZUVjV1dVhJLVhJTm1xMUwyZUU5ejQwRjRoU0lHWDVHSXVURTJ6OENUMUR0QXNPaGU1anY0bXVhYjdpNjZhaDhOVdIBuAFBVV95cUxORzZfWVdoLW9kcmZqSEs0enNOc3VZSl9qU3kyeF93aUZkYXoyVE1UTy1reFNWRnJjS19vMHVmRHh0anRneU5oQ0JQb2NIenQ4Tk9JQUpaUTdwV1JSVkd0aE5QU3FWc0ZUMlI5c2dzcjZXVy00S2dCVDJFRkxWWFVpUHBTeVIzNUhqLUhlcTA2cnJTcURJV29DWk9FdEhvYnhrMlp5NXJPYjlUN0pCR0wxUlhtRHVBZjhO?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260827T170857Z",
           "pinned": false
         },
         {
@@ -1315,19 +1315,19 @@
           "pinned": false
         },
         {
+          "title": "Six months into the Iran war, a new Gulf security architecture is emerging",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaFFwOWNjUV90cFBVN1RGcGdDcVJ0UGw2U1FmcEpwRGFITnRJcHVZUENydWY1RXAxWUt1VFNyRXlIVWl5VWxoYzR3anpZNlpqemVubUZtNDNaV25oSWFwNktXZlAzSlAyWE5meU9EX3pLcFNQcGFtVlpkcTBIeGIyWTkxY185bDdxYUhtQ19qc1RnOTB0YkFUdFdPdzc3UkFQM1VlWUxVZFM3cnpaLXNMTndEdWNscnQzN1HSAb8BQVVfeXFMTVlwRmFBVl81STk3UzlxSGFkSVZsdnU4eFBJSHZfemdUUmoxMkNKYnFkelFuZno1czdiWUJJZUNZY3B1emgtZkcxSkpETnhsa2FCdWVjOXExa3h3aTl0TGc3X1NJdE1BUEdTNU9mV0FnRG1jczBTcnhhOE1WM25XOFNYclZDdVM4VUxZQndwSnNVT1djbWwyYnJMa0VnNXlKclV2TGdHaDUxUWw1WGZWRHlURHgzV1dPUlZiWm1qTzQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260829T061407Z",
+          "pinned": false
+        },
+        {
           "title": "Kurdish-led SDF has dissolved, but has Syria really unified its military?",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRzVtN2F2SHJXbWxsaTc0bW9rVlpzTXhKN1QyUVBXTlJUeWtjby1DOXpDZHZkOGJicVRCdUdUZ3ZxX2tiaDZUX3p3cDlLcTdSMTdWRnAzZVNhYkQxakllWXdWOTF3V3dtcnVQSC14V1JOZWZYZUxrSWhlVThNM3RCZ1lZa0dfd2c1RnV3UUxjdDdjd19BbDZmTXh2bGFOam1Pb0pCVW5YNFlPdWVMVV82bGNR0gG3AUFVX3lxTFByWUF5N19MeHpaaFJFVTBvbUg0am05NVpoNDBXMm5Sal9kV2lNVWlqLVdMWGtIcVZUb3YySVFXT21rdll3QXcyQXVJaDVHbnJYUTRmZjhHRUMwVUNVeWVNTXI3bEJSU0ZpWklLck1xaWZhR0MyVmhsdTB2ckFtaF8wTjgxd2ZkaU5ZYm5MS2JFWjQzNmE5TjZZQk5hOE1ZSzJPUTRWREJOV3UxMVM5MFE0YjJjY29yZw?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260826T183513Z",
-          "pinned": false
-        },
-        {
-          "title": "Regional powers seek off-ramp from Iran war, and other Middle East developments",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPblotQXR6VEctdkdvVUhZYUNsWXBPQTd2QjU4TTNZd0pFTnk2LWtXejlfMjBRRDJjamYzRWthTE96NmpCMmROV1B2eW1uLXI4aFcwQTRGczJXTS1HUm1YTUo0U0J5ZTJFQkJNUVVVcGJsc2xhZ1FYQkpIRm5Ba2N4RnV4eG44UHdQdWZIMHdWX09IMGI1RVl5YllOTkJRanlKcWFxalM0d0dsVmRl?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260828T021700Z",
           "pinned": false
         },
         {
@@ -1339,11 +1339,11 @@
           "pinned": false
         },
         {
-          "title": "With the US and Canada locked in a trade war, fears of a recession lurk",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTGt2QVppdi0xMkFKSGJuSk1TOEhLLUJib2FCS2pzeWZ2VVYzQlRTb0ZmVGlPYi12QzdBNWhsVjZxUy1OdTdUMzNzcmc5bW9zRUxfTzQ0Tldpb1dhQXEyOUpFLXJVMUp3QkxiWWRHekJwLXY1NGMtU1ZaX3kwZV9scldkUkhraHczZVo3QndMdlZsZEZmaDRWZ19NZkZNbDE4TmZxdjQxdEFIeTYtcEszenVRZlfSAboBQVVfeXFMUEhrVWI1NWJ1Y1JhUE45bDVpb0laaklUYW5CTTgwRzNjekdVZnpQUXFqZTlpRGtEcm16S1pLRFBodDV4cldVNE05Y3hvZXNRN1phSV94SjNyMlBwOW5zTk5tQVVXVDFwNDl6NS1ucnl2ZlZaUF9GR3Zaa3VvOWdCdWwzZk1SOHZ0d0RpeXV4aDFHZncyTzBjMDRsSjdRSjBMQWJoWGEwZzY2T1VPai15S1FuS20tNEh6TDhn?oc=5",
+          "title": "War on Iran: Diplomacy intensifies",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTDV6bFRHRVcycjhER2hULUF1TlBtVUVoek1hZ2w1VEpwYk42TTBfZl9RSkhBWDYtWEFaYWFoNnhnUjVRaGF4bWFlNGZzZHJEZWdkcGNRSXFWanpXaHJydTBWOVBNUTFMaXpjUVQtOUYzZFN1aU81TXJvaFluNEtnbHRQbU9yeV9sNEh2WdIBkgFBVV95cUxOdmstcjBtMmlNSkZFUFdWaWhsb3FhdkpGd0RhaW9mM3NjYUpvY0gzcDBGQnFTbjluYXR0cFlXbVluc050LU41LTdXY2lvNXpzQU9fUXFGVWhsSnJwN0EwdEc0bDVsR0psUld6WUtyenY3YmhSam1IWXBERmlVVUtoTjlDVFhzTm02SG44LWpTbGVDdw?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260828T214255Z",
+          "seen": "20260827T151044Z",
           "pinned": false
         },
         {
@@ -1352,6 +1352,14 @@
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20260828T150020Z",
+          "pinned": false
+        },
+        {
+          "title": "Iran’s leaders acknowledge economic toll of war, pledge diplomacy, defence",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ0k5STBhQWpzTDlhejJuUnBtUDdEVW40V2ZHb0xIMGFkWS01ejQyaXpNSGQtUjlIbEJfS0l0WEdiaDFsdTZYQzNGTnhRb3dQUXZabkowdjdwUWtCaHVtOFExb2cycFNDSE9WVnNjZTlaY0k5aTM5clMxNVFDQUxadnJndDFUckEyQ3dsdHFnWXdRUVBwSm0yMUdINTVMemVWd29qN2tKWWZtRFdWcjBzQ29R0gG3AUFVX3lxTE9CaG91V2xvMHAweTh1SXVWZWJMbUw2TkpZTGtxcVM5ODBxcVFRVWFma25LWUhGT2FtS1Z5VXY4a2l2aENpeWVYRU5jU3ZZQlR5dGJqRjM2SkpaSmo3TUhSMFZ6MG9kYTdseFc4b3UzemtRekdlcUREUDVPTlNiNGFxUU41Rjc2TzF1ekJEZ2tmLTFFTGpvVU9PVVBtekozNVJXS3pTWW9iTXBFbFFEZXpxeWZuTTk5dw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260829T101442Z",
           "pinned": false
         },
         {
@@ -1371,6 +1379,14 @@
           "pinned": false
         },
         {
+          "title": "Board of Peace envoy Mladenov warns Gaza ceasefire risks ‘collapse’",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdkpxdFc5VUFLYjJ1bTJ2Q2w5MXpKLVBJdEpGOC1nMjFUVEJFVzh0U2hwbTVtbzZPS0FSVTRnN21TLWI3dkVVSHNXdWl4QUZ5Q2lSM2xHWkFRMFZPRU5nUUQydGdBYnUzUUFLWXZUcW1jUENKTEZnQ3gzZmhlYy1OdVB1b3FYN21OOGRWNDMxYjZmLXFlRUtnTGJJOUtsaS1hdFJaQjFjOXF5QdIBrwFBVV95cUxNSC1xcVVjZ1FOdGQ0b2NYMzJtc3h0X2tuSThQZ1pFaHpmT1Atb0lfOUMzVmswdTJZNWg5NkNDSWh1aDZzTVVCRFUxYW5xSHQtLU94ZXZ4NVl0d2ZPbnFzTVVYeldmNDNVWEx5eGxhVEhGbmdrZFY2UFJ3eDJJM2xNdlZJWWl6aDJ4eWlzOUhwN1FENHczVXFIS3Z1djF3aW5RSVlQbjVrSnNLQTdKa2ZJ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260828T164833Z",
+          "pinned": false
+        },
+        {
           "title": "Six Months Into the Iran War, the United States Has No Good Options",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdFh6Zms3aFZ4NVJFTVF6WTExeHpPcVhwaHR6NTVNb3I2NGFVZFhXb3hFVGc0VzlSaGhpM1dPSmRYWFVNVlVLTkhVdzZuOTR2U2dlQ0ZJX2NLZzdiMTZpWnpoeU1ndnd6WDkzaGZpWENiYjhOOW5SUUVXWFNFNjlDRUlzXzRLVXdSSjFzSDMzZlpQcXY0bjcwUmcyVQ?oc=5",
           "domain": "cfr.org",
@@ -1385,34 +1401,9 @@
           "sourceTier": "Independent reporting",
           "seen": "20260828T041400Z",
           "pinned": false
-        },
-        {
-          "title": "US-Canada animosity could impede an end to a trade war neither country wants",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcDFBLTNoRzBfUklOeE5RZDVndmoxRDN1aTFDT0JTX2JxZEVURnZJVHVpcUpYcUFubDdmTDhKamdRbnM2TW9xQ3pTOHh6MUVGelpfc1hwN05ERjNaMko3X3RQTVhnWmNZRVZ3R0doaS1NWGEyQWZGNEhQZV9iM1RuVFpOZjdEZmRRZVZkS25JWDFyYXpzTTNfLWhvcDB0dw?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260826T182100Z",
-          "pinned": false
-        },
-        {
-          "title": "Russia ramps up rhetoric but wants to avoid war with Nato, Western officials say",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hb3JyUHlBdkoxdXVXcFJpeXN6YS1PNmNHNk1RSkpzblBmU0hDNFFiWS1mbEZyNnFQMjIwZ1pZTzA2SDlMbEIybWxacDJzNzRNdFRIRWpRR2FqUQ?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260828T190523Z",
-          "pinned": false
         }
       ],
       "reports": [
-        {
-          "id": "report-f9e3700e9e87",
-          "title": "Trump says Iran war will continue for as long as necessary",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb29UMmxxNFQ0LTlHS3VLU3p5R3JXLWVNNjZEOUtnWTRFQ2RxWjF4eUl6WGphWGRPbG1saDYxZFNhOWtKOWtTRU81SmsxdmE4dXRlWHBCNVhOa1RLQ2ZEdVdjLWxRQnFfXzVaQ21QSDVsV1RJM0xpYURqM2V4WG9OTkszeEF3TU5UWlRVRFdhM2lkWE4xZkg1TEhHTzRObU95Y1dYUWFaNjNBNG1RM1HSAbMBQVVfeXFMT1NYMEt1TmFSWEdTNzZEelVTem5XWWFNLTZ3SEtsMTlHblhZbG40ZG10dVpBNE5wRDk4M2djc3JWaWZUa1l6YklpSjkyLUJEYWMwRzJKT3h1eXV2Y05ISXFxUXh0NHN1Z28yenRaeUZva2JVY2FOMllpZEpwR3pCYUZwZFdOVE11VXEzMUl0X25BTzdJSG1TVTV4OExLX01qejRGeFE5aTNkaUVadVRPRWs3MGs?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-26T18:13:50Z"
-        },
         {
           "id": "report-3856ac9e73b2",
           "title": "The Iran War at Six Months: A Region—and Its Relationship With the U.S.—Transformed",
@@ -1423,13 +1414,22 @@
           "reportedAt": "2026-08-27T20:45:06Z"
         },
         {
-          "id": "report-defc72fd3c7f",
-          "title": "Conflict With Iran | Global Conflict Tracker",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMWduRExjZXhMUjFuYjV4Zzc0LS11OHVKUEhXSlpUNUdFMm9MVGlJeFd5eGh1ZWpEWWhFNEdJX0tOVTlJbnZ5NmpBQ3dYeGNpSTBOSWtISUduak5WSHhfQUhQcHBKbVpLdG1IVi1ySWVGd05NM18yektrem1TM3ZvaV9xVjR2eC04cE9RZ3FZajNCZWFHNzBaS0hhSS02dw?oc=5",
-          "domain": "cfr.org",
-          "sourceTier": "Structured / analytic",
-          "confidenceLabel": "ANALYTIC REPORT",
-          "reportedAt": "2026-08-27T00:00:00Z"
+          "id": "report-f9e3700e9e87",
+          "title": "Trump says Iran war will continue for as long as necessary",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb29UMmxxNFQ0LTlHS3VLU3p5R3JXLWVNNjZEOUtnWTRFQ2RxWjF4eUl6WGphWGRPbG1saDYxZFNhOWtKOWtTRU81SmsxdmE4dXRlWHBCNVhOa1RLQ2ZEdVdjLWxRQnFfXzVaQ21QSDVsV1RJM0xpYURqM2V4WG9OTkszeEF3TU5UWlRVRFdhM2lkWE4xZkg1TEhHTzRObU95Y1dYUWFaNjNBNG1RM1HSAbMBQVVfeXFMT1NYMEt1TmFSWEdTNzZEelVTem5XWWFNLTZ3SEtsMTlHblhZbG40ZG10dVpBNE5wRDk4M2djc3JWaWZUa1l6YklpSjkyLUJEYWMwRzJKT3h1eXV2Y05ISXFxUXh0NHN1Z28yenRaeUZva2JVY2FOMllpZEpwR3pCYUZwZFdOVE11VXEzMUl0X25BTzdJSG1TVTV4OExLX01qejRGeFE5aTNkaUVadVRPRWs3MGs?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-26T18:13:50Z"
+        },
+        {
+          "id": "report-d41ef50ab183",
+          "title": "Somali piracy surges as the impact of the US-Iran war ripples outwards",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TbWg5ZTRyb0p0YnpmQjFUVVJzcGcyNnNJb1Y2OVQ4Wm93dk83aFE3UHBrSFJGMl9aVDZ3aWpnUnBtems3dEVUNlM3UzJSR3Ewb2NQaXZlTnY0UQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-29T01:14:13Z"
         },
         {
           "id": "report-e638287d1f0e",
@@ -1450,22 +1450,13 @@
           "reportedAt": "2026-08-28T12:44:58Z"
         },
         {
-          "id": "report-d41ef50ab183",
-          "title": "Somali piracy surges as the impact of the US-Iran war ripples outwards",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TbWg5ZTRyb0p0YnpmQjFUVVJzcGcyNnNJb1Y2OVQ4Wm93dk83aFE3UHBrSFJGMl9aVDZ3aWpnUnBtems3dEVUNlM3UzJSR3Ewb2NQaXZlTnY0UQ?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-29T01:14:13Z"
-        },
-        {
-          "id": "report-9c9a50d52605",
-          "title": "US-Israel war on Iran, six months down the line: In numbers",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcy1NQzdyLWdscWpPa3BXeFoydjY5eXJxYnh3eXdSajYxckNKNW4zVl8tdEFwcXlvX1VfMVg3ZkVLNG1uM0x2TzBNdDN5cjFVYi0wZHlWSlNiODJ1QV82SlIwS0QwS0k0V3JCZUZvMEM3OE1fQWFJTGtnUFhoU203YmI2elY2SjQ1Q29zMWxxMXRVcnh3bEthdzRwbUQ5NTjSAaQBQVVfeXFMTmFSOXFHWlJWRFA1SWhMRmpXYkZ0UTlIdHl6dXVGUnFxVTVhalptTGFDc210dkJsc0lDR3NWUFVqdV9fVVFDNGMyVldHbHd2MWZRYUlSNW0tc3gwZ3V4MjNhcWJkZVAzVC1icHlyNnJXUl9ZTS11d0xtaVhxYUNTWHBDUlVJU1dBdTI3TjF1UHBEenYtSVhRTGxWV0hRR09LT1k5QWc?oc=5",
+          "id": "report-f6381444d2f8",
+          "title": "With the US and Canada locked in a trade war, fears of a recession lurk",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTGt2QVppdi0xMkFKSGJuSk1TOEhLLUJib2FCS2pzeWZ2VVYzQlRTb0ZmVGlPYi12QzdBNWhsVjZxUy1OdTdUMzNzcmc5bW9zRUxfTzQ0Tldpb1dhQXEyOUpFLXJVMUp3QkxiWWRHekJwLXY1NGMtU1ZaX3kwZV9scldkUkhraHczZVo3QndMdlZsZEZmaDRWZ19NZkZNbDE4TmZxdjQxdEFIeTYtcEszenVRZlfSAboBQVVfeXFMUEhrVWI1NWJ1Y1JhUE45bDVpb0laaklUYW5CTTgwRzNjekdVZnpQUXFqZTlpRGtEcm16S1pLRFBodDV4cldVNE05Y3hvZXNRN1phSV94SjNyMlBwOW5zTk5tQVVXVDFwNDl6NS1ucnl2ZlZaUF9GR3Zaa3VvOWdCdWwzZk1SOHZ0d0RpeXV4aDFHZncyTzBjMDRsSjdRSjBMQWJoWGEwZzY2T1VPai15S1FuS20tNEh6TDhn?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-28T11:49:44Z"
+          "reportedAt": "2026-08-28T21:42:55Z"
         },
         {
           "id": "report-b9b0c659701f",
@@ -1477,22 +1468,22 @@
           "reportedAt": "2026-08-27T16:58:00Z"
         },
         {
-          "id": "report-aae0dc500213",
-          "title": "Trump used to say he saw a quick end to his Iran war, but 6 months later he claims he's in no hurry",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUk44eE5qY2RCRDlrV18zU1A2dWFJWkJDdGVPWmpTNzlBRDMtZGpXakVucS01WFRkaVU1Z192cV9zbFI1SkRCSThzZWNlQkR1LVAzUnZrRE0yVkFtV2c1SzlOdXBiWm9obFhWMFJvVjh6RE10T3pLblA3dnBMZFZyOEZicS1mOU9vZHl4dUNMdldiMG9sZWVDTFFabUJwdHY3VXR5SHl3dw?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-28T15:53:00Z"
-        },
-        {
-          "id": "report-e7e996df8a17",
-          "title": "Obituary: Ratko Mladic, war criminal convicted of Srebrenica genocide, dies",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRDY4QlJFZFV4QTJoSGRCQXBJNzRpQmozUHV4RW9oZDh2VHJOeGVLY3dyR1lMTUY1Wm9ETjVvckYtc0EyMzJQa2ZUVjJXcWlBTWNRclUzTllKamkxQjR6VHM4dFVOOGZCOVgtS3V2bGwtN3ZUVjV1dVhJLVhJTm1xMUwyZUU5ejQwRjRoU0lHWDVHSXVURTJ6OENUMUR0QXNPaGU1anY0bXVhYjdpNjZhaDhOVdIBuAFBVV95cUxORzZfWVdoLW9kcmZqSEs0enNOc3VZSl9qU3kyeF93aUZkYXoyVE1UTy1reFNWRnJjS19vMHVmRHh0anRneU5oQ0JQb2NIenQ4Tk9JQUpaUTdwV1JSVkd0aE5QU3FWc0ZUMlI5c2dzcjZXVy00S2dCVDJFRkxWWFVpUHBTeVIzNUhqLUhlcTA2cnJTcURJV29DWk9FdEhvYnhrMlp5NXJPYjlUN0pCR0wxUlhtRHVBZjhO?oc=5",
+          "id": "report-9c9a50d52605",
+          "title": "US-Israel war on Iran, six months down the line: In numbers",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcy1NQzdyLWdscWpPa3BXeFoydjY5eXJxYnh3eXdSajYxckNKNW4zVl8tdEFwcXlvX1VfMVg3ZkVLNG1uM0x2TzBNdDN5cjFVYi0wZHlWSlNiODJ1QV82SlIwS0QwS0k0V3JCZUZvMEM3OE1fQWFJTGtnUFhoU203YmI2elY2SjQ1Q29zMWxxMXRVcnh3bEthdzRwbUQ5NTjSAaQBQVVfeXFMTmFSOXFHWlJWRFA1SWhMRmpXYkZ0UTlIdHl6dXVGUnFxVTVhalptTGFDc210dkJsc0lDR3NWUFVqdV9fVVFDNGMyVldHbHd2MWZRYUlSNW0tc3gwZ3V4MjNhcWJkZVAzVC1icHlyNnJXUl9ZTS11d0xtaVhxYUNTWHBDUlVJU1dBdTI3TjF1UHBEenYtSVhRTGxWV0hRR09LT1k5QWc?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-27T17:08:57Z"
+          "reportedAt": "2026-08-28T11:49:44Z"
+        },
+        {
+          "id": "report-8286f6643a65",
+          "title": "Regional powers seek off-ramp from Iran war, and other Middle East developments",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPblotQXR6VEctdkdvVUhZYUNsWXBPQTd2QjU4TTNZd0pFTnk2LWtXejlfMjBRRDJjamYzRWthTE96NmpCMmROV1B2eW1uLXI4aFcwQTRGczJXTS1HUm1YTUo0U0J5ZTJFQkJNUVVVcGJsc2xhZ1FYQkpIRm5Ba2N4RnV4eG44UHdQdWZIMHdWX09IMGI1RVl5YllOTkJRanlKcWFxalM0d0dsVmRl?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-28T02:17:00Z"
         },
         {
           "id": "report-73f8de3c99db",
@@ -1502,6 +1493,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-27T10:52:33Z"
+        },
+        {
+          "id": "report-e7e996df8a17",
+          "title": "Obituary: Ratko Mladic, war criminal convicted of Srebrenica genocide, dies",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRDY4QlJFZFV4QTJoSGRCQXBJNzRpQmozUHV4RW9oZDh2VHJOeGVLY3dyR1lMTUY1Wm9ETjVvckYtc0EyMzJQa2ZUVjJXcWlBTWNRclUzTllKamkxQjR6VHM4dFVOOGZCOVgtS3V2bGwtN3ZUVjV1dVhJLVhJTm1xMUwyZUU5ejQwRjRoU0lHWDVHSXVURTJ6OENUMUR0QXNPaGU1anY0bXVhYjdpNjZhaDhOVdIBuAFBVV95cUxORzZfWVdoLW9kcmZqSEs0enNOc3VZSl9qU3kyeF93aUZkYXoyVE1UTy1reFNWRnJjS19vMHVmRHh0anRneU5oQ0JQb2NIenQ4Tk9JQUpaUTdwV1JSVkd0aE5QU3FWc0ZUMlI5c2dzcjZXVy00S2dCVDJFRkxWWFVpUHBTeVIzNUhqLUhlcTA2cnJTcURJV29DWk9FdEhvYnhrMlp5NXJPYjlUN0pCR0wxUlhtRHVBZjhO?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-27T17:08:57Z"
         },
         {
           "id": "report-388852bb621c",
@@ -1522,6 +1522,15 @@
           "reportedAt": "2026-08-27T11:05:00Z"
         },
         {
+          "id": "report-93a64bf46c2e",
+          "title": "Six months into the Iran war, a new Gulf security architecture is emerging",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaFFwOWNjUV90cFBVN1RGcGdDcVJ0UGw2U1FmcEpwRGFITnRJcHVZUENydWY1RXAxWUt1VFNyRXlIVWl5VWxoYzR3anpZNlpqemVubUZtNDNaV25oSWFwNktXZlAzSlAyWE5meU9EX3pLcFNQcGFtVlpkcTBIeGIyWTkxY185bDdxYUhtQ19qc1RnOTB0YkFUdFdPdzc3UkFQM1VlWUxVZFM3cnpaLXNMTndEdWNscnQzN1HSAb8BQVVfeXFMTVlwRmFBVl81STk3UzlxSGFkSVZsdnU4eFBJSHZfemdUUmoxMkNKYnFkelFuZno1czdiWUJJZUNZY3B1emgtZkcxSkpETnhsa2FCdWVjOXExa3h3aTl0TGc3X1NJdE1BUEdTNU9mV0FnRG1jczBTcnhhOE1WM25XOFNYclZDdVM4VUxZQndwSnNVT1djbWwyYnJMa0VnNXlKclV2TGdHaDUxUWw1WGZWRHlURHgzV1dPUlZiWm1qTzQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-29T06:14:07Z"
+        },
+        {
           "id": "report-559e81aafae6",
           "title": "Kurdish-led SDF has dissolved, but has Syria really unified its military?",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRzVtN2F2SHJXbWxsaTc0bW9rVlpzTXhKN1QyUVBXTlJUeWtjby1DOXpDZHZkOGJicVRCdUdUZ3ZxX2tiaDZUX3p3cDlLcTdSMTdWRnAzZVNhYkQxakllWXdWOTF3V3dtcnVQSC14V1JOZWZYZUxrSWhlVThNM3RCZ1lZa0dfd2c1RnV3UUxjdDdjd19BbDZmTXh2bGFOam1Pb0pCVW5YNFlPdWVMVV82bGNR0gG3AUFVX3lxTFByWUF5N19MeHpaaFJFVTBvbUg0am05NVpoNDBXMm5Sal9kV2lNVWlqLVdMWGtIcVZUb3YySVFXT21rdll3QXcyQXVJaDVHbnJYUTRmZjhHRUMwVUNVeWVNTXI3bEJSU0ZpWklLck1xaWZhR0MyVmhsdTB2ckFtaF8wTjgxd2ZkaU5ZYm5MS2JFWjQzNmE5TjZZQk5hOE1ZSzJPUTRWREJOV3UxMVM5MFE0YjJjY29yZw?oc=5",
@@ -1529,15 +1538,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-26T18:35:13Z"
-        },
-        {
-          "id": "report-8286f6643a65",
-          "title": "Regional powers seek off-ramp from Iran war, and other Middle East developments",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPblotQXR6VEctdkdvVUhZYUNsWXBPQTd2QjU4TTNZd0pFTnk2LWtXejlfMjBRRDJjamYzRWthTE96NmpCMmROV1B2eW1uLXI4aFcwQTRGczJXTS1HUm1YTUo0U0J5ZTJFQkJNUVVVcGJsc2xhZ1FYQkpIRm5Ba2N4RnV4eG44UHdQdWZIMHdWX09IMGI1RVl5YllOTkJRanlKcWFxalM0d0dsVmRl?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-28T02:17:00Z"
         },
         {
           "id": "report-406fb310d2c0",
@@ -1549,13 +1549,13 @@
           "reportedAt": "2026-08-26T03:18:41Z"
         },
         {
-          "id": "report-f6381444d2f8",
-          "title": "With the US and Canada locked in a trade war, fears of a recession lurk",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTGt2QVppdi0xMkFKSGJuSk1TOEhLLUJib2FCS2pzeWZ2VVYzQlRTb0ZmVGlPYi12QzdBNWhsVjZxUy1OdTdUMzNzcmc5bW9zRUxfTzQ0Tldpb1dhQXEyOUpFLXJVMUp3QkxiWWRHekJwLXY1NGMtU1ZaX3kwZV9scldkUkhraHczZVo3QndMdlZsZEZmaDRWZ19NZkZNbDE4TmZxdjQxdEFIeTYtcEszenVRZlfSAboBQVVfeXFMUEhrVWI1NWJ1Y1JhUE45bDVpb0laaklUYW5CTTgwRzNjekdVZnpQUXFqZTlpRGtEcm16S1pLRFBodDV4cldVNE05Y3hvZXNRN1phSV94SjNyMlBwOW5zTk5tQVVXVDFwNDl6NS1ucnl2ZlZaUF9GR3Zaa3VvOWdCdWwzZk1SOHZ0d0RpeXV4aDFHZncyTzBjMDRsSjdRSjBMQWJoWGEwZzY2T1VPai15S1FuS20tNEh6TDhn?oc=5",
+          "id": "report-5a027f261d1b",
+          "title": "War on Iran: Diplomacy intensifies",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTDV6bFRHRVcycjhER2hULUF1TlBtVUVoek1hZ2w1VEpwYk42TTBfZl9RSkhBWDYtWEFaYWFoNnhnUjVRaGF4bWFlNGZzZHJEZWdkcGNRSXFWanpXaHJydTBWOVBNUTFMaXpjUVQtOUYzZFN1aU81TXJvaFluNEtnbHRQbU9yeV9sNEh2WdIBkgFBVV95cUxOdmstcjBtMmlNSkZFUFdWaWhsb3FhdkpGd0RhaW9mM3NjYUpvY0gzcDBGQnFTbjluYXR0cFlXbVluc050LU41LTdXY2lvNXpzQU9fUXFGVWhsSnJwN0EwdEc0bDVsR0psUld6WUtyenY3YmhSam1IWXBERmlVVUtoTjlDVFhzTm02SG44LWpTbGVDdw?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-28T21:42:55Z"
+          "reportedAt": "2026-08-27T15:10:44Z"
         },
         {
           "id": "report-ea8baf0c5ead",
@@ -1565,6 +1565,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-28T15:00:20Z"
+        },
+        {
+          "id": "report-dd902aca0f8b",
+          "title": "Iran’s leaders acknowledge economic toll of war, pledge diplomacy, defence",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ0k5STBhQWpzTDlhejJuUnBtUDdEVW40V2ZHb0xIMGFkWS01ejQyaXpNSGQtUjlIbEJfS0l0WEdiaDFsdTZYQzNGTnhRb3dQUXZabkowdjdwUWtCaHVtOFExb2cycFNDSE9WVnNjZTlaY0k5aTM5clMxNVFDQUxadnJndDFUckEyQ3dsdHFnWXdRUVBwSm0yMUdINTVMemVWd29qN2tKWWZtRFdWcjBzQ29R0gG3AUFVX3lxTE9CaG91V2xvMHAweTh1SXVWZWJMbUw2TkpZTGtxcVM5ODBxcVFRVWFma25LWUhGT2FtS1Z5VXY4a2l2aENpeWVYRU5jU3ZZQlR5dGJqRjM2SkpaSmo3TUhSMFZ6MG9kYTdseFc4b3UzemtRekdlcUREUDVPTlNiNGFxUU41Rjc2TzF1ekJEZ2tmLTFFTGpvVU9PVVBtekozNVJXS3pTWW9iTXBFbFFEZXpxeWZuTTk5dw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-29T10:14:42Z"
         },
         {
           "id": "report-b6d4394de859",
@@ -1585,6 +1594,15 @@
           "reportedAt": "2026-08-27T17:05:22Z"
         },
         {
+          "id": "report-d002da51e62d",
+          "title": "Board of Peace envoy Mladenov warns Gaza ceasefire risks ‘collapse’",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdkpxdFc5VUFLYjJ1bTJ2Q2w5MXpKLVBJdEpGOC1nMjFUVEJFVzh0U2hwbTVtbzZPS0FSVTRnN21TLWI3dkVVSHNXdWl4QUZ5Q2lSM2xHWkFRMFZPRU5nUUQydGdBYnUzUUFLWXZUcW1jUENKTEZnQ3gzZmhlYy1OdVB1b3FYN21OOGRWNDMxYjZmLXFlRUtnTGJJOUtsaS1hdFJaQjFjOXF5QdIBrwFBVV95cUxNSC1xcVVjZ1FOdGQ0b2NYMzJtc3h0X2tuSThQZ1pFaHpmT1Atb0lfOUMzVmswdTJZNWg5NkNDSWh1aDZzTVVCRFUxYW5xSHQtLU94ZXZ4NVl0d2ZPbnFzTVVYeldmNDNVWEx5eGxhVEhGbmdrZFY2UFJ3eDJJM2xNdlZJWWl6aDJ4eWlzOUhwN1FENHczVXFIS3Z1djF3aW5RSVlQbjVrSnNLQTdKa2ZJ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-28T16:48:33Z"
+        },
+        {
           "id": "report-61fcdec3af27",
           "title": "Six Months Into the Iran War, the United States Has No Good Options",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdFh6Zms3aFZ4NVJFTVF6WTExeHpPcVhwaHR6NTVNb3I2NGFVZFhXb3hFVGc0VzlSaGhpM1dPSmRYWFVNVlVLTkhVdzZuOTR2U2dlQ0ZJX2NLZzdiMTZpWnpoeU1ndnd6WDkzaGZpWENiYjhOOW5SUUVXWFNFNjlDRUlzXzRLVXdSSjFzSDMzZlpQcXY0bjcwUmcyVQ?oc=5",
@@ -1603,22 +1621,13 @@
           "reportedAt": "2026-08-28T04:14:00Z"
         },
         {
-          "id": "report-9afddffcf373",
-          "title": "US-Canada animosity could impede an end to a trade war neither country wants",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcDFBLTNoRzBfUklOeE5RZDVndmoxRDN1aTFDT0JTX2JxZEVURnZJVHVpcUpYcUFubDdmTDhKamdRbnM2TW9xQ3pTOHh6MUVGelpfc1hwN05ERjNaMko3X3RQTVhnWmNZRVZ3R0doaS1NWGEyQWZGNEhQZV9iM1RuVFpOZjdEZmRRZVZkS25JWDFyYXpzTTNfLWhvcDB0dw?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-26T18:21:00Z"
-        },
-        {
-          "id": "report-79dcc3f1037d",
-          "title": "Russia ramps up rhetoric but wants to avoid war with Nato, Western officials say",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hb3JyUHlBdkoxdXVXcFJpeXN6YS1PNmNHNk1RSkpzblBmU0hDNFFiWS1mbEZyNnFQMjIwZ1pZTzA2SDlMbEIybWxacDJzNzRNdFRIRWpRR2FqUQ?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-28T19:05:23Z"
+          "id": "report-defc72fd3c7f",
+          "title": "Conflict With Iran | Global Conflict Tracker",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMWduRExjZXhMUjFuYjV4Zzc0LS11OHVKUEhXSlpUNUdFMm9MVGlJeFd5eGh1ZWpEWWhFNEdJX0tOVTlJbnZ5NmpBQ3dYeGNpSTBOSWtISUduak5WSHhfQUhQcHBKbVpLdG1IVi1ySWVGd05NM18yektrem1TM3ZvaV9xVjR2eC04cE9RZ3FZajNCZWFHNzBaS0hhSS02dw?oc=5",
+          "domain": "cfr.org",
+          "sourceTier": "Structured / analytic",
+          "confidenceLabel": "ANALYTIC REPORT",
+          "reportedAt": "2026-08-27T00:00:00Z"
         },
         {
           "id": "report-372b096ff4db",
