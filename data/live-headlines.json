@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-30T18:49:35.802Z",
+  "generatedAt": "2026-08-30T19:19:49.528Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -9,7 +9,7 @@
       "items": []
     },
     "safety": {
-      "generatedAt": "2026-08-30T18:49:35.802Z",
+      "generatedAt": "2026-08-30T19:19:49.528Z",
       "cadence": "daily",
       "items": [
         {
@@ -19,6 +19,30 @@
           "sourceTier": "Official / intergovernmental",
           "seen": "20250129T204800Z",
           "pinned": true
+        },
+        {
+          "title": "Marine Corps MV-22 Osprey suffers engine fire during Air Force training exercise",
+          "url": "https://www.militarytimes.com/news/your-military/2026/07/21/marine-corps-mv-22-osprey-suffers-engine-fire-during-air-force-training-exercise/",
+          "domain": "militarytimes.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260721T174800Z",
+          "pinned": false
+        },
+        {
+          "title": "Navy suspends search after MH-60S helicopter mishap; one Sailor missing",
+          "url": "https://www.navy.mil/Press-Office/Statements/display-statement/Article/4533332/us-navy-suspended-active-search-for-a-sailor-assigned-to-helicopter-sea-combat/",
+          "domain": "navy.mil",
+          "sourceTier": "Official military source",
+          "seen": "20260705T150000Z",
+          "pinned": false
+        },
+        {
+          "title": "Navy conducts safety review after Blue Angels low-altitude flyover",
+          "url": "https://apnews.com/article/hegseth-blue-angels-military-flyovers-safety-c2601ce50f433996c919464f1de7985c",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260716T220900Z",
+          "pinned": false
         },
         {
           "title": "US Army Apache Helicopter Crashes Are On Rise, Showing Highest Numbers in 15 Years",
@@ -85,11 +109,43 @@
           "pinned": false
         },
         {
+          "title": "Single-vehicle crash kills Air Force maintainer in South Korea",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcng0eENBYzdGQkVBQXg3U2RLMy1Rcnlva21uM25UeEtESXZJbEdjbThoQlFmZ0JyMlFkQTYwTnAwcDQtamZDdjdFRHVyMWlGekxwU2cwTzQ1ZEVpZ19SVHA2SWFwWWVSdkw0VENGYWhsQkRyZjI2bDdUZWhuaWp2RGxNNm1wTS1tM1RGcWlCZHJaY2ZsTVdnbm14blRldmQ3TFdEdWhR?oc=5",
+          "domain": "stripes.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20250729T070000Z",
+          "pinned": false
+        },
+        {
           "title": "Mishap Investigation Advice",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc19FY29CaU9ZS05HZ010VnR3R2FGa1JBMFZTb2tZdEJLZkpfRTRLdm9VdGEwallmUi14dGlYNC12dmhYU3ZxaXJrQWJBM25LdmxadFFOanlYUWhkZFhmVTF2NG5iTUtfNHVJaWpiRVZ6UmdoVkxxUlU4OFFVVG13UA?oc=5",
           "domain": "safety.army.mil",
           "sourceTier": "Official military source",
           "seen": "20260823T070000Z",
+          "pinned": false
+        },
+        {
+          "title": "PLR 26-026 – Industrial/Occupational Mishap Claims One Soldier's Life",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVFBVWXBUbHd4ZjZrRUxIczczNkR4bVNBNGYxNElhdGU5WkRvaFJCMEQ0RFg0NXJCcUdiUkNZU3RCc3lJaDR1UWlDME1aOXBZNlFLY21IaGh4cmlJMTVzekVkN3VPcjdYcklvZjdsYmxLcEZZdF8zOFFQeEgwT0lXNDVLRE5semZ1cnE3dDBobmpWUWZ4TkZ2X1ZwYllMYlphbG5aLU1PTkpnZW0tbS1OQWEwQ0RiTUV1OG1ILVhfNnM1SUltUG5sYTBISFJtT0F5ZFRzaUdyZUdVQ09UY0lKTQ?oc=5",
+          "domain": "safety.army.mil",
+          "sourceTier": "Official military source",
+          "seen": "20260421T070000Z",
+          "pinned": false
+        },
+        {
+          "title": "8 US soldiers released from hospital after armored vehicle crash at Hohenfels",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOTViVVZJUGVFWGUtRmlLV2l6MmhlUkdfRHBad2JBQjVOV0hnTFp5Z19HS1lETWZpOVVLWDlXaHhNQUE1V203Q0RLZ1EyX2tZRGs5bk9LUEQ1bTc4UGp0WVdDWmF1cElIbUxiaERyYXRVd1ZlNExVYkJYendiZGdUYUY0SWMwendxYmhNell4dkZtdS1nRjdQeg?oc=5",
+          "domain": "stripes.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20230914T070000Z",
+          "pinned": false
+        },
+        {
+          "title": "PLR 25-080 – Weapons and Explosives Mishap Claims One Soldier's Life",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTWx6TjVfelZZNE5uTnpWYVZtUld5TWRTZHlKY1AtRDQ1T0RTelpaczR1S2R3YkdSbEQyMmlsT2hYajN2WE9laWp2Vi1CMS1oYWN6ZkZHeEJpblVEQVFCTmpxdmNBa0VwNEtmSjFrOGpSdXM0U2l6RmszVU01Ujk1bjNtYW9xM3VBd0o4WG9QajIxNENjYWFOek95dkUxQm1jdVlMTkJPWTkxVG9GWVlqQVpUYlc1R2ZNUFZTcEQzOE42WmdpOERvT1VtV2dXbTFxZ2NWcHpKUTgyLTJBc2g3cw?oc=5",
+          "domain": "safety.army.mil",
+          "sourceTier": "Official military source",
+          "seen": "20250814T070000Z",
           "pinned": false
         },
         {
@@ -101,27 +157,19 @@
           "pinned": false
         },
         {
-          "title": "Coast Guard Conducting Investigation to Fatal Incident near Liberty Island",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPR1BTQU9ETXY3djdvaDJZNTdhWkk0TFhiUUdQc1BBQ2R2bEtaRHFpTnF0RGJWSVhnZlBXUkFsQ0hKSDJLRE45emtlUEpjRlRBUHhYaHpLOEZZYUk3WWMxdHBMelFHRm1PMzhJeWVFUDd6UU5VN1k4cGphRkhiclZrUjZwMUVOdHJrM0lXTkpVQkdTTHBablBlWlhiVEpYRk5WLVhWcnBaQTdtUlljRkhxdXA0NmFtSk5fVG5jWF9IU3Y3OVB6cmdZblZ3RGo?oc=5",
-          "domain": "news.uscg.mil",
-          "sourceTier": "Official military source",
-          "seen": "20260809T070000Z",
+          "title": "F-16 makes emergency landing on Okinawa, report says, as Vermont F-35s arrive for duty",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQnhCLWFQN21UVWFLQk1lU2tZWmhBdXIyalBwMTRFQ1F1bFVmZDZLYU1SVnhRenVKcHdGS2RnNkxXRG9mcGZtWkdCMzQxdVlFUlhYNm1Qb3o1NUNqc3hvVUowUzFyMkF5Zlh5dXIzOWx1Rzh2cmRXRDBQa0tOTHdTdkc0azlQQ1VkLWEwQzJfMGV6STV0cnFjS2tEN2ZSWl9KMHF2SHhXbw?oc=5",
+          "domain": "stripes.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20250114T080000Z",
           "pinned": false
         },
         {
-          "title": "Coast Guard suspends search for missing male at Gun Beach, Guam",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObGtBUGhrZ2JIT1RId3RsV2xrV0FZcy11RnNlQzkxeTdFZnJZaWJsWVVWN0ZhRWxQTDFwVk9IQUh5dXhkSkg5cm9Sc3lIYXRuR2RzcVlDVkRnc2hDXzVxam8ycERuUzZZTHRsN1JVZUVLZzJXcUpkYU5NMmZqVmtnV1N6dS1DeFBOVFdQZE5wU2xCU0tNd3BNU1NOTTh3QzR1clJSc1FFdXpodEJwY0RFektqeHU5SU5rRnF3QQ?oc=5",
-          "domain": "news.uscg.mil",
+          "title": "PLR 26-036 – Automobile Mishap Claims One Soldier's Life",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObTlqX1dFdGswTE9xUXEybGM1elplcnM4bkU2Ym5uRUptLW5CRVhwVUdzbjFKUGg3TXRjdEtLTHpjaUMyWG82UlVPWTBRVFlHYV9ORW10UlBvNTJnNnU0Q3lPbjVaampOS0RCUWY0bnhoMGxFcUVob2JsWUo4aTV0M0xYTE9CVHFUSGZxQXljS1VOZWRxTmpSOG05NDBfVGlTWXYzTElseXphRGd3SE56STBvcTlwZWVJZkJUSnZYVkRMTjNRTldaNlIyeXg4Y1pf?oc=5",
+          "domain": "safety.army.mil",
           "sourceTier": "Official military source",
-          "seen": "20260814T234727Z",
-          "pinned": false
-        },
-        {
-          "title": "Update: Coast Guard suspends search for missing man in Lake Erie",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeEhCZEd6eGRpc1RvV0lkYWlmczdfQkF2SjV4LUtIbVpHR1E0TjB0cm9qWVo0SThxa2N3RVdmRjctNENoZm9lU3NTNmhPUWVtdWRjV0M1SERDWXgzdGNORWdUM1BrM1hzcXpYd3g4dF85cVFrWUFPQjBUTXdtLWRJemIzN0c0RXZORnVPS21OQUVzTy1UX3NhMkhpNkRJNTNiVU9yTHY3ZFFLMmNRSkJQTGdfal9neEV6VE01REh3?oc=5",
-          "domain": "news.uscg.mil",
-          "sourceTier": "Official military source",
-          "seen": "20260813T070000Z",
+          "seen": "20260520T070000Z",
           "pinned": false
         }
       ],
@@ -991,6 +1039,24 @@
           "sourceLabel": "safety.army.mil"
         },
         {
+          "id": "auto-2b3401587f52",
+          "reportDate": "2026-05-20",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Other",
+          "event": "PLR 26-036 – Automobile Mishap Claims One Soldier's Life",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "OFFICIAL INTAKE",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Official military source",
+          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
+          "source": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObTlqX1dFdGswTE9xUXEybGM1elplcnM4bkU2Ym5uRUptLW5CRVhwVUdzbjFKUGg3TXRjdEtLTHpjaUMyWG82UlVPWTBRVFlHYV9ORW10UlBvNTJnNnU0Q3lPbjVaampOS0RCUWY0bnhoMGxFcUVob2JsWUo4aTV0M0xYTE9CVHFUSGZxQXljS1VOZWRxTmpSOG05NDBfVGlTWXYzTElseXphRGd3SE56STBvcTlwZWVJZkJUSnZYVkRMTjNRTldaNlIyeXg4Y1pf?oc=5",
+          "sourceLabel": "safety.army.mil"
+        },
+        {
           "id": "auto-3646bd87c1d9",
           "reportDate": "2026-04-21",
           "dateBasis": "report discovery date",
@@ -1061,6 +1127,24 @@
           "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
           "source": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTWx6TjVfelZZNE5uTnpWYVZtUld5TWRTZHlKY1AtRDQ1T0RTelpaczR1S2R3YkdSbEQyMmlsT2hYajN2WE9laWp2Vi1CMS1oYWN6ZkZHeEJpblVEQVFCTmpxdmNBa0VwNEtmSjFrOGpSdXM0U2l6RmszVU01Ujk1bjNtYW9xM3VBd0o4WG9QajIxNENjYWFOek95dkUxQm1jdVlMTkJPWTkxVG9GWVlqQVpUYlc1R2ZNUFZTcEQzOE42WmdpOERvT1VtV2dXbTFxZ2NWcHpKUTgyLTJBc2g3cw?oc=5",
           "sourceLabel": "safety.army.mil"
+        },
+        {
+          "id": "auto-67cdfb52c20b",
+          "reportDate": "2025-07-29",
+          "dateBasis": "report discovery date",
+          "branch": "Air Force",
+          "department": "Department of the Air Force",
+          "type": "Aviation",
+          "event": "Single-vehicle crash kills Air Force maintainer in South Korea",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcng0eENBYzdGQkVBQXg3U2RLMy1Rcnlva21uM25UeEtESXZJbEdjbThoQlFmZ0JyMlFkQTYwTnAwcDQtamZDdjdFRHVyMWlGekxwU2cwTzQ1ZEVpZ19SVHA2SWFwWWVSdkw0VENGYWhsQkRyZjI2bDdUZWhuaWp2RGxNNm1wTS1tM1RGcWlCZHJaY2ZsTVdnbm14blRldmQ3TFdEdWhR?oc=5",
+          "sourceLabel": "stripes.com"
         },
         {
           "id": "auto-686befb6bacb",
