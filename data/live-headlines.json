@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-30T16:41:38.149Z",
+  "generatedAt": "2026-08-30T18:49:35.802Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -9,7 +9,7 @@
       "items": []
     },
     "safety": {
-      "generatedAt": "2026-08-29T18:52:54.585Z",
+      "generatedAt": "2026-08-30T18:49:35.802Z",
       "cadence": "daily",
       "items": [
         {
@@ -19,14 +19,6 @@
           "sourceTier": "Official / intergovernmental",
           "seen": "20250129T204800Z",
           "pinned": true
-        },
-        {
-          "title": "Hungarian air force Gripen jet crashes, pilot ejects safely, prime minister says",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUDllbUZsT3lnVmRfVU96WkJqV1V6TDRya1d4U2g1TGxTWjcwTjZvMjdGbVA3MHo2S3NmZEdzc08wLUJvZHhHV091d2pQUmVlb0Uwdi03cGZtX3haQXRBcHNnUlNvemluMV85MmNkQW1PejNhYWp1NDR5a2VDa1ZtNWxSUEVyZktsN2t3NXUzRllrNXhFQ2t4T0Nyd08?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260824T104848Z",
-          "pinned": false
         },
         {
           "title": "US Army Apache Helicopter Crashes Are On Rise, Showing Highest Numbers in 15 Years",
@@ -45,11 +37,19 @@
           "pinned": false
         },
         {
+          "title": "Body cam footage shows Marine after ejecting from F-18: ‘Hey buddy, I just crashed’",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ENC16amhkbmlxTnRKbi1lalU4Yjh5T1I0UWpURTBXeVNpWldicVc2Yl81OHJxYlJBWTNzM2p3M1RxVlV0QzNMX0RkQkpMallpSFdHc1hYeVlSTzNMSzBqRVVRM0VqYjVVLVpSbzhlY0tCNElDVFo2ag?oc=5",
+          "domain": "taskandpurpose.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260818T070000Z",
+          "pinned": false
+        },
+        {
           "title": "US soldier dies in fiery crash on German highway",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ0QtVDN6TDYxa1VodE14UzJlUXl5WWRhNmc4T2NaZ3loSXBTdVRqNFJHNVNlYmlDenota243ZjJqaDl5MjBuMm10R0VILVFBWVhla085SWtHcGd6V2RidnJBdkxWMlB2QmZ3dzMxMHA0MVNyd3BGaEtfcU5CaWxDRzdwTTZjV0xfMXkzalllRXcxU0ZXOVk4aQ?oc=5",
           "domain": "stripes.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260827T234920Z",
+          "seen": "20260828T185303Z",
           "pinned": false
         },
         {
@@ -77,14 +77,6 @@
           "pinned": false
         },
         {
-          "title": "Marine F-35 involved in fiery mishap at Miramar base in California; pilot ejects safely",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQTY2THYtYXZSQXBMTlhtamlYSkRpSWlmNnFqd3JZWFIzd0lEaTlOTzNlRVRlUTZOdmcwYnNKN0NCUzFLZ1ZsRFduWW0xbWluTDcwZk5nSGVDMTJVTUdHbEFDWThrQy03c1RURmM4TFBZdzVfcHdTQUQwLUkwMEtldlhvTTg5XzJMUmFjamhIQmh5RnhMX1ZwY3FR?oc=5",
-          "domain": "stripes.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260731T070000Z",
-          "pinned": false
-        },
-        {
           "title": "Air Force officer killed in remote Alaska crash was a ‘positive leader’",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yMTM3UTdNeXVhbVFBc2JTWDN4QzVJTG5sSk43aGh3a0FtRXI5dHgycy04dEhFUnBkSFd4NDUxNFkzQmZ0eXRRR29KTDNKV1FValItZzBoa25MNGI0WmhIOVVwZVhkZkk?oc=5",
           "domain": "taskandpurpose.com",
@@ -93,19 +85,19 @@
           "pinned": false
         },
         {
-          "title": "Marine Corps F-35B crashes on runway of California base, pilot safe",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5kSHlCVzNRd21ldGlFVHZWcXZWbGRhTThvazFkOEMtb2dQQ0FaOXRVRFdNS0Z1VGl3cDYtRXBnOHdJbGhQaWFTTFhzam1YQjMxVEhReU1VNkxpeVNCclF1MTlBTVkzZ0w1eDJFbGZiZnRmeVk?oc=5",
-          "domain": "taskandpurpose.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260731T070000Z",
-          "pinned": false
-        },
-        {
           "title": "Mishap Investigation Advice",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc19FY29CaU9ZS05HZ010VnR3R2FGa1JBMFZTb2tZdEJLZkpfRTRLdm9VdGEwallmUi14dGlYNC12dmhYU3ZxaXJrQWJBM25LdmxadFFOanlYUWhkZFhmVTF2NG5iTUtfNHVJaWpiRVZ6UmdoVkxxUlU4OFFVVG13UA?oc=5",
           "domain": "safety.army.mil",
           "sourceTier": "Official military source",
           "seen": "20260823T070000Z",
+          "pinned": false
+        },
+        {
+          "title": "Marine F-35 involved in fiery mishap at Miramar base in California; pilot ejects safely",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQTY2THYtYXZSQXBMTlhtamlYSkRpSWlmNnFqd3JZWFIzd0lEaTlOTzNlRVRlUTZOdmcwYnNKN0NCUzFLZ1ZsRFduWW0xbWluTDcwZk5nSGVDMTJVTUdHbEFDWThrQy03c1RURmM4TFBZdzVfcHdTQUQwLUkwMEtldlhvTTg5XzJMUmFjamhIQmh5RnhMX1ZwY3FR?oc=5",
+          "domain": "stripes.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260731T070000Z",
           "pinned": false
         },
         {
@@ -136,7 +128,7 @@
       "incidents": [
         {
           "id": "auto-b7da7d41d52d",
-          "reportDate": "2026-08-27",
+          "reportDate": "2026-08-28",
           "dateBasis": "report discovery date",
           "branch": "Army",
           "department": "Department of the Army",
@@ -411,7 +403,7 @@
           "branch": "Marine Corps",
           "department": "Department of the Navy",
           "type": "Aviation",
-          "event": "'I just crashed’ — New footage shows Marine after F-18 ejection",
+          "event": "Body cam footage shows Marine after ejecting from F-18: ‘Hey buddy, I just crashed’",
           "location": "See official source",
           "fatalities": null,
           "injuries": null,
