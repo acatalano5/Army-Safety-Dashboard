@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-30T05:24:34.369Z",
+  "generatedAt": "2026-08-30T11:54:50.716Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-08-30T05:24:34.369Z",
+      "generatedAt": "2026-08-30T11:54:50.716Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -1199,17 +1199,9 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-08-30T05:24:34.369Z",
+      "generatedAt": "2026-08-30T11:54:50.716Z",
       "cadence": "every 6 hours",
       "items": [
-        {
-          "title": "Regional powers seek off-ramp from Iran war, and other Middle East developments",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPblotQXR6VEctdkdvVUhZYUNsWXBPQTd2QjU4TTNZd0pFTnk2LWtXejlfMjBRRDJjamYzRWthTE96NmpCMmROV1B2eW1uLXI4aFcwQTRGczJXTS1HUm1YTUo0U0J5ZTJFQkJNUVVVcGJsc2xhZ1FYQkpIRm5Ba2N4RnV4eG44UHdQdWZIMHdWX09IMGI1RVl5YllOTkJRanlKcWFxalM0d0dsVmRl?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260828T021700Z",
-          "pinned": false
-        },
         {
           "title": "The Iran War at Six Months: A Region—and Its Relationship With the U.S.—Transformed",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVmV2aGlOQU5JRVc4N3lMVUxqa1l3empTb0dTRUJ4bEV4QXRJTTRSOHNfNGkxSG9lbWZKcGlkUHBWbjlHMzRWamRoYjdFaE5rVk5xcnRnRkxrb0RQTTFBN2xjdGl0MXVFSF9FSTd3YlVNMzVub3hTODJrQk01V2NEdjVHNUNkdUppUnVTaTdnUGREWFdlaDlYTFc1cGVTMmJpdHE1ZVpWdmFtZmZXYThz?oc=5",
@@ -1224,6 +1216,14 @@
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20260829T011413Z",
+          "pinned": false
+        },
+        {
+          "title": "Regional powers seek off-ramp from Iran war, and other Middle East developments",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPblotQXR6VEctdkdvVUhZYUNsWXBPQTd2QjU4TTNZd0pFTnk2LWtXejlfMjBRRDJjamYzRWthTE96NmpCMmROV1B2eW1uLXI4aFcwQTRGczJXTS1HUm1YTUo0U0J5ZTJFQkJNUVVVcGJsc2xhZ1FYQkpIRm5Ba2N4RnV4eG44UHdQdWZIMHdWX09IMGI1RVl5YllOTkJRanlKcWFxalM0d0dsVmRl?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260828T021700Z",
           "pinned": false
         },
         {
@@ -1251,14 +1251,6 @@
           "pinned": false
         },
         {
-          "title": "US goals have shifted after 6 months of Iran war. The Strait of Hormuz is now a top concern",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZlZ4TnNNdXJtWWpPUjlWa2R3WW1hbGRwTHN5UTJKRnpmclFheVV1X2VUZnBCNDhjN29IcHp1S2RIWXBrQTY2TnJORnRXUjB3MkFzNHlnM3BzTXVGb0RJVkZRX2VNR3lXMW9scjVJTXZuZS1RSU9DYWItMHRsNHBHUHJDV0hfZkRfZTllX0xDeHRMTlNUalE?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260827T165800Z",
-          "pinned": false
-        },
-        {
           "title": "US-Israel war on Iran, six months down the line: In numbers",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcy1NQzdyLWdscWpPa3BXeFoydjY5eXJxYnh3eXdSajYxckNKNW4zVl8tdEFwcXlvX1VfMVg3ZkVLNG1uM0x2TzBNdDN5cjFVYi0wZHlWSlNiODJ1QV82SlIwS0QwS0k0V3JCZUZvMEM3OE1fQWFJTGtnUFhoU203YmI2elY2SjQ1Q29zMWxxMXRVcnh3bEthdzRwbUQ5NTjSAaQBQVVfeXFMTmFSOXFHWlJWRFA1SWhMRmpXYkZ0UTlIdHl6dXVGUnFxVTVhalptTGFDc210dkJsc0lDR3NWUFVqdV9fVVFDNGMyVldHbHd2MWZRYUlSNW0tc3gwZ3V4MjNhcWJkZVAzVC1icHlyNnJXUl9ZTS11d0xtaVhxYUNTWHBDUlVJU1dBdTI3TjF1UHBEenYtSVhRTGxWV0hRR09LT1k5QWc?oc=5",
           "domain": "aljazeera.com",
@@ -1272,6 +1264,22 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260827T105233Z",
+          "pinned": false
+        },
+        {
+          "title": "US goals have shifted after 6 months of Iran war. The Strait of Hormuz is now a top concern",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZlZ4TnNNdXJtWWpPUjlWa2R3WW1hbGRwTHN5UTJKRnpmclFheVV1X2VUZnBCNDhjN29IcHp1S2RIWXBrQTY2TnJORnRXUjB3MkFzNHlnM3BzTXVGb0RJVkZRX2VNR3lXMW9scjVJTXZuZS1RSU9DYWItMHRsNHBHUHJDV0hfZkRfZTllX0xDeHRMTlNUalE?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260827T165800Z",
+          "pinned": false
+        },
+        {
+          "title": "The home front: How Israel, Iran, and US leaders have been hit by the war",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYVozc0NjYTVBbF94MXExQVdEZE9BOXJ4aGVxdGtPX2ppWkZvTlVSa29oOGxLUHZ1SUcyaHk0RDJ5bDhnR1FLZDJiX2dkWGhuVTFIOHZRa0t4YUV3LXdWZm5XR0FVZ2l3d1N2bjVxS3dxdVRBa0F2Ujh2RVJXRjAyR2Jrc09IYXh0eUtRVWtyLS16MGRrZkp1UllsaUxBWUhBTFN5WVlMMXk4eWx2enU1MdIBtgFBVV95cUxPcDkwWjdhenN4bVpGRjZJdExCQ0lveWo3RmlqV0NlVUt6ZXJicnlxdnkyeUZJaEZweE9LcFViekU0U1VlTTN1UGNSWHFCODhvMVV4clpYMHFLTk5abFFYd3VsOU1JeHRLVUgzb24wYjNTelNxMlNkc1ZVVTVVZW5vLTlBRW1WTTFlRHZnUDI4QkhHRl83OTBleEUtTGpoSU01WjhJMENFc19mZ212M3QzN2JfazdVZw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260830T094157Z",
           "pinned": false
         },
         {
@@ -1323,11 +1331,11 @@
           "pinned": false
         },
         {
-          "title": "Gianni Infantino: Uefa's attack on Fifa president escalates football's civil war",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZVFRkallwY1ZIYzZLZk5VSDlfUHRYTmdmb1pjeTZFOE5ZN192S2k0dEN2UWxxNVdMbHZlaTZnaEFCLWNUVmMyM1NNTFlpd2lhVXJlZ29qYmM5YUFoU2NDM2trQUFFYlE?oc=5",
-          "domain": "bbc.com",
+          "title": "Mapping Iran war’s strikes on Gulf energy and its impact on future of oil",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOalprVVJWeE5qUlBuYWFRMzA4YUdzckllZnJYZE5WLUFDOTBGTFJzcVNDd0Q5RFJPTUs3ZG9ldF96MkhsZ05XVTR0dHV3eTV2TFlVd3ZuendWRFJLRFNvdi1SOHFXMHJGSm9BSHVlTjd5Z0NmbkdFZVFFNjhwbFhpQ3dnVXI0cEd6UXl2TmZncWMyR3Ywd3FKNXBWeTRKUFJ2WnVmd185ei15WmloLXV0Vnpmb9IBuAFBVV95cUxNaEFGcGwxNzJ3RFEyTG04T1d6ZWl3cEpZWmF0dXljcGdOUWc2dm05RDFwYURjVU5aZkFaVnlvb3did2JuYWxtVjI3MDYzRFN6MlpRTm1SenJQeDdUcnB0aU45V2VlYk5SU3E2dEpwajRWajhqT19TaFZlSW5OVFF2ME5aRml6cHVVenY1MXBqVG45YTljLUNyMXBtVVM0eGthUXhQVk9YTEc4em1ITEYxMjZ4d193MFJ2?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260828T150020Z",
+          "seen": "20260830T052159Z",
           "pinned": false
         },
         {
@@ -1336,6 +1344,14 @@
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20260827T170522Z",
+          "pinned": false
+        },
+        {
+          "title": "Gianni Infantino: Uefa's attack on Fifa president escalates football's civil war",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZVFRkallwY1ZIYzZLZk5VSDlfUHRYTmdmb1pjeTZFOE5ZN192S2k0dEN2UWxxNVdMbHZlaTZnaEFCLWNUVmMyM1NNTFlpd2lhVXJlZ29qYmM5YUFoU2NDM2trQUFFYlE?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260828T150020Z",
           "pinned": false
         },
         {
@@ -1371,40 +1387,15 @@
           "pinned": false
         },
         {
-          "title": "6 months of war on Iran",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJYzAwU2V4VEFaOHMtVEF4YnBfLTZ3UXIzaHVRUGtOTkJiME8yeGZaOGRTZ014MFdTZUkzZTdHOV81VWM1YTh5N1FwQ05keV9RRUxLTmlBYjRJV0l5dlRfWWxXdWJVVUhnd0ZhNkd1ZjBlV25pdDVFcFlNWVhhS2fSAYQBQVVfeXFMT21VQlNZNDlTTDd0Y3FZWDhHcmVlSktUaTdGdVBrYlhEdGZNNXNsbkh0bmE4LWNlY2dEMGpYU2VDNTU4Wm0tNkRTOEhobzNjVTBMZjFJNE9oYzBJUnRRbTVtRnA4cjRHSktwbXBhNklMY3NrVWVNOHJYcS1STWw2QnM2N1lM?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260828T151956Z",
-          "pinned": false
-        },
-        {
           "title": "Russian military serviceman killed in St Petersburg car blast",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMnowdm1vZTM3MGlMellyUGNGc1IwUTluOUp2aXZCb2ZRcnluQlQ5VFZhVVpfb3pueWw2eVYtR0RaZ3J3WHVpb1lVT1NjRG5weVdJa1RuWkxjdTlVaHVLV3lWcDRyNmMzYnRPcmNnekk0czQ5bWNjY2NqdWo2UUxxSkRRRTRFQU5Xa1NtNE1IYTBGTkNYNzhUU1d0d1Z1Y2xMUG96MNIBqgFBVV95cUxOUWE5TGFHWWlBSEd1Um91ZUg4UG10WHlJVVliT3NGVHdRcW5EVEkzWUMxVXRqT241VnVxdl9DMVZ1TnhKS1dQbWlFbWdCNEFDRkUweTlidjZZWmR3VmlvX1YxOEhNYUxaS19XY2ZyQ3ZQUTU2ZUdwSVFvMUFQQVd0UE42TDVYNUI2WVZ2Zm1jT2JWZGpqdFdqc1loR0Rfc0V6aHdnZW5JZDYxdw?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260827T175905Z",
           "pinned": false
-        },
-        {
-          "title": "Allan Little: I met dangerously fanatical Mladić early in Bosnian war",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FcjBUNFpOLXp4WnpnRzEyZjhjZV9OSDA1M2tRT2RsWF9JRkdOaWJxNHRINTNNaWI0TjJWV2VhcnFiUVdXYkJqRmQ3Um1KZTNOb0Jqc0RUV0Z4Zw?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260827T181201Z",
-          "pinned": false
         }
       ],
       "reports": [
-        {
-          "id": "report-8286f6643a65",
-          "title": "Regional powers seek off-ramp from Iran war, and other Middle East developments",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPblotQXR6VEctdkdvVUhZYUNsWXBPQTd2QjU4TTNZd0pFTnk2LWtXejlfMjBRRDJjamYzRWthTE96NmpCMmROV1B2eW1uLXI4aFcwQTRGczJXTS1HUm1YTUo0U0J5ZTJFQkJNUVVVcGJsc2xhZ1FYQkpIRm5Ba2N4RnV4eG44UHdQdWZIMHdWX09IMGI1RVl5YllOTkJRanlKcWFxalM0d0dsVmRl?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-28T02:17:00Z"
-        },
         {
           "id": "report-3856ac9e73b2",
           "title": "The Iran War at Six Months: A Region—and Its Relationship With the U.S.—Transformed",
@@ -1422,6 +1413,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-29T01:14:13Z"
+        },
+        {
+          "id": "report-8286f6643a65",
+          "title": "Regional powers seek off-ramp from Iran war, and other Middle East developments",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPblotQXR6VEctdkdvVUhZYUNsWXBPQTd2QjU4TTNZd0pFTnk2LWtXejlfMjBRRDJjamYzRWthTE96NmpCMmROV1B2eW1uLXI4aFcwQTRGczJXTS1HUm1YTUo0U0J5ZTJFQkJNUVVVcGJsc2xhZ1FYQkpIRm5Ba2N4RnV4eG44UHdQdWZIMHdWX09IMGI1RVl5YllOTkJRanlKcWFxalM0d0dsVmRl?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-28T02:17:00Z"
         },
         {
           "id": "report-e638287d1f0e",
@@ -1451,15 +1451,6 @@
           "reportedAt": "2026-08-28T21:42:55Z"
         },
         {
-          "id": "report-b9b0c659701f",
-          "title": "US goals have shifted after 6 months of Iran war. The Strait of Hormuz is now a top concern",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZlZ4TnNNdXJtWWpPUjlWa2R3WW1hbGRwTHN5UTJKRnpmclFheVV1X2VUZnBCNDhjN29IcHp1S2RIWXBrQTY2TnJORnRXUjB3MkFzNHlnM3BzTXVGb0RJVkZRX2VNR3lXMW9scjVJTXZuZS1RSU9DYWItMHRsNHBHUHJDV0hfZkRfZTllX0xDeHRMTlNUalE?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-27T16:58:00Z"
-        },
-        {
           "id": "report-9c9a50d52605",
           "title": "US-Israel war on Iran, six months down the line: In numbers",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcy1NQzdyLWdscWpPa3BXeFoydjY5eXJxYnh3eXdSajYxckNKNW4zVl8tdEFwcXlvX1VfMVg3ZkVLNG1uM0x2TzBNdDN5cjFVYi0wZHlWSlNiODJ1QV82SlIwS0QwS0k0V3JCZUZvMEM3OE1fQWFJTGtnUFhoU203YmI2elY2SjQ1Q29zMWxxMXRVcnh3bEthdzRwbUQ5NTjSAaQBQVVfeXFMTmFSOXFHWlJWRFA1SWhMRmpXYkZ0UTlIdHl6dXVGUnFxVTVhalptTGFDc210dkJsc0lDR3NWUFVqdV9fVVFDNGMyVldHbHd2MWZRYUlSNW0tc3gwZ3V4MjNhcWJkZVAzVC1icHlyNnJXUl9ZTS11d0xtaVhxYUNTWHBDUlVJU1dBdTI3TjF1UHBEenYtSVhRTGxWV0hRR09LT1k5QWc?oc=5",
@@ -1476,6 +1467,24 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-27T10:52:33Z"
+        },
+        {
+          "id": "report-b9b0c659701f",
+          "title": "US goals have shifted after 6 months of Iran war. The Strait of Hormuz is now a top concern",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZlZ4TnNNdXJtWWpPUjlWa2R3WW1hbGRwTHN5UTJKRnpmclFheVV1X2VUZnBCNDhjN29IcHp1S2RIWXBrQTY2TnJORnRXUjB3MkFzNHlnM3BzTXVGb0RJVkZRX2VNR3lXMW9scjVJTXZuZS1RSU9DYWItMHRsNHBHUHJDV0hfZkRfZTllX0xDeHRMTlNUalE?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-27T16:58:00Z"
+        },
+        {
+          "id": "report-61e56dced672",
+          "title": "The home front: How Israel, Iran, and US leaders have been hit by the war",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYVozc0NjYTVBbF94MXExQVdEZE9BOXJ4aGVxdGtPX2ppWkZvTlVSa29oOGxLUHZ1SUcyaHk0RDJ5bDhnR1FLZDJiX2dkWGhuVTFIOHZRa0t4YUV3LXdWZm5XR0FVZ2l3d1N2bjVxS3dxdVRBa0F2Ujh2RVJXRjAyR2Jrc09IYXh0eUtRVWtyLS16MGRrZkp1UllsaUxBWUhBTFN5WVlMMXk4eWx2enU1MdIBtgFBVV95cUxPcDkwWjdhenN4bVpGRjZJdExCQ0lveWo3RmlqV0NlVUt6ZXJicnlxdnkyeUZJaEZweE9LcFViekU0U1VlTTN1UGNSWHFCODhvMVV4clpYMHFLTk5abFFYd3VsOU1JeHRLVUgzb24wYjNTelNxMlNkc1ZVVTVVZW5vLTlBRW1WTTFlRHZnUDI4QkhHRl83OTBleEUtTGpoSU01WjhJMENFc19mZ212M3QzN2JfazdVZw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-30T09:41:57Z"
         },
         {
           "id": "report-388852bb621c",
@@ -1532,13 +1541,13 @@
           "reportedAt": "2026-08-27T15:10:44Z"
         },
         {
-          "id": "report-ea8baf0c5ead",
-          "title": "Gianni Infantino: Uefa's attack on Fifa president escalates football's civil war",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZVFRkallwY1ZIYzZLZk5VSDlfUHRYTmdmb1pjeTZFOE5ZN192S2k0dEN2UWxxNVdMbHZlaTZnaEFCLWNUVmMyM1NNTFlpd2lhVXJlZ29qYmM5YUFoU2NDM2trQUFFYlE?oc=5",
-          "domain": "bbc.com",
+          "id": "report-c61ffb380527",
+          "title": "Mapping Iran war’s strikes on Gulf energy and its impact on future of oil",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOalprVVJWeE5qUlBuYWFRMzA4YUdzckllZnJYZE5WLUFDOTBGTFJzcVNDd0Q5RFJPTUs3ZG9ldF96MkhsZ05XVTR0dHV3eTV2TFlVd3ZuendWRFJLRFNvdi1SOHFXMHJGSm9BSHVlTjd5Z0NmbkdFZVFFNjhwbFhpQ3dnVXI0cEd6UXl2TmZncWMyR3Ywd3FKNXBWeTRKUFJ2WnVmd185ei15WmloLXV0Vnpmb9IBuAFBVV95cUxNaEFGcGwxNzJ3RFEyTG04T1d6ZWl3cEpZWmF0dXljcGdOUWc2dm05RDFwYURjVU5aZkFaVnlvb3did2JuYWxtVjI3MDYzRFN6MlpRTm1SenJQeDdUcnB0aU45V2VlYk5SU3E2dEpwajRWajhqT19TaFZlSW5OVFF2ME5aRml6cHVVenY1MXBqVG45YTljLUNyMXBtVVM0eGthUXhQVk9YTEc4em1ITEYxMjZ4d193MFJ2?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-28T15:00:20Z"
+          "reportedAt": "2026-08-30T05:21:59Z"
         },
         {
           "id": "report-33f2e5060e1f",
@@ -1548,6 +1557,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-27T17:05:22Z"
+        },
+        {
+          "id": "report-ea8baf0c5ead",
+          "title": "Gianni Infantino: Uefa's attack on Fifa president escalates football's civil war",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZVFRkallwY1ZIYzZLZk5VSDlfUHRYTmdmb1pjeTZFOE5ZN192S2k0dEN2UWxxNVdMbHZlaTZnaEFCLWNUVmMyM1NNTFlpd2lhVXJlZ29qYmM5YUFoU2NDM2trQUFFYlE?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-28T15:00:20Z"
         },
         {
           "id": "report-d002da51e62d",
@@ -1586,15 +1604,6 @@
           "reportedAt": "2026-08-27T07:48:24Z"
         },
         {
-          "id": "report-4a4bbe689052",
-          "title": "6 months of war on Iran",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJYzAwU2V4VEFaOHMtVEF4YnBfLTZ3UXIzaHVRUGtOTkJiME8yeGZaOGRTZ014MFdTZUkzZTdHOV81VWM1YTh5N1FwQ05keV9RRUxLTmlBYjRJV0l5dlRfWWxXdWJVVUhnd0ZhNkd1ZjBlV25pdDVFcFlNWVhhS2fSAYQBQVVfeXFMT21VQlNZNDlTTDd0Y3FZWDhHcmVlSktUaTdGdVBrYlhEdGZNNXNsbkh0bmE4LWNlY2dEMGpYU2VDNTU4Wm0tNkRTOEhobzNjVTBMZjFJNE9oYzBJUnRRbTVtRnA4cjRHSktwbXBhNklMY3NrVWVNOHJYcS1STWw2QnM2N1lM?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-28T15:19:56Z"
-        },
-        {
           "id": "report-dd2aa530acb2",
           "title": "Russian military serviceman killed in St Petersburg car blast",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMnowdm1vZTM3MGlMellyUGNGc1IwUTluOUp2aXZCb2ZRcnluQlQ5VFZhVVpfb3pueWw2eVYtR0RaZ3J3WHVpb1lVT1NjRG5weVdJa1RuWkxjdTlVaHVLV3lWcDRyNmMzYnRPcmNnekk0czQ5bWNjY2NqdWo2UUxxSkRRRTRFQU5Xa1NtNE1IYTBGTkNYNzhUU1d0d1Z1Y2xMUG96MNIBqgFBVV95cUxOUWE5TGFHWWlBSEd1Um91ZUg4UG10WHlJVVliT3NGVHdRcW5EVEkzWUMxVXRqT241VnVxdl9DMVZ1TnhKS1dQbWlFbWdCNEFDRkUweTlidjZZWmR3VmlvX1YxOEhNYUxaS19XY2ZyQ3ZQUTU2ZUdwSVFvMUFQQVd0UE42TDVYNUI2WVZ2Zm1jT2JWZGpqdFdqc1loR0Rfc0V6aHdnZW5JZDYxdw?oc=5",
@@ -1602,15 +1611,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-27T17:59:05Z"
-        },
-        {
-          "id": "report-7cf70c867e50",
-          "title": "Allan Little: I met dangerously fanatical Mladić early in Bosnian war",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FcjBUNFpOLXp4WnpnRzEyZjhjZV9OSDA1M2tRT2RsWF9JRkdOaWJxNHRINTNNaWI0TjJWV2VhcnFiUVdXYkJqRmQ3Um1KZTNOb0Jqc0RUV0Z4Zw?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-27T18:12:01Z"
         },
         {
           "id": "report-61fcdec3af27",
