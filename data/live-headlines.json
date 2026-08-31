@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-30T21:05:31.462Z",
+  "generatedAt": "2026-08-31T05:33:23.065Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-08-30T21:05:31.462Z",
+      "generatedAt": "2026-08-31T05:33:23.065Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -1275,7 +1275,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-08-30T21:05:31.462Z",
+      "generatedAt": "2026-08-31T05:33:23.065Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -1284,14 +1284,6 @@
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20260829T011413Z",
-          "pinned": false
-        },
-        {
-          "title": "The Iran War at Six Months: A Region—and Its Relationship With the U.S.—Transformed",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVmV2aGlOQU5JRVc4N3lMVUxqa1l3empTb0dTRUJ4bEV4QXRJTTRSOHNfNGkxSG9lbWZKcGlkUHBWbjlHMzRWamRoYjdFaE5rVk5xcnRnRkxrb0RQTTFBN2xjdGl0MXVFSF9FSTd3YlVNMzVub3hTODJrQk01V2NEdjVHNUNkdUppUnVTaTdnUGREWFdlaDlYTFc1cGVTMmJpdHE1ZVpWdmFtZmZXYThz?oc=5",
-          "domain": "cfr.org",
-          "sourceTier": "Structured / analytic",
-          "seen": "20260827T204506Z",
           "pinned": false
         },
         {
@@ -1344,26 +1336,10 @@
         },
         {
           "title": "The home front: How Israel, Iran, and US leaders have been hit by the war",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYVozc0NjYTVBbF94MXExQVdEZE9BOXJ4aGVxdGtPX2ppWkZvTlVSa29oOGxLUHZ1SUcyaHk0RDJ5bDhnR1FLZDJiX2dkWGhuVTFIOHZRa0t4YUV3LXdWZm5XR0FVZ2l3d1N2bjVxS3dxdVRBa0F2Ujh2RVJXRjAyR2Jrc09IYXh0eUtRVWtyLS16MGRrZkp1UllsaUxBWUhBTFN5WVlMMXk4eWx2enU1MQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYVozc0NjYTVBbF94MXExQVdEZE9BOXJ4aGVxdGtPX2ppWkZvTlVSa29oOGxLUHZ1SUcyaHk0RDJ5bDhnR1FLZDJiX2dkWGhuVTFIOHZRa0t4YUV3LXdWZm5XR0FVZ2l3d1N2bjVxS3dxdVRBa0F2Ujh2RVJXRjAyR2Jrc09IYXh0eUtRVWtyLS16MGRrZkp1UllsaUxBWUhBTFN5WVlMMXk4eWx2enU1MdIBtgFBVV95cUxPcDkwWjdhenN4bVpGRjZJdExCQ0lveWo3RmlqV0NlVUt6ZXJicnlxdnkyeUZJaEZweE9LcFViekU0U1VlTTN1UGNSWHFCODhvMVV4clpYMHFLTk5abFFYd3VsOU1JeHRLVUgzb24wYjNTelNxMlNkc1ZVVTVVZW5vLTlBRW1WTTFlRHZnUDI4QkhHRl83OTBleEUtTGpoSU01WjhJMENFc19mZ212M3QzN2JfazdVZw?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260830T094157Z",
-          "pinned": false
-        },
-        {
-          "title": "US goals have shifted after 6 months of Iran war. The Strait of Hormuz is now a top concern",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZlZ4TnNNdXJtWWpPUjlWa2R3WW1hbGRwTHN5UTJKRnpmclFheVV1X2VUZnBCNDhjN29IcHp1S2RIWXBrQTY2TnJORnRXUjB3MkFzNHlnM3BzTXVGb0RJVkZRX2VNR3lXMW9scjVJTXZuZS1RSU9DYWItMHRsNHBHUHJDV0hfZkRfZTllX0xDeHRMTlNUalE?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260827T165800Z",
-          "pinned": false
-        },
-        {
-          "title": "Is Iran war diplomacy ramping up, as Qatar, Oman, Pakistan officials visit?",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRmRHamdPemdTZ05VRXdWTko3eklSUXMxbDVFUlJFa0ptbm9xdVRycnNEVl9YUjZ5bkVfbkFvOFYtM1lUQ3JmZ2RsTGxtMWxFQzl6RmZ3d3VMOWh4R2VQU3pKMklLcVFHVGVDTzgtOWFoRWc3NVQxTm9OWmZhTF94SUxOeXQ0dGpHOXV5ZnFiNDlHQ1RhVXNJLThkRXYwaDJ2c2F1eWpqdEJSUE4wM2syczN30gG3AUFVX3lxTFBPcGlPNk5WUHpMZkZVWlBEcTZzWk8xeVVCcW1JZ1FOVWNzcEVUWW9ySkJrRkNOdG9WUEd1Mk92WTRWMnRnUDdLeXNydksxLVJnVERwbHRBMmcyNlZvaGtfNl95dWplaVdJOERLQkdYeERPV18xYmlfTUgwVGVXMC1WVWQ5dThyM0hvX09hUU9RUXZlU09Bd3c5SmdadW1QYko2aUZ5djlSZFB1cG1QRXlhR3JGY2U5NA?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260827T105233Z",
           "pinned": false
         },
         {
@@ -1372,22 +1348,6 @@
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20260828T063448Z",
-          "pinned": false
-        },
-        {
-          "title": "Obituary: Ratko Mladic, war criminal convicted of Srebrenica genocide, dies",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRDY4QlJFZFV4QTJoSGRCQXBJNzRpQmozUHV4RW9oZDh2VHJOeGVLY3dyR1lMTUY1Wm9ETjVvckYtc0EyMzJQa2ZUVjJXcWlBTWNRclUzTllKamkxQjR6VHM4dFVOOGZCOVgtS3V2bGwtN3ZUVjV1dVhJLVhJTm1xMUwyZUU5ejQwRjRoU0lHWDVHSXVURTJ6OENUMUR0QXNPaGU1anY0bXVhYjdpNjZhaDhOVdIBuAFBVV95cUxORzZfWVdoLW9kcmZqSEs0enNOc3VZSl9qU3kyeF93aUZkYXoyVE1UTy1reFNWRnJjS19vMHVmRHh0anRneU5oQ0JQb2NIenQ4Tk9JQUpaUTdwV1JSVkd0aE5QU3FWc0ZUMlI5c2dzcjZXVy00S2dCVDJFRkxWWFVpUHBTeVIzNUhqLUhlcTA2cnJTcURJV29DWk9FdEhvYnhrMlp5NXJPYjlUN0pCR0wxUlhtRHVBZjhO?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260827T170857Z",
-          "pinned": false
-        },
-        {
-          "title": "Republicans face a midterm verdict as Iran war drags on months longer than Trump promised",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQODI3MXJuMHA3WmR5c0dJSXlFOXNUY3hJMHBZMWVwMWF6OVpsZWVpYzF0TzNIR1lkODZoMktGdjY0ZkRuRmdoZTRuemFHc2MwME5YUExYdUlTSHV3SmZEWmh3ZlUxNGttTXlYeU5VOXFORHJVUG9mY2FkNWNBYTFrOUdDcmRxZzdPeDctd1lpSXZuUFZ3a2FsVHpyQ0FYYjE4SkN0ZHRNVUlPS1o5OVhV?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260827T110500Z",
           "pinned": false
         },
         {
@@ -1407,27 +1367,11 @@
           "pinned": false
         },
         {
-          "title": "War on Iran: Diplomacy intensifies",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTDV6bFRHRVcycjhER2hULUF1TlBtVUVoek1hZ2w1VEpwYk42TTBfZl9RSkhBWDYtWEFaYWFoNnhnUjVRaGF4bWFlNGZzZHJEZWdkcGNRSXFWanpXaHJydTBWOVBNUTFMaXpjUVQtOUYzZFN1aU81TXJvaFluNEtnbHRQbU9yeV9sNEh2WdIBkgFBVV95cUxOdmstcjBtMmlNSkZFUFdWaWhsb3FhdkpGd0RhaW9mM3NjYUpvY0gzcDBGQnFTbjluYXR0cFlXbVluc050LU41LTdXY2lvNXpzQU9fUXFGVWhsSnJwN0EwdEc0bDVsR0psUld6WUtyenY3YmhSam1IWXBERmlVVUtoTjlDVFhzTm02SG44LWpTbGVDdw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260827T151044Z",
-          "pinned": false
-        },
-        {
           "title": "Mapping Iran war’s strikes on Gulf energy and its impact on future of oil",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOalprVVJWeE5qUlBuYWFRMzA4YUdzckllZnJYZE5WLUFDOTBGTFJzcVNDd0Q5RFJPTUs3ZG9ldF96MkhsZ05XVTR0dHV3eTV2TFlVd3ZuendWRFJLRFNvdi1SOHFXMHJGSm9BSHVlTjd5Z0NmbkdFZVFFNjhwbFhpQ3dnVXI0cEd6UXl2TmZncWMyR3Ywd3FKNXBWeTRKUFJ2WnVmd185ei15WmloLXV0Vnpmb9IBuAFBVV95cUxNaEFGcGwxNzJ3RFEyTG04T1d6ZWl3cEpZWmF0dXljcGdOUWc2dm05RDFwYURjVU5aZkFaVnlvb3did2JuYWxtVjI3MDYzRFN6MlpRTm1SenJQeDdUcnB0aU45V2VlYk5SU3E2dEpwajRWajhqT19TaFZlSW5OVFF2ME5aRml6cHVVenY1MXBqVG45YTljLUNyMXBtVVM0eGthUXhQVk9YTEc4em1ITEYxMjZ4d193MFJ2?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260830T052159Z",
-          "pinned": false
-        },
-        {
-          "title": "Convicted Bosnian Serb war criminal Mladić dies aged 84",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92S0MtTXZzY2wxY3NhVnhWVk5xdkViUGVLd2pzbEdDbTFqazNKajVRbEh2ZFlzWmdYT181Uy1JZmpYc0RGcVl2WHlmS2F4VVZYT2RHWC1SY1VDZw?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260827T170522Z",
           "pinned": false
         },
         {
@@ -1444,6 +1388,14 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260828T164833Z",
+          "pinned": false
+        },
+        {
+          "title": "The US-Canada trade war in 5 charts",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zRFEyWXpnOFFZcXI0NUNoa0E3VWhuZHpHMlpEYlFVX2ZzcjExd3F6QmJsSnpadm1POHliXzh5d3ZaS1hYODVKZjYxUTlRa1gtWXN5dFdUZDZqQQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260831T000522Z",
           "pinned": false
         },
         {
@@ -1469,6 +1421,54 @@
           "sourceTier": "Independent reporting",
           "seen": "20260830T074402Z",
           "pinned": false
+        },
+        {
+          "title": "6 months of war on Iran",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJYzAwU2V4VEFaOHMtVEF4YnBfLTZ3UXIzaHVRUGtOTkJiME8yeGZaOGRTZ014MFdTZUkzZTdHOV81VWM1YTh5N1FwQ05keV9RRUxLTmlBYjRJV0l5dlRfWWxXdWJVVUhnd0ZhNkd1ZjBlV25pdDVFcFlNWVhhS2fSAYQBQVVfeXFMT21VQlNZNDlTTDd0Y3FZWDhHcmVlSktUaTdGdVBrYlhEdGZNNXNsbkh0bmE4LWNlY2dEMGpYU2VDNTU4Wm0tNkRTOEhobzNjVTBMZjFJNE9oYzBJUnRRbTVtRnA4cjRHSktwbXBhNklMY3NrVWVNOHJYcS1STWw2QnM2N1lM?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260828T151956Z",
+          "pinned": false
+        },
+        {
+          "title": "Death toll from Russian strike on Ukrainian arms depot rises to 38",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdDVOa2ZMcEk0OXdwSDB2eDdPZXdfREF4YmRtMGJ2N3RaRlRaSVZFRTR4R1JPbWRTUldoVnRFSTB0M2xlNXVaeTdRQ0tDYzZOTTRVa2MwNUNnOXdMeG8yVldGMnNnZTM3VkVvLXdJenlBYWdCYVFkVjYzTkI1bWtuYWMtalZmWHdHcVMwVS0yaVpxUmppY0JGX3NpSkNQRnhuODJyTUhoSE9fUE3SAbABQVVfeXFMTmd0UTdVMXN2QUxMOGxZT0w4N1BGbkc3aWNjdjN2aS1zc2RQMTZ3UDVNVG9EV3NzSUZiTmhud1FZOXpIbk9ET3R6MnQ1dmhuYWZBTDh2cjBxU0VYVXN4WFRxa2dPNHZlbmtPbXo1WWRSaUNmdmJYRTZ4alRBWjZnbXRCSTNtSE11Zkw4azNmQldxMjR2Z0lGcUdLSnhzZVpIOTJpbHZjTFVqczUya01zX0E?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260830T204434Z",
+          "pinned": false
+        },
+        {
+          "title": "Iran attacks US bases in Jordan after US strikes Larak Island",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORTBBc2EzTGU1VklFeXVRdXFpRG9pdmFuRHFRcnBmS1o4RE56RVFJTExZVVFySV9wSEhEZV9kNXAyb2VmajRDWTZiaEhyZWRLMjFwbGRVVU1VYlI0S3c5WU5mZGhfUmF4UmRLN1Qzdkc1US1UUGQ0S01Jb0hJeV9jMnBtLXAxWXRiZTdnbXBMcVVXMkJjT3RtdTBB0gGfAUFVX3lxTE5TWTRMMk9tZmNrUWl1MTdYUE9Ick5xeEtsMWFkRnNWbEh4eGcxMTBubTJzeUJBa3RacFFsZ2cxN3Y0OWJ4dDh1NlNwczRSaWFoODlTOFl4dnlKOXE1dG96cHlGRHMzVTlSZUJxWlhPSEJCQ3FlYXBjaHJOZW42enVhckhfV2Rkc2NScXVkV0hDNzBsbzlHTWpCeFdOOS1RZw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260831T022615Z",
+          "pinned": false
+        },
+        {
+          "title": "Kyiv launches criminal probe into arms depot attack that killed dozens",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUjZnVVdUN25hMVhMbWNJWlV0R2FUeFhoZjFNcmlZMU55Z2lvZ1pKaXcwOVA3UHlZX2RRdmlkMVVCZXNmSUJfdmQ0Wko2V01rOHhTNURqRGJtSGhEVFBoVDhYT080eVZmTTNpanhUVTlVZEpudTRyREhkclVkQXI4ZmtkaGpJNzNhQlNMOTNrUnVlX0FYTE1temtwZXVSVk5LcWVXYXU5dlrSAa4BQVVfeXFMUEYxRjZyX0Y4VGlITmJvTzREVzROSTBIa2RzUGdwdG5lclprNFR0MUNaelMzSkJfOTJvLUdDbGJuRnBkbjBsOXpjRWt0ZkMyM0hJbTk4SXdOTUZRZWJZVVhOZjhhejRzenRRU1pTbXVaMk1WQXFEcGZ2MENrd3B2UFNTY2RkdVV4RGpNR1h2TDZJT283S1hmWE01NjgydDFIZlJPUWIwSVNiRU51clR3?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260830T014535Z",
+          "pinned": false
+        },
+        {
+          "title": "Russian strike on a Ukrainian warehouse kills 37 in the war’s deadliest attack this year",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMDZoaHVmSENmSUJQcmlhVnY2R181UXpjdnZIQlJ1YXJsZzlGZGM5U1dxY0w5eERtLXQ5ajJwWF9ib3pKQlBNam5XU0dQamczNlhxcjdGU2RxbEthaGFQQnhKcXZ6TkQxdW5rWGZIZERoMTBPaFZzR01jeHFEMG05N2kzRTNnemVnQkJvRW1Ga3lET0k?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260829T231200Z",
+          "pinned": false
+        },
+        {
+          "title": "Birmingham 20mph limit: a 'life saver' or 'a war on cars'?",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmVXgtR3NFR3luZHplYTMwMEVUbW0zMnNQbmFITGpCZk9ibUI3MV9ubXRSZ1lva2VOWEFCWEZpQi1GTWt2MVN3OFRBU0pydlNCVFRtWGpsQ1VGZw?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260830T062831Z",
+          "pinned": false
         }
       ],
       "reports": [
@@ -1480,15 +1480,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-29T01:14:13Z"
-        },
-        {
-          "id": "report-3856ac9e73b2",
-          "title": "The Iran War at Six Months: A Region—and Its Relationship With the U.S.—Transformed",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVmV2aGlOQU5JRVc4N3lMVUxqa1l3empTb0dTRUJ4bEV4QXRJTTRSOHNfNGkxSG9lbWZKcGlkUHBWbjlHMzRWamRoYjdFaE5rVk5xcnRnRkxrb0RQTTFBN2xjdGl0MXVFSF9FSTd3YlVNMzVub3hTODJrQk01V2NEdjVHNUNkdUppUnVTaTdnUGREWFdlaDlYTFc1cGVTMmJpdHE1ZVpWdmFtZmZXYThz?oc=5",
-          "domain": "cfr.org",
-          "sourceTier": "Structured / analytic",
-          "confidenceLabel": "ANALYTIC REPORT",
-          "reportedAt": "2026-08-27T20:45:06Z"
         },
         {
           "id": "report-8286f6643a65",
@@ -1545,31 +1536,13 @@
           "reportedAt": "2026-08-28T11:49:44Z"
         },
         {
-          "id": "report-3dd0b8f86857",
+          "id": "report-61e56dced672",
           "title": "The home front: How Israel, Iran, and US leaders have been hit by the war",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYVozc0NjYTVBbF94MXExQVdEZE9BOXJ4aGVxdGtPX2ppWkZvTlVSa29oOGxLUHZ1SUcyaHk0RDJ5bDhnR1FLZDJiX2dkWGhuVTFIOHZRa0t4YUV3LXdWZm5XR0FVZ2l3d1N2bjVxS3dxdVRBa0F2Ujh2RVJXRjAyR2Jrc09IYXh0eUtRVWtyLS16MGRrZkp1UllsaUxBWUhBTFN5WVlMMXk4eWx2enU1MQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYVozc0NjYTVBbF94MXExQVdEZE9BOXJ4aGVxdGtPX2ppWkZvTlVSa29oOGxLUHZ1SUcyaHk0RDJ5bDhnR1FLZDJiX2dkWGhuVTFIOHZRa0t4YUV3LXdWZm5XR0FVZ2l3d1N2bjVxS3dxdVRBa0F2Ujh2RVJXRjAyR2Jrc09IYXh0eUtRVWtyLS16MGRrZkp1UllsaUxBWUhBTFN5WVlMMXk4eWx2enU1MdIBtgFBVV95cUxPcDkwWjdhenN4bVpGRjZJdExCQ0lveWo3RmlqV0NlVUt6ZXJicnlxdnkyeUZJaEZweE9LcFViekU0U1VlTTN1UGNSWHFCODhvMVV4clpYMHFLTk5abFFYd3VsOU1JeHRLVUgzb24wYjNTelNxMlNkc1ZVVTVVZW5vLTlBRW1WTTFlRHZnUDI4QkhHRl83OTBleEUtTGpoSU01WjhJMENFc19mZ212M3QzN2JfazdVZw?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-30T09:41:57Z"
-        },
-        {
-          "id": "report-b9b0c659701f",
-          "title": "US goals have shifted after 6 months of Iran war. The Strait of Hormuz is now a top concern",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZlZ4TnNNdXJtWWpPUjlWa2R3WW1hbGRwTHN5UTJKRnpmclFheVV1X2VUZnBCNDhjN29IcHp1S2RIWXBrQTY2TnJORnRXUjB3MkFzNHlnM3BzTXVGb0RJVkZRX2VNR3lXMW9scjVJTXZuZS1RSU9DYWItMHRsNHBHUHJDV0hfZkRfZTllX0xDeHRMTlNUalE?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-27T16:58:00Z"
-        },
-        {
-          "id": "report-73f8de3c99db",
-          "title": "Is Iran war diplomacy ramping up, as Qatar, Oman, Pakistan officials visit?",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRmRHamdPemdTZ05VRXdWTko3eklSUXMxbDVFUlJFa0ptbm9xdVRycnNEVl9YUjZ5bkVfbkFvOFYtM1lUQ3JmZ2RsTGxtMWxFQzl6RmZ3d3VMOWh4R2VQU3pKMklLcVFHVGVDTzgtOWFoRWc3NVQxTm9OWmZhTF94SUxOeXQ0dGpHOXV5ZnFiNDlHQ1RhVXNJLThkRXYwaDJ2c2F1eWpqdEJSUE4wM2syczN30gG3AUFVX3lxTFBPcGlPNk5WUHpMZkZVWlBEcTZzWk8xeVVCcW1JZ1FOVWNzcEVUWW9ySkJrRkNOdG9WUEd1Mk92WTRWMnRnUDdLeXNydksxLVJnVERwbHRBMmcyNlZvaGtfNl95dWplaVdJOERLQkdYeERPV18xYmlfTUgwVGVXMC1WVWQ5dThyM0hvX09hUU9RUXZlU09Bd3c5SmdadW1QYko2aUZ5djlSZFB1cG1QRXlhR3JGY2U5NA?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-27T10:52:33Z"
         },
         {
           "id": "report-388852bb621c",
@@ -1579,24 +1552,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-28T06:34:48Z"
-        },
-        {
-          "id": "report-e7e996df8a17",
-          "title": "Obituary: Ratko Mladic, war criminal convicted of Srebrenica genocide, dies",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRDY4QlJFZFV4QTJoSGRCQXBJNzRpQmozUHV4RW9oZDh2VHJOeGVLY3dyR1lMTUY1Wm9ETjVvckYtc0EyMzJQa2ZUVjJXcWlBTWNRclUzTllKamkxQjR6VHM4dFVOOGZCOVgtS3V2bGwtN3ZUVjV1dVhJLVhJTm1xMUwyZUU5ejQwRjRoU0lHWDVHSXVURTJ6OENUMUR0QXNPaGU1anY0bXVhYjdpNjZhaDhOVdIBuAFBVV95cUxORzZfWVdoLW9kcmZqSEs0enNOc3VZSl9qU3kyeF93aUZkYXoyVE1UTy1reFNWRnJjS19vMHVmRHh0anRneU5oQ0JQb2NIenQ4Tk9JQUpaUTdwV1JSVkd0aE5QU3FWc0ZUMlI5c2dzcjZXVy00S2dCVDJFRkxWWFVpUHBTeVIzNUhqLUhlcTA2cnJTcURJV29DWk9FdEhvYnhrMlp5NXJPYjlUN0pCR0wxUlhtRHVBZjhO?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-27T17:08:57Z"
-        },
-        {
-          "id": "report-79d3b7c48060",
-          "title": "Republicans face a midterm verdict as Iran war drags on months longer than Trump promised",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQODI3MXJuMHA3WmR5c0dJSXlFOXNUY3hJMHBZMWVwMWF6OVpsZWVpYzF0TzNIR1lkODZoMktGdjY0ZkRuRmdoZTRuemFHc2MwME5YUExYdUlTSHV3SmZEWmh3ZlUxNGttTXlYeU5VOXFORHJVUG9mY2FkNWNBYTFrOUdDcmRxZzdPeDctd1lpSXZuUFZ3a2FsVHpyQ0FYYjE4SkN0ZHRNVUlPS1o5OVhV?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-27T11:05:00Z"
         },
         {
           "id": "report-93a64bf46c2e",
@@ -1617,15 +1572,6 @@
           "reportedAt": "2026-08-29T10:14:42Z"
         },
         {
-          "id": "report-5a027f261d1b",
-          "title": "War on Iran: Diplomacy intensifies",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTDV6bFRHRVcycjhER2hULUF1TlBtVUVoek1hZ2w1VEpwYk42TTBfZl9RSkhBWDYtWEFaYWFoNnhnUjVRaGF4bWFlNGZzZHJEZWdkcGNRSXFWanpXaHJydTBWOVBNUTFMaXpjUVQtOUYzZFN1aU81TXJvaFluNEtnbHRQbU9yeV9sNEh2WdIBkgFBVV95cUxOdmstcjBtMmlNSkZFUFdWaWhsb3FhdkpGd0RhaW9mM3NjYUpvY0gzcDBGQnFTbjluYXR0cFlXbVluc050LU41LTdXY2lvNXpzQU9fUXFGVWhsSnJwN0EwdEc0bDVsR0psUld6WUtyenY3YmhSam1IWXBERmlVVUtoTjlDVFhzTm02SG44LWpTbGVDdw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-27T15:10:44Z"
-        },
-        {
           "id": "report-c61ffb380527",
           "title": "Mapping Iran war’s strikes on Gulf energy and its impact on future of oil",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOalprVVJWeE5qUlBuYWFRMzA4YUdzckllZnJYZE5WLUFDOTBGTFJzcVNDd0Q5RFJPTUs3ZG9ldF96MkhsZ05XVTR0dHV3eTV2TFlVd3ZuendWRFJLRFNvdi1SOHFXMHJGSm9BSHVlTjd5Z0NmbkdFZVFFNjhwbFhpQ3dnVXI0cEd6UXl2TmZncWMyR3Ywd3FKNXBWeTRKUFJ2WnVmd185ei15WmloLXV0Vnpmb9IBuAFBVV95cUxNaEFGcGwxNzJ3RFEyTG04T1d6ZWl3cEpZWmF0dXljcGdOUWc2dm05RDFwYURjVU5aZkFaVnlvb3did2JuYWxtVjI3MDYzRFN6MlpRTm1SenJQeDdUcnB0aU45V2VlYk5SU3E2dEpwajRWajhqT19TaFZlSW5OVFF2ME5aRml6cHVVenY1MXBqVG45YTljLUNyMXBtVVM0eGthUXhQVk9YTEc4em1ITEYxMjZ4d193MFJ2?oc=5",
@@ -1633,15 +1579,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-30T05:21:59Z"
-        },
-        {
-          "id": "report-33f2e5060e1f",
-          "title": "Convicted Bosnian Serb war criminal Mladić dies aged 84",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92S0MtTXZzY2wxY3NhVnhWVk5xdkViUGVLd2pzbEdDbTFqazNKajVRbEh2ZFlzWmdYT181Uy1JZmpYc0RGcVl2WHlmS2F4VVZYT2RHWC1SY1VDZw?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-27T17:05:22Z"
         },
         {
           "id": "report-ea8baf0c5ead",
@@ -1660,6 +1597,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-28T16:48:33Z"
+        },
+        {
+          "id": "report-5b99cd2ebef5",
+          "title": "The US-Canada trade war in 5 charts",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zRFEyWXpnOFFZcXI0NUNoa0E3VWhuZHpHMlpEYlFVX2ZzcjExd3F6QmJsSnpadm1POHliXzh5d3ZaS1hYODVKZjYxUTlRa1gtWXN5dFdUZDZqQQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-31T00:05:22Z"
         },
         {
           "id": "report-79dcc3f1037d",
@@ -1687,6 +1633,69 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-30T07:44:02Z"
+        },
+        {
+          "id": "report-4a4bbe689052",
+          "title": "6 months of war on Iran",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJYzAwU2V4VEFaOHMtVEF4YnBfLTZ3UXIzaHVRUGtOTkJiME8yeGZaOGRTZ014MFdTZUkzZTdHOV81VWM1YTh5N1FwQ05keV9RRUxLTmlBYjRJV0l5dlRfWWxXdWJVVUhnd0ZhNkd1ZjBlV25pdDVFcFlNWVhhS2fSAYQBQVVfeXFMT21VQlNZNDlTTDd0Y3FZWDhHcmVlSktUaTdGdVBrYlhEdGZNNXNsbkh0bmE4LWNlY2dEMGpYU2VDNTU4Wm0tNkRTOEhobzNjVTBMZjFJNE9oYzBJUnRRbTVtRnA4cjRHSktwbXBhNklMY3NrVWVNOHJYcS1STWw2QnM2N1lM?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-28T15:19:56Z"
+        },
+        {
+          "id": "report-bd0a41a4e05e",
+          "title": "Death toll from Russian strike on Ukrainian arms depot rises to 38",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdDVOa2ZMcEk0OXdwSDB2eDdPZXdfREF4YmRtMGJ2N3RaRlRaSVZFRTR4R1JPbWRTUldoVnRFSTB0M2xlNXVaeTdRQ0tDYzZOTTRVa2MwNUNnOXdMeG8yVldGMnNnZTM3VkVvLXdJenlBYWdCYVFkVjYzTkI1bWtuYWMtalZmWHdHcVMwVS0yaVpxUmppY0JGX3NpSkNQRnhuODJyTUhoSE9fUE3SAbABQVVfeXFMTmd0UTdVMXN2QUxMOGxZT0w4N1BGbkc3aWNjdjN2aS1zc2RQMTZ3UDVNVG9EV3NzSUZiTmhud1FZOXpIbk9ET3R6MnQ1dmhuYWZBTDh2cjBxU0VYVXN4WFRxa2dPNHZlbmtPbXo1WWRSaUNmdmJYRTZ4alRBWjZnbXRCSTNtSE11Zkw4azNmQldxMjR2Z0lGcUdLSnhzZVpIOTJpbHZjTFVqczUya01zX0E?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-30T20:44:34Z"
+        },
+        {
+          "id": "report-5f3d4409b847",
+          "title": "Iran attacks US bases in Jordan after US strikes Larak Island",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORTBBc2EzTGU1VklFeXVRdXFpRG9pdmFuRHFRcnBmS1o4RE56RVFJTExZVVFySV9wSEhEZV9kNXAyb2VmajRDWTZiaEhyZWRLMjFwbGRVVU1VYlI0S3c5WU5mZGhfUmF4UmRLN1Qzdkc1US1UUGQ0S01Jb0hJeV9jMnBtLXAxWXRiZTdnbXBMcVVXMkJjT3RtdTBB0gGfAUFVX3lxTE5TWTRMMk9tZmNrUWl1MTdYUE9Ick5xeEtsMWFkRnNWbEh4eGcxMTBubTJzeUJBa3RacFFsZ2cxN3Y0OWJ4dDh1NlNwczRSaWFoODlTOFl4dnlKOXE1dG96cHlGRHMzVTlSZUJxWlhPSEJCQ3FlYXBjaHJOZW42enVhckhfV2Rkc2NScXVkV0hDNzBsbzlHTWpCeFdOOS1RZw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-31T02:26:15Z"
+        },
+        {
+          "id": "report-918d13540188",
+          "title": "Kyiv launches criminal probe into arms depot attack that killed dozens",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUjZnVVdUN25hMVhMbWNJWlV0R2FUeFhoZjFNcmlZMU55Z2lvZ1pKaXcwOVA3UHlZX2RRdmlkMVVCZXNmSUJfdmQ0Wko2V01rOHhTNURqRGJtSGhEVFBoVDhYT080eVZmTTNpanhUVTlVZEpudTRyREhkclVkQXI4ZmtkaGpJNzNhQlNMOTNrUnVlX0FYTE1temtwZXVSVk5LcWVXYXU5dlrSAa4BQVVfeXFMUEYxRjZyX0Y4VGlITmJvTzREVzROSTBIa2RzUGdwdG5lclprNFR0MUNaelMzSkJfOTJvLUdDbGJuRnBkbjBsOXpjRWt0ZkMyM0hJbTk4SXdOTUZRZWJZVVhOZjhhejRzenRRU1pTbXVaMk1WQXFEcGZ2MENrd3B2UFNTY2RkdVV4RGpNR1h2TDZJT283S1hmWE01NjgydDFIZlJPUWIwSVNiRU51clR3?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-30T01:45:35Z"
+        },
+        {
+          "id": "report-b5f36ef7f824",
+          "title": "Russian strike on a Ukrainian warehouse kills 37 in the war’s deadliest attack this year",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMDZoaHVmSENmSUJQcmlhVnY2R181UXpjdnZIQlJ1YXJsZzlGZGM5U1dxY0w5eERtLXQ5ajJwWF9ib3pKQlBNam5XU0dQamczNlhxcjdGU2RxbEthaGFQQnhKcXZ6TkQxdW5rWGZIZERoMTBPaFZzR01jeHFEMG05N2kzRTNnemVnQkJvRW1Ga3lET0k?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-29T23:12:00Z"
+        },
+        {
+          "id": "report-8f62eb868838",
+          "title": "Birmingham 20mph limit: a 'life saver' or 'a war on cars'?",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmVXgtR3NFR3luZHplYTMwMEVUbW0zMnNQbmFITGpCZk9ibUI3MV9ubXRSZ1lva2VOWEFCWEZpQi1GTWt2MVN3OFRBU0pydlNCVFRtWGpsQ1VGZw?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-30T06:28:31Z"
+        },
+        {
+          "id": "report-3856ac9e73b2",
+          "title": "The Iran War at Six Months: A Region—and Its Relationship With the U.S.—Transformed",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVmV2aGlOQU5JRVc4N3lMVUxqa1l3empTb0dTRUJ4bEV4QXRJTTRSOHNfNGkxSG9lbWZKcGlkUHBWbjlHMzRWamRoYjdFaE5rVk5xcnRnRkxrb0RQTTFBN2xjdGl0MXVFSF9FSTd3YlVNMzVub3hTODJrQk01V2NEdjVHNUNkdUppUnVTaTdnUGREWFdlaDlYTFc1cGVTMmJpdHE1ZVpWdmFtZmZXYThz?oc=5",
+          "domain": "cfr.org",
+          "sourceTier": "Structured / analytic",
+          "confidenceLabel": "ANALYTIC REPORT",
+          "reportedAt": "2026-08-27T20:45:06Z"
         },
         {
           "id": "report-61fcdec3af27",
