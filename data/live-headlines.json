@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-31T05:33:23.065Z",
+  "generatedAt": "2026-08-31T13:47:53.645Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-08-31T05:33:23.065Z",
+      "generatedAt": "2026-08-31T13:47:53.645Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -1275,7 +1275,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-08-31T05:33:23.065Z",
+      "generatedAt": "2026-08-31T13:47:53.645Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -1287,11 +1287,27 @@
           "pinned": false
         },
         {
+          "title": "The home front: How Israel, Iran, and US leaders have been hit by the war",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYVozc0NjYTVBbF94MXExQVdEZE9BOXJ4aGVxdGtPX2ppWkZvTlVSa29oOGxLUHZ1SUcyaHk0RDJ5bDhnR1FLZDJiX2dkWGhuVTFIOHZRa0t4YUV3LXdWZm5XR0FVZ2l3d1N2bjVxS3dxdVRBa0F2Ujh2RVJXRjAyR2Jrc09IYXh0eUtRVWtyLS16MGRrZkp1UllsaUxBWUhBTFN5WVlMMXk4eWx2enU1MdIBtgFBVV95cUxPcDkwWjdhenN4bVpGRjZJdExCQ0lveWo3RmlqV0NlVUt6ZXJicnlxdnkyeUZJaEZweE9LcFViekU0U1VlTTN1UGNSWHFCODhvMVV4clpYMHFLTk5abFFYd3VsOU1JeHRLVUgzb24wYjNTelNxMlNkc1ZVVTVVZW5vLTlBRW1WTTFlRHZnUDI4QkhHRl83OTBleEUtTGpoSU01WjhJMENFc19mZ212M3QzN2JfazdVZw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260830T094157Z",
+          "pinned": false
+        },
+        {
           "title": "Regional powers seek off-ramp from Iran war, and other Middle East developments",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPblotQXR6VEctdkdvVUhZYUNsWXBPQTd2QjU4TTNZd0pFTnk2LWtXejlfMjBRRDJjamYzRWthTE96NmpCMmROV1B2eW1uLXI4aFcwQTRGczJXTS1HUm1YTUo0U0J5ZTJFQkJNUVVVcGJsc2xhZ1FYQkpIRm5Ba2N4RnV4eG44UHdQdWZIMHdWX09IMGI1RVl5YllOTkJRanlKcWFxalM0d0dsVmRl?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "seen": "20260828T021700Z",
+          "pinned": false
+        },
+        {
+          "title": "Iran war",
+          "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260830T193832Z",
           "pinned": false
         },
         {
@@ -1335,11 +1351,11 @@
           "pinned": false
         },
         {
-          "title": "The home front: How Israel, Iran, and US leaders have been hit by the war",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYVozc0NjYTVBbF94MXExQVdEZE9BOXJ4aGVxdGtPX2ppWkZvTlVSa29oOGxLUHZ1SUcyaHk0RDJ5bDhnR1FLZDJiX2dkWGhuVTFIOHZRa0t4YUV3LXdWZm5XR0FVZ2l3d1N2bjVxS3dxdVRBa0F2Ujh2RVJXRjAyR2Jrc09IYXh0eUtRVWtyLS16MGRrZkp1UllsaUxBWUhBTFN5WVlMMXk4eWx2enU1MdIBtgFBVV95cUxPcDkwWjdhenN4bVpGRjZJdExCQ0lveWo3RmlqV0NlVUt6ZXJicnlxdnkyeUZJaEZweE9LcFViekU0U1VlTTN1UGNSWHFCODhvMVV4clpYMHFLTk5abFFYd3VsOU1JeHRLVUgzb24wYjNTelNxMlNkc1ZVVTVVZW5vLTlBRW1WTTFlRHZnUDI4QkhHRl83OTBleEUtTGpoSU01WjhJMENFc19mZ212M3QzN2JfazdVZw?oc=5",
-          "domain": "aljazeera.com",
+          "title": "The US-Canada trade war in 5 charts",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zRFEyWXpnOFFZcXI0NUNoa0E3VWhuZHpHMlpEYlFVX2ZzcjExd3F6QmJsSnpadm1POHliXzh5d3ZaS1hYODVKZjYxUTlRa1gtWXN5dFdUZDZqQQ?oc=5",
+          "domain": "bbc.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260830T094157Z",
+          "seen": "20260831T000522Z",
           "pinned": false
         },
         {
@@ -1351,11 +1367,27 @@
           "pinned": false
         },
         {
+          "title": "UAE intercepts drone after US and Iran exchange attacks",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOXRvZHIzWEk1dVV1ZC00WEplbFlScUNqYXBrWmJKcGtFRjZMVWl0X1p0alVuZE9sc1EydFFqbDVlUEVuM3o1dUZldE84N1dfOWZLaFlmX2tqNlU0VEZnVzJ5alE3d0JSVDBFd1ZrUzgyS0JhYjZpM0hlUDU0czRYYXFxR1dyYTY4UTRJZExhaEV2THZQT0VFSV9LamQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260831T112803Z",
+          "pinned": false
+        },
+        {
           "title": "Six months into the Iran war, a new Gulf security architecture is emerging",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaFFwOWNjUV90cFBVN1RGcGdDcVJ0UGw2U1FmcEpwRGFITnRJcHVZUENydWY1RXAxWUt1VFNyRXlIVWl5VWxoYzR3anpZNlpqemVubUZtNDNaV25oSWFwNktXZlAzSlAyWE5meU9EX3pLcFNQcGFtVlpkcTBIeGIyWTkxY185bDdxYUhtQ19qc1RnOTB0YkFUdFdPdzc3UkFQM1VlWUxVZFM3cnpaLXNMTndEdWNscnQzN1HSAb8BQVVfeXFMTVlwRmFBVl81STk3UzlxSGFkSVZsdnU4eFBJSHZfemdUUmoxMkNKYnFkelFuZno1czdiWUJJZUNZY3B1emgtZkcxSkpETnhsa2FCdWVjOXExa3h3aTl0TGc3X1NJdE1BUEdTNU9mV0FnRG1jczBTcnhhOE1WM25XOFNYclZDdVM4VUxZQndwSnNVT1djbWwyYnJMa0VnNXlKclV2TGdHaDUxUWw1WGZWRHlURHgzV1dPUlZiWm1qTzQ?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260829T061407Z",
+          "pinned": false
+        },
+        {
+          "title": "80 years on: The day professional football resumed after World War Two",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BbVV1ZG1kVmJkYkJ0TEJQcmRpRnB6ZDIxdE92cGdnb21VS2IwLWFZOWtXLTluRVFvQ1N5U1ROY1lUcU1qRTR3OV81ZHpvZm9UNksxTVFTaElnNGExN3dQZXNrQWUzeGM?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260831T105922Z",
           "pinned": false
         },
         {
@@ -1375,6 +1407,14 @@
           "pinned": false
         },
         {
+          "title": "US and Iran trade strikes after first known US attack in weeks",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wR1VYOXlxY0JNeElMalZOaEw0VDcycU9GeDBFLUdEQ2x4NjRuSjQzd0drUUtfVDRIR2hzenZjY2lRU2ZvbzVUeWVzYUQxc2QwcS1pWW5HX2EzUQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260831T083425Z",
+          "pinned": false
+        },
+        {
           "title": "Gianni Infantino: Uefa's attack on Fifa president escalates football's civil war",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZVFRkallwY1ZIYzZLZk5VSDlfUHRYTmdmb1pjeTZFOE5ZN192S2k0dEN2UWxxNVdMbHZlaTZnaEFCLWNUVmMyM1NNTFlpd2lhVXJlZ29qYmM5YUFoU2NDM2trQUFFYlE?oc=5",
           "domain": "bbc.com",
@@ -1391,27 +1431,11 @@
           "pinned": false
         },
         {
-          "title": "The US-Canada trade war in 5 charts",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zRFEyWXpnOFFZcXI0NUNoa0E3VWhuZHpHMlpEYlFVX2ZzcjExd3F6QmJsSnpadm1POHliXzh5d3ZaS1hYODVKZjYxUTlRa1gtWXN5dFdUZDZqQQ?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260831T000522Z",
-          "pinned": false
-        },
-        {
           "title": "Russia ramps up rhetoric but wants to avoid war with Nato, Western officials say",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hb3JyUHlBdkoxdXVXcFJpeXN6YS1PNmNHNk1RSkpzblBmU0hDNFFiWS1mbEZyNnFQMjIwZ1pZTzA2SDlMbEIybWxacDJzNzRNdFRIRWpRR2FqUQ?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20260828T190523Z",
-          "pinned": false
-        },
-        {
-          "title": "Six months on, the Iran war has changed the Middle East, but not in the way its architects had hoped",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLVd0UHZRTDlTX05KbUhtNkdGV0hEaW5FTVUxazZsT0VBbGZQdzlkb3JOV0hKREdURGZKRjFxNzhDeWJ0Vk9CX3B5VUR4cThONHgwVDVSSWRpNkdNcVlzTVR0Q1lzOFhBQzRKX0NzWjdDNkhvc2ZsWkRyMURXcXN0eEwtbUYyZmVucHlQQWttdkNjQWZLeVdvRko1N0VqUQ?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260828T041400Z",
           "pinned": false
         },
         {
@@ -1423,11 +1447,11 @@
           "pinned": false
         },
         {
-          "title": "6 months of war on Iran",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJYzAwU2V4VEFaOHMtVEF4YnBfLTZ3UXIzaHVRUGtOTkJiME8yeGZaOGRTZ014MFdTZUkzZTdHOV81VWM1YTh5N1FwQ05keV9RRUxLTmlBYjRJV0l5dlRfWWxXdWJVVUhnd0ZhNkd1ZjBlV25pdDVFcFlNWVhhS2fSAYQBQVVfeXFMT21VQlNZNDlTTDd0Y3FZWDhHcmVlSktUaTdGdVBrYlhEdGZNNXNsbkh0bmE4LWNlY2dEMGpYU2VDNTU4Wm0tNkRTOEhobzNjVTBMZjFJNE9oYzBJUnRRbTVtRnA4cjRHSktwbXBhNklMY3NrVWVNOHJYcS1STWw2QnM2N1lM?oc=5",
-          "domain": "aljazeera.com",
+          "title": "Six months on, the Iran war has changed the Middle East, but not in the way its architects had hoped",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLVd0UHZRTDlTX05KbUhtNkdGV0hEaW5FTVUxazZsT0VBbGZQdzlkb3JOV0hKREdURGZKRjFxNzhDeWJ0Vk9CX3B5VUR4cThONHgwVDVSSWRpNkdNcVlzTVR0Q1lzOFhBQzRKX0NzWjdDNkhvc2ZsWkRyMURXcXN0eEwtbUYyZmVucHlQQWttdkNjQWZLeVdvRko1N0VqUQ?oc=5",
+          "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260828T151956Z",
+          "seen": "20260828T041400Z",
           "pinned": false
         },
         {
@@ -1439,35 +1463,11 @@
           "pinned": false
         },
         {
-          "title": "Iran attacks US bases in Jordan after US strikes Larak Island",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORTBBc2EzTGU1VklFeXVRdXFpRG9pdmFuRHFRcnBmS1o4RE56RVFJTExZVVFySV9wSEhEZV9kNXAyb2VmajRDWTZiaEhyZWRLMjFwbGRVVU1VYlI0S3c5WU5mZGhfUmF4UmRLN1Qzdkc1US1UUGQ0S01Jb0hJeV9jMnBtLXAxWXRiZTdnbXBMcVVXMkJjT3RtdTBB0gGfAUFVX3lxTE5TWTRMMk9tZmNrUWl1MTdYUE9Ick5xeEtsMWFkRnNWbEh4eGcxMTBubTJzeUJBa3RacFFsZ2cxN3Y0OWJ4dDh1NlNwczRSaWFoODlTOFl4dnlKOXE1dG96cHlGRHMzVTlSZUJxWlhPSEJCQ3FlYXBjaHJOZW42enVhckhfV2Rkc2NScXVkV0hDNzBsbzlHTWpCeFdOOS1RZw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260831T022615Z",
-          "pinned": false
-        },
-        {
           "title": "Kyiv launches criminal probe into arms depot attack that killed dozens",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUjZnVVdUN25hMVhMbWNJWlV0R2FUeFhoZjFNcmlZMU55Z2lvZ1pKaXcwOVA3UHlZX2RRdmlkMVVCZXNmSUJfdmQ0Wko2V01rOHhTNURqRGJtSGhEVFBoVDhYT080eVZmTTNpanhUVTlVZEpudTRyREhkclVkQXI4ZmtkaGpJNzNhQlNMOTNrUnVlX0FYTE1temtwZXVSVk5LcWVXYXU5dlrSAa4BQVVfeXFMUEYxRjZyX0Y4VGlITmJvTzREVzROSTBIa2RzUGdwdG5lclprNFR0MUNaelMzSkJfOTJvLUdDbGJuRnBkbjBsOXpjRWt0ZkMyM0hJbTk4SXdOTUZRZWJZVVhOZjhhejRzenRRU1pTbXVaMk1WQXFEcGZ2MENrd3B2UFNTY2RkdVV4RGpNR1h2TDZJT283S1hmWE01NjgydDFIZlJPUWIwSVNiRU51clR3?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260830T014535Z",
-          "pinned": false
-        },
-        {
-          "title": "Russian strike on a Ukrainian warehouse kills 37 in the war’s deadliest attack this year",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMDZoaHVmSENmSUJQcmlhVnY2R181UXpjdnZIQlJ1YXJsZzlGZGM5U1dxY0w5eERtLXQ5ajJwWF9ib3pKQlBNam5XU0dQamczNlhxcjdGU2RxbEthaGFQQnhKcXZ6TkQxdW5rWGZIZERoMTBPaFZzR01jeHFEMG05N2kzRTNnemVnQkJvRW1Ga3lET0k?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260829T231200Z",
-          "pinned": false
-        },
-        {
-          "title": "Birmingham 20mph limit: a 'life saver' or 'a war on cars'?",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmVXgtR3NFR3luZHplYTMwMEVUbW0zMnNQbmFITGpCZk9ibUI3MV9ubXRSZ1lva2VOWEFCWEZpQi1GTWt2MVN3OFRBU0pydlNCVFRtWGpsQ1VGZw?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260830T062831Z",
           "pinned": false
         }
       ],
@@ -1482,6 +1482,15 @@
           "reportedAt": "2026-08-29T01:14:13Z"
         },
         {
+          "id": "report-61e56dced672",
+          "title": "The home front: How Israel, Iran, and US leaders have been hit by the war",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYVozc0NjYTVBbF94MXExQVdEZE9BOXJ4aGVxdGtPX2ppWkZvTlVSa29oOGxLUHZ1SUcyaHk0RDJ5bDhnR1FLZDJiX2dkWGhuVTFIOHZRa0t4YUV3LXdWZm5XR0FVZ2l3d1N2bjVxS3dxdVRBa0F2Ujh2RVJXRjAyR2Jrc09IYXh0eUtRVWtyLS16MGRrZkp1UllsaUxBWUhBTFN5WVlMMXk4eWx2enU1MdIBtgFBVV95cUxPcDkwWjdhenN4bVpGRjZJdExCQ0lveWo3RmlqV0NlVUt6ZXJicnlxdnkyeUZJaEZweE9LcFViekU0U1VlTTN1UGNSWHFCODhvMVV4clpYMHFLTk5abFFYd3VsOU1JeHRLVUgzb24wYjNTelNxMlNkc1ZVVTVVZW5vLTlBRW1WTTFlRHZnUDI4QkhHRl83OTBleEUtTGpoSU01WjhJMENFc19mZ212M3QzN2JfazdVZw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-30T09:41:57Z"
+        },
+        {
           "id": "report-8286f6643a65",
           "title": "Regional powers seek off-ramp from Iran war, and other Middle East developments",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPblotQXR6VEctdkdvVUhZYUNsWXBPQTd2QjU4TTNZd0pFTnk2LWtXejlfMjBRRDJjamYzRWthTE96NmpCMmROV1B2eW1uLXI4aFcwQTRGczJXTS1HUm1YTUo0U0J5ZTJFQkJNUVVVcGJsc2xhZ1FYQkpIRm5Ba2N4RnV4eG44UHdQdWZIMHdWX09IMGI1RVl5YllOTkJRanlKcWFxalM0d0dsVmRl?oc=5",
@@ -1489,6 +1498,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-28T02:17:00Z"
+        },
+        {
+          "id": "report-a755c78656d2",
+          "title": "Iran war",
+          "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-30T19:38:32Z"
         },
         {
           "id": "report-e638287d1f0e",
@@ -1536,13 +1554,13 @@
           "reportedAt": "2026-08-28T11:49:44Z"
         },
         {
-          "id": "report-61e56dced672",
-          "title": "The home front: How Israel, Iran, and US leaders have been hit by the war",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYVozc0NjYTVBbF94MXExQVdEZE9BOXJ4aGVxdGtPX2ppWkZvTlVSa29oOGxLUHZ1SUcyaHk0RDJ5bDhnR1FLZDJiX2dkWGhuVTFIOHZRa0t4YUV3LXdWZm5XR0FVZ2l3d1N2bjVxS3dxdVRBa0F2Ujh2RVJXRjAyR2Jrc09IYXh0eUtRVWtyLS16MGRrZkp1UllsaUxBWUhBTFN5WVlMMXk4eWx2enU1MdIBtgFBVV95cUxPcDkwWjdhenN4bVpGRjZJdExCQ0lveWo3RmlqV0NlVUt6ZXJicnlxdnkyeUZJaEZweE9LcFViekU0U1VlTTN1UGNSWHFCODhvMVV4clpYMHFLTk5abFFYd3VsOU1JeHRLVUgzb24wYjNTelNxMlNkc1ZVVTVVZW5vLTlBRW1WTTFlRHZnUDI4QkhHRl83OTBleEUtTGpoSU01WjhJMENFc19mZ212M3QzN2JfazdVZw?oc=5",
-          "domain": "aljazeera.com",
+          "id": "report-5b99cd2ebef5",
+          "title": "The US-Canada trade war in 5 charts",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zRFEyWXpnOFFZcXI0NUNoa0E3VWhuZHpHMlpEYlFVX2ZzcjExd3F6QmJsSnpadm1POHliXzh5d3ZaS1hYODVKZjYxUTlRa1gtWXN5dFdUZDZqQQ?oc=5",
+          "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-30T09:41:57Z"
+          "reportedAt": "2026-08-31T00:05:22Z"
         },
         {
           "id": "report-388852bb621c",
@@ -1554,6 +1572,15 @@
           "reportedAt": "2026-08-28T06:34:48Z"
         },
         {
+          "id": "report-a3929f4b4795",
+          "title": "UAE intercepts drone after US and Iran exchange attacks",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOXRvZHIzWEk1dVV1ZC00WEplbFlScUNqYXBrWmJKcGtFRjZMVWl0X1p0alVuZE9sc1EydFFqbDVlUEVuM3o1dUZldE84N1dfOWZLaFlmX2tqNlU0VEZnVzJ5alE3d0JSVDBFd1ZrUzgyS0JhYjZpM0hlUDU0czRYYXFxR1dyYTY4UTRJZExhaEV2THZQT0VFSV9LamQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-31T11:28:03Z"
+        },
+        {
           "id": "report-93a64bf46c2e",
           "title": "Six months into the Iran war, a new Gulf security architecture is emerging",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaFFwOWNjUV90cFBVN1RGcGdDcVJ0UGw2U1FmcEpwRGFITnRJcHVZUENydWY1RXAxWUt1VFNyRXlIVWl5VWxoYzR3anpZNlpqemVubUZtNDNaV25oSWFwNktXZlAzSlAyWE5meU9EX3pLcFNQcGFtVlpkcTBIeGIyWTkxY185bDdxYUhtQ19qc1RnOTB0YkFUdFdPdzc3UkFQM1VlWUxVZFM3cnpaLXNMTndEdWNscnQzN1HSAb8BQVVfeXFMTVlwRmFBVl81STk3UzlxSGFkSVZsdnU4eFBJSHZfemdUUmoxMkNKYnFkelFuZno1czdiWUJJZUNZY3B1emgtZkcxSkpETnhsa2FCdWVjOXExa3h3aTl0TGc3X1NJdE1BUEdTNU9mV0FnRG1jczBTcnhhOE1WM25XOFNYclZDdVM4VUxZQndwSnNVT1djbWwyYnJMa0VnNXlKclV2TGdHaDUxUWw1WGZWRHlURHgzV1dPUlZiWm1qTzQ?oc=5",
@@ -1561,6 +1588,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-29T06:14:07Z"
+        },
+        {
+          "id": "report-3cbd8701015d",
+          "title": "80 years on: The day professional football resumed after World War Two",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BbVV1ZG1kVmJkYkJ0TEJQcmRpRnB6ZDIxdE92cGdnb21VS2IwLWFZOWtXLTluRVFvQ1N5U1ROY1lUcU1qRTR3OV81ZHpvZm9UNksxTVFTaElnNGExN3dQZXNrQWUzeGM?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-31T10:59:22Z"
         },
         {
           "id": "report-dd902aca0f8b",
@@ -1581,6 +1617,15 @@
           "reportedAt": "2026-08-30T05:21:59Z"
         },
         {
+          "id": "report-574d3c59c219",
+          "title": "US and Iran trade strikes after first known US attack in weeks",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wR1VYOXlxY0JNeElMalZOaEw0VDcycU9GeDBFLUdEQ2x4NjRuSjQzd0drUUtfVDRIR2hzenZjY2lRU2ZvbzVUeWVzYUQxc2QwcS1pWW5HX2EzUQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-31T08:34:25Z"
+        },
+        {
           "id": "report-ea8baf0c5ead",
           "title": "Gianni Infantino: Uefa's attack on Fifa president escalates football's civil war",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZVFRkallwY1ZIYzZLZk5VSDlfUHRYTmdmb1pjeTZFOE5ZN192S2k0dEN2UWxxNVdMbHZlaTZnaEFCLWNUVmMyM1NNTFlpd2lhVXJlZ29qYmM5YUFoU2NDM2trQUFFYlE?oc=5",
@@ -1599,15 +1644,6 @@
           "reportedAt": "2026-08-28T16:48:33Z"
         },
         {
-          "id": "report-5b99cd2ebef5",
-          "title": "The US-Canada trade war in 5 charts",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zRFEyWXpnOFFZcXI0NUNoa0E3VWhuZHpHMlpEYlFVX2ZzcjExd3F6QmJsSnpadm1POHliXzh5d3ZaS1hYODVKZjYxUTlRa1gtWXN5dFdUZDZqQQ?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-31T00:05:22Z"
-        },
-        {
           "id": "report-79dcc3f1037d",
           "title": "Russia ramps up rhetoric but wants to avoid war with Nato, Western officials say",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hb3JyUHlBdkoxdXVXcFJpeXN6YS1PNmNHNk1RSkpzblBmU0hDNFFiWS1mbEZyNnFQMjIwZ1pZTzA2SDlMbEIybWxacDJzNzRNdFRIRWpRR2FqUQ?oc=5",
@@ -1615,15 +1651,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-28T19:05:23Z"
-        },
-        {
-          "id": "report-2fac760553ee",
-          "title": "Six months on, the Iran war has changed the Middle East, but not in the way its architects had hoped",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLVd0UHZRTDlTX05KbUhtNkdGV0hEaW5FTVUxazZsT0VBbGZQdzlkb3JOV0hKREdURGZKRjFxNzhDeWJ0Vk9CX3B5VUR4cThONHgwVDVSSWRpNkdNcVlzTVR0Q1lzOFhBQzRKX0NzWjdDNkhvc2ZsWkRyMURXcXN0eEwtbUYyZmVucHlQQWttdkNjQWZLeVdvRko1N0VqUQ?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-28T04:14:00Z"
         },
         {
           "id": "report-0271f660b9b9",
@@ -1635,13 +1662,13 @@
           "reportedAt": "2026-08-30T07:44:02Z"
         },
         {
-          "id": "report-4a4bbe689052",
-          "title": "6 months of war on Iran",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJYzAwU2V4VEFaOHMtVEF4YnBfLTZ3UXIzaHVRUGtOTkJiME8yeGZaOGRTZ014MFdTZUkzZTdHOV81VWM1YTh5N1FwQ05keV9RRUxLTmlBYjRJV0l5dlRfWWxXdWJVVUhnd0ZhNkd1ZjBlV25pdDVFcFlNWVhhS2fSAYQBQVVfeXFMT21VQlNZNDlTTDd0Y3FZWDhHcmVlSktUaTdGdVBrYlhEdGZNNXNsbkh0bmE4LWNlY2dEMGpYU2VDNTU4Wm0tNkRTOEhobzNjVTBMZjFJNE9oYzBJUnRRbTVtRnA4cjRHSktwbXBhNklMY3NrVWVNOHJYcS1STWw2QnM2N1lM?oc=5",
-          "domain": "aljazeera.com",
+          "id": "report-2fac760553ee",
+          "title": "Six months on, the Iran war has changed the Middle East, but not in the way its architects had hoped",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLVd0UHZRTDlTX05KbUhtNkdGV0hEaW5FTVUxazZsT0VBbGZQdzlkb3JOV0hKREdURGZKRjFxNzhDeWJ0Vk9CX3B5VUR4cThONHgwVDVSSWRpNkdNcVlzTVR0Q1lzOFhBQzRKX0NzWjdDNkhvc2ZsWkRyMURXcXN0eEwtbUYyZmVucHlQQWttdkNjQWZLeVdvRko1N0VqUQ?oc=5",
+          "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-28T15:19:56Z"
+          "reportedAt": "2026-08-28T04:14:00Z"
         },
         {
           "id": "report-bd0a41a4e05e",
@@ -1653,15 +1680,6 @@
           "reportedAt": "2026-08-30T20:44:34Z"
         },
         {
-          "id": "report-5f3d4409b847",
-          "title": "Iran attacks US bases in Jordan after US strikes Larak Island",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORTBBc2EzTGU1VklFeXVRdXFpRG9pdmFuRHFRcnBmS1o4RE56RVFJTExZVVFySV9wSEhEZV9kNXAyb2VmajRDWTZiaEhyZWRLMjFwbGRVVU1VYlI0S3c5WU5mZGhfUmF4UmRLN1Qzdkc1US1UUGQ0S01Jb0hJeV9jMnBtLXAxWXRiZTdnbXBMcVVXMkJjT3RtdTBB0gGfAUFVX3lxTE5TWTRMMk9tZmNrUWl1MTdYUE9Ick5xeEtsMWFkRnNWbEh4eGcxMTBubTJzeUJBa3RacFFsZ2cxN3Y0OWJ4dDh1NlNwczRSaWFoODlTOFl4dnlKOXE1dG96cHlGRHMzVTlSZUJxWlhPSEJCQ3FlYXBjaHJOZW42enVhckhfV2Rkc2NScXVkV0hDNzBsbzlHTWpCeFdOOS1RZw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-31T02:26:15Z"
-        },
-        {
           "id": "report-918d13540188",
           "title": "Kyiv launches criminal probe into arms depot attack that killed dozens",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUjZnVVdUN25hMVhMbWNJWlV0R2FUeFhoZjFNcmlZMU55Z2lvZ1pKaXcwOVA3UHlZX2RRdmlkMVVCZXNmSUJfdmQ0Wko2V01rOHhTNURqRGJtSGhEVFBoVDhYT080eVZmTTNpanhUVTlVZEpudTRyREhkclVkQXI4ZmtkaGpJNzNhQlNMOTNrUnVlX0FYTE1temtwZXVSVk5LcWVXYXU5dlrSAa4BQVVfeXFMUEYxRjZyX0Y4VGlITmJvTzREVzROSTBIa2RzUGdwdG5lclprNFR0MUNaelMzSkJfOTJvLUdDbGJuRnBkbjBsOXpjRWt0ZkMyM0hJbTk4SXdOTUZRZWJZVVhOZjhhejRzenRRU1pTbXVaMk1WQXFEcGZ2MENrd3B2UFNTY2RkdVV4RGpNR1h2TDZJT283S1hmWE01NjgydDFIZlJPUWIwSVNiRU51clR3?oc=5",
@@ -1669,24 +1687,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-30T01:45:35Z"
-        },
-        {
-          "id": "report-b5f36ef7f824",
-          "title": "Russian strike on a Ukrainian warehouse kills 37 in the war’s deadliest attack this year",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMDZoaHVmSENmSUJQcmlhVnY2R181UXpjdnZIQlJ1YXJsZzlGZGM5U1dxY0w5eERtLXQ5ajJwWF9ib3pKQlBNam5XU0dQamczNlhxcjdGU2RxbEthaGFQQnhKcXZ6TkQxdW5rWGZIZERoMTBPaFZzR01jeHFEMG05N2kzRTNnemVnQkJvRW1Ga3lET0k?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-29T23:12:00Z"
-        },
-        {
-          "id": "report-8f62eb868838",
-          "title": "Birmingham 20mph limit: a 'life saver' or 'a war on cars'?",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmVXgtR3NFR3luZHplYTMwMEVUbW0zMnNQbmFITGpCZk9ibUI3MV9ubXRSZ1lva2VOWEFCWEZpQi1GTWt2MVN3OFRBU0pydlNCVFRtWGpsQ1VGZw?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-30T06:28:31Z"
         },
         {
           "id": "report-3856ac9e73b2",
