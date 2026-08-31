@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-31T21:06:30.526Z",
+  "generatedAt": "2026-08-31T22:51:43.065Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-08-31T13:47:53.645Z",
+      "generatedAt": "2026-08-31T22:51:43.065Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -1211,15 +1211,23 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-08-31T13:47:53.645Z",
+      "generatedAt": "2026-08-31T22:51:43.065Z",
       "cadence": "every 6 hours",
       "items": [
+        {
+          "title": "War and heat: Why are wheat prices soaring?",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYk9JdmhHNnRkMTcyTXR3Y1FoZlZEUXNVQzczdWhnVHN1UGNBQ3FYQlNoZHhTYTJYdlNpUDFmNG9GSVlhSXprMUVYdXdfbHhVNTM2QlZ3cFBsZHV4ZGYxQ0JTOFpHSGIxLTFHVEdQdHp2Tmx2YTF3cll3NEdmS0RVNVk0a1lRT1hFMFHSAY8BQVVfeXFMTVpGczJtUTNrcVhYdERfRHFnaFp0andFWGNUQjVlVTAwWHgzQW5DbjZpbC1odU9vYjVaMU5UVkxsd0hWMG1MSGlJLUYydmVYOEdGSm93SndhdDhmeEg5Z0V6dFVvRzFkdjdGNTBoVGQ2UGhSY0gzdUFhX3BwS3kyYjJzTmxVT015ZmU4Q1hGSVk?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260831T144834Z",
+          "pinned": false
+        },
         {
           "title": "Somali piracy surges as the impact of the US-Iran war ripples outwards",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TbWg5ZTRyb0p0YnpmQjFUVVJzcGcyNnNJb1Y2OVQ4Wm93dk83aFE3UHBrSFJGMl9aVDZ3aWpnUnBtems3dEVUNlM3UzJSR3Ewb2NQaXZlTnY0UQ?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260829T011413Z",
+          "seen": "20260831T133409Z",
           "pinned": false
         },
         {
@@ -1228,22 +1236,6 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260830T094157Z",
-          "pinned": false
-        },
-        {
-          "title": "Regional powers seek off-ramp from Iran war, and other Middle East developments",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPblotQXR6VEctdkdvVUhZYUNsWXBPQTd2QjU4TTNZd0pFTnk2LWtXejlfMjBRRDJjamYzRWthTE96NmpCMmROV1B2eW1uLXI4aFcwQTRGczJXTS1HUm1YTUo0U0J5ZTJFQkJNUVVVcGJsc2xhZ1FYQkpIRm5Ba2N4RnV4eG44UHdQdWZIMHdWX09IMGI1RVl5YllOTkJRanlKcWFxalM0d0dsVmRl?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260828T021700Z",
-          "pinned": false
-        },
-        {
-          "title": "Iran war",
-          "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260830T193832Z",
           "pinned": false
         },
         {
@@ -1260,14 +1252,6 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260830T134348Z",
-          "pinned": false
-        },
-        {
-          "title": "After six months of war, what have US, Iran gained and lost?",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa002ZUhVM1RNSnF2dnl6N2ZQeVRSb3VvUTNpTmd6N0tqMF9oTi1GSEY2ZHB6Y2RJeU1MR0ZpYktmR0lKWDhyVFJVZUE1TmJ3cTUzU1B6SDBMbDVxZmxrUHJVR0tUMG0zdFpENEFkNm15OVNqWE1vZUV5cF9iUU94RU1LMFBicWloSXo2UzJzOXVGUU5zNGJSXzdkTEZtUVXSAaQBQVVfeXFMTnlZcTVVVE5uMUF2S19BaTZEQ3JlWGNSc1NLdERRSFpZcm9UMVpuRlM2VGhCT3FpNjViLXpVSENkQWstUVB4UzRpTS1Ba2hpQjR3QnhWZ2tUSDg2QzcwM2FGZFhVb0xQcm5PSTBaT2JYWkJlUmZRblk4NzdpVVoteVQ0WjY3dlhsVUE4NjhudUtHcS1zRDl4dFpkNkVyd0RqSVpsT1k?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260828T124458Z",
           "pinned": false
         },
         {
@@ -1303,8 +1287,24 @@
           "pinned": false
         },
         {
+          "title": "After six months of war, what have US, Iran gained and lost?",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa002ZUhVM1RNSnF2dnl6N2ZQeVRSb3VvUTNpTmd6N0tqMF9oTi1GSEY2ZHB6Y2RJeU1MR0ZpYktmR0lKWDhyVFJVZUE1TmJ3cTUzU1B6SDBMbDVxZmxrUHJVR0tUMG0zdFpENEFkNm15OVNqWE1vZUV5cF9iUU94RU1LMFBicWloSXo2UzJzOXVGUU5zNGJSXzdkTEZtUVXSAaQBQVVfeXFMTnlZcTVVVE5uMUF2S19BaTZEQ3JlWGNSc1NLdERRSFpZcm9UMVpuRlM2VGhCT3FpNjViLXpVSENkQWstUVB4UzRpTS1Ba2hpQjR3QnhWZ2tUSDg2QzcwM2FGZFhVb0xQcm5PSTBaT2JYWkJlUmZRblk4NzdpVVoteVQ0WjY3dlhsVUE4NjhudUtHcS1zRDl4dFpkNkVyd0RqSVpsT1k?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260828T124458Z",
+          "pinned": false
+        },
+        {
+          "title": "Ukraine’s Zelenskyy plans to hit Russia with ‘1,000 drones’ a day",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaXpRQi1QcVM2ay1WaFlGeHBUcENGYS1zNUJfQjR3OEZGSWVmNmlZSlJNREZCNnJna2t2VkluY2ZkT0Z2dUhpN0xHMEh1R0VSV3o5U05XY0hIZnlaTGZwSGNEcHQ0OF9qck9UblBGbW91NXlxUkYzS0cyU0F3ejAweG9SVlRrWEgzeG1QdFo4R2w0VklHdWk3VmhyNjc2UTRpZjkwVNIBqgFBVV95cUxNVDhJZkxPRkdGcjFZbFZtZHFvdmtkd01maWEtS2ZVbmtyLWJmSk5UUEFBZnRtMWhFNjlwdlJXVVloYnNzQ1VJMHUxWDZRdnFsN3hxS2V4VVEteWV2WGFZbXRUUjhVYnlUT0ZURWRWQXU0Um5vYW1QVm9FV1hRLUppeTQ3OGF5MEpya3lxalhfS0hfeFFTTlBMTVNleGFYNjBTZnpxT0FJNEJGUQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260828T200002Z",
+          "pinned": false
+        },
+        {
           "title": "UAE intercepts drone after US and Iran exchange attacks",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOXRvZHIzWEk1dVV1ZC00WEplbFlScUNqYXBrWmJKcGtFRjZMVWl0X1p0alVuZE9sc1EydFFqbDVlUEVuM3o1dUZldE84N1dfOWZLaFlmX2tqNlU0VEZnVzJ5alE3d0JSVDBFd1ZrUzgyS0JhYjZpM0hlUDU0czRYYXFxR1dyYTY4UTRJZExhaEV2THZQT0VFSV9LamQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOXRvZHIzWEk1dVV1ZC00WEplbFlScUNqYXBrWmJKcGtFRjZMVWl0X1p0alVuZE9sc1EydFFqbDVlUEVuM3o1dUZldE84N1dfOWZLaFlmX2tqNlU0VEZnVzJ5alE3d0JSVDBFd1ZrUzgyS0JhYjZpM0hlUDU0czRYYXFxR1dyYTY4UTRJZExhaEV2THZQT0VFSV9LamTSAaIBQVVfeXFMTUVtbGUwODRTQ0pzLUh6Vlc1R0Z2eHpVRGpTazBNakdKc3M2SWVhYVdpQ09ONGRNZWNQMFlwLWJZNVVzQVdQRFY2NkRiWDJtWENSMUZHSWZGN0s2c0sxdVNFUEp6cW5KRWNDckdxVV9wZkV0R2hYMTI4NHpSaHp6b0FfRTNpUGtTbjhNUE5oRUQ4UGJXYWdBQnMzTzcxQkdCUjFB?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260831T112803Z",
@@ -1319,11 +1319,27 @@
           "pinned": false
         },
         {
+          "title": "Mapping Iran war’s strikes on Gulf energy and its impact on future of oil",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOalprVVJWeE5qUlBuYWFRMzA4YUdzckllZnJYZE5WLUFDOTBGTFJzcVNDd0Q5RFJPTUs3ZG9ldF96MkhsZ05XVTR0dHV3eTV2TFlVd3ZuendWRFJLRFNvdi1SOHFXMHJGSm9BSHVlTjd5Z0NmbkdFZVFFNjhwbFhpQ3dnVXI0cEd6UXl2TmZncWMyR3Ywd3FKNXBWeTRKUFJ2WnVmd185ei15WmloLXV0Vnpmb9IBuAFBVV95cUxNaEFGcGwxNzJ3RFEyTG04T1d6ZWl3cEpZWmF0dXljcGdOUWc2dm05RDFwYURjVU5aZkFaVnlvb3did2JuYWxtVjI3MDYzRFN6MlpRTm1SenJQeDdUcnB0aU45V2VlYk5SU3E2dEpwajRWajhqT19TaFZlSW5OVFF2ME5aRml6cHVVenY1MXBqVG45YTljLUNyMXBtVVM0eGthUXhQVk9YTEc4em1ITEYxMjZ4d193MFJ2?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260830T052159Z",
+          "pinned": false
+        },
+        {
           "title": "80 years on: The day professional football resumed after World War Two",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BbVV1ZG1kVmJkYkJ0TEJQcmRpRnB6ZDIxdE92cGdnb21VS2IwLWFZOWtXLTluRVFvQ1N5U1ROY1lUcU1qRTR3OV81ZHpvZm9UNksxTVFTaElnNGExN3dQZXNrQWUzeGM?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20260831T105922Z",
+          "pinned": false
+        },
+        {
+          "title": "War on Iran: US bombs Iran",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQkp5djBJOVFTLVhnSWtBb3htUXZJZ3cycFNHVFdGcUlmV2hkeE1ObEFTRF9ITHhuWEZHTzA3YW5MbHVyNzlmLU5rdTcxNE42aUlpQngxcmhUNXloX0YtQTZNOUR4UjZwbEVRUGpzWEd4eF9UamNzdzdmWEw3NDBHUXRn0gGHAUFVX3lxTE1Qd0NwTFlhMGhsWUFBeHI3YmhfaElucUhhbXhrWXR2VnNKU1c0SUc1djl4bnRxamIwU2h1V0pMeTlkVDlndS1rSkVQb2RQZTBEUjNMUmxrdGV1NHk4WG5GUXVIWkxlb0dnUjJhTUZ5V1ZHQVRlbVZPNmQzczZDY19vQTlwR3pSNA?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260831T174052Z",
           "pinned": false
         },
         {
@@ -1335,11 +1351,11 @@
           "pinned": false
         },
         {
-          "title": "Mapping Iran war’s strikes on Gulf energy and its impact on future of oil",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOalprVVJWeE5qUlBuYWFRMzA4YUdzckllZnJYZE5WLUFDOTBGTFJzcVNDd0Q5RFJPTUs3ZG9ldF96MkhsZ05XVTR0dHV3eTV2TFlVd3ZuendWRFJLRFNvdi1SOHFXMHJGSm9BSHVlTjd5Z0NmbkdFZVFFNjhwbFhpQ3dnVXI0cEd6UXl2TmZncWMyR3Ywd3FKNXBWeTRKUFJ2WnVmd185ei15WmloLXV0Vnpmb9IBuAFBVV95cUxNaEFGcGwxNzJ3RFEyTG04T1d6ZWl3cEpZWmF0dXljcGdOUWc2dm05RDFwYURjVU5aZkFaVnlvb3did2JuYWxtVjI3MDYzRFN6MlpRTm1SenJQeDdUcnB0aU45V2VlYk5SU3E2dEpwajRWajhqT19TaFZlSW5OVFF2ME5aRml6cHVVenY1MXBqVG45YTljLUNyMXBtVVM0eGthUXhQVk9YTEc4em1ITEYxMjZ4d193MFJ2?oc=5",
-          "domain": "aljazeera.com",
+          "title": "Investors prosper and consumers pay as the Iran war exacts an uneven economic toll 6 months in",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVGdBSGZSbmpzWjd2SVptS1diUkZ5MXhOUXVJZ3hHY0V4YUpfVzFSak1yZVNTR2ZOSExuczc5RzlGdWJKWVFnS2JCRzJPMmsyMG9Ra0l1ZTBOZ1FEMC03Qld3eUlRX3RkREo4eFZBdlVzUjVPZTVwdjlKN1lSd09hNTJxR0U2aG9EMi1tZ0JzeVE5ell1bzVzNTlUZFJ6TktldmZMRGtOUlk?oc=5",
+          "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260830T052159Z",
+          "seen": "20260830T070500Z",
           "pinned": false
         },
         {
@@ -1347,15 +1363,7 @@
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wR1VYOXlxY0JNeElMalZOaEw0VDcycU9GeDBFLUdEQ2x4NjRuSjQzd0drUUtfVDRIR2hzenZjY2lRU2ZvbzVUeWVzYUQxc2QwcS1pWW5HX2EzUQ?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260831T083425Z",
-          "pinned": false
-        },
-        {
-          "title": "Gianni Infantino: Uefa's attack on Fifa president escalates football's civil war",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZVFRkallwY1ZIYzZLZk5VSDlfUHRYTmdmb1pjeTZFOE5ZN192S2k0dEN2UWxxNVdMbHZlaTZnaEFCLWNUVmMyM1NNTFlpd2lhVXJlZ29qYmM5YUFoU2NDM2trQUFFYlE?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260828T150020Z",
+          "seen": "20260831T134730Z",
           "pinned": false
         },
         {
@@ -1367,19 +1375,19 @@
           "pinned": false
         },
         {
-          "title": "Russia ramps up rhetoric but wants to avoid war with Nato, Western officials say",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hb3JyUHlBdkoxdXVXcFJpeXN6YS1PNmNHNk1RSkpzblBmU0hDNFFiWS1mbEZyNnFQMjIwZ1pZTzA2SDlMbEIybWxacDJzNzRNdFRIRWpRR2FqUQ?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260828T190523Z",
-          "pinned": false
-        },
-        {
           "title": "Toxic waste of war on Gaza reached Israel",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcWozMk1uWGNLZnYzTTZDSEdublNnazA2N2xNRGwzNS16VDVmeU8zeFgxeURVRTB0ai1FbHI3OGljQ0UtTnUxczhzY19RcWJIci1BNnBOSEd4M0RCWml2SVpGMC1YNkJKbGJ4azd5NGRodVgzbmM2bEpFUlhYUWtmWG14STNsNXBtVWRLTWhwX2ZvdGVoU0steVJaY9IBoAFBVV95cUxQSVlNTFNIdDJQSWJHR0dmYVNRMU92YkZVeFl0S3lDRTdxOUdsZGlqY0RLOHlYMHVfQS15VjJpT1FiTmt0TS11R3pTZXFBX1R2SGFKWkxnTWVFcmJicGgwWGxGNkdhTi1tR0NBMkh4eFBXN1paVHJpYlEwVHpiTWhPcm84cnRkQkNGUFlIdzdubWx0WXlHbndnTWtac0NsSXpl?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260830T074402Z",
+          "pinned": false
+        },
+        {
+          "title": "Russia ramps up rhetoric but wants to avoid war with Nato, Western officials say",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hb3JyUHlBdkoxdXVXcFJpeXN6YS1PNmNHNk1RSkpzblBmU0hDNFFiWS1mbEZyNnFQMjIwZ1pZTzA2SDlMbEIybWxacDJzNzRNdFRIRWpRR2FqUQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260828T190523Z",
           "pinned": false
         },
         {
@@ -1395,19 +1403,20 @@
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdDVOa2ZMcEk0OXdwSDB2eDdPZXdfREF4YmRtMGJ2N3RaRlRaSVZFRTR4R1JPbWRTUldoVnRFSTB0M2xlNXVaeTdRQ0tDYzZOTTRVa2MwNUNnOXdMeG8yVldGMnNnZTM3VkVvLXdJenlBYWdCYVFkVjYzTkI1bWtuYWMtalZmWHdHcVMwVS0yaVpxUmppY0JGX3NpSkNQRnhuODJyTUhoSE9fUE3SAbABQVVfeXFMTmd0UTdVMXN2QUxMOGxZT0w4N1BGbkc3aWNjdjN2aS1zc2RQMTZ3UDVNVG9EV3NzSUZiTmhud1FZOXpIbk9ET3R6MnQ1dmhuYWZBTDh2cjBxU0VYVXN4WFRxa2dPNHZlbmtPbXo1WWRSaUNmdmJYRTZ4alRBWjZnbXRCSTNtSE11Zkw4azNmQldxMjR2Z0lGcUdLSnhzZVpIOTJpbHZjTFVqczUya01zX0E?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260830T204434Z",
-          "pinned": false
-        },
-        {
-          "title": "Kyiv launches criminal probe into arms depot attack that killed dozens",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUjZnVVdUN25hMVhMbWNJWlV0R2FUeFhoZjFNcmlZMU55Z2lvZ1pKaXcwOVA3UHlZX2RRdmlkMVVCZXNmSUJfdmQ0Wko2V01rOHhTNURqRGJtSGhEVFBoVDhYT080eVZmTTNpanhUVTlVZEpudTRyREhkclVkQXI4ZmtkaGpJNzNhQlNMOTNrUnVlX0FYTE1temtwZXVSVk5LcWVXYXU5dlrSAa4BQVVfeXFMUEYxRjZyX0Y4VGlITmJvTzREVzROSTBIa2RzUGdwdG5lclprNFR0MUNaelMzSkJfOTJvLUdDbGJuRnBkbjBsOXpjRWt0ZkMyM0hJbTk4SXdOTUZRZWJZVVhOZjhhejRzenRRU1pTbXVaMk1WQXFEcGZ2MENrd3B2UFNTY2RkdVV4RGpNR1h2TDZJT283S1hmWE01NjgydDFIZlJPUWIwSVNiRU51clR3?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260830T014535Z",
+          "seen": "20260829T070000Z",
           "pinned": false
         }
       ],
       "reports": [
+        {
+          "id": "report-6e92e647afb1",
+          "title": "War and heat: Why are wheat prices soaring?",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYk9JdmhHNnRkMTcyTXR3Y1FoZlZEUXNVQzczdWhnVHN1UGNBQ3FYQlNoZHhTYTJYdlNpUDFmNG9GSVlhSXprMUVYdXdfbHhVNTM2QlZ3cFBsZHV4ZGYxQ0JTOFpHSGIxLTFHVEdQdHp2Tmx2YTF3cll3NEdmS0RVNVk0a1lRT1hFMFHSAY8BQVVfeXFMTVpGczJtUTNrcVhYdERfRHFnaFp0andFWGNUQjVlVTAwWHgzQW5DbjZpbC1odU9vYjVaMU5UVkxsd0hWMG1MSGlJLUYydmVYOEdGSm93SndhdDhmeEg5Z0V6dFVvRzFkdjdGNTBoVGQ2UGhSY0gzdUFhX3BwS3kyYjJzTmxVT015ZmU4Q1hGSVk?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-31T14:48:34Z"
+        },
         {
           "id": "report-d41ef50ab183",
           "title": "Somali piracy surges as the impact of the US-Iran war ripples outwards",
@@ -1415,7 +1424,7 @@
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-29T01:14:13Z"
+          "reportedAt": "2026-08-31T13:34:09Z"
         },
         {
           "id": "report-61e56dced672",
@@ -1425,24 +1434,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-30T09:41:57Z"
-        },
-        {
-          "id": "report-8286f6643a65",
-          "title": "Regional powers seek off-ramp from Iran war, and other Middle East developments",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPblotQXR6VEctdkdvVUhZYUNsWXBPQTd2QjU4TTNZd0pFTnk2LWtXejlfMjBRRDJjamYzRWthTE96NmpCMmROV1B2eW1uLXI4aFcwQTRGczJXTS1HUm1YTUo0U0J5ZTJFQkJNUVVVcGJsc2xhZ1FYQkpIRm5Ba2N4RnV4eG44UHdQdWZIMHdWX09IMGI1RVl5YllOTkJRanlKcWFxalM0d0dsVmRl?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-28T02:17:00Z"
-        },
-        {
-          "id": "report-a755c78656d2",
-          "title": "Iran war",
-          "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-30T19:38:32Z"
         },
         {
           "id": "report-e638287d1f0e",
@@ -1461,15 +1452,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-30T13:43:48Z"
-        },
-        {
-          "id": "report-9b3bb23f06fe",
-          "title": "After six months of war, what have US, Iran gained and lost?",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa002ZUhVM1RNSnF2dnl6N2ZQeVRSb3VvUTNpTmd6N0tqMF9oTi1GSEY2ZHB6Y2RJeU1MR0ZpYktmR0lKWDhyVFJVZUE1TmJ3cTUzU1B6SDBMbDVxZmxrUHJVR0tUMG0zdFpENEFkNm15OVNqWE1vZUV5cF9iUU94RU1LMFBicWloSXo2UzJzOXVGUU5zNGJSXzdkTEZtUVXSAaQBQVVfeXFMTnlZcTVVVE5uMUF2S19BaTZEQ3JlWGNSc1NLdERRSFpZcm9UMVpuRlM2VGhCT3FpNjViLXpVSENkQWstUVB4UzRpTS1Ba2hpQjR3QnhWZ2tUSDg2QzcwM2FGZFhVb0xQcm5PSTBaT2JYWkJlUmZRblk4NzdpVVoteVQ0WjY3dlhsVUE4NjhudUtHcS1zRDl4dFpkNkVyd0RqSVpsT1k?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-28T12:44:58Z"
         },
         {
           "id": "report-f6381444d2f8",
@@ -1508,9 +1490,27 @@
           "reportedAt": "2026-08-28T06:34:48Z"
         },
         {
-          "id": "report-a3929f4b4795",
+          "id": "report-9b3bb23f06fe",
+          "title": "After six months of war, what have US, Iran gained and lost?",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa002ZUhVM1RNSnF2dnl6N2ZQeVRSb3VvUTNpTmd6N0tqMF9oTi1GSEY2ZHB6Y2RJeU1MR0ZpYktmR0lKWDhyVFJVZUE1TmJ3cTUzU1B6SDBMbDVxZmxrUHJVR0tUMG0zdFpENEFkNm15OVNqWE1vZUV5cF9iUU94RU1LMFBicWloSXo2UzJzOXVGUU5zNGJSXzdkTEZtUVXSAaQBQVVfeXFMTnlZcTVVVE5uMUF2S19BaTZEQ3JlWGNSc1NLdERRSFpZcm9UMVpuRlM2VGhCT3FpNjViLXpVSENkQWstUVB4UzRpTS1Ba2hpQjR3QnhWZ2tUSDg2QzcwM2FGZFhVb0xQcm5PSTBaT2JYWkJlUmZRblk4NzdpVVoteVQ0WjY3dlhsVUE4NjhudUtHcS1zRDl4dFpkNkVyd0RqSVpsT1k?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-28T12:44:58Z"
+        },
+        {
+          "id": "report-90be64d4f80b",
+          "title": "Ukraine’s Zelenskyy plans to hit Russia with ‘1,000 drones’ a day",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaXpRQi1QcVM2ay1WaFlGeHBUcENGYS1zNUJfQjR3OEZGSWVmNmlZSlJNREZCNnJna2t2VkluY2ZkT0Z2dUhpN0xHMEh1R0VSV3o5U05XY0hIZnlaTGZwSGNEcHQ0OF9qck9UblBGbW91NXlxUkYzS0cyU0F3ejAweG9SVlRrWEgzeG1QdFo4R2w0VklHdWk3VmhyNjc2UTRpZjkwVNIBqgFBVV95cUxNVDhJZkxPRkdGcjFZbFZtZHFvdmtkd01maWEtS2ZVbmtyLWJmSk5UUEFBZnRtMWhFNjlwdlJXVVloYnNzQ1VJMHUxWDZRdnFsN3hxS2V4VVEteWV2WGFZbXRUUjhVYnlUT0ZURWRWQXU0Um5vYW1QVm9FV1hRLUppeTQ3OGF5MEpya3lxalhfS0hfeFFTTlBMTVNleGFYNjBTZnpxT0FJNEJGUQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-28T20:00:02Z"
+        },
+        {
+          "id": "report-538fd6bcfd43",
           "title": "UAE intercepts drone after US and Iran exchange attacks",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOXRvZHIzWEk1dVV1ZC00WEplbFlScUNqYXBrWmJKcGtFRjZMVWl0X1p0alVuZE9sc1EydFFqbDVlUEVuM3o1dUZldE84N1dfOWZLaFlmX2tqNlU0VEZnVzJ5alE3d0JSVDBFd1ZrUzgyS0JhYjZpM0hlUDU0czRYYXFxR1dyYTY4UTRJZExhaEV2THZQT0VFSV9LamQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOXRvZHIzWEk1dVV1ZC00WEplbFlScUNqYXBrWmJKcGtFRjZMVWl0X1p0alVuZE9sc1EydFFqbDVlUEVuM3o1dUZldE84N1dfOWZLaFlmX2tqNlU0VEZnVzJ5alE3d0JSVDBFd1ZrUzgyS0JhYjZpM0hlUDU0czRYYXFxR1dyYTY4UTRJZExhaEV2THZQT0VFSV9LamTSAaIBQVVfeXFMTUVtbGUwODRTQ0pzLUh6Vlc1R0Z2eHpVRGpTazBNakdKc3M2SWVhYVdpQ09ONGRNZWNQMFlwLWJZNVVzQVdQRFY2NkRiWDJtWENSMUZHSWZGN0s2c0sxdVNFUEp6cW5KRWNDckdxVV9wZkV0R2hYMTI4NHpSaHp6b0FfRTNpUGtTbjhNUE5oRUQ4UGJXYWdBQnMzTzcxQkdCUjFB?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
@@ -1526,6 +1526,15 @@
           "reportedAt": "2026-08-29T06:14:07Z"
         },
         {
+          "id": "report-c61ffb380527",
+          "title": "Mapping Iran war’s strikes on Gulf energy and its impact on future of oil",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOalprVVJWeE5qUlBuYWFRMzA4YUdzckllZnJYZE5WLUFDOTBGTFJzcVNDd0Q5RFJPTUs3ZG9ldF96MkhsZ05XVTR0dHV3eTV2TFlVd3ZuendWRFJLRFNvdi1SOHFXMHJGSm9BSHVlTjd5Z0NmbkdFZVFFNjhwbFhpQ3dnVXI0cEd6UXl2TmZncWMyR3Ywd3FKNXBWeTRKUFJ2WnVmd185ei15WmloLXV0Vnpmb9IBuAFBVV95cUxNaEFGcGwxNzJ3RFEyTG04T1d6ZWl3cEpZWmF0dXljcGdOUWc2dm05RDFwYURjVU5aZkFaVnlvb3did2JuYWxtVjI3MDYzRFN6MlpRTm1SenJQeDdUcnB0aU45V2VlYk5SU3E2dEpwajRWajhqT19TaFZlSW5OVFF2ME5aRml6cHVVenY1MXBqVG45YTljLUNyMXBtVVM0eGthUXhQVk9YTEc4em1ITEYxMjZ4d193MFJ2?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-30T05:21:59Z"
+        },
+        {
           "id": "report-3cbd8701015d",
           "title": "80 years on: The day professional football resumed after World War Two",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BbVV1ZG1kVmJkYkJ0TEJQcmRpRnB6ZDIxdE92cGdnb21VS2IwLWFZOWtXLTluRVFvQ1N5U1ROY1lUcU1qRTR3OV81ZHpvZm9UNksxTVFTaElnNGExN3dQZXNrQWUzeGM?oc=5",
@@ -1533,6 +1542,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-31T10:59:22Z"
+        },
+        {
+          "id": "report-224877c8c403",
+          "title": "War on Iran: US bombs Iran",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQkp5djBJOVFTLVhnSWtBb3htUXZJZ3cycFNHVFdGcUlmV2hkeE1ObEFTRF9ITHhuWEZHTzA3YW5MbHVyNzlmLU5rdTcxNE42aUlpQngxcmhUNXloX0YtQTZNOUR4UjZwbEVRUGpzWEd4eF9UamNzdzdmWEw3NDBHUXRn0gGHAUFVX3lxTE1Qd0NwTFlhMGhsWUFBeHI3YmhfaElucUhhbXhrWXR2VnNKU1c0SUc1djl4bnRxamIwU2h1V0pMeTlkVDlndS1rSkVQb2RQZTBEUjNMUmxrdGV1NHk4WG5GUXVIWkxlb0dnUjJhTUZ5V1ZHQVRlbVZPNmQzczZDY19vQTlwR3pSNA?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-31T17:40:52Z"
         },
         {
           "id": "report-dd902aca0f8b",
@@ -1544,13 +1562,13 @@
           "reportedAt": "2026-08-29T10:14:42Z"
         },
         {
-          "id": "report-c61ffb380527",
-          "title": "Mapping Iran war’s strikes on Gulf energy and its impact on future of oil",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOalprVVJWeE5qUlBuYWFRMzA4YUdzckllZnJYZE5WLUFDOTBGTFJzcVNDd0Q5RFJPTUs3ZG9ldF96MkhsZ05XVTR0dHV3eTV2TFlVd3ZuendWRFJLRFNvdi1SOHFXMHJGSm9BSHVlTjd5Z0NmbkdFZVFFNjhwbFhpQ3dnVXI0cEd6UXl2TmZncWMyR3Ywd3FKNXBWeTRKUFJ2WnVmd185ei15WmloLXV0Vnpmb9IBuAFBVV95cUxNaEFGcGwxNzJ3RFEyTG04T1d6ZWl3cEpZWmF0dXljcGdOUWc2dm05RDFwYURjVU5aZkFaVnlvb3did2JuYWxtVjI3MDYzRFN6MlpRTm1SenJQeDdUcnB0aU45V2VlYk5SU3E2dEpwajRWajhqT19TaFZlSW5OVFF2ME5aRml6cHVVenY1MXBqVG45YTljLUNyMXBtVVM0eGthUXhQVk9YTEc4em1ITEYxMjZ4d193MFJ2?oc=5",
-          "domain": "aljazeera.com",
+          "id": "report-daad3a829b98",
+          "title": "Investors prosper and consumers pay as the Iran war exacts an uneven economic toll 6 months in",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVGdBSGZSbmpzWjd2SVptS1diUkZ5MXhOUXVJZ3hHY0V4YUpfVzFSak1yZVNTR2ZOSExuczc5RzlGdWJKWVFnS2JCRzJPMmsyMG9Ra0l1ZTBOZ1FEMC03Qld3eUlRX3RkREo4eFZBdlVzUjVPZTVwdjlKN1lSd09hNTJxR0U2aG9EMi1tZ0JzeVE5ell1bzVzNTlUZFJ6TktldmZMRGtOUlk?oc=5",
+          "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-30T05:21:59Z"
+          "reportedAt": "2026-08-30T07:05:00Z"
         },
         {
           "id": "report-574d3c59c219",
@@ -1559,16 +1577,7 @@
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-31T08:34:25Z"
-        },
-        {
-          "id": "report-ea8baf0c5ead",
-          "title": "Gianni Infantino: Uefa's attack on Fifa president escalates football's civil war",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZVFRkallwY1ZIYzZLZk5VSDlfUHRYTmdmb1pjeTZFOE5ZN192S2k0dEN2UWxxNVdMbHZlaTZnaEFCLWNUVmMyM1NNTFlpd2lhVXJlZ29qYmM5YUFoU2NDM2trQUFFYlE?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-28T15:00:20Z"
+          "reportedAt": "2026-08-31T13:47:30Z"
         },
         {
           "id": "report-d002da51e62d",
@@ -1580,15 +1589,6 @@
           "reportedAt": "2026-08-28T16:48:33Z"
         },
         {
-          "id": "report-79dcc3f1037d",
-          "title": "Russia ramps up rhetoric but wants to avoid war with Nato, Western officials say",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hb3JyUHlBdkoxdXVXcFJpeXN6YS1PNmNHNk1RSkpzblBmU0hDNFFiWS1mbEZyNnFQMjIwZ1pZTzA2SDlMbEIybWxacDJzNzRNdFRIRWpRR2FqUQ?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-28T19:05:23Z"
-        },
-        {
           "id": "report-0271f660b9b9",
           "title": "Toxic waste of war on Gaza reached Israel",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcWozMk1uWGNLZnYzTTZDSEdublNnazA2N2xNRGwzNS16VDVmeU8zeFgxeURVRTB0ai1FbHI3OGljQ0UtTnUxczhzY19RcWJIci1BNnBOSEd4M0RCWml2SVpGMC1YNkJKbGJ4azd5NGRodVgzbmM2bEpFUlhYUWtmWG14STNsNXBtVWRLTWhwX2ZvdGVoU0steVJaY9IBoAFBVV95cUxQSVlNTFNIdDJQSWJHR0dmYVNRMU92YkZVeFl0S3lDRTdxOUdsZGlqY0RLOHlYMHVfQS15VjJpT1FiTmt0TS11R3pTZXFBX1R2SGFKWkxnTWVFcmJicGgwWGxGNkdhTi1tR0NBMkh4eFBXN1paVHJpYlEwVHpiTWhPcm84cnRkQkNGUFlIdzdubWx0WXlHbndnTWtac0NsSXpl?oc=5",
@@ -1596,6 +1596,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-30T07:44:02Z"
+        },
+        {
+          "id": "report-79dcc3f1037d",
+          "title": "Russia ramps up rhetoric but wants to avoid war with Nato, Western officials say",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hb3JyUHlBdkoxdXVXcFJpeXN6YS1PNmNHNk1RSkpzblBmU0hDNFFiWS1mbEZyNnFQMjIwZ1pZTzA2SDlMbEIybWxacDJzNzRNdFRIRWpRR2FqUQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-28T19:05:23Z"
         },
         {
           "id": "report-2fac760553ee",
@@ -1613,16 +1622,7 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-30T20:44:34Z"
-        },
-        {
-          "id": "report-918d13540188",
-          "title": "Kyiv launches criminal probe into arms depot attack that killed dozens",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUjZnVVdUN25hMVhMbWNJWlV0R2FUeFhoZjFNcmlZMU55Z2lvZ1pKaXcwOVA3UHlZX2RRdmlkMVVCZXNmSUJfdmQ0Wko2V01rOHhTNURqRGJtSGhEVFBoVDhYT080eVZmTTNpanhUVTlVZEpudTRyREhkclVkQXI4ZmtkaGpJNzNhQlNMOTNrUnVlX0FYTE1temtwZXVSVk5LcWVXYXU5dlrSAa4BQVVfeXFMUEYxRjZyX0Y4VGlITmJvTzREVzROSTBIa2RzUGdwdG5lclprNFR0MUNaelMzSkJfOTJvLUdDbGJuRnBkbjBsOXpjRWt0ZkMyM0hJbTk4SXdOTUZRZWJZVVhOZjhhejRzenRRU1pTbXVaMk1WQXFEcGZ2MENrd3B2UFNTY2RkdVV4RGpNR1h2TDZJT283S1hmWE01NjgydDFIZlJPUWIwSVNiRU51clR3?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-30T01:45:35Z"
+          "reportedAt": "2026-08-29T07:00:00Z"
         },
         {
           "id": "report-3856ac9e73b2",
