@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-01T16:40:02.047Z",
+  "generatedAt": "2026-09-01T18:51:27.970Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -9,7 +9,7 @@
       "items": []
     },
     "safety": {
-      "generatedAt": "2026-08-31T21:06:30.526Z",
+      "generatedAt": "2026-09-01T18:51:27.970Z",
       "cadence": "daily",
       "items": [
         {
@@ -21,11 +21,11 @@
           "pinned": true
         },
         {
-          "title": "Hungarian air force Gripen jet crashes, pilot ejects safely, prime minister says",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUDllbUZsT3lnVmRfVU96WkJqV1V6TDRya1d4U2g1TGxTWjcwTjZvMjdGbVA3MHo2S3NmZEdzc08wLUJvZHhHV091d2pQUmVlb0Uwdi03cGZtX3haQXRBcHNnUlNvemluMV85MmNkQW1PejNhYWp1NDR5a2VDa1ZtNWxSUEVyZktsN2t3NXUzRllrNXhFQ2t4T0Nyd08?oc=5",
-          "domain": "apnews.com",
+          "title": "US soldier dies in fiery crash on German highway",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ0QtVDN6TDYxa1VodE14UzJlUXl5WWRhNmc4T2NaZ3loSXBTdVRqNFJHNVNlYmlDenota243ZjJqaDl5MjBuMm10R0VILVFBWVhla085SWtHcGd6V2RidnJBdkxWMlB2QmZ3dzMxMHA0MVNyd3BGaEtfcU5CaWxDRzdwTTZjV0xfMXkzalllRXcxU0ZXOVk4aQ?oc=5",
+          "domain": "stripes.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260824T095500Z",
+          "seen": "20260828T185303Z",
           "pinned": false
         },
         {
@@ -37,19 +37,19 @@
           "pinned": false
         },
         {
+          "title": "Air Force officer killed in remote Alaska crash was a ‘positive leader’",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yMTM3UTdNeXVhbVFBc2JTWDN4QzVJTG5sSk43aGh3a0FtRXI5dHgycy04dEhFUnBkSFd4NDUxNFkzQmZ0eXRRR29KTDNKV1FValItZzBoa25MNGI0WmhIOVVwZVhkZkk?oc=5",
+          "domain": "taskandpurpose.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260825T184439Z",
+          "pinned": false
+        },
+        {
           "title": "Army identifies soldiers killed in Texas Apache helicopter crash",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZTU84TkwxQ3Vad0x3TlFfMFlxa1dnQUdEcHRRZ1A5ZGhXV1VoeUdBTk1lS1RmdmVTLS11RUNNcmdaNXdSZ0FFcEdzS3ZLc3d6Q1IzeEZXR2lYN21yQmpZeFN5NjRBT1JnZGJtVVY1T2M3THE5c2cw?oc=5",
           "domain": "taskandpurpose.com",
           "sourceTier": "Independent reporting",
           "seen": "20260814T070000Z",
-          "pinned": false
-        },
-        {
-          "title": "US soldier dies in fiery crash on German highway",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ0QtVDN6TDYxa1VodE14UzJlUXl5WWRhNmc4T2NaZ3loSXBTdVRqNFJHNVNlYmlDenota243ZjJqaDl5MjBuMm10R0VILVFBWVhla085SWtHcGd6V2RidnJBdkxWMlB2QmZ3dzMxMHA0MVNyd3BGaEtfcU5CaWxDRzdwTTZjV0xfMXkzalllRXcxU0ZXOVk4aQ?oc=5",
-          "domain": "stripes.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260828T185303Z",
           "pinned": false
         },
         {
@@ -66,46 +66,6 @@
           "domain": "stripes.com",
           "sourceTier": "Independent reporting",
           "seen": "20260825T130243Z",
-          "pinned": false
-        },
-        {
-          "title": "Air Force officer killed in remote Alaska crash was a ‘positive leader’",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yMTM3UTdNeXVhbVFBc2JTWDN4QzVJTG5sSk43aGh3a0FtRXI5dHgycy04dEhFUnBkSFd4NDUxNFkzQmZ0eXRRR29KTDNKV1FValItZzBoa25MNGI0WmhIOVVwZVhkZkk?oc=5",
-          "domain": "taskandpurpose.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260825T184439Z",
-          "pinned": false
-        },
-        {
-          "title": "Mishap Investigation Advice",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc19FY29CaU9ZS05HZ010VnR3R2FGa1JBMFZTb2tZdEJLZkpfRTRLdm9VdGEwallmUi14dGlYNC12dmhYU3ZxaXJrQWJBM25LdmxadFFOanlYUWhkZFhmVTF2NG5iTUtfNHVJaWpiRVZ6UmdoVkxxUlU4OFFVVG13UA?oc=5",
-          "domain": "safety.army.mil",
-          "sourceTier": "Official military source",
-          "seen": "20260823T070000Z",
-          "pinned": false
-        },
-        {
-          "title": "Coast Guard Conducting Investigation to Fatal Incident near Liberty Island",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPR1BTQU9ETXY3djdvaDJZNTdhWkk0TFhiUUdQc1BBQ2R2bEtaRHFpTnF0RGJWSVhnZlBXUkFsQ0hKSDJLRE45emtlUEpjRlRBUHhYaHpLOEZZYUk3WWMxdHBMelFHRm1PMzhJeWVFUDd6UU5VN1k4cGphRkhiclZrUjZwMUVOdHJrM0lXTkpVQkdTTHBablBlWlhiVEpYRk5WLVhWcnBaQTdtUlljRkhxdXA0NmFtSk5fVG5jWF9IU3Y3OVB6cmdZblZ3RGo?oc=5",
-          "domain": "news.uscg.mil",
-          "sourceTier": "Official military source",
-          "seen": "20260809T070000Z",
-          "pinned": false
-        },
-        {
-          "title": "Coast Guard suspends search for missing male at Gun Beach, Guam",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObGtBUGhrZ2JIT1RId3RsV2xrV0FZcy11RnNlQzkxeTdFZnJZaWJsWVVWN0ZhRWxQTDFwVk9IQUh5dXhkSkg5cm9Sc3lIYXRuR2RzcVlDVkRnc2hDXzVxam8ycERuUzZZTHRsN1JVZUVLZzJXcUpkYU5NMmZqVmtnV1N6dS1DeFBOVFdQZE5wU2xCU0tNd3BNU1NOTTh3QzR1clJSc1FFdXpodEJwY0RFektqeHU5SU5rRnF3QQ?oc=5",
-          "domain": "news.uscg.mil",
-          "sourceTier": "Official military source",
-          "seen": "20260814T234727Z",
-          "pinned": false
-        },
-        {
-          "title": "Update: Coast Guard suspends search for missing man in Lake Erie",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeEhCZEd6eGRpc1RvV0lkYWlmczdfQkF2SjV4LUtIbVpHR1E0TjB0cm9qWVo0SThxa2N3RVdmRjctNENoZm9lU3NTNmhPUWVtdWRjV0M1SERDWXgzdGNORWdUM1BrM1hzcXpYd3g4dF85cVFrWUFPQjBUTXdtLWRJemIzN0c0RXZORnVPS21OQUVzTy1UX3NhMkhpNkRJNTNiVU9yTHY3ZFFLMmNRSkJQTGdfal9neEV6VE01REh3?oc=5",
-          "domain": "news.uscg.mil",
-          "sourceTier": "Official military source",
-          "seen": "20260813T070000Z",
           "pinned": false
         }
       ],
@@ -147,24 +107,6 @@
           "sourceLabel": "apnews.com"
         },
         {
-          "id": "auto-7427334c6413",
-          "reportDate": "2026-08-25",
-          "dateBasis": "report discovery date",
-          "branch": "Air Force",
-          "department": "Department of the Air Force",
-          "type": "Aviation",
-          "event": "Air Force officer, 2 Army Corps of Engineers civilians among Alaska plane crash dead",
-          "location": "See official source",
-          "fatalities": null,
-          "injuries": null,
-          "status": "REPORTED / UNVALIDATED",
-          "signalClass": "REPORTED MISHAP",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
-          "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYWN2ZkJSSU15Ukg1b21aVmlMSmVyT0FFYnJLVjJJOW5BRnBzdzFadnBUUEprSDNEbzEzYVBOakRsYVRmdUN0YzZXc1llV0xVMklfRllWYVVJLVpnaVU3cU90aUlQY0RmQUtwYkFPdGpZMGNFd3FtN2pfdmpDclo4WGUyamVXN0phc1VWUU9JdzRDZHhUMVlnRE5FREt0U2JXVFhjSVplbWluZHB4T3RRbw?oc=5",
-          "sourceLabel": "stripes.com"
-        },
-        {
           "id": "auto-bab30a20e514",
           "reportDate": "2026-08-25",
           "dateBasis": "report discovery date",
@@ -181,6 +123,24 @@
           "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
           "source": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yMTM3UTdNeXVhbVFBc2JTWDN4QzVJTG5sSk43aGh3a0FtRXI5dHgycy04dEhFUnBkSFd4NDUxNFkzQmZ0eXRRR29KTDNKV1FValItZzBoa25MNGI0WmhIOVVwZVhkZkk?oc=5",
           "sourceLabel": "taskandpurpose.com"
+        },
+        {
+          "id": "auto-7427334c6413",
+          "reportDate": "2026-08-25",
+          "dateBasis": "report discovery date",
+          "branch": "Air Force",
+          "department": "Department of the Air Force",
+          "type": "Aviation",
+          "event": "Air Force officer, 2 Army Corps of Engineers civilians among Alaska plane crash dead",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYWN2ZkJSSU15Ukg1b21aVmlMSmVyT0FFYnJLVjJJOW5BRnBzdzFadnBUUEprSDNEbzEzYVBOakRsYVRmdUN0YzZXc1llV0xVMklfRllWYVVJLVpnaVU3cU90aUlQY0RmQUtwYkFPdGpZMGNFd3FtN2pfdmpDclo4WGUyamVXN0phc1VWUU9JdzRDZHhUMVlnRE5FREt0U2JXVFhjSVplbWluZHB4T3RRbw?oc=5",
+          "sourceLabel": "stripes.com"
         },
         {
           "id": "auto-f451a5233abb",
