@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-01T05:07:23.508Z",
+  "generatedAt": "2026-09-01T11:39:24.870Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-09-01T05:07:23.508Z",
+      "generatedAt": "2026-09-01T11:39:24.870Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -1211,7 +1211,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-09-01T05:07:23.508Z",
+      "generatedAt": "2026-09-01T11:39:24.870Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -1247,6 +1247,14 @@
           "pinned": false
         },
         {
+          "title": "Iran war",
+          "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260901T070045Z",
+          "pinned": false
+        },
+        {
           "title": "The US-Canada trade war in 5 charts",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zRFEyWXpnOFFZcXI0NUNoa0E3VWhuZHpHMlpEYlFVX2ZzcjExd3F6QmJsSnpadm1POHliXzh5d3ZaS1hYODVKZjYxUTlRa1gtWXN5dFdUZDZqQQ?oc=5",
           "domain": "bbc.com",
@@ -1263,19 +1271,19 @@
           "pinned": false
         },
         {
-          "title": "Six months into the Iran war, a new Gulf security architecture is emerging",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaFFwOWNjUV90cFBVN1RGcGdDcVJ0UGw2U1FmcEpwRGFITnRJcHVZUENydWY1RXAxWUt1VFNyRXlIVWl5VWxoYzR3anpZNlpqemVubUZtNDNaV25oSWFwNktXZlAzSlAyWE5meU9EX3pLcFNQcGFtVlpkcTBIeGIyWTkxY185bDdxYUhtQ19qc1RnOTB0YkFUdFdPdzc3UkFQM1VlWUxVZFM3cnpaLXNMTndEdWNscnQzN1HSAb8BQVVfeXFMTVlwRmFBVl81STk3UzlxSGFkSVZsdnU4eFBJSHZfemdUUmoxMkNKYnFkelFuZno1czdiWUJJZUNZY3B1emgtZkcxSkpETnhsa2FCdWVjOXExa3h3aTl0TGc3X1NJdE1BUEdTNU9mV0FnRG1jczBTcnhhOE1WM25XOFNYclZDdVM4VUxZQndwSnNVT1djbWwyYnJMa0VnNXlKclV2TGdHaDUxUWw1WGZWRHlURHgzV1dPUlZiWm1qTzQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260829T061407Z",
-          "pinned": false
-        },
-        {
           "title": "Mapping Iran war’s strikes on Gulf energy and its impact on future of oil",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOalprVVJWeE5qUlBuYWFRMzA4YUdzckllZnJYZE5WLUFDOTBGTFJzcVNDd0Q5RFJPTUs3ZG9ldF96MkhsZ05XVTR0dHV3eTV2TFlVd3ZuendWRFJLRFNvdi1SOHFXMHJGSm9BSHVlTjd5Z0NmbkdFZVFFNjhwbFhpQ3dnVXI0cEd6UXl2TmZncWMyR3Ywd3FKNXBWeTRKUFJ2WnVmd185ei15WmloLXV0Vnpmb9IBuAFBVV95cUxNaEFGcGwxNzJ3RFEyTG04T1d6ZWl3cEpZWmF0dXljcGdOUWc2dm05RDFwYURjVU5aZkFaVnlvb3did2JuYWxtVjI3MDYzRFN6MlpRTm1SenJQeDdUcnB0aU45V2VlYk5SU3E2dEpwajRWajhqT19TaFZlSW5OVFF2ME5aRml6cHVVenY1MXBqVG45YTljLUNyMXBtVVM0eGthUXhQVk9YTEc4em1ITEYxMjZ4d193MFJ2?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260830T052159Z",
+          "pinned": false
+        },
+        {
+          "title": "Six months into the Iran war, a new Gulf security architecture is emerging",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaFFwOWNjUV90cFBVN1RGcGdDcVJ0UGw2U1FmcEpwRGFITnRJcHVZUENydWY1RXAxWUt1VFNyRXlIVWl5VWxoYzR3anpZNlpqemVubUZtNDNaV25oSWFwNktXZlAzSlAyWE5meU9EX3pLcFNQcGFtVlpkcTBIeGIyWTkxY185bDdxYUhtQ19qc1RnOTB0YkFUdFdPdzc3UkFQM1VlWUxVZFM3cnpaLXNMTndEdWNscnQzN1HSAb8BQVVfeXFMTVlwRmFBVl81STk3UzlxSGFkSVZsdnU4eFBJSHZfemdUUmoxMkNKYnFkelFuZno1czdiWUJJZUNZY3B1emgtZkcxSkpETnhsa2FCdWVjOXExa3h3aTl0TGc3X1NJdE1BUEdTNU9mV0FnRG1jczBTcnhhOE1WM25XOFNYclZDdVM4VUxZQndwSnNVT1djbWwyYnJMa0VnNXlKclV2TGdHaDUxUWw1WGZWRHlURHgzV1dPUlZiWm1qTzQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260829T061407Z",
           "pinned": false
         },
         {
@@ -1303,6 +1311,14 @@
           "pinned": false
         },
         {
+          "title": "Britons face ‘risk premium’ for energy as US-Israel war on Iran intensifies",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNamQ2MHJHYV9meERsSE9HcGVkY3NiT0g1cE81ckR3Z3h0SFVSYk4yY1JrZlRjMVZ6eUh1X2IybWtROE43Z2pfUXJnNzY0WllHREw5c0Y4V3Zrc3ZxUmJsMmhDOGxvMDFhWnVlNWRNRDVjbVJ5bnlPZ0t4Wlh1ZHFGZUYzSjRhZE41dUlacFRaOGFBRlJVLThaR3V6M1NJUHltY2lWNjl4eHNsdHZwSjhWVtIBtgFBVV95cUxNV1gyTFJnWUdoUDEtbU1hanItcV9FTHJUVDM1bXNSYmJKT2Y4Wnp3akxyLW1qLTFuMElNdlU4TUFRbU5fUGtOV2tiYnRybElBT0VaOTBDdUZvb281ZFU5eWRMU25hS29Kc2VBS3dPNkZnd3UyQWw3b1hicy10RVM2ZGdLQm5DWkltaDZKeXBNVEY3U1Q2TG91eUtEdDE3bW9nMHRrNHhUbTNFNFV5d3hUZl9MbUFkdw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260901T082418Z",
+          "pinned": false
+        },
+        {
           "title": "War on Iran: US bombs Iran",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQkp5djBJOVFTLVhnSWtBb3htUXZJZ3cycFNHVFdGcUlmV2hkeE1ObEFTRF9ITHhuWEZHTzA3YW5MbHVyNzlmLU5rdTcxNE42aUlpQngxcmhUNXloX0YtQTZNOUR4UjZwbEVRUGpzWEd4eF9UamNzdzdmWEw3NDBHUXRn0gGHAUFVX3lxTE1Qd0NwTFlhMGhsWUFBeHI3YmhfaElucUhhbXhrWXR2VnNKU1c0SUc1djl4bnRxamIwU2h1V0pMeTlkVDlndS1rSkVQb2RQZTBEUjNMUmxrdGV1NHk4WG5GUXVIWkxlb0dnUjJhTUZ5V1ZHQVRlbVZPNmQzczZDY19vQTlwR3pSNA?oc=5",
           "domain": "aljazeera.com",
@@ -1327,11 +1343,27 @@
           "pinned": false
         },
         {
+          "title": "EU considers military mission to replace UN peacekeepers in South Lebanon",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeldkUzNteGs4U2thdk1wcXpCVzk3LUtreHdnWkZUSkpIUkpXYmYydDJkdHF5Q09IWHRPSnRZLTU5TEI0cUZzcFhnejV5c1VhZVZ3ODQxeTZqNjJyVE10Zi1oN0JoUDhlbEdJUEdsRV9GMVVKamdLUExtOTZrbGIwZE0xSlJWMWVNdGpxalNDY2tsbWx1b2FjTHF1bUZfR0x2azgxMmQ5NVJ5dlBCX2hmcWhR0gG3AUFVX3lxTE5VRjVITkVSZDF3SDRKYzNtMy01LVh6YmpBWFZrXy1WUUhHZzhkMHY1LVRpNEFDRUNaWXBpb3BnZE0tamRYbWJFcXdjTmUtNDl6ZUpMTFNMVGZpNEpJWWZNQXh4NU1KSG9LYjBpNEJhLWhzWjhpT0d6RVFpNHZPRXZpaWFCQUpYaE16ZG96OWtqSnlpRFF6THQ3Q2FPZnlwSUZVYXFFU1BwMFhnWjNIQ3FYNERkeFBnQQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260901T053533Z",
+          "pinned": false
+        },
+        {
           "title": "Toxic waste of war on Gaza reached Israel",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcWozMk1uWGNLZnYzTTZDSEdublNnazA2N2xNRGwzNS16VDVmeU8zeFgxeURVRTB0ai1FbHI3OGljQ0UtTnUxczhzY19RcWJIci1BNnBOSEd4M0RCWml2SVpGMC1YNkJKbGJ4azd5NGRodVgzbmM2bEpFUlhYUWtmWG14STNsNXBtVWRLTWhwX2ZvdGVoU0steVJaY9IBoAFBVV95cUxQSVlNTFNIdDJQSWJHR0dmYVNRMU92YkZVeFl0S3lDRTdxOUdsZGlqY0RLOHlYMHVfQS15VjJpT1FiTmt0TS11R3pTZXFBX1R2SGFKWkxnTWVFcmJicGgwWGxGNkdhTi1tR0NBMkh4eFBXN1paVHJpYlEwVHpiTWhPcm84cnRkQkNGUFlIdzdubWx0WXlHbndnTWtac0NsSXpl?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260830T074402Z",
+          "pinned": false
+        },
+        {
+          "title": "Oil prices jump as US, Iranian attacks stoke fears of escalation",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTzBVakF1VXpKSWdkbXZsNXJOYS0wRnV2bWstenBpNnhlNXBzTVVxVEFPUW5HeS14Rjh6UnM3b0RpWG5NWjdWdW5NdWNHdlJLV3psWHlhOVd2Y1FySF9MRlVmRGZab3RTcTd5Rmt2QkFONEVFWmJHVmZzMGxid2g0MjR0UzJXdmRZcVdEaGhlT1Z5RTAyT1VFVndXWU52ZGNlRENGaHNBVXF1YzTSAbABQVVfeXFMT2dkcDBqS3R3WmtGZmhqcl9RTzNSc0xObFNYam1fQTllaFdkamxnZnZ2OW11SXc3d1hNWER5WGxQclV4aDhYbnZxNE5tRGNWQllxQ3F0eXViSmZoTFNwamJTLXQ4cUxXS0tldkc1ODE0NGZMXzRFbFBfYkhSdFMtMnZfVkIySkRVMlBtLUxhaEpMZ2NxZUFRUEtMTFRlWDFjY25FaWtqMDNVT25hSWpJZ0E?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260901T093251Z",
           "pinned": false
         },
         {
@@ -1343,11 +1375,11 @@
           "pinned": false
         },
         {
-          "title": "Serbia’s president criticizes UN court for not releasing war criminal Mladic to die at home",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUkQtUkNBaXN6LTRGZEZ1Z3pPNjVUOEw4LV8ySHNYLUlsTjdMUGpyckttUktZNlhqNlU2YzV5TGtzQWlncUtHS0hES2dDcXNaNDFOYlJjb0VGTWdlSUgxZE8zRHJNTnFHT0hvbnBsbEhFMTR0YmNPM0I1WndxVUVMNExsaGplRFZzNWEwMTk2VGZfbWhk?oc=5",
-          "domain": "apnews.com",
+          "title": "Russian drone and missile barrage kills at least 12 in Ukraine’s Kyiv",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUE5yQXVWc1hkanhMaXA1LWZ2Qm9aVXFNd3RaRm53ZFZpZlpaSkI4ZzU2b0I5UkpBZXk4aDE3dV9EcFJwczZoRUNXRGpwaFNoS2tZOU1saTFneDBDNTEyVkxnV2NXN3RxeHpyaGVLUzZSb2FRNGFQeDJEUzNFNm5QSGtPdE92amJJaGY4NDhPeDFtRVJCYmU3aHU3OEZsZFdyU3pCQmF5T1pvT0NM0gGyAUFVX3lxTE5sLVpQYnJjRVBoalBrNzFpZWVsMzY5bkEwMmw2RHNheTh1b1llNEZOVnJJOXhYZ2NpM3hYWHRSc1FKeHEzODBZUHZLX2hJN1ctZEZXMmZMUUF1RVE1UFpxNkFoNG9kaDFuWGNqeUxxaFByNWRoMkRKREdOaHBCcFJfVHBOYUpabXhkUjJ2SkNsVmd0dDd5elJpUWw3dFZRQVRzM0k1SWEzeEliMGZLRnNGTHc?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260829T141200Z",
+          "seen": "20260901T103759Z",
           "pinned": false
         },
         {
@@ -1359,51 +1391,19 @@
           "pinned": false
         },
         {
+          "title": "Serbia’s president criticizes UN court for not releasing war criminal Mladic to die at home",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUkQtUkNBaXN6LTRGZEZ1Z3pPNjVUOEw4LV8ySHNYLUlsTjdMUGpyckttUktZNlhqNlU2YzV5TGtzQWlncUtHS0hES2dDcXNaNDFOYlJjb0VGTWdlSUgxZE8zRHJNTnFHT0hvbnBsbEhFMTR0YmNPM0I1WndxVUVMNExsaGplRFZzNWEwMTk2VGZfbWhk?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260829T141200Z",
+          "pinned": false
+        },
+        {
           "title": "Poland opens terror probe into fire at factory supplying Ukraine drones",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ1Q0Qm9uVnJmSzRlMWVFVUdhUWxGUlRHREFGNWZ1UVRJOWVmMEY0Y3NZR3M5M0s3RzliX1JtbGlfN0VSd0VGNTUxOVkyVDlsMS13QTh2d3RIWlpsd1JRLUhaYlVOak5PbWZldjdSbDBTbUxSNGpra2Z4MzY4SmNjZG1jOHk1ZXFEM2M4bVJxdFhHTEIzNFlJR9IBngFBVV95cUxNa3hJZUhkNkdQeDR1TXJHaTdqcWo2XzMzd1lnMUp1RWNWaElLX1pzazRNLTJjRmV4aG9aWU84TGRadGFlcEJSelRTbFpob1VoWGt6OFhQckN6Mzc4X2w2cFNZTEthRTVtcXEyaS1mS2xab2ZaNGV6akhVekluSzhuSzhScDRBRmhteEpJNG9IQzZVSDBndWJ4VGJUTzJLZw?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260831T213508Z",
-          "pinned": false
-        },
-        {
-          "title": "Birmingham 20mph limit: a 'life saver' or 'a war on cars'?",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmVXgtR3NFR3luZHplYTMwMEVUbW0zMnNQbmFITGpCZk9ibUI3MV9ubXRSZ1lva2VOWEFCWEZpQi1GTWt2MVN3OFRBU0pydlNCVFRtWGpsQ1VGZw?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260830T062831Z",
-          "pinned": false
-        },
-        {
-          "title": "Russian strike on a Ukrainian warehouse kills 37 in the war’s deadliest attack this year",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMDZoaHVmSENmSUJQcmlhVnY2R181UXpjdnZIQlJ1YXJsZzlGZGM5U1dxY0w5eERtLXQ5ajJwWF9ib3pKQlBNam5XU0dQamczNlhxcjdGU2RxbEthaGFQQnhKcXZ6TkQxdW5rWGZIZERoMTBPaFZzR01jeHFEMG05N2kzRTNnemVnQkJvRW1Ga3lET0k?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260829T231200Z",
-          "pinned": false
-        },
-        {
-          "title": "Sir James Cleverly accuses Andy Burnham of 'war on London'",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13QUpmYXBlYVhWUWZYWjBHZGI4eGV1ckxPMnVZcG5sM1VoUEIzMlB3WFdWN1NlTEc3S0NsbGo0d1cwTWFrZHFDeElfN0hFQm9Zd2c1NDJIU1RiUQ?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260831T085421Z",
-          "pinned": false
-        },
-        {
-          "title": "Trojan War fan among 400 conserved at Leeds Discovery Centre",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jeXQ5UFlIZldmeUQzeU9sNXpQak1nX1Zsc1V1U2phSFpiLWJlOENSSkpsNDhPVnZMWF9TRzRYSEFQVHZVTmFLSzUweEhEV0dQNlhZcE9Bd0dRZw?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260831T084807Z",
-          "pinned": false
-        },
-        {
-          "title": "Air raids, conscripts and China: How Myanmar’s military is regaining ground",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRjRTcXJlMV9NSnQyNVE1TnprcEZDWUZHTHdnNnJDbTlFSk1JRkFlSkxtSDFfZXpnVlZ5UVBtRm9KeWZJTVFkMmIxRTZvUTdoejhBSzlPWjVYbWN2ME05WkE0am44Mi1EaHpGQlh4NUhjdHR4ZzZKM3ZYSVpDTGs4VlpsMUcyUDBHdm5Ma19MNW1TbUF3bkJJSk1COUl4dTAzbDA3d09xM3VsU20xRzRJb0ZrMNIBuAFBVV95cUxPWWNzYlpEdFdBQ3Q5dDY5cTRvS1hiNTgxeW9rak5JYzBmeW1jRkJTVEpLSTJ6bm9oLWNLdDQ4TzlkaUFyM2tEbldfNFo2dXpORVdyUVBydFlMTjF0NDdIZGlYdFZ6Y29uRl9NMGE0N0JUMEI2UWZyMVRkcHFxMm9rSWhieC1ka19FSVBwdzJna28zbXkxUlZmamNod0NfUnN4c0ZoNTF3UDZ2a1JrenUxU3libUZ4a2Yz?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260830T075427Z",
           "pinned": false
         }
       ],
@@ -1445,6 +1445,15 @@
           "reportedAt": "2026-08-30T13:43:48Z"
         },
         {
+          "id": "report-a755c78656d2",
+          "title": "Iran war",
+          "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-01T07:00:45Z"
+        },
+        {
           "id": "report-5b99cd2ebef5",
           "title": "The US-Canada trade war in 5 charts",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zRFEyWXpnOFFZcXI0NUNoa0E3VWhuZHpHMlpEYlFVX2ZzcjExd3F6QmJsSnpadm1POHliXzh5d3ZaS1hYODVKZjYxUTlRa1gtWXN5dFdUZDZqQQ?oc=5",
@@ -1463,15 +1472,6 @@
           "reportedAt": "2026-08-31T11:28:03Z"
         },
         {
-          "id": "report-93a64bf46c2e",
-          "title": "Six months into the Iran war, a new Gulf security architecture is emerging",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaFFwOWNjUV90cFBVN1RGcGdDcVJ0UGw2U1FmcEpwRGFITnRJcHVZUENydWY1RXAxWUt1VFNyRXlIVWl5VWxoYzR3anpZNlpqemVubUZtNDNaV25oSWFwNktXZlAzSlAyWE5meU9EX3pLcFNQcGFtVlpkcTBIeGIyWTkxY185bDdxYUhtQ19qc1RnOTB0YkFUdFdPdzc3UkFQM1VlWUxVZFM3cnpaLXNMTndEdWNscnQzN1HSAb8BQVVfeXFMTVlwRmFBVl81STk3UzlxSGFkSVZsdnU4eFBJSHZfemdUUmoxMkNKYnFkelFuZno1czdiWUJJZUNZY3B1emgtZkcxSkpETnhsa2FCdWVjOXExa3h3aTl0TGc3X1NJdE1BUEdTNU9mV0FnRG1jczBTcnhhOE1WM25XOFNYclZDdVM4VUxZQndwSnNVT1djbWwyYnJMa0VnNXlKclV2TGdHaDUxUWw1WGZWRHlURHgzV1dPUlZiWm1qTzQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-29T06:14:07Z"
-        },
-        {
           "id": "report-c61ffb380527",
           "title": "Mapping Iran war’s strikes on Gulf energy and its impact on future of oil",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOalprVVJWeE5qUlBuYWFRMzA4YUdzckllZnJYZE5WLUFDOTBGTFJzcVNDd0Q5RFJPTUs3ZG9ldF96MkhsZ05XVTR0dHV3eTV2TFlVd3ZuendWRFJLRFNvdi1SOHFXMHJGSm9BSHVlTjd5Z0NmbkdFZVFFNjhwbFhpQ3dnVXI0cEd6UXl2TmZncWMyR3Ywd3FKNXBWeTRKUFJ2WnVmd185ei15WmloLXV0Vnpmb9IBuAFBVV95cUxNaEFGcGwxNzJ3RFEyTG04T1d6ZWl3cEpZWmF0dXljcGdOUWc2dm05RDFwYURjVU5aZkFaVnlvb3did2JuYWxtVjI3MDYzRFN6MlpRTm1SenJQeDdUcnB0aU45V2VlYk5SU3E2dEpwajRWajhqT19TaFZlSW5OVFF2ME5aRml6cHVVenY1MXBqVG45YTljLUNyMXBtVVM0eGthUXhQVk9YTEc4em1ITEYxMjZ4d193MFJ2?oc=5",
@@ -1479,6 +1479,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-30T05:21:59Z"
+        },
+        {
+          "id": "report-93a64bf46c2e",
+          "title": "Six months into the Iran war, a new Gulf security architecture is emerging",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaFFwOWNjUV90cFBVN1RGcGdDcVJ0UGw2U1FmcEpwRGFITnRJcHVZUENydWY1RXAxWUt1VFNyRXlIVWl5VWxoYzR3anpZNlpqemVubUZtNDNaV25oSWFwNktXZlAzSlAyWE5meU9EX3pLcFNQcGFtVlpkcTBIeGIyWTkxY185bDdxYUhtQ19qc1RnOTB0YkFUdFdPdzc3UkFQM1VlWUxVZFM3cnpaLXNMTndEdWNscnQzN1HSAb8BQVVfeXFMTVlwRmFBVl81STk3UzlxSGFkSVZsdnU4eFBJSHZfemdUUmoxMkNKYnFkelFuZno1czdiWUJJZUNZY3B1emgtZkcxSkpETnhsa2FCdWVjOXExa3h3aTl0TGc3X1NJdE1BUEdTNU9mV0FnRG1jczBTcnhhOE1WM25XOFNYclZDdVM4VUxZQndwSnNVT1djbWwyYnJMa0VnNXlKclV2TGdHaDUxUWw1WGZWRHlURHgzV1dPUlZiWm1qTzQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-29T06:14:07Z"
         },
         {
           "id": "report-3cbd8701015d",
@@ -1508,6 +1517,15 @@
           "reportedAt": "2026-08-31T17:43:38Z"
         },
         {
+          "id": "report-f1c64cc6faa6",
+          "title": "Britons face ‘risk premium’ for energy as US-Israel war on Iran intensifies",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNamQ2MHJHYV9meERsSE9HcGVkY3NiT0g1cE81ckR3Z3h0SFVSYk4yY1JrZlRjMVZ6eUh1X2IybWtROE43Z2pfUXJnNzY0WllHREw5c0Y4V3Zrc3ZxUmJsMmhDOGxvMDFhWnVlNWRNRDVjbVJ5bnlPZ0t4Wlh1ZHFGZUYzSjRhZE41dUlacFRaOGFBRlJVLThaR3V6M1NJUHltY2lWNjl4eHNsdHZwSjhWVtIBtgFBVV95cUxNV1gyTFJnWUdoUDEtbU1hanItcV9FTHJUVDM1bXNSYmJKT2Y4Wnp3akxyLW1qLTFuMElNdlU4TUFRbU5fUGtOV2tiYnRybElBT0VaOTBDdUZvb281ZFU5eWRMU25hS29Kc2VBS3dPNkZnd3UyQWw3b1hicy10RVM2ZGdLQm5DWkltaDZKeXBNVEY3U1Q2TG91eUtEdDE3bW9nMHRrNHhUbTNFNFV5d3hUZl9MbUFkdw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-01T08:24:18Z"
+        },
+        {
           "id": "report-224877c8c403",
           "title": "War on Iran: US bombs Iran",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQkp5djBJOVFTLVhnSWtBb3htUXZJZ3cycFNHVFdGcUlmV2hkeE1ObEFTRF9ITHhuWEZHTzA3YW5MbHVyNzlmLU5rdTcxNE42aUlpQngxcmhUNXloX0YtQTZNOUR4UjZwbEVRUGpzWEd4eF9UamNzdzdmWEw3NDBHUXRn0gGHAUFVX3lxTE1Qd0NwTFlhMGhsWUFBeHI3YmhfaElucUhhbXhrWXR2VnNKU1c0SUc1djl4bnRxamIwU2h1V0pMeTlkVDlndS1rSkVQb2RQZTBEUjNMUmxrdGV1NHk4WG5GUXVIWkxlb0dnUjJhTUZ5V1ZHQVRlbVZPNmQzczZDY19vQTlwR3pSNA?oc=5",
@@ -1535,6 +1553,15 @@
           "reportedAt": "2026-08-31T13:47:30Z"
         },
         {
+          "id": "report-258262504c36",
+          "title": "EU considers military mission to replace UN peacekeepers in South Lebanon",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeldkUzNteGs4U2thdk1wcXpCVzk3LUtreHdnWkZUSkpIUkpXYmYydDJkdHF5Q09IWHRPSnRZLTU5TEI0cUZzcFhnejV5c1VhZVZ3ODQxeTZqNjJyVE10Zi1oN0JoUDhlbEdJUEdsRV9GMVVKamdLUExtOTZrbGIwZE0xSlJWMWVNdGpxalNDY2tsbWx1b2FjTHF1bUZfR0x2azgxMmQ5NVJ5dlBCX2hmcWhR0gG3AUFVX3lxTE5VRjVITkVSZDF3SDRKYzNtMy01LVh6YmpBWFZrXy1WUUhHZzhkMHY1LVRpNEFDRUNaWXBpb3BnZE0tamRYbWJFcXdjTmUtNDl6ZUpMTFNMVGZpNEpJWWZNQXh4NU1KSG9LYjBpNEJhLWhzWjhpT0d6RVFpNHZPRXZpaWFCQUpYaE16ZG96OWtqSnlpRFF6THQ3Q2FPZnlwSUZVYXFFU1BwMFhnWjNIQ3FYNERkeFBnQQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-01T05:35:33Z"
+        },
+        {
           "id": "report-0271f660b9b9",
           "title": "Toxic waste of war on Gaza reached Israel",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcWozMk1uWGNLZnYzTTZDSEdublNnazA2N2xNRGwzNS16VDVmeU8zeFgxeURVRTB0ai1FbHI3OGljQ0UtTnUxczhzY19RcWJIci1BNnBOSEd4M0RCWml2SVpGMC1YNkJKbGJ4azd5NGRodVgzbmM2bEpFUlhYUWtmWG14STNsNXBtVWRLTWhwX2ZvdGVoU0steVJaY9IBoAFBVV95cUxQSVlNTFNIdDJQSWJHR0dmYVNRMU92YkZVeFl0S3lDRTdxOUdsZGlqY0RLOHlYMHVfQS15VjJpT1FiTmt0TS11R3pTZXFBX1R2SGFKWkxnTWVFcmJicGgwWGxGNkdhTi1tR0NBMkh4eFBXN1paVHJpYlEwVHpiTWhPcm84cnRkQkNGUFlIdzdubWx0WXlHbndnTWtac0NsSXpl?oc=5",
@@ -1542,6 +1569,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-30T07:44:02Z"
+        },
+        {
+          "id": "report-b922fc2300e9",
+          "title": "Oil prices jump as US, Iranian attacks stoke fears of escalation",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTzBVakF1VXpKSWdkbXZsNXJOYS0wRnV2bWstenBpNnhlNXBzTVVxVEFPUW5HeS14Rjh6UnM3b0RpWG5NWjdWdW5NdWNHdlJLV3psWHlhOVd2Y1FySF9MRlVmRGZab3RTcTd5Rmt2QkFONEVFWmJHVmZzMGxid2g0MjR0UzJXdmRZcVdEaGhlT1Z5RTAyT1VFVndXWU52ZGNlRENGaHNBVXF1YzTSAbABQVVfeXFMT2dkcDBqS3R3WmtGZmhqcl9RTzNSc0xObFNYam1fQTllaFdkamxnZnZ2OW11SXc3d1hNWER5WGxQclV4aDhYbnZxNE5tRGNWQllxQ3F0eXViSmZoTFNwamJTLXQ4cUxXS0tldkc1ODE0NGZMXzRFbFBfYkhSdFMtMnZfVkIySkRVMlBtLUxhaEpMZ2NxZUFRUEtMTFRlWDFjY25FaWtqMDNVT25hSWpJZ0E?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-01T09:32:51Z"
         },
         {
           "id": "report-bd0a41a4e05e",
@@ -1553,13 +1589,13 @@
           "reportedAt": "2026-08-30T20:44:34Z"
         },
         {
-          "id": "report-abce8f0f3a8c",
-          "title": "Serbia’s president criticizes UN court for not releasing war criminal Mladic to die at home",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUkQtUkNBaXN6LTRGZEZ1Z3pPNjVUOEw4LV8ySHNYLUlsTjdMUGpyckttUktZNlhqNlU2YzV5TGtzQWlncUtHS0hES2dDcXNaNDFOYlJjb0VGTWdlSUgxZE8zRHJNTnFHT0hvbnBsbEhFMTR0YmNPM0I1WndxVUVMNExsaGplRFZzNWEwMTk2VGZfbWhk?oc=5",
-          "domain": "apnews.com",
+          "id": "report-d318d5aa701a",
+          "title": "Russian drone and missile barrage kills at least 12 in Ukraine’s Kyiv",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUE5yQXVWc1hkanhMaXA1LWZ2Qm9aVXFNd3RaRm53ZFZpZlpaSkI4ZzU2b0I5UkpBZXk4aDE3dV9EcFJwczZoRUNXRGpwaFNoS2tZOU1saTFneDBDNTEyVkxnV2NXN3RxeHpyaGVLUzZSb2FRNGFQeDJEUzNFNm5QSGtPdE92amJJaGY4NDhPeDFtRVJCYmU3aHU3OEZsZFdyU3pCQmF5T1pvT0NM0gGyAUFVX3lxTE5sLVpQYnJjRVBoalBrNzFpZWVsMzY5bkEwMmw2RHNheTh1b1llNEZOVnJJOXhYZ2NpM3hYWHRSc1FKeHEzODBZUHZLX2hJN1ctZEZXMmZMUUF1RVE1UFpxNkFoNG9kaDFuWGNqeUxxaFByNWRoMkRKREdOaHBCcFJfVHBOYUpabXhkUjJ2SkNsVmd0dDd5elJpUWw3dFZRQVRzM0k1SWEzeEliMGZLRnNGTHc?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-29T14:12:00Z"
+          "reportedAt": "2026-09-01T10:37:59Z"
         },
         {
           "id": "report-5f3d4409b847",
@@ -1571,6 +1607,15 @@
           "reportedAt": "2026-08-31T05:13:44Z"
         },
         {
+          "id": "report-abce8f0f3a8c",
+          "title": "Serbia’s president criticizes UN court for not releasing war criminal Mladic to die at home",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUkQtUkNBaXN6LTRGZEZ1Z3pPNjVUOEw4LV8ySHNYLUlsTjdMUGpyckttUktZNlhqNlU2YzV5TGtzQWlncUtHS0hES2dDcXNaNDFOYlJjb0VGTWdlSUgxZE8zRHJNTnFHT0hvbnBsbEhFMTR0YmNPM0I1WndxVUVMNExsaGplRFZzNWEwMTk2VGZfbWhk?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-29T14:12:00Z"
+        },
+        {
           "id": "report-861605b9e496",
           "title": "Poland opens terror probe into fire at factory supplying Ukraine drones",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ1Q0Qm9uVnJmSzRlMWVFVUdhUWxGUlRHREFGNWZ1UVRJOWVmMEY0Y3NZR3M5M0s3RzliX1JtbGlfN0VSd0VGNTUxOVkyVDlsMS13QTh2d3RIWlpsd1JRLUhaYlVOak5PbWZldjdSbDBTbUxSNGpra2Z4MzY4SmNjZG1jOHk1ZXFEM2M4bVJxdFhHTEIzNFlJR9IBngFBVV95cUxNa3hJZUhkNkdQeDR1TXJHaTdqcWo2XzMzd1lnMUp1RWNWaElLX1pzazRNLTJjRmV4aG9aWU84TGRadGFlcEJSelRTbFpob1VoWGt6OFhQckN6Mzc4X2w2cFNZTEthRTVtcXEyaS1mS2xab2ZaNGV6akhVekluSzhuSzhScDRBRmhteEpJNG9IQzZVSDBndWJ4VGJUTzJLZw?oc=5",
@@ -1578,51 +1623,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-31T21:35:08Z"
-        },
-        {
-          "id": "report-8f62eb868838",
-          "title": "Birmingham 20mph limit: a 'life saver' or 'a war on cars'?",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmVXgtR3NFR3luZHplYTMwMEVUbW0zMnNQbmFITGpCZk9ibUI3MV9ubXRSZ1lva2VOWEFCWEZpQi1GTWt2MVN3OFRBU0pydlNCVFRtWGpsQ1VGZw?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-30T06:28:31Z"
-        },
-        {
-          "id": "report-b5f36ef7f824",
-          "title": "Russian strike on a Ukrainian warehouse kills 37 in the war’s deadliest attack this year",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMDZoaHVmSENmSUJQcmlhVnY2R181UXpjdnZIQlJ1YXJsZzlGZGM5U1dxY0w5eERtLXQ5ajJwWF9ib3pKQlBNam5XU0dQamczNlhxcjdGU2RxbEthaGFQQnhKcXZ6TkQxdW5rWGZIZERoMTBPaFZzR01jeHFEMG05N2kzRTNnemVnQkJvRW1Ga3lET0k?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-29T23:12:00Z"
-        },
-        {
-          "id": "report-73fa87523286",
-          "title": "Sir James Cleverly accuses Andy Burnham of 'war on London'",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13QUpmYXBlYVhWUWZYWjBHZGI4eGV1ckxPMnVZcG5sM1VoUEIzMlB3WFdWN1NlTEc3S0NsbGo0d1cwTWFrZHFDeElfN0hFQm9Zd2c1NDJIU1RiUQ?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-31T08:54:21Z"
-        },
-        {
-          "id": "report-dbbd353a6e93",
-          "title": "Trojan War fan among 400 conserved at Leeds Discovery Centre",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jeXQ5UFlIZldmeUQzeU9sNXpQak1nX1Zsc1V1U2phSFpiLWJlOENSSkpsNDhPVnZMWF9TRzRYSEFQVHZVTmFLSzUweEhEV0dQNlhZcE9Bd0dRZw?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-31T08:48:07Z"
-        },
-        {
-          "id": "report-abdb0f999792",
-          "title": "Air raids, conscripts and China: How Myanmar’s military is regaining ground",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRjRTcXJlMV9NSnQyNVE1TnprcEZDWUZHTHdnNnJDbTlFSk1JRkFlSkxtSDFfZXpnVlZ5UVBtRm9KeWZJTVFkMmIxRTZvUTdoejhBSzlPWjVYbWN2ME05WkE0am44Mi1EaHpGQlh4NUhjdHR4ZzZKM3ZYSVpDTGs4VlpsMUcyUDBHdm5Ma19MNW1TbUF3bkJJSk1COUl4dTAzbDA3d09xM3VsU20xRzRJb0ZrMNIBuAFBVV95cUxPWWNzYlpEdFdBQ3Q5dDY5cTRvS1hiNTgxeW9rak5JYzBmeW1jRkJTVEpLSTJ6bm9oLWNLdDQ4TzlkaUFyM2tEbldfNFo2dXpORVdyUVBydFlMTjF0NDdIZGlYdFZ6Y29uRl9NMGE0N0JUMEI2UWZyMVRkcHFxMm9rSWhieC1ka19FSVBwdzJna28zbXkxUlZmamNod0NfUnN4c0ZoNTF3UDZ2a1JrenUxU3libUZ4a2Yz?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-30T07:54:27Z"
         },
         {
           "id": "report-3856ac9e73b2",
