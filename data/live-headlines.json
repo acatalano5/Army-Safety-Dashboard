@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-02T16:35:27.134Z",
+  "generatedAt": "2026-09-02T18:58:38.925Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -9,7 +9,7 @@
       "items": []
     },
     "safety": {
-      "generatedAt": "2026-09-01T18:51:27.970Z",
+      "generatedAt": "2026-09-02T18:58:38.925Z",
       "cadence": "daily",
       "items": [
         {
@@ -37,6 +37,14 @@
           "pinned": false
         },
         {
+          "title": "Army identifies soldiers killed in Texas Apache helicopter crash",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZTU84TkwxQ3Vad0x3TlFfMFlxa1dnQUdEcHRRZ1A5ZGhXV1VoeUdBTk1lS1RmdmVTLS11RUNNcmdaNXdSZ0FFcEdzS3ZLc3d6Q1IzeEZXR2lYN21yQmpZeFN5NjRBT1JnZGJtVVY1T2M3THE5c2cw?oc=5",
+          "domain": "taskandpurpose.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260814T070000Z",
+          "pinned": false
+        },
+        {
           "title": "Air Force officer killed in remote Alaska crash was a ‘positive leader’",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yMTM3UTdNeXVhbVFBc2JTWDN4QzVJTG5sSk43aGh3a0FtRXI5dHgycy04dEhFUnBkSFd4NDUxNFkzQmZ0eXRRR29KTDNKV1FValItZzBoa25MNGI0WmhIOVVwZVhkZkk?oc=5",
           "domain": "taskandpurpose.com",
@@ -45,11 +53,11 @@
           "pinned": false
         },
         {
-          "title": "Army identifies soldiers killed in Texas Apache helicopter crash",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZTU84TkwxQ3Vad0x3TlFfMFlxa1dnQUdEcHRRZ1A5ZGhXV1VoeUdBTk1lS1RmdmVTLS11RUNNcmdaNXdSZ0FFcEdzS3ZLc3d6Q1IzeEZXR2lYN21yQmpZeFN5NjRBT1JnZGJtVVY1T2M3THE5c2cw?oc=5",
-          "domain": "taskandpurpose.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260814T070000Z",
+          "title": "PLR 26-060 – Automobile Mishap Claims One Soldier’s Life",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZVRRaXNDNnRGWUpNaW4wNnoxZldBQXFscWtQLW9BUXREU1hqWVVKZXd5UFozd1ZJM2ZyNFhDb3JDa293cWFkU0l3RjlIYk11WlB5VF9rRzBmRXpWOHZjakh0dlBOOVUwb1FoWUVZQUdENU9IaTgyYXB3VjZYbDlQOTlVR3hjd2R4VUpXQTFyNmRGazBLamQ2Wk1KaWJ4STI3N3JUNTlZc1NjelFhZUlTZ3JpWXA2Q1dlNEhEaVBISFRqbjdWMFNFR214V1Vna3lWZVVsZGpwRkd6dmZITGdz?oc=5",
+          "domain": "safety.army.mil",
+          "sourceTier": "Official military source",
+          "seen": "20260901T195246Z",
           "pinned": false
         },
         {
@@ -65,11 +73,37 @@
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYWN2ZkJSSU15Ukg1b21aVmlMSmVyT0FFYnJLVjJJOW5BRnBzdzFadnBUUEprSDNEbzEzYVBOakRsYVRmdUN0YzZXc1llV0xVMklfRllWYVVJLVpnaVU3cU90aUlQY0RmQUtwYkFPdGpZMGNFd3FtN2pfdmpDclo4WGUyamVXN0phc1VWUU9JdzRDZHhUMVlnRE5FREt0U2JXVFhjSVplbWluZHB4T3RRbw?oc=5",
           "domain": "stripes.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260825T130243Z",
+          "seen": "20260825T070000Z",
+          "pinned": false
+        },
+        {
+          "title": "Coast Guard suspends search for missing male at Gun Beach, Guam",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObGtBUGhrZ2JIT1RId3RsV2xrV0FZcy11RnNlQzkxeTdFZnJZaWJsWVVWN0ZhRWxQTDFwVk9IQUh5dXhkSkg5cm9Sc3lIYXRuR2RzcVlDVkRnc2hDXzVxam8ycERuUzZZTHRsN1JVZUVLZzJXcUpkYU5NMmZqVmtnV1N6dS1DeFBOVFdQZE5wU2xCU0tNd3BNU1NOTTh3QzR1clJSc1FFdXpodEJwY0RFektqeHU5SU5rRnF3QQ?oc=5",
+          "domain": "news.uscg.mil",
+          "sourceTier": "Official military source",
+          "seen": "20260814T234727Z",
           "pinned": false
         }
       ],
       "incidents": [
+        {
+          "id": "auto-f26a2913181e",
+          "reportDate": "2026-09-01",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Other",
+          "event": "PLR 26-060 – Automobile Mishap Claims One Soldier’s Life",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "OFFICIAL INTAKE",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Official military source",
+          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
+          "source": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZVRRaXNDNnRGWUpNaW4wNnoxZldBQXFscWtQLW9BUXREU1hqWVVKZXd5UFozd1ZJM2ZyNFhDb3JDa293cWFkU0l3RjlIYk11WlB5VF9rRzBmRXpWOHZjakh0dlBOOVUwb1FoWUVZQUdENU9IaTgyYXB3VjZYbDlQOTlVR3hjd2R4VUpXQTFyNmRGazBLamQ2Wk1KaWJ4STI3N3JUNTlZc1NjelFhZUlTZ3JpWXA2Q1dlNEhEaVBISFRqbjdWMFNFR214V1Vna3lWZVVsZGpwRkd6dmZITGdz?oc=5",
+          "sourceLabel": "safety.army.mil"
+        },
         {
           "id": "auto-b7da7d41d52d",
           "reportDate": "2026-08-28",
