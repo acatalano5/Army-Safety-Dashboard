@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-02T04:33:06.953Z",
+  "generatedAt": "2026-09-02T11:17:49.377Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-09-02T04:33:06.953Z",
+      "generatedAt": "2026-09-02T11:17:49.377Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -1171,7 +1171,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-09-02T04:33:06.953Z",
+      "generatedAt": "2026-09-02T11:17:49.377Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -1199,19 +1199,19 @@
           "pinned": false
         },
         {
+          "title": "Iran claims attacks on Bahrain, Jordan, Iraq after US strikes kill 11",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY1VIcWhXU2JEN0F2MFR6UHNxbHQ4WG02cWVRVzVEaW5lS3lveTJaMUc4c2RIWEhOeEl3QUF3NnUtQzN2Q2VUQTczcmdGNmU5Y3I1XzJTSTRwU1RBQTFvSDBfSjlZMHRxMlM5TDhlcE1XNVlUclB5VUdNQlZmYWExbWlaUEZmWkFrQ2tyTy1pY9IBlAFBVV95cUxNbVdoa0dFUldPbnNjTlNaZUJGVHprRGpUOWNieWtoQ1QtQTBoZktQUnlMbkFpT2sycnAyV2VYYVo0dE51Q3VVWUxsUU5sRnhCcHIxVnB1US1haS1Xck9LVUZfV2JqM3NfWVVpa0hGdXh6OFNrd1J5b2hsWjJZTU54cDBlLTBnMXZjYURyeVltVGJINVB1?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260902T053327Z",
+          "pinned": false
+        },
+        {
           "title": "Abroad and at odds: How the war has divided Iranians in the diaspora",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeXVTYlkwNkNZWlh3ckxDc2VhcEZ2bmhibk41TmhUeGZNREhEVm04OEhKMENiRmpuSzlTSFRzMEMtUUY0NU5fQjRDcl9oS0hFdy02NVAzOHI0NnZCVlQ5d1JsZzJKY3JxU2VVdHZsYmhweXM1MlQ5VmZ6RlhYc2FNbDJhMTY0RHV4SGVKbU82OXBET3BvMEdSaGtVSU5FWkU5anljTng4Y3UzR2_SAbABQVVfeXFMTWhSbFRjcVNrRUhERVBDM2hZTmgydnNNcEZuS0pLaUFTWlVyQ2dodXlBVndtYV9ucnRYMjR2N3dtRDZFb244TGh2UUp1NUM2dHhFY2MtamNKU2JaUzNpNHN1cFVwdGgyVmpPQUQxa1NfZ205U1pVejNGVVZwTUw3QW41eWVnWFM1TlhubFljUWE1eV9DVlFyNWNQNEZPRFl5emp2bER5OXZsZ3pzaEdkUmw?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260901T103922Z",
-          "pinned": false
-        },
-        {
-          "title": "Iran says it responded with missiles to US attack despite Trump’s threats",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY1VIcWhXU2JEN0F2MFR6UHNxbHQ4WG02cWVRVzVEaW5lS3lveTJaMUc4c2RIWEhOeEl3QUF3NnUtQzN2Q2VUQTczcmdGNmU5Y3I1XzJTSTRwU1RBQTFvSDBfSjlZMHRxMlM5TDhlcE1XNVlUclB5VUdNQlZmYWExbWlaUEZmWkFrQ2tyTy1pY9IBlAFBVV95cUxNbVdoa0dFUldPbnNjTlNaZUJGVHprRGpUOWNieWtoQ1QtQTBoZktQUnlMbkFpT2sycnAyV2VYYVo0dE51Q3VVWUxsUU5sRnhCcHIxVnB1US1haS1Xck9LVUZfV2JqM3NfWVVpa0hGdXh6OFNrd1J5b2hsWjJZTU54cDBlLTBnMXZjYURyeVltVGJINVB1?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260901T213645Z",
           "pinned": false
         },
         {
@@ -1227,7 +1227,7 @@
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5uX2dBMFdQVWd0NFlxOGpsemhkdU9EaURBX2hCUlREQnIzbzUtMlNtTXF3UDZZQzUxT1V0Vks3ZFhWbFU0MUlrUUdWUFVjTWlQ?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260901T134707Z",
+          "seen": "20260901T215052Z",
           "pinned": false
         },
         {
@@ -1255,14 +1255,6 @@
           "pinned": false
         },
         {
-          "title": "Britons face ‘risk premium’ for energy as US-Israel war on Iran intensifies",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNamQ2MHJHYV9meERsSE9HcGVkY3NiT0g1cE81ckR3Z3h0SFVSYk4yY1JrZlRjMVZ6eUh1X2IybWtROE43Z2pfUXJnNzY0WllHREw5c0Y4V3Zrc3ZxUmJsMmhDOGxvMDFhWnVlNWRNRDVjbVJ5bnlPZ0t4Wlh1ZHFGZUYzSjRhZE41dUlacFRaOGFBRlJVLThaR3V6M1NJUHltY2lWNjl4eHNsdHZwSjhWVtIBtgFBVV95cUxNV1gyTFJnWUdoUDEtbU1hanItcV9FTHJUVDM1bXNSYmJKT2Y4Wnp3akxyLW1qLTFuMElNdlU4TUFRbU5fUGtOV2tiYnRybElBT0VaOTBDdUZvb281ZFU5eWRMU25hS29Kc2VBS3dPNkZnd3UyQWw3b1hicy10RVM2ZGdLQm5DWkltaDZKeXBNVEY3U1Q2TG91eUtEdDE3bW9nMHRrNHhUbTNFNFV5d3hUZl9MbUFkdw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260901T082418Z",
-          "pinned": false
-        },
-        {
           "title": "Mapping Iran war’s strikes on Gulf energy and its impact on future of oil",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOalprVVJWeE5qUlBuYWFRMzA4YUdzckllZnJYZE5WLUFDOTBGTFJzcVNDd0Q5RFJPTUs3ZG9ldF96MkhsZ05XVTR0dHV3eTV2TFlVd3ZuendWRFJLRFNvdi1SOHFXMHJGSm9BSHVlTjd5Z0NmbkdFZVFFNjhwbFhpQ3dnVXI0cEd6UXl2TmZncWMyR3Ywd3FKNXBWeTRKUFJ2WnVmd185ei15WmloLXV0Vnpmb9IBuAFBVV95cUxNaEFGcGwxNzJ3RFEyTG04T1d6ZWl3cEpZWmF0dXljcGdOUWc2dm05RDFwYURjVU5aZkFaVnlvb3did2JuYWxtVjI3MDYzRFN6MlpRTm1SenJQeDdUcnB0aU45V2VlYk5SU3E2dEpwajRWajhqT19TaFZlSW5OVFF2ME5aRml6cHVVenY1MXBqVG45YTljLUNyMXBtVVM0eGthUXhQVk9YTEc4em1ITEYxMjZ4d193MFJ2?oc=5",
           "domain": "aljazeera.com",
@@ -1276,6 +1268,14 @@
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20260831T000522Z",
+          "pinned": false
+        },
+        {
+          "title": "Britons face ‘risk premium’ for energy as US-Israel war on Iran intensifies",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNamQ2MHJHYV9meERsSE9HcGVkY3NiT0g1cE81ckR3Z3h0SFVSYk4yY1JrZlRjMVZ6eUh1X2IybWtROE43Z2pfUXJnNzY0WllHREw5c0Y4V3Zrc3ZxUmJsMmhDOGxvMDFhWnVlNWRNRDVjbVJ5bnlPZ0t4Wlh1ZHFGZUYzSjRhZE41dUlacFRaOGFBRlJVLThaR3V6M1NJUHltY2lWNjl4eHNsdHZwSjhWVtIBtgFBVV95cUxNV1gyTFJnWUdoUDEtbU1hanItcV9FTHJUVDM1bXNSYmJKT2Y4Wnp3akxyLW1qLTFuMElNdlU4TUFRbU5fUGtOV2tiYnRybElBT0VaOTBDdUZvb281ZFU5eWRMU25hS29Kc2VBS3dPNkZnd3UyQWw3b1hicy10RVM2ZGdLQm5DWkltaDZKeXBNVEY3U1Q2TG91eUtEdDE3bW9nMHRrNHhUbTNFNFV5d3hUZl9MbUFkdw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260901T082418Z",
           "pinned": false
         },
         {
@@ -1311,27 +1311,27 @@
           "pinned": false
         },
         {
+          "title": "United Arab Emirates says it intercepted an Iranian drone over its territorial waters",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSkx5VllnSlpKbjRJSUM0S2ZmSWhlb0YyX2xyUElqbmt1X1RxMDhLb3lNeGVqRFprU3ZBcHppYkhSZUFOb0JGNkVjZFp1U2doYnFaWk9WVUEzUG1RN1JQVkF2VUtkQUliY09fcm5rNllyeDVaRG0yNnVqcFFXME0tNjFOVjRiODI2RTJJSjZ1eHRaSXRx?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260901T011000Z",
+          "pinned": false
+        },
+        {
+          "title": "Oil prices jump as US, Iranian attacks stoke fears of escalation",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTzBVakF1VXpKSWdkbXZsNXJOYS0wRnV2bWstenBpNnhlNXBzTVVxVEFPUW5HeS14Rjh6UnM3b0RpWG5NWjdWdW5NdWNHdlJLV3psWHlhOVd2Y1FySF9MRlVmRGZab3RTcTd5Rmt2QkFONEVFWmJHVmZzMGxid2g0MjR0UzJXdmRZcVdEaGhlT1Z5RTAyT1VFVndXWU52ZGNlRENGaHNBVXF1YzTSAbABQVVfeXFMT2dkcDBqS3R3WmtGZmhqcl9RTzNSc0xObFNYam1fQTllaFdkamxnZnZ2OW11SXc3d1hNWER5WGxQclV4aDhYbnZxNE5tRGNWQllxQ3F0eXViSmZoTFNwamJTLXQ4cUxXS0tldkc1ODE0NGZMXzRFbFBfYkhSdFMtMnZfVkIySkRVMlBtLUxhaEpMZ2NxZUFRUEtMTFRlWDFjY25FaWtqMDNVT25hSWpJZ0E?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260901T093251Z",
+          "pinned": false
+        },
+        {
           "title": "Toxic waste of war on Gaza reached Israel",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcWozMk1uWGNLZnYzTTZDSEdublNnazA2N2xNRGwzNS16VDVmeU8zeFgxeURVRTB0ai1FbHI3OGljQ0UtTnUxczhzY19RcWJIci1BNnBOSEd4M0RCWml2SVpGMC1YNkJKbGJ4azd5NGRodVgzbmM2bEpFUlhYUWtmWG14STNsNXBtVWRLTWhwX2ZvdGVoU0steVJaY9IBoAFBVV95cUxQSVlNTFNIdDJQSWJHR0dmYVNRMU92YkZVeFl0S3lDRTdxOUdsZGlqY0RLOHlYMHVfQS15VjJpT1FiTmt0TS11R3pTZXFBX1R2SGFKWkxnTWVFcmJicGgwWGxGNkdhTi1tR0NBMkh4eFBXN1paVHJpYlEwVHpiTWhPcm84cnRkQkNGUFlIdzdubWx0WXlHbndnTWtac0NsSXpl?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260830T074402Z",
-          "pinned": false
-        },
-        {
-          "title": "Destroyed desalination plant worsens Gaza’s drinking water crisis",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQb3NoaExUQzQ0VkRIb2RpWGhWSGljSjJCNS1wV0lVNFUzdXphdl9icjVxYWxzb1EwZVF4aExnOTNpYUZURl80QVZFTjBtUzB6WGxlejlZdFZiT3oyM1dXUUxMSTdkT0MzRkxic1VhSFZBbXMtNVlta2FVUnJaQ2VnWERobG0tWW5PR2ViaDdPSmNFVTkza2RXUVFKbV9TaEJfQVU3clBmTmFJT19F0gGyAUFVX3lxTE5CWU9SM0RCNGVrRkZmcGVvcW9GY2N0eU1lYXdRSTRjOVFOdkZtQWR4bjJnNGVFQ0tzWFFNc2Vrd0ppXzVfemNsdF9mR2VLdFA4ZVAyeU5YT0ludEN5aGVJLWF1UndTM0RsZ2dPa01VbVJSd0JBWE5iUXhEeU04XzFCcy1Vd19CMG8teXpibW11OXcxUG1MbmlvcjlMLTE4V3dLeXF0d28yX2x0VU5ZY1N5eGc?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260901T165031Z",
-          "pinned": false
-        },
-        {
-          "title": "Russian strikes destroy 12 million books in Ukraine ahead of new school year",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sSTFwNy1NQmE3Q2RhU004YlNSTFQ4QWhnaWVFeTRZNlNUR1otckl2aVFiSF9tcmFZSnpHRy1rTXNrMFN4Zm04V1pfSFAtUG0zeTFHc1N1aHJsUQ?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260831T050112Z",
           "pinned": false
         },
         {
@@ -1343,14 +1343,6 @@
           "pinned": false
         },
         {
-          "title": "War on Iran: US bombs Iran",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQkp5djBJOVFTLVhnSWtBb3htUXZJZ3cycFNHVFdGcUlmV2hkeE1ObEFTRF9ITHhuWEZHTzA3YW5MbHVyNzlmLU5rdTcxNE42aUlpQngxcmhUNXloX0YtQTZNOUR4UjZwbEVRUGpzWEd4eF9UamNzdzdmWEw3NDBHUXRn0gGHAUFVX3lxTE1Qd0NwTFlhMGhsWUFBeHI3YmhfaElucUhhbXhrWXR2VnNKU1c0SUc1djl4bnRxamIwU2h1V0pMeTlkVDlndS1rSkVQb2RQZTBEUjNMUmxrdGV1NHk4WG5GUXVIWkxlb0dnUjJhTUZ5V1ZHQVRlbVZPNmQzczZDY19vQTlwR3pSNA?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260831T174052Z",
-          "pinned": false
-        },
-        {
           "title": "Investors prosper and consumers pay as the Iran war exacts an uneven economic toll 6 months in",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVGdBSGZSbmpzWjd2SVptS1diUkZ5MXhOUXVJZ3hHY0V4YUpfVzFSak1yZVNTR2ZOSExuczc5RzlGdWJKWVFnS2JCRzJPMmsyMG9Ra0l1ZTBOZ1FEMC03Qld3eUlRX3RkREo4eFZBdlVzUjVPZTVwdjlKN1lSd09hNTJxR0U2aG9EMi1tZ0JzeVE5ell1bzVzNTlUZFJ6TktldmZMRGtOUlk?oc=5",
           "domain": "apnews.com",
@@ -1359,11 +1351,19 @@
           "pinned": false
         },
         {
-          "title": "Oil prices jump as US, Iranian attacks stoke fears of escalation",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTzBVakF1VXpKSWdkbXZsNXJOYS0wRnV2bWstenBpNnhlNXBzTVVxVEFPUW5HeS14Rjh6UnM3b0RpWG5NWjdWdW5NdWNHdlJLV3psWHlhOVd2Y1FySF9MRlVmRGZab3RTcTd5Rmt2QkFONEVFWmJHVmZzMGxid2g0MjR0UzJXdmRZcVdEaGhlT1Z5RTAyT1VFVndXWU52ZGNlRENGaHNBVXF1YzTSAbABQVVfeXFMT2dkcDBqS3R3WmtGZmhqcl9RTzNSc0xObFNYam1fQTllaFdkamxnZnZ2OW11SXc3d1hNWER5WGxQclV4aDhYbnZxNE5tRGNWQllxQ3F0eXViSmZoTFNwamJTLXQ4cUxXS0tldkc1ODE0NGZMXzRFbFBfYkhSdFMtMnZfVkIySkRVMlBtLUxhaEpMZ2NxZUFRUEtMTFRlWDFjY25FaWtqMDNVT25hSWpJZ0E?oc=5",
+          "title": "Russian strikes destroy 12 million books in Ukraine ahead of new school year",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sSTFwNy1NQmE3Q2RhU004YlNSTFQ4QWhnaWVFeTRZNlNUR1otckl2aVFiSF9tcmFZSnpHRy1rTXNrMFN4Zm04V1pfSFAtUG0zeTFHc1N1aHJsUQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260831T050112Z",
+          "pinned": false
+        },
+        {
+          "title": "War on Iran: US bombs Iran",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQkp5djBJOVFTLVhnSWtBb3htUXZJZ3cycFNHVFdGcUlmV2hkeE1ObEFTRF9ITHhuWEZHTzA3YW5MbHVyNzlmLU5rdTcxNE42aUlpQngxcmhUNXloX0YtQTZNOUR4UjZwbEVRUGpzWEd4eF9UamNzdzdmWEw3NDBHUXRn0gGHAUFVX3lxTE1Qd0NwTFlhMGhsWUFBeHI3YmhfaElucUhhbXhrWXR2VnNKU1c0SUc1djl4bnRxamIwU2h1V0pMeTlkVDlndS1rSkVQb2RQZTBEUjNMUmxrdGV1NHk4WG5GUXVIWkxlb0dnUjJhTUZ5V1ZHQVRlbVZPNmQzczZDY19vQTlwR3pSNA?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260901T093251Z",
+          "seen": "20260831T174052Z",
           "pinned": false
         }
       ],
@@ -1396,6 +1396,15 @@
           "reportedAt": "2026-08-31T14:48:34Z"
         },
         {
+          "id": "report-7189b1279a52",
+          "title": "Iran claims attacks on Bahrain, Jordan, Iraq after US strikes kill 11",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY1VIcWhXU2JEN0F2MFR6UHNxbHQ4WG02cWVRVzVEaW5lS3lveTJaMUc4c2RIWEhOeEl3QUF3NnUtQzN2Q2VUQTczcmdGNmU5Y3I1XzJTSTRwU1RBQTFvSDBfSjlZMHRxMlM5TDhlcE1XNVlUclB5VUdNQlZmYWExbWlaUEZmWkFrQ2tyTy1pY9IBlAFBVV95cUxNbVdoa0dFUldPbnNjTlNaZUJGVHprRGpUOWNieWtoQ1QtQTBoZktQUnlMbkFpT2sycnAyV2VYYVo0dE51Q3VVWUxsUU5sRnhCcHIxVnB1US1haS1Xck9LVUZfV2JqM3NfWVVpa0hGdXh6OFNrd1J5b2hsWjJZTU54cDBlLTBnMXZjYURyeVltVGJINVB1?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-02T05:33:27Z"
+        },
+        {
           "id": "report-57947776f8d5",
           "title": "Abroad and at odds: How the war has divided Iranians in the diaspora",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeXVTYlkwNkNZWlh3ckxDc2VhcEZ2bmhibk41TmhUeGZNREhEVm04OEhKMENiRmpuSzlTSFRzMEMtUUY0NU5fQjRDcl9oS0hFdy02NVAzOHI0NnZCVlQ5d1JsZzJKY3JxU2VVdHZsYmhweXM1MlQ5VmZ6RlhYc2FNbDJhMTY0RHV4SGVKbU82OXBET3BvMEdSaGtVSU5FWkU5anljTng4Y3UzR2_SAbABQVVfeXFMTWhSbFRjcVNrRUhERVBDM2hZTmgydnNNcEZuS0pLaUFTWlVyQ2dodXlBVndtYV9ucnRYMjR2N3dtRDZFb244TGh2UUp1NUM2dHhFY2MtamNKU2JaUzNpNHN1cFVwdGgyVmpPQUQxa1NfZ205U1pVejNGVVZwTUw3QW41eWVnWFM1TlhubFljUWE1eV9DVlFyNWNQNEZPRFl5emp2bER5OXZsZ3pzaEdkUmw?oc=5",
@@ -1403,15 +1412,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-01T10:39:22Z"
-        },
-        {
-          "id": "report-7189b1279a52",
-          "title": "Iran says it responded with missiles to US attack despite Trump’s threats",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY1VIcWhXU2JEN0F2MFR6UHNxbHQ4WG02cWVRVzVEaW5lS3lveTJaMUc4c2RIWEhOeEl3QUF3NnUtQzN2Q2VUQTczcmdGNmU5Y3I1XzJTSTRwU1RBQTFvSDBfSjlZMHRxMlM5TDhlcE1XNVlUclB5VUdNQlZmYWExbWlaUEZmWkFrQ2tyTy1pY9IBlAFBVV95cUxNbVdoa0dFUldPbnNjTlNaZUJGVHprRGpUOWNieWtoQ1QtQTBoZktQUnlMbkFpT2sycnAyV2VYYVo0dE51Q3VVWUxsUU5sRnhCcHIxVnB1US1haS1Xck9LVUZfV2JqM3NfWVVpa0hGdXh6OFNrd1J5b2hsWjJZTU54cDBlLTBnMXZjYURyeVltVGJINVB1?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-01T21:36:45Z"
         },
         {
           "id": "report-d41ef50ab183",
@@ -1429,7 +1429,7 @@
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-01T13:47:07Z"
+          "reportedAt": "2026-09-01T21:50:52Z"
         },
         {
           "id": "report-77861b031826",
@@ -1459,15 +1459,6 @@
           "reportedAt": "2026-08-30T13:43:48Z"
         },
         {
-          "id": "report-f1c64cc6faa6",
-          "title": "Britons face ‘risk premium’ for energy as US-Israel war on Iran intensifies",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNamQ2MHJHYV9meERsSE9HcGVkY3NiT0g1cE81ckR3Z3h0SFVSYk4yY1JrZlRjMVZ6eUh1X2IybWtROE43Z2pfUXJnNzY0WllHREw5c0Y4V3Zrc3ZxUmJsMmhDOGxvMDFhWnVlNWRNRDVjbVJ5bnlPZ0t4Wlh1ZHFGZUYzSjRhZE41dUlacFRaOGFBRlJVLThaR3V6M1NJUHltY2lWNjl4eHNsdHZwSjhWVtIBtgFBVV95cUxNV1gyTFJnWUdoUDEtbU1hanItcV9FTHJUVDM1bXNSYmJKT2Y4Wnp3akxyLW1qLTFuMElNdlU4TUFRbU5fUGtOV2tiYnRybElBT0VaOTBDdUZvb281ZFU5eWRMU25hS29Kc2VBS3dPNkZnd3UyQWw3b1hicy10RVM2ZGdLQm5DWkltaDZKeXBNVEY3U1Q2TG91eUtEdDE3bW9nMHRrNHhUbTNFNFV5d3hUZl9MbUFkdw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-01T08:24:18Z"
-        },
-        {
           "id": "report-c61ffb380527",
           "title": "Mapping Iran war’s strikes on Gulf energy and its impact on future of oil",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOalprVVJWeE5qUlBuYWFRMzA4YUdzckllZnJYZE5WLUFDOTBGTFJzcVNDd0Q5RFJPTUs3ZG9ldF96MkhsZ05XVTR0dHV3eTV2TFlVd3ZuendWRFJLRFNvdi1SOHFXMHJGSm9BSHVlTjd5Z0NmbkdFZVFFNjhwbFhpQ3dnVXI0cEd6UXl2TmZncWMyR3Ywd3FKNXBWeTRKUFJ2WnVmd185ei15WmloLXV0Vnpmb9IBuAFBVV95cUxNaEFGcGwxNzJ3RFEyTG04T1d6ZWl3cEpZWmF0dXljcGdOUWc2dm05RDFwYURjVU5aZkFaVnlvb3did2JuYWxtVjI3MDYzRFN6MlpRTm1SenJQeDdUcnB0aU45V2VlYk5SU3E2dEpwajRWajhqT19TaFZlSW5OVFF2ME5aRml6cHVVenY1MXBqVG45YTljLUNyMXBtVVM0eGthUXhQVk9YTEc4em1ITEYxMjZ4d193MFJ2?oc=5",
@@ -1484,6 +1475,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-31T00:05:22Z"
+        },
+        {
+          "id": "report-f1c64cc6faa6",
+          "title": "Britons face ‘risk premium’ for energy as US-Israel war on Iran intensifies",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNamQ2MHJHYV9meERsSE9HcGVkY3NiT0g1cE81ckR3Z3h0SFVSYk4yY1JrZlRjMVZ6eUh1X2IybWtROE43Z2pfUXJnNzY0WllHREw5c0Y4V3Zrc3ZxUmJsMmhDOGxvMDFhWnVlNWRNRDVjbVJ5bnlPZ0t4Wlh1ZHFGZUYzSjRhZE41dUlacFRaOGFBRlJVLThaR3V6M1NJUHltY2lWNjl4eHNsdHZwSjhWVtIBtgFBVV95cUxNV1gyTFJnWUdoUDEtbU1hanItcV9FTHJUVDM1bXNSYmJKT2Y4Wnp3akxyLW1qLTFuMElNdlU4TUFRbU5fUGtOV2tiYnRybElBT0VaOTBDdUZvb281ZFU5eWRMU25hS29Kc2VBS3dPNkZnd3UyQWw3b1hicy10RVM2ZGdLQm5DWkltaDZKeXBNVEY3U1Q2TG91eUtEdDE3bW9nMHRrNHhUbTNFNFV5d3hUZl9MbUFkdw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-01T08:24:18Z"
         },
         {
           "id": "report-538fd6bcfd43",
@@ -1522,6 +1522,24 @@
           "reportedAt": "2026-08-31T10:59:22Z"
         },
         {
+          "id": "report-3eaf7ebafd52",
+          "title": "United Arab Emirates says it intercepted an Iranian drone over its territorial waters",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSkx5VllnSlpKbjRJSUM0S2ZmSWhlb0YyX2xyUElqbmt1X1RxMDhLb3lNeGVqRFprU3ZBcHppYkhSZUFOb0JGNkVjZFp1U2doYnFaWk9WVUEzUG1RN1JQVkF2VUtkQUliY09fcm5rNllyeDVaRG0yNnVqcFFXME0tNjFOVjRiODI2RTJJSjZ1eHRaSXRx?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-01T01:10:00Z"
+        },
+        {
+          "id": "report-b922fc2300e9",
+          "title": "Oil prices jump as US, Iranian attacks stoke fears of escalation",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTzBVakF1VXpKSWdkbXZsNXJOYS0wRnV2bWstenBpNnhlNXBzTVVxVEFPUW5HeS14Rjh6UnM3b0RpWG5NWjdWdW5NdWNHdlJLV3psWHlhOVd2Y1FySF9MRlVmRGZab3RTcTd5Rmt2QkFONEVFWmJHVmZzMGxid2g0MjR0UzJXdmRZcVdEaGhlT1Z5RTAyT1VFVndXWU52ZGNlRENGaHNBVXF1YzTSAbABQVVfeXFMT2dkcDBqS3R3WmtGZmhqcl9RTzNSc0xObFNYam1fQTllaFdkamxnZnZ2OW11SXc3d1hNWER5WGxQclV4aDhYbnZxNE5tRGNWQllxQ3F0eXViSmZoTFNwamJTLXQ4cUxXS0tldkc1ODE0NGZMXzRFbFBfYkhSdFMtMnZfVkIySkRVMlBtLUxhaEpMZ2NxZUFRUEtMTFRlWDFjY25FaWtqMDNVT25hSWpJZ0E?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-01T09:32:51Z"
+        },
+        {
           "id": "report-0271f660b9b9",
           "title": "Toxic waste of war on Gaza reached Israel",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcWozMk1uWGNLZnYzTTZDSEdublNnazA2N2xNRGwzNS16VDVmeU8zeFgxeURVRTB0ai1FbHI3OGljQ0UtTnUxczhzY19RcWJIci1BNnBOSEd4M0RCWml2SVpGMC1YNkJKbGJ4azd5NGRodVgzbmM2bEpFUlhYUWtmWG14STNsNXBtVWRLTWhwX2ZvdGVoU0steVJaY9IBoAFBVV95cUxQSVlNTFNIdDJQSWJHR0dmYVNRMU92YkZVeFl0S3lDRTdxOUdsZGlqY0RLOHlYMHVfQS15VjJpT1FiTmt0TS11R3pTZXFBX1R2SGFKWkxnTWVFcmJicGgwWGxGNkdhTi1tR0NBMkh4eFBXN1paVHJpYlEwVHpiTWhPcm84cnRkQkNGUFlIdzdubWx0WXlHbndnTWtac0NsSXpl?oc=5",
@@ -1529,24 +1547,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-30T07:44:02Z"
-        },
-        {
-          "id": "report-f8b34a28d1ef",
-          "title": "Destroyed desalination plant worsens Gaza’s drinking water crisis",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQb3NoaExUQzQ0VkRIb2RpWGhWSGljSjJCNS1wV0lVNFUzdXphdl9icjVxYWxzb1EwZVF4aExnOTNpYUZURl80QVZFTjBtUzB6WGxlejlZdFZiT3oyM1dXUUxMSTdkT0MzRkxic1VhSFZBbXMtNVlta2FVUnJaQ2VnWERobG0tWW5PR2ViaDdPSmNFVTkza2RXUVFKbV9TaEJfQVU3clBmTmFJT19F0gGyAUFVX3lxTE5CWU9SM0RCNGVrRkZmcGVvcW9GY2N0eU1lYXdRSTRjOVFOdkZtQWR4bjJnNGVFQ0tzWFFNc2Vrd0ppXzVfemNsdF9mR2VLdFA4ZVAyeU5YT0ludEN5aGVJLWF1UndTM0RsZ2dPa01VbVJSd0JBWE5iUXhEeU04XzFCcy1Vd19CMG8teXpibW11OXcxUG1MbmlvcjlMLTE4V3dLeXF0d28yX2x0VU5ZY1N5eGc?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-01T16:50:31Z"
-        },
-        {
-          "id": "report-224aadc0b786",
-          "title": "Russian strikes destroy 12 million books in Ukraine ahead of new school year",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sSTFwNy1NQmE3Q2RhU004YlNSTFQ4QWhnaWVFeTRZNlNUR1otckl2aVFiSF9tcmFZSnpHRy1rTXNrMFN4Zm04V1pfSFAtUG0zeTFHc1N1aHJsUQ?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-31T05:01:12Z"
         },
         {
           "id": "report-258262504c36",
@@ -1558,15 +1558,6 @@
           "reportedAt": "2026-09-01T05:35:33Z"
         },
         {
-          "id": "report-224877c8c403",
-          "title": "War on Iran: US bombs Iran",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQkp5djBJOVFTLVhnSWtBb3htUXZJZ3cycFNHVFdGcUlmV2hkeE1ObEFTRF9ITHhuWEZHTzA3YW5MbHVyNzlmLU5rdTcxNE42aUlpQngxcmhUNXloX0YtQTZNOUR4UjZwbEVRUGpzWEd4eF9UamNzdzdmWEw3NDBHUXRn0gGHAUFVX3lxTE1Qd0NwTFlhMGhsWUFBeHI3YmhfaElucUhhbXhrWXR2VnNKU1c0SUc1djl4bnRxamIwU2h1V0pMeTlkVDlndS1rSkVQb2RQZTBEUjNMUmxrdGV1NHk4WG5GUXVIWkxlb0dnUjJhTUZ5V1ZHQVRlbVZPNmQzczZDY19vQTlwR3pSNA?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-31T17:40:52Z"
-        },
-        {
           "id": "report-daad3a829b98",
           "title": "Investors prosper and consumers pay as the Iran war exacts an uneven economic toll 6 months in",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVGdBSGZSbmpzWjd2SVptS1diUkZ5MXhOUXVJZ3hHY0V4YUpfVzFSak1yZVNTR2ZOSExuczc5RzlGdWJKWVFnS2JCRzJPMmsyMG9Ra0l1ZTBOZ1FEMC03Qld3eUlRX3RkREo4eFZBdlVzUjVPZTVwdjlKN1lSd09hNTJxR0U2aG9EMi1tZ0JzeVE5ell1bzVzNTlUZFJ6TktldmZMRGtOUlk?oc=5",
@@ -1576,13 +1567,22 @@
           "reportedAt": "2026-08-30T07:05:00Z"
         },
         {
-          "id": "report-b922fc2300e9",
-          "title": "Oil prices jump as US, Iranian attacks stoke fears of escalation",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTzBVakF1VXpKSWdkbXZsNXJOYS0wRnV2bWstenBpNnhlNXBzTVVxVEFPUW5HeS14Rjh6UnM3b0RpWG5NWjdWdW5NdWNHdlJLV3psWHlhOVd2Y1FySF9MRlVmRGZab3RTcTd5Rmt2QkFONEVFWmJHVmZzMGxid2g0MjR0UzJXdmRZcVdEaGhlT1Z5RTAyT1VFVndXWU52ZGNlRENGaHNBVXF1YzTSAbABQVVfeXFMT2dkcDBqS3R3WmtGZmhqcl9RTzNSc0xObFNYam1fQTllaFdkamxnZnZ2OW11SXc3d1hNWER5WGxQclV4aDhYbnZxNE5tRGNWQllxQ3F0eXViSmZoTFNwamJTLXQ4cUxXS0tldkc1ODE0NGZMXzRFbFBfYkhSdFMtMnZfVkIySkRVMlBtLUxhaEpMZ2NxZUFRUEtMTFRlWDFjY25FaWtqMDNVT25hSWpJZ0E?oc=5",
+          "id": "report-224aadc0b786",
+          "title": "Russian strikes destroy 12 million books in Ukraine ahead of new school year",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sSTFwNy1NQmE3Q2RhU004YlNSTFQ4QWhnaWVFeTRZNlNUR1otckl2aVFiSF9tcmFZSnpHRy1rTXNrMFN4Zm04V1pfSFAtUG0zeTFHc1N1aHJsUQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-31T05:01:12Z"
+        },
+        {
+          "id": "report-224877c8c403",
+          "title": "War on Iran: US bombs Iran",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQkp5djBJOVFTLVhnSWtBb3htUXZJZ3cycFNHVFdGcUlmV2hkeE1ObEFTRF9ITHhuWEZHTzA3YW5MbHVyNzlmLU5rdTcxNE42aUlpQngxcmhUNXloX0YtQTZNOUR4UjZwbEVRUGpzWEd4eF9UamNzdzdmWEw3NDBHUXRn0gGHAUFVX3lxTE1Qd0NwTFlhMGhsWUFBeHI3YmhfaElucUhhbXhrWXR2VnNKU1c0SUc1djl4bnRxamIwU2h1V0pMeTlkVDlndS1rSkVQb2RQZTBEUjNMUmxrdGV1NHk4WG5GUXVIWkxlb0dnUjJhTUZ5V1ZHQVRlbVZPNmQzczZDY19vQTlwR3pSNA?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-01T09:32:51Z"
+          "reportedAt": "2026-08-31T17:40:52Z"
         },
         {
           "id": "report-3856ac9e73b2",
