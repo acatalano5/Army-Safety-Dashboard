@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-03T16:26:16.420Z",
+  "generatedAt": "2026-09-03T18:53:45.094Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -9,7 +9,7 @@
       "items": []
     },
     "safety": {
-      "generatedAt": "2026-09-02T18:58:38.925Z",
+      "generatedAt": "2026-09-03T18:53:45.094Z",
       "cadence": "daily",
       "items": [
         {
@@ -29,19 +29,11 @@
           "pinned": false
         },
         {
-          "title": "Body cam footage shows Marine after ejecting from F-18: ‘Hey buddy, I just crashed’",
+          "title": "'I just crashed’ — New footage shows Marine after F-18 ejection",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ENC16amhkbmlxTnRKbi1lalU4Yjh5T1I0UWpURTBXeVNpWldicVc2Yl81OHJxYlJBWTNzM2p3M1RxVlV0QzNMX0RkQkpMallpSFdHc1hYeVlSTzNMSzBqRVVRM0VqYjVVLVpSbzhlY0tCNElDVFo2ag?oc=5",
           "domain": "taskandpurpose.com",
           "sourceTier": "Independent reporting",
           "seen": "20260818T070000Z",
-          "pinned": false
-        },
-        {
-          "title": "Army identifies soldiers killed in Texas Apache helicopter crash",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZTU84TkwxQ3Vad0x3TlFfMFlxa1dnQUdEcHRRZ1A5ZGhXV1VoeUdBTk1lS1RmdmVTLS11RUNNcmdaNXdSZ0FFcEdzS3ZLc3d6Q1IzeEZXR2lYN21yQmpZeFN5NjRBT1JnZGJtVVY1T2M3THE5c2cw?oc=5",
-          "domain": "taskandpurpose.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260814T070000Z",
           "pinned": false
         },
         {
@@ -50,6 +42,14 @@
           "domain": "taskandpurpose.com",
           "sourceTier": "Independent reporting",
           "seen": "20260825T184439Z",
+          "pinned": false
+        },
+        {
+          "title": "PLR 26-061 – Automobile Mishap Claims One Soldier’s Life",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZE5YeVo2cFE4bndqZGpzSGliQXE0akRsXzRaUl9iSFVIUU91dzBnWWVDc1lrS2dTSkt2b2p4TGtLcGh4NE1Od3V2VWUwRVVyd2JDNXdlWWJxNVgtanVSZHVGVE9zb0VUS1o3YzFFNHNHNnlYVUlaOFA3NExPS1Q3R1ZTeFh6cWd2b0hGQ3RQd0w0eGljbnJUMEJiVkxzZzAzY0x6SkJHN1k5ekpOQTFGbkRtejdKTGR2RmJFUm11TnRaUEo3T2o4VVA1WEtvbV9EXzJJQ09TMHdFcDZyR2VN?oc=5",
+          "domain": "safety.army.mil",
+          "sourceTier": "Official military source",
+          "seen": "20260902T194937Z",
           "pinned": false
         },
         {
@@ -77,15 +77,33 @@
           "pinned": false
         },
         {
-          "title": "Coast Guard suspends search for missing male at Gun Beach, Guam",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObGtBUGhrZ2JIT1RId3RsV2xrV0FZcy11RnNlQzkxeTdFZnJZaWJsWVVWN0ZhRWxQTDFwVk9IQUh5dXhkSkg5cm9Sc3lIYXRuR2RzcVlDVkRnc2hDXzVxam8ycERuUzZZTHRsN1JVZUVLZzJXcUpkYU5NMmZqVmtnV1N6dS1DeFBOVFdQZE5wU2xCU0tNd3BNU1NOTTh3QzR1clJSc1FFdXpodEJwY0RFektqeHU5SU5rRnF3QQ?oc=5",
-          "domain": "news.uscg.mil",
-          "sourceTier": "Official military source",
-          "seen": "20260814T234727Z",
+          "title": "Army identifies soldiers killed in Texas Apache helicopter crash",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZTU84TkwxQ3Vad0x3TlFfMFlxa1dnQUdEcHRRZ1A5ZGhXV1VoeUdBTk1lS1RmdmVTLS11RUNNcmdaNXdSZ0FFcEdzS3ZLc3d6Q1IzeEZXR2lYN21yQmpZeFN5NjRBT1JnZGJtVVY1T2M3THE5c2cw?oc=5",
+          "domain": "taskandpurpose.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260814T070000Z",
           "pinned": false
         }
       ],
       "incidents": [
+        {
+          "id": "auto-62a464ff774a",
+          "reportDate": "2026-09-02",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Other",
+          "event": "PLR 26-061 – Automobile Mishap Claims One Soldier’s Life",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "OFFICIAL INTAKE",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Official military source",
+          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
+          "source": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZE5YeVo2cFE4bndqZGpzSGliQXE0akRsXzRaUl9iSFVIUU91dzBnWWVDc1lrS2dTSkt2b2p4TGtLcGh4NE1Od3V2VWUwRVVyd2JDNXdlWWJxNVgtanVSZHVGVE9zb0VUS1o3YzFFNHNHNnlYVUlaOFA3NExPS1Q3R1ZTeFh6cWd2b0hGQ3RQd0w0eGljbnJUMEJiVkxzZzAzY0x6SkJHN1k5ekpOQTFGbkRtejdKTGR2RmJFUm11TnRaUEo3T2o4VVA1WEtvbV9EXzJJQ09TMHdFcDZyR2VN?oc=5",
+          "sourceLabel": "safety.army.mil"
+        },
         {
           "id": "auto-f26a2913181e",
           "reportDate": "2026-09-01",
@@ -381,7 +399,7 @@
           "branch": "Marine Corps",
           "department": "Department of the Navy",
           "type": "Aviation",
-          "event": "Body cam footage shows Marine after ejecting from F-18: ‘Hey buddy, I just crashed’",
+          "event": "'I just crashed’ — New footage shows Marine after F-18 ejection",
           "location": "See official source",
           "fatalities": null,
           "injuries": null,
