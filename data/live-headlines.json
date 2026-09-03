@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-03T04:23:17.667Z",
+  "generatedAt": "2026-09-03T11:14:02.436Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-09-03T04:23:17.667Z",
+      "generatedAt": "2026-09-03T11:14:02.436Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -1205,7 +1205,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-09-03T04:23:17.667Z",
+      "generatedAt": "2026-09-03T11:14:02.436Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -1269,7 +1269,7 @@
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMDlfWEl2RDE0UlJZVDBlVWNZazYxdEFOOFZkSEdxR21YeDFLN1dHdHR2VjNnd1lQczI0OVRHSFI4Zk52Z1pURzk2ZnVpdzdCTmdnenFJcnlnVGlKNmt1YXBCOERVU3YydFJOMEYySWJkX0Q1MlhsWnBIZldMeU80VzRGQ2VjcDE0SXVhZzF0bGxwc0xXSzQ2OG9UNzVaTHZVeDZzVmxSRHdsQdIBrwFBVV95cUxQeVctNkhETFhMR29mNDR5cThZSWRpeEVrM25oQi1oaHAxRTRHTU1ydDhfZ0FiOU1GWkQxMjk5M0lzSWFWbnRidXRzSTJwNkQtcThPcEpTYWdnUUNGYlhkUExIWUd6ekJkNXBtUVJGZ281MmFzNTJQSnlKSXZ6dk92Yll6UHF2U00zbEZPV3lxWEluQ1NwSC1uV1FCV3E2X0gxU2x2U2gzX1FUdlVobWgw?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260902T202719Z",
+          "seen": "20260903T054318Z",
           "pinned": false
         },
         {
@@ -1278,6 +1278,14 @@
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20260831T000522Z",
+          "pinned": false
+        },
+        {
+          "title": "Trump weighs ending Iran war as Pentagon extends deployments: Report",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc1JKakFseFE0cTZrbFAwRHFyV0RycldrMEREWXBSeDY3OXRHbGY0dk0xZ2xWODZFRkc0V1FyeVJaM3FFQktMY1RvTXJrUEdNMHdlSUFQVkEwODdUMGtUcnhzRDBYTlp2WjRjbzl5VXZqRVAzSnlWOGhPZkR4amNRMUNvb1hSRnRMbkJCYklqcUtjNWRvdEVTb2JoQUNvLVVRT2J5c0RmOTI?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20260903T032537Z",
           "pinned": false
         },
         {
@@ -1297,19 +1305,27 @@
           "pinned": false
         },
         {
-          "title": "India’s PM Modi urges end to Ukraine war in talks with Russia’s Putin",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUm5qWHZRNGw0RFg1THJlMm92R0FZUXl6TWp4dXNESm5RQ2J3eGdXZXc1anF3S3c0RlQ3aUc3eUpTaGtoazZFX2xpRUwxZzQ2MUJiM1Boa0VtclFoV1pweEFoRGtJV0lPYjFpWWtPcEljVzJhb0M4Mk4zb2p2OTdsaExsOE5YUGtHMFlEQldlMjBzYlhzdGlLRnBfa0huZzd1d3FDWklDTjJRbUIyUXpSeTU1YmlsZW9qMWc?oc=5",
-          "domain": "aljazeera.com",
+          "title": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByamU5TjBFcHB1R2ZhQ0UtQ2pKTHY1Y09IQ045YlRBNEtMUjV3MVJISGdMZ0dLZ0lzTkR3QTRNdGo2ZDBSVFdObXhySXBvNVYyeDBHLXptQXBxUQ?oc=5",
+          "domain": "bbc.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260831T174338Z",
+          "seen": "20260902T153319Z",
           "pinned": false
         },
         {
-          "title": "United Arab Emirates says it intercepted an Iranian drone over its territorial waters",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSkx5VllnSlpKbjRJSUM0S2ZmSWhlb0YyX2xyUElqbmt1X1RxMDhLb3lNeGVqRFprU3ZBcHppYkhSZUFOb0JGNkVjZFp1U2doYnFaWk9WVUEzUG1RN1JQVkF2VUtkQUliY09fcm5rNllyeDVaRG0yNnVqcFFXME0tNjFOVjRiODI2RTJJSjZ1eHRaSXRx?oc=5",
-          "domain": "apnews.com",
+          "title": "80 years on: The day professional football resumed after World War Two",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BbVV1ZG1kVmJkYkJ0TEJQcmRpRnB6ZDIxdE92cGdnb21VS2IwLWFZOWtXLTluRVFvQ1N5U1ROY1lUcU1qRTR3OV81ZHpvZm9UNksxTVFTaElnNGExN3dQZXNrQWUzeGM?oc=5",
+          "domain": "bbc.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260901T011000Z",
+          "seen": "20260831T105922Z",
+          "pinned": false
+        },
+        {
+          "title": "India’s PM Modi urges end to Ukraine war in talks with Russia’s Putin",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUm5qWHZRNGw0RFg1THJlMm92R0FZUXl6TWp4dXNESm5RQ2J3eGdXZXc1anF3S3c0RlQ3aUc3eUpTaGtoazZFX2xpRUwxZzQ2MUJiM1Boa0VtclFoV1pweEFoRGtJV0lPYjFpWWtPcEljVzJhb0M4Mk4zb2p2OTdsaExsOE5YUGtHMFlEQldlMjBzYlhzdGlLRnBfa0huZzd1d3FDWklDTjJRbUIyUXpSeTU1YmlsZW9qMWfSAb8BQVVfeXFMTXRHRWo4OXRHMU1LN0xHQ3lXczdsc0h4ai0yaFBFTXIxSFFsdVpFYmNGQjNZbjZubFB2MVZuMTM3a3lKWjFUU05FQ3RWaUVqTF9CWHQySElOMzRadnB2VXhMY3VLSktjeUlYa20wZVlaaHo4RG5FZDRvZlI5cGwxSFo2NTE4TTBtUVdsYWMtVU9HbmxraG9na1hPcnh6OGs2a001M0VzQjVMLU1oQzAwemt5eTlLRU9yMTlyNTdTbEE?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260831T174338Z",
           "pinned": false
         },
         {
@@ -1361,14 +1377,6 @@
           "pinned": false
         },
         {
-          "title": "Iran fires on its Gulf neighbors, retaliating for US strikes after a wedding was hit",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSTQ5RWEwemszN1g0ZGdybDJrd0d4MW9sTk43M05welQ3WGZmeWgycERkU0NFck5vMDc4eXBjbmdQSzc0OTNodV9tMXhpTFg1WF9SR2JXOXp3aEVGVjBHSUlwVFR5QWpVdnJodmNfV1FmdEZBeDlhUHNJZVZPeHliVlBQU3hZTXJhNGgzNGZoNURLUWtqOW53OUF2TTJpSEpsNGVBTDVyOUI?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260903T020700Z",
-          "pinned": false
-        },
-        {
           "title": "Zelenskyy warns airlines as Ukrainian drones target Russian airspace",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQXRTT012b1NpNHFwUUoycVpJcG9xZ3F6Rkw2dWZCV2xlenhIandUcjY5X2htRWNja3lJSU9MVDE2YXlkNFVtcC1Zc25BMGFOVU52Ukc0VEFQakdfZGRvZlpBN1ZEdldrQkdvbUd6azRSMElpUUpFTzZSYllwcmlNMGJidzZRMXZLYU1fS01SVUNDaGcxZjcwYXotVERkTFg4MkppMVdJd0UzSkRFemVGTXN2cTNZN0o2YkHSAb8BQVVfeXFMT0pPSzB2RHByWmtXTjRWb1dXOC1makZRUmxQVVFmR1hOOEhNSjBPaVpsUGUzSUNSWlhBdmhUSWx2QVlobjQ4QlJ3X3JLaUw3S3MtR1Q2SGYtZjQxYld5VVFzRlpzbGpkOTJnNml5MHNyYm1XQVhXUTRwUDhBYWM0cVFhQ1EyT3N4TXd5dkt2dnpYSERCQUt1NGFjb3RjbWlmby1UTTFITGlwbHZ0SnlBd2tPVW5VUEM3ZDZWSGhlOEU?oc=5",
           "domain": "aljazeera.com",
@@ -1390,14 +1398,6 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260902T130326Z",
-          "pinned": false
-        },
-        {
-          "title": "Russian drone and missile barrage kills at least 12 in Ukraine’s Kyiv",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUE5yQXVWc1hkanhMaXA1LWZ2Qm9aVXFNd3RaRm53ZFZpZlpaSkI4ZzU2b0I5UkpBZXk4aDE3dV9EcFJwczZoRUNXRGpwaFNoS2tZOU1saTFneDBDNTEyVkxnV2NXN3RxeHpyaGVLUzZSb2FRNGFQeDJEUzNFNm5QSGtPdE92amJJaGY4NDhPeDFtRVJCYmU3aHU3OEZsZFdyU3pCQmF5T1pvT0NM0gGyAUFVX3lxTE5sLVpQYnJjRVBoalBrNzFpZWVsMzY5bkEwMmw2RHNheTh1b1llNEZOVnJJOXhYZ2NpM3hYWHRSc1FKeHEzODBZUHZLX2hJN1ctZEZXMmZMUUF1RVE1UFpxNkFoNG9kaDFuWGNqeUxxaFByNWRoMkRKREdOaHBCcFJfVHBOYUpabXhkUjJ2SkNsVmd0dDd5elJpUWw3dFZRQVRzM0k1SWEzeEliMGZLRnNGTHc?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260901T104713Z",
           "pinned": false
         }
       ],
@@ -1472,7 +1472,7 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-02T20:27:19Z"
+          "reportedAt": "2026-09-03T05:43:18Z"
         },
         {
           "id": "report-5b99cd2ebef5",
@@ -1482,6 +1482,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-31T00:05:22Z"
+        },
+        {
+          "id": "report-900fd65a0ba1",
+          "title": "Trump weighs ending Iran war as Pentagon extends deployments: Report",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc1JKakFseFE0cTZrbFAwRHFyV0RycldrMEREWXBSeDY3OXRHbGY0dk0xZ2xWODZFRkc0V1FyeVJaM3FFQktMY1RvTXJrUEdNMHdlSUFQVkEwODdUMGtUcnhzRDBYTlp2WjRjbzl5VXZqRVAzSnlWOGhPZkR4amNRMUNvb1hSRnRMbkJCYklqcUtjNWRvdEVTb2JoQUNvLVVRT2J5c0RmOTI?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-09-03T03:25:37Z"
         },
         {
           "id": "report-f1c64cc6faa6",
@@ -1502,22 +1511,31 @@
           "reportedAt": "2026-08-31T11:28:03Z"
         },
         {
-          "id": "report-275944b838b6",
+          "id": "report-597db369e127",
+          "title": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByamU5TjBFcHB1R2ZhQ0UtQ2pKTHY1Y09IQ045YlRBNEtMUjV3MVJISGdMZ0dLZ0lzTkR3QTRNdGo2ZDBSVFdObXhySXBvNVYyeDBHLXptQXBxUQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-02T15:33:19Z"
+        },
+        {
+          "id": "report-3cbd8701015d",
+          "title": "80 years on: The day professional football resumed after World War Two",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BbVV1ZG1kVmJkYkJ0TEJQcmRpRnB6ZDIxdE92cGdnb21VS2IwLWFZOWtXLTluRVFvQ1N5U1ROY1lUcU1qRTR3OV81ZHpvZm9UNksxTVFTaElnNGExN3dQZXNrQWUzeGM?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-08-31T10:59:22Z"
+        },
+        {
+          "id": "report-7020ab4e7305",
           "title": "India’s PM Modi urges end to Ukraine war in talks with Russia’s Putin",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUm5qWHZRNGw0RFg1THJlMm92R0FZUXl6TWp4dXNESm5RQ2J3eGdXZXc1anF3S3c0RlQ3aUc3eUpTaGtoazZFX2xpRUwxZzQ2MUJiM1Boa0VtclFoV1pweEFoRGtJV0lPYjFpWWtPcEljVzJhb0M4Mk4zb2p2OTdsaExsOE5YUGtHMFlEQldlMjBzYlhzdGlLRnBfa0huZzd1d3FDWklDTjJRbUIyUXpSeTU1YmlsZW9qMWc?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUm5qWHZRNGw0RFg1THJlMm92R0FZUXl6TWp4dXNESm5RQ2J3eGdXZXc1anF3S3c0RlQ3aUc3eUpTaGtoazZFX2xpRUwxZzQ2MUJiM1Boa0VtclFoV1pweEFoRGtJV0lPYjFpWWtPcEljVzJhb0M4Mk4zb2p2OTdsaExsOE5YUGtHMFlEQldlMjBzYlhzdGlLRnBfa0huZzd1d3FDWklDTjJRbUIyUXpSeTU1YmlsZW9qMWfSAb8BQVVfeXFMTXRHRWo4OXRHMU1LN0xHQ3lXczdsc0h4ai0yaFBFTXIxSFFsdVpFYmNGQjNZbjZubFB2MVZuMTM3a3lKWjFUU05FQ3RWaUVqTF9CWHQySElOMzRadnB2VXhMY3VLSktjeUlYa20wZVlaaHo4RG5FZDRvZlI5cGwxSFo2NTE4TTBtUVdsYWMtVU9HbmxraG9na1hPcnh6OGs2a001M0VzQjVMLU1oQzAwemt5eTlLRU9yMTlyNTdTbEE?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-31T17:43:38Z"
-        },
-        {
-          "id": "report-3eaf7ebafd52",
-          "title": "United Arab Emirates says it intercepted an Iranian drone over its territorial waters",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSkx5VllnSlpKbjRJSUM0S2ZmSWhlb0YyX2xyUElqbmt1X1RxMDhLb3lNeGVqRFprU3ZBcHppYkhSZUFOb0JGNkVjZFp1U2doYnFaWk9WVUEzUG1RN1JQVkF2VUtkQUliY09fcm5rNllyeDVaRG0yNnVqcFFXME0tNjFOVjRiODI2RTJJSjZ1eHRaSXRx?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-01T01:10:00Z"
         },
         {
           "id": "report-007311f9d3c8",
@@ -1574,15 +1592,6 @@
           "reportedAt": "2026-09-01T05:35:33Z"
         },
         {
-          "id": "report-a4b311c08dff",
-          "title": "Iran fires on its Gulf neighbors, retaliating for US strikes after a wedding was hit",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSTQ5RWEwemszN1g0ZGdybDJrd0d4MW9sTk43M05welQ3WGZmeWgycERkU0NFck5vMDc4eXBjbmdQSzc0OTNodV9tMXhpTFg1WF9SR2JXOXp3aEVGVjBHSUlwVFR5QWpVdnJodmNfV1FmdEZBeDlhUHNJZVZPeHliVlBQU3hZTXJhNGgzNGZoNURLUWtqOW53OUF2TTJpSEpsNGVBTDVyOUI?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-03T02:07:00Z"
-        },
-        {
           "id": "report-378e158b5b08",
           "title": "Zelenskyy warns airlines as Ukrainian drones target Russian airspace",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQXRTT012b1NpNHFwUUoycVpJcG9xZ3F6Rkw2dWZCV2xlenhIandUcjY5X2htRWNja3lJSU9MVDE2YXlkNFVtcC1Zc25BMGFOVU52Ukc0VEFQakdfZGRvZlpBN1ZEdldrQkdvbUd6azRSMElpUUpFTzZSYllwcmlNMGJidzZRMXZLYU1fS01SVUNDaGcxZjcwYXotVERkTFg4MkppMVdJd0UzSkRFemVGTXN2cTNZN0o2YkHSAb8BQVVfeXFMT0pPSzB2RHByWmtXTjRWb1dXOC1makZRUmxQVVFmR1hOOEhNSjBPaVpsUGUzSUNSWlhBdmhUSWx2QVlobjQ4QlJ3X3JLaUw3S3MtR1Q2SGYtZjQxYld5VVFzRlpzbGpkOTJnNml5MHNyYm1XQVhXUTRwUDhBYWM0cVFhQ1EyT3N4TXd5dkt2dnpYSERCQUt1NGFjb3RjbWlmby1UTTFITGlwbHZ0SnlBd2tPVW5VUEM3ZDZWSGhlOEU?oc=5",
@@ -1608,15 +1617,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-02T13:03:26Z"
-        },
-        {
-          "id": "report-d318d5aa701a",
-          "title": "Russian drone and missile barrage kills at least 12 in Ukraine’s Kyiv",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUE5yQXVWc1hkanhMaXA1LWZ2Qm9aVXFNd3RaRm53ZFZpZlpaSkI4ZzU2b0I5UkpBZXk4aDE3dV9EcFJwczZoRUNXRGpwaFNoS2tZOU1saTFneDBDNTEyVkxnV2NXN3RxeHpyaGVLUzZSb2FRNGFQeDJEUzNFNm5QSGtPdE92amJJaGY4NDhPeDFtRVJCYmU3aHU3OEZsZFdyU3pCQmF5T1pvT0NM0gGyAUFVX3lxTE5sLVpQYnJjRVBoalBrNzFpZWVsMzY5bkEwMmw2RHNheTh1b1llNEZOVnJJOXhYZ2NpM3hYWHRSc1FKeHEzODBZUHZLX2hJN1ctZEZXMmZMUUF1RVE1UFpxNkFoNG9kaDFuWGNqeUxxaFByNWRoMkRKREdOaHBCcFJfVHBOYUpabXhkUjJ2SkNsVmd0dDd5elJpUWw3dFZRQVRzM0k1SWEzeEliMGZLRnNGTHc?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-01T10:47:13Z"
         },
         {
           "id": "report-3856ac9e73b2",
