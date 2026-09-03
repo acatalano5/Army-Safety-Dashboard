@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-03T11:14:02.436Z",
+  "generatedAt": "2026-09-03T16:26:16.420Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-09-03T11:14:02.436Z",
+      "generatedAt": "2026-09-03T16:26:16.420Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -1205,7 +1205,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-09-03T11:14:02.436Z",
+      "generatedAt": "2026-09-03T16:26:16.420Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -1353,19 +1353,19 @@
           "pinned": false
         },
         {
+          "title": "Ukraine takes the war to Russia’s space programme in tactical shift",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdHJKb1B5b3ZSYVo1STVZTWpHRGVZU00wUkxScE4yRnR6b0o1b0JfX0NyLTN6NWhOdjVFUUVLeTh1NzJMdTZDY09ubU9XbDhCOENldEl6cWtwcWtCamw5eldnREliSXIyYjlJeDR0M1BRdVNGNWNSdlU5Y19TUXhJdDFmMFMyMmx4Vk9CQ2tTbFNSYUQxWFNaWUFldXpYUW_SAaQBQVVfeXFMTm5IZHl3Vjk2cGNodFoyWW5Ib1Vib296VjVZVk9jNWpYVkM5RktGRkZlcVFGQjlSUENlSFNKSG02TnBlYlhTcmhsRmI5c0xDbXVabjNDdmNBQ0JzcS1tY2U0NFo1X3VWSk5jWDA0OEJySHB5bjdra1BMdm9aSTQyZzZWQldsU0x5SU1mNndHY20xWWRtYlh4ckdhMHNqRU9yWWlNVVA?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260903T133609Z",
+          "pinned": false
+        },
+        {
           "title": "War on Iran: US bombs Iran",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQkp5djBJOVFTLVhnSWtBb3htUXZJZ3cycFNHVFdGcUlmV2hkeE1ObEFTRF9ITHhuWEZHTzA3YW5MbHVyNzlmLU5rdTcxNE42aUlpQngxcmhUNXloX0YtQTZNOUR4UjZwbEVRUGpzWEd4eF9UamNzdzdmWEw3NDBHUXRn0gGHAUFVX3lxTE1Qd0NwTFlhMGhsWUFBeHI3YmhfaElucUhhbXhrWXR2VnNKU1c0SUc1djl4bnRxamIwU2h1V0pMeTlkVDlndS1rSkVQb2RQZTBEUjNMUmxrdGV1NHk4WG5GUXVIWkxlb0dnUjJhTUZ5V1ZHQVRlbVZPNmQzczZDY19vQTlwR3pSNA?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260831T174052Z",
-          "pinned": false
-        },
-        {
-          "title": "Germany says Russia behind Leipzig airport drone attack",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lTi0zU1ROU19BOWJYQ3E2dVRIUE1LWVh4RUlTRlE1eEhGRElRVjZhQ05nUVNRRDdqU3BDNHF3WHVXampBZGZnZG04Y0ZTYkFCLVdOTGw2cnh0UQ?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260902T015954Z",
           "pinned": false
         },
         {
@@ -1565,6 +1565,15 @@
           "reportedAt": "2026-09-02T17:33:45Z"
         },
         {
+          "id": "report-94fe2b829d31",
+          "title": "Ukraine takes the war to Russia’s space programme in tactical shift",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdHJKb1B5b3ZSYVo1STVZTWpHRGVZU00wUkxScE4yRnR6b0o1b0JfX0NyLTN6NWhOdjVFUUVLeTh1NzJMdTZDY09ubU9XbDhCOENldEl6cWtwcWtCamw5eldnREliSXIyYjlJeDR0M1BRdVNGNWNSdlU5Y19TUXhJdDFmMFMyMmx4Vk9CQ2tTbFNSYUQxWFNaWUFldXpYUW_SAaQBQVVfeXFMTm5IZHl3Vjk2cGNodFoyWW5Ib1Vib296VjVZVk9jNWpYVkM5RktGRkZlcVFGQjlSUENlSFNKSG02TnBlYlhTcmhsRmI5c0xDbXVabjNDdmNBQ0JzcS1tY2U0NFo1X3VWSk5jWDA0OEJySHB5bjdra1BMdm9aSTQyZzZWQldsU0x5SU1mNndHY20xWWRtYlh4ckdhMHNqRU9yWWlNVVA?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-03T13:36:09Z"
+        },
+        {
           "id": "report-224877c8c403",
           "title": "War on Iran: US bombs Iran",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQkp5djBJOVFTLVhnSWtBb3htUXZJZ3cycFNHVFdGcUlmV2hkeE1ObEFTRF9ITHhuWEZHTzA3YW5MbHVyNzlmLU5rdTcxNE42aUlpQngxcmhUNXloX0YtQTZNOUR4UjZwbEVRUGpzWEd4eF9UamNzdzdmWEw3NDBHUXRn0gGHAUFVX3lxTE1Qd0NwTFlhMGhsWUFBeHI3YmhfaElucUhhbXhrWXR2VnNKU1c0SUc1djl4bnRxamIwU2h1V0pMeTlkVDlndS1rSkVQb2RQZTBEUjNMUmxrdGV1NHk4WG5GUXVIWkxlb0dnUjJhTUZ5V1ZHQVRlbVZPNmQzczZDY19vQTlwR3pSNA?oc=5",
@@ -1572,15 +1581,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-08-31T17:40:52Z"
-        },
-        {
-          "id": "report-1f82e1e81df5",
-          "title": "Germany says Russia behind Leipzig airport drone attack",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lTi0zU1ROU19BOWJYQ3E2dVRIUE1LWVh4RUlTRlE1eEhGRElRVjZhQ05nUVNRRDdqU3BDNHF3WHVXampBZGZnZG04Y0ZTYkFCLVdOTGw2cnh0UQ?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-02T01:59:54Z"
         },
         {
           "id": "report-258262504c36",
