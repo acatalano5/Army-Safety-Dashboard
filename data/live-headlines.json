@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-04T18:33:56.157Z",
+  "generatedAt": "2026-09-04T20:45:05.911Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-09-04T16:22:08.013Z",
+      "generatedAt": "2026-09-04T20:45:05.911Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -1207,7 +1207,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-09-04T16:22:08.013Z",
+      "generatedAt": "2026-09-04T20:45:05.911Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -1227,14 +1227,6 @@
           "pinned": false
         },
         {
-          "title": "Iran claims attacks on Bahrain, Jordan, Iraq after US strikes kill 11",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY1VIcWhXU2JEN0F2MFR6UHNxbHQ4WG02cWVRVzVEaW5lS3lveTJaMUc4c2RIWEhOeEl3QUF3NnUtQzN2Q2VUQTczcmdGNmU5Y3I1XzJTSTRwU1RBQTFvSDBfSjlZMHRxMlM5TDhlcE1XNVlUclB5VUdNQlZmYWExbWlaUEZmWkFrQ2tyTy1pY9IBlAFBVV95cUxNbVdoa0dFUldPbnNjTlNaZUJGVHprRGpUOWNieWtoQ1QtQTBoZktQUnlMbkFpT2sycnAyV2VYYVo0dE51Q3VVWUxsUU5sRnhCcHIxVnB1US1haS1Xck9LVUZfV2JqM3NfWVVpa0hGdXh6OFNrd1J5b2hsWjJZTU54cDBlLTBnMXZjYURyeVltVGJINVB1?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260902T053327Z",
-          "pinned": false
-        },
-        {
           "title": "Abroad and at odds: How the war has divided Iranians in the diaspora",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeXVTYlkwNkNZWlh3ckxDc2VhcEZ2bmhibk41TmhUeGZNREhEVm04OEhKMENiRmpuSzlTSFRzMEMtUUY0NU5fQjRDcl9oS0hFdy02NVAzOHI0NnZCVlQ5d1JsZzJKY3JxU2VVdHZsYmhweXM1MlQ5VmZ6RlhYc2FNbDJhMTY0RHV4SGVKbU82OXBET3BvMEdSaGtVSU5FWkU5anljTng4Y3UzR2_SAbABQVVfeXFMTWhSbFRjcVNrRUhERVBDM2hZTmgydnNNcEZuS0pLaUFTWlVyQ2dodXlBVndtYV9ucnRYMjR2N3dtRDZFb244TGh2UUp1NUM2dHhFY2MtamNKU2JaUzNpNHN1cFVwdGgyVmpPQUQxa1NfZ205U1pVejNGVVZwTUw3QW41eWVnWFM1TlhubFljUWE1eV9DVlFyNWNQNEZPRFl5emp2bER5OXZsZ3pzaEdkUmw?oc=5",
           "domain": "aljazeera.com",
@@ -1243,19 +1235,27 @@
           "pinned": false
         },
         {
-          "title": "Conflict With Iran | Global Conflict Tracker",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMWduRExjZXhMUjFuYjV4Zzc0LS11OHVKUEhXSlpUNUdFMm9MVGlJeFd5eGh1ZWpEWWhFNEdJX0tOVTlJbnZ5NmpBQ3dYeGNpSTBOSWtISUduak5WSHhfQUhQcHBKbVpLdG1IVi1ySWVGd05NM18yektrem1TM3ZvaV9xVjR2eC04cE9RZ3FZajNCZWFHNzBaS0hhSS02dw?oc=5",
-          "domain": "cfr.org",
-          "sourceTier": "Structured / analytic",
-          "seen": "20260901T000000Z",
-          "pinned": false
-        },
-        {
           "title": "SCO slams attacks, sanctions on Iran: Key takeaways from Bishkek summit",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMnlmRVNqUm9ZWVM2TzI2R0RqdEVLS2pZNGVXMkhsdjlmRkNDUjZMQlZKOFpVWTM5MFQxeHZtWnczaWZPdDhWZXlnUzhvWlZnb1lqWjVBNlBXV0NtNVdob0hiLUoxbWtDRm55VjA1UGwtMFB0elVzTG9lZUVxd1JLZllpRE51bTc4NlNJLVpVaU1sZXdZeUxVVWJYM3NIYlRxemZIejhENUNOU3c1SnfSAbMBQVVfeXFMT0FDQWhpa0FGT0tGT3RQRmU4QjNVcWhwOXZDU20zNDlpb3VSTExCU1VzNi1oQkZfZktLY3p4ZzdVakhWdTJUQjh1VGVMdUtLWVlhSlhHN2Yya0ZzZ1JnOEI0WU5jYkpZalNXaXFmTUY2SFVkMDJNdklMNjFDTmV1SWZiWlBMemVnYmNDTXRBU3FfRjVuS0o5TlBsN295VnlPaHdabGkxMFU3UTdrZFFOanFiSjQ?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260901T134418Z",
+          "pinned": false
+        },
+        {
+          "title": "How could US-Iran conflict end? Three experts give their views",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3NlAwRjE4V1ZYTVdlREg1SlpiZkFQdmtGR3puaDhoWENuaEtwMDlyMXpraHNJZFhBV3lXaHIwbHFFWHNYdlBNb0FjTGF2ZmVjZ296Rm0xb3BEdw?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260904T091457Z",
+          "pinned": false
+        },
+        {
+          "title": "Conflict With Iran | Global Conflict Tracker",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMWduRExjZXhMUjFuYjV4Zzc0LS11OHVKUEhXSlpUNUdFMm9MVGlJeFd5eGh1ZWpEWWhFNEdJX0tOVTlJbnZ5NmpBQ3dYeGNpSTBOSWtISUduak5WSHhfQUhQcHBKbVpLdG1IVi1ySWVGd05NM18yektrem1TM3ZvaV9xVjR2eC04cE9RZ3FZajNCZWFHNzBaS0hhSS02dw?oc=5",
+          "domain": "cfr.org",
+          "sourceTier": "Structured / analytic",
+          "seen": "20260901T000000Z",
           "pinned": false
         },
         {
@@ -1275,11 +1275,11 @@
           "pinned": false
         },
         {
-          "title": "How could US-Iran conflict end? Three experts give their views",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3NlAwRjE4V1ZYTVdlREg1SlpiZkFQdmtGR3puaDhoWENuaEtwMDlyMXpraHNJZFhBV3lXaHIwbHFFWHNYdlBNb0FjTGF2ZmVjZ296Rm0xb3BEdw?oc=5",
-          "domain": "bbc.com",
+          "title": "Foreign fighters and external support fuel Sudan’s war: UN-backed probe",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcjJiVVpYaWFyNGc5UGRrUDUtaTVXQlR6Q1NDeDlIVjB0bVoybHYxTnZCQkFfLTV1Ymg1ZXozdGhVUUFJYnJoLUdFck5ScExkeFFELVp6d0VWWHpxYW9ZYW41d2k0NE1ZZnV3dHA5VWQ4VTVRSmZRSHZ5eTVPb1l6anplQi1DTmdsR25OaFYwTjNudFJrajZsMW5RSnRuazBZTXltM1g5MjhjUFVxZ1HSAbMBQVVfeXFMT2tOd0Q4VU5qOS1wYmNvN1FGeGNfd2FCRXAwcktUaG1qYmRzYmpmR2dyQTkydTdYV2NBRlZVcmFJaVNYOU9rUjlqSDJEZVZocmxTSXYzTnUyVDcyNVRKOUp1aUl3UzBKeUVBWWt0bHZyS2tkS0tiamJRRkVrX2lUY3dTSzBXOGgxUkRMR3BnWXkwanl2Z3c4eUd1dlN3a0M5TENnS2VBTXd0bU14ZjFTcEozNjg?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260904T091457Z",
+          "seen": "20260903T184753Z",
           "pinned": false
         },
         {
@@ -1288,14 +1288,6 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260903T054318Z",
-          "pinned": false
-        },
-        {
-          "title": "Foreign fighters and external support fuel Sudan’s war: UN-backed probe",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcjJiVVpYaWFyNGc5UGRrUDUtaTVXQlR6Q1NDeDlIVjB0bVoybHYxTnZCQkFfLTV1Ymg1ZXozdGhVUUFJYnJoLUdFck5ScExkeFFELVp6d0VWWHpxYW9ZYW41d2k0NE1ZZnV3dHA5VWQ4VTVRSmZRSHZ5eTVPb1l6anplQi1DTmdsR25OaFYwTjNudFJrajZsMW5RSnRuazBZTXltM1g5MjhjUFVxZ1HSAbMBQVVfeXFMT2tOd0Q4VU5qOS1wYmNvN1FGeGNfd2FCRXAwcktUaG1qYmRzYmpmR2dyQTkydTdYV2NBRlZVcmFJaVNYOU9rUjlqSDJEZVZocmxTSXYzTnUyVDcyNVRKOUp1aUl3UzBKeUVBWWt0bHZyS2tkS0tiamJRRkVrX2lUY3dTSzBXOGgxUkRMR3BnWXkwanl2Z3c4eUd1dlN3a0M5TENnS2VBTXd0bU14ZjFTcEozNjg?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260903T184753Z",
           "pinned": false
         },
         {
@@ -1335,7 +1327,7 @@
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa1hRbGl3YWlTZjBRNU5vWXJnX00zTzl5S01YWVRlTVl1aVUyZ2dxRWVsVFVKQ1RVdTdEVzlzLVJzeTgxZjFXd0wyY20tNUgyRGl1d0c3TnRuZ0Z2LXdfeDZvdGNFWEUzX0hCM004TC0zb2szcE45aXJLU1VOM1B3bW9FVHkwdlJMYmNOdldrbm5wX01nbjhqMmpEM01Kc09ZQzJLSU5QaTJuZVRhOGM0S19R0gG3AUFVX3lxTE1aZGFCdGhrMkduN21oRGJMb0ZlQURuU2g1RkdybUhjS1dUdXNPTml1TEpDM0lEVFE1RUk4MlpRWDBsRGFpY09hMnJmY19RYnZlZ1doVTZwZ2lxdVhsU2VNalhSYW1vYURWelRqeThmRzZybFlEMUc3M3dOSjhEYUF4Nms0b0JWYlBqdjB0WkhLdm5CQjJZQks2NnVaWWNMX2JXR3Bja1Bpb2tSUHk0cW5ERThsY3JqRQ?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260904T133000Z",
+          "seen": "20260904T133139Z",
           "pinned": false
         },
         {
@@ -1401,6 +1393,14 @@
           "sourceTier": "Independent reporting",
           "seen": "20260902T045351Z",
           "pinned": false
+        },
+        {
+          "title": "Zelenskyy warns airlines as Ukrainian drones target Russian airspace",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQXRTT012b1NpNHFwUUoycVpJcG9xZ3F6Rkw2dWZCV2xlenhIandUcjY5X2htRWNja3lJSU9MVDE2YXlkNFVtcC1Zc25BMGFOVU52Ukc0VEFQakdfZGRvZlpBN1ZEdldrQkdvbUd6azRSMElpUUpFTzZSYllwcmlNMGJidzZRMXZLYU1fS01SVUNDaGcxZjcwYXotVERkTFg4MkppMVdJd0UzSkRFemVGTXN2cTNZN0o2YkHSAb8BQVVfeXFMT0pPSzB2RHByWmtXTjRWb1dXOC1makZRUmxQVVFmR1hOOEhNSjBPaVpsUGUzSUNSWlhBdmhUSWx2QVlobjQ4QlJ3X3JLaUw3S3MtR1Q2SGYtZjQxYld5VVFzRlpzbGpkOTJnNml5MHNyYm1XQVhXUTRwUDhBYWM0cVFhQ1EyT3N4TXd5dkt2dnpYSERCQUt1NGFjb3RjbWlmby1UTTFITGlwbHZ0SnlBd2tPVW5VUEM3ZDZWSGhlOEU?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260901T211002Z",
+          "pinned": false
         }
       ],
       "reports": [
@@ -1423,15 +1423,6 @@
           "reportedAt": "2026-09-01T15:38:26Z"
         },
         {
-          "id": "report-7189b1279a52",
-          "title": "Iran claims attacks on Bahrain, Jordan, Iraq after US strikes kill 11",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY1VIcWhXU2JEN0F2MFR6UHNxbHQ4WG02cWVRVzVEaW5lS3lveTJaMUc4c2RIWEhOeEl3QUF3NnUtQzN2Q2VUQTczcmdGNmU5Y3I1XzJTSTRwU1RBQTFvSDBfSjlZMHRxMlM5TDhlcE1XNVlUclB5VUdNQlZmYWExbWlaUEZmWkFrQ2tyTy1pY9IBlAFBVV95cUxNbVdoa0dFUldPbnNjTlNaZUJGVHprRGpUOWNieWtoQ1QtQTBoZktQUnlMbkFpT2sycnAyV2VYYVo0dE51Q3VVWUxsUU5sRnhCcHIxVnB1US1haS1Xck9LVUZfV2JqM3NfWVVpa0hGdXh6OFNrd1J5b2hsWjJZTU54cDBlLTBnMXZjYURyeVltVGJINVB1?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-02T05:33:27Z"
-        },
-        {
           "id": "report-57947776f8d5",
           "title": "Abroad and at odds: How the war has divided Iranians in the diaspora",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeXVTYlkwNkNZWlh3ckxDc2VhcEZ2bmhibk41TmhUeGZNREhEVm04OEhKMENiRmpuSzlTSFRzMEMtUUY0NU5fQjRDcl9oS0hFdy02NVAzOHI0NnZCVlQ5d1JsZzJKY3JxU2VVdHZsYmhweXM1MlQ5VmZ6RlhYc2FNbDJhMTY0RHV4SGVKbU82OXBET3BvMEdSaGtVSU5FWkU5anljTng4Y3UzR2_SAbABQVVfeXFMTWhSbFRjcVNrRUhERVBDM2hZTmgydnNNcEZuS0pLaUFTWlVyQ2dodXlBVndtYV9ucnRYMjR2N3dtRDZFb244TGh2UUp1NUM2dHhFY2MtamNKU2JaUzNpNHN1cFVwdGgyVmpPQUQxa1NfZ205U1pVejNGVVZwTUw3QW41eWVnWFM1TlhubFljUWE1eV9DVlFyNWNQNEZPRFl5emp2bER5OXZsZ3pzaEdkUmw?oc=5",
@@ -1441,15 +1432,6 @@
           "reportedAt": "2026-09-01T10:39:22Z"
         },
         {
-          "id": "report-defc72fd3c7f",
-          "title": "Conflict With Iran | Global Conflict Tracker",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMWduRExjZXhMUjFuYjV4Zzc0LS11OHVKUEhXSlpUNUdFMm9MVGlJeFd5eGh1ZWpEWWhFNEdJX0tOVTlJbnZ5NmpBQ3dYeGNpSTBOSWtISUduak5WSHhfQUhQcHBKbVpLdG1IVi1ySWVGd05NM18yektrem1TM3ZvaV9xVjR2eC04cE9RZ3FZajNCZWFHNzBaS0hhSS02dw?oc=5",
-          "domain": "cfr.org",
-          "sourceTier": "Structured / analytic",
-          "confidenceLabel": "ANALYTIC REPORT",
-          "reportedAt": "2026-09-01T00:00:00Z"
-        },
-        {
           "id": "report-77861b031826",
           "title": "SCO slams attacks, sanctions on Iran: Key takeaways from Bishkek summit",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMnlmRVNqUm9ZWVM2TzI2R0RqdEVLS2pZNGVXMkhsdjlmRkNDUjZMQlZKOFpVWTM5MFQxeHZtWnczaWZPdDhWZXlnUzhvWlZnb1lqWjVBNlBXV0NtNVdob0hiLUoxbWtDRm55VjA1UGwtMFB0elVzTG9lZUVxd1JLZllpRE51bTc4NlNJLVpVaU1sZXdZeUxVVWJYM3NIYlRxemZIejhENUNOU3c1SnfSAbMBQVVfeXFMT0FDQWhpa0FGT0tGT3RQRmU4QjNVcWhwOXZDU20zNDlpb3VSTExCU1VzNi1oQkZfZktLY3p4ZzdVakhWdTJUQjh1VGVMdUtLWVlhSlhHN2Yya0ZzZ1JnOEI0WU5jYkpZalNXaXFmTUY2SFVkMDJNdklMNjFDTmV1SWZiWlBMemVnYmNDTXRBU3FfRjVuS0o5TlBsN295VnlPaHdabGkxMFU3UTdrZFFOanFiSjQ?oc=5",
@@ -1457,6 +1439,24 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-01T13:44:18Z"
+        },
+        {
+          "id": "report-434bde8e5b20",
+          "title": "How could US-Iran conflict end? Three experts give their views",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3NlAwRjE4V1ZYTVdlREg1SlpiZkFQdmtGR3puaDhoWENuaEtwMDlyMXpraHNJZFhBV3lXaHIwbHFFWHNYdlBNb0FjTGF2ZmVjZ296Rm0xb3BEdw?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-04T09:14:57Z"
+        },
+        {
+          "id": "report-defc72fd3c7f",
+          "title": "Conflict With Iran | Global Conflict Tracker",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMWduRExjZXhMUjFuYjV4Zzc0LS11OHVKUEhXSlpUNUdFMm9MVGlJeFd5eGh1ZWpEWWhFNEdJX0tOVTlJbnZ5NmpBQ3dYeGNpSTBOSWtISUduak5WSHhfQUhQcHBKbVpLdG1IVi1ySWVGd05NM18yektrem1TM3ZvaV9xVjR2eC04cE9RZ3FZajNCZWFHNzBaS0hhSS02dw?oc=5",
+          "domain": "cfr.org",
+          "sourceTier": "Structured / analytic",
+          "confidenceLabel": "ANALYTIC REPORT",
+          "reportedAt": "2026-09-01T00:00:00Z"
         },
         {
           "id": "report-946fd6ae8e69",
@@ -1477,13 +1477,13 @@
           "reportedAt": "2026-09-02T11:51:46Z"
         },
         {
-          "id": "report-434bde8e5b20",
-          "title": "How could US-Iran conflict end? Three experts give their views",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3NlAwRjE4V1ZYTVdlREg1SlpiZkFQdmtGR3puaDhoWENuaEtwMDlyMXpraHNJZFhBV3lXaHIwbHFFWHNYdlBNb0FjTGF2ZmVjZ296Rm0xb3BEdw?oc=5",
-          "domain": "bbc.com",
+          "id": "report-481273334945",
+          "title": "Foreign fighters and external support fuel Sudan’s war: UN-backed probe",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcjJiVVpYaWFyNGc5UGRrUDUtaTVXQlR6Q1NDeDlIVjB0bVoybHYxTnZCQkFfLTV1Ymg1ZXozdGhVUUFJYnJoLUdFck5ScExkeFFELVp6d0VWWHpxYW9ZYW41d2k0NE1ZZnV3dHA5VWQ4VTVRSmZRSHZ5eTVPb1l6anplQi1DTmdsR25OaFYwTjNudFJrajZsMW5RSnRuazBZTXltM1g5MjhjUFVxZ1HSAbMBQVVfeXFMT2tOd0Q4VU5qOS1wYmNvN1FGeGNfd2FCRXAwcktUaG1qYmRzYmpmR2dyQTkydTdYV2NBRlZVcmFJaVNYOU9rUjlqSDJEZVZocmxTSXYzTnUyVDcyNVRKOUp1aUl3UzBKeUVBWWt0bHZyS2tkS0tiamJRRkVrX2lUY3dTSzBXOGgxUkRMR3BnWXkwanl2Z3c4eUd1dlN3a0M5TENnS2VBTXd0bU14ZjFTcEozNjg?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-04T09:14:57Z"
+          "reportedAt": "2026-09-03T18:47:53Z"
         },
         {
           "id": "report-89de1091d8fa",
@@ -1493,15 +1493,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-03T05:43:18Z"
-        },
-        {
-          "id": "report-481273334945",
-          "title": "Foreign fighters and external support fuel Sudan’s war: UN-backed probe",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcjJiVVpYaWFyNGc5UGRrUDUtaTVXQlR6Q1NDeDlIVjB0bVoybHYxTnZCQkFfLTV1Ymg1ZXozdGhVUUFJYnJoLUdFck5ScExkeFFELVp6d0VWWHpxYW9ZYW41d2k0NE1ZZnV3dHA5VWQ4VTVRSmZRSHZ5eTVPb1l6anplQi1DTmdsR25OaFYwTjNudFJrajZsMW5RSnRuazBZTXltM1g5MjhjUFVxZ1HSAbMBQVVfeXFMT2tOd0Q4VU5qOS1wYmNvN1FGeGNfd2FCRXAwcktUaG1qYmRzYmpmR2dyQTkydTdYV2NBRlZVcmFJaVNYOU9rUjlqSDJEZVZocmxTSXYzTnUyVDcyNVRKOUp1aUl3UzBKeUVBWWt0bHZyS2tkS0tiamJRRkVrX2lUY3dTSzBXOGgxUkRMR3BnWXkwanl2Z3c4eUd1dlN3a0M5TENnS2VBTXd0bU14ZjFTcEozNjg?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-03T18:47:53Z"
         },
         {
           "id": "report-48dd87170c46",
@@ -1546,7 +1537,7 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-04T13:30:00Z"
+          "reportedAt": "2026-09-04T13:31:39Z"
         },
         {
           "id": "report-007311f9d3c8",
@@ -1619,6 +1610,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-02T04:53:51Z"
+        },
+        {
+          "id": "report-378e158b5b08",
+          "title": "Zelenskyy warns airlines as Ukrainian drones target Russian airspace",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQXRTT012b1NpNHFwUUoycVpJcG9xZ3F6Rkw2dWZCV2xlenhIandUcjY5X2htRWNja3lJSU9MVDE2YXlkNFVtcC1Zc25BMGFOVU52Ukc0VEFQakdfZGRvZlpBN1ZEdldrQkdvbUd6azRSMElpUUpFTzZSYllwcmlNMGJidzZRMXZLYU1fS01SVUNDaGcxZjcwYXotVERkTFg4MkppMVdJd0UzSkRFemVGTXN2cTNZN0o2YkHSAb8BQVVfeXFMT0pPSzB2RHByWmtXTjRWb1dXOC1makZRUmxQVVFmR1hOOEhNSjBPaVpsUGUzSUNSWlhBdmhUSWx2QVlobjQ4QlJ3X3JLaUw3S3MtR1Q2SGYtZjQxYld5VVFzRlpzbGpkOTJnNml5MHNyYm1XQVhXUTRwUDhBYWM0cVFhQ1EyT3N4TXd5dkt2dnpYSERCQUt1NGFjb3RjbWlmby1UTTFITGlwbHZ0SnlBd2tPVW5VUEM3ZDZWSGhlOEU?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-01T21:10:02Z"
         },
         {
           "id": "report-3856ac9e73b2",
