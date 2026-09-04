@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-04T11:17:51.013Z",
+  "generatedAt": "2026-09-04T16:22:08.013Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-09-04T11:17:51.013Z",
+      "generatedAt": "2026-09-04T16:22:08.013Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -1223,7 +1223,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-09-04T11:17:51.013Z",
+      "generatedAt": "2026-09-04T16:22:08.013Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -1275,6 +1275,14 @@
           "pinned": false
         },
         {
+          "title": "Iran war: Why US midterms could be a pivotal moment",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUVVrZmlySUtWeW9xR2U4U3hnYTRiaUR2elNfenVCWE1WM21HTG9xMDJpc3h6UjhibkpVTS1sNDh0R1pWbFExZGZtX3pDZklCMkFBLXRFWmlJQVZyamdaWkxCT21HNUhaZGtSdWlMMXdPS2tVT0RuYkg5QUdQaUV2cEgzcW8yNzR6NkhPR3hQUk5BV01Z0gGaAUFVX3lxTE5iRlQ2a0g3WDczTkdhRlJlUkN4MElybWktQWhzX1dSelRPLS1SMXFqREVfWDRHRHlpbXdiVFBuZVJBQVBaX0xoU0dMVnZWbk5ib1J3ZTZfazFJb3VLSmJjanJHRFVkQ2RESnloaFNaSjVlUmVFX0tYeGtHOTVXVlVyWUdoRFh5TjdVWXBrSTNTOVNwTWhVbjhpZGc?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260904T111541Z",
+          "pinned": false
+        },
+        {
           "title": "More than 900 killed in Gaza this year despite ceasefire, Hamas-run health ministry says",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoS2Ixb0ZfdUw3bUxVeWc0anU0ajdzWkZfSU44Wm5RbW12MTR2c1ZybG9keXpOczJ3NG9jWjVQVVIxdVliREd5TzM1LWZzc1BKaTZIWERNdVRLdw?oc=5",
           "domain": "bbc.com",
@@ -1283,7 +1291,7 @@
           "pinned": false
         },
         {
-          "title": "After renewed US-Iran strikes - how could the conflict end?",
+          "title": "How could US-Iran conflict end? Three experts give their views",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3NlAwRjE4V1ZYTVdlREg1SlpiZkFQdmtGR3puaDhoWENuaEtwMDlyMXpraHNJZFhBV3lXaHIwbHFFWHNYdlBNb0FjTGF2ZmVjZ296Rm0xb3BEdw?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
@@ -1336,6 +1344,14 @@
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20260902T153319Z",
+          "pinned": false
+        },
+        {
+          "title": "Conflicts and extreme weather pushing global food prices higher, warns UN",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa1hRbGl3YWlTZjBRNU5vWXJnX00zTzl5S01YWVRlTVl1aVUyZ2dxRWVsVFVKQ1RVdTdEVzlzLVJzeTgxZjFXd0wyY20tNUgyRGl1d0c3TnRuZ0Z2LXdfeDZvdGNFWEUzX0hCM004TC0zb2szcE45aXJLU1VOM1B3bW9FVHkwdlJMYmNOdldrbm5wX01nbjhqMmpEM01Kc09ZQzJLSU5QaTJuZVRhOGM0S19R0gG3AUFVX3lxTE1aZGFCdGhrMkduN21oRGJMb0ZlQURuU2g1RkdybUhjS1dUdXNPTml1TEpDM0lEVFE1RUk4MlpRWDBsRGFpY09hMnJmY19RYnZlZ1doVTZwZ2lxdVhsU2VNalhSYW1vYURWelRqeThmRzZybFlEMUc3M3dOSjhEYUF4Nms0b0JWYlBqdjB0WkhLdm5CQjJZQks2NnVaWWNMX2JXR3Bja1Bpb2tSUHk0cW5ERThsY3JqRQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260904T133000Z",
           "pinned": false
         },
         {
@@ -1395,27 +1411,11 @@
           "pinned": false
         },
         {
-          "title": "Zelenskyy warns airlines as Ukrainian drones target Russian airspace",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQXRTT012b1NpNHFwUUoycVpJcG9xZ3F6Rkw2dWZCV2xlenhIandUcjY5X2htRWNja3lJSU9MVDE2YXlkNFVtcC1Zc25BMGFOVU52Ukc0VEFQakdfZGRvZlpBN1ZEdldrQkdvbUd6azRSMElpUUpFTzZSYllwcmlNMGJidzZRMXZLYU1fS01SVUNDaGcxZjcwYXotVERkTFg4MkppMVdJd0UzSkRFemVGTXN2cTNZN0o2YkHSAb8BQVVfeXFMT0pPSzB2RHByWmtXTjRWb1dXOC1makZRUmxQVVFmR1hOOEhNSjBPaVpsUGUzSUNSWlhBdmhUSWx2QVlobjQ4QlJ3X3JLaUw3S3MtR1Q2SGYtZjQxYld5VVFzRlpzbGpkOTJnNml5MHNyYm1XQVhXUTRwUDhBYWM0cVFhQ1EyT3N4TXd5dkt2dnpYSERCQUt1NGFjb3RjbWlmby1UTTFITGlwbHZ0SnlBd2tPVW5VUEM3ZDZWSGhlOEU?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260901T211002Z",
-          "pinned": false
-        },
-        {
           "title": "Germany says Russia preparing ‘hybrid’ attacks over Ukraine support",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZkpGa25VektRVmJ0SHhIbW1DQVM3R01JVnZINmxSQlVONzFhbmhiNHAtT3VldURvU1UxaXRGZTliRnYzcENuRGU3SGpnUG9vdHFGZkJBa1pBMkgyNjNpVFBRSmlFeGFqRU9qTUEtWHo5NWxPTTRfaDlkQ0dpU0tvQUNTTjdRVDZhZTFYc2pkYlA1dlRBTlJMMVQ5NHU5VDJPUzBzWUJaQUQtMm1FZmJkWjZNeDRzUdIBuwFBVV95cUxQQzNvZU84M2ZkSEVVejJwVE9IS2JOa1pXdHpfOXU2NHpQQkpIcmVaV2YyelJWbjFnb21mYjg4b2RRdG1zeTVYVmotSzY5SGkzTWZFM3J5MTcyc25hRHNFaXJPOVpJVlowTkZFYkxYMmNnWTk5b3lfejMyN051VEx2c3hhVGVTaUxucFlIVnZ6THhKakdCaTlJWFZpVDZJRnZXNDdCUjhFUEVzelVxVXFqNlRaQkZlU29nbzU4?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260902T045351Z",
-          "pinned": false
-        },
-        {
-          "title": "Finland runs Europe’s biggest civil defense exercise since the end of World War II",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPLTdpNVR5R0JHdENSLVdzVjExUTE0SWRmTFVtb19BZW1nd3lzOVdCMklHeU1aZFlLZTdWbjhIc1kzY1FEbmZOZl9UWG1RSUxOWU1GemVBM01CVVBTWEtUVGtxMEFYVTdTdElfTXc4ZGp3NE5QN29pMzVZMUk4enRtVU1rLWZfSklJSWp3M1lqdHU3dUFGd3ZiMndYODVSV09PWHRHQl9YQmx6OEdRNWc?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260903T063432Z",
           "pinned": false
         }
       ],
@@ -1475,6 +1475,15 @@
           "reportedAt": "2026-09-01T13:44:18Z"
         },
         {
+          "id": "report-946fd6ae8e69",
+          "title": "Iran war: Why US midterms could be a pivotal moment",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUVVrZmlySUtWeW9xR2U4U3hnYTRiaUR2elNfenVCWE1WM21HTG9xMDJpc3h6UjhibkpVTS1sNDh0R1pWbFExZGZtX3pDZklCMkFBLXRFWmlJQVZyamdaWkxCT21HNUhaZGtSdWlMMXdPS2tVT0RuYkg5QUdQaUV2cEgzcW8yNzR6NkhPR3hQUk5BV01Z0gGaAUFVX3lxTE5iRlQ2a0g3WDczTkdhRlJlUkN4MElybWktQWhzX1dSelRPLS1SMXFqREVfWDRHRHlpbXdiVFBuZVJBQVBaX0xoU0dMVnZWbk5ib1J3ZTZfazFJb3VLSmJjanJHRFVkQ2RESnloaFNaSjVlUmVFX0tYeGtHOTVXVlVyWUdoRFh5TjdVWXBrSTNTOVNwTWhVbjhpZGc?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-04T11:15:41Z"
+        },
+        {
           "id": "report-93ac432fb931",
           "title": "More than 900 killed in Gaza this year despite ceasefire, Hamas-run health ministry says",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoS2Ixb0ZfdUw3bUxVeWc0anU0ajdzWkZfSU44Wm5RbW12MTR2c1ZybG9keXpOczJ3NG9jWjVQVVIxdVliREd5TzM1LWZzc1BKaTZIWERNdVRLdw?oc=5",
@@ -1485,7 +1494,7 @@
         },
         {
           "id": "report-434bde8e5b20",
-          "title": "After renewed US-Iran strikes - how could the conflict end?",
+          "title": "How could US-Iran conflict end? Three experts give their views",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3NlAwRjE4V1ZYTVdlREg1SlpiZkFQdmtGR3puaDhoWENuaEtwMDlyMXpraHNJZFhBV3lXaHIwbHFFWHNYdlBNb0FjTGF2ZmVjZ296Rm0xb3BEdw?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
@@ -1545,6 +1554,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-02T15:33:19Z"
+        },
+        {
+          "id": "report-e041a22b4e03",
+          "title": "Conflicts and extreme weather pushing global food prices higher, warns UN",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa1hRbGl3YWlTZjBRNU5vWXJnX00zTzl5S01YWVRlTVl1aVUyZ2dxRWVsVFVKQ1RVdTdEVzlzLVJzeTgxZjFXd0wyY20tNUgyRGl1d0c3TnRuZ0Z2LXdfeDZvdGNFWEUzX0hCM004TC0zb2szcE45aXJLU1VOM1B3bW9FVHkwdlJMYmNOdldrbm5wX01nbjhqMmpEM01Kc09ZQzJLSU5QaTJuZVRhOGM0S19R0gG3AUFVX3lxTE1aZGFCdGhrMkduN21oRGJMb0ZlQURuU2g1RkdybUhjS1dUdXNPTml1TEpDM0lEVFE1RUk4MlpRWDBsRGFpY09hMnJmY19RYnZlZ1doVTZwZ2lxdVhsU2VNalhSYW1vYURWelRqeThmRzZybFlEMUc3M3dOSjhEYUF4Nms0b0JWYlBqdjB0WkhLdm5CQjJZQks2NnVaWWNMX2JXR3Bja1Bpb2tSUHk0cW5ERThsY3JqRQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-04T13:30:00Z"
         },
         {
           "id": "report-007311f9d3c8",
@@ -1610,15 +1628,6 @@
           "reportedAt": "2026-09-03T02:07:00Z"
         },
         {
-          "id": "report-378e158b5b08",
-          "title": "Zelenskyy warns airlines as Ukrainian drones target Russian airspace",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQXRTT012b1NpNHFwUUoycVpJcG9xZ3F6Rkw2dWZCV2xlenhIandUcjY5X2htRWNja3lJSU9MVDE2YXlkNFVtcC1Zc25BMGFOVU52Ukc0VEFQakdfZGRvZlpBN1ZEdldrQkdvbUd6azRSMElpUUpFTzZSYllwcmlNMGJidzZRMXZLYU1fS01SVUNDaGcxZjcwYXotVERkTFg4MkppMVdJd0UzSkRFemVGTXN2cTNZN0o2YkHSAb8BQVVfeXFMT0pPSzB2RHByWmtXTjRWb1dXOC1makZRUmxQVVFmR1hOOEhNSjBPaVpsUGUzSUNSWlhBdmhUSWx2QVlobjQ4QlJ3X3JLaUw3S3MtR1Q2SGYtZjQxYld5VVFzRlpzbGpkOTJnNml5MHNyYm1XQVhXUTRwUDhBYWM0cVFhQ1EyT3N4TXd5dkt2dnpYSERCQUt1NGFjb3RjbWlmby1UTTFITGlwbHZ0SnlBd2tPVW5VUEM3ZDZWSGhlOEU?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-01T21:10:02Z"
-        },
-        {
           "id": "report-1e5a790a4866",
           "title": "Germany says Russia preparing ‘hybrid’ attacks over Ukraine support",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZkpGa25VektRVmJ0SHhIbW1DQVM3R01JVnZINmxSQlVONzFhbmhiNHAtT3VldURvU1UxaXRGZTliRnYzcENuRGU3SGpnUG9vdHFGZkJBa1pBMkgyNjNpVFBRSmlFeGFqRU9qTUEtWHo5NWxPTTRfaDlkQ0dpU0tvQUNTTjdRVDZhZTFYc2pkYlA1dlRBTlJMMVQ5NHU5VDJPUzBzWUJaQUQtMm1FZmJkWjZNeDRzUdIBuwFBVV95cUxQQzNvZU84M2ZkSEVVejJwVE9IS2JOa1pXdHpfOXU2NHpQQkpIcmVaV2YyelJWbjFnb21mYjg4b2RRdG1zeTVYVmotSzY5SGkzTWZFM3J5MTcyc25hRHNFaXJPOVpJVlowTkZFYkxYMmNnWTk5b3lfejMyN051VEx2c3hhVGVTaUxucFlIVnZ6THhKakdCaTlJWFZpVDZJRnZXNDdCUjhFUEVzelVxVXFqNlRaQkZlU29nbzU4?oc=5",
@@ -1626,15 +1635,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-02T04:53:51Z"
-        },
-        {
-          "id": "report-c18d25434286",
-          "title": "Finland runs Europe’s biggest civil defense exercise since the end of World War II",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPLTdpNVR5R0JHdENSLVdzVjExUTE0SWRmTFVtb19BZW1nd3lzOVdCMklHeU1aZFlLZTdWbjhIc1kzY1FEbmZOZl9UWG1RSUxOWU1GemVBM01CVVBTWEtUVGtxMEFYVTdTdElfTXc4ZGp3NE5QN29pMzVZMUk4enRtVU1rLWZfSklJSWp3M1lqdHU3dUFGd3ZiMndYODVSV09PWHRHQl9YQmx6OEdRNWc?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-03T06:34:32Z"
         },
         {
           "id": "report-3856ac9e73b2",
