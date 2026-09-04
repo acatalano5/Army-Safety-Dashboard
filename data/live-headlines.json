@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-03T21:03:04.256Z",
+  "generatedAt": "2026-09-04T04:32:19.890Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-09-03T21:03:04.256Z",
+      "generatedAt": "2026-09-04T04:32:19.890Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -1223,7 +1223,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-09-03T21:03:04.256Z",
+      "generatedAt": "2026-09-04T04:32:19.890Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -1243,14 +1243,6 @@
           "pinned": false
         },
         {
-          "title": "War and heat: Why are wheat prices soaring?",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYk9JdmhHNnRkMTcyTXR3Y1FoZlZEUXNVQzczdWhnVHN1UGNBQ3FYQlNoZHhTYTJYdlNpUDFmNG9GSVlhSXprMUVYdXdfbHhVNTM2QlZ3cFBsZHV4ZGYxQ0JTOFpHSGIxLTFHVEdQdHp2Tmx2YTF3cll3NEdmS0RVNVk0a1lRT1hFMFHSAY8BQVVfeXFMTVpGczJtUTNrcVhYdERfRHFnaFp0andFWGNUQjVlVTAwWHgzQW5DbjZpbC1odU9vYjVaMU5UVkxsd0hWMG1MSGlJLUYydmVYOEdGSm93SndhdDhmeEg5Z0V6dFVvRzFkdjdGNTBoVGQ2UGhSY0gzdUFhX3BwS3kyYjJzTmxVT015ZmU4Q1hGSVk?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260831T144834Z",
-          "pinned": false
-        },
-        {
           "title": "Iran claims attacks on Bahrain, Jordan, Iraq after US strikes kill 11",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY1VIcWhXU2JEN0F2MFR6UHNxbHQ4WG02cWVRVzVEaW5lS3lveTJaMUc4c2RIWEhOeEl3QUF3NnUtQzN2Q2VUQTczcmdGNmU5Y3I1XzJTSTRwU1RBQTFvSDBfSjlZMHRxMlM5TDhlcE1XNVlUclB5VUdNQlZmYWExbWlaUEZmWkFrQ2tyTy1pY9IBlAFBVV95cUxNbVdoa0dFUldPbnNjTlNaZUJGVHprRGpUOWNieWtoQ1QtQTBoZktQUnlMbkFpT2sycnAyV2VYYVo0dE51Q3VVWUxsUU5sRnhCcHIxVnB1US1haS1Xck9LVUZfV2JqM3NfWVVpa0hGdXh6OFNrd1J5b2hsWjJZTU54cDBlLTBnMXZjYURyeVltVGJINVB1?oc=5",
           "domain": "aljazeera.com",
@@ -1264,6 +1256,14 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260901T103922Z",
+          "pinned": false
+        },
+        {
+          "title": "Conflict With Iran | Global Conflict Tracker",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMWduRExjZXhMUjFuYjV4Zzc0LS11OHVKUEhXSlpUNUdFMm9MVGlJeFd5eGh1ZWpEWWhFNEdJX0tOVTlJbnZ5NmpBQ3dYeGNpSTBOSWtISUduak5WSHhfQUhQcHBKbVpLdG1IVi1ySWVGd05NM18yektrem1TM3ZvaV9xVjR2eC04cE9RZ3FZajNCZWFHNzBaS0hhSS02dw?oc=5",
+          "domain": "cfr.org",
+          "sourceTier": "Structured / analytic",
+          "seen": "20260901T000000Z",
           "pinned": false
         },
         {
@@ -1291,11 +1291,11 @@
           "pinned": false
         },
         {
-          "title": "The US-Canada trade war in 5 charts",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zRFEyWXpnOFFZcXI0NUNoa0E3VWhuZHpHMlpEYlFVX2ZzcjExd3F6QmJsSnpadm1POHliXzh5d3ZaS1hYODVKZjYxUTlRa1gtWXN5dFdUZDZqQQ?oc=5",
-          "domain": "bbc.com",
+          "title": "Foreign fighters and external support fuel Sudan’s war: UN-backed probe",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcjJiVVpYaWFyNGc5UGRrUDUtaTVXQlR6Q1NDeDlIVjB0bVoybHYxTnZCQkFfLTV1Ymg1ZXozdGhVUUFJYnJoLUdFck5ScExkeFFELVp6d0VWWHpxYW9ZYW41d2k0NE1ZZnV3dHA5VWQ4VTVRSmZRSHZ5eTVPb1l6anplQi1DTmdsR25OaFYwTjNudFJrajZsMW5RSnRuazBZTXltM1g5MjhjUFVxZ1HSAbMBQVVfeXFMT2tOd0Q4VU5qOS1wYmNvN1FGeGNfd2FCRXAwcktUaG1qYmRzYmpmR2dyQTkydTdYV2NBRlZVcmFJaVNYOU9rUjlqSDJEZVZocmxTSXYzTnUyVDcyNVRKOUp1aUl3UzBKeUVBWWt0bHZyS2tkS0tiamJRRkVrX2lUY3dTSzBXOGgxUkRMR3BnWXkwanl2Z3c4eUd1dlN3a0M5TENnS2VBTXd0bU14ZjFTcEozNjg?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260831T000522Z",
+          "seen": "20260903T184753Z",
           "pinned": false
         },
         {
@@ -1307,14 +1307,6 @@
           "pinned": false
         },
         {
-          "title": "UAE intercepts drone after US and Iran exchange attacks",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOXRvZHIzWEk1dVV1ZC00WEplbFlScUNqYXBrWmJKcGtFRjZMVWl0X1p0alVuZE9sc1EydFFqbDVlUEVuM3o1dUZldE84N1dfOWZLaFlmX2tqNlU0VEZnVzJ5alE3d0JSVDBFd1ZrUzgyS0JhYjZpM0hlUDU0czRYYXFxR1dyYTY4UTRJZExhaEV2THZQT0VFSV9LamTSAaIBQVVfeXFMTUVtbGUwODRTQ0pzLUh6Vlc1R0Z2eHpVRGpTazBNakdKc3M2SWVhYVdpQ09ONGRNZWNQMFlwLWJZNVVzQVdQRFY2NkRiWDJtWENSMUZHSWZGN0s2c0sxdVNFUEp6cW5KRWNDckdxVV9wZkV0R2hYMTI4NHpSaHp6b0FfRTNpUGtTbjhNUE5oRUQ4UGJXYWdBQnMzTzcxQkdCUjFB?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260831T112803Z",
-          "pinned": false
-        },
-        {
           "title": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByamU5TjBFcHB1R2ZhQ0UtQ2pKTHY1Y09IQ045YlRBNEtMUjV3MVJISGdMZ0dLZ0lzTkR3QTRNdGo2ZDBSVFdObXhySXBvNVYyeDBHLXptQXBxUQ?oc=5",
           "domain": "bbc.com",
@@ -1323,35 +1315,11 @@
           "pinned": false
         },
         {
-          "title": "80 years on: The day professional football resumed after World War Two",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BbVV1ZG1kVmJkYkJ0TEJQcmRpRnB6ZDIxdE92cGdnb21VS2IwLWFZOWtXLTluRVFvQ1N5U1ROY1lUcU1qRTR3OV81ZHpvZm9UNksxTVFTaElnNGExN3dQZXNrQWUzeGM?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260831T105922Z",
-          "pinned": false
-        },
-        {
           "title": "Trump threatens more strikes as death toll in Iran rises to 18",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVG1PeWk5NTJCOFhHM2E3N28zM1M2d0NHTk1hTFB6VjNEZ09FamhlMEJpOExMSWtwb3NraThjT0twUzRPbFk4S00wRGd1WG9GbmFSN3Y0YmVWV25BWXRyUkxaM2dsZ1JuRWE0UlVDRmR0cHJGcmsxWlZ6OGlSSkYwRFJueWVNOUdoWTJKVzRQbmhndmN1WXd5eVBDdXUwRHZTaXl3ZtIBqgFBVV95cUxPRElVbDMtTFJER3dJWnJYemxQVU9qV2pMdlBUVzgtM1NldC1ZQkJXS3U2alBfVmhyZGVEZ2d6MmxrNFk0TXFPTzlTTmY0X2k2M0NqalkzSU5UMjh0NVpIVkdlOEN3ek44d1hkUlU4OWlhUUJaSjhyLXFKQVZ3RzJaR1RVZ2lMTkpEV3g5WUlNOWY3WGhrR1BFdC1NQVZFT1dkenpZaXRYVmxfQQ?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260903T014834Z",
-          "pinned": false
-        },
-        {
-          "title": "India’s PM Modi urges end to Ukraine war in talks with Russia’s Putin",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUm5qWHZRNGw0RFg1THJlMm92R0FZUXl6TWp4dXNESm5RQ2J3eGdXZXc1anF3S3c0RlQ3aUc3eUpTaGtoazZFX2xpRUwxZzQ2MUJiM1Boa0VtclFoV1pweEFoRGtJV0lPYjFpWWtPcEljVzJhb0M4Mk4zb2p2OTdsaExsOE5YUGtHMFlEQldlMjBzYlhzdGlLRnBfa0huZzd1d3FDWklDTjJRbUIyUXpSeTU1YmlsZW9qMWfSAb8BQVVfeXFMTXRHRWo4OXRHMU1LN0xHQ3lXczdsc0h4ai0yaFBFTXIxSFFsdVpFYmNGQjNZbjZubFB2MVZuMTM3a3lKWjFUU05FQ3RWaUVqTF9CWHQySElOMzRadnB2VXhMY3VLSktjeUlYa20wZVlaaHo4RG5FZDRvZlI5cGwxSFo2NTE4TTBtUVdsYWMtVU9HbmxraG9na1hPcnh6OGs2a001M0VzQjVMLU1oQzAwemt5eTlLRU9yMTlyNTdTbEE?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260831T174338Z",
-          "pinned": false
-        },
-        {
-          "title": "Destroyed desalination plant worsens Gaza’s drinking water crisis",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQb3NoaExUQzQ0VkRIb2RpWGhWSGljSjJCNS1wV0lVNFUzdXphdl9icjVxYWxzb1EwZVF4aExnOTNpYUZURl80QVZFTjBtUzB6WGxlejlZdFZiT3oyM1dXUUxMSTdkT0MzRkxic1VhSFZBbXMtNVlta2FVUnJaQ2VnWERobG0tWW5PR2ViaDdPSmNFVTkza2RXUVFKbV9TaEJfQVU3clBmTmFJT19F0gGyAUFVX3lxTE5CWU9SM0RCNGVrRkZmcGVvcW9GY2N0eU1lYXdRSTRjOVFOdkZtQWR4bjJnNGVFQ0tzWFFNc2Vrd0ppXzVfemNsdF9mR2VLdFA4ZVAyeU5YT0ludEN5aGVJLWF1UndTM0RsZ2dPa01VbVJSd0JBWE5iUXhEeU04XzFCcy1Vd19CMG8teXpibW11OXcxUG1MbmlvcjlMLTE4V3dLeXF0d28yX2x0VU5ZY1N5eGc?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260901T165031Z",
           "pinned": false
         },
         {
@@ -1371,19 +1339,19 @@
           "pinned": false
         },
         {
-          "title": "Trump calls media ‘treasonous scum’ over reports of low Iran war munitions",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRndVd0NKeU5tZ1ZlNkNLSGUtbUMwaUZlcVVNU3lKVFhtdUw2WEhuQzNSbnhpOExYb25rTFgxUXJFcWRZVFZQZTdpOUdOUnB4UHBtVDhQT2RseVFZQm5DOHhPdkstam9zTVlfREJ2aUkteDlQNEd3YWh5SHlaU24wQVgyNGtVV0w0RmFUX1ZBOTJfWUZWWjdEa0gxWVJ2Q0V5Q2pKQ3EtYWdkV1JwYkhLWVBB?oc=5",
+          "title": "US Vice President JD Vance declines to offer timeline for end of Iran war",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUF9sREpvaGdYaTROSzBleGstMHlMM2FySEh3aVNfek9VVjJFNTZvQ0I1aks1d1piWC1lOWZxcksxU1dqT01oa005RDBfNWNKOVlCc0dxLURURmF6Um9kUmFsTWRsM2VjMVF2aVZPV0NZZTgwUkVPSEtCWENiclB4WDM5ckRWV3FOUGE5akhzc0xoYnE2VjRvTmRJdnJLNGNfaWRwcHhBRFZNQnE5WWQ5eUdad9IBuAFBVV95cUxOUFZ5TjU1QmxTS21obHU1WE8tZVZsZVk4MUNkUFNSTDQ1LTI5LWVHbG1UWHM2Y3FFQmNZQU1hMkw5bXlJOW13SlVhR01aYTFtSWhUNkc2MEZDTU5rTXZuaWdKQlZFNWxVTVl4Vzc3dzJqLXFrSmhlb2QxNlVQekp2V3gxbUc5X0pvY0FSaUM0XzVRY2R2SllnWENvNWgyc3JMRHZDa3VQUjcwYUdReUtzX1JXRnVobnBj?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260903T173208Z",
+          "seen": "20260903T211343Z",
           "pinned": false
         },
         {
-          "title": "War on Iran: US bombs Iran",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQkp5djBJOVFTLVhnSWtBb3htUXZJZ3cycFNHVFdGcUlmV2hkeE1ObEFTRF9ITHhuWEZHTzA3YW5MbHVyNzlmLU5rdTcxNE42aUlpQngxcmhUNXloX0YtQTZNOUR4UjZwbEVRUGpzWEd4eF9UamNzdzdmWEw3NDBHUXRn0gGHAUFVX3lxTE1Qd0NwTFlhMGhsWUFBeHI3YmhfaElucUhhbXhrWXR2VnNKU1c0SUc1djl4bnRxamIwU2h1V0pMeTlkVDlndS1rSkVQb2RQZTBEUjNMUmxrdGV1NHk4WG5GUXVIWkxlb0dnUjJhTUZ5V1ZHQVRlbVZPNmQzczZDY19vQTlwR3pSNA?oc=5",
+          "title": "Trump calls media ‘treasonous scum’ over reports of low Iran war munitions",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRndVd0NKeU5tZ1ZlNkNLSGUtbUMwaUZlcVVNU3lKVFhtdUw2WEhuQzNSbnhpOExYb25rTFgxUXJFcWRZVFZQZTdpOUdOUnB4UHBtVDhQT2RseVFZQm5DOHhPdkstam9zTVlfREJ2aUkteDlQNEd3YWh5SHlaU24wQVgyNGtVV0w0RmFUX1ZBOTJfWUZWWjdEa0gxWVJ2Q0V5Q2pKQ3EtYWdkV1JwYkhLWVBB0gG3AUFVX3lxTE9HRTN4ZzZQVUI3ajVuOVNIWUNWdkg3dFQyeEU3M3VzazhLUHhJcEJIN1hQS0NEMmppOV9wQnVTSklvOERVX1ZFUTF6V29FRk1EMk1xc0hFN1MwNTNyUmNhWGJWMDBMMEJBTVZCQ3U0XzExeXE2WkRYdFdaUmZwbXhtcWJoNmNFZ21xN1ZuMXl2ZV9BNGtXcXZaUU9kMHY4cTNabVVJRnpzNldoa3o3X2JUOVMwUlZJcw?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260831T174052Z",
+          "seen": "20260903T173208Z",
           "pinned": false
         },
         {
@@ -1392,6 +1360,14 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260901T053533Z",
+          "pinned": false
+        },
+        {
+          "title": "Iran fires on its Gulf neighbors, retaliating for US strikes after a wedding was hit",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSTQ5RWEwemszN1g0ZGdybDJrd0d4MW9sTk43M05welQ3WGZmeWgycERkU0NFck5vMDc4eXBjbmdQSzc0OTNodV9tMXhpTFg1WF9SR2JXOXp3aEVGVjBHSUlwVFR5QWpVdnJodmNfV1FmdEZBeDlhUHNJZVZPeHliVlBQU3hZTXJhNGgzNGZoNURLUWtqOW53OUF2TTJpSEpsNGVBTDVyOUI?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260903T020700Z",
           "pinned": false
         },
         {
@@ -1408,6 +1384,30 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260902T045351Z",
+          "pinned": false
+        },
+        {
+          "title": "Ukraine’s drone attacks caused turmoil for Russians throughout summer",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb0N2R2lIcVdIQk1INTEzTnl5N2s3NFNFbjROUGY3Z2ZMZ2FTaExkWm5PQlc4d3pDU1BvODNtbTc2WmV4WDdPVUdNejFyTGp2OXRUOWI5NG9oU2VLSlRrWXNpWVNWQ0ZYN1FyZU1xUU5JVTVjbDF5LTh6eU1panJuMkFqTlVLeEJpT3FDQk1FY1BwcjFraUpuWkFkZnVWUQ?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260903T120200Z",
+          "pinned": false
+        },
+        {
+          "title": "Finland runs Europe’s biggest civil defense exercise since the end of World War II",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPLTdpNVR5R0JHdENSLVdzVjExUTE0SWRmTFVtb19BZW1nd3lzOVdCMklHeU1aZFlLZTdWbjhIc1kzY1FEbmZOZl9UWG1RSUxOWU1GemVBM01CVVBTWEtUVGtxMEFYVTdTdElfTXc4ZGp3NE5QN29pMzVZMUk4enRtVU1rLWZfSklJSWp3M1lqdHU3dUFGd3ZiMndYODVSV09PWHRHQl9YQmx6OEdRNWc?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260903T063432Z",
+          "pinned": false
+        },
+        {
+          "title": "Trump weighs ending Iran war as Pentagon extends deployments: Report",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORjU2QVJXRDMtdmpXN2EwanNaRmJXTi1iWDNDOW5tV1AxTVpBSElTeWExRnRYS0sxWm5ab0lwcW1TV2FMcXlNek8wV3pHNEdDOEN2Q2tSTmQ4VUNkaF9WRUdHU0RJaEZoMkhSZFZIWmtYVEpXX2JERGs3ZFotU2trbVl2Q1M5TkJIX212cFNIdl9Vb3ZkOW5GYkpKYi1iVnhlaUxxd0ZxOW5VTDdoZEE?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20260903T032537Z",
           "pinned": false
         },
         {
@@ -1439,15 +1439,6 @@
           "reportedAt": "2026-09-01T15:38:26Z"
         },
         {
-          "id": "report-6e92e647afb1",
-          "title": "War and heat: Why are wheat prices soaring?",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYk9JdmhHNnRkMTcyTXR3Y1FoZlZEUXNVQzczdWhnVHN1UGNBQ3FYQlNoZHhTYTJYdlNpUDFmNG9GSVlhSXprMUVYdXdfbHhVNTM2QlZ3cFBsZHV4ZGYxQ0JTOFpHSGIxLTFHVEdQdHp2Tmx2YTF3cll3NEdmS0RVNVk0a1lRT1hFMFHSAY8BQVVfeXFMTVpGczJtUTNrcVhYdERfRHFnaFp0andFWGNUQjVlVTAwWHgzQW5DbjZpbC1odU9vYjVaMU5UVkxsd0hWMG1MSGlJLUYydmVYOEdGSm93SndhdDhmeEg5Z0V6dFVvRzFkdjdGNTBoVGQ2UGhSY0gzdUFhX3BwS3kyYjJzTmxVT015ZmU4Q1hGSVk?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-31T14:48:34Z"
-        },
-        {
           "id": "report-7189b1279a52",
           "title": "Iran claims attacks on Bahrain, Jordan, Iraq after US strikes kill 11",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY1VIcWhXU2JEN0F2MFR6UHNxbHQ4WG02cWVRVzVEaW5lS3lveTJaMUc4c2RIWEhOeEl3QUF3NnUtQzN2Q2VUQTczcmdGNmU5Y3I1XzJTSTRwU1RBQTFvSDBfSjlZMHRxMlM5TDhlcE1XNVlUclB5VUdNQlZmYWExbWlaUEZmWkFrQ2tyTy1pY9IBlAFBVV95cUxNbVdoa0dFUldPbnNjTlNaZUJGVHprRGpUOWNieWtoQ1QtQTBoZktQUnlMbkFpT2sycnAyV2VYYVo0dE51Q3VVWUxsUU5sRnhCcHIxVnB1US1haS1Xck9LVUZfV2JqM3NfWVVpa0hGdXh6OFNrd1J5b2hsWjJZTU54cDBlLTBnMXZjYURyeVltVGJINVB1?oc=5",
@@ -1464,6 +1455,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-01T10:39:22Z"
+        },
+        {
+          "id": "report-defc72fd3c7f",
+          "title": "Conflict With Iran | Global Conflict Tracker",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMWduRExjZXhMUjFuYjV4Zzc0LS11OHVKUEhXSlpUNUdFMm9MVGlJeFd5eGh1ZWpEWWhFNEdJX0tOVTlJbnZ5NmpBQ3dYeGNpSTBOSWtISUduak5WSHhfQUhQcHBKbVpLdG1IVi1ySWVGd05NM18yektrem1TM3ZvaV9xVjR2eC04cE9RZ3FZajNCZWFHNzBaS0hhSS02dw?oc=5",
+          "domain": "cfr.org",
+          "sourceTier": "Structured / analytic",
+          "confidenceLabel": "ANALYTIC REPORT",
+          "reportedAt": "2026-09-01T00:00:00Z"
         },
         {
           "id": "report-77861b031826",
@@ -1493,13 +1493,13 @@
           "reportedAt": "2026-09-03T05:43:18Z"
         },
         {
-          "id": "report-5b99cd2ebef5",
-          "title": "The US-Canada trade war in 5 charts",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zRFEyWXpnOFFZcXI0NUNoa0E3VWhuZHpHMlpEYlFVX2ZzcjExd3F6QmJsSnpadm1POHliXzh5d3ZaS1hYODVKZjYxUTlRa1gtWXN5dFdUZDZqQQ?oc=5",
-          "domain": "bbc.com",
+          "id": "report-481273334945",
+          "title": "Foreign fighters and external support fuel Sudan’s war: UN-backed probe",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcjJiVVpYaWFyNGc5UGRrUDUtaTVXQlR6Q1NDeDlIVjB0bVoybHYxTnZCQkFfLTV1Ymg1ZXozdGhVUUFJYnJoLUdFck5ScExkeFFELVp6d0VWWHpxYW9ZYW41d2k0NE1ZZnV3dHA5VWQ4VTVRSmZRSHZ5eTVPb1l6anplQi1DTmdsR25OaFYwTjNudFJrajZsMW5RSnRuazBZTXltM1g5MjhjUFVxZ1HSAbMBQVVfeXFMT2tOd0Q4VU5qOS1wYmNvN1FGeGNfd2FCRXAwcktUaG1qYmRzYmpmR2dyQTkydTdYV2NBRlZVcmFJaVNYOU9rUjlqSDJEZVZocmxTSXYzTnUyVDcyNVRKOUp1aUl3UzBKeUVBWWt0bHZyS2tkS0tiamJRRkVrX2lUY3dTSzBXOGgxUkRMR3BnWXkwanl2Z3c4eUd1dlN3a0M5TENnS2VBTXd0bU14ZjFTcEozNjg?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-31T00:05:22Z"
+          "reportedAt": "2026-09-03T18:47:53Z"
         },
         {
           "id": "report-f1c64cc6faa6",
@@ -1511,15 +1511,6 @@
           "reportedAt": "2026-09-01T08:24:18Z"
         },
         {
-          "id": "report-538fd6bcfd43",
-          "title": "UAE intercepts drone after US and Iran exchange attacks",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOXRvZHIzWEk1dVV1ZC00WEplbFlScUNqYXBrWmJKcGtFRjZMVWl0X1p0alVuZE9sc1EydFFqbDVlUEVuM3o1dUZldE84N1dfOWZLaFlmX2tqNlU0VEZnVzJ5alE3d0JSVDBFd1ZrUzgyS0JhYjZpM0hlUDU0czRYYXFxR1dyYTY4UTRJZExhaEV2THZQT0VFSV9LamTSAaIBQVVfeXFMTUVtbGUwODRTQ0pzLUh6Vlc1R0Z2eHpVRGpTazBNakdKc3M2SWVhYVdpQ09ONGRNZWNQMFlwLWJZNVVzQVdQRFY2NkRiWDJtWENSMUZHSWZGN0s2c0sxdVNFUEp6cW5KRWNDckdxVV9wZkV0R2hYMTI4NHpSaHp6b0FfRTNpUGtTbjhNUE5oRUQ4UGJXYWdBQnMzTzcxQkdCUjFB?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-31T11:28:03Z"
-        },
-        {
           "id": "report-597db369e127",
           "title": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByamU5TjBFcHB1R2ZhQ0UtQ2pKTHY1Y09IQ045YlRBNEtMUjV3MVJISGdMZ0dLZ0lzTkR3QTRNdGo2ZDBSVFdObXhySXBvNVYyeDBHLXptQXBxUQ?oc=5",
@@ -1529,15 +1520,6 @@
           "reportedAt": "2026-09-02T15:33:19Z"
         },
         {
-          "id": "report-3cbd8701015d",
-          "title": "80 years on: The day professional football resumed after World War Two",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BbVV1ZG1kVmJkYkJ0TEJQcmRpRnB6ZDIxdE92cGdnb21VS2IwLWFZOWtXLTluRVFvQ1N5U1ROY1lUcU1qRTR3OV81ZHpvZm9UNksxTVFTaElnNGExN3dQZXNrQWUzeGM?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-31T10:59:22Z"
-        },
-        {
           "id": "report-007311f9d3c8",
           "title": "Trump threatens more strikes as death toll in Iran rises to 18",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVG1PeWk5NTJCOFhHM2E3N28zM1M2d0NHTk1hTFB6VjNEZ09FamhlMEJpOExMSWtwb3NraThjT0twUzRPbFk4S00wRGd1WG9GbmFSN3Y0YmVWV25BWXRyUkxaM2dsZ1JuRWE0UlVDRmR0cHJGcmsxWlZ6OGlSSkYwRFJueWVNOUdoWTJKVzRQbmhndmN1WXd5eVBDdXUwRHZTaXl3ZtIBqgFBVV95cUxPRElVbDMtTFJER3dJWnJYemxQVU9qV2pMdlBUVzgtM1NldC1ZQkJXS3U2alBfVmhyZGVEZ2d6MmxrNFk0TXFPTzlTTmY0X2k2M0NqalkzSU5UMjh0NVpIVkdlOEN3ek44d1hkUlU4OWlhUUJaSjhyLXFKQVZ3RzJaR1RVZ2lMTkpEV3g5WUlNOWY3WGhrR1BFdC1NQVZFT1dkenpZaXRYVmxfQQ?oc=5",
@@ -1545,24 +1527,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-03T01:48:34Z"
-        },
-        {
-          "id": "report-7020ab4e7305",
-          "title": "India’s PM Modi urges end to Ukraine war in talks with Russia’s Putin",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUm5qWHZRNGw0RFg1THJlMm92R0FZUXl6TWp4dXNESm5RQ2J3eGdXZXc1anF3S3c0RlQ3aUc3eUpTaGtoazZFX2xpRUwxZzQ2MUJiM1Boa0VtclFoV1pweEFoRGtJV0lPYjFpWWtPcEljVzJhb0M4Mk4zb2p2OTdsaExsOE5YUGtHMFlEQldlMjBzYlhzdGlLRnBfa0huZzd1d3FDWklDTjJRbUIyUXpSeTU1YmlsZW9qMWfSAb8BQVVfeXFMTXRHRWo4OXRHMU1LN0xHQ3lXczdsc0h4ai0yaFBFTXIxSFFsdVpFYmNGQjNZbjZubFB2MVZuMTM3a3lKWjFUU05FQ3RWaUVqTF9CWHQySElOMzRadnB2VXhMY3VLSktjeUlYa20wZVlaaHo4RG5FZDRvZlI5cGwxSFo2NTE4TTBtUVdsYWMtVU9HbmxraG9na1hPcnh6OGs2a001M0VzQjVMLU1oQzAwemt5eTlLRU9yMTlyNTdTbEE?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-31T17:43:38Z"
-        },
-        {
-          "id": "report-f8b34a28d1ef",
-          "title": "Destroyed desalination plant worsens Gaza’s drinking water crisis",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQb3NoaExUQzQ0VkRIb2RpWGhWSGljSjJCNS1wV0lVNFUzdXphdl9icjVxYWxzb1EwZVF4aExnOTNpYUZURl80QVZFTjBtUzB6WGxlejlZdFZiT3oyM1dXUUxMSTdkT0MzRkxic1VhSFZBbXMtNVlta2FVUnJaQ2VnWERobG0tWW5PR2ViaDdPSmNFVTkza2RXUVFKbV9TaEJfQVU3clBmTmFJT19F0gGyAUFVX3lxTE5CWU9SM0RCNGVrRkZmcGVvcW9GY2N0eU1lYXdRSTRjOVFOdkZtQWR4bjJnNGVFQ0tzWFFNc2Vrd0ppXzVfemNsdF9mR2VLdFA4ZVAyeU5YT0ludEN5aGVJLWF1UndTM0RsZ2dPa01VbVJSd0JBWE5iUXhEeU04XzFCcy1Vd19CMG8teXpibW11OXcxUG1MbmlvcjlMLTE4V3dLeXF0d28yX2x0VU5ZY1N5eGc?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-01T16:50:31Z"
         },
         {
           "id": "report-d4f420ade426",
@@ -1583,22 +1547,22 @@
           "reportedAt": "2026-09-03T13:36:09Z"
         },
         {
-          "id": "report-344fa2964210",
+          "id": "report-3dea82441058",
+          "title": "US Vice President JD Vance declines to offer timeline for end of Iran war",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUF9sREpvaGdYaTROSzBleGstMHlMM2FySEh3aVNfek9VVjJFNTZvQ0I1aks1d1piWC1lOWZxcksxU1dqT01oa005RDBfNWNKOVlCc0dxLURURmF6Um9kUmFsTWRsM2VjMVF2aVZPV0NZZTgwUkVPSEtCWENiclB4WDM5ckRWV3FOUGE5akhzc0xoYnE2VjRvTmRJdnJLNGNfaWRwcHhBRFZNQnE5WWQ5eUdad9IBuAFBVV95cUxOUFZ5TjU1QmxTS21obHU1WE8tZVZsZVk4MUNkUFNSTDQ1LTI5LWVHbG1UWHM2Y3FFQmNZQU1hMkw5bXlJOW13SlVhR01aYTFtSWhUNkc2MEZDTU5rTXZuaWdKQlZFNWxVTVl4Vzc3dzJqLXFrSmhlb2QxNlVQekp2V3gxbUc5X0pvY0FSaUM0XzVRY2R2SllnWENvNWgyc3JMRHZDa3VQUjcwYUdReUtzX1JXRnVobnBj?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-03T21:13:43Z"
+        },
+        {
+          "id": "report-6842d48296cb",
           "title": "Trump calls media ‘treasonous scum’ over reports of low Iran war munitions",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRndVd0NKeU5tZ1ZlNkNLSGUtbUMwaUZlcVVNU3lKVFhtdUw2WEhuQzNSbnhpOExYb25rTFgxUXJFcWRZVFZQZTdpOUdOUnB4UHBtVDhQT2RseVFZQm5DOHhPdkstam9zTVlfREJ2aUkteDlQNEd3YWh5SHlaU24wQVgyNGtVV0w0RmFUX1ZBOTJfWUZWWjdEa0gxWVJ2Q0V5Q2pKQ3EtYWdkV1JwYkhLWVBB?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRndVd0NKeU5tZ1ZlNkNLSGUtbUMwaUZlcVVNU3lKVFhtdUw2WEhuQzNSbnhpOExYb25rTFgxUXJFcWRZVFZQZTdpOUdOUnB4UHBtVDhQT2RseVFZQm5DOHhPdkstam9zTVlfREJ2aUkteDlQNEd3YWh5SHlaU24wQVgyNGtVV0w0RmFUX1ZBOTJfWUZWWjdEa0gxWVJ2Q0V5Q2pKQ3EtYWdkV1JwYkhLWVBB0gG3AUFVX3lxTE9HRTN4ZzZQVUI3ajVuOVNIWUNWdkg3dFQyeEU3M3VzazhLUHhJcEJIN1hQS0NEMmppOV9wQnVTSklvOERVX1ZFUTF6V29FRk1EMk1xc0hFN1MwNTNyUmNhWGJWMDBMMEJBTVZCQ3U0XzExeXE2WkRYdFdaUmZwbXhtcWJoNmNFZ21xN1ZuMXl2ZV9BNGtXcXZaUU9kMHY4cTNabVVJRnpzNldoa3o3X2JUOVMwUlZJcw?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-03T17:32:08Z"
-        },
-        {
-          "id": "report-224877c8c403",
-          "title": "War on Iran: US bombs Iran",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQkp5djBJOVFTLVhnSWtBb3htUXZJZ3cycFNHVFdGcUlmV2hkeE1ObEFTRF9ITHhuWEZHTzA3YW5MbHVyNzlmLU5rdTcxNE42aUlpQngxcmhUNXloX0YtQTZNOUR4UjZwbEVRUGpzWEd4eF9UamNzdzdmWEw3NDBHUXRn0gGHAUFVX3lxTE1Qd0NwTFlhMGhsWUFBeHI3YmhfaElucUhhbXhrWXR2VnNKU1c0SUc1djl4bnRxamIwU2h1V0pMeTlkVDlndS1rSkVQb2RQZTBEUjNMUmxrdGV1NHk4WG5GUXVIWkxlb0dnUjJhTUZ5V1ZHQVRlbVZPNmQzczZDY19vQTlwR3pSNA?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-08-31T17:40:52Z"
         },
         {
           "id": "report-258262504c36",
@@ -1608,6 +1572,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-01T05:35:33Z"
+        },
+        {
+          "id": "report-a4b311c08dff",
+          "title": "Iran fires on its Gulf neighbors, retaliating for US strikes after a wedding was hit",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSTQ5RWEwemszN1g0ZGdybDJrd0d4MW9sTk43M05welQ3WGZmeWgycERkU0NFck5vMDc4eXBjbmdQSzc0OTNodV9tMXhpTFg1WF9SR2JXOXp3aEVGVjBHSUlwVFR5QWpVdnJodmNfV1FmdEZBeDlhUHNJZVZPeHliVlBQU3hZTXJhNGgzNGZoNURLUWtqOW53OUF2TTJpSEpsNGVBTDVyOUI?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-03T02:07:00Z"
         },
         {
           "id": "report-378e158b5b08",
@@ -1626,6 +1599,33 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-02T04:53:51Z"
+        },
+        {
+          "id": "report-c9fb03fd5459",
+          "title": "Ukraine’s drone attacks caused turmoil for Russians throughout summer",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb0N2R2lIcVdIQk1INTEzTnl5N2s3NFNFbjROUGY3Z2ZMZ2FTaExkWm5PQlc4d3pDU1BvODNtbTc2WmV4WDdPVUdNejFyTGp2OXRUOWI5NG9oU2VLSlRrWXNpWVNWQ0ZYN1FyZU1xUU5JVTVjbDF5LTh6eU1panJuMkFqTlVLeEJpT3FDQk1FY1BwcjFraUpuWkFkZnVWUQ?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-03T12:02:00Z"
+        },
+        {
+          "id": "report-c18d25434286",
+          "title": "Finland runs Europe’s biggest civil defense exercise since the end of World War II",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPLTdpNVR5R0JHdENSLVdzVjExUTE0SWRmTFVtb19BZW1nd3lzOVdCMklHeU1aZFlLZTdWbjhIc1kzY1FEbmZOZl9UWG1RSUxOWU1GemVBM01CVVBTWEtUVGtxMEFYVTdTdElfTXc4ZGp3NE5QN29pMzVZMUk4enRtVU1rLWZfSklJSWp3M1lqdHU3dUFGd3ZiMndYODVSV09PWHRHQl9YQmx6OEdRNWc?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-03T06:34:32Z"
+        },
+        {
+          "id": "report-800ea7c438e3",
+          "title": "Trump weighs ending Iran war as Pentagon extends deployments: Report",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORjU2QVJXRDMtdmpXN2EwanNaRmJXTi1iWDNDOW5tV1AxTVpBSElTeWExRnRYS0sxWm5ab0lwcW1TV2FMcXlNek8wV3pHNEdDOEN2Q2tSTmQ4VUNkaF9WRUdHU0RJaEZoMkhSZFZIWmtYVEpXX2JERGs3ZFotU2trbVl2Q1M5TkJIX212cFNIdl9Vb3ZkOW5GYkpKYi1iVnhlaUxxd0ZxOW5VTDdoZEE?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-09-03T03:25:37Z"
         },
         {
           "id": "report-68ce423863bd",
@@ -1653,15 +1653,6 @@
           "sourceTier": "Structured / analytic",
           "confidenceLabel": "ANALYTIC REPORT",
           "reportedAt": "2026-08-26T21:20:46Z"
-        },
-        {
-          "id": "report-defc72fd3c7f",
-          "title": "Conflict With Iran | Global Conflict Tracker",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMWduRExjZXhMUjFuYjV4Zzc0LS11OHVKUEhXSlpUNUdFMm9MVGlJeFd5eGh1ZWpEWWhFNEdJX0tOVTlJbnZ5NmpBQ3dYeGNpSTBOSWtISUduak5WSHhfQUhQcHBKbVpLdG1IVi1ySWVGd05NM18yektrem1TM3ZvaV9xVjR2eC04cE9RZ3FZajNCZWFHNzBaS0hhSS02dw?oc=5",
-          "domain": "cfr.org",
-          "sourceTier": "Structured / analytic",
-          "confidenceLabel": "ANALYTIC REPORT",
-          "reportedAt": "2026-08-27T00:00:00Z"
         },
         {
           "id": "report-372b096ff4db",
