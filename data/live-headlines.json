@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-05T10:34:11.870Z",
+  "generatedAt": "2026-09-05T15:13:26.952Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-09-05T10:34:11.870Z",
+      "generatedAt": "2026-09-05T15:13:26.952Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -1207,7 +1207,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-09-05T10:34:11.870Z",
+      "generatedAt": "2026-09-05T15:13:26.952Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -1216,14 +1216,6 @@
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20260904T091457Z",
-          "pinned": false
-        },
-        {
-          "title": "Iran claims attacks on Bahrain, Jordan, Iraq after US strikes kill 11",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY1VIcWhXU2JEN0F2MFR6UHNxbHQ4WG02cWVRVzVEaW5lS3lveTJaMUc4c2RIWEhOeEl3QUF3NnUtQzN2Q2VUQTczcmdGNmU5Y3I1XzJTSTRwU1RBQTFvSDBfSjlZMHRxMlM5TDhlcE1XNVlUclB5VUdNQlZmYWExbWlaUEZmWkFrQ2tyTy1pY9IBlAFBVV95cUxNbVdoa0dFUldPbnNjTlNaZUJGVHprRGpUOWNieWtoQ1QtQTBoZktQUnlMbkFpT2sycnAyV2VYYVo0dE51Q3VVWUxsUU5sRnhCcHIxVnB1US1haS1Xck9LVUZfV2JqM3NfWVVpa0hGdXh6OFNrd1J5b2hsWjJZTU54cDBlLTBnMXZjYURyeVltVGJINVB1?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260902T053327Z",
           "pinned": false
         },
         {
@@ -1291,19 +1283,27 @@
           "pinned": false
         },
         {
-          "title": "Trump threatens more strikes as death toll in Iran rises to 18",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVG1PeWk5NTJCOFhHM2E3N28zM1M2d0NHTk1hTFB6VjNEZ09FamhlMEJpOExMSWtwb3NraThjT0twUzRPbFk4S00wRGd1WG9GbmFSN3Y0YmVWV25BWXRyUkxaM2dsZ1JuRWE0UlVDRmR0cHJGcmsxWlZ6OGlSSkYwRFJueWVNOUdoWTJKVzRQbmhndmN1WXd5eVBDdXUwRHZTaXl3ZtIBqgFBVV95cUxPRElVbDMtTFJER3dJWnJYemxQVU9qV2pMdlBUVzgtM1NldC1ZQkJXS3U2alBfVmhyZGVEZ2d6MmxrNFk0TXFPTzlTTmY0X2k2M0NqalkzSU5UMjh0NVpIVkdlOEN3ek44d1hkUlU4OWlhUUJaSjhyLXFKQVZ3RzJaR1RVZ2lMTkpEV3g5WUlNOWY3WGhrR1BFdC1NQVZFT1dkenpZaXRYVmxfQQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260903T014834Z",
-          "pinned": false
-        },
-        {
           "title": "Trump calls Iran conflict ‘small potatoes’ and defends Vance’s position that it’s not a ‘war’",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTzBGbGQ2ZnhaeGhiZ3E0cEpWYnRpU0FtYTFQYlJUOWdkd0F5Y2lvczg0X0h0NTBRUkFXUkU1bWlwSnhtQng1dmtYY0JsVmFFYnpaNDVuMEJLMTROSXEtcUtPQndCdk0zRmNtQWFGdllDN2V5WGRmR0NWZHlQaWtBeFZMdmdGUVk?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "seen": "20260904T225200Z",
+          "pinned": false
+        },
+        {
+          "title": "Why is Trump threatening to strike Iran’s Pickaxe Mountain again, now?",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZjRxTHlmNGgyN05QTE9GN2ZQb0M0RFgtVUNvREtfMTdLRWJaUkw3blotT2ZBczVqOGlxQXdmREx1YVdWQ3d2bENpajhlaE83SFhrVDJEeF9vbkd4aHFUcXZITjdNYUlLWGgzUzQwdFJ6TXUtWWJfbEJKUU4wQndsWGRMM0JpUTJkejNMTjQ0eHl6V0pXRlpEM2F6TC1HOFpCMjNPM2xldHNYcDTSAbABQVVfeXFMTUFvWUxfc20yMlhaZG1rUFFUYWVWZGRXNVV2azJ4NVV4cFJFZHhMNjVnVFNRcTVZaWZQdFpRSE5XOXJITUdZaVhnZUZvbUNMblRLTVdzakc1VDhzWkhjRVItcFc2b3Jsd21kdVVQVEx3bTNBWTBfNXV0UGx3b0hfTXVJSnB2RjlISW1HN2xCeWhYa0hRSWF0M2dsVjN4MWxmcDFraFVSc01yU1NNZ00tN3Y?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260905T130227Z",
+          "pinned": false
+        },
+        {
+          "title": "Trump threatens more strikes as death toll in Iran rises to 18",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVG1PeWk5NTJCOFhHM2E3N28zM1M2d0NHTk1hTFB6VjNEZ09FamhlMEJpOExMSWtwb3NraThjT0twUzRPbFk4S00wRGd1WG9GbmFSN3Y0YmVWV25BWXRyUkxaM2dsZ1JuRWE0UlVDRmR0cHJGcmsxWlZ6OGlSSkYwRFJueWVNOUdoWTJKVzRQbmhndmN1WXd5eVBDdXUwRHZTaXl3ZtIBqgFBVV95cUxPRElVbDMtTFJER3dJWnJYemxQVU9qV2pMdlBUVzgtM1NldC1ZQkJXS3U2alBfVmhyZGVEZ2d6MmxrNFk0TXFPTzlTTmY0X2k2M0NqalkzSU5UMjh0NVpIVkdlOEN3ek44d1hkUlU4OWlhUUJaSjhyLXFKQVZ3RzJaR1RVZ2lMTkpEV3g5WUlNOWY3WGhrR1BFdC1NQVZFT1dkenpZaXRYVmxfQQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260903T014834Z",
           "pinned": false
         },
         {
@@ -1331,19 +1331,11 @@
           "pinned": false
         },
         {
-          "title": "Trump calls Iran war ‘small potatoes’, compares US deaths with Vietnam war",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOckpWUTFRc1lfaUs5Z0FCeWhFeTZYc2ttSUdSa0JNcnRvVWZBLUxDbmt2aXZQdld1QThrVFVtODhRRFBoMlVkX0lXLXNBUWp5SXhIZl8zNlp1anRzMXI1ZEI3aFlGZ2ZXdWk2Z2JhYmdhSDZCOXNmeU4xQXZsTTJLS1d1S3BZX2xnOG9JWjMtemloTnJD0gGaAUFVX3lxTE0tNjNoN3lfNWtfRUdibGY0T1FqcTBUemM4eVJDNXRvU04zenFKZFBTSUdHVHJDN3hyeDk2Q2otTXBtWEQ1ZzhOWG1NTnNFUGxXaUlnSVVJTWozOTY4NVJ6THV3RXlIS0xDMzBRdXF5QjladmhqbUJvc0xKX2Zxa2NPVTZSalpRNEllbEo3VUt4TFAzWUYydXRrUUE?oc=5",
-          "domain": "aljazeera.com",
+          "title": "Iran fires on its Gulf neighbors, retaliating for US strikes after a wedding was hit",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSTQ5RWEwemszN1g0ZGdybDJrd0d4MW9sTk43M05welQ3WGZmeWgycERkU0NFck5vMDc4eXBjbmdQSzc0OTNodV9tMXhpTFg1WF9SR2JXOXp3aEVGVjBHSUlwVFR5QWpVdnJodmNfV1FmdEZBeDlhUHNJZVZPeHliVlBQU3hZTXJhNGgzNGZoNURLUWtqOW53OUF2TTJpSEpsNGVBTDVyOUI?oc=5",
+          "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260904T204723Z",
-          "pinned": false
-        },
-        {
-          "title": "Ukraine takes the war to Russia’s space programme in tactical shift",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdHJKb1B5b3ZSYVo1STVZTWpHRGVZU00wUkxScE4yRnR6b0o1b0JfX0NyLTN6NWhOdjVFUUVLeTh1NzJMdTZDY09ubU9XbDhCOENldEl6cWtwcWtCamw5eldnREliSXIyYjlJeDR0M1BRdVNGNWNSdlU5Y19TUXhJdDFmMFMyMmx4Vk9CQ2tTbFNSYUQxWFNaWUFldXpYUW_SAaQBQVVfeXFMTm5IZHl3Vjk2cGNodFoyWW5Ib1Vib296VjVZVk9jNWpYVkM5RktGRkZlcVFGQjlSUENlSFNKSG02TnBlYlhTcmhsRmI5c0xDbXVabjNDdmNBQ0JzcS1tY2U0NFo1X3VWSk5jWDA0OEJySHB5bjdra1BMdm9aSTQyZzZWQldsU0x5SU1mNndHY20xWWRtYlh4ckdhMHNqRU9yWWlNVVA?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260903T133609Z",
+          "seen": "20260903T020700Z",
           "pinned": false
         },
         {
@@ -1371,19 +1363,11 @@
           "pinned": false
         },
         {
-          "title": "Iran fires on its Gulf neighbors, retaliating for US strikes after a wedding was hit",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSTQ5RWEwemszN1g0ZGdybDJrd0d4MW9sTk43M05welQ3WGZmeWgycERkU0NFck5vMDc4eXBjbmdQSzc0OTNodV9tMXhpTFg1WF9SR2JXOXp3aEVGVjBHSUlwVFR5QWpVdnJodmNfV1FmdEZBeDlhUHNJZVZPeHliVlBQU3hZTXJhNGgzNGZoNURLUWtqOW53OUF2TTJpSEpsNGVBTDVyOUI?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260903T020700Z",
-          "pinned": false
-        },
-        {
-          "title": "Russia’s jet-powered drones overwhelm Ukraine, killing dozens",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORWJzbFJLdmJqSElmX3liczE2d284d0FpeHhFNENwT24xbm9aZU9UWEE3dlFET0hUbTgxdU1kQmdmb01HSXdoQ3l3RGRwVm92ZDhBTE8xT3BPVGZmdnR6a0JwTExlZUpseF9ORjl2X1lnaDlUR3g0WGNIZHNydEFGNGhySmo5X005VzFDdDVRZEpXZEppc3FrWFlNOS1hWC1B0gGmAUFVX3lxTE1USFBuNk5lSWJMRjNRamdNTXNQRjhOY2lrUzQwMVE2M3pwZmRXWU5pSndoTlh0T1B5NkxzM0JoMlBHMzZvTmxWeVVDU0tXVk9FYXlnNFJJd0tLZlhnQWZtUEhsMUd1UEt0OFNaTDB3WEdIRVZpWWloMklZZVlKZElZUVA1eXBtWlpfVWp3NmQwTG55RW83SmY3ZVJvaWFhSERXYUFoaVE?oc=5",
+          "title": "Russian drone strikes Ukraine’s security service headquarters",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONjdjbU8wNVcySmJyNlgycjFvX2ZDeDRfbXI5SWljUUlOVXYxTDNDbS1ZWWpKdktuYi1NMlkwUWNyM05maFR6enlUbGJJTnNVMkRJc0ZOclZkLXkxU3o4MF9wSmRmcFJsVC1fNlFEdVROT0NYYjV6OGtBTDJPY3B3MVVqcnlRX1FNd29EcTN5TXdPOWRCX1gxZ3R4cWh5U0N40gGmAUFVX3lxTE9LRDRjS3FNQWFsS1pZS3lPVmxOM1lWTWd0bXhQQnBTcHRacVZvRXl3dGJnVlBNM3dhU21QMVN0a0VkLUZDcU1va0RwMXoxcG91aVhGZkxBSUVPeTROcDloak5YQkQ2WTBGaGpRR1p2RldycHEzSjdxbUxJVzFVRDJVbE9QSjFWVGwwM1ZibFBTNWJvODdCXy1ncWhLWW92dHR4U1lvblE?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260904T163722Z",
+          "seen": "20260904T160913Z",
           "pinned": false
         },
         {
@@ -1395,11 +1379,27 @@
           "pinned": false
         },
         {
-          "title": "Russian drone strikes Ukraine’s security service headquarters",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONjdjbU8wNVcySmJyNlgycjFvX2ZDeDRfbXI5SWljUUlOVXYxTDNDbS1ZWWpKdktuYi1NMlkwUWNyM05maFR6enlUbGJJTnNVMkRJc0ZOclZkLXkxU3o4MF9wSmRmcFJsVC1fNlFEdVROT0NYYjV6OGtBTDJPY3B3MVVqcnlRX1FNd29EcTN5TXdPOWRCX1gxZ3R4cWh5U0N40gGmAUFVX3lxTE9LRDRjS3FNQWFsS1pZS3lPVmxOM1lWTWd0bXhQQnBTcHRacVZvRXl3dGJnVlBNM3dhU21QMVN0a0VkLUZDcU1va0RwMXoxcG91aVhGZkxBSUVPeTROcDloak5YQkQ2WTBGaGpRR1p2RldycHEzSjdxbUxJVzFVRDJVbE9QSjFWVGwwM1ZibFBTNWJvODdCXy1ncWhLWW92dHR4U1lvblE?oc=5",
+          "title": "Finland runs Europe’s biggest civil defense exercise since the end of World War II",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPLTdpNVR5R0JHdENSLVdzVjExUTE0SWRmTFVtb19BZW1nd3lzOVdCMklHeU1aZFlLZTdWbjhIc1kzY1FEbmZOZl9UWG1RSUxOWU1GemVBM01CVVBTWEtUVGtxMEFYVTdTdElfTXc4ZGp3NE5QN29pMzVZMUk4enRtVU1rLWZfSklJSWp3M1lqdHU3dUFGd3ZiMndYODVSV09PWHRHQl9YQmx6OEdRNWc?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260903T063432Z",
+          "pinned": false
+        },
+        {
+          "title": "At least 5 killed in Russian attacks on Ukraine as US envoys visit Moscow",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ0Jlc2pENng0ZGhua1hLVFdtbjdRSkVBcXNzVXFWS1hSSlM5REtLc3U2cmFwT2pwM1ZPaWFVZndYM2RmY2xOdEd4NDFYbzVWb2p5MWhjWnVEVDhfeFFsOFNyNUhjQ29rOEhUMTQ0anRES3UwYURRSTA2S2xReENDLXBpNjZ2SDljOGJoR2hXS0J5WmxSOXVFWktlYlYxZWxoMGdEcjRNUXZ2bk5uRUVDMXIza9IBuAFBVV95cUxQZ0Q4RlhvN1RneWVINmhnUEQxQnQzTHI4M2VuZ05ieVExbXhNc3ltRDdMcmNmT2ZGdmpFUVBSY2p0TUpoWUdjVkwtUEhvSWZsdmhGV2dNRnRmZ3FRejBZaF9qNndReUVfNWdvN1BkZVJOOXVkSWFNTG1sdnNRUDFvdG8xN0xFb1puSDF0MUVWVHE1N19FdEdLQ3BVX1pqQTdyUEk3X0xyMzg0MGxMdC03M0dzSmRabmJC?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260904T160913Z",
+          "seen": "20260905T132545Z",
+          "pinned": false
+        },
+        {
+          "title": "Trump weighs ending Iran war as Pentagon extends deployments: Report",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORjU2QVJXRDMtdmpXN2EwanNaRmJXTi1iWDNDOW5tV1AxTVpBSElTeWExRnRYS0sxWm5ab0lwcW1TV2FMcXlNek8wV3pHNEdDOEN2Q2tSTmQ4VUNkaF9WRUdHU0RJaEZoMkhSZFZIWmtYVEpXX2JERGs3ZFotU2trbVl2Q1M5TkJIX212cFNIdl9Vb3ZkOW5GYkpKYi1iVnhlaUxxd0ZxOW5VTDdoZEE?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20260903T032537Z",
           "pinned": false
         }
       ],
@@ -1412,15 +1412,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-04T09:14:57Z"
-        },
-        {
-          "id": "report-7189b1279a52",
-          "title": "Iran claims attacks on Bahrain, Jordan, Iraq after US strikes kill 11",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY1VIcWhXU2JEN0F2MFR6UHNxbHQ4WG02cWVRVzVEaW5lS3lveTJaMUc4c2RIWEhOeEl3QUF3NnUtQzN2Q2VUQTczcmdGNmU5Y3I1XzJTSTRwU1RBQTFvSDBfSjlZMHRxMlM5TDhlcE1XNVlUclB5VUdNQlZmYWExbWlaUEZmWkFrQ2tyTy1pY9IBlAFBVV95cUxNbVdoa0dFUldPbnNjTlNaZUJGVHprRGpUOWNieWtoQ1QtQTBoZktQUnlMbkFpT2sycnAyV2VYYVo0dE51Q3VVWUxsUU5sRnhCcHIxVnB1US1haS1Xck9LVUZfV2JqM3NfWVVpa0hGdXh6OFNrd1J5b2hsWjJZTU54cDBlLTBnMXZjYURyeVltVGJINVB1?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-02T05:33:27Z"
         },
         {
           "id": "report-a77636da949e",
@@ -1495,15 +1486,6 @@
           "reportedAt": "2026-09-02T15:33:19Z"
         },
         {
-          "id": "report-007311f9d3c8",
-          "title": "Trump threatens more strikes as death toll in Iran rises to 18",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVG1PeWk5NTJCOFhHM2E3N28zM1M2d0NHTk1hTFB6VjNEZ09FamhlMEJpOExMSWtwb3NraThjT0twUzRPbFk4S00wRGd1WG9GbmFSN3Y0YmVWV25BWXRyUkxaM2dsZ1JuRWE0UlVDRmR0cHJGcmsxWlZ6OGlSSkYwRFJueWVNOUdoWTJKVzRQbmhndmN1WXd5eVBDdXUwRHZTaXl3ZtIBqgFBVV95cUxPRElVbDMtTFJER3dJWnJYemxQVU9qV2pMdlBUVzgtM1NldC1ZQkJXS3U2alBfVmhyZGVEZ2d6MmxrNFk0TXFPTzlTTmY0X2k2M0NqalkzSU5UMjh0NVpIVkdlOEN3ek44d1hkUlU4OWlhUUJaSjhyLXFKQVZ3RzJaR1RVZ2lMTkpEV3g5WUlNOWY3WGhrR1BFdC1NQVZFT1dkenpZaXRYVmxfQQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-03T01:48:34Z"
-        },
-        {
           "id": "report-060c1ca00047",
           "title": "Trump calls Iran conflict ‘small potatoes’ and defends Vance’s position that it’s not a ‘war’",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTzBGbGQ2ZnhaeGhiZ3E0cEpWYnRpU0FtYTFQYlJUOWdkd0F5Y2lvczg0X0h0NTBRUkFXUkU1bWlwSnhtQng1dmtYY0JsVmFFYnpaNDVuMEJLMTROSXEtcUtPQndCdk0zRmNtQWFGdllDN2V5WGRmR0NWZHlQaWtBeFZMdmdGUVk?oc=5",
@@ -1511,6 +1493,24 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-04T22:52:00Z"
+        },
+        {
+          "id": "report-3026ef72f64a",
+          "title": "Why is Trump threatening to strike Iran’s Pickaxe Mountain again, now?",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZjRxTHlmNGgyN05QTE9GN2ZQb0M0RFgtVUNvREtfMTdLRWJaUkw3blotT2ZBczVqOGlxQXdmREx1YVdWQ3d2bENpajhlaE83SFhrVDJEeF9vbkd4aHFUcXZITjdNYUlLWGgzUzQwdFJ6TXUtWWJfbEJKUU4wQndsWGRMM0JpUTJkejNMTjQ0eHl6V0pXRlpEM2F6TC1HOFpCMjNPM2xldHNYcDTSAbABQVVfeXFMTUFvWUxfc20yMlhaZG1rUFFUYWVWZGRXNVV2azJ4NVV4cFJFZHhMNjVnVFNRcTVZaWZQdFpRSE5XOXJITUdZaVhnZUZvbUNMblRLTVdzakc1VDhzWkhjRVItcFc2b3Jsd21kdVVQVEx3bTNBWTBfNXV0UGx3b0hfTXVJSnB2RjlISW1HN2xCeWhYa0hRSWF0M2dsVjN4MWxmcDFraFVSc01yU1NNZ00tN3Y?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-05T13:02:27Z"
+        },
+        {
+          "id": "report-007311f9d3c8",
+          "title": "Trump threatens more strikes as death toll in Iran rises to 18",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVG1PeWk5NTJCOFhHM2E3N28zM1M2d0NHTk1hTFB6VjNEZ09FamhlMEJpOExMSWtwb3NraThjT0twUzRPbFk4S00wRGd1WG9GbmFSN3Y0YmVWV25BWXRyUkxaM2dsZ1JuRWE0UlVDRmR0cHJGcmsxWlZ6OGlSSkYwRFJueWVNOUdoWTJKVzRQbmhndmN1WXd5eVBDdXUwRHZTaXl3ZtIBqgFBVV95cUxPRElVbDMtTFJER3dJWnJYemxQVU9qV2pMdlBUVzgtM1NldC1ZQkJXS3U2alBfVmhyZGVEZ2d6MmxrNFk0TXFPTzlTTmY0X2k2M0NqalkzSU5UMjh0NVpIVkdlOEN3ek44d1hkUlU4OWlhUUJaSjhyLXFKQVZ3RzJaR1RVZ2lMTkpEV3g5WUlNOWY3WGhrR1BFdC1NQVZFT1dkenpZaXRYVmxfQQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-03T01:48:34Z"
         },
         {
           "id": "report-d4f420ade426",
@@ -1540,22 +1540,13 @@
           "reportedAt": "2026-09-04T21:25:03Z"
         },
         {
-          "id": "report-007ef3d70cf6",
-          "title": "Trump calls Iran war ‘small potatoes’, compares US deaths with Vietnam war",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOckpWUTFRc1lfaUs5Z0FCeWhFeTZYc2ttSUdSa0JNcnRvVWZBLUxDbmt2aXZQdld1QThrVFVtODhRRFBoMlVkX0lXLXNBUWp5SXhIZl8zNlp1anRzMXI1ZEI3aFlGZ2ZXdWk2Z2JhYmdhSDZCOXNmeU4xQXZsTTJLS1d1S3BZX2xnOG9JWjMtemloTnJD0gGaAUFVX3lxTE0tNjNoN3lfNWtfRUdibGY0T1FqcTBUemM4eVJDNXRvU04zenFKZFBTSUdHVHJDN3hyeDk2Q2otTXBtWEQ1ZzhOWG1NTnNFUGxXaUlnSVVJTWozOTY4NVJ6THV3RXlIS0xDMzBRdXF5QjladmhqbUJvc0xKX2Zxa2NPVTZSalpRNEllbEo3VUt4TFAzWUYydXRrUUE?oc=5",
-          "domain": "aljazeera.com",
+          "id": "report-a4b311c08dff",
+          "title": "Iran fires on its Gulf neighbors, retaliating for US strikes after a wedding was hit",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSTQ5RWEwemszN1g0ZGdybDJrd0d4MW9sTk43M05welQ3WGZmeWgycERkU0NFck5vMDc4eXBjbmdQSzc0OTNodV9tMXhpTFg1WF9SR2JXOXp3aEVGVjBHSUlwVFR5QWpVdnJodmNfV1FmdEZBeDlhUHNJZVZPeHliVlBQU3hZTXJhNGgzNGZoNURLUWtqOW53OUF2TTJpSEpsNGVBTDVyOUI?oc=5",
+          "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-04T20:47:23Z"
-        },
-        {
-          "id": "report-94fe2b829d31",
-          "title": "Ukraine takes the war to Russia’s space programme in tactical shift",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdHJKb1B5b3ZSYVo1STVZTWpHRGVZU00wUkxScE4yRnR6b0o1b0JfX0NyLTN6NWhOdjVFUUVLeTh1NzJMdTZDY09ubU9XbDhCOENldEl6cWtwcWtCamw5eldnREliSXIyYjlJeDR0M1BRdVNGNWNSdlU5Y19TUXhJdDFmMFMyMmx4Vk9CQ2tTbFNSYUQxWFNaWUFldXpYUW_SAaQBQVVfeXFMTm5IZHl3Vjk2cGNodFoyWW5Ib1Vib296VjVZVk9jNWpYVkM5RktGRkZlcVFGQjlSUENlSFNKSG02TnBlYlhTcmhsRmI5c0xDbXVabjNDdmNBQ0JzcS1tY2U0NFo1X3VWSk5jWDA0OEJySHB5bjdra1BMdm9aSTQyZzZWQldsU0x5SU1mNndHY20xWWRtYlh4ckdhMHNqRU9yWWlNVVA?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-03T13:36:09Z"
+          "reportedAt": "2026-09-03T02:07:00Z"
         },
         {
           "id": "report-6842d48296cb",
@@ -1585,22 +1576,13 @@
           "reportedAt": "2026-09-05T02:13:21Z"
         },
         {
-          "id": "report-a4b311c08dff",
-          "title": "Iran fires on its Gulf neighbors, retaliating for US strikes after a wedding was hit",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSTQ5RWEwemszN1g0ZGdybDJrd0d4MW9sTk43M05welQ3WGZmeWgycERkU0NFck5vMDc4eXBjbmdQSzc0OTNodV9tMXhpTFg1WF9SR2JXOXp3aEVGVjBHSUlwVFR5QWpVdnJodmNfV1FmdEZBeDlhUHNJZVZPeHliVlBQU3hZTXJhNGgzNGZoNURLUWtqOW53OUF2TTJpSEpsNGVBTDVyOUI?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-03T02:07:00Z"
-        },
-        {
-          "id": "report-d51173d1c1c3",
-          "title": "Russia’s jet-powered drones overwhelm Ukraine, killing dozens",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORWJzbFJLdmJqSElmX3liczE2d284d0FpeHhFNENwT24xbm9aZU9UWEE3dlFET0hUbTgxdU1kQmdmb01HSXdoQ3l3RGRwVm92ZDhBTE8xT3BPVGZmdnR6a0JwTExlZUpseF9ORjl2X1lnaDlUR3g0WGNIZHNydEFGNGhySmo5X005VzFDdDVRZEpXZEppc3FrWFlNOS1hWC1B0gGmAUFVX3lxTE1USFBuNk5lSWJMRjNRamdNTXNQRjhOY2lrUzQwMVE2M3pwZmRXWU5pSndoTlh0T1B5NkxzM0JoMlBHMzZvTmxWeVVDU0tXVk9FYXlnNFJJd0tLZlhnQWZtUEhsMUd1UEt0OFNaTDB3WEdIRVZpWWloMklZZVlKZElZUVA1eXBtWlpfVWp3NmQwTG55RW83SmY3ZVJvaWFhSERXYUFoaVE?oc=5",
+          "id": "report-f68789684367",
+          "title": "Russian drone strikes Ukraine’s security service headquarters",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONjdjbU8wNVcySmJyNlgycjFvX2ZDeDRfbXI5SWljUUlOVXYxTDNDbS1ZWWpKdktuYi1NMlkwUWNyM05maFR6enlUbGJJTnNVMkRJc0ZOclZkLXkxU3o4MF9wSmRmcFJsVC1fNlFEdVROT0NYYjV6OGtBTDJPY3B3MVVqcnlRX1FNd29EcTN5TXdPOWRCX1gxZ3R4cWh5U0N40gGmAUFVX3lxTE9LRDRjS3FNQWFsS1pZS3lPVmxOM1lWTWd0bXhQQnBTcHRacVZvRXl3dGJnVlBNM3dhU21QMVN0a0VkLUZDcU1va0RwMXoxcG91aVhGZkxBSUVPeTROcDloak5YQkQ2WTBGaGpRR1p2RldycHEzSjdxbUxJVzFVRDJVbE9QSjFWVGwwM1ZibFBTNWJvODdCXy1ncWhLWW92dHR4U1lvblE?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-04T16:37:22Z"
+          "reportedAt": "2026-09-04T16:09:13Z"
         },
         {
           "id": "report-1e5a790a4866",
@@ -1612,13 +1594,31 @@
           "reportedAt": "2026-09-02T04:53:51Z"
         },
         {
-          "id": "report-f68789684367",
-          "title": "Russian drone strikes Ukraine’s security service headquarters",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONjdjbU8wNVcySmJyNlgycjFvX2ZDeDRfbXI5SWljUUlOVXYxTDNDbS1ZWWpKdktuYi1NMlkwUWNyM05maFR6enlUbGJJTnNVMkRJc0ZOclZkLXkxU3o4MF9wSmRmcFJsVC1fNlFEdVROT0NYYjV6OGtBTDJPY3B3MVVqcnlRX1FNd29EcTN5TXdPOWRCX1gxZ3R4cWh5U0N40gGmAUFVX3lxTE9LRDRjS3FNQWFsS1pZS3lPVmxOM1lWTWd0bXhQQnBTcHRacVZvRXl3dGJnVlBNM3dhU21QMVN0a0VkLUZDcU1va0RwMXoxcG91aVhGZkxBSUVPeTROcDloak5YQkQ2WTBGaGpRR1p2RldycHEzSjdxbUxJVzFVRDJVbE9QSjFWVGwwM1ZibFBTNWJvODdCXy1ncWhLWW92dHR4U1lvblE?oc=5",
+          "id": "report-c18d25434286",
+          "title": "Finland runs Europe’s biggest civil defense exercise since the end of World War II",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPLTdpNVR5R0JHdENSLVdzVjExUTE0SWRmTFVtb19BZW1nd3lzOVdCMklHeU1aZFlLZTdWbjhIc1kzY1FEbmZOZl9UWG1RSUxOWU1GemVBM01CVVBTWEtUVGtxMEFYVTdTdElfTXc4ZGp3NE5QN29pMzVZMUk4enRtVU1rLWZfSklJSWp3M1lqdHU3dUFGd3ZiMndYODVSV09PWHRHQl9YQmx6OEdRNWc?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-03T06:34:32Z"
+        },
+        {
+          "id": "report-f19f54132592",
+          "title": "At least 5 killed in Russian attacks on Ukraine as US envoys visit Moscow",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ0Jlc2pENng0ZGhua1hLVFdtbjdRSkVBcXNzVXFWS1hSSlM5REtLc3U2cmFwT2pwM1ZPaWFVZndYM2RmY2xOdEd4NDFYbzVWb2p5MWhjWnVEVDhfeFFsOFNyNUhjQ29rOEhUMTQ0anRES3UwYURRSTA2S2xReENDLXBpNjZ2SDljOGJoR2hXS0J5WmxSOXVFWktlYlYxZWxoMGdEcjRNUXZ2bk5uRUVDMXIza9IBuAFBVV95cUxQZ0Q4RlhvN1RneWVINmhnUEQxQnQzTHI4M2VuZ05ieVExbXhNc3ltRDdMcmNmT2ZGdmpFUVBSY2p0TUpoWUdjVkwtUEhvSWZsdmhGV2dNRnRmZ3FRejBZaF9qNndReUVfNWdvN1BkZVJOOXVkSWFNTG1sdnNRUDFvdG8xN0xFb1puSDF0MUVWVHE1N19FdEdLQ3BVX1pqQTdyUEk3X0xyMzg0MGxMdC03M0dzSmRabmJC?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-04T16:09:13Z"
+          "reportedAt": "2026-09-05T13:25:45Z"
+        },
+        {
+          "id": "report-800ea7c438e3",
+          "title": "Trump weighs ending Iran war as Pentagon extends deployments: Report",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORjU2QVJXRDMtdmpXN2EwanNaRmJXTi1iWDNDOW5tV1AxTVpBSElTeWExRnRYS0sxWm5ab0lwcW1TV2FMcXlNek8wV3pHNEdDOEN2Q2tSTmQ4VUNkaF9WRUdHU0RJaEZoMkhSZFZIWmtYVEpXX2JERGs3ZFotU2trbVl2Q1M5TkJIX212cFNIdl9Vb3ZkOW5GYkpKYi1iVnhlaUxxd0ZxOW5VTDdoZEE?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-09-03T03:25:37Z"
         },
         {
           "id": "report-defc72fd3c7f",
