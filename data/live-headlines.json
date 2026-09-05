@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-04T20:45:05.911Z",
+  "generatedAt": "2026-09-05T04:26:33.468Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-09-04T20:45:05.911Z",
+      "generatedAt": "2026-09-05T04:26:33.468Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -1207,55 +1207,15 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-09-04T20:45:05.911Z",
+      "generatedAt": "2026-09-05T04:26:33.468Z",
       "cadence": "every 6 hours",
       "items": [
-        {
-          "title": "Ukraine war: What to make of Modi's plea to Putin to end conflict",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PWENOTXlCNVlubTZiUzE4NURRUkZtUExyZnJ1aFJFRDdFMDhnUzdVZkN5WmtRc0VQZGcwd1g3RHFURF90Qmx4YU5vZUxtUW1IaW8tYkR5ZEd2dw?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260901T115551Z",
-          "pinned": false
-        },
-        {
-          "title": "Qatar says efforts under way to end Iran-US war and reopen Strait of Hormuz",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRGdsMTFON2JOOVlyaktaVjVZZzhWYzV5WktESFMwQUx6eHFtQWVEMjdBTTJ1dTRPWVhTR3ZnVzBxdVJyMWFiRUVmblBiVHluQ3J1VE1RMDVHQnRPQUZ6YmRDUDItUVcwSTNLYmRqSnJaSjZiQkZYRWoyeDFTX1hNQUE5S2dWTWkzaEZjT2V2Y2VuUHZXMU93RWFMZk05eVNxbWZrQmhhdmx3VmwzSzhnOWZkTVV4d9IBuwFBVV95cUxNUUlFYlp6TTVRN2YxQ0twTUIxUkZDSlRLMk54UnN3c3VvdEQ5SWtXZ2M2Nl9yNk5QVkVybkZ1S1BzdDRBYzEzbi0yUlF0UFNtT09pWHBodXR6Q3RYU05lSTJGMm9ua2Y0LXJBZ2NHNmNIYWNhQUlSZW9obXljcDJkN3FFNGVIRUtBTk1yOUU3Z3dPMUt6SDY0Tkg4Q1FFU25HOUFiQXg3aHJQVndLNDl4dTNqaFV6Tm5oQk00?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260901T153826Z",
-          "pinned": false
-        },
-        {
-          "title": "Abroad and at odds: How the war has divided Iranians in the diaspora",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeXVTYlkwNkNZWlh3ckxDc2VhcEZ2bmhibk41TmhUeGZNREhEVm04OEhKMENiRmpuSzlTSFRzMEMtUUY0NU5fQjRDcl9oS0hFdy02NVAzOHI0NnZCVlQ5d1JsZzJKY3JxU2VVdHZsYmhweXM1MlQ5VmZ6RlhYc2FNbDJhMTY0RHV4SGVKbU82OXBET3BvMEdSaGtVSU5FWkU5anljTng4Y3UzR2_SAbABQVVfeXFMTWhSbFRjcVNrRUhERVBDM2hZTmgydnNNcEZuS0pLaUFTWlVyQ2dodXlBVndtYV9ucnRYMjR2N3dtRDZFb244TGh2UUp1NUM2dHhFY2MtamNKU2JaUzNpNHN1cFVwdGgyVmpPQUQxa1NfZ205U1pVejNGVVZwTUw3QW41eWVnWFM1TlhubFljUWE1eV9DVlFyNWNQNEZPRFl5emp2bER5OXZsZ3pzaEdkUmw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260901T103922Z",
-          "pinned": false
-        },
-        {
-          "title": "SCO slams attacks, sanctions on Iran: Key takeaways from Bishkek summit",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMnlmRVNqUm9ZWVM2TzI2R0RqdEVLS2pZNGVXMkhsdjlmRkNDUjZMQlZKOFpVWTM5MFQxeHZtWnczaWZPdDhWZXlnUzhvWlZnb1lqWjVBNlBXV0NtNVdob0hiLUoxbWtDRm55VjA1UGwtMFB0elVzTG9lZUVxd1JLZllpRE51bTc4NlNJLVpVaU1sZXdZeUxVVWJYM3NIYlRxemZIejhENUNOU3c1SnfSAbMBQVVfeXFMT0FDQWhpa0FGT0tGT3RQRmU4QjNVcWhwOXZDU20zNDlpb3VSTExCU1VzNi1oQkZfZktLY3p4ZzdVakhWdTJUQjh1VGVMdUtLWVlhSlhHN2Yya0ZzZ1JnOEI0WU5jYkpZalNXaXFmTUY2SFVkMDJNdklMNjFDTmV1SWZiWlBMemVnYmNDTXRBU3FfRjVuS0o5TlBsN295VnlPaHdabGkxMFU3UTdrZFFOanFiSjQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260901T134418Z",
-          "pinned": false
-        },
         {
           "title": "How could US-Iran conflict end? Three experts give their views",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3NlAwRjE4V1ZYTVdlREg1SlpiZkFQdmtGR3puaDhoWENuaEtwMDlyMXpraHNJZFhBV3lXaHIwbHFFWHNYdlBNb0FjTGF2ZmVjZ296Rm0xb3BEdw?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20260904T091457Z",
-          "pinned": false
-        },
-        {
-          "title": "Conflict With Iran | Global Conflict Tracker",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMWduRExjZXhMUjFuYjV4Zzc0LS11OHVKUEhXSlpUNUdFMm9MVGlJeFd5eGh1ZWpEWWhFNEdJX0tOVTlJbnZ5NmpBQ3dYeGNpSTBOSWtISUduak5WSHhfQUhQcHBKbVpLdG1IVi1ySWVGd05NM18yektrem1TM3ZvaV9xVjR2eC04cE9RZ3FZajNCZWFHNzBaS0hhSS02dw?oc=5",
-          "domain": "cfr.org",
-          "sourceTier": "Structured / analytic",
-          "seen": "20260901T000000Z",
           "pinned": false
         },
         {
@@ -1283,14 +1243,6 @@
           "pinned": false
         },
         {
-          "title": "Trump suggests renaming Strait of Hormuz as Trump Strait amid Iran war",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMDlfWEl2RDE0UlJZVDBlVWNZazYxdEFOOFZkSEdxR21YeDFLN1dHdHR2VjNnd1lQczI0OVRHSFI4Zk52Z1pURzk2ZnVpdzdCTmdnenFJcnlnVGlKNmt1YXBCOERVU3YydFJOMEYySWJkX0Q1MlhsWnBIZldMeU80VzRGQ2VjcDE0SXVhZzF0bGxwc0xXSzQ2OG9UNzVaTHZVeDZzVmxSRHdsQdIBrwFBVV95cUxQeVctNkhETFhMR29mNDR5cThZSWRpeEVrM25oQi1oaHAxRTRHTU1ydDhfZ0FiOU1GWkQxMjk5M0lzSWFWbnRidXRzSTJwNkQtcThPcEpTYWdnUUNGYlhkUExIWUd6ekJkNXBtUVJGZ281MmFzNTJQSnlKSXZ6dk92Yll6UHF2U00zbEZPV3lxWEluQ1NwSC1uV1FCV3E2X0gxU2x2U2gzX1FUdlVobWgw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260903T054318Z",
-          "pinned": false
-        },
-        {
           "title": "Vance says Iran fight isn't a 'war' as Trump tries to navigate unpopular conflict as election nears",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUDhITzU0TDIyV0VyQTBvT0FPZmZBZHJaTGFKc3dQaFl6VHpmbmM1TVUtTXRtY2Z1d2dONVdDcXhpUHB4Z2xVcjF4NnBac2ZRUXVBcXpOU0VOZlJfejNfWHZVNEVxeGk3TzZ6MWVIYWljN194YjEtbExGeWJtYk52UTdabG0yWTNQQnlFTy0wd2E2amE1QnBqSDZTaldIb1M4MzFR?oc=5",
           "domain": "apnews.com",
@@ -1299,19 +1251,19 @@
           "pinned": false
         },
         {
-          "title": "Trump weighs ending Iran war as Pentagon extends deployments: Report",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc1JKakFseFE0cTZrbFAwRHFyV0RycldrMEREWXBSeDY3OXRHbGY0dk0xZ2xWODZFRkc0V1FyeVJaM3FFQktMY1RvTXJrUEdNMHdlSUFQVkEwODdUMGtUcnhzRDBYTlp2WjRjbzl5VXZqRVAzSnlWOGhPZkR4amNRMUNvb1hSRnRMbkJCYklqcUtjNWRvdEVTb2JoQUNvLVVRT2J5c0RmOTI?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "seen": "20260903T032537Z",
+          "title": "Trump suggests renaming Strait of Hormuz as Trump Strait amid Iran war",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMDlfWEl2RDE0UlJZVDBlVWNZazYxdEFOOFZkSEdxR21YeDFLN1dHdHR2VjNnd1lQczI0OVRHSFI4Zk52Z1pURzk2ZnVpdzdCTmdnenFJcnlnVGlKNmt1YXBCOERVU3YydFJOMEYySWJkX0Q1MlhsWnBIZldMeU80VzRGQ2VjcDE0SXVhZzF0bGxwc0xXSzQ2OG9UNzVaTHZVeDZzVmxSRHdsQdIBrwFBVV95cUxQeVctNkhETFhMR29mNDR5cThZSWRpeEVrM25oQi1oaHAxRTRHTU1ydDhfZ0FiOU1GWkQxMjk5M0lzSWFWbnRidXRzSTJwNkQtcThPcEpTYWdnUUNGYlhkUExIWUd6ekJkNXBtUVJGZ281MmFzNTJQSnlKSXZ6dk92Yll6UHF2U00zbEZPV3lxWEluQ1NwSC1uV1FCV3E2X0gxU2x2U2gzX1FUdlVobWgw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260903T054318Z",
           "pinned": false
         },
         {
-          "title": "Britons face ‘risk premium’ for energy as US-Israel war on Iran intensifies",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNamQ2MHJHYV9meERsSE9HcGVkY3NiT0g1cE81ckR3Z3h0SFVSYk4yY1JrZlRjMVZ6eUh1X2IybWtROE43Z2pfUXJnNzY0WllHREw5c0Y4V3Zrc3ZxUmJsMmhDOGxvMDFhWnVlNWRNRDVjbVJ5bnlPZ0t4Wlh1ZHFGZUYzSjRhZE41dUlacFRaOGFBRlJVLThaR3V6M1NJUHltY2lWNjl4eHNsdHZwSjhWVtIBtgFBVV95cUxNV1gyTFJnWUdoUDEtbU1hanItcV9FTHJUVDM1bXNSYmJKT2Y4Wnp3akxyLW1qLTFuMElNdlU4TUFRbU5fUGtOV2tiYnRybElBT0VaOTBDdUZvb281ZFU5eWRMU25hS29Kc2VBS3dPNkZnd3UyQWw3b1hicy10RVM2ZGdLQm5DWkltaDZKeXBNVEY3U1Q2TG91eUtEdDE3bW9nMHRrNHhUbTNFNFV5d3hUZl9MbUFkdw?oc=5",
+          "title": "‘Small potatoes’: US President Trump downplays war on Iran",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVjdic3NWOEx4bDdlWTRfcXp3bUhUUDlMWkc4RGFfazVDSmVoWHh1dmRKZktTNllZM1RhRjJoRGkxMGR2S1lHbE9Cd0NndEptdnFTZEZMaW93bTRRRTJ1ZThGc1V0c1o1VDc0Q2VjZ0NIaTVMZ1otdzBEbnhFMTZ4WE1sZ1c5Y2Z3MHJaRUt6ZF82NkFLcWlzcEJfc9IBoAFBVV95cUxPRS14Y20xajR0enBJQzRGN1dTNlhSSU1sNmRTSVNOeUptcEtpeG9tRzdJalZQNTFEYkJteUptc3ktSXhtZDJPdHB5b2tGUnNMclE0OHVRQ0FYak1xSnFMZFg3S0x1OG50bzRSQ3Z1LTc0NFExejBxU21TOWRpVUotWndtWGdYelhvOWZwc1FtdU5VYUJsU3BXTXpORTVZODhl?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260901T082418Z",
+          "seen": "20260904T235839Z",
           "pinned": false
         },
         {
@@ -1323,11 +1275,11 @@
           "pinned": false
         },
         {
-          "title": "Conflicts and extreme weather pushing global food prices higher, warns UN",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa1hRbGl3YWlTZjBRNU5vWXJnX00zTzl5S01YWVRlTVl1aVUyZ2dxRWVsVFVKQ1RVdTdEVzlzLVJzeTgxZjFXd0wyY20tNUgyRGl1d0c3TnRuZ0Z2LXdfeDZvdGNFWEUzX0hCM004TC0zb2szcE45aXJLU1VOM1B3bW9FVHkwdlJMYmNOdldrbm5wX01nbjhqMmpEM01Kc09ZQzJLSU5QaTJuZVRhOGM0S19R0gG3AUFVX3lxTE1aZGFCdGhrMkduN21oRGJMb0ZlQURuU2g1RkdybUhjS1dUdXNPTml1TEpDM0lEVFE1RUk4MlpRWDBsRGFpY09hMnJmY19RYnZlZ1doVTZwZ2lxdVhsU2VNalhSYW1vYURWelRqeThmRzZybFlEMUc3M3dOSjhEYUF4Nms0b0JWYlBqdjB0WkhLdm5CQjJZQks2NnVaWWNMX2JXR3Bja1Bpb2tSUHk0cW5ERThsY3JqRQ?oc=5",
-          "domain": "aljazeera.com",
+          "title": "Trump calls Iran conflict ‘small potatoes’ and defends Vance’s position that it’s not a ‘war’",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTzBGbGQ2ZnhaeGhiZ3E0cEpWYnRpU0FtYTFQYlJUOWdkd0F5Y2lvczg0X0h0NTBRUkFXUkU1bWlwSnhtQng1dmtYY0JsVmFFYnpaNDVuMEJLMTROSXEtcUtPQndCdk0zRmNtQWFGdllDN2V5WGRmR0NWZHlQaWtBeFZMdmdGUVk?oc=5",
+          "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260904T133139Z",
+          "seen": "20260904T225200Z",
           "pinned": false
         },
         {
@@ -1347,11 +1299,35 @@
           "pinned": false
         },
         {
+          "title": "Conflicts and extreme weather pushing global food prices higher, warns UN",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa1hRbGl3YWlTZjBRNU5vWXJnX00zTzl5S01YWVRlTVl1aVUyZ2dxRWVsVFVKQ1RVdTdEVzlzLVJzeTgxZjFXd0wyY20tNUgyRGl1d0c3TnRuZ0Z2LXdfeDZvdGNFWEUzX0hCM004TC0zb2szcE45aXJLU1VOM1B3bW9FVHkwdlJMYmNOdldrbm5wX01nbjhqMmpEM01Kc09ZQzJLSU5QaTJuZVRhOGM0S19R0gG3AUFVX3lxTE1aZGFCdGhrMkduN21oRGJMb0ZlQURuU2g1RkdybUhjS1dUdXNPTml1TEpDM0lEVFE1RUk4MlpRWDBsRGFpY09hMnJmY19RYnZlZ1doVTZwZ2lxdVhsU2VNalhSYW1vYURWelRqeThmRzZybFlEMUc3M3dOSjhEYUF4Nms0b0JWYlBqdjB0WkhLdm5CQjJZQks2NnVaWWNMX2JXR3Bja1Bpb2tSUHk0cW5ERThsY3JqRQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260904T133139Z",
+          "pinned": false
+        },
+        {
           "title": "Ukraine takes the war to Russia’s space programme in tactical shift",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdHJKb1B5b3ZSYVo1STVZTWpHRGVZU00wUkxScE4yRnR6b0o1b0JfX0NyLTN6NWhOdjVFUUVLeTh1NzJMdTZDY09ubU9XbDhCOENldEl6cWtwcWtCamw5eldnREliSXIyYjlJeDR0M1BRdVNGNWNSdlU5Y19TUXhJdDFmMFMyMmx4Vk9CQ2tTbFNSYUQxWFNaWUFldXpYUW_SAaQBQVVfeXFMTm5IZHl3Vjk2cGNodFoyWW5Ib1Vib296VjVZVk9jNWpYVkM5RktGRkZlcVFGQjlSUENlSFNKSG02TnBlYlhTcmhsRmI5c0xDbXVabjNDdmNBQ0JzcS1tY2U0NFo1X3VWSk5jWDA0OEJySHB5bjdra1BMdm9aSTQyZzZWQldsU0x5SU1mNndHY20xWWRtYlh4ckdhMHNqRU9yWWlNVVA?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260903T133609Z",
+          "pinned": false
+        },
+        {
+          "title": "Trump calls Iran war ‘small potatoes’, compares US deaths with Vietnam war",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOckpWUTFRc1lfaUs5Z0FCeWhFeTZYc2ttSUdSa0JNcnRvVWZBLUxDbmt2aXZQdld1QThrVFVtODhRRFBoMlVkX0lXLXNBUWp5SXhIZl8zNlp1anRzMXI1ZEI3aFlGZ2ZXdWk2Z2JhYmdhSDZCOXNmeU4xQXZsTTJLS1d1S3BZX2xnOG9JWjMtemloTnJD0gGaAUFVX3lxTE0tNjNoN3lfNWtfRUdibGY0T1FqcTBUemM4eVJDNXRvU04zenFKZFBTSUdHVHJDN3hyeDk2Q2otTXBtWEQ1ZzhOWG1NTnNFUGxXaUlnSVVJTWozOTY4NVJ6THV3RXlIS0xDMzBRdXF5QjladmhqbUJvc0xKX2Zxa2NPVTZSalpRNEllbEo3VUt4TFAzWUYydXRrUUE?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260904T204723Z",
+          "pinned": false
+        },
+        {
+          "title": "Witkoff and Kushner will travel to ‘end’ Russia’s war in Ukraine: Trump",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSjkzS1JEbGotSGtvMHF2V1pnWVNvLVptdWxRZ21kSDlHZlQyWXpOVVRGTzgtQmdtelVQQ3U2aDh4eXktb00tX3JQUjFaU3hyYkFBM09felVwdWZaWTR3bTdvdzdLMTczYVhuUUplRDdNcFlFYkpLeU92WjY2MzV1aVhfMDlKblVqQXNPYzVGRzAtYjBxNFR5VHRtSmpMZ040RTg0X2R2Ylp5azDSAbABQVVfeXFMUDFIaXZUMVpMYWR5cmxmODFLQW5oQldFYjBRUl9yRWItcldfbms2R0J2aEx4TjFtODllUmg1NW5MN3VpdGg3b1IxVFNQbGdrV0pnWjl4SlJrR1dQTUF2YkF2YWQ4TmN4YkE5bUJxb3lleDJqUGx3SmtJTkZaS1lBYTZ5bUFxQUlWdEtvbXJMa3YweGdNOTQtUEVQT1U5VmtGZkVQeHMwMk81Y0FNWTVrZTg?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260904T212503Z",
           "pinned": false
         },
         {
@@ -1371,14 +1347,6 @@
           "pinned": false
         },
         {
-          "title": "EU considers military mission to replace UN peacekeepers in South Lebanon",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeldkUzNteGs4U2thdk1wcXpCVzk3LUtreHdnWkZUSkpIUkpXYmYydDJkdHF5Q09IWHRPSnRZLTU5TEI0cUZzcFhnejV5c1VhZVZ3ODQxeTZqNjJyVE10Zi1oN0JoUDhlbEdJUEdsRV9GMVVKamdLUExtOTZrbGIwZE0xSlJWMWVNdGpxalNDY2tsbWx1b2FjTHF1bUZfR0x2azgxMmQ5NVJ5dlBCX2hmcWhR0gG3AUFVX3lxTE5VRjVITkVSZDF3SDRKYzNtMy01LVh6YmpBWFZrXy1WUUhHZzhkMHY1LVRpNEFDRUNaWXBpb3BnZE0tamRYbWJFcXdjTmUtNDl6ZUpMTFNMVGZpNEpJWWZNQXh4NU1KSG9LYjBpNEJhLWhzWjhpT0d6RVFpNHZPRXZpaWFCQUpYaE16ZG96OWtqSnlpRFF6THQ3Q2FPZnlwSUZVYXFFU1BwMFhnWjNIQ3FYNERkeFBnQQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260901T053533Z",
-          "pinned": false
-        },
-        {
           "title": "Iran fires on its Gulf neighbors, retaliating for US strikes after a wedding was hit",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSTQ5RWEwemszN1g0ZGdybDJrd0d4MW9sTk43M05welQ3WGZmeWgycERkU0NFck5vMDc4eXBjbmdQSzc0OTNodV9tMXhpTFg1WF9SR2JXOXp3aEVGVjBHSUlwVFR5QWpVdnJodmNfV1FmdEZBeDlhUHNJZVZPeHliVlBQU3hZTXJhNGgzNGZoNURLUWtqOW53OUF2TTJpSEpsNGVBTDVyOUI?oc=5",
           "domain": "apnews.com",
@@ -1395,51 +1363,47 @@
           "pinned": false
         },
         {
-          "title": "Zelenskyy warns airlines as Ukrainian drones target Russian airspace",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQXRTT012b1NpNHFwUUoycVpJcG9xZ3F6Rkw2dWZCV2xlenhIandUcjY5X2htRWNja3lJSU9MVDE2YXlkNFVtcC1Zc25BMGFOVU52Ukc0VEFQakdfZGRvZlpBN1ZEdldrQkdvbUd6azRSMElpUUpFTzZSYllwcmlNMGJidzZRMXZLYU1fS01SVUNDaGcxZjcwYXotVERkTFg4MkppMVdJd0UzSkRFemVGTXN2cTNZN0o2YkHSAb8BQVVfeXFMT0pPSzB2RHByWmtXTjRWb1dXOC1makZRUmxQVVFmR1hOOEhNSjBPaVpsUGUzSUNSWlhBdmhUSWx2QVlobjQ4QlJ3X3JLaUw3S3MtR1Q2SGYtZjQxYld5VVFzRlpzbGpkOTJnNml5MHNyYm1XQVhXUTRwUDhBYWM0cVFhQ1EyT3N4TXd5dkt2dnpYSERCQUt1NGFjb3RjbWlmby1UTTFITGlwbHZ0SnlBd2tPVW5VUEM3ZDZWSGhlOEU?oc=5",
+          "title": "Russia’s jet-powered drones overwhelm Ukraine, killing dozens",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORWJzbFJLdmJqSElmX3liczE2d284d0FpeHhFNENwT24xbm9aZU9UWEE3dlFET0hUbTgxdU1kQmdmb01HSXdoQ3l3RGRwVm92ZDhBTE8xT3BPVGZmdnR6a0JwTExlZUpseF9ORjl2X1lnaDlUR3g0WGNIZHNydEFGNGhySmo5X005VzFDdDVRZEpXZEppc3FrWFlNOS1hWC1B0gGmAUFVX3lxTE1USFBuNk5lSWJMRjNRamdNTXNQRjhOY2lrUzQwMVE2M3pwZmRXWU5pSndoTlh0T1B5NkxzM0JoMlBHMzZvTmxWeVVDU0tXVk9FYXlnNFJJd0tLZlhnQWZtUEhsMUd1UEt0OFNaTDB3WEdIRVZpWWloMklZZVlKZElZUVA1eXBtWlpfVWp3NmQwTG55RW83SmY3ZVJvaWFhSERXYUFoaVE?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260901T211002Z",
+          "seen": "20260904T163722Z",
+          "pinned": false
+        },
+        {
+          "title": "Finland runs Europe’s biggest civil defense exercise since the end of World War II",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPLTdpNVR5R0JHdENSLVdzVjExUTE0SWRmTFVtb19BZW1nd3lzOVdCMklHeU1aZFlLZTdWbjhIc1kzY1FEbmZOZl9UWG1RSUxOWU1GemVBM01CVVBTWEtUVGtxMEFYVTdTdElfTXc4ZGp3NE5QN29pMzVZMUk4enRtVU1rLWZfSklJSWp3M1lqdHU3dUFGd3ZiMndYODVSV09PWHRHQl9YQmx6OEdRNWc?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260903T063432Z",
+          "pinned": false
+        },
+        {
+          "title": "Trump weighs ending Iran war as Pentagon extends deployments: Report",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORjU2QVJXRDMtdmpXN2EwanNaRmJXTi1iWDNDOW5tV1AxTVpBSElTeWExRnRYS0sxWm5ab0lwcW1TV2FMcXlNek8wV3pHNEdDOEN2Q2tSTmQ4VUNkaF9WRUdHU0RJaEZoMkhSZFZIWmtYVEpXX2JERGs3ZFotU2trbVl2Q1M5TkJIX212cFNIdl9Vb3ZkOW5GYkpKYi1iVnhlaUxxd0ZxOW5VTDdoZEE?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20260903T032537Z",
+          "pinned": false
+        },
+        {
+          "title": "Ukraine’s drone attacks caused turmoil for Russians throughout summer",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb0N2R2lIcVdIQk1INTEzTnl5N2s3NFNFbjROUGY3Z2ZMZ2FTaExkWm5PQlc4d3pDU1BvODNtbTc2WmV4WDdPVUdNejFyTGp2OXRUOWI5NG9oU2VLSlRrWXNpWVNWQ0ZYN1FyZU1xUU5JVTVjbDF5LTh6eU1panJuMkFqTlVLeEJpT3FDQk1FY1BwcjFraUpuWkFkZnVWUQ?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260903T120200Z",
+          "pinned": false
+        },
+        {
+          "title": "Body of convicted war criminal Ratko Mladic returned to Serbia for funeral",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVTBacV9TNVF1QnFDb090OUNicDViU1NtQk9lSUhWVG8zS3VkNFowV1doZy1QMEJ6R1hxVFNxSWM4ekJMdVdhV3pybVZGblFOZFQ3VUZxdEFMb05kdUJ0T3lyMkdnSWpsRzROQ0VyNS1NOHBJRGpOVlpIQ1Y0QkMwcXBhZGM2WWVKMFA1UWRSbw?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260904T073100Z",
           "pinned": false
         }
       ],
       "reports": [
-        {
-          "id": "report-348e8d3f0045",
-          "title": "Ukraine war: What to make of Modi's plea to Putin to end conflict",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PWENOTXlCNVlubTZiUzE4NURRUkZtUExyZnJ1aFJFRDdFMDhnUzdVZkN5WmtRc0VQZGcwd1g3RHFURF90Qmx4YU5vZUxtUW1IaW8tYkR5ZEd2dw?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-01T11:55:51Z"
-        },
-        {
-          "id": "report-7ab4fc18c0e3",
-          "title": "Qatar says efforts under way to end Iran-US war and reopen Strait of Hormuz",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRGdsMTFON2JOOVlyaktaVjVZZzhWYzV5WktESFMwQUx6eHFtQWVEMjdBTTJ1dTRPWVhTR3ZnVzBxdVJyMWFiRUVmblBiVHluQ3J1VE1RMDVHQnRPQUZ6YmRDUDItUVcwSTNLYmRqSnJaSjZiQkZYRWoyeDFTX1hNQUE5S2dWTWkzaEZjT2V2Y2VuUHZXMU93RWFMZk05eVNxbWZrQmhhdmx3VmwzSzhnOWZkTVV4d9IBuwFBVV95cUxNUUlFYlp6TTVRN2YxQ0twTUIxUkZDSlRLMk54UnN3c3VvdEQ5SWtXZ2M2Nl9yNk5QVkVybkZ1S1BzdDRBYzEzbi0yUlF0UFNtT09pWHBodXR6Q3RYU05lSTJGMm9ua2Y0LXJBZ2NHNmNIYWNhQUlSZW9obXljcDJkN3FFNGVIRUtBTk1yOUU3Z3dPMUt6SDY0Tkg4Q1FFU25HOUFiQXg3aHJQVndLNDl4dTNqaFV6Tm5oQk00?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-01T15:38:26Z"
-        },
-        {
-          "id": "report-57947776f8d5",
-          "title": "Abroad and at odds: How the war has divided Iranians in the diaspora",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeXVTYlkwNkNZWlh3ckxDc2VhcEZ2bmhibk41TmhUeGZNREhEVm04OEhKMENiRmpuSzlTSFRzMEMtUUY0NU5fQjRDcl9oS0hFdy02NVAzOHI0NnZCVlQ5d1JsZzJKY3JxU2VVdHZsYmhweXM1MlQ5VmZ6RlhYc2FNbDJhMTY0RHV4SGVKbU82OXBET3BvMEdSaGtVSU5FWkU5anljTng4Y3UzR2_SAbABQVVfeXFMTWhSbFRjcVNrRUhERVBDM2hZTmgydnNNcEZuS0pLaUFTWlVyQ2dodXlBVndtYV9ucnRYMjR2N3dtRDZFb244TGh2UUp1NUM2dHhFY2MtamNKU2JaUzNpNHN1cFVwdGgyVmpPQUQxa1NfZ205U1pVejNGVVZwTUw3QW41eWVnWFM1TlhubFljUWE1eV9DVlFyNWNQNEZPRFl5emp2bER5OXZsZ3pzaEdkUmw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-01T10:39:22Z"
-        },
-        {
-          "id": "report-77861b031826",
-          "title": "SCO slams attacks, sanctions on Iran: Key takeaways from Bishkek summit",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMnlmRVNqUm9ZWVM2TzI2R0RqdEVLS2pZNGVXMkhsdjlmRkNDUjZMQlZKOFpVWTM5MFQxeHZtWnczaWZPdDhWZXlnUzhvWlZnb1lqWjVBNlBXV0NtNVdob0hiLUoxbWtDRm55VjA1UGwtMFB0elVzTG9lZUVxd1JLZllpRE51bTc4NlNJLVpVaU1sZXdZeUxVVWJYM3NIYlRxemZIejhENUNOU3c1SnfSAbMBQVVfeXFMT0FDQWhpa0FGT0tGT3RQRmU4QjNVcWhwOXZDU20zNDlpb3VSTExCU1VzNi1oQkZfZktLY3p4ZzdVakhWdTJUQjh1VGVMdUtLWVlhSlhHN2Yya0ZzZ1JnOEI0WU5jYkpZalNXaXFmTUY2SFVkMDJNdklMNjFDTmV1SWZiWlBMemVnYmNDTXRBU3FfRjVuS0o5TlBsN295VnlPaHdabGkxMFU3UTdrZFFOanFiSjQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-01T13:44:18Z"
-        },
         {
           "id": "report-434bde8e5b20",
           "title": "How could US-Iran conflict end? Three experts give their views",
@@ -1448,15 +1412,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-04T09:14:57Z"
-        },
-        {
-          "id": "report-defc72fd3c7f",
-          "title": "Conflict With Iran | Global Conflict Tracker",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMWduRExjZXhMUjFuYjV4Zzc0LS11OHVKUEhXSlpUNUdFMm9MVGlJeFd5eGh1ZWpEWWhFNEdJX0tOVTlJbnZ5NmpBQ3dYeGNpSTBOSWtISUduak5WSHhfQUhQcHBKbVpLdG1IVi1ySWVGd05NM18yektrem1TM3ZvaV9xVjR2eC04cE9RZ3FZajNCZWFHNzBaS0hhSS02dw?oc=5",
-          "domain": "cfr.org",
-          "sourceTier": "Structured / analytic",
-          "confidenceLabel": "ANALYTIC REPORT",
-          "reportedAt": "2026-09-01T00:00:00Z"
         },
         {
           "id": "report-946fd6ae8e69",
@@ -1486,15 +1441,6 @@
           "reportedAt": "2026-09-03T18:47:53Z"
         },
         {
-          "id": "report-89de1091d8fa",
-          "title": "Trump suggests renaming Strait of Hormuz as Trump Strait amid Iran war",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMDlfWEl2RDE0UlJZVDBlVWNZazYxdEFOOFZkSEdxR21YeDFLN1dHdHR2VjNnd1lQczI0OVRHSFI4Zk52Z1pURzk2ZnVpdzdCTmdnenFJcnlnVGlKNmt1YXBCOERVU3YydFJOMEYySWJkX0Q1MlhsWnBIZldMeU80VzRGQ2VjcDE0SXVhZzF0bGxwc0xXSzQ2OG9UNzVaTHZVeDZzVmxSRHdsQdIBrwFBVV95cUxQeVctNkhETFhMR29mNDR5cThZSWRpeEVrM25oQi1oaHAxRTRHTU1ydDhfZ0FiOU1GWkQxMjk5M0lzSWFWbnRidXRzSTJwNkQtcThPcEpTYWdnUUNGYlhkUExIWUd6ekJkNXBtUVJGZ281MmFzNTJQSnlKSXZ6dk92Yll6UHF2U00zbEZPV3lxWEluQ1NwSC1uV1FCV3E2X0gxU2x2U2gzX1FUdlVobWgw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-03T05:43:18Z"
-        },
-        {
           "id": "report-48dd87170c46",
           "title": "Vance says Iran fight isn't a 'war' as Trump tries to navigate unpopular conflict as election nears",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUDhITzU0TDIyV0VyQTBvT0FPZmZBZHJaTGFKc3dQaFl6VHpmbmM1TVUtTXRtY2Z1d2dONVdDcXhpUHB4Z2xVcjF4NnBac2ZRUXVBcXpOU0VOZlJfejNfWHZVNEVxeGk3TzZ6MWVIYWljN194YjEtbExGeWJtYk52UTdabG0yWTNQQnlFTy0wd2E2amE1QnBqSDZTaldIb1M4MzFR?oc=5",
@@ -1504,22 +1450,22 @@
           "reportedAt": "2026-09-04T06:53:00Z"
         },
         {
-          "id": "report-900fd65a0ba1",
-          "title": "Trump weighs ending Iran war as Pentagon extends deployments: Report",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc1JKakFseFE0cTZrbFAwRHFyV0RycldrMEREWXBSeDY3OXRHbGY0dk0xZ2xWODZFRkc0V1FyeVJaM3FFQktMY1RvTXJrUEdNMHdlSUFQVkEwODdUMGtUcnhzRDBYTlp2WjRjbzl5VXZqRVAzSnlWOGhPZkR4amNRMUNvb1hSRnRMbkJCYklqcUtjNWRvdEVTb2JoQUNvLVVRT2J5c0RmOTI?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
-          "reportedAt": "2026-09-03T03:25:37Z"
-        },
-        {
-          "id": "report-f1c64cc6faa6",
-          "title": "Britons face ‘risk premium’ for energy as US-Israel war on Iran intensifies",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNamQ2MHJHYV9meERsSE9HcGVkY3NiT0g1cE81ckR3Z3h0SFVSYk4yY1JrZlRjMVZ6eUh1X2IybWtROE43Z2pfUXJnNzY0WllHREw5c0Y4V3Zrc3ZxUmJsMmhDOGxvMDFhWnVlNWRNRDVjbVJ5bnlPZ0t4Wlh1ZHFGZUYzSjRhZE41dUlacFRaOGFBRlJVLThaR3V6M1NJUHltY2lWNjl4eHNsdHZwSjhWVtIBtgFBVV95cUxNV1gyTFJnWUdoUDEtbU1hanItcV9FTHJUVDM1bXNSYmJKT2Y4Wnp3akxyLW1qLTFuMElNdlU4TUFRbU5fUGtOV2tiYnRybElBT0VaOTBDdUZvb281ZFU5eWRMU25hS29Kc2VBS3dPNkZnd3UyQWw3b1hicy10RVM2ZGdLQm5DWkltaDZKeXBNVEY3U1Q2TG91eUtEdDE3bW9nMHRrNHhUbTNFNFV5d3hUZl9MbUFkdw?oc=5",
+          "id": "report-89de1091d8fa",
+          "title": "Trump suggests renaming Strait of Hormuz as Trump Strait amid Iran war",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMDlfWEl2RDE0UlJZVDBlVWNZazYxdEFOOFZkSEdxR21YeDFLN1dHdHR2VjNnd1lQczI0OVRHSFI4Zk52Z1pURzk2ZnVpdzdCTmdnenFJcnlnVGlKNmt1YXBCOERVU3YydFJOMEYySWJkX0Q1MlhsWnBIZldMeU80VzRGQ2VjcDE0SXVhZzF0bGxwc0xXSzQ2OG9UNzVaTHZVeDZzVmxSRHdsQdIBrwFBVV95cUxQeVctNkhETFhMR29mNDR5cThZSWRpeEVrM25oQi1oaHAxRTRHTU1ydDhfZ0FiOU1GWkQxMjk5M0lzSWFWbnRidXRzSTJwNkQtcThPcEpTYWdnUUNGYlhkUExIWUd6ekJkNXBtUVJGZ281MmFzNTJQSnlKSXZ6dk92Yll6UHF2U00zbEZPV3lxWEluQ1NwSC1uV1FCV3E2X0gxU2x2U2gzX1FUdlVobWgw?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-01T08:24:18Z"
+          "reportedAt": "2026-09-03T05:43:18Z"
+        },
+        {
+          "id": "report-962ce9bfe6a5",
+          "title": "‘Small potatoes’: US President Trump downplays war on Iran",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVjdic3NWOEx4bDdlWTRfcXp3bUhUUDlMWkc4RGFfazVDSmVoWHh1dmRKZktTNllZM1RhRjJoRGkxMGR2S1lHbE9Cd0NndEptdnFTZEZMaW93bTRRRTJ1ZThGc1V0c1o1VDc0Q2VjZ0NIaTVMZ1otdzBEbnhFMTZ4WE1sZ1c5Y2Z3MHJaRUt6ZF82NkFLcWlzcEJfc9IBoAFBVV95cUxPRS14Y20xajR0enBJQzRGN1dTNlhSSU1sNmRTSVNOeUptcEtpeG9tRzdJalZQNTFEYkJteUptc3ktSXhtZDJPdHB5b2tGUnNMclE0OHVRQ0FYak1xSnFMZFg3S0x1OG50bzRSQ3Z1LTc0NFExejBxU21TOWRpVUotWndtWGdYelhvOWZwc1FtdU5VYUJsU3BXTXpORTVZODhl?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-04T23:58:39Z"
         },
         {
           "id": "report-597db369e127",
@@ -1531,13 +1477,13 @@
           "reportedAt": "2026-09-02T15:33:19Z"
         },
         {
-          "id": "report-e041a22b4e03",
-          "title": "Conflicts and extreme weather pushing global food prices higher, warns UN",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa1hRbGl3YWlTZjBRNU5vWXJnX00zTzl5S01YWVRlTVl1aVUyZ2dxRWVsVFVKQ1RVdTdEVzlzLVJzeTgxZjFXd0wyY20tNUgyRGl1d0c3TnRuZ0Z2LXdfeDZvdGNFWEUzX0hCM004TC0zb2szcE45aXJLU1VOM1B3bW9FVHkwdlJMYmNOdldrbm5wX01nbjhqMmpEM01Kc09ZQzJLSU5QaTJuZVRhOGM0S19R0gG3AUFVX3lxTE1aZGFCdGhrMkduN21oRGJMb0ZlQURuU2g1RkdybUhjS1dUdXNPTml1TEpDM0lEVFE1RUk4MlpRWDBsRGFpY09hMnJmY19RYnZlZ1doVTZwZ2lxdVhsU2VNalhSYW1vYURWelRqeThmRzZybFlEMUc3M3dOSjhEYUF4Nms0b0JWYlBqdjB0WkhLdm5CQjJZQks2NnVaWWNMX2JXR3Bja1Bpb2tSUHk0cW5ERThsY3JqRQ?oc=5",
-          "domain": "aljazeera.com",
+          "id": "report-060c1ca00047",
+          "title": "Trump calls Iran conflict ‘small potatoes’ and defends Vance’s position that it’s not a ‘war’",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTzBGbGQ2ZnhaeGhiZ3E0cEpWYnRpU0FtYTFQYlJUOWdkd0F5Y2lvczg0X0h0NTBRUkFXUkU1bWlwSnhtQng1dmtYY0JsVmFFYnpaNDVuMEJLMTROSXEtcUtPQndCdk0zRmNtQWFGdllDN2V5WGRmR0NWZHlQaWtBeFZMdmdGUVk?oc=5",
+          "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-04T13:31:39Z"
+          "reportedAt": "2026-09-04T22:52:00Z"
         },
         {
           "id": "report-007311f9d3c8",
@@ -1558,6 +1504,15 @@
           "reportedAt": "2026-09-02T17:33:45Z"
         },
         {
+          "id": "report-e041a22b4e03",
+          "title": "Conflicts and extreme weather pushing global food prices higher, warns UN",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa1hRbGl3YWlTZjBRNU5vWXJnX00zTzl5S01YWVRlTVl1aVUyZ2dxRWVsVFVKQ1RVdTdEVzlzLVJzeTgxZjFXd0wyY20tNUgyRGl1d0c3TnRuZ0Z2LXdfeDZvdGNFWEUzX0hCM004TC0zb2szcE45aXJLU1VOM1B3bW9FVHkwdlJMYmNOdldrbm5wX01nbjhqMmpEM01Kc09ZQzJLSU5QaTJuZVRhOGM0S19R0gG3AUFVX3lxTE1aZGFCdGhrMkduN21oRGJMb0ZlQURuU2g1RkdybUhjS1dUdXNPTml1TEpDM0lEVFE1RUk4MlpRWDBsRGFpY09hMnJmY19RYnZlZ1doVTZwZ2lxdVhsU2VNalhSYW1vYURWelRqeThmRzZybFlEMUc3M3dOSjhEYUF4Nms0b0JWYlBqdjB0WkhLdm5CQjJZQks2NnVaWWNMX2JXR3Bja1Bpb2tSUHk0cW5ERThsY3JqRQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-04T13:31:39Z"
+        },
+        {
           "id": "report-94fe2b829d31",
           "title": "Ukraine takes the war to Russia’s space programme in tactical shift",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdHJKb1B5b3ZSYVo1STVZTWpHRGVZU00wUkxScE4yRnR6b0o1b0JfX0NyLTN6NWhOdjVFUUVLeTh1NzJMdTZDY09ubU9XbDhCOENldEl6cWtwcWtCamw5eldnREliSXIyYjlJeDR0M1BRdVNGNWNSdlU5Y19TUXhJdDFmMFMyMmx4Vk9CQ2tTbFNSYUQxWFNaWUFldXpYUW_SAaQBQVVfeXFMTm5IZHl3Vjk2cGNodFoyWW5Ib1Vib296VjVZVk9jNWpYVkM5RktGRkZlcVFGQjlSUENlSFNKSG02TnBlYlhTcmhsRmI5c0xDbXVabjNDdmNBQ0JzcS1tY2U0NFo1X3VWSk5jWDA0OEJySHB5bjdra1BMdm9aSTQyZzZWQldsU0x5SU1mNndHY20xWWRtYlh4ckdhMHNqRU9yWWlNVVA?oc=5",
@@ -1565,6 +1520,24 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-03T13:36:09Z"
+        },
+        {
+          "id": "report-007ef3d70cf6",
+          "title": "Trump calls Iran war ‘small potatoes’, compares US deaths with Vietnam war",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOckpWUTFRc1lfaUs5Z0FCeWhFeTZYc2ttSUdSa0JNcnRvVWZBLUxDbmt2aXZQdld1QThrVFVtODhRRFBoMlVkX0lXLXNBUWp5SXhIZl8zNlp1anRzMXI1ZEI3aFlGZ2ZXdWk2Z2JhYmdhSDZCOXNmeU4xQXZsTTJLS1d1S3BZX2xnOG9JWjMtemloTnJD0gGaAUFVX3lxTE0tNjNoN3lfNWtfRUdibGY0T1FqcTBUemM4eVJDNXRvU04zenFKZFBTSUdHVHJDN3hyeDk2Q2otTXBtWEQ1ZzhOWG1NTnNFUGxXaUlnSVVJTWozOTY4NVJ6THV3RXlIS0xDMzBRdXF5QjladmhqbUJvc0xKX2Zxa2NPVTZSalpRNEllbEo3VUt4TFAzWUYydXRrUUE?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-04T20:47:23Z"
+        },
+        {
+          "id": "report-ece9a5a77ecf",
+          "title": "Witkoff and Kushner will travel to ‘end’ Russia’s war in Ukraine: Trump",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSjkzS1JEbGotSGtvMHF2V1pnWVNvLVptdWxRZ21kSDlHZlQyWXpOVVRGTzgtQmdtelVQQ3U2aDh4eXktb00tX3JQUjFaU3hyYkFBM09felVwdWZaWTR3bTdvdzdLMTczYVhuUUplRDdNcFlFYkpLeU92WjY2MzV1aVhfMDlKblVqQXNPYzVGRzAtYjBxNFR5VHRtSmpMZ040RTg0X2R2Ylp5azDSAbABQVVfeXFMUDFIaXZUMVpMYWR5cmxmODFLQW5oQldFYjBRUl9yRWItcldfbms2R0J2aEx4TjFtODllUmg1NW5MN3VpdGg3b1IxVFNQbGdrV0pnWjl4SlJrR1dQTUF2YkF2YWQ4TmN4YkE5bUJxb3lleDJqUGx3SmtJTkZaS1lBYTZ5bUFxQUlWdEtvbXJMa3YweGdNOTQtUEVQT1U5VmtGZkVQeHMwMk81Y0FNWTVrZTg?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-04T21:25:03Z"
         },
         {
           "id": "report-6842d48296cb",
@@ -1585,15 +1558,6 @@
           "reportedAt": "2026-09-03T21:13:43Z"
         },
         {
-          "id": "report-258262504c36",
-          "title": "EU considers military mission to replace UN peacekeepers in South Lebanon",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeldkUzNteGs4U2thdk1wcXpCVzk3LUtreHdnWkZUSkpIUkpXYmYydDJkdHF5Q09IWHRPSnRZLTU5TEI0cUZzcFhnejV5c1VhZVZ3ODQxeTZqNjJyVE10Zi1oN0JoUDhlbEdJUEdsRV9GMVVKamdLUExtOTZrbGIwZE0xSlJWMWVNdGpxalNDY2tsbWx1b2FjTHF1bUZfR0x2azgxMmQ5NVJ5dlBCX2hmcWhR0gG3AUFVX3lxTE5VRjVITkVSZDF3SDRKYzNtMy01LVh6YmpBWFZrXy1WUUhHZzhkMHY1LVRpNEFDRUNaWXBpb3BnZE0tamRYbWJFcXdjTmUtNDl6ZUpMTFNMVGZpNEpJWWZNQXh4NU1KSG9LYjBpNEJhLWhzWjhpT0d6RVFpNHZPRXZpaWFCQUpYaE16ZG96OWtqSnlpRFF6THQ3Q2FPZnlwSUZVYXFFU1BwMFhnWjNIQ3FYNERkeFBnQQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-01T05:35:33Z"
-        },
-        {
           "id": "report-a4b311c08dff",
           "title": "Iran fires on its Gulf neighbors, retaliating for US strikes after a wedding was hit",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSTQ5RWEwemszN1g0ZGdybDJrd0d4MW9sTk43M05welQ3WGZmeWgycERkU0NFck5vMDc4eXBjbmdQSzc0OTNodV9tMXhpTFg1WF9SR2JXOXp3aEVGVjBHSUlwVFR5QWpVdnJodmNfV1FmdEZBeDlhUHNJZVZPeHliVlBQU3hZTXJhNGgzNGZoNURLUWtqOW53OUF2TTJpSEpsNGVBTDVyOUI?oc=5",
@@ -1612,13 +1576,58 @@
           "reportedAt": "2026-09-02T04:53:51Z"
         },
         {
-          "id": "report-378e158b5b08",
-          "title": "Zelenskyy warns airlines as Ukrainian drones target Russian airspace",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQXRTT012b1NpNHFwUUoycVpJcG9xZ3F6Rkw2dWZCV2xlenhIandUcjY5X2htRWNja3lJSU9MVDE2YXlkNFVtcC1Zc25BMGFOVU52Ukc0VEFQakdfZGRvZlpBN1ZEdldrQkdvbUd6azRSMElpUUpFTzZSYllwcmlNMGJidzZRMXZLYU1fS01SVUNDaGcxZjcwYXotVERkTFg4MkppMVdJd0UzSkRFemVGTXN2cTNZN0o2YkHSAb8BQVVfeXFMT0pPSzB2RHByWmtXTjRWb1dXOC1makZRUmxQVVFmR1hOOEhNSjBPaVpsUGUzSUNSWlhBdmhUSWx2QVlobjQ4QlJ3X3JLaUw3S3MtR1Q2SGYtZjQxYld5VVFzRlpzbGpkOTJnNml5MHNyYm1XQVhXUTRwUDhBYWM0cVFhQ1EyT3N4TXd5dkt2dnpYSERCQUt1NGFjb3RjbWlmby1UTTFITGlwbHZ0SnlBd2tPVW5VUEM3ZDZWSGhlOEU?oc=5",
+          "id": "report-d51173d1c1c3",
+          "title": "Russia’s jet-powered drones overwhelm Ukraine, killing dozens",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORWJzbFJLdmJqSElmX3liczE2d284d0FpeHhFNENwT24xbm9aZU9UWEE3dlFET0hUbTgxdU1kQmdmb01HSXdoQ3l3RGRwVm92ZDhBTE8xT3BPVGZmdnR6a0JwTExlZUpseF9ORjl2X1lnaDlUR3g0WGNIZHNydEFGNGhySmo5X005VzFDdDVRZEpXZEppc3FrWFlNOS1hWC1B0gGmAUFVX3lxTE1USFBuNk5lSWJMRjNRamdNTXNQRjhOY2lrUzQwMVE2M3pwZmRXWU5pSndoTlh0T1B5NkxzM0JoMlBHMzZvTmxWeVVDU0tXVk9FYXlnNFJJd0tLZlhnQWZtUEhsMUd1UEt0OFNaTDB3WEdIRVZpWWloMklZZVlKZElZUVA1eXBtWlpfVWp3NmQwTG55RW83SmY3ZVJvaWFhSERXYUFoaVE?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-01T21:10:02Z"
+          "reportedAt": "2026-09-04T16:37:22Z"
+        },
+        {
+          "id": "report-c18d25434286",
+          "title": "Finland runs Europe’s biggest civil defense exercise since the end of World War II",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPLTdpNVR5R0JHdENSLVdzVjExUTE0SWRmTFVtb19BZW1nd3lzOVdCMklHeU1aZFlLZTdWbjhIc1kzY1FEbmZOZl9UWG1RSUxOWU1GemVBM01CVVBTWEtUVGtxMEFYVTdTdElfTXc4ZGp3NE5QN29pMzVZMUk4enRtVU1rLWZfSklJSWp3M1lqdHU3dUFGd3ZiMndYODVSV09PWHRHQl9YQmx6OEdRNWc?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-03T06:34:32Z"
+        },
+        {
+          "id": "report-800ea7c438e3",
+          "title": "Trump weighs ending Iran war as Pentagon extends deployments: Report",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORjU2QVJXRDMtdmpXN2EwanNaRmJXTi1iWDNDOW5tV1AxTVpBSElTeWExRnRYS0sxWm5ab0lwcW1TV2FMcXlNek8wV3pHNEdDOEN2Q2tSTmQ4VUNkaF9WRUdHU0RJaEZoMkhSZFZIWmtYVEpXX2JERGs3ZFotU2trbVl2Q1M5TkJIX212cFNIdl9Vb3ZkOW5GYkpKYi1iVnhlaUxxd0ZxOW5VTDdoZEE?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-09-03T03:25:37Z"
+        },
+        {
+          "id": "report-c9fb03fd5459",
+          "title": "Ukraine’s drone attacks caused turmoil for Russians throughout summer",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb0N2R2lIcVdIQk1INTEzTnl5N2s3NFNFbjROUGY3Z2ZMZ2FTaExkWm5PQlc4d3pDU1BvODNtbTc2WmV4WDdPVUdNejFyTGp2OXRUOWI5NG9oU2VLSlRrWXNpWVNWQ0ZYN1FyZU1xUU5JVTVjbDF5LTh6eU1panJuMkFqTlVLeEJpT3FDQk1FY1BwcjFraUpuWkFkZnVWUQ?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-03T12:02:00Z"
+        },
+        {
+          "id": "report-450f7f4efd3a",
+          "title": "Body of convicted war criminal Ratko Mladic returned to Serbia for funeral",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVTBacV9TNVF1QnFDb090OUNicDViU1NtQk9lSUhWVG8zS3VkNFowV1doZy1QMEJ6R1hxVFNxSWM4ekJMdVdhV3pybVZGblFOZFQ3VUZxdEFMb05kdUJ0T3lyMkdnSWpsRzROQ0VyNS1NOHBJRGpOVlpIQ1Y0QkMwcXBhZGM2WWVKMFA1UWRSbw?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-04T07:31:00Z"
+        },
+        {
+          "id": "report-defc72fd3c7f",
+          "title": "Conflict With Iran | Global Conflict Tracker",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMWduRExjZXhMUjFuYjV4Zzc0LS11OHVKUEhXSlpUNUdFMm9MVGlJeFd5eGh1ZWpEWWhFNEdJX0tOVTlJbnZ5NmpBQ3dYeGNpSTBOSWtISUduak5WSHhfQUhQcHBKbVpLdG1IVi1ySWVGd05NM18yektrem1TM3ZvaV9xVjR2eC04cE9RZ3FZajNCZWFHNzBaS0hhSS02dw?oc=5",
+          "domain": "cfr.org",
+          "sourceTier": "Structured / analytic",
+          "confidenceLabel": "ANALYTIC REPORT",
+          "reportedAt": "2026-09-01T00:00:00Z"
         },
         {
           "id": "report-3856ac9e73b2",
