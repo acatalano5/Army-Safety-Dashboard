@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-05T17:40:24.633Z",
+  "generatedAt": "2026-09-05T20:21:10.338Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-09-05T15:13:26.952Z",
+      "generatedAt": "2026-09-05T20:21:10.338Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -1233,9 +1233,17 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-09-05T15:13:26.952Z",
+      "generatedAt": "2026-09-05T20:21:10.338Z",
       "cadence": "every 6 hours",
       "items": [
+        {
+          "title": "Iran war: Why US midterms could be a pivotal moment",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUVVrZmlySUtWeW9xR2U4U3hnYTRiaUR2elNfenVCWE1WM21HTG9xMDJpc3h6UjhibkpVTS1sNDh0R1pWbFExZGZtX3pDZklCMkFBLXRFWmlJQVZyamdaWkxCT21HNUhaZGtSdWlMMXdPS2tVT0RuYkg5QUdQaUV2cEgzcW8yNzR6NkhPR3hQUk5BV01Z0gGaAUFVX3lxTE5iRlQ2a0g3WDczTkdhRlJlUkN4MElybWktQWhzX1dSelRPLS1SMXFqREVfWDRHRHlpbXdiVFBuZVJBQVBaX0xoU0dMVnZWbk5ib1J3ZTZfazFJb3VLSmJjanJHRFVkQ2RESnloaFNaSjVlUmVFX0tYeGtHOTVXVlVyWUdoRFh5TjdVWXBrSTNTOVNwTWhVbjhpZGc?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260904T111541Z",
+          "pinned": false
+        },
         {
           "title": "How could US-Iran conflict end? Three experts give their views",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3NlAwRjE4V1ZYTVdlREg1SlpiZkFQdmtGR3puaDhoWENuaEtwMDlyMXpraHNJZFhBV3lXaHIwbHFFWHNYdlBNb0FjTGF2ZmVjZ296Rm0xb3BEdw?oc=5",
@@ -1250,14 +1258,6 @@
           "domain": "aa.com.tr",
           "sourceTier": "State-affiliated reporting",
           "seen": "20260904T143753Z",
-          "pinned": false
-        },
-        {
-          "title": "Iran war: Why US midterms could be a pivotal moment",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUVVrZmlySUtWeW9xR2U4U3hnYTRiaUR2elNfenVCWE1WM21HTG9xMDJpc3h6UjhibkpVTS1sNDh0R1pWbFExZGZtX3pDZklCMkFBLXRFWmlJQVZyamdaWkxCT21HNUhaZGtSdWlMMXdPS2tVT0RuYkg5QUdQaUV2cEgzcW8yNzR6NkhPR3hQUk5BV01Z0gGaAUFVX3lxTE5iRlQ2a0g3WDczTkdhRlJlUkN4MElybWktQWhzX1dSelRPLS1SMXFqREVfWDRHRHlpbXdiVFBuZVJBQVBaX0xoU0dMVnZWbk5ib1J3ZTZfazFJb3VLSmJjanJHRFVkQ2RESnloaFNaSjVlUmVFX0tYeGtHOTVXVlVyWUdoRFh5TjdVWXBrSTNTOVNwTWhVbjhpZGc?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260904T111541Z",
           "pinned": false
         },
         {
@@ -1309,19 +1309,19 @@
           "pinned": false
         },
         {
-          "title": "Trump calls Iran conflict ‘small potatoes’ and defends Vance’s position that it’s not a ‘war’",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTzBGbGQ2ZnhaeGhiZ3E0cEpWYnRpU0FtYTFQYlJUOWdkd0F5Y2lvczg0X0h0NTBRUkFXUkU1bWlwSnhtQng1dmtYY0JsVmFFYnpaNDVuMEJLMTROSXEtcUtPQndCdk0zRmNtQWFGdllDN2V5WGRmR0NWZHlQaWtBeFZMdmdGUVk?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260904T225200Z",
-          "pinned": false
-        },
-        {
           "title": "Why is Trump threatening to strike Iran’s Pickaxe Mountain again, now?",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZjRxTHlmNGgyN05QTE9GN2ZQb0M0RFgtVUNvREtfMTdLRWJaUkw3blotT2ZBczVqOGlxQXdmREx1YVdWQ3d2bENpajhlaE83SFhrVDJEeF9vbkd4aHFUcXZITjdNYUlLWGgzUzQwdFJ6TXUtWWJfbEJKUU4wQndsWGRMM0JpUTJkejNMTjQ0eHl6V0pXRlpEM2F6TC1HOFpCMjNPM2xldHNYcDTSAbABQVVfeXFMTUFvWUxfc20yMlhaZG1rUFFUYWVWZGRXNVV2azJ4NVV4cFJFZHhMNjVnVFNRcTVZaWZQdFpRSE5XOXJITUdZaVhnZUZvbUNMblRLTVdzakc1VDhzWkhjRVItcFc2b3Jsd21kdVVQVEx3bTNBWTBfNXV0UGx3b0hfTXVJSnB2RjlISW1HN2xCeWhYa0hRSWF0M2dsVjN4MWxmcDFraFVSc01yU1NNZ00tN3Y?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260905T130227Z",
+          "pinned": false
+        },
+        {
+          "title": "Trump calls Iran conflict ‘small potatoes’ and defends Vance’s position that it’s not a ‘war’",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTzBGbGQ2ZnhaeGhiZ3E0cEpWYnRpU0FtYTFQYlJUOWdkd0F5Y2lvczg0X0h0NTBRUkFXUkU1bWlwSnhtQng1dmtYY0JsVmFFYnpaNDVuMEJLMTROSXEtcUtPQndCdk0zRmNtQWFGdllDN2V5WGRmR0NWZHlQaWtBeFZMdmdGUVk?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260904T225200Z",
           "pinned": false
         },
         {
@@ -1341,19 +1341,11 @@
           "pinned": false
         },
         {
-          "title": "Conflicts and extreme weather pushing global food prices higher, warns UN",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa1hRbGl3YWlTZjBRNU5vWXJnX00zTzl5S01YWVRlTVl1aVUyZ2dxRWVsVFVKQ1RVdTdEVzlzLVJzeTgxZjFXd0wyY20tNUgyRGl1d0c3TnRuZ0Z2LXdfeDZvdGNFWEUzX0hCM004TC0zb2szcE45aXJLU1VOM1B3bW9FVHkwdlJMYmNOdldrbm5wX01nbjhqMmpEM01Kc09ZQzJLSU5QaTJuZVRhOGM0S19R0gG3AUFVX3lxTE1aZGFCdGhrMkduN21oRGJMb0ZlQURuU2g1RkdybUhjS1dUdXNPTml1TEpDM0lEVFE1RUk4MlpRWDBsRGFpY09hMnJmY19RYnZlZ1doVTZwZ2lxdVhsU2VNalhSYW1vYURWelRqeThmRzZybFlEMUc3M3dOSjhEYUF4Nms0b0JWYlBqdjB0WkhLdm5CQjJZQks2NnVaWWNMX2JXR3Bja1Bpb2tSUHk0cW5ERThsY3JqRQ?oc=5",
+          "title": "Trump calls Iran war ‘small potatoes’, compares US deaths with Vietnam war",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOckpWUTFRc1lfaUs5Z0FCeWhFeTZYc2ttSUdSa0JNcnRvVWZBLUxDbmt2aXZQdld1QThrVFVtODhRRFBoMlVkX0lXLXNBUWp5SXhIZl8zNlp1anRzMXI1ZEI3aFlGZ2ZXdWk2Z2JhYmdhSDZCOXNmeU4xQXZsTTJLS1d1S3BZX2xnOG9JWjMtemloTnJD0gGaAUFVX3lxTE0tNjNoN3lfNWtfRUdibGY0T1FqcTBUemM4eVJDNXRvU04zenFKZFBTSUdHVHJDN3hyeDk2Q2otTXBtWEQ1ZzhOWG1NTnNFUGxXaUlnSVVJTWozOTY4NVJ6THV3RXlIS0xDMzBRdXF5QjladmhqbUJvc0xKX2Zxa2NPVTZSalpRNEllbEo3VUt4TFAzWUYydXRrUUE?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260904T133139Z",
-          "pinned": false
-        },
-        {
-          "title": "Witkoff and Kushner will travel to ‘end’ Russia’s war in Ukraine: Trump",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSjkzS1JEbGotSGtvMHF2V1pnWVNvLVptdWxRZ21kSDlHZlQyWXpOVVRGTzgtQmdtelVQQ3U2aDh4eXktb00tX3JQUjFaU3hyYkFBM09felVwdWZaWTR3bTdvdzdLMTczYVhuUUplRDdNcFlFYkpLeU92WjY2MzV1aVhfMDlKblVqQXNPYzVGRzAtYjBxNFR5VHRtSmpMZ040RTg0X2R2Ylp5azDSAbABQVVfeXFMUDFIaXZUMVpMYWR5cmxmODFLQW5oQldFYjBRUl9yRWItcldfbms2R0J2aEx4TjFtODllUmg1NW5MN3VpdGg3b1IxVFNQbGdrV0pnWjl4SlJrR1dQTUF2YkF2YWQ4TmN4YkE5bUJxb3lleDJqUGx3SmtJTkZaS1lBYTZ5bUFxQUlWdEtvbXJMa3YweGdNOTQtUEVQT1U5VmtGZkVQeHMwMk81Y0FNWTVrZTg?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260904T212503Z",
+          "seen": "20260904T204723Z",
           "pinned": false
         },
         {
@@ -1365,14 +1357,6 @@
           "pinned": false
         },
         {
-          "title": "Trump calls media ‘treasonous scum’ over reports of low Iran war munitions",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRndVd0NKeU5tZ1ZlNkNLSGUtbUMwaUZlcVVNU3lKVFhtdUw2WEhuQzNSbnhpOExYb25rTFgxUXJFcWRZVFZQZTdpOUdOUnB4UHBtVDhQT2RseVFZQm5DOHhPdkstam9zTVlfREJ2aUkteDlQNEd3YWh5SHlaU24wQVgyNGtVV0w0RmFUX1ZBOTJfWUZWWjdEa0gxWVJ2Q0V5Q2pKQ3EtYWdkV1JwYkhLWVBB0gG3AUFVX3lxTE9HRTN4ZzZQVUI3ajVuOVNIWUNWdkg3dFQyeEU3M3VzazhLUHhJcEJIN1hQS0NEMmppOV9wQnVTSklvOERVX1ZFUTF6V29FRk1EMk1xc0hFN1MwNTNyUmNhWGJWMDBMMEJBTVZCQ3U0XzExeXE2WkRYdFdaUmZwbXhtcWJoNmNFZ21xN1ZuMXl2ZV9BNGtXcXZaUU9kMHY4cTNabVVJRnpzNldoa3o3X2JUOVMwUlZJcw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260903T173208Z",
-          "pinned": false
-        },
-        {
           "title": "US Vice President JD Vance declines to offer timeline for end of Iran war",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUF9sREpvaGdYaTROSzBleGstMHlMM2FySEh3aVNfek9VVjJFNTZvQ0I1aks1d1piWC1lOWZxcksxU1dqT01oa005RDBfNWNKOVlCc0dxLURURmF6Um9kUmFsTWRsM2VjMVF2aVZPV0NZZTgwUkVPSEtCWENiclB4WDM5ckRWV3FOUGE5akhzc0xoYnE2VjRvTmRJdnJLNGNfaWRwcHhBRFZNQnE5WWQ5eUdad9IBuAFBVV95cUxOUFZ5TjU1QmxTS21obHU1WE8tZVZsZVk4MUNkUFNSTDQ1LTI5LWVHbG1UWHM2Y3FFQmNZQU1hMkw5bXlJOW13SlVhR01aYTFtSWhUNkc2MEZDTU5rTXZuaWdKQlZFNWxVTVl4Vzc3dzJqLXFrSmhlb2QxNlVQekp2V3gxbUc5X0pvY0FSaUM0XzVRY2R2SllnWENvNWgyc3JMRHZDa3VQUjcwYUdReUtzX1JXRnVobnBj?oc=5",
           "domain": "aljazeera.com",
@@ -1381,11 +1365,27 @@
           "pinned": false
         },
         {
+          "title": "Russia’s Putin meets US envoys to discuss Trump proposal to end Ukraine war",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPa3lfVzJ5SVRIMUFBZEZpZkx5NzQ1cHU5cFMySTVUeEZzTVNNLV9WOGpMQXh5MFd1SUhiQ2V5T0FHSUZhZ1Jiblg4XzZfZkh3SzFBZVBvSXZNRElXcndKeWM5NGROanNCd2hkem9ieWxieUp3VEp5dzVMeVI3VzdQQjd2Y1VJWFJSQlczbkF6SGotaU12T1Q0RHBhSFo1X19pMFNlY3NIV1lfNUJ5UW82dW4wNzXSAboBQVVfeXFMTlBLcWhqSU1tMmxRWDNKajgzSldXRnl1cFlNeHZLMThQT0dmZjhkbHpCaE12NXVzZGw0LTVtMTY5N1ZQMlZhRWIxSU11TVdYanVHU3hvN0hHRXpfR2JDamVMWC05bmFjNS02SFduNWtRT3Z0YVNmLTNZVEhmbEdpdG9lOGZKdEt4WUlRQXA2YXRIZG5fYmlPQmx0U1pXcVpMRGszN29tRHF1NFZ6aElVR05CU0JVMmFRYmx3?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260905T183345Z",
+          "pinned": false
+        },
+        {
           "title": "Watch: How much can Canada fight back in its trade war with the US?",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE43NmhBcl9qV2RrelV6M2hGYTBXckgzM21Lbm92aHlaQm9DUmp3bjlkR0FhcFZCMWJxNmw0dlRUYWliWmxEYTRpUS12QXUtMVBENlBTaHFSaw?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20260905T021321Z",
+          "pinned": false
+        },
+        {
+          "title": "Russia-Ukraine war: US envoys meet Putin in Moscow for Ukraine talks",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hbWFaVHAzX3NCR3BCWjdSTjJsVHJubUhkVjRabXBjdHY5Ry1IZU1xemJPbHlXMzlydHRpaW53eXlmV3p5MTl6MWxsOGR3VzlXZXB5cjcyUEY3Zw?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260905T190131Z",
           "pinned": false
         },
         {
@@ -1413,23 +1413,32 @@
           "pinned": false
         },
         {
-          "title": "At least 5 killed in Russian attacks on Ukraine as US envoys visit Moscow",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ0Jlc2pENng0ZGhua1hLVFdtbjdRSkVBcXNzVXFWS1hSSlM5REtLc3U2cmFwT2pwM1ZPaWFVZndYM2RmY2xOdEd4NDFYbzVWb2p5MWhjWnVEVDhfeFFsOFNyNUhjQ29rOEhUMTQ0anRES3UwYURRSTA2S2xReENDLXBpNjZ2SDljOGJoR2hXS0J5WmxSOXVFWktlYlYxZWxoMGdEcjRNUXZ2bk5uRUVDMXIza9IBuAFBVV95cUxQZ0Q4RlhvN1RneWVINmhnUEQxQnQzTHI4M2VuZ05ieVExbXhNc3ltRDdMcmNmT2ZGdmpFUVBSY2p0TUpoWUdjVkwtUEhvSWZsdmhGV2dNRnRmZ3FRejBZaF9qNndReUVfNWdvN1BkZVJOOXVkSWFNTG1sdnNRUDFvdG8xN0xFb1puSDF0MUVWVHE1N19FdEdLQ3BVX1pqQTdyUEk3X0xyMzg0MGxMdC03M0dzSmRabmJC?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260905T132545Z",
-          "pinned": false
-        },
-        {
           "title": "Trump weighs ending Iran war as Pentagon extends deployments: Report",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORjU2QVJXRDMtdmpXN2EwanNaRmJXTi1iWDNDOW5tV1AxTVpBSElTeWExRnRYS0sxWm5ab0lwcW1TV2FMcXlNek8wV3pHNEdDOEN2Q2tSTmQ4VUNkaF9WRUdHU0RJaEZoMkhSZFZIWmtYVEpXX2JERGs3ZFotU2trbVl2Q1M5TkJIX212cFNIdl9Vb3ZkOW5GYkpKYi1iVnhlaUxxd0ZxOW5VTDdoZEE?oc=5",
           "domain": "aa.com.tr",
           "sourceTier": "State-affiliated reporting",
           "seen": "20260903T032537Z",
           "pinned": false
+        },
+        {
+          "title": "Iranian drone damages residential building in Kuwait City",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSlNfZTFTUjIzbi1nOVVZQWc4ZDU0aW9WcEstNHd2RE9WcVY4MkJlYzRReXUycEszVnNobXRmYjJfR0ZsYjhVZVloajNoOTItVDlKZUZzZUdZRDBLVWVJalFya2hRaUFxQ1Z6bDlHTldrZm1qWFpDMUxDeW00dmdSR2VGeTB5MXFkOFBNcGVfS2tvZ1Vu0gGaAUFVX3lxTE9LUFZEWVNFSlhYbGRnd1VRMkUtSnFsckdneGgwMzlKS2dvUWZoU3FPalAyZE5kQkNXOG1LNnBFWlNBamtfRC1PNVNSS2tEREZ1ZE9MTmphNGo3TjU4RnZ6ZFlMSUt2UEw4dHVUblc1RTRBdVppSnFfb09UWHBwYlhvd2daLUNJN2hiVDl2TmRjbmdKbmJlbXlTUXc?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260903T151855Z",
+          "pinned": false
         }
       ],
       "reports": [
+        {
+          "id": "report-946fd6ae8e69",
+          "title": "Iran war: Why US midterms could be a pivotal moment",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUVVrZmlySUtWeW9xR2U4U3hnYTRiaUR2elNfenVCWE1WM21HTG9xMDJpc3h6UjhibkpVTS1sNDh0R1pWbFExZGZtX3pDZklCMkFBLXRFWmlJQVZyamdaWkxCT21HNUhaZGtSdWlMMXdPS2tVT0RuYkg5QUdQaUV2cEgzcW8yNzR6NkhPR3hQUk5BV01Z0gGaAUFVX3lxTE5iRlQ2a0g3WDczTkdhRlJlUkN4MElybWktQWhzX1dSelRPLS1SMXFqREVfWDRHRHlpbXdiVFBuZVJBQVBaX0xoU0dMVnZWbk5ib1J3ZTZfazFJb3VLSmJjanJHRFVkQ2RESnloaFNaSjVlUmVFX0tYeGtHOTVXVlVyWUdoRFh5TjdVWXBrSTNTOVNwTWhVbjhpZGc?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-04T11:15:41Z"
+        },
         {
           "id": "report-434bde8e5b20",
           "title": "How could US-Iran conflict end? Three experts give their views",
@@ -1447,15 +1456,6 @@
           "sourceTier": "State-affiliated reporting",
           "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
           "reportedAt": "2026-09-04T14:37:53Z"
-        },
-        {
-          "id": "report-946fd6ae8e69",
-          "title": "Iran war: Why US midterms could be a pivotal moment",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUVVrZmlySUtWeW9xR2U4U3hnYTRiaUR2elNfenVCWE1WM21HTG9xMDJpc3h6UjhibkpVTS1sNDh0R1pWbFExZGZtX3pDZklCMkFBLXRFWmlJQVZyamdaWkxCT21HNUhaZGtSdWlMMXdPS2tVT0RuYkg5QUdQaUV2cEgzcW8yNzR6NkhPR3hQUk5BV01Z0gGaAUFVX3lxTE5iRlQ2a0g3WDczTkdhRlJlUkN4MElybWktQWhzX1dSelRPLS1SMXFqREVfWDRHRHlpbXdiVFBuZVJBQVBaX0xoU0dMVnZWbk5ib1J3ZTZfazFJb3VLSmJjanJHRFVkQ2RESnloaFNaSjVlUmVFX0tYeGtHOTVXVlVyWUdoRFh5TjdVWXBrSTNTOVNwTWhVbjhpZGc?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-04T11:15:41Z"
         },
         {
           "id": "report-93ac432fb931",
@@ -1512,15 +1512,6 @@
           "reportedAt": "2026-09-02T15:33:19Z"
         },
         {
-          "id": "report-060c1ca00047",
-          "title": "Trump calls Iran conflict ‘small potatoes’ and defends Vance’s position that it’s not a ‘war’",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTzBGbGQ2ZnhaeGhiZ3E0cEpWYnRpU0FtYTFQYlJUOWdkd0F5Y2lvczg0X0h0NTBRUkFXUkU1bWlwSnhtQng1dmtYY0JsVmFFYnpaNDVuMEJLMTROSXEtcUtPQndCdk0zRmNtQWFGdllDN2V5WGRmR0NWZHlQaWtBeFZMdmdGUVk?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-04T22:52:00Z"
-        },
-        {
           "id": "report-3026ef72f64a",
           "title": "Why is Trump threatening to strike Iran’s Pickaxe Mountain again, now?",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZjRxTHlmNGgyN05QTE9GN2ZQb0M0RFgtVUNvREtfMTdLRWJaUkw3blotT2ZBczVqOGlxQXdmREx1YVdWQ3d2bENpajhlaE83SFhrVDJEeF9vbkd4aHFUcXZITjdNYUlLWGgzUzQwdFJ6TXUtWWJfbEJKUU4wQndsWGRMM0JpUTJkejNMTjQ0eHl6V0pXRlpEM2F6TC1HOFpCMjNPM2xldHNYcDTSAbABQVVfeXFMTUFvWUxfc20yMlhaZG1rUFFUYWVWZGRXNVV2azJ4NVV4cFJFZHhMNjVnVFNRcTVZaWZQdFpRSE5XOXJITUdZaVhnZUZvbUNMblRLTVdzakc1VDhzWkhjRVItcFc2b3Jsd21kdVVQVEx3bTNBWTBfNXV0UGx3b0hfTXVJSnB2RjlISW1HN2xCeWhYa0hRSWF0M2dsVjN4MWxmcDFraFVSc01yU1NNZ00tN3Y?oc=5",
@@ -1528,6 +1519,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-05T13:02:27Z"
+        },
+        {
+          "id": "report-060c1ca00047",
+          "title": "Trump calls Iran conflict ‘small potatoes’ and defends Vance’s position that it’s not a ‘war’",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTzBGbGQ2ZnhaeGhiZ3E0cEpWYnRpU0FtYTFQYlJUOWdkd0F5Y2lvczg0X0h0NTBRUkFXUkU1bWlwSnhtQng1dmtYY0JsVmFFYnpaNDVuMEJLMTROSXEtcUtPQndCdk0zRmNtQWFGdllDN2V5WGRmR0NWZHlQaWtBeFZMdmdGUVk?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-04T22:52:00Z"
         },
         {
           "id": "report-007311f9d3c8",
@@ -1548,22 +1548,13 @@
           "reportedAt": "2026-09-02T17:33:45Z"
         },
         {
-          "id": "report-e041a22b4e03",
-          "title": "Conflicts and extreme weather pushing global food prices higher, warns UN",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa1hRbGl3YWlTZjBRNU5vWXJnX00zTzl5S01YWVRlTVl1aVUyZ2dxRWVsVFVKQ1RVdTdEVzlzLVJzeTgxZjFXd0wyY20tNUgyRGl1d0c3TnRuZ0Z2LXdfeDZvdGNFWEUzX0hCM004TC0zb2szcE45aXJLU1VOM1B3bW9FVHkwdlJMYmNOdldrbm5wX01nbjhqMmpEM01Kc09ZQzJLSU5QaTJuZVRhOGM0S19R0gG3AUFVX3lxTE1aZGFCdGhrMkduN21oRGJMb0ZlQURuU2g1RkdybUhjS1dUdXNPTml1TEpDM0lEVFE1RUk4MlpRWDBsRGFpY09hMnJmY19RYnZlZ1doVTZwZ2lxdVhsU2VNalhSYW1vYURWelRqeThmRzZybFlEMUc3M3dOSjhEYUF4Nms0b0JWYlBqdjB0WkhLdm5CQjJZQks2NnVaWWNMX2JXR3Bja1Bpb2tSUHk0cW5ERThsY3JqRQ?oc=5",
+          "id": "report-007ef3d70cf6",
+          "title": "Trump calls Iran war ‘small potatoes’, compares US deaths with Vietnam war",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOckpWUTFRc1lfaUs5Z0FCeWhFeTZYc2ttSUdSa0JNcnRvVWZBLUxDbmt2aXZQdld1QThrVFVtODhRRFBoMlVkX0lXLXNBUWp5SXhIZl8zNlp1anRzMXI1ZEI3aFlGZ2ZXdWk2Z2JhYmdhSDZCOXNmeU4xQXZsTTJLS1d1S3BZX2xnOG9JWjMtemloTnJD0gGaAUFVX3lxTE0tNjNoN3lfNWtfRUdibGY0T1FqcTBUemM4eVJDNXRvU04zenFKZFBTSUdHVHJDN3hyeDk2Q2otTXBtWEQ1ZzhOWG1NTnNFUGxXaUlnSVVJTWozOTY4NVJ6THV3RXlIS0xDMzBRdXF5QjladmhqbUJvc0xKX2Zxa2NPVTZSalpRNEllbEo3VUt4TFAzWUYydXRrUUE?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-04T13:31:39Z"
-        },
-        {
-          "id": "report-ece9a5a77ecf",
-          "title": "Witkoff and Kushner will travel to ‘end’ Russia’s war in Ukraine: Trump",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSjkzS1JEbGotSGtvMHF2V1pnWVNvLVptdWxRZ21kSDlHZlQyWXpOVVRGTzgtQmdtelVQQ3U2aDh4eXktb00tX3JQUjFaU3hyYkFBM09felVwdWZaWTR3bTdvdzdLMTczYVhuUUplRDdNcFlFYkpLeU92WjY2MzV1aVhfMDlKblVqQXNPYzVGRzAtYjBxNFR5VHRtSmpMZ040RTg0X2R2Ylp5azDSAbABQVVfeXFMUDFIaXZUMVpMYWR5cmxmODFLQW5oQldFYjBRUl9yRWItcldfbms2R0J2aEx4TjFtODllUmg1NW5MN3VpdGg3b1IxVFNQbGdrV0pnWjl4SlJrR1dQTUF2YkF2YWQ4TmN4YkE5bUJxb3lleDJqUGx3SmtJTkZaS1lBYTZ5bUFxQUlWdEtvbXJMa3YweGdNOTQtUEVQT1U5VmtGZkVQeHMwMk81Y0FNWTVrZTg?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-04T21:25:03Z"
+          "reportedAt": "2026-09-04T20:47:23Z"
         },
         {
           "id": "report-a4b311c08dff",
@@ -1575,15 +1566,6 @@
           "reportedAt": "2026-09-03T02:07:00Z"
         },
         {
-          "id": "report-6842d48296cb",
-          "title": "Trump calls media ‘treasonous scum’ over reports of low Iran war munitions",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRndVd0NKeU5tZ1ZlNkNLSGUtbUMwaUZlcVVNU3lKVFhtdUw2WEhuQzNSbnhpOExYb25rTFgxUXJFcWRZVFZQZTdpOUdOUnB4UHBtVDhQT2RseVFZQm5DOHhPdkstam9zTVlfREJ2aUkteDlQNEd3YWh5SHlaU24wQVgyNGtVV0w0RmFUX1ZBOTJfWUZWWjdEa0gxWVJ2Q0V5Q2pKQ3EtYWdkV1JwYkhLWVBB0gG3AUFVX3lxTE9HRTN4ZzZQVUI3ajVuOVNIWUNWdkg3dFQyeEU3M3VzazhLUHhJcEJIN1hQS0NEMmppOV9wQnVTSklvOERVX1ZFUTF6V29FRk1EMk1xc0hFN1MwNTNyUmNhWGJWMDBMMEJBTVZCQ3U0XzExeXE2WkRYdFdaUmZwbXhtcWJoNmNFZ21xN1ZuMXl2ZV9BNGtXcXZaUU9kMHY4cTNabVVJRnpzNldoa3o3X2JUOVMwUlZJcw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-03T17:32:08Z"
-        },
-        {
           "id": "report-3dea82441058",
           "title": "US Vice President JD Vance declines to offer timeline for end of Iran war",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUF9sREpvaGdYaTROSzBleGstMHlMM2FySEh3aVNfek9VVjJFNTZvQ0I1aks1d1piWC1lOWZxcksxU1dqT01oa005RDBfNWNKOVlCc0dxLURURmF6Um9kUmFsTWRsM2VjMVF2aVZPV0NZZTgwUkVPSEtCWENiclB4WDM5ckRWV3FOUGE5akhzc0xoYnE2VjRvTmRJdnJLNGNfaWRwcHhBRFZNQnE5WWQ5eUdad9IBuAFBVV95cUxOUFZ5TjU1QmxTS21obHU1WE8tZVZsZVk4MUNkUFNSTDQ1LTI5LWVHbG1UWHM2Y3FFQmNZQU1hMkw5bXlJOW13SlVhR01aYTFtSWhUNkc2MEZDTU5rTXZuaWdKQlZFNWxVTVl4Vzc3dzJqLXFrSmhlb2QxNlVQekp2V3gxbUc5X0pvY0FSaUM0XzVRY2R2SllnWENvNWgyc3JMRHZDa3VQUjcwYUdReUtzX1JXRnVobnBj?oc=5",
@@ -1593,6 +1575,15 @@
           "reportedAt": "2026-09-03T21:13:43Z"
         },
         {
+          "id": "report-f6efdacb8ae3",
+          "title": "Russia’s Putin meets US envoys to discuss Trump proposal to end Ukraine war",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPa3lfVzJ5SVRIMUFBZEZpZkx5NzQ1cHU5cFMySTVUeEZzTVNNLV9WOGpMQXh5MFd1SUhiQ2V5T0FHSUZhZ1Jiblg4XzZfZkh3SzFBZVBvSXZNRElXcndKeWM5NGROanNCd2hkem9ieWxieUp3VEp5dzVMeVI3VzdQQjd2Y1VJWFJSQlczbkF6SGotaU12T1Q0RHBhSFo1X19pMFNlY3NIV1lfNUJ5UW82dW4wNzXSAboBQVVfeXFMTlBLcWhqSU1tMmxRWDNKajgzSldXRnl1cFlNeHZLMThQT0dmZjhkbHpCaE12NXVzZGw0LTVtMTY5N1ZQMlZhRWIxSU11TVdYanVHU3hvN0hHRXpfR2JDamVMWC05bmFjNS02SFduNWtRT3Z0YVNmLTNZVEhmbEdpdG9lOGZKdEt4WUlRQXA2YXRIZG5fYmlPQmx0U1pXcVpMRGszN29tRHF1NFZ6aElVR05CU0JVMmFRYmx3?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-05T18:33:45Z"
+        },
+        {
           "id": "report-2dbe0ddb4822",
           "title": "Watch: How much can Canada fight back in its trade war with the US?",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE43NmhBcl9qV2RrelV6M2hGYTBXckgzM21Lbm92aHlaQm9DUmp3bjlkR0FhcFZCMWJxNmw0dlRUYWliWmxEYTRpUS12QXUtMVBENlBTaHFSaw?oc=5",
@@ -1600,6 +1591,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-05T02:13:21Z"
+        },
+        {
+          "id": "report-acfedbdbda26",
+          "title": "Russia-Ukraine war: US envoys meet Putin in Moscow for Ukraine talks",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hbWFaVHAzX3NCR3BCWjdSTjJsVHJubUhkVjRabXBjdHY5Ry1IZU1xemJPbHlXMzlydHRpaW53eXlmV3p5MTl6MWxsOGR3VzlXZXB5cjcyUEY3Zw?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-05T19:01:31Z"
         },
         {
           "id": "report-f68789684367",
@@ -1629,15 +1629,6 @@
           "reportedAt": "2026-09-03T06:34:32Z"
         },
         {
-          "id": "report-f19f54132592",
-          "title": "At least 5 killed in Russian attacks on Ukraine as US envoys visit Moscow",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ0Jlc2pENng0ZGhua1hLVFdtbjdRSkVBcXNzVXFWS1hSSlM5REtLc3U2cmFwT2pwM1ZPaWFVZndYM2RmY2xOdEd4NDFYbzVWb2p5MWhjWnVEVDhfeFFsOFNyNUhjQ29rOEhUMTQ0anRES3UwYURRSTA2S2xReENDLXBpNjZ2SDljOGJoR2hXS0J5WmxSOXVFWktlYlYxZWxoMGdEcjRNUXZ2bk5uRUVDMXIza9IBuAFBVV95cUxQZ0Q4RlhvN1RneWVINmhnUEQxQnQzTHI4M2VuZ05ieVExbXhNc3ltRDdMcmNmT2ZGdmpFUVBSY2p0TUpoWUdjVkwtUEhvSWZsdmhGV2dNRnRmZ3FRejBZaF9qNndReUVfNWdvN1BkZVJOOXVkSWFNTG1sdnNRUDFvdG8xN0xFb1puSDF0MUVWVHE1N19FdEdLQ3BVX1pqQTdyUEk3X0xyMzg0MGxMdC03M0dzSmRabmJC?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-05T13:25:45Z"
-        },
-        {
           "id": "report-800ea7c438e3",
           "title": "Trump weighs ending Iran war as Pentagon extends deployments: Report",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORjU2QVJXRDMtdmpXN2EwanNaRmJXTi1iWDNDOW5tV1AxTVpBSElTeWExRnRYS0sxWm5ab0lwcW1TV2FMcXlNek8wV3pHNEdDOEN2Q2tSTmQ4VUNkaF9WRUdHU0RJaEZoMkhSZFZIWmtYVEpXX2JERGs3ZFotU2trbVl2Q1M5TkJIX212cFNIdl9Vb3ZkOW5GYkpKYi1iVnhlaUxxd0ZxOW5VTDdoZEE?oc=5",
@@ -1645,6 +1636,15 @@
           "sourceTier": "State-affiliated reporting",
           "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
           "reportedAt": "2026-09-03T03:25:37Z"
+        },
+        {
+          "id": "report-13e90257adcd",
+          "title": "Iranian drone damages residential building in Kuwait City",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSlNfZTFTUjIzbi1nOVVZQWc4ZDU0aW9WcEstNHd2RE9WcVY4MkJlYzRReXUycEszVnNobXRmYjJfR0ZsYjhVZVloajNoOTItVDlKZUZzZUdZRDBLVWVJalFya2hRaUFxQ1Z6bDlHTldrZm1qWFpDMUxDeW00dmdSR2VGeTB5MXFkOFBNcGVfS2tvZ1Vu0gGaAUFVX3lxTE9LUFZEWVNFSlhYbGRnd1VRMkUtSnFsckdneGgwMzlKS2dvUWZoU3FPalAyZE5kQkNXOG1LNnBFWlNBamtfRC1PNVNSS2tEREZ1ZE9MTmphNGo3TjU4RnZ6ZFlMSUt2UEw4dHVUblc1RTRBdVppSnFfb09UWHBwYlhvd2daLUNJN2hiVDl2TmRjbmdKbmJlbXlTUXc?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-03T15:18:55Z"
         },
         {
           "id": "report-defc72fd3c7f",
