@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-06T18:16:55.352Z",
+  "generatedAt": "2026-09-06T20:24:21.824Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-09-06T15:28:47.653Z",
+      "generatedAt": "2026-09-06T20:24:21.824Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -1329,9 +1329,17 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-09-06T15:28:47.653Z",
+      "generatedAt": "2026-09-06T20:24:21.824Z",
       "cadence": "every 6 hours",
       "items": [
+        {
+          "title": "Russia-Ukraine war: US envoys hold Ukraine talks after Putin meeting",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50V2I1X09UNzZRdWxqX3FLb1NwN0stYkdhZDNNY0xHNFJBOGRUaUJLOXlZX3NtOTNZSDNMMjZtMi1hd1JPT2xVNXBTeEw5WEptNW8tajJVLXpsdw?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260906T153227Z",
+          "pinned": false
+        },
         {
           "title": "Iran war: Why US midterms could be a pivotal moment",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUVVrZmlySUtWeW9xR2U4U3hnYTRiaUR2elNfenVCWE1WM21HTG9xMDJpc3h6UjhibkpVTS1sNDh0R1pWbFExZGZtX3pDZklCMkFBLXRFWmlJQVZyamdaWkxCT21HNUhaZGtSdWlMMXdPS2tVT0RuYkg5QUdQaUV2cEgzcW8yNzR6NkhPR3hQUk5BV01Z0gGaAUFVX3lxTE5iRlQ2a0g3WDczTkdhRlJlUkN4MElybWktQWhzX1dSelRPLS1SMXFqREVfWDRHRHlpbXdiVFBuZVJBQVBaX0xoU0dMVnZWbk5ib1J3ZTZfazFJb3VLSmJjanJHRFVkQ2RESnloaFNaSjVlUmVFX0tYeGtHOTVXVlVyWUdoRFh5TjdVWXBrSTNTOVNwTWhVbjhpZGc?oc=5",
@@ -1373,19 +1381,19 @@
           "pinned": false
         },
         {
-          "title": "Foreign fighters and external support fuel Sudan’s war: UN-backed probe",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcjJiVVpYaWFyNGc5UGRrUDUtaTVXQlR6Q1NDeDlIVjB0bVoybHYxTnZCQkFfLTV1Ymg1ZXozdGhVUUFJYnJoLUdFck5ScExkeFFELVp6d0VWWHpxYW9ZYW41d2k0NE1ZZnV3dHA5VWQ4VTVRSmZRSHZ5eTVPb1l6anplQi1DTmdsR25OaFYwTjNudFJrajZsMW5RSnRuazBZTXltM1g5MjhjUFVxZ1HSAbMBQVVfeXFMT2tOd0Q4VU5qOS1wYmNvN1FGeGNfd2FCRXAwcktUaG1qYmRzYmpmR2dyQTkydTdYV2NBRlZVcmFJaVNYOU9rUjlqSDJEZVZocmxTSXYzTnUyVDcyNVRKOUp1aUl3UzBKeUVBWWt0bHZyS2tkS0tiamJRRkVrX2lUY3dTSzBXOGgxUkRMR3BnWXkwanl2Z3c4eUd1dlN3a0M5TENnS2VBTXd0bU14ZjFTcEozNjg?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260903T184753Z",
-          "pinned": false
-        },
-        {
           "title": "‘Small potatoes’: US President Trump downplays war on Iran",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVjdic3NWOEx4bDdlWTRfcXp3bUhUUDlMWkc4RGFfazVDSmVoWHh1dmRKZktTNllZM1RhRjJoRGkxMGR2S1lHbE9Cd0NndEptdnFTZEZMaW93bTRRRTJ1ZThGc1V0c1o1VDc0Q2VjZ0NIaTVMZ1otdzBEbnhFMTZ4WE1sZ1c5Y2Z3MHJaRUt6ZF82NkFLcWlzcEJfc9IBoAFBVV95cUxPRS14Y20xajR0enBJQzRGN1dTNlhSSU1sNmRTSVNOeUptcEtpeG9tRzdJalZQNTFEYkJteUptc3ktSXhtZDJPdHB5b2tGUnNMclE0OHVRQ0FYak1xSnFMZFg3S0x1OG50bzRSQ3Z1LTc0NFExejBxU21TOWRpVUotWndtWGdYelhvOWZwc1FtdU5VYUJsU3BXTXpORTVZODhl?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260904T235839Z",
+          "pinned": false
+        },
+        {
+          "title": "Foreign fighters and external support fuel Sudan’s war: UN-backed probe",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcjJiVVpYaWFyNGc5UGRrUDUtaTVXQlR6Q1NDeDlIVjB0bVoybHYxTnZCQkFfLTV1Ymg1ZXozdGhVUUFJYnJoLUdFck5ScExkeFFELVp6d0VWWHpxYW9ZYW41d2k0NE1ZZnV3dHA5VWQ4VTVRSmZRSHZ5eTVPb1l6anplQi1DTmdsR25OaFYwTjNudFJrajZsMW5RSnRuazBZTXltM1g5MjhjUFVxZ1HSAbMBQVVfeXFMT2tOd0Q4VU5qOS1wYmNvN1FGeGNfd2FCRXAwcktUaG1qYmRzYmpmR2dyQTkydTdYV2NBRlZVcmFJaVNYOU9rUjlqSDJEZVZocmxTSXYzTnUyVDcyNVRKOUp1aUl3UzBKeUVBWWt0bHZyS2tkS0tiamJRRkVrX2lUY3dTSzBXOGgxUkRMR3BnWXkwanl2Z3c4eUd1dlN3a0M5TENnS2VBTXd0bU14ZjFTcEozNjg?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260903T184753Z",
           "pinned": false
         },
         {
@@ -1402,6 +1410,14 @@
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "seen": "20260904T225200Z",
+          "pinned": false
+        },
+        {
+          "title": "Iran touts military response as US maintains blockade, hits tankers",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaXd6SjRYNFpkcjM2M1JweThUd0QxbW55eE5FRERDSkFVYTBtd0pPMUM2VVpYVGhMR2tweHJWd3dmT2ZmWHBZZ09UVVJSOWQ3bFY1b1FSTTg4UzE2YjA4RzNsaVJoZHFvekNCdXhwWEVSV185MWNBTUVSaG12d09XTlQ2eTdJS0MwYzRNWjJaSXBBcUZnSWwxbnpPN1h6STFURjNCNHZ5dUE0UdIBrwFBVV95cUxPZ2dOX0VHTGtIRmF0UGdHTkFnb2QyZnRCX2p1ZUVWdUpWRG1jY2ljc3V6R091eEJHTkNldGc5SHlaamZVamZnY3RZbHBMeGRsY3F0ejFzTkN4SXVUUUhyNWRjTU9QN3FDZWozblFzdzd6Wmd5RjUyXzNzZ19jRUNfanZZSlhpSm5MX0J2T21HTGlaNWJiUmN3SXNqZkpwaUxsZ1FHZkRJS1RjZWpacUxN?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260906T162845Z",
           "pinned": false
         },
         {
@@ -1442,6 +1458,22 @@
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20260905T021321Z",
+          "pinned": false
+        },
+        {
+          "title": "US envoys Witkoff, Kushner meet Putin for talks on Ukraine war",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcDJoZHVhQ2hRMjVsQmUweEZWQjZObVNYeENzemJqZjg1NURCaWZtOWZ2dHVXTWtwS09la1c3TnBNWWJVaDZETmdkNVBURkxUZkx3MjY3cTVjNmJxTkMzaFRobTBaZm5kT1dsV0RlLXh6SktILWZLLUtGOXhHdkw1d0xYdTlIaVhMR1FPV05fU1pmRFpZekRTcFdtZGF2U0l2SzI4VDY3TGpCQjFKS3RoQ9IBtgFBVV95cUxObXhvNTNJcTRGeHE0ZnFzbHpNZnV0MWdJZThPb05WV1d4S2tFdFZrM29lMGJNWlowbUE0RUdMZEg1MkRvcGdpTGRBY0NTMGVZR2VnbUIwdjMyR3lOTTVOSnh5YkxNcC1CZXdZdEU4YUtPOGRTZklKaUNPcGMtZWRGTFI5bTd6MVlnMGsyZ183Y3ZnZG9VN3ozWXF2c1UxNFlvd1VTVDJOR3ViaGFkZXRRZjR3QWUwUQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260905T212328Z",
+          "pinned": false
+        },
+        {
+          "title": "Russia’s jet-powered drones overwhelm Ukraine, killing dozens",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORWJzbFJLdmJqSElmX3liczE2d284d0FpeHhFNENwT24xbm9aZU9UWEE3dlFET0hUbTgxdU1kQmdmb01HSXdoQ3l3RGRwVm92ZDhBTE8xT3BPVGZmdnR6a0JwTExlZUpseF9ORjl2X1lnaDlUR3g0WGNIZHNydEFGNGhySmo5X005VzFDdDVRZEpXZEppc3FrWFlNOS1hWC1B0gGmAUFVX3lxTE1USFBuNk5lSWJMRjNRamdNTXNQRjhOY2lrUzQwMVE2M3pwZmRXWU5pSndoTlh0T1B5NkxzM0JoMlBHMzZvTmxWeVVDU0tXVk9FYXlnNFJJd0tLZlhnQWZtUEhsMUd1UEt0OFNaTDB3WEdIRVZpWWloMklZZVlKZElZUVA1eXBtWlpfVWp3NmQwTG55RW83SmY3ZVJvaWFhSERXYUFoaVE?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260904T163722Z",
           "pinned": false
         },
         {
@@ -1491,41 +1523,18 @@
           "sourceTier": "Independent reporting",
           "seen": "20260903T120200Z",
           "pinned": false
-        },
-        {
-          "title": "US strikes 3 Iranian oil tankers after saying warships were targeted with ballistic missiles",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUEtPbThoMkY0OEVqRWdxUlA0eDRZYlhPTG5qbEt5V1RnazFIVzBuZHJyU2VMVHdHMzBCWmQxRDhmZ0RnOTZ2WGZPLVJTQjExWFo2amZiMmJFM3Jkb3plWnJOd0dkeEtHLXFqaFRseExIc00wUHRONXdVVWVWMWhJRmxRZFhPVTJuS3J3?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260905T210000Z",
-          "pinned": false
-        },
-        {
-          "title": "Body of convicted war criminal Ratko Mladic returned to Serbia for funeral",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVTBacV9TNVF1QnFDb090OUNicDViU1NtQk9lSUhWVG8zS3VkNFowV1doZy1QMEJ6R1hxVFNxSWM4ekJMdVdhV3pybVZGblFOZFQ3VUZxdEFMb05kdUJ0T3lyMkdnSWpsRzROQ0VyNS1NOHBJRGpOVlpIQ1Y0QkMwcXBhZGM2WWVKMFA1UWRSbw?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260904T073100Z",
-          "pinned": false
-        },
-        {
-          "title": "Watch: JD Vance 'extremely sceptical' over alleged strike on Iranian wedding",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9QNjRVMGY3b0RTUXZzSmxsYzZKbUpOampXZ3VhSHFVbE9wTXA1SVl3SWZ6Ykdsb2VWUmdWNUREbmwycDB2NnhOaFNwZlZZLUFJTUo4d2tjUQ?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260903T183325Z",
-          "pinned": false
-        },
-        {
-          "title": "Trump weighs ending Iran war as Pentagon extends deployments: Report",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORjU2QVJXRDMtdmpXN2EwanNaRmJXTi1iWDNDOW5tV1AxTVpBSElTeWExRnRYS0sxWm5ab0lwcW1TV2FMcXlNek8wV3pHNEdDOEN2Q2tSTmQ4VUNkaF9WRUdHU0RJaEZoMkhSZFZIWmtYVEpXX2JERGs3ZFotU2trbVl2Q1M5TkJIX212cFNIdl9Vb3ZkOW5GYkpKYi1iVnhlaUxxd0ZxOW5VTDdoZEE?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "seen": "20260903T032537Z",
-          "pinned": false
         }
       ],
       "reports": [
+        {
+          "id": "report-2511a5d3713a",
+          "title": "Russia-Ukraine war: US envoys hold Ukraine talks after Putin meeting",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50V2I1X09UNzZRdWxqX3FLb1NwN0stYkdhZDNNY0xHNFJBOGRUaUJLOXlZX3NtOTNZSDNMMjZtMi1hd1JPT2xVNXBTeEw5WEptNW8tajJVLXpsdw?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-06T15:32:27Z"
+        },
         {
           "id": "report-946fd6ae8e69",
           "title": "Iran war: Why US midterms could be a pivotal moment",
@@ -1572,15 +1581,6 @@
           "reportedAt": "2026-09-06T10:50:58Z"
         },
         {
-          "id": "report-481273334945",
-          "title": "Foreign fighters and external support fuel Sudan’s war: UN-backed probe",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcjJiVVpYaWFyNGc5UGRrUDUtaTVXQlR6Q1NDeDlIVjB0bVoybHYxTnZCQkFfLTV1Ymg1ZXozdGhVUUFJYnJoLUdFck5ScExkeFFELVp6d0VWWHpxYW9ZYW41d2k0NE1ZZnV3dHA5VWQ4VTVRSmZRSHZ5eTVPb1l6anplQi1DTmdsR25OaFYwTjNudFJrajZsMW5RSnRuazBZTXltM1g5MjhjUFVxZ1HSAbMBQVVfeXFMT2tOd0Q4VU5qOS1wYmNvN1FGeGNfd2FCRXAwcktUaG1qYmRzYmpmR2dyQTkydTdYV2NBRlZVcmFJaVNYOU9rUjlqSDJEZVZocmxTSXYzTnUyVDcyNVRKOUp1aUl3UzBKeUVBWWt0bHZyS2tkS0tiamJRRkVrX2lUY3dTSzBXOGgxUkRMR3BnWXkwanl2Z3c4eUd1dlN3a0M5TENnS2VBTXd0bU14ZjFTcEozNjg?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-03T18:47:53Z"
-        },
-        {
           "id": "report-962ce9bfe6a5",
           "title": "‘Small potatoes’: US President Trump downplays war on Iran",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVjdic3NWOEx4bDdlWTRfcXp3bUhUUDlMWkc4RGFfazVDSmVoWHh1dmRKZktTNllZM1RhRjJoRGkxMGR2S1lHbE9Cd0NndEptdnFTZEZMaW93bTRRRTJ1ZThGc1V0c1o1VDc0Q2VjZ0NIaTVMZ1otdzBEbnhFMTZ4WE1sZ1c5Y2Z3MHJaRUt6ZF82NkFLcWlzcEJfc9IBoAFBVV95cUxPRS14Y20xajR0enBJQzRGN1dTNlhSSU1sNmRTSVNOeUptcEtpeG9tRzdJalZQNTFEYkJteUptc3ktSXhtZDJPdHB5b2tGUnNMclE0OHVRQ0FYak1xSnFMZFg3S0x1OG50bzRSQ3Z1LTc0NFExejBxU21TOWRpVUotWndtWGdYelhvOWZwc1FtdU5VYUJsU3BXTXpORTVZODhl?oc=5",
@@ -1588,6 +1588,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-04T23:58:39Z"
+        },
+        {
+          "id": "report-481273334945",
+          "title": "Foreign fighters and external support fuel Sudan’s war: UN-backed probe",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcjJiVVpYaWFyNGc5UGRrUDUtaTVXQlR6Q1NDeDlIVjB0bVoybHYxTnZCQkFfLTV1Ymg1ZXozdGhVUUFJYnJoLUdFck5ScExkeFFELVp6d0VWWHpxYW9ZYW41d2k0NE1ZZnV3dHA5VWQ4VTVRSmZRSHZ5eTVPb1l6anplQi1DTmdsR25OaFYwTjNudFJrajZsMW5RSnRuazBZTXltM1g5MjhjUFVxZ1HSAbMBQVVfeXFMT2tOd0Q4VU5qOS1wYmNvN1FGeGNfd2FCRXAwcktUaG1qYmRzYmpmR2dyQTkydTdYV2NBRlZVcmFJaVNYOU9rUjlqSDJEZVZocmxTSXYzTnUyVDcyNVRKOUp1aUl3UzBKeUVBWWt0bHZyS2tkS0tiamJRRkVrX2lUY3dTSzBXOGgxUkRMR3BnWXkwanl2Z3c4eUd1dlN3a0M5TENnS2VBTXd0bU14ZjFTcEozNjg?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-03T18:47:53Z"
         },
         {
           "id": "report-89de1091d8fa",
@@ -1606,6 +1615,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-04T22:52:00Z"
+        },
+        {
+          "id": "report-1cc1f6c091ae",
+          "title": "Iran touts military response as US maintains blockade, hits tankers",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaXd6SjRYNFpkcjM2M1JweThUd0QxbW55eE5FRERDSkFVYTBtd0pPMUM2VVpYVGhMR2tweHJWd3dmT2ZmWHBZZ09UVVJSOWQ3bFY1b1FSTTg4UzE2YjA4RzNsaVJoZHFvekNCdXhwWEVSV185MWNBTUVSaG12d09XTlQ2eTdJS0MwYzRNWjJaSXBBcUZnSWwxbnpPN1h6STFURjNCNHZ5dUE0UdIBrwFBVV95cUxPZ2dOX0VHTGtIRmF0UGdHTkFnb2QyZnRCX2p1ZUVWdUpWRG1jY2ljc3V6R091eEJHTkNldGc5SHlaamZVamZnY3RZbHBMeGRsY3F0ejFzTkN4SXVUUUhyNWRjTU9QN3FDZWozblFzdzd6Wmd5RjUyXzNzZ19jRUNfanZZSlhpSm5MX0J2T21HTGlaNWJiUmN3SXNqZkpwaUxsZ1FHZkRJS1RjZWpacUxN?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-06T16:28:45Z"
         },
         {
           "id": "report-346136536dee",
@@ -1651,6 +1669,24 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-05T02:13:21Z"
+        },
+        {
+          "id": "report-fa3df345784f",
+          "title": "US envoys Witkoff, Kushner meet Putin for talks on Ukraine war",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcDJoZHVhQ2hRMjVsQmUweEZWQjZObVNYeENzemJqZjg1NURCaWZtOWZ2dHVXTWtwS09la1c3TnBNWWJVaDZETmdkNVBURkxUZkx3MjY3cTVjNmJxTkMzaFRobTBaZm5kT1dsV0RlLXh6SktILWZLLUtGOXhHdkw1d0xYdTlIaVhMR1FPV05fU1pmRFpZekRTcFdtZGF2U0l2SzI4VDY3TGpCQjFKS3RoQ9IBtgFBVV95cUxObXhvNTNJcTRGeHE0ZnFzbHpNZnV0MWdJZThPb05WV1d4S2tFdFZrM29lMGJNWlowbUE0RUdMZEg1MkRvcGdpTGRBY0NTMGVZR2VnbUIwdjMyR3lOTTVOSnh5YkxNcC1CZXdZdEU4YUtPOGRTZklKaUNPcGMtZWRGTFI5bTd6MVlnMGsyZ183Y3ZnZG9VN3ozWXF2c1UxNFlvd1VTVDJOR3ViaGFkZXRRZjR3QWUwUQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-05T21:23:28Z"
+        },
+        {
+          "id": "report-d51173d1c1c3",
+          "title": "Russia’s jet-powered drones overwhelm Ukraine, killing dozens",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORWJzbFJLdmJqSElmX3liczE2d284d0FpeHhFNENwT24xbm9aZU9UWEE3dlFET0hUbTgxdU1kQmdmb01HSXdoQ3l3RGRwVm92ZDhBTE8xT3BPVGZmdnR6a0JwTExlZUpseF9ORjl2X1lnaDlUR3g0WGNIZHNydEFGNGhySmo5X005VzFDdDVRZEpXZEppc3FrWFlNOS1hWC1B0gGmAUFVX3lxTE1USFBuNk5lSWJMRjNRamdNTXNQRjhOY2lrUzQwMVE2M3pwZmRXWU5pSndoTlh0T1B5NkxzM0JoMlBHMzZvTmxWeVVDU0tXVk9FYXlnNFJJd0tLZlhnQWZtUEhsMUd1UEt0OFNaTDB3WEdIRVZpWWloMklZZVlKZElZUVA1eXBtWlpfVWp3NmQwTG55RW83SmY3ZVJvaWFhSERXYUFoaVE?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-04T16:37:22Z"
         },
         {
           "id": "report-f68789684367",
@@ -1705,42 +1741,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-03T12:02:00Z"
-        },
-        {
-          "id": "report-bbb7b9bda341",
-          "title": "US strikes 3 Iranian oil tankers after saying warships were targeted with ballistic missiles",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUEtPbThoMkY0OEVqRWdxUlA0eDRZYlhPTG5qbEt5V1RnazFIVzBuZHJyU2VMVHdHMzBCWmQxRDhmZ0RnOTZ2WGZPLVJTQjExWFo2amZiMmJFM3Jkb3plWnJOd0dkeEtHLXFqaFRseExIc00wUHRONXdVVWVWMWhJRmxRZFhPVTJuS3J3?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-05T21:00:00Z"
-        },
-        {
-          "id": "report-450f7f4efd3a",
-          "title": "Body of convicted war criminal Ratko Mladic returned to Serbia for funeral",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVTBacV9TNVF1QnFDb090OUNicDViU1NtQk9lSUhWVG8zS3VkNFowV1doZy1QMEJ6R1hxVFNxSWM4ekJMdVdhV3pybVZGblFOZFQ3VUZxdEFMb05kdUJ0T3lyMkdnSWpsRzROQ0VyNS1NOHBJRGpOVlpIQ1Y0QkMwcXBhZGM2WWVKMFA1UWRSbw?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-04T07:31:00Z"
-        },
-        {
-          "id": "report-9089c2e0d764",
-          "title": "Watch: JD Vance 'extremely sceptical' over alleged strike on Iranian wedding",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9QNjRVMGY3b0RTUXZzSmxsYzZKbUpOampXZ3VhSHFVbE9wTXA1SVl3SWZ6Ykdsb2VWUmdWNUREbmwycDB2NnhOaFNwZlZZLUFJTUo4d2tjUQ?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-03T18:33:25Z"
-        },
-        {
-          "id": "report-800ea7c438e3",
-          "title": "Trump weighs ending Iran war as Pentagon extends deployments: Report",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORjU2QVJXRDMtdmpXN2EwanNaRmJXTi1iWDNDOW5tV1AxTVpBSElTeWExRnRYS0sxWm5ab0lwcW1TV2FMcXlNek8wV3pHNEdDOEN2Q2tSTmQ4VUNkaF9WRUdHU0RJaEZoMkhSZFZIWmtYVEpXX2JERGs3ZFotU2trbVl2Q1M5TkJIX212cFNIdl9Vb3ZkOW5GYkpKYi1iVnhlaUxxd0ZxOW5VTDdoZEE?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
-          "reportedAt": "2026-09-03T03:25:37Z"
         },
         {
           "id": "report-defc72fd3c7f",
