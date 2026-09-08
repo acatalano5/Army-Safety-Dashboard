@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-08T11:18:35.929Z",
+  "generatedAt": "2026-09-08T16:38:23.304Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-09-08T11:18:35.929Z",
+      "generatedAt": "2026-09-08T16:38:23.304Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -1225,7 +1225,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-09-08T11:18:35.929Z",
+      "generatedAt": "2026-09-08T16:38:23.304Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -1257,7 +1257,15 @@
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeHBsY3Zuc19xSDZ3dHMyVHk4M2VER1k2OXhhVXE3Y0ttQVotQndHNXQ3SHViRHNtak81cXp3UE1XUU50ZTBTUWU5MTdmUUoyQlVnYXh6N3h0ejFMR0FodVRmVWwtMDVCM29aYjJxeVlLc2prSThEUzVESXRYcjNZTWNBNF8wUmxmUVNhWnplUnZZVUFwZW5oZzBkWdIBoAFBVV95cUxPSGdjSkh2ZG1QWklWS013QTQwSXlQWHR0OEZRS1BGdlFzaGVPWTNadW0wSTFZWVpGQ1Z3MWxqMUdFUXF4ZkJJTWYzay1zQWNvbWxyWl8xUVhVVk40U2loNl9yM1gzbXpBOTFwbEhQal9uNjByeUsxNTk0N3Z5Wjk5WUZBb3NVSU50VHRRUGxOSUlWT0gxdjNWS0RmUDRRTndt?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260908T100205Z",
+          "seen": "20260908T100445Z",
+          "pinned": false
+        },
+        {
+          "title": "BRICS summit may be the only place another Iran ceasefire can be built",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU0N6VVJtMVFhMzRCMG9qZGZMb0czclZCaVk3b2hNc0hTNjlQVW5xNWhkeXQ3WkxhVVZ1cllZQUhhbWpUYTUxT1dwMnlGUWJmMmhVTWktOW42TTk2NjZDTTVleEVpNTRjblNjcHJZVEE3MWg0WkpvQ19peHE0aVRPUlhqUVZ4N1ZqOWNmYVVPWG5wVWd5aU1Ya24zZm0tdklJRWs0XzdwYXlXVnB1Rnp1eEZ1eEPSAboBQVVfeXFMTVJFdWNGQkRCRUJTODZpWVJmczdRX0d3Ny0xQ3l5aVJacUJKa2ZIVTMzUU1NSnE4bnA3THpta0lFeWhDd0stZnF6d05maWNqdWdON2xUelFzZzk1aEFqNmIwS2xxWFpPQU5SQ0Q4NkZFbWJsUjY2SUZFOEtWSUFwVjlvaUlCaUJJcmowb09hMzVsM080LVhwVFNsaTViOC1wTXBtM3phZGpWWUN2RnVrLVhCeE9NSi1nUjFn?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260908T120713Z",
           "pinned": false
         },
         {
@@ -1269,6 +1277,14 @@
           "pinned": false
         },
         {
+          "title": "Yemen’s reignited war fuels a new wave in child recruitment",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWkVMMy1DZWY0WmpaeUc5bHhEcDFiU3poM2k1ZFRLenE4elF3MUdGeEN3MGViZ0huU09UU1dXY1VuZWdwN0xVaF91aERaNU9lVGMwUC1PMk5HSGZOb1FNdzB6ZUVJeHlPN1RhQjB5U1ZjMnQyX3JfNkpZQTZpVzM3am9nQVpQWGJUeGt5UkdzRXU0cHVtMHVYSngwb1I0TjjSAaQBQVVfeXFMTms0dmlyelRHQ1IwdTVVXzQyalh4QWxNVTc0NjVmODNJTWRCSUxlN3huVjFjbmFZUEIyOTVoY21EcEpUOF82Wm51ZjA1Vi05TWJTY3Z3WVhjc1hmMzVYSGU3T2dYMkFvMkE1T0tLRGppbndXdjVrSHlxU3N6VnRpMFZVT21iSTF3X0VteXRYYVRSYkp1eFVnYnI5eVBLcXZ3UDRweFU?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260908T143518Z",
+          "pinned": false
+        },
+        {
           "title": "US denies that Iran struck an uncrewed US military ship in the Strait of Hormuz",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVktrNjVBTENONHRoZVB6OGRsQUxBSUdhZkFydmlOM3ZvVWRCRXVUUW85dGxNZ2VrMXkxZUpnVnpVMlNLZkpMWkRVTFJ2VVhSYXZCT1RmcEtYRTRjQmU5dTdCSzA4TDk4WkhJOWRiVUNxSFRKdHJmcTgxYWNEQy01eUVpY2Z5bHZpYl9sakVNcDBLal9BMkpCWWlKSEpMdw?oc=5",
           "domain": "apnews.com",
@@ -1277,19 +1293,19 @@
           "pinned": false
         },
         {
-          "title": "Saudi Arabia says 73 wounded as Houthis attack civilian and energy sites",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNelpMMWdSSTBNZG5rSnpCMmk5MnVUNGNIR1lvVTQ0X20zUFFIYUdheDN0QzFoRm15VGdmNmlvUi1rUHRJWkRqMXdPTFJwQ3FzUTFPWlpPNGFtNjI5UGE0U1c3azQyanhLdTdvMTZXcGJSYXMzVWczU0pwUU5GLXcxOXZ3dGpuMUplbm9NRzZuV0ZuUGV2SnB5OERyRXVENHpXNWxtSFk1SFpEazFBdVVV0gG0AUFVX3lxTE81M3laVXFBWllCdmJvOFZhQ2J1TjlPVFpNRzdGa2xLNktBSUhJYjlHYU9CLWlaVFNCNmMwOXRZd2doTU9UWTdxV1hZQ2FQWVFSUlBzYVVVX3hWaFNCRXJSRHY0TWc2aFkxNk96TUhwTi1POGdQNlZvTkd4Z3IxeU8xWmpoNmdFVTd3QzUyR3hxUnRjYUFQeGZoQ3FOa0pUWlhhWEVCLTNGRVlJaVdnTFdzUGZ3Rg?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260908T103000Z",
-          "pinned": false
-        },
-        {
           "title": "Iran war: How US consumers spent an additional $100bn on fuel",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUXk3UFV5SW1td09PamY5NEI0ejRlRWo5RUJ5bVBXUUEtZVRNNjRNOFhOZ0NlQzU0akRTT0cxZENGS1o2OHB5Y0ZReWYwZDNpQkl6YXA4Q0w2d0VwNlhTZmlJQllGQW5saEZoYVlqUGdBN2F4T2gzTDViaExabEpEUUNEUFhQelVudEVfdkVUTExJSDIwTEluQlFGc3U2NXdR0gGmAUFVX3lxTE51S3dUTzh4SlBVMkZmOWNlZmVBY1VMdlZsM2Q2dEZpeHp6TWd6Sm1NOUVYNVU0dU16UEdITTNoeG1uU1A1V19SZktVem9ETXdBUGx1UnIzWVJpOGJGbnRmUHowLWJvX0lTZGEzWVZtT3Y3c2p4YmVjYm5uY2hYaTNHUVpiamRTZzNJSGZlT2xfdEtEbTduLUlrZlRTLXJfc3V0TDdmS1E?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260907T102754Z",
+          "pinned": false
+        },
+        {
+          "title": "Saudi Arabia says 73 wounded as Houthis attack civilian and energy sites",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNelpMMWdSSTBNZG5rSnpCMmk5MnVUNGNIR1lvVTQ0X20zUFFIYUdheDN0QzFoRm15VGdmNmlvUi1rUHRJWkRqMXdPTFJwQ3FzUTFPWlpPNGFtNjI5UGE0U1c3azQyanhLdTdvMTZXcGJSYXMzVWczU0pwUU5GLXcxOXZ3dGpuMUplbm9NRzZuV0ZuUGV2SnB5OERyRXVENHpXNWxtSFk1SFpEazFBdVVV0gG0AUFVX3lxTE81M3laVXFBWllCdmJvOFZhQ2J1TjlPVFpNRzdGa2xLNktBSUhJYjlHYU9CLWlaVFNCNmMwOXRZd2doTU9UWTdxV1hZQ2FQWVFSUlBzYVVVX3hWaFNCRXJSRHY0TWc2aFkxNk96TUhwTi1POGdQNlZvTkd4Z3IxeU8xWmpoNmdFVTd3QzUyR3hxUnRjYUFQeGZoQ3FOa0pUWlhhWEVCLTNGRVlJaVdnTFdzUGZ3Rg?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260908T124451Z",
           "pinned": false
         },
         {
@@ -1309,11 +1325,11 @@
           "pinned": false
         },
         {
-          "title": "North Korea deploys warship ‘capable of annihilating retaliatory strikes’",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOC1weVRfdkdkamhvVG0zNTlmYjZEeFVRYVFNdFpnUWt0NVJUVVhsdGg0bmVjMDc1ZW44eEpWTVU1NWltb0h1NGY3UWVCNDllMGp3eC1MS2paUDlZS2w2SXIyV2JkTkFueDZpY2xpVXZFUS1QUGxhcTVOc25rSElYcENCQXVtTzdwSUFISmRGYjNGdk4zZ2JqekhDUVR0YlVuZ1VJUnB0MmFxQUZ4ZXF5cNIBtgFBVV95cUxOOE9MWmJMZm1SUmxnalZPbnJma3M3ak00Z3h4UXhjNEpJSEc1ZE13Y0hYWFB5UjJXSVZ3U2w0SjFXci16T1pxWThYZVJVS19UTk9FR3pFandSdkVmcVh0aHhwZEE4MUlqX1VLN3MySkVtY0tRNGRLbmFBRHZORXotZXZGNi1WYS1ubEhwWElIa1NCemdsRmo4VGg4Y0hQd05rMXhaa2M0U3F0aHhaU19ZajBPX0pLdw?oc=5",
-          "domain": "aljazeera.com",
+          "title": "Red Star fans unveil tifo of war criminal Mladic before derby",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RVmhVRW14ZnBuY29ybjNDRExvVzZuSFJBTDBzcFdra1o2Q2dIeTBjQjFtUTY0RU9IMTY0bXVHVGVab1lqVVZ4Z3pSX0M3TFVaanFlUWFfcVhzbE9DQUxYYWlvRWJka00?oc=5",
+          "domain": "bbc.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260907T070314Z",
+          "seen": "20260907T113538Z",
           "pinned": false
         },
         {
@@ -1325,27 +1341,19 @@
           "pinned": false
         },
         {
-          "title": "Red Star fans unveil tifo of war criminal Mladic before derby",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RVmhVRW14ZnBuY29ybjNDRExvVzZuSFJBTDBzcFdra1o2Q2dIeTBjQjFtUTY0RU9IMTY0bXVHVGVab1lqVVZ4Z3pSX0M3TFVaanFlUWFfcVhzbE9DQUxYYWlvRWJka00?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260907T113538Z",
-          "pinned": false
-        },
-        {
-          "title": "Houthi attacks injure 73 civilians in southern Saudi Arabia",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMHZwbmNNMWxfM2I5REZQbml6NzYtN1pJQzRxV01nbDEycWdTRFFpbkVrWDFqN2RFX1VYWC1MdEhiZXpLSGQyNHZ3akFHcFRTZ1NOUTZ4Z1FKb0RsWEk1SkhNMEVVZ1liNzFrNlhVNTBJQ2hfMmc5NU5fb2czQVBobTM3T2x3SjNzSFZkcHRwNWFfaDM3cFctVlJGSDlleVVULVE?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "seen": "20260908T041133Z",
-          "pinned": false
-        },
-        {
-          "title": "Russian strikes on Ukraine’s Kyiv kill at least two people",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaEhXSHNycHhKQldXbnlyVks3dUh0NDZIbHB2YU43MXkxaXdaZVg2NHZIelJ4emhyZk9PVWZiUzRwcUxONDd2VnRwVC00Z0toeXZvNE84aUpxZ2I2MUdVRFhQT0tqUmJkc3NHRHMtVnE1dmk5dlZvQXBlSVQ2V28xM0NZajhDTFpRdEhKYjcxdlQ2ZFNpRFphalBjMDlQQ2ZTemdhR0ZWR2QxZ9IBrwFBVV95cUxPX0VZRUtqcjA2cWRYN19LdEpzRFJTWlRfdHo4c29qSGloM2hoME5KU01Fb1JhNDl0eDhrN1B1WmxBeVFVMkJ6Z0FVTUZkN0lMXzdVb3JTblJpT0Q5SlRoQVJBTmlzMUFBWDJSTFdUendRYnFXV3JjRXVDZEg4cHRCRF9ENW15Z1VjdG5obkdFV2QtcVVEQi1mVWFrSmlmTVNSMXdWaVRhTkEySkNpc3kw?oc=5",
+          "title": "North Korea deploys warship ‘capable of annihilating retaliatory strikes’",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOC1weVRfdkdkamhvVG0zNTlmYjZEeFVRYVFNdFpnUWt0NVJUVVhsdGg0bmVjMDc1ZW44eEpWTVU1NWltb0h1NGY3UWVCNDllMGp3eC1MS2paUDlZS2w2SXIyV2JkTkFueDZpY2xpVXZFUS1QUGxhcTVOc25rSElYcENCQXVtTzdwSUFISmRGYjNGdk4zZ2JqekhDUVR0YlVuZ1VJUnB0MmFxQUZ4ZXF5cNIBtgFBVV95cUxOOE9MWmJMZm1SUmxnalZPbnJma3M3ak00Z3h4UXhjNEpJSEc1ZE13Y0hYWFB5UjJXSVZ3U2w0SjFXci16T1pxWThYZVJVS19UTk9FR3pFandSdkVmcVh0aHhwZEE4MUlqX1VLN3MySkVtY0tRNGRLbmFBRHZORXotZXZGNi1WYS1ubEhwWElIa1NCemdsRmo4VGg4Y0hQd05rMXhaa2M0U3F0aHhaU19ZajBPX0pLdw?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260908T091546Z",
+          "seen": "20260907T070314Z",
+          "pinned": false
+        },
+        {
+          "title": "Some veterans to be called up to test UK's war resilience",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12dkVSWVU0bDVwdEVGa2REYlpBOWZIVVZlV1J5dE9HR0lzOXprLXFuTXhGZ1drU1NBMlEzOEtIUVdEcmx6bF9idTZQWHN4ekFKVDFESlFaVTBzUQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260908T110119Z",
           "pinned": false
         },
         {
@@ -1357,35 +1365,19 @@
           "pinned": false
         },
         {
+          "title": "The Iranian school struck in the war’s earliest attacks is now a memorial for children",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZmVWR3VKRGlScmN6ZEtGUU5IelBhbmFENGJwd2VSMnV1bDBoTy02M1oydnBmQ2V4S20zbnRZeWM2NXY2TDJvbTFQU25DRThRSTlPREk1YmpPZTl2aWdEXzg5elpTenNMNEN0V0gxLU1sTFd1WDRhQUtXNXBWTzNLdDJEUUg3VnN0SXJBSVU0TG03MEJnN2NpLQ?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260906T134530Z",
+          "pinned": false
+        },
+        {
           "title": "Putin meets with US envoys at the Kremlin for renewed talks on ending the war in Ukraine",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV2I3ZmdCUEl6RTJFZmRfdUdqNlNCVlBCVERfdEVTN2R3Rm9rQ0JKdHhQaW5lNHhWQndKSFF0a2JybmZ6V3AzNXRfWS1PRU5qQXRLSkUyVnQ0YjhBVUtYVVFHeE1maG4tazRPZS1NY0xCOW1faThuaDJ1VGhSUXVHdVJMakZWTzRSb1N2MGh5aXBxc1FVWlI4X0lkU1lrRGI5QWc?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "seen": "20260905T223300Z",
-          "pinned": false
-        },
-        {
-          "title": "The Iranian school struck in the war’s earliest attacks is now a memorial for children",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZmVWR3VKRGlScmN6ZEtGUU5IelBhbmFENGJwd2VSMnV1bDBoTy02M1oydnBmQ2V4S20zbnRZeWM2NXY2TDJvbTFQU25DRThRSTlPREk1YmpPZTl2aWdEXzg5elpTenNMNEN0V0gxLU1sTFd1WDRhQUtXNXBWTzNLdDJEUUg3VnN0SXJBSVU0TG03MEJnN2NpLQ?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260906T161400Z",
-          "pinned": false
-        },
-        {
-          "title": "Can AfD form Germany’s first far-right state government since World War II?",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYkZSTHpIazluSDhjemU4OUVqeWd3cDFPUEN3N2g0dWluV3hndmNNcS1GYW54TVZrTldlaklCd0EtWHZhOXN2ejFISHNIQzJ1YlpUVU5nMEEzc2pTNF9zUHY3Mk9kVDZCUk1PSEpVV3d1TV9uekNMbFc3OTNnRzlMU0hCYlJYbEhkbTBWVHd0UUw2UdIBlwFBVV95cUxPSE1wcW5vM0g1RzVIMXNjbENFTGwzQjBBYnhYRnVZZWE5VHV3MEVXTlhCVVByZmVLUzdiWVRUZDNadVpNMVJhNVlDb19TejZuU0NNMUFiWVVOUTBrLS0wVVZEYzdMOTVuNEZ5ZHlZR1dEOVViZ1EwZmxfS2FsaHRFZW8xMm5kSEs0WE84T1RvbVBXTlRISG9z?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260906T205234Z",
-          "pinned": false
-        },
-        {
-          "title": "Months after ceasefire, Israel and Hezbollah battle over a strategic hill in Lebanon",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTUdGWkMtN2RpZ3JFMV9kVU9lSGdtU0FuTW5xVzVlNzE2WmhQSUJ1LUpyaHNkVWk3VHlsbjdRLWl2WnNBT0VqMFVHbm9EUmRsLUZLMGdBcW5STDNwaTRDUnlzd0RsUGlDTXlTQjlpMWVHVWpNOTFZTFN2cF9CcTQwX1J2bXZiNVk3aUF0MVNSdUhkZ0dzNjVEdUpOcURCaGtCdWM4Nl8tM05URHJGS2c?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260905T064100Z",
           "pinned": false
         },
         {
@@ -1410,6 +1402,14 @@
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20260907T133923Z",
+          "pinned": false
+        },
+        {
+          "title": "Houthi attacks injure 73 civilians in southern Saudi Arabia",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOW1uczFIU09nQWhxcURna21PNm82Nm5peWVSV0x2LVhSWEM3SWk5dEZkWG5wTXA5cE9ROTNiRnROeF9tMThhbmRKa2FEZ3ZDbFpvWWdtdGllSkRNa2Q1Yl9JNE1SOFZ4M0Q1NGx3NTc4UExEZTc1ejVVQXFDZWlRcTNtdS05TmF4NDNuaGRDem1YNWplV2NPNG1kZlRBcnF6ejhaZ1hQaw?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20260908T041133Z",
           "pinned": false
         },
         {
@@ -1456,7 +1456,16 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-08T10:02:05Z"
+          "reportedAt": "2026-09-08T10:04:45Z"
+        },
+        {
+          "id": "report-59712b48d850",
+          "title": "BRICS summit may be the only place another Iran ceasefire can be built",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU0N6VVJtMVFhMzRCMG9qZGZMb0czclZCaVk3b2hNc0hTNjlQVW5xNWhkeXQ3WkxhVVZ1cllZQUhhbWpUYTUxT1dwMnlGUWJmMmhVTWktOW42TTk2NjZDTTVleEVpNTRjblNjcHJZVEE3MWg0WkpvQ19peHE0aVRPUlhqUVZ4N1ZqOWNmYVVPWG5wVWd5aU1Ya24zZm0tdklJRWs0XzdwYXlXVnB1Rnp1eEZ1eEPSAboBQVVfeXFMTVJFdWNGQkRCRUJTODZpWVJmczdRX0d3Ny0xQ3l5aVJacUJKa2ZIVTMzUU1NSnE4bnA3THpta0lFeWhDd0stZnF6d05maWNqdWdON2xUelFzZzk1aEFqNmIwS2xxWFpPQU5SQ0Q4NkZFbWJsUjY2SUZFOEtWSUFwVjlvaUlCaUJJcmowb09hMzVsM080LVhwVFNsaTViOC1wTXBtM3phZGpWWUN2RnVrLVhCeE9NSi1nUjFn?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-08T12:07:13Z"
         },
         {
           "id": "report-1cc1f6c091ae",
@@ -1468,6 +1477,15 @@
           "reportedAt": "2026-09-06T16:28:45Z"
         },
         {
+          "id": "report-4304034c0982",
+          "title": "Yemen’s reignited war fuels a new wave in child recruitment",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWkVMMy1DZWY0WmpaeUc5bHhEcDFiU3poM2k1ZFRLenE4elF3MUdGeEN3MGViZ0huU09UU1dXY1VuZWdwN0xVaF91aERaNU9lVGMwUC1PMk5HSGZOb1FNdzB6ZUVJeHlPN1RhQjB5U1ZjMnQyX3JfNkpZQTZpVzM3am9nQVpQWGJUeGt5UkdzRXU0cHVtMHVYSngwb1I0TjjSAaQBQVVfeXFMTms0dmlyelRHQ1IwdTVVXzQyalh4QWxNVTc0NjVmODNJTWRCSUxlN3huVjFjbmFZUEIyOTVoY21EcEpUOF82Wm51ZjA1Vi05TWJTY3Z3WVhjc1hmMzVYSGU3T2dYMkFvMkE1T0tLRGppbndXdjVrSHlxU3N6VnRpMFZVT21iSTF3X0VteXRYYVRSYkp1eFVnYnI5eVBLcXZ3UDRweFU?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-08T14:35:18Z"
+        },
+        {
           "id": "report-7a6abb1c7701",
           "title": "US denies that Iran struck an uncrewed US military ship in the Strait of Hormuz",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVktrNjVBTENONHRoZVB6OGRsQUxBSUdhZkFydmlOM3ZvVWRCRXVUUW85dGxNZ2VrMXkxZUpnVnpVMlNLZkpMWkRVTFJ2VVhSYXZCT1RmcEtYRTRjQmU5dTdCSzA4TDk4WkhJOWRiVUNxSFRKdHJmcTgxYWNEQy01eUVpY2Z5bHZpYl9sakVNcDBLal9BMkpCWWlKSEpMdw?oc=5",
@@ -1477,15 +1495,6 @@
           "reportedAt": "2026-09-07T01:42:00Z"
         },
         {
-          "id": "report-ea87a08b4e38",
-          "title": "Saudi Arabia says 73 wounded as Houthis attack civilian and energy sites",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNelpMMWdSSTBNZG5rSnpCMmk5MnVUNGNIR1lvVTQ0X20zUFFIYUdheDN0QzFoRm15VGdmNmlvUi1rUHRJWkRqMXdPTFJwQ3FzUTFPWlpPNGFtNjI5UGE0U1c3azQyanhLdTdvMTZXcGJSYXMzVWczU0pwUU5GLXcxOXZ3dGpuMUplbm9NRzZuV0ZuUGV2SnB5OERyRXVENHpXNWxtSFk1SFpEazFBdVVV0gG0AUFVX3lxTE81M3laVXFBWllCdmJvOFZhQ2J1TjlPVFpNRzdGa2xLNktBSUhJYjlHYU9CLWlaVFNCNmMwOXRZd2doTU9UWTdxV1hZQ2FQWVFSUlBzYVVVX3hWaFNCRXJSRHY0TWc2aFkxNk96TUhwTi1POGdQNlZvTkd4Z3IxeU8xWmpoNmdFVTd3QzUyR3hxUnRjYUFQeGZoQ3FOa0pUWlhhWEVCLTNGRVlJaVdnTFdzUGZ3Rg?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-08T10:30:00Z"
-        },
-        {
           "id": "report-cee38558578d",
           "title": "Iran war: How US consumers spent an additional $100bn on fuel",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUXk3UFV5SW1td09PamY5NEI0ejRlRWo5RUJ5bVBXUUEtZVRNNjRNOFhOZ0NlQzU0akRTT0cxZENGS1o2OHB5Y0ZReWYwZDNpQkl6YXA4Q0w2d0VwNlhTZmlJQllGQW5saEZoYVlqUGdBN2F4T2gzTDViaExabEpEUUNEUFhQelVudEVfdkVUTExJSDIwTEluQlFGc3U2NXdR0gGmAUFVX3lxTE51S3dUTzh4SlBVMkZmOWNlZmVBY1VMdlZsM2Q2dEZpeHp6TWd6Sm1NOUVYNVU0dU16UEdITTNoeG1uU1A1V19SZktVem9ETXdBUGx1UnIzWVJpOGJGbnRmUHowLWJvX0lTZGEzWVZtT3Y3c2p4YmVjYm5uY2hYaTNHUVpiamRTZzNJSGZlT2xfdEtEbTduLUlrZlRTLXJfc3V0TDdmS1E?oc=5",
@@ -1493,6 +1502,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-07T10:27:54Z"
+        },
+        {
+          "id": "report-ea87a08b4e38",
+          "title": "Saudi Arabia says 73 wounded as Houthis attack civilian and energy sites",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNelpMMWdSSTBNZG5rSnpCMmk5MnVUNGNIR1lvVTQ0X20zUFFIYUdheDN0QzFoRm15VGdmNmlvUi1rUHRJWkRqMXdPTFJwQ3FzUTFPWlpPNGFtNjI5UGE0U1c3azQyanhLdTdvMTZXcGJSYXMzVWczU0pwUU5GLXcxOXZ3dGpuMUplbm9NRzZuV0ZuUGV2SnB5OERyRXVENHpXNWxtSFk1SFpEazFBdVVV0gG0AUFVX3lxTE81M3laVXFBWllCdmJvOFZhQ2J1TjlPVFpNRzdGa2xLNktBSUhJYjlHYU9CLWlaVFNCNmMwOXRZd2doTU9UWTdxV1hZQ2FQWVFSUlBzYVVVX3hWaFNCRXJSRHY0TWc2aFkxNk96TUhwTi1POGdQNlZvTkd4Z3IxeU8xWmpoNmdFVTd3QzUyR3hxUnRjYUFQeGZoQ3FOa0pUWlhhWEVCLTNGRVlJaVdnTFdzUGZ3Rg?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-08T12:44:51Z"
         },
         {
           "id": "report-fa3df345784f",
@@ -1513,13 +1531,13 @@
           "reportedAt": "2026-09-05T02:13:21Z"
         },
         {
-          "id": "report-40e02a659de8",
-          "title": "North Korea deploys warship ‘capable of annihilating retaliatory strikes’",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOC1weVRfdkdkamhvVG0zNTlmYjZEeFVRYVFNdFpnUWt0NVJUVVhsdGg0bmVjMDc1ZW44eEpWTVU1NWltb0h1NGY3UWVCNDllMGp3eC1MS2paUDlZS2w2SXIyV2JkTkFueDZpY2xpVXZFUS1QUGxhcTVOc25rSElYcENCQXVtTzdwSUFISmRGYjNGdk4zZ2JqekhDUVR0YlVuZ1VJUnB0MmFxQUZ4ZXF5cNIBtgFBVV95cUxOOE9MWmJMZm1SUmxnalZPbnJma3M3ak00Z3h4UXhjNEpJSEc1ZE13Y0hYWFB5UjJXSVZ3U2w0SjFXci16T1pxWThYZVJVS19UTk9FR3pFandSdkVmcVh0aHhwZEE4MUlqX1VLN3MySkVtY0tRNGRLbmFBRHZORXotZXZGNi1WYS1ubEhwWElIa1NCemdsRmo4VGg4Y0hQd05rMXhaa2M0U3F0aHhaU19ZajBPX0pLdw?oc=5",
-          "domain": "aljazeera.com",
+          "id": "report-2616d3887218",
+          "title": "Red Star fans unveil tifo of war criminal Mladic before derby",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RVmhVRW14ZnBuY29ybjNDRExvVzZuSFJBTDBzcFdra1o2Q2dIeTBjQjFtUTY0RU9IMTY0bXVHVGVab1lqVVZ4Z3pSX0M3TFVaanFlUWFfcVhzbE9DQUxYYWlvRWJka00?oc=5",
+          "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-07T07:03:14Z"
+          "reportedAt": "2026-09-07T11:35:38Z"
         },
         {
           "id": "report-20b5855158b8",
@@ -1531,31 +1549,22 @@
           "reportedAt": "2026-09-07T12:03:10Z"
         },
         {
-          "id": "report-2616d3887218",
-          "title": "Red Star fans unveil tifo of war criminal Mladic before derby",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RVmhVRW14ZnBuY29ybjNDRExvVzZuSFJBTDBzcFdra1o2Q2dIeTBjQjFtUTY0RU9IMTY0bXVHVGVab1lqVVZ4Z3pSX0M3TFVaanFlUWFfcVhzbE9DQUxYYWlvRWJka00?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-07T11:35:38Z"
-        },
-        {
-          "id": "report-679b4c40a3e4",
-          "title": "Houthi attacks injure 73 civilians in southern Saudi Arabia",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMHZwbmNNMWxfM2I5REZQbml6NzYtN1pJQzRxV01nbDEycWdTRFFpbkVrWDFqN2RFX1VYWC1MdEhiZXpLSGQyNHZ3akFHcFRTZ1NOUTZ4Z1FKb0RsWEk1SkhNMEVVZ1liNzFrNlhVNTBJQ2hfMmc5NU5fb2czQVBobTM3T2x3SjNzSFZkcHRwNWFfaDM3cFctVlJGSDlleVVULVE?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
-          "reportedAt": "2026-09-08T04:11:33Z"
-        },
-        {
-          "id": "report-6469fd7a2310",
-          "title": "Russian strikes on Ukraine’s Kyiv kill at least two people",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaEhXSHNycHhKQldXbnlyVks3dUh0NDZIbHB2YU43MXkxaXdaZVg2NHZIelJ4emhyZk9PVWZiUzRwcUxONDd2VnRwVC00Z0toeXZvNE84aUpxZ2I2MUdVRFhQT0tqUmJkc3NHRHMtVnE1dmk5dlZvQXBlSVQ2V28xM0NZajhDTFpRdEhKYjcxdlQ2ZFNpRFphalBjMDlQQ2ZTemdhR0ZWR2QxZ9IBrwFBVV95cUxPX0VZRUtqcjA2cWRYN19LdEpzRFJTWlRfdHo4c29qSGloM2hoME5KU01Fb1JhNDl0eDhrN1B1WmxBeVFVMkJ6Z0FVTUZkN0lMXzdVb3JTblJpT0Q5SlRoQVJBTmlzMUFBWDJSTFdUendRYnFXV3JjRXVDZEg4cHRCRF9ENW15Z1VjdG5obkdFV2QtcVVEQi1mVWFrSmlmTVNSMXdWaVRhTkEySkNpc3kw?oc=5",
+          "id": "report-40e02a659de8",
+          "title": "North Korea deploys warship ‘capable of annihilating retaliatory strikes’",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOC1weVRfdkdkamhvVG0zNTlmYjZEeFVRYVFNdFpnUWt0NVJUVVhsdGg0bmVjMDc1ZW44eEpWTVU1NWltb0h1NGY3UWVCNDllMGp3eC1MS2paUDlZS2w2SXIyV2JkTkFueDZpY2xpVXZFUS1QUGxhcTVOc25rSElYcENCQXVtTzdwSUFISmRGYjNGdk4zZ2JqekhDUVR0YlVuZ1VJUnB0MmFxQUZ4ZXF5cNIBtgFBVV95cUxOOE9MWmJMZm1SUmxnalZPbnJma3M3ak00Z3h4UXhjNEpJSEc1ZE13Y0hYWFB5UjJXSVZ3U2w0SjFXci16T1pxWThYZVJVS19UTk9FR3pFandSdkVmcVh0aHhwZEE4MUlqX1VLN3MySkVtY0tRNGRLbmFBRHZORXotZXZGNi1WYS1ubEhwWElIa1NCemdsRmo4VGg4Y0hQd05rMXhaa2M0U3F0aHhaU19ZajBPX0pLdw?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-08T09:15:46Z"
+          "reportedAt": "2026-09-07T07:03:14Z"
+        },
+        {
+          "id": "report-894ebea8e1c6",
+          "title": "Some veterans to be called up to test UK's war resilience",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12dkVSWVU0bDVwdEVGa2REYlpBOWZIVVZlV1J5dE9HR0lzOXprLXFuTXhGZ1drU1NBMlEzOEtIUVdEcmx6bF9idTZQWHN4ekFKVDFESlFaVTBzUQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-08T11:01:19Z"
         },
         {
           "id": "report-76e016addfad",
@@ -1567,6 +1576,15 @@
           "reportedAt": "2026-09-07T13:33:00Z"
         },
         {
+          "id": "report-1d4d69339ee4",
+          "title": "The Iranian school struck in the war’s earliest attacks is now a memorial for children",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZmVWR3VKRGlScmN6ZEtGUU5IelBhbmFENGJwd2VSMnV1bDBoTy02M1oydnBmQ2V4S20zbnRZeWM2NXY2TDJvbTFQU25DRThRSTlPREk1YmpPZTl2aWdEXzg5elpTenNMNEN0V0gxLU1sTFd1WDRhQUtXNXBWTzNLdDJEUUg3VnN0SXJBSVU0TG03MEJnN2NpLQ?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-06T13:45:30Z"
+        },
+        {
           "id": "report-6285afcc0b3c",
           "title": "Putin meets with US envoys at the Kremlin for renewed talks on ending the war in Ukraine",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV2I3ZmdCUEl6RTJFZmRfdUdqNlNCVlBCVERfdEVTN2R3Rm9rQ0JKdHhQaW5lNHhWQndKSFF0a2JybmZ6V3AzNXRfWS1PRU5qQXRLSkUyVnQ0YjhBVUtYVVFHeE1maG4tazRPZS1NY0xCOW1faThuaDJ1VGhSUXVHdVJMakZWTzRSb1N2MGh5aXBxc1FVWlI4X0lkU1lrRGI5QWc?oc=5",
@@ -1574,33 +1592,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-05T22:33:00Z"
-        },
-        {
-          "id": "report-1d4d69339ee4",
-          "title": "The Iranian school struck in the war’s earliest attacks is now a memorial for children",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZmVWR3VKRGlScmN6ZEtGUU5IelBhbmFENGJwd2VSMnV1bDBoTy02M1oydnBmQ2V4S20zbnRZeWM2NXY2TDJvbTFQU25DRThRSTlPREk1YmpPZTl2aWdEXzg5elpTenNMNEN0V0gxLU1sTFd1WDRhQUtXNXBWTzNLdDJEUUg3VnN0SXJBSVU0TG03MEJnN2NpLQ?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-06T16:14:00Z"
-        },
-        {
-          "id": "report-a37530481796",
-          "title": "Can AfD form Germany’s first far-right state government since World War II?",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYkZSTHpIazluSDhjemU4OUVqeWd3cDFPUEN3N2g0dWluV3hndmNNcS1GYW54TVZrTldlaklCd0EtWHZhOXN2ejFISHNIQzJ1YlpUVU5nMEEzc2pTNF9zUHY3Mk9kVDZCUk1PSEpVV3d1TV9uekNMbFc3OTNnRzlMU0hCYlJYbEhkbTBWVHd0UUw2UdIBlwFBVV95cUxPSE1wcW5vM0g1RzVIMXNjbENFTGwzQjBBYnhYRnVZZWE5VHV3MEVXTlhCVVByZmVLUzdiWVRUZDNadVpNMVJhNVlDb19TejZuU0NNMUFiWVVOUTBrLS0wVVZEYzdMOTVuNEZ5ZHlZR1dEOVViZ1EwZmxfS2FsaHRFZW8xMm5kSEs0WE84T1RvbVBXTlRISG9z?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-06T20:52:34Z"
-        },
-        {
-          "id": "report-6834a311cb7b",
-          "title": "Months after ceasefire, Israel and Hezbollah battle over a strategic hill in Lebanon",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTUdGWkMtN2RpZ3JFMV9kVU9lSGdtU0FuTW5xVzVlNzE2WmhQSUJ1LUpyaHNkVWk3VHlsbjdRLWl2WnNBT0VqMFVHbm9EUmRsLUZLMGdBcW5STDNwaTRDUnlzd0RsUGlDTXlTQjlpMWVHVWpNOTFZTFN2cF9CcTQwX1J2bXZiNVk3aUF0MVNSdUhkZ0dzNjVEdUpOcURCaGtCdWM4Nl8tM05URHJGS2c?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-05T06:41:00Z"
         },
         {
           "id": "report-9971a3841fa4",
@@ -1628,6 +1619,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-07T13:39:23Z"
+        },
+        {
+          "id": "report-72ab4a207e01",
+          "title": "Houthi attacks injure 73 civilians in southern Saudi Arabia",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOW1uczFIU09nQWhxcURna21PNm82Nm5peWVSV0x2LVhSWEM3SWk5dEZkWG5wTXA5cE9ROTNiRnROeF9tMThhbmRKa2FEZ3ZDbFpvWWdtdGllSkRNa2Q1Yl9JNE1SOFZ4M0Q1NGx3NTc4UExEZTc1ejVVQXFDZWlRcTNtdS05TmF4NDNuaGRDem1YNWplV2NPNG1kZlRBcnF6ejhaZ1hQaw?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-09-08T04:11:33Z"
         },
         {
           "id": "report-2a037847ef01",
