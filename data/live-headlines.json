@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-08T16:38:23.304Z",
+  "generatedAt": "2026-09-08T18:59:21.380Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -9,7 +9,7 @@
       "items": []
     },
     "safety": {
-      "generatedAt": "2026-09-07T19:23:27.149Z",
+      "generatedAt": "2026-09-08T18:59:21.380Z",
       "cadence": "daily",
       "items": [
         {
@@ -26,22 +26,6 @@
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "seen": "20260905T183700Z",
-          "pinned": false
-        },
-        {
-          "title": "PLR 26-061 – Automobile Mishap Claims One Soldier’s Life",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZE5YeVo2cFE4bndqZGpzSGliQXE0akRsXzRaUl9iSFVIUU91dzBnWWVDc1lrS2dTSkt2b2p4TGtLcGh4NE1Od3V2VWUwRVVyd2JDNXdlWWJxNVgtanVSZHVGVE9zb0VUS1o3YzFFNHNHNnlYVUlaOFA3NExPS1Q3R1ZTeFh6cWd2b0hGQ3RQd0w0eGljbnJUMEJiVkxzZzAzY0x6SkJHN1k5ekpOQTFGbkRtejdKTGR2RmJFUm11TnRaUEo3T2o4VVA1WEtvbV9EXzJJQ09TMHdFcDZyR2VN?oc=5",
-          "domain": "safety.army.mil",
-          "sourceTier": "Official military source",
-          "seen": "20260902T194937Z",
-          "pinned": false
-        },
-        {
-          "title": "PLR 26-060 – Automobile Mishap Claims One Soldier’s Life",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZVRRaXNDNnRGWUpNaW4wNnoxZldBQXFscWtQLW9BUXREU1hqWVVKZXd5UFozd1ZJM2ZyNFhDb3JDa293cWFkU0l3RjlIYk11WlB5VF9rRzBmRXpWOHZjakh0dlBOOVUwb1FoWUVZQUdENU9IaTgyYXB3VjZYbDlQOTlVR3hjd2R4VUpXQTFyNmRGazBLamQ2Wk1KaWJ4STI3N3JUNTlZc1NjelFhZUlTZ3JpWXA2Q1dlNEhEaVBISFRqbjdWMFNFR214V1Vna3lWZVVsZGpwRkd6dmZITGdz?oc=5",
-          "domain": "safety.army.mil",
-          "sourceTier": "Official military source",
-          "seen": "20260901T195246Z",
           "pinned": false
         },
         {
