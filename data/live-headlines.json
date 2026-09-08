@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-08T04:35:14.890Z",
+  "generatedAt": "2026-09-08T11:18:35.929Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-09-08T04:35:14.890Z",
+      "generatedAt": "2026-09-08T11:18:35.929Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -1225,17 +1225,9 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-09-08T04:35:14.890Z",
+      "generatedAt": "2026-09-08T11:18:35.929Z",
       "cadence": "every 6 hours",
       "items": [
-        {
-          "title": "Fuel prices at record Labor Day high in US thanks to Iran war and refinery issues",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOTRiRHBsTEFsQXpmU3VSSjg0N25rUC1NRzR2ZWlNc2RyallYN0xTX2U1NUJhTk9UZTdGM3NnYXJyZkV1dmx1VXpIdVpoS2dSVDJPMUZ5TzRka09pQklpWWtpVE5weTlFWDFYNmNadWw4UmdoY2NpTTFjS0plN1lGa1lDWF9LUWhsMUtyWjJ6QVA1WG5kNm1r?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260907T173800Z",
-          "pinned": false
-        },
         {
           "title": "'Losing battle to halt Russia's 'hybrid' war' and 'Oh chute!'",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iLVduZ3NuZDFpT1Z6SlQwVVRzOTRqMkFrX1JSZ2lhenRLV1F4Y2pzQW5xdFlhekZWeFBWSi1pdG81T2lhSFk1bHF4dENxVVhiZ013OEpWNko0QQ?oc=5",
@@ -1245,11 +1237,115 @@
           "pinned": false
         },
         {
+          "title": "Fuel prices at record Labor Day high in US thanks to Iran war and refinery issues",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOTRiRHBsTEFsQXpmU3VSSjg0N25rUC1NRzR2ZWlNc2RyallYN0xTX2U1NUJhTk9UZTdGM3NnYXJyZkV1dmx1VXpIdVpoS2dSVDJPMUZ5TzRka09pQklpWWtpVE5weTlFWDFYNmNadWw4UmdoY2NpTTFjS0plN1lGa1lDWF9LUWhsMUtyWjJ6QVA1WG5kNm1r?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260907T173800Z",
+          "pinned": false
+        },
+        {
           "title": "Convicted war criminal Ratko Mladic gets hero’s burial in Serbia",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeC1FZjlCeWNpcmE1dl9BMnQwaThKWldzeUgtdEwyYUNUaXFpUnIyWGs4UmtXUFdscWRtOExMLU1rZGd0dHFjeHIyQUVjejNwaFZLNnBxNGZSdzBrUkkxaUJ5Q0dDZElCQmFtMWhxTFBfMm9nYzM0TzdzZDZsc2p1ZXNOblN5NGhHOG5sQXl2YTEzRjliVFVaLWZIS29kUnE2V2RrbHdB0gGrAUFVX3lxTE51OUdXQllnbEFwbzdMM2RubmROd05iTndrUWtuSzJzZUdFQWFDVVFxNk5lTGx2bzlKT0pFUnhKVFdQUGktMEdnN256TVY2MnJ5SlE5cE5vTURsaVU0dldlQVpXeU9Ed2VaZkI1MzhOemc4NldnNWx5OXNSVFpPQlVXZXVfR2xkdzBWN2FGd0VudTM3QlZSWE5qR3VOLVlUMVo4SERYVV93N2tJcw?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260907T155002Z",
+          "pinned": false
+        },
+        {
+          "title": "How South Korea finds itself trapped in the US-Iran war",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeHBsY3Zuc19xSDZ3dHMyVHk4M2VER1k2OXhhVXE3Y0ttQVotQndHNXQ3SHViRHNtak81cXp3UE1XUU50ZTBTUWU5MTdmUUoyQlVnYXh6N3h0ejFMR0FodVRmVWwtMDVCM29aYjJxeVlLc2prSThEUzVESXRYcjNZTWNBNF8wUmxmUVNhWnplUnZZVUFwZW5oZzBkWdIBoAFBVV95cUxPSGdjSkh2ZG1QWklWS013QTQwSXlQWHR0OEZRS1BGdlFzaGVPWTNadW0wSTFZWVpGQ1Z3MWxqMUdFUXF4ZkJJTWYzay1zQWNvbWxyWl8xUVhVVk40U2loNl9yM1gzbXpBOTFwbEhQal9uNjByeUsxNTk0N3Z5Wjk5WUZBb3NVSU50VHRRUGxOSUlWT0gxdjNWS0RmUDRRTndt?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260908T100205Z",
+          "pinned": false
+        },
+        {
+          "title": "Iran touts military response as US maintains blockade, hits tankers",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaXd6SjRYNFpkcjM2M1JweThUd0QxbW55eE5FRERDSkFVYTBtd0pPMUM2VVpYVGhMR2tweHJWd3dmT2ZmWHBZZ09UVVJSOWQ3bFY1b1FSTTg4UzE2YjA4RzNsaVJoZHFvekNCdXhwWEVSV185MWNBTUVSaG12d09XTlQ2eTdJS0MwYzRNWjJaSXBBcUZnSWwxbnpPN1h6STFURjNCNHZ5dUE0UdIBrwFBVV95cUxPZ2dOX0VHTGtIRmF0UGdHTkFnb2QyZnRCX2p1ZUVWdUpWRG1jY2ljc3V6R091eEJHTkNldGc5SHlaamZVamZnY3RZbHBMeGRsY3F0ejFzTkN4SXVUUUhyNWRjTU9QN3FDZWozblFzdzd6Wmd5RjUyXzNzZ19jRUNfanZZSlhpSm5MX0J2T21HTGlaNWJiUmN3SXNqZkpwaUxsZ1FHZkRJS1RjZWpacUxN?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260906T162845Z",
+          "pinned": false
+        },
+        {
+          "title": "US denies that Iran struck an uncrewed US military ship in the Strait of Hormuz",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVktrNjVBTENONHRoZVB6OGRsQUxBSUdhZkFydmlOM3ZvVWRCRXVUUW85dGxNZ2VrMXkxZUpnVnpVMlNLZkpMWkRVTFJ2VVhSYXZCT1RmcEtYRTRjQmU5dTdCSzA4TDk4WkhJOWRiVUNxSFRKdHJmcTgxYWNEQy01eUVpY2Z5bHZpYl9sakVNcDBLal9BMkpCWWlKSEpMdw?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260907T014200Z",
+          "pinned": false
+        },
+        {
+          "title": "Saudi Arabia says 73 wounded as Houthis attack civilian and energy sites",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNelpMMWdSSTBNZG5rSnpCMmk5MnVUNGNIR1lvVTQ0X20zUFFIYUdheDN0QzFoRm15VGdmNmlvUi1rUHRJWkRqMXdPTFJwQ3FzUTFPWlpPNGFtNjI5UGE0U1c3azQyanhLdTdvMTZXcGJSYXMzVWczU0pwUU5GLXcxOXZ3dGpuMUplbm9NRzZuV0ZuUGV2SnB5OERyRXVENHpXNWxtSFk1SFpEazFBdVVV0gG0AUFVX3lxTE81M3laVXFBWllCdmJvOFZhQ2J1TjlPVFpNRzdGa2xLNktBSUhJYjlHYU9CLWlaVFNCNmMwOXRZd2doTU9UWTdxV1hZQ2FQWVFSUlBzYVVVX3hWaFNCRXJSRHY0TWc2aFkxNk96TUhwTi1POGdQNlZvTkd4Z3IxeU8xWmpoNmdFVTd3QzUyR3hxUnRjYUFQeGZoQ3FOa0pUWlhhWEVCLTNGRVlJaVdnTFdzUGZ3Rg?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260908T103000Z",
+          "pinned": false
+        },
+        {
+          "title": "Iran war: How US consumers spent an additional $100bn on fuel",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUXk3UFV5SW1td09PamY5NEI0ejRlRWo5RUJ5bVBXUUEtZVRNNjRNOFhOZ0NlQzU0akRTT0cxZENGS1o2OHB5Y0ZReWYwZDNpQkl6YXA4Q0w2d0VwNlhTZmlJQllGQW5saEZoYVlqUGdBN2F4T2gzTDViaExabEpEUUNEUFhQelVudEVfdkVUTExJSDIwTEluQlFGc3U2NXdR0gGmAUFVX3lxTE51S3dUTzh4SlBVMkZmOWNlZmVBY1VMdlZsM2Q2dEZpeHp6TWd6Sm1NOUVYNVU0dU16UEdITTNoeG1uU1A1V19SZktVem9ETXdBUGx1UnIzWVJpOGJGbnRmUHowLWJvX0lTZGEzWVZtT3Y3c2p4YmVjYm5uY2hYaTNHUVpiamRTZzNJSGZlT2xfdEtEbTduLUlrZlRTLXJfc3V0TDdmS1E?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260907T102754Z",
+          "pinned": false
+        },
+        {
+          "title": "US envoys Witkoff, Kushner meet Putin for talks on Ukraine war",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcDJoZHVhQ2hRMjVsQmUweEZWQjZObVNYeENzemJqZjg1NURCaWZtOWZ2dHVXTWtwS09la1c3TnBNWWJVaDZETmdkNVBURkxUZkx3MjY3cTVjNmJxTkMzaFRobTBaZm5kT1dsV0RlLXh6SktILWZLLUtGOXhHdkw1d0xYdTlIaVhMR1FPV05fU1pmRFpZekRTcFdtZGF2U0l2SzI4VDY3TGpCQjFKS3RoQ9IBtgFBVV95cUxObXhvNTNJcTRGeHE0ZnFzbHpNZnV0MWdJZThPb05WV1d4S2tFdFZrM29lMGJNWlowbUE0RUdMZEg1MkRvcGdpTGRBY0NTMGVZR2VnbUIwdjMyR3lOTTVOSnh5YkxNcC1CZXdZdEU4YUtPOGRTZklKaUNPcGMtZWRGTFI5bTd6MVlnMGsyZ183Y3ZnZG9VN3ozWXF2c1UxNFlvd1VTVDJOR3ViaGFkZXRRZjR3QWUwUQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260905T212328Z",
+          "pinned": false
+        },
+        {
+          "title": "Watch: How much can Canada fight back in its trade war with the US?",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE43NmhBcl9qV2RrelV6M2hGYTBXckgzM21Lbm92aHlaQm9DUmp3bjlkR0FhcFZCMWJxNmw0dlRUYWliWmxEYTRpUS12QXUtMVBENlBTaHFSaw?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260905T021321Z",
+          "pinned": false
+        },
+        {
+          "title": "North Korea deploys warship ‘capable of annihilating retaliatory strikes’",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOC1weVRfdkdkamhvVG0zNTlmYjZEeFVRYVFNdFpnUWt0NVJUVVhsdGg0bmVjMDc1ZW44eEpWTVU1NWltb0h1NGY3UWVCNDllMGp3eC1MS2paUDlZS2w2SXIyV2JkTkFueDZpY2xpVXZFUS1QUGxhcTVOc25rSElYcENCQXVtTzdwSUFISmRGYjNGdk4zZ2JqekhDUVR0YlVuZ1VJUnB0MmFxQUZ4ZXF5cNIBtgFBVV95cUxOOE9MWmJMZm1SUmxnalZPbnJma3M3ak00Z3h4UXhjNEpJSEc1ZE13Y0hYWFB5UjJXSVZ3U2w0SjFXci16T1pxWThYZVJVS19UTk9FR3pFandSdkVmcVh0aHhwZEE4MUlqX1VLN3MySkVtY0tRNGRLbmFBRHZORXotZXZGNi1WYS1ubEhwWElIa1NCemdsRmo4VGg4Y0hQd05rMXhaa2M0U3F0aHhaU19ZajBPX0pLdw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260907T070314Z",
+          "pinned": false
+        },
+        {
+          "title": "Could Trump’s Iran trade war threaten Spain’s saffron-infused paella?",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTEpaRDN5N0xhSkIwclBqNTlTTVVLa2FjRWktQW5LOUZDR2dNbkJRSjR5dlYzMkd4YnBLWHBYaHE2dWN6Y1BlZ2NZLTNNMm1DM3FsZmFydlRfV3lQSlNvakFycUduNC1aLTJGUVhIa3dTcHZsX2RWdExYOHFOem94Y0tPZndrWXhRNnBNbFFIXzkwZmpVQVA3Sml1ZWlNbkRPV0xwNnJDVmQ5Z9IBrwFBVV95cUxOc2gwMzBTamNMcTZfWTBudThCNVJ3ZEs1M0lBX1FOWXNBWHpVcmdlRUxLM3RzaWpmSlh1NGNsa1NjODZfY3BjVm92Wmp5cHd0TjBSV0pFWXdLbS1PYnF6N21pMkVqWkkyYnlqaW5OYnBSYzIwMUpOZkNKVkpDQVB2c0NEYjdmWkNjb3ZUTi13RWMyXzZfR1MxbXo5aV90VmlhVUlfN0ZZRUJ5RjkyQ0g0?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260907T120310Z",
+          "pinned": false
+        },
+        {
+          "title": "Red Star fans unveil tifo of war criminal Mladic before derby",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RVmhVRW14ZnBuY29ybjNDRExvVzZuSFJBTDBzcFdra1o2Q2dIeTBjQjFtUTY0RU9IMTY0bXVHVGVab1lqVVZ4Z3pSX0M3TFVaanFlUWFfcVhzbE9DQUxYYWlvRWJka00?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260907T113538Z",
+          "pinned": false
+        },
+        {
+          "title": "Houthi attacks injure 73 civilians in southern Saudi Arabia",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMHZwbmNNMWxfM2I5REZQbml6NzYtN1pJQzRxV01nbDEycWdTRFFpbkVrWDFqN2RFX1VYWC1MdEhiZXpLSGQyNHZ3akFHcFRTZ1NOUTZ4Z1FKb0RsWEk1SkhNMEVVZ1liNzFrNlhVNTBJQ2hfMmc5NU5fb2czQVBobTM3T2x3SjNzSFZkcHRwNWFfaDM3cFctVlJGSDlleVVULVE?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20260908T041133Z",
+          "pinned": false
+        },
+        {
+          "title": "Russian strikes on Ukraine’s Kyiv kill at least two people",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaEhXSHNycHhKQldXbnlyVks3dUh0NDZIbHB2YU43MXkxaXdaZVg2NHZIelJ4emhyZk9PVWZiUzRwcUxONDd2VnRwVC00Z0toeXZvNE84aUpxZ2I2MUdVRFhQT0tqUmJkc3NHRHMtVnE1dmk5dlZvQXBlSVQ2V28xM0NZajhDTFpRdEhKYjcxdlQ2ZFNpRFphalBjMDlQQ2ZTemdhR0ZWR2QxZ9IBrwFBVV95cUxPX0VZRUtqcjA2cWRYN19LdEpzRFJTWlRfdHo4c29qSGloM2hoME5KU01Fb1JhNDl0eDhrN1B1WmxBeVFVMkJ6Z0FVTUZkN0lMXzdVb3JTblJpT0Q5SlRoQVJBTmlzMUFBWDJSTFdUendRYnFXV3JjRXVDZEg4cHRCRF9ENW15Z1VjdG5obkdFV2QtcVVEQi1mVWFrSmlmTVNSMXdWaVRhTkEySkNpc3kw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260908T091546Z",
           "pinned": false
         },
         {
@@ -1269,11 +1365,19 @@
           "pinned": false
         },
         {
-          "title": "US tourism groups want to win Canadian visitors back. A testy trade war isn’t helping",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNV2ppQXE4Mm1JWll4UVNwbERpUzVDNzQxbU04cld4ZU02cnVCSDMwZ20ySE9SRXBrWjJZdTJfaU9Xb3lBS2Znc3ZHY2EtdTBsZ01sby11MGlVbGdyU2x5cU13QVp4SURSRXNvajExam5OMl85Vl9HZ3NiTXVkRTJHQXB4eWtVbjY2eDI3ZVRvekgtWl9kRnBxLWpQa2JnUkk?oc=5",
+          "title": "The Iranian school struck in the war’s earliest attacks is now a memorial for children",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZmVWR3VKRGlScmN6ZEtGUU5IelBhbmFENGJwd2VSMnV1bDBoTy02M1oydnBmQ2V4S20zbnRZeWM2NXY2TDJvbTFQU25DRThRSTlPREk1YmpPZTl2aWdEXzg5elpTenNMNEN0V0gxLU1sTFd1WDRhQUtXNXBWTzNLdDJEUUg3VnN0SXJBSVU0TG03MEJnN2NpLQ?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260906T114200Z",
+          "seen": "20260906T161400Z",
+          "pinned": false
+        },
+        {
+          "title": "Can AfD form Germany’s first far-right state government since World War II?",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYkZSTHpIazluSDhjemU4OUVqeWd3cDFPUEN3N2g0dWluV3hndmNNcS1GYW54TVZrTldlaklCd0EtWHZhOXN2ejFISHNIQzJ1YlpUVU5nMEEzc2pTNF9zUHY3Mk9kVDZCUk1PSEpVV3d1TV9uekNMbFc3OTNnRzlMU0hCYlJYbEhkbTBWVHd0UUw2UdIBlwFBVV95cUxPSE1wcW5vM0g1RzVIMXNjbENFTGwzQjBBYnhYRnVZZWE5VHV3MEVXTlhCVVByZmVLUzdiWVRUZDNadVpNMVJhNVlDb19TejZuU0NNMUFiWVVOUTBrLS0wVVZEYzdMOTVuNEZ5ZHlZR1dEOVViZ1EwZmxfS2FsaHRFZW8xMm5kSEs0WE84T1RvbVBXTlRISG9z?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260906T205234Z",
           "pinned": false
         },
         {
@@ -1285,99 +1389,11 @@
           "pinned": false
         },
         {
-          "title": "Body of convicted war criminal Ratko Mladic returned to Serbia for funeral",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVTBacV9TNVF1QnFDb090OUNicDViU1NtQk9lSUhWVG8zS3VkNFowV1doZy1QMEJ6R1hxVFNxSWM4ekJMdVdhV3pybVZGblFOZFQ3VUZxdEFMb05kdUJ0T3lyMkdnSWpsRzROQ0VyNS1NOHBJRGpOVlpIQ1Y0QkMwcXBhZGM2WWVKMFA1UWRSbw?oc=5",
+          "title": "US tourism groups want to win Canadian visitors back. A testy trade war isn’t helping",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNV2ppQXE4Mm1JWll4UVNwbERpUzVDNzQxbU04cld4ZU02cnVCSDMwZ20ySE9SRXBrWjJZdTJfaU9Xb3lBS2Znc3ZHY2EtdTBsZ01sby11MGlVbGdyU2x5cU13QVp4SURSRXNvajExam5OMl85Vl9HZ3NiTXVkRTJHQXB4eWtVbjY2eDI3ZVRvekgtWl9kRnBxLWpQa2JnUkk?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260905T122258Z",
-          "pinned": false
-        },
-        {
-          "title": "Iran says improved ballistic missile shows it will take preemptive action against threats",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaW9PNHFnZGJneDI2Zk5KQUdybFlKMWJzcjhpcGpTN29VQjg0RlB0N0MybWRqeDA2eGtWZ0pkNWNyS3REMVlzMjg3UE5lbGczMzRnM21iVnpxMDZFRlAtRTRYdTlGdzlyMXdETFl6bi10Qjl2Rjg1YUlxRDc1QVo1RXh4OFRDMkVQUDk2cVpnYVRuYlk0OVN3TF9xcWkwcmRwRkRBUzY4S01ZaGRIZHZR?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260907T212400Z",
-          "pinned": false
-        },
-        {
-          "title": "Iran touts military response as US maintains blockade, hits tankers",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaXd6SjRYNFpkcjM2M1JweThUd0QxbW55eE5FRERDSkFVYTBtd0pPMUM2VVpYVGhMR2tweHJWd3dmT2ZmWHBZZ09UVVJSOWQ3bFY1b1FSTTg4UzE2YjA4RzNsaVJoZHFvekNCdXhwWEVSV185MWNBTUVSaG12d09XTlQ2eTdJS0MwYzRNWjJaSXBBcUZnSWwxbnpPN1h6STFURjNCNHZ5dUE0UdIBrwFBVV95cUxPZ2dOX0VHTGtIRmF0UGdHTkFnb2QyZnRCX2p1ZUVWdUpWRG1jY2ljc3V6R091eEJHTkNldGc5SHlaamZVamZnY3RZbHBMeGRsY3F0ejFzTkN4SXVUUUhyNWRjTU9QN3FDZWozblFzdzd6Wmd5RjUyXzNzZ19jRUNfanZZSlhpSm5MX0J2T21HTGlaNWJiUmN3SXNqZkpwaUxsZ1FHZkRJS1RjZWpacUxN?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260906T162845Z",
-          "pinned": false
-        },
-        {
-          "title": "US denies that Iran struck an uncrewed US military ship in the Strait of Hormuz",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVktrNjVBTENONHRoZVB6OGRsQUxBSUdhZkFydmlOM3ZvVWRCRXVUUW85dGxNZ2VrMXkxZUpnVnpVMlNLZkpMWkRVTFJ2VVhSYXZCT1RmcEtYRTRjQmU5dTdCSzA4TDk4WkhJOWRiVUNxSFRKdHJmcTgxYWNEQy01eUVpY2Z5bHZpYl9sakVNcDBLal9BMkpCWWlKSEpMdw?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260906T100953Z",
-          "pinned": false
-        },
-        {
-          "title": "Watch: How much can Canada fight back in its trade war with the US?",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE43NmhBcl9qV2RrelV6M2hGYTBXckgzM21Lbm92aHlaQm9DUmp3bjlkR0FhcFZCMWJxNmw0dlRUYWliWmxEYTRpUS12QXUtMVBENlBTaHFSaw?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260905T021321Z",
-          "pinned": false
-        },
-        {
-          "title": "Iran war: How US consumers spent an additional $100bn on fuel",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUXk3UFV5SW1td09PamY5NEI0ejRlRWo5RUJ5bVBXUUEtZVRNNjRNOFhOZ0NlQzU0akRTT0cxZENGS1o2OHB5Y0ZReWYwZDNpQkl6YXA4Q0w2d0VwNlhTZmlJQllGQW5saEZoYVlqUGdBN2F4T2gzTDViaExabEpEUUNEUFhQelVudEVfdkVUTExJSDIwTEluQlFGc3U2NXdR0gGmAUFVX3lxTE51S3dUTzh4SlBVMkZmOWNlZmVBY1VMdlZsM2Q2dEZpeHp6TWd6Sm1NOUVYNVU0dU16UEdITTNoeG1uU1A1V19SZktVem9ETXdBUGx1UnIzWVJpOGJGbnRmUHowLWJvX0lTZGEzWVZtT3Y3c2p4YmVjYm5uY2hYaTNHUVpiamRTZzNJSGZlT2xfdEtEbTduLUlrZlRTLXJfc3V0TDdmS1E?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260907T102754Z",
-          "pinned": false
-        },
-        {
-          "title": "Women gathered in a small Iranian town for a wedding. Then deadly strikes hit",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY2xzWXdBZkx3dWN5b05TSjV4S210aU1qZ2hDR2JxYnVuTnNFY01sU2NKNjdoTW44bFp5SGhHQUEwc0VseHlvZ3dpUllBT0Y3RUo0bzZMWU9GbFlDWG1PNUFUN2xReGFfNVRJR25IMjRYa3pETEt2ZDJsVy1nN0djZndyMjM5MzUzUW0tTUZ5Q0M?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260905T075000Z",
-          "pinned": false
-        },
-        {
-          "title": "Israeli airstrikes on a village in southern Lebanon kill 12 people, including 2 children",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTVJ6MDlUWURyZnpLVFdqMnRudnh0bjRaYXlYdHFVLUtPQkhXLVR1Vk1XV3Z0UVF6cFBfRXd5TnBIQ1BHeHNkdm5DdmZCVEE5ZUgzVVBsRU5RSF9YMFZGVDNzcXAxTkQ0b0Y3Rmo1RWdMaG5qZ2h0VVR4Q29NYUZ5V2N1M1pHOGJIWXhhSkNYRVRqeFVDZUFuaEFHd3JBdw?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260908T005300Z",
-          "pinned": false
-        },
-        {
-          "title": "Could Trump’s Iran trade war threaten Spain’s saffron-infused paella?",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTEpaRDN5N0xhSkIwclBqNTlTTVVLa2FjRWktQW5LOUZDR2dNbkJRSjR5dlYzMkd4YnBLWHBYaHE2dWN6Y1BlZ2NZLTNNMm1DM3FsZmFydlRfV3lQSlNvakFycUduNC1aLTJGUVhIa3dTcHZsX2RWdExYOHFOem94Y0tPZndrWXhRNnBNbFFIXzkwZmpVQVA3Sml1ZWlNbkRPV0xwNnJDVmQ5Z9IBrwFBVV95cUxOc2gwMzBTamNMcTZfWTBudThCNVJ3ZEs1M0lBX1FOWXNBWHpVcmdlRUxLM3RzaWpmSlh1NGNsa1NjODZfY3BjVm92Wmp5cHd0TjBSV0pFWXdLbS1PYnF6N21pMkVqWkkyYnlqaW5OYnBSYzIwMUpOZkNKVkpDQVB2c0NEYjdmWkNjb3ZUTi13RWMyXzZfR1MxbXo5aV90VmlhVUlfN0ZZRUJ5RjkyQ0g0?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260907T120310Z",
-          "pinned": false
-        },
-        {
-          "title": "North Korea deploys warship ‘capable of annihilating retaliatory strikes’",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOC1weVRfdkdkamhvVG0zNTlmYjZEeFVRYVFNdFpnUWt0NVJUVVhsdGg0bmVjMDc1ZW44eEpWTVU1NWltb0h1NGY3UWVCNDllMGp3eC1MS2paUDlZS2w2SXIyV2JkTkFueDZpY2xpVXZFUS1QUGxhcTVOc25rSElYcENCQXVtTzdwSUFISmRGYjNGdk4zZ2JqekhDUVR0YlVuZ1VJUnB0MmFxQUZ4ZXF5cNIBtgFBVV95cUxOOE9MWmJMZm1SUmxnalZPbnJma3M3ak00Z3h4UXhjNEpJSEc1ZE13Y0hYWFB5UjJXSVZ3U2w0SjFXci16T1pxWThYZVJVS19UTk9FR3pFandSdkVmcVh0aHhwZEE4MUlqX1VLN3MySkVtY0tRNGRLbmFBRHZORXotZXZGNi1WYS1ubEhwWElIa1NCemdsRmo4VGg4Y0hQd05rMXhaa2M0U3F0aHhaU19ZajBPX0pLdw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260907T070314Z",
-          "pinned": false
-        },
-        {
-          "title": "Red Star fans unveil tifo of war criminal Mladic before derby",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RVmhVRW14ZnBuY29ybjNDRExvVzZuSFJBTDBzcFdra1o2Q2dIeTBjQjFtUTY0RU9IMTY0bXVHVGVab1lqVVZ4Z3pSX0M3TFVaanFlUWFfcVhzbE9DQUxYYWlvRWJka00?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260907T113538Z",
-          "pinned": false
-        },
-        {
-          "title": "Can AfD form Germany’s first far-right state government since World War II?",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYkZSTHpIazluSDhjemU4OUVqeWd3cDFPUEN3N2g0dWluV3hndmNNcS1GYW54TVZrTldlaklCd0EtWHZhOXN2ejFISHNIQzJ1YlpUVU5nMEEzc2pTNF9zUHY3Mk9kVDZCUk1PSEpVV3d1TV9uekNMbFc3OTNnRzlMU0hCYlJYbEhkbTBWVHd0UUw2UdIBlwFBVV95cUxPSE1wcW5vM0g1RzVIMXNjbENFTGwzQjBBYnhYRnVZZWE5VHV3MEVXTlhCVVByZmVLUzdiWVRUZDNadVpNMVJhNVlDb19TejZuU0NNMUFiWVVOUTBrLS0wVVZEYzdMOTVuNEZ5ZHlZR1dEOVViZ1EwZmxfS2FsaHRFZW8xMm5kSEs0WE84T1RvbVBXTlRISG9z?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260906T205234Z",
+          "seen": "20260906T114200Z",
           "pinned": false
         },
         {
@@ -1403,34 +1419,9 @@
           "sourceTier": "Independent reporting",
           "seen": "20260905T085900Z",
           "pinned": false
-        },
-        {
-          "title": "Israeli attacks on Gaza kill five Palestinians, including two children",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSm9wc1BFckFKSG94bHl3SFdlcTFLLTBqanBYVm1hV2U4ZWxVaEp5bER0UHMya1ptNnEyNGFzeldiYkdzc2g4am9pSXFHTTVWR3JzbDhtQnR0WF9UZmhRb1hweGlBMXNaSWhyTkF1c0VoNVBHb1VPeU5fdXlpUVhMV0dLOHVyRFlYdDlGWmRsbVI0VG01YUVtV1VaMWU2Mm1QLUJ2dGRXTy01MzlHUkHSAbMBQVVfeXFMTU02VWVHN2JWU1RpSjg5czF0V2hrYzNiblI5U3FmQVE4eWFQRnl1TzdoX0tfN1dsNTBWSTRJWXkyaUdlUzV2V2R5amh1TndfUHNVbF80bWM3cHpaT1lsOXlNRkRUbFNNc19XeGMyLU5tc3lJYUxtYTFDRWdnNXdWUWNzLVRGeEdUb0dkd1FvNHFqN2hhQjh2RUdtZGhLUF9xQ0gwTE1xN1BOTFNvaE9ldGU2b1U?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260907T135513Z",
-          "pinned": false
-        },
-        {
-          "title": "Philippines warns China may reassert itself amid US-South Korea drill cuts",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdzFLRlVwZ3dIZHFIN1I5cUEzbVdydHhQemNMYXRZRU01VWtLcXFYN3FYdWpvMXNKQ2xXbFpkQTFmWDhsZVhUYWRFeDNGdnN6OHZra09OajdGX3lwRDF0Y2l5UklDN2tRemRXOTB5ejlRTlpKMkZfelNvaHhpTWJPeUE3NGdWV3d4MVlFM0NzVjR3VWNSYm5ydXpGdXpuUHdjelAtMFVodzExYU5Gb3VYSFdyWnXSAboBQVVfeXFMTjRHUTYyUlZqX21Ra1pWVXpEbDJ0SF94QlhNN1BWdzItYjhTWGdGcVJMZFZlQy1KTXduVzlvZmhpR01QNGlIRkRBMkRnSnc5VEhONDhnSmJ2c29YTWVud2hfNHZQYklnS3F6TFBNNnpNZUV6dTVhYk5adkwycEtoRlc5d3Z3aXlBbkJYVGRpR0lGQkJVMlBZbk9pZTgxVkZObThIR3BUQ2lPZldmM0ZJby1tcDhveGNKZFNn?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260907T041729Z",
-          "pinned": false
         }
       ],
       "reports": [
-        {
-          "id": "report-4761cbba47c1",
-          "title": "Fuel prices at record Labor Day high in US thanks to Iran war and refinery issues",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOTRiRHBsTEFsQXpmU3VSSjg0N25rUC1NRzR2ZWlNc2RyallYN0xTX2U1NUJhTk9UZTdGM3NnYXJyZkV1dmx1VXpIdVpoS2dSVDJPMUZ5TzRka09pQklpWWtpVE5weTlFWDFYNmNadWw4UmdoY2NpTTFjS0plN1lGa1lDWF9LUWhsMUtyWjJ6QVA1WG5kNm1r?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-07T17:38:00Z"
-        },
         {
           "id": "report-0190840a5609",
           "title": "'Losing battle to halt Russia's 'hybrid' war' and 'Oh chute!'",
@@ -1441,6 +1432,15 @@
           "reportedAt": "2026-09-07T00:05:46Z"
         },
         {
+          "id": "report-4761cbba47c1",
+          "title": "Fuel prices at record Labor Day high in US thanks to Iran war and refinery issues",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOTRiRHBsTEFsQXpmU3VSSjg0N25rUC1NRzR2ZWlNc2RyallYN0xTX2U1NUJhTk9UZTdGM3NnYXJyZkV1dmx1VXpIdVpoS2dSVDJPMUZ5TzRka09pQklpWWtpVE5weTlFWDFYNmNadWw4UmdoY2NpTTFjS0plN1lGa1lDWF9LUWhsMUtyWjJ6QVA1WG5kNm1r?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-07T17:38:00Z"
+        },
+        {
           "id": "report-2c600eae9910",
           "title": "Convicted war criminal Ratko Mladic gets hero’s burial in Serbia",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeC1FZjlCeWNpcmE1dl9BMnQwaThKWldzeUgtdEwyYUNUaXFpUnIyWGs4UmtXUFdscWRtOExMLU1rZGd0dHFjeHIyQUVjejNwaFZLNnBxNGZSdzBrUkkxaUJ5Q0dDZElCQmFtMWhxTFBfMm9nYzM0TzdzZDZsc2p1ZXNOblN5NGhHOG5sQXl2YTEzRjliVFVaLWZIS29kUnE2V2RrbHdB0gGrAUFVX3lxTE51OUdXQllnbEFwbzdMM2RubmROd05iTndrUWtuSzJzZUdFQWFDVVFxNk5lTGx2bzlKT0pFUnhKVFdQUGktMEdnN256TVY2MnJ5SlE5cE5vTURsaVU0dldlQVpXeU9Ed2VaZkI1MzhOemc4NldnNWx5OXNSVFpPQlVXZXVfR2xkdzBWN2FGd0VudTM3QlZSWE5qR3VOLVlUMVo4SERYVV93N2tJcw?oc=5",
@@ -1448,6 +1448,114 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-07T15:50:02Z"
+        },
+        {
+          "id": "report-3e50db011618",
+          "title": "How South Korea finds itself trapped in the US-Iran war",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeHBsY3Zuc19xSDZ3dHMyVHk4M2VER1k2OXhhVXE3Y0ttQVotQndHNXQ3SHViRHNtak81cXp3UE1XUU50ZTBTUWU5MTdmUUoyQlVnYXh6N3h0ejFMR0FodVRmVWwtMDVCM29aYjJxeVlLc2prSThEUzVESXRYcjNZTWNBNF8wUmxmUVNhWnplUnZZVUFwZW5oZzBkWdIBoAFBVV95cUxPSGdjSkh2ZG1QWklWS013QTQwSXlQWHR0OEZRS1BGdlFzaGVPWTNadW0wSTFZWVpGQ1Z3MWxqMUdFUXF4ZkJJTWYzay1zQWNvbWxyWl8xUVhVVk40U2loNl9yM1gzbXpBOTFwbEhQal9uNjByeUsxNTk0N3Z5Wjk5WUZBb3NVSU50VHRRUGxOSUlWT0gxdjNWS0RmUDRRTndt?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-08T10:02:05Z"
+        },
+        {
+          "id": "report-1cc1f6c091ae",
+          "title": "Iran touts military response as US maintains blockade, hits tankers",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaXd6SjRYNFpkcjM2M1JweThUd0QxbW55eE5FRERDSkFVYTBtd0pPMUM2VVpYVGhMR2tweHJWd3dmT2ZmWHBZZ09UVVJSOWQ3bFY1b1FSTTg4UzE2YjA4RzNsaVJoZHFvekNCdXhwWEVSV185MWNBTUVSaG12d09XTlQ2eTdJS0MwYzRNWjJaSXBBcUZnSWwxbnpPN1h6STFURjNCNHZ5dUE0UdIBrwFBVV95cUxPZ2dOX0VHTGtIRmF0UGdHTkFnb2QyZnRCX2p1ZUVWdUpWRG1jY2ljc3V6R091eEJHTkNldGc5SHlaamZVamZnY3RZbHBMeGRsY3F0ejFzTkN4SXVUUUhyNWRjTU9QN3FDZWozblFzdzd6Wmd5RjUyXzNzZ19jRUNfanZZSlhpSm5MX0J2T21HTGlaNWJiUmN3SXNqZkpwaUxsZ1FHZkRJS1RjZWpacUxN?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-06T16:28:45Z"
+        },
+        {
+          "id": "report-7a6abb1c7701",
+          "title": "US denies that Iran struck an uncrewed US military ship in the Strait of Hormuz",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVktrNjVBTENONHRoZVB6OGRsQUxBSUdhZkFydmlOM3ZvVWRCRXVUUW85dGxNZ2VrMXkxZUpnVnpVMlNLZkpMWkRVTFJ2VVhSYXZCT1RmcEtYRTRjQmU5dTdCSzA4TDk4WkhJOWRiVUNxSFRKdHJmcTgxYWNEQy01eUVpY2Z5bHZpYl9sakVNcDBLal9BMkpCWWlKSEpMdw?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-07T01:42:00Z"
+        },
+        {
+          "id": "report-ea87a08b4e38",
+          "title": "Saudi Arabia says 73 wounded as Houthis attack civilian and energy sites",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNelpMMWdSSTBNZG5rSnpCMmk5MnVUNGNIR1lvVTQ0X20zUFFIYUdheDN0QzFoRm15VGdmNmlvUi1rUHRJWkRqMXdPTFJwQ3FzUTFPWlpPNGFtNjI5UGE0U1c3azQyanhLdTdvMTZXcGJSYXMzVWczU0pwUU5GLXcxOXZ3dGpuMUplbm9NRzZuV0ZuUGV2SnB5OERyRXVENHpXNWxtSFk1SFpEazFBdVVV0gG0AUFVX3lxTE81M3laVXFBWllCdmJvOFZhQ2J1TjlPVFpNRzdGa2xLNktBSUhJYjlHYU9CLWlaVFNCNmMwOXRZd2doTU9UWTdxV1hZQ2FQWVFSUlBzYVVVX3hWaFNCRXJSRHY0TWc2aFkxNk96TUhwTi1POGdQNlZvTkd4Z3IxeU8xWmpoNmdFVTd3QzUyR3hxUnRjYUFQeGZoQ3FOa0pUWlhhWEVCLTNGRVlJaVdnTFdzUGZ3Rg?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-08T10:30:00Z"
+        },
+        {
+          "id": "report-cee38558578d",
+          "title": "Iran war: How US consumers spent an additional $100bn on fuel",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUXk3UFV5SW1td09PamY5NEI0ejRlRWo5RUJ5bVBXUUEtZVRNNjRNOFhOZ0NlQzU0akRTT0cxZENGS1o2OHB5Y0ZReWYwZDNpQkl6YXA4Q0w2d0VwNlhTZmlJQllGQW5saEZoYVlqUGdBN2F4T2gzTDViaExabEpEUUNEUFhQelVudEVfdkVUTExJSDIwTEluQlFGc3U2NXdR0gGmAUFVX3lxTE51S3dUTzh4SlBVMkZmOWNlZmVBY1VMdlZsM2Q2dEZpeHp6TWd6Sm1NOUVYNVU0dU16UEdITTNoeG1uU1A1V19SZktVem9ETXdBUGx1UnIzWVJpOGJGbnRmUHowLWJvX0lTZGEzWVZtT3Y3c2p4YmVjYm5uY2hYaTNHUVpiamRTZzNJSGZlT2xfdEtEbTduLUlrZlRTLXJfc3V0TDdmS1E?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-07T10:27:54Z"
+        },
+        {
+          "id": "report-fa3df345784f",
+          "title": "US envoys Witkoff, Kushner meet Putin for talks on Ukraine war",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcDJoZHVhQ2hRMjVsQmUweEZWQjZObVNYeENzemJqZjg1NURCaWZtOWZ2dHVXTWtwS09la1c3TnBNWWJVaDZETmdkNVBURkxUZkx3MjY3cTVjNmJxTkMzaFRobTBaZm5kT1dsV0RlLXh6SktILWZLLUtGOXhHdkw1d0xYdTlIaVhMR1FPV05fU1pmRFpZekRTcFdtZGF2U0l2SzI4VDY3TGpCQjFKS3RoQ9IBtgFBVV95cUxObXhvNTNJcTRGeHE0ZnFzbHpNZnV0MWdJZThPb05WV1d4S2tFdFZrM29lMGJNWlowbUE0RUdMZEg1MkRvcGdpTGRBY0NTMGVZR2VnbUIwdjMyR3lOTTVOSnh5YkxNcC1CZXdZdEU4YUtPOGRTZklKaUNPcGMtZWRGTFI5bTd6MVlnMGsyZ183Y3ZnZG9VN3ozWXF2c1UxNFlvd1VTVDJOR3ViaGFkZXRRZjR3QWUwUQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-05T21:23:28Z"
+        },
+        {
+          "id": "report-2dbe0ddb4822",
+          "title": "Watch: How much can Canada fight back in its trade war with the US?",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE43NmhBcl9qV2RrelV6M2hGYTBXckgzM21Lbm92aHlaQm9DUmp3bjlkR0FhcFZCMWJxNmw0dlRUYWliWmxEYTRpUS12QXUtMVBENlBTaHFSaw?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-05T02:13:21Z"
+        },
+        {
+          "id": "report-40e02a659de8",
+          "title": "North Korea deploys warship ‘capable of annihilating retaliatory strikes’",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOC1weVRfdkdkamhvVG0zNTlmYjZEeFVRYVFNdFpnUWt0NVJUVVhsdGg0bmVjMDc1ZW44eEpWTVU1NWltb0h1NGY3UWVCNDllMGp3eC1MS2paUDlZS2w2SXIyV2JkTkFueDZpY2xpVXZFUS1QUGxhcTVOc25rSElYcENCQXVtTzdwSUFISmRGYjNGdk4zZ2JqekhDUVR0YlVuZ1VJUnB0MmFxQUZ4ZXF5cNIBtgFBVV95cUxOOE9MWmJMZm1SUmxnalZPbnJma3M3ak00Z3h4UXhjNEpJSEc1ZE13Y0hYWFB5UjJXSVZ3U2w0SjFXci16T1pxWThYZVJVS19UTk9FR3pFandSdkVmcVh0aHhwZEE4MUlqX1VLN3MySkVtY0tRNGRLbmFBRHZORXotZXZGNi1WYS1ubEhwWElIa1NCemdsRmo4VGg4Y0hQd05rMXhaa2M0U3F0aHhaU19ZajBPX0pLdw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-07T07:03:14Z"
+        },
+        {
+          "id": "report-20b5855158b8",
+          "title": "Could Trump’s Iran trade war threaten Spain’s saffron-infused paella?",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTEpaRDN5N0xhSkIwclBqNTlTTVVLa2FjRWktQW5LOUZDR2dNbkJRSjR5dlYzMkd4YnBLWHBYaHE2dWN6Y1BlZ2NZLTNNMm1DM3FsZmFydlRfV3lQSlNvakFycUduNC1aLTJGUVhIa3dTcHZsX2RWdExYOHFOem94Y0tPZndrWXhRNnBNbFFIXzkwZmpVQVA3Sml1ZWlNbkRPV0xwNnJDVmQ5Z9IBrwFBVV95cUxOc2gwMzBTamNMcTZfWTBudThCNVJ3ZEs1M0lBX1FOWXNBWHpVcmdlRUxLM3RzaWpmSlh1NGNsa1NjODZfY3BjVm92Wmp5cHd0TjBSV0pFWXdLbS1PYnF6N21pMkVqWkkyYnlqaW5OYnBSYzIwMUpOZkNKVkpDQVB2c0NEYjdmWkNjb3ZUTi13RWMyXzZfR1MxbXo5aV90VmlhVUlfN0ZZRUJ5RjkyQ0g0?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-07T12:03:10Z"
+        },
+        {
+          "id": "report-2616d3887218",
+          "title": "Red Star fans unveil tifo of war criminal Mladic before derby",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RVmhVRW14ZnBuY29ybjNDRExvVzZuSFJBTDBzcFdra1o2Q2dIeTBjQjFtUTY0RU9IMTY0bXVHVGVab1lqVVZ4Z3pSX0M3TFVaanFlUWFfcVhzbE9DQUxYYWlvRWJka00?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-07T11:35:38Z"
+        },
+        {
+          "id": "report-679b4c40a3e4",
+          "title": "Houthi attacks injure 73 civilians in southern Saudi Arabia",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMHZwbmNNMWxfM2I5REZQbml6NzYtN1pJQzRxV01nbDEycWdTRFFpbkVrWDFqN2RFX1VYWC1MdEhiZXpLSGQyNHZ3akFHcFRTZ1NOUTZ4Z1FKb0RsWEk1SkhNMEVVZ1liNzFrNlhVNTBJQ2hfMmc5NU5fb2czQVBobTM3T2x3SjNzSFZkcHRwNWFfaDM3cFctVlJGSDlleVVULVE?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-09-08T04:11:33Z"
+        },
+        {
+          "id": "report-6469fd7a2310",
+          "title": "Russian strikes on Ukraine’s Kyiv kill at least two people",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaEhXSHNycHhKQldXbnlyVks3dUh0NDZIbHB2YU43MXkxaXdaZVg2NHZIelJ4emhyZk9PVWZiUzRwcUxONDd2VnRwVC00Z0toeXZvNE84aUpxZ2I2MUdVRFhQT0tqUmJkc3NHRHMtVnE1dmk5dlZvQXBlSVQ2V28xM0NZajhDTFpRdEhKYjcxdlQ2ZFNpRFphalBjMDlQQ2ZTemdhR0ZWR2QxZ9IBrwFBVV95cUxPX0VZRUtqcjA2cWRYN19LdEpzRFJTWlRfdHo4c29qSGloM2hoME5KU01Fb1JhNDl0eDhrN1B1WmxBeVFVMkJ6Z0FVTUZkN0lMXzdVb3JTblJpT0Q5SlRoQVJBTmlzMUFBWDJSTFdUendRYnFXV3JjRXVDZEg4cHRCRF9ENW15Z1VjdG5obkdFV2QtcVVEQi1mVWFrSmlmTVNSMXdWaVRhTkEySkNpc3kw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-08T09:15:46Z"
         },
         {
           "id": "report-76e016addfad",
@@ -1468,13 +1576,22 @@
           "reportedAt": "2026-09-05T22:33:00Z"
         },
         {
-          "id": "report-9971a3841fa4",
-          "title": "US tourism groups want to win Canadian visitors back. A testy trade war isn’t helping",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNV2ppQXE4Mm1JWll4UVNwbERpUzVDNzQxbU04cld4ZU02cnVCSDMwZ20ySE9SRXBrWjJZdTJfaU9Xb3lBS2Znc3ZHY2EtdTBsZ01sby11MGlVbGdyU2x5cU13QVp4SURSRXNvajExam5OMl85Vl9HZ3NiTXVkRTJHQXB4eWtVbjY2eDI3ZVRvekgtWl9kRnBxLWpQa2JnUkk?oc=5",
+          "id": "report-1d4d69339ee4",
+          "title": "The Iranian school struck in the war’s earliest attacks is now a memorial for children",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZmVWR3VKRGlScmN6ZEtGUU5IelBhbmFENGJwd2VSMnV1bDBoTy02M1oydnBmQ2V4S20zbnRZeWM2NXY2TDJvbTFQU25DRThRSTlPREk1YmpPZTl2aWdEXzg5elpTenNMNEN0V0gxLU1sTFd1WDRhQUtXNXBWTzNLdDJEUUg3VnN0SXJBSVU0TG03MEJnN2NpLQ?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-06T11:42:00Z"
+          "reportedAt": "2026-09-06T16:14:00Z"
+        },
+        {
+          "id": "report-a37530481796",
+          "title": "Can AfD form Germany’s first far-right state government since World War II?",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYkZSTHpIazluSDhjemU4OUVqeWd3cDFPUEN3N2g0dWluV3hndmNNcS1GYW54TVZrTldlaklCd0EtWHZhOXN2ejFISHNIQzJ1YlpUVU5nMEEzc2pTNF9zUHY3Mk9kVDZCUk1PSEpVV3d1TV9uekNMbFc3OTNnRzlMU0hCYlJYbEhkbTBWVHd0UUw2UdIBlwFBVV95cUxPSE1wcW5vM0g1RzVIMXNjbENFTGwzQjBBYnhYRnVZZWE5VHV3MEVXTlhCVVByZmVLUzdiWVRUZDNadVpNMVJhNVlDb19TejZuU0NNMUFiWVVOUTBrLS0wVVZEYzdMOTVuNEZ5ZHlZR1dEOVViZ1EwZmxfS2FsaHRFZW8xMm5kSEs0WE84T1RvbVBXTlRISG9z?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-06T20:52:34Z"
         },
         {
           "id": "report-6834a311cb7b",
@@ -1486,112 +1603,13 @@
           "reportedAt": "2026-09-05T06:41:00Z"
         },
         {
-          "id": "report-450f7f4efd3a",
-          "title": "Body of convicted war criminal Ratko Mladic returned to Serbia for funeral",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVTBacV9TNVF1QnFDb090OUNicDViU1NtQk9lSUhWVG8zS3VkNFowV1doZy1QMEJ6R1hxVFNxSWM4ekJMdVdhV3pybVZGblFOZFQ3VUZxdEFMb05kdUJ0T3lyMkdnSWpsRzROQ0VyNS1NOHBJRGpOVlpIQ1Y0QkMwcXBhZGM2WWVKMFA1UWRSbw?oc=5",
+          "id": "report-9971a3841fa4",
+          "title": "US tourism groups want to win Canadian visitors back. A testy trade war isn’t helping",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNV2ppQXE4Mm1JWll4UVNwbERpUzVDNzQxbU04cld4ZU02cnVCSDMwZ20ySE9SRXBrWjJZdTJfaU9Xb3lBS2Znc3ZHY2EtdTBsZ01sby11MGlVbGdyU2x5cU13QVp4SURSRXNvajExam5OMl85Vl9HZ3NiTXVkRTJHQXB4eWtVbjY2eDI3ZVRvekgtWl9kRnBxLWpQa2JnUkk?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-05T12:22:58Z"
-        },
-        {
-          "id": "report-762d912cdc46",
-          "title": "Iran says improved ballistic missile shows it will take preemptive action against threats",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaW9PNHFnZGJneDI2Zk5KQUdybFlKMWJzcjhpcGpTN29VQjg0RlB0N0MybWRqeDA2eGtWZ0pkNWNyS3REMVlzMjg3UE5lbGczMzRnM21iVnpxMDZFRlAtRTRYdTlGdzlyMXdETFl6bi10Qjl2Rjg1YUlxRDc1QVo1RXh4OFRDMkVQUDk2cVpnYVRuYlk0OVN3TF9xcWkwcmRwRkRBUzY4S01ZaGRIZHZR?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-07T21:24:00Z"
-        },
-        {
-          "id": "report-1cc1f6c091ae",
-          "title": "Iran touts military response as US maintains blockade, hits tankers",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaXd6SjRYNFpkcjM2M1JweThUd0QxbW55eE5FRERDSkFVYTBtd0pPMUM2VVpYVGhMR2tweHJWd3dmT2ZmWHBZZ09UVVJSOWQ3bFY1b1FSTTg4UzE2YjA4RzNsaVJoZHFvekNCdXhwWEVSV185MWNBTUVSaG12d09XTlQ2eTdJS0MwYzRNWjJaSXBBcUZnSWwxbnpPN1h6STFURjNCNHZ5dUE0UdIBrwFBVV95cUxPZ2dOX0VHTGtIRmF0UGdHTkFnb2QyZnRCX2p1ZUVWdUpWRG1jY2ljc3V6R091eEJHTkNldGc5SHlaamZVamZnY3RZbHBMeGRsY3F0ejFzTkN4SXVUUUhyNWRjTU9QN3FDZWozblFzdzd6Wmd5RjUyXzNzZ19jRUNfanZZSlhpSm5MX0J2T21HTGlaNWJiUmN3SXNqZkpwaUxsZ1FHZkRJS1RjZWpacUxN?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-06T16:28:45Z"
-        },
-        {
-          "id": "report-7a6abb1c7701",
-          "title": "US denies that Iran struck an uncrewed US military ship in the Strait of Hormuz",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVktrNjVBTENONHRoZVB6OGRsQUxBSUdhZkFydmlOM3ZvVWRCRXVUUW85dGxNZ2VrMXkxZUpnVnpVMlNLZkpMWkRVTFJ2VVhSYXZCT1RmcEtYRTRjQmU5dTdCSzA4TDk4WkhJOWRiVUNxSFRKdHJmcTgxYWNEQy01eUVpY2Z5bHZpYl9sakVNcDBLal9BMkpCWWlKSEpMdw?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-06T10:09:53Z"
-        },
-        {
-          "id": "report-2dbe0ddb4822",
-          "title": "Watch: How much can Canada fight back in its trade war with the US?",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE43NmhBcl9qV2RrelV6M2hGYTBXckgzM21Lbm92aHlaQm9DUmp3bjlkR0FhcFZCMWJxNmw0dlRUYWliWmxEYTRpUS12QXUtMVBENlBTaHFSaw?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-05T02:13:21Z"
-        },
-        {
-          "id": "report-cee38558578d",
-          "title": "Iran war: How US consumers spent an additional $100bn on fuel",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUXk3UFV5SW1td09PamY5NEI0ejRlRWo5RUJ5bVBXUUEtZVRNNjRNOFhOZ0NlQzU0akRTT0cxZENGS1o2OHB5Y0ZReWYwZDNpQkl6YXA4Q0w2d0VwNlhTZmlJQllGQW5saEZoYVlqUGdBN2F4T2gzTDViaExabEpEUUNEUFhQelVudEVfdkVUTExJSDIwTEluQlFGc3U2NXdR0gGmAUFVX3lxTE51S3dUTzh4SlBVMkZmOWNlZmVBY1VMdlZsM2Q2dEZpeHp6TWd6Sm1NOUVYNVU0dU16UEdITTNoeG1uU1A1V19SZktVem9ETXdBUGx1UnIzWVJpOGJGbnRmUHowLWJvX0lTZGEzWVZtT3Y3c2p4YmVjYm5uY2hYaTNHUVpiamRTZzNJSGZlT2xfdEtEbTduLUlrZlRTLXJfc3V0TDdmS1E?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-07T10:27:54Z"
-        },
-        {
-          "id": "report-839351ce30f6",
-          "title": "Women gathered in a small Iranian town for a wedding. Then deadly strikes hit",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY2xzWXdBZkx3dWN5b05TSjV4S210aU1qZ2hDR2JxYnVuTnNFY01sU2NKNjdoTW44bFp5SGhHQUEwc0VseHlvZ3dpUllBT0Y3RUo0bzZMWU9GbFlDWG1PNUFUN2xReGFfNVRJR25IMjRYa3pETEt2ZDJsVy1nN0djZndyMjM5MzUzUW0tTUZ5Q0M?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-05T07:50:00Z"
-        },
-        {
-          "id": "report-7de902b35410",
-          "title": "Israeli airstrikes on a village in southern Lebanon kill 12 people, including 2 children",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTVJ6MDlUWURyZnpLVFdqMnRudnh0bjRaYXlYdHFVLUtPQkhXLVR1Vk1XV3Z0UVF6cFBfRXd5TnBIQ1BHeHNkdm5DdmZCVEE5ZUgzVVBsRU5RSF9YMFZGVDNzcXAxTkQ0b0Y3Rmo1RWdMaG5qZ2h0VVR4Q29NYUZ5V2N1M1pHOGJIWXhhSkNYRVRqeFVDZUFuaEFHd3JBdw?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-08T00:53:00Z"
-        },
-        {
-          "id": "report-20b5855158b8",
-          "title": "Could Trump’s Iran trade war threaten Spain’s saffron-infused paella?",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTEpaRDN5N0xhSkIwclBqNTlTTVVLa2FjRWktQW5LOUZDR2dNbkJRSjR5dlYzMkd4YnBLWHBYaHE2dWN6Y1BlZ2NZLTNNMm1DM3FsZmFydlRfV3lQSlNvakFycUduNC1aLTJGUVhIa3dTcHZsX2RWdExYOHFOem94Y0tPZndrWXhRNnBNbFFIXzkwZmpVQVA3Sml1ZWlNbkRPV0xwNnJDVmQ5Z9IBrwFBVV95cUxOc2gwMzBTamNMcTZfWTBudThCNVJ3ZEs1M0lBX1FOWXNBWHpVcmdlRUxLM3RzaWpmSlh1NGNsa1NjODZfY3BjVm92Wmp5cHd0TjBSV0pFWXdLbS1PYnF6N21pMkVqWkkyYnlqaW5OYnBSYzIwMUpOZkNKVkpDQVB2c0NEYjdmWkNjb3ZUTi13RWMyXzZfR1MxbXo5aV90VmlhVUlfN0ZZRUJ5RjkyQ0g0?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-07T12:03:10Z"
-        },
-        {
-          "id": "report-40e02a659de8",
-          "title": "North Korea deploys warship ‘capable of annihilating retaliatory strikes’",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOC1weVRfdkdkamhvVG0zNTlmYjZEeFVRYVFNdFpnUWt0NVJUVVhsdGg0bmVjMDc1ZW44eEpWTVU1NWltb0h1NGY3UWVCNDllMGp3eC1MS2paUDlZS2w2SXIyV2JkTkFueDZpY2xpVXZFUS1QUGxhcTVOc25rSElYcENCQXVtTzdwSUFISmRGYjNGdk4zZ2JqekhDUVR0YlVuZ1VJUnB0MmFxQUZ4ZXF5cNIBtgFBVV95cUxOOE9MWmJMZm1SUmxnalZPbnJma3M3ak00Z3h4UXhjNEpJSEc1ZE13Y0hYWFB5UjJXSVZ3U2w0SjFXci16T1pxWThYZVJVS19UTk9FR3pFandSdkVmcVh0aHhwZEE4MUlqX1VLN3MySkVtY0tRNGRLbmFBRHZORXotZXZGNi1WYS1ubEhwWElIa1NCemdsRmo4VGg4Y0hQd05rMXhaa2M0U3F0aHhaU19ZajBPX0pLdw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-07T07:03:14Z"
-        },
-        {
-          "id": "report-2616d3887218",
-          "title": "Red Star fans unveil tifo of war criminal Mladic before derby",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RVmhVRW14ZnBuY29ybjNDRExvVzZuSFJBTDBzcFdra1o2Q2dIeTBjQjFtUTY0RU9IMTY0bXVHVGVab1lqVVZ4Z3pSX0M3TFVaanFlUWFfcVhzbE9DQUxYYWlvRWJka00?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-07T11:35:38Z"
-        },
-        {
-          "id": "report-a37530481796",
-          "title": "Can AfD form Germany’s first far-right state government since World War II?",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYkZSTHpIazluSDhjemU4OUVqeWd3cDFPUEN3N2g0dWluV3hndmNNcS1GYW54TVZrTldlaklCd0EtWHZhOXN2ejFISHNIQzJ1YlpUVU5nMEEzc2pTNF9zUHY3Mk9kVDZCUk1PSEpVV3d1TV9uekNMbFc3OTNnRzlMU0hCYlJYbEhkbTBWVHd0UUw2UdIBlwFBVV95cUxPSE1wcW5vM0g1RzVIMXNjbENFTGwzQjBBYnhYRnVZZWE5VHV3MEVXTlhCVVByZmVLUzdiWVRUZDNadVpNMVJhNVlDb19TejZuU0NNMUFiWVVOUTBrLS0wVVZEYzdMOTVuNEZ5ZHlZR1dEOVViZ1EwZmxfS2FsaHRFZW8xMm5kSEs0WE84T1RvbVBXTlRISG9z?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-06T20:52:34Z"
+          "reportedAt": "2026-09-06T11:42:00Z"
         },
         {
           "id": "report-d58b8d74b066",
@@ -1619,24 +1637,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-05T08:59:00Z"
-        },
-        {
-          "id": "report-d5bb4f2b0e27",
-          "title": "Israeli attacks on Gaza kill five Palestinians, including two children",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSm9wc1BFckFKSG94bHl3SFdlcTFLLTBqanBYVm1hV2U4ZWxVaEp5bER0UHMya1ptNnEyNGFzeldiYkdzc2g4am9pSXFHTTVWR3JzbDhtQnR0WF9UZmhRb1hweGlBMXNaSWhyTkF1c0VoNVBHb1VPeU5fdXlpUVhMV0dLOHVyRFlYdDlGWmRsbVI0VG01YUVtV1VaMWU2Mm1QLUJ2dGRXTy01MzlHUkHSAbMBQVVfeXFMTU02VWVHN2JWU1RpSjg5czF0V2hrYzNiblI5U3FmQVE4eWFQRnl1TzdoX0tfN1dsNTBWSTRJWXkyaUdlUzV2V2R5amh1TndfUHNVbF80bWM3cHpaT1lsOXlNRkRUbFNNc19XeGMyLU5tc3lJYUxtYTFDRWdnNXdWUWNzLVRGeEdUb0dkd1FvNHFqN2hhQjh2RUdtZGhLUF9xQ0gwTE1xN1BOTFNvaE9ldGU2b1U?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-07T13:55:13Z"
-        },
-        {
-          "id": "report-252ae44ca276",
-          "title": "Philippines warns China may reassert itself amid US-South Korea drill cuts",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdzFLRlVwZ3dIZHFIN1I5cUEzbVdydHhQemNMYXRZRU01VWtLcXFYN3FYdWpvMXNKQ2xXbFpkQTFmWDhsZVhUYWRFeDNGdnN6OHZra09OajdGX3lwRDF0Y2l5UklDN2tRemRXOTB5ejlRTlpKMkZfelNvaHhpTWJPeUE3NGdWV3d4MVlFM0NzVjR3VWNSYm5ydXpGdXpuUHdjelAtMFVodzExYU5Gb3VYSFdyWnXSAboBQVVfeXFMTjRHUTYyUlZqX21Ra1pWVXpEbDJ0SF94QlhNN1BWdzItYjhTWGdGcVJMZFZlQy1KTXduVzlvZmhpR01QNGlIRkRBMkRnSnc5VEhONDhnSmJ2c29YTWVud2hfNHZQYklnS3F6TFBNNnpNZUV6dTVhYk5adkwycEtoRlc5d3Z3aXlBbkJYVGRpR0lGQkJVMlBZbk9pZTgxVkZObThIR3BUQ2lPZldmM0ZJby1tcDhveGNKZFNn?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-07T04:17:29Z"
         },
         {
           "id": "report-defc72fd3c7f",
