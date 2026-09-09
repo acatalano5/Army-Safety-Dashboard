@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-09T16:38:29.489Z",
+  "generatedAt": "2026-09-09T18:52:12.495Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -9,7 +9,7 @@
       "items": []
     },
     "safety": {
-      "generatedAt": "2026-09-08T18:59:21.380Z",
+      "generatedAt": "2026-09-09T18:52:12.495Z",
       "cadence": "daily",
       "items": [
         {
@@ -29,19 +29,19 @@
           "pinned": false
         },
         {
+          "title": "US soldier dies in fiery crash on German highway",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ0QtVDN6TDYxa1VodE14UzJlUXl5WWRhNmc4T2NaZ3loSXBTdVRqNFJHNVNlYmlDenota243ZjJqaDl5MjBuMm10R0VILVFBWVhla085SWtHcGd6V2RidnJBdkxWMlB2QmZ3dzMxMHA0MVNyd3BGaEtfcU5CaWxDRzdwTTZjV0xfMXkzalllRXcxU0ZXOVk4aQ?oc=5",
+          "domain": "stripes.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260828T070000Z",
+          "pinned": false
+        },
+        {
           "title": "A Lasting Lesson: What the Rotak CH-47D Crash Teaches Us About Crew Discipline",
           "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUTdMM2hwSUw3Szk1Y3VpOVFRTjdQdnJmZzZaZWp6N3JzbjJpa3ZES0JyVm0za3Y4Z05zUmptck9FbHRCU2JyOVVFQTdVNC1nYUxEWEVQY2FRenhZWEI5YjVpS0ZTLW9NdWJyWWtpSU92dXQ2eVVMcHZGT18xdEVvc05YUWV3a2tHS1YyYldKRDlhel9zN3hGY0dUaTk4WDVGN1hGWm5DOUQtbFNiWGlHdktOb1htbDF6blNnV0JLbUY2S2RJX1hkbVMxaWxWRm1jcHVFcm5OZ2R1VXZTc0w1NnBNWWJ1UC1CZmYzV0hNaUY?oc=5",
           "domain": "safety.army.mil",
           "sourceTier": "Official military source",
           "seen": "20260823T090700Z",
-          "pinned": false
-        },
-        {
-          "title": "Air Force officer killed in remote Alaska crash was a ‘positive leader’",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yMTM3UTdNeXVhbVFBc2JTWDN4QzVJTG5sSk43aGh3a0FtRXI5dHgycy04dEhFUnBkSFd4NDUxNFkzQmZ0eXRRR29KTDNKV1FValItZzBoa25MNGI0WmhIOVVwZVhkZkk?oc=5",
-          "domain": "taskandpurpose.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260825T070000Z",
           "pinned": false
         },
         {
