@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-09T11:22:43.835Z",
+  "generatedAt": "2026-09-09T16:38:29.489Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-09-09T11:22:43.835Z",
+      "generatedAt": "2026-09-09T16:38:29.489Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -1209,7 +1209,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-09-09T11:22:43.835Z",
+      "generatedAt": "2026-09-09T16:38:29.489Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -1229,11 +1229,11 @@
           "pinned": false
         },
         {
-          "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YNWJtUDJmUXdQb2JLMUZpVFNTU3llRTdfSHkzQWVPMjdfb3lJM0RhaTJBWk51RDY4QWlQS3IzemgyeU1EcXBVMkRlVXlySHZzQWFRcFZ0eVFXdw?oc=5",
-          "domain": "bbc.com",
+          "title": "Nigeria, Boko Haram reportedly reach secret three-month ceasefire",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUjJ0amZzbmp3b2I1UFhIWTMzc2pXendGQm5LcGYxcUJLZWpod21uWl9rZ0JBOVZpRDl2RVcxcTNiNjN0TTBFTlNfaVJWcXRILVJEYmdkblUyWFBxSkxKSmNEOHdwWEdVbUd3YnY4cGhwUV9KUEdtclE1NEhJXzZDMWNZRUtEdTFVMkhoYkVXR0Vmb2tJVUNRTWk1d2dVamhSOFBRMVk0ONIBrAFBVV95cUxQeDdubTJQeXNZQm5lRVlVTTNPOTl0UDgxbzcxU0o2Mm82b3NvNnZZQUZTdXpya2JjVm5MU3BDeFA3OExxQXIxU2E1OXNhY2hjazdzc3A5dEpxbkQwUVJXZS1LNGF0Rklad2Q2RTF0Yl9KLXVqMk9UUy01c2U1SGs1LVhyQlBub183LTJQQkV6MXdqVG1XU19Gc1hFYVczNDJhcXkyVllmM2pRaHdy?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260909T094739Z",
+          "seen": "20260909T134539Z",
           "pinned": false
         },
         {
@@ -1242,6 +1242,14 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260907T155002Z",
+          "pinned": false
+        },
+        {
+          "title": "The war in the Gulf will have to end in compromise",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLUtjN2RWaE5RWUtnX2tUQjhzb2Y3VXVfN2tDTjE5bDdOMlJpdkN2X2dReldzMF84Skd5V09nODZPTHB0emFqcmo0TWpJUnRHaFdHeFBoRnN4dWg4U3NKVEJRZ1JOazVfMUN0eGxPWTNaZzZRMkJ2MGZBV3FyeHY3d3JsZEZwTURvY0xQSmUzekhDSXc0cEVnLTJ30gGfAUFVX3lxTE1MbzR1Zk8yUGNGTF9ZYzkyWW9xel9pdTZobV80cDdVZVBXeHZpTUV6OHl0ak5XSEhra0gtZ1ZuUm9FT3ZFSjZJcU5RYV90WlNjMzV0bXowOWRaS1JkSHh3THo4Tm5XSGlSN294cE9UVVdWZHVPOG9FcDBjX3d3WmEyTmY0Nlk0dnFGVkREalFfckd4bjJHUDduaTlmV2FpUQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260909T104854Z",
           "pinned": false
         },
         {
@@ -1285,14 +1293,6 @@
           "pinned": false
         },
         {
-          "title": "Hegseth is shaking up the Pentagon as the US wages war - but at what cost?",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4bkdJMVVCOHFBT3ZLY0thaXNyR2stemRwNzVjWE5sR0xpVjU3blJOcU9yWkRPWmxlOE5mNGJDSURJX1ZfelRObUp5TUNjVHhDekJOTTFTNXl2Zw?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260908T231141Z",
-          "pinned": false
-        },
-        {
           "title": "Global Experts Reflect on the Legacy of the War on Terrorism",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPX1p0UmtHcnlSMkc5TzhFb1kwSFE1dEJ1NUJQNlVXZWJueG5EaUtPcUtlaC1yT3NwZTB3SGNacVVzRTQ3T1JtWVR3OWxlMVdCZWxmbWdzX2xmN29DMk91R2UwU2ZIVUNYbC0zZHlNV3FpSjNxd2tlWlp6dlZRbnFZZnZHUUdNRWJPMFdpaG95aUFtakJSU3ZpdU1tb2NRdUJWVHE4dEdfNHdzZmRpYW5pN2NvNmxlRFNlZWxGVQ?oc=5",
           "domain": "cfr.org",
@@ -1306,6 +1306,14 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260908T143518Z",
+          "pinned": false
+        },
+        {
+          "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YNWJtUDJmUXdQb2JLMUZpVFNTU3llRTdfSHkzQWVPMjdfb3lJM0RhaTJBWk51RDY4QWlQS3IzemgyeU1EcXBVMkRlVXlySHZzQWFRcFZ0eVFXdw?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260909T094739Z",
           "pinned": false
         },
         {
@@ -1326,10 +1334,26 @@
         },
         {
           "title": "Saudi Arabia says 73 wounded as Houthis attack civilian and energy sites",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNelpMMWdSSTBNZG5rSnpCMmk5MnVUNGNIR1lvVTQ0X20zUFFIYUdheDN0QzFoRm15VGdmNmlvUi1rUHRJWkRqMXdPTFJwQ3FzUTFPWlpPNGFtNjI5UGE0U1c3azQyanhLdTdvMTZXcGJSYXMzVWczU0pwUU5GLXcxOXZ3dGpuMUplbm9NRzZuV0ZuUGV2SnB5OERyRXVENHpXNWxtSFk1SFpEazFBdVVV0gG0AUFVX3lxTE81M3laVXFBWllCdmJvOFZhQ2J1TjlPVFpNRzdGa2xLNktBSUhJYjlHYU9CLWlaVFNCNmMwOXRZd2doTU9UWTdxV1hZQ2FQWVFSUlBzYVVVX3hWaFNCRXJSRHY0TWc2aFkxNk96TUhwTi1POGdQNlZvTkd4Z3IxeU8xWmpoNmdFVTd3QzUyR3hxUnRjYUFQeGZoQ3FOa0pUWlhhWEVCLTNGRVlJaVdnTFdzUGZ3Rg?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNelpMMWdSSTBNZG5rSnpCMmk5MnVUNGNIR1lvVTQ0X20zUFFIYUdheDN0QzFoRm15VGdmNmlvUi1rUHRJWkRqMXdPTFJwQ3FzUTFPWlpPNGFtNjI5UGE0U1c3azQyanhLdTdvMTZXcGJSYXMzVWczU0pwUU5GLXcxOXZ3dGpuMUplbm9NRzZuV0ZuUGV2SnB5OERyRXVENHpXNWxtSFk1SFpEazFBdVVV?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260908T124451Z",
+          "pinned": false
+        },
+        {
+          "title": "Yemen war escalates: Who are the key actors involved?",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNX0xLaEVoaU9RX3V5VmdmWUJtMXE0NWp0dTRWMnRYMDZoSDVfZ2xRTzNicUZLblYyVW9oZk1PVlNXVkJkV21HNW1DaGZKWjVyN3lmRW1kS09zdDk5TVBmV1M3WEFVd04wWk9iWUZ3aG1fSlpQYU53bWFiWndiTklaODVtZmFoZkFXRVNoZmpSVFVVQXlJNWfSAZsBQVVfeXFMT3RCQkVib2ZUMlhTUjBXbmROVkdYVFZjaDNOODVKOHpmcHY1MDhHQ0lMQTRGOFRfVzRjYWNYMUlNNEE1ZmpZOWxrTThIRWFGblBVVXRPWV9jeEJpWVZxN2hraWhLWDFMcE5qeU1CUGpZSFVSYk1oMDBhUjlGRjRpT19YOEc3ZmRRZjE1My1SSG9pN1N2T3I0aW8yeUE?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260909T104854Z",
+          "pinned": false
+        },
+        {
+          "title": "Hegseth is shaking up the Pentagon as the US wages war - but at what cost?",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4bkdJMVVCOHFBT3ZLY0thaXNyR2stemRwNzVjWE5sR0xpVjU3blJOcU9yWkRPWmxlOE5mNGJDSURJX1ZfelRObUp5TUNjVHhDekJOTTFTNXl2Zw?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260908T231141Z",
           "pinned": false
         },
         {
@@ -1365,14 +1389,6 @@
           "pinned": false
         },
         {
-          "title": "EU condemns Serbia’s ministers for attending funeral of war criminal Mladic",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPY1pYNmQyNm1YaVE4c0EwWHZOc3JESGFtWjc5MFJCR2tLb2g1M3NFLTBjS3dfclZUMXkwT3FkWHlrUU5hTDN6Z2laRmdCOXFOeFo3WGVwVVdZVk9CZjQ2UEhhZDJKYXRNSkNJcnFZeW5CR1hoX1F2QU5hT1F2MlNsdExDNHFIS3I5NV9XbjUzcXU2SUZXZTJMVGZOT2wtMlhpeVU5c1l1OEI5VUp5ajBVV190eDTSAboBQVVfeXFMT0JwQThPZ3hwZUF2ZGNuOUQ0bjA1NktWVVktNHpzWUdxcDV0YXdpeE4tcUx0aUZaRkFZUXJ1Mm9lSzNuRXdQQkJjQ1k0SE9YbkZCemhUOGJwNUZlbkFsQi1hU1I3X29BZzR5QjhsQlVRZlpyR1h4R3lTcjhrRnhVREFMMkx0cjZBSzdZaGtzUkNnQlBKTmVHZktZM0VwaExhYXZNbnZycnZtdENjS1RsNXF2cnVVQjItZ1B3?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260908T150449Z",
-          "pinned": false
-        },
-        {
           "title": "North Korea deploys warship ‘capable of annihilating retaliatory strikes’",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOC1weVRfdkdkamhvVG0zNTlmYjZEeFVRYVFNdFpnUWt0NVJUVVhsdGg0bmVjMDc1ZW44eEpWTVU1NWltb0h1NGY3UWVCNDllMGp3eC1MS2paUDlZS2w2SXIyV2JkTkFueDZpY2xpVXZFUS1QUGxhcTVOc25rSElYcENCQXVtTzdwSUFISmRGYjNGdk4zZ2JqekhDUVR0YlVuZ1VJUnB0MmFxQUZ4ZXF5cNIBtgFBVV95cUxOOE9MWmJMZm1SUmxnalZPbnJma3M3ak00Z3h4UXhjNEpJSEc1ZE13Y0hYWFB5UjJXSVZ3U2w0SjFXci16T1pxWThYZVJVS19UTk9FR3pFandSdkVmcVh0aHhwZEE4MUlqX1VLN3MySkVtY0tRNGRLbmFBRHZORXotZXZGNi1WYS1ubEhwWElIa1NCemdsRmo4VGg4Y0hQd05rMXhaa2M0U3F0aHhaU19ZajBPX0pLdw?oc=5",
           "domain": "aljazeera.com",
@@ -1381,27 +1397,11 @@
           "pinned": false
         },
         {
-          "title": "War criminal Mladic is buried as a hero in Serbia despite EU warnings",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOTF0c19ZZUlPT1RaakxDV0hhTFoxQndCQmNreVU1OTBMTjdpTE1mams1bDdCdHAxOWVCRDJIbWJwMTFFYjdHXzktUmlsTWhPY3lKME5KYWpFMXBvUi1zN3R5WVpEVWlVOVNCT3lWVnhnNktnTFk5OXFsYUtYeGhMX29SVm9QMndjNTJSMHl6WjRrSTBMTS1weUE5bkxScUJGbS1mTkdvNGdrNGxl?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260907T133300Z",
-          "pinned": false
-        },
-        {
           "title": "At least five people killed in Russia’s attacks on Ukraine’s Kyiv",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaEhXSHNycHhKQldXbnlyVks3dUh0NDZIbHB2YU43MXkxaXdaZVg2NHZIelJ4emhyZk9PVWZiUzRwcUxONDd2VnRwVC00Z0toeXZvNE84aUpxZ2I2MUdVRFhQT0tqUmJkc3NHRHMtVnE1dmk5dlZvQXBlSVQ2V28xM0NZajhDTFpRdEhKYjcxdlQ2ZFNpRFphalBjMDlQQ2ZTemdhR0ZWR2QxZ9IBrwFBVV95cUxPX0VZRUtqcjA2cWRYN19LdEpzRFJTWlRfdHo4c29qSGloM2hoME5KU01Fb1JhNDl0eDhrN1B1WmxBeVFVMkJ6Z0FVTUZkN0lMXzdVb3JTblJpT0Q5SlRoQVJBTmlzMUFBWDJSTFdUendRYnFXV3JjRXVDZEg4cHRCRF9ENW15Z1VjdG5obkdFV2QtcVVEQi1mVWFrSmlmTVNSMXdWaVRhTkEySkNpc3kw?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260908T183446Z",
-          "pinned": false
-        },
-        {
-          "title": "The Iranian school struck in the war’s earliest attacks is now a memorial for children",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZmVWR3VKRGlScmN6ZEtGUU5IelBhbmFENGJwd2VSMnV1bDBoTy02M1oydnBmQ2V4S20zbnRZeWM2NXY2TDJvbTFQU25DRThRSTlPREk1YmpPZTl2aWdEXzg5elpTenNMNEN0V0gxLU1sTFd1WDRhQUtXNXBWTzNLdDJEUUg3VnN0SXJBSVU0TG03MEJnN2NpLQ?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260906T161400Z",
           "pinned": false
         }
       ],
@@ -1425,13 +1425,13 @@
           "reportedAt": "2026-09-07T17:38:00Z"
         },
         {
-          "id": "report-4e0aabaee1f1",
-          "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YNWJtUDJmUXdQb2JLMUZpVFNTU3llRTdfSHkzQWVPMjdfb3lJM0RhaTJBWk51RDY4QWlQS3IzemgyeU1EcXBVMkRlVXlySHZzQWFRcFZ0eVFXdw?oc=5",
-          "domain": "bbc.com",
+          "id": "report-b7a742b514e1",
+          "title": "Nigeria, Boko Haram reportedly reach secret three-month ceasefire",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUjJ0amZzbmp3b2I1UFhIWTMzc2pXendGQm5LcGYxcUJLZWpod21uWl9rZ0JBOVZpRDl2RVcxcTNiNjN0TTBFTlNfaVJWcXRILVJEYmdkblUyWFBxSkxKSmNEOHdwWEdVbUd3YnY4cGhwUV9KUEdtclE1NEhJXzZDMWNZRUtEdTFVMkhoYkVXR0Vmb2tJVUNRTWk1d2dVamhSOFBRMVk0ONIBrAFBVV95cUxQeDdubTJQeXNZQm5lRVlVTTNPOTl0UDgxbzcxU0o2Mm82b3NvNnZZQUZTdXpya2JjVm5MU3BDeFA3OExxQXIxU2E1OXNhY2hjazdzc3A5dEpxbkQwUVJXZS1LNGF0Rklad2Q2RTF0Yl9KLXVqMk9UUy01c2U1SGs1LVhyQlBub183LTJQQkV6MXdqVG1XU19Gc1hFYVczNDJhcXkyVllmM2pRaHdy?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-09T09:47:39Z"
+          "reportedAt": "2026-09-09T13:45:39Z"
         },
         {
           "id": "report-2c600eae9910",
@@ -1441,6 +1441,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-07T15:50:02Z"
+        },
+        {
+          "id": "report-5da9ccd405c7",
+          "title": "The war in the Gulf will have to end in compromise",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLUtjN2RWaE5RWUtnX2tUQjhzb2Y3VXVfN2tDTjE5bDdOMlJpdkN2X2dReldzMF84Skd5V09nODZPTHB0emFqcmo0TWpJUnRHaFdHeFBoRnN4dWg4U3NKVEJRZ1JOazVfMUN0eGxPWTNaZzZRMkJ2MGZBV3FyeHY3d3JsZEZwTURvY0xQSmUzekhDSXc0cEVnLTJ30gGfAUFVX3lxTE1MbzR1Zk8yUGNGTF9ZYzkyWW9xel9pdTZobV80cDdVZVBXeHZpTUV6OHl0ak5XSEhra0gtZ1ZuUm9FT3ZFSjZJcU5RYV90WlNjMzV0bXowOWRaS1JkSHh3THo4Tm5XSGlSN294cE9UVVdWZHVPOG9FcDBjX3d3WmEyTmY0Nlk0dnFGVkREalFfckd4bjJHUDduaTlmV2FpUQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-09T10:48:54Z"
         },
         {
           "id": "report-59712b48d850",
@@ -1488,15 +1497,6 @@
           "reportedAt": "2026-09-09T02:57:00Z"
         },
         {
-          "id": "report-b84a6a1af917",
-          "title": "Hegseth is shaking up the Pentagon as the US wages war - but at what cost?",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4bkdJMVVCOHFBT3ZLY0thaXNyR2stemRwNzVjWE5sR0xpVjU3blJOcU9yWkRPWmxlOE5mNGJDSURJX1ZfelRObUp5TUNjVHhDekJOTTFTNXl2Zw?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-08T23:11:41Z"
-        },
-        {
           "id": "report-b0ae93127433",
           "title": "Global Experts Reflect on the Legacy of the War on Terrorism",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPX1p0UmtHcnlSMkc5TzhFb1kwSFE1dEJ1NUJQNlVXZWJueG5EaUtPcUtlaC1yT3NwZTB3SGNacVVzRTQ3T1JtWVR3OWxlMVdCZWxmbWdzX2xmN29DMk91R2UwU2ZIVUNYbC0zZHlNV3FpSjNxd2tlWlp6dlZRbnFZZnZHUUdNRWJPMFdpaG95aUFtakJSU3ZpdU1tb2NRdUJWVHE4dEdfNHdzZmRpYW5pN2NvNmxlRFNlZWxGVQ?oc=5",
@@ -1513,6 +1513,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-08T14:35:18Z"
+        },
+        {
+          "id": "report-4e0aabaee1f1",
+          "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YNWJtUDJmUXdQb2JLMUZpVFNTU3llRTdfSHkzQWVPMjdfb3lJM0RhaTJBWk51RDY4QWlQS3IzemgyeU1EcXBVMkRlVXlySHZzQWFRcFZ0eVFXdw?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-09T09:47:39Z"
         },
         {
           "id": "report-1cc1f6c091ae",
@@ -1533,13 +1542,31 @@
           "reportedAt": "2026-09-09T02:16:00Z"
         },
         {
-          "id": "report-ea87a08b4e38",
+          "id": "report-9d69bea23f2e",
           "title": "Saudi Arabia says 73 wounded as Houthis attack civilian and energy sites",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNelpMMWdSSTBNZG5rSnpCMmk5MnVUNGNIR1lvVTQ0X20zUFFIYUdheDN0QzFoRm15VGdmNmlvUi1rUHRJWkRqMXdPTFJwQ3FzUTFPWlpPNGFtNjI5UGE0U1c3azQyanhLdTdvMTZXcGJSYXMzVWczU0pwUU5GLXcxOXZ3dGpuMUplbm9NRzZuV0ZuUGV2SnB5OERyRXVENHpXNWxtSFk1SFpEazFBdVVV0gG0AUFVX3lxTE81M3laVXFBWllCdmJvOFZhQ2J1TjlPVFpNRzdGa2xLNktBSUhJYjlHYU9CLWlaVFNCNmMwOXRZd2doTU9UWTdxV1hZQ2FQWVFSUlBzYVVVX3hWaFNCRXJSRHY0TWc2aFkxNk96TUhwTi1POGdQNlZvTkd4Z3IxeU8xWmpoNmdFVTd3QzUyR3hxUnRjYUFQeGZoQ3FOa0pUWlhhWEVCLTNGRVlJaVdnTFdzUGZ3Rg?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNelpMMWdSSTBNZG5rSnpCMmk5MnVUNGNIR1lvVTQ0X20zUFFIYUdheDN0QzFoRm15VGdmNmlvUi1rUHRJWkRqMXdPTFJwQ3FzUTFPWlpPNGFtNjI5UGE0U1c3azQyanhLdTdvMTZXcGJSYXMzVWczU0pwUU5GLXcxOXZ3dGpuMUplbm9NRzZuV0ZuUGV2SnB5OERyRXVENHpXNWxtSFk1SFpEazFBdVVV?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-08T12:44:51Z"
+        },
+        {
+          "id": "report-076f2a0c1da5",
+          "title": "Yemen war escalates: Who are the key actors involved?",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNX0xLaEVoaU9RX3V5VmdmWUJtMXE0NWp0dTRWMnRYMDZoSDVfZ2xRTzNicUZLblYyVW9oZk1PVlNXVkJkV21HNW1DaGZKWjVyN3lmRW1kS09zdDk5TVBmV1M3WEFVd04wWk9iWUZ3aG1fSlpQYU53bWFiWndiTklaODVtZmFoZkFXRVNoZmpSVFVVQXlJNWfSAZsBQVVfeXFMT3RCQkVib2ZUMlhTUjBXbmROVkdYVFZjaDNOODVKOHpmcHY1MDhHQ0lMQTRGOFRfVzRjYWNYMUlNNEE1ZmpZOWxrTThIRWFGblBVVXRPWV9jeEJpWVZxN2hraWhLWDFMcE5qeU1CUGpZSFVSYk1oMDBhUjlGRjRpT19YOEc3ZmRRZjE1My1SSG9pN1N2T3I0aW8yeUE?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-09T10:48:54Z"
+        },
+        {
+          "id": "report-b84a6a1af917",
+          "title": "Hegseth is shaking up the Pentagon as the US wages war - but at what cost?",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4bkdJMVVCOHFBT3ZLY0thaXNyR2stemRwNzVjWE5sR0xpVjU3blJOcU9yWkRPWmxlOE5mNGJDSURJX1ZfelRObUp5TUNjVHhDekJOTTFTNXl2Zw?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-08T23:11:41Z"
         },
         {
           "id": "report-894ebea8e1c6",
@@ -1578,15 +1605,6 @@
           "reportedAt": "2026-09-07T12:03:10Z"
         },
         {
-          "id": "report-b0b21661736e",
-          "title": "EU condemns Serbia’s ministers for attending funeral of war criminal Mladic",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPY1pYNmQyNm1YaVE4c0EwWHZOc3JESGFtWjc5MFJCR2tLb2g1M3NFLTBjS3dfclZUMXkwT3FkWHlrUU5hTDN6Z2laRmdCOXFOeFo3WGVwVVdZVk9CZjQ2UEhhZDJKYXRNSkNJcnFZeW5CR1hoX1F2QU5hT1F2MlNsdExDNHFIS3I5NV9XbjUzcXU2SUZXZTJMVGZOT2wtMlhpeVU5c1l1OEI5VUp5ajBVV190eDTSAboBQVVfeXFMT0JwQThPZ3hwZUF2ZGNuOUQ0bjA1NktWVVktNHpzWUdxcDV0YXdpeE4tcUx0aUZaRkFZUXJ1Mm9lSzNuRXdQQkJjQ1k0SE9YbkZCemhUOGJwNUZlbkFsQi1hU1I3X29BZzR5QjhsQlVRZlpyR1h4R3lTcjhrRnhVREFMMkx0cjZBSzdZaGtzUkNnQlBKTmVHZktZM0VwaExhYXZNbnZycnZtdENjS1RsNXF2cnVVQjItZ1B3?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-08T15:04:49Z"
-        },
-        {
           "id": "report-40e02a659de8",
           "title": "North Korea deploys warship ‘capable of annihilating retaliatory strikes’",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOC1weVRfdkdkamhvVG0zNTlmYjZEeFVRYVFNdFpnUWt0NVJUVVhsdGg0bmVjMDc1ZW44eEpWTVU1NWltb0h1NGY3UWVCNDllMGp3eC1MS2paUDlZS2w2SXIyV2JkTkFueDZpY2xpVXZFUS1QUGxhcTVOc25rSElYcENCQXVtTzdwSUFISmRGYjNGdk4zZ2JqekhDUVR0YlVuZ1VJUnB0MmFxQUZ4ZXF5cNIBtgFBVV95cUxOOE9MWmJMZm1SUmxnalZPbnJma3M3ak00Z3h4UXhjNEpJSEc1ZE13Y0hYWFB5UjJXSVZ3U2w0SjFXci16T1pxWThYZVJVS19UTk9FR3pFandSdkVmcVh0aHhwZEE4MUlqX1VLN3MySkVtY0tRNGRLbmFBRHZORXotZXZGNi1WYS1ubEhwWElIa1NCemdsRmo4VGg4Y0hQd05rMXhaa2M0U3F0aHhaU19ZajBPX0pLdw?oc=5",
@@ -1596,15 +1614,6 @@
           "reportedAt": "2026-09-07T07:03:14Z"
         },
         {
-          "id": "report-76e016addfad",
-          "title": "War criminal Mladic is buried as a hero in Serbia despite EU warnings",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOTF0c19ZZUlPT1RaakxDV0hhTFoxQndCQmNreVU1OTBMTjdpTE1mams1bDdCdHAxOWVCRDJIbWJwMTFFYjdHXzktUmlsTWhPY3lKME5KYWpFMXBvUi1zN3R5WVpEVWlVOVNCT3lWVnhnNktnTFk5OXFsYUtYeGhMX29SVm9QMndjNTJSMHl6WjRrSTBMTS1weUE5bkxScUJGbS1mTkdvNGdrNGxl?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-07T13:33:00Z"
-        },
-        {
           "id": "report-6469fd7a2310",
           "title": "At least five people killed in Russia’s attacks on Ukraine’s Kyiv",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaEhXSHNycHhKQldXbnlyVks3dUh0NDZIbHB2YU43MXkxaXdaZVg2NHZIelJ4emhyZk9PVWZiUzRwcUxONDd2VnRwVC00Z0toeXZvNE84aUpxZ2I2MUdVRFhQT0tqUmJkc3NHRHMtVnE1dmk5dlZvQXBlSVQ2V28xM0NZajhDTFpRdEhKYjcxdlQ2ZFNpRFphalBjMDlQQ2ZTemdhR0ZWR2QxZ9IBrwFBVV95cUxPX0VZRUtqcjA2cWRYN19LdEpzRFJTWlRfdHo4c29qSGloM2hoME5KU01Fb1JhNDl0eDhrN1B1WmxBeVFVMkJ6Z0FVTUZkN0lMXzdVb3JTblJpT0Q5SlRoQVJBTmlzMUFBWDJSTFdUendRYnFXV3JjRXVDZEg4cHRCRF9ENW15Z1VjdG5obkdFV2QtcVVEQi1mVWFrSmlmTVNSMXdWaVRhTkEySkNpc3kw?oc=5",
@@ -1612,15 +1621,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-08T18:34:46Z"
-        },
-        {
-          "id": "report-1d4d69339ee4",
-          "title": "The Iranian school struck in the war’s earliest attacks is now a memorial for children",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZmVWR3VKRGlScmN6ZEtGUU5IelBhbmFENGJwd2VSMnV1bDBoTy02M1oydnBmQ2V4S20zbnRZeWM2NXY2TDJvbTFQU25DRThRSTlPREk1YmpPZTl2aWdEXzg5elpTenNMNEN0V0gxLU1sTFd1WDRhQUtXNXBWTzNLdDJEUUg3VnN0SXJBSVU0TG03MEJnN2NpLQ?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-06T16:14:00Z"
         },
         {
           "id": "report-defc72fd3c7f",
