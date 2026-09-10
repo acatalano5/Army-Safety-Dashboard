@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-10T16:24:51.031Z",
+  "generatedAt": "2026-09-10T18:40:54.527Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -9,7 +9,7 @@
       "items": []
     },
     "safety": {
-      "generatedAt": "2026-09-09T18:52:12.495Z",
+      "generatedAt": "2026-09-10T18:40:54.527Z",
       "cadence": "daily",
       "items": [
         {
@@ -21,11 +21,27 @@
           "pinned": true
         },
         {
-          "title": "Greek air force jet crashes at annual aerial show, kills 2 pilots and starts fire",
+          "title": "Greek air force jet crashes at an annual aerial show, killing 2 pilots",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVmJIdGJzdkhLMUJybzF4SHU5U2VfMUpJSXRIMC1TdlozSUVnZlllX1dINEV0U1ZxUlFoUjFndkpGTGtzNWItSEp6OTFETGwxY3ZKY2l4enhVTXl6anpkbENFeVJhRkZqM3BfWk9EUk15S2hFcVdrUy13Skh4WmpaMWR3LTRhRzJWNVBkaDhkT25OM3RyNjE4?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "seen": "20260905T183700Z",
+          "pinned": false
+        },
+        {
+          "title": "Trump departs DC on Qatar-gifted Air Force One after emergency slide accidentally deploys",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTDFmbU9kUFlkTGo3Qmg3SzFVajhJVVRYdnF4UWdWU3VId1c1TnJCZFpQZ1BTYzlMak94eFZ0WlhnMGxaVGEtWTctRUNmbV85cjhldmpSVDN4Y2hrbEJ1SWdaNzl2ODlZTE1vc0h5MlNDQ2xzbDRrNUc2RHRyMmRrQ1JsenFIUV9DQU1zUUk1TnlLOHh2QVoyajExU1I3ak1JZ2I3R21SeWtackpsYTgweEZR?oc=5",
+          "domain": "reuters.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260909T220122Z",
+          "pinned": false
+        },
+        {
+          "title": "PLR 26-061 – Automobile Mishap Claims One Soldier’s Life",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZE5YeVo2cFE4bndqZGpzSGliQXE0akRsXzRaUl9iSFVIUU91dzBnWWVDc1lrS2dTSkt2b2p4TGtLcGh4NE1Od3V2VWUwRVVyd2JDNXdlWWJxNVgtanVSZHVGVE9zb0VUS1o3YzFFNHNHNnlYVUlaOFA3NExPS1Q3R1ZTeFh6cWd2b0hGQ3RQd0w0eGljbnJUMEJiVkxzZzAzY0x6SkJHN1k5ekpOQTFGbkRtejdKTGR2RmJFUm11TnRaUEo3T2o4VVA1WEtvbV9EXzJJQ09TMHdFcDZyR2VN?oc=5",
+          "domain": "safety.army.mil",
+          "sourceTier": "Official military source",
+          "seen": "20260902T194937Z",
           "pinned": false
         },
         {
@@ -45,6 +61,22 @@
           "pinned": false
         },
         {
+          "title": "Air Force officer, 2 Army Corps of Engineers civilians among Alaska plane crash dead",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYWN2ZkJSSU15Ukg1b21aVmlMSmVyT0FFYnJLVjJJOW5BRnBzdzFadnBUUEprSDNEbzEzYVBOakRsYVRmdUN0YzZXc1llV0xVMklfRllWYVVJLVpnaVU3cU90aUlQY0RmQUtwYkFPdGpZMGNFd3FtN2pfdmpDclo4WGUyamVXN0phc1VWUU9JdzRDZHhUMVlnRE5FREt0U2JXVFhjSVplbWluZHB4T3RRbw?oc=5",
+          "domain": "stripes.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260825T070000Z",
+          "pinned": false
+        },
+        {
+          "title": "Air Force officer killed in remote Alaska crash was a ‘positive leader’",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yMTM3UTdNeXVhbVFBc2JTWDN4QzVJTG5sSk43aGh3a0FtRXI5dHgycy04dEhFUnBkSFd4NDUxNFkzQmZ0eXRRR29KTDNKV1FValItZzBoa25MNGI0WmhIOVVwZVhkZkk?oc=5",
+          "domain": "taskandpurpose.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260825T070000Z",
+          "pinned": false
+        },
+        {
           "title": "Coast Guard suspends search for missing male at Gun Beach, Guam",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObGtBUGhrZ2JIT1RId3RsV2xrV0FZcy11RnNlQzkxeTdFZnJZaWJsWVVWN0ZhRWxQTDFwVk9IQUh5dXhkSkg5cm9Sc3lIYXRuR2RzcVlDVkRnc2hDXzVxam8ycERuUzZZTHRsN1JVZUVLZzJXcUpkYU5NMmZqVmtnV1N6dS1DeFBOVFdQZE5wU2xCU0tNd3BNU1NOTTh3QzR1clJSc1FFdXpodEJwY0RFektqeHU5SU5rRnF3QQ?oc=5",
           "domain": "news.uscg.mil",
@@ -55,13 +87,31 @@
       ],
       "incidents": [
         {
+          "id": "auto-7d94311c3567",
+          "reportDate": "2026-09-09",
+          "dateBasis": "report discovery date",
+          "branch": "Air Force",
+          "department": "Department of the Air Force",
+          "type": "Other",
+          "event": "Trump departs DC on Qatar-gifted Air Force One after emergency slide accidentally deploys",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTDFmbU9kUFlkTGo3Qmg3SzFVajhJVVRYdnF4UWdWU3VId1c1TnJCZFpQZ1BTYzlMak94eFZ0WlhnMGxaVGEtWTctRUNmbV85cjhldmpSVDN4Y2hrbEJ1SWdaNzl2ODlZTE1vc0h5MlNDQ2xzbDRrNUc2RHRyMmRrQ1JsenFIUV9DQU1zUUk1TnlLOHh2QVoyajExU1I3ak1JZ2I3R21SeWtackpsYTgweEZR?oc=5",
+          "sourceLabel": "reuters.com"
+        },
+        {
           "id": "auto-1a50eb2eda48",
           "reportDate": "2026-09-05",
           "dateBasis": "report discovery date",
           "branch": "Air Force",
           "department": "Department of the Air Force",
           "type": "Aviation",
-          "event": "Greek air force jet crashes at annual aerial show, kills 2 pilots and starts fire",
+          "event": "Greek air force jet crashes at an annual aerial show, killing 2 pilots",
           "location": "See official source",
           "fatalities": null,
           "injuries": null,
@@ -145,24 +195,6 @@
           "sourceLabel": "apnews.com"
         },
         {
-          "id": "auto-bab30a20e514",
-          "reportDate": "2026-08-25",
-          "dateBasis": "report discovery date",
-          "branch": "Air Force",
-          "department": "Department of the Air Force",
-          "type": "Aviation",
-          "event": "Air Force officer killed in remote Alaska crash was a ‘positive leader’",
-          "location": "See official source",
-          "fatalities": null,
-          "injuries": null,
-          "status": "REPORTED / UNVALIDATED",
-          "signalClass": "REPORTED MISHAP",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
-          "source": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yMTM3UTdNeXVhbVFBc2JTWDN4QzVJTG5sSk43aGh3a0FtRXI5dHgycy04dEhFUnBkSFd4NDUxNFkzQmZ0eXRRR29KTDNKV1FValItZzBoa25MNGI0WmhIOVVwZVhkZkk?oc=5",
-          "sourceLabel": "taskandpurpose.com"
-        },
-        {
           "id": "auto-7427334c6413",
           "reportDate": "2026-08-25",
           "dateBasis": "report discovery date",
@@ -179,6 +211,24 @@
           "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
           "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYWN2ZkJSSU15Ukg1b21aVmlMSmVyT0FFYnJLVjJJOW5BRnBzdzFadnBUUEprSDNEbzEzYVBOakRsYVRmdUN0YzZXc1llV0xVMklfRllWYVVJLVpnaVU3cU90aUlQY0RmQUtwYkFPdGpZMGNFd3FtN2pfdmpDclo4WGUyamVXN0phc1VWUU9JdzRDZHhUMVlnRE5FREt0U2JXVFhjSVplbWluZHB4T3RRbw?oc=5",
           "sourceLabel": "stripes.com"
+        },
+        {
+          "id": "auto-bab30a20e514",
+          "reportDate": "2026-08-25",
+          "dateBasis": "report discovery date",
+          "branch": "Air Force",
+          "department": "Department of the Air Force",
+          "type": "Aviation",
+          "event": "Air Force officer killed in remote Alaska crash was a ‘positive leader’",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yMTM3UTdNeXVhbVFBc2JTWDN4QzVJTG5sSk43aGh3a0FtRXI5dHgycy04dEhFUnBkSFd4NDUxNFkzQmZ0eXRRR29KTDNKV1FValItZzBoa25MNGI0WmhIOVVwZVhkZkk?oc=5",
+          "sourceLabel": "taskandpurpose.com"
         },
         {
           "id": "auto-f451a5233abb",
