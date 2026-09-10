@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-09T20:56:22.945Z",
+  "generatedAt": "2026-09-10T04:41:37.609Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-09-09T20:56:22.945Z",
+      "generatedAt": "2026-09-10T04:41:37.609Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -1209,7 +1209,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-09-09T20:56:22.945Z",
+      "generatedAt": "2026-09-10T04:41:37.609Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -1229,6 +1229,14 @@
           "pinned": false
         },
         {
+          "title": "Watch: Trump says Iran war will end 'immediately' after US midterm elections",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE84dHFTZUp2ajRGcGFzRzdJV3M1SmJaODBodGN1OXE5cFFkMGZNMlJvSXF4ajlJbGhKa29RUVRYdTdtNDgtTDZfNWlDWW0zTmxJSWF0UjRERQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260909T211212Z",
+          "pinned": false
+        },
+        {
           "title": "Fuel prices at record Labor Day high in US thanks to Iran war and refinery issues",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOTRiRHBsTEFsQXpmU3VSSjg0N25rUC1NRzR2ZWlNc2RyallYN0xTX2U1NUJhTk9UZTdGM3NnYXJyZkV1dmx1VXpIdVpoS2dSVDJPMUZ5TzRka09pQklpWWtpVE5weTlFWDFYNmNadWw4UmdoY2NpTTFjS0plN1lGa1lDWF9LUWhsMUtyWjJ6QVA1WG5kNm1r?oc=5",
           "domain": "apnews.com",
@@ -1237,19 +1245,27 @@
           "pinned": false
         },
         {
+          "title": "Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JMU1EU1FQNE96QWhEYTd3djdqell4cFo3QktqMWQzMXYwVE1pUWdVb1FiT2RnZllhZHdDTDdwN1NFd3hZNXN4cm5Ib3dNLUFoX1BIMnQ1dHRQQQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260908T144616Z",
+          "pinned": false
+        },
+        {
+          "title": "Iran war looms over Trump at Republican midterm convention in Dallas",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZDFEOXpsb2VodFRMV0RzZ1dfRTlwTDRrZVRwYzJVQXZVZzlhVUk3LXB5RG5IZHNkdkFtMUNERzBJMlU3cmRMM0RQOVNtSnFYQTVjdVhnM0J4WEgyWmRDRURvdUJzWXZGNmw1cVRxQ25IeUEwZ1hURU5tV3J2M0wtNnRRUnlVamJjLVdoMXpjQVNoVFMzQzM5MmM1aU9CN29ac3MzUWR1QW80U09s0gGyAUFVX3lxTE5tNlZTdERsRElpbzVsY2FNeFZMZlV5VjR1Q3RQMWwyLWtONmxERHkwdExOTTd2Uk8wZk9SYUdMelpGcm92UnpPbzlvZUZGZnk3UG5RZDFtUVFkNWFJSjFpMWlFTGlNNGpMOG5IM3BOcHpGTVE0anVXNk82TWpnSVpEQUtvRkJuNFo4LXRkbVcwRFJsaUVNUHlqbVJjVXptc3c0dDZiUmloUnMyWXB5REtaQVE?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260909T231912Z",
+          "pinned": false
+        },
+        {
           "title": "The war in the Gulf will have to end in compromise",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLUtjN2RWaE5RWUtnX2tUQjhzb2Y3VXVfN2tDTjE5bDdOMlJpdkN2X2dReldzMF84Skd5V09nODZPTHB0emFqcmo0TWpJUnRHaFdHeFBoRnN4dWg4U3NKVEJRZ1JOazVfMUN0eGxPWTNaZzZRMkJ2MGZBV3FyeHY3d3JsZEZwTURvY0xQSmUzekhDSXc0cEVnLTJ30gGfAUFVX3lxTE1MbzR1Zk8yUGNGTF9ZYzkyWW9xel9pdTZobV80cDdVZVBXeHZpTUV6OHl0ak5XSEhra0gtZ1ZuUm9FT3ZFSjZJcU5RYV90WlNjMzV0bXowOWRaS1JkSHh3THo4Tm5XSGlSN294cE9UVVdWZHVPOG9FcDBjX3d3WmEyTmY0Nlk0dnFGVkREalFfckd4bjJHUDduaTlmV2FpUQ?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260909T104854Z",
-          "pinned": false
-        },
-        {
-          "title": "Convicted war criminal Ratko Mladic gets hero’s burial in Serbia",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeC1FZjlCeWNpcmE1dl9BMnQwaThKWldzeUgtdEwyYUNUaXFpUnIyWGs4UmtXUFdscWRtOExMLU1rZGd0dHFjeHIyQUVjejNwaFZLNnBxNGZSdzBrUkkxaUJ5Q0dDZElCQmFtMWhxTFBfMm9nYzM0TzdzZDZsc2p1ZXNOblN5NGhHOG5sQXl2YTEzRjliVFVaLWZIS29kUnE2V2RrbHdB0gGrAUFVX3lxTE51OUdXQllnbEFwbzdMM2RubmROd05iTndrUWtuSzJzZUdFQWFDVVFxNk5lTGx2bzlKT0pFUnhKVFdQUGktMEdnN256TVY2MnJ5SlE5cE5vTURsaVU0dldlQVpXeU9Ed2VaZkI1MzhOemc4NldnNWx5OXNSVFpPQlVXZXVfR2xkdzBWN2FGd0VudTM3QlZSWE5qR3VOLVlUMVo4SERYVV93N2tJcw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260907T155002Z",
           "pinned": false
         },
         {
@@ -1285,11 +1301,11 @@
           "pinned": false
         },
         {
-          "title": "Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JMU1EU1FQNE96QWhEYTd3djdqell4cFo3QktqMWQzMXYwVE1pUWdVb1FiT2RnZllhZHdDTDdwN1NFd3hZNXN4cm5Ib3dNLUFoX1BIMnQ1dHRQQQ?oc=5",
+          "title": "Some veterans to be called up to test UK's war resilience",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12dkVSWVU0bDVwdEVGa2REYlpBOWZIVVZlV1J5dE9HR0lzOXprLXFuTXhGZ1drU1NBMlEzOEtIUVdEcmx6bF9idTZQWHN4ekFKVDFESlFaVTBzUQ?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260908T144616Z",
+          "seen": "20260908T110119Z",
           "pinned": false
         },
         {
@@ -1309,19 +1325,11 @@
           "pinned": false
         },
         {
-          "title": "Iran touts military response as US maintains blockade, hits tankers",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaXd6SjRYNFpkcjM2M1JweThUd0QxbW55eE5FRERDSkFVYTBtd0pPMUM2VVpYVGhMR2tweHJWd3dmT2ZmWHBZZ09UVVJSOWQ3bFY1b1FSTTg4UzE2YjA4RzNsaVJoZHFvekNCdXhwWEVSV185MWNBTUVSaG12d09XTlQ2eTdJS0MwYzRNWjJaSXBBcUZnSWwxbnpPN1h6STFURjNCNHZ5dUE0UdIBrwFBVV95cUxPZ2dOX0VHTGtIRmF0UGdHTkFnb2QyZnRCX2p1ZUVWdUpWRG1jY2ljc3V6R091eEJHTkNldGc5SHlaamZVamZnY3RZbHBMeGRsY3F0ejFzTkN4SXVUUUhyNWRjTU9QN3FDZWozblFzdzd6Wmd5RjUyXzNzZ19jRUNfanZZSlhpSm5MX0J2T21HTGlaNWJiUmN3SXNqZkpwaUxsZ1FHZkRJS1RjZWpacUxN?oc=5",
-          "domain": "aljazeera.com",
+          "title": "US banning dairy products, most alcohol and motorcycles from Canada in growing trade war",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc1BOQjh6RzR3NkhUTWNocHc3U2RzckMzVGdyMFVwR0JqS3JocTgtbFFwTkwtUU1pTURKNGNma3VpZmYtUExvaHZuYU8wZTlDSEFqemRLc0U0NzhyWUxtaDVxUUp1TW45TFU2MnY5WGhqNFVWd0RPWG1sV1J0N2x3LUFweTlPb0pjcm9YcW9oSS1uTk14cWVIWUJ2Z202Zw?oc=5",
+          "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260906T162845Z",
-          "pinned": false
-        },
-        {
-          "title": "The losers of the US-Canada trade war",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTzJ6NFVnbmloX0VYX0ttRnI3WWhKMHFjbTBRSFFQTjZlcE1oOFVGekpVZkJPbWJBTzZUOU5NM0FYUWJ1VlREMnJzMUNJR3hxMmN5TjNGZDZTTGJxWDF2aUt3TWsyd0QyR0c1NWc2Q0tSR1FXdmV1cG9ldEozY3dpSXpobkJwNEJNeEdxcHhKcHFGZ1Vq0gGaAUFVX3lxTE4tckdxdmxNakpBeVNDNzluV3VNV1J0QThfR0pmWVMzUm80d0l2MWlTbG54TDF4ZVRUSTBoUjVIRVdZMTdCSXFQVjJQSmhDdzQ1bVp4Yjd4am54ZlEwaWM4SXNEamY0RmswUllqRmNZeEtmd25nNEhoRUV5dUQ3Z2VFZktpVDE0T3VMTGpvb09ydlU5QmIxbnpnclE?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260909T110424Z",
+          "seen": "20260909T155100Z",
           "pinned": false
         },
         {
@@ -1330,6 +1338,14 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260908T124451Z",
+          "pinned": false
+        },
+        {
+          "title": "The losers of the US-Canada trade war",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTzJ6NFVnbmloX0VYX0ttRnI3WWhKMHFjbTBRSFFQTjZlcE1oOFVGekpVZkJPbWJBTzZUOU5NM0FYUWJ1VlREMnJzMUNJR3hxMmN5TjNGZDZTTGJxWDF2aUt3TWsyd0QyR0c1NWc2Q0tSR1FXdmV1cG9ldEozY3dpSXpobkJwNEJNeEdxcHhKcHFGZ1Vq0gGaAUFVX3lxTE4tckdxdmxNakpBeVNDNzluV3VNV1J0QThfR0pmWVMzUm80d0l2MWlTbG54TDF4ZVRUSTBoUjVIRVdZMTdCSXFQVjJQSmhDdzQ1bVp4Yjd4am54ZlEwaWM4SXNEamY0RmswUllqRmNZeEtmd25nNEhoRUV5dUQ3Z2VFZktpVDE0T3VMTGpvb09ydlU5QmIxbnpnclE?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260909T110424Z",
           "pinned": false
         },
         {
@@ -1354,14 +1370,6 @@
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20260908T091434Z",
-          "pinned": false
-        },
-        {
-          "title": "Some veterans to be called up to test UK's war resilience",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12dkVSWVU0bDVwdEVGa2REYlpBOWZIVVZlV1J5dE9HR0lzOXprLXFuTXhGZ1drU1NBMlEzOEtIUVdEcmx6bF9idTZQWHN4ekFKVDFESlFaVTBzUQ?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260908T110119Z",
           "pinned": false
         },
         {
@@ -1395,14 +1403,6 @@
           "sourceTier": "Independent reporting",
           "seen": "20260907T070314Z",
           "pinned": false
-        },
-        {
-          "title": "War criminal Mladic is buried as a hero in Serbia despite EU warnings",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOTF0c19ZZUlPT1RaakxDV0hhTFoxQndCQmNreVU1OTBMTjdpTE1mams1bDdCdHAxOWVCRDJIbWJwMTFFYjdHXzktUmlsTWhPY3lKME5KYWpFMXBvUi1zN3R5WVpEVWlVOVNCT3lWVnhnNktnTFk5OXFsYUtYeGhMX29SVm9QMndjNTJSMHl6WjRrSTBMTS1weUE5bkxScUJGbS1mTkdvNGdrNGxl?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260907T133300Z",
-          "pinned": false
         }
       ],
       "reports": [
@@ -1425,6 +1425,15 @@
           "reportedAt": "2026-09-09T13:45:39Z"
         },
         {
+          "id": "report-b15a468e49b1",
+          "title": "Watch: Trump says Iran war will end 'immediately' after US midterm elections",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE84dHFTZUp2ajRGcGFzRzdJV3M1SmJaODBodGN1OXE5cFFkMGZNMlJvSXF4ajlJbGhKa29RUVRYdTdtNDgtTDZfNWlDWW0zTmxJSWF0UjRERQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-09T21:12:12Z"
+        },
+        {
           "id": "report-4761cbba47c1",
           "title": "Fuel prices at record Labor Day high in US thanks to Iran war and refinery issues",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOTRiRHBsTEFsQXpmU3VSSjg0N25rUC1NRzR2ZWlNc2RyallYN0xTX2U1NUJhTk9UZTdGM3NnYXJyZkV1dmx1VXpIdVpoS2dSVDJPMUZ5TzRka09pQklpWWtpVE5weTlFWDFYNmNadWw4UmdoY2NpTTFjS0plN1lGa1lDWF9LUWhsMUtyWjJ6QVA1WG5kNm1r?oc=5",
@@ -1434,6 +1443,24 @@
           "reportedAt": "2026-09-07T17:38:00Z"
         },
         {
+          "id": "report-b78675d70fc0",
+          "title": "Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JMU1EU1FQNE96QWhEYTd3djdqell4cFo3QktqMWQzMXYwVE1pUWdVb1FiT2RnZllhZHdDTDdwN1NFd3hZNXN4cm5Ib3dNLUFoX1BIMnQ1dHRQQQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-08T14:46:16Z"
+        },
+        {
+          "id": "report-c103c75c4851",
+          "title": "Iran war looms over Trump at Republican midterm convention in Dallas",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZDFEOXpsb2VodFRMV0RzZ1dfRTlwTDRrZVRwYzJVQXZVZzlhVUk3LXB5RG5IZHNkdkFtMUNERzBJMlU3cmRMM0RQOVNtSnFYQTVjdVhnM0J4WEgyWmRDRURvdUJzWXZGNmw1cVRxQ25IeUEwZ1hURU5tV3J2M0wtNnRRUnlVamJjLVdoMXpjQVNoVFMzQzM5MmM1aU9CN29ac3MzUWR1QW80U09s0gGyAUFVX3lxTE5tNlZTdERsRElpbzVsY2FNeFZMZlV5VjR1Q3RQMWwyLWtONmxERHkwdExOTTd2Uk8wZk9SYUdMelpGcm92UnpPbzlvZUZGZnk3UG5RZDFtUVFkNWFJSjFpMWlFTGlNNGpMOG5IM3BOcHpGTVE0anVXNk82TWpnSVpEQUtvRkJuNFo4LXRkbVcwRFJsaUVNUHlqbVJjVXptc3c0dDZiUmloUnMyWXB5REtaQVE?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-09T23:19:12Z"
+        },
+        {
           "id": "report-5da9ccd405c7",
           "title": "The war in the Gulf will have to end in compromise",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLUtjN2RWaE5RWUtnX2tUQjhzb2Y3VXVfN2tDTjE5bDdOMlJpdkN2X2dReldzMF84Skd5V09nODZPTHB0emFqcmo0TWpJUnRHaFdHeFBoRnN4dWg4U3NKVEJRZ1JOazVfMUN0eGxPWTNaZzZRMkJ2MGZBV3FyeHY3d3JsZEZwTURvY0xQSmUzekhDSXc0cEVnLTJ30gGfAUFVX3lxTE1MbzR1Zk8yUGNGTF9ZYzkyWW9xel9pdTZobV80cDdVZVBXeHZpTUV6OHl0ak5XSEhra0gtZ1ZuUm9FT3ZFSjZJcU5RYV90WlNjMzV0bXowOWRaS1JkSHh3THo4Tm5XSGlSN294cE9UVVdWZHVPOG9FcDBjX3d3WmEyTmY0Nlk0dnFGVkREalFfckd4bjJHUDduaTlmV2FpUQ?oc=5",
@@ -1441,15 +1468,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-09T10:48:54Z"
-        },
-        {
-          "id": "report-2c600eae9910",
-          "title": "Convicted war criminal Ratko Mladic gets hero’s burial in Serbia",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeC1FZjlCeWNpcmE1dl9BMnQwaThKWldzeUgtdEwyYUNUaXFpUnIyWGs4UmtXUFdscWRtOExMLU1rZGd0dHFjeHIyQUVjejNwaFZLNnBxNGZSdzBrUkkxaUJ5Q0dDZElCQmFtMWhxTFBfMm9nYzM0TzdzZDZsc2p1ZXNOblN5NGhHOG5sQXl2YTEzRjliVFVaLWZIS29kUnE2V2RrbHdB0gGrAUFVX3lxTE51OUdXQllnbEFwbzdMM2RubmROd05iTndrUWtuSzJzZUdFQWFDVVFxNk5lTGx2bzlKT0pFUnhKVFdQUGktMEdnN256TVY2MnJ5SlE5cE5vTURsaVU0dldlQVpXeU9Ed2VaZkI1MzhOemc4NldnNWx5OXNSVFpPQlVXZXVfR2xkdzBWN2FGd0VudTM3QlZSWE5qR3VOLVlUMVo4SERYVV93N2tJcw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-07T15:50:02Z"
         },
         {
           "id": "report-59712b48d850",
@@ -1488,13 +1506,13 @@
           "reportedAt": "2026-09-08T10:04:45Z"
         },
         {
-          "id": "report-b78675d70fc0",
-          "title": "Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JMU1EU1FQNE96QWhEYTd3djdqell4cFo3QktqMWQzMXYwVE1pUWdVb1FiT2RnZllhZHdDTDdwN1NFd3hZNXN4cm5Ib3dNLUFoX1BIMnQ1dHRQQQ?oc=5",
+          "id": "report-894ebea8e1c6",
+          "title": "Some veterans to be called up to test UK's war resilience",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12dkVSWVU0bDVwdEVGa2REYlpBOWZIVVZlV1J5dE9HR0lzOXprLXFuTXhGZ1drU1NBMlEzOEtIUVdEcmx6bF9idTZQWHN4ekFKVDFESlFaVTBzUQ?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-08T14:46:16Z"
+          "reportedAt": "2026-09-08T11:01:19Z"
         },
         {
           "id": "report-289b7efef270",
@@ -1515,22 +1533,13 @@
           "reportedAt": "2026-09-08T14:35:18Z"
         },
         {
-          "id": "report-1cc1f6c091ae",
-          "title": "Iran touts military response as US maintains blockade, hits tankers",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaXd6SjRYNFpkcjM2M1JweThUd0QxbW55eE5FRERDSkFVYTBtd0pPMUM2VVpYVGhMR2tweHJWd3dmT2ZmWHBZZ09UVVJSOWQ3bFY1b1FSTTg4UzE2YjA4RzNsaVJoZHFvekNCdXhwWEVSV185MWNBTUVSaG12d09XTlQ2eTdJS0MwYzRNWjJaSXBBcUZnSWwxbnpPN1h6STFURjNCNHZ5dUE0UdIBrwFBVV95cUxPZ2dOX0VHTGtIRmF0UGdHTkFnb2QyZnRCX2p1ZUVWdUpWRG1jY2ljc3V6R091eEJHTkNldGc5SHlaamZVamZnY3RZbHBMeGRsY3F0ejFzTkN4SXVUUUhyNWRjTU9QN3FDZWozblFzdzd6Wmd5RjUyXzNzZ19jRUNfanZZSlhpSm5MX0J2T21HTGlaNWJiUmN3SXNqZkpwaUxsZ1FHZkRJS1RjZWpacUxN?oc=5",
-          "domain": "aljazeera.com",
+          "id": "report-f73b953bcedc",
+          "title": "US banning dairy products, most alcohol and motorcycles from Canada in growing trade war",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc1BOQjh6RzR3NkhUTWNocHc3U2RzckMzVGdyMFVwR0JqS3JocTgtbFFwTkwtUU1pTURKNGNma3VpZmYtUExvaHZuYU8wZTlDSEFqemRLc0U0NzhyWUxtaDVxUUp1TW45TFU2MnY5WGhqNFVWd0RPWG1sV1J0N2x3LUFweTlPb0pjcm9YcW9oSS1uTk14cWVIWUJ2Z202Zw?oc=5",
+          "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-06T16:28:45Z"
-        },
-        {
-          "id": "report-4cf972c09668",
-          "title": "The losers of the US-Canada trade war",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTzJ6NFVnbmloX0VYX0ttRnI3WWhKMHFjbTBRSFFQTjZlcE1oOFVGekpVZkJPbWJBTzZUOU5NM0FYUWJ1VlREMnJzMUNJR3hxMmN5TjNGZDZTTGJxWDF2aUt3TWsyd0QyR0c1NWc2Q0tSR1FXdmV1cG9ldEozY3dpSXpobkJwNEJNeEdxcHhKcHFGZ1Vq0gGaAUFVX3lxTE4tckdxdmxNakpBeVNDNzluV3VNV1J0QThfR0pmWVMzUm80d0l2MWlTbG54TDF4ZVRUSTBoUjVIRVdZMTdCSXFQVjJQSmhDdzQ1bVp4Yjd4am54ZlEwaWM4SXNEamY0RmswUllqRmNZeEtmd25nNEhoRUV5dUQ3Z2VFZktpVDE0T3VMTGpvb09ydlU5QmIxbnpnclE?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-09T11:04:24Z"
+          "reportedAt": "2026-09-09T15:51:00Z"
         },
         {
           "id": "report-ea87a08b4e38",
@@ -1540,6 +1549,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-08T12:44:51Z"
+        },
+        {
+          "id": "report-4cf972c09668",
+          "title": "The losers of the US-Canada trade war",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTzJ6NFVnbmloX0VYX0ttRnI3WWhKMHFjbTBRSFFQTjZlcE1oOFVGekpVZkJPbWJBTzZUOU5NM0FYUWJ1VlREMnJzMUNJR3hxMmN5TjNGZDZTTGJxWDF2aUt3TWsyd0QyR0c1NWc2Q0tSR1FXdmV1cG9ldEozY3dpSXpobkJwNEJNeEdxcHhKcHFGZ1Vq0gGaAUFVX3lxTE4tckdxdmxNakpBeVNDNzluV3VNV1J0QThfR0pmWVMzUm80d0l2MWlTbG54TDF4ZVRUSTBoUjVIRVdZMTdCSXFQVjJQSmhDdzQ1bVp4Yjd4am54ZlEwaWM4SXNEamY0RmswUllqRmNZeEtmd25nNEhoRUV5dUQ3Z2VFZktpVDE0T3VMTGpvb09ydlU5QmIxbnpnclE?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-09T11:04:24Z"
         },
         {
           "id": "report-b84a6a1af917",
@@ -1567,15 +1585,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-08T09:14:34Z"
-        },
-        {
-          "id": "report-894ebea8e1c6",
-          "title": "Some veterans to be called up to test UK's war resilience",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12dkVSWVU0bDVwdEVGa2REYlpBOWZIVVZlV1J5dE9HR0lzOXprLXFuTXhGZ1drU1NBMlEzOEtIUVdEcmx6bF9idTZQWHN4ekFKVDFESlFaVTBzUQ?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-08T11:01:19Z"
         },
         {
           "id": "report-b0b21661736e",
@@ -1612,15 +1621,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-07T07:03:14Z"
-        },
-        {
-          "id": "report-76e016addfad",
-          "title": "War criminal Mladic is buried as a hero in Serbia despite EU warnings",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOTF0c19ZZUlPT1RaakxDV0hhTFoxQndCQmNreVU1OTBMTjdpTE1mams1bDdCdHAxOWVCRDJIbWJwMTFFYjdHXzktUmlsTWhPY3lKME5KYWpFMXBvUi1zN3R5WVpEVWlVOVNCT3lWVnhnNktnTFk5OXFsYUtYeGhMX29SVm9QMndjNTJSMHl6WjRrSTBMTS1weUE5bkxScUJGbS1mTkdvNGdrNGxl?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-07T13:33:00Z"
         },
         {
           "id": "report-defc72fd3c7f",
