@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-11T16:29:19.909Z",
+  "generatedAt": "2026-09-11T18:44:43.516Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -9,7 +9,7 @@
       "items": []
     },
     "safety": {
-      "generatedAt": "2026-09-10T18:40:54.527Z",
+      "generatedAt": "2026-09-11T18:44:43.516Z",
       "cadence": "daily",
       "items": [
         {
@@ -34,6 +34,14 @@
           "domain": "reuters.com",
           "sourceTier": "Independent reporting",
           "seen": "20260909T220122Z",
+          "pinned": false
+        },
+        {
+          "title": "PLR 26-063 – Sports, Recreation and Physical Training Mishap Claims One Soldier’s Life",
+          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNRkNQZmRGdFhkbTNVVmJXUmtVS3NUNkhDbmN3VnZxQ1Y5MWxyQ0dCUndHMEYyZWdMbG9hRkdhZHNLSVk1YTc3YTZxVlVscDRrVnFqSmU1M1JqMlZhT2tuWS02dlRJTjBPSlhOcERZSUFTdkpXU2FlNEh0RHJKdmRRcXNEWFBfWWY4dER2Q3hRYzJsN09NbnROcTd4THJFVXV0RVdQOXp1by15NzE2Zzh1dXpHU2kzX0kyVVltUEZqZV93RXdOUFdPZXdYaHFadXVqZnprMTNLc2pPbm1oRUxlX3puOVdsOGVmcmF1Ym4zSkVZUHVLTHJWblk3c0dxUF9YUkxyZW9B?oc=5",
+          "domain": "safety.army.mil",
+          "sourceTier": "Official military source",
+          "seen": "20260910T194643Z",
           "pinned": false
         },
         {
@@ -75,17 +83,27 @@
           "sourceTier": "Independent reporting",
           "seen": "20260825T070000Z",
           "pinned": false
-        },
-        {
-          "title": "Coast Guard suspends search for missing male at Gun Beach, Guam",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObGtBUGhrZ2JIT1RId3RsV2xrV0FZcy11RnNlQzkxeTdFZnJZaWJsWVVWN0ZhRWxQTDFwVk9IQUh5dXhkSkg5cm9Sc3lIYXRuR2RzcVlDVkRnc2hDXzVxam8ycERuUzZZTHRsN1JVZUVLZzJXcUpkYU5NMmZqVmtnV1N6dS1DeFBOVFdQZE5wU2xCU0tNd3BNU1NOTTh3QzR1clJSc1FFdXpodEJwY0RFektqeHU5SU5rRnF3QQ?oc=5",
-          "domain": "news.uscg.mil",
-          "sourceTier": "Official military source",
-          "seen": "20260814T234727Z",
-          "pinned": false
         }
       ],
       "incidents": [
+        {
+          "id": "auto-6f4e66055f46",
+          "reportDate": "2026-09-10",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Other",
+          "event": "PLR 26-063 – Sports, Recreation and Physical Training Mishap Claims One Soldier’s Life",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "OFFICIAL INTAKE",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Official military source",
+          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
+          "source": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNRkNQZmRGdFhkbTNVVmJXUmtVS3NUNkhDbmN3VnZxQ1Y5MWxyQ0dCUndHMEYyZWdMbG9hRkdhZHNLSVk1YTc3YTZxVlVscDRrVnFqSmU1M1JqMlZhT2tuWS02dlRJTjBPSlhOcERZSUFTdkpXU2FlNEh0RHJKdmRRcXNEWFBfWWY4dER2Q3hRYzJsN09NbnROcTd4THJFVXV0RVdQOXp1by15NzE2Zzh1dXpHU2kzX0kyVVltUEZqZV93RXdOUFdPZXdYaHFadXVqZnprMTNLc2pPbm1oRUxlX3puOVdsOGVmcmF1Ym4zSkVZUHVLTHJWblk3c0dxUF9YUkxyZW9B?oc=5",
+          "sourceLabel": "safety.army.mil"
+        },
         {
           "id": "auto-7d94311c3567",
           "reportDate": "2026-09-09",
