@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-11T04:39:36.850Z",
+  "generatedAt": "2026-09-11T11:18:45.997Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-09-11T04:39:36.850Z",
+      "generatedAt": "2026-09-11T11:18:45.997Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -1259,7 +1259,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-09-11T04:39:36.850Z",
+      "generatedAt": "2026-09-11T11:18:45.997Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -1335,19 +1335,19 @@
           "pinned": false
         },
         {
-          "title": "Some veterans to be called up to test UK's war resilience",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12dkVSWVU0bDVwdEVGa2REYlpBOWZIVVZlV1J5dE9HR0lzOXprLXFuTXhGZ1drU1NBMlEzOEtIUVdEcmx6bF9idTZQWHN4ekFKVDFESlFaVTBzUQ?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260908T110119Z",
-          "pinned": false
-        },
-        {
           "title": "Trump widens trade war with Canada beyond tariffs. Here’s what to know",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUHRWc2I4elJ6Ukh6TzhHcF9IUEFEbnZFUkRiYTQ5Nnh2cUUxU3pQYXR0eml3UFFNWGt2bHFBdzJXeEIxRV96dXdBOUY2VzFYZXhVY2hhRmlEcVF0Y0xGNVAwX0ZzZGloOURMTzZ4bERjbDlmWnBzRWoxbVRqYUt4OWJEanc2V3YyTlNGSURSQjlpblJIV2FIT3A3bzBhQQ?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "seen": "20260909T025700Z",
+          "pinned": false
+        },
+        {
+          "title": "Some veterans to be called up to test UK's war resilience",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12dkVSWVU0bDVwdEVGa2REYlpBOWZIVVZlV1J5dE9HR0lzOXprLXFuTXhGZ1drU1NBMlEzOEtIUVdEcmx6bF9idTZQWHN4ekFKVDFESlFaVTBzUQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260908T110119Z",
           "pinned": false
         },
         {
@@ -1359,6 +1359,14 @@
           "pinned": false
         },
         {
+          "title": "‘Everything changed’: The human cost of 25 years of US wars",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOclZaX1hQTGRVdlB5V1ZCV1VJSm1lZHhHOC02cTVzQlIwQXI5Q25tdnVNcXVMX0thS2pGMXo1TXZGY3lJZG52dVNCUG5lNUQ1bFlXMlNmMTJ2MzNrTTY1QWpueVpBQmJ0YjRrNmJ4OVBBbnZjRkpTN3Z2WXp3V2VuVVBZMk9DbzBPeTBVVHl4aGxKbWU5QnhkWWVTVUo2UW9MVkJqS3ZMX0cwZ9IBrwFBVV95cUxNblcydkNyMk5GNWlfT3d3YUdZRE5WZ2YyS0RtOGFSWmUwTmJsVnRrUThPVGc2U0JXdHJDMElXT2hMZXhVSUhsOGJZVEQwVk5WZnVzb1ZSeFVfSENzblR3eUtMUkpnUzdUckZldmNIOC1VcDFJa1JacFltYzBxeVlsYnFxN0ZWdTJRdE1LNFl4VGZWOUZ3SU1KWFhmWjVQTmZLei1BaWhiQWxqdE1IVDFJ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260911T052936Z",
+          "pinned": false
+        },
+        {
           "title": "US banning dairy products, most alcohol and motorcycles from Canada in growing trade war",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc1BOQjh6RzR3NkhUTWNocHc3U2RzckMzVGdyMFVwR0JqS3JocTgtbFFwTkwtUU1pTURKNGNma3VpZmYtUExvaHZuYU8wZTlDSEFqemRLc0U0NzhyWUxtaDVxUUp1TW45TFU2MnY5WGhqNFVWd0RPWG1sV1J0N2x3LUFweTlPb0pjcm9YcW9oSS1uTk14cWVIWUJ2Z202Zw?oc=5",
           "domain": "apnews.com",
@@ -1367,11 +1375,11 @@
           "pinned": false
         },
         {
-          "title": "Saudi Arabia says 73 wounded as Houthis attack civilian and energy sites",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNelpMMWdSSTBNZG5rSnpCMmk5MnVUNGNIR1lvVTQ0X20zUFFIYUdheDN0QzFoRm15VGdmNmlvUi1rUHRJWkRqMXdPTFJwQ3FzUTFPWlpPNGFtNjI5UGE0U1c3azQyanhLdTdvMTZXcGJSYXMzVWczU0pwUU5GLXcxOXZ3dGpuMUplbm9NRzZuV0ZuUGV2SnB5OERyRXVENHpXNWxtSFk1SFpEazFBdVVV0gG0AUFVX3lxTE81M3laVXFBWllCdmJvOFZhQ2J1TjlPVFpNRzdGa2xLNktBSUhJYjlHYU9CLWlaVFNCNmMwOXRZd2doTU9UWTdxV1hZQ2FQWVFSUlBzYVVVX3hWaFNCRXJSRHY0TWc2aFkxNk96TUhwTi1POGdQNlZvTkd4Z3IxeU8xWmpoNmdFVTd3QzUyR3hxUnRjYUFQeGZoQ3FOa0pUWlhhWEVCLTNGRVlJaVdnTFdzUGZ3Rg?oc=5",
+          "title": "How 9/11 helped Israel sell its war on Palestinians to America",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUUs5UHJNRlZvTER5dTdEMTdReEhLcHNaVmdSQUxMQzZ4LU5sT1Y1cnA5OGRsQVpGX2ZRbkZ3cVdVbS14cTFMQzF3bWFpWHQ3WVkwdm1ZWDNHRGxZWVZGRVh3aFYxUzByb3BsYTVhcV9HNldtaTg5T3VSMDB5NFR2VUpBTVVoUnB5dWh6VnVHZjdFaWUySjgxWnVkcXZJMGty0gGmAUFVX3lxTE95TC02ZXZIVVpQbHRubnZwMzFyaGlEdk5palVsTld1RHpqUUcxZlkyUGc2WkJvSzhCT0REY3FodmN6b1JlQm41ZXVkLWoxalRkSVBKdWZvZ3RnMlBucVdfNDZZOXctOThPemtsYjROZV9RU3lCbGdFNEVzWTl2N0k0QnRRVjIxZXJuakZKUFk2NklQUmpKeEwxQWhmV1pVbHhXbFVhdkE?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260908T124451Z",
+          "seen": "20260911T082042Z",
           "pinned": false
         },
         {
@@ -1383,35 +1391,11 @@
           "pinned": false
         },
         {
-          "title": "Hegseth is shaking up the Pentagon as the US wages war - but at what cost?",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4bkdJMVVCOHFBT3ZLY0thaXNyR2stemRwNzVjWE5sR0xpVjU3blJOcU9yWkRPWmxlOE5mNGJDSURJX1ZfelRObUp5TUNjVHhDekJOTTFTNXl2Zw?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260908T231141Z",
-          "pinned": false
-        },
-        {
-          "title": "Trump says oil prices that spiked because of Iran war likely won't come down until after midterms",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMXltZEtoQUhXVTQ1bWJMekROZWpIeXVtZmljZlVNejktRWE0TlZEdWY3X1hGMnNQRXVUUm9mTGN1RUFYOGh5SlF0LWRnWnZCaV9sYllTLVoyekU3TWlxNTYxenMteGVNSEw2d1ZmMnhOVXdoRGFmS2I5R2ljdTdkN3JwamRjbFJlb2JST2Q5YUgtXzRw?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260910T022700Z",
-          "pinned": false
-        },
-        {
-          "title": "EU condemns Serbia’s ministers for attending funeral of war criminal Mladic",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPY1pYNmQyNm1YaVE4c0EwWHZOc3JESGFtWjc5MFJCR2tLb2g1M3NFLTBjS3dfclZUMXkwT3FkWHlrUU5hTDN6Z2laRmdCOXFOeFo3WGVwVVdZVk9CZjQ2UEhhZDJKYXRNSkNJcnFZeW5CR1hoX1F2QU5hT1F2MlNsdExDNHFIS3I5NV9XbjUzcXU2SUZXZTJMVGZOT2wtMlhpeVU5c1l1OEI5VUp5ajBVV190eDTSAboBQVVfeXFMT0JwQThPZ3hwZUF2ZGNuOUQ0bjA1NktWVVktNHpzWUdxcDV0YXdpeE4tcUx0aUZaRkFZUXJ1Mm9lSzNuRXdQQkJjQ1k0SE9YbkZCemhUOGJwNUZlbkFsQi1hU1I3X29BZzR5QjhsQlVRZlpyR1h4R3lTcjhrRnhVREFMMkx0cjZBSzdZaGtzUkNnQlBKTmVHZktZM0VwaExhYXZNbnZycnZtdENjS1RsNXF2cnVVQjItZ1B3?oc=5",
+          "title": "Saudi Arabia says 73 wounded as Houthis attack civilian and energy sites",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNelpMMWdSSTBNZG5rSnpCMmk5MnVUNGNIR1lvVTQ0X20zUFFIYUdheDN0QzFoRm15VGdmNmlvUi1rUHRJWkRqMXdPTFJwQ3FzUTFPWlpPNGFtNjI5UGE0U1c3azQyanhLdTdvMTZXcGJSYXMzVWczU0pwUU5GLXcxOXZ3dGpuMUplbm9NRzZuV0ZuUGV2SnB5OERyRXVENHpXNWxtSFk1SFpEazFBdVVV0gG0AUFVX3lxTE81M3laVXFBWllCdmJvOFZhQ2J1TjlPVFpNRzdGa2xLNktBSUhJYjlHYU9CLWlaVFNCNmMwOXRZd2doTU9UWTdxV1hZQ2FQWVFSUlBzYVVVX3hWaFNCRXJSRHY0TWc2aFkxNk96TUhwTi1POGdQNlZvTkd4Z3IxeU8xWmpoNmdFVTd3QzUyR3hxUnRjYUFQeGZoQ3FOa0pUWlhhWEVCLTNGRVlJaVdnTFdzUGZ3Rg?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260908T150449Z",
-          "pinned": false
-        },
-        {
-          "title": "US military says it destroyed 5 more Iranian oil tankers after missile attacks on Navy warship",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUlN5b1FuNFl6ajd5T0Z0MVppWHZ5Y2hFOHJ4dkd0X1dqMGljMHlOX0FZNE9HSXU4SmoxVUVQVEs5OUg2OG8yM1NyazNZQ1VPU1dCS3p0NmNsUk5rVjBMY0xONjRQWGRtTk1vZkNFOC1PWElwcGZmbk9SUzVRS3JCeTlhN25heDc1b0dWbA?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260909T021600Z",
+          "seen": "20260908T124451Z",
           "pinned": false
         },
         {
@@ -1423,35 +1407,51 @@
           "pinned": false
         },
         {
+          "title": "Trump says oil prices that spiked because of Iran war likely won't come down until after midterms",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMXltZEtoQUhXVTQ1bWJMekROZWpIeXVtZmljZlVNejktRWE0TlZEdWY3X1hGMnNQRXVUUm9mTGN1RUFYOGh5SlF0LWRnWnZCaV9sYllTLVoyekU3TWlxNTYxenMteGVNSEw2d1ZmMnhOVXdoRGFmS2I5R2ljdTdkN3JwamRjbFJlb2JST2Q5YUgtXzRw?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260910T022700Z",
+          "pinned": false
+        },
+        {
+          "title": "Young republicans break with Trump over Iran war",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQWh1RnF0OG5ZanhyR1piaVA1QWM4WF9qaWFGSHpWaVZhNjFobVphVnFsdTlaWEFDVko1b0htbjhOR0JzZW50WHpEbnRiTlBreUE0TlJVcWNkd2hpODdvVnNRU0IwNzNZdk9iU1NTd25UemhfWUV0S2N3ZVJUTjlVaE5SbWwtWFU1MnpJaUhWcXhGc21KZ1RxN2pHWk1rUUJu0gGmAUFVX3lxTE5ZaWJyZlZoTEszTnRZeE9nOFJHYnZYRzNTTmd3a1R3bWZtbFAzS3BGOEhFTjU2VndKcW9WeEwzdWd5aUhOTmtJbzVwanpoSmRjMlNES3psMXp5NU85VEFaakQ4RkwtRXJWRHBVaDdhYXFTYy12V1RqVHpLRjdBcVFKcEI0QkFFekRoblRwY1dfSzhxZ1ZvODJQSFRtVTFlSGxPODRXbkE?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260911T030349Z",
+          "pinned": false
+        },
+        {
+          "title": "US military says it destroyed 5 more Iranian oil tankers after missile attacks on Navy warship",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUlN5b1FuNFl6ajd5T0Z0MVppWHZ5Y2hFOHJ4dkd0X1dqMGljMHlOX0FZNE9HSXU4SmoxVUVQVEs5OUg2OG8yM1NyazNZQ1VPU1dCS3p0NmNsUk5rVjBMY0xONjRQWGRtTk1vZkNFOC1PWElwcGZmbk9SUzVRS3JCeTlhN25heDc1b0dWbA?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260909T021600Z",
+          "pinned": false
+        },
+        {
+          "title": "Hegseth is shaking up the Pentagon as the US wages war - but at what cost?",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4bkdJMVVCOHFBT3ZLY0thaXNyR2stemRwNzVjWE5sR0xpVjU3blJOcU9yWkRPWmxlOE5mNGJDSURJX1ZfelRObUp5TUNjVHhDekJOTTFTNXl2Zw?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260908T231141Z",
+          "pinned": false
+        },
+        {
+          "title": "The US has made progress in reopening the Strait of Hormuz, but the Iran war is far from over",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdkRFZzA4VW9Ub1dpSFN3X3lqSW5MdWhfTDQyLWxGeUFMZDNMa2dVYVVTLWxIVjFBQkp4ams0N3ZyMjhjelFQUjZ2S29MWk01WDZJUUNGRmFjYmtUcWdBV0JkVHFkSzg0MXFaTmtlcmlydUdWQXlvbFU1Q0xvdFJwTndJTVBkRTBSWnlvZ0k1V2FHRG02blZNZ2NldWphUWc?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260911T065500Z",
+          "pinned": false
+        },
+        {
           "title": "Trump defends Iran war, slams Democrats and promises cash at Republicans' midterm convention",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd0ZpRE1lUUNOMTJHYzZ2UjRuVTlLbEgweXZ1bEV0Uk82QS12RzM3SGstLTd0dzNjcC16N1VIQnRoUndpcmF2RVFrLVYyQnBkS0JDZ1I5bGNLMDNsMTdWS2lrRGxoQ3VtV2lDNmNGZnBaZEFnNDJNUDFyOGt3MGdRT2VDS3VMdExFUS1kLWdaWFh6b2RUcHY5cG1rWkIzUHQ5cDZIRDNXYW14WVpSdkl6MTdTWTA?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "seen": "20260910T042300Z",
-          "pinned": false
-        },
-        {
-          "title": "How Ukraine’s deepest attack in Russia, on Arctic gas, signals new reach",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONXdmZHZRSVZfVWlRRmdBYzZkc01zdlQyam1JSEJIanFDZjBLVE1FdE5QOHNfdXRNai0yQmNURGVLTUprc2RzbGpTMlBURVg4aDdfQ1FHUVZDY1VDWTY2ZVA0UkF2dFJqN2FfV01xZFZMMkY2cXVvUkpVdEJDbTFHOWZ1aVhzWWVJVkJobmN3bTdoNXY5RmdTZ25FVlZCaTZzVHRoWDF5QXhPTFdUamE40gG0AUFVX3lxTE1sZnZwa2o5MHlXZFptbk93dUM3SFQ2UC04OHpBdTZvbW93TFR0czU1bVZMUHAxTUZzNEY5UUkxc29HZkRNYXd2bjJWRjhaTXMxblRJMzlESC1saGJCVWJiTnY4U2RFbUFfMXRlYmltZmdvRGdYckczQXdvSnd3aHdFMlpacE9CNXY2MlNiQldFaUtMMUc5UzFUcVZnbC1xRWpEZ1ZBLWR1aksyaldldXAwS3p2dQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260910T104643Z",
-          "pinned": false
-        },
-        {
-          "title": "Russian strikes kill 15 in Ukraine as Canada offers aid for air defences",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNHFka3hjaHZQXy1CMHJmckVoUjlVS3Ywbmt3eFJRcFJ3YWhmNzZacy1lWWdFNFQwSEZLbmE3eU1qYUNONWw5eGl5UjYyaWdVblBqeHNOSlRpTlpLYVZsYlQybGthTzZrTXhMNWNyVmpZc003a291TW00TjB0SHNuRzhZMm85bUVDaURYdVBuc1ZMYnZOZHo5NFI2c1BHUFdBNFpYdzF4Y2cwS25XVFRXcDcxWXlCUm_SAbwBQVVfeXFMUFo5TW1OeF9IalExb3RiMlJ4SHRHRUFJaHdONFpyV2JRRUJrNFJFUGNDc1lVYy0wUVhhMGdLZ2VNOG1yQl94R2JDeFFsRWVEYTZnMHZhLXNLdWNKVVF6LWZrT2VkVzd3cEVfd2hjSmRIUllLcm4xcV8za0djU3kyUXJkTlB3UTB6djFROExKQ0J6TG5aWEhaazNCa2tINFQwY0tpalBmZW55MGI0WF9FNkJrYml2UUV3Q0ZTMnA?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260910T200603Z",
-          "pinned": false
-        },
-        {
-          "title": "Fighting escalates in Yemen; Houthi attacks trigger alerts in Saudi Arabia",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbW5KRkNZS20weEZaRi1sZWIyR05GbGhIMThONlZqcU4ycHlIcHkzWkZnazFud0NCYXF5MHZlVF9sR2NQb3R0RVlYSHY5WUkxRVNNU2VZZ25LVnpUejdHY0VUVWtoTEFSTVdrdFhFS25JSjVELXdtNDA3X3VlVDdaNnQxLXllZTNmdkNrLUhiQi1pTndVX1hVT0lrMlI4eDhGT0M2V0RqVExSd1lDS3MxQzlLUlTSAboBQVVfeXFMTnRzUXZPZ3hRRl9LdkFPMzBGQ1pzOTAtckduNi1BTkhWWV9nQnFKRVlRenFja0NfbWlqTEpETnlIMEdCYzBLdWJzdkJZb3F3MkJuMHNhRXlLaFNkQThZeGd5bWFqQTBkTHFjZ3NTNXRHZjJNVWpRc2tZQVFIdmwzc2pSdWdCdEFKS1NybXV3dFgzam1xRVdFZHo0dUpZeUQ2Zm5VdE1pVWZOb1lhdGVUVkFOMjhIOXIzUmVn?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260910T110133Z",
           "pinned": false
         }
       ],
@@ -1538,15 +1538,6 @@
           "reportedAt": "2026-09-08T10:04:45Z"
         },
         {
-          "id": "report-894ebea8e1c6",
-          "title": "Some veterans to be called up to test UK's war resilience",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12dkVSWVU0bDVwdEVGa2REYlpBOWZIVVZlV1J5dE9HR0lzOXprLXFuTXhGZ1drU1NBMlEzOEtIUVdEcmx6bF9idTZQWHN4ekFKVDFESlFaVTBzUQ?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-08T11:01:19Z"
-        },
-        {
           "id": "report-289b7efef270",
           "title": "Trump widens trade war with Canada beyond tariffs. Here’s what to know",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUHRWc2I4elJ6Ukh6TzhHcF9IUEFEbnZFUkRiYTQ5Nnh2cUUxU3pQYXR0eml3UFFNWGt2bHFBdzJXeEIxRV96dXdBOUY2VzFYZXhVY2hhRmlEcVF0Y0xGNVAwX0ZzZGloOURMTzZ4bERjbDlmWnBzRWoxbVRqYUt4OWJEanc2V3YyTlNGSURSQjlpblJIV2FIT3A3bzBhQQ?oc=5",
@@ -1554,6 +1545,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-09T02:57:00Z"
+        },
+        {
+          "id": "report-894ebea8e1c6",
+          "title": "Some veterans to be called up to test UK's war resilience",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12dkVSWVU0bDVwdEVGa2REYlpBOWZIVVZlV1J5dE9HR0lzOXprLXFuTXhGZ1drU1NBMlEzOEtIUVdEcmx6bF9idTZQWHN4ekFKVDFESlFaVTBzUQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-08T11:01:19Z"
         },
         {
           "id": "report-4304034c0982",
@@ -1565,6 +1565,15 @@
           "reportedAt": "2026-09-08T14:35:18Z"
         },
         {
+          "id": "report-2de2e44610ae",
+          "title": "‘Everything changed’: The human cost of 25 years of US wars",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOclZaX1hQTGRVdlB5V1ZCV1VJSm1lZHhHOC02cTVzQlIwQXI5Q25tdnVNcXVMX0thS2pGMXo1TXZGY3lJZG52dVNCUG5lNUQ1bFlXMlNmMTJ2MzNrTTY1QWpueVpBQmJ0YjRrNmJ4OVBBbnZjRkpTN3Z2WXp3V2VuVVBZMk9DbzBPeTBVVHl4aGxKbWU5QnhkWWVTVUo2UW9MVkJqS3ZMX0cwZ9IBrwFBVV95cUxNblcydkNyMk5GNWlfT3d3YUdZRE5WZ2YyS0RtOGFSWmUwTmJsVnRrUThPVGc2U0JXdHJDMElXT2hMZXhVSUhsOGJZVEQwVk5WZnVzb1ZSeFVfSENzblR3eUtMUkpnUzdUckZldmNIOC1VcDFJa1JacFltYzBxeVlsYnFxN0ZWdTJRdE1LNFl4VGZWOUZ3SU1KWFhmWjVQTmZLei1BaWhiQWxqdE1IVDFJ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-11T05:29:36Z"
+        },
+        {
           "id": "report-f73b953bcedc",
           "title": "US banning dairy products, most alcohol and motorcycles from Canada in growing trade war",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc1BOQjh6RzR3NkhUTWNocHc3U2RzckMzVGdyMFVwR0JqS3JocTgtbFFwTkwtUU1pTURKNGNma3VpZmYtUExvaHZuYU8wZTlDSEFqemRLc0U0NzhyWUxtaDVxUUp1TW45TFU2MnY5WGhqNFVWd0RPWG1sV1J0N2x3LUFweTlPb0pjcm9YcW9oSS1uTk14cWVIWUJ2Z202Zw?oc=5",
@@ -1574,13 +1583,13 @@
           "reportedAt": "2026-09-09T15:51:00Z"
         },
         {
-          "id": "report-ea87a08b4e38",
-          "title": "Saudi Arabia says 73 wounded as Houthis attack civilian and energy sites",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNelpMMWdSSTBNZG5rSnpCMmk5MnVUNGNIR1lvVTQ0X20zUFFIYUdheDN0QzFoRm15VGdmNmlvUi1rUHRJWkRqMXdPTFJwQ3FzUTFPWlpPNGFtNjI5UGE0U1c3azQyanhLdTdvMTZXcGJSYXMzVWczU0pwUU5GLXcxOXZ3dGpuMUplbm9NRzZuV0ZuUGV2SnB5OERyRXVENHpXNWxtSFk1SFpEazFBdVVV0gG0AUFVX3lxTE81M3laVXFBWllCdmJvOFZhQ2J1TjlPVFpNRzdGa2xLNktBSUhJYjlHYU9CLWlaVFNCNmMwOXRZd2doTU9UWTdxV1hZQ2FQWVFSUlBzYVVVX3hWaFNCRXJSRHY0TWc2aFkxNk96TUhwTi1POGdQNlZvTkd4Z3IxeU8xWmpoNmdFVTd3QzUyR3hxUnRjYUFQeGZoQ3FOa0pUWlhhWEVCLTNGRVlJaVdnTFdzUGZ3Rg?oc=5",
+          "id": "report-9fff18972fa3",
+          "title": "How 9/11 helped Israel sell its war on Palestinians to America",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUUs5UHJNRlZvTER5dTdEMTdReEhLcHNaVmdSQUxMQzZ4LU5sT1Y1cnA5OGRsQVpGX2ZRbkZ3cVdVbS14cTFMQzF3bWFpWHQ3WVkwdm1ZWDNHRGxZWVZGRVh3aFYxUzByb3BsYTVhcV9HNldtaTg5T3VSMDB5NFR2VUpBTVVoUnB5dWh6VnVHZjdFaWUySjgxWnVkcXZJMGty0gGmAUFVX3lxTE95TC02ZXZIVVpQbHRubnZwMzFyaGlEdk5palVsTld1RHpqUUcxZlkyUGc2WkJvSzhCT0REY3FodmN6b1JlQm41ZXVkLWoxalRkSVBKdWZvZ3RnMlBucVdfNDZZOXctOThPemtsYjROZV9RU3lCbGdFNEVzWTl2N0k0QnRRVjIxZXJuakZKUFk2NklQUmpKeEwxQWhmV1pVbHhXbFVhdkE?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-08T12:44:51Z"
+          "reportedAt": "2026-09-11T08:20:42Z"
         },
         {
           "id": "report-4528e3a8b26f",
@@ -1592,40 +1601,13 @@
           "reportedAt": "2026-09-09T21:11:55Z"
         },
         {
-          "id": "report-b84a6a1af917",
-          "title": "Hegseth is shaking up the Pentagon as the US wages war - but at what cost?",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4bkdJMVVCOHFBT3ZLY0thaXNyR2stemRwNzVjWE5sR0xpVjU3blJOcU9yWkRPWmxlOE5mNGJDSURJX1ZfelRObUp5TUNjVHhDekJOTTFTNXl2Zw?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-08T23:11:41Z"
-        },
-        {
-          "id": "report-186bfb5dad16",
-          "title": "Trump says oil prices that spiked because of Iran war likely won't come down until after midterms",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMXltZEtoQUhXVTQ1bWJMekROZWpIeXVtZmljZlVNejktRWE0TlZEdWY3X1hGMnNQRXVUUm9mTGN1RUFYOGh5SlF0LWRnWnZCaV9sYllTLVoyekU3TWlxNTYxenMteGVNSEw2d1ZmMnhOVXdoRGFmS2I5R2ljdTdkN3JwamRjbFJlb2JST2Q5YUgtXzRw?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-10T02:27:00Z"
-        },
-        {
-          "id": "report-b0b21661736e",
-          "title": "EU condemns Serbia’s ministers for attending funeral of war criminal Mladic",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPY1pYNmQyNm1YaVE4c0EwWHZOc3JESGFtWjc5MFJCR2tLb2g1M3NFLTBjS3dfclZUMXkwT3FkWHlrUU5hTDN6Z2laRmdCOXFOeFo3WGVwVVdZVk9CZjQ2UEhhZDJKYXRNSkNJcnFZeW5CR1hoX1F2QU5hT1F2MlNsdExDNHFIS3I5NV9XbjUzcXU2SUZXZTJMVGZOT2wtMlhpeVU5c1l1OEI5VUp5ajBVV190eDTSAboBQVVfeXFMT0JwQThPZ3hwZUF2ZGNuOUQ0bjA1NktWVVktNHpzWUdxcDV0YXdpeE4tcUx0aUZaRkFZUXJ1Mm9lSzNuRXdQQkJjQ1k0SE9YbkZCemhUOGJwNUZlbkFsQi1hU1I3X29BZzR5QjhsQlVRZlpyR1h4R3lTcjhrRnhVREFMMkx0cjZBSzdZaGtzUkNnQlBKTmVHZktZM0VwaExhYXZNbnZycnZtdENjS1RsNXF2cnVVQjItZ1B3?oc=5",
+          "id": "report-ea87a08b4e38",
+          "title": "Saudi Arabia says 73 wounded as Houthis attack civilian and energy sites",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNelpMMWdSSTBNZG5rSnpCMmk5MnVUNGNIR1lvVTQ0X20zUFFIYUdheDN0QzFoRm15VGdmNmlvUi1rUHRJWkRqMXdPTFJwQ3FzUTFPWlpPNGFtNjI5UGE0U1c3azQyanhLdTdvMTZXcGJSYXMzVWczU0pwUU5GLXcxOXZ3dGpuMUplbm9NRzZuV0ZuUGV2SnB5OERyRXVENHpXNWxtSFk1SFpEazFBdVVV0gG0AUFVX3lxTE81M3laVXFBWllCdmJvOFZhQ2J1TjlPVFpNRzdGa2xLNktBSUhJYjlHYU9CLWlaVFNCNmMwOXRZd2doTU9UWTdxV1hZQ2FQWVFSUlBzYVVVX3hWaFNCRXJSRHY0TWc2aFkxNk96TUhwTi1POGdQNlZvTkd4Z3IxeU8xWmpoNmdFVTd3QzUyR3hxUnRjYUFQeGZoQ3FOa0pUWlhhWEVCLTNGRVlJaVdnTFdzUGZ3Rg?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-08T15:04:49Z"
-        },
-        {
-          "id": "report-7fbeba35c185",
-          "title": "US military says it destroyed 5 more Iranian oil tankers after missile attacks on Navy warship",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUlN5b1FuNFl6ajd5T0Z0MVppWHZ5Y2hFOHJ4dkd0X1dqMGljMHlOX0FZNE9HSXU4SmoxVUVQVEs5OUg2OG8yM1NyazNZQ1VPU1dCS3p0NmNsUk5rVjBMY0xONjRQWGRtTk1vZkNFOC1PWElwcGZmbk9SUzVRS3JCeTlhN25heDc1b0dWbA?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-09T02:16:00Z"
+          "reportedAt": "2026-09-08T12:44:51Z"
         },
         {
           "id": "report-e4a88966da3a",
@@ -1637,6 +1619,51 @@
           "reportedAt": "2026-09-11T00:15:25Z"
         },
         {
+          "id": "report-186bfb5dad16",
+          "title": "Trump says oil prices that spiked because of Iran war likely won't come down until after midterms",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMXltZEtoQUhXVTQ1bWJMekROZWpIeXVtZmljZlVNejktRWE0TlZEdWY3X1hGMnNQRXVUUm9mTGN1RUFYOGh5SlF0LWRnWnZCaV9sYllTLVoyekU3TWlxNTYxenMteGVNSEw2d1ZmMnhOVXdoRGFmS2I5R2ljdTdkN3JwamRjbFJlb2JST2Q5YUgtXzRw?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-10T02:27:00Z"
+        },
+        {
+          "id": "report-0b5293d987e7",
+          "title": "Young republicans break with Trump over Iran war",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQWh1RnF0OG5ZanhyR1piaVA1QWM4WF9qaWFGSHpWaVZhNjFobVphVnFsdTlaWEFDVko1b0htbjhOR0JzZW50WHpEbnRiTlBreUE0TlJVcWNkd2hpODdvVnNRU0IwNzNZdk9iU1NTd25UemhfWUV0S2N3ZVJUTjlVaE5SbWwtWFU1MnpJaUhWcXhGc21KZ1RxN2pHWk1rUUJu0gGmAUFVX3lxTE5ZaWJyZlZoTEszTnRZeE9nOFJHYnZYRzNTTmd3a1R3bWZtbFAzS3BGOEhFTjU2VndKcW9WeEwzdWd5aUhOTmtJbzVwanpoSmRjMlNES3psMXp5NU85VEFaakQ4RkwtRXJWRHBVaDdhYXFTYy12V1RqVHpLRjdBcVFKcEI0QkFFekRoblRwY1dfSzhxZ1ZvODJQSFRtVTFlSGxPODRXbkE?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-11T03:03:49Z"
+        },
+        {
+          "id": "report-7fbeba35c185",
+          "title": "US military says it destroyed 5 more Iranian oil tankers after missile attacks on Navy warship",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUlN5b1FuNFl6ajd5T0Z0MVppWHZ5Y2hFOHJ4dkd0X1dqMGljMHlOX0FZNE9HSXU4SmoxVUVQVEs5OUg2OG8yM1NyazNZQ1VPU1dCS3p0NmNsUk5rVjBMY0xONjRQWGRtTk1vZkNFOC1PWElwcGZmbk9SUzVRS3JCeTlhN25heDc1b0dWbA?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-09T02:16:00Z"
+        },
+        {
+          "id": "report-b84a6a1af917",
+          "title": "Hegseth is shaking up the Pentagon as the US wages war - but at what cost?",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4bkdJMVVCOHFBT3ZLY0thaXNyR2stemRwNzVjWE5sR0xpVjU3blJOcU9yWkRPWmxlOE5mNGJDSURJX1ZfelRObUp5TUNjVHhDekJOTTFTNXl2Zw?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-08T23:11:41Z"
+        },
+        {
+          "id": "report-b479c6e95fbc",
+          "title": "The US has made progress in reopening the Strait of Hormuz, but the Iran war is far from over",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdkRFZzA4VW9Ub1dpSFN3X3lqSW5MdWhfTDQyLWxGeUFMZDNMa2dVYVVTLWxIVjFBQkp4ams0N3ZyMjhjelFQUjZ2S29MWk01WDZJUUNGRmFjYmtUcWdBV0JkVHFkSzg0MXFaTmtlcmlydUdWQXlvbFU1Q0xvdFJwTndJTVBkRTBSWnlvZ0k1V2FHRG02blZNZ2NldWphUWc?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-11T06:55:00Z"
+        },
+        {
           "id": "report-829d0e04d786",
           "title": "Trump defends Iran war, slams Democrats and promises cash at Republicans' midterm convention",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd0ZpRE1lUUNOMTJHYzZ2UjRuVTlLbEgweXZ1bEV0Uk82QS12RzM3SGstLTd0dzNjcC16N1VIQnRoUndpcmF2RVFrLVYyQnBkS0JDZ1I5bGNLMDNsMTdWS2lrRGxoQ3VtV2lDNmNGZnBaZEFnNDJNUDFyOGt3MGdRT2VDS3VMdExFUS1kLWdaWFh6b2RUcHY5cG1rWkIzUHQ5cDZIRDNXYW14WVpSdkl6MTdTWTA?oc=5",
@@ -1644,33 +1671,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-10T04:23:00Z"
-        },
-        {
-          "id": "report-dfb1fe51ddcd",
-          "title": "How Ukraine’s deepest attack in Russia, on Arctic gas, signals new reach",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONXdmZHZRSVZfVWlRRmdBYzZkc01zdlQyam1JSEJIanFDZjBLVE1FdE5QOHNfdXRNai0yQmNURGVLTUprc2RzbGpTMlBURVg4aDdfQ1FHUVZDY1VDWTY2ZVA0UkF2dFJqN2FfV01xZFZMMkY2cXVvUkpVdEJDbTFHOWZ1aVhzWWVJVkJobmN3bTdoNXY5RmdTZ25FVlZCaTZzVHRoWDF5QXhPTFdUamE40gG0AUFVX3lxTE1sZnZwa2o5MHlXZFptbk93dUM3SFQ2UC04OHpBdTZvbW93TFR0czU1bVZMUHAxTUZzNEY5UUkxc29HZkRNYXd2bjJWRjhaTXMxblRJMzlESC1saGJCVWJiTnY4U2RFbUFfMXRlYmltZmdvRGdYckczQXdvSnd3aHdFMlpacE9CNXY2MlNiQldFaUtMMUc5UzFUcVZnbC1xRWpEZ1ZBLWR1aksyaldldXAwS3p2dQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-10T10:46:43Z"
-        },
-        {
-          "id": "report-fc7e2e73062f",
-          "title": "Russian strikes kill 15 in Ukraine as Canada offers aid for air defences",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNHFka3hjaHZQXy1CMHJmckVoUjlVS3Ywbmt3eFJRcFJ3YWhmNzZacy1lWWdFNFQwSEZLbmE3eU1qYUNONWw5eGl5UjYyaWdVblBqeHNOSlRpTlpLYVZsYlQybGthTzZrTXhMNWNyVmpZc003a291TW00TjB0SHNuRzhZMm85bUVDaURYdVBuc1ZMYnZOZHo5NFI2c1BHUFdBNFpYdzF4Y2cwS25XVFRXcDcxWXlCUm_SAbwBQVVfeXFMUFo5TW1OeF9IalExb3RiMlJ4SHRHRUFJaHdONFpyV2JRRUJrNFJFUGNDc1lVYy0wUVhhMGdLZ2VNOG1yQl94R2JDeFFsRWVEYTZnMHZhLXNLdWNKVVF6LWZrT2VkVzd3cEVfd2hjSmRIUllLcm4xcV8za0djU3kyUXJkTlB3UTB6djFROExKQ0J6TG5aWEhaazNCa2tINFQwY0tpalBmZW55MGI0WF9FNkJrYml2UUV3Q0ZTMnA?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-10T20:06:03Z"
-        },
-        {
-          "id": "report-76f834329894",
-          "title": "Fighting escalates in Yemen; Houthi attacks trigger alerts in Saudi Arabia",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbW5KRkNZS20weEZaRi1sZWIyR05GbGhIMThONlZqcU4ycHlIcHkzWkZnazFud0NCYXF5MHZlVF9sR2NQb3R0RVlYSHY5WUkxRVNNU2VZZ25LVnpUejdHY0VUVWtoTEFSTVdrdFhFS25JSjVELXdtNDA3X3VlVDdaNnQxLXllZTNmdkNrLUhiQi1pTndVX1hVT0lrMlI4eDhGT0M2V0RqVExSd1lDS3MxQzlLUlTSAboBQVVfeXFMTnRzUXZPZ3hRRl9LdkFPMzBGQ1pzOTAtckduNi1BTkhWWV9nQnFKRVlRenFja0NfbWlqTEpETnlIMEdCYzBLdWJzdkJZb3F3MkJuMHNhRXlLaFNkQThZeGd5bWFqQTBkTHFjZ3NTNXRHZjJNVWpRc2tZQVFIdmwzc2pSdWdCdEFKS1NybXV3dFgzam1xRVdFZHo0dUpZeUQ2Zm5VdE1pVWZOb1lhdGVUVkFOMjhIOXIzUmVn?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-10T11:01:33Z"
         },
         {
           "id": "report-defc72fd3c7f",
