@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-12T15:32:42.879Z",
+  "generatedAt": "2026-09-12T17:50:21.895Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -9,7 +9,7 @@
       "items": []
     },
     "safety": {
-      "generatedAt": "2026-09-11T18:44:43.516Z",
+      "generatedAt": "2026-09-12T17:50:21.895Z",
       "cadence": "daily",
       "items": [
         {
@@ -58,14 +58,6 @@
           "domain": "stripes.com",
           "sourceTier": "Independent reporting",
           "seen": "20260828T070000Z",
-          "pinned": false
-        },
-        {
-          "title": "A Lasting Lesson: What the Rotak CH-47D Crash Teaches Us About Crew Discipline",
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUTdMM2hwSUw3Szk1Y3VpOVFRTjdQdnJmZzZaZWp6N3JzbjJpa3ZES0JyVm0za3Y4Z05zUmptck9FbHRCU2JyOVVFQTdVNC1nYUxEWEVQY2FRenhZWEI5YjVpS0ZTLW9NdWJyWWtpSU92dXQ2eVVMcHZGT18xdEVvc05YUWV3a2tHS1YyYldKRDlhel9zN3hGY0dUaTk4WDVGN1hGWm5DOUQtbFNiWGlHdktOb1htbDF6blNnV0JLbUY2S2RJX1hkbVMxaWxWRm1jcHVFcm5OZ2R1VXZTc0w1NnBNWWJ1UC1CZmYzV0hNaUY?oc=5",
-          "domain": "safety.army.mil",
-          "sourceTier": "Official military source",
-          "seen": "20260823T090700Z",
           "pinned": false
         },
         {
