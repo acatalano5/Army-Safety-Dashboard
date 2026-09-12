@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-12T04:33:36.672Z",
+  "generatedAt": "2026-09-12T10:44:54.463Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-09-12T04:33:36.672Z",
+      "generatedAt": "2026-09-12T10:44:54.463Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -1277,7 +1277,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-09-12T04:33:36.672Z",
+      "generatedAt": "2026-09-12T10:44:54.463Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -1289,19 +1289,19 @@
           "pinned": false
         },
         {
-          "title": "Watch: Trump says Iran war will end 'immediately' after US midterm elections",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE84dHFTZUp2ajRGcGFzRzdJV3M1SmJaODBodGN1OXE5cFFkMGZNMlJvSXF4ajlJbGhKa29RUVRYdTdtNDgtTDZfNWlDWW0zTmxJSWF0UjRERQ?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260909T211212Z",
-          "pinned": false
-        },
-        {
           "title": "Trump’s Iran war now has a midterm election problem",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUjl0a2ZyQzNPa3RUbmlVNkhoS1FwMTExUHhWOFo3Y3NNdmVjcVp5QV91ZHFYb3NNZzZnNHQ2WFRnWkZNUHhzUkpEUjduZ2doWlZ6Tm9vQi0tT05KUkV6NUZlWXRQcGV5VDd3LWNOV1pKTlItcXNqMElGTW11VDBWWDl3SC1zZEM1VDdkTENqQ2VYTjVqTXfSAZsBQVVfeXFMUE1WQ2RRVlF6TkUwV0Z3c3ZRRGs4R1otcWVheGJOQ2VxMFpoWlB2NGtUMlB6eVdpOS1xN2F2MUhkTHh1bzQzMElab2xXb1F4am1MOHljVWdRNEp5Y0VkSk5BWERyMkxGUVowbnh0YjNlTGRFSTEyTzFrNmJMa2J6MkxPbGI0QUo0RHlUbnViTnB2OW9SUXdRMUlpVG8?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260910T164602Z",
+          "pinned": false
+        },
+        {
+          "title": "Watch: Trump says Iran war will end 'immediately' after US midterm elections",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE84dHFTZUp2ajRGcGFzRzdJV3M1SmJaODBodGN1OXE5cFFkMGZNMlJvSXF4ajlJbGhKa29RUVRYdTdtNDgtTDZfNWlDWW0zTmxJSWF0UjRERQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260909T211212Z",
           "pinned": false
         },
         {
@@ -1326,14 +1326,6 @@
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20260911T151939Z",
-          "pinned": false
-        },
-        {
-          "title": "The US has made progress in reopening the Strait of Hormuz, but the Iran war is far from over",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdkRFZzA4VW9Ub1dpSFN3X3lqSW5MdWhfTDQyLWxGeUFMZDNMa2dVYVVTLWxIVjFBQkp4ams0N3ZyMjhjelFQUjZ2S29MWk01WDZJUUNGRmFjYmtUcWdBV0JkVHFkSzg0MXFaTmtlcmlydUdWQXlvbFU1Q0xvdFJwTndJTVBkRTBSWnlvZ0k1V2FHRG02blZNZ2NldWphUWc?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260911T065500Z",
           "pinned": false
         },
         {
@@ -1377,19 +1369,19 @@
           "pinned": false
         },
         {
-          "title": "US military says it destroyed 5 more Iranian oil tankers after missile attacks on Navy warship",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUlN5b1FuNFl6ajd5T0Z0MVppWHZ5Y2hFOHJ4dkd0X1dqMGljMHlOX0FZNE9HSXU4SmoxVUVQVEs5OUg2OG8yM1NyazNZQ1VPU1dCS3p0NmNsUk5rVjBMY0xONjRQWGRtTk1vZkNFOC1PWElwcGZmbk9SUzVRS3JCeTlhN25heDc1b0dWbA?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260909T021600Z",
-          "pinned": false
-        },
-        {
           "title": "Trump says Putin wants to make a deal to end Ukraine war",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObV9maUtKR3pvdXk0Xzdva1p3azVJclZyQk1vdXUxSjg2Mk5aTzhZaTlDNmlMWjlDMVBHR3VwY2hhVzh2dklhdWIxSG1pUC1zYWtNNXZSb3hwWVMyR0RVWDFuM25ia2ZOQk82SF95V2I4UTJJbXNpc1pzbkF2V3IyQVNSeXExdE1KM1pSOGZ5blU0QWR6clVidzhKV21rZU10ZFBGNFF1WUZUZ9IBrwFBVV95cUxOU3FqdjJMeEt0QzNwQ3RJUFA1MnhMVW5RZ3Q2c2tMeFRnaFljdzlyLWVHekJaZGpfd2stenFTVHJlTjBFSTBkemJPazNsS2t4SlBHTFp2b2RQWThmbUNHYXJMZ2JSQlVxWkQ3UnBpdEJSWkNVcVFtbm9zV2tkaHFFMUtaOGdKR3R5RDZGOERsTFNxa0ZzZWIwYnFTX1FSd3BoaXJUOTFpTzdLVVdsSEFj?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260909T211155Z",
+          "pinned": false
+        },
+        {
+          "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WYkFDZzd0RXNwRTVPRHhYcTlPRG12WmJXWU9fYVZ6YjBjOUFUMXNoZEhYMjRpcEF4WGNhNmVnQzZ4eDl5Y0d3dDZQTVZnd0xNWExUY2JvSWhxdw?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260912T044310Z",
           "pinned": false
         },
         {
@@ -1425,11 +1417,27 @@
           "pinned": false
         },
         {
+          "title": "Putin says deployment of European troops to Ukraine would mean war with Russia",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTjl4ZmRaOEMwZFhiRmJ1YTdrcjlsTUFwUzRrOE9EY3FabGpyWjUxU2hKUFFrcnpUZ0ZhOUctcDNlaXNnckQySkZ4dGtVSzJ5Vy1OMVV2VUtlUzVFZjRLQzRKNnBjRFFyX1Rua21WTnZZdzJ2c00tenVhR1hBWUl0SVNJd1hObjNwZlBCUG5iVlYxdWJpc3RtTWtUVVlkM3NLVGdnai11YzNiQktnSWdnTDV4U2hfN0FINjdR?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20260911T212158Z",
+          "pinned": false
+        },
+        {
           "title": "The Border War: No. 23 Missouri visits Kansas in latest rivalry game steeped in Civil War-era battle",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOX1hFUXkyQ1VMZUtIZENibVkzeEI2dlV3MUk5Vm1Ld1FMVTVwN2llaUlHZTZrNXhwR1JRTTBzREtQT1dyOS1FV0tJZ1NhWWV6WkFrUHZaQXdKWjVkM18yR0M5R29TbzJrbEN3RmhJSFU4Yk5BQWJGSEk3TFBMSGh6Y0xiRWpPQWNNd0RZamJ6WE8wUE9KbHJaZzczUVRINkR1alRaa3VlLURaZTNkU0xueQ?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "seen": "20260909T161700Z",
+          "pinned": false
+        },
+        {
+          "title": "Russia strikes cargo vessels, steel plants across Ukraine",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWVZZYUw3SGx6TDJld21TNnJ2Z0I3YmMzc2FDcmRuX3d5UXRJQkVFSGpZazdUMmxrWjBuN0lhd0Nxc1lpRDhzbTdHOHJoSkxLNXY0X0o5eXlQSk16WVFjekpOU0JQc2JSRTNCNURQald1NzhHT295QVJNa0I4QlJlVzI4eTk1Z2VnNDFTUFdUajJ6ZE9rT0tPeGU4OHVFd9IBowFBVV95cUxNQUc4ZzBSSTNwMTZreGNGQWVoMnBxd0lRZ002UzdySk1xQ2tQVlA2OVN2djBRVk5IUEtjTUNoNG13ZW5rQ2w3bVpzT2xXdW4xTTA2Q3p0ZUJvVVh0a285Nm9kOUlUT21qWEotcFRQTUhCOGQ3ckNkTGswSmxZdWpNUk1Ybkk5MGtmeEdIay1RVWdlMVZDYkM0My1iMnFDeXdOb2tn?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260912T091108Z",
           "pinned": false
         },
         {
@@ -1441,14 +1449,6 @@
           "pinned": false
         },
         {
-          "title": "Fighting escalates in Yemen; Houthi attacks trigger alerts in Saudi Arabia",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbW5KRkNZS20weEZaRi1sZWIyR05GbGhIMThONlZqcU4ycHlIcHkzWkZnazFud0NCYXF5MHZlVF9sR2NQb3R0RVlYSHY5WUkxRVNNU2VZZ25LVnpUejdHY0VUVWtoTEFSTVdrdFhFS25JSjVELXdtNDA3X3VlVDdaNnQxLXllZTNmdkNrLUhiQi1pTndVX1hVT0lrMlI4eDhGT0M2V0RqVExSd1lDS3MxQzlLUlTSAboBQVVfeXFMTnRzUXZPZ3hRRl9LdkFPMzBGQ1pzOTAtckduNi1BTkhWWV9nQnFKRVlRenFja0NfbWlqTEpETnlIMEdCYzBLdWJzdkJZb3F3MkJuMHNhRXlLaFNkQThZeGd5bWFqQTBkTHFjZ3NTNXRHZjJNVWpRc2tZQVFIdmwzc2pSdWdCdEFKS1NybXV3dFgzam1xRVdFZHo0dUpZeUQ2Zm5VdE1pVWZOb1lhdGVUVkFOMjhIOXIzUmVn?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260910T110133Z",
-          "pinned": false
-        },
-        {
           "title": "The dystopian legal architecture of the ‘war on terror’ must be dismantled",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNS0liQ2FVMEFFQm1vOXZXYXdFWTlPRkJldkJvdlVnVXY1S1dPcmJEckVSaHpRWmxfWVNEeWY2Q0xxS21yamFaVUhIOEJEb0FHYXlibzYxdkJRcGpYRThOU2xlMk5pT1hCN3VGc0xzd2tGSG9DZk5SQ2tEQXRIb0RwS2t1RTI0d283NzcyT3lKNjFYNjBRVndaeTlMNjZ0UklicnJzeHpGejBiUTgzdnBmVTBIX2JZTXU00gG-AUFVX3lxTE5MZFVoRkNCdURucWdlRDN3dmcyLWh4d3RlWXgwb2JQQlJOUDkxTHYwejlYSWFjSVUwODJwTGRtdXc2blVaS0k1QXR3b3pIdURqX2pmQVdLRXh2QmxDdUl5RXFINjQwZkRzQWxJTVBESElsTmV0SjJ4MXhqWWVOSmxSWXJ5ZVI5NHU0WFZ6UzlwY0s1UC1GX0kxTHptTWZaU2JjcGZQVTg0TF9VLWJFSEhGQmMzcnpGLUEycVYydXc?oc=5",
           "domain": "aljazeera.com",
@@ -1457,11 +1457,11 @@
           "pinned": false
         },
         {
-          "title": "Brent crude surpasses $100 a barrel as Iran, US escalate attacks",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY1o4VE5UNk5MRWQ3UFJkakZFdDFuNUw3Z00yNkFrdW5Na0luMm9oaUlDRkItVkRkZExuWGEzR3p5d2pUVVB5aEU2bHdRWDhwUUxFM29kNmp1MXRtaGpqMVJXN3VzbXFaMzFWdG1pbkxfRG02RzN4bnl0cTloRGhOdTJLaDVzZWZvRU9BdldmN0VTbV9xTXA0N2s2ZWVxd9IBowFBVV95cUxQc09RTEM3dmF6TUw4eDU4SjNNdUV6eWpRVUFGUmFUV3ZsSzFYeVJiNnM5RUdteEdjSDMzbm5TWDZfX1JUX1ZIa0RvSjEzbW9SQ2JWSm11czhSRnEyckZoWnhNZFkxakJJeURWU2g5NUJuLXVFVDBtczRGWWZXVnB1aWZ4RG1pNGVVbHZpeUF6SkhuY19oMll4Z1Fsem40MWJ2aGFJ?oc=5",
+          "title": "Fighting escalates in Yemen; Houthi attacks trigger alerts in Saudi Arabia",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbW5KRkNZS20weEZaRi1sZWIyR05GbGhIMThONlZqcU4ycHlIcHkzWkZnazFud0NCYXF5MHZlVF9sR2NQb3R0RVlYSHY5WUkxRVNNU2VZZ25LVnpUejdHY0VUVWtoTEFSTVdrdFhFS25JSjVELXdtNDA3X3VlVDdaNnQxLXllZTNmdkNrLUhiQi1pTndVX1hVT0lrMlI4eDhGT0M2V0RqVExSd1lDS3MxQzlLUlTSAboBQVVfeXFMTnRzUXZPZ3hRRl9LdkFPMzBGQ1pzOTAtckduNi1BTkhWWV9nQnFKRVlRenFja0NfbWlqTEpETnlIMEdCYzBLdWJzdkJZb3F3MkJuMHNhRXlLaFNkQThZeGd5bWFqQTBkTHFjZ3NTNXRHZjJNVWpRc2tZQVFIdmwzc2pSdWdCdEFKS1NybXV3dFgzam1xRVdFZHo0dUpZeUQ2Zm5VdE1pVWZOb1lhdGVUVkFOMjhIOXIzUmVn?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260909T123056Z",
+          "seen": "20260910T110133Z",
           "pinned": false
         },
         {
@@ -1484,15 +1484,6 @@
           "reportedAt": "2026-09-09T13:35:57Z"
         },
         {
-          "id": "report-b15a468e49b1",
-          "title": "Watch: Trump says Iran war will end 'immediately' after US midterm elections",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE84dHFTZUp2ajRGcGFzRzdJV3M1SmJaODBodGN1OXE5cFFkMGZNMlJvSXF4ajlJbGhKa29RUVRYdTdtNDgtTDZfNWlDWW0zTmxJSWF0UjRERQ?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-09T21:12:12Z"
-        },
-        {
           "id": "report-e85e7716d3dd",
           "title": "Trump’s Iran war now has a midterm election problem",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUjl0a2ZyQzNPa3RUbmlVNkhoS1FwMTExUHhWOFo3Y3NNdmVjcVp5QV91ZHFYb3NNZzZnNHQ2WFRnWkZNUHhzUkpEUjduZ2doWlZ6Tm9vQi0tT05KUkV6NUZlWXRQcGV5VDd3LWNOV1pKTlItcXNqMElGTW11VDBWWDl3SC1zZEM1VDdkTENqQ2VYTjVqTXfSAZsBQVVfeXFMUE1WQ2RRVlF6TkUwV0Z3c3ZRRGs4R1otcWVheGJOQ2VxMFpoWlB2NGtUMlB6eVdpOS1xN2F2MUhkTHh1bzQzMElab2xXb1F4am1MOHljVWdRNEp5Y0VkSk5BWERyMkxGUVowbnh0YjNlTGRFSTEyTzFrNmJMa2J6MkxPbGI0QUo0RHlUbnViTnB2OW9SUXdRMUlpVG8?oc=5",
@@ -1500,6 +1491,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-10T16:46:02Z"
+        },
+        {
+          "id": "report-b15a468e49b1",
+          "title": "Watch: Trump says Iran war will end 'immediately' after US midterm elections",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE84dHFTZUp2ajRGcGFzRzdJV3M1SmJaODBodGN1OXE5cFFkMGZNMlJvSXF4ajlJbGhKa29RUVRYdTdtNDgtTDZfNWlDWW0zTmxJSWF0UjRERQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-09T21:12:12Z"
         },
         {
           "id": "report-c103c75c4851",
@@ -1527,15 +1527,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-11T15:19:39Z"
-        },
-        {
-          "id": "report-b479c6e95fbc",
-          "title": "The US has made progress in reopening the Strait of Hormuz, but the Iran war is far from over",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdkRFZzA4VW9Ub1dpSFN3X3lqSW5MdWhfTDQyLWxGeUFMZDNMa2dVYVVTLWxIVjFBQkp4ams0N3ZyMjhjelFQUjZ2S29MWk01WDZJUUNGRmFjYmtUcWdBV0JkVHFkSzg0MXFaTmtlcmlydUdWQXlvbFU1Q0xvdFJwTndJTVBkRTBSWnlvZ0k1V2FHRG02blZNZ2NldWphUWc?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-11T06:55:00Z"
         },
         {
           "id": "report-9fff18972fa3",
@@ -1583,15 +1574,6 @@
           "reportedAt": "2026-09-10T02:27:00Z"
         },
         {
-          "id": "report-7fbeba35c185",
-          "title": "US military says it destroyed 5 more Iranian oil tankers after missile attacks on Navy warship",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUlN5b1FuNFl6ajd5T0Z0MVppWHZ5Y2hFOHJ4dkd0X1dqMGljMHlOX0FZNE9HSXU4SmoxVUVQVEs5OUg2OG8yM1NyazNZQ1VPU1dCS3p0NmNsUk5rVjBMY0xONjRQWGRtTk1vZkNFOC1PWElwcGZmbk9SUzVRS3JCeTlhN25heDc1b0dWbA?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-09T02:16:00Z"
-        },
-        {
           "id": "report-4528e3a8b26f",
           "title": "Trump says Putin wants to make a deal to end Ukraine war",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObV9maUtKR3pvdXk0Xzdva1p3azVJclZyQk1vdXUxSjg2Mk5aTzhZaTlDNmlMWjlDMVBHR3VwY2hhVzh2dklhdWIxSG1pUC1zYWtNNXZSb3hwWVMyR0RVWDFuM25ia2ZOQk82SF95V2I4UTJJbXNpc1pzbkF2V3IyQVNSeXExdE1KM1pSOGZ5blU0QWR6clVidzhKV21rZU10ZFBGNFF1WUZUZ9IBrwFBVV95cUxOU3FqdjJMeEt0QzNwQ3RJUFA1MnhMVW5RZ3Q2c2tMeFRnaFljdzlyLWVHekJaZGpfd2stenFTVHJlTjBFSTBkemJPazNsS2t4SlBHTFp2b2RQWThmbUNHYXJMZ2JSQlVxWkQ3UnBpdEJSWkNVcVFtbm9zV2tkaHFFMUtaOGdKR3R5RDZGOERsTFNxa0ZzZWIwYnFTX1FSd3BoaXJUOTFpTzdLVVdsSEFj?oc=5",
@@ -1599,6 +1581,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-09T21:11:55Z"
+        },
+        {
+          "id": "report-8528520ddfb0",
+          "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WYkFDZzd0RXNwRTVPRHhYcTlPRG12WmJXWU9fYVZ6YjBjOUFUMXNoZEhYMjRpcEF4WGNhNmVnQzZ4eDl5Y0d3dDZQTVZnd0xNWExUY2JvSWhxdw?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-12T04:43:10Z"
         },
         {
           "id": "report-e4a88966da3a",
@@ -1637,6 +1628,15 @@
           "reportedAt": "2026-09-10T17:04:06Z"
         },
         {
+          "id": "report-618e79ffa58a",
+          "title": "Putin says deployment of European troops to Ukraine would mean war with Russia",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTjl4ZmRaOEMwZFhiRmJ1YTdrcjlsTUFwUzRrOE9EY3FabGpyWjUxU2hKUFFrcnpUZ0ZhOUctcDNlaXNnckQySkZ4dGtVSzJ5Vy1OMVV2VUtlUzVFZjRLQzRKNnBjRFFyX1Rua21WTnZZdzJ2c00tenVhR1hBWUl0SVNJd1hObjNwZlBCUG5iVlYxdWJpc3RtTWtUVVlkM3NLVGdnai11YzNiQktnSWdnTDV4U2hfN0FINjdR?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-09-11T21:21:58Z"
+        },
+        {
           "id": "report-d854fcf12a27",
           "title": "The Border War: No. 23 Missouri visits Kansas in latest rivalry game steeped in Civil War-era battle",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOX1hFUXkyQ1VMZUtIZENibVkzeEI2dlV3MUk5Vm1Ld1FMVTVwN2llaUlHZTZrNXhwR1JRTTBzREtQT1dyOS1FV0tJZ1NhWWV6WkFrUHZaQXdKWjVkM18yR0M5R29TbzJrbEN3RmhJSFU4Yk5BQWJGSEk3TFBMSGh6Y0xiRWpPQWNNd0RZamJ6WE8wUE9KbHJaZzczUVRINkR1alRaa3VlLURaZTNkU0xueQ?oc=5",
@@ -1644,6 +1644,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-09T16:17:00Z"
+        },
+        {
+          "id": "report-0c4ece689d20",
+          "title": "Russia strikes cargo vessels, steel plants across Ukraine",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWVZZYUw3SGx6TDJld21TNnJ2Z0I3YmMzc2FDcmRuX3d5UXRJQkVFSGpZazdUMmxrWjBuN0lhd0Nxc1lpRDhzbTdHOHJoSkxLNXY0X0o5eXlQSk16WVFjekpOU0JQc2JSRTNCNURQald1NzhHT295QVJNa0I4QlJlVzI4eTk1Z2VnNDFTUFdUajJ6ZE9rT0tPeGU4OHVFd9IBowFBVV95cUxNQUc4ZzBSSTNwMTZreGNGQWVoMnBxd0lRZ002UzdySk1xQ2tQVlA2OVN2djBRVk5IUEtjTUNoNG13ZW5rQ2w3bVpzT2xXdW4xTTA2Q3p0ZUJvVVh0a285Nm9kOUlUT21qWEotcFRQTUhCOGQ3ckNkTGswSmxZdWpNUk1Ybkk5MGtmeEdIay1RVWdlMVZDYkM0My1iMnFDeXdOb2tn?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-12T09:11:08Z"
         },
         {
           "id": "report-dfb1fe51ddcd",
@@ -1655,15 +1664,6 @@
           "reportedAt": "2026-09-10T10:46:43Z"
         },
         {
-          "id": "report-76f834329894",
-          "title": "Fighting escalates in Yemen; Houthi attacks trigger alerts in Saudi Arabia",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbW5KRkNZS20weEZaRi1sZWIyR05GbGhIMThONlZqcU4ycHlIcHkzWkZnazFud0NCYXF5MHZlVF9sR2NQb3R0RVlYSHY5WUkxRVNNU2VZZ25LVnpUejdHY0VUVWtoTEFSTVdrdFhFS25JSjVELXdtNDA3X3VlVDdaNnQxLXllZTNmdkNrLUhiQi1pTndVX1hVT0lrMlI4eDhGT0M2V0RqVExSd1lDS3MxQzlLUlTSAboBQVVfeXFMTnRzUXZPZ3hRRl9LdkFPMzBGQ1pzOTAtckduNi1BTkhWWV9nQnFKRVlRenFja0NfbWlqTEpETnlIMEdCYzBLdWJzdkJZb3F3MkJuMHNhRXlLaFNkQThZeGd5bWFqQTBkTHFjZ3NTNXRHZjJNVWpRc2tZQVFIdmwzc2pSdWdCdEFKS1NybXV3dFgzam1xRVdFZHo0dUpZeUQ2Zm5VdE1pVWZOb1lhdGVUVkFOMjhIOXIzUmVn?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-10T11:01:33Z"
-        },
-        {
           "id": "report-c5edbcf0cf68",
           "title": "The dystopian legal architecture of the ‘war on terror’ must be dismantled",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNS0liQ2FVMEFFQm1vOXZXYXdFWTlPRkJldkJvdlVnVXY1S1dPcmJEckVSaHpRWmxfWVNEeWY2Q0xxS21yamFaVUhIOEJEb0FHYXlibzYxdkJRcGpYRThOU2xlMk5pT1hCN3VGc0xzd2tGSG9DZk5SQ2tEQXRIb0RwS2t1RTI0d283NzcyT3lKNjFYNjBRVndaeTlMNjZ0UklicnJzeHpGejBiUTgzdnBmVTBIX2JZTXU00gG-AUFVX3lxTE5MZFVoRkNCdURucWdlRDN3dmcyLWh4d3RlWXgwb2JQQlJOUDkxTHYwejlYSWFjSVUwODJwTGRtdXc2blVaS0k1QXR3b3pIdURqX2pmQVdLRXh2QmxDdUl5RXFINjQwZkRzQWxJTVBESElsTmV0SjJ4MXhqWWVOSmxSWXJ5ZVI5NHU0WFZ6UzlwY0s1UC1GX0kxTHptTWZaU2JjcGZQVTg0TF9VLWJFSEhGQmMzcnpGLUEycVYydXc?oc=5",
@@ -1673,13 +1673,13 @@
           "reportedAt": "2026-09-11T13:32:22Z"
         },
         {
-          "id": "report-c2be28e1c857",
-          "title": "Brent crude surpasses $100 a barrel as Iran, US escalate attacks",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY1o4VE5UNk5MRWQ3UFJkakZFdDFuNUw3Z00yNkFrdW5Na0luMm9oaUlDRkItVkRkZExuWGEzR3p5d2pUVVB5aEU2bHdRWDhwUUxFM29kNmp1MXRtaGpqMVJXN3VzbXFaMzFWdG1pbkxfRG02RzN4bnl0cTloRGhOdTJLaDVzZWZvRU9BdldmN0VTbV9xTXA0N2s2ZWVxd9IBowFBVV95cUxQc09RTEM3dmF6TUw4eDU4SjNNdUV6eWpRVUFGUmFUV3ZsSzFYeVJiNnM5RUdteEdjSDMzbm5TWDZfX1JUX1ZIa0RvSjEzbW9SQ2JWSm11czhSRnEyckZoWnhNZFkxakJJeURWU2g5NUJuLXVFVDBtczRGWWZXVnB1aWZ4RG1pNGVVbHZpeUF6SkhuY19oMll4Z1Fsem40MWJ2aGFJ?oc=5",
+          "id": "report-76f834329894",
+          "title": "Fighting escalates in Yemen; Houthi attacks trigger alerts in Saudi Arabia",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbW5KRkNZS20weEZaRi1sZWIyR05GbGhIMThONlZqcU4ycHlIcHkzWkZnazFud0NCYXF5MHZlVF9sR2NQb3R0RVlYSHY5WUkxRVNNU2VZZ25LVnpUejdHY0VUVWtoTEFSTVdrdFhFS25JSjVELXdtNDA3X3VlVDdaNnQxLXllZTNmdkNrLUhiQi1pTndVX1hVT0lrMlI4eDhGT0M2V0RqVExSd1lDS3MxQzlLUlTSAboBQVVfeXFMTnRzUXZPZ3hRRl9LdkFPMzBGQ1pzOTAtckduNi1BTkhWWV9nQnFKRVlRenFja0NfbWlqTEpETnlIMEdCYzBLdWJzdkJZb3F3MkJuMHNhRXlLaFNkQThZeGd5bWFqQTBkTHFjZ3NTNXRHZjJNVWpRc2tZQVFIdmwzc2pSdWdCdEFKS1NybXV3dFgzam1xRVdFZHo0dUpZeUQ2Zm5VdE1pVWZOb1lhdGVUVkFOMjhIOXIzUmVn?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-09T12:30:56Z"
+          "reportedAt": "2026-09-10T11:01:33Z"
         },
         {
           "id": "report-e8fc3cf1352e",
