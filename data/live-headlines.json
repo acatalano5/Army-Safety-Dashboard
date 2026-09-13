@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-13T16:17:31.151Z",
+  "generatedAt": "2026-09-13T18:21:34.874Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -9,7 +9,7 @@
       "items": []
     },
     "safety": {
-      "generatedAt": "2026-09-12T17:50:21.895Z",
+      "generatedAt": "2026-09-13T18:21:34.874Z",
       "cadence": "daily",
       "items": [
         {
@@ -25,7 +25,7 @@
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVmJIdGJzdkhLMUJybzF4SHU5U2VfMUpJSXRIMC1TdlozSUVnZlllX1dINEV0U1ZxUlFoUjFndkpGTGtzNWItSEp6OTFETGwxY3ZKY2l4enhVTXl6anpkbENFeVJhRkZqM3BfWk9EUk15S2hFcVdrUy13Skh4WmpaMWR3LTRhRzJWNVBkaDhkT25OM3RyNjE4?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260905T183700Z",
+          "seen": "20260905T070000Z",
           "pinned": false
         },
         {
@@ -61,6 +61,14 @@
           "pinned": false
         },
         {
+          "title": "PLR 26-062 – Industrial/Occupational Mishap Claims One Soldier’s Life",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTjlyNHdMTVZGLWFLT3E0TVpyQ3JzbG1EQ0NiSlVFYmdKNXhwZDNmV2hFaGR3X1pfSmlvYUlaYU1MRkI2ODRyS3VrdmZudXpyYVZsM0RBb2V1elFQckF4WE43OHo3cmpLZk01TW4xeHJwMGhZdVZKWUtnTTFybDNZSXJQSkt0ZVJWcmNqa1ZDTUJDaDBKYXh4RzFKNW5kUGZxU2R4N3p5b28zeG9rUlFmdlE2emV6NFl4WVUzYUwyNU1zNGJxZTd3T2NMOGNzYzZSdmNrT1l4cGE0bzhIbHJFc3pmb2ZLVzRTalByc210NA?oc=5",
+          "domain": "safety.army.mil",
+          "sourceTier": "Official military source",
+          "seen": "20260909T194709Z",
+          "pinned": false
+        },
+        {
           "title": "Air Force officer, 2 Army Corps of Engineers civilians among Alaska plane crash dead",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYWN2ZkJSSU15Ukg1b21aVmlMSmVyT0FFYnJLVjJJOW5BRnBzdzFadnBUUEprSDNEbzEzYVBOakRsYVRmdUN0YzZXc1llV0xVMklfRllWYVVJLVpnaVU3cU90aUlQY0RmQUtwYkFPdGpZMGNFd3FtN2pfdmpDclo4WGUyamVXN0phc1VWUU9JdzRDZHhUMVlnRE5FREt0U2JXVFhjSVplbWluZHB4T3RRbw?oc=5",
           "domain": "stripes.com",
@@ -75,9 +83,35 @@
           "sourceTier": "Independent reporting",
           "seen": "20260825T070000Z",
           "pinned": false
+        },
+        {
+          "title": "Coast Guard, Michigan State Police rescue missing hiker from Lake Superior island",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQ0ZXYV9MZ0NzR05RcF9NdzdEVWh3d0w1MlR3ZmJ2TE0tTW9maWwzQ1VUU3lSR2EzalFhcnBmWVdtR0UzcFpKT2x2ZXRZZ3pseG41OHNPeEgyTXZuOHFWN1F0TTdVeW5NQWZBVnZzY0h1RVI2TTJjMXc5RE16WUxPV1EtaklkemRxeGwwQzV1TzgwZkFBVGRjYXlMRHpKMVd3aTZTeDZEbURjd1ZOdFFoMDMzOFExTVFKUG1WMTcyaHc3dFB0NmNMc3NmbUlHZzZFNC1lcQ?oc=5",
+          "domain": "news.uscg.mil",
+          "sourceTier": "Official military source",
+          "seen": "20260913T013859Z",
+          "pinned": false
         }
       ],
       "incidents": [
+        {
+          "id": "auto-abde9ccdad6f",
+          "reportDate": "2026-09-13",
+          "dateBasis": "report discovery date",
+          "branch": "Coast Guard",
+          "department": "Department of Homeland Security",
+          "type": "Other",
+          "event": "Coast Guard, Michigan State Police rescue missing hiker from Lake Superior island",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "OFFICIAL INTAKE",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Official military source",
+          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
+          "source": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQ0ZXYV9MZ0NzR05RcF9NdzdEVWh3d0w1MlR3ZmJ2TE0tTW9maWwzQ1VUU3lSR2EzalFhcnBmWVdtR0UzcFpKT2x2ZXRZZ3pseG41OHNPeEgyTXZuOHFWN1F0TTdVeW5NQWZBVnZzY0h1RVI2TTJjMXc5RE16WUxPV1EtaklkemRxeGwwQzV1TzgwZkFBVGRjYXlMRHpKMVd3aTZTeDZEbURjd1ZOdFFoMDMzOFExTVFKUG1WMTcyaHc3dFB0NmNMc3NmbUlHZzZFNC1lcQ?oc=5",
+          "sourceLabel": "news.uscg.mil"
+        },
         {
           "id": "auto-6f4e66055f46",
           "reportDate": "2026-09-10",
@@ -113,6 +147,24 @@
           "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
           "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTDFmbU9kUFlkTGo3Qmg3SzFVajhJVVRYdnF4UWdWU3VId1c1TnJCZFpQZ1BTYzlMak94eFZ0WlhnMGxaVGEtWTctRUNmbV85cjhldmpSVDN4Y2hrbEJ1SWdaNzl2ODlZTE1vc0h5MlNDQ2xzbDRrNUc2RHRyMmRrQ1JsenFIUV9DQU1zUUk1TnlLOHh2QVoyajExU1I3ak1JZ2I3R21SeWtackpsYTgweEZR?oc=5",
           "sourceLabel": "reuters.com"
+        },
+        {
+          "id": "auto-0cb7377710a1",
+          "reportDate": "2026-09-09",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Other",
+          "event": "PLR 26-062 – Industrial/Occupational Mishap Claims One Soldier’s Life",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "OFFICIAL INTAKE",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Official military source",
+          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
+          "source": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTjlyNHdMTVZGLWFLT3E0TVpyQ3JzbG1EQ0NiSlVFYmdKNXhwZDNmV2hFaGR3X1pfSmlvYUlaYU1MRkI2ODRyS3VrdmZudXpyYVZsM0RBb2V1elFQckF4WE43OHo3cmpLZk01TW4xeHJwMGhZdVZKWUtnTTFybDNZSXJQSkt0ZVJWcmNqa1ZDTUJDaDBKYXh4RzFKNW5kUGZxU2R4N3p5b28zeG9rUlFmdlE2emV6NFl4WVUzYUwyNU1zNGJxZTd3T2NMOGNzYzZSdmNrT1l4cGE0bzhIbHJFc3pmb2ZLVzRTalByc210NA?oc=5",
+          "sourceLabel": "safety.army.mil"
         },
         {
           "id": "auto-1a50eb2eda48",
