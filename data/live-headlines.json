@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-13T11:49:22.920Z",
+  "generatedAt": "2026-09-13T16:17:31.151Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-09-13T11:49:22.920Z",
+      "generatedAt": "2026-09-13T16:17:31.151Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -1269,7 +1269,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-09-13T11:49:22.920Z",
+      "generatedAt": "2026-09-13T16:17:31.151Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -1281,11 +1281,27 @@
           "pinned": false
         },
         {
+          "title": "Brics summit 2026 Delhi: Iran war reshapes ties but exposes divides",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91b1g5Z3VhS21qLVlBbER6dGVudjhrdUpiNlBkcHVCQTVxQ1FOdnpPWlpkc1VWSEhZTXpXMERDRWQ2X0FpdnFwWEN0N0lrdy1YamZBeW1LOHVmUQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260913T112342Z",
+          "pinned": false
+        },
+        {
           "title": "In 9/11 remarks, Trump links war with Iran",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BS1pfYjcyYjJmdDZKWnp6XzgycEc3VDV5cTBCTnBERTRLQTFUYnU3RzM2VlBTTWZVMU8wSDhhTkN4ejhLUXMxdHJ3MnlkY1I2WjRfVzc2TQ?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20260911T151939Z",
+          "pinned": false
+        },
+        {
+          "title": "Why Canada? America’s northern neighbor seems an unlikely target for a trade war",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMmtydk5pTmlvb1R5TklLWGJ4MG1PRjN0amoteHNYRkl0TUZDM2VqV1BLeFhqcmlleDBJNjlNcG9EbU1ha3VxVkZtaXZDUTFlemxhVWdGYnFaaERyb0xZVFdzT0tHa29NbGhUYjRlNW93MEtvd3FZekJWOXcyYl9qR0JSc3NhUHpjYVZBV29vT21TTXJP?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260912T165800Z",
           "pinned": false
         },
         {
@@ -1297,19 +1313,19 @@
           "pinned": false
         },
         {
-          "title": "Trump defends Iran war, slams Democrats and promises cash at Republicans' midterm convention",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd0ZpRE1lUUNOMTJHYzZ2UjRuVTlLbEgweXZ1bEV0Uk82QS12RzM3SGstLTd0dzNjcC16N1VIQnRoUndpcmF2RVFrLVYyQnBkS0JDZ1I5bGNLMDNsMTdWS2lrRGxoQ3VtV2lDNmNGZnBaZEFnNDJNUDFyOGt3MGdRT2VDS3VMdExFUS1kLWdaWFh6b2RUcHY5cG1rWkIzUHQ5cDZIRDNXYW14WVpSdkl6MTdTWTA?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260910T042300Z",
-          "pinned": false
-        },
-        {
           "title": "‘Everything changed’: The human cost of 25 years of US wars",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOclZaX1hQTGRVdlB5V1ZCV1VJSm1lZHhHOC02cTVzQlIwQXI5Q25tdnVNcXVMX0thS2pGMXo1TXZGY3lJZG52dVNCUG5lNUQ1bFlXMlNmMTJ2MzNrTTY1QWpueVpBQmJ0YjRrNmJ4OVBBbnZjRkpTN3Z2WXp3V2VuVVBZMk9DbzBPeTBVVHl4aGxKbWU5QnhkWWVTVUo2UW9MVkJqS3ZMX0cwZ9IBrwFBVV95cUxNblcydkNyMk5GNWlfT3d3YUdZRE5WZ2YyS0RtOGFSWmUwTmJsVnRrUThPVGc2U0JXdHJDMElXT2hMZXhVSUhsOGJZVEQwVk5WZnVzb1ZSeFVfSENzblR3eUtMUkpnUzdUckZldmNIOC1VcDFJa1JacFltYzBxeVlsYnFxN0ZWdTJRdE1LNFl4VGZWOUZ3SU1KWFhmWjVQTmZLei1BaWhiQWxqdE1IVDFJ?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260911T052936Z",
+          "pinned": false
+        },
+        {
+          "title": "Trump defends Iran war, slams Democrats and promises cash at Republicans' midterm convention",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd0ZpRE1lUUNOMTJHYzZ2UjRuVTlLbEgweXZ1bEV0Uk82QS12RzM3SGstLTd0dzNjcC16N1VIQnRoUndpcmF2RVFrLVYyQnBkS0JDZ1I5bGNLMDNsMTdWS2lrRGxoQ3VtV2lDNmNGZnBaZEFnNDJNUDFyOGt3MGdRT2VDS3VMdExFUS1kLWdaWFh6b2RUcHY5cG1rWkIzUHQ5cDZIRDNXYW14WVpSdkl6MTdTWTA?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260910T042300Z",
           "pinned": false
         },
         {
@@ -1321,19 +1337,35 @@
           "pinned": false
         },
         {
-          "title": "Iran’s Pezeshkian: ‘We are not at war with Saudi Arabia’",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeHA3a3UyRHhYdUVqM1pDbkVUbWhtNWlzcW9pNmd1c2lvYklOR1BmVFNLOUQ3bExtZFc3M2Z2NUk3eXgzQV9BRndhdzJWeGszczJuNHZ2ZEs0SElNR0U0V2xzdE0zQm1pY3Zqcnd5UWlzOV8wRUYxRmgtSzdkYnNZWWlIcUZmbVpiek85Unl0LW44UVc4WTZwMFhUWFVwWkc3cDBWOTRn0gGrAUFVX3lxTE0tMDJRY2lodTgyeHVibGpSQUZYSGZJMzhPV0ZqUC1lN09mbnhrd1VkX3VOVjZpN0pMN1dRSG4xZjFWTk1xWkFnSDNmSWprZF9ZNWhxQ3NZVzlFRXJJbEpYSXlEbXY0NVFRb1Q3eDdBNXRMRmVEc1JQeGs1WncteTBXWDdGcldxYkVJSVUzZ0VSYTI4b3ZnUGFITm41YzRHT2RKa2VtZTVDMy1Dcw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260913T013307Z",
-          "pinned": false
-        },
-        {
           "title": "Trump says oil prices that spiked because of Iran war likely won't come down until after midterms",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMXltZEtoQUhXVTQ1bWJMekROZWpIeXVtZmljZlVNejktRWE0TlZEdWY3X1hGMnNQRXVUUm9mTGN1RUFYOGh5SlF0LWRnWnZCaV9sYllTLVoyekU3TWlxNTYxenMteGVNSEw2d1ZmMnhOVXdoRGFmS2I5R2ljdTdkN3JwamRjbFJlb2JST2Q5YUgtXzRw?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "seen": "20260910T022700Z",
+          "pinned": false
+        },
+        {
+          "title": "Strike on Iranian cargo ship in the Strait of Hormuz kills 1, Iranian media say",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMG04XzJlaFg3N0hjVGVucURCODFNSFJKYkdZaHY0aWZxMWJCXzlPY1pGOUNrWHRhWkc3NnJXQms3X1ZxaHBxOTBHTUZVNUFWWXBJV0hLcG9PaEg0Nm9VaTQxbVNfallyV0ZhVzlfMGpqaWMwLTV2ZmYwRGZYNm9EUzFLMnMzZkREbzRlR1JqR0tBd1Fs?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260913T132200Z",
+          "pinned": false
+        },
+        {
+          "title": "Israeli attack on Gaza kills two Palestinians",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQT1kzWWJDOWNNV2h3cC1KNmJ0dXhKRGxzRmZsNC16MEhVdG5jeFo4LWRIcmM4RFF1aUQwdFBFRXNZRm0wMlJfaEtfQlR4ZkdVajV6SlhZS3JURlcxWUh2NHdfaDVzZnZPUWJJQjZObktqRHRRVlh6UHJYSUVYbHVRenR3TndqRGdtTTUzVy0xTdIBlAFBVV95cUxNYWppSy1SUHkxS05JRUlsZjRoWndHREFoYTBidXJCSVNPUHY0Q0hUUTVqVXFoOTA1eVdGVjRHUGJYRlVtQllOR3JRcGdqRm5VWGxrazBOSDdQX2lpOUJtVXl2bTh5MkJNRVk2OW1ES29GdkxTNzNYeVF3QW9jZFU1Sy00TDNRNjNidHRRVjlFXzdFT1Vj?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260913T130541Z",
+          "pinned": false
+        },
+        {
+          "title": "Iran’s Pezeshkian: ‘We are not at war with Saudi Arabia’",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeHA3a3UyRHhYdUVqM1pDbkVUbWhtNWlzcW9pNmd1c2lvYklOR1BmVFNLOUQ3bExtZFc3M2Z2NUk3eXgzQV9BRndhdzJWeGszczJuNHZ2ZEs0SElNR0U0V2xzdE0zQm1pY3Zqcnd5UWlzOV8wRUYxRmgtSzdkYnNZWWlIcUZmbVpiek85Unl0LW44UVc4WTZwMFhUWFVwWkc3cDBWOTRn0gGrAUFVX3lxTE0tMDJRY2lodTgyeHVibGpSQUZYSGZJMzhPV0ZqUC1lN09mbnhrd1VkX3VOVjZpN0pMN1dRSG4xZjFWTk1xWkFnSDNmSWprZF9ZNWhxQ3NZVzlFRXJJbEpYSXlEbXY0NVFRb1Q3eDdBNXRMRmVEc1JQeGs1WncteTBXWDdGcldxYkVJSVUzZ0VSYTI4b3ZnUGFITm41YzRHT2RKa2VtZTVDMy1Dcw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260913T013307Z",
           "pinned": false
         },
         {
@@ -1353,19 +1385,35 @@
           "pinned": false
         },
         {
+          "title": "Selling the war: Purges, polygraphs and propaganda",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcXltT25FaUlRWXJQQjVpUmF2ZmVqbS00dnRrTFo3dGwxMl9vSERFQzBtTFpBN2VZWjVYaVhEQkdyTjVIbFZSNGRFUU42OHpTSGpnS1BjY2tnVmdiSnExSlc1RWxwUlJIdU1Tc3lDR1k1WEJpQ2VsMFhZTlBJNTY4azFIM2tyMTZ2ejNiQXNRdlUwRlpDbDVZTXJMRnRMOFBoc1Y5MWFTVGZEZHc5QVHSAbMBQVVfeXFMTmZjc09qYWYxVGFaZkZZSGZrb004RjlxRDRNWmdUN2ZkY3g4MFRTZ2pqY29hTmNBcXpWa2dnWDNXT1dSdEJtUkJINFROb2ZQR09IT28xMnl1WlA3ODh1Wk1qWDAxZnZ6d0tVUVhYbTc4OWxFNFdIWU9tNkZSZlZmSTR0dmZJNDhaTjJlNDd6b0FnVkdQZVZFZGhPNkZ1a3MxV1VhWEJCY2FveTBLQ0pBa3hJYTA?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260912T173211Z",
+          "pinned": false
+        },
+        {
+          "title": "The Iran war reveals the limits of BRICS",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNX0Q3eEEtNnBfMDlyVTZNZjU0MXRpd0I3X1RzSkl2bFdJWUpIRGxjamN3MDlvQS1nOVpOM2U0YzFSdXNCdkx5MFhQeXlibnV0RlVDNG11emcxMWRXNmFVc2U3ek5EbDV1M25ET0VNd3JRTHlxWXVmbFRRaVN4YUNaOE5BMmp1d9IBiwFBVV95cUxPYV9SWXdINDBrdGMtN1dNcGxfZzFwRFc3ck9pd2kxa1Rqd1QzQXB0V2FJWWdObVd5U0szdzk1aVdscmF1SlVGeUE4QW9PVEFqWnJDcjZSbnpWOV9hRVJUTk5IVEIwcHo4bzM4dXU5c0VMdWxSblpaZTJpNVFYbEVtd0RTSWJQYjhiSE1j?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260913T124932Z",
+          "pinned": false
+        },
+        {
+          "title": "A dignified life is a ‘distant dream’ for many Iranian families amid US war",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMTczUnZhcjNVWXBSaU93LXR0TTFMVzNfZ3dlOGxaQ1J3TFl6cHI1em1oNFQ1NmhVZDl6NXpxNzViQ2pFcTZxQU5TYllzd2RzWHdvTXVPLUhTbFhlMV9lRVVrRFRfS05jWEVDZTlGLWhZUkFjaE4zVHVQendNcVJJNmZxWmN1U3dvaXlCbTg1bXRRUDY5ekNlUDNsZTJCcHR1UnBybFBGNEFtbFJGZUNncmdBd3lEaVJY0gG-AUFVX3lxTE1aNzVtRUo5R1lIVGdHM09nbjFiUVRYQmhFT3RWOEZTNUlPVjhpS2ctWmFnNjl5WTJGZXZEMzdMdU1FZ0tMcEMzVTlRQjk5SWJ0QkxqMXdGbDhXWVQ5bEpuSTdpMVdaX0JrNlhXTFVzWVNSSWFfUjdNOG83X1dzV1hFUUNxN0ZwcE1EZW1mbnBoZ3VIU2k0bFkyUzFlTFhSOTFrUzNIbzNPTUdmMGRVZ3Z1elZEeG5oTGowc2owQ2c?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260913T115530Z",
+          "pinned": false
+        },
+        {
           "title": "Qatar in talks to buy US LNG as Iran war disrupts exports: Report",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWmw3X2o5dzhFSU0zY0JVeHVndkpRWkRGMUczcXh2Q3N6X1NmQ1JOOGVGWWdJcHNvMkIzbk1JcV9pbjl2U3VuNW1FT2c0VzRNOWhfYkZ1d25WeUw4bFJoWXF6X29FM3Y1cGlrV21jTDZlQzlKRGI1OTNIR0pYV2RWNmRHUUxsTlhzSGhJVWFFSC12YnoxRFVHMUFZdzZub1lqMzhkbFZQNGdNR3BxbkE?oc=5",
           "domain": "aa.com.tr",
           "sourceTier": "State-affiliated reporting",
           "seen": "20260910T170406Z",
-          "pinned": false
-        },
-        {
-          "title": "Why Canada? America’s northern neighbor seems an unlikely target for a trade war",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMmtydk5pTmlvb1R5TklLWGJ4MG1PRjN0amoteHNYRkl0TUZDM2VqV1BLeFhqcmlleDBJNjlNcG9EbU1ha3VxVkZtaXZDUTFlemxhVWdGYnFaaERyb0xZVFdzT0tHa29NbGhUYjRlNW93MEtvd3FZekJWOXcyYl9qR0JSc3NhUHpjYVZBV29vT21TTXJP?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260912T165800Z",
           "pinned": false
         },
         {
@@ -1409,59 +1457,11 @@
           "pinned": false
         },
         {
-          "title": "The dystopian legal architecture of the ‘war on terror’ must be dismantled",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNS0liQ2FVMEFFQm1vOXZXYXdFWTlPRkJldkJvdlVnVXY1S1dPcmJEckVSaHpRWmxfWVNEeWY2Q0xxS21yamFaVUhIOEJEb0FHYXlibzYxdkJRcGpYRThOU2xlMk5pT1hCN3VGc0xzd2tGSG9DZk5SQ2tEQXRIb0RwS2t1RTI0d283NzcyT3lKNjFYNjBRVndaeTlMNjZ0UklicnJzeHpGejBiUTgzdnBmVTBIX2JZTXU00gG-AUFVX3lxTE5MZFVoRkNCdURucWdlRDN3dmcyLWh4d3RlWXgwb2JQQlJOUDkxTHYwejlYSWFjSVUwODJwTGRtdXc2blVaS0k1QXR3b3pIdURqX2pmQVdLRXh2QmxDdUl5RXFINjQwZkRzQWxJTVBESElsTmV0SjJ4MXhqWWVOSmxSWXJ5ZVI5NHU0WFZ6UzlwY0s1UC1GX0kxTHptTWZaU2JjcGZQVTg0TF9VLWJFSEhGQmMzcnpGLUEycVYydXc?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260911T133222Z",
-          "pinned": false
-        },
-        {
           "title": "What Policymakers Can Still Learn From the War on Terrorism",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85UU5UYXlyWjdfSjJWcXZpZ1dlcjcyLThqRmpXWnEyTl91X2xjTENhNlFjbExiVmZ1cE10dmp0Ty13V2pFQWpWamtRT3JrZFdqN0Q1S0VXOHhyTXlEUlRpRnBjYV9HVHM?oc=5",
           "domain": "cfr.org",
           "sourceTier": "Structured / analytic",
           "seen": "20260910T010653Z",
-          "pinned": false
-        },
-        {
-          "title": "BRICS leaders meet in India as Iran war reshapes global agenda",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORndFMm9zRHpEVlB1aDc1UV96dnFEUTdyems1ZzM4YlVMeGlHdGNiWFBmdWQ0eWx0aGc2ay1RUGFfR0tVNDN3eW1hUDVRYkp5ZTBmS04wNUdJVkFucUFjNHZuRndjMkxJUjJmUzU4UjhROW9udENYa0tXREN0eFRXaHRyQlR3UWFrNFFzN3dkc253Ni1VUFc4QmVNNlhHWHh0MHpF?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "seen": "20260912T055037Z",
-          "pinned": false
-        },
-        {
-          "title": "Iraq seizes drone-launching platform used for targeting Saudi oil pipeline",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSnBidlRhOC02Y0Nja3gwRGVsak14Q0FvVm1MSUNDaTJlUkR2MVdDQi1UYnBBUkZqLXlWTGxiRGQyTlRrbklxcDB6Vno1d2VNdVd5SE1uckRkZllQTWt2V19Ub1pvN2ZLQmxuV3J6SXc3RTdzT3h6TDg2OWh2aEhIeVQyc0o4U1JpUTFrVVl0b1JlajdTcm5fQThRSlJjdVNDX3lLVkhOWGpjNWhMRjJlSW9QRWVad9IBuwFBVV95cUxOamctS0hMdVZQMDh2Tk1HRjEtbG9hUldhN2s5eUtmLTFYOWdnb1JJVTBGTXRKbDlnSnBiSXpSUHdUWldkanRVWDhpNU02ZmFrTzY0eUg0R3I5LWcybDRXcE1BTzUxSmt3Z2NfV0JTSEFteDdTLTZvOUVtWUJKejVVS19md3YyRGhfbXQtRjRRMzB5QWlXQ1BYMUFfNnZ5b1ZURDhmYnRJZWJaWkpaZFZGbzgtZ2RUdUdCRmtJ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260913T024022Z",
-          "pinned": false
-        },
-        {
-          "title": "Oscar-winning Israeli filmmakers' documentary on Gaza war premieres at Venice Film Festival",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeUx2amZJMHExWXU1Mmc5TUJkUmtZb25FNm1teDBmZm9YUklTejV0b2VJdEVPc2VidUVpNzJKWmtGM1lmRUNPb3EyMlp6a0VSNVkwVl9scnRaWWR3WWtQZXhId1cxa2tVVm4ycnl4VVdMVHhZa1lTWF9IYUkxVF82QUJHMHpJTUVZM2JIMHRDc0pwREdGOHJ5RnY4TDZCUQ?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260911T050100Z",
-          "pinned": false
-        },
-        {
-          "title": "Trump says US not attacking Iran 'in full' because of midterms",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeG1Dcko1RF90YnZna3hULWVJRWFZU2txVlZxR19QWF9ESzE4RktSSXplMmdaUHI1QThXd3FlYXVrODlyWFRJUHpsMEVWcmR1bUl5MDF3T01Gd2tMZnVLQzVid1NIMzBZNkNZOWU0bTF2aldGaDEtSGdrTm1yY3BiYzNjNVJ5d0ctUEZoNzd2VUdzMnJjWGhzOTU4SDZCTTR6WDdTXw?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "seen": "20260911T032557Z",
-          "pinned": false
-        },
-        {
-          "title": "The Border War: No. 23 Missouri visits Kansas in latest rivalry game steeped in Civil War-era battle",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOX1hFUXkyQ1VMZUtIZENibVkzeEI2dlV3MUk5Vm1Ld1FMVTVwN2llaUlHZTZrNXhwR1JRTTBzREtQT1dyOS1FV0tJZ1NhWWV6WkFrUHZaQXdKWjVkM18yR0M5R29TbzJrbEN3RmhJSFU4Yk5BQWJGSEk3TFBMSGh6Y0xiRWpPQWNNd0RZamJ6WE8wUE9KbHJaZzczUVRINkR1alRaa3VlLURaZTNkU0xueQ?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260910T153124Z",
           "pinned": false
         }
       ],
@@ -1476,6 +1476,15 @@
           "reportedAt": "2026-09-10T16:46:02Z"
         },
         {
+          "id": "report-d8179ab4dbfb",
+          "title": "Brics summit 2026 Delhi: Iran war reshapes ties but exposes divides",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91b1g5Z3VhS21qLVlBbER6dGVudjhrdUpiNlBkcHVCQTVxQ1FOdnpPWlpkc1VWSEhZTXpXMERDRWQ2X0FpdnFwWEN0N0lrdy1YamZBeW1LOHVmUQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-13T11:23:42Z"
+        },
+        {
           "id": "report-cab6f1ed1d6c",
           "title": "In 9/11 remarks, Trump links war with Iran",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BS1pfYjcyYjJmdDZKWnp6XzgycEc3VDV5cTBCTnBERTRLQTFUYnU3RzM2VlBTTWZVMU8wSDhhTkN4ejhLUXMxdHJ3MnlkY1I2WjRfVzc2TQ?oc=5",
@@ -1483,6 +1492,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-11T15:19:39Z"
+        },
+        {
+          "id": "report-44c36834aeab",
+          "title": "Why Canada? America’s northern neighbor seems an unlikely target for a trade war",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMmtydk5pTmlvb1R5TklLWGJ4MG1PRjN0amoteHNYRkl0TUZDM2VqV1BLeFhqcmlleDBJNjlNcG9EbU1ha3VxVkZtaXZDUTFlemxhVWdGYnFaaERyb0xZVFdzT0tHa29NbGhUYjRlNW93MEtvd3FZekJWOXcyYl9qR0JSc3NhUHpjYVZBV29vT21TTXJP?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-12T16:58:00Z"
         },
         {
           "id": "report-9fff18972fa3",
@@ -1494,15 +1512,6 @@
           "reportedAt": "2026-09-11T08:20:42Z"
         },
         {
-          "id": "report-829d0e04d786",
-          "title": "Trump defends Iran war, slams Democrats and promises cash at Republicans' midterm convention",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd0ZpRE1lUUNOMTJHYzZ2UjRuVTlLbEgweXZ1bEV0Uk82QS12RzM3SGstLTd0dzNjcC16N1VIQnRoUndpcmF2RVFrLVYyQnBkS0JDZ1I5bGNLMDNsMTdWS2lrRGxoQ3VtV2lDNmNGZnBaZEFnNDJNUDFyOGt3MGdRT2VDS3VMdExFUS1kLWdaWFh6b2RUcHY5cG1rWkIzUHQ5cDZIRDNXYW14WVpSdkl6MTdTWTA?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-10T04:23:00Z"
-        },
-        {
           "id": "report-2de2e44610ae",
           "title": "‘Everything changed’: The human cost of 25 years of US wars",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOclZaX1hQTGRVdlB5V1ZCV1VJSm1lZHhHOC02cTVzQlIwQXI5Q25tdnVNcXVMX0thS2pGMXo1TXZGY3lJZG52dVNCUG5lNUQ1bFlXMlNmMTJ2MzNrTTY1QWpueVpBQmJ0YjRrNmJ4OVBBbnZjRkpTN3Z2WXp3V2VuVVBZMk9DbzBPeTBVVHl4aGxKbWU5QnhkWWVTVUo2UW9MVkJqS3ZMX0cwZ9IBrwFBVV95cUxNblcydkNyMk5GNWlfT3d3YUdZRE5WZ2YyS0RtOGFSWmUwTmJsVnRrUThPVGc2U0JXdHJDMElXT2hMZXhVSUhsOGJZVEQwVk5WZnVzb1ZSeFVfSENzblR3eUtMUkpnUzdUckZldmNIOC1VcDFJa1JacFltYzBxeVlsYnFxN0ZWdTJRdE1LNFl4VGZWOUZ3SU1KWFhmWjVQTmZLei1BaWhiQWxqdE1IVDFJ?oc=5",
@@ -1510,6 +1519,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-11T05:29:36Z"
+        },
+        {
+          "id": "report-829d0e04d786",
+          "title": "Trump defends Iran war, slams Democrats and promises cash at Republicans' midterm convention",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd0ZpRE1lUUNOMTJHYzZ2UjRuVTlLbEgweXZ1bEV0Uk82QS12RzM3SGstLTd0dzNjcC16N1VIQnRoUndpcmF2RVFrLVYyQnBkS0JDZ1I5bGNLMDNsMTdWS2lrRGxoQ3VtV2lDNmNGZnBaZEFnNDJNUDFyOGt3MGdRT2VDS3VMdExFUS1kLWdaWFh6b2RUcHY5cG1rWkIzUHQ5cDZIRDNXYW14WVpSdkl6MTdTWTA?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-10T04:23:00Z"
         },
         {
           "id": "report-8528520ddfb0",
@@ -1521,15 +1539,6 @@
           "reportedAt": "2026-09-12T12:15:50Z"
         },
         {
-          "id": "report-fc3dee093381",
-          "title": "Iran’s Pezeshkian: ‘We are not at war with Saudi Arabia’",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeHA3a3UyRHhYdUVqM1pDbkVUbWhtNWlzcW9pNmd1c2lvYklOR1BmVFNLOUQ3bExtZFc3M2Z2NUk3eXgzQV9BRndhdzJWeGszczJuNHZ2ZEs0SElNR0U0V2xzdE0zQm1pY3Zqcnd5UWlzOV8wRUYxRmgtSzdkYnNZWWlIcUZmbVpiek85Unl0LW44UVc4WTZwMFhUWFVwWkc3cDBWOTRn0gGrAUFVX3lxTE0tMDJRY2lodTgyeHVibGpSQUZYSGZJMzhPV0ZqUC1lN09mbnhrd1VkX3VOVjZpN0pMN1dRSG4xZjFWTk1xWkFnSDNmSWprZF9ZNWhxQ3NZVzlFRXJJbEpYSXlEbXY0NVFRb1Q3eDdBNXRMRmVEc1JQeGs1WncteTBXWDdGcldxYkVJSVUzZ0VSYTI4b3ZnUGFITm41YzRHT2RKa2VtZTVDMy1Dcw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-13T01:33:07Z"
-        },
-        {
           "id": "report-186bfb5dad16",
           "title": "Trump says oil prices that spiked because of Iran war likely won't come down until after midterms",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMXltZEtoQUhXVTQ1bWJMekROZWpIeXVtZmljZlVNejktRWE0TlZEdWY3X1hGMnNQRXVUUm9mTGN1RUFYOGh5SlF0LWRnWnZCaV9sYllTLVoyekU3TWlxNTYxenMteGVNSEw2d1ZmMnhOVXdoRGFmS2I5R2ljdTdkN3JwamRjbFJlb2JST2Q5YUgtXzRw?oc=5",
@@ -1537,6 +1546,33 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-10T02:27:00Z"
+        },
+        {
+          "id": "report-08b8db9c49c2",
+          "title": "Strike on Iranian cargo ship in the Strait of Hormuz kills 1, Iranian media say",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMG04XzJlaFg3N0hjVGVucURCODFNSFJKYkdZaHY0aWZxMWJCXzlPY1pGOUNrWHRhWkc3NnJXQms3X1ZxaHBxOTBHTUZVNUFWWXBJV0hLcG9PaEg0Nm9VaTQxbVNfallyV0ZhVzlfMGpqaWMwLTV2ZmYwRGZYNm9EUzFLMnMzZkREbzRlR1JqR0tBd1Fs?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-13T13:22:00Z"
+        },
+        {
+          "id": "report-0746e297a9ed",
+          "title": "Israeli attack on Gaza kills two Palestinians",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQT1kzWWJDOWNNV2h3cC1KNmJ0dXhKRGxzRmZsNC16MEhVdG5jeFo4LWRIcmM4RFF1aUQwdFBFRXNZRm0wMlJfaEtfQlR4ZkdVajV6SlhZS3JURlcxWUh2NHdfaDVzZnZPUWJJQjZObktqRHRRVlh6UHJYSUVYbHVRenR3TndqRGdtTTUzVy0xTdIBlAFBVV95cUxNYWppSy1SUHkxS05JRUlsZjRoWndHREFoYTBidXJCSVNPUHY0Q0hUUTVqVXFoOTA1eVdGVjRHUGJYRlVtQllOR3JRcGdqRm5VWGxrazBOSDdQX2lpOUJtVXl2bTh5MkJNRVk2OW1ES29GdkxTNzNYeVF3QW9jZFU1Sy00TDNRNjNidHRRVjlFXzdFT1Vj?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-13T13:05:41Z"
+        },
+        {
+          "id": "report-fc3dee093381",
+          "title": "Iran’s Pezeshkian: ‘We are not at war with Saudi Arabia’",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeHA3a3UyRHhYdUVqM1pDbkVUbWhtNWlzcW9pNmd1c2lvYklOR1BmVFNLOUQ3bExtZFc3M2Z2NUk3eXgzQV9BRndhdzJWeGszczJuNHZ2ZEs0SElNR0U0V2xzdE0zQm1pY3Zqcnd5UWlzOV8wRUYxRmgtSzdkYnNZWWlIcUZmbVpiek85Unl0LW44UVc4WTZwMFhUWFVwWkc3cDBWOTRn0gGrAUFVX3lxTE0tMDJRY2lodTgyeHVibGpSQUZYSGZJMzhPV0ZqUC1lN09mbnhrd1VkX3VOVjZpN0pMN1dRSG4xZjFWTk1xWkFnSDNmSWprZF9ZNWhxQ3NZVzlFRXJJbEpYSXlEbXY0NVFRb1Q3eDdBNXRMRmVEc1JQeGs1WncteTBXWDdGcldxYkVJSVUzZ0VSYTI4b3ZnUGFITm41YzRHT2RKa2VtZTVDMy1Dcw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-13T01:33:07Z"
         },
         {
           "id": "report-0b5293d987e7",
@@ -1557,6 +1593,33 @@
           "reportedAt": "2026-09-11T00:58:18Z"
         },
         {
+          "id": "report-e77a98cd0884",
+          "title": "Selling the war: Purges, polygraphs and propaganda",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcXltT25FaUlRWXJQQjVpUmF2ZmVqbS00dnRrTFo3dGwxMl9vSERFQzBtTFpBN2VZWjVYaVhEQkdyTjVIbFZSNGRFUU42OHpTSGpnS1BjY2tnVmdiSnExSlc1RWxwUlJIdU1Tc3lDR1k1WEJpQ2VsMFhZTlBJNTY4azFIM2tyMTZ2ejNiQXNRdlUwRlpDbDVZTXJMRnRMOFBoc1Y5MWFTVGZEZHc5QVHSAbMBQVVfeXFMTmZjc09qYWYxVGFaZkZZSGZrb004RjlxRDRNWmdUN2ZkY3g4MFRTZ2pqY29hTmNBcXpWa2dnWDNXT1dSdEJtUkJINFROb2ZQR09IT28xMnl1WlA3ODh1Wk1qWDAxZnZ6d0tVUVhYbTc4OWxFNFdIWU9tNkZSZlZmSTR0dmZJNDhaTjJlNDd6b0FnVkdQZVZFZGhPNkZ1a3MxV1VhWEJCY2FveTBLQ0pBa3hJYTA?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-12T17:32:11Z"
+        },
+        {
+          "id": "report-324f305d8880",
+          "title": "The Iran war reveals the limits of BRICS",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNX0Q3eEEtNnBfMDlyVTZNZjU0MXRpd0I3X1RzSkl2bFdJWUpIRGxjamN3MDlvQS1nOVpOM2U0YzFSdXNCdkx5MFhQeXlibnV0RlVDNG11emcxMWRXNmFVc2U3ek5EbDV1M25ET0VNd3JRTHlxWXVmbFRRaVN4YUNaOE5BMmp1d9IBiwFBVV95cUxPYV9SWXdINDBrdGMtN1dNcGxfZzFwRFc3ck9pd2kxa1Rqd1QzQXB0V2FJWWdObVd5U0szdzk1aVdscmF1SlVGeUE4QW9PVEFqWnJDcjZSbnpWOV9hRVJUTk5IVEIwcHo4bzM4dXU5c0VMdWxSblpaZTJpNVFYbEVtd0RTSWJQYjhiSE1j?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-13T12:49:32Z"
+        },
+        {
+          "id": "report-70d7b30b094a",
+          "title": "A dignified life is a ‘distant dream’ for many Iranian families amid US war",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMTczUnZhcjNVWXBSaU93LXR0TTFMVzNfZ3dlOGxaQ1J3TFl6cHI1em1oNFQ1NmhVZDl6NXpxNzViQ2pFcTZxQU5TYllzd2RzWHdvTXVPLUhTbFhlMV9lRVVrRFRfS05jWEVDZTlGLWhZUkFjaE4zVHVQendNcVJJNmZxWmN1U3dvaXlCbTg1bXRRUDY5ekNlUDNsZTJCcHR1UnBybFBGNEFtbFJGZUNncmdBd3lEaVJY0gG-AUFVX3lxTE1aNzVtRUo5R1lIVGdHM09nbjFiUVRYQmhFT3RWOEZTNUlPVjhpS2ctWmFnNjl5WTJGZXZEMzdMdU1FZ0tMcEMzVTlRQjk5SWJ0QkxqMXdGbDhXWVQ5bEpuSTdpMVdaX0JrNlhXTFVzWVNSSWFfUjdNOG83X1dzV1hFUUNxN0ZwcE1EZW1mbnBoZ3VIU2k0bFkyUzFlTFhSOTFrUzNIbzNPTUdmMGRVZ3Z1elZEeG5oTGowc2owQ2c?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-13T11:55:30Z"
+        },
+        {
           "id": "report-74489371102b",
           "title": "Qatar in talks to buy US LNG as Iran war disrupts exports: Report",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWmw3X2o5dzhFSU0zY0JVeHVndkpRWkRGMUczcXh2Q3N6X1NmQ1JOOGVGWWdJcHNvMkIzbk1JcV9pbjl2U3VuNW1FT2c0VzRNOWhfYkZ1d25WeUw4bFJoWXF6X29FM3Y1cGlrV21jTDZlQzlKRGI1OTNIR0pYV2RWNmRHUUxsTlhzSGhJVWFFSC12YnoxRFVHMUFZdzZub1lqMzhkbFZQNGdNR3BxbkE?oc=5",
@@ -1564,15 +1627,6 @@
           "sourceTier": "State-affiliated reporting",
           "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
           "reportedAt": "2026-09-10T17:04:06Z"
-        },
-        {
-          "id": "report-44c36834aeab",
-          "title": "Why Canada? America’s northern neighbor seems an unlikely target for a trade war",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMmtydk5pTmlvb1R5TklLWGJ4MG1PRjN0amoteHNYRkl0TUZDM2VqV1BLeFhqcmlleDBJNjlNcG9EbU1ha3VxVkZtaXZDUTFlemxhVWdGYnFaaERyb0xZVFdzT0tHa29NbGhUYjRlNW93MEtvd3FZekJWOXcyYl9qR0JSc3NhUHpjYVZBV29vT21TTXJP?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-12T16:58:00Z"
         },
         {
           "id": "report-dfb1fe51ddcd",
@@ -1620,15 +1674,6 @@
           "reportedAt": "2026-09-12T08:53:56Z"
         },
         {
-          "id": "report-c5edbcf0cf68",
-          "title": "The dystopian legal architecture of the ‘war on terror’ must be dismantled",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNS0liQ2FVMEFFQm1vOXZXYXdFWTlPRkJldkJvdlVnVXY1S1dPcmJEckVSaHpRWmxfWVNEeWY2Q0xxS21yamFaVUhIOEJEb0FHYXlibzYxdkJRcGpYRThOU2xlMk5pT1hCN3VGc0xzd2tGSG9DZk5SQ2tEQXRIb0RwS2t1RTI0d283NzcyT3lKNjFYNjBRVndaeTlMNjZ0UklicnJzeHpGejBiUTgzdnBmVTBIX2JZTXU00gG-AUFVX3lxTE5MZFVoRkNCdURucWdlRDN3dmcyLWh4d3RlWXgwb2JQQlJOUDkxTHYwejlYSWFjSVUwODJwTGRtdXc2blVaS0k1QXR3b3pIdURqX2pmQVdLRXh2QmxDdUl5RXFINjQwZkRzQWxJTVBESElsTmV0SjJ4MXhqWWVOSmxSWXJ5ZVI5NHU0WFZ6UzlwY0s1UC1GX0kxTHptTWZaU2JjcGZQVTg0TF9VLWJFSEhGQmMzcnpGLUEycVYydXc?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-11T13:32:22Z"
-        },
-        {
           "id": "report-b41a3eea5754",
           "title": "What Policymakers Can Still Learn From the War on Terrorism",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85UU5UYXlyWjdfSjJWcXZpZ1dlcjcyLThqRmpXWnEyTl91X2xjTENhNlFjbExiVmZ1cE10dmp0Ty13V2pFQWpWamtRT3JrZFdqN0Q1S0VXOHhyTXlEUlRpRnBjYV9HVHM?oc=5",
@@ -1636,51 +1681,6 @@
           "sourceTier": "Structured / analytic",
           "confidenceLabel": "ANALYTIC REPORT",
           "reportedAt": "2026-09-10T01:06:53Z"
-        },
-        {
-          "id": "report-67ef1674d7f6",
-          "title": "BRICS leaders meet in India as Iran war reshapes global agenda",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORndFMm9zRHpEVlB1aDc1UV96dnFEUTdyems1ZzM4YlVMeGlHdGNiWFBmdWQ0eWx0aGc2ay1RUGFfR0tVNDN3eW1hUDVRYkp5ZTBmS04wNUdJVkFucUFjNHZuRndjMkxJUjJmUzU4UjhROW9udENYa0tXREN0eFRXaHRyQlR3UWFrNFFzN3dkc253Ni1VUFc4QmVNNlhHWHh0MHpF?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
-          "reportedAt": "2026-09-12T05:50:37Z"
-        },
-        {
-          "id": "report-87727aec19e0",
-          "title": "Iraq seizes drone-launching platform used for targeting Saudi oil pipeline",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSnBidlRhOC02Y0Nja3gwRGVsak14Q0FvVm1MSUNDaTJlUkR2MVdDQi1UYnBBUkZqLXlWTGxiRGQyTlRrbklxcDB6Vno1d2VNdVd5SE1uckRkZllQTWt2V19Ub1pvN2ZLQmxuV3J6SXc3RTdzT3h6TDg2OWh2aEhIeVQyc0o4U1JpUTFrVVl0b1JlajdTcm5fQThRSlJjdVNDX3lLVkhOWGpjNWhMRjJlSW9QRWVad9IBuwFBVV95cUxOamctS0hMdVZQMDh2Tk1HRjEtbG9hUldhN2s5eUtmLTFYOWdnb1JJVTBGTXRKbDlnSnBiSXpSUHdUWldkanRVWDhpNU02ZmFrTzY0eUg0R3I5LWcybDRXcE1BTzUxSmt3Z2NfV0JTSEFteDdTLTZvOUVtWUJKejVVS19md3YyRGhfbXQtRjRRMzB5QWlXQ1BYMUFfNnZ5b1ZURDhmYnRJZWJaWkpaZFZGbzgtZ2RUdUdCRmtJ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-13T02:40:22Z"
-        },
-        {
-          "id": "report-e8fc3cf1352e",
-          "title": "Oscar-winning Israeli filmmakers' documentary on Gaza war premieres at Venice Film Festival",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeUx2amZJMHExWXU1Mmc5TUJkUmtZb25FNm1teDBmZm9YUklTejV0b2VJdEVPc2VidUVpNzJKWmtGM1lmRUNPb3EyMlp6a0VSNVkwVl9scnRaWWR3WWtQZXhId1cxa2tVVm4ycnl4VVdMVHhZa1lTWF9IYUkxVF82QUJHMHpJTUVZM2JIMHRDc0pwREdGOHJ5RnY4TDZCUQ?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-11T05:01:00Z"
-        },
-        {
-          "id": "report-2c20610eaf06",
-          "title": "Trump says US not attacking Iran 'in full' because of midterms",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeG1Dcko1RF90YnZna3hULWVJRWFZU2txVlZxR19QWF9ESzE4RktSSXplMmdaUHI1QThXd3FlYXVrODlyWFRJUHpsMEVWcmR1bUl5MDF3T01Gd2tMZnVLQzVid1NIMzBZNkNZOWU0bTF2aldGaDEtSGdrTm1yY3BiYzNjNVJ5d0ctUEZoNzd2VUdzMnJjWGhzOTU4SDZCTTR6WDdTXw?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
-          "reportedAt": "2026-09-11T03:25:57Z"
-        },
-        {
-          "id": "report-d854fcf12a27",
-          "title": "The Border War: No. 23 Missouri visits Kansas in latest rivalry game steeped in Civil War-era battle",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOX1hFUXkyQ1VMZUtIZENibVkzeEI2dlV3MUk5Vm1Ld1FMVTVwN2llaUlHZTZrNXhwR1JRTTBzREtQT1dyOS1FV0tJZ1NhWWV6WkFrUHZaQXdKWjVkM18yR0M5R29TbzJrbEN3RmhJSFU4Yk5BQWJGSEk3TFBMSGh6Y0xiRWpPQWNNd0RZamJ6WE8wUE9KbHJaZzczUVRINkR1alRaa3VlLURaZTNkU0xueQ?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-10T15:31:24Z"
         },
         {
           "id": "report-b0ae93127433",
