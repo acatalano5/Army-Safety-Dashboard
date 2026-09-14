@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-14T12:43:55.033Z",
+  "generatedAt": "2026-09-14T19:57:38.060Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -9,7 +9,7 @@
       "items": []
     },
     "safety": {
-      "generatedAt": "2026-09-13T18:47:11.297Z",
+      "generatedAt": "2026-09-14T19:57:38.060Z",
       "cadence": "daily",
       "items": [
         {
@@ -21,59 +21,11 @@
           "pinned": true
         },
         {
-          "title": "Marine Corps MV-22 Osprey suffers engine fire during Air Force training exercise",
-          "url": "https://www.militarytimes.com/news/your-military/2026/07/21/marine-corps-mv-22-osprey-suffers-engine-fire-during-air-force-training-exercise/",
-          "domain": "militarytimes.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260721T174800Z",
-          "pinned": false
-        },
-        {
-          "title": "Navy suspends search after MH-60S helicopter mishap; one Sailor missing",
-          "url": "https://www.navy.mil/Press-Office/Statements/display-statement/Article/4533332/us-navy-suspended-active-search-for-a-sailor-assigned-to-helicopter-sea-combat/",
-          "domain": "navy.mil",
-          "sourceTier": "Official military source",
-          "seen": "20260705T150000Z",
-          "pinned": false
-        },
-        {
-          "title": "Navy conducts safety review after Blue Angels low-altitude flyover",
-          "url": "https://apnews.com/article/hegseth-blue-angels-military-flyovers-safety-c2601ce50f433996c919464f1de7985c",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260716T220900Z",
-          "pinned": false
-        },
-        {
-          "title": "Greek air force jet crashes at an annual aerial show, killing 2 pilots",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVmJIdGJzdkhLMUJybzF4SHU5U2VfMUpJSXRIMC1TdlozSUVnZlllX1dINEV0U1ZxUlFoUjFndkpGTGtzNWItSEp6OTFETGwxY3ZKY2l4enhVTXl6anpkbENFeVJhRkZqM3BfWk9EUk15S2hFcVdrUy13Skh4WmpaMWR3LTRhRzJWNVBkaDhkT25OM3RyNjE4?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260905T070000Z",
-          "pinned": false
-        },
-        {
-          "title": "Trump departs DC on Qatar-gifted Air Force One after emergency slide accidentally deploys",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTDFmbU9kUFlkTGo3Qmg3SzFVajhJVVRYdnF4UWdWU3VId1c1TnJCZFpQZ1BTYzlMak94eFZ0WlhnMGxaVGEtWTctRUNmbV85cjhldmpSVDN4Y2hrbEJ1SWdaNzl2ODlZTE1vc0h5MlNDQ2xzbDRrNUc2RHRyMmRrQ1JsenFIUV9DQU1zUUk1TnlLOHh2QVoyajExU1I3ak1JZ2I3R21SeWtackpsYTgweEZR?oc=5",
-          "domain": "reuters.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260909T220122Z",
-          "pinned": false
-        },
-        {
           "title": "PLR 26-063 – Sports, Recreation and Physical Training Mishap Claims One Soldier’s Life",
           "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNRkNQZmRGdFhkbTNVVmJXUmtVS3NUNkhDbmN3VnZxQ1Y5MWxyQ0dCUndHMEYyZWdMbG9hRkdhZHNLSVk1YTc3YTZxVlVscDRrVnFqSmU1M1JqMlZhT2tuWS02dlRJTjBPSlhOcERZSUFTdkpXU2FlNEh0RHJKdmRRcXNEWFBfWWY4dER2Q3hRYzJsN09NbnROcTd4THJFVXV0RVdQOXp1by15NzE2Zzh1dXpHU2kzX0kyVVltUEZqZV93RXdOUFdPZXdYaHFadXVqZnprMTNLc2pPbm1oRUxlX3puOVdsOGVmcmF1Ym4zSkVZUHVLTHJWblk3c0dxUF9YUkxyZW9B?oc=5",
           "domain": "safety.army.mil",
           "sourceTier": "Official military source",
           "seen": "20260910T194643Z",
-          "pinned": false
-        },
-        {
-          "title": "PLR 26-061 – Automobile Mishap Claims One Soldier’s Life",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZE5YeVo2cFE4bndqZGpzSGliQXE0akRsXzRaUl9iSFVIUU91dzBnWWVDc1lrS2dTSkt2b2p4TGtLcGh4NE1Od3V2VWUwRVVyd2JDNXdlWWJxNVgtanVSZHVGVE9zb0VUS1o3YzFFNHNHNnlYVUlaOFA3NExPS1Q3R1ZTeFh6cWd2b0hGQ3RQd0w0eGljbnJUMEJiVkxzZzAzY0x6SkJHN1k5ekpOQTFGbkRtejdKTGR2RmJFUm11TnRaUEo3T2o4VVA1WEtvbV9EXzJJQ09TMHdFcDZyR2VN?oc=5",
-          "domain": "safety.army.mil",
-          "sourceTier": "Official military source",
-          "seen": "20260902T194937Z",
           "pinned": false
         },
         {
@@ -109,67 +61,11 @@
           "pinned": false
         },
         {
-          "title": "Mishap Investigation Advice",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc19FY29CaU9ZS05HZ010VnR3R2FGa1JBMFZTb2tZdEJLZkpfRTRLdm9VdGEwallmUi14dGlYNC12dmhYU3ZxaXJrQWJBM25LdmxadFFOanlYUWhkZFhmVTF2NG5iTUtfNHVJaWpiRVZ6UmdoVkxxUlU4OFFVVG13UA?oc=5",
-          "domain": "safety.army.mil",
+          "title": "Coast Guard, Michigan State Police rescue missing hiker from Lake Superior island",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQ0ZXYV9MZ0NzR05RcF9NdzdEVWh3d0w1MlR3ZmJ2TE0tTW9maWwzQ1VUU3lSR2EzalFhcnBmWVdtR0UzcFpKT2x2ZXRZZ3pseG41OHNPeEgyTXZuOHFWN1F0TTdVeW5NQWZBVnZzY0h1RVI2TTJjMXc5RE16WUxPV1EtaklkemRxeGwwQzV1TzgwZkFBVGRjYXlMRHpKMVd3aTZTeDZEbURjd1ZOdFFoMDMzOFExTVFKUG1WMTcyaHc3dFB0NmNMc3NmbUlHZzZFNC1lcQ?oc=5",
+          "domain": "news.uscg.mil",
           "sourceTier": "Official military source",
-          "seen": "20221207T215155Z",
-          "pinned": false
-        },
-        {
-          "title": "PLR 26-026 – Industrial/Occupational Mishap Claims One Soldier's Life",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVFBVWXBUbHd4ZjZrRUxIczczNkR4bVNBNGYxNElhdGU5WkRvaFJCMEQ0RFg0NXJCcUdiUkNZU3RCc3lJaDR1UWlDME1aOXBZNlFLY21IaGh4cmlJMTVzekVkN3VPcjdYcklvZjdsYmxLcEZZdF8zOFFQeEgwT0lXNDVLRE5semZ1cnE3dDBobmpWUWZ4TkZ2X1ZwYllMYlphbG5aLU1PTkpnZW0tbS1OQWEwQ0RiTUV1OG1ILVhfNnM1SUltUG5sYTBISFJtT0F5ZFRzaUdyZUdVQ09UY0lKTQ?oc=5",
-          "domain": "safety.army.mil",
-          "sourceTier": "Official military source",
-          "seen": "20260421T070000Z",
-          "pinned": false
-        },
-        {
-          "title": "8 US soldiers released from hospital after armored vehicle crash at Hohenfels",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOTViVVZJUGVFWGUtRmlLV2l6MmhlUkdfRHBad2JBQjVOV0hnTFp5Z19HS1lETWZpOVVLWDlXaHhNQUE1V203Q0RLZ1EyX2tZRGs5bk9LUEQ1bTc4UGp0WVdDWmF1cElIbUxiaERyYXRVd1ZlNExVYkJYendiZGdUYUY0SWMwendxYmhNell4dkZtdS1nRjdQeg?oc=5",
-          "domain": "stripes.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20230914T070000Z",
-          "pinned": false
-        },
-        {
-          "title": "PLR 25-080 – Weapons and Explosives Mishap Claims One Soldier's Life",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTWx6TjVfelZZNE5uTnpWYVZtUld5TWRTZHlKY1AtRDQ1T0RTelpaczR1S2R3YkdSbEQyMmlsT2hYajN2WE9laWp2Vi1CMS1oYWN6ZkZHeEJpblVEQVFCTmpxdmNBa0VwNEtmSjFrOGpSdXM0U2l6RmszVU01Ujk1bjNtYW9xM3VBd0o4WG9QajIxNENjYWFOek95dkUxQm1jdVlMTkJPWTkxVG9GWVlqQVpUYlc1R2ZNUFZTcEQzOE42WmdpOERvT1VtV2dXbTFxZ2NWcHpKUTgyLTJBc2g3cw?oc=5",
-          "domain": "safety.army.mil",
-          "sourceTier": "Official military source",
-          "seen": "20250814T070000Z",
-          "pinned": false
-        },
-        {
-          "title": "Was it Really an Accident?",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdHhIX0o1VkIycm1nVUMzUVVTTV82eWoyZDZuSzlPSG1QQ3VrSTVXc2ZtbkJOaVJGTGc2SkJQTnlDaEdVX2psQW1kMDhZVTlhQXNIeVY4QVp5cE03THBnQVNQQy1GUDlBaXlkcGZCM1VYN2dkTjBMUUhvOUN4RUtleEZuakpBMXZ0akktY0ZRSjVPQ1REZmp5ZkFrcDFQOUZDMVNPN0s5NjBGcXVFeE43SXk5WWcwbU5WdHFXOXc1eEx4M3lBaGtZZUNR?oc=5",
-          "domain": "safety.army.mil",
-          "sourceTier": "Official military source",
-          "seen": "20220302T080000Z",
-          "pinned": false
-        },
-        {
-          "title": "Marine F-35 involved in fiery mishap at Miramar base in California; pilot ejects safely",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQTY2THYtYXZSQXBMTlhtamlYSkRpSWlmNnFqd3JZWFIzd0lEaTlOTzNlRVRlUTZOdmcwYnNKN0NCUzFLZ1ZsRFduWW0xbWluTDcwZk5nSGVDMTJVTUdHbEFDWThrQy03c1RURmM4TFBZdzVfcHdTQUQwLUkwMEtldlhvTTg5XzJMUmFjamhIQmh5RnhMX1ZwY3FR?oc=5",
-          "domain": "stripes.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260731T070000Z",
-          "pinned": false
-        },
-        {
-          "title": "PLR 26-036 – Automobile Mishap Claims One Soldier's Life",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObTlqX1dFdGswTE9xUXEybGM1elplcnM4bkU2Ym5uRUptLW5CRVhwVUdzbjFKUGg3TXRjdEtLTHpjaUMyWG82UlVPWTBRVFlHYV9ORW10UlBvNTJnNnU0Q3lPbjVaampOS0RCUWY0bnhoMGxFcUVob2JsWUo4aTV0M0xYTE9CVHFUSGZxQXljS1VOZWRxTmpSOG05NDBfVGlTWXYzTElseXphRGd3SE56STBvcTlwZWVJZkJUSnZYVkRMTjNRTldaNlIyeXg4Y1pf?oc=5",
-          "domain": "safety.army.mil",
-          "sourceTier": "Official military source",
-          "seen": "20260520T070000Z",
-          "pinned": false
-        },
-        {
-          "title": "8 killed in B-52 crash at Edwards Air Force Base in California",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNkJTV0dOaGcxeUhGYmVKd0xkaVYtZUJTc19qM0x5TmtkWWhXZ2J1bGZhSEpRd0F3a1hvcWRLS0Fpc213QmFMNTZlY0JPTmlmamFER3R5TTk3bFNmZ0VHMGxWWHZPTGtxWTBLLUpPOWdBdkFycVFWUXhyQ3FaaWlYTWI4RDNiLUwzVExKNDNpeGJLZE53TVk4SEwtNjFUeVdfWHlncGV2Ulc?oc=5",
-          "domain": "stripes.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260615T070000Z",
+          "seen": "20260913T013859Z",
           "pinned": false
         }
       ],
@@ -211,24 +107,6 @@
           "sourceLabel": "safety.army.mil"
         },
         {
-          "id": "auto-7d94311c3567",
-          "reportDate": "2026-09-09",
-          "dateBasis": "report discovery date",
-          "branch": "Air Force",
-          "department": "Department of the Air Force",
-          "type": "Other",
-          "event": "Trump departs DC on Qatar-gifted Air Force One after emergency slide accidentally deploys",
-          "location": "See official source",
-          "fatalities": null,
-          "injuries": null,
-          "status": "REPORTED / UNVALIDATED",
-          "signalClass": "REPORTED MISHAP",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
-          "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTDFmbU9kUFlkTGo3Qmg3SzFVajhJVVRYdnF4UWdWU3VId1c1TnJCZFpQZ1BTYzlMak94eFZ0WlhnMGxaVGEtWTctRUNmbV85cjhldmpSVDN4Y2hrbEJ1SWdaNzl2ODlZTE1vc0h5MlNDQ2xzbDRrNUc2RHRyMmRrQ1JsenFIUV9DQU1zUUk1TnlLOHh2QVoyajExU1I3ak1JZ2I3R21SeWtackpsYTgweEZR?oc=5",
-          "sourceLabel": "reuters.com"
-        },
-        {
           "id": "auto-0cb7377710a1",
           "reportDate": "2026-09-09",
           "dateBasis": "report discovery date",
@@ -245,6 +123,24 @@
           "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
           "source": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTjlyNHdMTVZGLWFLT3E0TVpyQ3JzbG1EQ0NiSlVFYmdKNXhwZDNmV2hFaGR3X1pfSmlvYUlaYU1MRkI2ODRyS3VrdmZudXpyYVZsM0RBb2V1elFQckF4WE43OHo3cmpLZk01TW4xeHJwMGhZdVZKWUtnTTFybDNZSXJQSkt0ZVJWcmNqa1ZDTUJDaDBKYXh4RzFKNW5kUGZxU2R4N3p5b28zeG9rUlFmdlE2emV6NFl4WVUzYUwyNU1zNGJxZTd3T2NMOGNzYzZSdmNrT1l4cGE0bzhIbHJFc3pmb2ZLVzRTalByc210NA?oc=5",
           "sourceLabel": "safety.army.mil"
+        },
+        {
+          "id": "auto-7d94311c3567",
+          "reportDate": "2026-09-09",
+          "dateBasis": "report discovery date",
+          "branch": "Air Force",
+          "department": "Department of the Air Force",
+          "type": "Other",
+          "event": "Trump departs DC on Qatar-gifted Air Force One after emergency slide accidentally deploys",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTDFmbU9kUFlkTGo3Qmg3SzFVajhJVVRYdnF4UWdWU3VId1c1TnJCZFpQZ1BTYzlMak94eFZ0WlhnMGxaVGEtWTctRUNmbV85cjhldmpSVDN4Y2hrbEJ1SWdaNzl2ODlZTE1vc0h5MlNDQ2xzbDRrNUc2RHRyMmRrQ1JsenFIUV9DQU1zUUk1TnlLOHh2QVoyajExU1I3ak1JZ2I3R21SeWtackpsYTgweEZR?oc=5",
+          "sourceLabel": "reuters.com"
         },
         {
           "id": "auto-1a50eb2eda48",
