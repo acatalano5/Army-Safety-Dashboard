@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-14T19:57:38.060Z",
+  "generatedAt": "2026-09-14T21:49:43.770Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-09-14T12:43:55.033Z",
+      "generatedAt": "2026-09-14T21:49:43.770Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -1315,7 +1315,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-09-14T12:43:55.033Z",
+      "generatedAt": "2026-09-14T21:49:43.770Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -1335,11 +1335,11 @@
           "pinned": false
         },
         {
-          "title": "Carney eyes 'unique alliance' with EU as trade war with US intensifies",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NaWFGNG1Ockpfdm51c0ttSFYtSEdoZEx0OTVyMHVSa2h5WWhHa2d5UUhhQVNhQ1d2aVpzTWc0MWJGeTBsMUc4RFUyTnlKT3FWRFJtMGlSS1pQQQ?oc=5",
-          "domain": "bbc.com",
+          "title": "NATO pledges increased Ukraine support as Russia strikes near border",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaFh5cl9tOEktSmtJY2ZmOTc2c0NNbnF3aHlXZ3k2VHgtOW5NNzBrWlFVQkNrRERfWDRENC1PalM0VEJ3czJXWnJTWW5uQ3NqSWZXTmlqQVJlUjNXTzQ4TkZYX2dOdFl3TjRXczcxWHdwSXYxRFVXbVFFb21jR1dkeFZiY1lReWo1QnF6SVJrN3FJTkxGWnFPZ2IyZk1sckxXQnFaT2R2VFo2bjFMX2ZaS1FONFhaZDdyZ3dxcU9hQ3TSAcYBQVVfeXFMUFNVbjdTNEtoajNOM0dsVE43RUJ2V09USWpDb1BwQThseTF3MUNVTDhoaUZLZnFIRU9jWHZSQnBFeVN5REMwM25ROV9UQkN3RXlaVFpZSlhRVlZFWVEwcDBpMV9ETjJPTEZTV2VJSk8wQm5xV09rLWxIeUNYM21LQjZuQXJic2JselJPYTJrOEJ0ejkxZ2RwZWNfRFhVSXRxZTJ4Y2VxWE41TVRXRDBFX3Y2RW5ZOHRlSExEa3ZMYnkybXlJemJ3?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260914T040226Z",
+          "seen": "20260914T184814Z",
           "pinned": false
         },
         {
@@ -1359,11 +1359,35 @@
           "pinned": false
         },
         {
+          "title": "Carney eyes 'unique alliance' with EU as trade war with US intensifies",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NaWFGNG1Ockpfdm51c0ttSFYtSEdoZEx0OTVyMHVSa2h5WWhHa2d5UUhhQVNhQ1d2aVpzTWc0MWJGeTBsMUc4RFUyTnlKT3FWRFJtMGlSS1pQQQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260914T040226Z",
+          "pinned": false
+        },
+        {
+          "title": "EXPLAINER - US-Iran war ushers in new era of missile warfare",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT2s2LVZ5SGZCclB3bHdJcEpkeGU3RzBUTGxjLUNVNWI1ajVHcjRoQXd6RkdBUF9NRGZ3ZDBjUHlxZVJ4X2h4RzdaclhwREU1SVF6SU9RdlUtdVNQdzRRWjBmRmJsaThsTDIzaFpaM2FIdDI1eWw4TUhTUWdVejBPRVA4c1BUY2tXT3N3WUVUQ3NSNXo5SHY2eFpLVG9Ic0NBNmNNVmFR?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20260914T103516Z",
+          "pinned": false
+        },
+        {
           "title": "How 9/11 helped Israel sell its war on Palestinians to America",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUUs5UHJNRlZvTER5dTdEMTdReEhLcHNaVmdSQUxMQzZ4LU5sT1Y1cnA5OGRsQVpGX2ZRbkZ3cVdVbS14cTFMQzF3bWFpWHQ3WVkwdm1ZWDNHRGxZWVZGRVh3aFYxUzByb3BsYTVhcV9HNldtaTg5T3VSMDB5NFR2VUpBTVVoUnB5dWh6VnVHZjdFaWUySjgxWnVkcXZJMGty0gGmAUFVX3lxTE95TC02ZXZIVVpQbHRubnZwMzFyaGlEdk5palVsTld1RHpqUUcxZlkyUGc2WkJvSzhCT0REY3FodmN6b1JlQm41ZXVkLWoxalRkSVBKdWZvZ3RnMlBucVdfNDZZOXctOThPemtsYjROZV9RU3lCbGdFNEVzWTl2N0k0QnRRVjIxZXJuakZKUFk2NklQUmpKeEwxQWhmV1pVbHhXbFVhdkE?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260911T082042Z",
+          "pinned": false
+        },
+        {
+          "title": "Why is Trump warning Zelenskyy not to hit Russian diesel refineries?",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObzJXZU5PdWNpTDFWWmF0NDlsT2FtNkRHRWZoM0xDNVlhSmlwSkZDSzRpSXJ1VVZHcTBXX0YzRGNydHh2QmI3RUhOQ1gxaU1admVYT29YUmptRnU2ckdDLUpyY0ZNX3VYTHFBYzRPcHdVdWg4VUhyUVpyMlpFdzIwOXhndkhFZy1ZWkNxRk5pZEljblFtV3czVmctR3AyRkRGUHhfSFMwczdqRVFHNGJsSNIBtgFBVV95cUxNQjRQYUloRmR1Q2htUm9zNDNTY2VYeENzb1hDSUFCWjRYSDMzblVZTzNQVG5PYnUtU185a3Z1WUY3eXpXTTJ1a0JUNVJnX0lFNU1aX3V0c1lCNk5URTFzcDlzRmFYY29QUDRZOGZTdE1VSTFFWmhQeDlfRXc4U3VfbWZHZlZPdlhKMWZrMVZNV0RJNk9fUkRHUWRCbmE5Q245dWtzVmZoX2g4NHdSeVpKX0Q3WHJaQQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260914T171715Z",
           "pinned": false
         },
         {
@@ -1391,11 +1415,11 @@
           "pinned": false
         },
         {
-          "title": "Young republicans break with Trump over Iran war",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQWh1RnF0OG5ZanhyR1piaVA1QWM4WF9qaWFGSHpWaVZhNjFobVphVnFsdTlaWEFDVko1b0htbjhOR0JzZW50WHpEbnRiTlBreUE0TlJVcWNkd2hpODdvVnNRU0IwNzNZdk9iU1NTd25UemhfWUV0S2N3ZVJUTjlVaE5SbWwtWFU1MnpJaUhWcXhGc21KZ1RxN2pHWk1rUUJu0gGmAUFVX3lxTE5ZaWJyZlZoTEszTnRZeE9nOFJHYnZYRzNTTmd3a1R3bWZtbFAzS3BGOEhFTjU2VndKcW9WeEwzdWd5aUhOTmtJbzVwanpoSmRjMlNES3psMXp5NU85VEFaakQ4RkwtRXJWRHBVaDdhYXFTYy12V1RqVHpLRjdBcVFKcEI0QkFFekRoblRwY1dfSzhxZ1ZvODJQSFRtVTFlSGxPODRXbkE?oc=5",
+          "title": "Fiscal pressure from Iran War clouds Gulf States’ US spending plans",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQzNBcXVZSFJ0blZSaUE4MmlWRWNOeGNWOVQzR0xrSlhSWF95bi04a3pLRmFzNE1QY2hWMmJvdEpLWkxlUjhBa0dQTy0wTlZfUThZcmFlVGZQc3c4R3ZYYlRmVXJWR1N3RkM4QW5wc3FyaFhGdjBNLW1CV2FhVlFSMG14T1J3SUJ3YnV3WjFrRHdOZlRwZVdjU2ZuNjN3V2UyNWtYcFNLYWpIRUVWTUNv0gG0AUFVX3lxTE9WOE4yYmVmTkRjdHU1T3gyTUJPdmw1Sl9NbWhFeGJSWTlvQ2hmRWdhd2lqcUUwSktGaEdqQjVQQzE3bGhjVnRmZ3Z6TGNueE5BX3BkckhJMnRndVQ1dDhUNWdwVnIxZHhqT01UaDJLUzItM1MyNVlDM3hjdnRSb29lQkxDclh6Vk5wbTRQZ1FnbFQtcmtGSlJ1OVZtQjlPMWRKbTFqTzNmZm5GZjNQaDZ2MC1xVg?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260911T030349Z",
+          "seen": "20260914T144122Z",
           "pinned": false
         },
         {
@@ -1404,6 +1428,22 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260913T212135Z",
+          "pinned": false
+        },
+        {
+          "title": "Trump says Iran war will end 'very soon'",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUFFzRnp6cko3RlBobGJCeDI5N0x4S3FJbWpuYndBeGtUWUhCb3U5R0R3SU5JNmlNOVRvdFRab0pBU0VwdWNPYXBURGNJbFVrQmFjVVZ4TjdFN3BzdEI0a2drc3lmRjVCNkR5X2lDTzlXOHVxRml3REl2XzA3YnhUNHdoQktnY28?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20260912T103044Z",
+          "pinned": false
+        },
+        {
+          "title": "Young republicans break with Trump over Iran war",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQWh1RnF0OG5ZanhyR1piaVA1QWM4WF9qaWFGSHpWaVZhNjFobVphVnFsdTlaWEFDVko1b0htbjhOR0JzZW50WHpEbnRiTlBreUE0TlJVcWNkd2hpODdvVnNRU0IwNzNZdk9iU1NTd25UemhfWUV0S2N3ZVJUTjlVaE5SbWwtWFU1MnpJaUhWcXhGc21KZ1RxN2pHWk1rUUJu0gGmAUFVX3lxTE5ZaWJyZlZoTEszTnRZeE9nOFJHYnZYRzNTTmd3a1R3bWZtbFAzS3BGOEhFTjU2VndKcW9WeEwzdWd5aUhOTmtJbzVwanpoSmRjMlNES3psMXp5NU85VEFaakQ4RkwtRXJWRHBVaDdhYXFTYy12V1RqVHpLRjdBcVFKcEI0QkFFekRoblRwY1dfSzhxZ1ZvODJQSFRtVTFlSGxPODRXbkE?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260911T030349Z",
           "pinned": false
         },
         {
@@ -1423,14 +1463,6 @@
           "pinned": false
         },
         {
-          "title": "US vice president gathered unfiltered views of Iran war behind closed doors: Report",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYXpISFFlZGxmbWpuMEY1Z0FGRzgtaXJjejl5MmpqS3F2cy1JdlFJVHJSUmdCQUFnc2g3bGxtQmpCOFlfaUw5ZDhPUmd1VExmWG9tZThMQnlaWkxpRUJtT1JQY01OSW1jclVVdzlYWlg3bUZzcU5RbEt5Y2xrbTgxUmRkcmREX2VVSlkxRzE1TE1sSXlJY1VuNG5zdUJaRjdMc09YN3RHLTlibUNsNmhoNXBNd2htTW1CWTUxSlRMcnQyZw?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "seen": "20260911T005818Z",
-          "pinned": false
-        },
-        {
           "title": "Ukrainian drone evades Russian helicopter fire to strike oil tanker",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVEt2d1JVSGYxTWJkWUs2ZWZKMzVZaVAzMVZsUkpiQWhaUUdOMjRwOWJfQ2J5YzNyOWRKS3QybUIwNXFYRWtiZDFvRWZaYTRyT3VfRk01cGgxeTJLa1hMVzRhVmJiRzNvcld4Y1VLcmhCQzVaMDRLeVVJUTNnNGpJQUR0SDdRaHEwY25yWlROUjVyZ9IBlwFBVV95cUxNTFpBenBrZlFuemRuZHhGeTgxQlBOLTlLWldoMG1lcXJOUzRHQTZsc2xGUXQyQUNkUHdfWHFVU0s4OVVyblNVUzNKRm1iOUp2UG9SWVh6YjhXaHd3Uk1wOHo5elFnR0xrYXZaZE9wZUxZaUl4ZE9rbUZMRGN4S05LZXRKMUM5bi1salktdkRpTmlaNnMyOXEw?oc=5",
           "domain": "aljazeera.com",
@@ -1447,14 +1479,6 @@
           "pinned": false
         },
         {
-          "title": "First naval battle between drones takes place in the Black Sea",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTjlWLWI5U3puaFVlTHR6MzU1cGFLUDhmV0VwM0d1d1FqQm44WU1aVW5lWUxaSjduVzNoZldJOWVzR1h1Zm1PX0xwWVVCODVqRkQ2ZHp5Sl9tNjFvSTR3c21NX29iUGFieHhtM21MRDFYajBod29oZWF0ckQyNXdjNDhvZ2RPVWJIZ1FwZ3lkRDR4QU9QMXlpYmRmVjROa1pmRVNHbFlyeHF5ZDh2VFBlSmRCUdIBuAFBVV95cUxPNFhtUm1rRm55V0lZbDI1VmQzT3NFeDRxVTdJTDFNamhYRnVuTTNRUDl1N0hmX0ZEQ2JYSzM1NW5taEtfN0pfcDhQREV4Qkdyblk5VHNYT0VpVkswdFUyVWowUUt1bzdMbnZNYnE0Y3BTYUpIaTRtQTVmV2lvNmlScVFLaXN5dVplc3BNeUZiTXQ5UG0zRlJMZTIwUzFNMFRCdmtxT3Y3NDVLRi0xWmw5Q0hXT3JIWjI0?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260912T214616Z",
-          "pinned": false
-        },
-        {
           "title": "9/11 at 25: How the ‘War on Terror’ helped mainstream Europe’s far right",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRENxUUtIbUgyMVB1ejg5S0x3YTBhNzI5ZU9kZ1NCSzRIN3M4Y2VQVFNUeE45RlZpUXRZTm9DTFZJQ2hSeFJyTTFZbXJLOFVfeC1OQmhYZnpiVjZELUtNTHJPX2ttRmpqS01oejFjSGxZb0N5QzlJWEVBc2pQdjJzOE9ld3JKc3VYdzIxLWdNWVRRNjlJVHY5aGQ5YTFKRldVUEVMcmZNU21taVHSAbABQVVfeXFMTmJzTW5uUFZSUFNYdTdFZF9RSk5LTWxiRVBLQnV4Ri1RTWVvNk9sTVhfN29qLU5zM3A1MGg0OGhEZ1BBUkZvX01kcmxQMEZzVGVmRTdTLVJ5LUpxV2JnR0ZXd1NvUnBGOHMxN3BYRTg5cEl4VFBRcHZnRzI1d3RGdGRlaHoxRHRreFRDVGYwYzJocTFhNUtvaF8tUE5HY1I4M2FrdU1lOUxZcmRYWmlWVVM?oc=5",
           "domain": "aljazeera.com",
@@ -1463,11 +1487,11 @@
           "pinned": false
         },
         {
-          "title": "Trump says Iran war will end 'very soon'",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQU0xTa3VXVHEyUGtDaUN6Y0FLc2NBQ0tSeHU2c0VLQjZTRW1PT2lBNm1KcWVFRGh3d19EY0ZVdVV1alBwUzZnTFMtQTY2UzdBZnBLc2pjemJENDBDX1FOLUVXOUlTUXZuZi00c01jenc2R0wxVDY1XzBHVVhrRjlrZE13?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "seen": "20260912T103044Z",
+          "title": "Inside the Houthis’ expanding war economy in Yemen",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM3pGRFFMYXkyeWdfeHdzeXE0UVJBMGxtQ0NlV0xFOTUxNGxCdWZPVUppelJTd01pcGNoUWlvSmcwS2p2SEMyamVXNU0xNnFLUHRmdnRVVkEwSzI1VHpCdG1UVW85dEM4NnBkVkQwRUY3bktkZXhuUS1GSjFINjdkaTNidHN0WmZsU25KTWpFaFVobVM1QWF2LdIBngFBVV95cUxQN2xQSmw4QzJpaVY1bTBiSnp0Qkk2RF9OVVhpam55Q2JKLWdVUXlrOXRTR1VWM214RXpLTnVwNUQyS3M1bWdSVHMxTC11X1o4VElPVUtFY1NiUjlteWJKVTZyXzFjcmhSLXVLQzZPaWpzVTlwSWJybVdLbDF4YXVsN3NRRnJBdFBVWk9kMU12Y3Z4NWVMcUI1N3VPOUo3QQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260914T204533Z",
           "pinned": false
         },
         {
@@ -1479,35 +1503,11 @@
           "pinned": false
         },
         {
-          "title": "BRICS leaders meet in India as Iran war reshapes global agenda",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORndFMm9zRHpEVlB1aDc1UV96dnFEUTdyems1ZzM4YlVMeGlHdGNiWFBmdWQ0eWx0aGc2ay1RUGFfR0tVNDN3eW1hUDVRYkp5ZTBmS04wNUdJVkFucUFjNHZuRndjMkxJUjJmUzU4UjhROW9udENYa0tXREN0eFRXaHRyQlR3UWFrNFFzN3dkc253Ni1VUFc4QmVNNlhHWHh0MHpF?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "seen": "20260912T055037Z",
-          "pinned": false
-        },
-        {
-          "title": "Kosovo protesters rally in support of ex-president ahead of war crimes trial verdict",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZW1zZVkwMlpRcDVhOVc3eWZjOWtjTXF0NEZxRkpSa3NaYzNpWnJvV0JtdHFrVDJoQ3dSOXRJb2FHcmxoeEhWMHlndkVpVk9VZTN6ZWJZbTNaUTNvSmZZbGlWRktGTy16dFdIcHRVblpkdW5KSDk4WEJmdEZtcmFjLVBoU1ZvTUxYVEFOX1lSaDF3bGJoMXk1VmhCNlI1QQ?oc=5",
-          "domain": "apnews.com",
+          "title": "‘Attacks will be fully autonomous’: Russia, Ukraine race towards AI warfare",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc0VNaWp1eEdUbG1BTk1sMXNDNG92Z0s3d1RTYXJnOEhEZmNBOXFjYkluU1gyOU9vRjFSMkVYUWxoSlJzY1J0LS1LRGlGRXR4TENWc1VXaklmUVdWamNDcnY0eGo0SFNYeVhEZWpzZFRpMk5fdi1MdGxrOU9DZ0d0cjBtY2ZvTHdFN1ZwcE5SMkNHYTE3dFFHNVhJU0QtNnNYOFJvU0x2Nmt4V3plckdaSGp30gG3AUFVX3lxTFBESTF4R3hLc1hFZjdTOGhOdmhicllJUnFsUEZpRkppbFRfXzJMSTRFNGptb1czVWYta3BpODltaTJsSGd6dlNWSHFTOThBSHZBYnVGNFEyUEtfSHRET01KZDRHV3BVLVAxWThzc1pkMWRmdVRBYkQyVkd6SkJhMHhxODNTUWtPODk1ZFBkSkdPSTlrS1BocHNENVBuQlF1NWtIYzhwLUxCLW5vV3g3a1lhOTZQZW1NWQ?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260912T140200Z",
-          "pinned": false
-        },
-        {
-          "title": "Scotland's papers: Salmond files 'withheld' and Reform £72m 'war chest'",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYY284MU5QRnBJRE1vbTYzaUlGXzVJUmxhRklpQXFRVUtwMzNEa2laOUZiY2YxT2tOSWxmcEpjNzk4aF9FemdTUFBaTkpjNjBETTNTNjRjVVVmUQ?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260913T081752Z",
-          "pinned": false
-        },
-        {
-          "title": "Oscar-winning Israeli filmmakers' documentary on Gaza war premieres at Venice Film Festival",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeUx2amZJMHExWXU1Mmc5TUJkUmtZb25FNm1teDBmZm9YUklTejV0b2VJdEVPc2VidUVpNzJKWmtGM1lmRUNPb3EyMlp6a0VSNVkwVl9scnRaWWR3WWtQZXhId1cxa2tVVm4ycnl4VVdMVHhZa1lTWF9IYUkxVF82QUJHMHpJTUVZM2JIMHRDc0pwREdGOHJ5RnY4TDZCUQ?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260911T050100Z",
+          "seen": "20260914T132814Z",
           "pinned": false
         }
       ],
@@ -1531,13 +1531,13 @@
           "reportedAt": "2026-09-11T15:19:39Z"
         },
         {
-          "id": "report-b082a6aeec21",
-          "title": "Carney eyes 'unique alliance' with EU as trade war with US intensifies",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NaWFGNG1Ockpfdm51c0ttSFYtSEdoZEx0OTVyMHVSa2h5WWhHa2d5UUhhQVNhQ1d2aVpzTWc0MWJGeTBsMUc4RFUyTnlKT3FWRFJtMGlSS1pQQQ?oc=5",
-          "domain": "bbc.com",
+          "id": "report-52239ed98b65",
+          "title": "NATO pledges increased Ukraine support as Russia strikes near border",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaFh5cl9tOEktSmtJY2ZmOTc2c0NNbnF3aHlXZ3k2VHgtOW5NNzBrWlFVQkNrRERfWDRENC1PalM0VEJ3czJXWnJTWW5uQ3NqSWZXTmlqQVJlUjNXTzQ4TkZYX2dOdFl3TjRXczcxWHdwSXYxRFVXbVFFb21jR1dkeFZiY1lReWo1QnF6SVJrN3FJTkxGWnFPZ2IyZk1sckxXQnFaT2R2VFo2bjFMX2ZaS1FONFhaZDdyZ3dxcU9hQ3TSAcYBQVVfeXFMUFNVbjdTNEtoajNOM0dsVE43RUJ2V09USWpDb1BwQThseTF3MUNVTDhoaUZLZnFIRU9jWHZSQnBFeVN5REMwM25ROV9UQkN3RXlaVFpZSlhRVlZFWVEwcDBpMV9ETjJPTEZTV2VJSk8wQm5xV09rLWxIeUNYM21LQjZuQXJic2JselJPYTJrOEJ0ejkxZ2RwZWNfRFhVSXRxZTJ4Y2VxWE41TVRXRDBFX3Y2RW5ZOHRlSExEa3ZMYnkybXlJemJ3?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-14T04:02:26Z"
+          "reportedAt": "2026-09-14T18:48:14Z"
         },
         {
           "id": "report-44c36834aeab",
@@ -1558,6 +1558,24 @@
           "reportedAt": "2026-09-13T13:05:41Z"
         },
         {
+          "id": "report-b082a6aeec21",
+          "title": "Carney eyes 'unique alliance' with EU as trade war with US intensifies",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NaWFGNG1Ockpfdm51c0ttSFYtSEdoZEx0OTVyMHVSa2h5WWhHa2d5UUhhQVNhQ1d2aVpzTWc0MWJGeTBsMUc4RFUyTnlKT3FWRFJtMGlSS1pQQQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-14T04:02:26Z"
+        },
+        {
+          "id": "report-fe0a00746113",
+          "title": "EXPLAINER - US-Iran war ushers in new era of missile warfare",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT2s2LVZ5SGZCclB3bHdJcEpkeGU3RzBUTGxjLUNVNWI1ajVHcjRoQXd6RkdBUF9NRGZ3ZDBjUHlxZVJ4X2h4RzdaclhwREU1SVF6SU9RdlUtdVNQdzRRWjBmRmJsaThsTDIzaFpaM2FIdDI1eWw4TUhTUWdVejBPRVA4c1BUY2tXT3N3WUVUQ3NSNXo5SHY2eFpLVG9Ic0NBNmNNVmFR?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-09-14T10:35:16Z"
+        },
+        {
           "id": "report-9fff18972fa3",
           "title": "How 9/11 helped Israel sell its war on Palestinians to America",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUUs5UHJNRlZvTER5dTdEMTdReEhLcHNaVmdSQUxMQzZ4LU5sT1Y1cnA5OGRsQVpGX2ZRbkZ3cVdVbS14cTFMQzF3bWFpWHQ3WVkwdm1ZWDNHRGxZWVZGRVh3aFYxUzByb3BsYTVhcV9HNldtaTg5T3VSMDB5NFR2VUpBTVVoUnB5dWh6VnVHZjdFaWUySjgxWnVkcXZJMGty0gGmAUFVX3lxTE95TC02ZXZIVVpQbHRubnZwMzFyaGlEdk5palVsTld1RHpqUUcxZlkyUGc2WkJvSzhCT0REY3FodmN6b1JlQm41ZXVkLWoxalRkSVBKdWZvZ3RnMlBucVdfNDZZOXctOThPemtsYjROZV9RU3lCbGdFNEVzWTl2N0k0QnRRVjIxZXJuakZKUFk2NklQUmpKeEwxQWhmV1pVbHhXbFVhdkE?oc=5",
@@ -1565,6 +1583,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-11T08:20:42Z"
+        },
+        {
+          "id": "report-d590ef10199c",
+          "title": "Why is Trump warning Zelenskyy not to hit Russian diesel refineries?",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObzJXZU5PdWNpTDFWWmF0NDlsT2FtNkRHRWZoM0xDNVlhSmlwSkZDSzRpSXJ1VVZHcTBXX0YzRGNydHh2QmI3RUhOQ1gxaU1admVYT29YUmptRnU2ckdDLUpyY0ZNX3VYTHFBYzRPcHdVdWg4VUhyUVpyMlpFdzIwOXhndkhFZy1ZWkNxRk5pZEljblFtV3czVmctR3AyRkRGUHhfSFMwczdqRVFHNGJsSNIBtgFBVV95cUxNQjRQYUloRmR1Q2htUm9zNDNTY2VYeENzb1hDSUFCWjRYSDMzblVZTzNQVG5PYnUtU185a3Z1WUY3eXpXTTJ1a0JUNVJnX0lFNU1aX3V0c1lCNk5URTFzcDlzRmFYY29QUDRZOGZTdE1VSTFFWmhQeDlfRXc4U3VfbWZHZlZPdlhKMWZrMVZNV0RJNk9fUkRHUWRCbmE5Q245dWtzVmZoX2g4NHdSeVpKX0Q3WHJaQQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-14T17:17:15Z"
         },
         {
           "id": "report-2de2e44610ae",
@@ -1594,13 +1621,13 @@
           "reportedAt": "2026-09-13T01:33:07Z"
         },
         {
-          "id": "report-0b5293d987e7",
-          "title": "Young republicans break with Trump over Iran war",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQWh1RnF0OG5ZanhyR1piaVA1QWM4WF9qaWFGSHpWaVZhNjFobVphVnFsdTlaWEFDVko1b0htbjhOR0JzZW50WHpEbnRiTlBreUE0TlJVcWNkd2hpODdvVnNRU0IwNzNZdk9iU1NTd25UemhfWUV0S2N3ZVJUTjlVaE5SbWwtWFU1MnpJaUhWcXhGc21KZ1RxN2pHWk1rUUJu0gGmAUFVX3lxTE5ZaWJyZlZoTEszTnRZeE9nOFJHYnZYRzNTTmd3a1R3bWZtbFAzS3BGOEhFTjU2VndKcW9WeEwzdWd5aUhOTmtJbzVwanpoSmRjMlNES3psMXp5NU85VEFaakQ4RkwtRXJWRHBVaDdhYXFTYy12V1RqVHpLRjdBcVFKcEI0QkFFekRoblRwY1dfSzhxZ1ZvODJQSFRtVTFlSGxPODRXbkE?oc=5",
+          "id": "report-980f9353f348",
+          "title": "Fiscal pressure from Iran War clouds Gulf States’ US spending plans",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQzNBcXVZSFJ0blZSaUE4MmlWRWNOeGNWOVQzR0xrSlhSWF95bi04a3pLRmFzNE1QY2hWMmJvdEpLWkxlUjhBa0dQTy0wTlZfUThZcmFlVGZQc3c4R3ZYYlRmVXJWR1N3RkM4QW5wc3FyaFhGdjBNLW1CV2FhVlFSMG14T1J3SUJ3YnV3WjFrRHdOZlRwZVdjU2ZuNjN3V2UyNWtYcFNLYWpIRUVWTUNv0gG0AUFVX3lxTE9WOE4yYmVmTkRjdHU1T3gyTUJPdmw1Sl9NbWhFeGJSWTlvQ2hmRWdhd2lqcUUwSktGaEdqQjVQQzE3bGhjVnRmZ3Z6TGNueE5BX3BkckhJMnRndVQ1dDhUNWdwVnIxZHhqT01UaDJLUzItM1MyNVlDM3hjdnRSb29lQkxDclh6Vk5wbTRQZ1FnbFQtcmtGSlJ1OVZtQjlPMWRKbTFqTzNmZm5GZjNQaDZ2MC1xVg?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-11T03:03:49Z"
+          "reportedAt": "2026-09-14T14:41:22Z"
         },
         {
           "id": "report-9a4c4e90bdbc",
@@ -1610,6 +1637,24 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-13T21:21:35Z"
+        },
+        {
+          "id": "report-7e91fdb8bc0e",
+          "title": "Trump says Iran war will end 'very soon'",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUFFzRnp6cko3RlBobGJCeDI5N0x4S3FJbWpuYndBeGtUWUhCb3U5R0R3SU5JNmlNOVRvdFRab0pBU0VwdWNPYXBURGNJbFVrQmFjVVZ4TjdFN3BzdEI0a2drc3lmRjVCNkR5X2lDTzlXOHVxRml3REl2XzA3YnhUNHdoQktnY28?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-09-12T10:30:44Z"
+        },
+        {
+          "id": "report-0b5293d987e7",
+          "title": "Young republicans break with Trump over Iran war",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQWh1RnF0OG5ZanhyR1piaVA1QWM4WF9qaWFGSHpWaVZhNjFobVphVnFsdTlaWEFDVko1b0htbjhOR0JzZW50WHpEbnRiTlBreUE0TlJVcWNkd2hpODdvVnNRU0IwNzNZdk9iU1NTd25UemhfWUV0S2N3ZVJUTjlVaE5SbWwtWFU1MnpJaUhWcXhGc21KZ1RxN2pHWk1rUUJu0gGmAUFVX3lxTE5ZaWJyZlZoTEszTnRZeE9nOFJHYnZYRzNTTmd3a1R3bWZtbFAzS3BGOEhFTjU2VndKcW9WeEwzdWd5aUhOTmtJbzVwanpoSmRjMlNES3psMXp5NU85VEFaakQ4RkwtRXJWRHBVaDdhYXFTYy12V1RqVHpLRjdBcVFKcEI0QkFFekRoblRwY1dfSzhxZ1ZvODJQSFRtVTFlSGxPODRXbkE?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-11T03:03:49Z"
         },
         {
           "id": "report-21276dcd748e",
@@ -1630,15 +1675,6 @@
           "reportedAt": "2026-09-13T11:55:30Z"
         },
         {
-          "id": "report-4b9cc5a56599",
-          "title": "US vice president gathered unfiltered views of Iran war behind closed doors: Report",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYXpISFFlZGxmbWpuMEY1Z0FGRzgtaXJjejl5MmpqS3F2cy1JdlFJVHJSUmdCQUFnc2g3bGxtQmpCOFlfaUw5ZDhPUmd1VExmWG9tZThMQnlaWkxpRUJtT1JQY01OSW1jclVVdzlYWlg3bUZzcU5RbEt5Y2xrbTgxUmRkcmREX2VVSlkxRzE1TE1sSXlJY1VuNG5zdUJaRjdMc09YN3RHLTlibUNsNmhoNXBNd2htTW1CWTUxSlRMcnQyZw?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
-          "reportedAt": "2026-09-11T00:58:18Z"
-        },
-        {
           "id": "report-ac3e860d7423",
           "title": "Ukrainian drone evades Russian helicopter fire to strike oil tanker",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVEt2d1JVSGYxTWJkWUs2ZWZKMzVZaVAzMVZsUkpiQWhaUUdOMjRwOWJfQ2J5YzNyOWRKS3QybUIwNXFYRWtiZDFvRWZaYTRyT3VfRk01cGgxeTJLa1hMVzRhVmJiRzNvcld4Y1VLcmhCQzVaMDRLeVVJUTNnNGpJQUR0SDdRaHEwY25yWlROUjVyZ9IBlwFBVV95cUxNTFpBenBrZlFuemRuZHhGeTgxQlBOLTlLWldoMG1lcXJOUzRHQTZsc2xGUXQyQUNkUHdfWHFVU0s4OVVyblNVUzNKRm1iOUp2UG9SWVh6YjhXaHd3Uk1wOHo5elFnR0xrYXZaZE9wZUxZaUl4ZE9rbUZMRGN4S05LZXRKMUM5bi1salktdkRpTmlaNnMyOXEw?oc=5",
@@ -1657,15 +1693,6 @@
           "reportedAt": "2026-09-12T14:40:34Z"
         },
         {
-          "id": "report-46395392d721",
-          "title": "First naval battle between drones takes place in the Black Sea",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTjlWLWI5U3puaFVlTHR6MzU1cGFLUDhmV0VwM0d1d1FqQm44WU1aVW5lWUxaSjduVzNoZldJOWVzR1h1Zm1PX0xwWVVCODVqRkQ2ZHp5Sl9tNjFvSTR3c21NX29iUGFieHhtM21MRDFYajBod29oZWF0ckQyNXdjNDhvZ2RPVWJIZ1FwZ3lkRDR4QU9QMXlpYmRmVjROa1pmRVNHbFlyeHF5ZDh2VFBlSmRCUdIBuAFBVV95cUxPNFhtUm1rRm55V0lZbDI1VmQzT3NFeDRxVTdJTDFNamhYRnVuTTNRUDl1N0hmX0ZEQ2JYSzM1NW5taEtfN0pfcDhQREV4Qkdyblk5VHNYT0VpVkswdFUyVWowUUt1bzdMbnZNYnE0Y3BTYUpIaTRtQTVmV2lvNmlScVFLaXN5dVplc3BNeUZiTXQ5UG0zRlJMZTIwUzFNMFRCdmtxT3Y3NDVLRi0xWmw5Q0hXT3JIWjI0?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-12T21:46:16Z"
-        },
-        {
           "id": "report-de988dd0c9dd",
           "title": "9/11 at 25: How the ‘War on Terror’ helped mainstream Europe’s far right",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRENxUUtIbUgyMVB1ejg5S0x3YTBhNzI5ZU9kZ1NCSzRIN3M4Y2VQVFNUeE45RlZpUXRZTm9DTFZJQ2hSeFJyTTFZbXJLOFVfeC1OQmhYZnpiVjZELUtNTHJPX2ttRmpqS01oejFjSGxZb0N5QzlJWEVBc2pQdjJzOE9ld3JKc3VYdzIxLWdNWVRRNjlJVHY5aGQ5YTFKRldVUEVMcmZNU21taVHSAbABQVVfeXFMTmJzTW5uUFZSUFNYdTdFZF9RSk5LTWxiRVBLQnV4Ri1RTWVvNk9sTVhfN29qLU5zM3A1MGg0OGhEZ1BBUkZvX01kcmxQMEZzVGVmRTdTLVJ5LUpxV2JnR0ZXd1NvUnBGOHMxN3BYRTg5cEl4VFBRcHZnRzI1d3RGdGRlaHoxRHRreFRDVGYwYzJocTFhNUtvaF8tUE5HY1I4M2FrdU1lOUxZcmRYWmlWVVM?oc=5",
@@ -1675,13 +1702,13 @@
           "reportedAt": "2026-09-12T08:53:56Z"
         },
         {
-          "id": "report-0433a5a71c2e",
-          "title": "Trump says Iran war will end 'very soon'",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQU0xTa3VXVHEyUGtDaUN6Y0FLc2NBQ0tSeHU2c0VLQjZTRW1PT2lBNm1KcWVFRGh3d19EY0ZVdVV1alBwUzZnTFMtQTY2UzdBZnBLc2pjemJENDBDX1FOLUVXOUlTUXZuZi00c01jenc2R0wxVDY1XzBHVVhrRjlrZE13?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
-          "reportedAt": "2026-09-12T10:30:44Z"
+          "id": "report-6adf307e45fd",
+          "title": "Inside the Houthis’ expanding war economy in Yemen",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM3pGRFFMYXkyeWdfeHdzeXE0UVJBMGxtQ0NlV0xFOTUxNGxCdWZPVUppelJTd01pcGNoUWlvSmcwS2p2SEMyamVXNU0xNnFLUHRmdnRVVkEwSzI1VHpCdG1UVW85dEM4NnBkVkQwRUY3bktkZXhuUS1GSjFINjdkaTNidHN0WmZsU25KTWpFaFVobVM1QWF2LdIBngFBVV95cUxQN2xQSmw4QzJpaVY1bTBiSnp0Qkk2RF9OVVhpam55Q2JKLWdVUXlrOXRTR1VWM214RXpLTnVwNUQyS3M1bWdSVHMxTC11X1o4VElPVUtFY1NiUjlteWJKVTZyXzFjcmhSLXVLQzZPaWpzVTlwSWJybVdLbDF4YXVsN3NRRnJBdFBVWk9kMU12Y3Z4NWVMcUI1N3VPOUo3QQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-14T20:45:33Z"
         },
         {
           "id": "report-a67daa5904b8",
@@ -1693,40 +1720,13 @@
           "reportedAt": "2026-09-13T19:05:05Z"
         },
         {
-          "id": "report-67ef1674d7f6",
-          "title": "BRICS leaders meet in India as Iran war reshapes global agenda",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORndFMm9zRHpEVlB1aDc1UV96dnFEUTdyems1ZzM4YlVMeGlHdGNiWFBmdWQ0eWx0aGc2ay1RUGFfR0tVNDN3eW1hUDVRYkp5ZTBmS04wNUdJVkFucUFjNHZuRndjMkxJUjJmUzU4UjhROW9udENYa0tXREN0eFRXaHRyQlR3UWFrNFFzN3dkc253Ni1VUFc4QmVNNlhHWHh0MHpF?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
-          "reportedAt": "2026-09-12T05:50:37Z"
-        },
-        {
-          "id": "report-3f7e4d78d3e0",
-          "title": "Kosovo protesters rally in support of ex-president ahead of war crimes trial verdict",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZW1zZVkwMlpRcDVhOVc3eWZjOWtjTXF0NEZxRkpSa3NaYzNpWnJvV0JtdHFrVDJoQ3dSOXRJb2FHcmxoeEhWMHlndkVpVk9VZTN6ZWJZbTNaUTNvSmZZbGlWRktGTy16dFdIcHRVblpkdW5KSDk4WEJmdEZtcmFjLVBoU1ZvTUxYVEFOX1lSaDF3bGJoMXk1VmhCNlI1QQ?oc=5",
-          "domain": "apnews.com",
+          "id": "report-c3803c97dedf",
+          "title": "‘Attacks will be fully autonomous’: Russia, Ukraine race towards AI warfare",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc0VNaWp1eEdUbG1BTk1sMXNDNG92Z0s3d1RTYXJnOEhEZmNBOXFjYkluU1gyOU9vRjFSMkVYUWxoSlJzY1J0LS1LRGlGRXR4TENWc1VXaklmUVdWamNDcnY0eGo0SFNYeVhEZWpzZFRpMk5fdi1MdGxrOU9DZ0d0cjBtY2ZvTHdFN1ZwcE5SMkNHYTE3dFFHNVhJU0QtNnNYOFJvU0x2Nmt4V3plckdaSGp30gG3AUFVX3lxTFBESTF4R3hLc1hFZjdTOGhOdmhicllJUnFsUEZpRkppbFRfXzJMSTRFNGptb1czVWYta3BpODltaTJsSGd6dlNWSHFTOThBSHZBYnVGNFEyUEtfSHRET01KZDRHV3BVLVAxWThzc1pkMWRmdVRBYkQyVkd6SkJhMHhxODNTUWtPODk1ZFBkSkdPSTlrS1BocHNENVBuQlF1NWtIYzhwLUxCLW5vV3g3a1lhOTZQZW1NWQ?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-12T14:02:00Z"
-        },
-        {
-          "id": "report-1e93dd0c2cc4",
-          "title": "Scotland's papers: Salmond files 'withheld' and Reform £72m 'war chest'",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYY284MU5QRnBJRE1vbTYzaUlGXzVJUmxhRklpQXFRVUtwMzNEa2laOUZiY2YxT2tOSWxmcEpjNzk4aF9FemdTUFBaTkpjNjBETTNTNjRjVVVmUQ?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-13T08:17:52Z"
-        },
-        {
-          "id": "report-e8fc3cf1352e",
-          "title": "Oscar-winning Israeli filmmakers' documentary on Gaza war premieres at Venice Film Festival",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeUx2amZJMHExWXU1Mmc5TUJkUmtZb25FNm1teDBmZm9YUklTejV0b2VJdEVPc2VidUVpNzJKWmtGM1lmRUNPb3EyMlp6a0VSNVkwVl9scnRaWWR3WWtQZXhId1cxa2tVVm4ycnl4VVdMVHhZa1lTWF9IYUkxVF82QUJHMHpJTUVZM2JIMHRDc0pwREdGOHJ5RnY4TDZCUQ?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-11T05:01:00Z"
+          "reportedAt": "2026-09-14T13:28:14Z"
         },
         {
           "id": "report-b41a3eea5754",
