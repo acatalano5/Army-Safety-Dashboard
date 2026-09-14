@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-14T04:53:30.108Z",
+  "generatedAt": "2026-09-14T12:43:55.033Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-09-14T04:53:30.108Z",
+      "generatedAt": "2026-09-14T12:43:55.033Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -1419,9 +1419,17 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-09-14T04:53:30.108Z",
+      "generatedAt": "2026-09-14T12:43:55.033Z",
       "cadence": "every 6 hours",
       "items": [
+        {
+          "title": "Brics summit 2026 Delhi: Iran war reshapes ties but exposes divides",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91b1g5Z3VhS21qLVlBbER6dGVudjhrdUpiNlBkcHVCQTVxQ1FOdnpPWlpkc1VWSEhZTXpXMERDRWQ2X0FpdnFwWEN0N0lrdy1YamZBeW1LOHVmUQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260913T112342Z",
+          "pinned": false
+        },
         {
           "title": "In 9/11 remarks, Trump links war with Iran",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BS1pfYjcyYjJmdDZKWnp6XzgycEc3VDV5cTBCTnBERTRLQTFUYnU3RzM2VlBTTWZVMU8wSDhhTkN4ejhLUXMxdHJ3MnlkY1I2WjRfVzc2TQ?oc=5",
@@ -1431,11 +1439,11 @@
           "pinned": false
         },
         {
-          "title": "Brics summit 2026 Delhi: Iran war reshapes ties but exposes divides",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91b1g5Z3VhS21qLVlBbER6dGVudjhrdUpiNlBkcHVCQTVxQ1FOdnpPWlpkc1VWSEhZTXpXMERDRWQ2X0FpdnFwWEN0N0lrdy1YamZBeW1LOHVmUQ?oc=5",
+          "title": "Carney eyes 'unique alliance' with EU as trade war with US intensifies",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NaWFGNG1Ockpfdm51c0ttSFYtSEdoZEx0OTVyMHVSa2h5WWhHa2d5UUhhQVNhQ1d2aVpzTWc0MWJGeTBsMUc4RFUyTnlKT3FWRFJtMGlSS1pQQQ?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260913T112342Z",
+          "seen": "20260914T040226Z",
           "pinned": false
         },
         {
@@ -1503,11 +1511,11 @@
           "pinned": false
         },
         {
-          "title": "US vice president gathered unfiltered views of Iran war behind closed doors: Report",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYXpISFFlZGxmbWpuMEY1Z0FGRzgtaXJjejl5MmpqS3F2cy1JdlFJVHJSUmdCQUFnc2g3bGxtQmpCOFlfaUw5ZDhPUmd1VExmWG9tZThMQnlaWkxpRUJtT1JQY01OSW1jclVVdzlYWlg3bUZzcU5RbEt5Y2xrbTgxUmRkcmREX2VVSlkxRzE1TE1sSXlJY1VuNG5zdUJaRjdMc09YN3RHLTlibUNsNmhoNXBNd2htTW1CWTUxSlRMcnQyZw?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "seen": "20260911T005818Z",
+          "title": "Watch: Why a Russian strike on train near Ukraine-Poland border could mark an escalation",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB1elJWbEsxNDZ4Z09aSU13WE42UnhJS2dKS29iSDNyelhmbVhQX1ZFbXMyTk8zenJmeEJHVVVxNUQydzJOQ1hNem1BZXpxbmdOUHlBZElqOA?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260914T011220Z",
           "pinned": false
         },
         {
@@ -1519,11 +1527,11 @@
           "pinned": false
         },
         {
-          "title": "Watch: Why a Russian strike on train near Ukraine-Poland border could mark an escalation",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB1elJWbEsxNDZ4Z09aSU13WE42UnhJS2dKS29iSDNyelhmbVhQX1ZFbXMyTk8zenJmeEJHVVVxNUQydzJOQ1hNem1BZXpxbmdOUHlBZElqOA?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260914T011220Z",
+          "title": "US vice president gathered unfiltered views of Iran war behind closed doors: Report",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYXpISFFlZGxmbWpuMEY1Z0FGRzgtaXJjejl5MmpqS3F2cy1JdlFJVHJSUmdCQUFnc2g3bGxtQmpCOFlfaUw5ZDhPUmd1VExmWG9tZThMQnlaWkxpRUJtT1JQY01OSW1jclVVdzlYWlg3bUZzcU5RbEt5Y2xrbTgxUmRkcmREX2VVSlkxRzE1TE1sSXlJY1VuNG5zdUJaRjdMc09YN3RHLTlibUNsNmhoNXBNd2htTW1CWTUxSlRMcnQyZw?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20260911T005818Z",
           "pinned": false
         },
         {
@@ -1551,6 +1559,14 @@
           "pinned": false
         },
         {
+          "title": "9/11 at 25: How the ‘War on Terror’ helped mainstream Europe’s far right",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRENxUUtIbUgyMVB1ejg5S0x3YTBhNzI5ZU9kZ1NCSzRIN3M4Y2VQVFNUeE45RlZpUXRZTm9DTFZJQ2hSeFJyTTFZbXJLOFVfeC1OQmhYZnpiVjZELUtNTHJPX2ttRmpqS01oejFjSGxZb0N5QzlJWEVBc2pQdjJzOE9ld3JKc3VYdzIxLWdNWVRRNjlJVHY5aGQ5YTFKRldVUEVMcmZNU21taVHSAbABQVVfeXFMTmJzTW5uUFZSUFNYdTdFZF9RSk5LTWxiRVBLQnV4Ri1RTWVvNk9sTVhfN29qLU5zM3A1MGg0OGhEZ1BBUkZvX01kcmxQMEZzVGVmRTdTLVJ5LUpxV2JnR0ZXd1NvUnBGOHMxN3BYRTg5cEl4VFBRcHZnRzI1d3RGdGRlaHoxRHRreFRDVGYwYzJocTFhNUtvaF8tUE5HY1I4M2FrdU1lOUxZcmRYWmlWVVM?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260912T085356Z",
+          "pinned": false
+        },
+        {
           "title": "Trump says Iran war will end 'very soon'",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQU0xTa3VXVHEyUGtDaUN6Y0FLc2NBQ0tSeHU2c0VLQjZTRW1PT2lBNm1KcWVFRGh3d19EY0ZVdVV1alBwUzZnTFMtQTY2UzdBZnBLc2pjemJENDBDX1FOLUVXOUlTUXZuZi00c01jenc2R0wxVDY1XzBHVVhrRjlrZE13?oc=5",
           "domain": "aa.com.tr",
@@ -1559,11 +1575,11 @@
           "pinned": false
         },
         {
-          "title": "9/11 at 25: How the ‘War on Terror’ helped mainstream Europe’s far right",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRENxUUtIbUgyMVB1ejg5S0x3YTBhNzI5ZU9kZ1NCSzRIN3M4Y2VQVFNUeE45RlZpUXRZTm9DTFZJQ2hSeFJyTTFZbXJLOFVfeC1OQmhYZnpiVjZELUtNTHJPX2ttRmpqS01oejFjSGxZb0N5QzlJWEVBc2pQdjJzOE9ld3JKc3VYdzIxLWdNWVRRNjlJVHY5aGQ5YTFKRldVUEVMcmZNU21taVHSAbABQVVfeXFMTmJzTW5uUFZSUFNYdTdFZF9RSk5LTWxiRVBLQnV4Ri1RTWVvNk9sTVhfN29qLU5zM3A1MGg0OGhEZ1BBUkZvX01kcmxQMEZzVGVmRTdTLVJ5LUpxV2JnR0ZXd1NvUnBGOHMxN3BYRTg5cEl4VFBRcHZnRzI1d3RGdGRlaHoxRHRreFRDVGYwYzJocTFhNUtvaF8tUE5HY1I4M2FrdU1lOUxZcmRYWmlWVVM?oc=5",
-          "domain": "aljazeera.com",
+          "title": "Global News Podcast | The Global Story: Can Dubai’s luxe image survive the war with Iran?",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBjSGtEZkt3OWJhS2NzZU1tQUZMZnBVU3owamFoM0VkSlhkdURFWUhubF92Z3VvbHlnWnJpLTBKUlJwOUw3SDQySHpxZ2IwZDFm?oc=5",
+          "domain": "bbc.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260912T085356Z",
+          "seen": "20260913T190505Z",
           "pinned": false
         },
         {
@@ -1591,22 +1607,6 @@
           "pinned": false
         },
         {
-          "title": "Global News Podcast | The Global Story: Can Dubai’s luxe image survive the war with Iran?",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBjSGtEZkt3OWJhS2NzZU1tQUZMZnBVU3owamFoM0VkSlhkdURFWUhubF92Z3VvbHlnWnJpLTBKUlJwOUw3SDQySHpxZ2IwZDFm?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260913T190505Z",
-          "pinned": false
-        },
-        {
-          "title": "8 killed in Russian strikes on Ukraine as Putin warns Europe against sending troops",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTXFjaTAzbzF5OENhS0txZjFxd1dGYXJkT1h2V3ZnR3EtMi11Zk45YWZ0eXFhWmo2NmticUpJM3lqdnZ3WWtwcE51NEF0c2J2VzNuMmVONGxGVVNCbUU1b0hsNTlDYWctb1NlU1dRdFhKb2hPb2UxenZUZFMwNkxzRDF2SmtMYXpxRy1FdWthUkkzWkJRaXc?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260912T102830Z",
-          "pinned": false
-        },
-        {
           "title": "Oscar-winning Israeli filmmakers' documentary on Gaza war premieres at Venice Film Festival",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeUx2amZJMHExWXU1Mmc5TUJkUmtZb25FNm1teDBmZm9YUklTejV0b2VJdEVPc2VidUVpNzJKWmtGM1lmRUNPb3EyMlp6a0VSNVkwVl9scnRaWWR3WWtQZXhId1cxa2tVVm4ycnl4VVdMVHhZa1lTWF9IYUkxVF82QUJHMHpJTUVZM2JIMHRDc0pwREdGOHJ5RnY4TDZCUQ?oc=5",
           "domain": "apnews.com",
@@ -1617,6 +1617,15 @@
       ],
       "reports": [
         {
+          "id": "report-d8179ab4dbfb",
+          "title": "Brics summit 2026 Delhi: Iran war reshapes ties but exposes divides",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91b1g5Z3VhS21qLVlBbER6dGVudjhrdUpiNlBkcHVCQTVxQ1FOdnpPWlpkc1VWSEhZTXpXMERDRWQ2X0FpdnFwWEN0N0lrdy1YamZBeW1LOHVmUQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-13T11:23:42Z"
+        },
+        {
           "id": "report-cab6f1ed1d6c",
           "title": "In 9/11 remarks, Trump links war with Iran",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BS1pfYjcyYjJmdDZKWnp6XzgycEc3VDV5cTBCTnBERTRLQTFUYnU3RzM2VlBTTWZVMU8wSDhhTkN4ejhLUXMxdHJ3MnlkY1I2WjRfVzc2TQ?oc=5",
@@ -1626,13 +1635,13 @@
           "reportedAt": "2026-09-11T15:19:39Z"
         },
         {
-          "id": "report-d8179ab4dbfb",
-          "title": "Brics summit 2026 Delhi: Iran war reshapes ties but exposes divides",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91b1g5Z3VhS21qLVlBbER6dGVudjhrdUpiNlBkcHVCQTVxQ1FOdnpPWlpkc1VWSEhZTXpXMERDRWQ2X0FpdnFwWEN0N0lrdy1YamZBeW1LOHVmUQ?oc=5",
+          "id": "report-b082a6aeec21",
+          "title": "Carney eyes 'unique alliance' with EU as trade war with US intensifies",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NaWFGNG1Ockpfdm51c0ttSFYtSEdoZEx0OTVyMHVSa2h5WWhHa2d5UUhhQVNhQ1d2aVpzTWc0MWJGeTBsMUc4RFUyTnlKT3FWRFJtMGlSS1pQQQ?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-13T11:23:42Z"
+          "reportedAt": "2026-09-14T04:02:26Z"
         },
         {
           "id": "report-44c36834aeab",
@@ -1707,13 +1716,13 @@
           "reportedAt": "2026-09-13T21:21:35Z"
         },
         {
-          "id": "report-4b9cc5a56599",
-          "title": "US vice president gathered unfiltered views of Iran war behind closed doors: Report",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYXpISFFlZGxmbWpuMEY1Z0FGRzgtaXJjejl5MmpqS3F2cy1JdlFJVHJSUmdCQUFnc2g3bGxtQmpCOFlfaUw5ZDhPUmd1VExmWG9tZThMQnlaWkxpRUJtT1JQY01OSW1jclVVdzlYWlg3bUZzcU5RbEt5Y2xrbTgxUmRkcmREX2VVSlkxRzE1TE1sSXlJY1VuNG5zdUJaRjdMc09YN3RHLTlibUNsNmhoNXBNd2htTW1CWTUxSlRMcnQyZw?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
-          "reportedAt": "2026-09-11T00:58:18Z"
+          "id": "report-21276dcd748e",
+          "title": "Watch: Why a Russian strike on train near Ukraine-Poland border could mark an escalation",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB1elJWbEsxNDZ4Z09aSU13WE42UnhJS2dKS29iSDNyelhmbVhQX1ZFbXMyTk8zenJmeEJHVVVxNUQydzJOQ1hNem1BZXpxbmdOUHlBZElqOA?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-14T01:12:20Z"
         },
         {
           "id": "report-70d7b30b094a",
@@ -1725,13 +1734,13 @@
           "reportedAt": "2026-09-13T11:55:30Z"
         },
         {
-          "id": "report-21276dcd748e",
-          "title": "Watch: Why a Russian strike on train near Ukraine-Poland border could mark an escalation",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB1elJWbEsxNDZ4Z09aSU13WE42UnhJS2dKS29iSDNyelhmbVhQX1ZFbXMyTk8zenJmeEJHVVVxNUQydzJOQ1hNem1BZXpxbmdOUHlBZElqOA?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-14T01:12:20Z"
+          "id": "report-4b9cc5a56599",
+          "title": "US vice president gathered unfiltered views of Iran war behind closed doors: Report",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYXpISFFlZGxmbWpuMEY1Z0FGRzgtaXJjejl5MmpqS3F2cy1JdlFJVHJSUmdCQUFnc2g3bGxtQmpCOFlfaUw5ZDhPUmd1VExmWG9tZThMQnlaWkxpRUJtT1JQY01OSW1jclVVdzlYWlg3bUZzcU5RbEt5Y2xrbTgxUmRkcmREX2VVSlkxRzE1TE1sSXlJY1VuNG5zdUJaRjdMc09YN3RHLTlibUNsNmhoNXBNd2htTW1CWTUxSlRMcnQyZw?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-09-11T00:58:18Z"
         },
         {
           "id": "report-ac3e860d7423",
@@ -1761,6 +1770,15 @@
           "reportedAt": "2026-09-12T21:46:16Z"
         },
         {
+          "id": "report-de988dd0c9dd",
+          "title": "9/11 at 25: How the ‘War on Terror’ helped mainstream Europe’s far right",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRENxUUtIbUgyMVB1ejg5S0x3YTBhNzI5ZU9kZ1NCSzRIN3M4Y2VQVFNUeE45RlZpUXRZTm9DTFZJQ2hSeFJyTTFZbXJLOFVfeC1OQmhYZnpiVjZELUtNTHJPX2ttRmpqS01oejFjSGxZb0N5QzlJWEVBc2pQdjJzOE9ld3JKc3VYdzIxLWdNWVRRNjlJVHY5aGQ5YTFKRldVUEVMcmZNU21taVHSAbABQVVfeXFMTmJzTW5uUFZSUFNYdTdFZF9RSk5LTWxiRVBLQnV4Ri1RTWVvNk9sTVhfN29qLU5zM3A1MGg0OGhEZ1BBUkZvX01kcmxQMEZzVGVmRTdTLVJ5LUpxV2JnR0ZXd1NvUnBGOHMxN3BYRTg5cEl4VFBRcHZnRzI1d3RGdGRlaHoxRHRreFRDVGYwYzJocTFhNUtvaF8tUE5HY1I4M2FrdU1lOUxZcmRYWmlWVVM?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-12T08:53:56Z"
+        },
+        {
           "id": "report-0433a5a71c2e",
           "title": "Trump says Iran war will end 'very soon'",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQU0xTa3VXVHEyUGtDaUN6Y0FLc2NBQ0tSeHU2c0VLQjZTRW1PT2lBNm1KcWVFRGh3d19EY0ZVdVV1alBwUzZnTFMtQTY2UzdBZnBLc2pjemJENDBDX1FOLUVXOUlTUXZuZi00c01jenc2R0wxVDY1XzBHVVhrRjlrZE13?oc=5",
@@ -1770,13 +1788,13 @@
           "reportedAt": "2026-09-12T10:30:44Z"
         },
         {
-          "id": "report-de988dd0c9dd",
-          "title": "9/11 at 25: How the ‘War on Terror’ helped mainstream Europe’s far right",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRENxUUtIbUgyMVB1ejg5S0x3YTBhNzI5ZU9kZ1NCSzRIN3M4Y2VQVFNUeE45RlZpUXRZTm9DTFZJQ2hSeFJyTTFZbXJLOFVfeC1OQmhYZnpiVjZELUtNTHJPX2ttRmpqS01oejFjSGxZb0N5QzlJWEVBc2pQdjJzOE9ld3JKc3VYdzIxLWdNWVRRNjlJVHY5aGQ5YTFKRldVUEVMcmZNU21taVHSAbABQVVfeXFMTmJzTW5uUFZSUFNYdTdFZF9RSk5LTWxiRVBLQnV4Ri1RTWVvNk9sTVhfN29qLU5zM3A1MGg0OGhEZ1BBUkZvX01kcmxQMEZzVGVmRTdTLVJ5LUpxV2JnR0ZXd1NvUnBGOHMxN3BYRTg5cEl4VFBRcHZnRzI1d3RGdGRlaHoxRHRreFRDVGYwYzJocTFhNUtvaF8tUE5HY1I4M2FrdU1lOUxZcmRYWmlWVVM?oc=5",
-          "domain": "aljazeera.com",
+          "id": "report-a67daa5904b8",
+          "title": "Global News Podcast | The Global Story: Can Dubai’s luxe image survive the war with Iran?",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBjSGtEZkt3OWJhS2NzZU1tQUZMZnBVU3owamFoM0VkSlhkdURFWUhubF92Z3VvbHlnWnJpLTBKUlJwOUw3SDQySHpxZ2IwZDFm?oc=5",
+          "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-12T08:53:56Z"
+          "reportedAt": "2026-09-13T19:05:05Z"
         },
         {
           "id": "report-67ef1674d7f6",
@@ -1804,24 +1822,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-13T08:17:52Z"
-        },
-        {
-          "id": "report-a67daa5904b8",
-          "title": "Global News Podcast | The Global Story: Can Dubai’s luxe image survive the war with Iran?",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBjSGtEZkt3OWJhS2NzZU1tQUZMZnBVU3owamFoM0VkSlhkdURFWUhubF92Z3VvbHlnWnJpLTBKUlJwOUw3SDQySHpxZ2IwZDFm?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-13T19:05:05Z"
-        },
-        {
-          "id": "report-d1946ced8c0f",
-          "title": "8 killed in Russian strikes on Ukraine as Putin warns Europe against sending troops",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTXFjaTAzbzF5OENhS0txZjFxd1dGYXJkT1h2V3ZnR3EtMi11Zk45YWZ0eXFhWmo2NmticUpJM3lqdnZ3WWtwcE51NEF0c2J2VzNuMmVONGxGVVNCbUU1b0hsNTlDYWctb1NlU1dRdFhKb2hPb2UxenZUZFMwNkxzRDF2SmtMYXpxRy1FdWthUkkzWkJRaXc?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-12T10:28:30Z"
         },
         {
           "id": "report-e8fc3cf1352e",
