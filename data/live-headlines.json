@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-15T11:44:19.773Z",
+  "generatedAt": "2026-09-15T16:59:53.089Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-09-15T11:44:19.773Z",
+      "generatedAt": "2026-09-15T16:59:53.089Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -1315,9 +1315,17 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-09-15T11:44:19.773Z",
+      "generatedAt": "2026-09-15T16:59:53.089Z",
       "cadence": "every 6 hours",
       "items": [
+        {
+          "title": "Zelenskyy says Ukraine will pause attacks if Russia spares infrastructure",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb0QzU3p3Nko4WkJ5T3pTazVleTc5cVlyNmk5VnRDQlJUaVkzSDE2eDJsNkFnYkRydHh5TnFJaXdlVllvMGJ4MFNlVFhjY08yVXpkZFN5STY4NnltNVRzTGcwQXF4ZFkwSlNDeEFna1R2UDlRVDVJMzRuWEpiQkdjUm9GUmo3YzdPbEE0cFRvUTdhOUlnRUFZZ0hkWDhpQ3huRk9LS08tcGZLV2EtbXdQeWJxRV_SAboBQVVfeXFMTmRRbU0zYVI4VTRRbUJlcHQxVVhFWEdHQ1Z5MC03T2dLODJQX29UeWFpZHVER0htZk1Dd2tNb2NiVmJjMFNsa2I1WnJDVm5EWTFnODg1M21GSWcyeHYzY0QzMWdyQ2ZpdkZZSklOWXB1RDBobEE3eWszUlpWVTRZS05GeHVGWWFkTWlZTjhWVzdsS2Y4YXBybmoyV2t5b01xUC1HbmNJN21LS2MzcmViNm1jbUVPcHN3Z3Rn?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260915T120026Z",
+          "pinned": false
+        },
         {
           "title": "NATO pledges more Ukraine support after Russia strikes near Poland",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaFh5cl9tOEktSmtJY2ZmOTc2c0NNbnF3aHlXZ3k2VHgtOW5NNzBrWlFVQkNrRERfWDRENC1PalM0VEJ3czJXWnJTWW5uQ3NqSWZXTmlqQVJlUjNXTzQ4TkZYX2dOdFl3TjRXczcxWHdwSXYxRFVXbVFFb21jR1dkeFZiY1lReWo1QnF6SVJrN3FJTkxGWnFPZ2IyZk1sckxXQnFaT2R2VFo2bjFMX2ZaS1FONFhaZDdyZ3dxcU9hQ3TSAcYBQVVfeXFMUFNVbjdTNEtoajNOM0dsVE43RUJ2V09USWpDb1BwQThseTF3MUNVTDhoaUZLZnFIRU9jWHZSQnBFeVN5REMwM25ROV9UQkN3RXlaVFpZSlhRVlZFWVEwcDBpMV9ETjJPTEZTV2VJSk8wQm5xV09rLWxIeUNYM21LQjZuQXJic2JselJPYTJrOEJ0ejkxZ2RwZWNfRFhVSXRxZTJ4Y2VxWE41TVRXRDBFX3Y2RW5ZOHRlSExEa3ZMYnkybXlJemJ3?oc=5",
@@ -1399,11 +1407,27 @@
           "pinned": false
         },
         {
+          "title": "On the Ground in Haiti: The Growing War Zone Facing U.S. Deportees",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd0E1aVo1Y0xxV0ZUenQ3WktIdHRQR2xlUy05RU9Gbm5MMk9nc1c0RTJuYXMxd3FUM0E4MzR4YTVIeWp1QjY1OVVXc21YQXJrOGp3QVhURWR2eU5lRXFzWnpNVnRsb1FIRjJJZFlNYm9CTUhaNC1DdVpONllXQ1RVZ2lyN3UxcVZORzBidXlCSDdxNlRLVm1yWA?oc=5",
+          "domain": "cfr.org",
+          "sourceTier": "Structured / analytic",
+          "seen": "20260914T161359Z",
+          "pinned": false
+        },
+        {
           "title": "Poland, Ukraine accuse Russia of ‘escalation’ after strikes near border",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPXzktYVdWUndESk9zSmhqdlhJbkdVdzdHWGh5a3Njd0o5d21WQUdlUGtHQ1h6blBQeW40a2NQS2VDVjlIS1dvcUJBU3d5cDNYX3N1YnBKOEVzbVBVRmppUFBZM2lBMVcxbDNpZWJaYVl2RThhS2RNZlhFNlRHdlBLelZvcUxNbFZ5Qi1MUjFRTTY0RC1aN0Z4QkNzeUp6cDNSWmxkNFJ1VGJDQzJHZVHSAbMBQVVfeXFMUDFRYU95bmtPcGRialBJZTN1LVgxS0lWNUZkZWJHdkYxSkhLdlloc25hRjRhSFFnS2RSdFZKU0tmVE0xWjJDN00weGpqdklBTWZweGVneHhPMTdjRmhsQnBRa2pBU1Z0cGR0ZnY1ekVoak5iZjllTEpyTWlIcnQ5ZnhPVnEyQjdSZVYxc2RuZ2YtTnU1MTdCR3pyWV9IUXAtRzlScmtweE1YbFZGNzNLdVZYTGM?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260913T212135Z",
+          "pinned": false
+        },
+        {
+          "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45MGRxOW12dm55Vk5Oa2NLMW1IcDVvWTBJcVp2VkJ2Qm5ONm5aMWtqSXE5OE9EQnZLeXY5UjAtelNfTktqZTJNOE9ROEN2ZnFkRnJnNEVnbXQ3TGM?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260915T153134Z",
           "pinned": false
         },
         {
@@ -1415,27 +1439,11 @@
           "pinned": false
         },
         {
-          "title": "On the Ground in Haiti: The Growing War Zone Facing U.S. Deportees",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd0E1aVo1Y0xxV0ZUenQ3WktIdHRQR2xlUy05RU9Gbm5MMk9nc1c0RTJuYXMxd3FUM0E4MzR4YTVIeWp1QjY1OVVXc21YQXJrOGp3QVhURWR2eU5lRXFzWnpNVnRsb1FIRjJJZFlNYm9CTUhaNC1DdVpONllXQ1RVZ2lyN3UxcVZORzBidXlCSDdxNlRLVm1yWA?oc=5",
-          "domain": "cfr.org",
-          "sourceTier": "Structured / analytic",
-          "seen": "20260914T231359Z",
-          "pinned": false
-        },
-        {
           "title": "Watch: Why a Russian strike on train near Ukraine-Poland border could mark an escalation",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB1elJWbEsxNDZ4Z09aSU13WE42UnhJS2dKS29iSDNyelhmbVhQX1ZFbXMyTk8zenJmeEJHVVVxNUQydzJOQ1hNem1BZXpxbmdOUHlBZElqOA?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20260914T011220Z",
-          "pinned": false
-        },
-        {
-          "title": "A dignified life is a ‘distant dream’ for many Iranian families amid US war",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMTczUnZhcjNVWXBSaU93LXR0TTFMVzNfZ3dlOGxaQ1J3TFl6cHI1em1oNFQ1NmhVZDl6NXpxNzViQ2pFcTZxQU5TYllzd2RzWHdvTXVPLUhTbFhlMV9lRVVrRFRfS05jWEVDZTlGLWhZUkFjaE4zVHVQendNcVJJNmZxWmN1U3dvaXlCbTg1bXRRUDY5ekNlUDNsZTJCcHR1UnBybFBGNEFtbFJGZUNncmdBd3lEaVJY0gG-AUFVX3lxTE1aNzVtRUo5R1lIVGdHM09nbjFiUVRYQmhFT3RWOEZTNUlPVjhpS2ctWmFnNjl5WTJGZXZEMzdMdU1FZ0tMcEMzVTlRQjk5SWJ0QkxqMXdGbDhXWVQ5bEpuSTdpMVdaX0JrNlhXTFVzWVNSSWFfUjdNOG83X1dzV1hFUUNxN0ZwcE1EZW1mbnBoZ3VIU2k0bFkyUzFlTFhSOTFrUzNIbzNPTUdmMGRVZ3Z1elZEeG5oTGowc2owQ2c?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260913T115530Z",
           "pinned": false
         },
         {
@@ -1447,11 +1455,11 @@
           "pinned": false
         },
         {
-          "title": "Ukrainian drone evades Russian helicopter fire to strike oil tanker",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVEt2d1JVSGYxTWJkWUs2ZWZKMzVZaVAzMVZsUkpiQWhaUUdOMjRwOWJfQ2J5YzNyOWRKS3QybUIwNXFYRWtiZDFvRWZaYTRyT3VfRk01cGgxeTJLa1hMVzRhVmJiRzNvcld4Y1VLcmhCQzVaMDRLeVVJUTNnNGpJQUR0SDdRaHEwY25yWlROUjVyZ9IBlwFBVV95cUxNTFpBenBrZlFuemRuZHhGeTgxQlBOLTlLWldoMG1lcXJOUzRHQTZsc2xGUXQyQUNkUHdfWHFVU0s4OVVyblNVUzNKRm1iOUp2UG9SWVh6YjhXaHd3Uk1wOHo5elFnR0xrYXZaZE9wZUxZaUl4ZE9rbUZMRGN4S05LZXRKMUM5bi1salktdkRpTmlaNnMyOXEw?oc=5",
+          "title": "A dignified life is a ‘distant dream’ for many Iranian families amid US war",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMTczUnZhcjNVWXBSaU93LXR0TTFMVzNfZ3dlOGxaQ1J3TFl6cHI1em1oNFQ1NmhVZDl6NXpxNzViQ2pFcTZxQU5TYllzd2RzWHdvTXVPLUhTbFhlMV9lRVVrRFRfS05jWEVDZTlGLWhZUkFjaE4zVHVQendNcVJJNmZxWmN1U3dvaXlCbTg1bXRRUDY5ekNlUDNsZTJCcHR1UnBybFBGNEFtbFJGZUNncmdBd3lEaVJY0gG-AUFVX3lxTE1aNzVtRUo5R1lIVGdHM09nbjFiUVRYQmhFT3RWOEZTNUlPVjhpS2ctWmFnNjl5WTJGZXZEMzdMdU1FZ0tMcEMzVTlRQjk5SWJ0QkxqMXdGbDhXWVQ5bEpuSTdpMVdaX0JrNlhXTFVzWVNSSWFfUjdNOG83X1dzV1hFUUNxN0ZwcE1EZW1mbnBoZ3VIU2k0bFkyUzFlTFhSOTFrUzNIbzNPTUdmMGRVZ3Z1elZEeG5oTGowc2owQ2c?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260913T163312Z",
+          "seen": "20260913T115530Z",
           "pinned": false
         },
         {
@@ -1463,6 +1471,14 @@
           "pinned": false
         },
         {
+          "title": "‘Attacks will be fully autonomous’: Russia, Ukraine race towards AI warfare",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc0VNaWp1eEdUbG1BTk1sMXNDNG92Z0s3d1RTYXJnOEhEZmNBOXFjYkluU1gyOU9vRjFSMkVYUWxoSlJzY1J0LS1LRGlGRXR4TENWc1VXaklmUVdWamNDcnY0eGo0SFNYeVhEZWpzZFRpMk5fdi1MdGxrOU9DZ0d0cjBtY2ZvTHdFN1ZwcE5SMkNHYTE3dFFHNVhJU0QtNnNYOFJvU0x2Nmt4V3plckdaSGp30gG3AUFVX3lxTFBESTF4R3hLc1hFZjdTOGhOdmhicllJUnFsUEZpRkppbFRfXzJMSTRFNGptb1czVWYta3BpODltaTJsSGd6dlNWSHFTOThBSHZBYnVGNFEyUEtfSHRET01KZDRHV3BVLVAxWThzc1pkMWRmdVRBYkQyVkd6SkJhMHhxODNTUWtPODk1ZFBkSkdPSTlrS1BocHNENVBuQlF1NWtIYzhwLUxCLW5vV3g3a1lhOTZQZW1NWQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260914T132814Z",
+          "pinned": false
+        },
+        {
           "title": "9/11 at 25: How the ‘War on Terror’ helped mainstream Europe’s far right",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRENxUUtIbUgyMVB1ejg5S0x3YTBhNzI5ZU9kZ1NCSzRIN3M4Y2VQVFNUeE45RlZpUXRZTm9DTFZJQ2hSeFJyTTFZbXJLOFVfeC1OQmhYZnpiVjZELUtNTHJPX2ttRmpqS01oejFjSGxZb0N5QzlJWEVBc2pQdjJzOE9ld3JKc3VYdzIxLWdNWVRRNjlJVHY5aGQ5YTFKRldVUEVMcmZNU21taVHSAbABQVVfeXFMTmJzTW5uUFZSUFNYdTdFZF9RSk5LTWxiRVBLQnV4Ri1RTWVvNk9sTVhfN29qLU5zM3A1MGg0OGhEZ1BBUkZvX01kcmxQMEZzVGVmRTdTLVJ5LUpxV2JnR0ZXd1NvUnBGOHMxN3BYRTg5cEl4VFBRcHZnRzI1d3RGdGRlaHoxRHRreFRDVGYwYzJocTFhNUtvaF8tUE5HY1I4M2FrdU1lOUxZcmRYWmlWVVM?oc=5",
           "domain": "aljazeera.com",
@@ -1471,11 +1487,11 @@
           "pinned": false
         },
         {
-          "title": "‘Attacks will be fully autonomous’: Russia, Ukraine race towards AI warfare",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc0VNaWp1eEdUbG1BTk1sMXNDNG92Z0s3d1RTYXJnOEhEZmNBOXFjYkluU1gyOU9vRjFSMkVYUWxoSlJzY1J0LS1LRGlGRXR4TENWc1VXaklmUVdWamNDcnY0eGo0SFNYeVhEZWpzZFRpMk5fdi1MdGxrOU9DZ0d0cjBtY2ZvTHdFN1ZwcE5SMkNHYTE3dFFHNVhJU0QtNnNYOFJvU0x2Nmt4V3plckdaSGp30gG3AUFVX3lxTFBESTF4R3hLc1hFZjdTOGhOdmhicllJUnFsUEZpRkppbFRfXzJMSTRFNGptb1czVWYta3BpODltaTJsSGd6dlNWSHFTOThBSHZBYnVGNFEyUEtfSHRET01KZDRHV3BVLVAxWThzc1pkMWRmdVRBYkQyVkd6SkJhMHhxODNTUWtPODk1ZFBkSkdPSTlrS1BocHNENVBuQlF1NWtIYzhwLUxCLW5vV3g3a1lhOTZQZW1NWQ?oc=5",
+          "title": "‘More dangerous than drugs’: BJP’s war on beef in India’s West Bengal",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUFRncjZlSEQ5Sm52YWplbE5NUDFoZ2htQjJDRjV4MFh2OVFCXzV3OTR0SmF4eE90T3FWZFR2dFVpSlZndnhweXdxcmpXbDNhbjVlTnZFVGFySGsyQjJSbktfNVN2N3B6YlBJc2J4VURzTU5fbWlTcFQ5QVlLZjlWWUc2Q1dVdFUwdElPNHZOdV9mNE9IQTJsQ1F3VU1qenMwS3R2N2U1ODg5RzlleG9jTlZkc9IBuAFBVV95cUxQSlFjR1JnNjZNZFk5bzBWY2tXcmlZLUFZZ1hqTWJkOHRscmNETDVvbEpkN0szYzlMa3NXbnJCSmNMTVc0ZU5ndGw4X01jRi1UYm96bkFWVnprTVlpN05pUXRVNnZvNjFIS3pubEt5Z05aOW1zOWNVRmtUelJlNFg5STJ1b1lJYkx4dDB5cV9Od2twWDNUODY3T1J3TXE0NlRRaW1yNGVZajRqUVQ0c1ZYdlNZNmZReFoz?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260914T132814Z",
+          "seen": "20260915T123050Z",
           "pinned": false
         },
         {
@@ -1493,25 +1509,18 @@
           "sourceTier": "Independent reporting",
           "seen": "20260912T140200Z",
           "pinned": false
-        },
-        {
-          "title": "8 killed in Russian strikes on Ukraine as Putin warns Europe against sending troops",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTXFjaTAzbzF5OENhS0txZjFxd1dGYXJkT1h2V3ZnR3EtMi11Zk45YWZ0eXFhWmo2NmticUpJM3lqdnZ3WWtwcE51NEF0c2J2VzNuMmVONGxGVVNCbUU1b0hsNTlDYWctb1NlU1dRdFhKb2hPb2UxenZUZFMwNkxzRDF2SmtMYXpxRy1FdWthUkkzWkJRaXc?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260912T154100Z",
-          "pinned": false
-        },
-        {
-          "title": "Witness History | Norway’s teacher resistance in World War Two",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5anhkeDVpQ09BdDA0OWs4dGtLZlUzaGNwSWktUEJ0enNXNEJwV1FieklQMUw4WnV3eDBYX0xiaVJZcnBvOFRkUFBjUll0TnFW?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260914T071839Z",
-          "pinned": false
         }
       ],
       "reports": [
+        {
+          "id": "report-eda5b6b10b0d",
+          "title": "Zelenskyy says Ukraine will pause attacks if Russia spares infrastructure",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb0QzU3p3Nko4WkJ5T3pTazVleTc5cVlyNmk5VnRDQlJUaVkzSDE2eDJsNkFnYkRydHh5TnFJaXdlVllvMGJ4MFNlVFhjY08yVXpkZFN5STY4NnltNVRzTGcwQXF4ZFkwSlNDeEFna1R2UDlRVDVJMzRuWEpiQkdjUm9GUmo3YzdPbEE0cFRvUTdhOUlnRUFZZ0hkWDhpQ3huRk9LS08tcGZLV2EtbXdQeWJxRV_SAboBQVVfeXFMTmRRbU0zYVI4VTRRbUJlcHQxVVhFWEdHQ1Z5MC03T2dLODJQX29UeWFpZHVER0htZk1Dd2tNb2NiVmJjMFNsa2I1WnJDVm5EWTFnODg1M21GSWcyeHYzY0QzMWdyQ2ZpdkZZSklOWXB1RDBobEE3eWszUlpWVTRZS05GeHVGWWFkTWlZTjhWVzdsS2Y4YXBybmoyV2t5b01xUC1HbmNJN21LS2MzcmViNm1jbUVPcHN3Z3Rn?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-15T12:00:26Z"
+        },
         {
           "id": "report-52239ed98b65",
           "title": "NATO pledges more Ukraine support after Russia strikes near Poland",
@@ -1603,6 +1612,15 @@
           "reportedAt": "2026-09-12T17:32:11Z"
         },
         {
+          "id": "report-cbd65ec1849c",
+          "title": "On the Ground in Haiti: The Growing War Zone Facing U.S. Deportees",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd0E1aVo1Y0xxV0ZUenQ3WktIdHRQR2xlUy05RU9Gbm5MMk9nc1c0RTJuYXMxd3FUM0E4MzR4YTVIeWp1QjY1OVVXc21YQXJrOGp3QVhURWR2eU5lRXFzWnpNVnRsb1FIRjJJZFlNYm9CTUhaNC1DdVpONllXQ1RVZ2lyN3UxcVZORzBidXlCSDdxNlRLVm1yWA?oc=5",
+          "domain": "cfr.org",
+          "sourceTier": "Structured / analytic",
+          "confidenceLabel": "ANALYTIC REPORT",
+          "reportedAt": "2026-09-14T16:13:59Z"
+        },
+        {
           "id": "report-9a4c4e90bdbc",
           "title": "Poland, Ukraine accuse Russia of ‘escalation’ after strikes near border",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPXzktYVdWUndESk9zSmhqdlhJbkdVdzdHWGh5a3Njd0o5d21WQUdlUGtHQ1h6blBQeW40a2NQS2VDVjlIS1dvcUJBU3d5cDNYX3N1YnBKOEVzbVBVRmppUFBZM2lBMVcxbDNpZWJaYVl2RThhS2RNZlhFNlRHdlBLelZvcUxNbFZ5Qi1MUjFRTTY0RC1aN0Z4QkNzeUp6cDNSWmxkNFJ1VGJDQzJHZVHSAbMBQVVfeXFMUDFRYU95bmtPcGRialBJZTN1LVgxS0lWNUZkZWJHdkYxSkhLdlloc25hRjRhSFFnS2RSdFZKU0tmVE0xWjJDN00weGpqdklBTWZweGVneHhPMTdjRmhsQnBRa2pBU1Z0cGR0ZnY1ekVoak5iZjllTEpyTWlIcnQ5ZnhPVnEyQjdSZVYxc2RuZ2YtTnU1MTdCR3pyWV9IUXAtRzlScmtweE1YbFZGNzNLdVZYTGM?oc=5",
@@ -1610,6 +1628,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-13T21:21:35Z"
+        },
+        {
+          "id": "report-9144de8c478d",
+          "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45MGRxOW12dm55Vk5Oa2NLMW1IcDVvWTBJcVp2VkJ2Qm5ONm5aMWtqSXE5OE9EQnZLeXY5UjAtelNfTktqZTJNOE9ROEN2ZnFkRnJnNEVnbXQ3TGM?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-15T15:31:34Z"
         },
         {
           "id": "report-7e91fdb8bc0e",
@@ -1621,15 +1648,6 @@
           "reportedAt": "2026-09-12T10:30:44Z"
         },
         {
-          "id": "report-cbd65ec1849c",
-          "title": "On the Ground in Haiti: The Growing War Zone Facing U.S. Deportees",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd0E1aVo1Y0xxV0ZUenQ3WktIdHRQR2xlUy05RU9Gbm5MMk9nc1c0RTJuYXMxd3FUM0E4MzR4YTVIeWp1QjY1OVVXc21YQXJrOGp3QVhURWR2eU5lRXFzWnpNVnRsb1FIRjJJZFlNYm9CTUhaNC1DdVpONllXQ1RVZ2lyN3UxcVZORzBidXlCSDdxNlRLVm1yWA?oc=5",
-          "domain": "cfr.org",
-          "sourceTier": "Structured / analytic",
-          "confidenceLabel": "ANALYTIC REPORT",
-          "reportedAt": "2026-09-14T23:13:59Z"
-        },
-        {
           "id": "report-21276dcd748e",
           "title": "Watch: Why a Russian strike on train near Ukraine-Poland border could mark an escalation",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB1elJWbEsxNDZ4Z09aSU13WE42UnhJS2dKS29iSDNyelhmbVhQX1ZFbXMyTk8zenJmeEJHVVVxNUQydzJOQ1hNem1BZXpxbmdOUHlBZElqOA?oc=5",
@@ -1637,15 +1655,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-14T01:12:20Z"
-        },
-        {
-          "id": "report-70d7b30b094a",
-          "title": "A dignified life is a ‘distant dream’ for many Iranian families amid US war",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMTczUnZhcjNVWXBSaU93LXR0TTFMVzNfZ3dlOGxaQ1J3TFl6cHI1em1oNFQ1NmhVZDl6NXpxNzViQ2pFcTZxQU5TYllzd2RzWHdvTXVPLUhTbFhlMV9lRVVrRFRfS05jWEVDZTlGLWhZUkFjaE4zVHVQendNcVJJNmZxWmN1U3dvaXlCbTg1bXRRUDY5ekNlUDNsZTJCcHR1UnBybFBGNEFtbFJGZUNncmdBd3lEaVJY0gG-AUFVX3lxTE1aNzVtRUo5R1lIVGdHM09nbjFiUVRYQmhFT3RWOEZTNUlPVjhpS2ctWmFnNjl5WTJGZXZEMzdMdU1FZ0tMcEMzVTlRQjk5SWJ0QkxqMXdGbDhXWVQ5bEpuSTdpMVdaX0JrNlhXTFVzWVNSSWFfUjdNOG83X1dzV1hFUUNxN0ZwcE1EZW1mbnBoZ3VIU2k0bFkyUzFlTFhSOTFrUzNIbzNPTUdmMGRVZ3Z1elZEeG5oTGowc2owQ2c?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-13T11:55:30Z"
         },
         {
           "id": "report-6adf307e45fd",
@@ -1657,13 +1666,13 @@
           "reportedAt": "2026-09-14T20:45:33Z"
         },
         {
-          "id": "report-ac3e860d7423",
-          "title": "Ukrainian drone evades Russian helicopter fire to strike oil tanker",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVEt2d1JVSGYxTWJkWUs2ZWZKMzVZaVAzMVZsUkpiQWhaUUdOMjRwOWJfQ2J5YzNyOWRKS3QybUIwNXFYRWtiZDFvRWZaYTRyT3VfRk01cGgxeTJLa1hMVzRhVmJiRzNvcld4Y1VLcmhCQzVaMDRLeVVJUTNnNGpJQUR0SDdRaHEwY25yWlROUjVyZ9IBlwFBVV95cUxNTFpBenBrZlFuemRuZHhGeTgxQlBOLTlLWldoMG1lcXJOUzRHQTZsc2xGUXQyQUNkUHdfWHFVU0s4OVVyblNVUzNKRm1iOUp2UG9SWVh6YjhXaHd3Uk1wOHo5elFnR0xrYXZaZE9wZUxZaUl4ZE9rbUZMRGN4S05LZXRKMUM5bi1salktdkRpTmlaNnMyOXEw?oc=5",
+          "id": "report-70d7b30b094a",
+          "title": "A dignified life is a ‘distant dream’ for many Iranian families amid US war",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMTczUnZhcjNVWXBSaU93LXR0TTFMVzNfZ3dlOGxaQ1J3TFl6cHI1em1oNFQ1NmhVZDl6NXpxNzViQ2pFcTZxQU5TYllzd2RzWHdvTXVPLUhTbFhlMV9lRVVrRFRfS05jWEVDZTlGLWhZUkFjaE4zVHVQendNcVJJNmZxWmN1U3dvaXlCbTg1bXRRUDY5ekNlUDNsZTJCcHR1UnBybFBGNEFtbFJGZUNncmdBd3lEaVJY0gG-AUFVX3lxTE1aNzVtRUo5R1lIVGdHM09nbjFiUVRYQmhFT3RWOEZTNUlPVjhpS2ctWmFnNjl5WTJGZXZEMzdMdU1FZ0tMcEMzVTlRQjk5SWJ0QkxqMXdGbDhXWVQ5bEpuSTdpMVdaX0JrNlhXTFVzWVNSSWFfUjdNOG83X1dzV1hFUUNxN0ZwcE1EZW1mbnBoZ3VIU2k0bFkyUzFlTFhSOTFrUzNIbzNPTUdmMGRVZ3Z1elZEeG5oTGowc2owQ2c?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-13T16:33:12Z"
+          "reportedAt": "2026-09-13T11:55:30Z"
         },
         {
           "id": "report-a67daa5904b8",
@@ -1675,6 +1684,15 @@
           "reportedAt": "2026-09-13T19:05:05Z"
         },
         {
+          "id": "report-c3803c97dedf",
+          "title": "‘Attacks will be fully autonomous’: Russia, Ukraine race towards AI warfare",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc0VNaWp1eEdUbG1BTk1sMXNDNG92Z0s3d1RTYXJnOEhEZmNBOXFjYkluU1gyOU9vRjFSMkVYUWxoSlJzY1J0LS1LRGlGRXR4TENWc1VXaklmUVdWamNDcnY0eGo0SFNYeVhEZWpzZFRpMk5fdi1MdGxrOU9DZ0d0cjBtY2ZvTHdFN1ZwcE5SMkNHYTE3dFFHNVhJU0QtNnNYOFJvU0x2Nmt4V3plckdaSGp30gG3AUFVX3lxTFBESTF4R3hLc1hFZjdTOGhOdmhicllJUnFsUEZpRkppbFRfXzJMSTRFNGptb1czVWYta3BpODltaTJsSGd6dlNWSHFTOThBSHZBYnVGNFEyUEtfSHRET01KZDRHV3BVLVAxWThzc1pkMWRmdVRBYkQyVkd6SkJhMHhxODNTUWtPODk1ZFBkSkdPSTlrS1BocHNENVBuQlF1NWtIYzhwLUxCLW5vV3g3a1lhOTZQZW1NWQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-14T13:28:14Z"
+        },
+        {
           "id": "report-de988dd0c9dd",
           "title": "9/11 at 25: How the ‘War on Terror’ helped mainstream Europe’s far right",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRENxUUtIbUgyMVB1ejg5S0x3YTBhNzI5ZU9kZ1NCSzRIN3M4Y2VQVFNUeE45RlZpUXRZTm9DTFZJQ2hSeFJyTTFZbXJLOFVfeC1OQmhYZnpiVjZELUtNTHJPX2ttRmpqS01oejFjSGxZb0N5QzlJWEVBc2pQdjJzOE9ld3JKc3VYdzIxLWdNWVRRNjlJVHY5aGQ5YTFKRldVUEVMcmZNU21taVHSAbABQVVfeXFMTmJzTW5uUFZSUFNYdTdFZF9RSk5LTWxiRVBLQnV4Ri1RTWVvNk9sTVhfN29qLU5zM3A1MGg0OGhEZ1BBUkZvX01kcmxQMEZzVGVmRTdTLVJ5LUpxV2JnR0ZXd1NvUnBGOHMxN3BYRTg5cEl4VFBRcHZnRzI1d3RGdGRlaHoxRHRreFRDVGYwYzJocTFhNUtvaF8tUE5HY1I4M2FrdU1lOUxZcmRYWmlWVVM?oc=5",
@@ -1684,13 +1702,13 @@
           "reportedAt": "2026-09-12T08:53:56Z"
         },
         {
-          "id": "report-c3803c97dedf",
-          "title": "‘Attacks will be fully autonomous’: Russia, Ukraine race towards AI warfare",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc0VNaWp1eEdUbG1BTk1sMXNDNG92Z0s3d1RTYXJnOEhEZmNBOXFjYkluU1gyOU9vRjFSMkVYUWxoSlJzY1J0LS1LRGlGRXR4TENWc1VXaklmUVdWamNDcnY0eGo0SFNYeVhEZWpzZFRpMk5fdi1MdGxrOU9DZ0d0cjBtY2ZvTHdFN1ZwcE5SMkNHYTE3dFFHNVhJU0QtNnNYOFJvU0x2Nmt4V3plckdaSGp30gG3AUFVX3lxTFBESTF4R3hLc1hFZjdTOGhOdmhicllJUnFsUEZpRkppbFRfXzJMSTRFNGptb1czVWYta3BpODltaTJsSGd6dlNWSHFTOThBSHZBYnVGNFEyUEtfSHRET01KZDRHV3BVLVAxWThzc1pkMWRmdVRBYkQyVkd6SkJhMHhxODNTUWtPODk1ZFBkSkdPSTlrS1BocHNENVBuQlF1NWtIYzhwLUxCLW5vV3g3a1lhOTZQZW1NWQ?oc=5",
+          "id": "report-d60f794009f1",
+          "title": "‘More dangerous than drugs’: BJP’s war on beef in India’s West Bengal",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUFRncjZlSEQ5Sm52YWplbE5NUDFoZ2htQjJDRjV4MFh2OVFCXzV3OTR0SmF4eE90T3FWZFR2dFVpSlZndnhweXdxcmpXbDNhbjVlTnZFVGFySGsyQjJSbktfNVN2N3B6YlBJc2J4VURzTU5fbWlTcFQ5QVlLZjlWWUc2Q1dVdFUwdElPNHZOdV9mNE9IQTJsQ1F3VU1qenMwS3R2N2U1ODg5RzlleG9jTlZkc9IBuAFBVV95cUxQSlFjR1JnNjZNZFk5bzBWY2tXcmlZLUFZZ1hqTWJkOHRscmNETDVvbEpkN0szYzlMa3NXbnJCSmNMTVc0ZU5ndGw4X01jRi1UYm96bkFWVnprTVlpN05pUXRVNnZvNjFIS3pubEt5Z05aOW1zOWNVRmtUelJlNFg5STJ1b1lJYkx4dDB5cV9Od2twWDNUODY3T1J3TXE0NlRRaW1yNGVZajRqUVQ0c1ZYdlNZNmZReFoz?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-14T13:28:14Z"
+          "reportedAt": "2026-09-15T12:30:50Z"
         },
         {
           "id": "report-90dd39219ce8",
@@ -1709,24 +1727,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-12T14:02:00Z"
-        },
-        {
-          "id": "report-d1946ced8c0f",
-          "title": "8 killed in Russian strikes on Ukraine as Putin warns Europe against sending troops",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTXFjaTAzbzF5OENhS0txZjFxd1dGYXJkT1h2V3ZnR3EtMi11Zk45YWZ0eXFhWmo2NmticUpJM3lqdnZ3WWtwcE51NEF0c2J2VzNuMmVONGxGVVNCbUU1b0hsNTlDYWctb1NlU1dRdFhKb2hPb2UxenZUZFMwNkxzRDF2SmtMYXpxRy1FdWthUkkzWkJRaXc?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-12T15:41:00Z"
-        },
-        {
-          "id": "report-c65288af34fa",
-          "title": "Witness History | Norway’s teacher resistance in World War Two",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5anhkeDVpQ09BdDA0OWs4dGtLZlUzaGNwSWktUEJ0enNXNEJwV1FieklQMUw4WnV3eDBYX0xiaVJZcnBvOFRkUFBjUll0TnFW?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-14T07:18:39Z"
         },
         {
           "id": "report-b41a3eea5754",
