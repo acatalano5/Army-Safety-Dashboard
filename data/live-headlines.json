@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-14T21:49:43.770Z",
+  "generatedAt": "2026-09-15T04:54:17.309Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-09-14T21:49:43.770Z",
+      "generatedAt": "2026-09-15T04:54:17.309Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -1315,31 +1315,23 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-09-14T21:49:43.770Z",
+      "generatedAt": "2026-09-15T04:54:17.309Z",
       "cadence": "every 6 hours",
       "items": [
+        {
+          "title": "NATO pledges more Ukraine support after Russia strikes near Poland",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaFh5cl9tOEktSmtJY2ZmOTc2c0NNbnF3aHlXZ3k2VHgtOW5NNzBrWlFVQkNrRERfWDRENC1PalM0VEJ3czJXWnJTWW5uQ3NqSWZXTmlqQVJlUjNXTzQ4TkZYX2dOdFl3TjRXczcxWHdwSXYxRFVXbVFFb21jR1dkeFZiY1lReWo1QnF6SVJrN3FJTkxGWnFPZ2IyZk1sckxXQnFaT2R2VFo2bjFMX2ZaS1FONFhaZDdyZ3dxcU9hQ3TSAcYBQVVfeXFMUFNVbjdTNEtoajNOM0dsVE43RUJ2V09USWpDb1BwQThseTF3MUNVTDhoaUZLZnFIRU9jWHZSQnBFeVN5REMwM25ROV9UQkN3RXlaVFpZSlhRVlZFWVEwcDBpMV9ETjJPTEZTV2VJSk8wQm5xV09rLWxIeUNYM21LQjZuQXJic2JselJPYTJrOEJ0ejkxZ2RwZWNfRFhVSXRxZTJ4Y2VxWE41TVRXRDBFX3Y2RW5ZOHRlSExEa3ZMYnkybXlJemJ3?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260914T184814Z",
+          "pinned": false
+        },
         {
           "title": "Brics summit 2026 Delhi: Iran war reshapes ties but exposes divides",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91b1g5Z3VhS21qLVlBbER6dGVudjhrdUpiNlBkcHVCQTVxQ1FOdnpPWlpkc1VWSEhZTXpXMERDRWQ2X0FpdnFwWEN0N0lrdy1YamZBeW1LOHVmUQ?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20260913T112342Z",
-          "pinned": false
-        },
-        {
-          "title": "In 9/11 remarks, Trump links war with Iran",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BS1pfYjcyYjJmdDZKWnp6XzgycEc3VDV5cTBCTnBERTRLQTFUYnU3RzM2VlBTTWZVMU8wSDhhTkN4ejhLUXMxdHJ3MnlkY1I2WjRfVzc2TQ?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260911T151939Z",
-          "pinned": false
-        },
-        {
-          "title": "NATO pledges increased Ukraine support as Russia strikes near border",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaFh5cl9tOEktSmtJY2ZmOTc2c0NNbnF3aHlXZ3k2VHgtOW5NNzBrWlFVQkNrRERfWDRENC1PalM0VEJ3czJXWnJTWW5uQ3NqSWZXTmlqQVJlUjNXTzQ4TkZYX2dOdFl3TjRXczcxWHdwSXYxRFVXbVFFb21jR1dkeFZiY1lReWo1QnF6SVJrN3FJTkxGWnFPZ2IyZk1sckxXQnFaT2R2VFo2bjFMX2ZaS1FONFhaZDdyZ3dxcU9hQ3TSAcYBQVVfeXFMUFNVbjdTNEtoajNOM0dsVE43RUJ2V09USWpDb1BwQThseTF3MUNVTDhoaUZLZnFIRU9jWHZSQnBFeVN5REMwM25ROV9UQkN3RXlaVFpZSlhRVlZFWVEwcDBpMV9ETjJPTEZTV2VJSk8wQm5xV09rLWxIeUNYM21LQjZuQXJic2JselJPYTJrOEJ0ejkxZ2RwZWNfRFhVSXRxZTJ4Y2VxWE41TVRXRDBFX3Y2RW5ZOHRlSExEa3ZMYnkybXlJemJ3?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260914T184814Z",
           "pinned": false
         },
         {
@@ -1375,30 +1367,6 @@
           "pinned": false
         },
         {
-          "title": "How 9/11 helped Israel sell its war on Palestinians to America",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUUs5UHJNRlZvTER5dTdEMTdReEhLcHNaVmdSQUxMQzZ4LU5sT1Y1cnA5OGRsQVpGX2ZRbkZ3cVdVbS14cTFMQzF3bWFpWHQ3WVkwdm1ZWDNHRGxZWVZGRVh3aFYxUzByb3BsYTVhcV9HNldtaTg5T3VSMDB5NFR2VUpBTVVoUnB5dWh6VnVHZjdFaWUySjgxWnVkcXZJMGty0gGmAUFVX3lxTE95TC02ZXZIVVpQbHRubnZwMzFyaGlEdk5palVsTld1RHpqUUcxZlkyUGc2WkJvSzhCT0REY3FodmN6b1JlQm41ZXVkLWoxalRkSVBKdWZvZ3RnMlBucVdfNDZZOXctOThPemtsYjROZV9RU3lCbGdFNEVzWTl2N0k0QnRRVjIxZXJuakZKUFk2NklQUmpKeEwxQWhmV1pVbHhXbFVhdkE?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260911T082042Z",
-          "pinned": false
-        },
-        {
-          "title": "Why is Trump warning Zelenskyy not to hit Russian diesel refineries?",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObzJXZU5PdWNpTDFWWmF0NDlsT2FtNkRHRWZoM0xDNVlhSmlwSkZDSzRpSXJ1VVZHcTBXX0YzRGNydHh2QmI3RUhOQ1gxaU1admVYT29YUmptRnU2ckdDLUpyY0ZNX3VYTHFBYzRPcHdVdWg4VUhyUVpyMlpFdzIwOXhndkhFZy1ZWkNxRk5pZEljblFtV3czVmctR3AyRkRGUHhfSFMwczdqRVFHNGJsSNIBtgFBVV95cUxNQjRQYUloRmR1Q2htUm9zNDNTY2VYeENzb1hDSUFCWjRYSDMzblVZTzNQVG5PYnUtU185a3Z1WUY3eXpXTTJ1a0JUNVJnX0lFNU1aX3V0c1lCNk5URTFzcDlzRmFYY29QUDRZOGZTdE1VSTFFWmhQeDlfRXc4U3VfbWZHZlZPdlhKMWZrMVZNV0RJNk9fUkRHUWRCbmE5Q245dWtzVmZoX2g4NHdSeVpKX0Q3WHJaQQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260914T171715Z",
-          "pinned": false
-        },
-        {
-          "title": "‘Everything changed’: The human cost of 25 years of US wars",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOclZaX1hQTGRVdlB5V1ZCV1VJSm1lZHhHOC02cTVzQlIwQXI5Q25tdnVNcXVMX0thS2pGMXo1TXZGY3lJZG52dVNCUG5lNUQ1bFlXMlNmMTJ2MzNrTTY1QWpueVpBQmJ0YjRrNmJ4OVBBbnZjRkpTN3Z2WXp3V2VuVVBZMk9DbzBPeTBVVHl4aGxKbWU5QnhkWWVTVUo2UW9MVkJqS3ZMX0cwZ9IBrwFBVV95cUxNblcydkNyMk5GNWlfT3d3YUdZRE5WZ2YyS0RtOGFSWmUwTmJsVnRrUThPVGc2U0JXdHJDMElXT2hMZXhVSUhsOGJZVEQwVk5WZnVzb1ZSeFVfSENzblR3eUtMUkpnUzdUckZldmNIOC1VcDFJa1JacFltYzBxeVlsYnFxN0ZWdTJRdE1LNFl4VGZWOUZ3SU1KWFhmWjVQTmZLei1BaWhiQWxqdE1IVDFJ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260911T052936Z",
-          "pinned": false
-        },
-        {
           "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WYkFDZzd0RXNwRTVPRHhYcTlPRG12WmJXWU9fYVZ6YjBjOUFUMXNoZEhYMjRpcEF4WGNhNmVnQzZ4eDl5Y0d3dDZQTVZnd0xNWExUY2JvSWhxdw?oc=5",
           "domain": "bbc.com",
@@ -1423,6 +1391,14 @@
           "pinned": false
         },
         {
+          "title": "Selling the war: Purges, polygraphs and propaganda",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcXltT25FaUlRWXJQQjVpUmF2ZmVqbS00dnRrTFo3dGwxMl9vSERFQzBtTFpBN2VZWjVYaVhEQkdyTjVIbFZSNGRFUU42OHpTSGpnS1BjY2tnVmdiSnExSlc1RWxwUlJIdU1Tc3lDR1k1WEJpQ2VsMFhZTlBJNTY4azFIM2tyMTZ2ejNiQXNRdlUwRlpDbDVZTXJMRnRMOFBoc1Y5MWFTVGZEZHc5QVHSAbMBQVVfeXFMTmZjc09qYWYxVGFaZkZZSGZrb004RjlxRDRNWmdUN2ZkY3g4MFRTZ2pqY29hTmNBcXpWa2dnWDNXT1dSdEJtUkJINFROb2ZQR09IT28xMnl1WlA3ODh1Wk1qWDAxZnZ6d0tVUVhYbTc4OWxFNFdIWU9tNkZSZlZmSTR0dmZJNDhaTjJlNDd6b0FnVkdQZVZFZGhPNkZ1a3MxV1VhWEJCY2FveTBLQ0pBa3hJYTA?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260912T173211Z",
+          "pinned": false
+        },
+        {
           "title": "Poland, Ukraine accuse Russia of ‘escalation’ after strikes near border",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPXzktYVdWUndESk9zSmhqdlhJbkdVdzdHWGh5a3Njd0o5d21WQUdlUGtHQ1h6blBQeW40a2NQS2VDVjlIS1dvcUJBU3d5cDNYX3N1YnBKOEVzbVBVRmppUFBZM2lBMVcxbDNpZWJaYVl2RThhS2RNZlhFNlRHdlBLelZvcUxNbFZ5Qi1MUjFRTTY0RC1aN0Z4QkNzeUp6cDNSWmxkNFJ1VGJDQzJHZVHSAbMBQVVfeXFMUDFRYU95bmtPcGRialBJZTN1LVgxS0lWNUZkZWJHdkYxSkhLdlloc25hRjRhSFFnS2RSdFZKU0tmVE0xWjJDN00weGpqdklBTWZweGVneHhPMTdjRmhsQnBRa2pBU1Z0cGR0ZnY1ekVoak5iZjllTEpyTWlIcnQ5ZnhPVnEyQjdSZVYxc2RuZ2YtTnU1MTdCR3pyWV9IUXAtRzlScmtweE1YbFZGNzNLdVZYTGM?oc=5",
           "domain": "aljazeera.com",
@@ -1439,11 +1415,11 @@
           "pinned": false
         },
         {
-          "title": "Young republicans break with Trump over Iran war",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQWh1RnF0OG5ZanhyR1piaVA1QWM4WF9qaWFGSHpWaVZhNjFobVphVnFsdTlaWEFDVko1b0htbjhOR0JzZW50WHpEbnRiTlBreUE0TlJVcWNkd2hpODdvVnNRU0IwNzNZdk9iU1NTd25UemhfWUV0S2N3ZVJUTjlVaE5SbWwtWFU1MnpJaUhWcXhGc21KZ1RxN2pHWk1rUUJu0gGmAUFVX3lxTE5ZaWJyZlZoTEszTnRZeE9nOFJHYnZYRzNTTmd3a1R3bWZtbFAzS3BGOEhFTjU2VndKcW9WeEwzdWd5aUhOTmtJbzVwanpoSmRjMlNES3psMXp5NU85VEFaakQ4RkwtRXJWRHBVaDdhYXFTYy12V1RqVHpLRjdBcVFKcEI0QkFFekRoblRwY1dfSzhxZ1ZvODJQSFRtVTFlSGxPODRXbkE?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260911T030349Z",
+          "title": "On the Ground in Haiti: The Growing War Zone Facing U.S. Deportees",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd0E1aVo1Y0xxV0ZUenQ3WktIdHRQR2xlUy05RU9Gbm5MMk9nc1c0RTJuYXMxd3FUM0E4MzR4YTVIeWp1QjY1OVVXc21YQXJrOGp3QVhURWR2eU5lRXFzWnpNVnRsb1FIRjJJZFlNYm9CTUhaNC1DdVpONllXQ1RVZ2lyN3UxcVZORzBidXlCSDdxNlRLVm1yWA?oc=5",
+          "domain": "cfr.org",
+          "sourceTier": "Structured / analytic",
+          "seen": "20260914T231359Z",
           "pinned": false
         },
         {
@@ -1471,6 +1447,14 @@
           "pinned": false
         },
         {
+          "title": "Inside the Houthis’ expanding war economy in Yemen",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM3pGRFFMYXkyeWdfeHdzeXE0UVJBMGxtQ0NlV0xFOTUxNGxCdWZPVUppelJTd01pcGNoUWlvSmcwS2p2SEMyamVXNU0xNnFLUHRmdnRVVkEwSzI1VHpCdG1UVW85dEM4NnBkVkQwRUY3bktkZXhuUS1GSjFINjdkaTNidHN0WmZsU25KTWpFaFVobVM1QWF2LdIBngFBVV95cUxQN2xQSmw4QzJpaVY1bTBiSnp0Qkk2RF9OVVhpam55Q2JKLWdVUXlrOXRTR1VWM214RXpLTnVwNUQyS3M1bWdSVHMxTC11X1o4VElPVUtFY1NiUjlteWJKVTZyXzFjcmhSLXVLQzZPaWpzVTlwSWJybVdLbDF4YXVsN3NRRnJBdFBVWk9kMU12Y3Z4NWVMcUI1N3VPOUo3QQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260914T204533Z",
+          "pinned": false
+        },
+        {
           "title": "Three killed in Russian air strikes on 10 regions of Ukraine",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWVZZYUw3SGx6TDJld21TNnJ2Z0I3YmMzc2FDcmRuX3d5UXRJQkVFSGpZazdUMmxrWjBuN0lhd0Nxc1lpRDhzbTdHOHJoSkxLNXY0X0o5eXlQSk16WVFjekpOU0JQc2JSRTNCNURQald1NzhHT295QVJNa0I4QlJlVzI4eTk1Z2VnNDFTUFdUajJ6ZE9rT0tPeGU4OHVFd9IBowFBVV95cUxNQUc4ZzBSSTNwMTZreGNGQWVoMnBxd0lRZ002UzdySk1xQ2tQVlA2OVN2djBRVk5IUEtjTUNoNG13ZW5rQ2w3bVpzT2xXdW4xTTA2Q3p0ZUJvVVh0a285Nm9kOUlUT21qWEotcFRQTUhCOGQ3ckNkTGswSmxZdWpNUk1Ybkk5MGtmeEdIay1RVWdlMVZDYkM0My1iMnFDeXdOb2tn?oc=5",
           "domain": "aljazeera.com",
@@ -1484,14 +1468,6 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260912T085356Z",
-          "pinned": false
-        },
-        {
-          "title": "Inside the Houthis’ expanding war economy in Yemen",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM3pGRFFMYXkyeWdfeHdzeXE0UVJBMGxtQ0NlV0xFOTUxNGxCdWZPVUppelJTd01pcGNoUWlvSmcwS2p2SEMyamVXNU0xNnFLUHRmdnRVVkEwSzI1VHpCdG1UVW85dEM4NnBkVkQwRUY3bktkZXhuUS1GSjFINjdkaTNidHN0WmZsU25KTWpFaFVobVM1QWF2LdIBngFBVV95cUxQN2xQSmw4QzJpaVY1bTBiSnp0Qkk2RF9OVVhpam55Q2JKLWdVUXlrOXRTR1VWM214RXpLTnVwNUQyS3M1bWdSVHMxTC11X1o4VElPVUtFY1NiUjlteWJKVTZyXzFjcmhSLXVLQzZPaWpzVTlwSWJybVdLbDF4YXVsN3NRRnJBdFBVWk9kMU12Y3Z4NWVMcUI1N3VPOUo3QQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260914T204533Z",
           "pinned": false
         },
         {
@@ -1509,9 +1485,42 @@
           "sourceTier": "Independent reporting",
           "seen": "20260914T132814Z",
           "pinned": false
+        },
+        {
+          "title": "Is the U.S. Army Backing Off on Drones?",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1tT3RoNTYyamsyRmlqcVdqYkxrR1FNWFltVzZWR1dCUC1Iek9JaFFNaVFka01KNTE2NGEzWUJvT0dXTzNBVUh0YWZlNjdydWxfZ3kxdG1jTFdtc1BWUHpVa24yY05xb21zWXh4V3k2UXdwUXZH?oc=5",
+          "domain": "cfr.org",
+          "sourceTier": "Structured / analytic",
+          "seen": "20260914T193841Z",
+          "pinned": false
+        },
+        {
+          "title": "Kosovo protesters rally in support of ex-president ahead of war crimes trial verdict",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZW1zZVkwMlpRcDVhOVc3eWZjOWtjTXF0NEZxRkpSa3NaYzNpWnJvV0JtdHFrVDJoQ3dSOXRJb2FHcmxoeEhWMHlndkVpVk9VZTN6ZWJZbTNaUTNvSmZZbGlWRktGTy16dFdIcHRVblpkdW5KSDk4WEJmdEZtcmFjLVBoU1ZvTUxYVEFOX1lSaDF3bGJoMXk1VmhCNlI1QQ?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260912T140200Z",
+          "pinned": false
+        },
+        {
+          "title": "Witness History | Norway’s teacher resistance in World War Two",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5anhkeDVpQ09BdDA0OWs4dGtLZlUzaGNwSWktUEJ0enNXNEJwV1FieklQMUw4WnV3eDBYX0xiaVJZcnBvOFRkUFBjUll0TnFW?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260914T071839Z",
+          "pinned": false
         }
       ],
       "reports": [
+        {
+          "id": "report-52239ed98b65",
+          "title": "NATO pledges more Ukraine support after Russia strikes near Poland",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaFh5cl9tOEktSmtJY2ZmOTc2c0NNbnF3aHlXZ3k2VHgtOW5NNzBrWlFVQkNrRERfWDRENC1PalM0VEJ3czJXWnJTWW5uQ3NqSWZXTmlqQVJlUjNXTzQ4TkZYX2dOdFl3TjRXczcxWHdwSXYxRFVXbVFFb21jR1dkeFZiY1lReWo1QnF6SVJrN3FJTkxGWnFPZ2IyZk1sckxXQnFaT2R2VFo2bjFMX2ZaS1FONFhaZDdyZ3dxcU9hQ3TSAcYBQVVfeXFMUFNVbjdTNEtoajNOM0dsVE43RUJ2V09USWpDb1BwQThseTF3MUNVTDhoaUZLZnFIRU9jWHZSQnBFeVN5REMwM25ROV9UQkN3RXlaVFpZSlhRVlZFWVEwcDBpMV9ETjJPTEZTV2VJSk8wQm5xV09rLWxIeUNYM21LQjZuQXJic2JselJPYTJrOEJ0ejkxZ2RwZWNfRFhVSXRxZTJ4Y2VxWE41TVRXRDBFX3Y2RW5ZOHRlSExEa3ZMYnkybXlJemJ3?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-14T18:48:14Z"
+        },
         {
           "id": "report-d8179ab4dbfb",
           "title": "Brics summit 2026 Delhi: Iran war reshapes ties but exposes divides",
@@ -1520,24 +1529,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-13T11:23:42Z"
-        },
-        {
-          "id": "report-cab6f1ed1d6c",
-          "title": "In 9/11 remarks, Trump links war with Iran",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BS1pfYjcyYjJmdDZKWnp6XzgycEc3VDV5cTBCTnBERTRLQTFUYnU3RzM2VlBTTWZVMU8wSDhhTkN4ejhLUXMxdHJ3MnlkY1I2WjRfVzc2TQ?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-11T15:19:39Z"
-        },
-        {
-          "id": "report-52239ed98b65",
-          "title": "NATO pledges increased Ukraine support as Russia strikes near border",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaFh5cl9tOEktSmtJY2ZmOTc2c0NNbnF3aHlXZ3k2VHgtOW5NNzBrWlFVQkNrRERfWDRENC1PalM0VEJ3czJXWnJTWW5uQ3NqSWZXTmlqQVJlUjNXTzQ4TkZYX2dOdFl3TjRXczcxWHdwSXYxRFVXbVFFb21jR1dkeFZiY1lReWo1QnF6SVJrN3FJTkxGWnFPZ2IyZk1sckxXQnFaT2R2VFo2bjFMX2ZaS1FONFhaZDdyZ3dxcU9hQ3TSAcYBQVVfeXFMUFNVbjdTNEtoajNOM0dsVE43RUJ2V09USWpDb1BwQThseTF3MUNVTDhoaUZLZnFIRU9jWHZSQnBFeVN5REMwM25ROV9UQkN3RXlaVFpZSlhRVlZFWVEwcDBpMV9ETjJPTEZTV2VJSk8wQm5xV09rLWxIeUNYM21LQjZuQXJic2JselJPYTJrOEJ0ejkxZ2RwZWNfRFhVSXRxZTJ4Y2VxWE41TVRXRDBFX3Y2RW5ZOHRlSExEa3ZMYnkybXlJemJ3?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-14T18:48:14Z"
         },
         {
           "id": "report-44c36834aeab",
@@ -1576,33 +1567,6 @@
           "reportedAt": "2026-09-14T10:35:16Z"
         },
         {
-          "id": "report-9fff18972fa3",
-          "title": "How 9/11 helped Israel sell its war on Palestinians to America",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUUs5UHJNRlZvTER5dTdEMTdReEhLcHNaVmdSQUxMQzZ4LU5sT1Y1cnA5OGRsQVpGX2ZRbkZ3cVdVbS14cTFMQzF3bWFpWHQ3WVkwdm1ZWDNHRGxZWVZGRVh3aFYxUzByb3BsYTVhcV9HNldtaTg5T3VSMDB5NFR2VUpBTVVoUnB5dWh6VnVHZjdFaWUySjgxWnVkcXZJMGty0gGmAUFVX3lxTE95TC02ZXZIVVpQbHRubnZwMzFyaGlEdk5palVsTld1RHpqUUcxZlkyUGc2WkJvSzhCT0REY3FodmN6b1JlQm41ZXVkLWoxalRkSVBKdWZvZ3RnMlBucVdfNDZZOXctOThPemtsYjROZV9RU3lCbGdFNEVzWTl2N0k0QnRRVjIxZXJuakZKUFk2NklQUmpKeEwxQWhmV1pVbHhXbFVhdkE?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-11T08:20:42Z"
-        },
-        {
-          "id": "report-d590ef10199c",
-          "title": "Why is Trump warning Zelenskyy not to hit Russian diesel refineries?",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObzJXZU5PdWNpTDFWWmF0NDlsT2FtNkRHRWZoM0xDNVlhSmlwSkZDSzRpSXJ1VVZHcTBXX0YzRGNydHh2QmI3RUhOQ1gxaU1admVYT29YUmptRnU2ckdDLUpyY0ZNX3VYTHFBYzRPcHdVdWg4VUhyUVpyMlpFdzIwOXhndkhFZy1ZWkNxRk5pZEljblFtV3czVmctR3AyRkRGUHhfSFMwczdqRVFHNGJsSNIBtgFBVV95cUxNQjRQYUloRmR1Q2htUm9zNDNTY2VYeENzb1hDSUFCWjRYSDMzblVZTzNQVG5PYnUtU185a3Z1WUY3eXpXTTJ1a0JUNVJnX0lFNU1aX3V0c1lCNk5URTFzcDlzRmFYY29QUDRZOGZTdE1VSTFFWmhQeDlfRXc4U3VfbWZHZlZPdlhKMWZrMVZNV0RJNk9fUkRHUWRCbmE5Q245dWtzVmZoX2g4NHdSeVpKX0Q3WHJaQQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-14T17:17:15Z"
-        },
-        {
-          "id": "report-2de2e44610ae",
-          "title": "‘Everything changed’: The human cost of 25 years of US wars",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOclZaX1hQTGRVdlB5V1ZCV1VJSm1lZHhHOC02cTVzQlIwQXI5Q25tdnVNcXVMX0thS2pGMXo1TXZGY3lJZG52dVNCUG5lNUQ1bFlXMlNmMTJ2MzNrTTY1QWpueVpBQmJ0YjRrNmJ4OVBBbnZjRkpTN3Z2WXp3V2VuVVBZMk9DbzBPeTBVVHl4aGxKbWU5QnhkWWVTVUo2UW9MVkJqS3ZMX0cwZ9IBrwFBVV95cUxNblcydkNyMk5GNWlfT3d3YUdZRE5WZ2YyS0RtOGFSWmUwTmJsVnRrUThPVGc2U0JXdHJDMElXT2hMZXhVSUhsOGJZVEQwVk5WZnVzb1ZSeFVfSENzblR3eUtMUkpnUzdUckZldmNIOC1VcDFJa1JacFltYzBxeVlsYnFxN0ZWdTJRdE1LNFl4VGZWOUZ3SU1KWFhmWjVQTmZLei1BaWhiQWxqdE1IVDFJ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-11T05:29:36Z"
-        },
-        {
           "id": "report-8528520ddfb0",
           "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WYkFDZzd0RXNwRTVPRHhYcTlPRG12WmJXWU9fYVZ6YjBjOUFUMXNoZEhYMjRpcEF4WGNhNmVnQzZ4eDl5Y0d3dDZQTVZnd0xNWExUY2JvSWhxdw?oc=5",
@@ -1630,6 +1594,15 @@
           "reportedAt": "2026-09-14T14:41:22Z"
         },
         {
+          "id": "report-e77a98cd0884",
+          "title": "Selling the war: Purges, polygraphs and propaganda",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcXltT25FaUlRWXJQQjVpUmF2ZmVqbS00dnRrTFo3dGwxMl9vSERFQzBtTFpBN2VZWjVYaVhEQkdyTjVIbFZSNGRFUU42OHpTSGpnS1BjY2tnVmdiSnExSlc1RWxwUlJIdU1Tc3lDR1k1WEJpQ2VsMFhZTlBJNTY4azFIM2tyMTZ2ejNiQXNRdlUwRlpDbDVZTXJMRnRMOFBoc1Y5MWFTVGZEZHc5QVHSAbMBQVVfeXFMTmZjc09qYWYxVGFaZkZZSGZrb004RjlxRDRNWmdUN2ZkY3g4MFRTZ2pqY29hTmNBcXpWa2dnWDNXT1dSdEJtUkJINFROb2ZQR09IT28xMnl1WlA3ODh1Wk1qWDAxZnZ6d0tVUVhYbTc4OWxFNFdIWU9tNkZSZlZmSTR0dmZJNDhaTjJlNDd6b0FnVkdQZVZFZGhPNkZ1a3MxV1VhWEJCY2FveTBLQ0pBa3hJYTA?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-12T17:32:11Z"
+        },
+        {
           "id": "report-9a4c4e90bdbc",
           "title": "Poland, Ukraine accuse Russia of ‘escalation’ after strikes near border",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPXzktYVdWUndESk9zSmhqdlhJbkdVdzdHWGh5a3Njd0o5d21WQUdlUGtHQ1h6blBQeW40a2NQS2VDVjlIS1dvcUJBU3d5cDNYX3N1YnBKOEVzbVBVRmppUFBZM2lBMVcxbDNpZWJaYVl2RThhS2RNZlhFNlRHdlBLelZvcUxNbFZ5Qi1MUjFRTTY0RC1aN0Z4QkNzeUp6cDNSWmxkNFJ1VGJDQzJHZVHSAbMBQVVfeXFMUDFRYU95bmtPcGRialBJZTN1LVgxS0lWNUZkZWJHdkYxSkhLdlloc25hRjRhSFFnS2RSdFZKU0tmVE0xWjJDN00weGpqdklBTWZweGVneHhPMTdjRmhsQnBRa2pBU1Z0cGR0ZnY1ekVoak5iZjllTEpyTWlIcnQ5ZnhPVnEyQjdSZVYxc2RuZ2YtTnU1MTdCR3pyWV9IUXAtRzlScmtweE1YbFZGNzNLdVZYTGM?oc=5",
@@ -1648,13 +1621,13 @@
           "reportedAt": "2026-09-12T10:30:44Z"
         },
         {
-          "id": "report-0b5293d987e7",
-          "title": "Young republicans break with Trump over Iran war",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQWh1RnF0OG5ZanhyR1piaVA1QWM4WF9qaWFGSHpWaVZhNjFobVphVnFsdTlaWEFDVko1b0htbjhOR0JzZW50WHpEbnRiTlBreUE0TlJVcWNkd2hpODdvVnNRU0IwNzNZdk9iU1NTd25UemhfWUV0S2N3ZVJUTjlVaE5SbWwtWFU1MnpJaUhWcXhGc21KZ1RxN2pHWk1rUUJu0gGmAUFVX3lxTE5ZaWJyZlZoTEszTnRZeE9nOFJHYnZYRzNTTmd3a1R3bWZtbFAzS3BGOEhFTjU2VndKcW9WeEwzdWd5aUhOTmtJbzVwanpoSmRjMlNES3psMXp5NU85VEFaakQ4RkwtRXJWRHBVaDdhYXFTYy12V1RqVHpLRjdBcVFKcEI0QkFFekRoblRwY1dfSzhxZ1ZvODJQSFRtVTFlSGxPODRXbkE?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-11T03:03:49Z"
+          "id": "report-cbd65ec1849c",
+          "title": "On the Ground in Haiti: The Growing War Zone Facing U.S. Deportees",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd0E1aVo1Y0xxV0ZUenQ3WktIdHRQR2xlUy05RU9Gbm5MMk9nc1c0RTJuYXMxd3FUM0E4MzR4YTVIeWp1QjY1OVVXc21YQXJrOGp3QVhURWR2eU5lRXFzWnpNVnRsb1FIRjJJZFlNYm9CTUhaNC1DdVpONllXQ1RVZ2lyN3UxcVZORzBidXlCSDdxNlRLVm1yWA?oc=5",
+          "domain": "cfr.org",
+          "sourceTier": "Structured / analytic",
+          "confidenceLabel": "ANALYTIC REPORT",
+          "reportedAt": "2026-09-14T23:13:59Z"
         },
         {
           "id": "report-21276dcd748e",
@@ -1684,6 +1657,15 @@
           "reportedAt": "2026-09-13T16:33:12Z"
         },
         {
+          "id": "report-6adf307e45fd",
+          "title": "Inside the Houthis’ expanding war economy in Yemen",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM3pGRFFMYXkyeWdfeHdzeXE0UVJBMGxtQ0NlV0xFOTUxNGxCdWZPVUppelJTd01pcGNoUWlvSmcwS2p2SEMyamVXNU0xNnFLUHRmdnRVVkEwSzI1VHpCdG1UVW85dEM4NnBkVkQwRUY3bktkZXhuUS1GSjFINjdkaTNidHN0WmZsU25KTWpFaFVobVM1QWF2LdIBngFBVV95cUxQN2xQSmw4QzJpaVY1bTBiSnp0Qkk2RF9OVVhpam55Q2JKLWdVUXlrOXRTR1VWM214RXpLTnVwNUQyS3M1bWdSVHMxTC11X1o4VElPVUtFY1NiUjlteWJKVTZyXzFjcmhSLXVLQzZPaWpzVTlwSWJybVdLbDF4YXVsN3NRRnJBdFBVWk9kMU12Y3Z4NWVMcUI1N3VPOUo3QQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-14T20:45:33Z"
+        },
+        {
           "id": "report-0c4ece689d20",
           "title": "Three killed in Russian air strikes on 10 regions of Ukraine",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWVZZYUw3SGx6TDJld21TNnJ2Z0I3YmMzc2FDcmRuX3d5UXRJQkVFSGpZazdUMmxrWjBuN0lhd0Nxc1lpRDhzbTdHOHJoSkxLNXY0X0o5eXlQSk16WVFjekpOU0JQc2JSRTNCNURQald1NzhHT295QVJNa0I4QlJlVzI4eTk1Z2VnNDFTUFdUajJ6ZE9rT0tPeGU4OHVFd9IBowFBVV95cUxNQUc4ZzBSSTNwMTZreGNGQWVoMnBxd0lRZ002UzdySk1xQ2tQVlA2OVN2djBRVk5IUEtjTUNoNG13ZW5rQ2w3bVpzT2xXdW4xTTA2Q3p0ZUJvVVh0a285Nm9kOUlUT21qWEotcFRQTUhCOGQ3ckNkTGswSmxZdWpNUk1Ybkk5MGtmeEdIay1RVWdlMVZDYkM0My1iMnFDeXdOb2tn?oc=5",
@@ -1702,15 +1684,6 @@
           "reportedAt": "2026-09-12T08:53:56Z"
         },
         {
-          "id": "report-6adf307e45fd",
-          "title": "Inside the Houthis’ expanding war economy in Yemen",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM3pGRFFMYXkyeWdfeHdzeXE0UVJBMGxtQ0NlV0xFOTUxNGxCdWZPVUppelJTd01pcGNoUWlvSmcwS2p2SEMyamVXNU0xNnFLUHRmdnRVVkEwSzI1VHpCdG1UVW85dEM4NnBkVkQwRUY3bktkZXhuUS1GSjFINjdkaTNidHN0WmZsU25KTWpFaFVobVM1QWF2LdIBngFBVV95cUxQN2xQSmw4QzJpaVY1bTBiSnp0Qkk2RF9OVVhpam55Q2JKLWdVUXlrOXRTR1VWM214RXpLTnVwNUQyS3M1bWdSVHMxTC11X1o4VElPVUtFY1NiUjlteWJKVTZyXzFjcmhSLXVLQzZPaWpzVTlwSWJybVdLbDF4YXVsN3NRRnJBdFBVWk9kMU12Y3Z4NWVMcUI1N3VPOUo3QQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-14T20:45:33Z"
-        },
-        {
           "id": "report-a67daa5904b8",
           "title": "Global News Podcast | The Global Story: Can Dubai’s luxe image survive the war with Iran?",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBjSGtEZkt3OWJhS2NzZU1tQUZMZnBVU3owamFoM0VkSlhkdURFWUhubF92Z3VvbHlnWnJpLTBKUlJwOUw3SDQySHpxZ2IwZDFm?oc=5",
@@ -1727,6 +1700,33 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-14T13:28:14Z"
+        },
+        {
+          "id": "report-90dd39219ce8",
+          "title": "Is the U.S. Army Backing Off on Drones?",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1tT3RoNTYyamsyRmlqcVdqYkxrR1FNWFltVzZWR1dCUC1Iek9JaFFNaVFka01KNTE2NGEzWUJvT0dXTzNBVUh0YWZlNjdydWxfZ3kxdG1jTFdtc1BWUHpVa24yY05xb21zWXh4V3k2UXdwUXZH?oc=5",
+          "domain": "cfr.org",
+          "sourceTier": "Structured / analytic",
+          "confidenceLabel": "ANALYTIC REPORT",
+          "reportedAt": "2026-09-14T19:38:41Z"
+        },
+        {
+          "id": "report-3f7e4d78d3e0",
+          "title": "Kosovo protesters rally in support of ex-president ahead of war crimes trial verdict",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZW1zZVkwMlpRcDVhOVc3eWZjOWtjTXF0NEZxRkpSa3NaYzNpWnJvV0JtdHFrVDJoQ3dSOXRJb2FHcmxoeEhWMHlndkVpVk9VZTN6ZWJZbTNaUTNvSmZZbGlWRktGTy16dFdIcHRVblpkdW5KSDk4WEJmdEZtcmFjLVBoU1ZvTUxYVEFOX1lSaDF3bGJoMXk1VmhCNlI1QQ?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-12T14:02:00Z"
+        },
+        {
+          "id": "report-c65288af34fa",
+          "title": "Witness History | Norway’s teacher resistance in World War Two",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5anhkeDVpQ09BdDA0OWs4dGtLZlUzaGNwSWktUEJ0enNXNEJwV1FieklQMUw4WnV3eDBYX0xiaVJZcnBvOFRkUFBjUll0TnFW?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-14T07:18:39Z"
         },
         {
           "id": "report-b41a3eea5754",
