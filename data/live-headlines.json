@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-15T19:13:37.924Z",
+  "generatedAt": "2026-09-15T21:21:26.454Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-09-15T16:59:53.089Z",
+      "generatedAt": "2026-09-15T21:21:26.454Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -1307,7 +1307,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-09-15T16:59:53.089Z",
+      "generatedAt": "2026-09-15T21:21:26.454Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -1335,6 +1335,14 @@
           "pinned": false
         },
         {
+          "title": "Saudi Arabia promises to respond to Houthi attacks ‘firmly’",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdC1ocFpNc3FkSkVheVZMQy1QdmtEbXhBS2JrNENyT3RPSk1KS2F3M1RCaUtxanZockZEZlZ4bS13cGhXckFXOS1EUC1YR2lXanp0WnJ2N0oybU54R2lZTTBkWDVVdFdoOVppNk1FX1lpZzE3MEpiQlR2LVBJaV83NGZBRG43V1JLeFl1ak9IM3RNdDhFNGZZTmw4SXpZRUVjeDdXMUpxcGFLaGxrR05IZmJqNGjSAboBQVVfeXFMTUcyLTU3b09ZREl1bHFJWllRSWRUb1lHTzBhOXltcE05Q3dXZ01fZWRNd2xGM3kyYXhnRy1FY09XSUtaSmpkMjRqMnc4X0FuZ2JxNFhPVUlFdW9iMzRfeTE3RjR3c1E4NUVwSnV0RFFCekNGc2NXVzJ6TDlHYjhXRHRGdjFDazhTMXQtNXFNNmc5amtkN2o0aVZwdmdnUTctTVh6YUNobzE0cTQtd0E5cld5ckZPalRncXZn?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260915T165403Z",
+          "pinned": false
+        },
+        {
           "title": "Why Canada? America’s northern neighbor seems an unlikely target for a trade war",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMmtydk5pTmlvb1R5TklLWGJ4MG1PRjN0amoteHNYRkl0TUZDM2VqV1BLeFhqcmlleDBJNjlNcG9EbU1ha3VxVkZtaXZDUTFlemxhVWdGYnFaaERyb0xZVFdzT0tHa29NbGhUYjRlNW93MEtvd3FZekJWOXcyYl9qR0JSc3NhUHpjYVZBV29vT21TTXJP?oc=5",
           "domain": "apnews.com",
@@ -1359,6 +1367,14 @@
           "pinned": false
         },
         {
+          "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45MGRxOW12dm55Vk5Oa2NLMW1IcDVvWTBJcVp2VkJ2Qm5ONm5aMWtqSXE5OE9EQnZLeXY5UjAtelNfTktqZTJNOE9ROEN2ZnFkRnJnNEVnbXQ3TGM?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260915T153134Z",
+          "pinned": false
+        },
+        {
           "title": "EXPLAINER - US-Iran war ushers in new era of missile warfare",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT2s2LVZ5SGZCclB3bHdJcEpkeGU3RzBUTGxjLUNVNWI1ajVHcjRoQXd6RkdBUF9NRGZ3ZDBjUHlxZVJ4X2h4RzdaclhwREU1SVF6SU9RdlUtdVNQdzRRWjBmRmJsaThsTDIzaFpaM2FIdDI1eWw4TUhTUWdVejBPRVA4c1BUY2tXT3N3WUVUQ3NSNXo5SHY2eFpLVG9Ic0NBNmNNVmFR?oc=5",
           "domain": "aa.com.tr",
@@ -1375,11 +1391,11 @@
           "pinned": false
         },
         {
-          "title": "Iran’s Pezeshkian: ‘We are not at war with Saudi Arabia’",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeHA3a3UyRHhYdUVqM1pDbkVUbWhtNWlzcW9pNmd1c2lvYklOR1BmVFNLOUQ3bExtZFc3M2Z2NUk3eXgzQV9BRndhdzJWeGszczJuNHZ2ZEs0SElNR0U0V2xzdE0zQm1pY3Zqcnd5UWlzOV8wRUYxRmgtSzdkYnNZWWlIcUZmbVpiek85Unl0LW44UVc4WTZwMFhUWFVwWkc3cDBWOTRn0gGrAUFVX3lxTE0tMDJRY2lodTgyeHVibGpSQUZYSGZJMzhPV0ZqUC1lN09mbnhrd1VkX3VOVjZpN0pMN1dRSG4xZjFWTk1xWkFnSDNmSWprZF9ZNWhxQ3NZVzlFRXJJbEpYSXlEbXY0NVFRb1Q3eDdBNXRMRmVEc1JQeGs1WncteTBXWDdGcldxYkVJSVUzZ0VSYTI4b3ZnUGFITm41YzRHT2RKa2VtZTVDMy1Dcw?oc=5",
-          "domain": "aljazeera.com",
+          "title": "Trump calls on Ukraine to halt strikes on Russian diesel fuel, citing a global shortage",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLS1ZV0kyb2w5c2szWC15SGgxZGVsMXM4dDNiVkdTdmRPcV9kQ001dnpkODMya0xkTWQtLWhoYzZsdlFUVFV5SnJaVGpUbUNaaW4xNEN0VTVGdDlRempoRzhMYV9PcGo0UWhjUkhlZnJMRHVVVzB6WDBybXVMY1dfM181b3JYXzZIclJpU0xHbjRPdVpmUUJpbHFvdTYwdHFOWUVVYmp2M3hsN1hhcGJSbGRSV1Vqak0?oc=5",
+          "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260913T013307Z",
+          "seen": "20260914T075500Z",
           "pinned": false
         },
         {
@@ -1399,6 +1415,14 @@
           "pinned": false
         },
         {
+          "title": "Saudi Arabia faces high-stakes choices as war with Houthis escalates",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR1hWVXdFT0FCejE0UmhPTEhDbUlkMkFSSnlaOG1ObnBTbVhwVnhRaTk5MDVja0w1eFR4Xy1BN1M2Ukc1RjViM0pmYU5sZ2xwUktEczdxaE1JRnkyLWw5c2wzMF9sUDdZN2M4QWpSb0RUbHg5RTN5S2o0bU1Sd3JKb3FSRlB5NlR3d04ybFVlT3FLY3ZvWkVjb2R6a0h5ZV9PbG1XQ0szLVBsS3lPbXfSAbMBQVVfeXFMT3A5UVQyS214S3pad2p5aHppR01KdWw1OHYyOWRTMnhHQmk0Rl90dDVJbXR1MmwxSUsyN2U2cG4zTzJpajd6Q3hWbjhLdE96cmFUc18tNW5xeEJBZGMtTnBjWmptZ3JiVFBIbTN6S2dMampwbTJodjZtb2tjbFREcHozcFRPOXQwaWk4dlB4WjA5MTRYdDVRZFl6V0hlemNTdTBEamVSd3hrN0tUNFd1QXpRejg?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260915T143748Z",
+          "pinned": false
+        },
+        {
           "title": "On the Ground in Haiti: The Growing War Zone Facing U.S. Deportees",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd0E1aVo1Y0xxV0ZUenQ3WktIdHRQR2xlUy05RU9Gbm5MMk9nc1c0RTJuYXMxd3FUM0E4MzR4YTVIeWp1QjY1OVVXc21YQXJrOGp3QVhURWR2eU5lRXFzWnpNVnRsb1FIRjJJZFlNYm9CTUhaNC1DdVpONllXQ1RVZ2lyN3UxcVZORzBidXlCSDdxNlRLVm1yWA?oc=5",
           "domain": "cfr.org",
@@ -1412,14 +1436,6 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260913T212135Z",
-          "pinned": false
-        },
-        {
-          "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45MGRxOW12dm55Vk5Oa2NLMW1IcDVvWTBJcVp2VkJ2Qm5ONm5aMWtqSXE5OE9EQnZLeXY5UjAtelNfTktqZTJNOE9ROEN2ZnFkRnJnNEVnbXQ3TGM?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260915T153134Z",
           "pinned": false
         },
         {
@@ -1455,6 +1471,14 @@
           "pinned": false
         },
         {
+          "title": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhVXY0Z01uOWU3bjVROUVDc3c3RmpWZ3VRZmVWRmRQR1JCY2NfN04xRDJIeUpkWVhKdlBaU2M2MWYza2VfVVpkZWtQNFdyVzRfRFdDcDdiTEpWalE?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260915T161341Z",
+          "pinned": false
+        },
+        {
           "title": "Global News Podcast | The Global Story: Can Dubai’s luxe image survive the war with Iran?",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBjSGtEZkt3OWJhS2NzZU1tQUZMZnBVU3owamFoM0VkSlhkdURFWUhubF92Z3VvbHlnWnJpLTBKUlJwOUw3SDQySHpxZ2IwZDFm?oc=5",
           "domain": "bbc.com",
@@ -1463,43 +1487,19 @@
           "pinned": false
         },
         {
+          "title": "An Israeli documentary on the war in Gaza sets off a firestorm at home after Venice award",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMVVYUllTR053MDNwR0V3RG56S0E2MEpTSEtLVDBwRmhNenh1bHh5QlBnZDYyWGxBMmkydDUzek84emJFY2JrdUxuMzg4amdnS0s3dlcyeXh3cjhqOXpVRjhPYlFtc01zVkhwMkNmcV9hUFhrU3A1YTB1dXVIM2ZDSkpfZEsxeDdRWG1vWWJrMHY?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260915T122700Z",
+          "pinned": false
+        },
+        {
           "title": "‘Attacks will be fully autonomous’: Russia, Ukraine race towards AI warfare",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc0VNaWp1eEdUbG1BTk1sMXNDNG92Z0s3d1RTYXJnOEhEZmNBOXFjYkluU1gyOU9vRjFSMkVYUWxoSlJzY1J0LS1LRGlGRXR4TENWc1VXaklmUVdWamNDcnY0eGo0SFNYeVhEZWpzZFRpMk5fdi1MdGxrOU9DZ0d0cjBtY2ZvTHdFN1ZwcE5SMkNHYTE3dFFHNVhJU0QtNnNYOFJvU0x2Nmt4V3plckdaSGp30gG3AUFVX3lxTFBESTF4R3hLc1hFZjdTOGhOdmhicllJUnFsUEZpRkppbFRfXzJMSTRFNGptb1czVWYta3BpODltaTJsSGd6dlNWSHFTOThBSHZBYnVGNFEyUEtfSHRET01KZDRHV3BVLVAxWThzc1pkMWRmdVRBYkQyVkd6SkJhMHhxODNTUWtPODk1ZFBkSkdPSTlrS1BocHNENVBuQlF1NWtIYzhwLUxCLW5vV3g3a1lhOTZQZW1NWQ?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260914T132814Z",
-          "pinned": false
-        },
-        {
-          "title": "9/11 at 25: How the ‘War on Terror’ helped mainstream Europe’s far right",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRENxUUtIbUgyMVB1ejg5S0x3YTBhNzI5ZU9kZ1NCSzRIN3M4Y2VQVFNUeE45RlZpUXRZTm9DTFZJQ2hSeFJyTTFZbXJLOFVfeC1OQmhYZnpiVjZELUtNTHJPX2ttRmpqS01oejFjSGxZb0N5QzlJWEVBc2pQdjJzOE9ld3JKc3VYdzIxLWdNWVRRNjlJVHY5aGQ5YTFKRldVUEVMcmZNU21taVHSAbABQVVfeXFMTmJzTW5uUFZSUFNYdTdFZF9RSk5LTWxiRVBLQnV4Ri1RTWVvNk9sTVhfN29qLU5zM3A1MGg0OGhEZ1BBUkZvX01kcmxQMEZzVGVmRTdTLVJ5LUpxV2JnR0ZXd1NvUnBGOHMxN3BYRTg5cEl4VFBRcHZnRzI1d3RGdGRlaHoxRHRreFRDVGYwYzJocTFhNUtvaF8tUE5HY1I4M2FrdU1lOUxZcmRYWmlWVVM?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260912T085356Z",
-          "pinned": false
-        },
-        {
-          "title": "‘More dangerous than drugs’: BJP’s war on beef in India’s West Bengal",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUFRncjZlSEQ5Sm52YWplbE5NUDFoZ2htQjJDRjV4MFh2OVFCXzV3OTR0SmF4eE90T3FWZFR2dFVpSlZndnhweXdxcmpXbDNhbjVlTnZFVGFySGsyQjJSbktfNVN2N3B6YlBJc2J4VURzTU5fbWlTcFQ5QVlLZjlWWUc2Q1dVdFUwdElPNHZOdV9mNE9IQTJsQ1F3VU1qenMwS3R2N2U1ODg5RzlleG9jTlZkc9IBuAFBVV95cUxQSlFjR1JnNjZNZFk5bzBWY2tXcmlZLUFZZ1hqTWJkOHRscmNETDVvbEpkN0szYzlMa3NXbnJCSmNMTVc0ZU5ndGw4X01jRi1UYm96bkFWVnprTVlpN05pUXRVNnZvNjFIS3pubEt5Z05aOW1zOWNVRmtUelJlNFg5STJ1b1lJYkx4dDB5cV9Od2twWDNUODY3T1J3TXE0NlRRaW1yNGVZajRqUVQ0c1ZYdlNZNmZReFoz?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260915T123050Z",
-          "pinned": false
-        },
-        {
-          "title": "Is the U.S. Army Backing Off on Drones?",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1tT3RoNTYyamsyRmlqcVdqYkxrR1FNWFltVzZWR1dCUC1Iek9JaFFNaVFka01KNTE2NGEzWUJvT0dXTzNBVUh0YWZlNjdydWxfZ3kxdG1jTFdtc1BWUHpVa24yY05xb21zWXh4V3k2UXdwUXZH?oc=5",
-          "domain": "cfr.org",
-          "sourceTier": "Structured / analytic",
-          "seen": "20260914T193841Z",
-          "pinned": false
-        },
-        {
-          "title": "Kosovo protesters rally in support of ex-president ahead of war crimes trial verdict",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZW1zZVkwMlpRcDVhOVc3eWZjOWtjTXF0NEZxRkpSa3NaYzNpWnJvV0JtdHFrVDJoQ3dSOXRJb2FHcmxoeEhWMHlndkVpVk9VZTN6ZWJZbTNaUTNvSmZZbGlWRktGTy16dFdIcHRVblpkdW5KSDk4WEJmdEZtcmFjLVBoU1ZvTUxYVEFOX1lSaDF3bGJoMXk1VmhCNlI1QQ?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260912T140200Z",
           "pinned": false
         }
       ],
@@ -1532,6 +1532,15 @@
           "reportedAt": "2026-09-13T11:23:42Z"
         },
         {
+          "id": "report-1a8d58980613",
+          "title": "Saudi Arabia promises to respond to Houthi attacks ‘firmly’",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdC1ocFpNc3FkSkVheVZMQy1QdmtEbXhBS2JrNENyT3RPSk1KS2F3M1RCaUtxanZockZEZlZ4bS13cGhXckFXOS1EUC1YR2lXanp0WnJ2N0oybU54R2lZTTBkWDVVdFdoOVppNk1FX1lpZzE3MEpiQlR2LVBJaV83NGZBRG43V1JLeFl1ak9IM3RNdDhFNGZZTmw4SXpZRUVjeDdXMUpxcGFLaGxrR05IZmJqNGjSAboBQVVfeXFMTUcyLTU3b09ZREl1bHFJWllRSWRUb1lHTzBhOXltcE05Q3dXZ01fZWRNd2xGM3kyYXhnRy1FY09XSUtaSmpkMjRqMnc4X0FuZ2JxNFhPVUlFdW9iMzRfeTE3RjR3c1E4NUVwSnV0RFFCekNGc2NXVzJ6TDlHYjhXRHRGdjFDazhTMXQtNXFNNmc5amtkN2o0aVZwdmdnUTctTVh6YUNobzE0cTQtd0E5cld5ckZPalRncXZn?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-15T16:54:03Z"
+        },
+        {
           "id": "report-44c36834aeab",
           "title": "Why Canada? America’s northern neighbor seems an unlikely target for a trade war",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMmtydk5pTmlvb1R5TklLWGJ4MG1PRjN0amoteHNYRkl0TUZDM2VqV1BLeFhqcmlleDBJNjlNcG9EbU1ha3VxVkZtaXZDUTFlemxhVWdGYnFaaERyb0xZVFdzT0tHa29NbGhUYjRlNW93MEtvd3FZekJWOXcyYl9qR0JSc3NhUHpjYVZBV29vT21TTXJP?oc=5",
@@ -1559,6 +1568,15 @@
           "reportedAt": "2026-09-13T13:05:41Z"
         },
         {
+          "id": "report-9144de8c478d",
+          "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45MGRxOW12dm55Vk5Oa2NLMW1IcDVvWTBJcVp2VkJ2Qm5ONm5aMWtqSXE5OE9EQnZLeXY5UjAtelNfTktqZTJNOE9ROEN2ZnFkRnJnNEVnbXQ3TGM?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-15T15:31:34Z"
+        },
+        {
           "id": "report-fe0a00746113",
           "title": "EXPLAINER - US-Iran war ushers in new era of missile warfare",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT2s2LVZ5SGZCclB3bHdJcEpkeGU3RzBUTGxjLUNVNWI1ajVHcjRoQXd6RkdBUF9NRGZ3ZDBjUHlxZVJ4X2h4RzdaclhwREU1SVF6SU9RdlUtdVNQdzRRWjBmRmJsaThsTDIzaFpaM2FIdDI1eWw4TUhTUWdVejBPRVA4c1BUY2tXT3N3WUVUQ3NSNXo5SHY2eFpLVG9Ic0NBNmNNVmFR?oc=5",
@@ -1577,13 +1595,13 @@
           "reportedAt": "2026-09-12T12:15:50Z"
         },
         {
-          "id": "report-fc3dee093381",
-          "title": "Iran’s Pezeshkian: ‘We are not at war with Saudi Arabia’",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeHA3a3UyRHhYdUVqM1pDbkVUbWhtNWlzcW9pNmd1c2lvYklOR1BmVFNLOUQ3bExtZFc3M2Z2NUk3eXgzQV9BRndhdzJWeGszczJuNHZ2ZEs0SElNR0U0V2xzdE0zQm1pY3Zqcnd5UWlzOV8wRUYxRmgtSzdkYnNZWWlIcUZmbVpiek85Unl0LW44UVc4WTZwMFhUWFVwWkc3cDBWOTRn0gGrAUFVX3lxTE0tMDJRY2lodTgyeHVibGpSQUZYSGZJMzhPV0ZqUC1lN09mbnhrd1VkX3VOVjZpN0pMN1dRSG4xZjFWTk1xWkFnSDNmSWprZF9ZNWhxQ3NZVzlFRXJJbEpYSXlEbXY0NVFRb1Q3eDdBNXRMRmVEc1JQeGs1WncteTBXWDdGcldxYkVJSVUzZ0VSYTI4b3ZnUGFITm41YzRHT2RKa2VtZTVDMy1Dcw?oc=5",
-          "domain": "aljazeera.com",
+          "id": "report-5b21e988de28",
+          "title": "Trump calls on Ukraine to halt strikes on Russian diesel fuel, citing a global shortage",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLS1ZV0kyb2w5c2szWC15SGgxZGVsMXM4dDNiVkdTdmRPcV9kQ001dnpkODMya0xkTWQtLWhoYzZsdlFUVFV5SnJaVGpUbUNaaW4xNEN0VTVGdDlRempoRzhMYV9PcGo0UWhjUkhlZnJMRHVVVzB6WDBybXVMY1dfM181b3JYXzZIclJpU0xHbjRPdVpmUUJpbHFvdTYwdHFOWUVVYmp2M3hsN1hhcGJSbGRSV1Vqak0?oc=5",
+          "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-13T01:33:07Z"
+          "reportedAt": "2026-09-14T07:55:00Z"
         },
         {
           "id": "report-980f9353f348",
@@ -1604,6 +1622,15 @@
           "reportedAt": "2026-09-12T17:32:11Z"
         },
         {
+          "id": "report-b98b814f9271",
+          "title": "Saudi Arabia faces high-stakes choices as war with Houthis escalates",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR1hWVXdFT0FCejE0UmhPTEhDbUlkMkFSSnlaOG1ObnBTbVhwVnhRaTk5MDVja0w1eFR4Xy1BN1M2Ukc1RjViM0pmYU5sZ2xwUktEczdxaE1JRnkyLWw5c2wzMF9sUDdZN2M4QWpSb0RUbHg5RTN5S2o0bU1Sd3JKb3FSRlB5NlR3d04ybFVlT3FLY3ZvWkVjb2R6a0h5ZV9PbG1XQ0szLVBsS3lPbXfSAbMBQVVfeXFMT3A5UVQyS214S3pad2p5aHppR01KdWw1OHYyOWRTMnhHQmk0Rl90dDVJbXR1MmwxSUsyN2U2cG4zTzJpajd6Q3hWbjhLdE96cmFUc18tNW5xeEJBZGMtTnBjWmptZ3JiVFBIbTN6S2dMampwbTJodjZtb2tjbFREcHozcFRPOXQwaWk4dlB4WjA5MTRYdDVRZFl6V0hlemNTdTBEamVSd3hrN0tUNFd1QXpRejg?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-15T14:37:48Z"
+        },
+        {
           "id": "report-cbd65ec1849c",
           "title": "On the Ground in Haiti: The Growing War Zone Facing U.S. Deportees",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd0E1aVo1Y0xxV0ZUenQ3WktIdHRQR2xlUy05RU9Gbm5MMk9nc1c0RTJuYXMxd3FUM0E4MzR4YTVIeWp1QjY1OVVXc21YQXJrOGp3QVhURWR2eU5lRXFzWnpNVnRsb1FIRjJJZFlNYm9CTUhaNC1DdVpONllXQ1RVZ2lyN3UxcVZORzBidXlCSDdxNlRLVm1yWA?oc=5",
@@ -1620,15 +1647,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-13T21:21:35Z"
-        },
-        {
-          "id": "report-9144de8c478d",
-          "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45MGRxOW12dm55Vk5Oa2NLMW1IcDVvWTBJcVp2VkJ2Qm5ONm5aMWtqSXE5OE9EQnZLeXY5UjAtelNfTktqZTJNOE9ROEN2ZnFkRnJnNEVnbXQ3TGM?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-15T15:31:34Z"
         },
         {
           "id": "report-7e91fdb8bc0e",
@@ -1667,6 +1685,15 @@
           "reportedAt": "2026-09-13T11:55:30Z"
         },
         {
+          "id": "report-83bebfdac247",
+          "title": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhVXY0Z01uOWU3bjVROUVDc3c3RmpWZ3VRZmVWRmRQR1JCY2NfN04xRDJIeUpkWVhKdlBaU2M2MWYza2VfVVpkZWtQNFdyVzRfRFdDcDdiTEpWalE?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-15T16:13:41Z"
+        },
+        {
           "id": "report-a67daa5904b8",
           "title": "Global News Podcast | The Global Story: Can Dubai’s luxe image survive the war with Iran?",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBjSGtEZkt3OWJhS2NzZU1tQUZMZnBVU3owamFoM0VkSlhkdURFWUhubF92Z3VvbHlnWnJpLTBKUlJwOUw3SDQySHpxZ2IwZDFm?oc=5",
@@ -1674,6 +1701,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-13T19:05:05Z"
+        },
+        {
+          "id": "report-428bd650c261",
+          "title": "An Israeli documentary on the war in Gaza sets off a firestorm at home after Venice award",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMVVYUllTR053MDNwR0V3RG56S0E2MEpTSEtLVDBwRmhNenh1bHh5QlBnZDYyWGxBMmkydDUzek84emJFY2JrdUxuMzg4amdnS0s3dlcyeXh3cjhqOXpVRjhPYlFtc01zVkhwMkNmcV9hUFhrU3A1YTB1dXVIM2ZDSkpfZEsxeDdRWG1vWWJrMHY?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-15T12:27:00Z"
         },
         {
           "id": "report-c3803c97dedf",
@@ -1685,24 +1721,6 @@
           "reportedAt": "2026-09-14T13:28:14Z"
         },
         {
-          "id": "report-de988dd0c9dd",
-          "title": "9/11 at 25: How the ‘War on Terror’ helped mainstream Europe’s far right",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRENxUUtIbUgyMVB1ejg5S0x3YTBhNzI5ZU9kZ1NCSzRIN3M4Y2VQVFNUeE45RlZpUXRZTm9DTFZJQ2hSeFJyTTFZbXJLOFVfeC1OQmhYZnpiVjZELUtNTHJPX2ttRmpqS01oejFjSGxZb0N5QzlJWEVBc2pQdjJzOE9ld3JKc3VYdzIxLWdNWVRRNjlJVHY5aGQ5YTFKRldVUEVMcmZNU21taVHSAbABQVVfeXFMTmJzTW5uUFZSUFNYdTdFZF9RSk5LTWxiRVBLQnV4Ri1RTWVvNk9sTVhfN29qLU5zM3A1MGg0OGhEZ1BBUkZvX01kcmxQMEZzVGVmRTdTLVJ5LUpxV2JnR0ZXd1NvUnBGOHMxN3BYRTg5cEl4VFBRcHZnRzI1d3RGdGRlaHoxRHRreFRDVGYwYzJocTFhNUtvaF8tUE5HY1I4M2FrdU1lOUxZcmRYWmlWVVM?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-12T08:53:56Z"
-        },
-        {
-          "id": "report-d60f794009f1",
-          "title": "‘More dangerous than drugs’: BJP’s war on beef in India’s West Bengal",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUFRncjZlSEQ5Sm52YWplbE5NUDFoZ2htQjJDRjV4MFh2OVFCXzV3OTR0SmF4eE90T3FWZFR2dFVpSlZndnhweXdxcmpXbDNhbjVlTnZFVGFySGsyQjJSbktfNVN2N3B6YlBJc2J4VURzTU5fbWlTcFQ5QVlLZjlWWUc2Q1dVdFUwdElPNHZOdV9mNE9IQTJsQ1F3VU1qenMwS3R2N2U1ODg5RzlleG9jTlZkc9IBuAFBVV95cUxQSlFjR1JnNjZNZFk5bzBWY2tXcmlZLUFZZ1hqTWJkOHRscmNETDVvbEpkN0szYzlMa3NXbnJCSmNMTVc0ZU5ndGw4X01jRi1UYm96bkFWVnprTVlpN05pUXRVNnZvNjFIS3pubEt5Z05aOW1zOWNVRmtUelJlNFg5STJ1b1lJYkx4dDB5cV9Od2twWDNUODY3T1J3TXE0NlRRaW1yNGVZajRqUVQ0c1ZYdlNZNmZReFoz?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-15T12:30:50Z"
-        },
-        {
           "id": "report-90dd39219ce8",
           "title": "Is the U.S. Army Backing Off on Drones?",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1tT3RoNTYyamsyRmlqcVdqYkxrR1FNWFltVzZWR1dCUC1Iek9JaFFNaVFka01KNTE2NGEzWUJvT0dXTzNBVUh0YWZlNjdydWxfZ3kxdG1jTFdtc1BWUHpVa24yY05xb21zWXh4V3k2UXdwUXZH?oc=5",
@@ -1710,15 +1728,6 @@
           "sourceTier": "Structured / analytic",
           "confidenceLabel": "ANALYTIC REPORT",
           "reportedAt": "2026-09-14T19:38:41Z"
-        },
-        {
-          "id": "report-3f7e4d78d3e0",
-          "title": "Kosovo protesters rally in support of ex-president ahead of war crimes trial verdict",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZW1zZVkwMlpRcDVhOVc3eWZjOWtjTXF0NEZxRkpSa3NaYzNpWnJvV0JtdHFrVDJoQ3dSOXRJb2FHcmxoeEhWMHlndkVpVk9VZTN6ZWJZbTNaUTNvSmZZbGlWRktGTy16dFdIcHRVblpkdW5KSDk4WEJmdEZtcmFjLVBoU1ZvTUxYVEFOX1lSaDF3bGJoMXk1VmhCNlI1QQ?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-12T14:02:00Z"
         },
         {
           "id": "report-b41a3eea5754",
