@@ -1,12 +1,24 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-16T21:19:03.412Z",
+  "generatedAt": "2026-09-17T04:52:25.582Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-09-16T21:19:03.412Z",
+      "generatedAt": "2026-09-17T04:52:25.582Z",
       "cadence": "every 6 hours",
-      "items": []
+      "items": [
+        {
+          "title": "UNITAS 26 | U.S. Marines and Partners Begin Multinational Training Exercise in Peru [Image 2 of 7]",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPS0NSb296MXZzREljamZzYXBXZDNydFo4Y3hlOHlwdlNwOXFBbWdwV2hFRXhtbHNuY3AzbXhyUEZNWi1lU0F4NWxpaWRFQThyTmRVV3pqY0gzMkRNb3d0dE9HVjJ4X3ZxLVFmQnI2UWU3bWVQb0xFXzRSdmFYZjlLZ1NuWHlOT2duYnl5elRwWlVyX29nUktiLXVUMG91dkpCdmgtQzNEY3pWN1FVV3NSR3BBUXdDUQ?oc=5",
+          "domain": "dvidshub.net",
+          "sourceTier": "Official military source",
+          "seen": "20260916T155400Z",
+          "pinned": false,
+          "components": [
+            "Component not specified"
+          ]
+        }
+      ]
     },
     "safety": {
       "generatedAt": "2026-09-16T19:06:32.450Z",
@@ -1307,7 +1319,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-09-16T21:19:03.412Z",
+      "generatedAt": "2026-09-17T04:52:25.582Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -1319,19 +1331,19 @@
           "pinned": false
         },
         {
-          "title": "Carney says Canada can wait for the right conditions in Trump trade war and emerge stronger",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeXVfNEw4WWVkc1ZhcE1ZQTZqRHloZG9nUlpiTVlyNHBnSDE2Y0pKeGRJci15RlNLVWNxNzdZM3dZb2pZN0k4TGJCVlZNYW40UHg3cVYtNU56RFNpVUVLUHFsMUFoeHZfajBHNVpVZkl6YkxvZ3FOTUJXa3ZVQmJqTEQwLVpoQUVYcUE2c2NHOENaSWRzYktwcjNxMHR5QQ?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260915T190000Z",
-          "pinned": false
-        },
-        {
           "title": "US House votes to end Iran war, 7 Republicans join in favour",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVDJWSk4xeEdIT0JHclk2RGI3dXZ0RE5rQVM3NVJJcnBaU0RpZWh1c2p4bkFyRHprSG9Tbl9YS2t2cDdNd29MQ0VhUXYyTzlOWXFiM2dfLXJPaHJqeXk0SDZrM0dfY3lNX2JPTW5jLWN0amxuWGFKXzJmT2NLbXZhNUJYWDZFVlFHa3BqOUc3X09ER3pYOWw2cWNVN21pM09NSEHSAacBQVVfeXFMTXVnOVhzSmFjQ2p2N1prWWkwQVRodU5WMFRIbjFIcG9tZ05JNHdYa2tTLVc2bFE0OVozM3h5b3U4OExxTko0cVhGbkRnWjZ6enJIdlF5dDcwZEVOTU1qdjhubzJiMGxKNVNnalEtN0gtRzZaZUppSWVfM2VkX29ySGRZYUZEYVFBY2lEM25EeDhZR3JFMGs4NjEycFR5M3ZrODdkZG1Gc2M?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260916T055001Z",
+          "pinned": false
+        },
+        {
+          "title": "Carney says Canada can wait for the right conditions in Trump trade war and emerge stronger",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeXVfNEw4WWVkc1ZhcE1ZQTZqRHloZG9nUlpiTVlyNHBnSDE2Y0pKeGRJci15RlNLVWNxNzdZM3dZb2pZN0k4TGJCVlZNYW40UHg3cVYtNU56RFNpVUVLUHFsMUFoeHZfajBHNVpVZkl6YkxvZ3FOTUJXa3ZVQmJqTEQwLVpoQUVYcUE2c2NHOENaSWRzYktwcjNxMHR5QQ?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260915T190000Z",
           "pinned": false
         },
         {
@@ -1367,19 +1379,19 @@
           "pinned": false
         },
         {
-          "title": "NATO pledges more Ukraine support after Russia strikes near Poland",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaFh5cl9tOEktSmtJY2ZmOTc2c0NNbnF3aHlXZ3k2VHgtOW5NNzBrWlFVQkNrRERfWDRENC1PalM0VEJ3czJXWnJTWW5uQ3NqSWZXTmlqQVJlUjNXTzQ4TkZYX2dOdFl3TjRXczcxWHdwSXYxRFVXbVFFb21jR1dkeFZiY1lReWo1QnF6SVJrN3FJTkxGWnFPZ2IyZk1sckxXQnFaT2R2VFo2bjFMX2ZaS1FONFhaZDdyZ3dxcU9hQ3TSAcYBQVVfeXFMUFNVbjdTNEtoajNOM0dsVE43RUJ2V09USWpDb1BwQThseTF3MUNVTDhoaUZLZnFIRU9jWHZSQnBFeVN5REMwM25ROV9UQkN3RXlaVFpZSlhRVlZFWVEwcDBpMV9ETjJPTEZTV2VJSk8wQm5xV09rLWxIeUNYM21LQjZuQXJic2JselJPYTJrOEJ0ejkxZ2RwZWNfRFhVSXRxZTJ4Y2VxWE41TVRXRDBFX3Y2RW5ZOHRlSExEa3ZMYnkybXlJemJ3?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260914T184814Z",
-          "pinned": false
-        },
-        {
           "title": "Iran war has cost the US more than $38B, budget office says",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSlVudVlJaVNXS1VsYmhrcERoX0RMS3hueWJDektSZXlfVW5YRUdUSm5HUS1WVElHUEc1SjgyOUhyQm5MSVpxOXFOVnFhUEVnZkdkenE0bDAtV29OS1lFNG5iZl9wTENjQUZkOURzeHV3LXRRejYySEZVM1pxcVI0WkcwTDIwTThK?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "seen": "20260915T185700Z",
+          "pinned": false
+        },
+        {
+          "title": "NATO pledges more Ukraine support after Russia strikes near Poland",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaFh5cl9tOEktSmtJY2ZmOTc2c0NNbnF3aHlXZ3k2VHgtOW5NNzBrWlFVQkNrRERfWDRENC1PalM0VEJ3czJXWnJTWW5uQ3NqSWZXTmlqQVJlUjNXTzQ4TkZYX2dOdFl3TjRXczcxWHdwSXYxRFVXbVFFb21jR1dkeFZiY1lReWo1QnF6SVJrN3FJTkxGWnFPZ2IyZk1sckxXQnFaT2R2VFo2bjFMX2ZaS1FONFhaZDdyZ3dxcU9hQ3TSAcYBQVVfeXFMUFNVbjdTNEtoajNOM0dsVE43RUJ2V09USWpDb1BwQThseTF3MUNVTDhoaUZLZnFIRU9jWHZSQnBFeVN5REMwM25ROV9UQkN3RXlaVFpZSlhRVlZFWVEwcDBpMV9ETjJPTEZTV2VJSk8wQm5xV09rLWxIeUNYM21LQjZuQXJic2JselJPYTJrOEJ0ejkxZ2RwZWNfRFhVSXRxZTJ4Y2VxWE41TVRXRDBFX3Y2RW5ZOHRlSExEa3ZMYnkybXlJemJ3?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260914T184814Z",
           "pinned": false
         },
         {
@@ -1391,11 +1403,11 @@
           "pinned": false
         },
         {
-          "title": "Brics summit 2026 Delhi: Iran war reshapes ties but exposes divides",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91b1g5Z3VhS21qLVlBbER6dGVudjhrdUpiNlBkcHVCQTVxQ1FOdnpPWlpkc1VWSEhZTXpXMERDRWQ2X0FpdnFwWEN0N0lrdy1YamZBeW1LOHVmUQ?oc=5",
-          "domain": "bbc.com",
+          "title": "Iran war has cost the US $38bn: How will it impact US economy, politics?",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPS1JGdDFLQ292eUpqYnp6ZF9jS2dpN0ZZTmMwSTFXbkUtd3ZmUXB4WGNqYlUwTTh2Vm92ZERLSXo1RlhPcG8xb2lfWGJCbERHcXAtLW56MVhOTEwxelpUdzBWbzFLc0RmWWFoYnFNOGxYd1dmUnRrZEFGSXdtZExhS21ZMXY0UFNGYm56S0RJZUFsSWFmVjgtcVNkR3htNm9EQWlNdTU3Z3RXcGhFYWZZ0gG0AUFVX3lxTFBKMTcyWHZVUHpaTWJZVmN1NkRLd3BoaWtidGVMRWhMMjV6bUtBMDVmOC1aTldIemNyT1hpelpLWWY0N0M3cC1wTWg4Y1VzWjc4WGNuQnRJMk9kaG5DREp0Mmw0bHk3cUh2cDJOUXV5SnpsLWlQdVFtRFRzTXY3d0lyMWVZQTRBYTJ1blFVb3pBdjJGWWhiRGQtd0V5dzYyazFRa185NUdfVlR1LXg4Q01mRGFweg?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260913T112342Z",
+          "seen": "20260916T145752Z",
           "pinned": false
         },
         {
@@ -1415,6 +1427,14 @@
           "pinned": false
         },
         {
+          "title": "US military claims Strait of Hormuz remains open amid ongoing blockade",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTXN1Q3Y5OGZKbHhud2JJU3I2TkowZG1TVlRZakwwVi0zaDV2c3p4TnZUWmh5WmNUaDQtZV9rMnhPMkxPWEM0dnhxcHBEQUctX2NySjFmTGhRU0ZDLTlTcVFtS3FqRnpqU3JsZ0VZalZ5M3Y3YTlySG93cXlDcDREVDV0ajJDc2FhQThpRWJIcVVaZmZrZk44YW8ycDBlRnZqVnh2TUFzM1QwbUxJbmFOb9IBtgFBVV95cUxPVVFGaWhMaEFVZjBXV2RFbUtyWE8xSGUzS0dPYTdhNVhGbi1CUTRwSDJhRmp3WGF4c3hRaTdFb1hJYkVIV0NDRk1JUG9UR1NraFJ4ZVdkWnNkRzRyaUdvcmxNNE1SWG9ybWRZR2RxVjkxUy1YaGw1aUZkYjJQTHNUUk9nR0JxXzBCajFOM2ZTT2xjeERlYnZQLXV4akN1Ml9JdWhZZU1iaGJZU3BLSHdXWXdiVVhxZw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260916T231848Z",
+          "pinned": false
+        },
+        {
           "title": "US lawmaker seeks impeachment of defense chief over Iran war",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRzcyLVlOYzBURGJBS2lHNmRWcmNJWWRZODRfQk12UGpNS3htMnRMSG5lREtwRFQzOGxqV3VJQkJ2Vld0djREY21ZRWQ4TUIyRUtxMVFSaDFUclQzaENOdjJkaXVwLWlPMkotZGljRjFjUF9XY2lMUnJtNVNxOXdkeFR2cXUzVnA5UjlWV2thYU01M3dPMnRGNmxyT25Vd0ZpOXpQb0dn?oc=5",
           "domain": "aa.com.tr",
@@ -1423,19 +1443,11 @@
           "pinned": false
         },
         {
-          "title": "Israeli attack on Gaza kills two Palestinians",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQT1kzWWJDOWNNV2h3cC1KNmJ0dXhKRGxzRmZsNC16MEhVdG5jeFo4LWRIcmM4RFF1aUQwdFBFRXNZRm0wMlJfaEtfQlR4ZkdVajV6SlhZS3JURlcxWUh2NHdfaDVzZnZPUWJJQjZObktqRHRRVlh6UHJYSUVYbHVRenR3TndqRGdtTTUzVy0xTdIBlAFBVV95cUxNYWppSy1SUHkxS05JRUlsZjRoWndHREFoYTBidXJCSVNPUHY0Q0hUUTVqVXFoOTA1eVdGVjRHUGJYRlVtQllOR3JRcGdqRm5VWGxrazBOSDdQX2lpOUJtVXl2bTh5MkJNRVk2OW1ES29GdkxTNzNYeVF3QW9jZFU1Sy00TDNRNjNidHRRVjlFXzdFT1Vj?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260913T130541Z",
-          "pinned": false
-        },
-        {
-          "title": "Iran war has cost the US $38bn: How will it impact US economy, politics?",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPS1JGdDFLQ292eUpqYnp6ZF9jS2dpN0ZZTmMwSTFXbkUtd3ZmUXB4WGNqYlUwTTh2Vm92ZERLSXo1RlhPcG8xb2lfWGJCbERHcXAtLW56MVhOTEwxelpUdzBWbzFLc0RmWWFoYnFNOGxYd1dmUnRrZEFGSXdtZExhS21ZMXY0UFNGYm56S0RJZUFsSWFmVjgtcVNkR3htNm9EQWlNdTU3Z3RXcGhFYWZZ0gG0AUFVX3lxTFBKMTcyWHZVUHpaTWJZVmN1NkRLd3BoaWtidGVMRWhMMjV6bUtBMDVmOC1aTldIemNyT1hpelpLWWY0N0M3cC1wTWg4Y1VzWjc4WGNuQnRJMk9kaG5DREp0Mmw0bHk3cUh2cDJOUXV5SnpsLWlQdVFtRFRzTXY3d0lyMWVZQTRBYTJ1blFVb3pBdjJGWWhiRGQtd0V5dzYyazFRa185NUdfVlR1LXg4Q01mRGFweg?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260916T145752Z",
+          "title": "If Europe attacks Russia, war will be 'completely different, very short': Lavrov",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPR3FsWUVOOF9KU3c3T00zLWNsZ1NKVnpidVVDbGNILWoxTFBYblVKalY0SEdvQzFuTFgwRlB3cXh0RjVtcTRqSXJ2b1dqbWVTVW5WR3hnYVFWd3d6cnRrQmlxMkVBWm9yMWRBV3hGZzB0VWxZd0hzWGNQdW9TQXVzejJmQXg1UU83aWk4empfVzU3M0FjemxtY0JaOVhfLWNaOXhRRUpGMXRNSnVYOFc1VmE1QU1mZlJzMko3Xw?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20260916T112101Z",
           "pinned": false
         },
         {
@@ -1444,6 +1456,14 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260915T223956Z",
+          "pinned": false
+        },
+        {
+          "title": "Duterte in person at ICC for first time over ‘war on drugs’ killings",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYlA5TG1aTjJ3QVVpd2dkX2lET3dZckNqZE1wX1p3ZHFJbWR4Qm9kcE1saFNvLWlLRUROYXE4RlhWLXgzWUtuMHFMc3ZpVUFPLXNGLXRrVjVFeUU2NVR2dWc1eFhLUnQybWd6SXdKRTlQODlQVXZCSWY4MkFHTlVqMGRNT1RDWnFKdG5FQ1BqZkR2TTlwdnRHTDEtVHdoanFEOU8yWFh1aG5WdTjSAbABQVVfeXFMT1pJODV5RlN5THlXNWtQQjRnV1kyem5neFRMcHBRbDNSZExSd2luM3NyMUhtU1F2OUxROEd0cF91NTdZV1lPVmxpVUwtbjJ5RWtQTk1DYUNvMlRWdEtLamtEYWo0MFkwVnBxTGJIU1BiZm9nY2lYakpKSEpVdnUyRDA5b3c1cVdMel9NbHJrWXVndWx3dk9WUHh5MF9naUNya3pMdEllN1lqZ2RTM0ZfeGM?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260916T130521Z",
           "pinned": false
         },
         {
@@ -1459,7 +1479,15 @@
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQX1ozOThyMm52Q1pxdDRHVy1fRDNWeXBGLV85V0pzXy16QlY0QmIteTJvRHZPWlQ5UC1WbWh2ZWRYZXlpck5uSGdqc01RZWZxWWlybU5FZkNyeFZONUJrVHFVa0xDUXBjWHVCN0Nvd1pkS09zckw1VXdFcVIxZzZCRjBnbk9QYWRhblZwcXY4SVBiMmdyMS0yZDlJdFRPNkJySW9z?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260916T185800Z",
+          "seen": "20260916T192500Z",
+          "pinned": false
+        },
+        {
+          "title": "DRC-Rwanda: Can Geneva talks break the cycle of war in eastern Congo?",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc3hocUpJRWcyNGFJaVcyTUZRNllPMHc5WGZBWVppeWpJLVhmWDdYdmotYnFNandhVWE0Z3g1VWN3OXgzdkp2ckhGVTNBMDgzRTJuWmZIWEd5c3BRb01PY2g0UEtENlkySXZwa0NRWGxRM09BMjRPTEVYM09vY1RYWFdlRUtpVkV2RWhQS3pJUDlMY1hYV1ZXd0doZUNCTk1IWXFiNXV4cVJodmh20gGyAUFVX3lxTE1vQjNQeE93UWlMcWlMY19VSE0zQnIteFNuVG1KTkMyWm9jVno5MHVlNEhTR3FqZjBYMFkwZktGdlFsU3VnOUwwM1FrSWxzSm5zODBtY3NIT2g4QnEwcGJOc0tUcG80QXNDSEd1b3NDWHhRNHg4Sm9rYUlXTGZ5dnJRQUVLeGtBUXRJUWtwek93WUpuQV85dGFjVlJwMF9ILUg4QThvWjBpNUtEVFdvamRObVE?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260916T014457Z",
           "pinned": false
         },
         {
@@ -1485,22 +1513,6 @@
           "sourceTier": "Independent reporting",
           "seen": "20260916T081306Z",
           "pinned": false
-        },
-        {
-          "title": "Fiscal pressure from Iran War clouds Gulf States’ US spending plans",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQzNBcXVZSFJ0blZSaUE4MmlWRWNOeGNWOVQzR0xrSlhSWF95bi04a3pLRmFzNE1QY2hWMmJvdEpLWkxlUjhBa0dQTy0wTlZfUThZcmFlVGZQc3c4R3ZYYlRmVXJWR1N3RkM4QW5wc3FyaFhGdjBNLW1CV2FhVlFSMG14T1J3SUJ3YnV3WjFrRHdOZlRwZVdjU2ZuNjN3V2UyNWtYcFNLYWpIRUVWTUNv0gG0AUFVX3lxTE9WOE4yYmVmTkRjdHU1T3gyTUJPdmw1Sl9NbWhFeGJSWTlvQ2hmRWdhd2lqcUUwSktGaEdqQjVQQzE3bGhjVnRmZ3Z6TGNueE5BX3BkckhJMnRndVQ1dDhUNWdwVnIxZHhqT01UaDJLUzItM1MyNVlDM3hjdnRSb29lQkxDclh6Vk5wbTRQZ1FnbFQtcmtGSlJ1OVZtQjlPMWRKbTFqTzNmZm5GZjNQaDZ2MC1xVg?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260914T144122Z",
-          "pinned": false
-        },
-        {
-          "title": "Poland, Ukraine accuse Russia of ‘escalation’ after strikes near border",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPXzktYVdWUndESk9zSmhqdlhJbkdVdzdHWGh5a3Njd0o5d21WQUdlUGtHQ1h6blBQeW40a2NQS2VDVjlIS1dvcUJBU3d5cDNYX3N1YnBKOEVzbVBVRmppUFBZM2lBMVcxbDNpZWJaYVl2RThhS2RNZlhFNlRHdlBLelZvcUxNbFZ5Qi1MUjFRTTY0RC1aN0Z4QkNzeUp6cDNSWmxkNFJ1VGJDQzJHZVHSAbMBQVVfeXFMUDFRYU95bmtPcGRialBJZTN1LVgxS0lWNUZkZWJHdkYxSkhLdlloc25hRjRhSFFnS2RSdFZKU0tmVE0xWjJDN00weGpqdklBTWZweGVneHhPMTdjRmhsQnBRa2pBU1Z0cGR0ZnY1ekVoak5iZjllTEpyTWlIcnQ5ZnhPVnEyQjdSZVYxc2RuZ2YtTnU1MTdCR3pyWV9IUXAtRzlScmtweE1YbFZGNzNLdVZYTGM?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260913T212135Z",
-          "pinned": false
         }
       ],
       "reports": [
@@ -1514,15 +1526,6 @@
           "reportedAt": "2026-09-16T00:57:22Z"
         },
         {
-          "id": "report-8d4427e67969",
-          "title": "Carney says Canada can wait for the right conditions in Trump trade war and emerge stronger",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeXVfNEw4WWVkc1ZhcE1ZQTZqRHloZG9nUlpiTVlyNHBnSDE2Y0pKeGRJci15RlNLVWNxNzdZM3dZb2pZN0k4TGJCVlZNYW40UHg3cVYtNU56RFNpVUVLUHFsMUFoeHZfajBHNVpVZkl6YkxvZ3FOTUJXa3ZVQmJqTEQwLVpoQUVYcUE2c2NHOENaSWRzYktwcjNxMHR5QQ?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-15T19:00:00Z"
-        },
-        {
           "id": "report-7ecb427fc20c",
           "title": "US House votes to end Iran war, 7 Republicans join in favour",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVDJWSk4xeEdIT0JHclk2RGI3dXZ0RE5rQVM3NVJJcnBaU0RpZWh1c2p4bkFyRHprSG9Tbl9YS2t2cDdNd29MQ0VhUXYyTzlOWXFiM2dfLXJPaHJqeXk0SDZrM0dfY3lNX2JPTW5jLWN0amxuWGFKXzJmT2NLbXZhNUJYWDZFVlFHa3BqOUc3X09ER3pYOWw2cWNVN21pM09NSEHSAacBQVVfeXFMTXVnOVhzSmFjQ2p2N1prWWkwQVRodU5WMFRIbjFIcG9tZ05JNHdYa2tTLVc2bFE0OVozM3h5b3U4OExxTko0cVhGbkRnWjZ6enJIdlF5dDcwZEVOTU1qdjhubzJiMGxKNVNnalEtN0gtRzZaZUppSWVfM2VkX29ySGRZYUZEYVFBY2lEM25EeDhZR3JFMGs4NjEycFR5M3ZrODdkZG1Gc2M?oc=5",
@@ -1530,6 +1533,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-16T05:50:01Z"
+        },
+        {
+          "id": "report-8d4427e67969",
+          "title": "Carney says Canada can wait for the right conditions in Trump trade war and emerge stronger",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeXVfNEw4WWVkc1ZhcE1ZQTZqRHloZG9nUlpiTVlyNHBnSDE2Y0pKeGRJci15RlNLVWNxNzdZM3dZb2pZN0k4TGJCVlZNYW40UHg3cVYtNU56RFNpVUVLUHFsMUFoeHZfajBHNVpVZkl6YkxvZ3FOTUJXa3ZVQmJqTEQwLVpoQUVYcUE2c2NHOENaSWRzYktwcjNxMHR5QQ?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-15T19:00:00Z"
         },
         {
           "id": "report-65e833f3713f",
@@ -1568,15 +1580,6 @@
           "reportedAt": "2026-09-15T16:54:03Z"
         },
         {
-          "id": "report-52239ed98b65",
-          "title": "NATO pledges more Ukraine support after Russia strikes near Poland",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaFh5cl9tOEktSmtJY2ZmOTc2c0NNbnF3aHlXZ3k2VHgtOW5NNzBrWlFVQkNrRERfWDRENC1PalM0VEJ3czJXWnJTWW5uQ3NqSWZXTmlqQVJlUjNXTzQ4TkZYX2dOdFl3TjRXczcxWHdwSXYxRFVXbVFFb21jR1dkeFZiY1lReWo1QnF6SVJrN3FJTkxGWnFPZ2IyZk1sckxXQnFaT2R2VFo2bjFMX2ZaS1FONFhaZDdyZ3dxcU9hQ3TSAcYBQVVfeXFMUFNVbjdTNEtoajNOM0dsVE43RUJ2V09USWpDb1BwQThseTF3MUNVTDhoaUZLZnFIRU9jWHZSQnBFeVN5REMwM25ROV9UQkN3RXlaVFpZSlhRVlZFWVEwcDBpMV9ETjJPTEZTV2VJSk8wQm5xV09rLWxIeUNYM21LQjZuQXJic2JselJPYTJrOEJ0ejkxZ2RwZWNfRFhVSXRxZTJ4Y2VxWE41TVRXRDBFX3Y2RW5ZOHRlSExEa3ZMYnkybXlJemJ3?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-14T18:48:14Z"
-        },
-        {
           "id": "report-20aabc0cbbbd",
           "title": "Iran war has cost the US more than $38B, budget office says",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSlVudVlJaVNXS1VsYmhrcERoX0RMS3hueWJDektSZXlfVW5YRUdUSm5HUS1WVElHUEc1SjgyOUhyQm5MSVpxOXFOVnFhUEVnZkdkenE0bDAtV29OS1lFNG5iZl9wTENjQUZkOURzeHV3LXRRejYySEZVM1pxcVI0WkcwTDIwTThK?oc=5",
@@ -1584,6 +1587,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-15T18:57:00Z"
+        },
+        {
+          "id": "report-52239ed98b65",
+          "title": "NATO pledges more Ukraine support after Russia strikes near Poland",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaFh5cl9tOEktSmtJY2ZmOTc2c0NNbnF3aHlXZ3k2VHgtOW5NNzBrWlFVQkNrRERfWDRENC1PalM0VEJ3czJXWnJTWW5uQ3NqSWZXTmlqQVJlUjNXTzQ4TkZYX2dOdFl3TjRXczcxWHdwSXYxRFVXbVFFb21jR1dkeFZiY1lReWo1QnF6SVJrN3FJTkxGWnFPZ2IyZk1sckxXQnFaT2R2VFo2bjFMX2ZaS1FONFhaZDdyZ3dxcU9hQ3TSAcYBQVVfeXFMUFNVbjdTNEtoajNOM0dsVE43RUJ2V09USWpDb1BwQThseTF3MUNVTDhoaUZLZnFIRU9jWHZSQnBFeVN5REMwM25ROV9UQkN3RXlaVFpZSlhRVlZFWVEwcDBpMV9ETjJPTEZTV2VJSk8wQm5xV09rLWxIeUNYM21LQjZuQXJic2JselJPYTJrOEJ0ejkxZ2RwZWNfRFhVSXRxZTJ4Y2VxWE41TVRXRDBFX3Y2RW5ZOHRlSExEa3ZMYnkybXlJemJ3?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-14T18:48:14Z"
         },
         {
           "id": "report-9144de8c478d",
@@ -1595,13 +1607,13 @@
           "reportedAt": "2026-09-15T20:34:12Z"
         },
         {
-          "id": "report-d8179ab4dbfb",
-          "title": "Brics summit 2026 Delhi: Iran war reshapes ties but exposes divides",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91b1g5Z3VhS21qLVlBbER6dGVudjhrdUpiNlBkcHVCQTVxQ1FOdnpPWlpkc1VWSEhZTXpXMERDRWQ2X0FpdnFwWEN0N0lrdy1YamZBeW1LOHVmUQ?oc=5",
-          "domain": "bbc.com",
+          "id": "report-8f7ad23bdea7",
+          "title": "Iran war has cost the US $38bn: How will it impact US economy, politics?",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPS1JGdDFLQ292eUpqYnp6ZF9jS2dpN0ZZTmMwSTFXbkUtd3ZmUXB4WGNqYlUwTTh2Vm92ZERLSXo1RlhPcG8xb2lfWGJCbERHcXAtLW56MVhOTEwxelpUdzBWbzFLc0RmWWFoYnFNOGxYd1dmUnRrZEFGSXdtZExhS21ZMXY0UFNGYm56S0RJZUFsSWFmVjgtcVNkR3htNm9EQWlNdTU3Z3RXcGhFYWZZ0gG0AUFVX3lxTFBKMTcyWHZVUHpaTWJZVmN1NkRLd3BoaWtidGVMRWhMMjV6bUtBMDVmOC1aTldIemNyT1hpelpLWWY0N0M3cC1wTWg4Y1VzWjc4WGNuQnRJMk9kaG5DREp0Mmw0bHk3cUh2cDJOUXV5SnpsLWlQdVFtRFRzTXY3d0lyMWVZQTRBYTJ1blFVb3pBdjJGWWhiRGQtd0V5dzYyazFRa185NUdfVlR1LXg4Q01mRGFweg?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-13T11:23:42Z"
+          "reportedAt": "2026-09-16T14:57:52Z"
         },
         {
           "id": "report-b082a6aeec21",
@@ -1622,6 +1634,15 @@
           "reportedAt": "2026-09-16T11:42:50Z"
         },
         {
+          "id": "report-350c39fad72d",
+          "title": "US military claims Strait of Hormuz remains open amid ongoing blockade",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTXN1Q3Y5OGZKbHhud2JJU3I2TkowZG1TVlRZakwwVi0zaDV2c3p4TnZUWmh5WmNUaDQtZV9rMnhPMkxPWEM0dnhxcHBEQUctX2NySjFmTGhRU0ZDLTlTcVFtS3FqRnpqU3JsZ0VZalZ5M3Y3YTlySG93cXlDcDREVDV0ajJDc2FhQThpRWJIcVVaZmZrZk44YW8ycDBlRnZqVnh2TUFzM1QwbUxJbmFOb9IBtgFBVV95cUxPVVFGaWhMaEFVZjBXV2RFbUtyWE8xSGUzS0dPYTdhNVhGbi1CUTRwSDJhRmp3WGF4c3hRaTdFb1hJYkVIV0NDRk1JUG9UR1NraFJ4ZVdkWnNkRzRyaUdvcmxNNE1SWG9ybWRZR2RxVjkxUy1YaGw1aUZkYjJQTHNUUk9nR0JxXzBCajFOM2ZTT2xjeERlYnZQLXV4akN1Ml9JdWhZZU1iaGJZU3BLSHdXWXdiVVhxZw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-16T23:18:48Z"
+        },
+        {
           "id": "report-e6afa4c4847a",
           "title": "US lawmaker seeks impeachment of defense chief over Iran war",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRzcyLVlOYzBURGJBS2lHNmRWcmNJWWRZODRfQk12UGpNS3htMnRMSG5lREtwRFQzOGxqV3VJQkJ2Vld0djREY21ZRWQ4TUIyRUtxMVFSaDFUclQzaENOdjJkaXVwLWlPMkotZGljRjFjUF9XY2lMUnJtNVNxOXdkeFR2cXUzVnA5UjlWV2thYU01M3dPMnRGNmxyT25Vd0ZpOXpQb0dn?oc=5",
@@ -1631,22 +1652,13 @@
           "reportedAt": "2026-09-15T19:32:24Z"
         },
         {
-          "id": "report-0746e297a9ed",
-          "title": "Israeli attack on Gaza kills two Palestinians",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQT1kzWWJDOWNNV2h3cC1KNmJ0dXhKRGxzRmZsNC16MEhVdG5jeFo4LWRIcmM4RFF1aUQwdFBFRXNZRm0wMlJfaEtfQlR4ZkdVajV6SlhZS3JURlcxWUh2NHdfaDVzZnZPUWJJQjZObktqRHRRVlh6UHJYSUVYbHVRenR3TndqRGdtTTUzVy0xTdIBlAFBVV95cUxNYWppSy1SUHkxS05JRUlsZjRoWndHREFoYTBidXJCSVNPUHY0Q0hUUTVqVXFoOTA1eVdGVjRHUGJYRlVtQllOR3JRcGdqRm5VWGxrazBOSDdQX2lpOUJtVXl2bTh5MkJNRVk2OW1ES29GdkxTNzNYeVF3QW9jZFU1Sy00TDNRNjNidHRRVjlFXzdFT1Vj?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-13T13:05:41Z"
-        },
-        {
-          "id": "report-8f7ad23bdea7",
-          "title": "Iran war has cost the US $38bn: How will it impact US economy, politics?",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPS1JGdDFLQ292eUpqYnp6ZF9jS2dpN0ZZTmMwSTFXbkUtd3ZmUXB4WGNqYlUwTTh2Vm92ZERLSXo1RlhPcG8xb2lfWGJCbERHcXAtLW56MVhOTEwxelpUdzBWbzFLc0RmWWFoYnFNOGxYd1dmUnRrZEFGSXdtZExhS21ZMXY0UFNGYm56S0RJZUFsSWFmVjgtcVNkR3htNm9EQWlNdTU3Z3RXcGhFYWZZ0gG0AUFVX3lxTFBKMTcyWHZVUHpaTWJZVmN1NkRLd3BoaWtidGVMRWhMMjV6bUtBMDVmOC1aTldIemNyT1hpelpLWWY0N0M3cC1wTWg4Y1VzWjc4WGNuQnRJMk9kaG5DREp0Mmw0bHk3cUh2cDJOUXV5SnpsLWlQdVFtRFRzTXY3d0lyMWVZQTRBYTJ1blFVb3pBdjJGWWhiRGQtd0V5dzYyazFRa185NUdfVlR1LXg4Q01mRGFweg?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-16T14:57:52Z"
+          "id": "report-2e2b9dec30f1",
+          "title": "If Europe attacks Russia, war will be 'completely different, very short': Lavrov",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPR3FsWUVOOF9KU3c3T00zLWNsZ1NKVnpidVVDbGNILWoxTFBYblVKalY0SEdvQzFuTFgwRlB3cXh0RjVtcTRqSXJ2b1dqbWVTVW5WR3hnYVFWd3d6cnRrQmlxMkVBWm9yMWRBV3hGZzB0VWxZd0hzWGNQdW9TQXVzejJmQXg1UU83aWk4empfVzU3M0FjemxtY0JaOVhfLWNaOXhRRUpGMXRNSnVYOFc1VmE1QU1mZlJzMko3Xw?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-09-16T11:21:01Z"
         },
         {
           "id": "report-1c947b329f34",
@@ -1656,6 +1668,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-15T22:39:56Z"
+        },
+        {
+          "id": "report-b367f227c501",
+          "title": "Duterte in person at ICC for first time over ‘war on drugs’ killings",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYlA5TG1aTjJ3QVVpd2dkX2lET3dZckNqZE1wX1p3ZHFJbWR4Qm9kcE1saFNvLWlLRUROYXE4RlhWLXgzWUtuMHFMc3ZpVUFPLXNGLXRrVjVFeUU2NVR2dWc1eFhLUnQybWd6SXdKRTlQODlQVXZCSWY4MkFHTlVqMGRNT1RDWnFKdG5FQ1BqZkR2TTlwdnRHTDEtVHdoanFEOU8yWFh1aG5WdTjSAbABQVVfeXFMT1pJODV5RlN5THlXNWtQQjRnV1kyem5neFRMcHBRbDNSZExSd2luM3NyMUhtU1F2OUxROEd0cF91NTdZV1lPVmxpVUwtbjJ5RWtQTk1DYUNvMlRWdEtLamtEYWo0MFkwVnBxTGJIU1BiZm9nY2lYakpKSEpVdnUyRDA5b3c1cVdMel9NbHJrWXVndWx3dk9WUHh5MF9naUNya3pMdEllN1lqZ2RTM0ZfeGM?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-16T13:05:21Z"
         },
         {
           "id": "report-f14d410b5b37",
@@ -1673,7 +1694,16 @@
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-16T18:58:00Z"
+          "reportedAt": "2026-09-16T19:25:00Z"
+        },
+        {
+          "id": "report-486276826b76",
+          "title": "DRC-Rwanda: Can Geneva talks break the cycle of war in eastern Congo?",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc3hocUpJRWcyNGFJaVcyTUZRNllPMHc5WGZBWVppeWpJLVhmWDdYdmotYnFNandhVWE0Z3g1VWN3OXgzdkp2ckhGVTNBMDgzRTJuWmZIWEd5c3BRb01PY2g0UEtENlkySXZwa0NRWGxRM09BMjRPTEVYM09vY1RYWFdlRUtpVkV2RWhQS3pJUDlMY1hYV1ZXd0doZUNCTk1IWXFiNXV4cVJodmh20gGyAUFVX3lxTE1vQjNQeE93UWlMcWlMY19VSE0zQnIteFNuVG1KTkMyWm9jVno5MHVlNEhTR3FqZjBYMFkwZktGdlFsU3VnOUwwM1FrSWxzSm5zODBtY3NIT2g4QnEwcGJOc0tUcG80QXNDSEd1b3NDWHhRNHg4Sm9rYUlXTGZ5dnJRQUVLeGtBUXRJUWtwek93WUpuQV85dGFjVlJwMF9ILUg4QThvWjBpNUtEVFdvamRObVE?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-16T01:44:57Z"
         },
         {
           "id": "report-cbd65ec1849c",
@@ -1701,24 +1731,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-16T08:13:06Z"
-        },
-        {
-          "id": "report-980f9353f348",
-          "title": "Fiscal pressure from Iran War clouds Gulf States’ US spending plans",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQzNBcXVZSFJ0blZSaUE4MmlWRWNOeGNWOVQzR0xrSlhSWF95bi04a3pLRmFzNE1QY2hWMmJvdEpLWkxlUjhBa0dQTy0wTlZfUThZcmFlVGZQc3c4R3ZYYlRmVXJWR1N3RkM4QW5wc3FyaFhGdjBNLW1CV2FhVlFSMG14T1J3SUJ3YnV3WjFrRHdOZlRwZVdjU2ZuNjN3V2UyNWtYcFNLYWpIRUVWTUNv0gG0AUFVX3lxTE9WOE4yYmVmTkRjdHU1T3gyTUJPdmw1Sl9NbWhFeGJSWTlvQ2hmRWdhd2lqcUUwSktGaEdqQjVQQzE3bGhjVnRmZ3Z6TGNueE5BX3BkckhJMnRndVQ1dDhUNWdwVnIxZHhqT01UaDJLUzItM1MyNVlDM3hjdnRSb29lQkxDclh6Vk5wbTRQZ1FnbFQtcmtGSlJ1OVZtQjlPMWRKbTFqTzNmZm5GZjNQaDZ2MC1xVg?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-14T14:41:22Z"
-        },
-        {
-          "id": "report-9a4c4e90bdbc",
-          "title": "Poland, Ukraine accuse Russia of ‘escalation’ after strikes near border",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPXzktYVdWUndESk9zSmhqdlhJbkdVdzdHWGh5a3Njd0o5d21WQUdlUGtHQ1h6blBQeW40a2NQS2VDVjlIS1dvcUJBU3d5cDNYX3N1YnBKOEVzbVBVRmppUFBZM2lBMVcxbDNpZWJaYVl2RThhS2RNZlhFNlRHdlBLelZvcUxNbFZ5Qi1MUjFRTTY0RC1aN0Z4QkNzeUp6cDNSWmxkNFJ1VGJDQzJHZVHSAbMBQVVfeXFMUDFRYU95bmtPcGRialBJZTN1LVgxS0lWNUZkZWJHdkYxSkhLdlloc25hRjRhSFFnS2RSdFZKU0tmVE0xWjJDN00weGpqdklBTWZweGVneHhPMTdjRmhsQnBRa2pBU1Z0cGR0ZnY1ekVoak5iZjllTEpyTWlIcnQ5ZnhPVnEyQjdSZVYxc2RuZ2YtTnU1MTdCR3pyWV9IUXAtRzlScmtweE1YbFZGNzNLdVZYTGM?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-13T21:21:35Z"
         },
         {
           "id": "report-90dd39219ce8",
