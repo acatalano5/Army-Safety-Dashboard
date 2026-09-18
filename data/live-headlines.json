@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-17T21:21:38.764Z",
+  "generatedAt": "2026-09-18T04:43:34.993Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-09-17T21:21:38.764Z",
+      "generatedAt": "2026-09-18T04:43:34.993Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -1311,7 +1311,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-09-17T21:21:38.764Z",
+      "generatedAt": "2026-09-18T04:43:34.993Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -1320,6 +1320,14 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260916T005722Z",
+          "pinned": false
+        },
+        {
+          "title": "Iran war has cost the US $38bn: How will it impact US economy, politics?",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPS1JGdDFLQ292eUpqYnp6ZF9jS2dpN0ZZTmMwSTFXbkUtd3ZmUXB4WGNqYlUwTTh2Vm92ZERLSXo1RlhPcG8xb2lfWGJCbERHcXAtLW56MVhOTEwxelpUdzBWbzFLc0RmWWFoYnFNOGxYd1dmUnRrZEFGSXdtZExhS21ZMXY0UFNGYm56S0RJZUFsSWFmVjgtcVNkR3htNm9EQWlNdTU3Z3RXcGhFYWZZ0gG0AUFVX3lxTFBKMTcyWHZVUHpaTWJZVmN1NkRLd3BoaWtidGVMRWhMMjV6bUtBMDVmOC1aTldIemNyT1hpelpLWWY0N0M3cC1wTWg4Y1VzWjc4WGNuQnRJMk9kaG5DREp0Mmw0bHk3cUh2cDJOUXV5SnpsLWlQdVFtRFRzTXY3d0lyMWVZQTRBYTJ1blFVb3pBdjJGWWhiRGQtd0V5dzYyazFRa185NUdfVlR1LXg4Q01mRGFweg?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260916T145752Z",
           "pinned": false
         },
         {
@@ -1391,7 +1399,7 @@
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQX1ozOThyMm52Q1pxdDRHVy1fRDNWeXBGLV85V0pzXy16QlY0QmIteTJvRHZPWlQ5UC1WbWh2ZWRYZXlpck5uSGdqc01RZWZxWWlybU5FZkNyeFZONUJrVHFVa0xDUXBjWHVCN0Nvd1pkS09zckw1VXdFcVIxZzZCRjBnbk9QYWRhblZwcXY4SVBiMmdyMS0yZDlJdFRPNkJySW9z?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260916T193748Z",
+          "seen": "20260916T192500Z",
           "pinned": false
         },
         {
@@ -1400,14 +1408,6 @@
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "seen": "20260915T185700Z",
-          "pinned": false
-        },
-        {
-          "title": "NATO pledges more Ukraine support after Russia strikes near Poland",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaFh5cl9tOEktSmtJY2ZmOTc2c0NNbnF3aHlXZ3k2VHgtOW5NNzBrWlFVQkNrRERfWDRENC1PalM0VEJ3czJXWnJTWW5uQ3NqSWZXTmlqQVJlUjNXTzQ4TkZYX2dOdFl3TjRXczcxWHdwSXYxRFVXbVFFb21jR1dkeFZiY1lReWo1QnF6SVJrN3FJTkxGWnFPZ2IyZk1sckxXQnFaT2R2VFo2bjFMX2ZaS1FONFhaZDdyZ3dxcU9hQ3TSAcYBQVVfeXFMUFNVbjdTNEtoajNOM0dsVE43RUJ2V09USWpDb1BwQThseTF3MUNVTDhoaUZLZnFIRU9jWHZSQnBFeVN5REMwM25ROV9UQkN3RXlaVFpZSlhRVlZFWVEwcDBpMV9ETjJPTEZTV2VJSk8wQm5xV09rLWxIeUNYM21LQjZuQXJic2JselJPYTJrOEJ0ejkxZ2RwZWNfRFhVSXRxZTJ4Y2VxWE41TVRXRDBFX3Y2RW5ZOHRlSExEa3ZMYnkybXlJemJ3?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260914T184814Z",
           "pinned": false
         },
         {
@@ -1423,7 +1423,7 @@
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMGZOZHhyMEIxbXpzb2RIOThTVFpNS05kT0hjX3kyUDBpc001WTRRbzQzNm1HaG1RemI1MmNHTmNBWXo4bFRiRVpVV0YwS0gtbFMxWmpSTjE3aVlqbXNjemNfZnM2WGRQbVZleW54SHBKRUhjbUlYdF9lQjRYejhuX2FwVUZnT1JnR0pCMUw4eHVlTFdtXzgwNDNsX2Z4di1qVXfSAacBQVVfeXFMTndvUnZseVhjR05DdW5YTWd4N3RXVnV5UHpSbi1qQnR6RGhSSFY1TnNWck1scVlaTHpsRzBmRXBVdDg4dk96b0pMYU91bzRxUjdLMWZoeDdvOHdROHp5ZEtxSlRpUktUeUFYSFZtMlVzbG1iYkdoZ1Y0N1hvdXJIdE5ZSWJoUkJPN0xsanBTVkhLbnkxZGVBTzUwRDBNUEszZGdnVmt1amc?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260915T223956Z",
+          "seen": "20260915T195919Z",
           "pinned": false
         },
         {
@@ -1432,14 +1432,6 @@
           "domain": "aa.com.tr",
           "sourceTier": "State-affiliated reporting",
           "seen": "20260916T112101Z",
-          "pinned": false
-        },
-        {
-          "title": "Carney eyes 'unique alliance' with EU as trade war with US intensifies",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NaWFGNG1Ockpfdm51c0ttSFYtSEdoZEx0OTVyMHVSa2h5WWhHa2d5UUhhQVNhQ1d2aVpzTWc0MWJGeTBsMUc4RFUyTnlKT3FWRFJtMGlSS1pQQQ?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260914T040226Z",
           "pinned": false
         },
         {
@@ -1459,27 +1451,11 @@
           "pinned": false
         },
         {
-          "title": "Iran war has cost the US $38bn: How will it impact US economy, politics?",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPS1JGdDFLQ292eUpqYnp6ZF9jS2dpN0ZZTmMwSTFXbkUtd3ZmUXB4WGNqYlUwTTh2Vm92ZERLSXo1RlhPcG8xb2lfWGJCbERHcXAtLW56MVhOTEwxelpUdzBWbzFLc0RmWWFoYnFNOGxYd1dmUnRrZEFGSXdtZExhS21ZMXY0UFNGYm56S0RJZUFsSWFmVjgtcVNkR3htNm9EQWlNdTU3Z3RXcGhFYWZZ0gG0AUFVX3lxTFBKMTcyWHZVUHpaTWJZVmN1NkRLd3BoaWtidGVMRWhMMjV6bUtBMDVmOC1aTldIemNyT1hpelpLWWY0N0M3cC1wTWg4Y1VzWjc4WGNuQnRJMk9kaG5DREp0Mmw0bHk3cUh2cDJOUXV5SnpsLWlQdVFtRFRzTXY3d0lyMWVZQTRBYTJ1blFVb3pBdjJGWWhiRGQtd0V5dzYyazFRa185NUdfVlR1LXg4Q01mRGFweg?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260916T145752Z",
-          "pinned": false
-        },
-        {
           "title": "At least five killed in Russian drone strike near Ukraine front line",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNc1c3LUM3SUlxbVRsOEswSTVlRzNkaGhxdDFYaXdIRjRaRHZlNmdqdzZnQmEyOWZUZzBSNE5Nb2dCWTNtdDMwNFdwZ2JKbHJkY0hmUHZWSU8zUjlfR0FkcGtEdnRUVFZZVndBSDNUNEhCYlVYWW9oNmQ3QmNrczZwUFZ0M3p3VW9fUWtEUzNPU2xudDhTTld0Y1JHUEhqMHFRNlZhcnJnVVlBRGFySVHSAbMBQVVfeXFMTlUwd1h5X0tzUzRiS2I4UzZpRE1CRXlnclJwNWNFWTM2a0JkbDBTeWIxbFVheEc0X2ZDRDFncjQxODR5U2VSd3dseWNIdlNHeXMteWJfdHJXLWR6Y2hvWFZPUVRIUXI2dlBQOUhaUm9kYk5UUGxuQ1BzUnZ5MWlvYXMxbHBOQThCMGxEV0ZpX1V5VjFISDNscTFOSkthRmZOaFpwY3JuM1J6YldOdUZnbjNSaVE?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260916T094003Z",
-          "pinned": false
-        },
-        {
-          "title": "On the Ground in Haiti: The Growing War Zone Facing U.S. Deportees",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd0E1aVo1Y0xxV0ZUenQ3WktIdHRQR2xlUy05RU9Gbm5MMk9nc1c0RTJuYXMxd3FUM0E4MzR4YTVIeWp1QjY1OVVXc21YQXJrOGp3QVhURWR2eU5lRXFzWnpNVnRsb1FIRjJJZFlNYm9CTUhaNC1DdVpONllXQ1RVZ2lyN3UxcVZORzBidXlCSDdxNlRLVm1yWA?oc=5",
-          "domain": "cfr.org",
-          "sourceTier": "Structured / analytic",
-          "seen": "20260914T161359Z",
           "pinned": false
         },
         {
@@ -1491,19 +1467,43 @@
           "pinned": false
         },
         {
-          "title": "Carney visits Europe: Can Canada seek refuge with the EU amid US trade war?",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRC02SHFoalp1YWZWeExESS1GNS1VeFM5aUZQVjUybU5RdEVwOHk4RFZnOXEzMGZnb2k2YU1mbU9qbHU1ZGdzcmNLY0dfS2N5VE1CaEVTcXZwcVluWFEyTEZmRnJmeEtMWG1YdVI5NFAxdnp2V2tTZkZfdURxbEVweEhyQkhaRzBxVUF2QXZwRllNenFxZ3dILWlxb3R3VXl5THBJSFl1d2R2cmNFVUxvMnFsOHDSAboBQVVfeXFMTll5VWJPRjREMWc0WFZPU0NjTXF0c2tRQlpXVWVEc2JfUXM0X2ZMOHFlX3c1ZkxfRklGaTJkMEdXd3d4b3N4WE0tZkxJS001dnQ1NS05MWpTdWhEUTZWVXNIaGVhbXRickhrR3BVdVVpTlB0ODBCbU5kdWFKMGYwTmJSWVp0bEU2ZUx5N2dNb3BIVExvNnBrellhZEtvR3g5X3plRGJSRENJejU4YWJra3FPcHBzdjhTVXNB?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260916T073001Z",
-          "pinned": false
-        },
-        {
           "title": "Former Kosovo President Hashim Thaci faces verdict for alleged war crimes",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN0hjbWVzMzhuYkg4WWpwOERGNVBVbjNWemdyWUVfdVRicWxuTlpTdnhQWEF6ZW5Kc2dyNk5OZEhqOVYwU1BXWnFwNHFTYU5Kd2ZiVk5BdHlKbVpnWTJlWnU4aGVRYUROMlVXZjROMUtkeUhyYXQwRnAybnhpcHhOM21VSktZWjcyVDBqRHBFQnBaMkZXSXFYWnZWbUJyYUhieThUZlBOV0xRT2dGdF9iSHhjbjTSAboBQVVfeXFMTjAxcHhmOXdxQTFuYURVV1pfNDkwdHYwUC1Ea0xfNGVCRl9ITXQ2eC1XaEc4bjVkWEpNTmo4aUp2bFlEd2FSV005UGYtMGhkOFZYbWJpejAxOGxVYTIyc1BJM0RVX2pZM3lrdHFycDltU1VfZWlPRUNNM2RVeTVwclpMczNVMDNQYU5Benh1R01sVmV3RkhQbUpEemJ0Q19rb19WYmZCaTA1V1B2T2kxTm05MHU2eHF2cUZB?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260916T081306Z",
+          "pinned": false
+        },
+        {
+          "title": "Reports: US, Houthis make secret deal over Yemen war",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbnFSenlrZ3owajdFYmNMdXZRUGJZTVNuWTYyYTNCVVR1VU1KNnhDSDFWd2h2eHBZdjhkOXBJeU5MMlRUQ2hnQWtta1NRM2ZtWld6TXJYb0tlWlM1b0tvenpHZWFNbGdndmRVYWtlRzVnbGw2cDVkdEl3RGl6RDNJbERmdU96Z2I0enZtbXZTelljczV6Y0YwWUhrVEF3YXpXWW1v0gGoAUFVX3lxTFB4aFMzci16eXVEUkIxemF3c0U2LU43UFU5dThsTU5aYllMUkYwLVpsSVhNczVYSmVlcU9QSmhtSHR3bjB3LWh4NXVWd1pEX2pjWFhnSHBoelY4NVk4SXlSdDNYV0ZUakxPQWktVVpWbHBxSDVOQXRHcDA0QTNkdWllQjdKMXpncldjZmt0VVY5N2ROTWZ1RFM2dktJSGRzY2Fla1BKMXJmRQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260917T020249Z",
+          "pinned": false
+        },
+        {
+          "title": "How escalating Saudi oil crisis could drive up prices everywhere",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBWXN1ckpzblpZRTZleFBXbHlsYTNlQXhncW1HZ1BuOTBvb3U1RHl4UXhHM1VaWEtGd1RwMmo4N09zVjAxMWtlaEtwT1kzdXpHdk9rWnpjYkxjcVE?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260916T160650Z",
+          "pinned": false
+        },
+        {
+          "title": "The U.S.-Canada Trade War Could Mark a Breaking Point",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVnY3SU1FT2RPNTR5UXhkVmhrSlVCdUp6UlVmY0pKVmpaWmpPWGoydVR6ZnozVnpJaXJPZ1BlLUlxR3dNM1Mwa3laUUtpYVZOWmpubDF2N2RDQ2JyeE5WcU5uY0RhOHFYTTlCMlpkTzFPUlJoUGdGRUdSWHlaWi1zUHZrVU0wLW9Q?oc=5",
+          "domain": "cfr.org",
+          "sourceTier": "Structured / analytic",
+          "seen": "20260916T202342Z",
+          "pinned": false
+        },
+        {
+          "title": "Photos show widespread damage at US sites from Iranian attacks",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zVk5hSlZtZm14dEo2V2M4bEcyZjRDZzlYVWYtSXJjMFdUVklaZTZJekFXYnFVSFhEam1JLUEyQXJ5R0RudDFXb3d3Ti1DWF9FWXI0dkMwc0ZRMEE?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260916T183616Z",
           "pinned": false
         }
       ],
@@ -1516,6 +1516,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-16T00:57:22Z"
+        },
+        {
+          "id": "report-8f7ad23bdea7",
+          "title": "Iran war has cost the US $38bn: How will it impact US economy, politics?",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPS1JGdDFLQ292eUpqYnp6ZF9jS2dpN0ZZTmMwSTFXbkUtd3ZmUXB4WGNqYlUwTTh2Vm92ZERLSXo1RlhPcG8xb2lfWGJCbERHcXAtLW56MVhOTEwxelpUdzBWbzFLc0RmWWFoYnFNOGxYd1dmUnRrZEFGSXdtZExhS21ZMXY0UFNGYm56S0RJZUFsSWFmVjgtcVNkR3htNm9EQWlNdTU3Z3RXcGhFYWZZ0gG0AUFVX3lxTFBKMTcyWHZVUHpaTWJZVmN1NkRLd3BoaWtidGVMRWhMMjV6bUtBMDVmOC1aTldIemNyT1hpelpLWWY0N0M3cC1wTWg4Y1VzWjc4WGNuQnRJMk9kaG5DREp0Mmw0bHk3cUh2cDJOUXV5SnpsLWlQdVFtRFRzTXY3d0lyMWVZQTRBYTJ1blFVb3pBdjJGWWhiRGQtd0V5dzYyazFRa185NUdfVlR1LXg4Q01mRGFweg?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-16T14:57:52Z"
         },
         {
           "id": "report-8d4427e67969",
@@ -1596,7 +1605,7 @@
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-16T19:37:48Z"
+          "reportedAt": "2026-09-16T19:25:00Z"
         },
         {
           "id": "report-20aabc0cbbbd",
@@ -1606,15 +1615,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-15T18:57:00Z"
-        },
-        {
-          "id": "report-52239ed98b65",
-          "title": "NATO pledges more Ukraine support after Russia strikes near Poland",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaFh5cl9tOEktSmtJY2ZmOTc2c0NNbnF3aHlXZ3k2VHgtOW5NNzBrWlFVQkNrRERfWDRENC1PalM0VEJ3czJXWnJTWW5uQ3NqSWZXTmlqQVJlUjNXTzQ4TkZYX2dOdFl3TjRXczcxWHdwSXYxRFVXbVFFb21jR1dkeFZiY1lReWo1QnF6SVJrN3FJTkxGWnFPZ2IyZk1sckxXQnFaT2R2VFo2bjFMX2ZaS1FONFhaZDdyZ3dxcU9hQ3TSAcYBQVVfeXFMUFNVbjdTNEtoajNOM0dsVE43RUJ2V09USWpDb1BwQThseTF3MUNVTDhoaUZLZnFIRU9jWHZSQnBFeVN5REMwM25ROV9UQkN3RXlaVFpZSlhRVlZFWVEwcDBpMV9ETjJPTEZTV2VJSk8wQm5xV09rLWxIeUNYM21LQjZuQXJic2JselJPYTJrOEJ0ejkxZ2RwZWNfRFhVSXRxZTJ4Y2VxWE41TVRXRDBFX3Y2RW5ZOHRlSExEa3ZMYnkybXlJemJ3?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-14T18:48:14Z"
         },
         {
           "id": "report-9144de8c478d",
@@ -1632,7 +1632,7 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-15T22:39:56Z"
+          "reportedAt": "2026-09-15T19:59:19Z"
         },
         {
           "id": "report-2e2b9dec30f1",
@@ -1642,15 +1642,6 @@
           "sourceTier": "State-affiliated reporting",
           "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
           "reportedAt": "2026-09-16T11:21:01Z"
-        },
-        {
-          "id": "report-b082a6aeec21",
-          "title": "Carney eyes 'unique alliance' with EU as trade war with US intensifies",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NaWFGNG1Ockpfdm51c0ttSFYtSEdoZEx0OTVyMHVSa2h5WWhHa2d5UUhhQVNhQ1d2aVpzTWc0MWJGeTBsMUc4RFUyTnlKT3FWRFJtMGlSS1pQQQ?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-14T04:02:26Z"
         },
         {
           "id": "report-a9adc20a269d",
@@ -1671,15 +1662,6 @@
           "reportedAt": "2026-09-15T19:32:24Z"
         },
         {
-          "id": "report-8f7ad23bdea7",
-          "title": "Iran war has cost the US $38bn: How will it impact US economy, politics?",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPS1JGdDFLQ292eUpqYnp6ZF9jS2dpN0ZZTmMwSTFXbkUtd3ZmUXB4WGNqYlUwTTh2Vm92ZERLSXo1RlhPcG8xb2lfWGJCbERHcXAtLW56MVhOTEwxelpUdzBWbzFLc0RmWWFoYnFNOGxYd1dmUnRrZEFGSXdtZExhS21ZMXY0UFNGYm56S0RJZUFsSWFmVjgtcVNkR3htNm9EQWlNdTU3Z3RXcGhFYWZZ0gG0AUFVX3lxTFBKMTcyWHZVUHpaTWJZVmN1NkRLd3BoaWtidGVMRWhMMjV6bUtBMDVmOC1aTldIemNyT1hpelpLWWY0N0M3cC1wTWg4Y1VzWjc4WGNuQnRJMk9kaG5DREp0Mmw0bHk3cUh2cDJOUXV5SnpsLWlQdVFtRFRzTXY3d0lyMWVZQTRBYTJ1blFVb3pBdjJGWWhiRGQtd0V5dzYyazFRa185NUdfVlR1LXg4Q01mRGFweg?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-16T14:57:52Z"
-        },
-        {
           "id": "report-f14d410b5b37",
           "title": "At least five killed in Russian drone strike near Ukraine front line",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNc1c3LUM3SUlxbVRsOEswSTVlRzNkaGhxdDFYaXdIRjRaRHZlNmdqdzZnQmEyOWZUZzBSNE5Nb2dCWTNtdDMwNFdwZ2JKbHJkY0hmUHZWSU8zUjlfR0FkcGtEdnRUVFZZVndBSDNUNEhCYlVYWW9oNmQ3QmNrczZwUFZ0M3p3VW9fUWtEUzNPU2xudDhTTld0Y1JHUEhqMHFRNlZhcnJnVVlBRGFySVHSAbMBQVVfeXFMTlUwd1h5X0tzUzRiS2I4UzZpRE1CRXlnclJwNWNFWTM2a0JkbDBTeWIxbFVheEc0X2ZDRDFncjQxODR5U2VSd3dseWNIdlNHeXMteWJfdHJXLWR6Y2hvWFZPUVRIUXI2dlBQOUhaUm9kYk5UUGxuQ1BzUnZ5MWlvYXMxbHBOQThCMGxEV0ZpX1V5VjFISDNscTFOSkthRmZOaFpwY3JuM1J6YldOdUZnbjNSaVE?oc=5",
@@ -1687,15 +1669,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-16T09:40:03Z"
-        },
-        {
-          "id": "report-cbd65ec1849c",
-          "title": "On the Ground in Haiti: The Growing War Zone Facing U.S. Deportees",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd0E1aVo1Y0xxV0ZUenQ3WktIdHRQR2xlUy05RU9Gbm5MMk9nc1c0RTJuYXMxd3FUM0E4MzR4YTVIeWp1QjY1OVVXc21YQXJrOGp3QVhURWR2eU5lRXFzWnpNVnRsb1FIRjJJZFlNYm9CTUhaNC1DdVpONllXQ1RVZ2lyN3UxcVZORzBidXlCSDdxNlRLVm1yWA?oc=5",
-          "domain": "cfr.org",
-          "sourceTier": "Structured / analytic",
-          "confidenceLabel": "ANALYTIC REPORT",
-          "reportedAt": "2026-09-14T16:13:59Z"
         },
         {
           "id": "report-179439fb68e9",
@@ -1707,15 +1680,6 @@
           "reportedAt": "2026-09-16T15:32:09Z"
         },
         {
-          "id": "report-e0d9881b2949",
-          "title": "Carney visits Europe: Can Canada seek refuge with the EU amid US trade war?",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRC02SHFoalp1YWZWeExESS1GNS1VeFM5aUZQVjUybU5RdEVwOHk4RFZnOXEzMGZnb2k2YU1mbU9qbHU1ZGdzcmNLY0dfS2N5VE1CaEVTcXZwcVluWFEyTEZmRnJmeEtMWG1YdVI5NFAxdnp2V2tTZkZfdURxbEVweEhyQkhaRzBxVUF2QXZwRllNenFxZ3dILWlxb3R3VXl5THBJSFl1d2R2cmNFVUxvMnFsOHDSAboBQVVfeXFMTll5VWJPRjREMWc0WFZPU0NjTXF0c2tRQlpXVWVEc2JfUXM0X2ZMOHFlX3c1ZkxfRklGaTJkMEdXd3d4b3N4WE0tZkxJS001dnQ1NS05MWpTdWhEUTZWVXNIaGVhbXRickhrR3BVdVVpTlB0ODBCbU5kdWFKMGYwTmJSWVp0bEU2ZUx5N2dNb3BIVExvNnBrellhZEtvR3g5X3plRGJSRENJejU4YWJra3FPcHBzdjhTVXNB?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-16T07:30:01Z"
-        },
-        {
           "id": "report-986615d34629",
           "title": "Former Kosovo President Hashim Thaci faces verdict for alleged war crimes",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN0hjbWVzMzhuYkg4WWpwOERGNVBVbjNWemdyWUVfdVRicWxuTlpTdnhQWEF6ZW5Kc2dyNk5OZEhqOVYwU1BXWnFwNHFTYU5Kd2ZiVk5BdHlKbVpnWTJlWnU4aGVRYUROMlVXZjROMUtkeUhyYXQwRnAybnhpcHhOM21VSktZWjcyVDBqRHBFQnBaMkZXSXFYWnZWbUJyYUhieThUZlBOV0xRT2dGdF9iSHhjbjTSAboBQVVfeXFMTjAxcHhmOXdxQTFuYURVV1pfNDkwdHYwUC1Ea0xfNGVCRl9ITXQ2eC1XaEc4bjVkWEpNTmo4aUp2bFlEd2FSV005UGYtMGhkOFZYbWJpejAxOGxVYTIyc1BJM0RVX2pZM3lrdHFycDltU1VfZWlPRUNNM2RVeTVwclpMczNVMDNQYU5Benh1R01sVmV3RkhQbUpEemJ0Q19rb19WYmZCaTA1V1B2T2kxTm05MHU2eHF2cUZB?oc=5",
@@ -1723,6 +1687,51 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-16T08:13:06Z"
+        },
+        {
+          "id": "report-d70718899a74",
+          "title": "Reports: US, Houthis make secret deal over Yemen war",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbnFSenlrZ3owajdFYmNMdXZRUGJZTVNuWTYyYTNCVVR1VU1KNnhDSDFWd2h2eHBZdjhkOXBJeU5MMlRUQ2hnQWtta1NRM2ZtWld6TXJYb0tlWlM1b0tvenpHZWFNbGdndmRVYWtlRzVnbGw2cDVkdEl3RGl6RDNJbERmdU96Z2I0enZtbXZTelljczV6Y0YwWUhrVEF3YXpXWW1v0gGoAUFVX3lxTFB4aFMzci16eXVEUkIxemF3c0U2LU43UFU5dThsTU5aYllMUkYwLVpsSVhNczVYSmVlcU9QSmhtSHR3bjB3LWh4NXVWd1pEX2pjWFhnSHBoelY4NVk4SXlSdDNYV0ZUakxPQWktVVpWbHBxSDVOQXRHcDA0QTNkdWllQjdKMXpncldjZmt0VVY5N2ROTWZ1RFM2dktJSGRzY2Fla1BKMXJmRQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-17T02:02:49Z"
+        },
+        {
+          "id": "report-3d66b2db992f",
+          "title": "How escalating Saudi oil crisis could drive up prices everywhere",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBWXN1ckpzblpZRTZleFBXbHlsYTNlQXhncW1HZ1BuOTBvb3U1RHl4UXhHM1VaWEtGd1RwMmo4N09zVjAxMWtlaEtwT1kzdXpHdk9rWnpjYkxjcVE?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-16T16:06:50Z"
+        },
+        {
+          "id": "report-c3cdab536a37",
+          "title": "The U.S.-Canada Trade War Could Mark a Breaking Point",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVnY3SU1FT2RPNTR5UXhkVmhrSlVCdUp6UlVmY0pKVmpaWmpPWGoydVR6ZnozVnpJaXJPZ1BlLUlxR3dNM1Mwa3laUUtpYVZOWmpubDF2N2RDQ2JyeE5WcU5uY0RhOHFYTTlCMlpkTzFPUlJoUGdGRUdSWHlaWi1zUHZrVU0wLW9Q?oc=5",
+          "domain": "cfr.org",
+          "sourceTier": "Structured / analytic",
+          "confidenceLabel": "ANALYTIC REPORT",
+          "reportedAt": "2026-09-16T20:23:42Z"
+        },
+        {
+          "id": "report-379a91d95d05",
+          "title": "Photos show widespread damage at US sites from Iranian attacks",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zVk5hSlZtZm14dEo2V2M4bEcyZjRDZzlYVWYtSXJjMFdUVklaZTZJekFXYnFVSFhEam1JLUEyQXJ5R0RudDFXb3d3Ti1DWF9FWXI0dkMwc0ZRMEE?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-16T18:36:16Z"
+        },
+        {
+          "id": "report-cbd65ec1849c",
+          "title": "On the Ground in Haiti: The Growing War Zone Facing U.S. Deportees",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd0E1aVo1Y0xxV0ZUenQ3WktIdHRQR2xlUy05RU9Gbm5MMk9nc1c0RTJuYXMxd3FUM0E4MzR4YTVIeWp1QjY1OVVXc21YQXJrOGp3QVhURWR2eU5lRXFzWnpNVnRsb1FIRjJJZFlNYm9CTUhaNC1DdVpONllXQ1RVZ2lyN3UxcVZORzBidXlCSDdxNlRLVm1yWA?oc=5",
+          "domain": "cfr.org",
+          "sourceTier": "Structured / analytic",
+          "confidenceLabel": "ANALYTIC REPORT",
+          "reportedAt": "2026-09-14T16:13:59Z"
         },
         {
           "id": "report-90dd39219ce8",
