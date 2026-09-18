@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-18T16:23:57.564Z",
+  "generatedAt": "2026-09-18T18:38:42.661Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -21,7 +21,7 @@
       ]
     },
     "safety": {
-      "generatedAt": "2026-09-17T19:16:16.310Z",
+      "generatedAt": "2026-09-18T18:38:42.661Z",
       "cadence": "daily",
       "items": [
         {
@@ -31,6 +31,38 @@
           "sourceTier": "Official / intergovernmental",
           "seen": "20250129T204800Z",
           "pinned": true
+        },
+        {
+          "title": "F-16 Crashes During Training Exercise in Michigan; Pilot Ejects",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSmZuZFU4aG9qWlpReUtRZXpTMDFRRWMzQWxvVXBNRlJMWTd5QS1VRkNHVHVCa0stNkFIYXNGLWoyZ0ZhUmY2VDRkSkFYQzhLRDZUTkJONlRlTnJReTBLLTVNSVB6TGVTT2pTWV8xVEkyLUdRb2d5QXJZdl9Bbi1UN056b3p0a25VbmVfNk5ITTVGV0NJZVZtZDBXNnkxdw?oc=5",
+          "domain": "airandspaceforces.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260918T002836Z",
+          "pinned": false
+        },
+        {
+          "title": "Pilot safely ejects from crash of Texas Air National Guard F-16 in northern Michigan",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQzZLZ0lJb0h6TlE0MEVVcmp0SjJMelZXT0wxczVnQkZ3X3JjTWY4OHZ2U01XOXlyMWVURVRGV0lJTXRhOW1za08xS1pkZDdzZ01ER0M3WjVOWDRSRjhnQmJzYXNKMlBvTkc4M05Rb1FCYjRxQmJCcF9YUkx0eW1vOVlfdG92WkNLT1A1VWp1MlM?oc=5",
+          "domain": "stripes.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260917T030706Z",
+          "pinned": false
+        },
+        {
+          "title": "PLR 26-063 – Sports, Recreation and Physical Training Mishap Claims One Soldier’s Life",
+          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNRkNQZmRGdFhkbTNVVmJXUmtVS3NUNkhDbmN3VnZxQ1Y5MWxyQ0dCUndHMEYyZWdMbG9hRkdhZHNLSVk1YTc3YTZxVlVscDRrVnFqSmU1M1JqMlZhT2tuWS02dlRJTjBPSlhOcERZSUFTdkpXU2FlNEh0RHJKdmRRcXNEWFBfWWY4dER2Q3hRYzJsN09NbnROcTd4THJFVXV0RVdQOXp1by15NzE2Zzh1dXpHU2kzX0kyVVltUEZqZV93RXdOUFdPZXdYaHFadXVqZnprMTNLc2pPbm1oRUxlX3puOVdsOGVmcmF1Ym4zSkVZUHVLTHJWblk3c0dxUF9YUkxyZW9B?oc=5",
+          "domain": "safety.army.mil",
+          "sourceTier": "Official military source",
+          "seen": "20260910T194643Z",
+          "pinned": false
+        },
+        {
+          "title": "PLR 26-066 – Motorcycle Mishap Claims One Soldier’s Life",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQV0FtMnUxYXlRMGRxQy05N1FJZ1NOR2xrVmUxNVhYbjYtdDFJYjhZRzNQamU1ZWhCaEI0NTdXczJ5TVVkM3V2LTVONlNST0d6QzN2TFl2UWJ4SEhZNGlWRWtOSlBwamdoRU5nS3VMMm9hN1BnTFRJZ25YMUVJclU0UmZtMDBOWEpEdnJpYVFVd2xYVnJsMHNoZFZjOXZMeEVoV1VxNFNMQkRQS3NnNmVHbTlnakhZdEdabkxIbV9Pd01FelhHXzBsbkd6NjJKNG01dkFQTXFuYzdWeHB1UXk4?oc=5",
+          "domain": "safety.army.mil",
+          "sourceTier": "Official military source",
+          "seen": "20260917T224128Z",
+          "pinned": false
         },
         {
           "title": "PLR 26-062 – Industrial/Occupational Mishap Claims One Soldier’s Life",
@@ -49,6 +81,14 @@
           "pinned": false
         },
         {
+          "title": "Air Force officer, 2 Army Corps of Engineers civilians among Alaska plane crash dead",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYWN2ZkJSSU15Ukg1b21aVmlMSmVyT0FFYnJLVjJJOW5BRnBzdzFadnBUUEprSDNEbzEzYVBOakRsYVRmdUN0YzZXc1llV0xVMklfRllWYVVJLVpnaVU3cU90aUlQY0RmQUtwYkFPdGpZMGNFd3FtN2pfdmpDclo4WGUyamVXN0phc1VWUU9JdzRDZHhUMVlnRE5FREt0U2JXVFhjSVplbWluZHB4T3RRbw?oc=5",
+          "domain": "stripes.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260825T070000Z",
+          "pinned": false
+        },
+        {
           "title": "Air Force officer killed in remote Alaska crash was a ‘positive leader’",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yMTM3UTdNeXVhbVFBc2JTWDN4QzVJTG5sSk43aGh3a0FtRXI5dHgycy04dEhFUnBkSFd4NDUxNFkzQmZ0eXRRR29KTDNKV1FValItZzBoa25MNGI0WmhIOVVwZVhkZkk?oc=5",
           "domain": "taskandpurpose.com",
@@ -63,9 +103,89 @@
           "sourceTier": "Official military source",
           "seen": "20260913T013859Z",
           "pinned": false
+        },
+        {
+          "title": "Coast Guard, San Francisco Police Department rescue 3 from grounded vessel near Golden Gate Bridge",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMThwb2hlcXpMdk9JcWlxR1lBTmFsWmFwUURMZkY5T1pWUEQzZkhQWUZRS0tPMlZzWjJwbVlraGUxQS1rR1htTFV6eUdSNFhaNmx6bzY3bkFsbk9pNllNc1plMlVpcXkxLVBLWEV4dHk4NUlZbE53UFU1M0R1ODVPeG9KUVY0aUg5Tlk4czRfZzFBVV90M054ZFQzbl85d3JaQ1o1UXVQZ3ZFUDE2LU9lUmRVT2lVYm5tSkZGdl8yZy02alN2c2dxYlUzSjNaNHZWZXc?oc=5",
+          "domain": "news.uscg.mil",
+          "sourceTier": "Official military source",
+          "seen": "20260917T235209Z",
+          "pinned": false
         }
       ],
       "incidents": [
+        {
+          "id": "auto-909d4b3888c3",
+          "reportDate": "2026-09-18",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Aviation",
+          "event": "F-16 Crashes During Training Exercise in Michigan; Pilot Ejects",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSmZuZFU4aG9qWlpReUtRZXpTMDFRRWMzQWxvVXBNRlJMWTd5QS1VRkNHVHVCa0stNkFIYXNGLWoyZ0ZhUmY2VDRkSkFYQzhLRDZUTkJONlRlTnJReTBLLTVNSVB6TGVTT2pTWV8xVEkyLUdRb2d5QXJZdl9Bbi1UN056b3p0a25VbmVfNk5ITTVGV0NJZVZtZDBXNnkxdw?oc=5",
+          "sourceLabel": "airandspaceforces.com"
+        },
+        {
+          "id": "auto-224f31a55528",
+          "reportDate": "2026-09-17",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Aviation",
+          "event": "Pilot safely ejects from crash of Texas Air National Guard F-16 in northern Michigan",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQzZLZ0lJb0h6TlE0MEVVcmp0SjJMelZXT0wxczVnQkZ3X3JjTWY4OHZ2U01XOXlyMWVURVRGV0lJTXRhOW1za08xS1pkZDdzZ01ER0M3WjVOWDRSRjhnQmJzYXNKMlBvTkc4M05Rb1FCYjRxQmJCcF9YUkx0eW1vOVlfdG92WkNLT1A1VWp1MlM?oc=5",
+          "sourceLabel": "stripes.com"
+        },
+        {
+          "id": "auto-aee650e833e5",
+          "reportDate": "2026-09-17",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Other",
+          "event": "PLR 26-066 – Motorcycle Mishap Claims One Soldier’s Life",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "OFFICIAL INTAKE",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Official military source",
+          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
+          "source": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQV0FtMnUxYXlRMGRxQy05N1FJZ1NOR2xrVmUxNVhYbjYtdDFJYjhZRzNQamU1ZWhCaEI0NTdXczJ5TVVkM3V2LTVONlNST0d6QzN2TFl2UWJ4SEhZNGlWRWtOSlBwamdoRU5nS3VMMm9hN1BnTFRJZ25YMUVJclU0UmZtMDBOWEpEdnJpYVFVd2xYVnJsMHNoZFZjOXZMeEVoV1VxNFNMQkRQS3NnNmVHbTlnakhZdEdabkxIbV9Pd01FelhHXzBsbkd6NjJKNG01dkFQTXFuYzdWeHB1UXk4?oc=5",
+          "sourceLabel": "safety.army.mil"
+        },
+        {
+          "id": "auto-b68f976795a0",
+          "reportDate": "2026-09-17",
+          "dateBasis": "report discovery date",
+          "branch": "Coast Guard",
+          "department": "Department of Homeland Security",
+          "type": "Maritime",
+          "event": "Coast Guard, San Francisco Police Department rescue 3 from grounded vessel near Golden Gate Bridge",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "OFFICIAL INTAKE",
+          "signalClass": "SAFETY SIGNAL",
+          "sourceTier": "Official military source",
+          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
+          "source": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMThwb2hlcXpMdk9JcWlxR1lBTmFsWmFwUURMZkY5T1pWUEQzZkhQWUZRS0tPMlZzWjJwbVlraGUxQS1rR1htTFV6eUdSNFhaNmx6bzY3bkFsbk9pNllNc1plMlVpcXkxLVBLWEV4dHk4NUlZbE53UFU1M0R1ODVPeG9KUVY0aUg5Tlk4czRfZzFBVV90M054ZFQzbl85d3JaQ1o1UXVQZ3ZFUDE2LU9lUmRVT2lVYm5tSkZGdl8yZy02alN2c2dxYlUzSjNaNHZWZXc?oc=5",
+          "sourceLabel": "news.uscg.mil"
+        },
         {
           "id": "auto-abde9ccdad6f",
           "reportDate": "2026-09-13",
@@ -229,24 +349,6 @@
           "sourceLabel": "apnews.com"
         },
         {
-          "id": "auto-bab30a20e514",
-          "reportDate": "2026-08-25",
-          "dateBasis": "report discovery date",
-          "branch": "Air Force",
-          "department": "Department of the Air Force",
-          "type": "Aviation",
-          "event": "Air Force officer killed in remote Alaska crash was a ‘positive leader’",
-          "location": "See official source",
-          "fatalities": null,
-          "injuries": null,
-          "status": "REPORTED / UNVALIDATED",
-          "signalClass": "REPORTED MISHAP",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
-          "source": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yMTM3UTdNeXVhbVFBc2JTWDN4QzVJTG5sSk43aGh3a0FtRXI5dHgycy04dEhFUnBkSFd4NDUxNFkzQmZ0eXRRR29KTDNKV1FValItZzBoa25MNGI0WmhIOVVwZVhkZkk?oc=5",
-          "sourceLabel": "taskandpurpose.com"
-        },
-        {
           "id": "auto-7427334c6413",
           "reportDate": "2026-08-25",
           "dateBasis": "report discovery date",
@@ -263,6 +365,24 @@
           "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
           "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYWN2ZkJSSU15Ukg1b21aVmlMSmVyT0FFYnJLVjJJOW5BRnBzdzFadnBUUEprSDNEbzEzYVBOakRsYVRmdUN0YzZXc1llV0xVMklfRllWYVVJLVpnaVU3cU90aUlQY0RmQUtwYkFPdGpZMGNFd3FtN2pfdmpDclo4WGUyamVXN0phc1VWUU9JdzRDZHhUMVlnRE5FREt0U2JXVFhjSVplbWluZHB4T3RRbw?oc=5",
           "sourceLabel": "stripes.com"
+        },
+        {
+          "id": "auto-bab30a20e514",
+          "reportDate": "2026-08-25",
+          "dateBasis": "report discovery date",
+          "branch": "Air Force",
+          "department": "Department of the Air Force",
+          "type": "Aviation",
+          "event": "Air Force officer killed in remote Alaska crash was a ‘positive leader’",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yMTM3UTdNeXVhbVFBc2JTWDN4QzVJTG5sSk43aGh3a0FtRXI5dHgycy04dEhFUnBkSFd4NDUxNFkzQmZ0eXRRR29KTDNKV1FValItZzBoa25MNGI0WmhIOVVwZVhkZkk?oc=5",
+          "sourceLabel": "taskandpurpose.com"
         },
         {
           "id": "auto-f451a5233abb",
