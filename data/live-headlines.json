@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-18T18:38:42.661Z",
+  "generatedAt": "2026-09-18T20:55:03.290Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-09-18T16:23:57.564Z",
+      "generatedAt": "2026-09-18T20:55:03.290Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -1431,9 +1431,17 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-09-18T16:23:57.564Z",
+      "generatedAt": "2026-09-18T20:55:03.290Z",
       "cadence": "every 6 hours",
       "items": [
+        {
+          "title": "Iran hesitates to clamp down on defiance of headscarf rules as war and economic pressures mount",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQX1ozOThyMm52Q1pxdDRHVy1fRDNWeXBGLV85V0pzXy16QlY0QmIteTJvRHZPWlQ5UC1WbWh2ZWRYZXlpck5uSGdqc01RZWZxWWlybU5FZkNyeFZONUJrVHFVa0xDUXBjWHVCN0Nvd1pkS09zckw1VXdFcVIxZzZCRjBnbk9QYWRhblZwcXY4SVBiMmdyMS0yZDlJdFRPNkJySW9z?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260916T192500Z",
+          "pinned": false
+        },
         {
           "title": "Iran war increasing inflation, straining US munitions: congressional report",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQkxVbTZwTHBPc3ZaTFhWcTduWVZ0U2hjQ3hHek8yQkVhazl5dXdCS1p6WGJnb0JnclJlU0d0MkJ4OHJIc3dOWVZIR3dTZWRma2taSGlsVDYzT0xqaElvZ29EMzlYcC15SEYwMXlFMF84TkRMVE84MW16c3JnWVM3WlpHVHZVXzJtVlVUZ1M2enpOQ0NvdXd6RHVWUzdITE1Sc2xQVlF4cWNINFZMMTNYQURnT0rSAboBQVVfeXFMUDBUU2RHREliYVljZjNCU3FVcW1md212MF9hV0xOVGdhYXU5blB3OUlJUFNKSVpQVFBTS0p4am4tUkhvamVERjctZzZfdlJzZFJ5TkZ0LW16SkFKX2NzQURfd3RpUDBEbUptbHpIYUJiNVo1MGRkX1hyTm5VRW1vOEQ3OFc1UDFmdnM3M09EYWdwWFdkWkVhSk1GX2hwMGMzc0dvM3pjd3ZJRzZSREJhZUdmeFRORTFZWXp3?oc=5",
@@ -1483,19 +1491,35 @@
           "pinned": false
         },
         {
-          "title": "Saudi Arabia promises to respond to Houthi attacks ‘firmly’",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdC1ocFpNc3FkSkVheVZMQy1QdmtEbXhBS2JrNENyT3RPSk1KS2F3M1RCaUtxanZockZEZlZ4bS13cGhXckFXOS1EUC1YR2lXanp0WnJ2N0oybU54R2lZTTBkWDVVdFdoOVppNk1FX1lpZzE3MEpiQlR2LVBJaV83NGZBRG43V1JLeFl1ak9IM3RNdDhFNGZZTmw4SXpZRUVjeDdXMUpxcGFLaGxrR05IZmJqNGjSAboBQVVfeXFMTUcyLTU3b09ZREl1bHFJWllRSWRUb1lHTzBhOXltcE05Q3dXZ01fZWRNd2xGM3kyYXhnRy1FY09XSUtaSmpkMjRqMnc4X0FuZ2JxNFhPVUlFdW9iMzRfeTE3RjR3c1E4NUVwSnV0RFFCekNGc2NXVzJ6TDlHYjhXRHRGdjFDazhTMXQtNXFNNmc5amtkN2o0aVZwdmdnUTctTVh6YUNobzE0cTQtd0E5cld5ckZPalRncXZn?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260915T165403Z",
-          "pinned": false
-        },
-        {
           "title": "Zelenskyy says Ukraine will pause attacks if Russia spares infrastructure",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb0QzU3p3Nko4WkJ5T3pTazVleTc5cVlyNmk5VnRDQlJUaVkzSDE2eDJsNkFnYkRydHh5TnFJaXdlVllvMGJ4MFNlVFhjY08yVXpkZFN5STY4NnltNVRzTGcwQXF4ZFkwSlNDeEFna1R2UDlRVDVJMzRuWEpiQkdjUm9GUmo3YzdPbEE0cFRvUTdhOUlnRUFZZ0hkWDhpQ3huRk9LS08tcGZLV2EtbXdQeWJxRV_SAboBQVVfeXFMTmRRbU0zYVI4VTRRbUJlcHQxVVhFWEdHQ1Z5MC03T2dLODJQX29UeWFpZHVER0htZk1Dd2tNb2NiVmJjMFNsa2I1WnJDVm5EWTFnODg1M21GSWcyeHYzY0QzMWdyQ2ZpdkZZSklOWXB1RDBobEE3eWszUlpWVTRZS05GeHVGWWFkTWlZTjhWVzdsS2Y4YXBybmoyV2t5b01xUC1HbmNJN21LS2MzcmViNm1jbUVPcHN3Z3Rn?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260915T120026Z",
+          "pinned": false
+        },
+        {
+          "title": "US military claims Strait of Hormuz remains open amid ongoing blockade",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTXN1Q3Y5OGZKbHhud2JJU3I2TkowZG1TVlRZakwwVi0zaDV2c3p4TnZUWmh5WmNUaDQtZV9rMnhPMkxPWEM0dnhxcHBEQUctX2NySjFmTGhRU0ZDLTlTcVFtS3FqRnpqU3JsZ0VZalZ5M3Y3YTlySG93cXlDcDREVDV0ajJDc2FhQThpRWJIcVVaZmZrZk44YW8ycDBlRnZqVnh2TUFzM1QwbUxJbmFOb9IBtgFBVV95cUxPVVFGaWhMaEFVZjBXV2RFbUtyWE8xSGUzS0dPYTdhNVhGbi1CUTRwSDJhRmp3WGF4c3hRaTdFb1hJYkVIV0NDRk1JUG9UR1NraFJ4ZVdkWnNkRzRyaUdvcmxNNE1SWG9ybWRZR2RxVjkxUy1YaGw1aUZkYjJQTHNUUk9nR0JxXzBCajFOM2ZTT2xjeERlYnZQLXV4akN1Ml9JdWhZZU1iaGJZU3BLSHdXWXdiVVhxZw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260916T231848Z",
+          "pinned": false
+        },
+        {
+          "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45MGRxOW12dm55Vk5Oa2NLMW1IcDVvWTBJcVp2VkJ2Qm5ONm5aMWtqSXE5OE9EQnZLeXY5UjAtelNfTktqZTJNOE9ROEN2ZnFkRnJnNEVnbXQ3TGM?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260915T203412Z",
+          "pinned": false
+        },
+        {
+          "title": "US voter opposition to war on Iran grows to new highs: Poll",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMWNvcnozNmZuM09zbkliVmdvZXlfN21hQUtFRzFhWENvTjRLcWZtNXN4WFQ5amxoWWJNa1NETTNWaGJNeE5ZY1pubGRTWnFkUjBZXzBMNWkwbHlfTF9DR2E2bXJ0cmFNNldsajc1azJUQVRjOGk5UU5qVVl4d0NBc1VIWTJYQkdCVEE3SmFTRnZzc0xRNEhRUUxSTzFnYlBm0gGmAUFVX3lxTFBSNjdZZ3Iwc2g4a1lVRERKQTVBZWVwbGc4RFFFZ1VqLVlacUtNQzlzMnVwM0pTMGhqLVlHQTlqUXh0WGF6dzVXWFFBeFY3Tm1Qcm9hWmpHN1F5cHRoMnhwcDlic0NGemlYTko3NWRMUW1hRTBTQ2ZSVFJlMVY1a241YWZkNXJUeVlHUEdrLUF0YUxDWXRuX0ptdEFQNWZDTnZQdmppdHc?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260918T132007Z",
           "pinned": false
         },
         {
@@ -1523,14 +1547,6 @@
           "pinned": false
         },
         {
-          "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45MGRxOW12dm55Vk5Oa2NLMW1IcDVvWTBJcVp2VkJ2Qm5ONm5aMWtqSXE5OE9EQnZLeXY5UjAtelNfTktqZTJNOE9ROEN2ZnFkRnJnNEVnbXQ3TGM?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260915T203412Z",
-          "pinned": false
-        },
-        {
           "title": "If Europe attacks Russia, war will be 'completely different, very short': Lavrov",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPR3FsWUVOOF9KU3c3T00zLWNsZ1NKVnpidVVDbGNILWoxTFBYblVKalY0SEdvQzFuTFgwRlB3cXh0RjVtcTRqSXJ2b1dqbWVTVW5WR3hnYVFWd3d6cnRrQmlxMkVBWm9yMWRBV3hGZzB0VWxZd0hzWGNQdW9TQXVzejJmQXg1UU83aWk4empfVzU3M0FjemxtY0JaOVhfLWNaOXhRRUpGMXRNSnVYOFc1VmE1QU1mZlJzMko3Xw?oc=5",
           "domain": "aa.com.tr",
@@ -1539,11 +1555,11 @@
           "pinned": false
         },
         {
-          "title": "Iran hesitates to clamp down on defiance of headscarf rules as war and economic pressures mount",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQX1ozOThyMm52Q1pxdDRHVy1fRDNWeXBGLV85V0pzXy16QlY0QmIteTJvRHZPWlQ5UC1WbWh2ZWRYZXlpck5uSGdqc01RZWZxWWlybU5FZkNyeFZONUJrVHFVa0xDUXBjWHVCN0Nvd1pkS09zckw1VXdFcVIxZzZCRjBnbk9QYWRhblZwcXY4SVBiMmdyMS0yZDlJdFRPNkJySW9z?oc=5",
+          "title": "The Iran war is driving clean energy development. It’s not enough to help the planet, yet",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV3dfdlVIcFF6YktYVjdVN3ZLclNqcUlnalZrV01XMENaM2Ntamo1QjZNRF9zNDM3eERuYXQ0RmZCcDBVZ3lleUg1Z1NfQ0NrLVVoSGxzZ01tcDhwZHlleFBYRmhrclk4eWZYeTAzNEE4bmJCQTVHNGFvQ2hSWXAwTkRHbzNVMUhETzdGMUVvaVpBam5vQ2tNZWtIRGw0bTg?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260916T192500Z",
+          "seen": "20260917T142100Z",
           "pinned": false
         },
         {
@@ -1563,11 +1579,11 @@
           "pinned": false
         },
         {
-          "title": "At least five killed in Russian drone strike near Ukraine front line",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNc1c3LUM3SUlxbVRsOEswSTVlRzNkaGhxdDFYaXdIRjRaRHZlNmdqdzZnQmEyOWZUZzBSNE5Nb2dCWTNtdDMwNFdwZ2JKbHJkY0hmUHZWSU8zUjlfR0FkcGtEdnRUVFZZVndBSDNUNEhCYlVYWW9oNmQ3QmNrczZwUFZ0M3p3VW9fUWtEUzNPU2xudDhTTld0Y1JHUEhqMHFRNlZhcnJnVVlBRGFySVHSAbMBQVVfeXFMTlUwd1h5X0tzUzRiS2I4UzZpRE1CRXlnclJwNWNFWTM2a0JkbDBTeWIxbFVheEc0X2ZDRDFncjQxODR5U2VSd3dseWNIdlNHeXMteWJfdHJXLWR6Y2hvWFZPUVRIUXI2dlBQOUhaUm9kYk5UUGxuQ1BzUnZ5MWlvYXMxbHBOQThCMGxEV0ZpX1V5VjFISDNscTFOSkthRmZOaFpwY3JuM1J6YldOdUZnbjNSaVE?oc=5",
-          "domain": "aljazeera.com",
+          "title": "US watchdog tallies Iran war’s hit to weapons stockpiles, military bases and more",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYjVWMldhTVpoOHNsSUs4MWdVbGl1MjBPVThUUUczaVJTc2FMWEFBV3NUb2ZpUC1qRVB6WGUwWlJBNzdPdk5fMTBzc0l6cVZjRl90SzFIZkFnYVpRWFd3bFRvcUprenFncXp6VGJMQUJXS3VQTExRZTB0ZC11MXFVYlM0UGk0TkdwQkkta2VydmFZS2V5dmJlc1V0QWwtRjlyU0l2Uw?oc=5",
+          "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260916T094003Z",
+          "seen": "20260915T000600Z",
           "pinned": false
         },
         {
@@ -1579,11 +1595,27 @@
           "pinned": false
         },
         {
+          "title": "At least five killed in Russian drone strike near Ukraine front line",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNc1c3LUM3SUlxbVRsOEswSTVlRzNkaGhxdDFYaXdIRjRaRHZlNmdqdzZnQmEyOWZUZzBSNE5Nb2dCWTNtdDMwNFdwZ2JKbHJkY0hmUHZWSU8zUjlfR0FkcGtEdnRUVFZZVndBSDNUNEhCYlVYWW9oNmQ3QmNrczZwUFZ0M3p3VW9fUWtEUzNPU2xudDhTTld0Y1JHUEhqMHFRNlZhcnJnVVlBRGFySVHSAbMBQVVfeXFMTlUwd1h5X0tzUzRiS2I4UzZpRE1CRXlnclJwNWNFWTM2a0JkbDBTeWIxbFVheEc0X2ZDRDFncjQxODR5U2VSd3dseWNIdlNHeXMteWJfdHJXLWR6Y2hvWFZPUVRIUXI2dlBQOUhaUm9kYk5UUGxuQ1BzUnZ5MWlvYXMxbHBOQThCMGxEV0ZpX1V5VjFISDNscTFOSkthRmZOaFpwY3JuM1J6YldOdUZnbjNSaVE?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260916T094003Z",
+          "pinned": false
+        },
+        {
           "title": "How escalating Saudi oil crisis could drive up prices everywhere",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBWXN1ckpzblpZRTZleFBXbHlsYTNlQXhncW1HZ1BuOTBvb3U1RHl4UXhHM1VaWEtGd1RwMmo4N09zVjAxMWtlaEtwT1kzdXpHdk9rWnpjYkxjcVE?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20260916T160650Z",
+          "pinned": false
+        },
+        {
+          "title": "Russian hybrid attacks against Europe intensifying, says Macron",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xRVBhVWg5em1aNmVhakttdU8wWkJ4aVRWVFdrcHpmWFJKOTR4bDcyMThlSmtQQ2VJQWU1SzlJQlk0dXM5a211LWlhazY1SnJFeVZSdkpTSG9BWkk?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260918T180438Z",
           "pinned": false
         },
         {
@@ -1593,41 +1625,18 @@
           "sourceTier": "Independent reporting",
           "seen": "20260916T081306Z",
           "pinned": false
-        },
-        {
-          "title": "Reports: US, Houthis make secret deal over Yemen war",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbnFSenlrZ3owajdFYmNMdXZRUGJZTVNuWTYyYTNCVVR1VU1KNnhDSDFWd2h2eHBZdjhkOXBJeU5MMlRUQ2hnQWtta1NRM2ZtWld6TXJYb0tlWlM1b0tvenpHZWFNbGdndmRVYWtlRzVnbGw2cDVkdEl3RGl6RDNJbERmdU96Z2I0enZtbXZTelljczV6Y0YwWUhrVEF3YXpXWW1v0gGoAUFVX3lxTFB4aFMzci16eXVEUkIxemF3c0U2LU43UFU5dThsTU5aYllMUkYwLVpsSVhNczVYSmVlcU9QSmhtSHR3bjB3LWh4NXVWd1pEX2pjWFhnSHBoelY4NVk4SXlSdDNYV0ZUakxPQWktVVpWbHBxSDVOQXRHcDA0QTNkdWllQjdKMXpncldjZmt0VVY5N2ROTWZ1RFM2dktJSGRzY2Fla1BKMXJmRQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260917T020249Z",
-          "pinned": false
-        },
-        {
-          "title": "Photos show widespread damage at US sites from Iranian attacks",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zVk5hSlZtZm14dEo2V2M4bEcyZjRDZzlYVWYtSXJjMFdUVklaZTZJekFXYnFVSFhEam1JLUEyQXJ5R0RudDFXb3d3Ti1DWF9FWXI0dkMwc0ZRMEE?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260916T183616Z",
-          "pinned": false
-        },
-        {
-          "title": "US voter opposition to war on Iran grows to new highs: Poll",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMWNvcnozNmZuM09zbkliVmdvZXlfN21hQUtFRzFhWENvTjRLcWZtNXN4WFQ5amxoWWJNa1NETTNWaGJNeE5ZY1pubGRTWnFkUjBZXzBMNWkwbHlfTF9DR2E2bXJ0cmFNNldsajc1azJUQVRjOGk5UU5qVVl4d0NBc1VIWTJYQkdCVEE3SmFTRnZzc0xRNEhRUUxSTzFnYlBm0gGmAUFVX3lxTFBSNjdZZ3Iwc2g4a1lVRERKQTVBZWVwbGc4RFFFZ1VqLVlacUtNQzlzMnVwM0pTMGhqLVlHQTlqUXh0WGF6dzVXWFFBeFY3Tm1Qcm9hWmpHN1F5cHRoMnhwcDlic0NGemlYTko3NWRMUW1hRTBTQ2ZSVFJlMVY1a241YWZkNXJUeVlHUEdrLUF0YUxDWXRuX0ptdEFQNWZDTnZQdmppdHc?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260918T132007Z",
-          "pinned": false
-        },
-        {
-          "title": "The U.S.-Canada Trade War Could Mark a Breaking Point",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVnY3SU1FT2RPNTR5UXhkVmhrSlVCdUp6UlVmY0pKVmpaWmpPWGoydVR6ZnozVnpJaXJPZ1BlLUlxR3dNM1Mwa3laUUtpYVZOWmpubDF2N2RDQ2JyeE5WcU5uY0RhOHFYTTlCMlpkTzFPUlJoUGdGRUdSWHlaWi1zUHZrVU0wLW9Q?oc=5",
-          "domain": "cfr.org",
-          "sourceTier": "Structured / analytic",
-          "seen": "20260916T200138Z",
-          "pinned": false
         }
       ],
       "reports": [
+        {
+          "id": "report-c2835dd7d55d",
+          "title": "Iran hesitates to clamp down on defiance of headscarf rules as war and economic pressures mount",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQX1ozOThyMm52Q1pxdDRHVy1fRDNWeXBGLV85V0pzXy16QlY0QmIteTJvRHZPWlQ5UC1WbWh2ZWRYZXlpck5uSGdqc01RZWZxWWlybU5FZkNyeFZONUJrVHFVa0xDUXBjWHVCN0Nvd1pkS09zckw1VXdFcVIxZzZCRjBnbk9QYWRhblZwcXY4SVBiMmdyMS0yZDlJdFRPNkJySW9z?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-16T19:25:00Z"
+        },
         {
           "id": "report-fe6067343b23",
           "title": "Iran war increasing inflation, straining US munitions: congressional report",
@@ -1683,15 +1692,6 @@
           "reportedAt": "2026-09-16T03:18:00Z"
         },
         {
-          "id": "report-1a8d58980613",
-          "title": "Saudi Arabia promises to respond to Houthi attacks ‘firmly’",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdC1ocFpNc3FkSkVheVZMQy1QdmtEbXhBS2JrNENyT3RPSk1KS2F3M1RCaUtxanZockZEZlZ4bS13cGhXckFXOS1EUC1YR2lXanp0WnJ2N0oybU54R2lZTTBkWDVVdFdoOVppNk1FX1lpZzE3MEpiQlR2LVBJaV83NGZBRG43V1JLeFl1ak9IM3RNdDhFNGZZTmw4SXpZRUVjeDdXMUpxcGFLaGxrR05IZmJqNGjSAboBQVVfeXFMTUcyLTU3b09ZREl1bHFJWllRSWRUb1lHTzBhOXltcE05Q3dXZ01fZWRNd2xGM3kyYXhnRy1FY09XSUtaSmpkMjRqMnc4X0FuZ2JxNFhPVUlFdW9iMzRfeTE3RjR3c1E4NUVwSnV0RFFCekNGc2NXVzJ6TDlHYjhXRHRGdjFDazhTMXQtNXFNNmc5amtkN2o0aVZwdmdnUTctTVh6YUNobzE0cTQtd0E5cld5ckZPalRncXZn?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-15T16:54:03Z"
-        },
-        {
           "id": "report-eda5b6b10b0d",
           "title": "Zelenskyy says Ukraine will pause attacks if Russia spares infrastructure",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb0QzU3p3Nko4WkJ5T3pTazVleTc5cVlyNmk5VnRDQlJUaVkzSDE2eDJsNkFnYkRydHh5TnFJaXdlVllvMGJ4MFNlVFhjY08yVXpkZFN5STY4NnltNVRzTGcwQXF4ZFkwSlNDeEFna1R2UDlRVDVJMzRuWEpiQkdjUm9GUmo3YzdPbEE0cFRvUTdhOUlnRUFZZ0hkWDhpQ3huRk9LS08tcGZLV2EtbXdQeWJxRV_SAboBQVVfeXFMTmRRbU0zYVI4VTRRbUJlcHQxVVhFWEdHQ1Z5MC03T2dLODJQX29UeWFpZHVER0htZk1Dd2tNb2NiVmJjMFNsa2I1WnJDVm5EWTFnODg1M21GSWcyeHYzY0QzMWdyQ2ZpdkZZSklOWXB1RDBobEE3eWszUlpWVTRZS05GeHVGWWFkTWlZTjhWVzdsS2Y4YXBybmoyV2t5b01xUC1HbmNJN21LS2MzcmViNm1jbUVPcHN3Z3Rn?oc=5",
@@ -1699,6 +1699,33 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-15T12:00:26Z"
+        },
+        {
+          "id": "report-350c39fad72d",
+          "title": "US military claims Strait of Hormuz remains open amid ongoing blockade",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTXN1Q3Y5OGZKbHhud2JJU3I2TkowZG1TVlRZakwwVi0zaDV2c3p4TnZUWmh5WmNUaDQtZV9rMnhPMkxPWEM0dnhxcHBEQUctX2NySjFmTGhRU0ZDLTlTcVFtS3FqRnpqU3JsZ0VZalZ5M3Y3YTlySG93cXlDcDREVDV0ajJDc2FhQThpRWJIcVVaZmZrZk44YW8ycDBlRnZqVnh2TUFzM1QwbUxJbmFOb9IBtgFBVV95cUxPVVFGaWhMaEFVZjBXV2RFbUtyWE8xSGUzS0dPYTdhNVhGbi1CUTRwSDJhRmp3WGF4c3hRaTdFb1hJYkVIV0NDRk1JUG9UR1NraFJ4ZVdkWnNkRzRyaUdvcmxNNE1SWG9ybWRZR2RxVjkxUy1YaGw1aUZkYjJQTHNUUk9nR0JxXzBCajFOM2ZTT2xjeERlYnZQLXV4akN1Ml9JdWhZZU1iaGJZU3BLSHdXWXdiVVhxZw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-16T23:18:48Z"
+        },
+        {
+          "id": "report-9144de8c478d",
+          "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45MGRxOW12dm55Vk5Oa2NLMW1IcDVvWTBJcVp2VkJ2Qm5ONm5aMWtqSXE5OE9EQnZLeXY5UjAtelNfTktqZTJNOE9ROEN2ZnFkRnJnNEVnbXQ3TGM?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-15T20:34:12Z"
+        },
+        {
+          "id": "report-5e26724fdb53",
+          "title": "US voter opposition to war on Iran grows to new highs: Poll",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMWNvcnozNmZuM09zbkliVmdvZXlfN21hQUtFRzFhWENvTjRLcWZtNXN4WFQ5amxoWWJNa1NETTNWaGJNeE5ZY1pubGRTWnFkUjBZXzBMNWkwbHlfTF9DR2E2bXJ0cmFNNldsajc1azJUQVRjOGk5UU5qVVl4d0NBc1VIWTJYQkdCVEE3SmFTRnZzc0xRNEhRUUxSTzFnYlBm0gGmAUFVX3lxTFBSNjdZZ3Iwc2g4a1lVRERKQTVBZWVwbGc4RFFFZ1VqLVlacUtNQzlzMnVwM0pTMGhqLVlHQTlqUXh0WGF6dzVXWFFBeFY3Tm1Qcm9hWmpHN1F5cHRoMnhwcDlic0NGemlYTko3NWRMUW1hRTBTQ2ZSVFJlMVY1a241YWZkNXJUeVlHUEdrLUF0YUxDWXRuX0ptdEFQNWZDTnZQdmppdHc?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-18T13:20:07Z"
         },
         {
           "id": "report-71b78573036f",
@@ -1728,15 +1755,6 @@
           "reportedAt": "2026-09-15T19:59:19Z"
         },
         {
-          "id": "report-9144de8c478d",
-          "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45MGRxOW12dm55Vk5Oa2NLMW1IcDVvWTBJcVp2VkJ2Qm5ONm5aMWtqSXE5OE9EQnZLeXY5UjAtelNfTktqZTJNOE9ROEN2ZnFkRnJnNEVnbXQ3TGM?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-15T20:34:12Z"
-        },
-        {
           "id": "report-2e2b9dec30f1",
           "title": "If Europe attacks Russia, war will be 'completely different, very short': Lavrov",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPR3FsWUVOOF9KU3c3T00zLWNsZ1NKVnpidVVDbGNILWoxTFBYblVKalY0SEdvQzFuTFgwRlB3cXh0RjVtcTRqSXJ2b1dqbWVTVW5WR3hnYVFWd3d6cnRrQmlxMkVBWm9yMWRBV3hGZzB0VWxZd0hzWGNQdW9TQXVzejJmQXg1UU83aWk4empfVzU3M0FjemxtY0JaOVhfLWNaOXhRRUpGMXRNSnVYOFc1VmE1QU1mZlJzMko3Xw?oc=5",
@@ -1746,13 +1764,13 @@
           "reportedAt": "2026-09-16T11:21:01Z"
         },
         {
-          "id": "report-c2835dd7d55d",
-          "title": "Iran hesitates to clamp down on defiance of headscarf rules as war and economic pressures mount",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQX1ozOThyMm52Q1pxdDRHVy1fRDNWeXBGLV85V0pzXy16QlY0QmIteTJvRHZPWlQ5UC1WbWh2ZWRYZXlpck5uSGdqc01RZWZxWWlybU5FZkNyeFZONUJrVHFVa0xDUXBjWHVCN0Nvd1pkS09zckw1VXdFcVIxZzZCRjBnbk9QYWRhblZwcXY4SVBiMmdyMS0yZDlJdFRPNkJySW9z?oc=5",
+          "id": "report-e1899df64302",
+          "title": "The Iran war is driving clean energy development. It’s not enough to help the planet, yet",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV3dfdlVIcFF6YktYVjdVN3ZLclNqcUlnalZrV01XMENaM2Ntamo1QjZNRF9zNDM3eERuYXQ0RmZCcDBVZ3lleUg1Z1NfQ0NrLVVoSGxzZ01tcDhwZHlleFBYRmhrclk4eWZYeTAzNEE4bmJCQTVHNGFvQ2hSWXAwTkRHbzNVMUhETzdGMUVvaVpBam5vQ2tNZWtIRGw0bTg?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-16T19:25:00Z"
+          "reportedAt": "2026-09-17T14:21:00Z"
         },
         {
           "id": "report-a9adc20a269d",
@@ -1773,13 +1791,13 @@
           "reportedAt": "2026-09-15T19:32:24Z"
         },
         {
-          "id": "report-f14d410b5b37",
-          "title": "At least five killed in Russian drone strike near Ukraine front line",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNc1c3LUM3SUlxbVRsOEswSTVlRzNkaGhxdDFYaXdIRjRaRHZlNmdqdzZnQmEyOWZUZzBSNE5Nb2dCWTNtdDMwNFdwZ2JKbHJkY0hmUHZWSU8zUjlfR0FkcGtEdnRUVFZZVndBSDNUNEhCYlVYWW9oNmQ3QmNrczZwUFZ0M3p3VW9fUWtEUzNPU2xudDhTTld0Y1JHUEhqMHFRNlZhcnJnVVlBRGFySVHSAbMBQVVfeXFMTlUwd1h5X0tzUzRiS2I4UzZpRE1CRXlnclJwNWNFWTM2a0JkbDBTeWIxbFVheEc0X2ZDRDFncjQxODR5U2VSd3dseWNIdlNHeXMteWJfdHJXLWR6Y2hvWFZPUVRIUXI2dlBQOUhaUm9kYk5UUGxuQ1BzUnZ5MWlvYXMxbHBOQThCMGxEV0ZpX1V5VjFISDNscTFOSkthRmZOaFpwY3JuM1J6YldOdUZnbjNSaVE?oc=5",
-          "domain": "aljazeera.com",
+          "id": "report-43a0a38f6826",
+          "title": "US watchdog tallies Iran war’s hit to weapons stockpiles, military bases and more",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYjVWMldhTVpoOHNsSUs4MWdVbGl1MjBPVThUUUczaVJTc2FMWEFBV3NUb2ZpUC1qRVB6WGUwWlJBNzdPdk5fMTBzc0l6cVZjRl90SzFIZkFnYVpRWFd3bFRvcUprenFncXp6VGJMQUJXS3VQTExRZTB0ZC11MXFVYlM0UGk0TkdwQkkta2VydmFZS2V5dmJlc1V0QWwtRjlyU0l2Uw?oc=5",
+          "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-16T09:40:03Z"
+          "reportedAt": "2026-09-15T00:06:00Z"
         },
         {
           "id": "report-739b38dce694",
@@ -1791,6 +1809,15 @@
           "reportedAt": "2026-09-18T10:45:59Z"
         },
         {
+          "id": "report-f14d410b5b37",
+          "title": "At least five killed in Russian drone strike near Ukraine front line",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNc1c3LUM3SUlxbVRsOEswSTVlRzNkaGhxdDFYaXdIRjRaRHZlNmdqdzZnQmEyOWZUZzBSNE5Nb2dCWTNtdDMwNFdwZ2JKbHJkY0hmUHZWSU8zUjlfR0FkcGtEdnRUVFZZVndBSDNUNEhCYlVYWW9oNmQ3QmNrczZwUFZ0M3p3VW9fUWtEUzNPU2xudDhTTld0Y1JHUEhqMHFRNlZhcnJnVVlBRGFySVHSAbMBQVVfeXFMTlUwd1h5X0tzUzRiS2I4UzZpRE1CRXlnclJwNWNFWTM2a0JkbDBTeWIxbFVheEc0X2ZDRDFncjQxODR5U2VSd3dseWNIdlNHeXMteWJfdHJXLWR6Y2hvWFZPUVRIUXI2dlBQOUhaUm9kYk5UUGxuQ1BzUnZ5MWlvYXMxbHBOQThCMGxEV0ZpX1V5VjFISDNscTFOSkthRmZOaFpwY3JuM1J6YldOdUZnbjNSaVE?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-16T09:40:03Z"
+        },
+        {
           "id": "report-3d66b2db992f",
           "title": "How escalating Saudi oil crisis could drive up prices everywhere",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBWXN1ckpzblpZRTZleFBXbHlsYTNlQXhncW1HZ1BuOTBvb3U1RHl4UXhHM1VaWEtGd1RwMmo4N09zVjAxMWtlaEtwT1kzdXpHdk9rWnpjYkxjcVE?oc=5",
@@ -1800,6 +1827,15 @@
           "reportedAt": "2026-09-16T16:06:50Z"
         },
         {
+          "id": "report-0fa40444ce52",
+          "title": "Russian hybrid attacks against Europe intensifying, says Macron",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xRVBhVWg5em1aNmVhakttdU8wWkJ4aVRWVFdrcHpmWFJKOTR4bDcyMThlSmtQQ2VJQWU1SzlJQlk0dXM5a211LWlhazY1SnJFeVZSdkpTSG9BWkk?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-18T18:04:38Z"
+        },
+        {
           "id": "report-986615d34629",
           "title": "Former Kosovo President Hashim Thaci faces verdict for alleged war crimes",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN0hjbWVzMzhuYkg4WWpwOERGNVBVbjNWemdyWUVfdVRicWxuTlpTdnhQWEF6ZW5Kc2dyNk5OZEhqOVYwU1BXWnFwNHFTYU5Kd2ZiVk5BdHlKbVpnWTJlWnU4aGVRYUROMlVXZjROMUtkeUhyYXQwRnAybnhpcHhOM21VSktZWjcyVDBqRHBFQnBaMkZXSXFYWnZWbUJyYUhieThUZlBOV0xRT2dGdF9iSHhjbjTSAboBQVVfeXFMTjAxcHhmOXdxQTFuYURVV1pfNDkwdHYwUC1Ea0xfNGVCRl9ITXQ2eC1XaEc4bjVkWEpNTmo4aUp2bFlEd2FSV005UGYtMGhkOFZYbWJpejAxOGxVYTIyc1BJM0RVX2pZM3lrdHFycDltU1VfZWlPRUNNM2RVeTVwclpMczNVMDNQYU5Benh1R01sVmV3RkhQbUpEemJ0Q19rb19WYmZCaTA1V1B2T2kxTm05MHU2eHF2cUZB?oc=5",
@@ -1807,33 +1843,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-16T08:13:06Z"
-        },
-        {
-          "id": "report-d70718899a74",
-          "title": "Reports: US, Houthis make secret deal over Yemen war",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbnFSenlrZ3owajdFYmNMdXZRUGJZTVNuWTYyYTNCVVR1VU1KNnhDSDFWd2h2eHBZdjhkOXBJeU5MMlRUQ2hnQWtta1NRM2ZtWld6TXJYb0tlWlM1b0tvenpHZWFNbGdndmRVYWtlRzVnbGw2cDVkdEl3RGl6RDNJbERmdU96Z2I0enZtbXZTelljczV6Y0YwWUhrVEF3YXpXWW1v0gGoAUFVX3lxTFB4aFMzci16eXVEUkIxemF3c0U2LU43UFU5dThsTU5aYllMUkYwLVpsSVhNczVYSmVlcU9QSmhtSHR3bjB3LWh4NXVWd1pEX2pjWFhnSHBoelY4NVk4SXlSdDNYV0ZUakxPQWktVVpWbHBxSDVOQXRHcDA0QTNkdWllQjdKMXpncldjZmt0VVY5N2ROTWZ1RFM2dktJSGRzY2Fla1BKMXJmRQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-17T02:02:49Z"
-        },
-        {
-          "id": "report-379a91d95d05",
-          "title": "Photos show widespread damage at US sites from Iranian attacks",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zVk5hSlZtZm14dEo2V2M4bEcyZjRDZzlYVWYtSXJjMFdUVklaZTZJekFXYnFVSFhEam1JLUEyQXJ5R0RudDFXb3d3Ti1DWF9FWXI0dkMwc0ZRMEE?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-16T18:36:16Z"
-        },
-        {
-          "id": "report-5e26724fdb53",
-          "title": "US voter opposition to war on Iran grows to new highs: Poll",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMWNvcnozNmZuM09zbkliVmdvZXlfN21hQUtFRzFhWENvTjRLcWZtNXN4WFQ5amxoWWJNa1NETTNWaGJNeE5ZY1pubGRTWnFkUjBZXzBMNWkwbHlfTF9DR2E2bXJ0cmFNNldsajc1azJUQVRjOGk5UU5qVVl4d0NBc1VIWTJYQkdCVEE3SmFTRnZzc0xRNEhRUUxSTzFnYlBm0gGmAUFVX3lxTFBSNjdZZ3Iwc2g4a1lVRERKQTVBZWVwbGc4RFFFZ1VqLVlacUtNQzlzMnVwM0pTMGhqLVlHQTlqUXh0WGF6dzVXWFFBeFY3Tm1Qcm9hWmpHN1F5cHRoMnhwcDlic0NGemlYTko3NWRMUW1hRTBTQ2ZSVFJlMVY1a241YWZkNXJUeVlHUEdrLUF0YUxDWXRuX0ptdEFQNWZDTnZQdmppdHc?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-18T13:20:07Z"
         },
         {
           "id": "report-c3cdab536a37",
