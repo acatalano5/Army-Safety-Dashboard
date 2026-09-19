@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T15:53:35.798Z",
+  "generatedAt": "2026-09-19T18:13:56.537Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -21,7 +21,7 @@
       ]
     },
     "safety": {
-      "generatedAt": "2026-09-18T18:38:42.661Z",
+      "generatedAt": "2026-09-19T18:13:56.537Z",
       "cadence": "daily",
       "items": [
         {
@@ -31,6 +31,14 @@
           "sourceTier": "Official / intergovernmental",
           "seen": "20250129T204800Z",
           "pinned": true
+        },
+        {
+          "title": "Military: An F-16 crashes during training in Michigan; pilot ejects safely",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTnBOOXlWVHlRR0F2Y1BlQ05nbWh4ODd0NEloQktkVi1lTURybmNoMHhaa1ZCbldPZE5sbEJhU3EtcE8wWUZxTEZWTUJfNDZYLXRKamJ4QmFNYXE1dFl6dTlvX05Jem15RmRpYXlhVWkzUmhpWlNPYURSeGJhQ0RvbW80RUw3cXFSVVJDSU0yeDJPQmlJTktndExPMWU3YlBYY2hr?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260918T031200Z",
+          "pinned": false
         },
         {
           "title": "F-16 Crashes During Training Exercise in Michigan; Pilot Ejects",
@@ -45,15 +53,7 @@
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQzZLZ0lJb0h6TlE0MEVVcmp0SjJMelZXT0wxczVnQkZ3X3JjTWY4OHZ2U01XOXlyMWVURVRGV0lJTXRhOW1za08xS1pkZDdzZ01ER0M3WjVOWDRSRjhnQmJzYXNKMlBvTkc4M05Rb1FCYjRxQmJCcF9YUkx0eW1vOVlfdG92WkNLT1A1VWp1MlM?oc=5",
           "domain": "stripes.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260917T030706Z",
-          "pinned": false
-        },
-        {
-          "title": "PLR 26-063 – Sports, Recreation and Physical Training Mishap Claims One Soldier’s Life",
-          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNRkNQZmRGdFhkbTNVVmJXUmtVS3NUNkhDbmN3VnZxQ1Y5MWxyQ0dCUndHMEYyZWdMbG9hRkdhZHNLSVk1YTc3YTZxVlVscDRrVnFqSmU1M1JqMlZhT2tuWS02dlRJTjBPSlhOcERZSUFTdkpXU2FlNEh0RHJKdmRRcXNEWFBfWWY4dER2Q3hRYzJsN09NbnROcTd4THJFVXV0RVdQOXp1by15NzE2Zzh1dXpHU2kzX0kyVVltUEZqZV93RXdOUFdPZXdYaHFadXVqZnprMTNLc2pPbm1oRUxlX3puOVdsOGVmcmF1Ym4zSkVZUHVLTHJWblk3c0dxUF9YUkxyZW9B?oc=5",
-          "domain": "safety.army.mil",
-          "sourceTier": "Official military source",
-          "seen": "20260910T194643Z",
+          "seen": "20260917T210954Z",
           "pinned": false
         },
         {
@@ -81,27 +81,11 @@
           "pinned": false
         },
         {
-          "title": "Air Force officer, 2 Army Corps of Engineers civilians among Alaska plane crash dead",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYWN2ZkJSSU15Ukg1b21aVmlMSmVyT0FFYnJLVjJJOW5BRnBzdzFadnBUUEprSDNEbzEzYVBOakRsYVRmdUN0YzZXc1llV0xVMklfRllWYVVJLVpnaVU3cU90aUlQY0RmQUtwYkFPdGpZMGNFd3FtN2pfdmpDclo4WGUyamVXN0phc1VWUU9JdzRDZHhUMVlnRE5FREt0U2JXVFhjSVplbWluZHB4T3RRbw?oc=5",
-          "domain": "stripes.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260825T070000Z",
-          "pinned": false
-        },
-        {
           "title": "Air Force officer killed in remote Alaska crash was a ‘positive leader’",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yMTM3UTdNeXVhbVFBc2JTWDN4QzVJTG5sSk43aGh3a0FtRXI5dHgycy04dEhFUnBkSFd4NDUxNFkzQmZ0eXRRR29KTDNKV1FValItZzBoa25MNGI0WmhIOVVwZVhkZkk?oc=5",
           "domain": "taskandpurpose.com",
           "sourceTier": "Independent reporting",
           "seen": "20260825T070000Z",
-          "pinned": false
-        },
-        {
-          "title": "Coast Guard, Michigan State Police rescue missing hiker from Lake Superior island",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQ0ZXYV9MZ0NzR05RcF9NdzdEVWh3d0w1MlR3ZmJ2TE0tTW9maWwzQ1VUU3lSR2EzalFhcnBmWVdtR0UzcFpKT2x2ZXRZZ3pseG41OHNPeEgyTXZuOHFWN1F0TTdVeW5NQWZBVnZzY0h1RVI2TTJjMXc5RE16WUxPV1EtaklkemRxeGwwQzV1TzgwZkFBVGRjYXlMRHpKMVd3aTZTeDZEbURjd1ZOdFFoMDMzOFExTVFKUG1WMTcyaHc3dFB0NmNMc3NmbUlHZzZFNC1lcQ?oc=5",
-          "domain": "news.uscg.mil",
-          "sourceTier": "Official military source",
-          "seen": "20260913T013859Z",
           "pinned": false
         },
         {
@@ -111,9 +95,35 @@
           "sourceTier": "Official military source",
           "seen": "20260917T235209Z",
           "pinned": false
+        },
+        {
+          "title": "Coast Guard, Michigan State Police rescue missing hiker from Lake Superior island",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQ0ZXYV9MZ0NzR05RcF9NdzdEVWh3d0w1MlR3ZmJ2TE0tTW9maWwzQ1VUU3lSR2EzalFhcnBmWVdtR0UzcFpKT2x2ZXRZZ3pseG41OHNPeEgyTXZuOHFWN1F0TTdVeW5NQWZBVnZzY0h1RVI2TTJjMXc5RE16WUxPV1EtaklkemRxeGwwQzV1TzgwZkFBVGRjYXlMRHpKMVd3aTZTeDZEbURjd1ZOdFFoMDMzOFExTVFKUG1WMTcyaHc3dFB0NmNMc3NmbUlHZzZFNC1lcQ?oc=5",
+          "domain": "news.uscg.mil",
+          "sourceTier": "Official military source",
+          "seen": "20260913T013859Z",
+          "pinned": false
         }
       ],
       "incidents": [
+        {
+          "id": "auto-15bc17bcf6f9",
+          "reportDate": "2026-09-18",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Aviation",
+          "event": "Military: An F-16 crashes during training in Michigan; pilot ejects safely",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTnBOOXlWVHlRR0F2Y1BlQ05nbWh4ODd0NEloQktkVi1lTURybmNoMHhaa1ZCbldPZE5sbEJhU3EtcE8wWUZxTEZWTUJfNDZYLXRKamJ4QmFNYXE1dFl6dTlvX05Jem15RmRpYXlhVWkzUmhpWlNPYURSeGJhQ0RvbW80RUw3cXFSVVJDSU0yeDJPQmlJTktndExPMWU3YlBYY2hr?oc=5",
+          "sourceLabel": "apnews.com"
+        },
         {
           "id": "auto-909d4b3888c3",
           "reportDate": "2026-09-18",
@@ -349,24 +359,6 @@
           "sourceLabel": "apnews.com"
         },
         {
-          "id": "auto-7427334c6413",
-          "reportDate": "2026-08-25",
-          "dateBasis": "report discovery date",
-          "branch": "Air Force",
-          "department": "Department of the Air Force",
-          "type": "Aviation",
-          "event": "Air Force officer, 2 Army Corps of Engineers civilians among Alaska plane crash dead",
-          "location": "See official source",
-          "fatalities": null,
-          "injuries": null,
-          "status": "REPORTED / UNVALIDATED",
-          "signalClass": "REPORTED MISHAP",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
-          "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYWN2ZkJSSU15Ukg1b21aVmlMSmVyT0FFYnJLVjJJOW5BRnBzdzFadnBUUEprSDNEbzEzYVBOakRsYVRmdUN0YzZXc1llV0xVMklfRllWYVVJLVpnaVU3cU90aUlQY0RmQUtwYkFPdGpZMGNFd3FtN2pfdmpDclo4WGUyamVXN0phc1VWUU9JdzRDZHhUMVlnRE5FREt0U2JXVFhjSVplbWluZHB4T3RRbw?oc=5",
-          "sourceLabel": "stripes.com"
-        },
-        {
           "id": "auto-bab30a20e514",
           "reportDate": "2026-08-25",
           "dateBasis": "report discovery date",
@@ -383,6 +375,24 @@
           "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
           "source": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yMTM3UTdNeXVhbVFBc2JTWDN4QzVJTG5sSk43aGh3a0FtRXI5dHgycy04dEhFUnBkSFd4NDUxNFkzQmZ0eXRRR29KTDNKV1FValItZzBoa25MNGI0WmhIOVVwZVhkZkk?oc=5",
           "sourceLabel": "taskandpurpose.com"
+        },
+        {
+          "id": "auto-7427334c6413",
+          "reportDate": "2026-08-25",
+          "dateBasis": "report discovery date",
+          "branch": "Air Force",
+          "department": "Department of the Air Force",
+          "type": "Aviation",
+          "event": "Air Force officer, 2 Army Corps of Engineers civilians among Alaska plane crash dead",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYWN2ZkJSSU15Ukg1b21aVmlMSmVyT0FFYnJLVjJJOW5BRnBzdzFadnBUUEprSDNEbzEzYVBOakRsYVRmdUN0YzZXc1llV0xVMklfRllWYVVJLVpnaVU3cU90aUlQY0RmQUtwYkFPdGpZMGNFd3FtN2pfdmpDclo4WGUyamVXN0phc1VWUU9JdzRDZHhUMVlnRE5FREt0U2JXVFhjSVplbWluZHB4T3RRbw?oc=5",
+          "sourceLabel": "stripes.com"
         },
         {
           "id": "auto-f451a5233abb",
