@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T04:36:33.485Z",
+  "generatedAt": "2026-09-19T10:58:05.138Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-09-19T04:36:33.485Z",
+      "generatedAt": "2026-09-19T10:58:05.138Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -1431,23 +1431,23 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-09-19T04:36:33.485Z",
+      "generatedAt": "2026-09-19T10:58:05.138Z",
       "cadence": "every 6 hours",
       "items": [
-        {
-          "title": "Iran hesitates to clamp down on defiance of headscarf rules as war and economic pressures mount",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQX1ozOThyMm52Q1pxdDRHVy1fRDNWeXBGLV85V0pzXy16QlY0QmIteTJvRHZPWlQ5UC1WbWh2ZWRYZXlpck5uSGdqc01RZWZxWWlybU5FZkNyeFZONUJrVHFVa0xDUXBjWHVCN0Nvd1pkS09zckw1VXdFcVIxZzZCRjBnbk9QYWRhblZwcXY4SVBiMmdyMS0yZDlJdFRPNkJySW9z?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260916T192500Z",
-          "pinned": false
-        },
         {
           "title": "Iran war increasing inflation, straining US munitions: congressional report",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQkxVbTZwTHBPc3ZaTFhWcTduWVZ0U2hjQ3hHek8yQkVhazl5dXdCS1p6WGJnb0JnclJlU0d0MkJ4OHJIc3dOWVZIR3dTZWRma2taSGlsVDYzT0xqaElvZ29EMzlYcC15SEYwMXlFMF84TkRMVE84MW16c3JnWVM3WlpHVHZVXzJtVlVUZ1M2enpOQ0NvdXd6RHVWUzdITE1Sc2xQVlF4cWNINFZMMTNYQURnT0rSAboBQVVfeXFMUDBUU2RHREliYVljZjNCU3FVcW1md212MF9hV0xOVGdhYXU5blB3OUlJUFNKSVpQVFBTS0p4am4tUkhvamVERjctZzZfdlJzZFJ5TkZ0LW16SkFKX2NzQURfd3RpUDBEbUptbHpIYUJiNVo1MGRkX1hyTm5VRW1vOEQ3OFc1UDFmdnM3M09EYWdwWFdkWkVhSk1GX2hwMGMzc0dvM3pjd3ZJRzZSREJhZUdmeFRORTFZWXp3?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260916T005722Z",
+          "pinned": false
+        },
+        {
+          "title": "Iran hesitates to clamp down on defiance of headscarf rules as war and economic pressures mount",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQX1ozOThyMm52Q1pxdDRHVy1fRDNWeXBGLV85V0pzXy16QlY0QmIteTJvRHZPWlQ5UC1WbWh2ZWRYZXlpck5uSGdqc01RZWZxWWlybU5FZkNyeFZONUJrVHFVa0xDUXBjWHVCN0Nvd1pkS09zckw1VXdFcVIxZzZCRjBnbk9QYWRhblZwcXY4SVBiMmdyMS0yZDlJdFRPNkJySW9z?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260916T192500Z",
           "pinned": false
         },
         {
@@ -1507,14 +1507,6 @@
           "pinned": false
         },
         {
-          "title": "US House passes war powers resolution, directing Trump to end Iran war",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPU04yUUg5aEpVSzg0YUpNME9XTE5FT0c0VnNwM09yRVFtTENveUlELU12WXF3T1FHeFI2c0x5VnYyRi1Wd1JJeUJ4VlAzZWNoR21pTEZHcGU3bDZIa1lzSDZfWk5zVThoekRocmdjdWZYMzlnRUxiZElXcmxEaDEwbDZ5SnhKTWJyVFpoTExvV2NvRG1JRnRtemZZWnNyaFNLMThEejAyQ1I1Q3dtSWdRbXNqTUhqRDFzdEFRdHJR?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "seen": "20260916T035346Z",
-          "pinned": false
-        },
-        {
           "title": "If Europe attacks Russia, war will be 'completely different, very short': Lavrov",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPR3FsWUVOOF9KU3c3T00zLWNsZ1NKVnpidVVDbGNILWoxTFBYblVKalY0SEdvQzFuTFgwRlB3cXh0RjVtcTRqSXJ2b1dqbWVTVW5WR3hnYVFWd3d6cnRrQmlxMkVBWm9yMWRBV3hGZzB0VWxZd0hzWGNQdW9TQXVzejJmQXg1UU83aWk4empfVzU3M0FjemxtY0JaOVhfLWNaOXhRRUpGMXRNSnVYOFc1VmE1QU1mZlJzMko3Xw?oc=5",
           "domain": "aa.com.tr",
@@ -1531,6 +1523,14 @@
           "pinned": false
         },
         {
+          "title": "The Interview | Mirjana Spoljaric, president of the ICRC: The rules of war are being ignored",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1YYjN4Q3JrLXFLQzFvOEYzSlV5ckxDNUNfMkphSFpWRDlmcUpfU0daUFgxdlAtS3RGbUxjWFJJWGNkYTJFYVFId0oydGVzYzNO?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260918T001316Z",
+          "pinned": false
+        },
+        {
           "title": "United Nations says US may have committed war crimes in Iran: What it means",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOW13MjVKdFFVZWFWcFJDWHJKWTVSTnFmQ3RRV04yWHdwMkRXbXFVU2FKQ0RfX3dDYjVRVnc4MTJyZUtSX2hqTERlc3o3RUdFbmFwZTIxOEptZHRXWl93eTQxMjVMNG1kUk96RjRZME1fWVpZcEZJOHRqTVBLTjNFaV9SOHF1SzRhT19ZSWVxZkdfUEVnR2ZXMXo1SVM5TjR0VkQ5YWFtVEhZMGNDTU9ONTAyMGVQZ9IBuwFBVV95cUxOMExGYjl6ZURSSFhwMXpUUURBM2VVUVp2ZjM1aUZMZnVDREw5U3VLNlJtb1liWXZ1enpUSFVLcHBJRU5hWFF6UGRNTGI5SnZ0dURielBScG9LcDdwbUZmb3UtWVpxNnpFNjlHZVR5WkNYZjhYeF9vTHlrRno1WXh3MFBUaWxDc2l3UlJub3N6eWZQd0FTR1pCSjl4Rk55YnY0NnI2Y0RpdE1SZzZvNDdJLUhkRHdIRVM1SFRV?oc=5",
           "domain": "aljazeera.com",
@@ -1539,11 +1539,19 @@
           "pinned": false
         },
         {
-          "title": "The Interview | Mirjana Spoljaric, president of the ICRC: The rules of war are being ignored",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1YYjN4Q3JrLXFLQzFvOEYzSlV5ckxDNUNfMkphSFpWRDlmcUpfU0daUFgxdlAtS3RGbUxjWFJJWGNkYTJFYVFId0oydGVzYzNO?oc=5",
-          "domain": "bbc.com",
+          "title": "Hundreds of thousands attend Iran's biggest government-organized rally since the war began",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQelhtVHdQX01KdzBfMHR6ejFoWW55ZWhqbnZ1ZVJtSVR6NWo0dmNOTFVpbmZhQlFKRC11aDd6WnlsbmYzYjFsWUgtcWt2VW54Qmk4c08yQWotUXVTZXJpLURfSXVseGdmWlNhNHFUN3hwVmJSbzF5UjRCZm8weGNsZ2U5TE50V09hcGxXOFhR?oc=5",
+          "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260918T001316Z",
+          "seen": "20260918T203400Z",
+          "pinned": false
+        },
+        {
+          "title": "US House passes war powers resolution, directing Trump to end Iran war",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPU04yUUg5aEpVSzg0YUpNME9XTE5FT0c0VnNwM09yRVFtTENveUlELU12WXF3T1FHeFI2c0x5VnYyRi1Wd1JJeUJ4VlAzZWNoR21pTEZHcGU3bDZIa1lzSDZfWk5zVThoekRocmdjdWZYMzlnRUxiZElXcmxEaDEwbDZ5SnhKTWJyVFpoTExvV2NvRG1JRnRtemZZWnNyaFNLMThEejAyQ1I1Q3dtSWdRbXNqTUhqRDFzdEFRdHJR?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20260916T035346Z",
           "pinned": false
         },
         {
@@ -1555,11 +1563,11 @@
           "pinned": false
         },
         {
-          "title": "Trump signs sweeping Russia sanctions over Ukraine war",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZW53Y3d4N25GZjVKRlJ4RkxiRkZ6Y1NKTVJoUGp3bHFzZTk3OGJvdG1qMm9ubDhqQmo0YVYtQnc4aWNRejUwd2VFX1NVRFRMM1h0QXhLX2VwRTlYM2psTFBWeC1BekxaVUFfQm54bXhpOGtUdTU3MkJKUVV5cHpTcFBpRlQyVXFMVFpFcEVoVnN1S1hxQ0VLaTY0a9IBoAFBVV95cUxQOTFZdG83ZU5IOUxvQ2RqMnhzRnZfY2pZOTIyTHF2YUVSR2pCeGJTV25IWTVCU2w3WEg1LWl3SkdvVXVhZGJONEFZTk5VNlh3VFRnaGphSTlmRGtTaDkyNjM4YVlaOW8wOWZmaWxRNHpQVS1KT1ZyaGVUaUNnTzdQX25HODFUN1ZhcmVuNVZRVnFwNmlrbG1OSmRnTzF6MWFI?oc=5",
+          "title": "Report: More US troops have died in Iran war than Pentagon says",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbjNFNHprQ3A4aTB5SzlRYjhKVU1oUDNnYVNXNnFaNW9jeWtoVlpOb2JqazVEMXl0SjQ3dDVKb1NsQVlmU0V3ZmVYWVd2MWpsbjd0V1g0TFNuUUhxOVhVbmw1V3ZOeHlVRDdyNTVYSWhtYUZmb09PY3lDZFRDWnpQRVVMV25sT21HdGoyRzFSdEx1RlpTdHNibEo4dlVkZ28yQXIzbGxOaDhVcVFqcmRTVl94c9IBuAFBVV95cUxOT2hONXUtSWNpalIyQ05kQnQ1Z0M3WlZIbl9DRnBKcm1Hbl9LY3hqbGw5LWdDdWhZTm9HdlRQcjZBT2U2b1EyeldWWDJkcnpLZUVhYmV1WlhDNnBVNm1rZ3REc3dSQzJIUV9tdkJSZnR2MUZlZnczbGtqLWNyQXJjaUtjazdGSzhOWUhpQ2lCbmJOZ0F5bGFnZkRUQ1NoNmJwcnpWQ1FpeFV5ZEhWX1V4Y1pqUEJsQkJk?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260919T004953Z",
+          "seen": "20260919T031039Z",
           "pinned": false
         },
         {
@@ -1579,6 +1587,14 @@
           "pinned": false
         },
         {
+          "title": "How escalating Saudi oil crisis could drive up prices everywhere",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBWXN1ckpzblpZRTZleFBXbHlsYTNlQXhncW1HZ1BuOTBvb3U1RHl4UXhHM1VaWEtGd1RwMmo4N09zVjAxMWtlaEtwT1kzdXpHdk9rWnpjYkxjcVE?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260916T160650Z",
+          "pinned": false
+        },
+        {
           "title": "Photos show widespread damage at US sites from Iranian attacks",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zVk5hSlZtZm14dEo2V2M4bEcyZjRDZzlYVWYtSXJjMFdUVklaZTZJekFXYnFVSFhEam1JLUEyQXJ5R0RudDFXb3d3Ti1DWF9FWXI0dkMwc0ZRMEE?oc=5",
           "domain": "bbc.com",
@@ -1595,16 +1611,8 @@
           "pinned": false
         },
         {
-          "title": "Hundreds of thousands attend Iran's biggest government-organized rally since the war began",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQelhtVHdQX01KdzBfMHR6ejFoWW55ZWhqbnZ1ZVJtSVR6NWo0dmNOTFVpbmZhQlFKRC11aDd6WnlsbmYzYjFsWUgtcWt2VW54Qmk4c08yQWotUXVTZXJpLURfSXVseGdmWlNhNHFUN3hwVmJSbzF5UjRCZm8weGNsZ2U5TE50V09hcGxXOFhR?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260918T203400Z",
-          "pinned": false
-        },
-        {
           "title": "At least 19 injured in Russian attacks across Ukraine",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUGxGUkxCRXVSeENiRVQ5OUY2cnZLQkdENzZfQzhpc2JSdUFZeXp1OFgzbnRCZlBsSjlqcElzRFExU1RtN3Z3bUw4YWdQV0lQSnREYjVNaHhabThtV1pmN0JKQ3lQS2k4c3ZmNUd5LWJMbWk4WTRQaW1XSFBTRUlvbEQ4dllfSTc5RGpKWG54Z2RjY0VlYzJXR21n?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUGxGUkxCRXVSeENiRVQ5OUY2cnZLQkdENzZfQzhpc2JSdUFZeXp1OFgzbnRCZlBsSjlqcElzRFExU1RtN3Z3bUw4YWdQV0lQSnREYjVNaHhabThtV1pmN0JKQ3lQS2k4c3ZmNUd5LWJMbWk4WTRQaW1XSFBTRUlvbEQ4dllfSTc5RGpKWG54Z2RjY0VlYzJXR21n0gGfAUFVX3lxTE1vUkxXQkx2NmxHOGZvdmtCSVFuc2pVaXR6ZmpQcmt3RnhKektodXpCalN5aXRxUWtjaDJGcW9NMWFJa2dkazNIckI5ZV9jTW13ZkpzV0o1SmNCWm9FSlNqRm5iUFR4X1NlaUNQME9WM1JYbmR1ajlpZk5qa1E5QnJMQzNRRXFMUE5ERUcxdEVNOFBZeHlhbkl4ZUtrQ2Z1MA?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260917T130257Z",
@@ -1617,26 +1625,9 @@
           "sourceTier": "Independent reporting",
           "seen": "20260916T113800Z",
           "pinned": false
-        },
-        {
-          "title": "Iran war’s cost grows to $43.6 billion in new US military estimate",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeGg2SlRYcEhCY3djYmV2MVlDUmRGZnRvMC1VV2Rtb2JDZkdvNlVIdUp4V0lPUUE1UWNfTmx3MXZfcE9PcExQV0xmVHVmaDBhQjNUS3JwaWFZaUxWRmozNjdOUEgxeUl0NzlYVlBFdFYtc09yS2FCNjlIOHBZSmJCR0FXRi1pM1ZqNXd5d21qVEpvUEcwWDJjVXpSX19CdDZUbjNpMUlQRjlUZDh2?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260918T215200Z",
-          "pinned": false
         }
       ],
       "reports": [
-        {
-          "id": "report-c2835dd7d55d",
-          "title": "Iran hesitates to clamp down on defiance of headscarf rules as war and economic pressures mount",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQX1ozOThyMm52Q1pxdDRHVy1fRDNWeXBGLV85V0pzXy16QlY0QmIteTJvRHZPWlQ5UC1WbWh2ZWRYZXlpck5uSGdqc01RZWZxWWlybU5FZkNyeFZONUJrVHFVa0xDUXBjWHVCN0Nvd1pkS09zckw1VXdFcVIxZzZCRjBnbk9QYWRhblZwcXY4SVBiMmdyMS0yZDlJdFRPNkJySW9z?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-16T19:25:00Z"
-        },
         {
           "id": "report-fe6067343b23",
           "title": "Iran war increasing inflation, straining US munitions: congressional report",
@@ -1645,6 +1636,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-16T00:57:22Z"
+        },
+        {
+          "id": "report-c2835dd7d55d",
+          "title": "Iran hesitates to clamp down on defiance of headscarf rules as war and economic pressures mount",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQX1ozOThyMm52Q1pxdDRHVy1fRDNWeXBGLV85V0pzXy16QlY0QmIteTJvRHZPWlQ5UC1WbWh2ZWRYZXlpck5uSGdqc01RZWZxWWlybU5FZkNyeFZONUJrVHFVa0xDUXBjWHVCN0Nvd1pkS09zckw1VXdFcVIxZzZCRjBnbk9QYWRhblZwcXY4SVBiMmdyMS0yZDlJdFRPNkJySW9z?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-16T19:25:00Z"
         },
         {
           "id": "report-0fa40444ce52",
@@ -1710,15 +1710,6 @@
           "reportedAt": "2026-09-17T14:21:00Z"
         },
         {
-          "id": "report-71b78573036f",
-          "title": "US House passes war powers resolution, directing Trump to end Iran war",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPU04yUUg5aEpVSzg0YUpNME9XTE5FT0c0VnNwM09yRVFtTENveUlELU12WXF3T1FHeFI2c0x5VnYyRi1Wd1JJeUJ4VlAzZWNoR21pTEZHcGU3bDZIa1lzSDZfWk5zVThoekRocmdjdWZYMzlnRUxiZElXcmxEaDEwbDZ5SnhKTWJyVFpoTExvV2NvRG1JRnRtemZZWnNyaFNLMThEejAyQ1I1Q3dtSWdRbXNqTUhqRDFzdEFRdHJR?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
-          "reportedAt": "2026-09-16T03:53:46Z"
-        },
-        {
           "id": "report-2e2b9dec30f1",
           "title": "If Europe attacks Russia, war will be 'completely different, very short': Lavrov",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPR3FsWUVOOF9KU3c3T00zLWNsZ1NKVnpidVVDbGNILWoxTFBYblVKalY0SEdvQzFuTFgwRlB3cXh0RjVtcTRqSXJ2b1dqbWVTVW5WR3hnYVFWd3d6cnRrQmlxMkVBWm9yMWRBV3hGZzB0VWxZd0hzWGNQdW9TQXVzejJmQXg1UU83aWk4empfVzU3M0FjemxtY0JaOVhfLWNaOXhRRUpGMXRNSnVYOFc1VmE1QU1mZlJzMko3Xw?oc=5",
@@ -1737,6 +1728,15 @@
           "reportedAt": "2026-09-16T11:42:50Z"
         },
         {
+          "id": "report-683faaf0799f",
+          "title": "The Interview | Mirjana Spoljaric, president of the ICRC: The rules of war are being ignored",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1YYjN4Q3JrLXFLQzFvOEYzSlV5ckxDNUNfMkphSFpWRDlmcUpfU0daUFgxdlAtS3RGbUxjWFJJWGNkYTJFYVFId0oydGVzYzNO?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-18T00:13:16Z"
+        },
+        {
           "id": "report-739b38dce694",
           "title": "United Nations says US may have committed war crimes in Iran: What it means",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOW13MjVKdFFVZWFWcFJDWHJKWTVSTnFmQ3RRV04yWHdwMkRXbXFVU2FKQ0RfX3dDYjVRVnc4MTJyZUtSX2hqTERlc3o3RUdFbmFwZTIxOEptZHRXWl93eTQxMjVMNG1kUk96RjRZME1fWVpZcEZJOHRqTVBLTjNFaV9SOHF1SzRhT19ZSWVxZkdfUEVnR2ZXMXo1SVM5TjR0VkQ5YWFtVEhZMGNDTU9ONTAyMGVQZ9IBuwFBVV95cUxOMExGYjl6ZURSSFhwMXpUUURBM2VVUVp2ZjM1aUZMZnVDREw5U3VLNlJtb1liWXZ1enpUSFVLcHBJRU5hWFF6UGRNTGI5SnZ0dURielBScG9LcDdwbUZmb3UtWVpxNnpFNjlHZVR5WkNYZjhYeF9vTHlrRno1WXh3MFBUaWxDc2l3UlJub3N6eWZQd0FTR1pCSjl4Rk55YnY0NnI2Y0RpdE1SZzZvNDdJLUhkRHdIRVM1SFRV?oc=5",
@@ -1746,13 +1746,22 @@
           "reportedAt": "2026-09-18T10:45:59Z"
         },
         {
-          "id": "report-683faaf0799f",
-          "title": "The Interview | Mirjana Spoljaric, president of the ICRC: The rules of war are being ignored",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1YYjN4Q3JrLXFLQzFvOEYzSlV5ckxDNUNfMkphSFpWRDlmcUpfU0daUFgxdlAtS3RGbUxjWFJJWGNkYTJFYVFId0oydGVzYzNO?oc=5",
-          "domain": "bbc.com",
+          "id": "report-e1b9e3a147c1",
+          "title": "Hundreds of thousands attend Iran's biggest government-organized rally since the war began",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQelhtVHdQX01KdzBfMHR6ejFoWW55ZWhqbnZ1ZVJtSVR6NWo0dmNOTFVpbmZhQlFKRC11aDd6WnlsbmYzYjFsWUgtcWt2VW54Qmk4c08yQWotUXVTZXJpLURfSXVseGdmWlNhNHFUN3hwVmJSbzF5UjRCZm8weGNsZ2U5TE50V09hcGxXOFhR?oc=5",
+          "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-18T00:13:16Z"
+          "reportedAt": "2026-09-18T20:34:00Z"
+        },
+        {
+          "id": "report-71b78573036f",
+          "title": "US House passes war powers resolution, directing Trump to end Iran war",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPU04yUUg5aEpVSzg0YUpNME9XTE5FT0c0VnNwM09yRVFtTENveUlELU12WXF3T1FHeFI2c0x5VnYyRi1Wd1JJeUJ4VlAzZWNoR21pTEZHcGU3bDZIa1lzSDZfWk5zVThoekRocmdjdWZYMzlnRUxiZElXcmxEaDEwbDZ5SnhKTWJyVFpoTExvV2NvRG1JRnRtemZZWnNyaFNLMThEejAyQ1I1Q3dtSWdRbXNqTUhqRDFzdEFRdHJR?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-09-16T03:53:46Z"
         },
         {
           "id": "report-f14d410b5b37",
@@ -1764,13 +1773,13 @@
           "reportedAt": "2026-09-16T09:40:03Z"
         },
         {
-          "id": "report-6f4a50e31bd1",
-          "title": "Trump signs sweeping Russia sanctions over Ukraine war",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZW53Y3d4N25GZjVKRlJ4RkxiRkZ6Y1NKTVJoUGp3bHFzZTk3OGJvdG1qMm9ubDhqQmo0YVYtQnc4aWNRejUwd2VFX1NVRFRMM1h0QXhLX2VwRTlYM2psTFBWeC1BekxaVUFfQm54bXhpOGtUdTU3MkJKUVV5cHpTcFBpRlQyVXFMVFpFcEVoVnN1S1hxQ0VLaTY0a9IBoAFBVV95cUxQOTFZdG83ZU5IOUxvQ2RqMnhzRnZfY2pZOTIyTHF2YUVSR2pCeGJTV25IWTVCU2w3WEg1LWl3SkdvVXVhZGJONEFZTk5VNlh3VFRnaGphSTlmRGtTaDkyNjM4YVlaOW8wOWZmaWxRNHpQVS1KT1ZyaGVUaUNnTzdQX25HODFUN1ZhcmVuNVZRVnFwNmlrbG1OSmRnTzF6MWFI?oc=5",
+          "id": "report-715dcaab8ca5",
+          "title": "Report: More US troops have died in Iran war than Pentagon says",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbjNFNHprQ3A4aTB5SzlRYjhKVU1oUDNnYVNXNnFaNW9jeWtoVlpOb2JqazVEMXl0SjQ3dDVKb1NsQVlmU0V3ZmVYWVd2MWpsbjd0V1g0TFNuUUhxOVhVbmw1V3ZOeHlVRDdyNTVYSWhtYUZmb09PY3lDZFRDWnpQRVVMV25sT21HdGoyRzFSdEx1RlpTdHNibEo4dlVkZ28yQXIzbGxOaDhVcVFqcmRTVl94c9IBuAFBVV95cUxOT2hONXUtSWNpalIyQ05kQnQ1Z0M3WlZIbl9DRnBKcm1Hbl9LY3hqbGw5LWdDdWhZTm9HdlRQcjZBT2U2b1EyeldWWDJkcnpLZUVhYmV1WlhDNnBVNm1rZ3REc3dSQzJIUV9tdkJSZnR2MUZlZnczbGtqLWNyQXJjaUtjazdGSzhOWUhpQ2lCbmJOZ0F5bGFnZkRUQ1NoNmJwcnpWQ1FpeFV5ZEhWX1V4Y1pqUEJsQkJk?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-19T00:49:53Z"
+          "reportedAt": "2026-09-19T03:10:39Z"
         },
         {
           "id": "report-986615d34629",
@@ -1791,6 +1800,15 @@
           "reportedAt": "2026-09-17T02:02:49Z"
         },
         {
+          "id": "report-3d66b2db992f",
+          "title": "How escalating Saudi oil crisis could drive up prices everywhere",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBWXN1ckpzblpZRTZleFBXbHlsYTNlQXhncW1HZ1BuOTBvb3U1RHl4UXhHM1VaWEtGd1RwMmo4N09zVjAxMWtlaEtwT1kzdXpHdk9rWnpjYkxjcVE?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-16T16:06:50Z"
+        },
+        {
           "id": "report-379a91d95d05",
           "title": "Photos show widespread damage at US sites from Iranian attacks",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zVk5hSlZtZm14dEo2V2M4bEcyZjRDZzlYVWYtSXJjMFdUVklaZTZJekFXYnFVSFhEam1JLUEyQXJ5R0RudDFXb3d3Ti1DWF9FWXI0dkMwc0ZRMEE?oc=5",
@@ -1809,18 +1827,9 @@
           "reportedAt": "2026-09-16T20:01:38Z"
         },
         {
-          "id": "report-e1b9e3a147c1",
-          "title": "Hundreds of thousands attend Iran's biggest government-organized rally since the war began",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQelhtVHdQX01KdzBfMHR6ejFoWW55ZWhqbnZ1ZVJtSVR6NWo0dmNOTFVpbmZhQlFKRC11aDd6WnlsbmYzYjFsWUgtcWt2VW54Qmk4c08yQWotUXVTZXJpLURfSXVseGdmWlNhNHFUN3hwVmJSbzF5UjRCZm8weGNsZ2U5TE50V09hcGxXOFhR?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-18T20:34:00Z"
-        },
-        {
-          "id": "report-c4b530058366",
+          "id": "report-ec4304a2c761",
           "title": "At least 19 injured in Russian attacks across Ukraine",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUGxGUkxCRXVSeENiRVQ5OUY2cnZLQkdENzZfQzhpc2JSdUFZeXp1OFgzbnRCZlBsSjlqcElzRFExU1RtN3Z3bUw4YWdQV0lQSnREYjVNaHhabThtV1pmN0JKQ3lQS2k4c3ZmNUd5LWJMbWk4WTRQaW1XSFBTRUlvbEQ4dllfSTc5RGpKWG54Z2RjY0VlYzJXR21n?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUGxGUkxCRXVSeENiRVQ5OUY2cnZLQkdENzZfQzhpc2JSdUFZeXp1OFgzbnRCZlBsSjlqcElzRFExU1RtN3Z3bUw4YWdQV0lQSnREYjVNaHhabThtV1pmN0JKQ3lQS2k4c3ZmNUd5LWJMbWk4WTRQaW1XSFBTRUlvbEQ4dllfSTc5RGpKWG54Z2RjY0VlYzJXR21n0gGfAUFVX3lxTE1vUkxXQkx2NmxHOGZvdmtCSVFuc2pVaXR6ZmpQcmt3RnhKektodXpCalN5aXRxUWtjaDJGcW9NMWFJa2dkazNIckI5ZV9jTW13ZkpzV0o1SmNCWm9FSlNqRm5iUFR4X1NlaUNQME9WM1JYbmR1ajlpZk5qa1E5QnJMQzNRRXFMUE5ERUcxdEVNOFBZeHlhbkl4ZUtrQ2Z1MA?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
@@ -1834,15 +1843,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-16T11:38:00Z"
-        },
-        {
-          "id": "report-70efc925f09e",
-          "title": "Iran war’s cost grows to $43.6 billion in new US military estimate",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeGg2SlRYcEhCY3djYmV2MVlDUmRGZnRvMC1VV2Rtb2JDZkdvNlVIdUp4V0lPUUE1UWNfTmx3MXZfcE9PcExQV0xmVHVmaDBhQjNUS3JwaWFZaUxWRmozNjdOUEgxeUl0NzlYVlBFdFYtc09yS2FCNjlIOHBZSmJCR0FXRi1pM1ZqNXd5d21qVEpvUEcwWDJjVXpSX19CdDZUbjNpMUlQRjlUZDh2?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-18T21:52:00Z"
         },
         {
           "id": "report-cbd65ec1849c",
