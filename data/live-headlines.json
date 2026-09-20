@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T20:39:38.886Z",
+  "generatedAt": "2026-09-20T04:53:10.718Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-09-19T20:39:38.886Z",
+      "generatedAt": "2026-09-20T04:53:10.718Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -1441,15 +1441,31 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-09-19T20:39:38.886Z",
+      "generatedAt": "2026-09-20T04:53:10.718Z",
       "cadence": "every 6 hours",
       "items": [
         {
-          "title": "Iran war increasing inflation, straining US munitions: congressional report",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQkxVbTZwTHBPc3ZaTFhWcTduWVZ0U2hjQ3hHek8yQkVhazl5dXdCS1p6WGJnb0JnclJlU0d0MkJ4OHJIc3dOWVZIR3dTZWRma2taSGlsVDYzT0xqaElvZ29EMzlYcC15SEYwMXlFMF84TkRMVE84MW16c3JnWVM3WlpHVHZVXzJtVlVUZ1M2enpOQ0NvdXd6RHVWUzdITE1Sc2xQVlF4cWNINFZMMTNYQURnT0rSAboBQVVfeXFMUDBUU2RHREliYVljZjNCU3FVcW1md212MF9hV0xOVGdhYXU5blB3OUlJUFNKSVpQVFBTS0p4am4tUkhvamVERjctZzZfdlJzZFJ5TkZ0LW16SkFKX2NzQURfd3RpUDBEbUptbHpIYUJiNVo1MGRkX1hyTm5VRW1vOEQ3OFc1UDFmdnM3M09EYWdwWFdkWkVhSk1GX2hwMGMzc0dvM3pjd3ZJRzZSREJhZUdmeFRORTFZWXp3?oc=5",
-          "domain": "aljazeera.com",
+          "title": "Cultural treasures are being destroyed by war, and people want justice",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OeEwtbjcyOTZPV3liT0U2VmdPOENkbXB2Q0RsQWo0WFE1QndqN2RleWFHRkpibThEVVpRNGhxdHY3TEU1elFkQUZfbHgtdk9xZmZxRXhfYlM3UQ?oc=5",
+          "domain": "bbc.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260916T005722Z",
+          "seen": "20260919T231818Z",
+          "pinned": false
+        },
+        {
+          "title": "Nobel laureate Narges Mohammadi tells the AP that Iranians paying the price for war and repression",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRmlzTnd1RkxNeWcyaDBTMmdoY0FxdU9FVGFZd1NIWHFLWjRIZHR5Z083Tk1lUVlTNGJZRndfOERTXy0tVzUzcHdfU1BqeGw2SU0zRXJsbTBHQlIzbUtsdTFCRHFFbWRsM0xBT0Y4Uzl1S0FzYUpxMWpKRk5rVE5SS2ZHQ0RCWEw5NW9EaGo2LVN5RndVREN3eUtR?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260919T210100Z",
+          "pinned": false
+        },
+        {
+          "title": "Iran war",
+          "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260919T032858Z",
           "pinned": false
         },
         {
@@ -1461,35 +1477,11 @@
           "pinned": false
         },
         {
-          "title": "Nobel laureate Narges Mohammadi tells the AP that Iranians paying the price for war and repression",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRmlzTnd1RkxNeWcyaDBTMmdoY0FxdU9FVGFZd1NIWHFLWjRIZHR5Z083Tk1lUVlTNGJZRndfOERTXy0tVzUzcHdfU1BqeGw2SU0zRXJsbTBHQlIzbUtsdTFCRHFFbWRsM0xBT0Y4Uzl1S0FzYUpxMWpKRk5rVE5SS2ZHQ0RCWEw5NW9EaGo2LVN5RndVREN3eUtR?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260919T202900Z",
-          "pinned": false
-        },
-        {
-          "title": "Iran hesitates to clamp down on defiance of headscarf rules as war and economic pressures mount",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQX1ozOThyMm52Q1pxdDRHVy1fRDNWeXBGLV85V0pzXy16QlY0QmIteTJvRHZPWlQ5UC1WbWh2ZWRYZXlpck5uSGdqc01RZWZxWWlybU5FZkNyeFZONUJrVHFVa0xDUXBjWHVCN0Nvd1pkS09zckw1VXdFcVIxZzZCRjBnbk9QYWRhblZwcXY4SVBiMmdyMS0yZDlJdFRPNkJySW9z?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260916T192500Z",
-          "pinned": false
-        },
-        {
-          "title": "Iran war has cost the US $38bn: How will it impact US economy, politics?",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPS1JGdDFLQ292eUpqYnp6ZF9jS2dpN0ZZTmMwSTFXbkUtd3ZmUXB4WGNqYlUwTTh2Vm92ZERLSXo1RlhPcG8xb2lfWGJCbERHcXAtLW56MVhOTEwxelpUdzBWbzFLc0RmWWFoYnFNOGxYd1dmUnRrZEFGSXdtZExhS21ZMXY0UFNGYm56S0RJZUFsSWFmVjgtcVNkR3htNm9EQWlNdTU3Z3RXcGhFYWZZ0gG0AUFVX3lxTFBKMTcyWHZVUHpaTWJZVmN1NkRLd3BoaWtidGVMRWhMMjV6bUtBMDVmOC1aTldIemNyT1hpelpLWWY0N0M3cC1wTWg4Y1VzWjc4WGNuQnRJMk9kaG5DREp0Mmw0bHk3cUh2cDJOUXV5SnpsLWlQdVFtRFRzTXY3d0lyMWVZQTRBYTJ1blFVb3pBdjJGWWhiRGQtd0V5dzYyazFRa185NUdfVlR1LXg4Q01mRGFweg?oc=5",
+          "title": "US voters oppose Iran war as 71% say Trump lacks clear strategy: Poll",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMWNvcnozNmZuM09zbkliVmdvZXlfN21hQUtFRzFhWENvTjRLcWZtNXN4WFQ5amxoWWJNa1NETTNWaGJNeE5ZY1pubGRTWnFkUjBZXzBMNWkwbHlfTF9DR2E2bXJ0cmFNNldsajc1azJUQVRjOGk5UU5qVVl4d0NBc1VIWTJYQkdCVEE3SmFTRnZzc0xRNEhRUUxSTzFnYlBm0gGmAUFVX3lxTFBSNjdZZ3Iwc2g4a1lVRERKQTVBZWVwbGc4RFFFZ1VqLVlacUtNQzlzMnVwM0pTMGhqLVlHQTlqUXh0WGF6dzVXWFFBeFY3Tm1Qcm9hWmpHN1F5cHRoMnhwcDlic0NGemlYTko3NWRMUW1hRTBTQ2ZSVFJlMVY1a241YWZkNXJUeVlHUEdrLUF0YUxDWXRuX0ptdEFQNWZDTnZQdmppdHc?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260916T145752Z",
-          "pinned": false
-        },
-        {
-          "title": "US House votes to end Iran war, 7 Republicans join in favour",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVDJWSk4xeEdIT0JHclk2RGI3dXZ0RE5rQVM3NVJJcnBaU0RpZWh1c2p4bkFyRHprSG9Tbl9YS2t2cDdNd29MQ0VhUXYyTzlOWXFiM2dfLXJPaHJqeXk0SDZrM0dfY3lNX2JPTW5jLWN0amxuWGFKXzJmT2NLbXZhNUJYWDZFVlFHa3BqOUc3X09ER3pYOWw2cWNVN21pM09NSEHSAacBQVVfeXFMTXVnOVhzSmFjQ2p2N1prWWkwQVRodU5WMFRIbjFIcG9tZ05JNHdYa2tTLVc2bFE0OVozM3h5b3U4OExxTko0cVhGbkRnWjZ6enJIdlF5dDcwZEVOTU1qdjhubzJiMGxKNVNnalEtN0gtRzZaZUppSWVfM2VkX29ySGRZYUZEYVFBY2lEM25EeDhZR3JFMGs4NjEycFR5M3ZrODdkZG1Gc2M?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260916T055001Z",
+          "seen": "20260918T132007Z",
           "pinned": false
         },
         {
@@ -1501,22 +1493,6 @@
           "pinned": false
         },
         {
-          "title": "US voters oppose Iran war as 71% say Trump lacks clear strategy: Poll",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMWNvcnozNmZuM09zbkliVmdvZXlfN21hQUtFRzFhWENvTjRLcWZtNXN4WFQ5amxoWWJNa1NETTNWaGJNeE5ZY1pubGRTWnFkUjBZXzBMNWkwbHlfTF9DR2E2bXJ0cmFNNldsajc1azJUQVRjOGk5UU5qVVl4d0NBc1VIWTJYQkdCVEE3SmFTRnZzc0xRNEhRUUxSTzFnYlBm0gGmAUFVX3lxTFBSNjdZZ3Iwc2g4a1lVRERKQTVBZWVwbGc4RFFFZ1VqLVlacUtNQzlzMnVwM0pTMGhqLVlHQTlqUXh0WGF6dzVXWFFBeFY3Tm1Qcm9hWmpHN1F5cHRoMnhwcDlic0NGemlYTko3NWRMUW1hRTBTQ2ZSVFJlMVY1a241YWZkNXJUeVlHUEdrLUF0YUxDWXRuX0ptdEFQNWZDTnZQdmppdHc?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260918T132007Z",
-          "pinned": false
-        },
-        {
-          "title": "House votes for a third time to end the Iran war as conflict drags on",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNnlkd1Y1cDB2MGdmcngydWZDR1JnXzY4aTliNFJCdzU5dHFWSzJSVzdtemF6STMwZGJSczRnUHBFOW5BU21jQk5GdzctbExET044UXg4dkZEcDQ3TkpZVTUyc2o1R0ZJY050MC1Ec0VrVE9QSWpKOVdjNWRtR2dqWmZKQ3lKX2NEd0dKb1o2RQ?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260916T031800Z",
-          "pinned": false
-        },
-        {
           "title": "The Iran war is driving clean energy development. It’s not enough to help the planet, yet",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV3dfdlVIcFF6YktYVjdVN3ZLclNqcUlnalZrV01XMENaM2Ntamo1QjZNRF9zNDM3eERuYXQ0RmZCcDBVZ3lleUg1Z1NfQ0NrLVVoSGxzZ01tcDhwZHlleFBYRmhrclk4eWZYeTAzNEE4bmJCQTVHNGFvQ2hSWXAwTkRHbzNVMUhETzdGMUVvaVpBam5vQ2tNZWtIRGw0bTg?oc=5",
           "domain": "apnews.com",
@@ -1525,11 +1501,11 @@
           "pinned": false
         },
         {
-          "title": "Kosovo's former president sentenced to 25 years for war crimes",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSb2Q5V1RkNkVmQWQxWGh3N2NUazZvT3JCYm1nYnZWOXVGdHJnR05TU1lXU3hfT3ZjQ3lNZHdWRlZCeEpfYXNnX0VsLUV0aTktellVX0d1a3NVQzQ?oc=5",
-          "domain": "bbc.com",
+          "title": "Iran says conditions to re-engage in talks, end war sent to US via Qatar",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ1JPc2xzcDhQMWhGREtsMUlPTnpUNDJ6dDRGZ0dNb0NYYUlMVnVJcnoyb1ZKSUFMdmdrQTVELTdaR2huNVdkQU9KRkVZRUdUcTREU25LSTJoeGt1WG1EZzZfV1pOREZhVmtmT0I2NkZKaE9uZUhMekpvSmN2MWZuWjc4cTEzZ2JUd1RoandXSG9fMUZickh4Y25TVzV3UEVQcmduVWd1cXhOaDJkVjBraUVR0gG3AUFVX3lxTFAwY3hyelpiTHdEV000Vm1PXzJ5YVpIUldCZnRnWEJLelBBQmVUMDFVTkluRlcxemVBOWVVXzdoQURGNnhDTU5PWjFUSFcxcHIwMTVIOS1QWG50TjIxbDhFdG1yWFdRS3JQeTNQRWVMUEpMcDdRNGJzSVZILTZ3MjZVQS1FQ0tyVFRQV3R1MG5qTkVwY3E1Sk5kdDk0ZGk1bHRZemVobm53Q1pRWTktRUhLMnZ4M0s2WQ?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260916T114250Z",
+          "seen": "20260919T183455Z",
           "pinned": false
         },
         {
@@ -1541,19 +1517,19 @@
           "pinned": false
         },
         {
-          "title": "If Europe attacks Russia, war will be 'completely different, very short': Lavrov",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPR3FsWUVOOF9KU3c3T00zLWNsZ1NKVnpidVVDbGNILWoxTFBYblVKalY0SEdvQzFuTFgwRlB3cXh0RjVtcTRqSXJ2b1dqbWVTVW5WR3hnYVFWd3d6cnRrQmlxMkVBWm9yMWRBV3hGZzB0VWxZd0hzWGNQdW9TQXVzejJmQXg1UU83aWk4empfVzU3M0FjemxtY0JaOVhfLWNaOXhRRUpGMXRNSnVYOFc1VmE1QU1mZlJzMko3Xw?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "seen": "20260916T112101Z",
-          "pinned": false
-        },
-        {
           "title": "United Nations says US may have committed war crimes in Iran: What it means",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOW13MjVKdFFVZWFWcFJDWHJKWTVSTnFmQ3RRV04yWHdwMkRXbXFVU2FKQ0RfX3dDYjVRVnc4MTJyZUtSX2hqTERlc3o3RUdFbmFwZTIxOEptZHRXWl93eTQxMjVMNG1kUk96RjRZME1fWVpZcEZJOHRqTVBLTjNFaV9SOHF1SzRhT19ZSWVxZkdfUEVnR2ZXMXo1SVM5TjR0VkQ5YWFtVEhZMGNDTU9ONTAyMGVQZ9IBuwFBVV95cUxOMExGYjl6ZURSSFhwMXpUUURBM2VVUVp2ZjM1aUZMZnVDREw5U3VLNlJtb1liWXZ1enpUSFVLcHBJRU5hWFF6UGRNTGI5SnZ0dURielBScG9LcDdwbUZmb3UtWVpxNnpFNjlHZVR5WkNYZjhYeF9vTHlrRno1WXh3MFBUaWxDc2l3UlJub3N6eWZQd0FTR1pCSjl4Rk55YnY0NnI2Y0RpdE1SZzZvNDdJLUhkRHdIRVM1SFRV?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260918T104559Z",
+          "pinned": false
+        },
+        {
+          "title": "'I don't even know if my parents are alive' - the war heroes jailed 25 years ago",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NUGM1cTl4bXVXZ0FsOVRXYmlpVzltWFlTd1A2bkJDUEJfM3lnSlUtUzlKTEFQUmJoYi1YeDlBazlZRlM5eVdJY25hdWFhQlB4QjJBeXN4R2lWSzg?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260919T230145Z",
           "pinned": false
         },
         {
@@ -1573,35 +1549,11 @@
           "pinned": false
         },
         {
-          "title": "At least five killed in Russian drone strike near Ukraine front line",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNc1c3LUM3SUlxbVRsOEswSTVlRzNkaGhxdDFYaXdIRjRaRHZlNmdqdzZnQmEyOWZUZzBSNE5Nb2dCWTNtdDMwNFdwZ2JKbHJkY0hmUHZWSU8zUjlfR0FkcGtEdnRUVFZZVndBSDNUNEhCYlVYWW9oNmQ3QmNrczZwUFZ0M3p3VW9fUWtEUzNPU2xudDhTTld0Y1JHUEhqMHFRNlZhcnJnVVlBRGFySVHSAbMBQVVfeXFMTlUwd1h5X0tzUzRiS2I4UzZpRE1CRXlnclJwNWNFWTM2a0JkbDBTeWIxbFVheEc0X2ZDRDFncjQxODR5U2VSd3dseWNIdlNHeXMteWJfdHJXLWR6Y2hvWFZPUVRIUXI2dlBQOUhaUm9kYk5UUGxuQ1BzUnZ5MWlvYXMxbHBOQThCMGxEV0ZpX1V5VjFISDNscTFOSkthRmZOaFpwY3JuM1J6YldOdUZnbjNSaVE?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260916T094003Z",
-          "pinned": false
-        },
-        {
-          "title": "How escalating Saudi oil crisis could drive up prices everywhere",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBWXN1ckpzblpZRTZleFBXbHlsYTNlQXhncW1HZ1BuOTBvb3U1RHl4UXhHM1VaWEtGd1RwMmo4N09zVjAxMWtlaEtwT1kzdXpHdk9rWnpjYkxjcVE?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260916T160650Z",
-          "pinned": false
-        },
-        {
           "title": "Report: More US troops have died in Iran war than Pentagon says",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbjNFNHprQ3A4aTB5SzlRYjhKVU1oUDNnYVNXNnFaNW9jeWtoVlpOb2JqazVEMXl0SjQ3dDVKb1NsQVlmU0V3ZmVYWVd2MWpsbjd0V1g0TFNuUUhxOVhVbmw1V3ZOeHlVRDdyNTVYSWhtYUZmb09PY3lDZFRDWnpQRVVMV25sT21HdGoyRzFSdEx1RlpTdHNibEo4dlVkZ28yQXIzbGxOaDhVcVFqcmRTVl94c9IBuAFBVV95cUxOT2hONXUtSWNpalIyQ05kQnQ1Z0M3WlZIbl9DRnBKcm1Hbl9LY3hqbGw5LWdDdWhZTm9HdlRQcjZBT2U2b1EyeldWWDJkcnpLZUVhYmV1WlhDNnBVNm1rZ3REc3dSQzJIUV9tdkJSZnR2MUZlZnczbGtqLWNyQXJjaUtjazdGSzhOWUhpQ2lCbmJOZ0F5bGFnZkRUQ1NoNmJwcnpWQ1FpeFV5ZEhWX1V4Y1pqUEJsQkJk?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260919T031039Z",
-          "pinned": false
-        },
-        {
-          "title": "Iran says conditions to re-engage in talks, end war sent to US via Qatar",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ1JPc2xzcDhQMWhGREtsMUlPTnpUNDJ6dDRGZ0dNb0NYYUlMVnVJcnoyb1ZKSUFMdmdrQTVELTdaR2huNVdkQU9KRkVZRUdUcTREU25LSTJoeGt1WG1EZzZfV1pOREZhVmtmT0I2NkZKaE9uZUhMekpvSmN2MWZuWjc4cTEzZ2JUd1RoandXSG9fMUZickh4Y25TVzV3UEVQcmduVWd1cXhOaDJkVjBraUVR0gG3AUFVX3lxTFAwY3hyelpiTHdEV000Vm1PXzJ5YVpIUldCZnRnWEJLelBBQmVUMDFVTkluRlcxemVBOWVVXzdoQURGNnhDTU5PWjFUSFcxcHIwMTVIOS1QWG50TjIxbDhFdG1yWFdRS3JQeTNQRWVMUEpMcDdRNGJzSVZILTZ3MjZVQS1FQ0tyVFRQV3R1MG5qTkVwY3E1Sk5kdDk0ZGk1bHRZemVobm53Q1pRWTktRUhLMnZ4M0s2WQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260919T183345Z",
           "pinned": false
         },
         {
@@ -1613,39 +1565,105 @@
           "pinned": false
         },
         {
-          "title": "US House passes war powers resolution, directing Trump to end Iran war",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPU04yUUg5aEpVSzg0YUpNME9XTE5FT0c0VnNwM09yRVFtTENveUlELU12WXF3T1FHeFI2c0x5VnYyRi1Wd1JJeUJ4VlAzZWNoR21pTEZHcGU3bDZIa1lzSDZfWk5zVThoekRocmdjdWZYMzlnRUxiZElXcmxEaDEwbDZ5SnhKTWJyVFpoTExvV2NvRG1JRnRtemZZWnNyaFNLMThEejAyQ1I1Q3dtSWdRbXNqTUhqRDFzdEFRdHJR?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "seen": "20260916T035346Z",
+          "title": "Saudi Arabia says Houthis tried to attack its capital, and other Mideast developments",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb3ZQdTJKbzNUNVFFeGV0NG0xYTlhTURSZ24wTGRxWUVsNFc3cUswUHpFWWFuM0piU1kxVmZlWURxbnZkT1Zvc0gxNHZPaVQ0di1hTmRoTDA1Z3Nib3phUjkycVIwN3czNlBDZl9tb2tpZ0liSVItaGVpQmpBUTEwSDl5UnZOTnhZdlh2UjcyRjAwSkFGN0N1UjBPcWp3NVE?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260920T014600Z",
           "pinned": false
         },
         {
-          "title": "Photos show widespread damage at US sites from Iranian attacks",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zVk5hSlZtZm14dEo2V2M4bEcyZjRDZzlYVWYtSXJjMFdUVklaZTZJekFXYnFVSFhEam1JLUEyQXJ5R0RudDFXb3d3Ti1DWF9FWXI0dkMwc0ZRMEE?oc=5",
+          "title": "Iran war’s cost grows to $43.6 billion in new US military estimate",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeGg2SlRYcEhCY3djYmV2MVlDUmRGZnRvMC1VV2Rtb2JDZkdvNlVIdUp4V0lPUUE1UWNfTmx3MXZfcE9PcExQV0xmVHVmaDBhQjNUS3JwaWFZaUxWRmozNjdOUEgxeUl0NzlYVlBFdFYtc09yS2FCNjlIOHBZSmJCR0FXRi1pM1ZqNXd5d21qVEpvUEcwWDJjVXpSX19CdDZUbjNpMUlQRjlUZDh2?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260918T215200Z",
+          "pinned": false
+        },
+        {
+          "title": "Afghan inquiry into alleged SAS war crimes has already cost £58m, MOD figures show",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yRTg0bmc4THpPQWljYUhaNUFmVlY5eW50a2FpeE1ZVU9fRHZROXFNTUdKT2w0WlVIaHlnWHpyX2tyQXhIR3dDQUNWQ24wWVdXb01QeVcyZnh6NkE?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260916T183616Z",
+          "seen": "20260917T101834Z",
           "pinned": false
         },
         {
-          "title": "The U.S.-Canada Trade War Could Mark a Breaking Point",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVnY3SU1FT2RPNTR5UXhkVmhrSlVCdUp6UlVmY0pKVmpaWmpPWGoydVR6ZnozVnpJaXJPZ1BlLUlxR3dNM1Mwa3laUUtpYVZOWmpubDF2N2RDQ2JyeE5WcU5uY0RhOHFYTTlCMlpkTzFPUlJoUGdGRUdSWHlaWi1zUHZrVU0wLW9Q?oc=5",
-          "domain": "cfr.org",
-          "sourceTier": "Structured / analytic",
-          "seen": "20260916T200138Z",
+          "title": "At least 19 injured in Russian attacks across Ukraine",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUGxGUkxCRXVSeENiRVQ5OUY2cnZLQkdENzZfQzhpc2JSdUFZeXp1OFgzbnRCZlBsSjlqcElzRFExU1RtN3Z3bUw4YWdQV0lQSnREYjVNaHhabThtV1pmN0JKQ3lQS2k4c3ZmNUd5LWJMbWk4WTRQaW1XSFBTRUlvbEQ4dllfSTc5RGpKWG54Z2RjY0VlYzJXR21n?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260917T130257Z",
+          "pinned": false
+        },
+        {
+          "title": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0YkZPQW9rR2RIWE52My1Bd0VVd0VKc2FORWhuVFJPQ0dFcmd0MTRlOVFrNmd0b200YUI2OFdrUzlXZGxzbWV3RXFCVm1ZZ1lCbVpXZ2ZxTDN2bHc?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260919T042047Z",
+          "pinned": false
+        },
+        {
+          "title": "In Yemen, war at home and in the region drives up prices",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSlBNYkQ5YjYwcnN6YUp5ajliT2dRRkdGZTVWME1aMkMwaE93RUJ6NHBXUF91OHVIc1RCYTdSV0hLU01rbGxCUjRSVmhJMllSLWFUZkF2QTc5ZFpWTUUzdVN2TFNiNGtSZHYxekpJbW5sZDVSNU9YVlBtZW92QkdJVncxWVNOTEhzVC1jU2w3VWxsMUhoME8xNFpZLVVCWFV0NGfSAacBQVVfeXFMTlU3cHFXRGJIY1E2a2hQLTFyYlN1V2wza1lmandGdFFMR2RMMUJVV2dYdG80U0hZV1Jld0xnMUc2MDVkakhIcWdSQ3RWZ29UTlAtekZ4TENrVm1ORXczNi1sanlGc2Z6ZkxlYldTU2hZdjFEUzVYWGNPMVJ2UlE0OVl0ckg5VUlMazNYNFN2bG1tVEZjUmdXUGpvZzlId2xOT0hBZGdMYW8?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260918T064753Z",
+          "pinned": false
+        },
+        {
+          "title": "Russia kills eight people in Ukraine, attacks two vessels in Black Sea",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQajNJUlRQUzJ2c1dDTDJvYllaRUpFQk1WdHM5SHFNck15OE16WWN6NVBXRDh6SUJETi1MbmVreDJia0JIU09WbEZ6MjlnLUR2czR2c0w1bjFiS040VGt1NFYwTjhwN2tDTWRvVUVKb3o4SzF1ejBwVE1zOVBaWVlHSzNqU3Z2MFJaSzB2SGd1M2VpYU1lNGVoRmktNGF6UlNkZVVCUE930gGrAUFVX3lxTE9OdlZfcm1IMjNoQ1IwN1M1dHptbHVPNGtRcm5oWWZhd2pOeF85aEI0Q05TNXAycG1WVW9zdHhuWVk0eGJCYWZjLVFrUzN2VVJnU2pnd2N0dXlCSDRTSXp1b28tbUYzci1GWjJORlpDMS12TE5SZExPeUdGR2JxNC1rLXB6dTcwb0ZwWVdvSUpCMHhKY0ltejljQ3puaXdDVUJSclRiTHRtR2FuMA?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260919T110243Z",
+          "pinned": false
+        },
+        {
+          "title": "'Giddy King' and 'war of words' over Earl Spencer book",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41X2JMeGxPb3psM05wN0k2NWtlM0FtWDd4aTdNZVRPZ3JmYzk0Ukg0RlZOYVBpS25ubUZLTnhFenk1cEtMOU9NYk1fOThsUWljVmNZbEtBTndyMUk?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260918T044016Z",
+          "pinned": false
+        },
+        {
+          "title": "Princess Anne opens 'special site' at war cemetery",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WaE45Unl6M3huRlBJczFMcWZqY1BXLXEwWHNYLW9zcllFZmVzME9WUUNqRngyeE9LdVdHQzMwc2ZfdDQyNkRkOTFONEFLVWx0TWxHUEFhV284OUU?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260917T171221Z",
           "pinned": false
         }
       ],
       "reports": [
         {
-          "id": "report-fe6067343b23",
-          "title": "Iran war increasing inflation, straining US munitions: congressional report",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQkxVbTZwTHBPc3ZaTFhWcTduWVZ0U2hjQ3hHek8yQkVhazl5dXdCS1p6WGJnb0JnclJlU0d0MkJ4OHJIc3dOWVZIR3dTZWRma2taSGlsVDYzT0xqaElvZ29EMzlYcC15SEYwMXlFMF84TkRMVE84MW16c3JnWVM3WlpHVHZVXzJtVlVUZ1M2enpOQ0NvdXd6RHVWUzdITE1Sc2xQVlF4cWNINFZMMTNYQURnT0rSAboBQVVfeXFMUDBUU2RHREliYVljZjNCU3FVcW1md212MF9hV0xOVGdhYXU5blB3OUlJUFNKSVpQVFBTS0p4am4tUkhvamVERjctZzZfdlJzZFJ5TkZ0LW16SkFKX2NzQURfd3RpUDBEbUptbHpIYUJiNVo1MGRkX1hyTm5VRW1vOEQ3OFc1UDFmdnM3M09EYWdwWFdkWkVhSk1GX2hwMGMzc0dvM3pjd3ZJRzZSREJhZUdmeFRORTFZWXp3?oc=5",
-          "domain": "aljazeera.com",
+          "id": "report-9a60002b40f3",
+          "title": "Cultural treasures are being destroyed by war, and people want justice",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OeEwtbjcyOTZPV3liT0U2VmdPOENkbXB2Q0RsQWo0WFE1QndqN2RleWFHRkpibThEVVpRNGhxdHY3TEU1elFkQUZfbHgtdk9xZmZxRXhfYlM3UQ?oc=5",
+          "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-16T00:57:22Z"
+          "reportedAt": "2026-09-19T23:18:18Z"
+        },
+        {
+          "id": "report-c3139915e971",
+          "title": "Nobel laureate Narges Mohammadi tells the AP that Iranians paying the price for war and repression",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRmlzTnd1RkxNeWcyaDBTMmdoY0FxdU9FVGFZd1NIWHFLWjRIZHR5Z083Tk1lUVlTNGJZRndfOERTXy0tVzUzcHdfU1BqeGw2SU0zRXJsbTBHQlIzbUtsdTFCRHFFbWRsM0xBT0Y4Uzl1S0FzYUpxMWpKRk5rVE5SS2ZHQ0RCWEw5NW9EaGo2LVN5RndVREN3eUtR?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-19T21:01:00Z"
+        },
+        {
+          "id": "report-a755c78656d2",
+          "title": "Iran war",
+          "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-19T03:28:58Z"
         },
         {
           "id": "report-0fa40444ce52",
@@ -1657,40 +1675,13 @@
           "reportedAt": "2026-09-18T18:04:38Z"
         },
         {
-          "id": "report-c3139915e971",
-          "title": "Nobel laureate Narges Mohammadi tells the AP that Iranians paying the price for war and repression",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRmlzTnd1RkxNeWcyaDBTMmdoY0FxdU9FVGFZd1NIWHFLWjRIZHR5Z083Tk1lUVlTNGJZRndfOERTXy0tVzUzcHdfU1BqeGw2SU0zRXJsbTBHQlIzbUtsdTFCRHFFbWRsM0xBT0Y4Uzl1S0FzYUpxMWpKRk5rVE5SS2ZHQ0RCWEw5NW9EaGo2LVN5RndVREN3eUtR?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-19T20:29:00Z"
-        },
-        {
-          "id": "report-c2835dd7d55d",
-          "title": "Iran hesitates to clamp down on defiance of headscarf rules as war and economic pressures mount",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQX1ozOThyMm52Q1pxdDRHVy1fRDNWeXBGLV85V0pzXy16QlY0QmIteTJvRHZPWlQ5UC1WbWh2ZWRYZXlpck5uSGdqc01RZWZxWWlybU5FZkNyeFZONUJrVHFVa0xDUXBjWHVCN0Nvd1pkS09zckw1VXdFcVIxZzZCRjBnbk9QYWRhblZwcXY4SVBiMmdyMS0yZDlJdFRPNkJySW9z?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-16T19:25:00Z"
-        },
-        {
-          "id": "report-8f7ad23bdea7",
-          "title": "Iran war has cost the US $38bn: How will it impact US economy, politics?",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPS1JGdDFLQ292eUpqYnp6ZF9jS2dpN0ZZTmMwSTFXbkUtd3ZmUXB4WGNqYlUwTTh2Vm92ZERLSXo1RlhPcG8xb2lfWGJCbERHcXAtLW56MVhOTEwxelpUdzBWbzFLc0RmWWFoYnFNOGxYd1dmUnRrZEFGSXdtZExhS21ZMXY0UFNGYm56S0RJZUFsSWFmVjgtcVNkR3htNm9EQWlNdTU3Z3RXcGhFYWZZ0gG0AUFVX3lxTFBKMTcyWHZVUHpaTWJZVmN1NkRLd3BoaWtidGVMRWhMMjV6bUtBMDVmOC1aTldIemNyT1hpelpLWWY0N0M3cC1wTWg4Y1VzWjc4WGNuQnRJMk9kaG5DREp0Mmw0bHk3cUh2cDJOUXV5SnpsLWlQdVFtRFRzTXY3d0lyMWVZQTRBYTJ1blFVb3pBdjJGWWhiRGQtd0V5dzYyazFRa185NUdfVlR1LXg4Q01mRGFweg?oc=5",
+          "id": "report-5e26724fdb53",
+          "title": "US voters oppose Iran war as 71% say Trump lacks clear strategy: Poll",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMWNvcnozNmZuM09zbkliVmdvZXlfN21hQUtFRzFhWENvTjRLcWZtNXN4WFQ5amxoWWJNa1NETTNWaGJNeE5ZY1pubGRTWnFkUjBZXzBMNWkwbHlfTF9DR2E2bXJ0cmFNNldsajc1azJUQVRjOGk5UU5qVVl4d0NBc1VIWTJYQkdCVEE3SmFTRnZzc0xRNEhRUUxSTzFnYlBm0gGmAUFVX3lxTFBSNjdZZ3Iwc2g4a1lVRERKQTVBZWVwbGc4RFFFZ1VqLVlacUtNQzlzMnVwM0pTMGhqLVlHQTlqUXh0WGF6dzVXWFFBeFY3Tm1Qcm9hWmpHN1F5cHRoMnhwcDlic0NGemlYTko3NWRMUW1hRTBTQ2ZSVFJlMVY1a241YWZkNXJUeVlHUEdrLUF0YUxDWXRuX0ptdEFQNWZDTnZQdmppdHc?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-16T14:57:52Z"
-        },
-        {
-          "id": "report-7ecb427fc20c",
-          "title": "US House votes to end Iran war, 7 Republicans join in favour",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVDJWSk4xeEdIT0JHclk2RGI3dXZ0RE5rQVM3NVJJcnBaU0RpZWh1c2p4bkFyRHprSG9Tbl9YS2t2cDdNd29MQ0VhUXYyTzlOWXFiM2dfLXJPaHJqeXk0SDZrM0dfY3lNX2JPTW5jLWN0amxuWGFKXzJmT2NLbXZhNUJYWDZFVlFHa3BqOUc3X09ER3pYOWw2cWNVN21pM09NSEHSAacBQVVfeXFMTXVnOVhzSmFjQ2p2N1prWWkwQVRodU5WMFRIbjFIcG9tZ05JNHdYa2tTLVc2bFE0OVozM3h5b3U4OExxTko0cVhGbkRnWjZ6enJIdlF5dDcwZEVOTU1qdjhubzJiMGxKNVNnalEtN0gtRzZaZUppSWVfM2VkX29ySGRZYUZEYVFBY2lEM25EeDhZR3JFMGs4NjEycFR5M3ZrODdkZG1Gc2M?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-16T05:50:01Z"
+          "reportedAt": "2026-09-18T13:20:07Z"
         },
         {
           "id": "report-4739155b96b8",
@@ -1702,24 +1693,6 @@
           "reportedAt": "2026-09-17T17:05:24Z"
         },
         {
-          "id": "report-5e26724fdb53",
-          "title": "US voters oppose Iran war as 71% say Trump lacks clear strategy: Poll",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMWNvcnozNmZuM09zbkliVmdvZXlfN21hQUtFRzFhWENvTjRLcWZtNXN4WFQ5amxoWWJNa1NETTNWaGJNeE5ZY1pubGRTWnFkUjBZXzBMNWkwbHlfTF9DR2E2bXJ0cmFNNldsajc1azJUQVRjOGk5UU5qVVl4d0NBc1VIWTJYQkdCVEE3SmFTRnZzc0xRNEhRUUxSTzFnYlBm0gGmAUFVX3lxTFBSNjdZZ3Iwc2g4a1lVRERKQTVBZWVwbGc4RFFFZ1VqLVlacUtNQzlzMnVwM0pTMGhqLVlHQTlqUXh0WGF6dzVXWFFBeFY3Tm1Qcm9hWmpHN1F5cHRoMnhwcDlic0NGemlYTko3NWRMUW1hRTBTQ2ZSVFJlMVY1a241YWZkNXJUeVlHUEdrLUF0YUxDWXRuX0ptdEFQNWZDTnZQdmppdHc?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-18T13:20:07Z"
-        },
-        {
-          "id": "report-65e833f3713f",
-          "title": "House votes for a third time to end the Iran war as conflict drags on",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNnlkd1Y1cDB2MGdmcngydWZDR1JnXzY4aTliNFJCdzU5dHFWSzJSVzdtemF6STMwZGJSczRnUHBFOW5BU21jQk5GdzctbExET044UXg4dkZEcDQ3TkpZVTUyc2o1R0ZJY050MC1Ec0VrVE9QSWpKOVdjNWRtR2dqWmZKQ3lKX2NEd0dKb1o2RQ?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-16T03:18:00Z"
-        },
-        {
           "id": "report-e1899df64302",
           "title": "The Iran war is driving clean energy development. It’s not enough to help the planet, yet",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV3dfdlVIcFF6YktYVjdVN3ZLclNqcUlnalZrV01XMENaM2Ntamo1QjZNRF9zNDM3eERuYXQ0RmZCcDBVZ3lleUg1Z1NfQ0NrLVVoSGxzZ01tcDhwZHlleFBYRmhrclk4eWZYeTAzNEE4bmJCQTVHNGFvQ2hSWXAwTkRHbzNVMUhETzdGMUVvaVpBam5vQ2tNZWtIRGw0bTg?oc=5",
@@ -1729,13 +1702,13 @@
           "reportedAt": "2026-09-17T14:21:00Z"
         },
         {
-          "id": "report-a9adc20a269d",
-          "title": "Kosovo's former president sentenced to 25 years for war crimes",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSb2Q5V1RkNkVmQWQxWGh3N2NUazZvT3JCYm1nYnZWOXVGdHJnR05TU1lXU3hfT3ZjQ3lNZHdWRlZCeEpfYXNnX0VsLUV0aTktellVX0d1a3NVQzQ?oc=5",
-          "domain": "bbc.com",
+          "id": "report-93d28b06321c",
+          "title": "Iran says conditions to re-engage in talks, end war sent to US via Qatar",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ1JPc2xzcDhQMWhGREtsMUlPTnpUNDJ6dDRGZ0dNb0NYYUlMVnVJcnoyb1ZKSUFMdmdrQTVELTdaR2huNVdkQU9KRkVZRUdUcTREU25LSTJoeGt1WG1EZzZfV1pOREZhVmtmT0I2NkZKaE9uZUhMekpvSmN2MWZuWjc4cTEzZ2JUd1RoandXSG9fMUZickh4Y25TVzV3UEVQcmduVWd1cXhOaDJkVjBraUVR0gG3AUFVX3lxTFAwY3hyelpiTHdEV000Vm1PXzJ5YVpIUldCZnRnWEJLelBBQmVUMDFVTkluRlcxemVBOWVVXzdoQURGNnhDTU5PWjFUSFcxcHIwMTVIOS1QWG50TjIxbDhFdG1yWFdRS3JQeTNQRWVMUEpMcDdRNGJzSVZILTZ3MjZVQS1FQ0tyVFRQV3R1MG5qTkVwY3E1Sk5kdDk0ZGk1bHRZemVobm53Q1pRWTktRUhLMnZ4M0s2WQ?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-16T11:42:50Z"
+          "reportedAt": "2026-09-19T18:34:55Z"
         },
         {
           "id": "report-683faaf0799f",
@@ -1747,15 +1720,6 @@
           "reportedAt": "2026-09-18T00:13:16Z"
         },
         {
-          "id": "report-2e2b9dec30f1",
-          "title": "If Europe attacks Russia, war will be 'completely different, very short': Lavrov",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPR3FsWUVOOF9KU3c3T00zLWNsZ1NKVnpidVVDbGNILWoxTFBYblVKalY0SEdvQzFuTFgwRlB3cXh0RjVtcTRqSXJ2b1dqbWVTVW5WR3hnYVFWd3d6cnRrQmlxMkVBWm9yMWRBV3hGZzB0VWxZd0hzWGNQdW9TQXVzejJmQXg1UU83aWk4empfVzU3M0FjemxtY0JaOVhfLWNaOXhRRUpGMXRNSnVYOFc1VmE1QU1mZlJzMko3Xw?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
-          "reportedAt": "2026-09-16T11:21:01Z"
-        },
-        {
           "id": "report-739b38dce694",
           "title": "United Nations says US may have committed war crimes in Iran: What it means",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOW13MjVKdFFVZWFWcFJDWHJKWTVSTnFmQ3RRV04yWHdwMkRXbXFVU2FKQ0RfX3dDYjVRVnc4MTJyZUtSX2hqTERlc3o3RUdFbmFwZTIxOEptZHRXWl93eTQxMjVMNG1kUk96RjRZME1fWVpZcEZJOHRqTVBLTjNFaV9SOHF1SzRhT19ZSWVxZkdfUEVnR2ZXMXo1SVM5TjR0VkQ5YWFtVEhZMGNDTU9ONTAyMGVQZ9IBuwFBVV95cUxOMExGYjl6ZURSSFhwMXpUUURBM2VVUVp2ZjM1aUZMZnVDREw5U3VLNlJtb1liWXZ1enpUSFVLcHBJRU5hWFF6UGRNTGI5SnZ0dURielBScG9LcDdwbUZmb3UtWVpxNnpFNjlHZVR5WkNYZjhYeF9vTHlrRno1WXh3MFBUaWxDc2l3UlJub3N6eWZQd0FTR1pCSjl4Rk55YnY0NnI2Y0RpdE1SZzZvNDdJLUhkRHdIRVM1SFRV?oc=5",
@@ -1763,6 +1727,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-18T10:45:59Z"
+        },
+        {
+          "id": "report-71488e28f064",
+          "title": "'I don't even know if my parents are alive' - the war heroes jailed 25 years ago",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NUGM1cTl4bXVXZ0FsOVRXYmlpVzltWFlTd1A2bkJDUEJfM3lnSlUtUzlKTEFQUmJoYi1YeDlBazlZRlM5eVdJY25hdWFhQlB4QjJBeXN4R2lWSzg?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-19T23:01:45Z"
         },
         {
           "id": "report-e1b9e3a147c1",
@@ -1783,24 +1756,6 @@
           "reportedAt": "2026-09-19T05:40:29Z"
         },
         {
-          "id": "report-f14d410b5b37",
-          "title": "At least five killed in Russian drone strike near Ukraine front line",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNc1c3LUM3SUlxbVRsOEswSTVlRzNkaGhxdDFYaXdIRjRaRHZlNmdqdzZnQmEyOWZUZzBSNE5Nb2dCWTNtdDMwNFdwZ2JKbHJkY0hmUHZWSU8zUjlfR0FkcGtEdnRUVFZZVndBSDNUNEhCYlVYWW9oNmQ3QmNrczZwUFZ0M3p3VW9fUWtEUzNPU2xudDhTTld0Y1JHUEhqMHFRNlZhcnJnVVlBRGFySVHSAbMBQVVfeXFMTlUwd1h5X0tzUzRiS2I4UzZpRE1CRXlnclJwNWNFWTM2a0JkbDBTeWIxbFVheEc0X2ZDRDFncjQxODR5U2VSd3dseWNIdlNHeXMteWJfdHJXLWR6Y2hvWFZPUVRIUXI2dlBQOUhaUm9kYk5UUGxuQ1BzUnZ5MWlvYXMxbHBOQThCMGxEV0ZpX1V5VjFISDNscTFOSkthRmZOaFpwY3JuM1J6YldOdUZnbjNSaVE?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-16T09:40:03Z"
-        },
-        {
-          "id": "report-3d66b2db992f",
-          "title": "How escalating Saudi oil crisis could drive up prices everywhere",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBWXN1ckpzblpZRTZleFBXbHlsYTNlQXhncW1HZ1BuOTBvb3U1RHl4UXhHM1VaWEtGd1RwMmo4N09zVjAxMWtlaEtwT1kzdXpHdk9rWnpjYkxjcVE?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-16T16:06:50Z"
-        },
-        {
           "id": "report-715dcaab8ca5",
           "title": "Report: More US troops have died in Iran war than Pentagon says",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbjNFNHprQ3A4aTB5SzlRYjhKVU1oUDNnYVNXNnFaNW9jeWtoVlpOb2JqazVEMXl0SjQ3dDVKb1NsQVlmU0V3ZmVYWVd2MWpsbjd0V1g0TFNuUUhxOVhVbmw1V3ZOeHlVRDdyNTVYSWhtYUZmb09PY3lDZFRDWnpQRVVMV25sT21HdGoyRzFSdEx1RlpTdHNibEo4dlVkZ28yQXIzbGxOaDhVcVFqcmRTVl94c9IBuAFBVV95cUxOT2hONXUtSWNpalIyQ05kQnQ1Z0M3WlZIbl9DRnBKcm1Hbl9LY3hqbGw5LWdDdWhZTm9HdlRQcjZBT2U2b1EyeldWWDJkcnpLZUVhYmV1WlhDNnBVNm1rZ3REc3dSQzJIUV9tdkJSZnR2MUZlZnczbGtqLWNyQXJjaUtjazdGSzhOWUhpQ2lCbmJOZ0F5bGFnZkRUQ1NoNmJwcnpWQ1FpeFV5ZEhWX1V4Y1pqUEJsQkJk?oc=5",
@@ -1808,15 +1763,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-19T03:10:39Z"
-        },
-        {
-          "id": "report-93d28b06321c",
-          "title": "Iran says conditions to re-engage in talks, end war sent to US via Qatar",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ1JPc2xzcDhQMWhGREtsMUlPTnpUNDJ6dDRGZ0dNb0NYYUlMVnVJcnoyb1ZKSUFMdmdrQTVELTdaR2huNVdkQU9KRkVZRUdUcTREU25LSTJoeGt1WG1EZzZfV1pOREZhVmtmT0I2NkZKaE9uZUhMekpvSmN2MWZuWjc4cTEzZ2JUd1RoandXSG9fMUZickh4Y25TVzV3UEVQcmduVWd1cXhOaDJkVjBraUVR0gG3AUFVX3lxTFAwY3hyelpiTHdEV000Vm1PXzJ5YVpIUldCZnRnWEJLelBBQmVUMDFVTkluRlcxemVBOWVVXzdoQURGNnhDTU5PWjFUSFcxcHIwMTVIOS1QWG50TjIxbDhFdG1yWFdRS3JQeTNQRWVMUEpMcDdRNGJzSVZILTZ3MjZVQS1FQ0tyVFRQV3R1MG5qTkVwY3E1Sk5kdDk0ZGk1bHRZemVobm53Q1pRWTktRUhLMnZ4M0s2WQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-19T18:33:45Z"
         },
         {
           "id": "report-d70718899a74",
@@ -1828,22 +1774,85 @@
           "reportedAt": "2026-09-17T02:02:49Z"
         },
         {
-          "id": "report-71b78573036f",
-          "title": "US House passes war powers resolution, directing Trump to end Iran war",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPU04yUUg5aEpVSzg0YUpNME9XTE5FT0c0VnNwM09yRVFtTENveUlELU12WXF3T1FHeFI2c0x5VnYyRi1Wd1JJeUJ4VlAzZWNoR21pTEZHcGU3bDZIa1lzSDZfWk5zVThoekRocmdjdWZYMzlnRUxiZElXcmxEaDEwbDZ5SnhKTWJyVFpoTExvV2NvRG1JRnRtemZZWnNyaFNLMThEejAyQ1I1Q3dtSWdRbXNqTUhqRDFzdEFRdHJR?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
-          "reportedAt": "2026-09-16T03:53:46Z"
+          "id": "report-63310bae95cc",
+          "title": "Saudi Arabia says Houthis tried to attack its capital, and other Mideast developments",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb3ZQdTJKbzNUNVFFeGV0NG0xYTlhTURSZ24wTGRxWUVsNFc3cUswUHpFWWFuM0piU1kxVmZlWURxbnZkT1Zvc0gxNHZPaVQ0di1hTmRoTDA1Z3Nib3phUjkycVIwN3czNlBDZl9tb2tpZ0liSVItaGVpQmpBUTEwSDl5UnZOTnhZdlh2UjcyRjAwSkFGN0N1UjBPcWp3NVE?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-20T01:46:00Z"
         },
         {
-          "id": "report-379a91d95d05",
-          "title": "Photos show widespread damage at US sites from Iranian attacks",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zVk5hSlZtZm14dEo2V2M4bEcyZjRDZzlYVWYtSXJjMFdUVklaZTZJekFXYnFVSFhEam1JLUEyQXJ5R0RudDFXb3d3Ti1DWF9FWXI0dkMwc0ZRMEE?oc=5",
+          "id": "report-70efc925f09e",
+          "title": "Iran war’s cost grows to $43.6 billion in new US military estimate",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeGg2SlRYcEhCY3djYmV2MVlDUmRGZnRvMC1VV2Rtb2JDZkdvNlVIdUp4V0lPUUE1UWNfTmx3MXZfcE9PcExQV0xmVHVmaDBhQjNUS3JwaWFZaUxWRmozNjdOUEgxeUl0NzlYVlBFdFYtc09yS2FCNjlIOHBZSmJCR0FXRi1pM1ZqNXd5d21qVEpvUEcwWDJjVXpSX19CdDZUbjNpMUlQRjlUZDh2?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-18T21:52:00Z"
+        },
+        {
+          "id": "report-fcb3fa1b6f59",
+          "title": "Afghan inquiry into alleged SAS war crimes has already cost £58m, MOD figures show",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yRTg0bmc4THpPQWljYUhaNUFmVlY5eW50a2FpeE1ZVU9fRHZROXFNTUdKT2w0WlVIaHlnWHpyX2tyQXhIR3dDQUNWQ24wWVdXb01QeVcyZnh6NkE?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-16T18:36:16Z"
+          "reportedAt": "2026-09-17T10:18:34Z"
+        },
+        {
+          "id": "report-c4b530058366",
+          "title": "At least 19 injured in Russian attacks across Ukraine",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUGxGUkxCRXVSeENiRVQ5OUY2cnZLQkdENzZfQzhpc2JSdUFZeXp1OFgzbnRCZlBsSjlqcElzRFExU1RtN3Z3bUw4YWdQV0lQSnREYjVNaHhabThtV1pmN0JKQ3lQS2k4c3ZmNUd5LWJMbWk4WTRQaW1XSFBTRUlvbEQ4dllfSTc5RGpKWG54Z2RjY0VlYzJXR21n?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-17T13:02:57Z"
+        },
+        {
+          "id": "report-81e572cff5e2",
+          "title": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0YkZPQW9rR2RIWE52My1Bd0VVd0VKc2FORWhuVFJPQ0dFcmd0MTRlOVFrNmd0b200YUI2OFdrUzlXZGxzbWV3RXFCVm1ZZ1lCbVpXZ2ZxTDN2bHc?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-19T04:20:47Z"
+        },
+        {
+          "id": "report-6b4f7c445062",
+          "title": "In Yemen, war at home and in the region drives up prices",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSlBNYkQ5YjYwcnN6YUp5ajliT2dRRkdGZTVWME1aMkMwaE93RUJ6NHBXUF91OHVIc1RCYTdSV0hLU01rbGxCUjRSVmhJMllSLWFUZkF2QTc5ZFpWTUUzdVN2TFNiNGtSZHYxekpJbW5sZDVSNU9YVlBtZW92QkdJVncxWVNOTEhzVC1jU2w3VWxsMUhoME8xNFpZLVVCWFV0NGfSAacBQVVfeXFMTlU3cHFXRGJIY1E2a2hQLTFyYlN1V2wza1lmandGdFFMR2RMMUJVV2dYdG80U0hZV1Jld0xnMUc2MDVkakhIcWdSQ3RWZ29UTlAtekZ4TENrVm1ORXczNi1sanlGc2Z6ZkxlYldTU2hZdjFEUzVYWGNPMVJ2UlE0OVl0ckg5VUlMazNYNFN2bG1tVEZjUmdXUGpvZzlId2xOT0hBZGdMYW8?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-18T06:47:53Z"
+        },
+        {
+          "id": "report-feaf3daf9980",
+          "title": "Russia kills eight people in Ukraine, attacks two vessels in Black Sea",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQajNJUlRQUzJ2c1dDTDJvYllaRUpFQk1WdHM5SHFNck15OE16WWN6NVBXRDh6SUJETi1MbmVreDJia0JIU09WbEZ6MjlnLUR2czR2c0w1bjFiS040VGt1NFYwTjhwN2tDTWRvVUVKb3o4SzF1ejBwVE1zOVBaWVlHSzNqU3Z2MFJaSzB2SGd1M2VpYU1lNGVoRmktNGF6UlNkZVVCUE930gGrAUFVX3lxTE9OdlZfcm1IMjNoQ1IwN1M1dHptbHVPNGtRcm5oWWZhd2pOeF85aEI0Q05TNXAycG1WVW9zdHhuWVk0eGJCYWZjLVFrUzN2VVJnU2pnd2N0dXlCSDRTSXp1b28tbUYzci1GWjJORlpDMS12TE5SZExPeUdGR2JxNC1rLXB6dTcwb0ZwWVdvSUpCMHhKY0ltejljQ3puaXdDVUJSclRiTHRtR2FuMA?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-19T11:02:43Z"
+        },
+        {
+          "id": "report-9bf94161d940",
+          "title": "'Giddy King' and 'war of words' over Earl Spencer book",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41X2JMeGxPb3psM05wN0k2NWtlM0FtWDd4aTdNZVRPZ3JmYzk0Ukg0RlZOYVBpS25ubUZLTnhFenk1cEtMOU9NYk1fOThsUWljVmNZbEtBTndyMUk?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-18T04:40:16Z"
+        },
+        {
+          "id": "report-0f663ac9c21b",
+          "title": "Princess Anne opens 'special site' at war cemetery",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WaE45Unl6M3huRlBJczFMcWZqY1BXLXEwWHNYLW9zcllFZmVzME9WUUNqRngyeE9LdVdHQzMwc2ZfdDQyNkRkOTFONEFLVWx0TWxHUEFhV284OUU?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-17T17:12:21Z"
         },
         {
           "id": "report-c3cdab536a37",
