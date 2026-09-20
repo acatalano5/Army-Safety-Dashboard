@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T04:53:10.718Z",
+  "generatedAt": "2026-09-20T11:22:55.777Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-09-20T04:53:10.718Z",
+      "generatedAt": "2026-09-20T11:22:55.777Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -1441,7 +1441,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-09-20T04:53:10.718Z",
+      "generatedAt": "2026-09-20T11:22:55.777Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -1453,19 +1453,11 @@
           "pinned": false
         },
         {
-          "title": "Nobel laureate Narges Mohammadi tells the AP that Iranians paying the price for war and repression",
+          "title": "Nobel laureate Narges Mohammadi tells the AP that Iranians are paying the price for war and repression",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRmlzTnd1RkxNeWcyaDBTMmdoY0FxdU9FVGFZd1NIWHFLWjRIZHR5Z083Tk1lUVlTNGJZRndfOERTXy0tVzUzcHdfU1BqeGw2SU0zRXJsbTBHQlIzbUtsdTFCRHFFbWRsM0xBT0Y4Uzl1S0FzYUpxMWpKRk5rVE5SS2ZHQ0RCWEw5NW9EaGo2LVN5RndVREN3eUtR?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "seen": "20260919T210100Z",
-          "pinned": false
-        },
-        {
-          "title": "Iran war",
-          "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260919T032858Z",
           "pinned": false
         },
         {
@@ -1485,11 +1477,27 @@
           "pinned": false
         },
         {
+          "title": "Iran war",
+          "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260920T101754Z",
+          "pinned": false
+        },
+        {
           "title": "UN fact-finding mission says US committed possible war crimes in Iran",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSk1QRUk5WTk4SzJMZThKb1RLbDZmazFWaDZ5YTNFZUJvUEgycE9pcUtJUmFUa2lCdF9DdVU2SEVOX25wUkdpZlJ3aXc4UXJuVXY1ZFJ5NUhRYkZPb0hkSVgyVkFLb1lwSnVERmFaNHRFX3lLeWRRQlhoZWl3d1pHOVVUZDRSQmNxS0xiVkVmd2NoX2ViNnlCTHZhRl9VNVA2MHVNVVZvaW52MU5TRGtj0gG0AUFVX3lxTE00S2Z4Ty1UUUszRjJheG13Szk5c3ZPOWJfTlhwQV85TE41MHAzajk2bnJfamVyRXZodFFwaEtnOW0zUjQ4OF9LSldLTzQ1VDd5SHpLUVlmd0lkVDgzZGRoVzdRVm95bzN3ejhzYzlQQ0lGM0dFR0hINklFQ05mSk9sd1lHSHFRZ3YyamJuVVQ4RDBPdXkzR0JzYjl3cWE5bVZvSDVIUVQ1RnBBUVFKaDEySExGUg?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260917T170524Z",
+          "pinned": false
+        },
+        {
+          "title": "Iran says conditions to re-engage in talks, end war sent to US via Qatar",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ1JPc2xzcDhQMWhGREtsMUlPTnpUNDJ6dDRGZ0dNb0NYYUlMVnVJcnoyb1ZKSUFMdmdrQTVELTdaR2huNVdkQU9KRkVZRUdUcTREU25LSTJoeGt1WG1EZzZfV1pOREZhVmtmT0I2NkZKaE9uZUhMekpvSmN2MWZuWjc4cTEzZ2JUd1RoandXSG9fMUZickh4Y25TVzV3UEVQcmduVWd1cXhOaDJkVjBraUVR0gG3AUFVX3lxTFAwY3hyelpiTHdEV000Vm1PXzJ5YVpIUldCZnRnWEJLelBBQmVUMDFVTkluRlcxemVBOWVVXzdoQURGNnhDTU5PWjFUSFcxcHIwMTVIOS1QWG50TjIxbDhFdG1yWFdRS3JQeTNQRWVMUEpMcDdRNGJzSVZILTZ3MjZVQS1FQ0tyVFRQV3R1MG5qTkVwY3E1Sk5kdDk0ZGk1bHRZemVobm53Q1pRWTktRUhLMnZ4M0s2WQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260919T183455Z",
           "pinned": false
         },
         {
@@ -1501,11 +1509,11 @@
           "pinned": false
         },
         {
-          "title": "Iran says conditions to re-engage in talks, end war sent to US via Qatar",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ1JPc2xzcDhQMWhGREtsMUlPTnpUNDJ6dDRGZ0dNb0NYYUlMVnVJcnoyb1ZKSUFMdmdrQTVELTdaR2huNVdkQU9KRkVZRUdUcTREU25LSTJoeGt1WG1EZzZfV1pOREZhVmtmT0I2NkZKaE9uZUhMekpvSmN2MWZuWjc4cTEzZ2JUd1RoandXSG9fMUZickh4Y25TVzV3UEVQcmduVWd1cXhOaDJkVjBraUVR0gG3AUFVX3lxTFAwY3hyelpiTHdEV000Vm1PXzJ5YVpIUldCZnRnWEJLelBBQmVUMDFVTkluRlcxemVBOWVVXzdoQURGNnhDTU5PWjFUSFcxcHIwMTVIOS1QWG50TjIxbDhFdG1yWFdRS3JQeTNQRWVMUEpMcDdRNGJzSVZILTZ3MjZVQS1FQ0tyVFRQV3R1MG5qTkVwY3E1Sk5kdDk0ZGk1bHRZemVobm53Q1pRWTktRUhLMnZ4M0s2WQ?oc=5",
-          "domain": "aljazeera.com",
+          "title": "'I don't even know if my parents are alive' - the war heroes jailed 25 years ago",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NUGM1cTl4bXVXZ0FsOVRXYmlpVzltWFlTd1A2bkJDUEJfM3lnSlUtUzlKTEFQUmJoYi1YeDlBazlZRlM5eVdJY25hdWFhQlB4QjJBeXN4R2lWSzg?oc=5",
+          "domain": "bbc.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260919T183455Z",
+          "seen": "20260919T230145Z",
           "pinned": false
         },
         {
@@ -1525,11 +1533,11 @@
           "pinned": false
         },
         {
-          "title": "'I don't even know if my parents are alive' - the war heroes jailed 25 years ago",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NUGM1cTl4bXVXZ0FsOVRXYmlpVzltWFlTd1A2bkJDUEJfM3lnSlUtUzlKTEFQUmJoYi1YeDlBazlZRlM5eVdJY25hdWFhQlB4QjJBeXN4R2lWSzg?oc=5",
+          "title": "'Massive' drone attack on Moscow region sees Ukraine hit oil refinery",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YLTYydnNDeFVheUM5N05KaFczQVRzVjdmY3owNW1oZDN0cS1kSWNUbW1KZ0NicGF0YXVfcU9ybjF3SzU4OU5nc3hjcXNGZzJnbFRPajZhYzhwMGc?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260919T230145Z",
+          "seen": "20260920T104539Z",
           "pinned": false
         },
         {
@@ -1557,14 +1565,6 @@
           "pinned": false
         },
         {
-          "title": "Reports: US, Houthis make secret deal over Yemen war",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbnFSenlrZ3owajdFYmNMdXZRUGJZTVNuWTYyYTNCVVR1VU1KNnhDSDFWd2h2eHBZdjhkOXBJeU5MMlRUQ2hnQWtta1NRM2ZtWld6TXJYb0tlWlM1b0tvenpHZWFNbGdndmRVYWtlRzVnbGw2cDVkdEl3RGl6RDNJbERmdU96Z2I0enZtbXZTelljczV6Y0YwWUhrVEF3YXpXWW1v0gGoAUFVX3lxTFB4aFMzci16eXVEUkIxemF3c0U2LU43UFU5dThsTU5aYllMUkYwLVpsSVhNczVYSmVlcU9QSmhtSHR3bjB3LWh4NXVWd1pEX2pjWFhnSHBoelY4NVk4SXlSdDNYV0ZUakxPQWktVVpWbHBxSDVOQXRHcDA0QTNkdWllQjdKMXpncldjZmt0VVY5N2ROTWZ1RFM2dktJSGRzY2Fla1BKMXJmRQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260917T020249Z",
-          "pinned": false
-        },
-        {
           "title": "Saudi Arabia says Houthis tried to attack its capital, and other Mideast developments",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb3ZQdTJKbzNUNVFFeGV0NG0xYTlhTURSZ24wTGRxWUVsNFc3cUswUHpFWWFuM0piU1kxVmZlWURxbnZkT1Zvc0gxNHZPaVQ0di1hTmRoTDA1Z3Nib3phUjkycVIwN3czNlBDZl9tb2tpZ0liSVItaGVpQmpBUTEwSDl5UnZOTnhZdlh2UjcyRjAwSkFGN0N1UjBPcWp3NVE?oc=5",
           "domain": "apnews.com",
@@ -1573,11 +1573,11 @@
           "pinned": false
         },
         {
-          "title": "Iran war’s cost grows to $43.6 billion in new US military estimate",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeGg2SlRYcEhCY3djYmV2MVlDUmRGZnRvMC1VV2Rtb2JDZkdvNlVIdUp4V0lPUUE1UWNfTmx3MXZfcE9PcExQV0xmVHVmaDBhQjNUS3JwaWFZaUxWRmozNjdOUEgxeUl0NzlYVlBFdFYtc09yS2FCNjlIOHBZSmJCR0FXRi1pM1ZqNXd5d21qVEpvUEcwWDJjVXpSX19CdDZUbjNpMUlQRjlUZDh2?oc=5",
-          "domain": "apnews.com",
+          "title": "Reports: US, Houthis make secret deal over Yemen war",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbnFSenlrZ3owajdFYmNMdXZRUGJZTVNuWTYyYTNCVVR1VU1KNnhDSDFWd2h2eHBZdjhkOXBJeU5MMlRUQ2hnQWtta1NRM2ZtWld6TXJYb0tlWlM1b0tvenpHZWFNbGdndmRVYWtlRzVnbGw2cDVkdEl3RGl6RDNJbERmdU96Z2I0enZtbXZTelljczV6Y0YwWUhrVEF3YXpXWW1v0gGoAUFVX3lxTFB4aFMzci16eXVEUkIxemF3c0U2LU43UFU5dThsTU5aYllMUkYwLVpsSVhNczVYSmVlcU9QSmhtSHR3bjB3LWh4NXVWd1pEX2pjWFhnSHBoelY4NVk4SXlSdDNYV0ZUakxPQWktVVpWbHBxSDVOQXRHcDA0QTNkdWllQjdKMXpncldjZmt0VVY5N2ROTWZ1RFM2dktJSGRzY2Fla1BKMXJmRQ?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260918T215200Z",
+          "seen": "20260917T020249Z",
           "pinned": false
         },
         {
@@ -1586,6 +1586,14 @@
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20260917T101834Z",
+          "pinned": false
+        },
+        {
+          "title": "Iran war’s cost grows to $43.6 billion in new US military estimate",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeGg2SlRYcEhCY3djYmV2MVlDUmRGZnRvMC1VV2Rtb2JDZkdvNlVIdUp4V0lPUUE1UWNfTmx3MXZfcE9PcExQV0xmVHVmaDBhQjNUS3JwaWFZaUxWRmozNjdOUEgxeUl0NzlYVlBFdFYtc09yS2FCNjlIOHBZSmJCR0FXRi1pM1ZqNXd5d21qVEpvUEcwWDJjVXpSX19CdDZUbjNpMUlQRjlUZDh2?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260918T215200Z",
           "pinned": false
         },
         {
@@ -1627,14 +1635,6 @@
           "sourceTier": "Independent reporting",
           "seen": "20260918T044016Z",
           "pinned": false
-        },
-        {
-          "title": "Princess Anne opens 'special site' at war cemetery",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WaE45Unl6M3huRlBJczFMcWZqY1BXLXEwWHNYLW9zcllFZmVzME9WUUNqRngyeE9LdVdHQzMwc2ZfdDQyNkRkOTFONEFLVWx0TWxHUEFhV284OUU?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260917T171221Z",
-          "pinned": false
         }
       ],
       "reports": [
@@ -1649,21 +1649,12 @@
         },
         {
           "id": "report-c3139915e971",
-          "title": "Nobel laureate Narges Mohammadi tells the AP that Iranians paying the price for war and repression",
+          "title": "Nobel laureate Narges Mohammadi tells the AP that Iranians are paying the price for war and repression",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRmlzTnd1RkxNeWcyaDBTMmdoY0FxdU9FVGFZd1NIWHFLWjRIZHR5Z083Tk1lUVlTNGJZRndfOERTXy0tVzUzcHdfU1BqeGw2SU0zRXJsbTBHQlIzbUtsdTFCRHFFbWRsM0xBT0Y4Uzl1S0FzYUpxMWpKRk5rVE5SS2ZHQ0RCWEw5NW9EaGo2LVN5RndVREN3eUtR?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-19T21:01:00Z"
-        },
-        {
-          "id": "report-a755c78656d2",
-          "title": "Iran war",
-          "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-19T03:28:58Z"
         },
         {
           "id": "report-0fa40444ce52",
@@ -1684,6 +1675,15 @@
           "reportedAt": "2026-09-18T13:20:07Z"
         },
         {
+          "id": "report-a755c78656d2",
+          "title": "Iran war",
+          "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-20T10:17:54Z"
+        },
+        {
           "id": "report-4739155b96b8",
           "title": "UN fact-finding mission says US committed possible war crimes in Iran",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSk1QRUk5WTk4SzJMZThKb1RLbDZmazFWaDZ5YTNFZUJvUEgycE9pcUtJUmFUa2lCdF9DdVU2SEVOX25wUkdpZlJ3aXc4UXJuVXY1ZFJ5NUhRYkZPb0hkSVgyVkFLb1lwSnVERmFaNHRFX3lLeWRRQlhoZWl3d1pHOVVUZDRSQmNxS0xiVkVmd2NoX2ViNnlCTHZhRl9VNVA2MHVNVVZvaW52MU5TRGtj0gG0AUFVX3lxTE00S2Z4Ty1UUUszRjJheG13Szk5c3ZPOWJfTlhwQV85TE41MHAzajk2bnJfamVyRXZodFFwaEtnOW0zUjQ4OF9LSldLTzQ1VDd5SHpLUVlmd0lkVDgzZGRoVzdRVm95bzN3ejhzYzlQQ0lGM0dFR0hINklFQ05mSk9sd1lHSHFRZ3YyamJuVVQ4RDBPdXkzR0JzYjl3cWE5bVZvSDVIUVQ1RnBBUVFKaDEySExGUg?oc=5",
@@ -1691,6 +1691,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-17T17:05:24Z"
+        },
+        {
+          "id": "report-93d28b06321c",
+          "title": "Iran says conditions to re-engage in talks, end war sent to US via Qatar",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ1JPc2xzcDhQMWhGREtsMUlPTnpUNDJ6dDRGZ0dNb0NYYUlMVnVJcnoyb1ZKSUFMdmdrQTVELTdaR2huNVdkQU9KRkVZRUdUcTREU25LSTJoeGt1WG1EZzZfV1pOREZhVmtmT0I2NkZKaE9uZUhMekpvSmN2MWZuWjc4cTEzZ2JUd1RoandXSG9fMUZickh4Y25TVzV3UEVQcmduVWd1cXhOaDJkVjBraUVR0gG3AUFVX3lxTFAwY3hyelpiTHdEV000Vm1PXzJ5YVpIUldCZnRnWEJLelBBQmVUMDFVTkluRlcxemVBOWVVXzdoQURGNnhDTU5PWjFUSFcxcHIwMTVIOS1QWG50TjIxbDhFdG1yWFdRS3JQeTNQRWVMUEpMcDdRNGJzSVZILTZ3MjZVQS1FQ0tyVFRQV3R1MG5qTkVwY3E1Sk5kdDk0ZGk1bHRZemVobm53Q1pRWTktRUhLMnZ4M0s2WQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-19T18:34:55Z"
         },
         {
           "id": "report-e1899df64302",
@@ -1702,13 +1711,13 @@
           "reportedAt": "2026-09-17T14:21:00Z"
         },
         {
-          "id": "report-93d28b06321c",
-          "title": "Iran says conditions to re-engage in talks, end war sent to US via Qatar",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ1JPc2xzcDhQMWhGREtsMUlPTnpUNDJ6dDRGZ0dNb0NYYUlMVnVJcnoyb1ZKSUFMdmdrQTVELTdaR2huNVdkQU9KRkVZRUdUcTREU25LSTJoeGt1WG1EZzZfV1pOREZhVmtmT0I2NkZKaE9uZUhMekpvSmN2MWZuWjc4cTEzZ2JUd1RoandXSG9fMUZickh4Y25TVzV3UEVQcmduVWd1cXhOaDJkVjBraUVR0gG3AUFVX3lxTFAwY3hyelpiTHdEV000Vm1PXzJ5YVpIUldCZnRnWEJLelBBQmVUMDFVTkluRlcxemVBOWVVXzdoQURGNnhDTU5PWjFUSFcxcHIwMTVIOS1QWG50TjIxbDhFdG1yWFdRS3JQeTNQRWVMUEpMcDdRNGJzSVZILTZ3MjZVQS1FQ0tyVFRQV3R1MG5qTkVwY3E1Sk5kdDk0ZGk1bHRZemVobm53Q1pRWTktRUhLMnZ4M0s2WQ?oc=5",
-          "domain": "aljazeera.com",
+          "id": "report-71488e28f064",
+          "title": "'I don't even know if my parents are alive' - the war heroes jailed 25 years ago",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NUGM1cTl4bXVXZ0FsOVRXYmlpVzltWFlTd1A2bkJDUEJfM3lnSlUtUzlKTEFQUmJoYi1YeDlBazlZRlM5eVdJY25hdWFhQlB4QjJBeXN4R2lWSzg?oc=5",
+          "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-19T18:34:55Z"
+          "reportedAt": "2026-09-19T23:01:45Z"
         },
         {
           "id": "report-683faaf0799f",
@@ -1729,13 +1738,13 @@
           "reportedAt": "2026-09-18T10:45:59Z"
         },
         {
-          "id": "report-71488e28f064",
-          "title": "'I don't even know if my parents are alive' - the war heroes jailed 25 years ago",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NUGM1cTl4bXVXZ0FsOVRXYmlpVzltWFlTd1A2bkJDUEJfM3lnSlUtUzlKTEFQUmJoYi1YeDlBazlZRlM5eVdJY25hdWFhQlB4QjJBeXN4R2lWSzg?oc=5",
+          "id": "report-d3c3bb1ad81e",
+          "title": "'Massive' drone attack on Moscow region sees Ukraine hit oil refinery",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YLTYydnNDeFVheUM5N05KaFczQVRzVjdmY3owNW1oZDN0cS1kSWNUbW1KZ0NicGF0YXVfcU9ybjF3SzU4OU5nc3hjcXNGZzJnbFRPajZhYzhwMGc?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-19T23:01:45Z"
+          "reportedAt": "2026-09-20T10:45:39Z"
         },
         {
           "id": "report-e1b9e3a147c1",
@@ -1765,15 +1774,6 @@
           "reportedAt": "2026-09-19T03:10:39Z"
         },
         {
-          "id": "report-d70718899a74",
-          "title": "Reports: US, Houthis make secret deal over Yemen war",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbnFSenlrZ3owajdFYmNMdXZRUGJZTVNuWTYyYTNCVVR1VU1KNnhDSDFWd2h2eHBZdjhkOXBJeU5MMlRUQ2hnQWtta1NRM2ZtWld6TXJYb0tlWlM1b0tvenpHZWFNbGdndmRVYWtlRzVnbGw2cDVkdEl3RGl6RDNJbERmdU96Z2I0enZtbXZTelljczV6Y0YwWUhrVEF3YXpXWW1v0gGoAUFVX3lxTFB4aFMzci16eXVEUkIxemF3c0U2LU43UFU5dThsTU5aYllMUkYwLVpsSVhNczVYSmVlcU9QSmhtSHR3bjB3LWh4NXVWd1pEX2pjWFhnSHBoelY4NVk4SXlSdDNYV0ZUakxPQWktVVpWbHBxSDVOQXRHcDA0QTNkdWllQjdKMXpncldjZmt0VVY5N2ROTWZ1RFM2dktJSGRzY2Fla1BKMXJmRQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-17T02:02:49Z"
-        },
-        {
           "id": "report-63310bae95cc",
           "title": "Saudi Arabia says Houthis tried to attack its capital, and other Mideast developments",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb3ZQdTJKbzNUNVFFeGV0NG0xYTlhTURSZ24wTGRxWUVsNFc3cUswUHpFWWFuM0piU1kxVmZlWURxbnZkT1Zvc0gxNHZPaVQ0di1hTmRoTDA1Z3Nib3phUjkycVIwN3czNlBDZl9tb2tpZ0liSVItaGVpQmpBUTEwSDl5UnZOTnhZdlh2UjcyRjAwSkFGN0N1UjBPcWp3NVE?oc=5",
@@ -1783,13 +1783,13 @@
           "reportedAt": "2026-09-20T01:46:00Z"
         },
         {
-          "id": "report-70efc925f09e",
-          "title": "Iran war’s cost grows to $43.6 billion in new US military estimate",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeGg2SlRYcEhCY3djYmV2MVlDUmRGZnRvMC1VV2Rtb2JDZkdvNlVIdUp4V0lPUUE1UWNfTmx3MXZfcE9PcExQV0xmVHVmaDBhQjNUS3JwaWFZaUxWRmozNjdOUEgxeUl0NzlYVlBFdFYtc09yS2FCNjlIOHBZSmJCR0FXRi1pM1ZqNXd5d21qVEpvUEcwWDJjVXpSX19CdDZUbjNpMUlQRjlUZDh2?oc=5",
-          "domain": "apnews.com",
+          "id": "report-d70718899a74",
+          "title": "Reports: US, Houthis make secret deal over Yemen war",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbnFSenlrZ3owajdFYmNMdXZRUGJZTVNuWTYyYTNCVVR1VU1KNnhDSDFWd2h2eHBZdjhkOXBJeU5MMlRUQ2hnQWtta1NRM2ZtWld6TXJYb0tlWlM1b0tvenpHZWFNbGdndmRVYWtlRzVnbGw2cDVkdEl3RGl6RDNJbERmdU96Z2I0enZtbXZTelljczV6Y0YwWUhrVEF3YXpXWW1v0gGoAUFVX3lxTFB4aFMzci16eXVEUkIxemF3c0U2LU43UFU5dThsTU5aYllMUkYwLVpsSVhNczVYSmVlcU9QSmhtSHR3bjB3LWh4NXVWd1pEX2pjWFhnSHBoelY4NVk4SXlSdDNYV0ZUakxPQWktVVpWbHBxSDVOQXRHcDA0QTNkdWllQjdKMXpncldjZmt0VVY5N2ROTWZ1RFM2dktJSGRzY2Fla1BKMXJmRQ?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-18T21:52:00Z"
+          "reportedAt": "2026-09-17T02:02:49Z"
         },
         {
           "id": "report-fcb3fa1b6f59",
@@ -1799,6 +1799,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-17T10:18:34Z"
+        },
+        {
+          "id": "report-70efc925f09e",
+          "title": "Iran war’s cost grows to $43.6 billion in new US military estimate",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeGg2SlRYcEhCY3djYmV2MVlDUmRGZnRvMC1VV2Rtb2JDZkdvNlVIdUp4V0lPUUE1UWNfTmx3MXZfcE9PcExQV0xmVHVmaDBhQjNUS3JwaWFZaUxWRmozNjdOUEgxeUl0NzlYVlBFdFYtc09yS2FCNjlIOHBZSmJCR0FXRi1pM1ZqNXd5d21qVEpvUEcwWDJjVXpSX19CdDZUbjNpMUlQRjlUZDh2?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-18T21:52:00Z"
         },
         {
           "id": "report-c4b530058366",
@@ -1844,15 +1853,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-18T04:40:16Z"
-        },
-        {
-          "id": "report-0f663ac9c21b",
-          "title": "Princess Anne opens 'special site' at war cemetery",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WaE45Unl6M3huRlBJczFMcWZqY1BXLXEwWHNYLW9zcllFZmVzME9WUUNqRngyeE9LdVdHQzMwc2ZfdDQyNkRkOTFONEFLVWx0TWxHUEFhV284OUU?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-17T17:12:21Z"
         },
         {
           "id": "report-c3cdab536a37",
