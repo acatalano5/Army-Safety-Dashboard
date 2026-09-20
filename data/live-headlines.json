@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T16:04:31.686Z",
+  "generatedAt": "2026-09-20T18:19:18.708Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -21,7 +21,7 @@
       ]
     },
     "safety": {
-      "generatedAt": "2026-09-19T18:13:56.537Z",
+      "generatedAt": "2026-09-20T18:19:18.708Z",
       "cadence": "daily",
       "items": [
         {
@@ -101,7 +101,7 @@
           "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQ0ZXYV9MZ0NzR05RcF9NdzdEVWh3d0w1MlR3ZmJ2TE0tTW9maWwzQ1VUU3lSR2EzalFhcnBmWVdtR0UzcFpKT2x2ZXRZZ3pseG41OHNPeEgyTXZuOHFWN1F0TTdVeW5NQWZBVnZzY0h1RVI2TTJjMXc5RE16WUxPV1EtaklkemRxeGwwQzV1TzgwZkFBVGRjYXlMRHpKMVd3aTZTeDZEbURjd1ZOdFFoMDMzOFExTVFKUG1WMTcyaHc3dFB0NmNMc3NmbUlHZzZFNC1lcQ?oc=5",
           "domain": "news.uscg.mil",
           "sourceTier": "Official military source",
-          "seen": "20260913T013859Z",
+          "seen": "20260912T070000Z",
           "pinned": false
         }
       ],
@@ -198,7 +198,7 @@
         },
         {
           "id": "auto-abde9ccdad6f",
-          "reportDate": "2026-09-13",
+          "reportDate": "2026-09-12",
           "dateBasis": "report discovery date",
           "branch": "Coast Guard",
           "department": "Department of Homeland Security",
