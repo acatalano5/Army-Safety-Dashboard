@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-22T11:36:40.638Z",
+  "generatedAt": "2026-09-22T16:57:05.076Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-09-22T11:36:40.638Z",
+      "generatedAt": "2026-09-22T16:57:05.076Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -1521,7 +1521,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-09-22T11:36:40.638Z",
+      "generatedAt": "2026-09-22T16:57:05.076Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -1529,7 +1529,7 @@
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWUdHOElkcmlob3ZfZ0RHajFkdG1DYzRXbDQ0eERkQ0gyMTNHbXkyVWJGZmhyTWcyV0ZaMXRuNS1lUnBmZmlSY0JhSWVkVGFBb1lrQXhWMFRTWThqTFV3WTJ1Snp1d255TnFqUFN5X3VtQ2F1MVFHQVgzV21LSkQyN0JRSXItejZqemtPWlRmeWpVWkV5VUtOSWxXTjhsTHlPaFpsNlBJVDBCcV82UHBtbUFn?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260922T042800Z",
+          "seen": "20260922T041547Z",
           "pinned": false
         },
         {
@@ -1565,19 +1565,19 @@
           "pinned": false
         },
         {
-          "title": "Saudi Arabia says Houthis tried to attack its capital, and other Mideast developments",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb3ZQdTJKbzNUNVFFeGV0NG0xYTlhTURSZ24wTGRxWUVsNFc3cUswUHpFWWFuM0piU1kxVmZlWURxbnZkT1Zvc0gxNHZPaVQ0di1hTmRoTDA1Z3Nib3phUjkycVIwN3czNlBDZl9tb2tpZ0liSVItaGVpQmpBUTEwSDl5UnZOTnhZdlh2UjcyRjAwSkFGN0N1UjBPcWp3NVE?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260920T014600Z",
-          "pinned": false
-        },
-        {
           "title": "Ethiopia conflict: Seven armed groups form alliance against Abiy Ahmed",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WdFB4WFp4QndZb19YWG5kUVBNdGk0dmwtVGhzNUFYd09KVmIxd0l3LUIxcFJkazVMaTFCdjJNRDU2aG55ZF9tdi1OaUVLa2Q0SWxRTnVyZzd1NnM?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20260921T170247Z",
+          "pinned": false
+        },
+        {
+          "title": "Saudi Arabia says Houthis tried to attack its capital, and other Mideast developments",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb3ZQdTJKbzNUNVFFeGV0NG0xYTlhTURSZ24wTGRxWUVsNFc3cUswUHpFWWFuM0piU1kxVmZlWURxbnZkT1Zvc0gxNHZPaVQ0di1hTmRoTDA1Z3Nib3phUjkycVIwN3czNlBDZl9tb2tpZ0liSVItaGVpQmpBUTEwSDl5UnZOTnhZdlh2UjcyRjAwSkFGN0N1UjBPcWp3NVE?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260920T014600Z",
           "pinned": false
         },
         {
@@ -1637,14 +1637,6 @@
           "pinned": false
         },
         {
-          "title": "Ukraine fires over 1,000 drones at Russia, including ‘largest ever’ attack on Moscow",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVGlGcXh5MjVFY3ZkdEpja25rTGtoU3pfUHc4Qy14STl2bWtOWFE1bTM1TFJYRFppcHlzdm0xamotU2hzd0l5cTZzeFRILVpNMm9TR1p6MkRydkFWcXlOU3Z0T25SWFRaR2txZTlWZFVvVFUwY0xNb211TlJkSEgyazBQRTdIV1BndU9yaldocW1lZk1NMXN3?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260920T190000Z",
-          "pinned": false
-        },
-        {
           "title": "What to expect as UN General Assembly convenes amid Iran war - Al-Monitor",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUXcyODVjUW1GdG1abXJ0MUJydUFnSm5iajFZS3Vlc3c5Z0dwVG1XMFBlTHczUGZFQV92N2Jqa0xkUFhtN29JWWdrQXZvTGlSZ3d0azhScmVjMkY2WWJQRDhlUXdDV29Na19DM3V5XzlVdWhvMDBFeXZMeGJncjhhMHRaT00wUG9tQWU3MGFUY01Bd1lTdzhsajVVem5OQXd6?oc=5",
           "domain": "al-monitor.com",
@@ -1653,35 +1645,11 @@
           "pinned": false
         },
         {
-          "title": "Rising gas prices frustrate voters. Trump says it's an 'inexpensive price to pay' for the Iran war",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUTVlR0MwV3NwMlZPbks5bzZXdlh3c0tmY201LVJIT20xTWNVRl96VkFrcGxoRHk4dG4yem5GRjJFSU1qNWljdFE0U1o5Y3R2X05JTS1IOWQ5RW5hOHVsNDFIOXpvcWpSZlM2YVFCejF6OGV4SnlsSEVlSzkwYkxkNHNwdmRfR1paVlhLXy1jWWNuWGYxcmFxcnZtR3NEWkpGeG50SEhvRkt1S2JG?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260920T113022Z",
-          "pinned": false
-        },
-        {
-          "title": "New book by Princess Diana’s brother prompts war of words with King Charles III",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZUU4WjE1QTZra2x2U1d2NGVVNEtxZGd1X0ttNTVHQnItX00xMlhzWHZoWjJTalZEMzRRM0ZlR1hXQWtaa3BrcWpydWFCZUVQbVJoWDI2NjJ1MTlzOUNpNll6LVlWX2VKT2lmaktoNnJnckctRXladFRTWlZxQWhNY1E3aDNjUmQ3ZGtHZ25WVkExd1BrTzhiVWxHb3NjOGs?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260922T110600Z",
-          "pinned": false
-        },
-        {
           "title": "How oil, gas losses have shrunk Iran’s GDP by 10 percent during war",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcFNseXpCVmJUTWVPSTdnMG0yQUo1Zm5RQkVxM0dIVkxEOE5mYWxmcm1fSmNwekxacm83c3ctY21YVC1pb2FrUkhfQ0RTakRJb2d1S0hTSzVTNWNvc0tBSXBweUNSb3NJMXh6MVpuTUpwSEZtZW9PYWU3OVprMnhKNGQtdWtpZl9GWHhaVHJNNFdpZUtzTGJ1dEtWM2NING1JY004YTVsTFJmQdIBrwFBVV95cUxPam1TVjUtRDluV2pseWpDVVRUMFotNlFjVGtvWl8xUlNJODBocklZVDdFdExLYy1CNkszQkNDcmhzakFBLXFuVW1ob0I5ZUJybTdZTVd2d1NMc1BjRTNwMVdDRmpYRk56blBJR1BDcUU2eW9SN0ZwTDZ6QW1JWkZCQVVBeFdUT0huRHJIZzNMTnp4V3lMME93Z3ZON1dNVUY5OEo0WVVQUlgwdFB3a09j?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260921T104453Z",
-          "pinned": false
-        },
-        {
-          "title": "With war, climate change and AI, it's a troubled world as leaders convene at the United Nations",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQendGemFFSmthSDlNMXV6R2QwWENmRE5XSzY0YU1pQ1VwWWtvWDUzTk96U0MyVmFLbWtnV0pleVFWX05oTzMxWHloQlplN3E3SkFvcWpIa29FUjBmSzB5dU81dDk3RFZZV3JVdkVqcXBtU2JOYzZyUG5oU3dBRVNaQlRRTi1TZU5lbm1TWnNXMzd4S0xyU0k4V2V1YUVYMmdEc1NiZDI3QUF0Zw?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260922T112400Z",
           "pinned": false
         },
         {
@@ -1715,6 +1683,38 @@
           "sourceTier": "Independent reporting",
           "seen": "20260922T055146Z",
           "pinned": false
+        },
+        {
+          "title": "Moscow attacked by more than 1,000 Ukrainian drones",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYzNvTXpQeGpueTJobDZOVm1Rd3FCWFk2b3RpZUgyNEJWTDdrMFFmaExrNmdJSnR6NklSWG1OM2FsTThSekNoWk1rS0tWU2xhblpqeE1YRUpoZnRQRVdQUEtFUWxBaTA4cEI0b050U2NTZWMzY1M3U3lfX1JqSmZYeDZtd05KNlJIeGRnTGFKWncxRDcyYm1zQ243YWN1dUpmd3FR0gGoAUFVX3lxTE16c1FzaEVhemdoRFAxd2tjZFVFZEpSWWRzdzBRdXdseGxIY0h1a3BvcTRwQlhRTGZuMC15UUdxVVdGbnFsaVNNc04zaE1ZY2dpdXJCcU9qNnAxYkpIN0UybFptUUN1dFNSYjBXZ3pVNFhSN0pGeHI3RTNHbXczSmsxdmpfYkRWWjFZbDM0WHJ2RW5aeVpEdGlHVXpPRDFiNHZLMWpqWTEyMA?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260920T131617Z",
+          "pinned": false
+        },
+        {
+          "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zTDBSOE01bzVETms3UUp0LVFaYjNBS19XUEFBbFRWY2FheFJsZ1hIU0F4dHBTcEFvcmc0TDlwbTVWZ0VrOHhCOVczNGhRYjQweFVQZGtva2NGV0E?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260921T141416Z",
+          "pinned": false
+        },
+        {
+          "title": "Is it a missile? Is it a drone? What’s the Pelican used by Ukraine?",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYi0wOVRuSEF3dTZ6aEY2cDNEZzRIYXJ4YWFMeENqTHMtWWhfbFdtR0FwTThGNGZ0T05pOGVlS1BvVzJpN3BocEVhMGNlQ2VScFVYRGRKMGRhcU4wUUNvUjJrS2Fxb1BDQmhTXzNmWXozemk2Tk9FcmdaaHdpZS1TU0cyUTVIZk9FdDhlQWw4azRWNThrUHVxTUNFRUlVWGE1UXNFMTVmNNIBrAFBVV95cUxPTWVGMW9BN3RoZDRGUnNDQWJUc2xUY3dGLXptWGx3REp4dU84aVkwSTliUGFLc2V6ZFlsclZMSkltdERWVTV0MkFfRlRFVGdEUVhOazliZTd3UzZNUjNsN0pwcjFwb2NHM3U4c0pCSm1rVE13cjhkR3BGdFhPdVNPNy1QTDNSSHROYVhPZDR5OExBcTF3bU5xOFdwQkJDSkczcUNOYXFPaHZJd1h5?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260921T142753Z",
+          "pinned": false
+        },
+        {
+          "title": "Explosion injures 3 South Korean military officers inside DMZ bordering North Korea",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOFhmWUhBTDJYenBSd1lHMVNabkFQVG12Q2lVQ21hNDdKUl9jRE5ZMW5GcXc3UHhobnE4cHdqblpaRjN5d3h1eDFZUktaYmkyNEREMGpkaVZtY2Y0R2lYU1dwZVJxdy1sS1UtaFZGQW0yWDVqa3VsTERsWnRsTWFqNFhhd1NIWlAyZU5qRzc0dmljcGtzLXFR?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260921T054822Z",
+          "pinned": false
         }
       ],
       "reports": [
@@ -1725,7 +1725,7 @@
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-22T04:28:00Z"
+          "reportedAt": "2026-09-22T04:15:47Z"
         },
         {
           "id": "report-9b466c06b810",
@@ -1764,15 +1764,6 @@
           "reportedAt": "2026-09-21T07:37:29Z"
         },
         {
-          "id": "report-63310bae95cc",
-          "title": "Saudi Arabia says Houthis tried to attack its capital, and other Mideast developments",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb3ZQdTJKbzNUNVFFeGV0NG0xYTlhTURSZ24wTGRxWUVsNFc3cUswUHpFWWFuM0piU1kxVmZlWURxbnZkT1Zvc0gxNHZPaVQ0di1hTmRoTDA1Z3Nib3phUjkycVIwN3czNlBDZl9tb2tpZ0liSVItaGVpQmpBUTEwSDl5UnZOTnhZdlh2UjcyRjAwSkFGN0N1UjBPcWp3NVE?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-20T01:46:00Z"
-        },
-        {
           "id": "report-19e4e967c00e",
           "title": "Ethiopia conflict: Seven armed groups form alliance against Abiy Ahmed",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WdFB4WFp4QndZb19YWG5kUVBNdGk0dmwtVGhzNUFYd09KVmIxd0l3LUIxcFJkazVMaTFCdjJNRDU2aG55ZF9tdi1OaUVLa2Q0SWxRTnVyZzd1NnM?oc=5",
@@ -1780,6 +1771,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-21T17:02:47Z"
+        },
+        {
+          "id": "report-63310bae95cc",
+          "title": "Saudi Arabia says Houthis tried to attack its capital, and other Mideast developments",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb3ZQdTJKbzNUNVFFeGV0NG0xYTlhTURSZ24wTGRxWUVsNFc3cUswUHpFWWFuM0piU1kxVmZlWURxbnZkT1Zvc0gxNHZPaVQ0di1hTmRoTDA1Z3Nib3phUjkycVIwN3czNlBDZl9tb2tpZ0liSVItaGVpQmpBUTEwSDl5UnZOTnhZdlh2UjcyRjAwSkFGN0N1UjBPcWp3NVE?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-20T01:46:00Z"
         },
         {
           "id": "report-f5bbf30670d4",
@@ -1845,15 +1845,6 @@
           "reportedAt": "2026-09-19T23:01:45Z"
         },
         {
-          "id": "report-fb04dd5c3ed6",
-          "title": "Ukraine fires over 1,000 drones at Russia, including ‘largest ever’ attack on Moscow",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVGlGcXh5MjVFY3ZkdEpja25rTGtoU3pfUHc4Qy14STl2bWtOWFE1bTM1TFJYRFppcHlzdm0xamotU2hzd0l5cTZzeFRILVpNMm9TR1p6MkRydkFWcXlOU3Z0T25SWFRaR2txZTlWZFVvVFUwY0xNb211TlJkSEgyazBQRTdIV1BndU9yaldocW1lZk1NMXN3?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-20T19:00:00Z"
-        },
-        {
           "id": "report-71235b2372b2",
           "title": "What to expect as UN General Assembly convenes amid Iran war - Al-Monitor",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUXcyODVjUW1GdG1abXJ0MUJydUFnSm5iajFZS3Vlc3c5Z0dwVG1XMFBlTHczUGZFQV92N2Jqa0xkUFhtN29JWWdrQXZvTGlSZ3d0azhScmVjMkY2WWJQRDhlUXdDV29Na19DM3V5XzlVdWhvMDBFeXZMeGJncjhhMHRaT00wUG9tQWU3MGFUY01Bd1lTdzhsajVVem5OQXd6?oc=5",
@@ -1863,24 +1854,6 @@
           "reportedAt": "2026-09-20T08:15:45Z"
         },
         {
-          "id": "report-b4c254ff0d41",
-          "title": "Rising gas prices frustrate voters. Trump says it's an 'inexpensive price to pay' for the Iran war",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUTVlR0MwV3NwMlZPbks5bzZXdlh3c0tmY201LVJIT20xTWNVRl96VkFrcGxoRHk4dG4yem5GRjJFSU1qNWljdFE0U1o5Y3R2X05JTS1IOWQ5RW5hOHVsNDFIOXpvcWpSZlM2YVFCejF6OGV4SnlsSEVlSzkwYkxkNHNwdmRfR1paVlhLXy1jWWNuWGYxcmFxcnZtR3NEWkpGeG50SEhvRkt1S2JG?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-20T11:30:22Z"
-        },
-        {
-          "id": "report-c1ada3e0819d",
-          "title": "New book by Princess Diana’s brother prompts war of words with King Charles III",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZUU4WjE1QTZra2x2U1d2NGVVNEtxZGd1X0ttNTVHQnItX00xMlhzWHZoWjJTalZEMzRRM0ZlR1hXQWtaa3BrcWpydWFCZUVQbVJoWDI2NjJ1MTlzOUNpNll6LVlWX2VKT2lmaktoNnJnckctRXladFRTWlZxQWhNY1E3aDNjUmQ3ZGtHZ25WVkExd1BrTzhiVWxHb3NjOGs?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-22T11:06:00Z"
-        },
-        {
           "id": "report-ae6231759b5d",
           "title": "How oil, gas losses have shrunk Iran’s GDP by 10 percent during war",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcFNseXpCVmJUTWVPSTdnMG0yQUo1Zm5RQkVxM0dIVkxEOE5mYWxmcm1fSmNwekxacm83c3ctY21YVC1pb2FrUkhfQ0RTakRJb2d1S0hTSzVTNWNvc0tBSXBweUNSb3NJMXh6MVpuTUpwSEZtZW9PYWU3OVprMnhKNGQtdWtpZl9GWHhaVHJNNFdpZUtzTGJ1dEtWM2NING1JY004YTVsTFJmQdIBrwFBVV95cUxPam1TVjUtRDluV2pseWpDVVRUMFotNlFjVGtvWl8xUlNJODBocklZVDdFdExLYy1CNkszQkNDcmhzakFBLXFuVW1ob0I5ZUJybTdZTVd2d1NMc1BjRTNwMVdDRmpYRk56blBJR1BDcUU2eW9SN0ZwTDZ6QW1JWkZCQVVBeFdUT0huRHJIZzNMTnp4V3lMME93Z3ZON1dNVUY5OEo0WVVQUlgwdFB3a09j?oc=5",
@@ -1888,15 +1861,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-21T10:44:53Z"
-        },
-        {
-          "id": "report-05ef403b1a1d",
-          "title": "With war, climate change and AI, it's a troubled world as leaders convene at the United Nations",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQendGemFFSmthSDlNMXV6R2QwWENmRE5XSzY0YU1pQ1VwWWtvWDUzTk96U0MyVmFLbWtnV0pleVFWX05oTzMxWHloQlplN3E3SkFvcWpIa29FUjBmSzB5dU81dDk3RFZZV3JVdkVqcXBtU2JOYzZyUG5oU3dBRVNaQlRRTi1TZU5lbm1TWnNXMzd4S0xyU0k4V2V1YUVYMmdEc1NiZDI3QUF0Zw?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-22T11:24:00Z"
         },
         {
           "id": "report-a07f9e81d4df",
@@ -1933,6 +1897,42 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-22T05:51:46Z"
+        },
+        {
+          "id": "report-26ff99f5fc30",
+          "title": "Moscow attacked by more than 1,000 Ukrainian drones",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYzNvTXpQeGpueTJobDZOVm1Rd3FCWFk2b3RpZUgyNEJWTDdrMFFmaExrNmdJSnR6NklSWG1OM2FsTThSekNoWk1rS0tWU2xhblpqeE1YRUpoZnRQRVdQUEtFUWxBaTA4cEI0b050U2NTZWMzY1M3U3lfX1JqSmZYeDZtd05KNlJIeGRnTGFKWncxRDcyYm1zQ243YWN1dUpmd3FR0gGoAUFVX3lxTE16c1FzaEVhemdoRFAxd2tjZFVFZEpSWWRzdzBRdXdseGxIY0h1a3BvcTRwQlhRTGZuMC15UUdxVVdGbnFsaVNNc04zaE1ZY2dpdXJCcU9qNnAxYkpIN0UybFptUUN1dFNSYjBXZ3pVNFhSN0pGeHI3RTNHbXczSmsxdmpfYkRWWjFZbDM0WHJ2RW5aeVpEdGlHVXpPRDFiNHZLMWpqWTEyMA?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-20T13:16:17Z"
+        },
+        {
+          "id": "report-58fdba26e039",
+          "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zTDBSOE01bzVETms3UUp0LVFaYjNBS19XUEFBbFRWY2FheFJsZ1hIU0F4dHBTcEFvcmc0TDlwbTVWZ0VrOHhCOVczNGhRYjQweFVQZGtva2NGV0E?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-21T14:14:16Z"
+        },
+        {
+          "id": "report-5290229a7236",
+          "title": "Is it a missile? Is it a drone? What’s the Pelican used by Ukraine?",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYi0wOVRuSEF3dTZ6aEY2cDNEZzRIYXJ4YWFMeENqTHMtWWhfbFdtR0FwTThGNGZ0T05pOGVlS1BvVzJpN3BocEVhMGNlQ2VScFVYRGRKMGRhcU4wUUNvUjJrS2Fxb1BDQmhTXzNmWXozemk2Tk9FcmdaaHdpZS1TU0cyUTVIZk9FdDhlQWw4azRWNThrUHVxTUNFRUlVWGE1UXNFMTVmNNIBrAFBVV95cUxPTWVGMW9BN3RoZDRGUnNDQWJUc2xUY3dGLXptWGx3REp4dU84aVkwSTliUGFLc2V6ZFlsclZMSkltdERWVTV0MkFfRlRFVGdEUVhOazliZTd3UzZNUjNsN0pwcjFwb2NHM3U4c0pCSm1rVE13cjhkR3BGdFhPdVNPNy1QTDNSSHROYVhPZDR5OExBcTF3bU5xOFdwQkJDSkczcUNOYXFPaHZJd1h5?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-21T14:27:53Z"
+        },
+        {
+          "id": "report-1f84467cc83f",
+          "title": "Explosion injures 3 South Korean military officers inside DMZ bordering North Korea",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOFhmWUhBTDJYenBSd1lHMVNabkFQVG12Q2lVQ21hNDdKUl9jRE5ZMW5GcXc3UHhobnE4cHdqblpaRjN5d3h1eDFZUktaYmkyNEREMGpkaVZtY2Y0R2lYU1dwZVJxdy1sS1UtaFZGQW0yWDVqa3VsTERsWnRsTWFqNFhhd1NIWlAyZU5qRzc0dmljcGtzLXFR?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-21T05:48:22Z"
         },
         {
           "id": "report-defc72fd3c7f",
