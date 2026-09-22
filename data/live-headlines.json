@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-22T19:11:53.610Z",
+  "generatedAt": "2026-09-22T21:19:28.463Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-09-22T16:57:05.076Z",
+      "generatedAt": "2026-09-22T21:19:28.463Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -1505,17 +1505,9 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-09-22T16:57:05.076Z",
+      "generatedAt": "2026-09-22T21:19:28.463Z",
       "cadence": "every 6 hours",
       "items": [
-        {
-          "title": "Iran’s Revolutionary Guard warns US over escalation, and other Mideast developments",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWUdHOElkcmlob3ZfZ0RHajFkdG1DYzRXbDQ0eERkQ0gyMTNHbXkyVWJGZmhyTWcyV0ZaMXRuNS1lUnBmZmlSY0JhSWVkVGFBb1lrQXhWMFRTWThqTFV3WTJ1Snp1d255TnFqUFN5X3VtQ2F1MVFHQVgzV21LSkQyN0JRSXItejZqemtPWlRmeWpVWkV5VUtOSWxXTjhsTHlPaFpsNlBJVDBCcV82UHBtbUFn?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260922T041547Z",
-          "pinned": false
-        },
         {
           "title": "Postponing the future: War and inflation redraw marriage terms in Iran",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeWhyYzJhWkQ1TDYtejRnUTIwSTh2V0xieEdGVnNnY2lPaG83TjlJSHF0X09wbnNRbVo3SUcwWmdNSVFzbDZXY3NIaWJnWUtGOTltQVhMbi1saWNQVU81MGszdXFMSGYtWHJKRGhYLXJvX3BGb1hBb0Y2ZS13Q2h0b1hxRHhtX0NQOFFGdWxtUjhRNlNiLVZQMDF3VGc0VkNxZDZtVDJKNWJRa01fY3EzQ0FrWdIBuAFBVV95cUxPV0NyN2RNQnhqXzZHbWFheTVXNnZaZldaYlUxamNvbHlSOFJGeDRsV09nSlhGTGgtc3FuY2trSHFSazlGYTFSQlJYYm90WkI5RmsxX2s4anpGNXFhbHZYbjFTS0huX1I1aS1KM0I2blJpcUhDeDhDVmhZejVGMnZNOFBLX2N1bDNsMlBoVUloYUFEdHNDOTRJQ2djQ295eU1sdmFWR3ZoWGpXdHlsQjhUU3NJNlluTlFE?oc=5",
@@ -1530,6 +1522,14 @@
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20260920T222815Z",
+          "pinned": false
+        },
+        {
+          "title": "Iran’s Revolutionary Guard warns US over escalation, and other Mideast developments",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWUdHOElkcmlob3ZfZ0RHajFkdG1DYzRXbDQ0eERkQ0gyMTNHbXkyVWJGZmhyTWcyV0ZaMXRuNS1lUnBmZmlSY0JhSWVkVGFBb1lrQXhWMFRTWThqTFV3WTJ1Snp1d255TnFqUFN5X3VtQ2F1MVFHQVgzV21LSkQyN0JRSXItejZqemtPWlRmeWpVWkV5VUtOSWxXTjhsTHlPaFpsNlBJVDBCcV82UHBtbUFn?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260922T042800Z",
           "pinned": false
         },
         {
@@ -1549,6 +1549,14 @@
           "pinned": false
         },
         {
+          "title": "War in Ukraine | Global Conflict Tracker",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzNzUzWFZFa3dRQ094S3NlRzRSbVloSUU5ZGhYSHZBLUYxdTlvdGdaTmN6b09EOGZlYmVTaGRnSFVzbk12T0Z4bDJJTnF6bGI4S1ZaVXhNUDY3cEJweFJVVWZZQ2c4T0NOT3lWVy1BMHFFRGJNdUQ5Rg?oc=5",
+          "domain": "cfr.org",
+          "sourceTier": "Structured / analytic",
+          "seen": "20260920T070000Z",
+          "pinned": false
+        },
+        {
           "title": "Ethiopia conflict: Seven armed groups form alliance against Abiy Ahmed",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WdFB4WFp4QndZb19YWG5kUVBNdGk0dmwtVGhzNUFYd09KVmIxd0l3LUIxcFJkazVMaTFCdjJNRDU2aG55ZF9tdi1OaUVLa2Q0SWxRTnVyZzd1NnM?oc=5",
           "domain": "bbc.com",
@@ -1557,19 +1565,19 @@
           "pinned": false
         },
         {
-          "title": "Saudi Arabia says Houthis tried to attack its capital, and other Mideast developments",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb3ZQdTJKbzNUNVFFeGV0NG0xYTlhTURSZ24wTGRxWUVsNFc3cUswUHpFWWFuM0piU1kxVmZlWURxbnZkT1Zvc0gxNHZPaVQ0di1hTmRoTDA1Z3Nib3phUjkycVIwN3czNlBDZl9tb2tpZ0liSVItaGVpQmpBUTEwSDl5UnZOTnhZdlh2UjcyRjAwSkFGN0N1UjBPcWp3NVE?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260920T014600Z",
-          "pinned": false
-        },
-        {
           "title": "Germany’s AfD calls for ‘different’ approach to end Russia-Ukraine war",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWGRZb1JPWkNZcnJIWnlPT1hZamNPTEptRW9sTmZ3OW0zTUJSam4xR0RQQnNWMHJsQTlsOEp5SGFkTG02MlVzdHZHSVEwOVByOHRVQ1V4aHVIa2R5d1BuMDJEVzBaRzdkd2pBSnd4eUs2OFVaM01BSUVTeVR0eUhCRk5xZlNtdi1JUzMxX2pNYWxaUEt0b29NSk14Nm9PeWlBT1hMeGtNd01HZ0FW?oc=5",
           "domain": "aa.com.tr",
           "sourceTier": "State-affiliated reporting",
           "seen": "20260921T130744Z",
+          "pinned": false
+        },
+        {
+          "title": "Saudi Arabia says Houthis tried to attack its capital, and other Mideast developments",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb3ZQdTJKbzNUNVFFeGV0NG0xYTlhTURSZ24wTGRxWUVsNFc3cUswUHpFWWFuM0piU1kxVmZlWURxbnZkT1Zvc0gxNHZPaVQ0di1hTmRoTDA1Z3Nib3phUjkycVIwN3czNlBDZl9tb2tpZ0liSVItaGVpQmpBUTEwSDl5UnZOTnhZdlh2UjcyRjAwSkFGN0N1UjBPcWp3NVE?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260920T014600Z",
           "pinned": false
         },
         {
@@ -1589,19 +1597,19 @@
           "pinned": false
         },
         {
-          "title": "Iran-backed Houthi rebels warn against joining Saudi Arabia in Yemen’s growing civil war",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMjZSU3pzSDBwWFJaUEUwdEg1YXEzemljdXpSQXk2bVN6cEtacEJYYTVKRU9xdUw1RFhYRm13b0lrZTgteFpLMVJDTWl5TFBKaTdCRldGc05RdVFPMkd4Q244c1cyTjlsZFNDR0RNTEsyQzlFa0FWUFZBazdnbG41MVhBb3B3Szh2RzI0N3dnZ1d6dlFIVlFxSHhzc0J1SHdW?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260920T182300Z",
-          "pinned": false
-        },
-        {
           "title": "Iran says conditions to re-engage in talks, end war sent to US via Qatar",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ1JPc2xzcDhQMWhGREtsMUlPTnpUNDJ6dDRGZ0dNb0NYYUlMVnVJcnoyb1ZKSUFMdmdrQTVELTdaR2huNVdkQU9KRkVZRUdUcTREU25LSTJoeGt1WG1EZzZfV1pOREZhVmtmT0I2NkZKaE9uZUhMekpvSmN2MWZuWjc4cTEzZ2JUd1RoandXSG9fMUZickh4Y25TVzV3UEVQcmduVWd1cXhOaDJkVjBraUVR0gG3AUFVX3lxTFAwY3hyelpiTHdEV000Vm1PXzJ5YVpIUldCZnRnWEJLelBBQmVUMDFVTkluRlcxemVBOWVVXzdoQURGNnhDTU5PWjFUSFcxcHIwMTVIOS1QWG50TjIxbDhFdG1yWFdRS3JQeTNQRWVMUEpMcDdRNGJzSVZILTZ3MjZVQS1FQ0tyVFRQV3R1MG5qTkVwY3E1Sk5kdDk0ZGk1bHRZemVobm53Q1pRWTktRUhLMnZ4M0s2WQ?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260919T183245Z",
+          "pinned": false
+        },
+        {
+          "title": "'I don't even know if my parents are alive' - the war heroes jailed 25 years ago",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NUGM1cTl4bXVXZ0FsOVRXYmlpVzltWFlTd1A2bkJDUEJfM3lnSlUtUzlKTEFQUmJoYi1YeDlBazlZRlM5eVdJY25hdWFhQlB4QjJBeXN4R2lWSzg?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260919T230145Z",
           "pinned": false
         },
         {
@@ -1613,11 +1621,11 @@
           "pinned": false
         },
         {
-          "title": "'I don't even know if my parents are alive' - the war heroes jailed 25 years ago",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NUGM1cTl4bXVXZ0FsOVRXYmlpVzltWFlTd1A2bkJDUEJfM3lnSlUtUzlKTEFQUmJoYi1YeDlBazlZRlM5eVdJY25hdWFhQlB4QjJBeXN4R2lWSzg?oc=5",
-          "domain": "bbc.com",
+          "title": "A simple guide to the Yemen conflict",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaTlhWGNXUWtmX1lqalR2aFd2dWg2U3dETFRlNUkwVmZlRU1SdEU1Y3ExTHlmbzJ0cng3a3lGRlNGeXBpZzNWUF82SGVTVVc4OXJvblU0cjlQWEpKcnRHYTFlQW15TE9XcHNHTnllLUp1alA3VWREd0xFN0F1eTFjWWRrNUPSAYoBQVVfeXFMTlRPbGQzbmNmMTJfeDFUVERTX0F0VF9oa0FYbE1hX0dlMEE5eTA2Y2lRTGNhMUR6TmdPUlFKZDkxakJWT2psRVVsQ1pFc1d3UThLMXlPTTVvX1huQ1cyN1JpdlBJUU5yVVNINUt1RWw1d1E4XzdwNVFKOVNTMVF6YWgwbTFvWm84MU9n?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260919T230145Z",
+          "seen": "20260921T100451Z",
           "pinned": false
         },
         {
@@ -1634,14 +1642,6 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260921T104453Z",
-          "pinned": false
-        },
-        {
-          "title": "A simple guide to the Yemen conflict",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaTlhWGNXUWtmX1lqalR2aFd2dWg2U3dETFRlNUkwVmZlRU1SdEU1Y3ExTHlmbzJ0cng3a3lGRlNGeXBpZzNWUF82SGVTVVc4OXJvblU0cjlQWEpKcnRHYTFlQW15TE9XcHNHTnllLUp1alA3VWREd0xFN0F1eTFjWWRrNUPSAYoBQVVfeXFMTlRPbGQzbmNmMTJfeDFUVERTX0F0VF9oa0FYbE1hX0dlMEE5eTA2Y2lRTGNhMUR6TmdPUlFKZDkxakJWT2psRVVsQ1pFc1d3UThLMXlPTTVvX1huQ1cyN1JpdlBJUU5yVVNINUt1RWw1d1E4XzdwNVFKOVNTMVF6YWgwbTFvWm84MU9n?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260921T100451Z",
           "pinned": false
         },
         {
@@ -1685,32 +1685,23 @@
           "pinned": false
         },
         {
-          "title": "Is it a missile? Is it a drone? What’s the Pelican used by Ukraine?",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYi0wOVRuSEF3dTZ6aEY2cDNEZzRIYXJ4YWFMeENqTHMtWWhfbFdtR0FwTThGNGZ0T05pOGVlS1BvVzJpN3BocEVhMGNlQ2VScFVYRGRKMGRhcU4wUUNvUjJrS2Fxb1BDQmhTXzNmWXozemk2Tk9FcmdaaHdpZS1TU0cyUTVIZk9FdDhlQWw4azRWNThrUHVxTUNFRUlVWGE1UXNFMTVmNNIBrAFBVV95cUxPTWVGMW9BN3RoZDRGUnNDQWJUc2xUY3dGLXptWGx3REp4dU84aVkwSTliUGFLc2V6ZFlsclZMSkltdERWVTV0MkFfRlRFVGdEUVhOazliZTd3UzZNUjNsN0pwcjFwb2NHM3U4c0pCSm1rVE13cjhkR3BGdFhPdVNPNy1QTDNSSHROYVhPZDR5OExBcTF3bU5xOFdwQkJDSkczcUNOYXFPaHZJd1h5?oc=5",
+          "title": "Trump says monumental arch in Washington, DC will also be military complex",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLWhlWmRoczFDS2ZTZThZOUtjd29iQXptS3NGSHpwaWlZMXR4UHlTTWdJbkxYR21zMm9JYVhrYjhhdk92X3NNcGcxVG9zV01VbnVVSDJoVkVXX3JBSHhxc0pmWUdYNEE3TjhSdDc0M2lJV0dpeFlhMnMxSERnWHNoYmFUSHJhTy1vWTBacldROUtmR082T0ZzWGdCd2VnOWFyM01kUW5GV25rOVhPWFRJUTl5QlnSAboBQVVfeXFMTXVzWGN0QUJCTHctazg1RGlkWE02OWpFeGFNMS1ZTkxVWUlCWHBKSDFWV0xrWGRIS0V2d05qeUFjUkh1M1pHbldPYnludGFnWm81YnFpR3gxdXVhZFJSelZzMTlWdnZMSWdNY0ZzV1dhWldtMUR2QjFkaTc1QjJoU2Z6X2xLSlN0b3FRMWtMYkpiREVSMDZHU01EZjluUzIxSzVQYVVDb0hEQXlzVmhVYjlITTBua2lSS21R?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260921T142753Z",
+          "seen": "20260920T213453Z",
           "pinned": false
         },
         {
-          "title": "Explosion injures 3 South Korean military officers inside DMZ bordering North Korea",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOFhmWUhBTDJYenBSd1lHMVNabkFQVG12Q2lVQ21hNDdKUl9jRE5ZMW5GcXc3UHhobnE4cHdqblpaRjN5d3h1eDFZUktaYmkyNEREMGpkaVZtY2Y0R2lYU1dwZVJxdy1sS1UtaFZGQW0yWDVqa3VsTERsWnRsTWFqNFhhd1NIWlAyZU5qRzc0dmljcGtzLXFR?oc=5",
+          "title": "Trump says US and Iranian officials met Tuesday, shortly after warning he may 'annihilate' Iran",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLTBMZ0ppZk41VENvQnJNNVU5Tmk3anJCdEJrcGRrb3dfb2dJMVRaSXNWQnhjY0wxX2Z4NHlKRXdaSXZfc2cxOHNLM1hwRGJ4WDhGNTdBb1pjTDBmVzQ1VE95SHJlYUtSVm1KdUdyYURwaGpScDBmam56OFlUZ25aaWlaczhnUzN6SkV3Y3NNTVVtblZtd183Rg?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260921T054822Z",
+          "seen": "20260922T200700Z",
           "pinned": false
         }
       ],
       "reports": [
-        {
-          "id": "report-836425b8d1cf",
-          "title": "Iran’s Revolutionary Guard warns US over escalation, and other Mideast developments",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWUdHOElkcmlob3ZfZ0RHajFkdG1DYzRXbDQ0eERkQ0gyMTNHbXkyVWJGZmhyTWcyV0ZaMXRuNS1lUnBmZmlSY0JhSWVkVGFBb1lrQXhWMFRTWThqTFV3WTJ1Snp1d255TnFqUFN5X3VtQ2F1MVFHQVgzV21LSkQyN0JRSXItejZqemtPWlRmeWpVWkV5VUtOSWxXTjhsTHlPaFpsNlBJVDBCcV82UHBtbUFn?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-22T04:15:47Z"
-        },
         {
           "id": "report-9b466c06b810",
           "title": "Postponing the future: War and inflation redraw marriage terms in Iran",
@@ -1728,6 +1719,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-20T22:28:15Z"
+        },
+        {
+          "id": "report-836425b8d1cf",
+          "title": "Iran’s Revolutionary Guard warns US over escalation, and other Mideast developments",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWUdHOElkcmlob3ZfZ0RHajFkdG1DYzRXbDQ0eERkQ0gyMTNHbXkyVWJGZmhyTWcyV0ZaMXRuNS1lUnBmZmlSY0JhSWVkVGFBb1lrQXhWMFRTWThqTFV3WTJ1Snp1d255TnFqUFN5X3VtQ2F1MVFHQVgzV21LSkQyN0JRSXItejZqemtPWlRmeWpVWkV5VUtOSWxXTjhsTHlPaFpsNlBJVDBCcV82UHBtbUFn?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-22T04:28:00Z"
         },
         {
           "id": "report-c3139915e971",
@@ -1748,6 +1748,15 @@
           "reportedAt": "2026-09-21T07:37:29Z"
         },
         {
+          "id": "report-3d06d7802bf8",
+          "title": "War in Ukraine | Global Conflict Tracker",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzNzUzWFZFa3dRQ094S3NlRzRSbVloSUU5ZGhYSHZBLUYxdTlvdGdaTmN6b09EOGZlYmVTaGRnSFVzbk12T0Z4bDJJTnF6bGI4S1ZaVXhNUDY3cEJweFJVVWZZQ2c4T0NOT3lWVy1BMHFFRGJNdUQ5Rg?oc=5",
+          "domain": "cfr.org",
+          "sourceTier": "Structured / analytic",
+          "confidenceLabel": "ANALYTIC REPORT",
+          "reportedAt": "2026-09-20T07:00:00Z"
+        },
+        {
           "id": "report-19e4e967c00e",
           "title": "Ethiopia conflict: Seven armed groups form alliance against Abiy Ahmed",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WdFB4WFp4QndZb19YWG5kUVBNdGk0dmwtVGhzNUFYd09KVmIxd0l3LUIxcFJkazVMaTFCdjJNRDU2aG55ZF9tdi1OaUVLa2Q0SWxRTnVyZzd1NnM?oc=5",
@@ -1757,15 +1766,6 @@
           "reportedAt": "2026-09-21T17:02:47Z"
         },
         {
-          "id": "report-63310bae95cc",
-          "title": "Saudi Arabia says Houthis tried to attack its capital, and other Mideast developments",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb3ZQdTJKbzNUNVFFeGV0NG0xYTlhTURSZ24wTGRxWUVsNFc3cUswUHpFWWFuM0piU1kxVmZlWURxbnZkT1Zvc0gxNHZPaVQ0di1hTmRoTDA1Z3Nib3phUjkycVIwN3czNlBDZl9tb2tpZ0liSVItaGVpQmpBUTEwSDl5UnZOTnhZdlh2UjcyRjAwSkFGN0N1UjBPcWp3NVE?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-20T01:46:00Z"
-        },
-        {
           "id": "report-f5bbf30670d4",
           "title": "Germany’s AfD calls for ‘different’ approach to end Russia-Ukraine war",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWGRZb1JPWkNZcnJIWnlPT1hZamNPTEptRW9sTmZ3OW0zTUJSam4xR0RQQnNWMHJsQTlsOEp5SGFkTG02MlVzdHZHSVEwOVByOHRVQ1V4aHVIa2R5d1BuMDJEVzBaRzdkd2pBSnd4eUs2OFVaM01BSUVTeVR0eUhCRk5xZlNtdi1JUzMxX2pNYWxaUEt0b29NSk14Nm9PeWlBT1hMeGtNd01HZ0FW?oc=5",
@@ -1773,6 +1773,15 @@
           "sourceTier": "State-affiliated reporting",
           "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
           "reportedAt": "2026-09-21T13:07:44Z"
+        },
+        {
+          "id": "report-63310bae95cc",
+          "title": "Saudi Arabia says Houthis tried to attack its capital, and other Mideast developments",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb3ZQdTJKbzNUNVFFeGV0NG0xYTlhTURSZ24wTGRxWUVsNFc3cUswUHpFWWFuM0piU1kxVmZlWURxbnZkT1Zvc0gxNHZPaVQ0di1hTmRoTDA1Z3Nib3phUjkycVIwN3czNlBDZl9tb2tpZ0liSVItaGVpQmpBUTEwSDl5UnZOTnhZdlh2UjcyRjAwSkFGN0N1UjBPcWp3NVE?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-20T01:46:00Z"
         },
         {
           "id": "report-4b7f5aab481e",
@@ -1793,15 +1802,6 @@
           "reportedAt": "2026-09-21T05:21:20Z"
         },
         {
-          "id": "report-a295aaedf887",
-          "title": "Iran-backed Houthi rebels warn against joining Saudi Arabia in Yemen’s growing civil war",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMjZSU3pzSDBwWFJaUEUwdEg1YXEzemljdXpSQXk2bVN6cEtacEJYYTVKRU9xdUw1RFhYRm13b0lrZTgteFpLMVJDTWl5TFBKaTdCRldGc05RdVFPMkd4Q244c1cyTjlsZFNDR0RNTEsyQzlFa0FWUFZBazdnbG41MVhBb3B3Szh2RzI0N3dnZ1d6dlFIVlFxSHhzc0J1SHdW?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-20T18:23:00Z"
-        },
-        {
           "id": "report-93d28b06321c",
           "title": "Iran says conditions to re-engage in talks, end war sent to US via Qatar",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ1JPc2xzcDhQMWhGREtsMUlPTnpUNDJ6dDRGZ0dNb0NYYUlMVnVJcnoyb1ZKSUFMdmdrQTVELTdaR2huNVdkQU9KRkVZRUdUcTREU25LSTJoeGt1WG1EZzZfV1pOREZhVmtmT0I2NkZKaE9uZUhMekpvSmN2MWZuWjc4cTEzZ2JUd1RoandXSG9fMUZickh4Y25TVzV3UEVQcmduVWd1cXhOaDJkVjBraUVR0gG3AUFVX3lxTFAwY3hyelpiTHdEV000Vm1PXzJ5YVpIUldCZnRnWEJLelBBQmVUMDFVTkluRlcxemVBOWVVXzdoQURGNnhDTU5PWjFUSFcxcHIwMTVIOS1QWG50TjIxbDhFdG1yWFdRS3JQeTNQRWVMUEpMcDdRNGJzSVZILTZ3MjZVQS1FQ0tyVFRQV3R1MG5qTkVwY3E1Sk5kdDk0ZGk1bHRZemVobm53Q1pRWTktRUhLMnZ4M0s2WQ?oc=5",
@@ -1809,6 +1809,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-19T18:32:45Z"
+        },
+        {
+          "id": "report-71488e28f064",
+          "title": "'I don't even know if my parents are alive' - the war heroes jailed 25 years ago",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NUGM1cTl4bXVXZ0FsOVRXYmlpVzltWFlTd1A2bkJDUEJfM3lnSlUtUzlKTEFQUmJoYi1YeDlBazlZRlM5eVdJY25hdWFhQlB4QjJBeXN4R2lWSzg?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-19T23:01:45Z"
         },
         {
           "id": "report-b065182aa9dd",
@@ -1820,13 +1829,13 @@
           "reportedAt": "2026-09-20T20:13:39Z"
         },
         {
-          "id": "report-71488e28f064",
-          "title": "'I don't even know if my parents are alive' - the war heroes jailed 25 years ago",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NUGM1cTl4bXVXZ0FsOVRXYmlpVzltWFlTd1A2bkJDUEJfM3lnSlUtUzlKTEFQUmJoYi1YeDlBazlZRlM5eVdJY25hdWFhQlB4QjJBeXN4R2lWSzg?oc=5",
-          "domain": "bbc.com",
+          "id": "report-a07f9e81d4df",
+          "title": "A simple guide to the Yemen conflict",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaTlhWGNXUWtmX1lqalR2aFd2dWg2U3dETFRlNUkwVmZlRU1SdEU1Y3ExTHlmbzJ0cng3a3lGRlNGeXBpZzNWUF82SGVTVVc4OXJvblU0cjlQWEpKcnRHYTFlQW15TE9XcHNHTnllLUp1alA3VWREd0xFN0F1eTFjWWRrNUPSAYoBQVVfeXFMTlRPbGQzbmNmMTJfeDFUVERTX0F0VF9oa0FYbE1hX0dlMEE5eTA2Y2lRTGNhMUR6TmdPUlFKZDkxakJWT2psRVVsQ1pFc1d3UThLMXlPTTVvX1huQ1cyN1JpdlBJUU5yVVNINUt1RWw1d1E4XzdwNVFKOVNTMVF6YWgwbTFvWm84MU9n?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-19T23:01:45Z"
+          "reportedAt": "2026-09-21T10:04:51Z"
         },
         {
           "id": "report-71235b2372b2",
@@ -1845,15 +1854,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-21T10:44:53Z"
-        },
-        {
-          "id": "report-a07f9e81d4df",
-          "title": "A simple guide to the Yemen conflict",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaTlhWGNXUWtmX1lqalR2aFd2dWg2U3dETFRlNUkwVmZlRU1SdEU1Y3ExTHlmbzJ0cng3a3lGRlNGeXBpZzNWUF82SGVTVVc4OXJvblU0cjlQWEpKcnRHYTFlQW15TE9XcHNHTnllLUp1alA3VWREd0xFN0F1eTFjWWRrNUPSAYoBQVVfeXFMTlRPbGQzbmNmMTJfeDFUVERTX0F0VF9oa0FYbE1hX0dlMEE5eTA2Y2lRTGNhMUR6TmdPUlFKZDkxakJWT2psRVVsQ1pFc1d3UThLMXlPTTVvX1huQ1cyN1JpdlBJUU5yVVNINUt1RWw1d1E4XzdwNVFKOVNTMVF6YWgwbTFvWm84MU9n?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-21T10:04:51Z"
         },
         {
           "id": "report-29e9cd5ad4fd",
@@ -1901,22 +1901,22 @@
           "reportedAt": "2026-09-21T14:14:16Z"
         },
         {
-          "id": "report-5290229a7236",
-          "title": "Is it a missile? Is it a drone? What’s the Pelican used by Ukraine?",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYi0wOVRuSEF3dTZ6aEY2cDNEZzRIYXJ4YWFMeENqTHMtWWhfbFdtR0FwTThGNGZ0T05pOGVlS1BvVzJpN3BocEVhMGNlQ2VScFVYRGRKMGRhcU4wUUNvUjJrS2Fxb1BDQmhTXzNmWXozemk2Tk9FcmdaaHdpZS1TU0cyUTVIZk9FdDhlQWw4azRWNThrUHVxTUNFRUlVWGE1UXNFMTVmNNIBrAFBVV95cUxPTWVGMW9BN3RoZDRGUnNDQWJUc2xUY3dGLXptWGx3REp4dU84aVkwSTliUGFLc2V6ZFlsclZMSkltdERWVTV0MkFfRlRFVGdEUVhOazliZTd3UzZNUjNsN0pwcjFwb2NHM3U4c0pCSm1rVE13cjhkR3BGdFhPdVNPNy1QTDNSSHROYVhPZDR5OExBcTF3bU5xOFdwQkJDSkczcUNOYXFPaHZJd1h5?oc=5",
+          "id": "report-86307ed1d698",
+          "title": "Trump says monumental arch in Washington, DC will also be military complex",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLWhlWmRoczFDS2ZTZThZOUtjd29iQXptS3NGSHpwaWlZMXR4UHlTTWdJbkxYR21zMm9JYVhrYjhhdk92X3NNcGcxVG9zV01VbnVVSDJoVkVXX3JBSHhxc0pmWUdYNEE3TjhSdDc0M2lJV0dpeFlhMnMxSERnWHNoYmFUSHJhTy1vWTBacldROUtmR082T0ZzWGdCd2VnOWFyM01kUW5GV25rOVhPWFRJUTl5QlnSAboBQVVfeXFMTXVzWGN0QUJCTHctazg1RGlkWE02OWpFeGFNMS1ZTkxVWUlCWHBKSDFWV0xrWGRIS0V2d05qeUFjUkh1M1pHbldPYnludGFnWm81YnFpR3gxdXVhZFJSelZzMTlWdnZMSWdNY0ZzV1dhWldtMUR2QjFkaTc1QjJoU2Z6X2xLSlN0b3FRMWtMYkpiREVSMDZHU01EZjluUzIxSzVQYVVDb0hEQXlzVmhVYjlITTBua2lSS21R?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-21T14:27:53Z"
+          "reportedAt": "2026-09-20T21:34:53Z"
         },
         {
-          "id": "report-1f84467cc83f",
-          "title": "Explosion injures 3 South Korean military officers inside DMZ bordering North Korea",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOFhmWUhBTDJYenBSd1lHMVNabkFQVG12Q2lVQ21hNDdKUl9jRE5ZMW5GcXc3UHhobnE4cHdqblpaRjN5d3h1eDFZUktaYmkyNEREMGpkaVZtY2Y0R2lYU1dwZVJxdy1sS1UtaFZGQW0yWDVqa3VsTERsWnRsTWFqNFhhd1NIWlAyZU5qRzc0dmljcGtzLXFR?oc=5",
+          "id": "report-743a11d0758f",
+          "title": "Trump says US and Iranian officials met Tuesday, shortly after warning he may 'annihilate' Iran",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLTBMZ0ppZk41VENvQnJNNVU5Tmk3anJCdEJrcGRrb3dfb2dJMVRaSXNWQnhjY0wxX2Z4NHlKRXdaSXZfc2cxOHNLM1hwRGJ4WDhGNTdBb1pjTDBmVzQ1VE95SHJlYUtSVm1KdUdyYURwaGpScDBmam56OFlUZ25aaWlaczhnUzN6SkV3Y3NNTVVtblZtd183Rg?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-21T05:48:22Z"
+          "reportedAt": "2026-09-22T20:07:00Z"
         },
         {
           "id": "report-defc72fd3c7f",
