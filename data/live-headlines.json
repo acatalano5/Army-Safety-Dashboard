@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-22T16:57:05.076Z",
+  "generatedAt": "2026-09-22T19:11:53.610Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -21,7 +21,7 @@
       ]
     },
     "safety": {
-      "generatedAt": "2026-09-20T18:44:30.680Z",
+      "generatedAt": "2026-09-22T19:11:53.610Z",
       "cadence": "daily",
       "items": [
         {
@@ -33,35 +33,11 @@
           "pinned": true
         },
         {
-          "title": "Marine Corps MV-22 Osprey suffers engine fire during Air Force training exercise",
-          "url": "https://www.militarytimes.com/news/your-military/2026/07/21/marine-corps-mv-22-osprey-suffers-engine-fire-during-air-force-training-exercise/",
-          "domain": "militarytimes.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260721T174800Z",
-          "pinned": false
-        },
-        {
-          "title": "Navy suspends search after MH-60S helicopter mishap; one Sailor missing",
-          "url": "https://www.navy.mil/Press-Office/Statements/display-statement/Article/4533332/us-navy-suspended-active-search-for-a-sailor-assigned-to-helicopter-sea-combat/",
-          "domain": "navy.mil",
-          "sourceTier": "Official military source",
-          "seen": "20260705T150000Z",
-          "pinned": false
-        },
-        {
-          "title": "Navy conducts safety review after Blue Angels low-altitude flyover",
-          "url": "https://apnews.com/article/hegseth-blue-angels-military-flyovers-safety-c2601ce50f433996c919464f1de7985c",
+          "title": "A US military plane crashes near a US air base in Germany, injuring the pilot",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUzNXOHRScFp6bndhbGF0ckc2c3lmZ2ExdzJQUkJha2JjbGpoNXB3NWpFY0ZHbzVqR2tQVGZILUFPd0J2THdVT3p2UFNMWVJCWER3eXNfYlBmcmthaEVWd2RCeTNiaE15amltMFpvUWVCUXlGVjVrZDAtekFMbmg0UDVYcHdyR0N4SE4yV0NONk9YSEdIQUUtbmhMNDkxdDBUTFU1VG9SMXpXVGtv?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260716T220900Z",
-          "pinned": false
-        },
-        {
-          "title": "Military: An F-16 crashes during training in Michigan; pilot ejects safely",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTnBOOXlWVHlRR0F2Y1BlQ05nbWh4ODd0NEloQktkVi1lTURybmNoMHhaa1ZCbldPZE5sbEJhU3EtcE8wWUZxTEZWTUJfNDZYLXRKamJ4QmFNYXE1dFl6dTlvX05Jem15RmRpYXlhVWkzUmhpWlNPYURSeGJhQ0RvbW80RUw3cXFSVVJDSU0yeDJPQmlJTktndExPMWU3YlBYY2hr?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260918T031200Z",
+          "seen": "20260922T153100Z",
           "pinned": false
         },
         {
@@ -73,27 +49,35 @@
           "pinned": false
         },
         {
+          "title": "F-16 fighter jet crashes at US air base in western Germany",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQc0FlV0xFS2dRb3p2QnVVUWYweUhEUDhzWUZSRElLbllxZ2VDM0ZxcnpQb1hzbUZjNjBrdmtWRW9WOExGR0t5TTcteGJuWjZfZUljaTdXWjk2c3VISWVKSmxyZUpKZmhHQWViSm9BV3RwTmRpbTFIRlFra0taRWRxeG1qUGx0ajdyZExTUm1ZaVhVYzdNX2FJTVVPOUJ0N0RRenMweUhDVGE3cUk4OVNFVW9TeHhzQQ?oc=5",
+          "domain": "reuters.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260922T161532Z",
+          "pinned": false
+        },
+        {
+          "title": "Pilot ejects in F-16 crash in Germany",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdDlwZWY5QUNLMXltbkF1LVZGNTNDTmI3T2ZUdm9reTBVejY1QjJxeWhXeE1vcUg0dlFCdjJsRDkxc1FSOWFSMWNBeWV6eU9NdlpPTVgwNmlJa2hVblhPcTBXV3pLc3FfaklqbEpiTHJsMzVHWFF6ODRGVjlFRk5vY19XTDFGUGgzOGlGZGVTQlJWQjlKQjl1d1ROYmlhUQ?oc=5",
+          "domain": "stripes.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260922T130849Z",
+          "pinned": false
+        },
+        {
+          "title": "Air Force Thunderbird crashed after failure in engine ‘blind spot,’ investigation finds",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1aOXpKbm1qc2ZBWk54aFVxblBMOW5YRVRSR3AwbV9hT2k3QnJkM1hRdXBLU245UFdmaEtVbzlyd041MU5WZEhVLW1NTFl0MjFFTzR4czhTWDhSblNaX2ZuRlQ5cmd2SG9rVFhWWlRXWWxEYl9BNnB6WXJoNA?oc=5",
+          "domain": "taskandpurpose.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260922T145945Z",
+          "pinned": false
+        },
+        {
           "title": "Pilot safely ejects from crash of Texas Air National Guard F-16 in northern Michigan",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQzZLZ0lJb0h6TlE0MEVVcmp0SjJMelZXT0wxczVnQkZ3X3JjTWY4OHZ2U01XOXlyMWVURVRGV0lJTXRhOW1za08xS1pkZDdzZ01ER0M3WjVOWDRSRjhnQmJzYXNKMlBvTkc4M05Rb1FCYjRxQmJCcF9YUkx0eW1vOVlfdG92WkNLT1A1VWp1MlM?oc=5",
           "domain": "stripes.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260917T210954Z",
-          "pinned": false
-        },
-        {
-          "title": "PLR 26-066 – Motorcycle Mishap Claims One Soldier’s Life",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQV0FtMnUxYXlRMGRxQy05N1FJZ1NOR2xrVmUxNVhYbjYtdDFJYjhZRzNQamU1ZWhCaEI0NTdXczJ5TVVkM3V2LTVONlNST0d6QzN2TFl2UWJ4SEhZNGlWRWtOSlBwamdoRU5nS3VMMm9hN1BnTFRJZ25YMUVJclU0UmZtMDBOWEpEdnJpYVFVd2xYVnJsMHNoZFZjOXZMeEVoV1VxNFNMQkRQS3NnNmVHbTlnakhZdEdabkxIbV9Pd01FelhHXzBsbkd6NjJKNG01dkFQTXFuYzdWeHB1UXk4?oc=5",
-          "domain": "safety.army.mil",
-          "sourceTier": "Official military source",
-          "seen": "20260917T224128Z",
-          "pinned": false
-        },
-        {
-          "title": "PLR 26-062 – Industrial/Occupational Mishap Claims One Soldier’s Life",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTjlyNHdMTVZGLWFLT3E0TVpyQ3JzbG1EQ0NiSlVFYmdKNXhwZDNmV2hFaGR3X1pfSmlvYUlaYU1MRkI2ODRyS3VrdmZudXpyYVZsM0RBb2V1elFQckF4WE43OHo3cmpLZk01TW4xeHJwMGhZdVZKWUtnTTFybDNZSXJQSkt0ZVJWcmNqa1ZDTUJDaDBKYXh4RzFKNW5kUGZxU2R4N3p5b28zeG9rUlFmdlE2emV6NFl4WVUzYUwyNU1zNGJxZTd3T2NMOGNzYzZSdmNrT1l4cGE0bzhIbHJFc3pmb2ZLVzRTalByc210NA?oc=5",
-          "domain": "safety.army.mil",
-          "sourceTier": "Official military source",
-          "seen": "20260909T194709Z",
+          "seen": "20260917T195241Z",
           "pinned": false
         },
         {
@@ -105,95 +89,23 @@
           "pinned": false
         },
         {
-          "title": "Air Force officer killed in remote Alaska crash was a ‘positive leader’",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yMTM3UTdNeXVhbVFBc2JTWDN4QzVJTG5sSk43aGh3a0FtRXI5dHgycy04dEhFUnBkSFd4NDUxNFkzQmZ0eXRRR29KTDNKV1FValItZzBoa25MNGI0WmhIOVVwZVhkZkk?oc=5",
-          "domain": "taskandpurpose.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260825T070000Z",
-          "pinned": false
-        },
-        {
-          "title": "Mishap Investigation Advice",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc19FY29CaU9ZS05HZ010VnR3R2FGa1JBMFZTb2tZdEJLZkpfRTRLdm9VdGEwallmUi14dGlYNC12dmhYU3ZxaXJrQWJBM25LdmxadFFOanlYUWhkZFhmVTF2NG5iTUtfNHVJaWpiRVZ6UmdoVkxxUlU4OFFVVG13UA?oc=5",
-          "domain": "safety.army.mil",
+          "title": "Coast Guard, San Francisco Police Department rescue 3 from grounded vessel near Golden Gate Bridge",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMThwb2hlcXpMdk9JcWlxR1lBTmFsWmFwUURMZkY5T1pWUEQzZkhQWUZRS0tPMlZzWjJwbVlraGUxQS1rR1htTFV6eUdSNFhaNmx6bzY3bkFsbk9pNllNc1plMlVpcXkxLVBLWEV4dHk4NUlZbE53UFU1M0R1ODVPeG9KUVY0aUg5Tlk4czRfZzFBVV90M054ZFQzbl85d3JaQ1o1UXVQZ3ZFUDE2LU9lUmRVT2lVYm5tSkZGdl8yZy02alN2c2dxYlUzSjNaNHZWZXc?oc=5",
+          "domain": "news.uscg.mil",
           "sourceTier": "Official military source",
-          "seen": "20221207T215155Z",
-          "pinned": false
-        },
-        {
-          "title": "PLR 26-026 – Industrial/Occupational Mishap Claims One Soldier's Life",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVFBVWXBUbHd4ZjZrRUxIczczNkR4bVNBNGYxNElhdGU5WkRvaFJCMEQ0RFg0NXJCcUdiUkNZU3RCc3lJaDR1UWlDME1aOXBZNlFLY21IaGh4cmlJMTVzekVkN3VPcjdYcklvZjdsYmxLcEZZdF8zOFFQeEgwT0lXNDVLRE5semZ1cnE3dDBobmpWUWZ4TkZ2X1ZwYllMYlphbG5aLU1PTkpnZW0tbS1OQWEwQ0RiTUV1OG1ILVhfNnM1SUltUG5sYTBISFJtT0F5ZFRzaUdyZUdVQ09UY0lKTQ?oc=5",
-          "domain": "safety.army.mil",
-          "sourceTier": "Official military source",
-          "seen": "20260421T070000Z",
-          "pinned": false
-        },
-        {
-          "title": "8 US soldiers released from hospital after armored vehicle crash at Hohenfels",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOTViVVZJUGVFWGUtRmlLV2l6MmhlUkdfRHBad2JBQjVOV0hnTFp5Z19HS1lETWZpOVVLWDlXaHhNQUE1V203Q0RLZ1EyX2tZRGs5bk9LUEQ1bTc4UGp0WVdDWmF1cElIbUxiaERyYXRVd1ZlNExVYkJYendiZGdUYUY0SWMwendxYmhNell4dkZtdS1nRjdQeg?oc=5",
-          "domain": "stripes.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20230914T070000Z",
-          "pinned": false
-        },
-        {
-          "title": "PLR 25-080 – Weapons and Explosives Mishap Claims One Soldier's Life",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTWx6TjVfelZZNE5uTnpWYVZtUld5TWRTZHlKY1AtRDQ1T0RTelpaczR1S2R3YkdSbEQyMmlsT2hYajN2WE9laWp2Vi1CMS1oYWN6ZkZHeEJpblVEQVFCTmpxdmNBa0VwNEtmSjFrOGpSdXM0U2l6RmszVU01Ujk1bjNtYW9xM3VBd0o4WG9QajIxNENjYWFOek95dkUxQm1jdVlMTkJPWTkxVG9GWVlqQVpUYlc1R2ZNUFZTcEQzOE42WmdpOERvT1VtV2dXbTFxZ2NWcHpKUTgyLTJBc2g3cw?oc=5",
-          "domain": "safety.army.mil",
-          "sourceTier": "Official military source",
-          "seen": "20250814T070000Z",
-          "pinned": false
-        },
-        {
-          "title": "Was it Really an Accident?",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdHhIX0o1VkIycm1nVUMzUVVTTV82eWoyZDZuSzlPSG1QQ3VrSTVXc2ZtbkJOaVJGTGc2SkJQTnlDaEdVX2psQW1kMDhZVTlhQXNIeVY4QVp5cE03THBnQVNQQy1GUDlBaXlkcGZCM1VYN2dkTjBMUUhvOUN4RUtleEZuakpBMXZ0akktY0ZRSjVPQ1REZmp5ZkFrcDFQOUZDMVNPN0s5NjBGcXVFeE43SXk5WWcwbU5WdHFXOXc1eEx4M3lBaGtZZUNR?oc=5",
-          "domain": "safety.army.mil",
-          "sourceTier": "Official military source",
-          "seen": "20220302T080000Z",
-          "pinned": false
-        },
-        {
-          "title": "Marine F-35 involved in fiery mishap at Miramar base in California; pilot ejects safely",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQTY2THYtYXZSQXBMTlhtamlYSkRpSWlmNnFqd3JZWFIzd0lEaTlOTzNlRVRlUTZOdmcwYnNKN0NCUzFLZ1ZsRFduWW0xbWluTDcwZk5nSGVDMTJVTUdHbEFDWThrQy03c1RURmM4TFBZdzVfcHdTQUQwLUkwMEtldlhvTTg5XzJMUmFjamhIQmh5RnhMX1ZwY3FR?oc=5",
-          "domain": "stripes.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260731T070000Z",
-          "pinned": false
-        },
-        {
-          "title": "F-16 makes emergency landing on Okinawa, report says, as Vermont F-35s arrive for duty",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQnhCLWFQN21UVWFLQk1lU2tZWmhBdXIyalBwMTRFQ1F1bFVmZDZLYU1SVnhRenVKcHdGS2RnNkxXRG9mcGZtWkdCMzQxdVlFUlhYNm1Qb3o1NUNqc3hvVUowUzFyMkF5Zlh5dXIzOWx1Rzh2cmRXRDBQa0tOTHdTdkc0azlQQ1VkLWEwQzJfMGV6STV0cnFjS2tEN2ZSWl9KMHF2SHhXbw?oc=5",
-          "domain": "stripes.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20250114T080000Z",
-          "pinned": false
-        },
-        {
-          "title": "PLR 26-036 – Automobile Mishap Claims One Soldier's Life",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObTlqX1dFdGswTE9xUXEybGM1elplcnM4bkU2Ym5uRUptLW5CRVhwVUdzbjFKUGg3TXRjdEtLTHpjaUMyWG82UlVPWTBRVFlHYV9ORW10UlBvNTJnNnU0Q3lPbjVaampOS0RCUWY0bnhoMGxFcUVob2JsWUo4aTV0M0xYTE9CVHFUSGZxQXljS1VOZWRxTmpSOG05NDBfVGlTWXYzTElseXphRGd3SE56STBvcTlwZWVJZkJUSnZYVkRMTjNRTldaNlIyeXg4Y1pf?oc=5",
-          "domain": "safety.army.mil",
-          "sourceTier": "Official military source",
-          "seen": "20260520T070000Z",
-          "pinned": false
-        },
-        {
-          "title": "8 killed in B-52 crash at Edwards Air Force Base in California",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNkJTV0dOaGcxeUhGYmVKd0xkaVYtZUJTc19qM0x5TmtkWWhXZ2J1bGZhSEpRd0F3a1hvcWRLS0Fpc213QmFMNTZlY0JPTmlmamFER3R5TTk3bFNmZ0VHMGxWWHZPTGtxWTBLLUpPOWdBdkFycVFWUXhyQ3FaaWlYTWI4RDNiLUwzVExKNDNpeGJLZE53TVk4SEwtNjFUeVdfWHlncGV2Ulc?oc=5",
-          "domain": "stripes.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260615T070000Z",
+          "seen": "20260917T235209Z",
           "pinned": false
         }
       ],
       "incidents": [
         {
-          "id": "auto-15bc17bcf6f9",
-          "reportDate": "2026-09-18",
+          "id": "auto-5ff0fbe3662f",
+          "reportDate": "2026-09-22",
           "dateBasis": "report discovery date",
           "branch": "Army",
           "department": "Department of the Army",
           "type": "Aviation",
-          "event": "Military: An F-16 crashes during training in Michigan; pilot ejects safely",
+          "event": "A US military plane crashes near a US air base in Germany, injuring the pilot",
           "location": "See official source",
           "fatalities": null,
           "injuries": null,
@@ -201,8 +113,62 @@
           "signalClass": "REPORTED MISHAP",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
-          "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTnBOOXlWVHlRR0F2Y1BlQ05nbWh4ODd0NEloQktkVi1lTURybmNoMHhaa1ZCbldPZE5sbEJhU3EtcE8wWUZxTEZWTUJfNDZYLXRKamJ4QmFNYXE1dFl6dTlvX05Jem15RmRpYXlhVWkzUmhpWlNPYURSeGJhQ0RvbW80RUw3cXFSVVJDSU0yeDJPQmlJTktndExPMWU3YlBYY2hr?oc=5",
+          "source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUzNXOHRScFp6bndhbGF0ckc2c3lmZ2ExdzJQUkJha2JjbGpoNXB3NWpFY0ZHbzVqR2tQVGZILUFPd0J2THdVT3p2UFNMWVJCWER3eXNfYlBmcmthaEVWd2RCeTNiaE15amltMFpvUWVCUXlGVjVrZDAtekFMbmg0UDVYcHdyR0N4SE4yV0NONk9YSEdIQUUtbmhMNDkxdDBUTFU1VG9SMXpXVGtv?oc=5",
           "sourceLabel": "apnews.com"
+        },
+        {
+          "id": "auto-ab05e252e28f",
+          "reportDate": "2026-09-22",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Aviation",
+          "event": "F-16 fighter jet crashes at US air base in western Germany",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQc0FlV0xFS2dRb3p2QnVVUWYweUhEUDhzWUZSRElLbllxZ2VDM0ZxcnpQb1hzbUZjNjBrdmtWRW9WOExGR0t5TTcteGJuWjZfZUljaTdXWjk2c3VISWVKSmxyZUpKZmhHQWViSm9BV3RwTmRpbTFIRlFra0taRWRxeG1qUGx0ajdyZExTUm1ZaVhVYzdNX2FJTVVPOUJ0N0RRenMweUhDVGE3cUk4OVNFVW9TeHhzQQ?oc=5",
+          "sourceLabel": "reuters.com"
+        },
+        {
+          "id": "auto-1672b670af93",
+          "reportDate": "2026-09-22",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Aviation",
+          "event": "Pilot ejects in F-16 crash in Germany",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdDlwZWY5QUNLMXltbkF1LVZGNTNDTmI3T2ZUdm9reTBVejY1QjJxeWhXeE1vcUg0dlFCdjJsRDkxc1FSOWFSMWNBeWV6eU9NdlpPTVgwNmlJa2hVblhPcTBXV3pLc3FfaklqbEpiTHJsMzVHWFF6ODRGVjlFRk5vY19XTDFGUGgzOGlGZGVTQlJWQjlKQjl1d1ROYmlhUQ?oc=5",
+          "sourceLabel": "stripes.com"
+        },
+        {
+          "id": "auto-4a96cedfdfa0",
+          "reportDate": "2026-09-22",
+          "dateBasis": "report discovery date",
+          "branch": "Air Force",
+          "department": "Department of the Air Force",
+          "type": "Aviation",
+          "event": "Air Force Thunderbird crashed after failure in engine ‘blind spot,’ investigation finds",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1aOXpKbm1qc2ZBWk54aFVxblBMOW5YRVRSR3AwbV9hT2k3QnJkM1hRdXBLU245UFdmaEtVbzlyd041MU5WZEhVLW1NTFl0MjFFTzR4czhTWDhSblNaX2ZuRlQ5cmd2SG9rVFhWWlRXWWxEYl9BNnB6WXJoNA?oc=5",
+          "sourceLabel": "taskandpurpose.com"
         },
         {
           "id": "auto-909d4b3888c3",
@@ -223,6 +189,24 @@
           "sourceLabel": "airandspaceforces.com"
         },
         {
+          "id": "auto-15bc17bcf6f9",
+          "reportDate": "2026-09-18",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Aviation",
+          "event": "Military: An F-16 crashes during training in Michigan; pilot ejects safely",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTnBOOXlWVHlRR0F2Y1BlQ05nbWh4ODd0NEloQktkVi1lTURybmNoMHhaa1ZCbldPZE5sbEJhU3EtcE8wWUZxTEZWTUJfNDZYLXRKamJ4QmFNYXE1dFl6dTlvX05Jem15RmRpYXlhVWkzUmhpWlNPYURSeGJhQ0RvbW80RUw3cXFSVVJDSU0yeDJPQmlJTktndExPMWU3YlBYY2hr?oc=5",
+          "sourceLabel": "apnews.com"
+        },
+        {
           "id": "auto-224f31a55528",
           "reportDate": "2026-09-17",
           "dateBasis": "report discovery date",
@@ -241,24 +225,6 @@
           "sourceLabel": "stripes.com"
         },
         {
-          "id": "auto-aee650e833e5",
-          "reportDate": "2026-09-17",
-          "dateBasis": "report discovery date",
-          "branch": "Army",
-          "department": "Department of the Army",
-          "type": "Other",
-          "event": "PLR 26-066 – Motorcycle Mishap Claims One Soldier’s Life",
-          "location": "See official source",
-          "fatalities": null,
-          "injuries": null,
-          "status": "OFFICIAL INTAKE",
-          "signalClass": "REPORTED MISHAP",
-          "sourceTier": "Official military source",
-          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
-          "source": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQV0FtMnUxYXlRMGRxQy05N1FJZ1NOR2xrVmUxNVhYbjYtdDFJYjhZRzNQamU1ZWhCaEI0NTdXczJ5TVVkM3V2LTVONlNST0d6QzN2TFl2UWJ4SEhZNGlWRWtOSlBwamdoRU5nS3VMMm9hN1BnTFRJZ25YMUVJclU0UmZtMDBOWEpEdnJpYVFVd2xYVnJsMHNoZFZjOXZMeEVoV1VxNFNMQkRQS3NnNmVHbTlnakhZdEdabkxIbV9Pd01FelhHXzBsbkd6NjJKNG01dkFQTXFuYzdWeHB1UXk4?oc=5",
-          "sourceLabel": "safety.army.mil"
-        },
-        {
           "id": "auto-b68f976795a0",
           "reportDate": "2026-09-17",
           "dateBasis": "report discovery date",
@@ -275,6 +241,24 @@
           "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
           "source": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMThwb2hlcXpMdk9JcWlxR1lBTmFsWmFwUURMZkY5T1pWUEQzZkhQWUZRS0tPMlZzWjJwbVlraGUxQS1rR1htTFV6eUdSNFhaNmx6bzY3bkFsbk9pNllNc1plMlVpcXkxLVBLWEV4dHk4NUlZbE53UFU1M0R1ODVPeG9KUVY0aUg5Tlk4czRfZzFBVV90M054ZFQzbl85d3JaQ1o1UXVQZ3ZFUDE2LU9lUmRVT2lVYm5tSkZGdl8yZy02alN2c2dxYlUzSjNaNHZWZXc?oc=5",
           "sourceLabel": "news.uscg.mil"
+        },
+        {
+          "id": "auto-aee650e833e5",
+          "reportDate": "2026-09-17",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Other",
+          "event": "PLR 26-066 – Motorcycle Mishap Claims One Soldier’s Life",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "OFFICIAL INTAKE",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Official military source",
+          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
+          "source": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQV0FtMnUxYXlRMGRxQy05N1FJZ1NOR2xrVmUxNVhYbjYtdDFJYjhZRzNQamU1ZWhCaEI0NTdXczJ5TVVkM3V2LTVONlNST0d6QzN2TFl2UWJ4SEhZNGlWRWtOSlBwamdoRU5nS3VMMm9hN1BnTFRJZ25YMUVJclU0UmZtMDBOWEpEdnJpYVFVd2xYVnJsMHNoZFZjOXZMeEVoV1VxNFNMQkRQS3NnNmVHbTlnakhZdEdabkxIbV9Pd01FelhHXzBsbkd6NjJKNG01dkFQTXFuYzdWeHB1UXk4?oc=5",
+          "sourceLabel": "safety.army.mil"
         },
         {
           "id": "auto-abde9ccdad6f",
