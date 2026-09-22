@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-21T21:57:53.937Z",
+  "generatedAt": "2026-09-22T04:55:07.455Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-09-21T21:57:53.937Z",
+      "generatedAt": "2026-09-22T04:55:07.455Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -1521,7 +1521,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-09-21T21:57:53.937Z",
+      "generatedAt": "2026-09-22T04:55:07.455Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -1533,14 +1533,6 @@
           "pinned": false
         },
         {
-          "title": "Nobel laureate Narges Mohammadi tells the AP that Iranians are paying the price for war and repression",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRmlzTnd1RkxNeWcyaDBTMmdoY0FxdU9FVGFZd1NIWHFLWjRIZHR5Z083Tk1lUVlTNGJZRndfOERTXy0tVzUzcHdfU1BqeGw2SU0zRXJsbTBHQlIzbUtsdTFCRHFFbWRsM0xBT0Y4Uzl1S0FzYUpxMWpKRk5rVE5SS2ZHQ0RCWEw5NW9EaGo2LVN5RndVREN3eUtR?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260919T210100Z",
-          "pinned": false
-        },
-        {
           "title": "Sri Lanka's Chemmani mass grave reopens wounds from the civil war - and families want answers",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxNEJJVlJzR052MHpCTG1WRW0tZm0wQm1nQktfUDd5Y3hDTEJlX1RCcjFCakdMdjdyb0k4and5Y2tiRXIyQllZUkZSLUlrSDhxLXB2RDh1ZnJ5N1U?oc=5",
           "domain": "bbc.com",
@@ -1549,35 +1541,27 @@
           "pinned": false
         },
         {
+          "title": "Iran’s Revolutionary Guard warns US over escalation, and other Mideast developments",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWUdHOElkcmlob3ZfZ0RHajFkdG1DYzRXbDQ0eERkQ0gyMTNHbXkyVWJGZmhyTWcyV0ZaMXRuNS1lUnBmZmlSY0JhSWVkVGFBb1lrQXhWMFRTWThqTFV3WTJ1Snp1d255TnFqUFN5X3VtQ2F1MVFHQVgzV21LSkQyN0JRSXItejZqemtPWlRmeWpVWkV5VUtOSWxXTjhsTHlPaFpsNlBJVDBCcV82UHBtbUFn?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260921T220800Z",
+          "pinned": false
+        },
+        {
+          "title": "Nobel laureate Narges Mohammadi tells the AP that Iranians are paying the price for war and repression",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRmlzTnd1RkxNeWcyaDBTMmdoY0FxdU9FVGFZd1NIWHFLWjRIZHR5Z083Tk1lUVlTNGJZRndfOERTXy0tVzUzcHdfU1BqeGw2SU0zRXJsbTBHQlIzbUtsdTFCRHFFbWRsM0xBT0Y4Uzl1S0FzYUpxMWpKRk5rVE5SS2ZHQ0RCWEw5NW9EaGo2LVN5RndVREN3eUtR?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260919T210100Z",
+          "pinned": false
+        },
+        {
           "title": "Iran’s Revolutionary Guards say will change ‘geography of war’ if attacked again",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcld3ZmpZbldtMFU2UlZJQzVlekEtN1ZFNi1DUlpEVjZ5UWJmQlczTGR0MGhjaWFaU2V5cTJ3UENyNTVrRTk1SU5PS21pZjBoU29CUG1zMW53UGI2YllmVXBZU0hjQjRHZ0lpallpLWI1Z3g2YXpxNWhhSjNjMUtVOXdmTDhlZjgtMGlEMjMxU1Z4Y3NWWHJVMER0bTZSTW5rakVWbmlrLVVEemdpVFE0Nm1oVjM1MGxJZU1JVG1hYjk?oc=5",
           "domain": "aa.com.tr",
           "sourceTier": "State-affiliated reporting",
           "seen": "20260921T073729Z",
-          "pinned": false
-        },
-        {
-          "title": "Conflict With Iran | Global Conflict Tracker",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMWduRExjZXhMUjFuYjV4Zzc0LS11OHVKUEhXSlpUNUdFMm9MVGlJeFd5eGh1ZWpEWWhFNEdJX0tOVTlJbnZ5NmpBQ3dYeGNpSTBOSWtISUduak5WSHhfQUhQcHBKbVpLdG1IVi1ySWVGd05NM18yektrem1TM3ZvaV9xVjR2eC04cE9RZ3FZajNCZWFHNzBaS0hhSS02dw?oc=5",
-          "domain": "cfr.org",
-          "sourceTier": "Structured / analytic",
-          "seen": "20260918T020000Z",
-          "pinned": false
-        },
-        {
-          "title": "What are Iran’s latest conditions to end its war with the US?",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTXlIb3YxTktUQTlDd0JLTUlzNWhFS0Y4bk5DSnJiMlRINzFQWGRUNjZ5bi1UV3g0V0xfR3NHTjJhVXpHMGhIY0U5UHBNaDlFdnZBU0JWRDhBSElMN0gwY2s5M1hvb1hHVHZrdldWbWVRUWJubk1oV0lERG9pNUtlbXdsT0RmbkFvZHVYMzNWeG1yVFpCU051RE96M3Y4QdIBowFBVV95cUxQRjdic3M2Y1pJTEtTeTF6T2JVdm9IX1lmeHRkelZSWVlwNVhRc3RlUl8tRTBvb2lFMHBiZXY4a3dCZjRiY0d2MWlyR0NBWXVjajVhR19uYkVVTW9JSVdSMF9CTlp1MF9taWxHQ0VXREt2M21oTkFmTy0yLTZOOTFwcDg2VmQwWmQzbWNMd2dDbW91R0g4by1WWTBHWkxGMHcteW1N?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260920T112816Z",
-          "pinned": false
-        },
-        {
-          "title": "Russian hybrid attacks against Europe intensifying, says Macron",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xRVBhVWg5em1aNmVhakttdU8wWkJ4aVRWVFdrcHpmWFJKOTR4bDcyMThlSmtQQ2VJQWU1SzlJQlk0dXM5a211LWlhazY1SnJFeVZSdkpTSG9BWkk?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260918T180438Z",
           "pinned": false
         },
         {
@@ -1605,11 +1589,11 @@
           "pinned": false
         },
         {
-          "title": "US voters oppose Iran war as 71% say Trump lacks clear strategy: Poll",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMWNvcnozNmZuM09zbkliVmdvZXlfN21hQUtFRzFhWENvTjRLcWZtNXN4WFQ5amxoWWJNa1NETTNWaGJNeE5ZY1pubGRTWnFkUjBZXzBMNWkwbHlfTF9DR2E2bXJ0cmFNNldsajc1azJUQVRjOGk5UU5qVVl4d0NBc1VIWTJYQkdCVEE3SmFTRnZzc0xRNEhRUUxSTzFnYlBm0gGmAUFVX3lxTFBSNjdZZ3Iwc2g4a1lVRERKQTVBZWVwbGc4RFFFZ1VqLVlacUtNQzlzMnVwM0pTMGhqLVlHQTlqUXh0WGF6dzVXWFFBeFY3Tm1Qcm9hWmpHN1F5cHRoMnhwcDlic0NGemlYTko3NWRMUW1hRTBTQ2ZSVFJlMVY1a241YWZkNXJUeVlHUEdrLUF0YUxDWXRuX0ptdEFQNWZDTnZQdmppdHc?oc=5",
+          "title": "Iran’s military says US preparing to resume strikes",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ2o4VlNDVWc4MFhvY3laajdhME4yZkZZVXM0TFlkV0ZVYzFReURGWFhCYXdZWTJQdEhFMDNocnRiUTl6Zk42YnZQdjc2ZjFnQnJTRG1Del95SnYwa1p6RElQMXYtTkpyN2NUeF93d2ppMm12c0NiQTlmVUhmUk1VZ3ZJcU5OTnBHR2FDMDlVTXA0YngxQ2fSAZsBQVVfeXFMUDRVWWpxUVFOVzctel93SGhwQ05TN3ZaX0cxazZXdDlacE1EQ0NMNmpoN3VDOWpyQ3hBSE9oUWlGb0t1ekVEVl8tbTExbG1XWjRvOWUyWndrVTBUbWk3SHhCT0tEVy0yR3N1UGwwSEpYX3BKZFlreXNpWE1kMXZUQUY4Sl91UmFJNnEwSjJUOE1Qd3R6TGZVRDVCb1U?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260918T132007Z",
+          "seen": "20260921T053052Z",
           "pinned": false
         },
         {
@@ -1645,27 +1629,11 @@
           "pinned": false
         },
         {
-          "title": "Iran’s Revolutionary Guard warns US over escalation, and other Mideast developments",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWUdHOElkcmlob3ZfZ0RHajFkdG1DYzRXbDQ0eERkQ0gyMTNHbXkyVWJGZmhyTWcyV0ZaMXRuNS1lUnBmZmlSY0JhSWVkVGFBb1lrQXhWMFRTWThqTFV3WTJ1Snp1d255TnFqUFN5X3VtQ2F1MVFHQVgzV21LSkQyN0JRSXItejZqemtPWlRmeWpVWkV5VUtOSWxXTjhsTHlPaFpsNlBJVDBCcV82UHBtbUFn?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260921T173000Z",
-          "pinned": false
-        },
-        {
-          "title": "Saudi Arabia says Houthis tried to attack its capital, and other Mideast developments",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb3ZQdTJKbzNUNVFFeGV0NG0xYTlhTURSZ24wTGRxWUVsNFc3cUswUHpFWWFuM0piU1kxVmZlWURxbnZkT1Zvc0gxNHZPaVQ0di1hTmRoTDA1Z3Nib3phUjkycVIwN3czNlBDZl9tb2tpZ0liSVItaGVpQmpBUTEwSDl5UnZOTnhZdlh2UjcyRjAwSkFGN0N1UjBPcWp3NVE?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260920T014600Z",
-          "pinned": false
-        },
-        {
-          "title": "United Nations says US may have committed war crimes in Iran: What it means",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOW13MjVKdFFVZWFWcFJDWHJKWTVSTnFmQ3RRV04yWHdwMkRXbXFVU2FKQ0RfX3dDYjVRVnc4MTJyZUtSX2hqTERlc3o3RUdFbmFwZTIxOEptZHRXWl93eTQxMjVMNG1kUk96RjRZME1fWVpZcEZJOHRqTVBLTjNFaV9SOHF1SzRhT19ZSWVxZkdfUEVnR2ZXMXo1SVM5TjR0VkQ5YWFtVEhZMGNDTU9ONTAyMGVQZ9IBuwFBVV95cUxOMExGYjl6ZURSSFhwMXpUUURBM2VVUVp2ZjM1aUZMZnVDREw5U3VLNlJtb1liWXZ1enpUSFVLcHBJRU5hWFF6UGRNTGI5SnZ0dURielBScG9LcDdwbUZmb3UtWVpxNnpFNjlHZVR5WkNYZjhYeF9vTHlrRno1WXh3MFBUaWxDc2l3UlJub3N6eWZQd0FTR1pCSjl4Rk55YnY0NnI2Y0RpdE1SZzZvNDdJLUhkRHdIRVM1SFRV?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260918T104559Z",
+          "title": "What to expect as UN General Assembly convenes amid Iran war - Al-Monitor",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUXcyODVjUW1GdG1abXJ0MUJydUFnSm5iajFZS3Vlc3c5Z0dwVG1XMFBlTHczUGZFQV92N2Jqa0xkUFhtN29JWWdrQXZvTGlSZ3d0azhScmVjMkY2WWJQRDhlUXdDV29Na19DM3V5XzlVdWhvMDBFeXZMeGJncjhhMHRaT00wUG9tQWU3MGFUY01Bd1lTdzhsajVVem5OQXd6?oc=5",
+          "domain": "al-monitor.com",
+          "sourceTier": "Regional reporting",
+          "seen": "20260920T081545Z",
           "pinned": false
         },
         {
@@ -1677,43 +1645,75 @@
           "pinned": false
         },
         {
-          "title": "The Interview | Mirjana Spoljaric, president of the ICRC: The rules of war are being ignored",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1YYjN4Q3JrLXFLQzFvOEYzSlV5ckxDNUNfMkphSFpWRDlmcUpfU0daUFgxdlAtS3RGbUxjWFJJWGNkYTJFYVFId0oydGVzYzNO?oc=5",
-          "domain": "bbc.com",
+          "title": "Saudi Arabia says Houthis tried to attack its capital, and other Mideast developments",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb3ZQdTJKbzNUNVFFeGV0NG0xYTlhTURSZ24wTGRxWUVsNFc3cUswUHpFWWFuM0piU1kxVmZlWURxbnZkT1Zvc0gxNHZPaVQ0di1hTmRoTDA1Z3Nib3phUjkycVIwN3czNlBDZl9tb2tpZ0liSVItaGVpQmpBUTEwSDl5UnZOTnhZdlh2UjcyRjAwSkFGN0N1UjBPcWp3NVE?oc=5",
+          "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260918T001316Z",
+          "seen": "20260920T014600Z",
           "pinned": false
         },
         {
-          "title": "Iran’s military says US preparing to resume strikes",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ2o4VlNDVWc4MFhvY3laajdhME4yZkZZVXM0TFlkV0ZVYzFReURGWFhCYXdZWTJQdEhFMDNocnRiUTl6Zk42YnZQdjc2ZjFnQnJTRG1Del95SnYwa1p6RElQMXYtTkpyN2NUeF93d2ppMm12c0NiQTlmVUhmUk1VZ3ZJcU5OTnBHR2FDMDlVTXA0YngxQ2fSAZsBQVVfeXFMUDRVWWpxUVFOVzctel93SGhwQ05TN3ZaX0cxazZXdDlacE1EQ0NMNmpoN3VDOWpyQ3hBSE9oUWlGb0t1ekVEVl8tbTExbG1XWjRvOWUyWndrVTBUbWk3SHhCT0tEVy0yR3N1UGwwSEpYX3BKZFlreXNpWE1kMXZUQUY4Sl91UmFJNnEwSjJUOE1Qd3R6TGZVRDVCb1U?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260921T053052Z",
-          "pinned": false
-        },
-        {
-          "title": "What to expect as UN General Assembly convenes amid Iran war - Al-Monitor",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUXcyODVjUW1GdG1abXJ0MUJydUFnSm5iajFZS3Vlc3c5Z0dwVG1XMFBlTHczUGZFQV92N2Jqa0xkUFhtN29JWWdrQXZvTGlSZ3d0azhScmVjMkY2WWJQRDhlUXdDV29Na19DM3V5XzlVdWhvMDBFeXZMeGJncjhhMHRaT00wUG9tQWU3MGFUY01Bd1lTdzhsajVVem5OQXd6?oc=5",
-          "domain": "al-monitor.com",
-          "sourceTier": "Regional reporting",
-          "seen": "20260920T081545Z",
-          "pinned": false
-        },
-        {
-          "title": "Trump’s approval rating hits record low amid Iran war, economy fallout",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeWszSTJGbXh4dEk1WXZGTi01YWtmNnJ0VkNzUTJwVUt2ODJGc3FnMVR2UHZVVUhScEtPWGR3R2o4ZEFLaC16dUZxa2t5NDBGNFYtNGdycFNZVkJNQVItWWU0YmlRci1NX2V1SktCMFJUVHU2YURVaUtaLUhJaFIyWHBweTQzRENULXdjcUkwTnZKY0NkYk45RmpTUjExWGFTaEpPRzNnVmRjN1pnR0HSAbMBQVVfeXFMT3B5emxUc294aW9HR3ZNOU5RYzBaVXNlTjJlc0dudXRjLVZaWE9SZWF4WUFFeXRnTmdNeFJab3FNOVFRMW9LMEliWGJoT285aDc5T0VycS1jckNXelctWWVTbE1iRXpvVnhLZU5SRTBCOE5XQUNhYm1CRGtGcjhsOVlmb0w3MGJUVUIzcWZYZ25zSWk0VDRVOWdwSXFGTV9Ib3BYWEdGU2VRXzdySWpOQXBtRW8?oc=5",
+          "title": "Trump approval rating hits career low of 32% amid Iran war, high costs",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeWszSTJGbXh4dEk1WXZGTi01YWtmNnJ0VkNzUTJwVUt2ODJGc3FnMVR2UHZVVUhScEtPWGR3R2o4ZEFLaC16dUZxa2t5NDBGNFYtNGdycFNZVkJNQVItWWU0YmlRci1NX2V1SktCMFJUVHU2YURVaUtaLUhJaFIyWHBweTQzRENULXdjcUkwTnZKY0NkYk45RmpTUjExWGFTaEpPRzNnVmRjN1pnR0E?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260921T191315Z",
           "pinned": false
         },
         {
-          "title": "Hundreds of thousands attend Iran's biggest government-organized rally since the war began",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQelhtVHdQX01KdzBfMHR6ejFoWW55ZWhqbnZ1ZVJtSVR6NWo0dmNOTFVpbmZhQlFKRC11aDd6WnlsbmYzYjFsWUgtcWt2VW54Qmk4c08yQWotUXVTZXJpLURfSXVseGdmWlNhNHFUN3hwVmJSbzF5UjRCZm8weGNsZ2U5TE50V09hcGxXOFhR?oc=5",
+          "title": "Report: More US troops have died in Iran war than Pentagon says",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbjNFNHprQ3A4aTB5SzlRYjhKVU1oUDNnYVNXNnFaNW9jeWtoVlpOb2JqazVEMXl0SjQ3dDVKb1NsQVlmU0V3ZmVYWVd2MWpsbjd0V1g0TFNuUUhxOVhVbmw1V3ZOeHlVRDdyNTVYSWhtYUZmb09PY3lDZFRDWnpQRVVMV25sT21HdGoyRzFSdEx1RlpTdHNibEo4dlVkZ28yQXIzbGxOaDhVcVFqcmRTVl94c9IBuAFBVV95cUxOT2hONXUtSWNpalIyQ05kQnQ1Z0M3WlZIbl9DRnBKcm1Hbl9LY3hqbGw5LWdDdWhZTm9HdlRQcjZBT2U2b1EyeldWWDJkcnpLZUVhYmV1WlhDNnBVNm1rZ3REc3dSQzJIUV9tdkJSZnR2MUZlZnczbGtqLWNyQXJjaUtjazdGSzhOWUhpQ2lCbmJOZ0F5bGFnZkRUQ1NoNmJwcnpWQ1FpeFV5ZEhWX1V4Y1pqUEJsQkJk?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260919T031039Z",
+          "pinned": false
+        },
+        {
+          "title": "Russia says massive Ukrainian drone attack on Moscow region kills 2, injures 20",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUjh2eGZINkRYRUtMdmNram5oc1ltZ3IwbUNQbWZLZ2djTEZJTUZuS0lVZ3ZRQktyTkVSWEZUMFRNOFhQSEpLZ2NhQVlsSTZHTnNQVTFLSmZaTXJsc19NRllnNzNhUzJLdTFMV0VlMk9wUjNjeDBuLU14SDlta1VUdXNyT2NFdjNsZ1JjbEJSc0JQVlN2M0hrdWFLYUJIeW1iUVZZeE1VQlA3X0Y0bDdybktyRUR4V3pUYTFFbWd3eGlUUk0?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20260920T061036Z",
+          "pinned": false
+        },
+        {
+          "title": "UAE's Gargash expects 'prolonged' war, calls for Iran-Gulf security talks - Al-Monitor",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRlF1QUJDQlRZY3lmNk1QUEV4SlZoVHUta2pTbDV4UlJTR2pXTlJjQ2pYWjU2amRob2dHdTQ2a0Q1OFhKM3Q3clVkOXVFOVR4SEVWRDNHWWdDNGdDc0cxTFpwT1lKVGVLNTJTaGpCU0tmOVNHcnR5U1llb3dEZ0JMbk5PZWVPd01wWTZubnM2WXZ3MjFncnA4VC1UMmwybk1UQkRCOEpZREh4SzFwb2Rj?oc=5",
+          "domain": "al-monitor.com",
+          "sourceTier": "Regional reporting",
+          "seen": "20260921T160656Z",
+          "pinned": false
+        },
+        {
+          "title": "Moscow attacked by more than 1,000 Ukrainian drones",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYzNvTXpQeGpueTJobDZOVm1Rd3FCWFk2b3RpZUgyNEJWTDdrMFFmaExrNmdJSnR6NklSWG1OM2FsTThSekNoWk1rS0tWU2xhblpqeE1YRUpoZnRQRVdQUEtFUWxBaTA4cEI0b050U2NTZWMzY1M3U3lfX1JqSmZYeDZtd05KNlJIeGRnTGFKWncxRDcyYm1zQ243YWN1dUpmd3FR0gGoAUFVX3lxTE16c1FzaEVhemdoRFAxd2tjZFVFZEpSWWRzdzBRdXdseGxIY0h1a3BvcTRwQlhRTGZuMC15UUdxVVdGbnFsaVNNc04zaE1ZY2dpdXJCcU9qNnAxYkpIN0UybFptUUN1dFNSYjBXZ3pVNFhSN0pGeHI3RTNHbXczSmsxdmpfYkRWWjFZbDM0WHJ2RW5aeVpEdGlHVXpPRDFiNHZLMWpqWTEyMA?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260920T131617Z",
+          "pinned": false
+        },
+        {
+          "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zTDBSOE01bzVETms3UUp0LVFaYjNBS19XUEFBbFRWY2FheFJsZ1hIU0F4dHBTcEFvcmc0TDlwbTVWZ0VrOHhCOVczNGhRYjQweFVQZGtva2NGV0E?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260921T141416Z",
+          "pinned": false
+        },
+        {
+          "title": "A simple guide to the Yemen conflict",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaTlhWGNXUWtmX1lqalR2aFd2dWg2U3dETFRlNUkwVmZlRU1SdEU1Y3ExTHlmbzJ0cng3a3lGRlNGeXBpZzNWUF82SGVTVVc4OXJvblU0cjlQWEpKcnRHYTFlQW15TE9XcHNHTnllLUp1alA3VWREd0xFN0F1eTFjWWRrNUPSAYoBQVVfeXFMTlRPbGQzbmNmMTJfeDFUVERTX0F0VF9oa0FYbE1hX0dlMEE5eTA2Y2lRTGNhMUR6TmdPUlFKZDkxakJWT2psRVVsQ1pFc1d3UThLMXlPTTVvX1huQ1cyN1JpdlBJUU5yVVNINUt1RWw1d1E4XzdwNVFKOVNTMVF6YWgwbTFvWm84MU9n?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260921T100451Z",
+          "pinned": false
+        },
+        {
+          "title": "Iran-backed Houthi rebels warn against joining Saudi Arabia in Yemen’s growing civil war",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMjZSU3pzSDBwWFJaUEUwdEg1YXEzemljdXpSQXk2bVN6cEtacEJYYTVKRU9xdUw1RFhYRm13b0lrZTgteFpLMVJDTWl5TFBKaTdCRldGc05RdVFPMkd4Q244c1cyTjlsZFNDR0RNTEsyQzlFa0FWUFZBazdnbG41MVhBb3B3Szh2RzI0N3dnZ1d6dlFIVlFxSHhzc0J1SHdW?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260918T203400Z",
+          "seen": "20260920T182300Z",
           "pinned": false
         }
       ],
@@ -1728,15 +1728,6 @@
           "reportedAt": "2026-09-20T13:22:19Z"
         },
         {
-          "id": "report-c3139915e971",
-          "title": "Nobel laureate Narges Mohammadi tells the AP that Iranians are paying the price for war and repression",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRmlzTnd1RkxNeWcyaDBTMmdoY0FxdU9FVGFZd1NIWHFLWjRIZHR5Z083Tk1lUVlTNGJZRndfOERTXy0tVzUzcHdfU1BqeGw2SU0zRXJsbTBHQlIzbUtsdTFCRHFFbWRsM0xBT0Y4Uzl1S0FzYUpxMWpKRk5rVE5SS2ZHQ0RCWEw5NW9EaGo2LVN5RndVREN3eUtR?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-19T21:01:00Z"
-        },
-        {
           "id": "report-c36db9573173",
           "title": "Sri Lanka's Chemmani mass grave reopens wounds from the civil war - and families want answers",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxNEJJVlJzR052MHpCTG1WRW0tZm0wQm1nQktfUDd5Y3hDTEJlX1RCcjFCakdMdjdyb0k4and5Y2tiRXIyQllZUkZSLUlrSDhxLXB2RDh1ZnJ5N1U?oc=5",
@@ -1746,6 +1737,24 @@
           "reportedAt": "2026-09-20T22:28:15Z"
         },
         {
+          "id": "report-836425b8d1cf",
+          "title": "Iran’s Revolutionary Guard warns US over escalation, and other Mideast developments",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWUdHOElkcmlob3ZfZ0RHajFkdG1DYzRXbDQ0eERkQ0gyMTNHbXkyVWJGZmhyTWcyV0ZaMXRuNS1lUnBmZmlSY0JhSWVkVGFBb1lrQXhWMFRTWThqTFV3WTJ1Snp1d255TnFqUFN5X3VtQ2F1MVFHQVgzV21LSkQyN0JRSXItejZqemtPWlRmeWpVWkV5VUtOSWxXTjhsTHlPaFpsNlBJVDBCcV82UHBtbUFn?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-21T22:08:00Z"
+        },
+        {
+          "id": "report-c3139915e971",
+          "title": "Nobel laureate Narges Mohammadi tells the AP that Iranians are paying the price for war and repression",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRmlzTnd1RkxNeWcyaDBTMmdoY0FxdU9FVGFZd1NIWHFLWjRIZHR5Z083Tk1lUVlTNGJZRndfOERTXy0tVzUzcHdfU1BqeGw2SU0zRXJsbTBHQlIzbUtsdTFCRHFFbWRsM0xBT0Y4Uzl1S0FzYUpxMWpKRk5rVE5SS2ZHQ0RCWEw5NW9EaGo2LVN5RndVREN3eUtR?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-19T21:01:00Z"
+        },
+        {
           "id": "report-395a60b08a08",
           "title": "Iran’s Revolutionary Guards say will change ‘geography of war’ if attacked again",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcld3ZmpZbldtMFU2UlZJQzVlekEtN1ZFNi1DUlpEVjZ5UWJmQlczTGR0MGhjaWFaU2V5cTJ3UENyNTVrRTk1SU5PS21pZjBoU29CUG1zMW53UGI2YllmVXBZU0hjQjRHZ0lpallpLWI1Z3g2YXpxNWhhSjNjMUtVOXdmTDhlZjgtMGlEMjMxU1Z4Y3NWWHJVMER0bTZSTW5rakVWbmlrLVVEemdpVFE0Nm1oVjM1MGxJZU1JVG1hYjk?oc=5",
@@ -1753,33 +1762,6 @@
           "sourceTier": "State-affiliated reporting",
           "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
           "reportedAt": "2026-09-21T07:37:29Z"
-        },
-        {
-          "id": "report-defc72fd3c7f",
-          "title": "Conflict With Iran | Global Conflict Tracker",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMWduRExjZXhMUjFuYjV4Zzc0LS11OHVKUEhXSlpUNUdFMm9MVGlJeFd5eGh1ZWpEWWhFNEdJX0tOVTlJbnZ5NmpBQ3dYeGNpSTBOSWtISUduak5WSHhfQUhQcHBKbVpLdG1IVi1ySWVGd05NM18yektrem1TM3ZvaV9xVjR2eC04cE9RZ3FZajNCZWFHNzBaS0hhSS02dw?oc=5",
-          "domain": "cfr.org",
-          "sourceTier": "Structured / analytic",
-          "confidenceLabel": "ANALYTIC REPORT",
-          "reportedAt": "2026-09-18T02:00:00Z"
-        },
-        {
-          "id": "report-913e6dc7462f",
-          "title": "What are Iran’s latest conditions to end its war with the US?",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTXlIb3YxTktUQTlDd0JLTUlzNWhFS0Y4bk5DSnJiMlRINzFQWGRUNjZ5bi1UV3g0V0xfR3NHTjJhVXpHMGhIY0U5UHBNaDlFdnZBU0JWRDhBSElMN0gwY2s5M1hvb1hHVHZrdldWbWVRUWJubk1oV0lERG9pNUtlbXdsT0RmbkFvZHVYMzNWeG1yVFpCU051RE96M3Y4QdIBowFBVV95cUxQRjdic3M2Y1pJTEtTeTF6T2JVdm9IX1lmeHRkelZSWVlwNVhRc3RlUl8tRTBvb2lFMHBiZXY4a3dCZjRiY0d2MWlyR0NBWXVjajVhR19uYkVVTW9JSVdSMF9CTlp1MF9taWxHQ0VXREt2M21oTkFmTy0yLTZOOTFwcDg2VmQwWmQzbWNMd2dDbW91R0g4by1WWTBHWkxGMHcteW1N?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-20T11:28:16Z"
-        },
-        {
-          "id": "report-0fa40444ce52",
-          "title": "Russian hybrid attacks against Europe intensifying, says Macron",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xRVBhVWg5em1aNmVhakttdU8wWkJ4aVRWVFdrcHpmWFJKOTR4bDcyMThlSmtQQ2VJQWU1SzlJQlk0dXM5a211LWlhazY1SnJFeVZSdkpTSG9BWkk?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-18T18:04:38Z"
         },
         {
           "id": "report-bfb0cdaaced5",
@@ -1809,13 +1791,13 @@
           "reportedAt": "2026-09-21T13:07:44Z"
         },
         {
-          "id": "report-5e26724fdb53",
-          "title": "US voters oppose Iran war as 71% say Trump lacks clear strategy: Poll",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMWNvcnozNmZuM09zbkliVmdvZXlfN21hQUtFRzFhWENvTjRLcWZtNXN4WFQ5amxoWWJNa1NETTNWaGJNeE5ZY1pubGRTWnFkUjBZXzBMNWkwbHlfTF9DR2E2bXJ0cmFNNldsajc1azJUQVRjOGk5UU5qVVl4d0NBc1VIWTJYQkdCVEE3SmFTRnZzc0xRNEhRUUxSTzFnYlBm0gGmAUFVX3lxTFBSNjdZZ3Iwc2g4a1lVRERKQTVBZWVwbGc4RFFFZ1VqLVlacUtNQzlzMnVwM0pTMGhqLVlHQTlqUXh0WGF6dzVXWFFBeFY3Tm1Qcm9hWmpHN1F5cHRoMnhwcDlic0NGemlYTko3NWRMUW1hRTBTQ2ZSVFJlMVY1a241YWZkNXJUeVlHUEdrLUF0YUxDWXRuX0ptdEFQNWZDTnZQdmppdHc?oc=5",
+          "id": "report-4b7f5aab481e",
+          "title": "Iran’s military says US preparing to resume strikes",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ2o4VlNDVWc4MFhvY3laajdhME4yZkZZVXM0TFlkV0ZVYzFReURGWFhCYXdZWTJQdEhFMDNocnRiUTl6Zk42YnZQdjc2ZjFnQnJTRG1Del95SnYwa1p6RElQMXYtTkpyN2NUeF93d2ppMm12c0NiQTlmVUhmUk1VZ3ZJcU5OTnBHR2FDMDlVTXA0YngxQ2fSAZsBQVVfeXFMUDRVWWpxUVFOVzctel93SGhwQ05TN3ZaX0cxazZXdDlacE1EQ0NMNmpoN3VDOWpyQ3hBSE9oUWlGb0t1ekVEVl8tbTExbG1XWjRvOWUyWndrVTBUbWk3SHhCT0tEVy0yR3N1UGwwSEpYX3BKZFlreXNpWE1kMXZUQUY4Sl91UmFJNnEwSjJUOE1Qd3R6TGZVRDVCb1U?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-18T13:20:07Z"
+          "reportedAt": "2026-09-21T05:30:52Z"
         },
         {
           "id": "report-76c1e1af2d61",
@@ -1854,31 +1836,13 @@
           "reportedAt": "2026-09-19T23:01:45Z"
         },
         {
-          "id": "report-836425b8d1cf",
-          "title": "Iran’s Revolutionary Guard warns US over escalation, and other Mideast developments",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWUdHOElkcmlob3ZfZ0RHajFkdG1DYzRXbDQ0eERkQ0gyMTNHbXkyVWJGZmhyTWcyV0ZaMXRuNS1lUnBmZmlSY0JhSWVkVGFBb1lrQXhWMFRTWThqTFV3WTJ1Snp1d255TnFqUFN5X3VtQ2F1MVFHQVgzV21LSkQyN0JRSXItejZqemtPWlRmeWpVWkV5VUtOSWxXTjhsTHlPaFpsNlBJVDBCcV82UHBtbUFn?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-21T17:30:00Z"
-        },
-        {
-          "id": "report-63310bae95cc",
-          "title": "Saudi Arabia says Houthis tried to attack its capital, and other Mideast developments",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb3ZQdTJKbzNUNVFFeGV0NG0xYTlhTURSZ24wTGRxWUVsNFc3cUswUHpFWWFuM0piU1kxVmZlWURxbnZkT1Zvc0gxNHZPaVQ0di1hTmRoTDA1Z3Nib3phUjkycVIwN3czNlBDZl9tb2tpZ0liSVItaGVpQmpBUTEwSDl5UnZOTnhZdlh2UjcyRjAwSkFGN0N1UjBPcWp3NVE?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-20T01:46:00Z"
-        },
-        {
-          "id": "report-739b38dce694",
-          "title": "United Nations says US may have committed war crimes in Iran: What it means",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOW13MjVKdFFVZWFWcFJDWHJKWTVSTnFmQ3RRV04yWHdwMkRXbXFVU2FKQ0RfX3dDYjVRVnc4MTJyZUtSX2hqTERlc3o3RUdFbmFwZTIxOEptZHRXWl93eTQxMjVMNG1kUk96RjRZME1fWVpZcEZJOHRqTVBLTjNFaV9SOHF1SzRhT19ZSWVxZkdfUEVnR2ZXMXo1SVM5TjR0VkQ5YWFtVEhZMGNDTU9ONTAyMGVQZ9IBuwFBVV95cUxOMExGYjl6ZURSSFhwMXpUUURBM2VVUVp2ZjM1aUZMZnVDREw5U3VLNlJtb1liWXZ1enpUSFVLcHBJRU5hWFF6UGRNTGI5SnZ0dURielBScG9LcDdwbUZmb3UtWVpxNnpFNjlHZVR5WkNYZjhYeF9vTHlrRno1WXh3MFBUaWxDc2l3UlJub3N6eWZQd0FTR1pCSjl4Rk55YnY0NnI2Y0RpdE1SZzZvNDdJLUhkRHdIRVM1SFRV?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-18T10:45:59Z"
+          "id": "report-71235b2372b2",
+          "title": "What to expect as UN General Assembly convenes amid Iran war - Al-Monitor",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUXcyODVjUW1GdG1abXJ0MUJydUFnSm5iajFZS3Vlc3c5Z0dwVG1XMFBlTHczUGZFQV92N2Jqa0xkUFhtN29JWWdrQXZvTGlSZ3d0azhScmVjMkY2WWJQRDhlUXdDV29Na19DM3V5XzlVdWhvMDBFeXZMeGJncjhhMHRaT00wUG9tQWU3MGFUY01Bd1lTdzhsajVVem5OQXd6?oc=5",
+          "domain": "al-monitor.com",
+          "sourceTier": "Regional reporting",
+          "confidenceLabel": "REGIONAL REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-20T08:15:45Z"
         },
         {
           "id": "report-ae6231759b5d",
@@ -1890,49 +1854,94 @@
           "reportedAt": "2026-09-21T10:44:53Z"
         },
         {
-          "id": "report-683faaf0799f",
-          "title": "The Interview | Mirjana Spoljaric, president of the ICRC: The rules of war are being ignored",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1YYjN4Q3JrLXFLQzFvOEYzSlV5ckxDNUNfMkphSFpWRDlmcUpfU0daUFgxdlAtS3RGbUxjWFJJWGNkYTJFYVFId0oydGVzYzNO?oc=5",
-          "domain": "bbc.com",
+          "id": "report-63310bae95cc",
+          "title": "Saudi Arabia says Houthis tried to attack its capital, and other Mideast developments",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb3ZQdTJKbzNUNVFFeGV0NG0xYTlhTURSZ24wTGRxWUVsNFc3cUswUHpFWWFuM0piU1kxVmZlWURxbnZkT1Zvc0gxNHZPaVQ0di1hTmRoTDA1Z3Nib3phUjkycVIwN3czNlBDZl9tb2tpZ0liSVItaGVpQmpBUTEwSDl5UnZOTnhZdlh2UjcyRjAwSkFGN0N1UjBPcWp3NVE?oc=5",
+          "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-18T00:13:16Z"
+          "reportedAt": "2026-09-20T01:46:00Z"
         },
         {
-          "id": "report-4b7f5aab481e",
-          "title": "Iran’s military says US preparing to resume strikes",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ2o4VlNDVWc4MFhvY3laajdhME4yZkZZVXM0TFlkV0ZVYzFReURGWFhCYXdZWTJQdEhFMDNocnRiUTl6Zk42YnZQdjc2ZjFnQnJTRG1Del95SnYwa1p6RElQMXYtTkpyN2NUeF93d2ppMm12c0NiQTlmVUhmUk1VZ3ZJcU5OTnBHR2FDMDlVTXA0YngxQ2fSAZsBQVVfeXFMUDRVWWpxUVFOVzctel93SGhwQ05TN3ZaX0cxazZXdDlacE1EQ0NMNmpoN3VDOWpyQ3hBSE9oUWlGb0t1ekVEVl8tbTExbG1XWjRvOWUyWndrVTBUbWk3SHhCT0tEVy0yR3N1UGwwSEpYX3BKZFlreXNpWE1kMXZUQUY4Sl91UmFJNnEwSjJUOE1Qd3R6TGZVRDVCb1U?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-21T05:30:52Z"
-        },
-        {
-          "id": "report-71235b2372b2",
-          "title": "What to expect as UN General Assembly convenes amid Iran war - Al-Monitor",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUXcyODVjUW1GdG1abXJ0MUJydUFnSm5iajFZS3Vlc3c5Z0dwVG1XMFBlTHczUGZFQV92N2Jqa0xkUFhtN29JWWdrQXZvTGlSZ3d0azhScmVjMkY2WWJQRDhlUXdDV29Na19DM3V5XzlVdWhvMDBFeXZMeGJncjhhMHRaT00wUG9tQWU3MGFUY01Bd1lTdzhsajVVem5OQXd6?oc=5",
-          "domain": "al-monitor.com",
-          "sourceTier": "Regional reporting",
-          "confidenceLabel": "REGIONAL REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-20T08:15:45Z"
-        },
-        {
-          "id": "report-29e9cd5ad4fd",
-          "title": "Trump’s approval rating hits record low amid Iran war, economy fallout",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeWszSTJGbXh4dEk1WXZGTi01YWtmNnJ0VkNzUTJwVUt2ODJGc3FnMVR2UHZVVUhScEtPWGR3R2o4ZEFLaC16dUZxa2t5NDBGNFYtNGdycFNZVkJNQVItWWU0YmlRci1NX2V1SktCMFJUVHU2YURVaUtaLUhJaFIyWHBweTQzRENULXdjcUkwTnZKY0NkYk45RmpTUjExWGFTaEpPRzNnVmRjN1pnR0HSAbMBQVVfeXFMT3B5emxUc294aW9HR3ZNOU5RYzBaVXNlTjJlc0dudXRjLVZaWE9SZWF4WUFFeXRnTmdNeFJab3FNOVFRMW9LMEliWGJoT285aDc5T0VycS1jckNXelctWWVTbE1iRXpvVnhLZU5SRTBCOE5XQUNhYm1CRGtGcjhsOVlmb0w3MGJUVUIzcWZYZ25zSWk0VDRVOWdwSXFGTV9Ib3BYWEdGU2VRXzdySWpOQXBtRW8?oc=5",
+          "id": "report-f1191c377fc1",
+          "title": "Trump approval rating hits career low of 32% amid Iran war, high costs",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeWszSTJGbXh4dEk1WXZGTi01YWtmNnJ0VkNzUTJwVUt2ODJGc3FnMVR2UHZVVUhScEtPWGR3R2o4ZEFLaC16dUZxa2t5NDBGNFYtNGdycFNZVkJNQVItWWU0YmlRci1NX2V1SktCMFJUVHU2YURVaUtaLUhJaFIyWHBweTQzRENULXdjcUkwTnZKY0NkYk45RmpTUjExWGFTaEpPRzNnVmRjN1pnR0E?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-21T19:13:15Z"
         },
         {
-          "id": "report-e1b9e3a147c1",
-          "title": "Hundreds of thousands attend Iran's biggest government-organized rally since the war began",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQelhtVHdQX01KdzBfMHR6ejFoWW55ZWhqbnZ1ZVJtSVR6NWo0dmNOTFVpbmZhQlFKRC11aDd6WnlsbmYzYjFsWUgtcWt2VW54Qmk4c08yQWotUXVTZXJpLURfSXVseGdmWlNhNHFUN3hwVmJSbzF5UjRCZm8weGNsZ2U5TE50V09hcGxXOFhR?oc=5",
+          "id": "report-715dcaab8ca5",
+          "title": "Report: More US troops have died in Iran war than Pentagon says",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbjNFNHprQ3A4aTB5SzlRYjhKVU1oUDNnYVNXNnFaNW9jeWtoVlpOb2JqazVEMXl0SjQ3dDVKb1NsQVlmU0V3ZmVYWVd2MWpsbjd0V1g0TFNuUUhxOVhVbmw1V3ZOeHlVRDdyNTVYSWhtYUZmb09PY3lDZFRDWnpQRVVMV25sT21HdGoyRzFSdEx1RlpTdHNibEo4dlVkZ28yQXIzbGxOaDhVcVFqcmRTVl94c9IBuAFBVV95cUxOT2hONXUtSWNpalIyQ05kQnQ1Z0M3WlZIbl9DRnBKcm1Hbl9LY3hqbGw5LWdDdWhZTm9HdlRQcjZBT2U2b1EyeldWWDJkcnpLZUVhYmV1WlhDNnBVNm1rZ3REc3dSQzJIUV9tdkJSZnR2MUZlZnczbGtqLWNyQXJjaUtjazdGSzhOWUhpQ2lCbmJOZ0F5bGFnZkRUQ1NoNmJwcnpWQ1FpeFV5ZEhWX1V4Y1pqUEJsQkJk?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-19T03:10:39Z"
+        },
+        {
+          "id": "report-998333d763f1",
+          "title": "Russia says massive Ukrainian drone attack on Moscow region kills 2, injures 20",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUjh2eGZINkRYRUtMdmNram5oc1ltZ3IwbUNQbWZLZ2djTEZJTUZuS0lVZ3ZRQktyTkVSWEZUMFRNOFhQSEpLZ2NhQVlsSTZHTnNQVTFLSmZaTXJsc19NRllnNzNhUzJLdTFMV0VlMk9wUjNjeDBuLU14SDlta1VUdXNyT2NFdjNsZ1JjbEJSc0JQVlN2M0hrdWFLYUJIeW1iUVZZeE1VQlA3X0Y0bDdybktyRUR4V3pUYTFFbWd3eGlUUk0?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-09-20T06:10:36Z"
+        },
+        {
+          "id": "report-1c3f4ed635c0",
+          "title": "UAE's Gargash expects 'prolonged' war, calls for Iran-Gulf security talks - Al-Monitor",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRlF1QUJDQlRZY3lmNk1QUEV4SlZoVHUta2pTbDV4UlJTR2pXTlJjQ2pYWjU2amRob2dHdTQ2a0Q1OFhKM3Q3clVkOXVFOVR4SEVWRDNHWWdDNGdDc0cxTFpwT1lKVGVLNTJTaGpCU0tmOVNHcnR5U1llb3dEZ0JMbk5PZWVPd01wWTZubnM2WXZ3MjFncnA4VC1UMmwybk1UQkRCOEpZREh4SzFwb2Rj?oc=5",
+          "domain": "al-monitor.com",
+          "sourceTier": "Regional reporting",
+          "confidenceLabel": "REGIONAL REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-21T16:06:56Z"
+        },
+        {
+          "id": "report-26ff99f5fc30",
+          "title": "Moscow attacked by more than 1,000 Ukrainian drones",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYzNvTXpQeGpueTJobDZOVm1Rd3FCWFk2b3RpZUgyNEJWTDdrMFFmaExrNmdJSnR6NklSWG1OM2FsTThSekNoWk1rS0tWU2xhblpqeE1YRUpoZnRQRVdQUEtFUWxBaTA4cEI0b050U2NTZWMzY1M3U3lfX1JqSmZYeDZtd05KNlJIeGRnTGFKWncxRDcyYm1zQ243YWN1dUpmd3FR0gGoAUFVX3lxTE16c1FzaEVhemdoRFAxd2tjZFVFZEpSWWRzdzBRdXdseGxIY0h1a3BvcTRwQlhRTGZuMC15UUdxVVdGbnFsaVNNc04zaE1ZY2dpdXJCcU9qNnAxYkpIN0UybFptUUN1dFNSYjBXZ3pVNFhSN0pGeHI3RTNHbXczSmsxdmpfYkRWWjFZbDM0WHJ2RW5aeVpEdGlHVXpPRDFiNHZLMWpqWTEyMA?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-20T13:16:17Z"
+        },
+        {
+          "id": "report-58fdba26e039",
+          "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zTDBSOE01bzVETms3UUp0LVFaYjNBS19XUEFBbFRWY2FheFJsZ1hIU0F4dHBTcEFvcmc0TDlwbTVWZ0VrOHhCOVczNGhRYjQweFVQZGtva2NGV0E?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-21T14:14:16Z"
+        },
+        {
+          "id": "report-a07f9e81d4df",
+          "title": "A simple guide to the Yemen conflict",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaTlhWGNXUWtmX1lqalR2aFd2dWg2U3dETFRlNUkwVmZlRU1SdEU1Y3ExTHlmbzJ0cng3a3lGRlNGeXBpZzNWUF82SGVTVVc4OXJvblU0cjlQWEpKcnRHYTFlQW15TE9XcHNHTnllLUp1alA3VWREd0xFN0F1eTFjWWRrNUPSAYoBQVVfeXFMTlRPbGQzbmNmMTJfeDFUVERTX0F0VF9oa0FYbE1hX0dlMEE5eTA2Y2lRTGNhMUR6TmdPUlFKZDkxakJWT2psRVVsQ1pFc1d3UThLMXlPTTVvX1huQ1cyN1JpdlBJUU5yVVNINUt1RWw1d1E4XzdwNVFKOVNTMVF6YWgwbTFvWm84MU9n?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-21T10:04:51Z"
+        },
+        {
+          "id": "report-a295aaedf887",
+          "title": "Iran-backed Houthi rebels warn against joining Saudi Arabia in Yemen’s growing civil war",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMjZSU3pzSDBwWFJaUEUwdEg1YXEzemljdXpSQXk2bVN6cEtacEJYYTVKRU9xdUw1RFhYRm13b0lrZTgteFpLMVJDTWl5TFBKaTdCRldGc05RdVFPMkd4Q244c1cyTjlsZFNDR0RNTEsyQzlFa0FWUFZBazdnbG41MVhBb3B3Szh2RzI0N3dnZ1d6dlFIVlFxSHhzc0J1SHdW?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-18T20:34:00Z"
+          "reportedAt": "2026-09-20T18:23:00Z"
+        },
+        {
+          "id": "report-defc72fd3c7f",
+          "title": "Conflict With Iran | Global Conflict Tracker",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMWduRExjZXhMUjFuYjV4Zzc0LS11OHVKUEhXSlpUNUdFMm9MVGlJeFd5eGh1ZWpEWWhFNEdJX0tOVTlJbnZ5NmpBQ3dYeGNpSTBOSWtISUduak5WSHhfQUhQcHBKbVpLdG1IVi1ySWVGd05NM18yektrem1TM3ZvaV9xVjR2eC04cE9RZ3FZajNCZWFHNzBaS0hhSS02dw?oc=5",
+          "domain": "cfr.org",
+          "sourceTier": "Structured / analytic",
+          "confidenceLabel": "ANALYTIC REPORT",
+          "reportedAt": "2026-09-18T02:00:00Z"
         },
         {
           "id": "report-c3cdab536a37",
