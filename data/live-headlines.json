@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-23T16:57:46.235Z",
+  "generatedAt": "2026-09-23T19:14:15.524Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -21,7 +21,7 @@
       ]
     },
     "safety": {
-      "generatedAt": "2026-09-22T19:11:53.610Z",
+      "generatedAt": "2026-09-23T19:14:15.524Z",
       "cadence": "daily",
       "items": [
         {
@@ -33,11 +33,35 @@
           "pinned": true
         },
         {
+          "title": "Investigators Blame F-16 Thunderbird Crash on Turned Fan Blade Deep in Engine",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbXJvV2FMUjZQbGdnN2tGZGhNVWlOSjBCT0JlcEp4VktsLUJvNFowUklyR2lPd0NwSWpCc0tWQWFncXlfWG1uUDZieVU3QUlnQ1F0azlwZWc5b184dlRSTGxHZmdfWDlQdXBqZ0F0eVpZZnFna21rMC1iRlYtY3BSWGhpb19CdEZ0UzBRdDZjV1NLTDJLS3hqd0g5bERmdw?oc=5",
+          "domain": "airandspaceforces.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260922T190625Z",
+          "pinned": false
+        },
+        {
+          "title": "52nd Fighter Wing provides update on F-16 crash",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUVZvZl9OajNfMXZVZ2dqdFZuSHFmcGQxR2liUkh3X1pONWFRbm02bndsSTJmZ2tHRHFtUnNfSTIxSk9PZ2w3WnlRZ0hQOXpWaTQxTWJhTWpWWnhFZGEwLXREWUtSTjhNUy11WEtVTDVZQWFtNWJpckJ4b3lwY2xsOG0zb0k1OW80dWdBRlRicG9PYzhPOVktLTN3ekRJTGlaV0E?oc=5",
+          "domain": "spangdahlem.af.mil",
+          "sourceTier": "Official military source",
+          "seen": "20260922T191647Z",
+          "pinned": false
+        },
+        {
+          "title": "F-16 Crashes in Germany; Pilot Successfully Ejects",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1TamI2YUJpM21Tc2luZHJzRWV4aFhGeGdhYXZUUmFRVXJwM1dfVUhUWnJQWWluSTV1bjFuYlV2ZEc5WUU1MGpaREhnNlF5YVBNbnJxTDZsTVd4Rm93MzVfd2M1MmFHS0lKNVlaeXF4LTVobkhZcHludUs4cw?oc=5",
+          "domain": "airandspaceforces.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260923T012304Z",
+          "pinned": false
+        },
+        {
           "title": "A US military plane crashes near a US air base in Germany, injuring the pilot",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUzNXOHRScFp6bndhbGF0ckc2c3lmZ2ExdzJQUkJha2JjbGpoNXB3NWpFY0ZHbzVqR2tQVGZILUFPd0J2THdVT3p2UFNMWVJCWER3eXNfYlBmcmthaEVWd2RCeTNiaE15amltMFpvUWVCUXlGVjVrZDAtekFMbmg0UDVYcHdyR0N4SE4yV0NONk9YSEdIQUUtbmhMNDkxdDBUTFU1VG9SMXpXVGtv?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260922T153100Z",
+          "seen": "20260922T194600Z",
           "pinned": false
         },
         {
@@ -53,7 +77,7 @@
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQc0FlV0xFS2dRb3p2QnVVUWYweUhEUDhzWUZSRElLbllxZ2VDM0ZxcnpQb1hzbUZjNjBrdmtWRW9WOExGR0t5TTcteGJuWjZfZUljaTdXWjk2c3VISWVKSmxyZUpKZmhHQWViSm9BV3RwTmRpbTFIRlFra0taRWRxeG1qUGx0ajdyZExTUm1ZaVhVYzdNX2FJTVVPOUJ0N0RRenMweUhDVGE3cUk4OVNFVW9TeHhzQQ?oc=5",
           "domain": "reuters.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260922T161532Z",
+          "seen": "20260922T211025Z",
           "pinned": false
         },
         {
@@ -61,7 +85,7 @@
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdDlwZWY5QUNLMXltbkF1LVZGNTNDTmI3T2ZUdm9reTBVejY1QjJxeWhXeE1vcUg0dlFCdjJsRDkxc1FSOWFSMWNBeWV6eU9NdlpPTVgwNmlJa2hVblhPcTBXV3pLc3FfaklqbEpiTHJsMzVHWFF6ODRGVjlFRk5vY19XTDFGUGgzOGlGZGVTQlJWQjlKQjl1d1ROYmlhUQ?oc=5",
           "domain": "stripes.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260922T130849Z",
+          "seen": "20260922T190057Z",
           "pinned": false
         },
         {
@@ -98,6 +122,60 @@
         }
       ],
       "incidents": [
+        {
+          "id": "auto-aca7857ede35",
+          "reportDate": "2026-09-23",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Aviation",
+          "event": "F-16 Crashes in Germany; Pilot Successfully Ejects",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1TamI2YUJpM21Tc2luZHJzRWV4aFhGeGdhYXZUUmFRVXJwM1dfVUhUWnJQWWluSTV1bjFuYlV2ZEc5WUU1MGpaREhnNlF5YVBNbnJxTDZsTVd4Rm93MzVfd2M1MmFHS0lKNVlaeXF4LTVobkhZcHludUs4cw?oc=5",
+          "sourceLabel": "airandspaceforces.com"
+        },
+        {
+          "id": "auto-7f094fefd8b0",
+          "reportDate": "2026-09-22",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Aviation",
+          "event": "Investigators Blame F-16 Thunderbird Crash on Turned Fan Blade Deep in Engine",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbXJvV2FMUjZQbGdnN2tGZGhNVWlOSjBCT0JlcEp4VktsLUJvNFowUklyR2lPd0NwSWpCc0tWQWFncXlfWG1uUDZieVU3QUlnQ1F0azlwZWc5b184dlRSTGxHZmdfWDlQdXBqZ0F0eVpZZnFna21rMC1iRlYtY3BSWGhpb19CdEZ0UzBRdDZjV1NLTDJLS3hqd0g5bERmdw?oc=5",
+          "sourceLabel": "airandspaceforces.com"
+        },
+        {
+          "id": "auto-f7956c8024de",
+          "reportDate": "2026-09-22",
+          "dateBasis": "report discovery date",
+          "branch": "Air Force",
+          "department": "Department of the Air Force",
+          "type": "Aviation",
+          "event": "52nd Fighter Wing provides update on F-16 crash",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "OFFICIAL INTAKE",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Official military source",
+          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
+          "source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUVZvZl9OajNfMXZVZ2dqdFZuSHFmcGQxR2liUkh3X1pONWFRbm02bndsSTJmZ2tHRHFtUnNfSTIxSk9PZ2w3WnlRZ0hQOXpWaTQxTWJhTWpWWnhFZGEwLXREWUtSTjhNUy11WEtVTDVZQWFtNWJpckJ4b3lwY2xsOG0zb0k1OW80dWdBRlRicG9PYzhPOVktLTN3ekRJTGlaV0E?oc=5",
+          "sourceLabel": "spangdahlem.af.mil"
+        },
         {
           "id": "auto-5ff0fbe3662f",
           "reportDate": "2026-09-22",
