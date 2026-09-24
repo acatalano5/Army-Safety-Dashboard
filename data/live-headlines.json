@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-24T11:45:14.068Z",
+  "generatedAt": "2026-09-24T17:09:21.356Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-09-24T11:45:14.068Z",
+      "generatedAt": "2026-09-24T17:09:21.356Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -1571,7 +1571,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-09-24T11:45:14.068Z",
+      "generatedAt": "2026-09-24T17:09:21.356Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -1587,7 +1587,7 @@
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CLWpMVHoway05YlpCRFVKYmNCSVE3M09yRmswNnptWFZxOUlYWU1pdGRYbnBnV1RCYVNoS3dMLUROeDhTSUl6b3RGRGtyX3c1R3IwNTYtb2E5djQ?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260924T043747Z",
+          "seen": "20260924T092833Z",
           "pinned": false
         },
         {
@@ -1615,14 +1615,6 @@
           "pinned": false
         },
         {
-          "title": "US, Iran hold mediated UNGA talks on ending war, opening Strait of Hormuz",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLXRPQTVqXzVzVmR1V3YtSUptb2pyejlHYzRaOWFQR2dhdmNrdnBkTUpVUU9ETy1kRTJhRkE1SlpidGF5UU1KZ0ZOSlJ2WjU4bWlkMUQ3WVZGdGlNS2ZiQWU3Q3pqdHVHV211TGpnVzloZG9LcDlXeEliY01ueTg1dmc5RzZUZEwzamJnZlZZYlRpc1ZLcWZQQXNkQzhqdzFBM00xdzZRZnJEbDlpOE4yVWRR0gG3AUFVX3lxTE02elBuektCcFRIeV9GcFF0TS0zNEhPR2hLM0NoYVNiZzRFcUIyd0NmVlgyTFV3OUFqbGRuVHVVVWRwVUlOMDlSRkJ2VGZxc0Y5WEt4NWpycC1MLVFhaHVUM3drd2xTWUhVdW8xYnBERXBvZnJMMmFFZFBNZno5WjRqTVJzWlBOQUdrT2E5YTdiQ0c5em9abmdBQ0tUUnM1dDlfODk3dGcweE1PZmtaemt1bjZIakMwYw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260923T044752Z",
-          "pinned": false
-        },
-        {
           "title": "Watch: What messages did the US and Iran send about the war?",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ENnotYlV6dzAyOTd5bzhadl9uc09wbkRpNFlOM2I1ZEFtY3ZuWTEyODhTZTI0TF9GZS0xZWRFM19tVF9Ib0FxQmhIQzlvV3ktWnBwbVc1dlc?oc=5",
           "domain": "bbc.com",
@@ -1631,11 +1623,11 @@
           "pinned": false
         },
         {
-          "title": "Trump says US and Iranian officials met Tuesday, shortly after warning he may 'annihilate' Iran",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLTBMZ0ppZk41VENvQnJNNVU5Tmk3anJCdEJrcGRrb3dfb2dJMVRaSXNWQnhjY0wxX2Z4NHlKRXdaSXZfc2cxOHNLM1hwRGJ4WDhGNTdBb1pjTDBmVzQ1VE95SHJlYUtSVm1KdUdyYURwaGpScDBmam56OFlUZ25aaWlaczhnUzN6SkV3Y3NNTVVtblZtd183Rg?oc=5",
-          "domain": "apnews.com",
+          "title": "Ethiopia's army says it has repelled TPLF attacks in first comment on fresh Tigray fighting",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Fb3NXQ25LaHdVbzZsR01fZlVleXFJSDk2eHhPWnE0OTd0cENGb3VLS2RacmhKS3R5MTlYNGhfdUQybEhzRnBMLW5TdS1KM2pDSFNYS0xETERHcDQ?oc=5",
+          "domain": "bbc.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260923T025500Z",
+          "seen": "20260924T153745Z",
           "pinned": false
         },
         {
@@ -1652,6 +1644,14 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260921T191315Z",
+          "pinned": false
+        },
+        {
+          "title": "Trump says US and Iranian officials met Tuesday, shortly after warning he may 'annihilate' Iran",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLTBMZ0ppZk41VENvQnJNNVU5Tmk3anJCdEJrcGRrb3dfb2dJMVRaSXNWQnhjY0wxX2Z4NHlKRXdaSXZfc2cxOHNLM1hwRGJ4WDhGNTdBb1pjTDBmVzQ1VE95SHJlYUtSVm1KdUdyYURwaGpScDBmam56OFlUZ25aaWlaczhnUzN6SkV3Y3NNTVVtblZtd183Rg?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260923T025500Z",
           "pinned": false
         },
         {
@@ -1735,6 +1735,14 @@
           "pinned": false
         },
         {
+          "title": "Russian attacks kill eight people across Ukraine as US steps up diplomacy",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSVlKY1l1MVNUc2trZ3ljWGJEOFh2OWYwWWU2clZOTDhxOFpCNWtrZWx6Z1JJdzh1dGdJVy1lSmtXNTVWY2RTWm1IQmFKb2hFWkVYMnpncklXV0cyOVdUY3dBQWJrS0t2SnRQZHprczcxQVBOdUMzWGFxNEI5ZFdlS29HZUk1QzR4NW42bUU5czRrYlBvR25yTXg4WjRSM3FnajJCbG1KVERoNE82YTJJRFFUYWHSAboBQVVfeXFMTzJ2REdqVlF1Z2k1Wi1icDRmMmg3TndOMFRKUUV1UFVVZE9RXzNPSnJ3bU9DbXdXYkpxallMbDc2RzZyUUx4R0dhOW9Ma216T1EtUkx3Q3Q2bk9IZTk0aHF5ajdOQTRoell3ZzJrbWNXd3pZYThhN3A4VDEydWFIU0ZmbTB0RFI1OGRIV1BvQ2tRVU84M1hwWGZxakc5NkQ2dDktUE4xMWkzRzVLMl9BMUdGbnZHaE5tYlFR?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260924T103840Z",
+          "pinned": false
+        },
+        {
           "title": "Trump offers warm welcome as China's Xi arrives for US visit",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuWlNBYWUxd3dpZ003LTZNWU5iQ09UVFR6Z3lhTnd3OHBWNkJ0SkhoUFduLUxPd1lDd0ExaFlMbkRCbDFlUThXTFR6R2J0UjhpVks3SlhUQ3V2clU?oc=5",
           "domain": "bbc.com",
@@ -1743,27 +1751,19 @@
           "pinned": false
         },
         {
-          "title": "Amnesty accuses M23 of abuses amounting to war crimes at Congo mines",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObExKa0JIX2VtRVZpUDc5WktGek12X3VEakFrejh2WV9JdW90eHhnbUlpVWM4aThWbS0yVUlla2tDcl9hUkI0cVRZZWR2OTJTTVZtTHNOalJYYmlJR2tGczZJdC13bUktUUtKQmZoVVlhdXBEbW04S0ZYWlIya2VjVmlBY2I0VERzUjQ2eDFmQ2liMHFJOFEtZzMyMjJaMGNB?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260921T115400Z",
-          "pinned": false
-        },
-        {
-          "title": "Sudan’s historical famine echoes through latest hunger crisis",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOR3RiQmN1NUQ1UGFzMjhKdnpMN2hwS2VxcjRNcWo2ZkxIRGppc0d0WHlHVmU2Qnd3eVl3MjR3Z0ZxNXlmdkp2d0RSbTJXYThqNkxFczVOMHU5bFFzcUJGZG8tYVVQdGRpbFJKMzVNaGxYdFEtbW9RWHJTWU1XRmtlZTd5Mk4tcVdialFoTElkWFNoOXQyM2xCNUJMcDFwVF8zUnFn0gGoAUFVX3lxTFBOZ3NsYmhUSWRLMUZhODhSSl9BalFfXzNlZnlWMGpybjl0alMwZEwyanZTaUNkTWdSTkN6YzRwNzZSNXY1cmYySUZmbGVaU2ZyZnQ2anJVMjhidUZKalh3ZFVNWHBWNG5MN0JmUGI4SjB2UlRCbGlqazhNdGdfNTBXaE8zNkl6bGo2Q3VTSkRJZkhoS1oyRTRKVUVQWm5MZzJoYjhEVnQxMw?oc=5",
+          "title": "Is it a missile? Is it a drone? What’s the Pelican used by Ukraine?",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYi0wOVRuSEF3dTZ6aEY2cDNEZzRIYXJ4YWFMeENqTHMtWWhfbFdtR0FwTThGNGZ0T05pOGVlS1BvVzJpN3BocEVhMGNlQ2VScFVYRGRKMGRhcU4wUUNvUjJrS2Fxb1BDQmhTXzNmWXozemk2Tk9FcmdaaHdpZS1TU0cyUTVIZk9FdDhlQWw4azRWNThrUHVxTUNFRUlVWGE1UXNFMTVmNNIBrAFBVV95cUxPTWVGMW9BN3RoZDRGUnNDQWJUc2xUY3dGLXptWGx3REp4dU84aVkwSTliUGFLc2V6ZFlsclZMSkltdERWVTV0MkFfRlRFVGdEUVhOazliZTd3UzZNUjNsN0pwcjFwb2NHM3U4c0pCSm1rVE13cjhkR3BGdFhPdVNPNy1QTDNSSHROYVhPZDR5OExBcTF3bU5xOFdwQkJDSkczcUNOYXFPaHZJd1h5?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260922T175048Z",
+          "seen": "20260921T142753Z",
           "pinned": false
         },
         {
-          "title": "Amid backdrop of Middle East war, soccer’s 8-country Arabian Gulf Cup starts Wednesday",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc1JWTk14VlNweFdYb3V1eVA3LWp6ZHZ2TnREVXZhNU1KS1VhUHlDWlFFWXZuWlFVY1ZZY1djSzVtX1NvMTl0OGpWMk9KZFJFZEdhY0RkalFZOXJBNThsY0dyNnN6R25CZTg1eTBicmV2bEwta2h0X1ByeXZBU1d6YWl5c0RnZ3ZXcXFz?oc=5",
+          "title": "Gulf nations have found ways to keep oil flowing through the Iran war, but the costs are mounting",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTy0tbjNXbWhBYTF0MXpGMDBwWTE4dW5UWjdfZGpQSDY1bG1aVm1UQmEzVVB0S1JqRHByWGlvenBBZlVfVTBKZHF2d2F5VDluclFSa2RscW5DQ2luMkdKemlUckg1bkdHM3RQMHBBM3ZKLThvNHV5QkhnQm9sUXFOV2lYSXNCUHVMR25QWnZVVzVYQVhuc0M5WE1B?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260922T045700Z",
+          "seen": "20260924T095800Z",
           "pinned": false
         }
       ],
@@ -1784,7 +1784,7 @@
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-24T04:37:47Z"
+          "reportedAt": "2026-09-24T09:28:33Z"
         },
         {
           "id": "report-19e4e967c00e",
@@ -1814,15 +1814,6 @@
           "reportedAt": "2026-09-21T05:21:20Z"
         },
         {
-          "id": "report-317ee9ad7aa6",
-          "title": "US, Iran hold mediated UNGA talks on ending war, opening Strait of Hormuz",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLXRPQTVqXzVzVmR1V3YtSUptb2pyejlHYzRaOWFQR2dhdmNrdnBkTUpVUU9ETy1kRTJhRkE1SlpidGF5UU1KZ0ZOSlJ2WjU4bWlkMUQ3WVZGdGlNS2ZiQWU3Q3pqdHVHV211TGpnVzloZG9LcDlXeEliY01ueTg1dmc5RzZUZEwzamJnZlZZYlRpc1ZLcWZQQXNkQzhqdzFBM00xdzZRZnJEbDlpOE4yVWRR0gG3AUFVX3lxTE02elBuektCcFRIeV9GcFF0TS0zNEhPR2hLM0NoYVNiZzRFcUIyd0NmVlgyTFV3OUFqbGRuVHVVVWRwVUlOMDlSRkJ2VGZxc0Y5WEt4NWpycC1MLVFhaHVUM3drd2xTWUhVdW8xYnBERXBvZnJMMmFFZFBNZno5WjRqTVJzWlBOQUdrT2E5YTdiQ0c5em9abmdBQ0tUUnM1dDlfODk3dGcweE1PZmtaemt1bjZIakMwYw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-23T04:47:52Z"
-        },
-        {
           "id": "report-dbaba7599b87",
           "title": "Watch: What messages did the US and Iran send about the war?",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ENnotYlV6dzAyOTd5bzhadl9uc09wbkRpNFlOM2I1ZEFtY3ZuWTEyODhTZTI0TF9GZS0xZWRFM19tVF9Ib0FxQmhIQzlvV3ktWnBwbVc1dlc?oc=5",
@@ -1832,13 +1823,13 @@
           "reportedAt": "2026-09-23T21:20:47Z"
         },
         {
-          "id": "report-743a11d0758f",
-          "title": "Trump says US and Iranian officials met Tuesday, shortly after warning he may 'annihilate' Iran",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLTBMZ0ppZk41VENvQnJNNVU5Tmk3anJCdEJrcGRrb3dfb2dJMVRaSXNWQnhjY0wxX2Z4NHlKRXdaSXZfc2cxOHNLM1hwRGJ4WDhGNTdBb1pjTDBmVzQ1VE95SHJlYUtSVm1KdUdyYURwaGpScDBmam56OFlUZ25aaWlaczhnUzN6SkV3Y3NNTVVtblZtd183Rg?oc=5",
-          "domain": "apnews.com",
+          "id": "report-985d9b95387f",
+          "title": "Ethiopia's army says it has repelled TPLF attacks in first comment on fresh Tigray fighting",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Fb3NXQ25LaHdVbzZsR01fZlVleXFJSDk2eHhPWnE0OTd0cENGb3VLS2RacmhKS3R5MTlYNGhfdUQybEhzRnBMLW5TdS1KM2pDSFNYS0xETERHcDQ?oc=5",
+          "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-23T02:55:00Z"
+          "reportedAt": "2026-09-24T15:37:45Z"
         },
         {
           "id": "report-82b45d771f3a",
@@ -1857,6 +1848,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-21T19:13:15Z"
+        },
+        {
+          "id": "report-743a11d0758f",
+          "title": "Trump says US and Iranian officials met Tuesday, shortly after warning he may 'annihilate' Iran",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLTBMZ0ppZk41VENvQnJNNVU5Tmk3anJCdEJrcGRrb3dfb2dJMVRaSXNWQnhjY0wxX2Z4NHlKRXdaSXZfc2cxOHNLM1hwRGJ4WDhGNTdBb1pjTDBmVzQ1VE95SHJlYUtSVm1KdUdyYURwaGpScDBmam56OFlUZ25aaWlaczhnUzN6SkV3Y3NNTVVtblZtd183Rg?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-23T02:55:00Z"
         },
         {
           "id": "report-b2179ad07b7d",
@@ -1949,6 +1949,15 @@
           "reportedAt": "2026-09-23T04:30:00Z"
         },
         {
+          "id": "report-e6ae32f829f6",
+          "title": "Russian attacks kill eight people across Ukraine as US steps up diplomacy",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSVlKY1l1MVNUc2trZ3ljWGJEOFh2OWYwWWU2clZOTDhxOFpCNWtrZWx6Z1JJdzh1dGdJVy1lSmtXNTVWY2RTWm1IQmFKb2hFWkVYMnpncklXV0cyOVdUY3dBQWJrS0t2SnRQZHprczcxQVBOdUMzWGFxNEI5ZFdlS29HZUk1QzR4NW42bUU5czRrYlBvR25yTXg4WjRSM3FnajJCbG1KVERoNE82YTJJRFFUYWHSAboBQVVfeXFMTzJ2REdqVlF1Z2k1Wi1icDRmMmg3TndOMFRKUUV1UFVVZE9RXzNPSnJ3bU9DbXdXYkpxallMbDc2RzZyUUx4R0dhOW9Ma216T1EtUkx3Q3Q2bk9IZTk0aHF5ajdOQTRoell3ZzJrbWNXd3pZYThhN3A4VDEydWFIU0ZmbTB0RFI1OGRIV1BvQ2tRVU84M1hwWGZxakc5NkQ2dDktUE4xMWkzRzVLMl9BMUdGbnZHaE5tYlFR?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-24T10:38:40Z"
+        },
+        {
           "id": "report-7461da1ea339",
           "title": "Trump offers warm welcome as China's Xi arrives for US visit",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuWlNBYWUxd3dpZ003LTZNWU5iQ09UVFR6Z3lhTnd3OHBWNkJ0SkhoUFduLUxPd1lDd0ExaFlMbkRCbDFlUThXTFR6R2J0UjhpVks3SlhUQ3V2clU?oc=5",
@@ -1958,31 +1967,22 @@
           "reportedAt": "2026-09-24T03:52:21Z"
         },
         {
-          "id": "report-c6420b9c4faf",
-          "title": "Amnesty accuses M23 of abuses amounting to war crimes at Congo mines",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObExKa0JIX2VtRVZpUDc5WktGek12X3VEakFrejh2WV9JdW90eHhnbUlpVWM4aThWbS0yVUlla2tDcl9hUkI0cVRZZWR2OTJTTVZtTHNOalJYYmlJR2tGczZJdC13bUktUUtKQmZoVVlhdXBEbW04S0ZYWlIya2VjVmlBY2I0VERzUjQ2eDFmQ2liMHFJOFEtZzMyMjJaMGNB?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-21T11:54:00Z"
-        },
-        {
-          "id": "report-d48feb1e9078",
-          "title": "Sudan’s historical famine echoes through latest hunger crisis",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOR3RiQmN1NUQ1UGFzMjhKdnpMN2hwS2VxcjRNcWo2ZkxIRGppc0d0WHlHVmU2Qnd3eVl3MjR3Z0ZxNXlmdkp2d0RSbTJXYThqNkxFczVOMHU5bFFzcUJGZG8tYVVQdGRpbFJKMzVNaGxYdFEtbW9RWHJTWU1XRmtlZTd5Mk4tcVdialFoTElkWFNoOXQyM2xCNUJMcDFwVF8zUnFn0gGoAUFVX3lxTFBOZ3NsYmhUSWRLMUZhODhSSl9BalFfXzNlZnlWMGpybjl0alMwZEwyanZTaUNkTWdSTkN6YzRwNzZSNXY1cmYySUZmbGVaU2ZyZnQ2anJVMjhidUZKalh3ZFVNWHBWNG5MN0JmUGI4SjB2UlRCbGlqazhNdGdfNTBXaE8zNkl6bGo2Q3VTSkRJZkhoS1oyRTRKVUVQWm5MZzJoYjhEVnQxMw?oc=5",
+          "id": "report-5290229a7236",
+          "title": "Is it a missile? Is it a drone? What’s the Pelican used by Ukraine?",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYi0wOVRuSEF3dTZ6aEY2cDNEZzRIYXJ4YWFMeENqTHMtWWhfbFdtR0FwTThGNGZ0T05pOGVlS1BvVzJpN3BocEVhMGNlQ2VScFVYRGRKMGRhcU4wUUNvUjJrS2Fxb1BDQmhTXzNmWXozemk2Tk9FcmdaaHdpZS1TU0cyUTVIZk9FdDhlQWw4azRWNThrUHVxTUNFRUlVWGE1UXNFMTVmNNIBrAFBVV95cUxPTWVGMW9BN3RoZDRGUnNDQWJUc2xUY3dGLXptWGx3REp4dU84aVkwSTliUGFLc2V6ZFlsclZMSkltdERWVTV0MkFfRlRFVGdEUVhOazliZTd3UzZNUjNsN0pwcjFwb2NHM3U4c0pCSm1rVE13cjhkR3BGdFhPdVNPNy1QTDNSSHROYVhPZDR5OExBcTF3bU5xOFdwQkJDSkczcUNOYXFPaHZJd1h5?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-22T17:50:48Z"
+          "reportedAt": "2026-09-21T14:27:53Z"
         },
         {
-          "id": "report-cb3176992435",
-          "title": "Amid backdrop of Middle East war, soccer’s 8-country Arabian Gulf Cup starts Wednesday",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc1JWTk14VlNweFdYb3V1eVA3LWp6ZHZ2TnREVXZhNU1KS1VhUHlDWlFFWXZuWlFVY1ZZY1djSzVtX1NvMTl0OGpWMk9KZFJFZEdhY0RkalFZOXJBNThsY0dyNnN6R25CZTg1eTBicmV2bEwta2h0X1ByeXZBU1d6YWl5c0RnZ3ZXcXFz?oc=5",
+          "id": "report-559ef51517c0",
+          "title": "Gulf nations have found ways to keep oil flowing through the Iran war, but the costs are mounting",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTy0tbjNXbWhBYTF0MXpGMDBwWTE4dW5UWjdfZGpQSDY1bG1aVm1UQmEzVVB0S1JqRHByWGlvenBBZlVfVTBKZHF2d2F5VDluclFSa2RscW5DQ2luMkdKemlUckg1bkdHM3RQMHBBM3ZKLThvNHV5QkhnQm9sUXFOV2lYSXNCUHVMR25QWnZVVzVYQVhuc0M5WE1B?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-22T04:57:00Z"
+          "reportedAt": "2026-09-24T09:58:00Z"
         },
         {
           "id": "report-3d06d7802bf8",
