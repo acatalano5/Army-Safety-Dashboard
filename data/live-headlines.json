@@ -1,24 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-23T21:31:28.442Z",
+  "generatedAt": "2026-09-24T04:48:29.526Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-09-23T21:31:28.442Z",
+      "generatedAt": "2026-09-24T04:48:29.526Z",
       "cadence": "every 6 hours",
-      "items": [
-        {
-          "title": "UNITAS 26 | U.S. Marines and Partners Begin Multinational Training Exercise in Peru [Image 6 of 7]",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPU2I2bU1PTlNJakVDd0FvdkZ2dldtRXAzV3VRSl9rdzBSa3ppbkhaU0NrQVpTSkowYkVfeGJqcFd0VVk2dkNLY0g3QXl4ME9QaGZMb2NCQ2Z5UGRpdEpvZzBVNFItWURybklEbWtJYmNrWTJ3cXJBbXFKR2J1eVhMLW5OZV9ta2RRZ0swT0YzcWc1QVJlTV93RmFJSXdtUkF3dktXOFdQNUd0YnNLUERCWFNjMmJxZw?oc=5",
-          "domain": "dvidshub.net",
-          "sourceTier": "Official military source",
-          "seen": "20260916T155400Z",
-          "pinned": false,
-          "components": [
-            "Component not specified"
-          ]
-        }
-      ]
+      "items": []
     },
     "safety": {
       "generatedAt": "2026-09-23T19:14:15.524Z",
@@ -1583,7 +1571,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-09-23T21:31:28.442Z",
+      "generatedAt": "2026-09-24T04:48:29.526Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -1592,22 +1580,6 @@
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "seen": "20260922T042800Z",
-          "pinned": false
-        },
-        {
-          "title": "Sri Lanka's Chemmani mass grave reopens wounds from the civil war - and families want answers",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxNEJJVlJzR052MHpCTG1WRW0tZm0wQm1nQktfUDd5Y3hDTEJlX1RCcjFCakdMdjdyb0k4and5Y2tiRXIyQllZUkZSLUlrSDhxLXB2RDh1ZnJ5N1U?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260920T222815Z",
-          "pinned": false
-        },
-        {
-          "title": "Postponing the future: War and inflation redraw marriage terms in Iran",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeWhyYzJhWkQ1TDYtejRnUTIwSTh2V0xieEdGVnNnY2lPaG83TjlJSHF0X09wbnNRbVo3SUcwWmdNSVFzbDZXY3NIaWJnWUtGOTltQVhMbi1saWNQVU81MGszdXFMSGYtWHJKRGhYLXJvX3BGb1hBb0Y2ZS13Q2h0b1hxRHhtX0NQOFFGdWxtUjhRNlNiLVZQMDF3VGc0VkNxZDZtVDJKNWJRa01fY3EzQ0FrWdIBuAFBVV95cUxPV0NyN2RNQnhqXzZHbWFheTVXNnZaZldaYlUxamNvbHlSOFJGeDRsV09nSlhGTGgtc3FuY2trSHFSazlGYTFSQlJYYm90WkI5RmsxX2s4anpGNXFhbHZYbjFTS0huX1I1aS1KM0I2blJpcUhDeDhDVmhZejVGMnZNOFBLX2N1bDNsMlBoVUloYUFEdHNDOTRJQ2djQ295eU1sdmFWR3ZoWGpXdHlsQjhUU3NJNlluTlFE?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260920T132219Z",
           "pinned": false
         },
         {
@@ -1627,19 +1599,19 @@
           "pinned": false
         },
         {
-          "title": "Iran’s military says US preparing to resume strikes",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ2o4VlNDVWc4MFhvY3laajdhME4yZkZZVXM0TFlkV0ZVYzFReURGWFhCYXdZWTJQdEhFMDNocnRiUTl6Zk42YnZQdjc2ZjFnQnJTRG1Del95SnYwa1p6RElQMXYtTkpyN2NUeF93d2ppMm12c0NiQTlmVUhmUk1VZ3ZJcU5OTnBHR2FDMDlVTXA0YngxQ2fSAZsBQVVfeXFMUDRVWWpxUVFOVzctel93SGhwQ05TN3ZaX0cxazZXdDlacE1EQ0NMNmpoN3VDOWpyQ3hBSE9oUWlGb0t1ekVEVl8tbTExbG1XWjRvOWUyWndrVTBUbWk3SHhCT0tEVy0yR3N1UGwwSEpYX3BKZFlreXNpWE1kMXZUQUY4Sl91UmFJNnEwSjJUOE1Qd3R6TGZVRDVCb1U?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260921T053052Z",
-          "pinned": false
-        },
-        {
           "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CLWpMVHoway05YlpCRFVKYmNCSVE3M09yRmswNnptWFZxOUlYWU1pdGRYbnBnV1RCYVNoS3dMLUROeDhTSUl6b3RGRGtyX3c1R3IwNTYtb2E5djQ?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20260923T165337Z",
+          "pinned": false
+        },
+        {
+          "title": "Iran’s military says US preparing to resume strikes",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ2o4VlNDVWc4MFhvY3laajdhME4yZkZZVXM0TFlkV0ZVYzFReURGWFhCYXdZWTJQdEhFMDNocnRiUTl6Zk42YnZQdjc2ZjFnQnJTRG1Del95SnYwa1p6RElQMXYtTkpyN2NUeF93d2ppMm12c0NiQTlmVUhmUk1VZ3ZJcU5OTnBHR2FDMDlVTXA0YngxQ2fSAZsBQVVfeXFMUDRVWWpxUVFOVzctel93SGhwQ05TN3ZaX0cxazZXdDlacE1EQ0NMNmpoN3VDOWpyQ3hBSE9oUWlGb0t1ekVEVl8tbTExbG1XWjRvOWUyWndrVTBUbWk3SHhCT0tEVy0yR3N1UGwwSEpYX3BKZFlreXNpWE1kMXZUQUY4Sl91UmFJNnEwSjJUOE1Qd3R6TGZVRDVCb1U?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260921T053052Z",
           "pinned": false
         },
         {
@@ -1651,11 +1623,19 @@
           "pinned": false
         },
         {
-          "title": "Qatar PM describes fallout of US-Israel war on Iran as ‘earthquake’",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUlY5OExNNU5sVzBjN1RxWXdZXzUtVGk0c05qel9GV1NNZ1JicE5ZblBGTHN5Y0o1d1BNcFduM2ExQ3ZrbmxINUJvQURXVnJ1NlFmbU1MM1VoVmlMSjBQUkJCSzk1Ql9vbWNzalpkcHhIcHhzNWw2QVM4UHhNQTc0MkZHam9XQ0FmZWk3Qkl5ZmY5MzVKMnFzb0J0eVQ0bENEejdVZ2M2TdIBrAFBVV95cUxOYWl2d3laUXlCdUNoRDZFS1pFaFVnTUwxeGdhajc0UjhxSTZyQlZxaWRjcEdPNWZaWlpESkVlT2x3Y2JCd0cwbGItc041UFJmem94R0NacHlfZDBBN0RvQ0s2aUctdk10MFp6WE00RmhmelQ0YW5TTGJkQUtKbHJuYk1keTN3UEVFdGw4Q0tOZjNkYmJILWlFYnRxMHg5cEtCY19QVHlTTDN3Umtw?oc=5",
+          "title": "US, Iran hold mediated UNGA talks on ending war, opening Strait of Hormuz",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLXRPQTVqXzVzVmR1V3YtSUptb2pyejlHYzRaOWFQR2dhdmNrdnBkTUpVUU9ETy1kRTJhRkE1SlpidGF5UU1KZ0ZOSlJ2WjU4bWlkMUQ3WVZGdGlNS2ZiQWU3Q3pqdHVHV211TGpnVzloZG9LcDlXeEliY01ueTg1dmc5RzZUZEwzamJnZlZZYlRpc1ZLcWZQQXNkQzhqdzFBM00xdzZRZnJEbDlpOE4yVWRR0gG3AUFVX3lxTE02elBuektCcFRIeV9GcFF0TS0zNEhPR2hLM0NoYVNiZzRFcUIyd0NmVlgyTFV3OUFqbGRuVHVVVWRwVUlOMDlSRkJ2VGZxc0Y5WEt4NWpycC1MLVFhaHVUM3drd2xTWUhVdW8xYnBERXBvZnJMMmFFZFBNZno5WjRqTVJzWlBOQUdrT2E5YTdiQ0c5em9abmdBQ0tUUnM1dDlfODk3dGcweE1PZmtaemt1bjZIakMwYw?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260920T201339Z",
+          "seen": "20260923T044752Z",
+          "pinned": false
+        },
+        {
+          "title": "Watch: What messages did the US and Iran send about the war?",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ENnotYlV6dzAyOTd5bzhadl9uc09wbkRpNFlOM2I1ZEFtY3ZuWTEyODhTZTI0TF9GZS0xZWRFM19tVF9Ib0FxQmhIQzlvV3ktWnBwbVc1dlc?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260923T212047Z",
           "pinned": false
         },
         {
@@ -1691,14 +1671,6 @@
           "pinned": false
         },
         {
-          "title": "Saudi Arabia says Houthis tried to attack its capital, and other Mideast developments",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb3ZQdTJKbzNUNVFFeGV0NG0xYTlhTURSZ24wTGRxWUVsNFc3cUswUHpFWWFuM0piU1kxVmZlWURxbnZkT1Zvc0gxNHZPaVQ0di1hTmRoTDA1Z3Nib3phUjkycVIwN3czNlBDZl9tb2tpZ0liSVItaGVpQmpBUTEwSDl5UnZOTnhZdlh2UjcyRjAwSkFGN0N1UjBPcWp3NVE?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260920T014600Z",
-          "pinned": false
-        },
-        {
           "title": "Trump says Ukraine, Russia 'going to make a deal,' discusses Patriot missile production",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMFIyanFuOTRrOWt0NENndWpNbGNOaDhhamEzcmNJQ0lHbWFJM085OFpDQm5wVWFOdmpkS21PclFYemprMWplR0ZmMm5mWXNKQURNM3Q1WnVaVm5KWUR1Y2NxWG1wdDZXWnhEQzNhbHhJdFl6cDdvVjRpNzNMdmVVUmZ3Z2VMNDlFUVRwdWQ0eGc4SE05ZTgxczlHRkE4dWc4bk5fby1KdTdaZ0tLUy11cGVIclNMTnR6STR2LTJR?oc=5",
           "domain": "aa.com.tr",
@@ -1715,11 +1687,27 @@
           "pinned": false
         },
         {
+          "title": "Ethiopia faces renewed war as armed groups launch offensive",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZzkwYWRsdlVzR1J4ejB0ei1uSW5NTENycXdkWEp0R21USmctXzBWeFVELU5CZTFEaTIwZkZzVzQ4Mlg1b2l0YWhIeExUdEZwN2xNMWhTQkt5UDczbE5EYWxZMEVTSElTVVdCYjJIUk9zNWN5aXpjSW9mU0VkZlJSZ05YN1BQbm9ZaV9NbklXWXZiQdIBlwFBVV95cUxNTUtnN3pnS2VKUXhLd0tGV1hZeGtqTXF4R0FWeXF6bk14UXQ5dzBlMWJnSHp5Y3pFRHlJSnZpNjVTMHhrODRoeTJxc011bmZoY196bEtmMUlkWmEtVVV2Y2ZkdUdsMF9DajBOYk5wRk52WFZpRThrdDlOYmVER1BGX1VISUlKZDVUa2xFMWZfa2oyWWVkcFhn?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260923T172306Z",
+          "pinned": false
+        },
+        {
           "title": "Trump suggests a Ukraine deal on Russia's war could be close while meeting with Zelenskyy",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYnlCTkxicTUzUWYtb2ZqTjJZMGJJY3ZKWlYzR21UMk1tN2NwRkJ4dE9lVHkyVnhIald4YWxjbGkxMEl6QW1HUE9RdWoyYkVwWjJWYmZRUHRTdlFWeDFBMzhVN3ZBQkVHUHRNRm1oWmZNYU9CTzZFN19ScEtja1lwMXdBV21BSjl6RDJHQ3laX0lrcVFycFVyTU40QzRSTmt1Slc1anVsVGNmWTNl?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "seen": "20260922T200200Z",
+          "pinned": false
+        },
+        {
+          "title": "Trump says US and Iranian officials met Tuesday, shortly after warning he may 'annihilate' Iran",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLTBMZ0ppZk41VENvQnJNNVU5Tmk3anJCdEJrcGRrb3dfb2dJMVRaSXNWQnhjY0wxX2Z4NHlKRXdaSXZfc2cxOHNLM1hwRGJ4WDhGNTdBb1pjTDBmVzQ1VE95SHJlYUtSVm1KdUdyYURwaGpScDBmam56OFlUZ25aaWlaczhnUzN6SkV3Y3NNTVVtblZtd183Rg?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260923T025500Z",
           "pinned": false
         },
         {
@@ -1755,27 +1743,27 @@
           "pinned": false
         },
         {
-          "title": "Trump says US and Iranian officials met Tuesday, shortly after warning he may 'annihilate' Iran",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLTBMZ0ppZk41VENvQnJNNVU5Tmk3anJCdEJrcGRrb3dfb2dJMVRaSXNWQnhjY0wxX2Z4NHlKRXdaSXZfc2cxOHNLM1hwRGJ4WDhGNTdBb1pjTDBmVzQ1VE95SHJlYUtSVm1KdUdyYURwaGpScDBmam56OFlUZ25aaWlaczhnUzN6SkV3Y3NNTVVtblZtd183Rg?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260923T025500Z",
-          "pinned": false
-        },
-        {
-          "title": "Iran-backed Houthi rebels warn against joining Saudi Arabia in Yemen’s growing civil war",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMjZSU3pzSDBwWFJaUEUwdEg1YXEzemljdXpSQXk2bVN6cEtacEJYYTVKRU9xdUw1RFhYRm13b0lrZTgteFpLMVJDTWl5TFBKaTdCRldGc05RdVFPMkd4Q244c1cyTjlsZFNDR0RNTEsyQzlFa0FWUFZBazdnbG41MVhBb3B3Szh2RzI0N3dnZ1d6dlFIVlFxSHhzc0J1SHdW?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260920T182300Z",
-          "pinned": false
-        },
-        {
           "title": "Is it a missile? Is it a drone? What’s the Pelican used by Ukraine?",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYi0wOVRuSEF3dTZ6aEY2cDNEZzRIYXJ4YWFMeENqTHMtWWhfbFdtR0FwTThGNGZ0T05pOGVlS1BvVzJpN3BocEVhMGNlQ2VScFVYRGRKMGRhcU4wUUNvUjJrS2Fxb1BDQmhTXzNmWXozemk2Tk9FcmdaaHdpZS1TU0cyUTVIZk9FdDhlQWw4azRWNThrUHVxTUNFRUlVWGE1UXNFMTVmNNIBrAFBVV95cUxPTWVGMW9BN3RoZDRGUnNDQWJUc2xUY3dGLXptWGx3REp4dU84aVkwSTliUGFLc2V6ZFlsclZMSkltdERWVTV0MkFfRlRFVGdEUVhOazliZTd3UzZNUjNsN0pwcjFwb2NHM3U4c0pCSm1rVE13cjhkR3BGdFhPdVNPNy1QTDNSSHROYVhPZDR5OExBcTF3bU5xOFdwQkJDSkczcUNOYXFPaHZJd1h5?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260921T142753Z",
+          "pinned": false
+        },
+        {
+          "title": "Senior NATO commander warns Putin is becoming more cavalier and open to risk as Ukraine war drags on",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeFRCNGc0VG9kTExITWJ4RXNhLWt5Wkh1WnlqOEM5UkRlSGxnU29XS0JFNlBNN1RGWjZHb3g5QzBMbldwUjhLekVKQVg2UnY3WkZLQ2RqbDZFNk91N3RsTW5jUy11MFBIYjZTemtkQmpZLV9ydUd1bmhGYk9pRUhMVW05OWptaktLTHV2amtrNE44TGc?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260923T043000Z",
+          "pinned": false
+        },
+        {
+          "title": "Amnesty accuses M23 of abuses amounting to war crimes at Congo mines",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObExKa0JIX2VtRVZpUDc5WktGek12X3VEakFrejh2WV9JdW90eHhnbUlpVWM4aThWbS0yVUlla2tDcl9hUkI0cVRZZWR2OTJTTVZtTHNOalJYYmlJR2tGczZJdC13bUktUUtKQmZoVVlhdXBEbW04S0ZYWlIya2VjVmlBY2I0VERzUjQ2eDFmQ2liMHFJOFEtZzMyMjJaMGNB?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260921T115400Z",
           "pinned": false
         }
       ],
@@ -1788,24 +1776,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-22T04:28:00Z"
-        },
-        {
-          "id": "report-c36db9573173",
-          "title": "Sri Lanka's Chemmani mass grave reopens wounds from the civil war - and families want answers",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxNEJJVlJzR052MHpCTG1WRW0tZm0wQm1nQktfUDd5Y3hDTEJlX1RCcjFCakdMdjdyb0k4and5Y2tiRXIyQllZUkZSLUlrSDhxLXB2RDh1ZnJ5N1U?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-20T22:28:15Z"
-        },
-        {
-          "id": "report-9b466c06b810",
-          "title": "Postponing the future: War and inflation redraw marriage terms in Iran",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeWhyYzJhWkQ1TDYtejRnUTIwSTh2V0xieEdGVnNnY2lPaG83TjlJSHF0X09wbnNRbVo3SUcwWmdNSVFzbDZXY3NIaWJnWUtGOTltQVhMbi1saWNQVU81MGszdXFMSGYtWHJKRGhYLXJvX3BGb1hBb0Y2ZS13Q2h0b1hxRHhtX0NQOFFGdWxtUjhRNlNiLVZQMDF3VGc0VkNxZDZtVDJKNWJRa01fY3EzQ0FrWdIBuAFBVV95cUxPV0NyN2RNQnhqXzZHbWFheTVXNnZaZldaYlUxamNvbHlSOFJGeDRsV09nSlhGTGgtc3FuY2trSHFSazlGYTFSQlJYYm90WkI5RmsxX2s4anpGNXFhbHZYbjFTS0huX1I1aS1KM0I2blJpcUhDeDhDVmhZejVGMnZNOFBLX2N1bDNsMlBoVUloYUFEdHNDOTRJQ2djQ295eU1sdmFWR3ZoWGpXdHlsQjhUU3NJNlluTlFE?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-20T13:22:19Z"
         },
         {
           "id": "report-19e4e967c00e",
@@ -1826,15 +1796,6 @@
           "reportedAt": "2026-09-21T07:37:29Z"
         },
         {
-          "id": "report-4b7f5aab481e",
-          "title": "Iran’s military says US preparing to resume strikes",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ2o4VlNDVWc4MFhvY3laajdhME4yZkZZVXM0TFlkV0ZVYzFReURGWFhCYXdZWTJQdEhFMDNocnRiUTl6Zk42YnZQdjc2ZjFnQnJTRG1Del95SnYwa1p6RElQMXYtTkpyN2NUeF93d2ppMm12c0NiQTlmVUhmUk1VZ3ZJcU5OTnBHR2FDMDlVTXA0YngxQ2fSAZsBQVVfeXFMUDRVWWpxUVFOVzctel93SGhwQ05TN3ZaX0cxazZXdDlacE1EQ0NMNmpoN3VDOWpyQ3hBSE9oUWlGb0t1ekVEVl8tbTExbG1XWjRvOWUyWndrVTBUbWk3SHhCT0tEVy0yR3N1UGwwSEpYX3BKZFlreXNpWE1kMXZUQUY4Sl91UmFJNnEwSjJUOE1Qd3R6TGZVRDVCb1U?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-21T05:30:52Z"
-        },
-        {
           "id": "report-bb97dafde412",
           "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CLWpMVHoway05YlpCRFVKYmNCSVE3M09yRmswNnptWFZxOUlYWU1pdGRYbnBnV1RCYVNoS3dMLUROeDhTSUl6b3RGRGtyX3c1R3IwNTYtb2E5djQ?oc=5",
@@ -1842,6 +1803,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-23T16:53:37Z"
+        },
+        {
+          "id": "report-4b7f5aab481e",
+          "title": "Iran’s military says US preparing to resume strikes",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ2o4VlNDVWc4MFhvY3laajdhME4yZkZZVXM0TFlkV0ZVYzFReURGWFhCYXdZWTJQdEhFMDNocnRiUTl6Zk42YnZQdjc2ZjFnQnJTRG1Del95SnYwa1p6RElQMXYtTkpyN2NUeF93d2ppMm12c0NiQTlmVUhmUk1VZ3ZJcU5OTnBHR2FDMDlVTXA0YngxQ2fSAZsBQVVfeXFMUDRVWWpxUVFOVzctel93SGhwQ05TN3ZaX0cxazZXdDlacE1EQ0NMNmpoN3VDOWpyQ3hBSE9oUWlGb0t1ekVEVl8tbTExbG1XWjRvOWUyWndrVTBUbWk3SHhCT0tEVy0yR3N1UGwwSEpYX3BKZFlreXNpWE1kMXZUQUY4Sl91UmFJNnEwSjJUOE1Qd3R6TGZVRDVCb1U?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-21T05:30:52Z"
         },
         {
           "id": "report-76c1e1af2d61",
@@ -1853,13 +1823,22 @@
           "reportedAt": "2026-09-21T05:21:20Z"
         },
         {
-          "id": "report-b065182aa9dd",
-          "title": "Qatar PM describes fallout of US-Israel war on Iran as ‘earthquake’",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUlY5OExNNU5sVzBjN1RxWXdZXzUtVGk0c05qel9GV1NNZ1JicE5ZblBGTHN5Y0o1d1BNcFduM2ExQ3ZrbmxINUJvQURXVnJ1NlFmbU1MM1VoVmlMSjBQUkJCSzk1Ql9vbWNzalpkcHhIcHhzNWw2QVM4UHhNQTc0MkZHam9XQ0FmZWk3Qkl5ZmY5MzVKMnFzb0J0eVQ0bENEejdVZ2M2TdIBrAFBVV95cUxOYWl2d3laUXlCdUNoRDZFS1pFaFVnTUwxeGdhajc0UjhxSTZyQlZxaWRjcEdPNWZaWlpESkVlT2x3Y2JCd0cwbGItc041UFJmem94R0NacHlfZDBBN0RvQ0s2aUctdk10MFp6WE00RmhmelQ0YW5TTGJkQUtKbHJuYk1keTN3UEVFdGw4Q0tOZjNkYmJILWlFYnRxMHg5cEtCY19QVHlTTDN3Umtw?oc=5",
+          "id": "report-317ee9ad7aa6",
+          "title": "US, Iran hold mediated UNGA talks on ending war, opening Strait of Hormuz",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLXRPQTVqXzVzVmR1V3YtSUptb2pyejlHYzRaOWFQR2dhdmNrdnBkTUpVUU9ETy1kRTJhRkE1SlpidGF5UU1KZ0ZOSlJ2WjU4bWlkMUQ3WVZGdGlNS2ZiQWU3Q3pqdHVHV211TGpnVzloZG9LcDlXeEliY01ueTg1dmc5RzZUZEwzamJnZlZZYlRpc1ZLcWZQQXNkQzhqdzFBM00xdzZRZnJEbDlpOE4yVWRR0gG3AUFVX3lxTE02elBuektCcFRIeV9GcFF0TS0zNEhPR2hLM0NoYVNiZzRFcUIyd0NmVlgyTFV3OUFqbGRuVHVVVWRwVUlOMDlSRkJ2VGZxc0Y5WEt4NWpycC1MLVFhaHVUM3drd2xTWUhVdW8xYnBERXBvZnJMMmFFZFBNZno5WjRqTVJzWlBOQUdrT2E5YTdiQ0c5em9abmdBQ0tUUnM1dDlfODk3dGcweE1PZmtaemt1bjZIakMwYw?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-20T20:13:39Z"
+          "reportedAt": "2026-09-23T04:47:52Z"
+        },
+        {
+          "id": "report-dbaba7599b87",
+          "title": "Watch: What messages did the US and Iran send about the war?",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ENnotYlV6dzAyOTd5bzhadl9uc09wbkRpNFlOM2I1ZEFtY3ZuWTEyODhTZTI0TF9GZS0xZWRFM19tVF9Ib0FxQmhIQzlvV3ktWnBwbVc1dlc?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-23T21:20:47Z"
         },
         {
           "id": "report-82b45d771f3a",
@@ -1898,15 +1877,6 @@
           "reportedAt": "2026-09-23T15:37:20Z"
         },
         {
-          "id": "report-63310bae95cc",
-          "title": "Saudi Arabia says Houthis tried to attack its capital, and other Mideast developments",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb3ZQdTJKbzNUNVFFeGV0NG0xYTlhTURSZ24wTGRxWUVsNFc3cUswUHpFWWFuM0piU1kxVmZlWURxbnZkT1Zvc0gxNHZPaVQ0di1hTmRoTDA1Z3Nib3phUjkycVIwN3czNlBDZl9tb2tpZ0liSVItaGVpQmpBUTEwSDl5UnZOTnhZdlh2UjcyRjAwSkFGN0N1UjBPcWp3NVE?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-20T01:46:00Z"
-        },
-        {
           "id": "report-0fe495f5a3d6",
           "title": "Trump says Ukraine, Russia 'going to make a deal,' discusses Patriot missile production",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMFIyanFuOTRrOWt0NENndWpNbGNOaDhhamEzcmNJQ0lHbWFJM085OFpDQm5wVWFOdmpkS21PclFYemprMWplR0ZmMm5mWXNKQURNM3Q1WnVaVm5KWUR1Y2NxWG1wdDZXWnhEQzNhbHhJdFl6cDdvVjRpNzNMdmVVUmZ3Z2VMNDlFUVRwdWQ0eGc4SE05ZTgxczlHRkE4dWc4bk5fby1KdTdaZ0tLUy11cGVIclNMTnR6STR2LTJR?oc=5",
@@ -1925,6 +1895,15 @@
           "reportedAt": "2026-09-22T05:51:46Z"
         },
         {
+          "id": "report-c1fd35046428",
+          "title": "Ethiopia faces renewed war as armed groups launch offensive",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZzkwYWRsdlVzR1J4ejB0ei1uSW5NTENycXdkWEp0R21USmctXzBWeFVELU5CZTFEaTIwZkZzVzQ4Mlg1b2l0YWhIeExUdEZwN2xNMWhTQkt5UDczbE5EYWxZMEVTSElTVVdCYjJIUk9zNWN5aXpjSW9mU0VkZlJSZ05YN1BQbm9ZaV9NbklXWXZiQdIBlwFBVV95cUxNTUtnN3pnS2VKUXhLd0tGV1hZeGtqTXF4R0FWeXF6bk14UXQ5dzBlMWJnSHp5Y3pFRHlJSnZpNjVTMHhrODRoeTJxc011bmZoY196bEtmMUlkWmEtVVV2Y2ZkdUdsMF9DajBOYk5wRk52WFZpRThrdDlOYmVER1BGX1VISUlKZDVUa2xFMWZfa2oyWWVkcFhn?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-23T17:23:06Z"
+        },
+        {
           "id": "report-5cccc7344d05",
           "title": "Trump suggests a Ukraine deal on Russia's war could be close while meeting with Zelenskyy",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYnlCTkxicTUzUWYtb2ZqTjJZMGJJY3ZKWlYzR21UMk1tN2NwRkJ4dE9lVHkyVnhIald4YWxjbGkxMEl6QW1HUE9RdWoyYkVwWjJWYmZRUHRTdlFWeDFBMzhVN3ZBQkVHUHRNRm1oWmZNYU9CTzZFN19ScEtja1lwMXdBV21BSjl6RDJHQ3laX0lrcVFycFVyTU40QzRSTmt1Slc1anVsVGNmWTNl?oc=5",
@@ -1932,6 +1911,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-22T20:02:00Z"
+        },
+        {
+          "id": "report-743a11d0758f",
+          "title": "Trump says US and Iranian officials met Tuesday, shortly after warning he may 'annihilate' Iran",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLTBMZ0ppZk41VENvQnJNNVU5Tmk3anJCdEJrcGRrb3dfb2dJMVRaSXNWQnhjY0wxX2Z4NHlKRXdaSXZfc2cxOHNLM1hwRGJ4WDhGNTdBb1pjTDBmVzQ1VE95SHJlYUtSVm1KdUdyYURwaGpScDBmam56OFlUZ25aaWlaczhnUzN6SkV3Y3NNTVVtblZtd183Rg?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-23T02:55:00Z"
         },
         {
           "id": "report-fa73aa44b199",
@@ -1970,24 +1958,6 @@
           "reportedAt": "2026-09-22T16:44:37Z"
         },
         {
-          "id": "report-743a11d0758f",
-          "title": "Trump says US and Iranian officials met Tuesday, shortly after warning he may 'annihilate' Iran",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLTBMZ0ppZk41VENvQnJNNVU5Tmk3anJCdEJrcGRrb3dfb2dJMVRaSXNWQnhjY0wxX2Z4NHlKRXdaSXZfc2cxOHNLM1hwRGJ4WDhGNTdBb1pjTDBmVzQ1VE95SHJlYUtSVm1KdUdyYURwaGpScDBmam56OFlUZ25aaWlaczhnUzN6SkV3Y3NNTVVtblZtd183Rg?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-23T02:55:00Z"
-        },
-        {
-          "id": "report-a295aaedf887",
-          "title": "Iran-backed Houthi rebels warn against joining Saudi Arabia in Yemen’s growing civil war",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMjZSU3pzSDBwWFJaUEUwdEg1YXEzemljdXpSQXk2bVN6cEtacEJYYTVKRU9xdUw1RFhYRm13b0lrZTgteFpLMVJDTWl5TFBKaTdCRldGc05RdVFPMkd4Q244c1cyTjlsZFNDR0RNTEsyQzlFa0FWUFZBazdnbG41MVhBb3B3Szh2RzI0N3dnZ1d6dlFIVlFxSHhzc0J1SHdW?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-20T18:23:00Z"
-        },
-        {
           "id": "report-5290229a7236",
           "title": "Is it a missile? Is it a drone? What’s the Pelican used by Ukraine?",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYi0wOVRuSEF3dTZ6aEY2cDNEZzRIYXJ4YWFMeENqTHMtWWhfbFdtR0FwTThGNGZ0T05pOGVlS1BvVzJpN3BocEVhMGNlQ2VScFVYRGRKMGRhcU4wUUNvUjJrS2Fxb1BDQmhTXzNmWXozemk2Tk9FcmdaaHdpZS1TU0cyUTVIZk9FdDhlQWw4azRWNThrUHVxTUNFRUlVWGE1UXNFMTVmNNIBrAFBVV95cUxPTWVGMW9BN3RoZDRGUnNDQWJUc2xUY3dGLXptWGx3REp4dU84aVkwSTliUGFLc2V6ZFlsclZMSkltdERWVTV0MkFfRlRFVGdEUVhOazliZTd3UzZNUjNsN0pwcjFwb2NHM3U4c0pCSm1rVE13cjhkR3BGdFhPdVNPNy1QTDNSSHROYVhPZDR5OExBcTF3bU5xOFdwQkJDSkczcUNOYXFPaHZJd1h5?oc=5",
@@ -1995,6 +1965,24 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-21T14:27:53Z"
+        },
+        {
+          "id": "report-419f82a916b7",
+          "title": "Senior NATO commander warns Putin is becoming more cavalier and open to risk as Ukraine war drags on",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeFRCNGc0VG9kTExITWJ4RXNhLWt5Wkh1WnlqOEM5UkRlSGxnU29XS0JFNlBNN1RGWjZHb3g5QzBMbldwUjhLekVKQVg2UnY3WkZLQ2RqbDZFNk91N3RsTW5jUy11MFBIYjZTemtkQmpZLV9ydUd1bmhGYk9pRUhMVW05OWptaktLTHV2amtrNE44TGc?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-23T04:30:00Z"
+        },
+        {
+          "id": "report-c6420b9c4faf",
+          "title": "Amnesty accuses M23 of abuses amounting to war crimes at Congo mines",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObExKa0JIX2VtRVZpUDc5WktGek12X3VEakFrejh2WV9JdW90eHhnbUlpVWM4aThWbS0yVUlla2tDcl9hUkI0cVRZZWR2OTJTTVZtTHNOalJYYmlJR2tGczZJdC13bUktUUtKQmZoVVlhdXBEbW04S0ZYWlIya2VjVmlBY2I0VERzUjQ2eDFmQ2liMHFJOFEtZzMyMjJaMGNB?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-21T11:54:00Z"
         },
         {
           "id": "report-3d06d7802bf8",
