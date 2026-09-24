@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-24T17:09:21.356Z",
+  "generatedAt": "2026-09-24T19:30:18.048Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -9,7 +9,7 @@
       "items": []
     },
     "safety": {
-      "generatedAt": "2026-09-23T19:14:15.524Z",
+      "generatedAt": "2026-09-24T19:30:18.048Z",
       "cadence": "daily",
       "items": [
         {
@@ -53,14 +53,6 @@
           "pinned": false
         },
         {
-          "title": "F-16 Crashes During Training Exercise in Michigan; Pilot Ejects",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSmZuZFU4aG9qWlpReUtRZXpTMDFRRWMzQWxvVXBNRlJMWTd5QS1VRkNHVHVCa0stNkFIYXNGLWoyZ0ZhUmY2VDRkSkFYQzhLRDZUTkJONlRlTnJReTBLLTVNSVB6TGVTT2pTWV8xVEkyLUdRb2d5QXJZdl9Bbi1UN056b3p0a25VbmVfNk5ITTVGV0NJZVZtZDBXNnkxdw?oc=5",
-          "domain": "airandspaceforces.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260918T002836Z",
-          "pinned": false
-        },
-        {
           "title": "F-16 fighter jet crashes at US air base in western Germany",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQc0FlV0xFS2dRb3p2QnVVUWYweUhEUDhzWUZSRElLbllxZ2VDM0ZxcnpQb1hzbUZjNjBrdmtWRW9WOExGR0t5TTcteGJuWjZfZUljaTdXWjk2c3VISWVKSmxyZUpKZmhHQWViSm9BV3RwTmRpbTFIRlFra0taRWRxeG1qUGx0ajdyZExTUm1ZaVhVYzdNX2FJTVVPOUJ0N0RRenMweUhDVGE3cUk4OVNFVW9TeHhzQQ?oc=5",
           "domain": "reuters.com",
@@ -69,19 +61,19 @@
           "pinned": false
         },
         {
-          "title": "Pilot ejects in F-16 crash in Germany",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdDlwZWY5QUNLMXltbkF1LVZGNTNDTmI3T2ZUdm9reTBVejY1QjJxeWhXeE1vcUg0dlFCdjJsRDkxc1FSOWFSMWNBeWV6eU9NdlpPTVgwNmlJa2hVblhPcTBXV3pLc3FfaklqbEpiTHJsMzVHWFF6ODRGVjlFRk5vY19XTDFGUGgzOGlGZGVTQlJWQjlKQjl1d1ROYmlhUQ?oc=5",
-          "domain": "stripes.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260922T190057Z",
-          "pinned": false
-        },
-        {
           "title": "Air Force Thunderbird crashed after failure in engine ‘blind spot,’ investigation finds",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1aOXpKbm1qc2ZBWk54aFVxblBMOW5YRVRSR3AwbV9hT2k3QnJkM1hRdXBLU245UFdmaEtVbzlyd041MU5WZEhVLW1NTFl0MjFFTzR4czhTWDhSblNaX2ZuRlQ5cmd2SG9rVFhWWlRXWWxEYl9BNnB6WXJoNA?oc=5",
           "domain": "taskandpurpose.com",
           "sourceTier": "Independent reporting",
           "seen": "20260922T145945Z",
+          "pinned": false
+        },
+        {
+          "title": "Pilot ejects in F-16 crash in Germany",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdDlwZWY5QUNLMXltbkF1LVZGNTNDTmI3T2ZUdm9reTBVejY1QjJxeWhXeE1vcUg0dlFCdjJsRDkxc1FSOWFSMWNBeWV6eU9NdlpPTVgwNmlJa2hVblhPcTBXV3pLc3FfaklqbEpiTHJsMzVHWFF6ODRGVjlFRk5vY19XTDFGUGgzOGlGZGVTQlJWQjlKQjl1d1ROYmlhUQ?oc=5",
+          "domain": "stripes.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260922T190057Z",
           "pinned": false
         },
         {
@@ -201,24 +193,6 @@
           "sourceLabel": "reuters.com"
         },
         {
-          "id": "auto-1672b670af93",
-          "reportDate": "2026-09-22",
-          "dateBasis": "report discovery date",
-          "branch": "Army",
-          "department": "Department of the Army",
-          "type": "Aviation",
-          "event": "Pilot ejects in F-16 crash in Germany",
-          "location": "See official source",
-          "fatalities": null,
-          "injuries": null,
-          "status": "REPORTED / UNVALIDATED",
-          "signalClass": "REPORTED MISHAP",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
-          "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdDlwZWY5QUNLMXltbkF1LVZGNTNDTmI3T2ZUdm9reTBVejY1QjJxeWhXeE1vcUg0dlFCdjJsRDkxc1FSOWFSMWNBeWV6eU9NdlpPTVgwNmlJa2hVblhPcTBXV3pLc3FfaklqbEpiTHJsMzVHWFF6ODRGVjlFRk5vY19XTDFGUGgzOGlGZGVTQlJWQjlKQjl1d1ROYmlhUQ?oc=5",
-          "sourceLabel": "stripes.com"
-        },
-        {
           "id": "auto-4a96cedfdfa0",
           "reportDate": "2026-09-22",
           "dateBasis": "report discovery date",
@@ -235,6 +209,24 @@
           "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
           "source": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1aOXpKbm1qc2ZBWk54aFVxblBMOW5YRVRSR3AwbV9hT2k3QnJkM1hRdXBLU245UFdmaEtVbzlyd041MU5WZEhVLW1NTFl0MjFFTzR4czhTWDhSblNaX2ZuRlQ5cmd2SG9rVFhWWlRXWWxEYl9BNnB6WXJoNA?oc=5",
           "sourceLabel": "taskandpurpose.com"
+        },
+        {
+          "id": "auto-1672b670af93",
+          "reportDate": "2026-09-22",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Aviation",
+          "event": "Pilot ejects in F-16 crash in Germany",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdDlwZWY5QUNLMXltbkF1LVZGNTNDTmI3T2ZUdm9reTBVejY1QjJxeWhXeE1vcUg0dlFCdjJsRDkxc1FSOWFSMWNBeWV6eU9NdlpPTVgwNmlJa2hVblhPcTBXV3pLc3FfaklqbEpiTHJsMzVHWFF6ODRGVjlFRk5vY19XTDFGUGgzOGlGZGVTQlJWQjlKQjl1d1ROYmlhUQ?oc=5",
+          "sourceLabel": "stripes.com"
         },
         {
           "id": "auto-909d4b3888c3",
