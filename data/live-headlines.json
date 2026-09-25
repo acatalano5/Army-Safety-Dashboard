@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-25T17:10:38.657Z",
+  "generatedAt": "2026-09-25T19:33:59.961Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -9,7 +9,7 @@
       "items": []
     },
     "safety": {
-      "generatedAt": "2026-09-24T19:30:18.048Z",
+      "generatedAt": "2026-09-25T19:33:59.961Z",
       "cadence": "daily",
       "items": [
         {
@@ -45,14 +45,6 @@
           "pinned": false
         },
         {
-          "title": "A US military plane crashes near a US air base in Germany, injuring the pilot",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUzNXOHRScFp6bndhbGF0ckc2c3lmZ2ExdzJQUkJha2JjbGpoNXB3NWpFY0ZHbzVqR2tQVGZILUFPd0J2THdVT3p2UFNMWVJCWER3eXNfYlBmcmthaEVWd2RCeTNiaE15amltMFpvUWVCUXlGVjVrZDAtekFMbmg0UDVYcHdyR0N4SE4yV0NONk9YSEdIQUUtbmhMNDkxdDBUTFU1VG9SMXpXVGtv?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260922T194600Z",
-          "pinned": false
-        },
-        {
           "title": "F-16 fighter jet crashes at US air base in western Germany",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQc0FlV0xFS2dRb3p2QnVVUWYweUhEUDhzWUZSRElLbllxZ2VDM0ZxcnpQb1hzbUZjNjBrdmtWRW9WOExGR0t5TTcteGJuWjZfZUljaTdXWjk2c3VISWVKSmxyZUpKZmhHQWViSm9BV3RwTmRpbTFIRlFra0taRWRxeG1qUGx0ajdyZExTUm1ZaVhVYzdNX2FJTVVPOUJ0N0RRenMweUhDVGE3cUk4OVNFVW9TeHhzQQ?oc=5",
           "domain": "reuters.com",
@@ -85,19 +77,19 @@
           "pinned": false
         },
         {
+          "title": "PLR 26-064 – Industrial/Occupational Mishap Claims One Army Civilian’s Life",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPT2h6RkxrTkNzaXE3VjlRRDh3cHpuWXVIRjNfOHpyRnF4T3o0dTVjSHRXTkZmeGJ0dDVGSDlmR0dwclROMXVkOTBaRFhXcGd4ZXZYbHdQNHZYTXBqUG9DSE1rRmxURkoyYTRiUjhORnhvclcyUHhtTkhxVXlEMnREM2duNEdvOVo3LWZfQktVbS16UXJCc1FIOFRleG9KZDdkUm94cmxIc2VQaXNyOXE0alRSelFqbEhqcWM4NGhWNWpBTmtJQkRySHlwaFcxaW1uaXdZZURJLXAzcjhyeWtMdS1QazlxSWxQWEQxNDMyd2hidnh5Y0NB?oc=5",
+          "domain": "safety.army.mil",
+          "sourceTier": "Official military source",
+          "seen": "20260918T011833Z",
+          "pinned": false
+        },
+        {
           "title": "US soldier dies in fiery crash on German highway",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ0QtVDN6TDYxa1VodE14UzJlUXl5WWRhNmc4T2NaZ3loSXBTdVRqNFJHNVNlYmlDenota243ZjJqaDl5MjBuMm10R0VILVFBWVhla085SWtHcGd6V2RidnJBdkxWMlB2QmZ3dzMxMHA0MVNyd3BGaEtfcU5CaWxDRzdwTTZjV0xfMXkzalllRXcxU0ZXOVk4aQ?oc=5",
           "domain": "stripes.com",
           "sourceTier": "Independent reporting",
           "seen": "20260828T070000Z",
-          "pinned": false
-        },
-        {
-          "title": "Coast Guard, San Francisco Police Department rescue 3 from grounded vessel near Golden Gate Bridge",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMThwb2hlcXpMdk9JcWlxR1lBTmFsWmFwUURMZkY5T1pWUEQzZkhQWUZRS0tPMlZzWjJwbVlraGUxQS1rR1htTFV6eUdSNFhaNmx6bzY3bkFsbk9pNllNc1plMlVpcXkxLVBLWEV4dHk4NUlZbE53UFU1M0R1ODVPeG9KUVY0aUg5Tlk4czRfZzFBVV90M054ZFQzbl85d3JaQ1o1UXVQZ3ZFUDE2LU9lUmRVT2lVYm5tSkZGdl8yZy02alN2c2dxYlUzSjNaNHZWZXc?oc=5",
-          "domain": "news.uscg.mil",
-          "sourceTier": "Official military source",
-          "seen": "20260917T235209Z",
           "pinned": false
         }
       ],
@@ -157,24 +149,6 @@
           "sourceLabel": "spangdahlem.af.mil"
         },
         {
-          "id": "auto-5ff0fbe3662f",
-          "reportDate": "2026-09-22",
-          "dateBasis": "report discovery date",
-          "branch": "Army",
-          "department": "Department of the Army",
-          "type": "Aviation",
-          "event": "A US military plane crashes near a US air base in Germany, injuring the pilot",
-          "location": "See official source",
-          "fatalities": null,
-          "injuries": null,
-          "status": "REPORTED / UNVALIDATED",
-          "signalClass": "REPORTED MISHAP",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
-          "source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUzNXOHRScFp6bndhbGF0ckc2c3lmZ2ExdzJQUkJha2JjbGpoNXB3NWpFY0ZHbzVqR2tQVGZILUFPd0J2THdVT3p2UFNMWVJCWER3eXNfYlBmcmthaEVWd2RCeTNiaE15amltMFpvUWVCUXlGVjVrZDAtekFMbmg0UDVYcHdyR0N4SE4yV0NONk9YSEdIQUUtbmhMNDkxdDBUTFU1VG9SMXpXVGtv?oc=5",
-          "sourceLabel": "apnews.com"
-        },
-        {
           "id": "auto-ab05e252e28f",
           "reportDate": "2026-09-22",
           "dateBasis": "report discovery date",
@@ -227,6 +201,42 @@
           "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
           "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdDlwZWY5QUNLMXltbkF1LVZGNTNDTmI3T2ZUdm9reTBVejY1QjJxeWhXeE1vcUg0dlFCdjJsRDkxc1FSOWFSMWNBeWV6eU9NdlpPTVgwNmlJa2hVblhPcTBXV3pLc3FfaklqbEpiTHJsMzVHWFF6ODRGVjlFRk5vY19XTDFGUGgzOGlGZGVTQlJWQjlKQjl1d1ROYmlhUQ?oc=5",
           "sourceLabel": "stripes.com"
+        },
+        {
+          "id": "auto-5ff0fbe3662f",
+          "reportDate": "2026-09-22",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Aviation",
+          "event": "A US military plane crashes near a US air base in Germany, injuring the pilot",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUzNXOHRScFp6bndhbGF0ckc2c3lmZ2ExdzJQUkJha2JjbGpoNXB3NWpFY0ZHbzVqR2tQVGZILUFPd0J2THdVT3p2UFNMWVJCWER3eXNfYlBmcmthaEVWd2RCeTNiaE15amltMFpvUWVCUXlGVjVrZDAtekFMbmg0UDVYcHdyR0N4SE4yV0NONk9YSEdIQUUtbmhMNDkxdDBUTFU1VG9SMXpXVGtv?oc=5",
+          "sourceLabel": "apnews.com"
+        },
+        {
+          "id": "auto-369e0b88e798",
+          "reportDate": "2026-09-18",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Other",
+          "event": "PLR 26-064 – Industrial/Occupational Mishap Claims One Army Civilian’s Life",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "OFFICIAL INTAKE",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Official military source",
+          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
+          "source": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPT2h6RkxrTkNzaXE3VjlRRDh3cHpuWXVIRjNfOHpyRnF4T3o0dTVjSHRXTkZmeGJ0dDVGSDlmR0dwclROMXVkOTBaRFhXcGd4ZXZYbHdQNHZYTXBqUG9DSE1rRmxURkoyYTRiUjhORnhvclcyUHhtTkhxVXlEMnREM2duNEdvOVo3LWZfQktVbS16UXJCc1FIOFRleG9KZDdkUm94cmxIc2VQaXNyOXE0alRSelFqbEhqcWM4NGhWNWpBTmtJQkRySHlwaFcxaW1uaXdZZURJLXAzcjhyeWtMdS1QazlxSWxQWEQxNDMyd2hidnh5Y0NB?oc=5",
+          "sourceLabel": "safety.army.mil"
         },
         {
           "id": "auto-909d4b3888c3",
