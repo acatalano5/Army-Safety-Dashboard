@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-24T21:32:06.432Z",
+  "generatedAt": "2026-09-25T04:56:39.566Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-09-24T21:32:06.432Z",
+      "generatedAt": "2026-09-25T04:56:39.566Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -1563,7 +1563,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-09-24T21:32:06.432Z",
+      "generatedAt": "2026-09-25T04:56:39.566Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -1580,22 +1580,6 @@
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20260924T092833Z",
-          "pinned": false
-        },
-        {
-          "title": "Ethiopia conflict: Seven armed groups form alliance against Abiy Ahmed",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WdFB4WFp4QndZb19YWG5kUVBNdGk0dmwtVGhzNUFYd09KVmIxd0l3LUIxcFJkazVMaTFCdjJNRDU2aG55ZF9tdi1OaUVLa2Q0SWxRTnVyZzd1NnM?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260921T170247Z",
-          "pinned": false
-        },
-        {
-          "title": "Iran’s military says US preparing to resume strikes",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ2o4VlNDVWc4MFhvY3laajdhME4yZkZZVXM0TFlkV0ZVYzFReURGWFhCYXdZWTJQdEhFMDNocnRiUTl6Zk42YnZQdjc2ZjFnQnJTRG1Del95SnYwa1p6RElQMXYtTkpyN2NUeF93d2ppMm12c0NiQTlmVUhmUk1VZ3ZJcU5OTnBHR2FDMDlVTXA0YngxQ2fSAZsBQVVfeXFMUDRVWWpxUVFOVzctel93SGhwQ05TN3ZaX0cxazZXdDlacE1EQ0NMNmpoN3VDOWpyQ3hBSE9oUWlGb0t1ekVEVl8tbTExbG1XWjRvOWUyWndrVTBUbWk3SHhCT0tEVy0yR3N1UGwwSEpYX3BKZFlreXNpWE1kMXZUQUY4Sl91UmFJNnEwSjJUOE1Qd3R6TGZVRDVCb1U?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260921T053052Z",
           "pinned": false
         },
         {
@@ -1623,14 +1607,6 @@
           "pinned": false
         },
         {
-          "title": "Trump approval rating hits career low of 32% amid Iran war, high costs",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeWszSTJGbXh4dEk1WXZGTi01YWtmNnJ0VkNzUTJwVUt2ODJGc3FnMVR2UHZVVUhScEtPWGR3R2o4ZEFLaC16dUZxa2t5NDBGNFYtNGdycFNZVkJNQVItWWU0YmlRci1NX2V1SktCMFJUVHU2YURVaUtaLUhJaFIyWHBweTQzRENULXdjcUkwTnZKY0NkYk45RmpTUjExWGFTaEpPRzNnVmRjN1pnR0HSAbMBQVVfeXFMT3B5emxUc294aW9HR3ZNOU5RYzBaVXNlTjJlc0dudXRjLVZaWE9SZWF4WUFFeXRnTmdNeFJab3FNOVFRMW9LMEliWGJoT285aDc5T0VycS1jckNXelctWWVTbE1iRXpvVnhLZU5SRTBCOE5XQUNhYm1CRGtGcjhsOVlmb0w3MGJUVUIzcWZYZ25zSWk0VDRVOWdwSXFGTV9Ib3BYWEdGU2VRXzdySWpOQXBtRW8?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260921T191315Z",
-          "pinned": false
-        },
-        {
           "title": "Poland accuses Russian military helicopter of violating its airspace",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSSmhOYnlkOGpMOUFFT3Jva2NzOGh5VllrVFNjVFlzNTA5Nk9hUGNaYl8tTEotVm5tVFNVeERNUEc2cDdMc2FRaWczWnd6Vlo5b2hEaW45WkllTWM?oc=5",
           "domain": "bbc.com",
@@ -1655,19 +1631,19 @@
           "pinned": false
         },
         {
+          "title": "Iranian-American group sues Trump over war",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWFB5SjdrcXd0VEYtY0doMlIzaTlpM0tRQTFzZHlDSmtZZkkzYk1CSHRPeE1JcXRVUWlZSmVkREdOaHhGaHFDa1JtOTl4Y1Bpc2FNTC0zdWdMNDY1dTdGU1MwUGthTXFhaU9aWDEzMzUwSXB5dVNZSVpwcDBCekNNTXZ6QVpqamlUZHhv0gGQAUFVX3lxTE9vOWdueXRkRmFYaTFtWUUwS0UwSkxhT2tJMmdraEtQZXo4NExMaW9ERGtPOGdzZGJIaXVyNmpvR3JBbng3Z196MjdKanN2QmhrbmVUVUxJWGg0LWNqbDBKYnZLUHJtY3hHeldELWxhZWNpdXc0UUk1VzRqR3dUaTk2bUpBOVFLMGJCMjlQSjQwSg?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260924T174921Z",
+          "pinned": false
+        },
+        {
           "title": "G7 foreign ministers demand Houthis halt strikes on Saudi Arabia",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQi12Q2pnQXJqdDItTHd2RTVrVkVoZnNEcVlCQ09QMkZYYUw5ejd5cDlyTzJiOUZ3Z0RhSnR3cU5XWjVVQ050eHc1R2FWdUlSVFp1dXdTdDZYNkxHOTFyeXZrU0Z6NFRQeFAxd1JWY24zOC0tVFBxd1JpWHk5S2pNSmFabGl6dThJSE80dmZEanZLMEFIWk9ZZGV4WjVfaVZQRXo3MnROSE7SAa4BQVVfeXFMT3ZtME04MmdUSExYMElLTTAtMDlrVVBUNFlfckd6X3VUSzdKVmVobTM0UGRtWVhFcnRTZV8ybHdKNUJDUXM5azg2M3lKSG9CNDE5Q0REdGI3cVJpYl9nRktRQUYwalV5ZXdnWFd4MFhZUFRwbzl3ZjJlRFEyRDVwT1VvZ28xQUFhUjA2X2FuTFhiZVVla2xGSDRBOXJmeTVHYzdUT2lWOGZmeF80R2xn?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260922T055146Z",
-          "pinned": false
-        },
-        {
-          "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zTDBSOE01bzVETms3UUp0LVFaYjNBS19XUEFBbFRWY2FheFJsZ1hIU0F4dHBTcEFvcmc0TDlwbTVWZ0VrOHhCOVczNGhRYjQweFVQZGtva2NGV0E?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260921T141416Z",
           "pinned": false
         },
         {
@@ -1711,14 +1687,6 @@
           "pinned": false
         },
         {
-          "title": "Russian strikes kill 8 in Ukraine as the UN debates how to end the war",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQS1NNYnpkVEZmOG9WTzFtNFZlLVBHRXljaDVXRE1YZ0dLOFZpRGFhNnRfSHpraGFzM1ZqYkNKWWlvRTVnRzNrU3FhSGR6MExXTFFSdy1RMFJsbk1YamU4RXVtSEx5dDN1QlRFaGRfcEVJLU9sVzROamJsWVhCNWdsUlJRYUJUQmozSmdhWlJ3elh3OHM?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260924T122300Z",
-          "pinned": false
-        },
-        {
           "title": "Trump offers warm welcome as China's Xi arrives for US visit",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuWlNBYWUxd3dpZ003LTZNWU5iQ09UVFR6Z3lhTnd3OHBWNkJ0SkhoUFduLUxPd1lDd0ExaFlMbkRCbDFlUThXTFR6R2J0UjhpVks3SlhUQ3V2clU?oc=5",
           "domain": "bbc.com",
@@ -1735,11 +1703,11 @@
           "pinned": false
         },
         {
-          "title": "Amnesty accuses M23 of abuses amounting to war crimes at Congo mines",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObExKa0JIX2VtRVZpUDc5WktGek12X3VEakFrejh2WV9JdW90eHhnbUlpVWM4aThWbS0yVUlla2tDcl9hUkI0cVRZZWR2OTJTTVZtTHNOalJYYmlJR2tGczZJdC13bUktUUtKQmZoVVlhdXBEbW04S0ZYWlIya2VjVmlBY2I0VERzUjQ2eDFmQ2liMHFJOFEtZzMyMjJaMGNB?oc=5",
+          "title": "Russian strikes kill 8 in Ukraine as the UN debates how to end the war",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQS1NNYnpkVEZmOG9WTzFtNFZlLVBHRXljaDVXRE1YZ0dLOFZpRGFhNnRfSHpraGFzM1ZqYkNKWWlvRTVnRzNrU3FhSGR6MExXTFFSdy1RMFJsbk1YamU4RXVtSEx5dDN1QlRFaGRfcEVJLU9sVzROamJsWVhCNWdsUlJRYUJUQmozSmdhWlJ3elh3OHM?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260921T115400Z",
+          "seen": "20260924T122300Z",
           "pinned": false
         },
         {
@@ -1756,6 +1724,38 @@
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20260923T221440Z",
+          "pinned": false
+        },
+        {
+          "title": "Eight US sailors in USS Abraham Lincoln strike group attempted suicide, Navy says",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vN256MC1LNUFGSmZRR3J3YlZQUlpXMXp5b2dlUExoQVRUZVRRTC12ZFNTU3ZXOW5jZEozZmcyMTVnVEprWHozUEgtN2pxNFA3anotNUdValpJWHc?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260924T004353Z",
+          "pinned": false
+        },
+        {
+          "title": "Amid backdrop of Middle East war, soccer’s 8-country Arabian Gulf Cup starts Wednesday",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc1JWTk14VlNweFdYb3V1eVA3LWp6ZHZ2TnREVXZhNU1KS1VhUHlDWlFFWXZuWlFVY1ZZY1djSzVtX1NvMTl0OGpWMk9KZFJFZEdhY0RkalFZOXJBNThsY0dyNnN6R25CZTg1eTBicmV2bEwta2h0X1ByeXZBU1d6YWl5c0RnZ3ZXcXFz?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260922T045700Z",
+          "pinned": false
+        },
+        {
+          "title": "New York City mayor slams 'lies' in Netanyahu's UN speech, cites ICC warrant for his arrest",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUHl2VlBtaUcySzJ0V3RzdjA0Nkh0SGV5NERpbFZNNkZZMUdQN3RLRWZIMkltbUc5YmJodEh1ZkZ6eGxlUjcyQ09aaW9DbnBKWGhUbHQtOWlhYXdWU19FOVU5Y0VHdmFuUGhlc05UOUoxZmFuOGFPUVY4dGdXRVpILXRKWWhhRW00V0s2bFBqb3VRa3dZM2c5b0NEU1puNkYwd2oyRE9TNnp5Xzl2WnVtVVFTbFZ3MmdsQVFTcm1LdmVudHEt?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20260924T203321Z",
+          "pinned": false
+        },
+        {
+          "title": "As major powers act unilaterally, experts say UN faces crisis in New York",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa0NsSmVscFJUN2VBbnl5NmM2QXdPQU1EUUMyQUdRVHVHX1BpWXJTUXY1RGRaX243OVVNNTRKSE1CX3FBNlRKMmVDdzN1MVNmTFVjUzNSS0s4X0k0ZkxLRS1uM2VXS240TGp2cV9qQnpOVkhjNHNJQlhWbzdWVTl5dmJ4ZGR2Nm9vLWhWUHdTcDRwdHVBYy01SF9veXhPN2I2V2FFRGgxMlplRW9XZDl1MVRaQdIBuAFBVV95cUxPT3A5YWl0VEJKcUN1OUpXQS1xUHVsTUxEOS1iS1B6VXhJQU9TaFhxUUgwbXVGNkVOTmxnTC03ek9GaGNnTlIzMWo0eTR2RlZ6RHQ2STJEOWttejlVSXZLV0lUcVdyRDhOWTVaSFVENVFCbWlKX2stV010ZmUzUFBqTFV4Yl9veS1nTWU0NjV0VmVOSWNGVzVOS2V4UW04RWloQmhwVjBmNEJzbTFyNkgtNm1saUpFY2p2?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260923T200046Z",
           "pinned": false
         }
       ],
@@ -1777,24 +1777,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-24T09:28:33Z"
-        },
-        {
-          "id": "report-19e4e967c00e",
-          "title": "Ethiopia conflict: Seven armed groups form alliance against Abiy Ahmed",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WdFB4WFp4QndZb19YWG5kUVBNdGk0dmwtVGhzNUFYd09KVmIxd0l3LUIxcFJkazVMaTFCdjJNRDU2aG55ZF9tdi1OaUVLa2Q0SWxRTnVyZzd1NnM?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-21T17:02:47Z"
-        },
-        {
-          "id": "report-4b7f5aab481e",
-          "title": "Iran’s military says US preparing to resume strikes",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ2o4VlNDVWc4MFhvY3laajdhME4yZkZZVXM0TFlkV0ZVYzFReURGWFhCYXdZWTJQdEhFMDNocnRiUTl6Zk42YnZQdjc2ZjFnQnJTRG1Del95SnYwa1p6RElQMXYtTkpyN2NUeF93d2ppMm12c0NiQTlmVUhmUk1VZ3ZJcU5OTnBHR2FDMDlVTXA0YngxQ2fSAZsBQVVfeXFMUDRVWWpxUVFOVzctel93SGhwQ05TN3ZaX0cxazZXdDlacE1EQ0NMNmpoN3VDOWpyQ3hBSE9oUWlGb0t1ekVEVl8tbTExbG1XWjRvOWUyWndrVTBUbWk3SHhCT0tEVy0yR3N1UGwwSEpYX3BKZFlreXNpWE1kMXZUQUY4Sl91UmFJNnEwSjJUOE1Qd3R6TGZVRDVCb1U?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-21T05:30:52Z"
         },
         {
           "id": "report-dbaba7599b87",
@@ -1824,15 +1806,6 @@
           "reportedAt": "2026-09-22T17:54:51Z"
         },
         {
-          "id": "report-29e9cd5ad4fd",
-          "title": "Trump approval rating hits career low of 32% amid Iran war, high costs",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeWszSTJGbXh4dEk1WXZGTi01YWtmNnJ0VkNzUTJwVUt2ODJGc3FnMVR2UHZVVUhScEtPWGR3R2o4ZEFLaC16dUZxa2t5NDBGNFYtNGdycFNZVkJNQVItWWU0YmlRci1NX2V1SktCMFJUVHU2YURVaUtaLUhJaFIyWHBweTQzRENULXdjcUkwTnZKY0NkYk45RmpTUjExWGFTaEpPRzNnVmRjN1pnR0HSAbMBQVVfeXFMT3B5emxUc294aW9HR3ZNOU5RYzBaVXNlTjJlc0dudXRjLVZaWE9SZWF4WUFFeXRnTmdNeFJab3FNOVFRMW9LMEliWGJoT285aDc5T0VycS1jckNXelctWWVTbE1iRXpvVnhLZU5SRTBCOE5XQUNhYm1CRGtGcjhsOVlmb0w3MGJUVUIzcWZYZ25zSWk0VDRVOWdwSXFGTV9Ib3BYWEdGU2VRXzdySWpOQXBtRW8?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-21T19:13:15Z"
-        },
-        {
           "id": "report-b2179ad07b7d",
           "title": "Poland accuses Russian military helicopter of violating its airspace",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSSmhOYnlkOGpMOUFFT3Jva2NzOGh5VllrVFNjVFlzNTA5Nk9hUGNaYl8tTEotVm5tVFNVeERNUEc2cDdMc2FRaWczWnd6Vlo5b2hEaW45WkllTWM?oc=5",
@@ -1860,6 +1833,15 @@
           "reportedAt": "2026-09-23T17:23:06Z"
         },
         {
+          "id": "report-430666bda6db",
+          "title": "Iranian-American group sues Trump over war",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWFB5SjdrcXd0VEYtY0doMlIzaTlpM0tRQTFzZHlDSmtZZkkzYk1CSHRPeE1JcXRVUWlZSmVkREdOaHhGaHFDa1JtOTl4Y1Bpc2FNTC0zdWdMNDY1dTdGU1MwUGthTXFhaU9aWDEzMzUwSXB5dVNZSVpwcDBCekNNTXZ6QVpqamlUZHhv0gGQAUFVX3lxTE9vOWdueXRkRmFYaTFtWUUwS0UwSkxhT2tJMmdraEtQZXo4NExMaW9ERGtPOGdzZGJIaXVyNmpvR3JBbng3Z196MjdKanN2QmhrbmVUVUxJWGg0LWNqbDBKYnZLUHJtY3hHeldELWxhZWNpdXc0UUk1VzRqR3dUaTk2bUpBOVFLMGJCMjlQSjQwSg?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-24T17:49:21Z"
+        },
+        {
           "id": "report-a9097cf6f118",
           "title": "G7 foreign ministers demand Houthis halt strikes on Saudi Arabia",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQi12Q2pnQXJqdDItTHd2RTVrVkVoZnNEcVlCQ09QMkZYYUw5ejd5cDlyTzJiOUZ3Z0RhSnR3cU5XWjVVQ050eHc1R2FWdUlSVFp1dXdTdDZYNkxHOTFyeXZrU0Z6NFRQeFAxd1JWY24zOC0tVFBxd1JpWHk5S2pNSmFabGl6dThJSE80dmZEanZLMEFIWk9ZZGV4WjVfaVZQRXo3MnROSE7SAa4BQVVfeXFMT3ZtME04MmdUSExYMElLTTAtMDlrVVBUNFlfckd6X3VUSzdKVmVobTM0UGRtWVhFcnRTZV8ybHdKNUJDUXM5azg2M3lKSG9CNDE5Q0REdGI3cVJpYl9nRktRQUYwalV5ZXdnWFd4MFhZUFRwbzl3ZjJlRFEyRDVwT1VvZ28xQUFhUjA2X2FuTFhiZVVla2xGSDRBOXJmeTVHYzdUT2lWOGZmeF80R2xn?oc=5",
@@ -1867,15 +1849,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-22T05:51:46Z"
-        },
-        {
-          "id": "report-58fdba26e039",
-          "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zTDBSOE01bzVETms3UUp0LVFaYjNBS19XUEFBbFRWY2FheFJsZ1hIU0F4dHBTcEFvcmc0TDlwbTVWZ0VrOHhCOVczNGhRYjQweFVQZGtva2NGV0E?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-21T14:14:16Z"
         },
         {
           "id": "report-5cccc7344d05",
@@ -1923,15 +1896,6 @@
           "reportedAt": "2026-09-24T09:58:00Z"
         },
         {
-          "id": "report-14bde10a3949",
-          "title": "Russian strikes kill 8 in Ukraine as the UN debates how to end the war",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQS1NNYnpkVEZmOG9WTzFtNFZlLVBHRXljaDVXRE1YZ0dLOFZpRGFhNnRfSHpraGFzM1ZqYkNKWWlvRTVnRzNrU3FhSGR6MExXTFFSdy1RMFJsbk1YamU4RXVtSEx5dDN1QlRFaGRfcEVJLU9sVzROamJsWVhCNWdsUlJRYUJUQmozSmdhWlJ3elh3OHM?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-24T12:23:00Z"
-        },
-        {
           "id": "report-7461da1ea339",
           "title": "Trump offers warm welcome as China's Xi arrives for US visit",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuWlNBYWUxd3dpZ003LTZNWU5iQ09UVFR6Z3lhTnd3OHBWNkJ0SkhoUFduLUxPd1lDd0ExaFlMbkRCbDFlUThXTFR6R2J0UjhpVks3SlhUQ3V2clU?oc=5",
@@ -1950,13 +1914,13 @@
           "reportedAt": "2026-09-24T10:17:58Z"
         },
         {
-          "id": "report-c6420b9c4faf",
-          "title": "Amnesty accuses M23 of abuses amounting to war crimes at Congo mines",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObExKa0JIX2VtRVZpUDc5WktGek12X3VEakFrejh2WV9JdW90eHhnbUlpVWM4aThWbS0yVUlla2tDcl9hUkI0cVRZZWR2OTJTTVZtTHNOalJYYmlJR2tGczZJdC13bUktUUtKQmZoVVlhdXBEbW04S0ZYWlIya2VjVmlBY2I0VERzUjQ2eDFmQ2liMHFJOFEtZzMyMjJaMGNB?oc=5",
+          "id": "report-14bde10a3949",
+          "title": "Russian strikes kill 8 in Ukraine as the UN debates how to end the war",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQS1NNYnpkVEZmOG9WTzFtNFZlLVBHRXljaDVXRE1YZ0dLOFZpRGFhNnRfSHpraGFzM1ZqYkNKWWlvRTVnRzNrU3FhSGR6MExXTFFSdy1RMFJsbk1YamU4RXVtSEx5dDN1QlRFaGRfcEVJLU9sVzROamJsWVhCNWdsUlJRYUJUQmozSmdhWlJ3elh3OHM?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-21T11:54:00Z"
+          "reportedAt": "2026-09-24T12:23:00Z"
         },
         {
           "id": "report-d48feb1e9078",
@@ -1975,6 +1939,42 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-23T22:14:40Z"
+        },
+        {
+          "id": "report-dd1f3ce13e3d",
+          "title": "Eight US sailors in USS Abraham Lincoln strike group attempted suicide, Navy says",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vN256MC1LNUFGSmZRR3J3YlZQUlpXMXp5b2dlUExoQVRUZVRRTC12ZFNTU3ZXOW5jZEozZmcyMTVnVEprWHozUEgtN2pxNFA3anotNUdValpJWHc?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-24T00:43:53Z"
+        },
+        {
+          "id": "report-cb3176992435",
+          "title": "Amid backdrop of Middle East war, soccer’s 8-country Arabian Gulf Cup starts Wednesday",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc1JWTk14VlNweFdYb3V1eVA3LWp6ZHZ2TnREVXZhNU1KS1VhUHlDWlFFWXZuWlFVY1ZZY1djSzVtX1NvMTl0OGpWMk9KZFJFZEdhY0RkalFZOXJBNThsY0dyNnN6R25CZTg1eTBicmV2bEwta2h0X1ByeXZBU1d6YWl5c0RnZ3ZXcXFz?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-22T04:57:00Z"
+        },
+        {
+          "id": "report-ef069bd6e725",
+          "title": "New York City mayor slams 'lies' in Netanyahu's UN speech, cites ICC warrant for his arrest",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUHl2VlBtaUcySzJ0V3RzdjA0Nkh0SGV5NERpbFZNNkZZMUdQN3RLRWZIMkltbUc5YmJodEh1ZkZ6eGxlUjcyQ09aaW9DbnBKWGhUbHQtOWlhYXdWU19FOVU5Y0VHdmFuUGhlc05UOUoxZmFuOGFPUVY4dGdXRVpILXRKWWhhRW00V0s2bFBqb3VRa3dZM2c5b0NEU1puNkYwd2oyRE9TNnp5Xzl2WnVtVVFTbFZ3MmdsQVFTcm1LdmVudHEt?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-09-24T20:33:21Z"
+        },
+        {
+          "id": "report-9cdcd70b068a",
+          "title": "As major powers act unilaterally, experts say UN faces crisis in New York",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa0NsSmVscFJUN2VBbnl5NmM2QXdPQU1EUUMyQUdRVHVHX1BpWXJTUXY1RGRaX243OVVNNTRKSE1CX3FBNlRKMmVDdzN1MVNmTFVjUzNSS0s4X0k0ZkxLRS1uM2VXS240TGp2cV9qQnpOVkhjNHNJQlhWbzdWVTl5dmJ4ZGR2Nm9vLWhWUHdTcDRwdHVBYy01SF9veXhPN2I2V2FFRGgxMlplRW9XZDl1MVRaQdIBuAFBVV95cUxPT3A5YWl0VEJKcUN1OUpXQS1xUHVsTUxEOS1iS1B6VXhJQU9TaFhxUUgwbXVGNkVOTmxnTC03ek9GaGNnTlIzMWo0eTR2RlZ6RHQ2STJEOWttejlVSXZLV0lUcVdyRDhOWTVaSFVENVFCbWlKX2stV010ZmUzUFBqTFV4Yl9veS1nTWU0NjV0VmVOSWNGVzVOS2V4UW04RWloQmhwVjBmNEJzbTFyNkgtNm1saUpFY2p2?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-23T20:00:46Z"
         },
         {
           "id": "report-3d06d7802bf8",
