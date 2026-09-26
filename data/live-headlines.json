@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-26T11:24:10.170Z",
+  "generatedAt": "2026-09-26T16:24:04.127Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-09-26T11:24:10.170Z",
+      "generatedAt": "2026-09-26T16:24:04.127Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -1573,7 +1573,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-09-26T11:24:10.170Z",
+      "generatedAt": "2026-09-26T16:24:04.127Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -1613,7 +1613,7 @@
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRnVpY3RpelFjOUdTUl9uajZnRFBZbXdfV3VOR05IZFlnUnJ0cUlSR3pucnFXRXlEdHpMNzRLSkppTjItRWtlTEVrdlp5eXZBaDNjVzQ2OEhKbGZRak5RdmJqVWotTHlVaFozMnNTeG1OWkVqbWZpMVFDdFQ0Mk5XZzFtSnRXMU1CS3o2OE1hbVQwUVhIVXAwWjdkaUFwQXNGZExqMFVEc9IBrAFBVV95cUxNVDQ5M2k2Y0lqNlFkS3F0ajg0bzRYemRVZzZTVHlVaDdTNW5qbnNZX0ZnRTlPNmdaNHh4OWJlVFRnZlkwNUFzb3VPLV9uYlRrOFlyZ2pFc0s1bUQxaWhUS2F6VnBvWXhMVWYxWF9vLWpscGI5Q1BIeXpvNmp6ZTlYVU5mMTk0SGhvVUprNFpKTWJKV1NVRV9iNTFSSkJxeEMwczR3RzVFeVF4dWps?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260926T000619Z",
+          "seen": "20260925T235234Z",
           "pinned": false
         },
         {
@@ -1641,11 +1641,19 @@
           "pinned": false
         },
         {
-          "title": "Ethiopia's army says it has repelled TPLF attacks in first comment on fresh Tigray fighting",
+          "title": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Fb3NXQ25LaHdVbzZsR01fZlVleXFJSDk2eHhPWnE0OTd0cENGb3VLS2RacmhKS3R5MTlYNGhfdUQybEhzRnBMLW5TdS1KM2pDSFNYS0xETERHcDQ?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20260924T153745Z",
+          "pinned": false
+        },
+        {
+          "title": "Is Ethiopia on the verge of another civil war as fighting erupts in Tigray?",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMGYxMGJ0MFdTcnppR3hUUkxpaXRWbWRWdDNfeGhfMjByY2c5RklUTmtQVGRGcXRNbk5uWFIwUjZkRDBjdTY5RWVjb2dHNTBkcXFmMmUybVl3em9BU0VjWWRRdnZFWVFXZXZiZFZWQXcxUjdzS2NYM0Y5VTBkNUQ3ZGNnUnFUNzJfX3dLNnJ4SV82Skw0WS1BQ05QTy1ORjNXeGNrOExTbXlPVkx0WVVFUDRvdFQwQdIBuwFBVV95cUxNWjFRVzhqVDNxWEsyOGVrRE9acjdsLWpDMHFzN3ZrNzNkWWV3WlNVUTNtb1FRSGQ0ZFRkSXBReTlUelhrdk9xM0didkZidFk0bDRzTFhUMkUyT25UVEVsUG4zUVVaYkFfeExSMTAwNDJJdHdhTEtGQVhRektSTnRnb1BxaWRxQWUtZTFKcDRJS0NmakJaSkg4bDB0MmVKMlA0TG5HSWM0TmlGS2hkandRdDNtbkdmUWpJX0NF?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260926T140254Z",
           "pinned": false
         },
         {
@@ -1658,26 +1666,10 @@
         },
         {
           "title": "US seeks to revive Russia-Ukraine ceasefire talks as seven killed in Kyiv",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYVJXWDBlXzQzd0ttd3BLOUZIR1hUbERsUmFxN2VHd2tVb0tOZTdUM29iNUQycTdaci1ETVVpVnRQbzhqQlpRdWY2NlJ1dGJKSnI2VF9oaDJmMm9KRmYtdlZvWDFCR05uRUZRR3QwdXh3VnE0UVRfTE9ORS1oS01YX2NORERCNW5TYjZ5b09QZzlFeDU4QUxR?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYVJXWDBlXzQzd0ttd3BLOUZIR1hUbERsUmFxN2VHd2tVb0tOZTdUM29iNUQycTdaci1ETVVpVnRQbzhqQlpRdWY2NlJ1dGJKSnI2VF9oaDJmMm9KRmYtdlZvWDFCR05uRUZRR3QwdXh3VnE0UVRfTE9ORS1oS01YX2NORERCNW5TYjZ5b09QZzlFeDU4QUxR0gGcAUFVX3lxTE9Vc0NoMzdJWnVxUEw0MTdxeUtZQ2h6d05nclgwN3JnX0owRm5XcjZneXo0R0xjTmI0ckdZYkRlR3ZuZ1Fkc2FWZzhyVTI2MlRxX200T0k1c1FfU0ZVUXcydExtZGRCTV8zOGptd3R6WDJ5X0ozZFY1d1F5MlJOSnFZa3N3Vk5ZMGd6WWxzY2dpQlRxWV8yUFFlY0lZYg?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260925T183240Z",
-          "pinned": false
-        },
-        {
-          "title": "Pakistan, Turkiye edge closer towards joining Saudi war against Houthis",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMGk2TldwemI1R2RiNUJtbUZ3eFFCZjNXelhILVA2eDkxcXJZa3ZFaDVSMDdQVmpUTlZmM2ZfLU9mbUNQdlQ4UEQwUGVES2JFNWFwa2FuYkpzb2h1OHdLNWY3NTduWVN2ZkpGSEltSTBsVUVtSXJPX0Y3dlJ6dGNSRHRMcW9fc3FYYlF5aGtBVVNPT0FyRTZZdGFLUnpoT2lYYkQ5YlBCXzFvbG9pamU2UdIBtgFBVV95cUxNMGR6U1hYN29HMm5iUUctWGIySndQc3ZmSDVqSnVhaWhKSm4yUjZkUW5Wb0RyZFBlRGVpU2NhUEF0bEl1TWZHRkNYbjZBdzNuQzFpSkpSOW9EdUROeE5zeDFhSi0yN2VlLUNlbXFPZlZzck5NOEh1MjFFTjFoMTJfNW0zSlo1VlpVdkVNelNTTExxUGZ6RGFBZnYyTWExcGpHLTJHWVpYT2UwZm9ROTdCUGNObjJLdw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260925T112703Z",
-          "pinned": false
-        },
-        {
-          "title": "Iran war squeezes Iraq’s economy as oil revenues fall and prices rise",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVVhxMGJ0YUNGaW9FdmNIeDQzYllNZm9Mdi1DREhRNVdWQ3IyYUdObWdoWHFZMi1MRDVTLTBxY1dSdldIcV93NWlKeTFkT040UTA3TmllRTRCUzJFUHI3MjhBSHNKQkVzanQtWW1BRTVqYldqQjhwMnRyR2xKMjZzLTdDcmd5cFVoUURKVV9IaFBuTmdkbURvMDZPTUdQaGdnUXI4RERfWGM3eFpPSFHSAbMBQVVfeXFMTzgxM3VvTmJ4QlhOSmlSRlI5WVEyOXhmdkNQOV9kN2g1SkJMN0w1LVBVOVl3UVM0VG93NU94NEprbjlwTTlmVDFIVlhqVkNvVHpfS1VNWHkxdjNfUmI1VVNMNVN0WHNoNHF4MWVoT0VrakV3SG1oMnNmZDZDV0pMbzM5d01rLWpfOHA3aExUQ183YWFzLXJvMkRaT2wxUjREZzBrNFFpWHl5ODc5WFNpdGlNZWM?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260926T081845Z",
           "pinned": false
         },
         {
@@ -1737,6 +1729,14 @@
           "pinned": false
         },
         {
+          "title": "The intelligence war is turning against the Houthis",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdE01WV9kajNEX3RacWQ1cU94NHhoekMzNU5LTFJhUGlCa2RCZnFvUEhJTUoyNUVDdUx1bHVtTjdwcXoxWWdDdjVzZUk3aW5NMklDYW5DUFU2MmtlZ3hNcTN6cnNKemczbGJnWDVWUWVMa3VXekdqQjZmeUlPa1hEQ3JNQXB3NVVJa2xMZjkzOVlOaHBkNEtvT2c0cEjSAaIBQVVfeXFMTjljX1JVUC0xY3pvLUF2RHl1WHp4S0xjS0xEUFIwQmhQc0NIb1hZcTY1bGhvT1I1ZzVseXo0TTc1Y2NGTnBKVU1EblhndTB3Z29SUTJkWUtvNVcwdGY0TUtQU1NHX1RwTlVqeExVdFpTbWQxejhoZW4xVkg4NWlQRmppT3NsMlN5UUFSOXVTVnZ4S0lqYTQ5RFdGT2Z3Ynh5NXdR?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260926T135230Z",
+          "pinned": false
+        },
+        {
           "title": "Russian strikes kill 8 in Ukraine as the UN debates how to end the war",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQS1NNYnpkVEZmOG9WTzFtNFZlLVBHRXljaDVXRE1YZ0dLOFZpRGFhNnRfSHpraGFzM1ZqYkNKWWlvRTVnRzNrU3FhSGR6MExXTFFSdy1RMFJsbk1YamU4RXVtSEx5dDN1QlRFaGRfcEVJLU9sVzROamJsWVhCNWdsUlJRYUJUQmozSmdhWlJ3elh3OHM?oc=5",
           "domain": "apnews.com",
@@ -1761,11 +1761,11 @@
           "pinned": false
         },
         {
-          "title": "Eight US sailors in USS Abraham Lincoln strike group attempted suicide, Navy says",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vN256MC1LNUFGSmZRR3J3YlZQUlpXMXp5b2dlUExoQVRUZVRRTC12ZFNTU3ZXOW5jZEozZmcyMTVnVEprWHozUEgtN2pxNFA3anotNUdValpJWHc?oc=5",
+          "title": "Trump offers warm welcome as China's Xi arrives for US visit",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuWlNBYWUxd3dpZ003LTZNWU5iQ09UVFR6Z3lhTnd3OHBWNkJ0SkhoUFduLUxPd1lDd0ExaFlMbkRCbDFlUThXTFR6R2J0UjhpVks3SlhUQ3V2clU?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260924T004353Z",
+          "seen": "20260924T035221Z",
           "pinned": false
         }
       ],
@@ -1813,7 +1813,7 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-26T00:06:19Z"
+          "reportedAt": "2026-09-25T23:52:34Z"
         },
         {
           "id": "report-d6b87b4742c4",
@@ -1844,12 +1844,21 @@
         },
         {
           "id": "report-985d9b95387f",
-          "title": "Ethiopia's army says it has repelled TPLF attacks in first comment on fresh Tigray fighting",
+          "title": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Fb3NXQ25LaHdVbzZsR01fZlVleXFJSDk2eHhPWnE0OTd0cENGb3VLS2RacmhKS3R5MTlYNGhfdUQybEhzRnBMLW5TdS1KM2pDSFNYS0xETERHcDQ?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-24T15:37:45Z"
+        },
+        {
+          "id": "report-2f1d8eb1a1da",
+          "title": "Is Ethiopia on the verge of another civil war as fighting erupts in Tigray?",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMGYxMGJ0MFdTcnppR3hUUkxpaXRWbWRWdDNfeGhfMjByY2c5RklUTmtQVGRGcXRNbk5uWFIwUjZkRDBjdTY5RWVjb2dHNTBkcXFmMmUybVl3em9BU0VjWWRRdnZFWVFXZXZiZFZWQXcxUjdzS2NYM0Y5VTBkNUQ3ZGNnUnFUNzJfX3dLNnJ4SV82Skw0WS1BQ05QTy1ORjNXeGNrOExTbXlPVkx0WVVFUDRvdFQwQdIBuwFBVV95cUxNWjFRVzhqVDNxWEsyOGVrRE9acjdsLWpDMHFzN3ZrNzNkWWV3WlNVUTNtb1FRSGQ0ZFRkSXBReTlUelhrdk9xM0didkZidFk0bDRzTFhUMkUyT25UVEVsUG4zUVVaYkFfeExSMTAwNDJJdHdhTEtGQVhRektSTnRnb1BxaWRxQWUtZTFKcDRJS0NmakJaSkg4bDB0MmVKMlA0TG5HSWM0TmlGS2hkandRdDNtbkdmUWpJX0NF?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-26T14:02:54Z"
         },
         {
           "id": "report-b2179ad07b7d",
@@ -1861,31 +1870,13 @@
           "reportedAt": "2026-09-23T15:37:20Z"
         },
         {
-          "id": "report-27e8c74f6a43",
+          "id": "report-7b1899c4c865",
           "title": "US seeks to revive Russia-Ukraine ceasefire talks as seven killed in Kyiv",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYVJXWDBlXzQzd0ttd3BLOUZIR1hUbERsUmFxN2VHd2tVb0tOZTdUM29iNUQycTdaci1ETVVpVnRQbzhqQlpRdWY2NlJ1dGJKSnI2VF9oaDJmMm9KRmYtdlZvWDFCR05uRUZRR3QwdXh3VnE0UVRfTE9ORS1oS01YX2NORERCNW5TYjZ5b09QZzlFeDU4QUxR?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYVJXWDBlXzQzd0ttd3BLOUZIR1hUbERsUmFxN2VHd2tVb0tOZTdUM29iNUQycTdaci1ETVVpVnRQbzhqQlpRdWY2NlJ1dGJKSnI2VF9oaDJmMm9KRmYtdlZvWDFCR05uRUZRR3QwdXh3VnE0UVRfTE9ORS1oS01YX2NORERCNW5TYjZ5b09QZzlFeDU4QUxR0gGcAUFVX3lxTE9Vc0NoMzdJWnVxUEw0MTdxeUtZQ2h6d05nclgwN3JnX0owRm5XcjZneXo0R0xjTmI0ckdZYkRlR3ZuZ1Fkc2FWZzhyVTI2MlRxX200T0k1c1FfU0ZVUXcydExtZGRCTV8zOGptd3R6WDJ5X0ozZFY1d1F5MlJOSnFZa3N3Vk5ZMGd6WWxzY2dpQlRxWV8yUFFlY0lZYg?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-25T18:32:40Z"
-        },
-        {
-          "id": "report-0eb9969454e0",
-          "title": "Pakistan, Turkiye edge closer towards joining Saudi war against Houthis",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMGk2TldwemI1R2RiNUJtbUZ3eFFCZjNXelhILVA2eDkxcXJZa3ZFaDVSMDdQVmpUTlZmM2ZfLU9mbUNQdlQ4UEQwUGVES2JFNWFwa2FuYkpzb2h1OHdLNWY3NTduWVN2ZkpGSEltSTBsVUVtSXJPX0Y3dlJ6dGNSRHRMcW9fc3FYYlF5aGtBVVNPT0FyRTZZdGFLUnpoT2lYYkQ5YlBCXzFvbG9pamU2UdIBtgFBVV95cUxNMGR6U1hYN29HMm5iUUctWGIySndQc3ZmSDVqSnVhaWhKSm4yUjZkUW5Wb0RyZFBlRGVpU2NhUEF0bEl1TWZHRkNYbjZBdzNuQzFpSkpSOW9EdUROeE5zeDFhSi0yN2VlLUNlbXFPZlZzck5NOEh1MjFFTjFoMTJfNW0zSlo1VlpVdkVNelNTTExxUGZ6RGFBZnYyTWExcGpHLTJHWVpYT2UwZm9ROTdCUGNObjJLdw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-25T11:27:03Z"
-        },
-        {
-          "id": "report-06c0c7d6a33b",
-          "title": "Iran war squeezes Iraq’s economy as oil revenues fall and prices rise",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVVhxMGJ0YUNGaW9FdmNIeDQzYllNZm9Mdi1DREhRNVdWQ3IyYUdObWdoWHFZMi1MRDVTLTBxY1dSdldIcV93NWlKeTFkT040UTA3TmllRTRCUzJFUHI3MjhBSHNKQkVzanQtWW1BRTVqYldqQjhwMnRyR2xKMjZzLTdDcmd5cFVoUURKVV9IaFBuTmdkbURvMDZPTUdQaGdnUXI4RERfWGM3eFpPSFHSAbMBQVVfeXFMTzgxM3VvTmJ4QlhOSmlSRlI5WVEyOXhmdkNQOV9kN2g1SkJMN0w1LVBVOVl3UVM0VG93NU94NEprbjlwTTlmVDFIVlhqVkNvVHpfS1VNWHkxdjNfUmI1VVNMNVN0WHNoNHF4MWVoT0VrakV3SG1oMnNmZDZDV0pMbzM5d01rLWpfOHA3aExUQ183YWFzLXJvMkRaT2wxUjREZzBrNFFpWHl5ODc5WFNpdGlNZWM?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-26T08:18:45Z"
         },
         {
           "id": "report-fa73aa44b199",
@@ -1951,6 +1942,15 @@
           "reportedAt": "2026-09-25T05:54:07Z"
         },
         {
+          "id": "report-55bed5072faf",
+          "title": "The intelligence war is turning against the Houthis",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdE01WV9kajNEX3RacWQ1cU94NHhoekMzNU5LTFJhUGlCa2RCZnFvUEhJTUoyNUVDdUx1bHVtTjdwcXoxWWdDdjVzZUk3aW5NMklDYW5DUFU2MmtlZ3hNcTN6cnNKemczbGJnWDVWUWVMa3VXekdqQjZmeUlPa1hEQ3JNQXB3NVVJa2xMZjkzOVlOaHBkNEtvT2c0cEjSAaIBQVVfeXFMTjljX1JVUC0xY3pvLUF2RHl1WHp4S0xjS0xEUFIwQmhQc0NIb1hZcTY1bGhvT1I1ZzVseXo0TTc1Y2NGTnBKVU1EblhndTB3Z29SUTJkWUtvNVcwdGY0TUtQU1NHX1RwTlVqeExVdFpTbWQxejhoZW4xVkg4NWlQRmppT3NsMlN5UUFSOXVTVnZ4S0lqYTQ5RFdGT2Z3Ynh5NXdR?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-26T13:52:30Z"
+        },
+        {
           "id": "report-14bde10a3949",
           "title": "Russian strikes kill 8 in Ukraine as the UN debates how to end the war",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQS1NNYnpkVEZmOG9WTzFtNFZlLVBHRXljaDVXRE1YZ0dLOFZpRGFhNnRfSHpraGFzM1ZqYkNKWWlvRTVnRzNrU3FhSGR6MExXTFFSdy1RMFJsbk1YamU4RXVtSEx5dDN1QlRFaGRfcEVJLU9sVzROamJsWVhCNWdsUlJRYUJUQmozSmdhWlJ3elh3OHM?oc=5",
@@ -1978,13 +1978,13 @@
           "reportedAt": "2026-09-23T22:14:40Z"
         },
         {
-          "id": "report-dd1f3ce13e3d",
-          "title": "Eight US sailors in USS Abraham Lincoln strike group attempted suicide, Navy says",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vN256MC1LNUFGSmZRR3J3YlZQUlpXMXp5b2dlUExoQVRUZVRRTC12ZFNTU3ZXOW5jZEozZmcyMTVnVEprWHozUEgtN2pxNFA3anotNUdValpJWHc?oc=5",
+          "id": "report-7461da1ea339",
+          "title": "Trump offers warm welcome as China's Xi arrives for US visit",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuWlNBYWUxd3dpZ003LTZNWU5iQ09UVFR6Z3lhTnd3OHBWNkJ0SkhoUFduLUxPd1lDd0ExaFlMbkRCbDFlUThXTFR6R2J0UjhpVks3SlhUQ3V2clU?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-24T00:43:53Z"
+          "reportedAt": "2026-09-24T03:52:21Z"
         },
         {
           "id": "report-3d06d7802bf8",
