@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-25T21:35:20.509Z",
+  "generatedAt": "2026-09-26T04:56:57.055Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-09-25T21:35:20.509Z",
+      "generatedAt": "2026-09-26T04:56:57.055Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -1573,17 +1573,9 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-09-25T21:35:20.509Z",
+      "generatedAt": "2026-09-26T04:56:57.055Z",
       "cadence": "every 6 hours",
       "items": [
-        {
-          "title": "Iran’s Revolutionary Guard warns US over escalation, and other Mideast developments",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWUdHOElkcmlob3ZfZ0RHajFkdG1DYzRXbDQ0eERkQ0gyMTNHbXkyVWJGZmhyTWcyV0ZaMXRuNS1lUnBmZmlSY0JhSWVkVGFBb1lrQXhWMFRTWThqTFV3WTJ1Snp1d255TnFqUFN5X3VtQ2F1MVFHQVgzV21LSkQyN0JRSXItejZqemtPWlRmeWpVWkV5VUtOSWxXTjhsTHlPaFpsNlBJVDBCcV82UHBtbUFn?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260922T042800Z",
-          "pinned": false
-        },
         {
           "title": "Why is Canada’s PM Carney not ruling out a possible war with the US",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOY3Y4QzRSaloxRVp1aDlTdUJORGJ3TlJ2MzBvR280dWRyYWtnZnYxMjV1dVNOSFBQbDZzVFJxZkFRZXNVVHZXQm1CalRpWWp2YjFXb052V0w4SEt3Q3dLNWdzTVZDQ3pOejZ4emFEZDJ2Y1pGZnhQRnlXcGN4eDF5OFAyQzNvcWQyUUYyRDFjTG1vYmRTUVhUQ3BqZnXSAaIBQVVfeXFMTnR4UWdVTS1vOG5ud2V0X3YtQkZYNGhka291NUJLZjNDZ1hNOWpFVHduREJyUmdQT3QtX1pkTktjZkJFcDlfdDBhbnlKX2hOckFWNk1MOXB6ekd4cE1icWluZE1KelJHU2lydTZpV3hLZndJT3pKWkhqSTNTSVJOX2w5Vnh2U0FYWDc0RFZrRDNqNDJmdEFMTEZrLTRXamlQal9n?oc=5",
@@ -1617,6 +1609,22 @@
           "pinned": false
         },
         {
+          "title": "Iran says it awaits US response on seven-day roadmap to end war",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRnVpY3RpelFjOUdTUl9uajZnRFBZbXdfV3VOR05IZFlnUnJ0cUlSR3pucnFXRXlEdHpMNzRLSkppTjItRWtlTEVrdlp5eXZBaDNjVzQ2OEhKbGZRak5RdmJqVWotTHlVaFozMnNTeG1OWkVqbWZpMVFDdFQ0Mk5XZzFtSnRXMU1CS3o2OE1hbVQwUVhIVXAwWjdkaUFwQXNGZExqMFVEc9IBrAFBVV95cUxNVDQ5M2k2Y0lqNlFkS3F0ajg0bzRYemRVZzZTVHlVaDdTNW5qbnNZX0ZnRTlPNmdaNHh4OWJlVFRnZlkwNUFzb3VPLV9uYlRrOFlyZ2pFc0s1bUQxaWhUS2F6VnBvWXhMVWYxWF9vLWpscGI5Q1BIeXpvNmp6ZTlYVU5mMTk0SGhvVUprNFpKTWJKV1NVRV9iNTFSSkJxeEMwczR3RzVFeVF4dWps?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260926T000619Z",
+          "pinned": false
+        },
+        {
+          "title": "Ethiopia fighting: Are Tigray's TPLF forces and the army heading back to war?",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1USzh1RnFDelo5LWlueXl4TlBZT20teXBVakxGWnI5cVdOWGdoV1BZTnJUNzBWZHRfTFB1X20wMkM5ZF9jLUZnUHlsYjd4amJkTGFOdFNjV0pYQ2c?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260925T234239Z",
+          "pinned": false
+        },
+        {
           "title": "Watch: What messages did the US and Iran send about the war?",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ENnotYlV6dzAyOTd5bzhadl9uc09wbkRpNFlOM2I1ZEFtY3ZuWTEyODhTZTI0TF9GZS0xZWRFM19tVF9Ib0FxQmhIQzlvV3ktWnBwbVc1dlc?oc=5",
           "domain": "bbc.com",
@@ -1630,22 +1638,6 @@
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20260924T153745Z",
-          "pinned": false
-        },
-        {
-          "title": "Sudan’s historical famine echoes through latest hunger crisis",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOR3RiQmN1NUQ1UGFzMjhKdnpMN2hwS2VxcjRNcWo2ZkxIRGppc0d0WHlHVmU2Qnd3eVl3MjR3Z0ZxNXlmdkp2d0RSbTJXYThqNkxFczVOMHU5bFFzcUJGZG8tYVVQdGRpbFJKMzVNaGxYdFEtbW9RWHJTWU1XRmtlZTd5Mk4tcVdialFoTElkWFNoOXQyM2xCNUJMcDFwVF8zUnFn0gGoAUFVX3lxTFBOZ3NsYmhUSWRLMUZhODhSSl9BalFfXzNlZnlWMGpybjl0alMwZEwyanZTaUNkTWdSTkN6YzRwNzZSNXY1cmYySUZmbGVaU2ZyZnQ2anJVMjhidUZKalh3ZFVNWHBWNG5MN0JmUGI4SjB2UlRCbGlqazhNdGdfNTBXaE8zNkl6bGo2Q3VTSkRJZkhoS1oyRTRKVUVQWm5MZzJoYjhEVnQxMw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260922T175048Z",
-          "pinned": false
-        },
-        {
-          "title": "Lula warns against foreign interference in Brazil election at UN",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWkVpMHl6MEFkUG5YY0Z3cWMtSV9qdDJYdDNyVXRrajVNVFJIZm5yYzlkcnlmTWt2X0wtOHlxNl9CeXkxMEN3OGY3RnhEM1VVQVUxejhSQ0s5WXBlWVJVbkxPWXY0UFpDcmRsRklBV0ZIbWkzdlI4Tm5Ga3I4czlmX2pITFpOZ25vYXppekJKRl9oU1BPanRMQ3ZOQnRfN3RGNDFkZGNUYUlzV2dqbkRHVzJQZFbSAboBQVVfeXFMT2hJNmhINUZkczMwdTk3T1ljLXdTYjMtZk14dlpFR3Q2b2hNdzJYSk5RNW1UNE55V0NNRGRfbzgyb3BPVlRmeDFKLVRTSmV6N3hYdVZjajJUUlpjaEZXS3BIVzBlcDVCZktsWjl6a00tRlJoWVVYelZfUkRyY1BuN1FWVTJEdW91Qlk2QWdyZVl1ekJZajZXWmRENk5RNzVmQy1ZOVZDVmJjSUUtNnRwTHV6b3lMVXlZWm9n?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260922T175451Z",
           "pinned": false
         },
         {
@@ -1673,19 +1665,11 @@
           "pinned": false
         },
         {
-          "title": "Delegates walk out as Netanyahu touts Iran war, slams Qatar and Turkey at UN - Al-Monitor",
+          "title": "Delegates walk out as Netanyahu touts Iran war, slams Qatar and Turkey at UN - al-monitor.com",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdWNJOGo1S2U2STB6QzhXRFdmaTB3bnY0ZEo0UXBHMW0yU0lDa2VHbHpxX3gwZmx6R2RCZGRvTDlxTHlOY0w2SVJVUkYtMlZWTDUtd0lILWNuZDBKNW1JZXdoVFhMZlpBMnBXbW9jajg1V284Y1cyQm8tdW1OM1FDTHBaMmRuQ3BDYlJ0QmFVMl9uT1doYVJxa2JiaXBpWEFON3FlWDAwc1NtUlZHdm9yRWxZVVI?oc=5",
           "domain": "al-monitor.com",
           "sourceTier": "Regional reporting",
           "seen": "20260924T204132Z",
-          "pinned": false
-        },
-        {
-          "title": "As Xi meets Trump, who’s winning their trade war?",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORWstOWpRbjdRRlFaTm90ZlEtazJfWC11cUFzT1I3VHgyOGpFZ0syWUpIRlJhTVRFZHI3bHhELS13VXJ1bDRpVS1wcXQ2TS1ZMDYxYmIyMFQyQ3dhQmJiSVdIdGVsTkx4V2E2ekVTNjU3cTZYZHNla0dqMm1EZjUzd0sxeHJzc2FxSmFybXktaGd3VGlsamfSAZsBQVVfeXFMTWhUYTdMY1Q4c2NnLV9ocTE3by1NWlZsZ2phelBMcFZjTm5GM1NlNE9KWlNDc1F2N0RNMHdwcnQtN3hkODlwbkVMR0h0c2hFckpRMGdESmhBT1ZtQ243QVF4YUkxRHV1TElyVmhudkxBajBnd3UyM2lodjRHR1FZTW14TkxuZ2x5Tjcwa18yYnZlSU9aTURETGI5bWM?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260923T122511Z",
           "pinned": false
         },
         {
@@ -1697,27 +1681,19 @@
           "pinned": false
         },
         {
+          "title": "As Xi meets Trump, who’s winning their trade war?",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORWstOWpRbjdRRlFaTm90ZlEtazJfWC11cUFzT1I3VHgyOGpFZ0syWUpIRlJhTVRFZHI3bHhELS13VXJ1bDRpVS1wcXQ2TS1ZMDYxYmIyMFQyQ3dhQmJiSVdIdGVsTkx4V2E2ekVTNjU3cTZYZHNla0dqMm1EZjUzd0sxeHJzc2FxSmFybXktaGd3VGlsamfSAZsBQVVfeXFMTWhUYTdMY1Q4c2NnLV9ocTE3by1NWlZsZ2phelBMcFZjTm5GM1NlNE9KWlNDc1F2N0RNMHdwcnQtN3hkODlwbkVMR0h0c2hFckpRMGdESmhBT1ZtQ243QVF4YUkxRHV1TElyVmhudkxBajBnd3UyM2lodjRHR1FZTW14TkxuZ2x5Tjcwa18yYnZlSU9aTURETGI5bWM?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260923T122511Z",
+          "pinned": false
+        },
+        {
           "title": "Ethiopia faces renewed war as armed groups launch offensive",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZzkwYWRsdlVzR1J4ejB0ei1uSW5NTENycXdkWEp0R21USmctXzBWeFVELU5CZTFEaTIwZkZzVzQ4Mlg1b2l0YWhIeExUdEZwN2xNMWhTQkt5UDczbE5EYWxZMEVTSElTVVdCYjJIUk9zNWN5aXpjSW9mU0VkZlJSZ05YN1BQbm9ZaV9NbklXWXZiQdIBlwFBVV95cUxNTUtnN3pnS2VKUXhLd0tGV1hZeGtqTXF4R0FWeXF6bk14UXQ5dzBlMWJnSHp5Y3pFRHlJSnZpNjVTMHhrODRoeTJxc011bmZoY196bEtmMUlkWmEtVVV2Y2ZkdUdsMF9DajBOYk5wRk52WFZpRThrdDlOYmVER1BGX1VISUlKZDVUa2xFMWZfa2oyWWVkcFhn?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260923T172306Z",
-          "pinned": false
-        },
-        {
-          "title": "Trump: ‘My honour to settle eight wars’ including ‘war in Gaza’",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQmpmNmFidGI4ekdxMDhXbkJ4Qmx6Y25jdDR1cThoSEFOQmR1UHYtSlNuU2NncUthOVdZbmNKMmtYZVctamlKbHF4TURXRW5wRlBabXJjc2xRMGk3aFhKSlR5eGJOYUVSaFNaQ005TWtGU2lVX1Nnd09wSHZrMmt5TTdoYWQteWZmSkRXMFB6RkFxWjY1dVRtU2k2bVV3UWNMd19zdjBjVGN0dy10eHfSAbMBQVVfeXFMTVUxc2R2NDE2QnZXeUVoUDQxS0p6MDVLUXJfZ1d2VDJiX0drTnhqVVFjU3FOdHU0Y28wV2lWazd6cmU3SUtzbHo2RE5JbGxBTGh6cDd5UXNQQ2dVcy1ILUZWMkhTUllOaWhsQnByM0FQWEdiZjNxRm9DV1NUOHZWSXlPSUtHNW9UT2x3UDJIQTluR1FQTTBlUkhRa2FpNWtzdnVtbnlzcllJOTk2T3B0S2ZCUDQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260922T163636Z",
-          "pinned": false
-        },
-        {
-          "title": "Trump suggests a Ukraine deal on Russia's war could be close while meeting with Zelenskyy",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYnlCTkxicTUzUWYtb2ZqTjJZMGJJY3ZKWlYzR21UMk1tN2NwRkJ4dE9lVHkyVnhIald4YWxjbGkxMEl6QW1HUE9RdWoyYkVwWjJWYmZRUHRTdlFWeDFBMzhVN3ZBQkVHUHRNRm1oWmZNYU9CTzZFN19ScEtja1lwMXdBV21BSjl6RDJHQ3laX0lrcVFycFVyTU40QzRSTmt1Slc1anVsVGNmWTNl?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260922T200200Z",
           "pinned": false
         },
         {
@@ -1737,22 +1713,6 @@
           "pinned": false
         },
         {
-          "title": "Yemen’s Houthis claim missile, drone attack on Saudi military sites in Jazan",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPU25zN2FFaVg4cGJ3NE1FSS1HTE5lejhYS0hHZGhSeEhFTU1rWTU2dXdvYm9ZNmdNSFhQMDJRR0IxOXJieW5QR0gzUnFERG5MOGIyY1JqV3N0OTZlRWExYkdwV3hlVWR5NWd5YWNhM2hGVjR2NVdxblBVZEFSZ1lESkNlSTRZaXZTM3pfUW9uVEFreUhWaHZiR3RMZE04cTB2YnJ1ZkJGYURjSWw3clFMbzdTeEJKUVlVb1JrWg?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "seen": "20260924T153030Z",
-          "pinned": false
-        },
-        {
-          "title": "Trump offers warm welcome as China's Xi arrives for US visit",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuWlNBYWUxd3dpZ003LTZNWU5iQ09UVFR6Z3lhTnd3OHBWNkJ0SkhoUFduLUxPd1lDd0ExaFlMbkRCbDFlUThXTFR6R2J0UjhpVks3SlhUQ3V2clU?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260924T035221Z",
-          "pinned": false
-        },
-        {
           "title": "Watch: Trump puts on warm reception for China's leader Xi in DC",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16Z3hTS3NOT0EtbVduaHNqal9BNDBMdzc4M1pRUnJPX0Vteno1Rkp3OXhabzBKaktDbDZ0OUJ2VzlJM19iZHpERXhaX0tlczdkclJiWWozODc?oc=5",
           "domain": "bbc.com",
@@ -1767,18 +1727,49 @@
           "sourceTier": "Independent reporting",
           "seen": "20260923T043000Z",
           "pinned": false
+        },
+        {
+          "title": "Russian strikes kill 8 in Ukraine as the UN debates how to end the war",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQS1NNYnpkVEZmOG9WTzFtNFZlLVBHRXljaDVXRE1YZ0dLOFZpRGFhNnRfSHpraGFzM1ZqYkNKWWlvRTVnRzNrU3FhSGR6MExXTFFSdy1RMFJsbk1YamU4RXVtSEx5dDN1QlRFaGRfcEVJLU9sVzROamJsWVhCNWdsUlJRYUJUQmozSmdhWlJ3elh3OHM?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260924T122300Z",
+          "pinned": false
+        },
+        {
+          "title": "Gulf nations have found ways to keep oil flowing through the Iran war, but the costs are mounting",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTy0tbjNXbWhBYTF0MXpGMDBwWTE4dW5UWjdfZGpQSDY1bG1aVm1UQmEzVVB0S1JqRHByWGlvenBBZlVfVTBKZHF2d2F5VDluclFSa2RscW5DQ2luMkdKemlUckg1bkdHM3RQMHBBM3ZKLThvNHV5QkhnQm9sUXFOV2lYSXNCUHVMR25QWnZVVzVYQVhuc0M5WE1B?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260924T095800Z",
+          "pinned": false
+        },
+        {
+          "title": "Saudi Arabia allies line up support as Houthi attacks mount",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU0JQNHBkcVluNkc0ZGM3RktERzltMnJIcHJydGpLdHlOUFEwWmhVYkQ2RXo4LXFlWmVvSlcwclV3N1ZWSlRmRFpwcTRyaDJBYjlEWmFJOGF0T0NqTnFacjd5cmRyVnNBNUk4U2xzQ2RhbWNnY3VlY1RUTTREX3JuSVZYQzBmQzJ5TW9QWnFnMnhOdmRleTRBUlpodlZvUF9JMVHSAacBQVVfeXFMT0RTUnMzT3NsXy1SRl90cmNtcS1WRVQyeUtMNjdwaXdSbTFSdVNBNVZiemtFckgwX1JLTm8xekpMZ2J4Sjg2MmlGTTJXYThYLVhROTBOVFBqZzlWWFE1b1ZTQnZhal80X2Z0ZmE5STBhMzdfVTRlTFk1djRlUC14OFJ6X005VjY1LTFNd1pIcWIyZXJYU0pvQW5wdEYwVjRvTTdmX2NZOE0?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260925T084234Z",
+          "pinned": false
+        },
+        {
+          "title": "Eight US sailors in USS Abraham Lincoln strike group attempted suicide, Navy says",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vN256MC1LNUFGSmZRR3J3YlZQUlpXMXp5b2dlUExoQVRUZVRRTC12ZFNTU3ZXOW5jZEozZmcyMTVnVEprWHozUEgtN2pxNFA3anotNUdValpJWHc?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260924T004353Z",
+          "pinned": false
+        },
+        {
+          "title": "Trump offers warm welcome as China's Xi arrives for US visit",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuWlNBYWUxd3dpZ003LTZNWU5iQ09UVFR6Z3lhTnd3OHBWNkJ0SkhoUFduLUxPd1lDd0ExaFlMbkRCbDFlUThXTFR6R2J0UjhpVks3SlhUQ3V2clU?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260924T035221Z",
+          "pinned": false
         }
       ],
       "reports": [
-        {
-          "id": "report-836425b8d1cf",
-          "title": "Iran’s Revolutionary Guard warns US over escalation, and other Mideast developments",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWUdHOElkcmlob3ZfZ0RHajFkdG1DYzRXbDQ0eERkQ0gyMTNHbXkyVWJGZmhyTWcyV0ZaMXRuNS1lUnBmZmlSY0JhSWVkVGFBb1lrQXhWMFRTWThqTFV3WTJ1Snp1d255TnFqUFN5X3VtQ2F1MVFHQVgzV21LSkQyN0JRSXItejZqemtPWlRmeWpVWkV5VUtOSWxXTjhsTHlPaFpsNlBJVDBCcV82UHBtbUFn?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-22T04:28:00Z"
-        },
         {
           "id": "report-22c9b5ec1761",
           "title": "Why is Canada’s PM Carney not ruling out a possible war with the US",
@@ -1816,6 +1807,24 @@
           "reportedAt": "2026-09-25T16:14:51Z"
         },
         {
+          "id": "report-5f4e528cb778",
+          "title": "Iran says it awaits US response on seven-day roadmap to end war",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRnVpY3RpelFjOUdTUl9uajZnRFBZbXdfV3VOR05IZFlnUnJ0cUlSR3pucnFXRXlEdHpMNzRLSkppTjItRWtlTEVrdlp5eXZBaDNjVzQ2OEhKbGZRak5RdmJqVWotTHlVaFozMnNTeG1OWkVqbWZpMVFDdFQ0Mk5XZzFtSnRXMU1CS3o2OE1hbVQwUVhIVXAwWjdkaUFwQXNGZExqMFVEc9IBrAFBVV95cUxNVDQ5M2k2Y0lqNlFkS3F0ajg0bzRYemRVZzZTVHlVaDdTNW5qbnNZX0ZnRTlPNmdaNHh4OWJlVFRnZlkwNUFzb3VPLV9uYlRrOFlyZ2pFc0s1bUQxaWhUS2F6VnBvWXhMVWYxWF9vLWpscGI5Q1BIeXpvNmp6ZTlYVU5mMTk0SGhvVUprNFpKTWJKV1NVRV9iNTFSSkJxeEMwczR3RzVFeVF4dWps?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-26T00:06:19Z"
+        },
+        {
+          "id": "report-d6b87b4742c4",
+          "title": "Ethiopia fighting: Are Tigray's TPLF forces and the army heading back to war?",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1USzh1RnFDelo5LWlueXl4TlBZT20teXBVakxGWnI5cVdOWGdoV1BZTnJUNzBWZHRfTFB1X20wMkM5ZF9jLUZnUHlsYjd4amJkTGFOdFNjV0pYQ2c?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-25T23:42:39Z"
+        },
+        {
           "id": "report-dbaba7599b87",
           "title": "Watch: What messages did the US and Iran send about the war?",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ENnotYlV6dzAyOTd5bzhadl9uc09wbkRpNFlOM2I1ZEFtY3ZuWTEyODhTZTI0TF9GZS0xZWRFM19tVF9Ib0FxQmhIQzlvV3ktWnBwbVc1dlc?oc=5",
@@ -1832,24 +1841,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-24T15:37:45Z"
-        },
-        {
-          "id": "report-d48feb1e9078",
-          "title": "Sudan’s historical famine echoes through latest hunger crisis",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOR3RiQmN1NUQ1UGFzMjhKdnpMN2hwS2VxcjRNcWo2ZkxIRGppc0d0WHlHVmU2Qnd3eVl3MjR3Z0ZxNXlmdkp2d0RSbTJXYThqNkxFczVOMHU5bFFzcUJGZG8tYVVQdGRpbFJKMzVNaGxYdFEtbW9RWHJTWU1XRmtlZTd5Mk4tcVdialFoTElkWFNoOXQyM2xCNUJMcDFwVF8zUnFn0gGoAUFVX3lxTFBOZ3NsYmhUSWRLMUZhODhSSl9BalFfXzNlZnlWMGpybjl0alMwZEwyanZTaUNkTWdSTkN6YzRwNzZSNXY1cmYySUZmbGVaU2ZyZnQ2anJVMjhidUZKalh3ZFVNWHBWNG5MN0JmUGI4SjB2UlRCbGlqazhNdGdfNTBXaE8zNkl6bGo2Q3VTSkRJZkhoS1oyRTRKVUVQWm5MZzJoYjhEVnQxMw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-22T17:50:48Z"
-        },
-        {
-          "id": "report-82b45d771f3a",
-          "title": "Lula warns against foreign interference in Brazil election at UN",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWkVpMHl6MEFkUG5YY0Z3cWMtSV9qdDJYdDNyVXRrajVNVFJIZm5yYzlkcnlmTWt2X0wtOHlxNl9CeXkxMEN3OGY3RnhEM1VVQVUxejhSQ0s5WXBlWVJVbkxPWXY0UFpDcmRsRklBV0ZIbWkzdlI4Tm5Ga3I4czlmX2pITFpOZ25vYXppekJKRl9oU1BPanRMQ3ZOQnRfN3RGNDFkZGNUYUlzV2dqbkRHVzJQZFbSAboBQVVfeXFMT2hJNmhINUZkczMwdTk3T1ljLXdTYjMtZk14dlpFR3Q2b2hNdzJYSk5RNW1UNE55V0NNRGRfbzgyb3BPVlRmeDFKLVRTSmV6N3hYdVZjajJUUlpjaEZXS3BIVzBlcDVCZktsWjl6a00tRlJoWVVYelZfUkRyY1BuN1FWVTJEdW91Qlk2QWdyZVl1ekJZajZXWmRENk5RNzVmQy1ZOVZDVmJjSUUtNnRwTHV6b3lMVXlZWm9n?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-22T17:54:51Z"
         },
         {
           "id": "report-b2179ad07b7d",
@@ -1880,21 +1871,12 @@
         },
         {
           "id": "report-01178d8ca3ab",
-          "title": "Delegates walk out as Netanyahu touts Iran war, slams Qatar and Turkey at UN - Al-Monitor",
+          "title": "Delegates walk out as Netanyahu touts Iran war, slams Qatar and Turkey at UN - al-monitor.com",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdWNJOGo1S2U2STB6QzhXRFdmaTB3bnY0ZEo0UXBHMW0yU0lDa2VHbHpxX3gwZmx6R2RCZGRvTDlxTHlOY0w2SVJVUkYtMlZWTDUtd0lILWNuZDBKNW1JZXdoVFhMZlpBMnBXbW9jajg1V284Y1cyQm8tdW1OM1FDTHBaMmRuQ3BDYlJ0QmFVMl9uT1doYVJxa2JiaXBpWEFON3FlWDAwc1NtUlZHdm9yRWxZVVI?oc=5",
           "domain": "al-monitor.com",
           "sourceTier": "Regional reporting",
           "confidenceLabel": "REGIONAL REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-24T20:41:32Z"
-        },
-        {
-          "id": "report-fa73aa44b199",
-          "title": "As Xi meets Trump, who’s winning their trade war?",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORWstOWpRbjdRRlFaTm90ZlEtazJfWC11cUFzT1I3VHgyOGpFZ0syWUpIRlJhTVRFZHI3bHhELS13VXJ1bDRpVS1wcXQ2TS1ZMDYxYmIyMFQyQ3dhQmJiSVdIdGVsTkx4V2E2ekVTNjU3cTZYZHNla0dqMm1EZjUzd0sxeHJzc2FxSmFybXktaGd3VGlsamfSAZsBQVVfeXFMTWhUYTdMY1Q4c2NnLV9ocTE3by1NWlZsZ2phelBMcFZjTm5GM1NlNE9KWlNDc1F2N0RNMHdwcnQtN3hkODlwbkVMR0h0c2hFckpRMGdESmhBT1ZtQ243QVF4YUkxRHV1TElyVmhudkxBajBnd3UyM2lodjRHR1FZTW14TkxuZ2x5Tjcwa18yYnZlSU9aTURETGI5bWM?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-23T12:25:11Z"
         },
         {
           "id": "report-0eb9969454e0",
@@ -1906,6 +1888,15 @@
           "reportedAt": "2026-09-25T11:27:03Z"
         },
         {
+          "id": "report-fa73aa44b199",
+          "title": "As Xi meets Trump, who’s winning their trade war?",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORWstOWpRbjdRRlFaTm90ZlEtazJfWC11cUFzT1I3VHgyOGpFZ0syWUpIRlJhTVRFZHI3bHhELS13VXJ1bDRpVS1wcXQ2TS1ZMDYxYmIyMFQyQ3dhQmJiSVdIdGVsTkx4V2E2ekVTNjU3cTZYZHNla0dqMm1EZjUzd0sxeHJzc2FxSmFybXktaGd3VGlsamfSAZsBQVVfeXFMTWhUYTdMY1Q4c2NnLV9ocTE3by1NWlZsZ2phelBMcFZjTm5GM1NlNE9KWlNDc1F2N0RNMHdwcnQtN3hkODlwbkVMR0h0c2hFckpRMGdESmhBT1ZtQ243QVF4YUkxRHV1TElyVmhudkxBajBnd3UyM2lodjRHR1FZTW14TkxuZ2x5Tjcwa18yYnZlSU9aTURETGI5bWM?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-23T12:25:11Z"
+        },
+        {
           "id": "report-c1fd35046428",
           "title": "Ethiopia faces renewed war as armed groups launch offensive",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZzkwYWRsdlVzR1J4ejB0ei1uSW5NTENycXdkWEp0R21USmctXzBWeFVELU5CZTFEaTIwZkZzVzQ4Mlg1b2l0YWhIeExUdEZwN2xNMWhTQkt5UDczbE5EYWxZMEVTSElTVVdCYjJIUk9zNWN5aXpjSW9mU0VkZlJSZ05YN1BQbm9ZaV9NbklXWXZiQdIBlwFBVV95cUxNTUtnN3pnS2VKUXhLd0tGV1hZeGtqTXF4R0FWeXF6bk14UXQ5dzBlMWJnSHp5Y3pFRHlJSnZpNjVTMHhrODRoeTJxc011bmZoY196bEtmMUlkWmEtVVV2Y2ZkdUdsMF9DajBOYk5wRk52WFZpRThrdDlOYmVER1BGX1VISUlKZDVUa2xFMWZfa2oyWWVkcFhn?oc=5",
@@ -1913,24 +1904,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-23T17:23:06Z"
-        },
-        {
-          "id": "report-8b580001bea2",
-          "title": "Trump: ‘My honour to settle eight wars’ including ‘war in Gaza’",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQmpmNmFidGI4ekdxMDhXbkJ4Qmx6Y25jdDR1cThoSEFOQmR1UHYtSlNuU2NncUthOVdZbmNKMmtYZVctamlKbHF4TURXRW5wRlBabXJjc2xRMGk3aFhKSlR5eGJOYUVSaFNaQ005TWtGU2lVX1Nnd09wSHZrMmt5TTdoYWQteWZmSkRXMFB6RkFxWjY1dVRtU2k2bVV3UWNMd19zdjBjVGN0dy10eHfSAbMBQVVfeXFMTVUxc2R2NDE2QnZXeUVoUDQxS0p6MDVLUXJfZ1d2VDJiX0drTnhqVVFjU3FOdHU0Y28wV2lWazd6cmU3SUtzbHo2RE5JbGxBTGh6cDd5UXNQQ2dVcy1ILUZWMkhTUllOaWhsQnByM0FQWEdiZjNxRm9DV1NUOHZWSXlPSUtHNW9UT2x3UDJIQTluR1FQTTBlUkhRa2FpNWtzdnVtbnlzcllJOTk2T3B0S2ZCUDQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-22T16:36:36Z"
-        },
-        {
-          "id": "report-5cccc7344d05",
-          "title": "Trump suggests a Ukraine deal on Russia's war could be close while meeting with Zelenskyy",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYnlCTkxicTUzUWYtb2ZqTjJZMGJJY3ZKWlYzR21UMk1tN2NwRkJ4dE9lVHkyVnhIald4YWxjbGkxMEl6QW1HUE9RdWoyYkVwWjJWYmZRUHRTdlFWeDFBMzhVN3ZBQkVHUHRNRm1oWmZNYU9CTzZFN19ScEtja1lwMXdBV21BSjl6RDJHQ3laX0lrcVFycFVyTU40QzRSTmt1Slc1anVsVGNmWTNl?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-22T20:02:00Z"
         },
         {
           "id": "report-64c4973a2c41",
@@ -1951,24 +1924,6 @@
           "reportedAt": "2026-09-24T02:30:00Z"
         },
         {
-          "id": "report-b0a07164c71f",
-          "title": "Yemen’s Houthis claim missile, drone attack on Saudi military sites in Jazan",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPU25zN2FFaVg4cGJ3NE1FSS1HTE5lejhYS0hHZGhSeEhFTU1rWTU2dXdvYm9ZNmdNSFhQMDJRR0IxOXJieW5QR0gzUnFERG5MOGIyY1JqV3N0OTZlRWExYkdwV3hlVWR5NWd5YWNhM2hGVjR2NVdxblBVZEFSZ1lESkNlSTRZaXZTM3pfUW9uVEFreUhWaHZiR3RMZE04cTB2YnJ1ZkJGYURjSWw3clFMbzdTeEJKUVlVb1JrWg?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
-          "reportedAt": "2026-09-24T15:30:30Z"
-        },
-        {
-          "id": "report-7461da1ea339",
-          "title": "Trump offers warm welcome as China's Xi arrives for US visit",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuWlNBYWUxd3dpZ003LTZNWU5iQ09UVFR6Z3lhTnd3OHBWNkJ0SkhoUFduLUxPd1lDd0ExaFlMbkRCbDFlUThXTFR6R2J0UjhpVks3SlhUQ3V2clU?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-24T03:52:21Z"
-        },
-        {
           "id": "report-5a1be2293c7c",
           "title": "Watch: Trump puts on warm reception for China's leader Xi in DC",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16Z3hTS3NOT0EtbVduaHNqal9BNDBMdzc4M1pRUnJPX0Vteno1Rkp3OXhabzBKaktDbDZ0OUJ2VzlJM19iZHpERXhaX0tlczdkclJiWWozODc?oc=5",
@@ -1985,6 +1940,51 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-23T04:30:00Z"
+        },
+        {
+          "id": "report-14bde10a3949",
+          "title": "Russian strikes kill 8 in Ukraine as the UN debates how to end the war",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQS1NNYnpkVEZmOG9WTzFtNFZlLVBHRXljaDVXRE1YZ0dLOFZpRGFhNnRfSHpraGFzM1ZqYkNKWWlvRTVnRzNrU3FhSGR6MExXTFFSdy1RMFJsbk1YamU4RXVtSEx5dDN1QlRFaGRfcEVJLU9sVzROamJsWVhCNWdsUlJRYUJUQmozSmdhWlJ3elh3OHM?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-24T12:23:00Z"
+        },
+        {
+          "id": "report-559ef51517c0",
+          "title": "Gulf nations have found ways to keep oil flowing through the Iran war, but the costs are mounting",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTy0tbjNXbWhBYTF0MXpGMDBwWTE4dW5UWjdfZGpQSDY1bG1aVm1UQmEzVVB0S1JqRHByWGlvenBBZlVfVTBKZHF2d2F5VDluclFSa2RscW5DQ2luMkdKemlUckg1bkdHM3RQMHBBM3ZKLThvNHV5QkhnQm9sUXFOV2lYSXNCUHVMR25QWnZVVzVYQVhuc0M5WE1B?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-24T09:58:00Z"
+        },
+        {
+          "id": "report-800a2c61d9ad",
+          "title": "Saudi Arabia allies line up support as Houthi attacks mount",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU0JQNHBkcVluNkc0ZGM3RktERzltMnJIcHJydGpLdHlOUFEwWmhVYkQ2RXo4LXFlWmVvSlcwclV3N1ZWSlRmRFpwcTRyaDJBYjlEWmFJOGF0T0NqTnFacjd5cmRyVnNBNUk4U2xzQ2RhbWNnY3VlY1RUTTREX3JuSVZYQzBmQzJ5TW9QWnFnMnhOdmRleTRBUlpodlZvUF9JMVHSAacBQVVfeXFMT0RTUnMzT3NsXy1SRl90cmNtcS1WRVQyeUtMNjdwaXdSbTFSdVNBNVZiemtFckgwX1JLTm8xekpMZ2J4Sjg2MmlGTTJXYThYLVhROTBOVFBqZzlWWFE1b1ZTQnZhal80X2Z0ZmE5STBhMzdfVTRlTFk1djRlUC14OFJ6X005VjY1LTFNd1pIcWIyZXJYU0pvQW5wdEYwVjRvTTdmX2NZOE0?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-25T08:42:34Z"
+        },
+        {
+          "id": "report-dd1f3ce13e3d",
+          "title": "Eight US sailors in USS Abraham Lincoln strike group attempted suicide, Navy says",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vN256MC1LNUFGSmZRR3J3YlZQUlpXMXp5b2dlUExoQVRUZVRRTC12ZFNTU3ZXOW5jZEozZmcyMTVnVEprWHozUEgtN2pxNFA3anotNUdValpJWHc?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-24T00:43:53Z"
+        },
+        {
+          "id": "report-7461da1ea339",
+          "title": "Trump offers warm welcome as China's Xi arrives for US visit",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuWlNBYWUxd3dpZ003LTZNWU5iQ09UVFR6Z3lhTnd3OHBWNkJ0SkhoUFduLUxPd1lDd0ExaFlMbkRCbDFlUThXTFR6R2J0UjhpVks3SlhUQ3V2clU?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-24T03:52:21Z"
         },
         {
           "id": "report-3d06d7802bf8",
