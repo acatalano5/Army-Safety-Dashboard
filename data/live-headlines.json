@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-27T19:46:42.579Z",
+  "generatedAt": "2026-09-27T21:21:05.802Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-09-27T16:58:07.232Z",
+      "generatedAt": "2026-09-27T21:21:05.802Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -1743,23 +1743,15 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-09-27T16:58:07.232Z",
+      "generatedAt": "2026-09-27T21:21:05.802Z",
       "cadence": "every 6 hours",
       "items": [
         {
           "title": "Trump rejects Iran’s seven-day roadmap to end war and reopen Hormuz",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPekVrcUpCSVdWWjdjNHY5ZS12MmprMF9ma3loOGpyZExyTW5uRG9qT3NjV21qSUFSMUhRVV9Ld3A5TWpVTS1QcFI2VENoZTdQRkVIQi11Z2JuUV80a1B2U2Q5TGhlQlZiZkV3MFlCbkI4NUZDeWJROWgxbTAtSVE3dU0xUDVnbFU2MF9MN25MVmZRNUdCWXBleDhlamtaVGNzbkVtWDM1Vlc?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPekVrcUpCSVdWWjdjNHY5ZS12MmprMF9ma3loOGpyZExyTW5uRG9qT3NjV21qSUFSMUhRVV9Ld3A5TWpVTS1QcFI2VENoZTdQRkVIQi11Z2JuUV80a1B2U2Q5TGhlQlZiZkV3MFlCbkI4NUZDeWJROWgxbTAtSVE3dU0xUDVnbFU2MF9MN25MVmZRNUdCWXBleDhlamtaVGNzbkVtWDM1VlfSAa4BQVVfeXFMTjljQTNjOXdPLVpNZWhUNTduR2ZZWGN3dDRrak9NOS1WWlBNejVMWDk2aGRkek9CYzB5OWpiTU1BeWtHUkRZZGduc28td2dSZmlsQUM2NTNrQ1M5WU1rcVJoNWZKZlkzNmN5Z1FkWnJFN0FNVDEtQjFKSkYwQ0RQZFpkOWVxNm43dkloMnZtTFFFSy1xVVRYVEJEYkFZdzdBemNCMEJQZGVLZzdvQXlB?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260927T033046Z",
-          "pinned": false
-        },
-        {
-          "title": "Trump ‘rejects’ Iran’s seven-day ceasefire proposal. What’s next?",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPX21pcjV2VXZDMWVKX3FBbmVNRnRHTlJ6dDA1Q0pweTJlRUg3TXEwbGtnbzc4XzNjbzR3U0thWjh0Q2RhUGppZTh5cWd6TEZJdE1jZmc4OHROMmFkT2FWaWtQTjRiTGVVZHIxN3JjMFJGTjJsWEFsVFJQOFBXR29TM2JlY05lWW5Za01kb2k1WjBlRzV0bWFYTkxjRWNkdUwzMm56cEV5NGtZWGdzQ0k0a9IBtgFBVV95cUxNWmVCOXl2cldoUW9INWVmSjlCZEh5Wi1kVHFzWDVmdW8yLW4wUzBUdWlSdWFyTWxxeFFYVnRMSHRxNjdXUEg5STRYWlhxeWEwSFczOEh1RlY3Qjl3VzViUjJ3UGJCUFhjd1QtM2J6bDZwMENrNnM2d29XYzA1VXlpTTRDZXNyM2hOV3hqVlVXbVN6Z0tsdDl4QXUwWk9XSk5fc0ZnWER1Y3kwa3NUamEtTUpIcHhqZw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260926T094252Z",
           "pinned": false
         },
         {
@@ -1768,6 +1760,14 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260925T141148Z",
+          "pinned": false
+        },
+        {
+          "title": "Trump ‘rejects’ Iran’s seven-day ceasefire proposal. What’s next?",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPX21pcjV2VXZDMWVKX3FBbmVNRnRHTlJ6dDA1Q0pweTJlRUg3TXEwbGtnbzc4XzNjbzR3U0thWjh0Q2RhUGppZTh5cWd6TEZJdE1jZmc4OHROMmFkT2FWaWtQTjRiTGVVZHIxN3JjMFJGTjJsWEFsVFJQOFBXR29TM2JlY05lWW5Za01kb2k1WjBlRzV0bWFYTkxjRWNkdUwzMm56cEV5NGtZWGdzQ0k0a9IBtgFBVV95cUxNWmVCOXl2cldoUW9INWVmSjlCZEh5Wi1kVHFzWDVmdW8yLW4wUzBUdWlSdWFyTWxxeFFYVnRMSHRxNjdXUEg5STRYWlhxeWEwSFczOEh1RlY3Qjl3VzViUjJ3UGJCUFhjd1QtM2J6bDZwMENrNnM2d29XYzA1VXlpTTRDZXNyM2hOV3hqVlVXbVN6Z0tsdDl4QXUwWk9XSk5fc0ZnWER1Y3kwa3NUamEtTUpIcHhqZw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260926T094252Z",
           "pinned": false
         },
         {
@@ -1811,19 +1811,19 @@
           "pinned": false
         },
         {
+          "title": "Israel’s Smotrich calls for ‘war’ in West Bank: Rhetoric or real threat?",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVFVCT3FMcTk1bzExSzlISVFTOE55SGdVNmI0TEFHN2ZmM3c4dWhFZXVRM2FOSUVzSFdoNldkOU1PZlFobzJOT014blV2MTdnWEgtdklNMWJONnNDUnp5a1ZrN3l1dzlkV2g3NWtkQ3lYM3QzUGdtcnRTQm5vQnV0eVVuRlRxWWc3SnFMY1NNZTQ1Q3pFbEh3N3U2SUVOakNLNDIzRU9TLUh1WDRzbHfSAbMBQVVfeXFMUG9rUUxsX3czdmhQWHktcGdwQldvUGFzRFRvTzdnb2xaM2hSbXFhMHJpck1uVlRPU2dlTVN6QTJDV05NNFdjRWxaVDU3NVhaVTk4SHh3VFNIXzdKclJjcTlsVmpjT1piRElGRXhUakJaU3llc2tIb29xbUstbTctQUMweGt5OTE5aDY2djZWbG8xOEpXSWd5TENOUDFIYUt2UzFlV0ZzZmJSZHFoOF9pNXVrOTA?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260927T141308Z",
+          "pinned": false
+        },
+        {
           "title": "Is Ethiopia on the verge of another civil war as fighting erupts in Tigray?",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMGYxMGJ0MFdTcnppR3hUUkxpaXRWbWRWdDNfeGhfMjByY2c5RklUTmtQVGRGcXRNbk5uWFIwUjZkRDBjdTY5RWVjb2dHNTBkcXFmMmUybVl3em9BU0VjWWRRdnZFWVFXZXZiZFZWQXcxUjdzS2NYM0Y5VTBkNUQ3ZGNnUnFUNzJfX3dLNnJ4SV82Skw0WS1BQ05QTy1ORjNXeGNrOExTbXlPVkx0WVVFUDRvdFQwQdIBuwFBVV95cUxNWjFRVzhqVDNxWEsyOGVrRE9acjdsLWpDMHFzN3ZrNzNkWWV3WlNVUTNtb1FRSGQ0ZFRkSXBReTlUelhrdk9xM0didkZidFk0bDRzTFhUMkUyT25UVEVsUG4zUVVaYkFfeExSMTAwNDJJdHdhTEtGQVhRektSTnRnb1BxaWRxQWUtZTFKcDRJS0NmakJaSkg4bDB0MmVKMlA0TG5HSWM0TmlGS2hkandRdDNtbkdmUWpJX0NF?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260926T140254Z",
-          "pinned": false
-        },
-        {
-          "title": "Iran shifts trade north to Caspian Sea as war impairs Strait of Hormuz",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWFJPSF9LU3NrQXB3NXRDbnVMdHhMX2kwdXhRemZyVU5XZ3B6MEJVNFIwRmJrczZfTExBRlY2bExhYlZCSEE3bDh5M3lFSVRwcTRwVUxqNFdScVJxOUxVbU5QekxqUWxlUnp4cU5nekVQZVdJajdVV1hYeHJSU2hNQzllM2kyVGhXTnVOMnd5YkpYY1Y4T1BCX0JsMnJYamVaT19RVDVwVXRGTnV3NVdrLVRZclpLODUt0gG-AUFVX3lxTE1sU3B2R2dHWFJBUjk4eEsySUNnNnZPZG9ILWhzblFpemVORnhWdGRpanA3cTJCLTNqTVZyN0ptd1dyTmxmWDhqVTRqM2FjZEpvVTNqZk5TQTJINEZYNDk4ZGdqakZWWC1TYkpmbWZ0RmY5ZDN4VW5FNzNxLWhJd2tuNzNIdzl4ZUZEZnR6QldkSWRwWDZqVDFCZFh3bnpudWR0S2tZM0xWb0dzdXktSGlaQkdRUlFBSzlaLVBhM1E?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260927T085352Z",
           "pinned": false
         },
         {
@@ -1840,6 +1840,14 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260927T120556Z",
+          "pinned": false
+        },
+        {
+          "title": "Pakistan, Turkiye edge closer towards joining Saudi war against Houthis",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMGk2TldwemI1R2RiNUJtbUZ3eFFCZjNXelhILVA2eDkxcXJZa3ZFaDVSMDdQVmpUTlZmM2ZfLU9mbUNQdlQ4UEQwUGVES2JFNWFwa2FuYkpzb2h1OHdLNWY3NTduWVN2ZkpGSEltSTBsVUVtSXJPX0Y3dlJ6dGNSRHRMcW9fc3FYYlF5aGtBVVNPT0FyRTZZdGFLUnpoT2lYYkQ5YlBCXzFvbG9pamU2UdIBtgFBVV95cUxNMGR6U1hYN29HMm5iUUctWGIySndQc3ZmSDVqSnVhaWhKSm4yUjZkUW5Wb0RyZFBlRGVpU2NhUEF0bEl1TWZHRkNYbjZBdzNuQzFpSkpSOW9EdUROeE5zeDFhSi0yN2VlLUNlbXFPZlZzck5NOEh1MjFFTjFoMTJfNW0zSlo1VlpVdkVNelNTTExxUGZ6RGFBZnYyTWExcGpHLTJHWVpYT2UwZm9ROTdCUGNObjJLdw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260925T112703Z",
           "pinned": false
         },
         {
@@ -1867,11 +1875,19 @@
           "pinned": false
         },
         {
-          "title": "Iran pitches US a seven-day end to the war at UNGA",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTnh0RFBaRFNJM2dmSDBFcnF0Wk9QejVGRG1RWkNPb3g1aTVLSFZDSTVlTnFqQklRTi1aQXVDTUVkaWtLRk9yNGpuR3UwZTRuRWZjSThmei1nQXp6N3F1RHN3NzBEbWNCY2RsMFlYblNReHgzeHFVVXlXV0tiWXpmdzlOSTgySnV4QW1uNmpIYXJoalBUQ2p6bG5Ibk9WY1lKZi1V0gGoAUFVX3lxTFBLUVlxR0dzNWxmR0xoR2J5V3gxbXpOT255UDZaM04zY2R2cHNFRXdmZks3MUVLSHRlOEVxY3Jfd3lrUm5xLUxPYThteVVGXzk1WlBtT0YtQll3dWREMkszR0JzSElTSWVGOXlzSGtMRUZ5WWlGT2tKLWw2WGk1bG5EMmhiQmxfNjVaMW1zc2pzMHhVVFFuVFRfaGlFclVMM2ZyNVZRNW44Mw?oc=5",
+          "title": "Yemen government forces widen attacks against Houthis: What we know",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONGVIbjJTVHlFbzBZdEp6ano2SzlFaFBxTXM0YnhrNThlN2dubVFwSmU3RlBHbjVCU056bWxTVVYxTnNZbnFlbFRveUdnM3BMTjMzbEdfVWhKd2ZUalhKTVhpV2RWN2dyY3R6ckdhcmszUGdzYlZRWVJLaVdjUzRENlEyZHdlRzlQZmtseE9oNmtNUlUyZWM2ZDVaX2FvUXBUM2JaNzEta2ZZVTjSAbABQVVfeXFMTmtZQ0p2ajhMWXZxOEFaRFU0b2U2aFZQWGZ4U181ZUJGbDNBcG1rWXlEd0FxdDN0ZTh0S3hnTXctOEk1SkhHaU1qZ0ZYa3drZGtoNUUza2tORGsyY2NaMGJwTG14eHFZZDZHOWJETHlCby1Id1ppRk85aUtkZ0pNNmlOZU1kSVltY3pWNnNzbEtRN2NBaUgwQUhuV0NUdGxCek5qYkpFVjlvcFVmOWI0UlI?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260926T042921Z",
+          "seen": "20260927T120641Z",
+          "pinned": false
+        },
+        {
+          "title": "Iran shifts trade north to Caspian Sea as war impairs Strait of Hormuz",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWFJPSF9LU3NrQXB3NXRDbnVMdHhMX2kwdXhRemZyVU5XZ3B6MEJVNFIwRmJrczZfTExBRlY2bExhYlZCSEE3bDh5M3lFSVRwcTRwVUxqNFdScVJxOUxVbU5QekxqUWxlUnp4cU5nekVQZVdJajdVV1hYeHJSU2hNQzllM2kyVGhXTnVOMnd5YkpYY1Y4T1BCX0JsMnJYamVaT19RVDVwVXRGTnV3NVdrLVRZclpLODUt0gG-AUFVX3lxTE1sU3B2R2dHWFJBUjk4eEsySUNnNnZPZG9ILWhzblFpemVORnhWdGRpanA3cTJCLTNqTVZyN0ptd1dyTmxmWDhqVTRqM2FjZEpvVTNqZk5TQTJINEZYNDk4ZGdqakZWWC1TYkpmbWZ0RmY5ZDN4VW5FNzNxLWhJd2tuNzNIdzl4ZUZEZnR6QldkSWRwWDZqVDFCZFh3bnpudWR0S2tZM0xWb0dzdXktSGlaQkdRUlFBSzlaLVBhM1E?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260927T085352Z",
           "pinned": false
         },
         {
@@ -1891,14 +1907,6 @@
           "pinned": false
         },
         {
-          "title": "Delegates walk out as Netanyahu touts Iran war, slams Qatar and Turkey at UN - al-monitor.com",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdWNJOGo1S2U2STB6QzhXRFdmaTB3bnY0ZEo0UXBHMW0yU0lDa2VHbHpxX3gwZmx6R2RCZGRvTDlxTHlOY0w2SVJVUkYtMlZWTDUtd0lILWNuZDBKNW1JZXdoVFhMZlpBMnBXbW9jajg1V284Y1cyQm8tdW1OM1FDTHBaMmRuQ3BDYlJ0QmFVMl9uT1doYVJxa2JiaXBpWEFON3FlWDAwc1NtUlZHdm9yRWxZVVI?oc=5",
-          "domain": "al-monitor.com",
-          "sourceTier": "Regional reporting",
-          "seen": "20260924T204132Z",
-          "pinned": false
-        },
-        {
           "title": "Zelenskyy says Ukraine sent 2 North Korean prisoners of war to South Korea",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNlZWT3piTkJfRzRTNlY4NlkyU3hGLW1aeEF2R2NKZW9FakN1T2p0Q2I4Ylk0SFdaU1B2TmJaRTEyYTNtU0FnOGZjX3RnNWtETG9pQmdXbUZBWDNKWjRfd2FWSEN0LUFxNnlHY3V1R1lNQWdmZThHT19zeWdub3hjZ3dlazlmQWhyWS01NXk0VERzTGtZMkpuM0hsRHY4MnJQaWdlRnFmakhOZw?oc=5",
           "domain": "apnews.com",
@@ -1915,48 +1923,31 @@
           "pinned": false
         },
         {
+          "title": "Delegates walk out as Netanyahu touts Iran war, slams Qatar and Turkey at UN - Al-Monitor",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdWNJOGo1S2U2STB6QzhXRFdmaTB3bnY0ZEo0UXBHMW0yU0lDa2VHbHpxX3gwZmx6R2RCZGRvTDlxTHlOY0w2SVJVUkYtMlZWTDUtd0lILWNuZDBKNW1JZXdoVFhMZlpBMnBXbW9jajg1V284Y1cyQm8tdW1OM1FDTHBaMmRuQ3BDYlJ0QmFVMl9uT1doYVJxa2JiaXBpWEFON3FlWDAwc1NtUlZHdm9yRWxZVVI?oc=5",
+          "domain": "al-monitor.com",
+          "sourceTier": "Regional reporting",
+          "seen": "20260924T204132Z",
+          "pinned": false
+        },
+        {
           "title": "Saudi-led coalition says shot down 6 ballistic missiles launched by Houthis",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYXBsVHBxNmVKcjlZbTVfR3hfVE1xclVoVlcyYjZKMm9talVQWTlOcFhhWHRjYVhKVHdCaXlMRFBwN0dqYVY4aDVLVE9McGxfWFJxMXBtejlNTnhZU2x3LUswbmVjZm1wSHhvVF9qaGVlaHhFdFplZ1dOYjIzQVJzZFlEd1dMWDI1U1FPMTlmclFQS0lDNmZ4R1ROM1k4VlpzY29lQ1NDeHZoQ09vOTJHbld5ek1NUWPSAbwBQVVfeXFMT25vSG53S2JsWnpLeE96WHVBWU54aEhPZlJqdXpYWmlpTHJXRG82a2Utak1WX2c5TWpoY0tyZEpQUTJSdkZMcE14dFpGdGZPUlFlSVZqS2ZkUlBScktjMDdZQ19GU29nSlBhMHVDdmFfVnNJY29ZQXFwRkxEaVVsakZUU3d1WXFmTmtHeW41ODE2UVBtbGxNNHJOa2dSanRNXzJSbTYtWlpfQTdzR3RfaTkxQjVXQnRxNXZoaDQ?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260924T212844Z",
           "pinned": false
-        },
-        {
-          "title": "Russia scales up strikes on Ukraine as largest steelmaker halts operations",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOM3N3XzV2MzdkOVlrdlBmbEZHT3RKTlJadVowaXRvSzFIUFJrWFN3amxaQk1FNFdRbnVESE5CWFBqX1Q4Mkl0bHZucTBiR09RWDgySzQzVWxNWlc3RTVLbk1CWnNUWUw1OUUyd183ZEJfbS1Ta3Q1R09ib3VpZHJfUWdVekotaDJkcENXSHVUczdMUXAtOFRnNUl3LWRESTY2SFdyejVoeC1tRU9QR2ItR0FkWVdCZW8zYTdNYmppdTZlcGfSAcgBQVVfeXFMTUdFNVByNHJsMk9femhxZG5NMW81QmVDNHQ3OHBQdFRGUUt5NHc5NnNadUdjel84VGROQ1F3dm0tbi1sOGNBbHpRYmNldGRzMnFoWGdlR2RFZ1c5RHluUXV1YTV5R3NPVU9zSWRGT1pQUE5WNS1MSFVVNEFTQnFKZ1BPSVptRFVRNHFmdVUtVDRkNVA3anJ3bkZDZl94X3Z3TEgtZDluYnZkclMtMUdyaDhhZHRpbzZSMWxFbmhqNHBMVFgwUERHbWo?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260926T210252Z",
-          "pinned": false
-        },
-        {
-          "title": "Yemen’s health system could collapse in some areas, minister warns",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeU5vY2JkamwzZ2hrRi1WZVhZdjZoRjQyd29DLXRPQUQxdW4ycFNRZ1ZHRlJxZVV2SlBiMm9CaXRORXhCY011eWk2QnFzQnIxRjJGLVZlSHpoQ0dpZkgwaTF3V1dNdngxVHdZajBjS3NlZjNXcnFPYmRqU2x5TldKTVhXbFN3NGtlV21JZWkyUGFWRm16dUpIZW9OeHZITlhSYk9FLXNyRGzSAa4BQVVfeXFMTzdEblpINThRdkgxS04zby0tY1poRWRNTnlubEFCUE1SelNmODlpSDAxYnhjSmd1US1mM2NaVmExMVNCdjE4R19kclNzck5mLVhjbW9OUVZ3WHJ0UUJlSTItc0JHT3o4cHJoenlKMFBSSktTN0stSWhwTEZUN0t0QmpReG5tUXRRLTMxWElRZVRESW5naDYwTjJlREEzVi1sY253MmVKNDV1ZTN4VzRB?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260927T142312Z",
-          "pinned": false
         }
       ],
       "reports": [
         {
-          "id": "report-ee2fec9890c0",
+          "id": "report-c2b5b99cf84c",
           "title": "Trump rejects Iran’s seven-day roadmap to end war and reopen Hormuz",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPekVrcUpCSVdWWjdjNHY5ZS12MmprMF9ma3loOGpyZExyTW5uRG9qT3NjV21qSUFSMUhRVV9Ld3A5TWpVTS1QcFI2VENoZTdQRkVIQi11Z2JuUV80a1B2U2Q5TGhlQlZiZkV3MFlCbkI4NUZDeWJROWgxbTAtSVE3dU0xUDVnbFU2MF9MN25MVmZRNUdCWXBleDhlamtaVGNzbkVtWDM1Vlc?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPekVrcUpCSVdWWjdjNHY5ZS12MmprMF9ma3loOGpyZExyTW5uRG9qT3NjV21qSUFSMUhRVV9Ld3A5TWpVTS1QcFI2VENoZTdQRkVIQi11Z2JuUV80a1B2U2Q5TGhlQlZiZkV3MFlCbkI4NUZDeWJROWgxbTAtSVE3dU0xUDVnbFU2MF9MN25MVmZRNUdCWXBleDhlamtaVGNzbkVtWDM1VlfSAa4BQVVfeXFMTjljQTNjOXdPLVpNZWhUNTduR2ZZWGN3dDRrak9NOS1WWlBNejVMWDk2aGRkek9CYzB5OWpiTU1BeWtHUkRZZGduc28td2dSZmlsQUM2NTNrQ1M5WU1rcVJoNWZKZlkzNmN5Z1FkWnJFN0FNVDEtQjFKSkYwQ0RQZFpkOWVxNm43dkloMnZtTFFFSy1xVVRYVEJEYkFZdzdBemNCMEJQZGVLZzdvQXlB?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-27T03:30:46Z"
-        },
-        {
-          "id": "report-56a79811f3c4",
-          "title": "Trump ‘rejects’ Iran’s seven-day ceasefire proposal. What’s next?",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPX21pcjV2VXZDMWVKX3FBbmVNRnRHTlJ6dDA1Q0pweTJlRUg3TXEwbGtnbzc4XzNjbzR3U0thWjh0Q2RhUGppZTh5cWd6TEZJdE1jZmc4OHROMmFkT2FWaWtQTjRiTGVVZHIxN3JjMFJGTjJsWEFsVFJQOFBXR29TM2JlY05lWW5Za01kb2k1WjBlRzV0bWFYTkxjRWNkdUwzMm56cEV5NGtZWGdzQ0k0a9IBtgFBVV95cUxNWmVCOXl2cldoUW9INWVmSjlCZEh5Wi1kVHFzWDVmdW8yLW4wUzBUdWlSdWFyTWxxeFFYVnRMSHRxNjdXUEg5STRYWlhxeWEwSFczOEh1RlY3Qjl3VzViUjJ3UGJCUFhjd1QtM2J6bDZwMENrNnM2d29XYzA1VXlpTTRDZXNyM2hOV3hqVlVXbVN6Z0tsdDl4QXUwWk9XSk5fc0ZnWER1Y3kwa3NUamEtTUpIcHhqZw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-26T09:42:52Z"
         },
         {
           "id": "report-22c9b5ec1761",
@@ -1966,6 +1957,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-25T14:11:48Z"
+        },
+        {
+          "id": "report-56a79811f3c4",
+          "title": "Trump ‘rejects’ Iran’s seven-day ceasefire proposal. What’s next?",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPX21pcjV2VXZDMWVKX3FBbmVNRnRHTlJ6dDA1Q0pweTJlRUg3TXEwbGtnbzc4XzNjbzR3U0thWjh0Q2RhUGppZTh5cWd6TEZJdE1jZmc4OHROMmFkT2FWaWtQTjRiTGVVZHIxN3JjMFJGTjJsWEFsVFJQOFBXR29TM2JlY05lWW5Za01kb2k1WjBlRzV0bWFYTkxjRWNkdUwzMm56cEV5NGtZWGdzQ0k0a9IBtgFBVV95cUxNWmVCOXl2cldoUW9INWVmSjlCZEh5Wi1kVHFzWDVmdW8yLW4wUzBUdWlSdWFyTWxxeFFYVnRMSHRxNjdXUEg5STRYWlhxeWEwSFczOEh1RlY3Qjl3VzViUjJ3UGJCUFhjd1QtM2J6bDZwMENrNnM2d29XYzA1VXlpTTRDZXNyM2hOV3hqVlVXbVN6Z0tsdDl4QXUwWk9XSk5fc0ZnWER1Y3kwa3NUamEtTUpIcHhqZw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-26T09:42:52Z"
         },
         {
           "id": "report-9231ad8a2867",
@@ -2013,6 +2013,15 @@
           "reportedAt": "2026-09-25T23:42:39Z"
         },
         {
+          "id": "report-d8929c1c7251",
+          "title": "Israel’s Smotrich calls for ‘war’ in West Bank: Rhetoric or real threat?",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVFVCT3FMcTk1bzExSzlISVFTOE55SGdVNmI0TEFHN2ZmM3c4dWhFZXVRM2FOSUVzSFdoNldkOU1PZlFobzJOT014blV2MTdnWEgtdklNMWJONnNDUnp5a1ZrN3l1dzlkV2g3NWtkQ3lYM3QzUGdtcnRTQm5vQnV0eVVuRlRxWWc3SnFMY1NNZTQ1Q3pFbEh3N3U2SUVOakNLNDIzRU9TLUh1WDRzbHfSAbMBQVVfeXFMUG9rUUxsX3czdmhQWHktcGdwQldvUGFzRFRvTzdnb2xaM2hSbXFhMHJpck1uVlRPU2dlTVN6QTJDV05NNFdjRWxaVDU3NVhaVTk4SHh3VFNIXzdKclJjcTlsVmpjT1piRElGRXhUakJaU3llc2tIb29xbUstbTctQUMweGt5OTE5aDY2djZWbG8xOEpXSWd5TENOUDFIYUt2UzFlV0ZzZmJSZHFoOF9pNXVrOTA?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-27T14:13:08Z"
+        },
+        {
           "id": "report-2f1d8eb1a1da",
           "title": "Is Ethiopia on the verge of another civil war as fighting erupts in Tigray?",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMGYxMGJ0MFdTcnppR3hUUkxpaXRWbWRWdDNfeGhfMjByY2c5RklUTmtQVGRGcXRNbk5uWFIwUjZkRDBjdTY5RWVjb2dHNTBkcXFmMmUybVl3em9BU0VjWWRRdnZFWVFXZXZiZFZWQXcxUjdzS2NYM0Y5VTBkNUQ3ZGNnUnFUNzJfX3dLNnJ4SV82Skw0WS1BQ05QTy1ORjNXeGNrOExTbXlPVkx0WVVFUDRvdFQwQdIBuwFBVV95cUxNWjFRVzhqVDNxWEsyOGVrRE9acjdsLWpDMHFzN3ZrNzNkWWV3WlNVUTNtb1FRSGQ0ZFRkSXBReTlUelhrdk9xM0didkZidFk0bDRzTFhUMkUyT25UVEVsUG4zUVVaYkFfeExSMTAwNDJJdHdhTEtGQVhRektSTnRnb1BxaWRxQWUtZTFKcDRJS0NmakJaSkg4bDB0MmVKMlA0TG5HSWM0TmlGS2hkandRdDNtbkdmUWpJX0NF?oc=5",
@@ -2020,15 +2029,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-26T14:02:54Z"
-        },
-        {
-          "id": "report-78b260f8eae7",
-          "title": "Iran shifts trade north to Caspian Sea as war impairs Strait of Hormuz",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWFJPSF9LU3NrQXB3NXRDbnVMdHhMX2kwdXhRemZyVU5XZ3B6MEJVNFIwRmJrczZfTExBRlY2bExhYlZCSEE3bDh5M3lFSVRwcTRwVUxqNFdScVJxOUxVbU5QekxqUWxlUnp4cU5nekVQZVdJajdVV1hYeHJSU2hNQzllM2kyVGhXTnVOMnd5YkpYY1Y4T1BCX0JsMnJYamVaT19RVDVwVXRGTnV3NVdrLVRZclpLODUt0gG-AUFVX3lxTE1sU3B2R2dHWFJBUjk4eEsySUNnNnZPZG9ILWhzblFpemVORnhWdGRpanA3cTJCLTNqTVZyN0ptd1dyTmxmWDhqVTRqM2FjZEpvVTNqZk5TQTJINEZYNDk4ZGdqakZWWC1TYkpmbWZ0RmY5ZDN4VW5FNzNxLWhJd2tuNzNIdzl4ZUZEZnR6QldkSWRwWDZqVDFCZFh3bnpudWR0S2tZM0xWb0dzdXktSGlaQkdRUlFBSzlaLVBhM1E?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-27T08:53:52Z"
         },
         {
           "id": "report-06c0c7d6a33b",
@@ -2047,6 +2047,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-27T12:05:56Z"
+        },
+        {
+          "id": "report-0eb9969454e0",
+          "title": "Pakistan, Turkiye edge closer towards joining Saudi war against Houthis",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMGk2TldwemI1R2RiNUJtbUZ3eFFCZjNXelhILVA2eDkxcXJZa3ZFaDVSMDdQVmpUTlZmM2ZfLU9mbUNQdlQ4UEQwUGVES2JFNWFwa2FuYkpzb2h1OHdLNWY3NTduWVN2ZkpGSEltSTBsVUVtSXJPX0Y3dlJ6dGNSRHRMcW9fc3FYYlF5aGtBVVNPT0FyRTZZdGFLUnpoT2lYYkQ5YlBCXzFvbG9pamU2UdIBtgFBVV95cUxNMGR6U1hYN29HMm5iUUctWGIySndQc3ZmSDVqSnVhaWhKSm4yUjZkUW5Wb0RyZFBlRGVpU2NhUEF0bEl1TWZHRkNYbjZBdzNuQzFpSkpSOW9EdUROeE5zeDFhSi0yN2VlLUNlbXFPZlZzck5NOEh1MjFFTjFoMTJfNW0zSlo1VlpVdkVNelNTTExxUGZ6RGFBZnYyTWExcGpHLTJHWVpYT2UwZm9ROTdCUGNObjJLdw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-25T11:27:03Z"
         },
         {
           "id": "report-55bed5072faf",
@@ -2076,13 +2085,22 @@
           "reportedAt": "2026-09-25T18:32:40Z"
         },
         {
-          "id": "report-7f30708f879d",
-          "title": "Iran pitches US a seven-day end to the war at UNGA",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTnh0RFBaRFNJM2dmSDBFcnF0Wk9QejVGRG1RWkNPb3g1aTVLSFZDSTVlTnFqQklRTi1aQXVDTUVkaWtLRk9yNGpuR3UwZTRuRWZjSThmei1nQXp6N3F1RHN3NzBEbWNCY2RsMFlYblNReHgzeHFVVXlXV0tiWXpmdzlOSTgySnV4QW1uNmpIYXJoalBUQ2p6bG5Ibk9WY1lKZi1V0gGoAUFVX3lxTFBLUVlxR0dzNWxmR0xoR2J5V3gxbXpOT255UDZaM04zY2R2cHNFRXdmZks3MUVLSHRlOEVxY3Jfd3lrUm5xLUxPYThteVVGXzk1WlBtT0YtQll3dWREMkszR0JzSElTSWVGOXlzSGtMRUZ5WWlGT2tKLWw2WGk1bG5EMmhiQmxfNjVaMW1zc2pzMHhVVFFuVFRfaGlFclVMM2ZyNVZRNW44Mw?oc=5",
+          "id": "report-99be1fa959f9",
+          "title": "Yemen government forces widen attacks against Houthis: What we know",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONGVIbjJTVHlFbzBZdEp6ano2SzlFaFBxTXM0YnhrNThlN2dubVFwSmU3RlBHbjVCU056bWxTVVYxTnNZbnFlbFRveUdnM3BMTjMzbEdfVWhKd2ZUalhKTVhpV2RWN2dyY3R6ckdhcmszUGdzYlZRWVJLaVdjUzRENlEyZHdlRzlQZmtseE9oNmtNUlUyZWM2ZDVaX2FvUXBUM2JaNzEta2ZZVTjSAbABQVVfeXFMTmtZQ0p2ajhMWXZxOEFaRFU0b2U2aFZQWGZ4U181ZUJGbDNBcG1rWXlEd0FxdDN0ZTh0S3hnTXctOEk1SkhHaU1qZ0ZYa3drZGtoNUUza2tORGsyY2NaMGJwTG14eHFZZDZHOWJETHlCby1Id1ppRk85aUtkZ0pNNmlOZU1kSVltY3pWNnNzbEtRN2NBaUgwQUhuV0NUdGxCek5qYkpFVjlvcFVmOWI0UlI?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-26T04:29:21Z"
+          "reportedAt": "2026-09-27T12:06:41Z"
+        },
+        {
+          "id": "report-78b260f8eae7",
+          "title": "Iran shifts trade north to Caspian Sea as war impairs Strait of Hormuz",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWFJPSF9LU3NrQXB3NXRDbnVMdHhMX2kwdXhRemZyVU5XZ3B6MEJVNFIwRmJrczZfTExBRlY2bExhYlZCSEE3bDh5M3lFSVRwcTRwVUxqNFdScVJxOUxVbU5QekxqUWxlUnp4cU5nekVQZVdJajdVV1hYeHJSU2hNQzllM2kyVGhXTnVOMnd5YkpYY1Y4T1BCX0JsMnJYamVaT19RVDVwVXRGTnV3NVdrLVRZclpLODUt0gG-AUFVX3lxTE1sU3B2R2dHWFJBUjk4eEsySUNnNnZPZG9ILWhzblFpemVORnhWdGRpanA3cTJCLTNqTVZyN0ptd1dyTmxmWDhqVTRqM2FjZEpvVTNqZk5TQTJINEZYNDk4ZGdqakZWWC1TYkpmbWZ0RmY5ZDN4VW5FNzNxLWhJd2tuNzNIdzl4ZUZEZnR6QldkSWRwWDZqVDFCZFh3bnpudWR0S2tZM0xWb0dzdXktSGlaQkdRUlFBSzlaLVBhM1E?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-27T08:53:52Z"
         },
         {
           "id": "report-fe87c2f16dfb",
@@ -2103,15 +2121,6 @@
           "reportedAt": "2026-09-25T10:12:28Z"
         },
         {
-          "id": "report-01178d8ca3ab",
-          "title": "Delegates walk out as Netanyahu touts Iran war, slams Qatar and Turkey at UN - al-monitor.com",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdWNJOGo1S2U2STB6QzhXRFdmaTB3bnY0ZEo0UXBHMW0yU0lDa2VHbHpxX3gwZmx6R2RCZGRvTDlxTHlOY0w2SVJVUkYtMlZWTDUtd0lILWNuZDBKNW1JZXdoVFhMZlpBMnBXbW9jajg1V284Y1cyQm8tdW1OM1FDTHBaMmRuQ3BDYlJ0QmFVMl9uT1doYVJxa2JiaXBpWEFON3FlWDAwc1NtUlZHdm9yRWxZVVI?oc=5",
-          "domain": "al-monitor.com",
-          "sourceTier": "Regional reporting",
-          "confidenceLabel": "REGIONAL REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-24T20:41:32Z"
-        },
-        {
           "id": "report-4865d4652d63",
           "title": "Zelenskyy says Ukraine sent 2 North Korean prisoners of war to South Korea",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNlZWT3piTkJfRzRTNlY4NlkyU3hGLW1aeEF2R2NKZW9FakN1T2p0Q2I4Ylk0SFdaU1B2TmJaRTEyYTNtU0FnOGZjX3RnNWtETG9pQmdXbUZBWDNKWjRfd2FWSEN0LUFxNnlHY3V1R1lNQWdmZThHT19zeWdub3hjZ3dlazlmQWhyWS01NXk0VERzTGtZMkpuM0hsRHY4MnJQaWdlRnFmakhOZw?oc=5",
@@ -2130,6 +2139,15 @@
           "reportedAt": "2026-09-25T08:42:34Z"
         },
         {
+          "id": "report-01178d8ca3ab",
+          "title": "Delegates walk out as Netanyahu touts Iran war, slams Qatar and Turkey at UN - Al-Monitor",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdWNJOGo1S2U2STB6QzhXRFdmaTB3bnY0ZEo0UXBHMW0yU0lDa2VHbHpxX3gwZmx6R2RCZGRvTDlxTHlOY0w2SVJVUkYtMlZWTDUtd0lILWNuZDBKNW1JZXdoVFhMZlpBMnBXbW9jajg1V284Y1cyQm8tdW1OM1FDTHBaMmRuQ3BDYlJ0QmFVMl9uT1doYVJxa2JiaXBpWEFON3FlWDAwc1NtUlZHdm9yRWxZVVI?oc=5",
+          "domain": "al-monitor.com",
+          "sourceTier": "Regional reporting",
+          "confidenceLabel": "REGIONAL REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-24T20:41:32Z"
+        },
+        {
           "id": "report-cc1065ead9ee",
           "title": "Saudi-led coalition says shot down 6 ballistic missiles launched by Houthis",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYXBsVHBxNmVKcjlZbTVfR3hfVE1xclVoVlcyYjZKMm9talVQWTlOcFhhWHRjYVhKVHdCaXlMRFBwN0dqYVY4aDVLVE9McGxfWFJxMXBtejlNTnhZU2x3LUswbmVjZm1wSHhvVF9qaGVlaHhFdFplZ1dOYjIzQVJzZFlEd1dMWDI1U1FPMTlmclFQS0lDNmZ4R1ROM1k4VlpzY29lQ1NDeHZoQ09vOTJHbld5ek1NUWPSAbwBQVVfeXFMT25vSG53S2JsWnpLeE96WHVBWU54aEhPZlJqdXpYWmlpTHJXRG82a2Utak1WX2c5TWpoY0tyZEpQUTJSdkZMcE14dFpGdGZPUlFlSVZqS2ZkUlBScktjMDdZQ19GU29nSlBhMHVDdmFfVnNJY29ZQXFwRkxEaVVsakZUU3d1WXFmTmtHeW41ODE2UVBtbGxNNHJOa2dSanRNXzJSbTYtWlpfQTdzR3RfaTkxQjVXQnRxNXZoaDQ?oc=5",
@@ -2137,24 +2155,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-24T21:28:44Z"
-        },
-        {
-          "id": "report-4b6687e0a425",
-          "title": "Russia scales up strikes on Ukraine as largest steelmaker halts operations",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOM3N3XzV2MzdkOVlrdlBmbEZHT3RKTlJadVowaXRvSzFIUFJrWFN3amxaQk1FNFdRbnVESE5CWFBqX1Q4Mkl0bHZucTBiR09RWDgySzQzVWxNWlc3RTVLbk1CWnNUWUw1OUUyd183ZEJfbS1Ta3Q1R09ib3VpZHJfUWdVekotaDJkcENXSHVUczdMUXAtOFRnNUl3LWRESTY2SFdyejVoeC1tRU9QR2ItR0FkWVdCZW8zYTdNYmppdTZlcGfSAcgBQVVfeXFMTUdFNVByNHJsMk9femhxZG5NMW81QmVDNHQ3OHBQdFRGUUt5NHc5NnNadUdjel84VGROQ1F3dm0tbi1sOGNBbHpRYmNldGRzMnFoWGdlR2RFZ1c5RHluUXV1YTV5R3NPVU9zSWRGT1pQUE5WNS1MSFVVNEFTQnFKZ1BPSVptRFVRNHFmdVUtVDRkNVA3anJ3bkZDZl94X3Z3TEgtZDluYnZkclMtMUdyaDhhZHRpbzZSMWxFbmhqNHBMVFgwUERHbWo?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-26T21:02:52Z"
-        },
-        {
-          "id": "report-c1f39d7da37d",
-          "title": "Yemen’s health system could collapse in some areas, minister warns",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeU5vY2JkamwzZ2hrRi1WZVhZdjZoRjQyd29DLXRPQUQxdW4ycFNRZ1ZHRlJxZVV2SlBiMm9CaXRORXhCY011eWk2QnFzQnIxRjJGLVZlSHpoQ0dpZkgwaTF3V1dNdngxVHdZajBjS3NlZjNXcnFPYmRqU2x5TldKTVhXbFN3NGtlV21JZWkyUGFWRm16dUpIZW9OeHZITlhSYk9FLXNyRGzSAa4BQVVfeXFMTzdEblpINThRdkgxS04zby0tY1poRWRNTnlubEFCUE1SelNmODlpSDAxYnhjSmd1US1mM2NaVmExMVNCdjE4R19kclNzck5mLVhjbW9OUVZ3WHJ0UUJlSTItc0JHT3o4cHJoenlKMFBSSktTN0stSWhwTEZUN0t0QmpReG5tUXRRLTMxWElRZVRESW5naDYwTjJlREEzVi1sY253MmVKNDV1ZTN4VzRB?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-27T14:23:12Z"
         },
         {
           "id": "report-3d06d7802bf8",
