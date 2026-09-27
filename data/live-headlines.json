@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-27T12:02:24.557Z",
+  "generatedAt": "2026-09-27T16:58:07.232Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-09-27T12:02:24.557Z",
+      "generatedAt": "2026-09-27T16:58:07.232Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -1583,12 +1583,12 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-09-27T12:02:24.557Z",
+      "generatedAt": "2026-09-27T16:58:07.232Z",
       "cadence": "every 6 hours",
       "items": [
         {
           "title": "Trump rejects Iran’s seven-day roadmap to end war and reopen Hormuz",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPekVrcUpCSVdWWjdjNHY5ZS12MmprMF9ma3loOGpyZExyTW5uRG9qT3NjV21qSUFSMUhRVV9Ld3A5TWpVTS1QcFI2VENoZTdQRkVIQi11Z2JuUV80a1B2U2Q5TGhlQlZiZkV3MFlCbkI4NUZDeWJROWgxbTAtSVE3dU0xUDVnbFU2MF9MN25MVmZRNUdCWXBleDhlamtaVGNzbkVtWDM1VlfSAa4BQVVfeXFMTjljQTNjOXdPLVpNZWhUNTduR2ZZWGN3dDRrak9NOS1WWlBNejVMWDk2aGRkek9CYzB5OWpiTU1BeWtHUkRZZGduc28td2dSZmlsQUM2NTNrQ1M5WU1rcVJoNWZKZlkzNmN5Z1FkWnJFN0FNVDEtQjFKSkYwQ0RQZFpkOWVxNm43dkloMnZtTFFFSy1xVVRYVEJEYkFZdzdBemNCMEJQZGVLZzdvQXlB?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPekVrcUpCSVdWWjdjNHY5ZS12MmprMF9ma3loOGpyZExyTW5uRG9qT3NjV21qSUFSMUhRVV9Ld3A5TWpVTS1QcFI2VENoZTdQRkVIQi11Z2JuUV80a1B2U2Q5TGhlQlZiZkV3MFlCbkI4NUZDeWJROWgxbTAtSVE3dU0xUDVnbFU2MF9MN25MVmZRNUdCWXBleDhlamtaVGNzbkVtWDM1Vlc?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260927T033046Z",
@@ -1675,19 +1675,11 @@
           "pinned": false
         },
         {
-          "title": "Poland boosts air defence after ‘Russian provocations’ amid Ukraine war",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVkxsMGJTc3pxUko2WXowbmp4OThtWjZEWTZtc3dxV29RVmRzTWd1SU9pVVlBeFJ5aUhOenFTMkRfZmhRTnlmN1BISXdTSEZpVDBCZDh5cUdhYTByLVhaakpnYVZxYTFVcmJiXzV5ZlVXYUJTejA5N1l1azJlSWVLOG00bmFqdXNGY2dRSDFuNUR2Nzdta1pfTXBWNjN6cnM5UUxwcTFYM3hUdnpTd2VB0gG0AUFVX3lxTE9NMFk0b3JZb01GcHFMSEEyV0NlY2h6SUgzZVBtWmNFZ092NGh4eXZpckdvYWlVcHVJcHdKZmQ0bU5qZXV4MS16N1ZUU2dWQkVQdF9FeldOUHZqOU11SUotZlpfWWlnZDE4YnMxbWpRd2JpcUwwVHhXM3J5OXFDbF9TTktabDNQbEJteTFrNzhGbWFBb3lFaEJVdlpGSUpoTnMyZzFFTkczaXhVRkpMTDRDZ0JJOA?oc=5",
+          "title": "Israeli minister Bezalel Smotrich calls for war in occupied West Bank",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdHFVbXp1cUNEaGhtUVpVLVg1d0tPTVVBR1lsT0JiX2Rjd1p3dF9uR3NqUVByaGZTRkJKM1Vod3gzYzBjV3hmR3ZBdVVORzVndU5hSUwzdnh1bVBmTDhYRmlqa3FFa0JoclFYNGVlSEkzQldVUkN0dkJZT0tQbzB4a3p0Vm9MYjRUNm04cjRHemxRLV9MV1llOU1BQzBBU0kwZmlhTkF0TDcydm5jS0040gG0AUFVX3lxTFBjMUdQaGpVS2tQNk16ZG1aUVYySTc0d3RsMXNOeVNYalBKSC1xYlduM0RWUWpwdnFJUkxVRjlESDFtRmpSSldYbTlzR3BDazNVNjJuYnRKelc5Qkh1SDVQVVJRM3p1c3ZTY2NYNUpIOTlCNlBnR084anJQRTltSWFSQk1obGxmWEM0T1NBUjNOeVpONlhzVVFhbDFJdmpMWHRDVXRBcGpLc3Q0c2dxcXBydXRDZQ?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260925T180914Z",
-          "pinned": false
-        },
-        {
-          "title": "Trump doubts Iran deal, plans renewed strikes after midterms: WSJ",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTTBKQW9pWXhtSDhDTW5VTHhGeGJVU01GWU9OdDBUUVpka3lDc2E0WVU5S09WSXlHTjY0cTRDeDZ0aW0zUlVUNFFlOHBxaG4yeEx5djRxYUpJWGNLdFpaVjBMTVdmY3NJbVZMdi0xWno4dnpKTk5PVjJTVnRWLTY4V0dCcXRlbHhreDg2MTlJTEwyeE0wbTVOSEl5T2FtYS1JNnZ6cWlEd0RHdndQdVVtcVBoRjhkQQ?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "seen": "20260926T012122Z",
+          "seen": "20260927T120556Z",
           "pinned": false
         },
         {
@@ -1723,22 +1715,6 @@
           "pinned": false
         },
         {
-          "title": "Pakistan, Turkiye edge closer towards joining Saudi war against Houthis",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMGk2TldwemI1R2RiNUJtbUZ3eFFCZjNXelhILVA2eDkxcXJZa3ZFaDVSMDdQVmpUTlZmM2ZfLU9mbUNQdlQ4UEQwUGVES2JFNWFwa2FuYkpzb2h1OHdLNWY3NTduWVN2ZkpGSEltSTBsVUVtSXJPX0Y3dlJ6dGNSRHRMcW9fc3FYYlF5aGtBVVNPT0FyRTZZdGFLUnpoT2lYYkQ5YlBCXzFvbG9pamU2UdIBtgFBVV95cUxNMGR6U1hYN29HMm5iUUctWGIySndQc3ZmSDVqSnVhaWhKSm4yUjZkUW5Wb0RyZFBlRGVpU2NhUEF0bEl1TWZHRkNYbjZBdzNuQzFpSkpSOW9EdUROeE5zeDFhSi0yN2VlLUNlbXFPZlZzck5NOEh1MjFFTjFoMTJfNW0zSlo1VlpVdkVNelNTTExxUGZ6RGFBZnYyTWExcGpHLTJHWVpYT2UwZm9ROTdCUGNObjJLdw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260925T112703Z",
-          "pinned": false
-        },
-        {
-          "title": "Israeli minister Bezalel Smotrich calls for war in occupied West Bank",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdHFVbXp1cUNEaGhtUVpVLVg1d0tPTVVBR1lsT0JiX2Rjd1p3dF9uR3NqUVByaGZTRkJKM1Vod3gzYzBjV3hmR3ZBdVVORzVndU5hSUwzdnh1bVBmTDhYRmlqa3FFa0JoclFYNGVlSEkzQldVUkN0dkJZT0tQbzB4a3p0Vm9MYjRUNm04cjRHemxRLV9MV1llOU1BQzBBU0kwZmlhTkF0TDcydm5jS0040gG0AUFVX3lxTFBjMUdQaGpVS2tQNk16ZG1aUVYySTc0d3RsMXNOeVNYalBKSC1xYlduM0RWUWpwdnFJUkxVRjlESDFtRmpSSldYbTlzR3BDazNVNjJuYnRKelc5Qkh1SDVQVVJRM3p1c3ZTY2NYNUpIOTlCNlBnR084anJQRTltSWFSQk1obGxmWEM0T1NBUjNOeVpONlhzVVFhbDFJdmpMWHRDVXRBcGpLc3Q0c2dxcXBydXRDZQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260927T100426Z",
-          "pinned": false
-        },
-        {
           "title": "Multiple regions in Russia come under Ukrainian drone attacks",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNTRPUXhjZWlSbUZGSFpVemRYNzhNY2t2dG5ZVzZ1STFfTWUzNmFLYllObmhfTWVpZmwwRllaWGNndVRzQUxGMkNpSUpySWFSSl80OGU2ODRPSEtEUFc4b3pkNi1YLTk0NktvUjhGYnlSSVlyVzFXdzNGYzFvcXhGLTJWS3NRakM2VG9IMFRLckZJclo5RTBoVDNOTWhvVU54aWJsUzF5MXprTlo0aC1LX01B0gG3AUFVX3lxTFBKRDVyMHJ1OEFPYlVvblBDeElmYmRxMWtYSG5vWUs0OTFYbU9uWnV0X0J3c1BlWUp2Q0F4NzNsSGJRYUhzRk9rQnFhSE03aU1VQUMtU3hmaXJnaFc2c19yT2ZwbmFQbHpnY1ctcmdGczFGRkpHRXdaM2dnZTJZdEhOUTd6TUVNaFRTOXZFRUhoQlMwZm12S3BEeHBCckI5dTFraTZJRlR2VEFjV01pMVlGVWxZYVlqSQ?oc=5",
           "domain": "aljazeera.com",
@@ -1755,7 +1731,7 @@
           "pinned": false
         },
         {
-          "title": "Delegates walk out as Netanyahu touts Iran war, slams Qatar and Turkey at UN - Al-Monitor",
+          "title": "Delegates walk out as Netanyahu touts Iran war, slams Qatar and Turkey at UN - al-monitor.com",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdWNJOGo1S2U2STB6QzhXRFdmaTB3bnY0ZEo0UXBHMW0yU0lDa2VHbHpxX3gwZmx6R2RCZGRvTDlxTHlOY0w2SVJVUkYtMlZWTDUtd0lILWNuZDBKNW1JZXdoVFhMZlpBMnBXbW9jajg1V284Y1cyQm8tdW1OM1FDTHBaMmRuQ3BDYlJ0QmFVMl9uT1doYVJxa2JiaXBpWEFON3FlWDAwc1NtUlZHdm9yRWxZVVI?oc=5",
           "domain": "al-monitor.com",
           "sourceTier": "Regional reporting",
@@ -1777,13 +1753,37 @@
           "sourceTier": "Independent reporting",
           "seen": "20260925T084234Z",
           "pinned": false
+        },
+        {
+          "title": "Saudi-led coalition says shot down 6 ballistic missiles launched by Houthis",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYXBsVHBxNmVKcjlZbTVfR3hfVE1xclVoVlcyYjZKMm9talVQWTlOcFhhWHRjYVhKVHdCaXlMRFBwN0dqYVY4aDVLVE9McGxfWFJxMXBtejlNTnhZU2x3LUswbmVjZm1wSHhvVF9qaGVlaHhFdFplZ1dOYjIzQVJzZFlEd1dMWDI1U1FPMTlmclFQS0lDNmZ4R1ROM1k4VlpzY29lQ1NDeHZoQ09vOTJHbld5ek1NUWPSAbwBQVVfeXFMT25vSG53S2JsWnpLeE96WHVBWU54aEhPZlJqdXpYWmlpTHJXRG82a2Utak1WX2c5TWpoY0tyZEpQUTJSdkZMcE14dFpGdGZPUlFlSVZqS2ZkUlBScktjMDdZQ19GU29nSlBhMHVDdmFfVnNJY29ZQXFwRkxEaVVsakZUU3d1WXFmTmtHeW41ODE2UVBtbGxNNHJOa2dSanRNXzJSbTYtWlpfQTdzR3RfaTkxQjVXQnRxNXZoaDQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260924T212844Z",
+          "pinned": false
+        },
+        {
+          "title": "Russia scales up strikes on Ukraine as largest steelmaker halts operations",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOM3N3XzV2MzdkOVlrdlBmbEZHT3RKTlJadVowaXRvSzFIUFJrWFN3amxaQk1FNFdRbnVESE5CWFBqX1Q4Mkl0bHZucTBiR09RWDgySzQzVWxNWlc3RTVLbk1CWnNUWUw1OUUyd183ZEJfbS1Ta3Q1R09ib3VpZHJfUWdVekotaDJkcENXSHVUczdMUXAtOFRnNUl3LWRESTY2SFdyejVoeC1tRU9QR2ItR0FkWVdCZW8zYTdNYmppdTZlcGfSAcgBQVVfeXFMTUdFNVByNHJsMk9femhxZG5NMW81QmVDNHQ3OHBQdFRGUUt5NHc5NnNadUdjel84VGROQ1F3dm0tbi1sOGNBbHpRYmNldGRzMnFoWGdlR2RFZ1c5RHluUXV1YTV5R3NPVU9zSWRGT1pQUE5WNS1MSFVVNEFTQnFKZ1BPSVptRFVRNHFmdVUtVDRkNVA3anJ3bkZDZl94X3Z3TEgtZDluYnZkclMtMUdyaDhhZHRpbzZSMWxFbmhqNHBMVFgwUERHbWo?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260926T210252Z",
+          "pinned": false
+        },
+        {
+          "title": "Yemen’s health system could collapse in some areas, minister warns",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeU5vY2JkamwzZ2hrRi1WZVhZdjZoRjQyd29DLXRPQUQxdW4ycFNRZ1ZHRlJxZVV2SlBiMm9CaXRORXhCY011eWk2QnFzQnIxRjJGLVZlSHpoQ0dpZkgwaTF3V1dNdngxVHdZajBjS3NlZjNXcnFPYmRqU2x5TldKTVhXbFN3NGtlV21JZWkyUGFWRm16dUpIZW9OeHZITlhSYk9FLXNyRGzSAa4BQVVfeXFMTzdEblpINThRdkgxS04zby0tY1poRWRNTnlubEFCUE1SelNmODlpSDAxYnhjSmd1US1mM2NaVmExMVNCdjE4R19kclNzck5mLVhjbW9OUVZ3WHJ0UUJlSTItc0JHT3o4cHJoenlKMFBSSktTN0stSWhwTEZUN0t0QmpReG5tUXRRLTMxWElRZVRESW5naDYwTjJlREEzVi1sY253MmVKNDV1ZTN4VzRB?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260927T142312Z",
+          "pinned": false
         }
       ],
       "reports": [
         {
-          "id": "report-c2b5b99cf84c",
+          "id": "report-ee2fec9890c0",
           "title": "Trump rejects Iran’s seven-day roadmap to end war and reopen Hormuz",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPekVrcUpCSVdWWjdjNHY5ZS12MmprMF9ma3loOGpyZExyTW5uRG9qT3NjV21qSUFSMUhRVV9Ld3A5TWpVTS1QcFI2VENoZTdQRkVIQi11Z2JuUV80a1B2U2Q5TGhlQlZiZkV3MFlCbkI4NUZDeWJROWgxbTAtSVE3dU0xUDVnbFU2MF9MN25MVmZRNUdCWXBleDhlamtaVGNzbkVtWDM1VlfSAa4BQVVfeXFMTjljQTNjOXdPLVpNZWhUNTduR2ZZWGN3dDRrak9NOS1WWlBNejVMWDk2aGRkek9CYzB5OWpiTU1BeWtHUkRZZGduc28td2dSZmlsQUM2NTNrQ1M5WU1rcVJoNWZKZlkzNmN5Z1FkWnJFN0FNVDEtQjFKSkYwQ0RQZFpkOWVxNm43dkloMnZtTFFFSy1xVVRYVEJEYkFZdzdBemNCMEJQZGVLZzdvQXlB?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPekVrcUpCSVdWWjdjNHY5ZS12MmprMF9ma3loOGpyZExyTW5uRG9qT3NjV21qSUFSMUhRVV9Ld3A5TWpVTS1QcFI2VENoZTdQRkVIQi11Z2JuUV80a1B2U2Q5TGhlQlZiZkV3MFlCbkI4NUZDeWJROWgxbTAtSVE3dU0xUDVnbFU2MF9MN25MVmZRNUdCWXBleDhlamtaVGNzbkVtWDM1Vlc?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
@@ -1880,22 +1880,13 @@
           "reportedAt": "2026-09-26T08:18:45Z"
         },
         {
-          "id": "report-2ee839312372",
-          "title": "Poland boosts air defence after ‘Russian provocations’ amid Ukraine war",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVkxsMGJTc3pxUko2WXowbmp4OThtWjZEWTZtc3dxV29RVmRzTWd1SU9pVVlBeFJ5aUhOenFTMkRfZmhRTnlmN1BISXdTSEZpVDBCZDh5cUdhYTByLVhaakpnYVZxYTFVcmJiXzV5ZlVXYUJTejA5N1l1azJlSWVLOG00bmFqdXNGY2dRSDFuNUR2Nzdta1pfTXBWNjN6cnM5UUxwcTFYM3hUdnpTd2VB0gG0AUFVX3lxTE9NMFk0b3JZb01GcHFMSEEyV0NlY2h6SUgzZVBtWmNFZ092NGh4eXZpckdvYWlVcHVJcHdKZmQ0bU5qZXV4MS16N1ZUU2dWQkVQdF9FeldOUHZqOU11SUotZlpfWWlnZDE4YnMxbWpRd2JpcUwwVHhXM3J5OXFDbF9TTktabDNQbEJteTFrNzhGbWFBb3lFaEJVdlpGSUpoTnMyZzFFTkczaXhVRkpMTDRDZ0JJOA?oc=5",
+          "id": "report-75b8d9f38166",
+          "title": "Israeli minister Bezalel Smotrich calls for war in occupied West Bank",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdHFVbXp1cUNEaGhtUVpVLVg1d0tPTVVBR1lsT0JiX2Rjd1p3dF9uR3NqUVByaGZTRkJKM1Vod3gzYzBjV3hmR3ZBdVVORzVndU5hSUwzdnh1bVBmTDhYRmlqa3FFa0JoclFYNGVlSEkzQldVUkN0dkJZT0tQbzB4a3p0Vm9MYjRUNm04cjRHemxRLV9MV1llOU1BQzBBU0kwZmlhTkF0TDcydm5jS0040gG0AUFVX3lxTFBjMUdQaGpVS2tQNk16ZG1aUVYySTc0d3RsMXNOeVNYalBKSC1xYlduM0RWUWpwdnFJUkxVRjlESDFtRmpSSldYbTlzR3BDazNVNjJuYnRKelc5Qkh1SDVQVVJRM3p1c3ZTY2NYNUpIOTlCNlBnR084anJQRTltSWFSQk1obGxmWEM0T1NBUjNOeVpONlhzVVFhbDFJdmpMWHRDVXRBcGpLc3Q0c2dxcXBydXRDZQ?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-25T18:09:14Z"
-        },
-        {
-          "id": "report-22a86e0b527a",
-          "title": "Trump doubts Iran deal, plans renewed strikes after midterms: WSJ",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTTBKQW9pWXhtSDhDTW5VTHhGeGJVU01GWU9OdDBUUVpka3lDc2E0WVU5S09WSXlHTjY0cTRDeDZ0aW0zUlVUNFFlOHBxaG4yeEx5djRxYUpJWGNLdFpaVjBMTVdmY3NJbVZMdi0xWno4dnpKTk5PVjJTVnRWLTY4V0dCcXRlbHhreDg2MTlJTEwyeE0wbTVOSEl5T2FtYS1JNnZ6cWlEd0RHdndQdVVtcVBoRjhkQQ?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
-          "reportedAt": "2026-09-26T01:21:22Z"
+          "reportedAt": "2026-09-27T12:05:56Z"
         },
         {
           "id": "report-55bed5072faf",
@@ -1934,24 +1925,6 @@
           "reportedAt": "2026-09-26T04:29:21Z"
         },
         {
-          "id": "report-0eb9969454e0",
-          "title": "Pakistan, Turkiye edge closer towards joining Saudi war against Houthis",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMGk2TldwemI1R2RiNUJtbUZ3eFFCZjNXelhILVA2eDkxcXJZa3ZFaDVSMDdQVmpUTlZmM2ZfLU9mbUNQdlQ4UEQwUGVES2JFNWFwa2FuYkpzb2h1OHdLNWY3NTduWVN2ZkpGSEltSTBsVUVtSXJPX0Y3dlJ6dGNSRHRMcW9fc3FYYlF5aGtBVVNPT0FyRTZZdGFLUnpoT2lYYkQ5YlBCXzFvbG9pamU2UdIBtgFBVV95cUxNMGR6U1hYN29HMm5iUUctWGIySndQc3ZmSDVqSnVhaWhKSm4yUjZkUW5Wb0RyZFBlRGVpU2NhUEF0bEl1TWZHRkNYbjZBdzNuQzFpSkpSOW9EdUROeE5zeDFhSi0yN2VlLUNlbXFPZlZzck5NOEh1MjFFTjFoMTJfNW0zSlo1VlpVdkVNelNTTExxUGZ6RGFBZnYyTWExcGpHLTJHWVpYT2UwZm9ROTdCUGNObjJLdw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-25T11:27:03Z"
-        },
-        {
-          "id": "report-75b8d9f38166",
-          "title": "Israeli minister Bezalel Smotrich calls for war in occupied West Bank",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdHFVbXp1cUNEaGhtUVpVLVg1d0tPTVVBR1lsT0JiX2Rjd1p3dF9uR3NqUVByaGZTRkJKM1Vod3gzYzBjV3hmR3ZBdVVORzVndU5hSUwzdnh1bVBmTDhYRmlqa3FFa0JoclFYNGVlSEkzQldVUkN0dkJZT0tQbzB4a3p0Vm9MYjRUNm04cjRHemxRLV9MV1llOU1BQzBBU0kwZmlhTkF0TDcydm5jS0040gG0AUFVX3lxTFBjMUdQaGpVS2tQNk16ZG1aUVYySTc0d3RsMXNOeVNYalBKSC1xYlduM0RWUWpwdnFJUkxVRjlESDFtRmpSSldYbTlzR3BDazNVNjJuYnRKelc5Qkh1SDVQVVJRM3p1c3ZTY2NYNUpIOTlCNlBnR084anJQRTltSWFSQk1obGxmWEM0T1NBUjNOeVpONlhzVVFhbDFJdmpMWHRDVXRBcGpLc3Q0c2dxcXBydXRDZQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-27T10:04:26Z"
-        },
-        {
           "id": "report-fe87c2f16dfb",
           "title": "Multiple regions in Russia come under Ukrainian drone attacks",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNTRPUXhjZWlSbUZGSFpVemRYNzhNY2t2dG5ZVzZ1STFfTWUzNmFLYllObmhfTWVpZmwwRllaWGNndVRzQUxGMkNpSUpySWFSSl80OGU2ODRPSEtEUFc4b3pkNi1YLTk0NktvUjhGYnlSSVlyVzFXdzNGYzFvcXhGLTJWS3NRakM2VG9IMFRLckZJclo5RTBoVDNOTWhvVU54aWJsUzF5MXprTlo0aC1LX01B0gG3AUFVX3lxTFBKRDVyMHJ1OEFPYlVvblBDeElmYmRxMWtYSG5vWUs0OTFYbU9uWnV0X0J3c1BlWUp2Q0F4NzNsSGJRYUhzRk9rQnFhSE03aU1VQUMtU3hmaXJnaFc2c19yT2ZwbmFQbHpnY1ctcmdGczFGRkpHRXdaM2dnZTJZdEhOUTd6TUVNaFRTOXZFRUhoQlMwZm12S3BEeHBCckI5dTFraTZJRlR2VEFjV01pMVlGVWxZYVlqSQ?oc=5",
@@ -1971,7 +1944,7 @@
         },
         {
           "id": "report-01178d8ca3ab",
-          "title": "Delegates walk out as Netanyahu touts Iran war, slams Qatar and Turkey at UN - Al-Monitor",
+          "title": "Delegates walk out as Netanyahu touts Iran war, slams Qatar and Turkey at UN - al-monitor.com",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdWNJOGo1S2U2STB6QzhXRFdmaTB3bnY0ZEo0UXBHMW0yU0lDa2VHbHpxX3gwZmx6R2RCZGRvTDlxTHlOY0w2SVJVUkYtMlZWTDUtd0lILWNuZDBKNW1JZXdoVFhMZlpBMnBXbW9jajg1V284Y1cyQm8tdW1OM1FDTHBaMmRuQ3BDYlJ0QmFVMl9uT1doYVJxa2JiaXBpWEFON3FlWDAwc1NtUlZHdm9yRWxZVVI?oc=5",
           "domain": "al-monitor.com",
           "sourceTier": "Regional reporting",
@@ -1995,6 +1968,33 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-25T08:42:34Z"
+        },
+        {
+          "id": "report-cc1065ead9ee",
+          "title": "Saudi-led coalition says shot down 6 ballistic missiles launched by Houthis",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYXBsVHBxNmVKcjlZbTVfR3hfVE1xclVoVlcyYjZKMm9talVQWTlOcFhhWHRjYVhKVHdCaXlMRFBwN0dqYVY4aDVLVE9McGxfWFJxMXBtejlNTnhZU2x3LUswbmVjZm1wSHhvVF9qaGVlaHhFdFplZ1dOYjIzQVJzZFlEd1dMWDI1U1FPMTlmclFQS0lDNmZ4R1ROM1k4VlpzY29lQ1NDeHZoQ09vOTJHbld5ek1NUWPSAbwBQVVfeXFMT25vSG53S2JsWnpLeE96WHVBWU54aEhPZlJqdXpYWmlpTHJXRG82a2Utak1WX2c5TWpoY0tyZEpQUTJSdkZMcE14dFpGdGZPUlFlSVZqS2ZkUlBScktjMDdZQ19GU29nSlBhMHVDdmFfVnNJY29ZQXFwRkxEaVVsakZUU3d1WXFmTmtHeW41ODE2UVBtbGxNNHJOa2dSanRNXzJSbTYtWlpfQTdzR3RfaTkxQjVXQnRxNXZoaDQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-24T21:28:44Z"
+        },
+        {
+          "id": "report-4b6687e0a425",
+          "title": "Russia scales up strikes on Ukraine as largest steelmaker halts operations",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOM3N3XzV2MzdkOVlrdlBmbEZHT3RKTlJadVowaXRvSzFIUFJrWFN3amxaQk1FNFdRbnVESE5CWFBqX1Q4Mkl0bHZucTBiR09RWDgySzQzVWxNWlc3RTVLbk1CWnNUWUw1OUUyd183ZEJfbS1Ta3Q1R09ib3VpZHJfUWdVekotaDJkcENXSHVUczdMUXAtOFRnNUl3LWRESTY2SFdyejVoeC1tRU9QR2ItR0FkWVdCZW8zYTdNYmppdTZlcGfSAcgBQVVfeXFMTUdFNVByNHJsMk9femhxZG5NMW81QmVDNHQ3OHBQdFRGUUt5NHc5NnNadUdjel84VGROQ1F3dm0tbi1sOGNBbHpRYmNldGRzMnFoWGdlR2RFZ1c5RHluUXV1YTV5R3NPVU9zSWRGT1pQUE5WNS1MSFVVNEFTQnFKZ1BPSVptRFVRNHFmdVUtVDRkNVA3anJ3bkZDZl94X3Z3TEgtZDluYnZkclMtMUdyaDhhZHRpbzZSMWxFbmhqNHBMVFgwUERHbWo?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-26T21:02:52Z"
+        },
+        {
+          "id": "report-c1f39d7da37d",
+          "title": "Yemen’s health system could collapse in some areas, minister warns",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeU5vY2JkamwzZ2hrRi1WZVhZdjZoRjQyd29DLXRPQUQxdW4ycFNRZ1ZHRlJxZVV2SlBiMm9CaXRORXhCY011eWk2QnFzQnIxRjJGLVZlSHpoQ0dpZkgwaTF3V1dNdngxVHdZajBjS3NlZjNXcnFPYmRqU2x5TldKTVhXbFN3NGtlV21JZWkyUGFWRm16dUpIZW9OeHZITlhSYk9FLXNyRGzSAa4BQVVfeXFMTzdEblpINThRdkgxS04zby0tY1poRWRNTnlubEFCUE1SelNmODlpSDAxYnhjSmd1US1mM2NaVmExMVNCdjE4R19kclNzck5mLVhjbW9OUVZ3WHJ0UUJlSTItc0JHT3o4cHJoenlKMFBSSktTN0stSWhwTEZUN0t0QmpReG5tUXRRLTMxWElRZVRESW5naDYwTjJlREEzVi1sY253MmVKNDV1ZTN4VzRB?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-27T14:23:12Z"
         },
         {
           "id": "report-3d06d7802bf8",
