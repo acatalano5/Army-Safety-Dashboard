@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-28T05:21:39.229Z",
+  "generatedAt": "2026-09-28T13:51:48.557Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-09-28T05:21:39.229Z",
+      "generatedAt": "2026-09-28T13:51:48.557Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -1743,12 +1743,12 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-09-28T05:21:39.229Z",
+      "generatedAt": "2026-09-28T13:51:48.557Z",
       "cadence": "every 6 hours",
       "items": [
         {
           "title": "Trump rejects Iran’s seven-day roadmap to end war and reopen Hormuz",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPekVrcUpCSVdWWjdjNHY5ZS12MmprMF9ma3loOGpyZExyTW5uRG9qT3NjV21qSUFSMUhRVV9Ld3A5TWpVTS1QcFI2VENoZTdQRkVIQi11Z2JuUV80a1B2U2Q5TGhlQlZiZkV3MFlCbkI4NUZDeWJROWgxbTAtSVE3dU0xUDVnbFU2MF9MN25MVmZRNUdCWXBleDhlamtaVGNzbkVtWDM1Vlc?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPekVrcUpCSVdWWjdjNHY5ZS12MmprMF9ma3loOGpyZExyTW5uRG9qT3NjV21qSUFSMUhRVV9Ld3A5TWpVTS1QcFI2VENoZTdQRkVIQi11Z2JuUV80a1B2U2Q5TGhlQlZiZkV3MFlCbkI4NUZDeWJROWgxbTAtSVE3dU0xUDVnbFU2MF9MN25MVmZRNUdCWXBleDhlamtaVGNzbkVtWDM1VlfSAa4BQVVfeXFMTjljQTNjOXdPLVpNZWhUNTduR2ZZWGN3dDRrak9NOS1WWlBNejVMWDk2aGRkek9CYzB5OWpiTU1BeWtHUkRZZGduc28td2dSZmlsQUM2NTNrQ1M5WU1rcVJoNWZKZlkzNmN5Z1FkWnJFN0FNVDEtQjFKSkYwQ0RQZFpkOWVxNm43dkloMnZtTFFFSy1xVVRYVEJEYkFZdzdBemNCMEJQZGVLZzdvQXlB?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260927T033046Z",
@@ -1771,19 +1771,19 @@
           "pinned": false
         },
         {
-          "title": "Ethiopia war: Internet disrupted in Tigray",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zVkxDYUNsdVNkaFV5R0p2SHFlei1abkY2S2NzVktONWVIWklxemxqaV9aVnBCZDAtYWhvNHo2N1ZSQ0hON3gwRVhkNWFSVHhRZlJSdFRITWVKcVk?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260925T171355Z",
-          "pinned": false
-        },
-        {
           "title": "‘Iran ready for doomsday war’, FM Araghchi says",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTzRHZTRobUtjWFFQRm9nY0xkTzF5N0FhV3d0dlluOGVlQWhqRkZnQ1RsdDJEaG9wZTZvSVZtUVVtc0U4aVJXUHdNUC1LTlI5QllsTkhyaG1lOWszN0hfMVI5U1VieDVkRlpSeEw3RS1xcmdPOF9oa3A0WUNXbDZyVzBiMXZwcEJLczVjVEpBMVZ0dXYtZUVUcFBMQdIBoAFBVV95cUxOaHgteUoyamVXclJvbTV0bjVYWVlhbWZybGdQSHZQemNjNWlkLXZBb2NRLWZLLWVnV01GX0hPYW5UYnNSUzRDWFlYUEx4dWRRMENlUVpxM0NjR1V1bjJqSV9yZHdyREtiWUF0anVpcnN3di1DeFFNUkxHM0hUbldYV2NFSnJ3LW1iSktOQmVwYkRuU2xzRGtiNVZwSFVHd2pa?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260927T180909Z",
+          "pinned": false
+        },
+        {
+          "title": "Ethiopia war: Internet disrupted in Tigray",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zVkxDYUNsdVNkaFV5R0p2SHFlei1abkY2S2NzVktONWVIWklxemxqaV9aVnBCZDAtYWhvNHo2N1ZSQ0hON3gwRVhkNWFSVHhRZlJSdFRITWVKcVk?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260925T171355Z",
           "pinned": false
         },
         {
@@ -1835,14 +1835,6 @@
           "pinned": false
         },
         {
-          "title": "Iran war squeezes Iraq’s economy as oil revenues fall and prices rise",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVVhxMGJ0YUNGaW9FdmNIeDQzYllNZm9Mdi1DREhRNVdWQ3IyYUdObWdoWHFZMi1MRDVTLTBxY1dSdldIcV93NWlKeTFkT040UTA3TmllRTRCUzJFUHI3MjhBSHNKQkVzanQtWW1BRTVqYldqQjhwMnRyR2xKMjZzLTdDcmd5cFVoUURKVV9IaFBuTmdkbURvMDZPTUdQaGdnUXI4RERfWGM3eFpPSFHSAbMBQVVfeXFMTzgxM3VvTmJ4QlhOSmlSRlI5WVEyOXhmdkNQOV9kN2g1SkJMN0w1LVBVOVl3UVM0VG93NU94NEprbjlwTTlmVDFIVlhqVkNvVHpfS1VNWHkxdjNfUmI1VVNMNVN0WHNoNHF4MWVoT0VrakV3SG1oMnNmZDZDV0pMbzM5d01rLWpfOHA3aExUQ183YWFzLXJvMkRaT2wxUjREZzBrNFFpWHl5ODc5WFNpdGlNZWM?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260926T081845Z",
-          "pinned": false
-        },
-        {
           "title": "Lavrov: Russia’s war in Ukraine will continue ‘through to the end’",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNXzQxMXYwcHowTWp5cDdiM3Z2UUpRUk5TcXNkTFpzUjNMV2FRYnNMUWZlSE9WOG5MN2otS3h0VVhhd3hCeXhZWUFGV3BsUklOUmU2WXh5a29vVEZ2THhRcjMyV1Y5VTEwSktVbkRoOXA5cmNvOU1FWGthY3FQV2xCZzFhcWhBZzY1TEpkZVNDYld6ODV0NnRjUHNTUlQxUlp5UTZmSXhZaTVYZk5BVmfSAbMBQVVfeXFMT1NkUGRhaVpENDNFZHRJeEdiZzV2R3hYTDloSE1KOWZLOFROSU1Id1BmcTRaSTVnV0FPbnVOY2VLNy14VkpjcldZZVhMVEp0N3M4ZE5hdEo4SWFQZjNsLWpUamJHYW92ZkVPUWMtOVVmSDA1aGVjTDFPR2M2YU9CeUM4NnMxd3ZiMnZEdnliYkVNeVJzUGhiZ1JOa0gzVnZ5clluQllnZnk0MWhzeXNVUkJGNkE?oc=5",
           "domain": "aljazeera.com",
@@ -1859,6 +1851,14 @@
           "pinned": false
         },
         {
+          "title": "Iran war squeezes Iraq’s economy as oil revenues fall and prices rise",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVVhxMGJ0YUNGaW9FdmNIeDQzYllNZm9Mdi1DREhRNVdWQ3IyYUdObWdoWHFZMi1MRDVTLTBxY1dSdldIcV93NWlKeTFkT040UTA3TmllRTRCUzJFUHI3MjhBSHNKQkVzanQtWW1BRTVqYldqQjhwMnRyR2xKMjZzLTdDcmd5cFVoUURKVV9IaFBuTmdkbURvMDZPTUdQaGdnUXI4RERfWGM3eFpPSFHSAbMBQVVfeXFMTzgxM3VvTmJ4QlhOSmlSRlI5WVEyOXhmdkNQOV9kN2g1SkJMN0w1LVBVOVl3UVM0VG93NU94NEprbjlwTTlmVDFIVlhqVkNvVHpfS1VNWHkxdjNfUmI1VVNMNVN0WHNoNHF4MWVoT0VrakV3SG1oMnNmZDZDV0pMbzM5d01rLWpfOHA3aExUQ183YWFzLXJvMkRaT2wxUjREZzBrNFFpWHl5ODc5WFNpdGlNZWM?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260926T081845Z",
+          "pinned": false
+        },
+        {
           "title": "Iran shifts trade north to Caspian Sea as war impairs Strait of Hormuz",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWFJPSF9LU3NrQXB3NXRDbnVMdHhMX2kwdXhRemZyVU5XZ3B6MEJVNFIwRmJrczZfTExBRlY2bExhYlZCSEE3bDh5M3lFSVRwcTRwVUxqNFdScVJxOUxVbU5QekxqUWxlUnp4cU5nekVQZVdJajdVV1hYeHJSU2hNQzllM2kyVGhXTnVOMnd5YkpYY1Y4T1BCX0JsMnJYamVaT19RVDVwVXRGTnV3NVdrLVRZclpLODUt0gG-AUFVX3lxTE1sU3B2R2dHWFJBUjk4eEsySUNnNnZPZG9ILWhzblFpemVORnhWdGRpanA3cTJCLTNqTVZyN0ptd1dyTmxmWDhqVTRqM2FjZEpvVTNqZk5TQTJINEZYNDk4ZGdqakZWWC1TYkpmbWZ0RmY5ZDN4VW5FNzNxLWhJd2tuNzNIdzl4ZUZEZnR6QldkSWRwWDZqVDFCZFh3bnpudWR0S2tZM0xWb0dzdXktSGlaQkdRUlFBSzlaLVBhM1E?oc=5",
           "domain": "aljazeera.com",
@@ -1867,27 +1867,19 @@
           "pinned": false
         },
         {
-          "title": "Netanyahu’s UN belligerence wins cheers at home as world walks out | Israel-Palestine conflict News",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeVJtSl9NR3ZBOWI0cUUxclNEcU5VRWVPZDBwMlFSVlFYSjdHLTc1LU9VUXFUS1NDUGctck9FUE5XMmx6R3YwbVkyZ0ZzZHFjV0FaeWdFeUZSRHNfVEcwdWxNV2RBZEJuYUpTMWo1UWNWT2JIanZaT1pycDM0UXlacjF3WDBoWGVYOUFzUS16Q3l4c3ZZbUR0d0l5VFFzTi0xSF9DNmJxRzY3dUw1NW1vMjJkVTYydw?oc=5",
+          "title": "Israeli minister Bezalel Smotrich calls for war in occupied West Bank",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdHFVbXp1cUNEaGhtUVpVLVg1d0tPTVVBR1lsT0JiX2Rjd1p3dF9uR3NqUVByaGZTRkJKM1Vod3gzYzBjV3hmR3ZBdVVORzVndU5hSUwzdnh1bVBmTDhYRmlqa3FFa0JoclFYNGVlSEkzQldVUkN0dkJZT0tQbzB4a3p0Vm9MYjRUNm04cjRHemxRLV9MV1llOU1BQzBBU0kwZmlhTkF0TDcydm5jS0040gG0AUFVX3lxTFBjMUdQaGpVS2tQNk16ZG1aUVYySTc0d3RsMXNOeVNYalBKSC1xYlduM0RWUWpwdnFJUkxVRjlESDFtRmpSSldYbTlzR3BDazNVNjJuYnRKelc5Qkh1SDVQVVJRM3p1c3ZTY2NYNUpIOTlCNlBnR084anJQRTltSWFSQk1obGxmWEM0T1NBUjNOeVpONlhzVVFhbDFJdmpMWHRDVXRBcGpLc3Q0c2dxcXBydXRDZQ?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260925T171235Z",
+          "seen": "20260927T120556Z",
           "pinned": false
         },
         {
-          "title": "Multiple regions in Russia come under Ukrainian drone attacks",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNTRPUXhjZWlSbUZGSFpVemRYNzhNY2t2dG5ZVzZ1STFfTWUzNmFLYllObmhfTWVpZmwwRllaWGNndVRzQUxGMkNpSUpySWFSSl80OGU2ODRPSEtEUFc4b3pkNi1YLTk0NktvUjhGYnlSSVlyVzFXdzNGYzFvcXhGLTJWS3NRakM2VG9IMFRLckZJclo5RTBoVDNOTWhvVU54aWJsUzF5MXprTlo0aC1LX01B0gG3AUFVX3lxTFBKRDVyMHJ1OEFPYlVvblBDeElmYmRxMWtYSG5vWUs0OTFYbU9uWnV0X0J3c1BlWUp2Q0F4NzNsSGJRYUhzRk9rQnFhSE03aU1VQUMtU3hmaXJnaFc2c19yT2ZwbmFQbHpnY1ctcmdGczFGRkpHRXdaM2dnZTJZdEhOUTd6TUVNaFRTOXZFRUhoQlMwZm12S3BEeHBCckI5dTFraTZJRlR2VEFjV01pMVlGVWxZYVlqSQ?oc=5",
+          "title": "Police probe ‘terror’ incident near RAF base used in Iran war: What we know",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX01hV3BoUG5vRXFIRmcycDhNV0dnaWZsVzA3QWg5Mk12NU1oUFF1bWlERHVRRFpFTi1fMlYxdnMzNFp2WnZxaXFKUEViYTZyajJ4NTI4RS1fc0tyblAwLTRkUGI4OF90VGN5bFM0cE84dmFTWlpWdFM4bV9oMjNobWVXZ1Q2OC1ycEZYQWtmN3Zfb3JxbVFpd1dGQWpDM1FleFNZ0gGoAUFVX3lxTE16eTRSRk9tT3N0Q0ZLbDg3NC1zcnN4R1hPZ3I1VndHZ000Sk5UU2lLMk9RRzBEY1dYWG4tYXJYZE9feWV6TVYwWXJGcXE1SzYxcWhsTEx5bVZlN1dOSzNfa1phWWVheVA4Z2tVUk1IWEp0Y0VCOEVlRjdsMGdNR3hHYzFSU29DQ0htRFZvcGZpOXA5cF95T1F2TmJEWFRYZm5qa21ES2xzSQ?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260925T052229Z",
-          "pinned": false
-        },
-        {
-          "title": "Rising malnutrition in Nigeria as US war on Iran raises food costs",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTml2aGRXeWl5VXkwY05JWmNSVGhRekF4Zjl2WjhzNlRQdnRYd1pMNUNBQ3liaWJEYXc4Tlo5VUdmb21TR2FNNXh6aGhDbkp3Mm9nZnBqblVZOHRqVk5zLUJMcFRYVkNsd3diczQ0Z0VpTzQ1aWt3ZHFuSXZZQTVtTHRJWGRQajNLWFZERmFBVF9OWlBvZm1UUkR0V2E3NHlNWVVoOEFtVG5WQmtfRk5XaW5rSDZXOTZL0gG-AUFVX3lxTE9xd0kzVWd2cGxJX2NGdTE4UTk3Qk5rd2VVeWVmZGpMVjd6bW53dkEzallqSkhLVEgtR2I1cXdNYWtET2tXc3hfUlUxWUdmRUN3cXpIdVVPbm81dTN0clh2aVEtN3hZQVJWbjdhTEhlRGNEU0lYNDAxdzhDTWdYN2RWYWtjb0dNcllTd0FKWnlUc0F1YjJWSFQ1cmJzREpCWWRRSlk2UkNWUW9HM0FtREM4TFhnUTY4RVB3eV9GUkE?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260925T101228Z",
+          "seen": "20260928T114338Z",
           "pinned": false
         },
         {
@@ -1899,6 +1891,22 @@
           "pinned": false
         },
         {
+          "title": "Iran’s children return to school under the shadow of war",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYjhaQThZd1VYT19jaEoxYWNIYk5LYmRRckt5eWdzYllDdU8yYzFlZTVYeTBPQjBmdmlfUHpWYTNOVnBYb2NPWjdXMllObHhjLWtoajBLM3pzQWxaWVZWWlZubDlMQnpEdmJVYy1TbVNtT2ZFZFI0a3VMNWpOUGt2VllJcEVEZzFzSkU1cG5SM3htRlNIbTA3eFZhWS1NcTBNVVHSAacBQVVfeXFMUHM2M1FlVUpnck1YRXh5U01OWENyU2hrUmpBdWozeEJ5RHFDdDI2QmVtTGE4bktXUXg2aHhNYWpGUFdubGJPSWM4ekl2M3NHNzNCMmpYaVhoN29BeG1yOHRGaXI5cHJWX3lvSDQzYnp1N1U3M3Z6N2xxaW4xbjJ5RWUyanBBZmY5R0t4UHN0NHVNVEN6U3VPREMycEtkakpSd2RyUTA4SjA?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260928T084805Z",
+          "pinned": false
+        },
+        {
+          "title": "Djibouti urges world to help as Yemen war drives refugee influx",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZFJsanNEekxiazdBdlFBWVFuX3pwMnVpVmtBTWFXS2dxVWJtQTF1akF0eGhheU9xVWNJbktCZDdzWGV6UzVjZVNTOU40U1pmR0I0X05Zb0lFU0NORzNQQ3I5OVB6NXZaV3V5eVdrSHdaUDhJTl9JblAtQ2lKSjhjd3R1TzlGTEhWZjV2dURjZnU1RjNxU0ItR2JwZ2dhLXhfdDA5TGRjb2ZiMnltSWtMSTJHT0TSAboBQVVfeXFMT0VhZFpDZXN4T1FsWEFsd1VnT0hfSEFkNHpsOFcxRURJa2ZHWEcwZEdqSy1zQVZnY1Q0b2lETl9FbHpaUzFJZFNNSzM1NEdLQ1FhSUNtOS1aR2ttWDVpMXJvbEN0ZVVWYVZLX0E1SS1QZm9KNlZ0Yk1rTUVCYTJFZmpIb3FsVF9Oc2lFa2haS3dIVThZczFKZDN3WWZHZGFUaVpWcHlDWkhhWG02bTRwQmVZX0tmSkU3RFJn?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260927T085108Z",
+          "pinned": false
+        },
+        {
           "title": "Yemen’s health system could collapse in some areas, minister warns",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeU5vY2JkamwzZ2hrRi1WZVhZdjZoRjQyd29DLXRPQUQxdW4ycFNRZ1ZHRlJxZVV2SlBiMm9CaXRORXhCY011eWk2QnFzQnIxRjJGLVZlSHpoQ0dpZkgwaTF3V1dNdngxVHdZajBjS3NlZjNXcnFPYmRqU2x5TldKTVhXbFN3NGtlV21JZWkyUGFWRm16dUpIZW9OeHZITlhSYk9FLXNyRGzSAa4BQVVfeXFMTzdEblpINThRdkgxS04zby0tY1poRWRNTnlubEFCUE1SelNmODlpSDAxYnhjSmd1US1mM2NaVmExMVNCdjE4R19kclNzck5mLVhjbW9OUVZ3WHJ0UUJlSTItc0JHT3o4cHJoenlKMFBSSktTN0stSWhwTEZUN0t0QmpReG5tUXRRLTMxWElRZVRESW5naDYwTjJlREEzVi1sY253MmVKNDV1ZTN4VzRB?oc=5",
           "domain": "aljazeera.com",
@@ -1907,11 +1915,11 @@
           "pinned": false
         },
         {
-          "title": "Russia scales up strikes on Ukraine as largest steelmaker halts operations",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOM3N3XzV2MzdkOVlrdlBmbEZHT3RKTlJadVowaXRvSzFIUFJrWFN3amxaQk1FNFdRbnVESE5CWFBqX1Q4Mkl0bHZucTBiR09RWDgySzQzVWxNWlc3RTVLbk1CWnNUWUw1OUUyd183ZEJfbS1Ta3Q1R09ib3VpZHJfUWdVekotaDJkcENXSHVUczdMUXAtOFRnNUl3LWRESTY2SFdyejVoeC1tRU9QR2ItR0FkWVdCZW8zYTdNYmppdTZlcGfSAcgBQVVfeXFMTUdFNVByNHJsMk9femhxZG5NMW81QmVDNHQ3OHBQdFRGUUt5NHc5NnNadUdjel84VGROQ1F3dm0tbi1sOGNBbHpRYmNldGRzMnFoWGdlR2RFZ1c5RHluUXV1YTV5R3NPVU9zSWRGT1pQUE5WNS1MSFVVNEFTQnFKZ1BPSVptRFVRNHFmdVUtVDRkNVA3anJ3bkZDZl94X3Z3TEgtZDluYnZkclMtMUdyaDhhZHRpbzZSMWxFbmhqNHBMVFgwUERHbWo?oc=5",
+          "title": "Russian strikes kill eight, injure dozens across Ukraine",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdTlqWWJRWk9zMG1IcEg0Wl93SXhGdVZrWnpoaEotemp6cDRabW5oUUREVlVBdDhKc2F4SVJoMmlGRExxNjZxR09wcFVXRkYzWFN4THd0R0J5OW5JdWRMOHQyNl9YMGZ4V2x3Vk9LOHVvSEM5SWRfYzhlaDM4RGNZNUlmcFF1T1Y4Mjc1MnczeDRtWHFSRll4LXhiTzLSAaIBQVVfeXFMUFRtWkJsZDloOGNMbG9kd2tlV0N4VWdFMzFyLVltVkxhN0gxcWJOcFV6MWJtSVNGNGFzdjJSd1YxR2tHblAzdklNajFQRjJEVi1RNXdzeUZIZ1h6THM1V1Q3MEh4SENMVEM2VHNxejBnU2xzMVFFbk92OFlJOF9NeWFmQjkzNDAwWDRQTEFaTHJFaE5IbFJ0WEh5S1ZIWXBCc05R?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260926T210252Z",
+          "seen": "20260928T051806Z",
           "pinned": false
         },
         {
@@ -1929,21 +1937,13 @@
           "sourceTier": "Independent reporting",
           "seen": "20260925T210223Z",
           "pinned": false
-        },
-        {
-          "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43MDVHUjlYS2J2N0RyYVBDR2ZYQzh5XzJGRFcwU2dUM2xBeFVxakZvSlBCTlNfSjBtTlhSZkRBSVFWNG9NVkpId3dDc3pDbkZPOGJnUjN1MXl1ejg?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260927T074411Z",
-          "pinned": false
         }
       ],
       "reports": [
         {
-          "id": "report-ee2fec9890c0",
+          "id": "report-c2b5b99cf84c",
           "title": "Trump rejects Iran’s seven-day roadmap to end war and reopen Hormuz",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPekVrcUpCSVdWWjdjNHY5ZS12MmprMF9ma3loOGpyZExyTW5uRG9qT3NjV21qSUFSMUhRVV9Ld3A5TWpVTS1QcFI2VENoZTdQRkVIQi11Z2JuUV80a1B2U2Q5TGhlQlZiZkV3MFlCbkI4NUZDeWJROWgxbTAtSVE3dU0xUDVnbFU2MF9MN25MVmZRNUdCWXBleDhlamtaVGNzbkVtWDM1Vlc?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPekVrcUpCSVdWWjdjNHY5ZS12MmprMF9ma3loOGpyZExyTW5uRG9qT3NjV21qSUFSMUhRVV9Ld3A5TWpVTS1QcFI2VENoZTdQRkVIQi11Z2JuUV80a1B2U2Q5TGhlQlZiZkV3MFlCbkI4NUZDeWJROWgxbTAtSVE3dU0xUDVnbFU2MF9MN25MVmZRNUdCWXBleDhlamtaVGNzbkVtWDM1VlfSAa4BQVVfeXFMTjljQTNjOXdPLVpNZWhUNTduR2ZZWGN3dDRrak9NOS1WWlBNejVMWDk2aGRkek9CYzB5OWpiTU1BeWtHUkRZZGduc28td2dSZmlsQUM2NTNrQ1M5WU1rcVJoNWZKZlkzNmN5Z1FkWnJFN0FNVDEtQjFKSkYwQ0RQZFpkOWVxNm43dkloMnZtTFFFSy1xVVRYVEJEYkFZdzdBemNCMEJQZGVLZzdvQXlB?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
@@ -1968,15 +1968,6 @@
           "reportedAt": "2026-09-26T09:42:52Z"
         },
         {
-          "id": "report-9231ad8a2867",
-          "title": "Ethiopia war: Internet disrupted in Tigray",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zVkxDYUNsdVNkaFV5R0p2SHFlei1abkY2S2NzVktONWVIWklxemxqaV9aVnBCZDAtYWhvNHo2N1ZSQ0hON3gwRVhkNWFSVHhRZlJSdFRITWVKcVk?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-25T17:13:55Z"
-        },
-        {
           "id": "report-31e78bfdf96a",
           "title": "‘Iran ready for doomsday war’, FM Araghchi says",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTzRHZTRobUtjWFFQRm9nY0xkTzF5N0FhV3d0dlluOGVlQWhqRkZnQ1RsdDJEaG9wZTZvSVZtUVVtc0U4aVJXUHdNUC1LTlI5QllsTkhyaG1lOWszN0hfMVI5U1VieDVkRlpSeEw3RS1xcmdPOF9oa3A0WUNXbDZyVzBiMXZwcEJLczVjVEpBMVZ0dXYtZUVUcFBMQdIBoAFBVV95cUxOaHgteUoyamVXclJvbTV0bjVYWVlhbWZybGdQSHZQemNjNWlkLXZBb2NRLWZLLWVnV01GX0hPYW5UYnNSUzRDWFlYUEx4dWRRMENlUVpxM0NjR1V1bjJqSV9yZHdyREtiWUF0anVpcnN3di1DeFFNUkxHM0hUbldYV2NFSnJ3LW1iSktOQmVwYkRuU2xzRGtiNVZwSFVHd2pa?oc=5",
@@ -1984,6 +1975,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-27T18:09:09Z"
+        },
+        {
+          "id": "report-9231ad8a2867",
+          "title": "Ethiopia war: Internet disrupted in Tigray",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zVkxDYUNsdVNkaFV5R0p2SHFlei1abkY2S2NzVktONWVIWklxemxqaV9aVnBCZDAtYWhvNHo2N1ZSQ0hON3gwRVhkNWFSVHhRZlJSdFRITWVKcVk?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-25T17:13:55Z"
         },
         {
           "id": "report-b1b22361136c",
@@ -2040,15 +2040,6 @@
           "reportedAt": "2026-09-26T14:02:54Z"
         },
         {
-          "id": "report-06c0c7d6a33b",
-          "title": "Iran war squeezes Iraq’s economy as oil revenues fall and prices rise",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVVhxMGJ0YUNGaW9FdmNIeDQzYllNZm9Mdi1DREhRNVdWQ3IyYUdObWdoWHFZMi1MRDVTLTBxY1dSdldIcV93NWlKeTFkT040UTA3TmllRTRCUzJFUHI3MjhBSHNKQkVzanQtWW1BRTVqYldqQjhwMnRyR2xKMjZzLTdDcmd5cFVoUURKVV9IaFBuTmdkbURvMDZPTUdQaGdnUXI4RERfWGM3eFpPSFHSAbMBQVVfeXFMTzgxM3VvTmJ4QlhOSmlSRlI5WVEyOXhmdkNQOV9kN2g1SkJMN0w1LVBVOVl3UVM0VG93NU94NEprbjlwTTlmVDFIVlhqVkNvVHpfS1VNWHkxdjNfUmI1VVNMNVN0WHNoNHF4MWVoT0VrakV3SG1oMnNmZDZDV0pMbzM5d01rLWpfOHA3aExUQ183YWFzLXJvMkRaT2wxUjREZzBrNFFpWHl5ODc5WFNpdGlNZWM?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-26T08:18:45Z"
-        },
-        {
           "id": "report-fddf0b20c5e0",
           "title": "Lavrov: Russia’s war in Ukraine will continue ‘through to the end’",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNXzQxMXYwcHowTWp5cDdiM3Z2UUpRUk5TcXNkTFpzUjNMV2FRYnNMUWZlSE9WOG5MN2otS3h0VVhhd3hCeXhZWUFGV3BsUklOUmU2WXh5a29vVEZ2THhRcjMyV1Y5VTEwSktVbkRoOXA5cmNvOU1FWGthY3FQV2xCZzFhcWhBZzY1TEpkZVNDYld6ODV0NnRjUHNTUlQxUlp5UTZmSXhZaTVYZk5BVmfSAbMBQVVfeXFMT1NkUGRhaVpENDNFZHRJeEdiZzV2R3hYTDloSE1KOWZLOFROSU1Id1BmcTRaSTVnV0FPbnVOY2VLNy14VkpjcldZZVhMVEp0N3M4ZE5hdEo4SWFQZjNsLWpUamJHYW92ZkVPUWMtOVVmSDA1aGVjTDFPR2M2YU9CeUM4NnMxd3ZiMnZEdnliYkVNeVJzUGhiZ1JOa0gzVnZ5clluQllnZnk0MWhzeXNVUkJGNkE?oc=5",
@@ -2067,6 +2058,15 @@
           "reportedAt": "2026-09-25T18:32:40Z"
         },
         {
+          "id": "report-06c0c7d6a33b",
+          "title": "Iran war squeezes Iraq’s economy as oil revenues fall and prices rise",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVVhxMGJ0YUNGaW9FdmNIeDQzYllNZm9Mdi1DREhRNVdWQ3IyYUdObWdoWHFZMi1MRDVTLTBxY1dSdldIcV93NWlKeTFkT040UTA3TmllRTRCUzJFUHI3MjhBSHNKQkVzanQtWW1BRTVqYldqQjhwMnRyR2xKMjZzLTdDcmd5cFVoUURKVV9IaFBuTmdkbURvMDZPTUdQaGdnUXI4RERfWGM3eFpPSFHSAbMBQVVfeXFMTzgxM3VvTmJ4QlhOSmlSRlI5WVEyOXhmdkNQOV9kN2g1SkJMN0w1LVBVOVl3UVM0VG93NU94NEprbjlwTTlmVDFIVlhqVkNvVHpfS1VNWHkxdjNfUmI1VVNMNVN0WHNoNHF4MWVoT0VrakV3SG1oMnNmZDZDV0pMbzM5d01rLWpfOHA3aExUQ183YWFzLXJvMkRaT2wxUjREZzBrNFFpWHl5ODc5WFNpdGlNZWM?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-26T08:18:45Z"
+        },
+        {
           "id": "report-78b260f8eae7",
           "title": "Iran shifts trade north to Caspian Sea as war impairs Strait of Hormuz",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWFJPSF9LU3NrQXB3NXRDbnVMdHhMX2kwdXhRemZyVU5XZ3B6MEJVNFIwRmJrczZfTExBRlY2bExhYlZCSEE3bDh5M3lFSVRwcTRwVUxqNFdScVJxOUxVbU5QekxqUWxlUnp4cU5nekVQZVdJajdVV1hYeHJSU2hNQzllM2kyVGhXTnVOMnd5YkpYY1Y4T1BCX0JsMnJYamVaT19RVDVwVXRGTnV3NVdrLVRZclpLODUt0gG-AUFVX3lxTE1sU3B2R2dHWFJBUjk4eEsySUNnNnZPZG9ILWhzblFpemVORnhWdGRpanA3cTJCLTNqTVZyN0ptd1dyTmxmWDhqVTRqM2FjZEpvVTNqZk5TQTJINEZYNDk4ZGdqakZWWC1TYkpmbWZ0RmY5ZDN4VW5FNzNxLWhJd2tuNzNIdzl4ZUZEZnR6QldkSWRwWDZqVDFCZFh3bnpudWR0S2tZM0xWb0dzdXktSGlaQkdRUlFBSzlaLVBhM1E?oc=5",
@@ -2076,31 +2076,22 @@
           "reportedAt": "2026-09-27T08:53:52Z"
         },
         {
-          "id": "report-86e3eb4cad73",
-          "title": "Netanyahu’s UN belligerence wins cheers at home as world walks out | Israel-Palestine conflict News",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeVJtSl9NR3ZBOWI0cUUxclNEcU5VRWVPZDBwMlFSVlFYSjdHLTc1LU9VUXFUS1NDUGctck9FUE5XMmx6R3YwbVkyZ0ZzZHFjV0FaeWdFeUZSRHNfVEcwdWxNV2RBZEJuYUpTMWo1UWNWT2JIanZaT1pycDM0UXlacjF3WDBoWGVYOUFzUS16Q3l4c3ZZbUR0d0l5VFFzTi0xSF9DNmJxRzY3dUw1NW1vMjJkVTYydw?oc=5",
+          "id": "report-75b8d9f38166",
+          "title": "Israeli minister Bezalel Smotrich calls for war in occupied West Bank",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdHFVbXp1cUNEaGhtUVpVLVg1d0tPTVVBR1lsT0JiX2Rjd1p3dF9uR3NqUVByaGZTRkJKM1Vod3gzYzBjV3hmR3ZBdVVORzVndU5hSUwzdnh1bVBmTDhYRmlqa3FFa0JoclFYNGVlSEkzQldVUkN0dkJZT0tQbzB4a3p0Vm9MYjRUNm04cjRHemxRLV9MV1llOU1BQzBBU0kwZmlhTkF0TDcydm5jS0040gG0AUFVX3lxTFBjMUdQaGpVS2tQNk16ZG1aUVYySTc0d3RsMXNOeVNYalBKSC1xYlduM0RWUWpwdnFJUkxVRjlESDFtRmpSSldYbTlzR3BDazNVNjJuYnRKelc5Qkh1SDVQVVJRM3p1c3ZTY2NYNUpIOTlCNlBnR084anJQRTltSWFSQk1obGxmWEM0T1NBUjNOeVpONlhzVVFhbDFJdmpMWHRDVXRBcGpLc3Q0c2dxcXBydXRDZQ?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-25T17:12:35Z"
+          "reportedAt": "2026-09-27T12:05:56Z"
         },
         {
-          "id": "report-fe87c2f16dfb",
-          "title": "Multiple regions in Russia come under Ukrainian drone attacks",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNTRPUXhjZWlSbUZGSFpVemRYNzhNY2t2dG5ZVzZ1STFfTWUzNmFLYllObmhfTWVpZmwwRllaWGNndVRzQUxGMkNpSUpySWFSSl80OGU2ODRPSEtEUFc4b3pkNi1YLTk0NktvUjhGYnlSSVlyVzFXdzNGYzFvcXhGLTJWS3NRakM2VG9IMFRLckZJclo5RTBoVDNOTWhvVU54aWJsUzF5MXprTlo0aC1LX01B0gG3AUFVX3lxTFBKRDVyMHJ1OEFPYlVvblBDeElmYmRxMWtYSG5vWUs0OTFYbU9uWnV0X0J3c1BlWUp2Q0F4NzNsSGJRYUhzRk9rQnFhSE03aU1VQUMtU3hmaXJnaFc2c19yT2ZwbmFQbHpnY1ctcmdGczFGRkpHRXdaM2dnZTJZdEhOUTd6TUVNaFRTOXZFRUhoQlMwZm12S3BEeHBCckI5dTFraTZJRlR2VEFjV01pMVlGVWxZYVlqSQ?oc=5",
+          "id": "report-f76079050790",
+          "title": "Police probe ‘terror’ incident near RAF base used in Iran war: What we know",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX01hV3BoUG5vRXFIRmcycDhNV0dnaWZsVzA3QWg5Mk12NU1oUFF1bWlERHVRRFpFTi1fMlYxdnMzNFp2WnZxaXFKUEViYTZyajJ4NTI4RS1fc0tyblAwLTRkUGI4OF90VGN5bFM0cE84dmFTWlpWdFM4bV9oMjNobWVXZ1Q2OC1ycEZYQWtmN3Zfb3JxbVFpd1dGQWpDM1FleFNZ0gGoAUFVX3lxTE16eTRSRk9tT3N0Q0ZLbDg3NC1zcnN4R1hPZ3I1VndHZ000Sk5UU2lLMk9RRzBEY1dYWG4tYXJYZE9feWV6TVYwWXJGcXE1SzYxcWhsTEx5bVZlN1dOSzNfa1phWWVheVA4Z2tVUk1IWEp0Y0VCOEVlRjdsMGdNR3hHYzFSU29DQ0htRFZvcGZpOXA5cF95T1F2TmJEWFRYZm5qa21ES2xzSQ?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-25T05:22:29Z"
-        },
-        {
-          "id": "report-64c4973a2c41",
-          "title": "Rising malnutrition in Nigeria as US war on Iran raises food costs",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTml2aGRXeWl5VXkwY05JWmNSVGhRekF4Zjl2WjhzNlRQdnRYd1pMNUNBQ3liaWJEYXc4Tlo5VUdmb21TR2FNNXh6aGhDbkp3Mm9nZnBqblVZOHRqVk5zLUJMcFRYVkNsd3diczQ0Z0VpTzQ1aWt3ZHFuSXZZQTVtTHRJWGRQajNLWFZERmFBVF9OWlBvZm1UUkR0V2E3NHlNWVVoOEFtVG5WQmtfRk5XaW5rSDZXOTZL0gG-AUFVX3lxTE9xd0kzVWd2cGxJX2NGdTE4UTk3Qk5rd2VVeWVmZGpMVjd6bW53dkEzallqSkhLVEgtR2I1cXdNYWtET2tXc3hfUlUxWUdmRUN3cXpIdVVPbm81dTN0clh2aVEtN3hZQVJWbjdhTEhlRGNEU0lYNDAxdzhDTWdYN2RWYWtjb0dNcllTd0FKWnlUc0F1YjJWSFQ1cmJzREpCWWRRSlk2UkNWUW9HM0FtREM4TFhnUTY4RVB3eV9GUkE?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-25T10:12:28Z"
+          "reportedAt": "2026-09-28T11:43:38Z"
         },
         {
           "id": "report-69ac5bc272ff",
@@ -2112,6 +2103,24 @@
           "reportedAt": "2026-09-27T19:26:00Z"
         },
         {
+          "id": "report-37bee1ff971b",
+          "title": "Iran’s children return to school under the shadow of war",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYjhaQThZd1VYT19jaEoxYWNIYk5LYmRRckt5eWdzYllDdU8yYzFlZTVYeTBPQjBmdmlfUHpWYTNOVnBYb2NPWjdXMllObHhjLWtoajBLM3pzQWxaWVZWWlZubDlMQnpEdmJVYy1TbVNtT2ZFZFI0a3VMNWpOUGt2VllJcEVEZzFzSkU1cG5SM3htRlNIbTA3eFZhWS1NcTBNVVHSAacBQVVfeXFMUHM2M1FlVUpnck1YRXh5U01OWENyU2hrUmpBdWozeEJ5RHFDdDI2QmVtTGE4bktXUXg2aHhNYWpGUFdubGJPSWM4ekl2M3NHNzNCMmpYaVhoN29BeG1yOHRGaXI5cHJWX3lvSDQzYnp1N1U3M3Z6N2xxaW4xbjJ5RWUyanBBZmY5R0t4UHN0NHVNVEN6U3VPREMycEtkakpSd2RyUTA4SjA?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-28T08:48:05Z"
+        },
+        {
+          "id": "report-3cae31eb0c30",
+          "title": "Djibouti urges world to help as Yemen war drives refugee influx",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZFJsanNEekxiazdBdlFBWVFuX3pwMnVpVmtBTWFXS2dxVWJtQTF1akF0eGhheU9xVWNJbktCZDdzWGV6UzVjZVNTOU40U1pmR0I0X05Zb0lFU0NORzNQQ3I5OVB6NXZaV3V5eVdrSHdaUDhJTl9JblAtQ2lKSjhjd3R1TzlGTEhWZjV2dURjZnU1RjNxU0ItR2JwZ2dhLXhfdDA5TGRjb2ZiMnltSWtMSTJHT0TSAboBQVVfeXFMT0VhZFpDZXN4T1FsWEFsd1VnT0hfSEFkNHpsOFcxRURJa2ZHWEcwZEdqSy1zQVZnY1Q0b2lETl9FbHpaUzFJZFNNSzM1NEdLQ1FhSUNtOS1aR2ttWDVpMXJvbEN0ZVVWYVZLX0E1SS1QZm9KNlZ0Yk1rTUVCYTJFZmpIb3FsVF9Oc2lFa2haS3dIVThZczFKZDN3WWZHZGFUaVpWcHlDWkhhWG02bTRwQmVZX0tmSkU3RFJn?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-27T08:51:08Z"
+        },
+        {
           "id": "report-c1f39d7da37d",
           "title": "Yemen’s health system could collapse in some areas, minister warns",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeU5vY2JkamwzZ2hrRi1WZVhZdjZoRjQyd29DLXRPQUQxdW4ycFNRZ1ZHRlJxZVV2SlBiMm9CaXRORXhCY011eWk2QnFzQnIxRjJGLVZlSHpoQ0dpZkgwaTF3V1dNdngxVHdZajBjS3NlZjNXcnFPYmRqU2x5TldKTVhXbFN3NGtlV21JZWkyUGFWRm16dUpIZW9OeHZITlhSYk9FLXNyRGzSAa4BQVVfeXFMTzdEblpINThRdkgxS04zby0tY1poRWRNTnlubEFCUE1SelNmODlpSDAxYnhjSmd1US1mM2NaVmExMVNCdjE4R19kclNzck5mLVhjbW9OUVZ3WHJ0UUJlSTItc0JHT3o4cHJoenlKMFBSSktTN0stSWhwTEZUN0t0QmpReG5tUXRRLTMxWElRZVRESW5naDYwTjJlREEzVi1sY253MmVKNDV1ZTN4VzRB?oc=5",
@@ -2121,13 +2130,13 @@
           "reportedAt": "2026-09-27T14:23:12Z"
         },
         {
-          "id": "report-4b6687e0a425",
-          "title": "Russia scales up strikes on Ukraine as largest steelmaker halts operations",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOM3N3XzV2MzdkOVlrdlBmbEZHT3RKTlJadVowaXRvSzFIUFJrWFN3amxaQk1FNFdRbnVESE5CWFBqX1Q4Mkl0bHZucTBiR09RWDgySzQzVWxNWlc3RTVLbk1CWnNUWUw1OUUyd183ZEJfbS1Ta3Q1R09ib3VpZHJfUWdVekotaDJkcENXSHVUczdMUXAtOFRnNUl3LWRESTY2SFdyejVoeC1tRU9QR2ItR0FkWVdCZW8zYTdNYmppdTZlcGfSAcgBQVVfeXFMTUdFNVByNHJsMk9femhxZG5NMW81QmVDNHQ3OHBQdFRGUUt5NHc5NnNadUdjel84VGROQ1F3dm0tbi1sOGNBbHpRYmNldGRzMnFoWGdlR2RFZ1c5RHluUXV1YTV5R3NPVU9zSWRGT1pQUE5WNS1MSFVVNEFTQnFKZ1BPSVptRFVRNHFmdVUtVDRkNVA3anJ3bkZDZl94X3Z3TEgtZDluYnZkclMtMUdyaDhhZHRpbzZSMWxFbmhqNHBMVFgwUERHbWo?oc=5",
+          "id": "report-0d0bcdf9f3a8",
+          "title": "Russian strikes kill eight, injure dozens across Ukraine",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdTlqWWJRWk9zMG1IcEg0Wl93SXhGdVZrWnpoaEotemp6cDRabW5oUUREVlVBdDhKc2F4SVJoMmlGRExxNjZxR09wcFVXRkYzWFN4THd0R0J5OW5JdWRMOHQyNl9YMGZ4V2x3Vk9LOHVvSEM5SWRfYzhlaDM4RGNZNUlmcFF1T1Y4Mjc1MnczeDRtWHFSRll4LXhiTzLSAaIBQVVfeXFMUFRtWkJsZDloOGNMbG9kd2tlV0N4VWdFMzFyLVltVkxhN0gxcWJOcFV6MWJtSVNGNGFzdjJSd1YxR2tHblAzdklNajFQRjJEVi1RNXdzeUZIZ1h6THM1V1Q3MEh4SENMVEM2VHNxejBnU2xzMVFFbk92OFlJOF9NeWFmQjkzNDAwWDRQTEFaTHJFaE5IbFJ0WEh5S1ZIWXBCc05R?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-26T21:02:52Z"
+          "reportedAt": "2026-09-28T05:18:06Z"
         },
         {
           "id": "report-1ac95d4c1423",
@@ -2146,15 +2155,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-25T21:02:23Z"
-        },
-        {
-          "id": "report-67c627e6012f",
-          "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43MDVHUjlYS2J2N0RyYVBDR2ZYQzh5XzJGRFcwU2dUM2xBeFVxakZvSlBCTlNfSjBtTlhSZkRBSVFWNG9NVkpId3dDc3pDbkZPOGJnUjN1MXl1ejg?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-27T07:44:11Z"
         },
         {
           "id": "report-3d06d7802bf8",
