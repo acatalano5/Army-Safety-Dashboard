@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-29T20:14:48.445Z",
+  "generatedAt": "2026-09-29T22:14:51.427Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-09-29T12:50:58.562Z",
+      "generatedAt": "2026-09-29T22:14:51.427Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -1657,7 +1657,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-09-29T12:50:58.562Z",
+      "generatedAt": "2026-09-29T22:14:51.427Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -1685,19 +1685,11 @@
           "pinned": false
         },
         {
-          "title": "At least 10 people killed in Russian and Ukrainian attacks",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTzFQNWhvUENqMEptSkRXRl9iTW12S2s5aG50NE5qLXRxanhXQXQyTFFEd1dRZGs1UmgteUh6UEVYbjR4dWxsdFl3QUxkdHV6RGlUYXUtT0QyXzFHU1poTTFOMzVOWVUybmRNSVhTek9CLXF0VWF3VmJ3OWhMb0RVU3dDVkJQNDB1NFdGZDZLUlM3VVdvSG80U1Z1WmJLcW910gGmAUFVX3lxTFA2M1hSQVlLQkZnajNZUUFPd2UxNFhCTlNFTk81LVRJOWZldi1wZnJSbS0wblhVS1FwSWh4MXgwMVEwVmxFRWdWRldPUWV1VTdQWW40NG1GMjN0OF9zb2xWRi1vRGl3NWl3VjhFM1lnNkpiT0FWZU1oTm5pNGM2aHZBa0M2dDdhenRuMTBqZk0waHY2Q18xUXBoeVpHdE1nSTFYZHVyZWc?oc=5",
-          "domain": "aljazeera.com",
+          "title": "US ban on Canadian alcohol and dairy takes effect as trade war drags on",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JMVJIVF9zTWREN1pOVjNTSFFFWHBuai1nbkMtcHNuY3JOTWhUODg5UTBDUWE0VFU3MFFNNjBxb2FNVzh6UElMd001ZEx2Tm05dEdiUHBpS19LMDA?oc=5",
+          "domain": "bbc.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260926T193446Z",
-          "pinned": false
-        },
-        {
-          "title": "Israel’s Smotrich calls for ‘war’ in West Bank: Rhetoric or real threat?",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVFVCT3FMcTk1bzExSzlISVFTOE55SGdVNmI0TEFHN2ZmM3c4dWhFZXVRM2FOSUVzSFdoNldkOU1PZlFobzJOT014blV2MTdnWEgtdklNMWJONnNDUnp5a1ZrN3l1dzlkV2g3NWtkQ3lYM3QzUGdtcnRTQm5vQnV0eVVuRlRxWWc3SnFMY1NNZTQ1Q3pFbEh3N3U2SUVOakNLNDIzRU9TLUh1WDRzbHfSAbMBQVVfeXFMUG9rUUxsX3czdmhQWHktcGdwQldvUGFzRFRvTzdnb2xaM2hSbXFhMHJpck1uVlRPU2dlTVN6QTJDV05NNFdjRWxaVDU3NVhaVTk4SHh3VFNIXzdKclJjcTlsVmpjT1piRElGRXhUakJaU3llc2tIb29xbUstbTctQUMweGt5OTE5aDY2djZWbG8xOEpXSWd5TENOUDFIYUt2UzFlV0ZzZmJSZHFoOF9pNXVrOTA?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260927T141308Z",
+          "seen": "20260929T133806Z",
           "pinned": false
         },
         {
@@ -1717,6 +1709,14 @@
           "pinned": false
         },
         {
+          "title": "Police probe ‘terror’ incident near RAF base used in Iran war: What we know",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX01hV3BoUG5vRXFIRmcycDhNV0dnaWZsVzA3QWg5Mk12NU1oUFF1bWlERHVRRFpFTi1fMlYxdnMzNFp2WnZxaXFKUEViYTZyajJ4NTI4RS1fc0tyblAwLTRkUGI4OF90VGN5bFM0cE84dmFTWlpWdFM4bV9oMjNobWVXZ1Q2OC1ycEZYQWtmN3Zfb3JxbVFpd1dGQWpDM1FleFNZ0gGoAUFVX3lxTE16eTRSRk9tT3N0Q0ZLbDg3NC1zcnN4R1hPZ3I1VndHZ000Sk5UU2lLMk9RRzBEY1dYWG4tYXJYZE9feWV6TVYwWXJGcXE1SzYxcWhsTEx5bVZlN1dOSzNfa1phWWVheVA4Z2tVUk1IWEp0Y0VCOEVlRjdsMGdNR3hHYzFSU29DQ0htRFZvcGZpOXA5cF95T1F2TmJEWFRYZm5qa21ES2xzSQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260928T143138Z",
+          "pinned": false
+        },
+        {
           "title": "Iran shifts trade north to Caspian Sea as war impairs Strait of Hormuz",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWFJPSF9LU3NrQXB3NXRDbnVMdHhMX2kwdXhRemZyVU5XZ3B6MEJVNFIwRmJrczZfTExBRlY2bExhYlZCSEE3bDh5M3lFSVRwcTRwVUxqNFdScVJxOUxVbU5QekxqUWxlUnp4cU5nekVQZVdJajdVV1hYeHJSU2hNQzllM2kyVGhXTnVOMnd5YkpYY1Y4T1BCX0JsMnJYamVaT19RVDVwVXRGTnV3NVdrLVRZclpLODUt0gG-AUFVX3lxTE1sU3B2R2dHWFJBUjk4eEsySUNnNnZPZG9ILWhzblFpemVORnhWdGRpanA3cTJCLTNqTVZyN0ptd1dyTmxmWDhqVTRqM2FjZEpvVTNqZk5TQTJINEZYNDk4ZGdqakZWWC1TYkpmbWZ0RmY5ZDN4VW5FNzNxLWhJd2tuNzNIdzl4ZUZEZnR6QldkSWRwWDZqVDFCZFh3bnpudWR0S2tZM0xWb0dzdXktSGlaQkdRUlFBSzlaLVBhM1E?oc=5",
           "domain": "aljazeera.com",
@@ -1725,11 +1725,27 @@
           "pinned": false
         },
         {
-          "title": "Police probe ‘terror’ incident near RAF base used in Iran war: What we know",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX01hV3BoUG5vRXFIRmcycDhNV0dnaWZsVzA3QWg5Mk12NU1oUFF1bWlERHVRRFpFTi1fMlYxdnMzNFp2WnZxaXFKUEViYTZyajJ4NTI4RS1fc0tyblAwLTRkUGI4OF90VGN5bFM0cE84dmFTWlpWdFM4bV9oMjNobWVXZ1Q2OC1ycEZYQWtmN3Zfb3JxbVFpd1dGQWpDM1FleFNZ0gGoAUFVX3lxTE16eTRSRk9tT3N0Q0ZLbDg3NC1zcnN4R1hPZ3I1VndHZ000Sk5UU2lLMk9RRzBEY1dYWG4tYXJYZE9feWV6TVYwWXJGcXE1SzYxcWhsTEx5bVZlN1dOSzNfa1phWWVheVA4Z2tVUk1IWEp0Y0VCOEVlRjdsMGdNR3hHYzFSU29DQ0htRFZvcGZpOXA5cF95T1F2TmJEWFRYZm5qa21ES2xzSQ?oc=5",
+          "title": "Iran parliament speaker warns no one in region will sell oil if Tehran cannot",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSXgybTBNS2RDbWlyQ3Q0Q0wzN3JfeW1TUVNuV096cjlsd2RvZVctTHpESklpeTRjVHBOLXBZdjI1MGd0SUprMk1oYjRkWTdEYVhYNE5fNkd2U2Z1U0RTaTliZUxTTGRZZE5TOHFiNnB2NmdVWi0xTUkwN2h4S2YzcWVWeE0wU21vQTJoZE4zSHM3WmpDaU5wOXdjNS1falVCUVg1ZHR0T3gtczcwQUFscS1aRi1zdXhHMC1zd0Fubw?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20260929T091712Z",
+          "pinned": false
+        },
+        {
+          "title": "Iran’s children return to school under the shadow of war",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYjhaQThZd1VYT19jaEoxYWNIYk5LYmRRckt5eWdzYllDdU8yYzFlZTVYeTBPQjBmdmlfUHpWYTNOVnBYb2NPWjdXMllObHhjLWtoajBLM3pzQWxaWVZWWlZubDlMQnpEdmJVYy1TbVNtT2ZFZFI0a3VMNWpOUGt2VllJcEVEZzFzSkU1cG5SM3htRlNIbTA3eFZhWS1NcTBNVVHSAacBQVVfeXFMUHM2M1FlVUpnck1YRXh5U01OWENyU2hrUmpBdWozeEJ5RHFDdDI2QmVtTGE4bktXUXg2aHhNYWpGUFdubGJPSWM4ekl2M3NHNzNCMmpYaVhoN29BeG1yOHRGaXI5cHJWX3lvSDQzYnp1N1U3M3Z6N2xxaW4xbjJ5RWUyanBBZmY5R0t4UHN0NHVNVEN6U3VPREMycEtkakpSd2RyUTA4SjA?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260928T143138Z",
+          "seen": "20260928T084805Z",
+          "pinned": false
+        },
+        {
+          "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43aS1UeHVsME5fZnIwMDM0U2gxakhNdUQ2Z2pfZV8wa3ZuVGxTZmUzWEV6Ri1SYUt2S3JOM05FSUFvMmpjb1pzOGhzTlhqaDZxYkJ6dGZTQmxEQlk?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260928T145731Z",
           "pinned": false
         },
         {
@@ -1741,35 +1757,11 @@
           "pinned": false
         },
         {
-          "title": "South Korea summons Ukraine envoy over North Korean prisoner-of-war row",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43aS1UeHVsME5fZnIwMDM0U2gxakhNdUQ2Z2pfZV8wa3ZuVGxTZmUzWEV6Ri1SYUt2S3JOM05FSUFvMmpjb1pzOGhzTlhqaDZxYkJ6dGZTQmxEQlk?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260928T145731Z",
-          "pinned": false
-        },
-        {
           "title": "Israeli minister Bezalel Smotrich calls for war in occupied West Bank",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdHFVbXp1cUNEaGhtUVpVLVg1d0tPTVVBR1lsT0JiX2Rjd1p3dF9uR3NqUVByaGZTRkJKM1Vod3gzYzBjV3hmR3ZBdVVORzVndU5hSUwzdnh1bVBmTDhYRmlqa3FFa0JoclFYNGVlSEkzQldVUkN0dkJZT0tQbzB4a3p0Vm9MYjRUNm04cjRHemxRLV9MV1llOU1BQzBBU0kwZmlhTkF0TDcydm5jS0040gG0AUFVX3lxTFBjMUdQaGpVS2tQNk16ZG1aUVYySTc0d3RsMXNOeVNYalBKSC1xYlduM0RWUWpwdnFJUkxVRjlESDFtRmpSSldYbTlzR3BDazNVNjJuYnRKelc5Qkh1SDVQVVJRM3p1c3ZTY2NYNUpIOTlCNlBnR084anJQRTltSWFSQk1obGxmWEM0T1NBUjNOeVpONlhzVVFhbDFJdmpMWHRDVXRBcGpLc3Q0c2dxcXBydXRDZQ?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260927T120556Z",
-          "pinned": false
-        },
-        {
-          "title": "Trump doubts Iran deal, plans renewed strikes after midterms: WSJ",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTTBKQW9pWXhtSDhDTW5VTHhGeGJVU01GWU9OdDBUUVpka3lDc2E0WVU5S09WSXlHTjY0cTRDeDZ0aW0zUlVUNFFlOHBxaG4yeEx5djRxYUpJWGNLdFpaVjBMTVdmY3NJbVZMdi0xWno4dnpKTk5PVjJTVnRWLTY4V0dCcXRlbHhreDg2MTlJTEwyeE0wbTVOSEl5T2FtYS1JNnZ6cWlEd0RHdndQdVVtcVBoRjhkQQ?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "seen": "20260926T012122Z",
-          "pinned": false
-        },
-        {
-          "title": "Iran’s children return to school under the shadow of war",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYjhaQThZd1VYT19jaEoxYWNIYk5LYmRRckt5eWdzYllDdU8yYzFlZTVYeTBPQjBmdmlfUHpWYTNOVnBYb2NPWjdXMllObHhjLWtoajBLM3pzQWxaWVZWWlZubDlMQnpEdmJVYy1TbVNtT2ZFZFI0a3VMNWpOUGt2VllJcEVEZzFzSkU1cG5SM3htRlNIbTA3eFZhWS1NcTBNVVHSAacBQVVfeXFMUHM2M1FlVUpnck1YRXh5U01OWENyU2hrUmpBdWozeEJ5RHFDdDI2QmVtTGE4bktXUXg2aHhNYWpGUFdubGJPSWM4ekl2M3NHNzNCMmpYaVhoN29BeG1yOHRGaXI5cHJWX3lvSDQzYnp1N1U3M3Z6N2xxaW4xbjJ5RWUyanBBZmY5R0t4UHN0NHVNVEN6U3VPREMycEtkakpSd2RyUTA4SjA?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260928T084805Z",
           "pinned": false
         },
         {
@@ -1786,14 +1778,6 @@
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "seen": "20260927T192600Z",
-          "pinned": false
-        },
-        {
-          "title": "US ban on Canadian alcohol and dairy comes into effect as trade war drags on",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JMVJIVF9zTWREN1pOVjNTSFFFWHBuai1nbkMtcHNuY3JOTWhUODg5UTBDUWE0VFU3MFFNNjBxb2FNVzh6UElMd001ZEx2Tm05dEdiUHBpS19LMDA?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260929T041033Z",
           "pinned": false
         },
         {
@@ -1821,11 +1805,11 @@
           "pinned": false
         },
         {
-          "title": "Yemen’s health system could collapse in some areas, minister warns",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeU5vY2JkamwzZ2hrRi1WZVhZdjZoRjQyd29DLXRPQUQxdW4ycFNRZ1ZHRlJxZVV2SlBiMm9CaXRORXhCY011eWk2QnFzQnIxRjJGLVZlSHpoQ0dpZkgwaTF3V1dNdngxVHdZajBjS3NlZjNXcnFPYmRqU2x5TldKTVhXbFN3NGtlV21JZWkyUGFWRm16dUpIZW9OeHZITlhSYk9FLXNyRGzSAa4BQVVfeXFMTzdEblpINThRdkgxS04zby0tY1poRWRNTnlubEFCUE1SelNmODlpSDAxYnhjSmd1US1mM2NaVmExMVNCdjE4R19kclNzck5mLVhjbW9OUVZ3WHJ0UUJlSTItc0JHT3o4cHJoenlKMFBSSktTN0stSWhwTEZUN0t0QmpReG5tUXRRLTMxWElRZVRESW5naDYwTjJlREEzVi1sY253MmVKNDV1ZTN4VzRB?oc=5",
+          "title": "Iran touts Hormuz attacks as oil flows increase despite tensions",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcHFndWVQUVpiSnAwM0EtTUdVSVZvSERZZnZkQUswTVRETVpIdWJtU1VrRFpzdUxWNUplbUI3Z2F6UEFZdk43NWN4R1llRVJOMjNDV1oxNTF3dTJOOUdEQVVDT0JLdVpwa1J2UU9mMm5iczcwaEpubnR1WEIzdnBUWE9xVlJtdlIwZTc2YXpGWW5RU1RWdnUxa1B4ODB1RFNUd2lXdlZVazbSAa4BQVVfeXFMT3hIUnlIQUNRSU9pbnFSNTh4cnc0LXRiV3M2OE9VeFNab2FneWpIMUVoaTJvd1dpYnhfUkRRODJRcDNmcmZrRHpFcVhKWHlzTUYtdk0yaGc4YWxOQzVRQlhDOUJXLXdmQjNiMkhyaWZMM0lKZzY0QlRWeGlsMUFtQUt3T0lPNk42bmxnNFhjNWRmc3NUYTI0VGs2N2RjanVvNVZUek5uV0Y1c2dOdDhB?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260927T142312Z",
+          "seen": "20260928T174606Z",
           "pinned": false
         },
         {
@@ -1837,11 +1821,19 @@
           "pinned": false
         },
         {
-          "title": "Airstrike near a market in Myanmar’s Rakhine state kills 49 people",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQb2kwWGdxWFhkNnBvaGVoQzF3RzJtQUtfUGNqaXJNZEZTVE11bU0wMDlEZW03cThiUi14ZldIdkI0M21iNHM1bllsOFlGSnBTcU8tSmZkMllKbEdVX3lYMWNSZ2JKd3NKdFU5TnU3aS1SdlYzZExwYWF0VTQwdklNa3Q1UVVaZWVhaEpBa1Z1Q0VMNFFzVkE?oc=5",
-          "domain": "apnews.com",
+          "title": "Yemen’s health system could collapse in some areas, minister warns",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeU5vY2JkamwzZ2hrRi1WZVhZdjZoRjQyd29DLXRPQUQxdW4ycFNRZ1ZHRlJxZVV2SlBiMm9CaXRORXhCY011eWk2QnFzQnIxRjJGLVZlSHpoQ0dpZkgwaTF3V1dNdngxVHdZajBjS3NlZjNXcnFPYmRqU2x5TldKTVhXbFN3NGtlV21JZWkyUGFWRm16dUpIZW9OeHZITlhSYk9FLXNyRGzSAa4BQVVfeXFMTzdEblpINThRdkgxS04zby0tY1poRWRNTnlubEFCUE1SelNmODlpSDAxYnhjSmd1US1mM2NaVmExMVNCdjE4R19kclNzck5mLVhjbW9OUVZ3WHJ0UUJlSTItc0JHT3o4cHJoenlKMFBSSktTN0stSWhwTEZUN0t0QmpReG5tUXRRLTMxWElRZVRESW5naDYwTjJlREEzVi1sY253MmVKNDV1ZTN4VzRB?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260929T011400Z",
+          "seen": "20260927T142312Z",
+          "pinned": false
+        },
+        {
+          "title": "French hard-right leader accuses opponents of 'total war' after claims of antisemitism",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TaVJmNzZMWDIwRUZDeWF0Q1IxdUUtcHJlaXp0UGFxN1pRZGhrVWJRTVdHQmJJOF9fM2JsSV9iSmcycHZyVkRVSlJhZjdNTkFCQVBUclpOYXAwR28?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260929T122002Z",
           "pinned": false
         },
         {
@@ -1850,6 +1842,14 @@
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "seen": "20260928T122400Z",
+          "pinned": false
+        },
+        {
+          "title": "Airstrike near a market in Myanmar’s Rakhine state kills 49 people",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQb2kwWGdxWFhkNnBvaGVoQzF3RzJtQUtfUGNqaXJNZEZTVE11bU0wMDlEZW03cThiUi14ZldIdkI0M21iNHM1bllsOFlGSnBTcU8tSmZkMllKbEdVX3lYMWNSZ2JKd3NKdFU5TnU3aS1SdlYzZExwYWF0VTQwdklNa3Q1UVVaZWVhaEpBa1Z1Q0VMNFFzVkE?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260929T011400Z",
           "pinned": false
         }
       ],
@@ -1882,22 +1882,13 @@
           "reportedAt": "2026-09-27T18:09:09Z"
         },
         {
-          "id": "report-679578b10ee2",
-          "title": "At least 10 people killed in Russian and Ukrainian attacks",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTzFQNWhvUENqMEptSkRXRl9iTW12S2s5aG50NE5qLXRxanhXQXQyTFFEd1dRZGs1UmgteUh6UEVYbjR4dWxsdFl3QUxkdHV6RGlUYXUtT0QyXzFHU1poTTFOMzVOWVUybmRNSVhTek9CLXF0VWF3VmJ3OWhMb0RVU3dDVkJQNDB1NFdGZDZLUlM3VVdvSG80U1Z1WmJLcW910gGmAUFVX3lxTFA2M1hSQVlLQkZnajNZUUFPd2UxNFhCTlNFTk81LVRJOWZldi1wZnJSbS0wblhVS1FwSWh4MXgwMVEwVmxFRWdWRldPUWV1VTdQWW40NG1GMjN0OF9zb2xWRi1vRGl3NWl3VjhFM1lnNkpiT0FWZU1oTm5pNGM2aHZBa0M2dDdhenRuMTBqZk0waHY2Q18xUXBoeVpHdE1nSTFYZHVyZWc?oc=5",
-          "domain": "aljazeera.com",
+          "id": "report-6e2c8f2972fb",
+          "title": "US ban on Canadian alcohol and dairy takes effect as trade war drags on",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JMVJIVF9zTWREN1pOVjNTSFFFWHBuai1nbkMtcHNuY3JOTWhUODg5UTBDUWE0VFU3MFFNNjBxb2FNVzh6UElMd001ZEx2Tm05dEdiUHBpS19LMDA?oc=5",
+          "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-26T19:34:46Z"
-        },
-        {
-          "id": "report-d8929c1c7251",
-          "title": "Israel’s Smotrich calls for ‘war’ in West Bank: Rhetoric or real threat?",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVFVCT3FMcTk1bzExSzlISVFTOE55SGdVNmI0TEFHN2ZmM3c4dWhFZXVRM2FOSUVzSFdoNldkOU1PZlFobzJOT014blV2MTdnWEgtdklNMWJONnNDUnp5a1ZrN3l1dzlkV2g3NWtkQ3lYM3QzUGdtcnRTQm5vQnV0eVVuRlRxWWc3SnFMY1NNZTQ1Q3pFbEh3N3U2SUVOakNLNDIzRU9TLUh1WDRzbHfSAbMBQVVfeXFMUG9rUUxsX3czdmhQWHktcGdwQldvUGFzRFRvTzdnb2xaM2hSbXFhMHJpck1uVlRPU2dlTVN6QTJDV05NNFdjRWxaVDU3NVhaVTk4SHh3VFNIXzdKclJjcTlsVmpjT1piRElGRXhUakJaU3llc2tIb29xbUstbTctQUMweGt5OTE5aDY2djZWbG8xOEpXSWd5TENOUDFIYUt2UzFlV0ZzZmJSZHFoOF9pNXVrOTA?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-27T14:13:08Z"
+          "reportedAt": "2026-09-29T13:38:06Z"
         },
         {
           "id": "report-2f1d8eb1a1da",
@@ -1918,6 +1909,15 @@
           "reportedAt": "2026-09-26T19:43:29Z"
         },
         {
+          "id": "report-f76079050790",
+          "title": "Police probe ‘terror’ incident near RAF base used in Iran war: What we know",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX01hV3BoUG5vRXFIRmcycDhNV0dnaWZsVzA3QWg5Mk12NU1oUFF1bWlERHVRRFpFTi1fMlYxdnMzNFp2WnZxaXFKUEViYTZyajJ4NTI4RS1fc0tyblAwLTRkUGI4OF90VGN5bFM0cE84dmFTWlpWdFM4bV9oMjNobWVXZ1Q2OC1ycEZYQWtmN3Zfb3JxbVFpd1dGQWpDM1FleFNZ0gGoAUFVX3lxTE16eTRSRk9tT3N0Q0ZLbDg3NC1zcnN4R1hPZ3I1VndHZ000Sk5UU2lLMk9RRzBEY1dYWG4tYXJYZE9feWV6TVYwWXJGcXE1SzYxcWhsTEx5bVZlN1dOSzNfa1phWWVheVA4Z2tVUk1IWEp0Y0VCOEVlRjdsMGdNR3hHYzFSU29DQ0htRFZvcGZpOXA5cF95T1F2TmJEWFRYZm5qa21ES2xzSQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-28T14:31:38Z"
+        },
+        {
           "id": "report-78b260f8eae7",
           "title": "Iran shifts trade north to Caspian Sea as war impairs Strait of Hormuz",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWFJPSF9LU3NrQXB3NXRDbnVMdHhMX2kwdXhRemZyVU5XZ3B6MEJVNFIwRmJrczZfTExBRlY2bExhYlZCSEE3bDh5M3lFSVRwcTRwVUxqNFdScVJxOUxVbU5QekxqUWxlUnp4cU5nekVQZVdJajdVV1hYeHJSU2hNQzllM2kyVGhXTnVOMnd5YkpYY1Y4T1BCX0JsMnJYamVaT19RVDVwVXRGTnV3NVdrLVRZclpLODUt0gG-AUFVX3lxTE1sU3B2R2dHWFJBUjk4eEsySUNnNnZPZG9ILWhzblFpemVORnhWdGRpanA3cTJCLTNqTVZyN0ptd1dyTmxmWDhqVTRqM2FjZEpvVTNqZk5TQTJINEZYNDk4ZGdqakZWWC1TYkpmbWZ0RmY5ZDN4VW5FNzNxLWhJd2tuNzNIdzl4ZUZEZnR6QldkSWRwWDZqVDFCZFh3bnpudWR0S2tZM0xWb0dzdXktSGlaQkdRUlFBSzlaLVBhM1E?oc=5",
@@ -1927,13 +1927,31 @@
           "reportedAt": "2026-09-27T08:53:52Z"
         },
         {
-          "id": "report-f76079050790",
-          "title": "Police probe ‘terror’ incident near RAF base used in Iran war: What we know",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX01hV3BoUG5vRXFIRmcycDhNV0dnaWZsVzA3QWg5Mk12NU1oUFF1bWlERHVRRFpFTi1fMlYxdnMzNFp2WnZxaXFKUEViYTZyajJ4NTI4RS1fc0tyblAwLTRkUGI4OF90VGN5bFM0cE84dmFTWlpWdFM4bV9oMjNobWVXZ1Q2OC1ycEZYQWtmN3Zfb3JxbVFpd1dGQWpDM1FleFNZ0gGoAUFVX3lxTE16eTRSRk9tT3N0Q0ZLbDg3NC1zcnN4R1hPZ3I1VndHZ000Sk5UU2lLMk9RRzBEY1dYWG4tYXJYZE9feWV6TVYwWXJGcXE1SzYxcWhsTEx5bVZlN1dOSzNfa1phWWVheVA4Z2tVUk1IWEp0Y0VCOEVlRjdsMGdNR3hHYzFSU29DQ0htRFZvcGZpOXA5cF95T1F2TmJEWFRYZm5qa21ES2xzSQ?oc=5",
+          "id": "report-403049e4fa4c",
+          "title": "Iran parliament speaker warns no one in region will sell oil if Tehran cannot",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSXgybTBNS2RDbWlyQ3Q0Q0wzN3JfeW1TUVNuV096cjlsd2RvZVctTHpESklpeTRjVHBOLXBZdjI1MGd0SUprMk1oYjRkWTdEYVhYNE5fNkd2U2Z1U0RTaTliZUxTTGRZZE5TOHFiNnB2NmdVWi0xTUkwN2h4S2YzcWVWeE0wU21vQTJoZE4zSHM3WmpDaU5wOXdjNS1falVCUVg1ZHR0T3gtczcwQUFscS1aRi1zdXhHMC1zd0Fubw?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-09-29T09:17:12Z"
+        },
+        {
+          "id": "report-37bee1ff971b",
+          "title": "Iran’s children return to school under the shadow of war",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYjhaQThZd1VYT19jaEoxYWNIYk5LYmRRckt5eWdzYllDdU8yYzFlZTVYeTBPQjBmdmlfUHpWYTNOVnBYb2NPWjdXMllObHhjLWtoajBLM3pzQWxaWVZWWlZubDlMQnpEdmJVYy1TbVNtT2ZFZFI0a3VMNWpOUGt2VllJcEVEZzFzSkU1cG5SM3htRlNIbTA3eFZhWS1NcTBNVVHSAacBQVVfeXFMUHM2M1FlVUpnck1YRXh5U01OWENyU2hrUmpBdWozeEJ5RHFDdDI2QmVtTGE4bktXUXg2aHhNYWpGUFdubGJPSWM4ekl2M3NHNzNCMmpYaVhoN29BeG1yOHRGaXI5cHJWX3lvSDQzYnp1N1U3M3Z6N2xxaW4xbjJ5RWUyanBBZmY5R0t4UHN0NHVNVEN6U3VPREMycEtkakpSd2RyUTA4SjA?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-28T14:31:38Z"
+          "reportedAt": "2026-09-28T08:48:05Z"
+        },
+        {
+          "id": "report-c50302688217",
+          "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43aS1UeHVsME5fZnIwMDM0U2gxakhNdUQ2Z2pfZV8wa3ZuVGxTZmUzWEV6Ri1SYUt2S3JOM05FSUFvMmpjb1pzOGhzTlhqaDZxYkJ6dGZTQmxEQlk?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-28T14:57:31Z"
         },
         {
           "id": "report-06c0c7d6a33b",
@@ -1945,15 +1963,6 @@
           "reportedAt": "2026-09-26T08:18:45Z"
         },
         {
-          "id": "report-c50302688217",
-          "title": "South Korea summons Ukraine envoy over North Korean prisoner-of-war row",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43aS1UeHVsME5fZnIwMDM0U2gxakhNdUQ2Z2pfZV8wa3ZuVGxTZmUzWEV6Ri1SYUt2S3JOM05FSUFvMmpjb1pzOGhzTlhqaDZxYkJ6dGZTQmxEQlk?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-28T14:57:31Z"
-        },
-        {
           "id": "report-75b8d9f38166",
           "title": "Israeli minister Bezalel Smotrich calls for war in occupied West Bank",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdHFVbXp1cUNEaGhtUVpVLVg1d0tPTVVBR1lsT0JiX2Rjd1p3dF9uR3NqUVByaGZTRkJKM1Vod3gzYzBjV3hmR3ZBdVVORzVndU5hSUwzdnh1bVBmTDhYRmlqa3FFa0JoclFYNGVlSEkzQldVUkN0dkJZT0tQbzB4a3p0Vm9MYjRUNm04cjRHemxRLV9MV1llOU1BQzBBU0kwZmlhTkF0TDcydm5jS0040gG0AUFVX3lxTFBjMUdQaGpVS2tQNk16ZG1aUVYySTc0d3RsMXNOeVNYalBKSC1xYlduM0RWUWpwdnFJUkxVRjlESDFtRmpSSldYbTlzR3BDazNVNjJuYnRKelc5Qkh1SDVQVVJRM3p1c3ZTY2NYNUpIOTlCNlBnR084anJQRTltSWFSQk1obGxmWEM0T1NBUjNOeVpONlhzVVFhbDFJdmpMWHRDVXRBcGpLc3Q0c2dxcXBydXRDZQ?oc=5",
@@ -1961,24 +1970,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-27T12:05:56Z"
-        },
-        {
-          "id": "report-22a86e0b527a",
-          "title": "Trump doubts Iran deal, plans renewed strikes after midterms: WSJ",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTTBKQW9pWXhtSDhDTW5VTHhGeGJVU01GWU9OdDBUUVpka3lDc2E0WVU5S09WSXlHTjY0cTRDeDZ0aW0zUlVUNFFlOHBxaG4yeEx5djRxYUpJWGNLdFpaVjBMTVdmY3NJbVZMdi0xWno4dnpKTk5PVjJTVnRWLTY4V0dCcXRlbHhreDg2MTlJTEwyeE0wbTVOSEl5T2FtYS1JNnZ6cWlEd0RHdndQdVVtcVBoRjhkQQ?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
-          "reportedAt": "2026-09-26T01:21:22Z"
-        },
-        {
-          "id": "report-37bee1ff971b",
-          "title": "Iran’s children return to school under the shadow of war",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYjhaQThZd1VYT19jaEoxYWNIYk5LYmRRckt5eWdzYllDdU8yYzFlZTVYeTBPQjBmdmlfUHpWYTNOVnBYb2NPWjdXMllObHhjLWtoajBLM3pzQWxaWVZWWlZubDlMQnpEdmJVYy1TbVNtT2ZFZFI0a3VMNWpOUGt2VllJcEVEZzFzSkU1cG5SM3htRlNIbTA3eFZhWS1NcTBNVVHSAacBQVVfeXFMUHM2M1FlVUpnck1YRXh5U01OWENyU2hrUmpBdWozeEJ5RHFDdDI2QmVtTGE4bktXUXg2aHhNYWpGUFdubGJPSWM4ekl2M3NHNzNCMmpYaVhoN29BeG1yOHRGaXI5cHJWX3lvSDQzYnp1N1U3M3Z6N2xxaW4xbjJ5RWUyanBBZmY5R0t4UHN0NHVNVEN6U3VPREMycEtkakpSd2RyUTA4SjA?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-28T08:48:05Z"
         },
         {
           "id": "report-6c56296bc952",
@@ -1997,15 +1988,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-27T19:26:00Z"
-        },
-        {
-          "id": "report-6e2c8f2972fb",
-          "title": "US ban on Canadian alcohol and dairy comes into effect as trade war drags on",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JMVJIVF9zTWREN1pOVjNTSFFFWHBuai1nbkMtcHNuY3JOTWhUODg5UTBDUWE0VFU3MFFNNjBxb2FNVzh6UElMd001ZEx2Tm05dEdiUHBpS19LMDA?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-29T04:10:33Z"
         },
         {
           "id": "report-bb042c8a0330",
@@ -2035,13 +2017,13 @@
           "reportedAt": "2026-09-27T08:51:08Z"
         },
         {
-          "id": "report-c1f39d7da37d",
-          "title": "Yemen’s health system could collapse in some areas, minister warns",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeU5vY2JkamwzZ2hrRi1WZVhZdjZoRjQyd29DLXRPQUQxdW4ycFNRZ1ZHRlJxZVV2SlBiMm9CaXRORXhCY011eWk2QnFzQnIxRjJGLVZlSHpoQ0dpZkgwaTF3V1dNdngxVHdZajBjS3NlZjNXcnFPYmRqU2x5TldKTVhXbFN3NGtlV21JZWkyUGFWRm16dUpIZW9OeHZITlhSYk9FLXNyRGzSAa4BQVVfeXFMTzdEblpINThRdkgxS04zby0tY1poRWRNTnlubEFCUE1SelNmODlpSDAxYnhjSmd1US1mM2NaVmExMVNCdjE4R19kclNzck5mLVhjbW9OUVZ3WHJ0UUJlSTItc0JHT3o4cHJoenlKMFBSSktTN0stSWhwTEZUN0t0QmpReG5tUXRRLTMxWElRZVRESW5naDYwTjJlREEzVi1sY253MmVKNDV1ZTN4VzRB?oc=5",
+          "id": "report-edb59fe4c8f2",
+          "title": "Iran touts Hormuz attacks as oil flows increase despite tensions",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcHFndWVQUVpiSnAwM0EtTUdVSVZvSERZZnZkQUswTVRETVpIdWJtU1VrRFpzdUxWNUplbUI3Z2F6UEFZdk43NWN4R1llRVJOMjNDV1oxNTF3dTJOOUdEQVVDT0JLdVpwa1J2UU9mMm5iczcwaEpubnR1WEIzdnBUWE9xVlJtdlIwZTc2YXpGWW5RU1RWdnUxa1B4ODB1RFNUd2lXdlZVazbSAa4BQVVfeXFMT3hIUnlIQUNRSU9pbnFSNTh4cnc0LXRiV3M2OE9VeFNab2FneWpIMUVoaTJvd1dpYnhfUkRRODJRcDNmcmZrRHpFcVhKWHlzTUYtdk0yaGc4YWxOQzVRQlhDOUJXLXdmQjNiMkhyaWZMM0lKZzY0QlRWeGlsMUFtQUt3T0lPNk42bmxnNFhjNWRmc3NUYTI0VGs2N2RjanVvNVZUek5uV0Y1c2dOdDhB?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-27T14:23:12Z"
+          "reportedAt": "2026-09-28T17:46:06Z"
         },
         {
           "id": "report-31812b170b03",
@@ -2053,13 +2035,22 @@
           "reportedAt": "2026-09-28T17:23:08Z"
         },
         {
-          "id": "report-6f9a0c01402b",
-          "title": "Airstrike near a market in Myanmar’s Rakhine state kills 49 people",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQb2kwWGdxWFhkNnBvaGVoQzF3RzJtQUtfUGNqaXJNZEZTVE11bU0wMDlEZW03cThiUi14ZldIdkI0M21iNHM1bllsOFlGSnBTcU8tSmZkMllKbEdVX3lYMWNSZ2JKd3NKdFU5TnU3aS1SdlYzZExwYWF0VTQwdklNa3Q1UVVaZWVhaEpBa1Z1Q0VMNFFzVkE?oc=5",
-          "domain": "apnews.com",
+          "id": "report-c1f39d7da37d",
+          "title": "Yemen’s health system could collapse in some areas, minister warns",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeU5vY2JkamwzZ2hrRi1WZVhZdjZoRjQyd29DLXRPQUQxdW4ycFNRZ1ZHRlJxZVV2SlBiMm9CaXRORXhCY011eWk2QnFzQnIxRjJGLVZlSHpoQ0dpZkgwaTF3V1dNdngxVHdZajBjS3NlZjNXcnFPYmRqU2x5TldKTVhXbFN3NGtlV21JZWkyUGFWRm16dUpIZW9OeHZITlhSYk9FLXNyRGzSAa4BQVVfeXFMTzdEblpINThRdkgxS04zby0tY1poRWRNTnlubEFCUE1SelNmODlpSDAxYnhjSmd1US1mM2NaVmExMVNCdjE4R19kclNzck5mLVhjbW9OUVZ3WHJ0UUJlSTItc0JHT3o4cHJoenlKMFBSSktTN0stSWhwTEZUN0t0QmpReG5tUXRRLTMxWElRZVRESW5naDYwTjJlREEzVi1sY253MmVKNDV1ZTN4VzRB?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-29T01:14:00Z"
+          "reportedAt": "2026-09-27T14:23:12Z"
+        },
+        {
+          "id": "report-14c3ba038f56",
+          "title": "French hard-right leader accuses opponents of 'total war' after claims of antisemitism",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TaVJmNzZMWDIwRUZDeWF0Q1IxdUUtcHJlaXp0UGFxN1pRZGhrVWJRTVdHQmJJOF9fM2JsSV9iSmcycHZyVkRVSlJhZjdNTkFCQVBUclpOYXAwR28?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-29T12:20:02Z"
         },
         {
           "id": "report-d9848750c38e",
@@ -2069,6 +2060,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-28T12:24:00Z"
+        },
+        {
+          "id": "report-6f9a0c01402b",
+          "title": "Airstrike near a market in Myanmar’s Rakhine state kills 49 people",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQb2kwWGdxWFhkNnBvaGVoQzF3RzJtQUtfUGNqaXJNZEZTVE11bU0wMDlEZW03cThiUi14ZldIdkI0M21iNHM1bllsOFlGSnBTcU8tSmZkMllKbEdVX3lYMWNSZ2JKd3NKdFU5TnU3aS1SdlYzZExwYWF0VTQwdklNa3Q1UVVaZWVhaEpBa1Z1Q0VMNFFzVkE?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-29T01:14:00Z"
         },
         {
           "id": "report-3d06d7802bf8",
