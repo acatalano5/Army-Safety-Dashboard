@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-30T05:32:16.636Z",
+  "generatedAt": "2026-09-30T12:34:09.358Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-09-30T05:32:16.636Z",
+      "generatedAt": "2026-09-30T12:34:09.358Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -1657,7 +1657,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-09-30T05:32:16.636Z",
+      "generatedAt": "2026-09-30T12:34:09.358Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -1677,14 +1677,6 @@
           "pinned": false
         },
         {
-          "title": "US ban on Canadian alcohol and dairy takes effect as trade war drags on",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JMVJIVF9zTWREN1pOVjNTSFFFWHBuai1nbkMtcHNuY3JOTWhUODg5UTBDUWE0VFU3MFFNNjBxb2FNVzh6UElMd001ZEx2Tm05dEdiUHBpS19LMDA?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260929T133806Z",
-          "pinned": false
-        },
-        {
           "title": "Iraq begins high-stakes security balancing act as US troops withdraw",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWXNwV2V3V0N4QXJRWG8tS1RCc01kSTZURTJxVzVkckU2Vm1kcWlIMXdXVWhuenQxVFYwSktNbnVBMHI5UHVxcWtSQUN1d1FUMU5LMGd1Rk8tbHFTc2RvbEl5YzhHM0g4ajBxOFNXQWNWVy1Od25LNC1FRjBxZFU5NWFJc016UGZCaWQwM094NVNoUVVtM3FwbjByV000c3lGazdwUHpJVVptOHhOT2fSAbMBQVVfeXFMTjRZN2l3MzJnUEx0cjJCY21mMnNrNlIxVzBhUzNKbGkyWWJkQmVaSU5kandRdlBnYTNIUS13UlkyaTJnLW5VLVVWaGloNEhtWGFCbmY2SndMbmtkLWN5Nnh5ZUx5Um9qNnBsZlFWQ1k4M2sxMnk3eUJIZFJBY2Q0c2YxSXI1cE9RVV8wbWtOUnF0R3FBTl9OZDR6bnd0dWJsdFZlSHJYaFJOLXptTGVkMVJEX2s?oc=5",
           "domain": "aljazeera.com",
@@ -1693,11 +1685,35 @@
           "pinned": false
         },
         {
+          "title": "US ban on Canadian alcohol and dairy takes effect as trade war drags on",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JMVJIVF9zTWREN1pOVjNTSFFFWHBuai1nbkMtcHNuY3JOTWhUODg5UTBDUWE0VFU3MFFNNjBxb2FNVzh6UElMd001ZEx2Tm05dEdiUHBpS19LMDA?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260929T133806Z",
+          "pinned": false
+        },
+        {
+          "title": "Iran shifts trade north to Caspian Sea as war impairs Strait of Hormuz",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWFJPSF9LU3NrQXB3NXRDbnVMdHhMX2kwdXhRemZyVU5XZ3B6MEJVNFIwRmJrczZfTExBRlY2bExhYlZCSEE3bDh5M3lFSVRwcTRwVUxqNFdScVJxOUxVbU5QekxqUWxlUnp4cU5nekVQZVdJajdVV1hYeHJSU2hNQzllM2kyVGhXTnVOMnd5YkpYY1Y4T1BCX0JsMnJYamVaT19RVDVwVXRGTnV3NVdrLVRZclpLODUt0gG-AUFVX3lxTE1sU3B2R2dHWFJBUjk4eEsySUNnNnZPZG9ILWhzblFpemVORnhWdGRpanA3cTJCLTNqTVZyN0ptd1dyTmxmWDhqVTRqM2FjZEpvVTNqZk5TQTJINEZYNDk4ZGdqakZWWC1TYkpmbWZ0RmY5ZDN4VW5FNzNxLWhJd2tuNzNIdzl4ZUZEZnR6QldkSWRwWDZqVDFCZFh3bnpudWR0S2tZM0xWb0dzdXktSGlaQkdRUlFBSzlaLVBhM1E?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260927T085352Z",
+          "pinned": false
+        },
+        {
           "title": "Police probe ‘terror’ incident near RAF base used in Iran war: What we know",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX01hV3BoUG5vRXFIRmcycDhNV0dnaWZsVzA3QWg5Mk12NU1oUFF1bWlERHVRRFpFTi1fMlYxdnMzNFp2WnZxaXFKUEViYTZyajJ4NTI4RS1fc0tyblAwLTRkUGI4OF90VGN5bFM0cE84dmFTWlpWdFM4bV9oMjNobWVXZ1Q2OC1ycEZYQWtmN3Zfb3JxbVFpd1dGQWpDM1FleFNZ0gGoAUFVX3lxTE16eTRSRk9tT3N0Q0ZLbDg3NC1zcnN4R1hPZ3I1VndHZ000Sk5UU2lLMk9RRzBEY1dYWG4tYXJYZE9feWV6TVYwWXJGcXE1SzYxcWhsTEx5bVZlN1dOSzNfa1phWWVheVA4Z2tVUk1IWEp0Y0VCOEVlRjdsMGdNR3hHYzFSU29DQ0htRFZvcGZpOXA5cF95T1F2TmJEWFRYZm5qa21ES2xzSQ?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260928T143138Z",
+          "pinned": false
+        },
+        {
+          "title": "Iran parliament speaker warns no one in region will sell oil if Tehran cannot",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSXgybTBNS2RDbWlyQ3Q0Q0wzN3JfeW1TUVNuV096cjlsd2RvZVctTHpESklpeTRjVHBOLXBZdjI1MGd0SUprMk1oYjRkWTdEYVhYNE5fNkd2U2Z1U0RTaTliZUxTTGRZZE5TOHFiNnB2NmdVWi0xTUkwN2h4S2YzcWVWeE0wU21vQTJoZE4zSHM3WmpDaU5wOXdjNS1falVCUVg1ZHR0T3gtczcwQUFscS1aRi1zdXhHMC1zd0Fubw?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20260929T091712Z",
           "pinned": false
         },
         {
@@ -1714,22 +1730,6 @@
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20260928T145731Z",
-          "pinned": false
-        },
-        {
-          "title": "Iran shifts trade north to Caspian Sea as war impairs Strait of Hormuz",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWFJPSF9LU3NrQXB3NXRDbnVMdHhMX2kwdXhRemZyVU5XZ3B6MEJVNFIwRmJrczZfTExBRlY2bExhYlZCSEE3bDh5M3lFSVRwcTRwVUxqNFdScVJxOUxVbU5QekxqUWxlUnp4cU5nekVQZVdJajdVV1hYeHJSU2hNQzllM2kyVGhXTnVOMnd5YkpYY1Y4T1BCX0JsMnJYamVaT19RVDVwVXRGTnV3NVdrLVRZclpLODUt0gG-AUFVX3lxTE1sU3B2R2dHWFJBUjk4eEsySUNnNnZPZG9ILWhzblFpemVORnhWdGRpanA3cTJCLTNqTVZyN0ptd1dyTmxmWDhqVTRqM2FjZEpvVTNqZk5TQTJINEZYNDk4ZGdqakZWWC1TYkpmbWZ0RmY5ZDN4VW5FNzNxLWhJd2tuNzNIdzl4ZUZEZnR6QldkSWRwWDZqVDFCZFh3bnpudWR0S2tZM0xWb0dzdXktSGlaQkdRUlFBSzlaLVBhM1E?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260927T085352Z",
-          "pinned": false
-        },
-        {
-          "title": "Iran parliament speaker warns no one in region will sell oil if Tehran cannot",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSXgybTBNS2RDbWlyQ3Q0Q0wzN3JfeW1TUVNuV096cjlsd2RvZVctTHpESklpeTRjVHBOLXBZdjI1MGd0SUprMk1oYjRkWTdEYVhYNE5fNkd2U2Z1U0RTaTliZUxTTGRZZE5TOHFiNnB2NmdVWi0xTUkwN2h4S2YzcWVWeE0wU21vQTJoZE4zSHM3WmpDaU5wOXdjNS1falVCUVg1ZHR0T3gtczcwQUFscS1aRi1zdXhHMC1zd0Fubw?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "seen": "20260929T091712Z",
           "pinned": false
         },
         {
@@ -1773,14 +1773,6 @@
           "pinned": false
         },
         {
-          "title": "Russia pounds Ukraine’s Kyiv after deadly strike on Academy of Sciences",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPanFGUFdfOHZGbDEzWGp5dy14a2x1ZGFDdHpHM244cXRxZGxCa0l4VHo5VmNQNGJWTXZ2MGNGVVdUSzgzVU5WUHRKVHFIY29LSThxYTY2aHlvRjNoWk5sYm9nempQTF9IVEdiU3B6MXREXzNXLWctNnpBZ1dJeThFTmgzZjNiSjFEa3hlZzFhVFIxdWprWFRHVEk1cTlmYnczWVVVMzBRaXdJMjDSAbABQVVfeXFMUHVDUDFrWHlfc0ZJUVh3UkREZjJWNlpleXhKWVItcGRaRUVUeEwzRjN2bzZQTDd2aWlEaDVqVXV6YXBQX3VmZDRVWHZlc2dyLUlNNXZsTzNjbGxuUHBuN25xZGRhU2M0OUl5ZDExc3p0eGtRNDh4bk1GdjluNEZBZnlFZWt5ZXdNUFlPR09YSjdnY2tuRjY2S1ZfWDUwSWRybV9xYnJRX3hjeUM2cUhJSHo?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260929T034337Z",
-          "pinned": false
-        },
-        {
           "title": "Iran touts Hormuz attacks as oil flows increase despite tensions",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcHFndWVQUVpiSnAwM0EtTUdVSVZvSERZZnZkQUswTVRETVpIdWJtU1VrRFpzdUxWNUplbUI3Z2F6UEFZdk43NWN4R1llRVJOMjNDV1oxNTF3dTJOOUdEQVVDT0JLdVpwa1J2UU9mMm5iczcwaEpubnR1WEIzdnBUWE9xVlJtdlIwZTc2YXpGWW5RU1RWdnUxa1B4ODB1RFNUd2lXdlZVazbSAa4BQVVfeXFMT3hIUnlIQUNRSU9pbnFSNTh4cnc0LXRiV3M2OE9VeFNab2FneWpIMUVoaTJvd1dpYnhfUkRRODJRcDNmcmZrRHpFcVhKWHlzTUYtdk0yaGc4YWxOQzVRQlhDOUJXLXdmQjNiMkhyaWZMM0lKZzY0QlRWeGlsMUFtQUt3T0lPNk42bmxnNFhjNWRmc3NUYTI0VGs2N2RjanVvNVZUek5uV0Y1c2dOdDhB?oc=5",
           "domain": "aljazeera.com",
@@ -1794,6 +1786,14 @@
           "domain": "aa.com.tr",
           "sourceTier": "State-affiliated reporting",
           "seen": "20260928T070157Z",
+          "pinned": false
+        },
+        {
+          "title": "Russia strike sets National Academy of Sciences of Ukraine ablaze",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ2UwSTlOMXVlYkJjVXJKMzZFbmNXMHYxbUQwZFRScFVSYXp4a0RFNHZ6Sk9ZMEF1MG5fQTMyT0djbjU0d3NVUlR3bERoWVl6NDBDQ1ZFMWdLNm92WEF5MndFdVNKTmVqUXJyRmRwNGZFcXFseG5LMVR6QXdMd09keHd5ZWt2RjN2VVlCLUdQMFplcXQySDdsRlNrWkZSYlJRMmMwQktMLWJoMnB2WTVtUzZzS1RlYkXSAbwBQVVfeXFMUGdFOWY3Z0k0T0Fvbi1PcXhvbmZpS2JzOWJmczI3VXpNNWg0VXhfNU1nRFR1Ti1UbUFQRlJOQWxpcUlnWkU5MExfaWN3OUdXRl84Ty1scFhMb284eWVJSmpOeUFDZElnNTdSNFlZNWxBRC1PV2FZUDlYU1JlRjBCNWVmZmxiTTdzZS1kTXlueEJYeldKSi1qZ0RWUTh3Sk9aRlpXU012NHVmdkRKU3BQRi1iVm5MMWVnNkZOOGY?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260928T172308Z",
           "pinned": false
         },
         {
@@ -1813,6 +1813,14 @@
           "pinned": false
         },
         {
+          "title": "Kosovo's lawmakers slam EU-backed court's war crimes verdicts of rebel leaders from war with Serbia",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUDBDbFQwWU9DUG5zT2Z6WWg1SGR3MFlseFNGUkhIWUsyTldrcmRZUDdWWVl4bktzSHFZOVktVkZidDBXbHZzbWQ4YUlLT3hhbko0MnhrSEFoRlNneEZWUU90NmV6U1l2cFF4YlRRWG1SQkxQWXQyZDFYUXlZYmZ5VnZSa1BpSnA5bkFuUGNnMjhoX0JuM2luTDdXcl9tOFZyUWt5OU5vUXMtOVk?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260928T122400Z",
+          "pinned": false
+        },
+        {
           "title": "French hard-right leader accuses opponents of 'total war' after claims of antisemitism",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TaVJmNzZMWDIwRUZDeWF0Q1IxdUUtcHJlaXp0UGFxN1pRZGhrVWJRTVdHQmJJOF9fM2JsSV9iSmcycHZyVkRVSlJhZjdNTkFCQVBUclpOYXAwR28?oc=5",
           "domain": "bbc.com",
@@ -1821,11 +1829,11 @@
           "pinned": false
         },
         {
-          "title": "Kosovo's lawmakers slam EU-backed court's war crimes verdicts of rebel leaders from war with Serbia",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUDBDbFQwWU9DUG5zT2Z6WWg1SGR3MFlseFNGUkhIWUsyTldrcmRZUDdWWVl4bktzSHFZOVktVkZidDBXbHZzbWQ4YUlLT3hhbko0MnhrSEFoRlNneEZWUU90NmV6U1l2cFF4YlRRWG1SQkxQWXQyZDFYUXlZYmZ5VnZSa1BpSnA5bkFuUGNnMjhoX0JuM2luTDdXcl9tOFZyUWt5OU5vUXMtOVk?oc=5",
+          "title": "Iran indicates it’s received an official US response to its latest offer on ending the war",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa0ZnME5PM2tFOXBTRG9ibkxwMG5Pd1AtTmY4V0ZCU3I4Z0tsam1mcjdNWDVTQ3Jwa0d5YUg3YTdvcXkzNTFSdy1FbktYWHJFazAxRGlMaGozVXNxcXpFZm9GUGpXazBTSVpFdjdzQUNoaDZYMmVvWGUtckxtTjVRQzN5Y3M0bnczVkVnbVMtek9ONGZJ?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260928T122400Z",
+          "seen": "20260930T112300Z",
           "pinned": false
         },
         {
@@ -1842,14 +1850,6 @@
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "seen": "20260929T191647Z",
-          "pinned": false
-        },
-        {
-          "title": "Israeli forces kill Hamas commander Izz al-Din al-Beik in Gaza attack",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT3ducG56dUVLNWoweWhabTc2MVdLUXFNd0U3MFMzVHdvaDBqd1RQdlMxRmVhTWR3MDBaSXdVZkFJMHhGYnBoaXJxeTZmNmdselc2Y0J0NE5kOWRUM3RHQmlnbWJkNTJkMlJKUmkzWEx5X21IU3FpcXAzMEpKTXpaNE1UQVBhWmhwM3F6a29JVVl0bE42RFdUeUp5d3B6d09rQkduRk9QbnpURGdYeEln0gG0AUFVX3lxTE1vWHRHQUQ2Zm1mQXhra0Vudk1LRVFaajNXYWU3bEVfaDNFZzdzX1JKSi1jSmNUbUMxVDBYZGhROEUtR1FMb0NrVXZUNEd1eTA3UmlXaERYaUZvdEUxZTNwX2hCUFkwc0JwOTEzeDY5TlBfeVNuZEpvV2ZfUnB4UUxIT093S0diNC1jUERuZnBKQVhpRnhHalctYzlGVkhISW8yblQ1VWtjODhtbm5hWjhNaWpGSw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260929T110045Z",
           "pinned": false
         }
       ],
@@ -1873,15 +1873,6 @@
           "reportedAt": "2026-09-27T18:09:09Z"
         },
         {
-          "id": "report-6e2c8f2972fb",
-          "title": "US ban on Canadian alcohol and dairy takes effect as trade war drags on",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JMVJIVF9zTWREN1pOVjNTSFFFWHBuai1nbkMtcHNuY3JOTWhUODg5UTBDUWE0VFU3MFFNNjBxb2FNVzh6UElMd001ZEx2Tm05dEdiUHBpS19LMDA?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-29T13:38:06Z"
-        },
-        {
           "id": "report-a565bb2aa723",
           "title": "Iraq begins high-stakes security balancing act as US troops withdraw",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWXNwV2V3V0N4QXJRWG8tS1RCc01kSTZURTJxVzVkckU2Vm1kcWlIMXdXVWhuenQxVFYwSktNbnVBMHI5UHVxcWtSQUN1d1FUMU5LMGd1Rk8tbHFTc2RvbEl5YzhHM0g4ajBxOFNXQWNWVy1Od25LNC1FRjBxZFU5NWFJc016UGZCaWQwM094NVNoUVVtM3FwbjByV000c3lGazdwUHpJVVptOHhOT2fSAbMBQVVfeXFMTjRZN2l3MzJnUEx0cjJCY21mMnNrNlIxVzBhUzNKbGkyWWJkQmVaSU5kandRdlBnYTNIUS13UlkyaTJnLW5VLVVWaGloNEhtWGFCbmY2SndMbmtkLWN5Nnh5ZUx5Um9qNnBsZlFWQ1k4M2sxMnk3eUJIZFJBY2Q0c2YxSXI1cE9RVV8wbWtOUnF0R3FBTl9OZDR6bnd0dWJsdFZlSHJYaFJOLXptTGVkMVJEX2s?oc=5",
@@ -1891,6 +1882,24 @@
           "reportedAt": "2026-09-29T23:18:26Z"
         },
         {
+          "id": "report-6e2c8f2972fb",
+          "title": "US ban on Canadian alcohol and dairy takes effect as trade war drags on",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JMVJIVF9zTWREN1pOVjNTSFFFWHBuai1nbkMtcHNuY3JOTWhUODg5UTBDUWE0VFU3MFFNNjBxb2FNVzh6UElMd001ZEx2Tm05dEdiUHBpS19LMDA?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-29T13:38:06Z"
+        },
+        {
+          "id": "report-78b260f8eae7",
+          "title": "Iran shifts trade north to Caspian Sea as war impairs Strait of Hormuz",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWFJPSF9LU3NrQXB3NXRDbnVMdHhMX2kwdXhRemZyVU5XZ3B6MEJVNFIwRmJrczZfTExBRlY2bExhYlZCSEE3bDh5M3lFSVRwcTRwVUxqNFdScVJxOUxVbU5QekxqUWxlUnp4cU5nekVQZVdJajdVV1hYeHJSU2hNQzllM2kyVGhXTnVOMnd5YkpYY1Y4T1BCX0JsMnJYamVaT19RVDVwVXRGTnV3NVdrLVRZclpLODUt0gG-AUFVX3lxTE1sU3B2R2dHWFJBUjk4eEsySUNnNnZPZG9ILWhzblFpemVORnhWdGRpanA3cTJCLTNqTVZyN0ptd1dyTmxmWDhqVTRqM2FjZEpvVTNqZk5TQTJINEZYNDk4ZGdqakZWWC1TYkpmbWZ0RmY5ZDN4VW5FNzNxLWhJd2tuNzNIdzl4ZUZEZnR6QldkSWRwWDZqVDFCZFh3bnpudWR0S2tZM0xWb0dzdXktSGlaQkdRUlFBSzlaLVBhM1E?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-27T08:53:52Z"
+        },
+        {
           "id": "report-f76079050790",
           "title": "Police probe ‘terror’ incident near RAF base used in Iran war: What we know",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX01hV3BoUG5vRXFIRmcycDhNV0dnaWZsVzA3QWg5Mk12NU1oUFF1bWlERHVRRFpFTi1fMlYxdnMzNFp2WnZxaXFKUEViYTZyajJ4NTI4RS1fc0tyblAwLTRkUGI4OF90VGN5bFM0cE84dmFTWlpWdFM4bV9oMjNobWVXZ1Q2OC1ycEZYQWtmN3Zfb3JxbVFpd1dGQWpDM1FleFNZ0gGoAUFVX3lxTE16eTRSRk9tT3N0Q0ZLbDg3NC1zcnN4R1hPZ3I1VndHZ000Sk5UU2lLMk9RRzBEY1dYWG4tYXJYZE9feWV6TVYwWXJGcXE1SzYxcWhsTEx5bVZlN1dOSzNfa1phWWVheVA4Z2tVUk1IWEp0Y0VCOEVlRjdsMGdNR3hHYzFSU29DQ0htRFZvcGZpOXA5cF95T1F2TmJEWFRYZm5qa21ES2xzSQ?oc=5",
@@ -1898,6 +1907,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-28T14:31:38Z"
+        },
+        {
+          "id": "report-403049e4fa4c",
+          "title": "Iran parliament speaker warns no one in region will sell oil if Tehran cannot",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSXgybTBNS2RDbWlyQ3Q0Q0wzN3JfeW1TUVNuV096cjlsd2RvZVctTHpESklpeTRjVHBOLXBZdjI1MGd0SUprMk1oYjRkWTdEYVhYNE5fNkd2U2Z1U0RTaTliZUxTTGRZZE5TOHFiNnB2NmdVWi0xTUkwN2h4S2YzcWVWeE0wU21vQTJoZE4zSHM3WmpDaU5wOXdjNS1falVCUVg1ZHR0T3gtczcwQUFscS1aRi1zdXhHMC1zd0Fubw?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-09-29T09:17:12Z"
         },
         {
           "id": "report-37bee1ff971b",
@@ -1916,24 +1934,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-28T14:57:31Z"
-        },
-        {
-          "id": "report-78b260f8eae7",
-          "title": "Iran shifts trade north to Caspian Sea as war impairs Strait of Hormuz",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWFJPSF9LU3NrQXB3NXRDbnVMdHhMX2kwdXhRemZyVU5XZ3B6MEJVNFIwRmJrczZfTExBRlY2bExhYlZCSEE3bDh5M3lFSVRwcTRwVUxqNFdScVJxOUxVbU5QekxqUWxlUnp4cU5nekVQZVdJajdVV1hYeHJSU2hNQzllM2kyVGhXTnVOMnd5YkpYY1Y4T1BCX0JsMnJYamVaT19RVDVwVXRGTnV3NVdrLVRZclpLODUt0gG-AUFVX3lxTE1sU3B2R2dHWFJBUjk4eEsySUNnNnZPZG9ILWhzblFpemVORnhWdGRpanA3cTJCLTNqTVZyN0ptd1dyTmxmWDhqVTRqM2FjZEpvVTNqZk5TQTJINEZYNDk4ZGdqakZWWC1TYkpmbWZ0RmY5ZDN4VW5FNzNxLWhJd2tuNzNIdzl4ZUZEZnR6QldkSWRwWDZqVDFCZFh3bnpudWR0S2tZM0xWb0dzdXktSGlaQkdRUlFBSzlaLVBhM1E?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-27T08:53:52Z"
-        },
-        {
-          "id": "report-403049e4fa4c",
-          "title": "Iran parliament speaker warns no one in region will sell oil if Tehran cannot",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSXgybTBNS2RDbWlyQ3Q0Q0wzN3JfeW1TUVNuV096cjlsd2RvZVctTHpESklpeTRjVHBOLXBZdjI1MGd0SUprMk1oYjRkWTdEYVhYNE5fNkd2U2Z1U0RTaTliZUxTTGRZZE5TOHFiNnB2NmdVWi0xTUkwN2h4S2YzcWVWeE0wU21vQTJoZE4zSHM3WmpDaU5wOXdjNS1falVCUVg1ZHR0T3gtczcwQUFscS1aRi1zdXhHMC1zd0Fubw?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
-          "reportedAt": "2026-09-29T09:17:12Z"
         },
         {
           "id": "report-75b8d9f38166",
@@ -1981,15 +1981,6 @@
           "reportedAt": "2026-09-29T20:51:46Z"
         },
         {
-          "id": "report-bb042c8a0330",
-          "title": "Russia pounds Ukraine’s Kyiv after deadly strike on Academy of Sciences",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPanFGUFdfOHZGbDEzWGp5dy14a2x1ZGFDdHpHM244cXRxZGxCa0l4VHo5VmNQNGJWTXZ2MGNGVVdUSzgzVU5WUHRKVHFIY29LSThxYTY2aHlvRjNoWk5sYm9nempQTF9IVEdiU3B6MXREXzNXLWctNnpBZ1dJeThFTmgzZjNiSjFEa3hlZzFhVFIxdWprWFRHVEk1cTlmYnczWVVVMzBRaXdJMjDSAbABQVVfeXFMUHVDUDFrWHlfc0ZJUVh3UkREZjJWNlpleXhKWVItcGRaRUVUeEwzRjN2bzZQTDd2aWlEaDVqVXV6YXBQX3VmZDRVWHZlc2dyLUlNNXZsTzNjbGxuUHBuN25xZGRhU2M0OUl5ZDExc3p0eGtRNDh4bk1GdjluNEZBZnlFZWt5ZXdNUFlPR09YSjdnY2tuRjY2S1ZfWDUwSWRybV9xYnJRX3hjeUM2cUhJSHo?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-29T03:43:37Z"
-        },
-        {
           "id": "report-edb59fe4c8f2",
           "title": "Iran touts Hormuz attacks as oil flows increase despite tensions",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcHFndWVQUVpiSnAwM0EtTUdVSVZvSERZZnZkQUswTVRETVpIdWJtU1VrRFpzdUxWNUplbUI3Z2F6UEFZdk43NWN4R1llRVJOMjNDV1oxNTF3dTJOOUdEQVVDT0JLdVpwa1J2UU9mMm5iczcwaEpubnR1WEIzdnBUWE9xVlJtdlIwZTc2YXpGWW5RU1RWdnUxa1B4ODB1RFNUd2lXdlZVazbSAa4BQVVfeXFMT3hIUnlIQUNRSU9pbnFSNTh4cnc0LXRiV3M2OE9VeFNab2FneWpIMUVoaTJvd1dpYnhfUkRRODJRcDNmcmZrRHpFcVhKWHlzTUYtdk0yaGc4YWxOQzVRQlhDOUJXLXdmQjNiMkhyaWZMM0lKZzY0QlRWeGlsMUFtQUt3T0lPNk42bmxnNFhjNWRmc3NUYTI0VGs2N2RjanVvNVZUek5uV0Y1c2dOdDhB?oc=5",
@@ -2006,6 +1997,15 @@
           "sourceTier": "State-affiliated reporting",
           "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
           "reportedAt": "2026-09-28T07:01:57Z"
+        },
+        {
+          "id": "report-31812b170b03",
+          "title": "Russia strike sets National Academy of Sciences of Ukraine ablaze",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ2UwSTlOMXVlYkJjVXJKMzZFbmNXMHYxbUQwZFRScFVSYXp4a0RFNHZ6Sk9ZMEF1MG5fQTMyT0djbjU0d3NVUlR3bERoWVl6NDBDQ1ZFMWdLNm92WEF5MndFdVNKTmVqUXJyRmRwNGZFcXFseG5LMVR6QXdMd09keHd5ZWt2RjN2VVlCLUdQMFplcXQySDdsRlNrWkZSYlJRMmMwQktMLWJoMnB2WTVtUzZzS1RlYkXSAbwBQVVfeXFMUGdFOWY3Z0k0T0Fvbi1PcXhvbmZpS2JzOWJmczI3VXpNNWg0VXhfNU1nRFR1Ti1UbUFQRlJOQWxpcUlnWkU5MExfaWN3OUdXRl84Ty1scFhMb284eWVJSmpOeUFDZElnNTdSNFlZNWxBRC1PV2FZUDlYU1JlRjBCNWVmZmxiTTdzZS1kTXlueEJYeldKSi1qZ0RWUTh3Sk9aRlpXU012NHVmdkRKU3BQRi1iVm5MMWVnNkZOOGY?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-28T17:23:08Z"
         },
         {
           "id": "report-3cae31eb0c30",
@@ -2026,6 +2026,15 @@
           "reportedAt": "2026-09-27T14:23:12Z"
         },
         {
+          "id": "report-d9848750c38e",
+          "title": "Kosovo's lawmakers slam EU-backed court's war crimes verdicts of rebel leaders from war with Serbia",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUDBDbFQwWU9DUG5zT2Z6WWg1SGR3MFlseFNGUkhIWUsyTldrcmRZUDdWWVl4bktzSHFZOVktVkZidDBXbHZzbWQ4YUlLT3hhbko0MnhrSEFoRlNneEZWUU90NmV6U1l2cFF4YlRRWG1SQkxQWXQyZDFYUXlZYmZ5VnZSa1BpSnA5bkFuUGNnMjhoX0JuM2luTDdXcl9tOFZyUWt5OU5vUXMtOVk?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-28T12:24:00Z"
+        },
+        {
           "id": "report-14c3ba038f56",
           "title": "French hard-right leader accuses opponents of 'total war' after claims of antisemitism",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TaVJmNzZMWDIwRUZDeWF0Q1IxdUUtcHJlaXp0UGFxN1pRZGhrVWJRTVdHQmJJOF9fM2JsSV9iSmcycHZyVkRVSlJhZjdNTkFCQVBUclpOYXAwR28?oc=5",
@@ -2035,13 +2044,13 @@
           "reportedAt": "2026-09-29T12:20:02Z"
         },
         {
-          "id": "report-d9848750c38e",
-          "title": "Kosovo's lawmakers slam EU-backed court's war crimes verdicts of rebel leaders from war with Serbia",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUDBDbFQwWU9DUG5zT2Z6WWg1SGR3MFlseFNGUkhIWUsyTldrcmRZUDdWWVl4bktzSHFZOVktVkZidDBXbHZzbWQ4YUlLT3hhbko0MnhrSEFoRlNneEZWUU90NmV6U1l2cFF4YlRRWG1SQkxQWXQyZDFYUXlZYmZ5VnZSa1BpSnA5bkFuUGNnMjhoX0JuM2luTDdXcl9tOFZyUWt5OU5vUXMtOVk?oc=5",
+          "id": "report-e0bd0a144855",
+          "title": "Iran indicates it’s received an official US response to its latest offer on ending the war",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa0ZnME5PM2tFOXBTRG9ibkxwMG5Pd1AtTmY4V0ZCU3I4Z0tsam1mcjdNWDVTQ3Jwa0d5YUg3YTdvcXkzNTFSdy1FbktYWHJFazAxRGlMaGozVXNxcXpFZm9GUGpXazBTSVpFdjdzQUNoaDZYMmVvWGUtckxtTjVRQzN5Y3M0bnczVkVnbVMtek9ONGZJ?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-28T12:24:00Z"
+          "reportedAt": "2026-09-30T11:23:00Z"
         },
         {
           "id": "report-8e8ee822ae00",
@@ -2060,15 +2069,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-29T19:16:47Z"
-        },
-        {
-          "id": "report-1f8044cd752a",
-          "title": "Israeli forces kill Hamas commander Izz al-Din al-Beik in Gaza attack",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT3ducG56dUVLNWoweWhabTc2MVdLUXFNd0U3MFMzVHdvaDBqd1RQdlMxRmVhTWR3MDBaSXdVZkFJMHhGYnBoaXJxeTZmNmdselc2Y0J0NE5kOWRUM3RHQmlnbWJkNTJkMlJKUmkzWEx5X21IU3FpcXAzMEpKTXpaNE1UQVBhWmhwM3F6a29JVVl0bE42RFdUeUp5d3B6d09rQkduRk9QbnpURGdYeEln0gG0AUFVX3lxTE1vWHRHQUQ2Zm1mQXhra0Vudk1LRVFaajNXYWU3bEVfaDNFZzdzX1JKSi1jSmNUbUMxVDBYZGhROEUtR1FMb0NrVXZUNEd1eTA3UmlXaERYaUZvdEUxZTNwX2hCUFkwc0JwOTEzeDY5TlBfeVNuZEpvV2ZfUnB4UUxIT093S0diNC1jUERuZnBKQVhpRnhHalctYzlGVkhISW8yblQ1VWtjODhtbm5hWjhNaWpGSw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-29T11:00:45Z"
         },
         {
           "id": "report-3d06d7802bf8",
