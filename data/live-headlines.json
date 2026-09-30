@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-30T12:34:09.358Z",
+  "generatedAt": "2026-09-30T20:19:21.416Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -9,7 +9,7 @@
       "items": []
     },
     "safety": {
-      "generatedAt": "2026-09-29T20:14:48.445Z",
+      "generatedAt": "2026-09-30T20:19:21.416Z",
       "cadence": "daily",
       "items": [
         {
@@ -25,15 +25,7 @@
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1aOXpKbm1qc2ZBWk54aFVxblBMOW5YRVRSR3AwbV9hT2k3QnJkM1hRdXBLU245UFdmaEtVbzlyd041MU5WZEhVLW1NTFl0MjFFTzR4czhTWDhSblNaX2ZuRlQ5cmd2SG9rVFhWWlRXWWxEYl9BNnB6WXJoNA?oc=5",
           "domain": "taskandpurpose.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260922T145945Z",
-          "pinned": false
-        },
-        {
-          "title": "Pilot ejects in F-16 crash in Germany",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdDlwZWY5QUNLMXltbkF1LVZGNTNDTmI3T2ZUdm9reTBVejY1QjJxeWhXeE1vcUg0dlFCdjJsRDkxc1FSOWFSMWNBeWV6eU9NdlpPTVgwNmlJa2hVblhPcTBXV3pLc3FfaklqbEpiTHJsMzVHWFF6ODRGVjlFRk5vY19XTDFGUGgzOGlGZGVTQlJWQjlKQjl1d1ROYmlhUQ?oc=5",
-          "domain": "stripes.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260922T190057Z",
+          "seen": "20260922T070000Z",
           "pinned": false
         },
         {
@@ -66,6 +58,22 @@
           "domain": "news.uscg.mil",
           "sourceTier": "Official military source",
           "seen": "20260928T000245Z",
+          "pinned": false
+        },
+        {
+          "title": "Coast Guard, San Francisco Police Department rescue 3 from grounded vessel near Golden Gate Bridge",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMThwb2hlcXpMdk9JcWlxR1lBTmFsWmFwUURMZkY5T1pWUEQzZkhQWUZRS0tPMlZzWjJwbVlraGUxQS1rR1htTFV6eUdSNFhaNmx6bzY3bkFsbk9pNllNc1plMlVpcXkxLVBLWEV4dHk4NUlZbE53UFU1M0R1ODVPeG9KUVY0aUg5Tlk4czRfZzFBVV90M054ZFQzbl85d3JaQ1o1UXVQZ3ZFUDE2LU9lUmRVT2lVYm5tSkZGdl8yZy02alN2c2dxYlUzSjNaNHZWZXc?oc=5",
+          "domain": "news.uscg.mil",
+          "sourceTier": "Official military source",
+          "seen": "20260917T235209Z",
+          "pinned": false
+        },
+        {
+          "title": "CORRECTION 2: UPDATE: Coast Guard locates missing boaters near St. Lawrence Island, Alaska",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTFNfcDRad01VbFJfaTVvX01xaVVvb2dSMmFISFc2T2ZfTGphbTdjV090RlJ2alpzVlk2WXZlWkR5US1nX3VUOHZBaHV1LVFhdTBZOVMwVkhud0g2T28wNzFfdEF4MHZBdE5UN1A1UXBoMkxiWDR0U19pU2JBWGtSRmVPVXNoRU9mam9oYm5ydnRxXzFLRkpaX20xY1V1N0VmeFlvaXpUQmpGYWFGRnJJSjljek9qZF9rUmFHSWd5YUExX09HcGZTM2dLd2pyUWp5VGtr?oc=5",
+          "domain": "news.uscg.mil",
+          "sourceTier": "Official military source",
+          "seen": "20260909T070000Z",
           "pinned": false
         }
       ],
@@ -393,6 +401,24 @@
           "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
           "source": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNRkNQZmRGdFhkbTNVVmJXUmtVS3NUNkhDbmN3VnZxQ1Y5MWxyQ0dCUndHMEYyZWdMbG9hRkdhZHNLSVk1YTc3YTZxVlVscDRrVnFqSmU1M1JqMlZhT2tuWS02dlRJTjBPSlhOcERZSUFTdkpXU2FlNEh0RHJKdmRRcXNEWFBfWWY4dER2Q3hRYzJsN09NbnROcTd4THJFVXV0RVdQOXp1by15NzE2Zzh1dXpHU2kzX0kyVVltUEZqZV93RXdOUFdPZXdYaHFadXVqZnprMTNLc2pPbm1oRUxlX3puOVdsOGVmcmF1Ym4zSkVZUHVLTHJWblk3c0dxUF9YUkxyZW9B?oc=5",
           "sourceLabel": "safety.army.mil"
+        },
+        {
+          "id": "auto-482381672b0d",
+          "reportDate": "2026-09-09",
+          "dateBasis": "report discovery date",
+          "branch": "Coast Guard",
+          "department": "Department of Homeland Security",
+          "type": "Maritime",
+          "event": "CORRECTION 2: UPDATE: Coast Guard locates missing boaters near St. Lawrence Island, Alaska",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "OFFICIAL INTAKE",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Official military source",
+          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
+          "source": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTFNfcDRad01VbFJfaTVvX01xaVVvb2dSMmFISFc2T2ZfTGphbTdjV090RlJ2alpzVlk2WXZlWkR5US1nX3VUOHZBaHV1LVFhdTBZOVMwVkhud0g2T28wNzFfdEF4MHZBdE5UN1A1UXBoMkxiWDR0U19pU2JBWGtSRmVPVXNoRU9mam9oYm5ydnRxXzFLRkpaX20xY1V1N0VmeFlvaXpUQmpGYWFGRnJJSjljek9qZF9rUmFHSWd5YUExX09HcGZTM2dLd2pyUWp5VGtr?oc=5",
+          "sourceLabel": "news.uscg.mil"
         },
         {
           "id": "auto-0cb7377710a1",
