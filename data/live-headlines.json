@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-02T20:09:03.466Z",
+  "generatedAt": "2026-10-02T22:14:22.583Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-10-02T12:32:35.949Z",
+      "generatedAt": "2026-10-02T22:14:22.583Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -1719,7 +1719,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-10-02T12:32:35.949Z",
+      "generatedAt": "2026-10-02T22:14:22.583Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -1736,6 +1736,14 @@
           "domain": "cfr.org",
           "sourceTier": "Structured / analytic",
           "seen": "20260930T232150Z",
+          "pinned": false
+        },
+        {
+          "title": "New aircraft carrier, 10,000 US troops: Is the Iran war about to escalate?",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVFl3S200MERGUFV0MDdPcTBxN1JKcXhpOThnWXdNLXNQaXVTVTdUVkpiUGtsNGVfRVh1d0JfYVhiUkloYTRYSEdiRUdtQU50cVYxSHdlc2txXzNnVlduc1ZGeDB0dzdrSXR0ZnA4TElyZVFGSnFFWXN2TldMOGU5RU9TaXNJMkhxNm5UVDFMcXBmRVBYbTVua0dPSEJPYU1aa0pNQ2dIT1dMb1FUc0pnedIBtgFBVV95cUxPUmpzU2paSy0xR0pqdVRBRVFKb0lsVmk5bTQwSHc1blBvc2phUFF4WFJySk5QRVpsa0c4QWtTRmhubVczdkwyUklKNWhIUnQwX2h0bHo3NVRzQXRYdUJMekp4dHJYTFF1c05ncmFKa0U4WU9RTG5wYzNnTkVrb1lyMVF4WThCN2dPdkR4djF0MEVLLU5LWXJ5NGxFRWtjcHpZRFVtbW83emlMaVFIazJfVkhqUXRIZw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261002T100818Z",
           "pinned": false
         },
         {
@@ -1771,11 +1779,11 @@
           "pinned": false
         },
         {
-          "title": "US ban on Canadian alcohol and dairy takes effect as trade war drags on",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JMVJIVF9zTWREN1pOVjNTSFFFWHBuai1nbkMtcHNuY3JOTWhUODg5UTBDUWE0VFU3MFFNNjBxb2FNVzh6UElMd001ZEx2Tm05dEdiUHBpS19LMDA?oc=5",
+          "title": "Three reasons Middle East oil supply is nearly back to pre-Iran war levels",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90ZGd5a0xEbEptX1djYjA1SVFKczdKTnVCNzBQRVpGWWZUUWplZDY5VEpBd1dpVDRVa1JKamR5dmRUSVFwTUdHcUxuRzdoaFE0ZG1VTHdWaVBmSzA?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260929T133806Z",
+          "seen": "20261002T152928Z",
           "pinned": false
         },
         {
@@ -1787,14 +1795,6 @@
           "pinned": false
         },
         {
-          "title": "Addis Ababa explosions: Blasts heard in Ethiopia's capital after drone flights banned",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hVnVmZjA2MDh5VnVFX1dhcnJhVnhPUkRhM0RWM3huODlZN3VfNGtSMTJpNlAyMkFtbjhWN1JvYzZIekdYdlY3UENoQUpQTFlLc2tzOWpUQWozZGM?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261001T150536Z",
-          "pinned": false
-        },
-        {
           "title": "Blasts heard in Addis Ababa as Ethiopia conflict widens in the north",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY0plMUVSbEx1aXhEaWlfUEE0UjN0YlM0X0NJamhrVkVHT19hUExQM3NIeDg0bkFXTGRZMTFtVV94SVZ3dmZyYTdCa0ZESG5FRDVvU3ZFNW9Kdk0xbmxTSUpVQWxERzRycmh3bXYtYm9xbDFLRlRlMEdQTGVPUXFCME44S2x3bTZpcVJnb19IZlNGc3N6eHVLRFFOV05UN0pBVUVRb1BLTzhneTZyNmfSAbMBQVVfeXFMTjloOE1jckdWSWNkQk5BZ2t3TDRJWkZmZzBtWkFLZnlnamVYVjFvNThmWXdzSEw0TVEzV3BTT2lpa1Nma1NZQTRfT3FnR2lSa0YyS2hscWsyNHJNdF9TMzc5c0NKNW5sQ0RXZko3MndvaEo4NTBkem9nMjdEeTlzcUhXaC10VmNEREpMMzdDYTBFeTBkT0drUktYR09jc0h3S1JtVWppLTB4UWdfRzJfSGRmUjQ?oc=5",
           "domain": "aljazeera.com",
@@ -1803,19 +1803,19 @@
           "pinned": false
         },
         {
+          "title": "Addis Ababa explosions: Blasts heard in Ethiopia's capital after drone flights banned",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hVnVmZjA2MDh5VnVFX1dhcnJhVnhPUkRhM0RWM3huODlZN3VfNGtSMTJpNlAyMkFtbjhWN1JvYzZIekdYdlY3UENoQUpQTFlLc2tzOWpUQWozZGM?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261001T150536Z",
+          "pinned": false
+        },
+        {
           "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EdFFlQnNfR040Y2NOcnpObDY3UXJGbmkyMHltYzRSMjZhVFpNQUdvRVYwTFUyWFRMNmdpaGRFTm5PUXpXSHRuSmVyWmp1ekgzaHJHTHpVc0x6LWs?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261002T100456Z",
-          "pinned": false
-        },
-        {
-          "title": "Iran parliament speaker warns no one in region will sell oil if Tehran cannot",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSXgybTBNS2RDbWlyQ3Q0Q0wzN3JfeW1TUVNuV096cjlsd2RvZVctTHpESklpeTRjVHBOLXBZdjI1MGd0SUprMk1oYjRkWTdEYVhYNE5fNkd2U2Z1U0RTaTliZUxTTGRZZE5TOHFiNnB2NmdVWi0xTUkwN2h4S2YzcWVWeE0wU21vQTJoZE4zSHM3WmpDaU5wOXdjNS1falVCUVg1ZHR0T3gtczcwQUFscS1aRi1zdXhHMC1zd0Fubw?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "seen": "20260929T091712Z",
+          "seen": "20261002T160825Z",
           "pinned": false
         },
         {
@@ -1835,19 +1835,19 @@
           "pinned": false
         },
         {
+          "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1S3VtSWZ3NlhJNDBjQS1zZDF3aGNNNzNrZXU0N2RPRFhvSGFVcndyMTJpczA2LUNuV2pwM1B2bW9IaDRfZEdXSFJxamdDWjU5WWR0MUZTcGppbjQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261002T030913Z",
+          "pinned": false
+        },
+        {
           "title": "Iran indicates it received a US response on its war-ending proposal, with details still unclear",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTzF1aTM5aWNKQThpZ21SMjFCVHFBXzhoVXZSWXJVSGg4VFN4NEhWVlhVUmdJeEJ3OVJLb3BVVHduU1pPSHBJYVg0VEFsbndOTERpekJFNjlja1NwMmU2X1JKeTlfYXlOWk1PX2NjN2dxRDBldV8xTFh4MEdtWUxiN2lxc05vOVdtc3hYWWZaVGpDdzZUeGtsRjhDZWpON3c0dENpWGVubmR4SnduZ1IwV1FpRQ?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "seen": "20261001T032500Z",
-          "pinned": false
-        },
-        {
-          "title": "Carney pitches oil pipeline as a response to US-Canada trade war",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EdnJsbmJzVGd6WEdLQWlGRTJscVBNTDV2dEg4MGxfQW05cDRjNkY4Y01aRUpOYXM5Wnl5Zmo5aml3T1Bub0V4X3pvWnNybXlvV1pyYmNOV2xZcGM?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261001T174738Z",
           "pinned": false
         },
         {
@@ -1859,11 +1859,11 @@
           "pinned": false
         },
         {
-          "title": "Airstrike near a market in Myanmar’s Rakhine state kills 49 people",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQb2kwWGdxWFhkNnBvaGVoQzF3RzJtQUtfUGNqaXJNZEZTVE11bU0wMDlEZW03cThiUi14ZldIdkI0M21iNHM1bllsOFlGSnBTcU8tSmZkMllKbEdVX3lYMWNSZ2JKd3NKdFU5TnU3aS1SdlYzZExwYWF0VTQwdklNa3Q1UVVaZWVhaEpBa1Z1Q0VMNFFzVkE?oc=5",
-          "domain": "apnews.com",
+          "title": "Carney pitches oil pipeline as a response to US-Canada trade war",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EdnJsbmJzVGd6WEdLQWlGRTJscVBNTDV2dEg4MGxfQW05cDRjNkY4Y01aRUpOYXM5Wnl5Zmo5aml3T1Bub0V4X3pvWnNybXlvV1pyYmNOV2xZcGM?oc=5",
+          "domain": "bbc.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260929T011400Z",
+          "seen": "20261001T174738Z",
           "pinned": false
         },
         {
@@ -1872,14 +1872,6 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260929T204906Z",
-          "pinned": false
-        },
-        {
-          "title": "Russia pounds Ukraine’s Kyiv after deadly strike on Academy of Sciences",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPanFGUFdfOHZGbDEzWGp5dy14a2x1ZGFDdHpHM244cXRxZGxCa0l4VHo5VmNQNGJWTXZ2MGNGVVdUSzgzVU5WUHRKVHFIY29LSThxYTY2aHlvRjNoWk5sYm9nempQTF9IVEdiU3B6MXREXzNXLWctNnpBZ1dJeThFTmgzZjNiSjFEa3hlZzFhVFIxdWprWFRHVEk1cTlmYnczWVVVMzBRaXdJMjDSAbABQVVfeXFMUHVDUDFrWHlfc0ZJUVh3UkREZjJWNlpleXhKWVItcGRaRUVUeEwzRjN2bzZQTDd2aWlEaDVqVXV6YXBQX3VmZDRVWHZlc2dyLUlNNXZsTzNjbGxuUHBuN25xZGRhU2M0OUl5ZDExc3p0eGtRNDh4bk1GdjluNEZBZnlFZWt5ZXdNUFlPR09YSjdnY2tuRjY2S1ZfWDUwSWRybV9xYnJRX3hjeUM2cUhJSHo?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260929T034337Z",
           "pinned": false
         },
         {
@@ -1899,19 +1891,27 @@
           "pinned": false
         },
         {
-          "title": "Russia warns NATO of possible nuclear response if Kaliningrad is cut off",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYkxPSE9IbjNwN0xSRmY0d1Vic08zNE9VM01KMDZnTmR6bjNETGlEaEswcGI1RFd1ZFVWRU1yNFJPcDVfSkE1Um1XNURvRVpGWVFVa2NwSTNQc0RSSmpGb3ZTVVJqYU5yanJwamhWNE93RTlYNlFBT3E4QUhCWEd2bzhnLTBaVExIZlBXWlJzRThuR0VtQ0lteFdJcmoyVk56QzVVT2RlTmp3eWNnOHdQTzl0Y9IBuAFBVV95cUxPbGlRNm8wTmhFUXlSNUpYamgxdzA0Q2tOWnhxWTJfeW5QWU1Wc2JCVmd0V1piNUpBUGMzTDZSSmVpSUhLZUduSjhldkdWcXN3UXpSOUVUelVscC02UlFrZGNjRWJhTEd3djNpcWZZT3BsT3EtcVgxUzAxTEZ1UTl3R09LVHhmTDJabkUwV1ZESnh3c21laFBRQTI4b1VHZmVMUFdENDg2YXJSRktDczdxcWlRR3JzUHdy?oc=5",
-          "domain": "aljazeera.com",
+          "title": "Fuel costs: Diesel prices in NI at highest level since Iran war began",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85VE0tUnFiQ1hQVTk3NFZyYWRDNFI0RHhNVWdyTHR6aTdkdXZjRElZN3dGclJJVGp1QVpGbGV5Qm0yQmdQeVA2ME8wb1VjbEh6ck0tMEltRVF3UE0?oc=5",
+          "domain": "bbc.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260930T190429Z",
+          "seen": "20261002T122947Z",
           "pinned": false
         },
         {
-          "title": "Iran tells the US public that Trump’s war has failed, and other Mideast developments",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeW5lLTJrXzFqbTNDbGl1WURtOXlhYUVZTkN0ZFo1d0lLYVhWQl9MdzhJbmZBajhVV1dMUUM5N0kwbWxHWTRFRHBJQmozM0dEZmNwaDZRVUdvMmZYdElFelJrTVU2MEZ4TG1JRGhHOVRrUjd5dFhveEpabFFmMVlLX3FRYUdTNnkzYV9WR2xHRUtpV29TSWQ5TGxmaThkM3cxbjdZaFQzSk1Mc1RBWFp5Y0o1TUU?oc=5",
+          "title": "Russian drone hits school in Ukraine’s Kyiv as Moscow presses air assault",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORFFFOG8xYWlMY1h6QVJSTTROMkRDSjNOQ21UbVZqRDN3MmF5dWxQNy1uZEVHMzN5bWdpUC1PclBtZS1iQjdYbkF5bEVGUW1HQlowUVFyNlhwd0NxZzc1NXhEN0FPQzkwN0lQcGQ1azJQSkJIWFhjcGZDSm5DdWNsVkltZWctTVBZSUwxQUJocnIzanZNYmxYdGZXLUJOOGFXaXB3b0F5TjJFMmcycVlXcGY1MNIBuAFBVV95cUxPNmhDNU42eGNtZ010NzdqZjFCNlFXMWF2b25rR0VFMHdEY1Zpbk9JUjZWc21iTFFTZDVnQjdIdU93LTl0d0E5b21HeC1UZVZkdUVUY2FjUFdrazN2RHE3cVpzWUFsR0JhUkhEOXdOSVpDeUlsUDlsMlVLZUlzQk1IbmxibGk5eFNiLU9NNTl5Ym9JTG5IdnpZSk9iRkhKUF9oSVI2Wjk3NnBveWdITHY4b25CRFpjWGgw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261001T131449Z",
+          "pinned": false
+        },
+        {
+          "title": "EU nations seek energy alternatives after spending over $113 billion extra since Iran war began",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUFhoMjc4SEJRSnJ2YzdCMVdBMTlKQ0ROZFBvaVJxbmwwSDdENGFqVmc3ZEZVMUNBRnR5dTBkRzRmeDJ3UXpjUWNxeG5FWTJQeU52TlB1aGltMWhyRGdtdzI4Z2NJbWZuYy1UOS1NM1VrZFg2S1ZrMXJiMXlLTmxkR1Bwd2pmU01oekNvdFQtSXRMNFQwekhRNW5WRkhpZw?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260929T185646Z",
+          "seen": "20260929T104100Z",
           "pinned": false
         }
       ],
@@ -1933,6 +1933,15 @@
           "sourceTier": "Structured / analytic",
           "confidenceLabel": "ANALYTIC REPORT",
           "reportedAt": "2026-09-30T23:21:50Z"
+        },
+        {
+          "id": "report-a14b127ec745",
+          "title": "New aircraft carrier, 10,000 US troops: Is the Iran war about to escalate?",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVFl3S200MERGUFV0MDdPcTBxN1JKcXhpOThnWXdNLXNQaXVTVTdUVkpiUGtsNGVfRVh1d0JfYVhiUkloYTRYSEdiRUdtQU50cVYxSHdlc2txXzNnVlduc1ZGeDB0dzdrSXR0ZnA4TElyZVFGSnFFWXN2TldMOGU5RU9TaXNJMkhxNm5UVDFMcXBmRVBYbTVua0dPSEJPYU1aa0pNQ2dIT1dMb1FUc0pnedIBtgFBVV95cUxPUmpzU2paSy0xR0pqdVRBRVFKb0lsVmk5bTQwSHc1blBvc2phUFF4WFJySk5QRVpsa0c4QWtTRmhubVczdkwyUklKNWhIUnQwX2h0bHo3NVRzQXRYdUJMekp4dHJYTFF1c05ncmFKa0U4WU9RTG5wYzNnTkVrb1lyMVF4WThCN2dPdkR4djF0MEVLLU5LWXJ5NGxFRWtjcHpZRFVtbW83emlMaVFIazJfVkhqUXRIZw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-02T10:08:18Z"
         },
         {
           "id": "report-9c5ad5ff9301",
@@ -1971,13 +1980,13 @@
           "reportedAt": "2026-09-29T23:18:26Z"
         },
         {
-          "id": "report-6e2c8f2972fb",
-          "title": "US ban on Canadian alcohol and dairy takes effect as trade war drags on",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JMVJIVF9zTWREN1pOVjNTSFFFWHBuai1nbkMtcHNuY3JOTWhUODg5UTBDUWE0VFU3MFFNNjBxb2FNVzh6UElMd001ZEx2Tm05dEdiUHBpS19LMDA?oc=5",
+          "id": "report-8e8e4028d488",
+          "title": "Three reasons Middle East oil supply is nearly back to pre-Iran war levels",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90ZGd5a0xEbEptX1djYjA1SVFKczdKTnVCNzBQRVpGWWZUUWplZDY5VEpBd1dpVDRVa1JKamR5dmRUSVFwTUdHcUxuRzdoaFE0ZG1VTHdWaVBmSzA?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-29T13:38:06Z"
+          "reportedAt": "2026-10-02T15:29:28Z"
         },
         {
           "id": "report-1113fb32233d",
@@ -1989,15 +1998,6 @@
           "reportedAt": "2026-10-01T21:39:10Z"
         },
         {
-          "id": "report-a97e5f4e3b4c",
-          "title": "Addis Ababa explosions: Blasts heard in Ethiopia's capital after drone flights banned",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hVnVmZjA2MDh5VnVFX1dhcnJhVnhPUkRhM0RWM3huODlZN3VfNGtSMTJpNlAyMkFtbjhWN1JvYzZIekdYdlY3UENoQUpQTFlLc2tzOWpUQWozZGM?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-01T15:05:36Z"
-        },
-        {
           "id": "report-d5b986ce0d70",
           "title": "Blasts heard in Addis Ababa as Ethiopia conflict widens in the north",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY0plMUVSbEx1aXhEaWlfUEE0UjN0YlM0X0NJamhrVkVHT19hUExQM3NIeDg0bkFXTGRZMTFtVV94SVZ3dmZyYTdCa0ZESG5FRDVvU3ZFNW9Kdk0xbmxTSUpVQWxERzRycmh3bXYtYm9xbDFLRlRlMEdQTGVPUXFCME44S2x3bTZpcVJnb19IZlNGc3N6eHVLRFFOV05UN0pBVUVRb1BLTzhneTZyNmfSAbMBQVVfeXFMTjloOE1jckdWSWNkQk5BZ2t3TDRJWkZmZzBtWkFLZnlnamVYVjFvNThmWXdzSEw0TVEzV3BTT2lpa1Nma1NZQTRfT3FnR2lSa0YyS2hscWsyNHJNdF9TMzc5c0NKNW5sQ0RXZko3MndvaEo4NTBkem9nMjdEeTlzcUhXaC10VmNEREpMMzdDYTBFeTBkT0drUktYR09jc0h3S1JtVWppLTB4UWdfRzJfSGRmUjQ?oc=5",
@@ -2007,22 +2007,22 @@
           "reportedAt": "2026-10-01T16:44:58Z"
         },
         {
+          "id": "report-a97e5f4e3b4c",
+          "title": "Addis Ababa explosions: Blasts heard in Ethiopia's capital after drone flights banned",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hVnVmZjA2MDh5VnVFX1dhcnJhVnhPUkRhM0RWM3huODlZN3VfNGtSMTJpNlAyMkFtbjhWN1JvYzZIekdYdlY3UENoQUpQTFlLc2tzOWpUQWozZGM?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-01T15:05:36Z"
+        },
+        {
           "id": "report-dcc0c0ad93ea",
           "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EdFFlQnNfR040Y2NOcnpObDY3UXJGbmkyMHltYzRSMjZhVFpNQUdvRVYwTFUyWFRMNmdpaGRFTm5PUXpXSHRuSmVyWmp1ekgzaHJHTHpVc0x6LWs?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-02T10:04:56Z"
-        },
-        {
-          "id": "report-403049e4fa4c",
-          "title": "Iran parliament speaker warns no one in region will sell oil if Tehran cannot",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSXgybTBNS2RDbWlyQ3Q0Q0wzN3JfeW1TUVNuV096cjlsd2RvZVctTHpESklpeTRjVHBOLXBZdjI1MGd0SUprMk1oYjRkWTdEYVhYNE5fNkd2U2Z1U0RTaTliZUxTTGRZZE5TOHFiNnB2NmdVWi0xTUkwN2h4S2YzcWVWeE0wU21vQTJoZE4zSHM3WmpDaU5wOXdjNS1falVCUVg1ZHR0T3gtczcwQUFscS1aRi1zdXhHMC1zd0Fubw?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
-          "reportedAt": "2026-09-29T09:17:12Z"
+          "reportedAt": "2026-10-02T16:08:25Z"
         },
         {
           "id": "report-5a8f8343cab3",
@@ -2043,6 +2043,15 @@
           "reportedAt": "2026-10-01T23:46:46Z"
         },
         {
+          "id": "report-3f7573132330",
+          "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1S3VtSWZ3NlhJNDBjQS1zZDF3aGNNNzNrZXU0N2RPRFhvSGFVcndyMTJpczA2LUNuV2pwM1B2bW9IaDRfZEdXSFJxamdDWjU5WWR0MUZTcGppbjQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-02T03:09:13Z"
+        },
+        {
           "id": "report-24ff5d1860e2",
           "title": "Iran indicates it received a US response on its war-ending proposal, with details still unclear",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTzF1aTM5aWNKQThpZ21SMjFCVHFBXzhoVXZSWXJVSGg4VFN4NEhWVlhVUmdJeEJ3OVJLb3BVVHduU1pPSHBJYVg0VEFsbndOTERpekJFNjlja1NwMmU2X1JKeTlfYXlOWk1PX2NjN2dxRDBldV8xTFh4MEdtWUxiN2lxc05vOVdtc3hYWWZaVGpDdzZUeGtsRjhDZWpON3c0dENpWGVubmR4SnduZ1IwV1FpRQ?oc=5",
@@ -2050,15 +2059,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-10-01T03:25:00Z"
-        },
-        {
-          "id": "report-9aa87ac2e6d4",
-          "title": "Carney pitches oil pipeline as a response to US-Canada trade war",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EdnJsbmJzVGd6WEdLQWlGRTJscVBNTDV2dEg4MGxfQW05cDRjNkY4Y01aRUpOYXM5Wnl5Zmo5aml3T1Bub0V4X3pvWnNybXlvV1pyYmNOV2xZcGM?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-01T17:47:38Z"
         },
         {
           "id": "report-1c7a359502ec",
@@ -2070,13 +2070,13 @@
           "reportedAt": "2026-10-01T14:09:51Z"
         },
         {
-          "id": "report-6f9a0c01402b",
-          "title": "Airstrike near a market in Myanmar’s Rakhine state kills 49 people",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQb2kwWGdxWFhkNnBvaGVoQzF3RzJtQUtfUGNqaXJNZEZTVE11bU0wMDlEZW03cThiUi14ZldIdkI0M21iNHM1bllsOFlGSnBTcU8tSmZkMllKbEdVX3lYMWNSZ2JKd3NKdFU5TnU3aS1SdlYzZExwYWF0VTQwdklNa3Q1UVVaZWVhaEpBa1Z1Q0VMNFFzVkE?oc=5",
-          "domain": "apnews.com",
+          "id": "report-9aa87ac2e6d4",
+          "title": "Carney pitches oil pipeline as a response to US-Canada trade war",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EdnJsbmJzVGd6WEdLQWlGRTJscVBNTDV2dEg4MGxfQW05cDRjNkY4Y01aRUpOYXM5Wnl5Zmo5aml3T1Bub0V4X3pvWnNybXlvV1pyYmNOV2xZcGM?oc=5",
+          "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-29T01:14:00Z"
+          "reportedAt": "2026-10-01T17:47:38Z"
         },
         {
           "id": "report-67e076849ace",
@@ -2086,15 +2086,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-29T20:49:06Z"
-        },
-        {
-          "id": "report-bb042c8a0330",
-          "title": "Russia pounds Ukraine’s Kyiv after deadly strike on Academy of Sciences",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPanFGUFdfOHZGbDEzWGp5dy14a2x1ZGFDdHpHM244cXRxZGxCa0l4VHo5VmNQNGJWTXZ2MGNGVVdUSzgzVU5WUHRKVHFIY29LSThxYTY2aHlvRjNoWk5sYm9nempQTF9IVEdiU3B6MXREXzNXLWctNnpBZ1dJeThFTmgzZjNiSjFEa3hlZzFhVFIxdWprWFRHVEk1cTlmYnczWVVVMzBRaXdJMjDSAbABQVVfeXFMUHVDUDFrWHlfc0ZJUVh3UkREZjJWNlpleXhKWVItcGRaRUVUeEwzRjN2bzZQTDd2aWlEaDVqVXV6YXBQX3VmZDRVWHZlc2dyLUlNNXZsTzNjbGxuUHBuN25xZGRhU2M0OUl5ZDExc3p0eGtRNDh4bk1GdjluNEZBZnlFZWt5ZXdNUFlPR09YSjdnY2tuRjY2S1ZfWDUwSWRybV9xYnJRX3hjeUM2cUhJSHo?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-29T03:43:37Z"
         },
         {
           "id": "report-14c3ba038f56",
@@ -2115,22 +2106,31 @@
           "reportedAt": "2026-09-29T21:57:00Z"
         },
         {
-          "id": "report-29e18b19500b",
-          "title": "Russia warns NATO of possible nuclear response if Kaliningrad is cut off",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYkxPSE9IbjNwN0xSRmY0d1Vic08zNE9VM01KMDZnTmR6bjNETGlEaEswcGI1RFd1ZFVWRU1yNFJPcDVfSkE1Um1XNURvRVpGWVFVa2NwSTNQc0RSSmpGb3ZTVVJqYU5yanJwamhWNE93RTlYNlFBT3E4QUhCWEd2bzhnLTBaVExIZlBXWlJzRThuR0VtQ0lteFdJcmoyVk56QzVVT2RlTmp3eWNnOHdQTzl0Y9IBuAFBVV95cUxPbGlRNm8wTmhFUXlSNUpYamgxdzA0Q2tOWnhxWTJfeW5QWU1Wc2JCVmd0V1piNUpBUGMzTDZSSmVpSUhLZUduSjhldkdWcXN3UXpSOUVUelVscC02UlFrZGNjRWJhTEd3djNpcWZZT3BsT3EtcVgxUzAxTEZ1UTl3R09LVHhmTDJabkUwV1ZESnh3c21laFBRQTI4b1VHZmVMUFdENDg2YXJSRktDczdxcWlRR3JzUHdy?oc=5",
+          "id": "report-e38e3388c6c2",
+          "title": "Fuel costs: Diesel prices in NI at highest level since Iran war began",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85VE0tUnFiQ1hQVTk3NFZyYWRDNFI0RHhNVWdyTHR6aTdkdXZjRElZN3dGclJJVGp1QVpGbGV5Qm0yQmdQeVA2ME8wb1VjbEh6ck0tMEltRVF3UE0?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-02T12:29:47Z"
+        },
+        {
+          "id": "report-01221e32156a",
+          "title": "Russian drone hits school in Ukraine’s Kyiv as Moscow presses air assault",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORFFFOG8xYWlMY1h6QVJSTTROMkRDSjNOQ21UbVZqRDN3MmF5dWxQNy1uZEVHMzN5bWdpUC1PclBtZS1iQjdYbkF5bEVGUW1HQlowUVFyNlhwd0NxZzc1NXhEN0FPQzkwN0lQcGQ1azJQSkJIWFhjcGZDSm5DdWNsVkltZWctTVBZSUwxQUJocnIzanZNYmxYdGZXLUJOOGFXaXB3b0F5TjJFMmcycVlXcGY1MNIBuAFBVV95cUxPNmhDNU42eGNtZ010NzdqZjFCNlFXMWF2b25rR0VFMHdEY1Zpbk9JUjZWc21iTFFTZDVnQjdIdU93LTl0d0E5b21HeC1UZVZkdUVUY2FjUFdrazN2RHE3cVpzWUFsR0JhUkhEOXdOSVpDeUlsUDlsMlVLZUlzQk1IbmxibGk5eFNiLU9NNTl5Ym9JTG5IdnpZSk9iRkhKUF9oSVI2Wjk3NnBveWdITHY4b25CRFpjWGgw?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-30T19:04:29Z"
+          "reportedAt": "2026-10-01T13:14:49Z"
         },
         {
-          "id": "report-dcd419e7461e",
-          "title": "Iran tells the US public that Trump’s war has failed, and other Mideast developments",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeW5lLTJrXzFqbTNDbGl1WURtOXlhYUVZTkN0ZFo1d0lLYVhWQl9MdzhJbmZBajhVV1dMUUM5N0kwbWxHWTRFRHBJQmozM0dEZmNwaDZRVUdvMmZYdElFelJrTVU2MEZ4TG1JRGhHOVRrUjd5dFhveEpabFFmMVlLX3FRYUdTNnkzYV9WR2xHRUtpV29TSWQ5TGxmaThkM3cxbjdZaFQzSk1Mc1RBWFp5Y0o1TUU?oc=5",
+          "id": "report-66d3628dd063",
+          "title": "EU nations seek energy alternatives after spending over $113 billion extra since Iran war began",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUFhoMjc4SEJRSnJ2YzdCMVdBMTlKQ0ROZFBvaVJxbmwwSDdENGFqVmc3ZEZVMUNBRnR5dTBkRzRmeDJ3UXpjUWNxeG5FWTJQeU52TlB1aGltMWhyRGdtdzI4Z2NJbWZuYy1UOS1NM1VrZFg2S1ZrMXJiMXlLTmxkR1Bwd2pmU01oekNvdFQtSXRMNFQwekhRNW5WRkhpZw?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-29T18:56:46Z"
+          "reportedAt": "2026-09-29T10:41:00Z"
         },
         {
           "id": "report-3d06d7802bf8",
