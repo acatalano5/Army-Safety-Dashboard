@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-01T22:42:06.968Z",
+  "generatedAt": "2026-10-02T05:35:57.310Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-10-01T22:42:06.968Z",
+      "generatedAt": "2026-10-02T05:35:57.310Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -1691,7 +1691,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-10-01T22:42:06.968Z",
+      "generatedAt": "2026-10-02T05:35:57.310Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -1743,43 +1743,11 @@
           "pinned": false
         },
         {
-          "title": "Explosions heard in Ethiopia's capital after drone flights banned",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hVnVmZjA2MDh5VnVFX1dhcnJhVnhPUkRhM0RWM3huODlZN3VfNGtSMTJpNlAyMkFtbjhWN1JvYzZIekdYdlY3UENoQUpQTFlLc2tzOWpUQWozZGM?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261001T150536Z",
-          "pinned": false
-        },
-        {
-          "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43aS1UeHVsME5fZnIwMDM0U2gxakhNdUQ2Z2pfZV8wa3ZuVGxTZmUzWEV6Ri1SYUt2S3JOM05FSUFvMmpjb1pzOGhzTlhqaDZxYkJ6dGZTQmxEQlk?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260928T145731Z",
-          "pinned": false
-        },
-        {
-          "title": "Police probe ‘terror’ incident near RAF base used in Iran war: What we know",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX01hV3BoUG5vRXFIRmcycDhNV0dnaWZsVzA3QWg5Mk12NU1oUFF1bWlERHVRRFpFTi1fMlYxdnMzNFp2WnZxaXFKUEViYTZyajJ4NTI4RS1fc0tyblAwLTRkUGI4OF90VGN5bFM0cE84dmFTWlpWdFM4bV9oMjNobWVXZ1Q2OC1ycEZYQWtmN3Zfb3JxbVFpd1dGQWpDM1FleFNZ0gGoAUFVX3lxTE16eTRSRk9tT3N0Q0ZLbDg3NC1zcnN4R1hPZ3I1VndHZ000Sk5UU2lLMk9RRzBEY1dYWG4tYXJYZE9feWV6TVYwWXJGcXE1SzYxcWhsTEx5bVZlN1dOSzNfa1phWWVheVA4Z2tVUk1IWEp0Y0VCOEVlRjdsMGdNR3hHYzFSU29DQ0htRFZvcGZpOXA5cF95T1F2TmJEWFRYZm5qa21ES2xzSQ?oc=5",
+          "title": "US to send third aircraft carrier towards Iran: US official to Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY0JrMHU0WDJxM2QwSnZBZkVjZTJEOElaTjBiMV8wODB5eE5TeG02Z1dwWTB3bzZmQkVxTXhYaFh1dTVZa2xPZUtDdldvLU5OU2o4cWlKcnExa3NQajlLOVVxTjhSNzNocllRTnJIUHF6WEt5aW90WUM0aS1aNjdsbW1DRVh0V01PQmxSTFh6SlBsWXV1VHp0Zkp5ZE1WanNBdXZfTzFOUGxuUlloYXlVSmJUd9IBuAFBVV95cUxQVFMzY0lFQndrM28xaXNGSEo3T2pYUnFRd3NsQmk2N2JQLVV0c0tZQjFKYVR5Z2xIUlZQZ0ZsUmtxdEwyTTAwdGg2WHlQNDZxaG1OeHMteWVQdm5qci1LakNYekhKWmtGcGpfQnlPSm9mc0w1MnZxTDY2THJockliV1Z1S0NLZzdIU19pVXN2bHM3VGROcWI0aGEyNDRSN0wzNWNsektETklEeWhpQ0dkVlo5a0hTSUpf?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260928T143138Z",
-          "pinned": false
-        },
-        {
-          "title": "Iran parliament speaker warns no one in region will sell oil if Tehran cannot",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSXgybTBNS2RDbWlyQ3Q0Q0wzN3JfeW1TUVNuV096cjlsd2RvZVctTHpESklpeTRjVHBOLXBZdjI1MGd0SUprMk1oYjRkWTdEYVhYNE5fNkd2U2Z1U0RTaTliZUxTTGRZZE5TOHFiNnB2NmdVWi0xTUkwN2h4S2YzcWVWeE0wU21vQTJoZE4zSHM3WmpDaU5wOXdjNS1falVCUVg1ZHR0T3gtczcwQUFscS1aRi1zdXhHMC1zd0Fubw?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "seen": "20260929T091712Z",
-          "pinned": false
-        },
-        {
-          "title": "Iran’s children return to school under the shadow of war",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYjhaQThZd1VYT19jaEoxYWNIYk5LYmRRckt5eWdzYllDdU8yYzFlZTVYeTBPQjBmdmlfUHpWYTNOVnBYb2NPWjdXMllObHhjLWtoajBLM3pzQWxaWVZWWlZubDlMQnpEdmJVYy1TbVNtT2ZFZFI0a3VMNWpOUGt2VllJcEVEZzFzSkU1cG5SM3htRlNIbTA3eFZhWS1NcTBNVVHSAacBQVVfeXFMUHM2M1FlVUpnck1YRXh5U01OWENyU2hrUmpBdWozeEJ5RHFDdDI2QmVtTGE4bktXUXg2aHhNYWpGUFdubGJPSWM4ekl2M3NHNzNCMmpYaVhoN29BeG1yOHRGaXI5cHJWX3lvSDQzYnp1N1U3M3Z6N2xxaW4xbjJ5RWUyanBBZmY5R0t4UHN0NHVNVEN6U3VPREMycEtkakpSd2RyUTA4SjA?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260928T084805Z",
+          "seen": "20261002T032917Z",
           "pinned": false
         },
         {
@@ -1788,6 +1756,30 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20261001T213910Z",
+          "pinned": false
+        },
+        {
+          "title": "Addis Ababa explosions: Blasts heard in Ethiopia's capital after drone flights banned",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hVnVmZjA2MDh5VnVFX1dhcnJhVnhPUkRhM0RWM3huODlZN3VfNGtSMTJpNlAyMkFtbjhWN1JvYzZIekdYdlY3UENoQUpQTFlLc2tzOWpUQWozZGM?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261001T150536Z",
+          "pinned": false
+        },
+        {
+          "title": "Blasts heard in Addis Ababa as Ethiopia conflict widens in the north",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY0plMUVSbEx1aXhEaWlfUEE0UjN0YlM0X0NJamhrVkVHT19hUExQM3NIeDg0bkFXTGRZMTFtVV94SVZ3dmZyYTdCa0ZESG5FRDVvU3ZFNW9Kdk0xbmxTSUpVQWxERzRycmh3bXYtYm9xbDFLRlRlMEdQTGVPUXFCME44S2x3bTZpcVJnb19IZlNGc3N6eHVLRFFOV05UN0pBVUVRb1BLTzhneTZyNmfSAbMBQVVfeXFMTjloOE1jckdWSWNkQk5BZ2t3TDRJWkZmZzBtWkFLZnlnamVYVjFvNThmWXdzSEw0TVEzV3BTT2lpa1Nma1NZQTRfT3FnR2lSa0YyS2hscWsyNHJNdF9TMzc5c0NKNW5sQ0RXZko3MndvaEo4NTBkem9nMjdEeTlzcUhXaC10VmNEREpMMzdDYTBFeTBkT0drUktYR09jc0h3S1JtVWppLTB4UWdfRzJfSGRmUjQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261001T164458Z",
+          "pinned": false
+        },
+        {
+          "title": "Iran parliament speaker warns no one in region will sell oil if Tehran cannot",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSXgybTBNS2RDbWlyQ3Q0Q0wzN3JfeW1TUVNuV096cjlsd2RvZVctTHpESklpeTRjVHBOLXBZdjI1MGd0SUprMk1oYjRkWTdEYVhYNE5fNkd2U2Z1U0RTaTliZUxTTGRZZE5TOHFiNnB2NmdVWi0xTUkwN2h4S2YzcWVWeE0wU21vQTJoZE4zSHM3WmpDaU5wOXdjNS1falVCUVg1ZHR0T3gtczcwQUFscS1aRi1zdXhHMC1zd0Fubw?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20260929T091712Z",
           "pinned": false
         },
         {
@@ -1807,19 +1799,11 @@
           "pinned": false
         },
         {
-          "title": "US sanctions 10 entities for allegedly supporting Iran’s military",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM21LMDMtUHZ6V1dZelNGTGVNOXdBb2lVWndHWnJlclVGWUFCNE1kSGVSRmVsWktxeG5CZEtKWnVKOHc3MVI3eXFsaFV2ZXVWMVhaT0xyVnFIMHQ1TWQ0dDltM0ZQZ0l4SXlUbjRtQW9rdzdlNW9sWmlMYTZLQWg1VFkzYkFuc1pKTFpuWHVoejY2WjlLVmRWcm5fcUMzOUJQM1VjN2RWZF_SAa4BQVVfeXFMUGs2WXZKVnVUQ2NJZVRNWHBpTW9oOHpsbXBWcjlwSHpnTmtFLWx0eFRlSmRDNkNrSkpJdE8wTzVxaVZaRG83bXRiYmx1amZONkhOaGk2UXNoNDBfQXBfczFZbU81RmJiamdmX3RYZFEyY0R5YzRscHVPWkJ5LTJhTHBZSnlfaG9kX2c1QmlpNmJ2eFVubHFZYjF5Q0RHOWFDemQ4QWJmcmQweXMzOWFR?oc=5",
-          "domain": "aljazeera.com",
+          "title": "Carney pitches oil pipeline as a response to US-Canada trade war",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EdnJsbmJzVGd6WEdLQWlGRTJscVBNTDV2dEg4MGxfQW05cDRjNkY4Y01aRUpOYXM5Wnl5Zmo5aml3T1Bub0V4X3pvWnNybXlvV1pyYmNOV2xZcGM?oc=5",
+          "domain": "bbc.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260929T204906Z",
-          "pinned": false
-        },
-        {
-          "title": "Mediators press Iran for nuclear concession to revive ceasefire talks with US: Report",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMUtfWXdkaFp6N21SVUE4cGM3NEs1RDRRS29yamRRNlZ4eWx3Z2pfZFlRaEZ5U2ZETzI4QzJ1NHlkUzVkcUk1aFd2bWlldnFCZEkwalVTclJtOUVaM3RWVFFwMmNNTlU1X0tQRENfX1VEbDVIV3ZrelBnUzR4bVNoazByV0FzTGpyZVZmS3U4bXdjd09ldlJsV2tDNXJTZ0pfU1llSjB6UHZlX0kwQmIwazR4MENzcmRpSjFmeXp1WVJSajZZU1h5aHc0S3ppd2hOVnc?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "seen": "20260928T070157Z",
+          "seen": "20261001T174738Z",
           "pinned": false
         },
         {
@@ -1831,27 +1815,19 @@
           "pinned": false
         },
         {
+          "title": "US sanctions 10 entities for allegedly supporting Iran’s military",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM21LMDMtUHZ6V1dZelNGTGVNOXdBb2lVWndHWnJlclVGWUFCNE1kSGVSRmVsWktxeG5CZEtKWnVKOHc3MVI3eXFsaFV2ZXVWMVhaT0xyVnFIMHQ1TWQ0dDltM0ZQZ0l4SXlUbjRtQW9rdzdlNW9sWmlMYTZLQWg1VFkzYkFuc1pKTFpuWHVoejY2WjlLVmRWcm5fcUMzOUJQM1VjN2RWZF_SAa4BQVVfeXFMUGs2WXZKVnVUQ2NJZVRNWHBpTW9oOHpsbXBWcjlwSHpnTmtFLWx0eFRlSmRDNkNrSkpJdE8wTzVxaVZaRG83bXRiYmx1amZONkhOaGk2UXNoNDBfQXBfczFZbU81RmJiamdmX3RYZFEyY0R5YzRscHVPWkJ5LTJhTHBZSnlfaG9kX2c1QmlpNmJ2eFVubHFZYjF5Q0RHOWFDemQ4QWJmcmQweXMzOWFR?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260929T204906Z",
+          "pinned": false
+        },
+        {
           "title": "Russia pounds Ukraine’s Kyiv after deadly strike on Academy of Sciences",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPanFGUFdfOHZGbDEzWGp5dy14a2x1ZGFDdHpHM244cXRxZGxCa0l4VHo5VmNQNGJWTXZ2MGNGVVdUSzgzVU5WUHRKVHFIY29LSThxYTY2aHlvRjNoWk5sYm9nempQTF9IVEdiU3B6MXREXzNXLWctNnpBZ1dJeThFTmgzZjNiSjFEa3hlZzFhVFIxdWprWFRHVEk1cTlmYnczWVVVMzBRaXdJMjDSAbABQVVfeXFMUHVDUDFrWHlfc0ZJUVh3UkREZjJWNlpleXhKWVItcGRaRUVUeEwzRjN2bzZQTDd2aWlEaDVqVXV6YXBQX3VmZDRVWHZlc2dyLUlNNXZsTzNjbGxuUHBuN25xZGRhU2M0OUl5ZDExc3p0eGtRNDh4bk1GdjluNEZBZnlFZWt5ZXdNUFlPR09YSjdnY2tuRjY2S1ZfWDUwSWRybV9xYnJRX3hjeUM2cUhJSHo?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20260929T034337Z",
-          "pinned": false
-        },
-        {
-          "title": "US delays closure of Qatar camp housing more than 1,000 Afghans who helped the US war effort",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMFVjNjJZSnJGM05uVmhITnZWNXc4dk5rQ3FFdUZrdUlVNS16T0g0SHR1eEtfR1lYUW85Q3ZJX3RCcVE1bW5WNzR1eUN3c1J1blRKR3k4Y3lNanJScXZOckZNcFFmMEhnN2RkZEhOQVZJU2FTRjF2cnRHaXlSN0NRZlJidWZGbGJkQ0JqejZrVzJvakJzWE1qWm1NRGs4V0J4?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260929T215700Z",
-          "pinned": false
-        },
-        {
-          "title": "Russia warns NATO of possible nuclear response if Kaliningrad is cut off",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYkxPSE9IbjNwN0xSRmY0d1Vic08zNE9VM01KMDZnTmR6bjNETGlEaEswcGI1RFd1ZFVWRU1yNFJPcDVfSkE1Um1XNURvRVpGWVFVa2NwSTNQc0RSSmpGb3ZTVVJqYU5yanJwamhWNE93RTlYNlFBT3E4QUhCWEd2bzhnLTBaVExIZlBXWlJzRThuR0VtQ0lteFdJcmoyVk56QzVVT2RlTmp3eWNnOHdQTzl0Y9IBuAFBVV95cUxPbGlRNm8wTmhFUXlSNUpYamgxdzA0Q2tOWnhxWTJfeW5QWU1Wc2JCVmd0V1piNUpBUGMzTDZSSmVpSUhLZUduSjhldkdWcXN3UXpSOUVUelVscC02UlFrZGNjRWJhTEd3djNpcWZZT3BsT3EtcVgxUzAxTEZ1UTl3R09LVHhmTDJabkUwV1ZESnh3c21laFBRQTI4b1VHZmVMUFdENDg2YXJSRktDczdxcWlRR3JzUHdy?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260930T190429Z",
           "pinned": false
         },
         {
@@ -1863,11 +1839,27 @@
           "pinned": false
         },
         {
-          "title": "Carney pitches oil pipeline as a response to US-Canada trade war",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EdnJsbmJzVGd6WEdLQWlGRTJscVBNTDV2dEg4MGxfQW05cDRjNkY4Y01aRUpOYXM5Wnl5Zmo5aml3T1Bub0V4X3pvWnNybXlvV1pyYmNOV2xZcGM?oc=5",
-          "domain": "bbc.com",
+          "title": "Russia warns NATO of possible nuclear response if Kaliningrad is cut off",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYkxPSE9IbjNwN0xSRmY0d1Vic08zNE9VM01KMDZnTmR6bjNETGlEaEswcGI1RFd1ZFVWRU1yNFJPcDVfSkE1Um1XNURvRVpGWVFVa2NwSTNQc0RSSmpGb3ZTVVJqYU5yanJwamhWNE93RTlYNlFBT3E4QUhCWEd2bzhnLTBaVExIZlBXWlJzRThuR0VtQ0lteFdJcmoyVk56QzVVT2RlTmp3eWNnOHdQTzl0Y9IBuAFBVV95cUxPbGlRNm8wTmhFUXlSNUpYamgxdzA0Q2tOWnhxWTJfeW5QWU1Wc2JCVmd0V1piNUpBUGMzTDZSSmVpSUhLZUduSjhldkdWcXN3UXpSOUVUelVscC02UlFrZGNjRWJhTEd3djNpcWZZT3BsT3EtcVgxUzAxTEZ1UTl3R09LVHhmTDJabkUwV1ZESnh3c21laFBRQTI4b1VHZmVMUFdENDg2YXJSRktDczdxcWlRR3JzUHdy?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261001T174738Z",
+          "seen": "20260930T190429Z",
+          "pinned": false
+        },
+        {
+          "title": "US delays closure of Qatar camp housing more than 1,000 Afghans who helped the US war effort",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMFVjNjJZSnJGM05uVmhITnZWNXc4dk5rQ3FFdUZrdUlVNS16T0g0SHR1eEtfR1lYUW85Q3ZJX3RCcVE1bW5WNzR1eUN3c1J1blRKR3k4Y3lNanJScXZOckZNcFFmMEhnN2RkZEhOQVZJU2FTRjF2cnRHaXlSN0NRZlJidWZGbGJkQ0JqejZrVzJvakJzWE1qWm1NRGs4V0J4?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260929T215700Z",
+          "pinned": false
+        },
+        {
+          "title": "Iran parades Shahed drones through capital",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLVNlcWl1Zkp6MXRLdWpRc1ZRYjFEdjh6Y0xkVXZaNWN5MFNfSWQyZkI2eU1ab3p2VUhUNUw3Q05aeDhQMWcwQlZYVC1wSkdvYURfNk1VRDRtdXJYZ1gwSXUxZTMxb0hiQ2FmOHR2aXEybUlHWVpxbk5OMmU3eE5HQzZCZVpFLUFiNGZIZ19UM2N6ZW5ET1J2etIBngFBVV95cUxPbDQ4V3llOURlQzNsZjhXZk5KY1VvTlBjaU9OUzEtZ3JUNGpYNVpzWC1VOTV3dVZfa1dxYVM2NE13T3Q5WjZJa2ltZURWM0hManB3Vmd5N1VuOEVnb2Ftdmh3N1J4bFJUNjdLSUZ1YldWVUxRa2Z4T2JBUXlHWFZxSFJPRlphNW9RZUo2Rno1SC1uWWlIdEdpM203U05iUQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261001T005524Z",
           "pinned": false
         },
         {
@@ -1879,11 +1871,19 @@
           "pinned": false
         },
         {
-          "title": "Kosovo's lawmakers slam EU-backed court's war crimes verdicts of rebel leaders from war with Serbia",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUDBDbFQwWU9DUG5zT2Z6WWg1SGR3MFlseFNGUkhIWUsyTldrcmRZUDdWWVl4bktzSHFZOVktVkZidDBXbHZzbWQ4YUlLT3hhbko0MnhrSEFoRlNneEZWUU90NmV6U1l2cFF4YlRRWG1SQkxQWXQyZDFYUXlZYmZ5VnZSa1BpSnA5bkFuUGNnMjhoX0JuM2luTDdXcl9tOFZyUWt5OU5vUXMtOVk?oc=5",
-          "domain": "apnews.com",
+          "title": "Russian drone hits school in Ukraine’s Kyiv as Moscow presses air assault",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORFFFOG8xYWlMY1h6QVJSTTROMkRDSjNOQ21UbVZqRDN3MmF5dWxQNy1uZEVHMzN5bWdpUC1PclBtZS1iQjdYbkF5bEVGUW1HQlowUVFyNlhwd0NxZzc1NXhEN0FPQzkwN0lQcGQ1azJQSkJIWFhjcGZDSm5DdWNsVkltZWctTVBZSUwxQUJocnIzanZNYmxYdGZXLUJOOGFXaXB3b0F5TjJFMmcycVlXcGY1MNIBuAFBVV95cUxPNmhDNU42eGNtZ010NzdqZjFCNlFXMWF2b25rR0VFMHdEY1Zpbk9JUjZWc21iTFFTZDVnQjdIdU93LTl0d0E5b21HeC1UZVZkdUVUY2FjUFdrazN2RHE3cVpzWUFsR0JhUkhEOXdOSVpDeUlsUDlsMlVLZUlzQk1IbmxibGk5eFNiLU9NNTl5Ym9JTG5IdnpZSk9iRkhKUF9oSVI2Wjk3NnBveWdITHY4b25CRFpjWGgw?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260928T122400Z",
+          "seen": "20261001T131449Z",
+          "pinned": false
+        },
+        {
+          "title": "Russian drone crashes into Kyiv playground without exploding",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNakRsOC1CbHBkLUU0ems3c2tjTklQNEhhMXBsWWFJN1FvaW9zaFJUa0J6REFfMmd4bkJKbmUwTjNIZ09DOHg0d1Q4enJoVURLT1gzeGZWd1YtY0FRWVM4S3ZzRWc5UGd3cUpfYmk0VFZ2SGdoRDljc0ozb2Y0NTFlMnRWNFZ6RHJiXzFERkNVSGNKVUU0bHY3QndWVXh2cjc5dFA2cV91MWQwbVNLZmfSAbMBQVVfeXFMTUIwWFlTdDhOOXp2SVRoQld2Ml8tZDFtSEdBNDVnUXNUTEtUSk4tbjZ0YXoyVllYTWp5VXN6ZTNYM0ZMR3FKQk1kUTJRNGZjZUs2ZzlyWGR3OW1lNE1sbnlvQW13aUlwcDhsSlRBSzZ0aW54NnJWMldFX09BSV9IcDdJcVdqdWF2MEh4WW5yNTJEbEIyWmZmY2JvLVFvQ2haRHhabnZlMFdxY1F0cTVxSXVXXzg?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260930T222419Z",
           "pinned": false
         }
       ],
@@ -1943,49 +1943,13 @@
           "reportedAt": "2026-09-29T13:38:06Z"
         },
         {
-          "id": "report-a97e5f4e3b4c",
-          "title": "Explosions heard in Ethiopia's capital after drone flights banned",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hVnVmZjA2MDh5VnVFX1dhcnJhVnhPUkRhM0RWM3huODlZN3VfNGtSMTJpNlAyMkFtbjhWN1JvYzZIekdYdlY3UENoQUpQTFlLc2tzOWpUQWozZGM?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-01T15:05:36Z"
-        },
-        {
-          "id": "report-c50302688217",
-          "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43aS1UeHVsME5fZnIwMDM0U2gxakhNdUQ2Z2pfZV8wa3ZuVGxTZmUzWEV6Ri1SYUt2S3JOM05FSUFvMmpjb1pzOGhzTlhqaDZxYkJ6dGZTQmxEQlk?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-28T14:57:31Z"
-        },
-        {
-          "id": "report-f76079050790",
-          "title": "Police probe ‘terror’ incident near RAF base used in Iran war: What we know",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX01hV3BoUG5vRXFIRmcycDhNV0dnaWZsVzA3QWg5Mk12NU1oUFF1bWlERHVRRFpFTi1fMlYxdnMzNFp2WnZxaXFKUEViYTZyajJ4NTI4RS1fc0tyblAwLTRkUGI4OF90VGN5bFM0cE84dmFTWlpWdFM4bV9oMjNobWVXZ1Q2OC1ycEZYQWtmN3Zfb3JxbVFpd1dGQWpDM1FleFNZ0gGoAUFVX3lxTE16eTRSRk9tT3N0Q0ZLbDg3NC1zcnN4R1hPZ3I1VndHZ000Sk5UU2lLMk9RRzBEY1dYWG4tYXJYZE9feWV6TVYwWXJGcXE1SzYxcWhsTEx5bVZlN1dOSzNfa1phWWVheVA4Z2tVUk1IWEp0Y0VCOEVlRjdsMGdNR3hHYzFSU29DQ0htRFZvcGZpOXA5cF95T1F2TmJEWFRYZm5qa21ES2xzSQ?oc=5",
+          "id": "report-22dd8a9b0e43",
+          "title": "US to send third aircraft carrier towards Iran: US official to Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY0JrMHU0WDJxM2QwSnZBZkVjZTJEOElaTjBiMV8wODB5eE5TeG02Z1dwWTB3bzZmQkVxTXhYaFh1dTVZa2xPZUtDdldvLU5OU2o4cWlKcnExa3NQajlLOVVxTjhSNzNocllRTnJIUHF6WEt5aW90WUM0aS1aNjdsbW1DRVh0V01PQmxSTFh6SlBsWXV1VHp0Zkp5ZE1WanNBdXZfTzFOUGxuUlloYXlVSmJUd9IBuAFBVV95cUxQVFMzY0lFQndrM28xaXNGSEo3T2pYUnFRd3NsQmk2N2JQLVV0c0tZQjFKYVR5Z2xIUlZQZ0ZsUmtxdEwyTTAwdGg2WHlQNDZxaG1OeHMteWVQdm5qci1LakNYekhKWmtGcGpfQnlPSm9mc0w1MnZxTDY2THJockliV1Z1S0NLZzdIU19pVXN2bHM3VGROcWI0aGEyNDRSN0wzNWNsektETklEeWhpQ0dkVlo5a0hTSUpf?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-28T14:31:38Z"
-        },
-        {
-          "id": "report-403049e4fa4c",
-          "title": "Iran parliament speaker warns no one in region will sell oil if Tehran cannot",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSXgybTBNS2RDbWlyQ3Q0Q0wzN3JfeW1TUVNuV096cjlsd2RvZVctTHpESklpeTRjVHBOLXBZdjI1MGd0SUprMk1oYjRkWTdEYVhYNE5fNkd2U2Z1U0RTaTliZUxTTGRZZE5TOHFiNnB2NmdVWi0xTUkwN2h4S2YzcWVWeE0wU21vQTJoZE4zSHM3WmpDaU5wOXdjNS1falVCUVg1ZHR0T3gtczcwQUFscS1aRi1zdXhHMC1zd0Fubw?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
-          "reportedAt": "2026-09-29T09:17:12Z"
-        },
-        {
-          "id": "report-37bee1ff971b",
-          "title": "Iran’s children return to school under the shadow of war",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYjhaQThZd1VYT19jaEoxYWNIYk5LYmRRckt5eWdzYllDdU8yYzFlZTVYeTBPQjBmdmlfUHpWYTNOVnBYb2NPWjdXMllObHhjLWtoajBLM3pzQWxaWVZWWlZubDlMQnpEdmJVYy1TbVNtT2ZFZFI0a3VMNWpOUGt2VllJcEVEZzFzSkU1cG5SM3htRlNIbTA3eFZhWS1NcTBNVVHSAacBQVVfeXFMUHM2M1FlVUpnck1YRXh5U01OWENyU2hrUmpBdWozeEJ5RHFDdDI2QmVtTGE4bktXUXg2aHhNYWpGUFdubGJPSWM4ekl2M3NHNzNCMmpYaVhoN29BeG1yOHRGaXI5cHJWX3lvSDQzYnp1N1U3M3Z6N2xxaW4xbjJ5RWUyanBBZmY5R0t4UHN0NHVNVEN6U3VPREMycEtkakpSd2RyUTA4SjA?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-28T08:48:05Z"
+          "reportedAt": "2026-10-02T03:29:17Z"
         },
         {
           "id": "report-1113fb32233d",
@@ -1995,6 +1959,33 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-10-01T21:39:10Z"
+        },
+        {
+          "id": "report-a97e5f4e3b4c",
+          "title": "Addis Ababa explosions: Blasts heard in Ethiopia's capital after drone flights banned",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hVnVmZjA2MDh5VnVFX1dhcnJhVnhPUkRhM0RWM3huODlZN3VfNGtSMTJpNlAyMkFtbjhWN1JvYzZIekdYdlY3UENoQUpQTFlLc2tzOWpUQWozZGM?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-01T15:05:36Z"
+        },
+        {
+          "id": "report-d5b986ce0d70",
+          "title": "Blasts heard in Addis Ababa as Ethiopia conflict widens in the north",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY0plMUVSbEx1aXhEaWlfUEE0UjN0YlM0X0NJamhrVkVHT19hUExQM3NIeDg0bkFXTGRZMTFtVV94SVZ3dmZyYTdCa0ZESG5FRDVvU3ZFNW9Kdk0xbmxTSUpVQWxERzRycmh3bXYtYm9xbDFLRlRlMEdQTGVPUXFCME44S2x3bTZpcVJnb19IZlNGc3N6eHVLRFFOV05UN0pBVUVRb1BLTzhneTZyNmfSAbMBQVVfeXFMTjloOE1jckdWSWNkQk5BZ2t3TDRJWkZmZzBtWkFLZnlnamVYVjFvNThmWXdzSEw0TVEzV3BTT2lpa1Nma1NZQTRfT3FnR2lSa0YyS2hscWsyNHJNdF9TMzc5c0NKNW5sQ0RXZko3MndvaEo4NTBkem9nMjdEeTlzcUhXaC10VmNEREpMMzdDYTBFeTBkT0drUktYR09jc0h3S1JtVWppLTB4UWdfRzJfSGRmUjQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-01T16:44:58Z"
+        },
+        {
+          "id": "report-403049e4fa4c",
+          "title": "Iran parliament speaker warns no one in region will sell oil if Tehran cannot",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSXgybTBNS2RDbWlyQ3Q0Q0wzN3JfeW1TUVNuV096cjlsd2RvZVctTHpESklpeTRjVHBOLXBZdjI1MGd0SUprMk1oYjRkWTdEYVhYNE5fNkd2U2Z1U0RTaTliZUxTTGRZZE5TOHFiNnB2NmdVWi0xTUkwN2h4S2YzcWVWeE0wU21vQTJoZE4zSHM3WmpDaU5wOXdjNS1falVCUVg1ZHR0T3gtczcwQUFscS1aRi1zdXhHMC1zd0Fubw?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-09-29T09:17:12Z"
         },
         {
           "id": "report-24ff5d1860e2",
@@ -2015,22 +2006,13 @@
           "reportedAt": "2026-09-29T01:14:00Z"
         },
         {
-          "id": "report-67e076849ace",
-          "title": "US sanctions 10 entities for allegedly supporting Iran’s military",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM21LMDMtUHZ6V1dZelNGTGVNOXdBb2lVWndHWnJlclVGWUFCNE1kSGVSRmVsWktxeG5CZEtKWnVKOHc3MVI3eXFsaFV2ZXVWMVhaT0xyVnFIMHQ1TWQ0dDltM0ZQZ0l4SXlUbjRtQW9rdzdlNW9sWmlMYTZLQWg1VFkzYkFuc1pKTFpuWHVoejY2WjlLVmRWcm5fcUMzOUJQM1VjN2RWZF_SAa4BQVVfeXFMUGs2WXZKVnVUQ2NJZVRNWHBpTW9oOHpsbXBWcjlwSHpnTmtFLWx0eFRlSmRDNkNrSkpJdE8wTzVxaVZaRG83bXRiYmx1amZONkhOaGk2UXNoNDBfQXBfczFZbU81RmJiamdmX3RYZFEyY0R5YzRscHVPWkJ5LTJhTHBZSnlfaG9kX2c1QmlpNmJ2eFVubHFZYjF5Q0RHOWFDemQ4QWJmcmQweXMzOWFR?oc=5",
-          "domain": "aljazeera.com",
+          "id": "report-9aa87ac2e6d4",
+          "title": "Carney pitches oil pipeline as a response to US-Canada trade war",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EdnJsbmJzVGd6WEdLQWlGRTJscVBNTDV2dEg4MGxfQW05cDRjNkY4Y01aRUpOYXM5Wnl5Zmo5aml3T1Bub0V4X3pvWnNybXlvV1pyYmNOV2xZcGM?oc=5",
+          "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-29T20:49:06Z"
-        },
-        {
-          "id": "report-1412f79862f3",
-          "title": "Mediators press Iran for nuclear concession to revive ceasefire talks with US: Report",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMUtfWXdkaFp6N21SVUE4cGM3NEs1RDRRS29yamRRNlZ4eWx3Z2pfZFlRaEZ5U2ZETzI4QzJ1NHlkUzVkcUk1aFd2bWlldnFCZEkwalVTclJtOUVaM3RWVFFwMmNNTlU1X0tQRENfX1VEbDVIV3ZrelBnUzR4bVNoazByV0FzTGpyZVZmS3U4bXdjd09ldlJsV2tDNXJTZ0pfU1llSjB6UHZlX0kwQmIwazR4MENzcmRpSjFmeXp1WVJSajZZU1h5aHc0S3ppd2hOVnc?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
-          "reportedAt": "2026-09-28T07:01:57Z"
+          "reportedAt": "2026-10-01T17:47:38Z"
         },
         {
           "id": "report-1c7a359502ec",
@@ -2042,6 +2024,15 @@
           "reportedAt": "2026-10-01T14:09:51Z"
         },
         {
+          "id": "report-67e076849ace",
+          "title": "US sanctions 10 entities for allegedly supporting Iran’s military",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM21LMDMtUHZ6V1dZelNGTGVNOXdBb2lVWndHWnJlclVGWUFCNE1kSGVSRmVsWktxeG5CZEtKWnVKOHc3MVI3eXFsaFV2ZXVWMVhaT0xyVnFIMHQ1TWQ0dDltM0ZQZ0l4SXlUbjRtQW9rdzdlNW9sWmlMYTZLQWg1VFkzYkFuc1pKTFpuWHVoejY2WjlLVmRWcm5fcUMzOUJQM1VjN2RWZF_SAa4BQVVfeXFMUGs2WXZKVnVUQ2NJZVRNWHBpTW9oOHpsbXBWcjlwSHpnTmtFLWx0eFRlSmRDNkNrSkpJdE8wTzVxaVZaRG83bXRiYmx1amZONkhOaGk2UXNoNDBfQXBfczFZbU81RmJiamdmX3RYZFEyY0R5YzRscHVPWkJ5LTJhTHBZSnlfaG9kX2c1QmlpNmJ2eFVubHFZYjF5Q0RHOWFDemQ4QWJmcmQweXMzOWFR?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-29T20:49:06Z"
+        },
+        {
           "id": "report-bb042c8a0330",
           "title": "Russia pounds Ukraine’s Kyiv after deadly strike on Academy of Sciences",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPanFGUFdfOHZGbDEzWGp5dy14a2x1ZGFDdHpHM244cXRxZGxCa0l4VHo5VmNQNGJWTXZ2MGNGVVdUSzgzVU5WUHRKVHFIY29LSThxYTY2aHlvRjNoWk5sYm9nempQTF9IVEdiU3B6MXREXzNXLWctNnpBZ1dJeThFTmgzZjNiSjFEa3hlZzFhVFIxdWprWFRHVEk1cTlmYnczWVVVMzBRaXdJMjDSAbABQVVfeXFMUHVDUDFrWHlfc0ZJUVh3UkREZjJWNlpleXhKWVItcGRaRUVUeEwzRjN2bzZQTDd2aWlEaDVqVXV6YXBQX3VmZDRVWHZlc2dyLUlNNXZsTzNjbGxuUHBuN25xZGRhU2M0OUl5ZDExc3p0eGtRNDh4bk1GdjluNEZBZnlFZWt5ZXdNUFlPR09YSjdnY2tuRjY2S1ZfWDUwSWRybV9xYnJRX3hjeUM2cUhJSHo?oc=5",
@@ -2049,24 +2040,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-29T03:43:37Z"
-        },
-        {
-          "id": "report-d556ec6a61a9",
-          "title": "US delays closure of Qatar camp housing more than 1,000 Afghans who helped the US war effort",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMFVjNjJZSnJGM05uVmhITnZWNXc4dk5rQ3FFdUZrdUlVNS16T0g0SHR1eEtfR1lYUW85Q3ZJX3RCcVE1bW5WNzR1eUN3c1J1blRKR3k4Y3lNanJScXZOckZNcFFmMEhnN2RkZEhOQVZJU2FTRjF2cnRHaXlSN0NRZlJidWZGbGJkQ0JqejZrVzJvakJzWE1qWm1NRGs4V0J4?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-29T21:57:00Z"
-        },
-        {
-          "id": "report-29e18b19500b",
-          "title": "Russia warns NATO of possible nuclear response if Kaliningrad is cut off",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYkxPSE9IbjNwN0xSRmY0d1Vic08zNE9VM01KMDZnTmR6bjNETGlEaEswcGI1RFd1ZFVWRU1yNFJPcDVfSkE1Um1XNURvRVpGWVFVa2NwSTNQc0RSSmpGb3ZTVVJqYU5yanJwamhWNE93RTlYNlFBT3E4QUhCWEd2bzhnLTBaVExIZlBXWlJzRThuR0VtQ0lteFdJcmoyVk56QzVVT2RlTmp3eWNnOHdQTzl0Y9IBuAFBVV95cUxPbGlRNm8wTmhFUXlSNUpYamgxdzA0Q2tOWnhxWTJfeW5QWU1Wc2JCVmd0V1piNUpBUGMzTDZSSmVpSUhLZUduSjhldkdWcXN3UXpSOUVUelVscC02UlFrZGNjRWJhTEd3djNpcWZZT3BsT3EtcVgxUzAxTEZ1UTl3R09LVHhmTDJabkUwV1ZESnh3c21laFBRQTI4b1VHZmVMUFdENDg2YXJSRktDczdxcWlRR3JzUHdy?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-30T19:04:29Z"
         },
         {
           "id": "report-14c3ba038f56",
@@ -2078,13 +2051,31 @@
           "reportedAt": "2026-09-29T12:20:02Z"
         },
         {
-          "id": "report-9aa87ac2e6d4",
-          "title": "Carney pitches oil pipeline as a response to US-Canada trade war",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EdnJsbmJzVGd6WEdLQWlGRTJscVBNTDV2dEg4MGxfQW05cDRjNkY4Y01aRUpOYXM5Wnl5Zmo5aml3T1Bub0V4X3pvWnNybXlvV1pyYmNOV2xZcGM?oc=5",
-          "domain": "bbc.com",
+          "id": "report-29e18b19500b",
+          "title": "Russia warns NATO of possible nuclear response if Kaliningrad is cut off",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYkxPSE9IbjNwN0xSRmY0d1Vic08zNE9VM01KMDZnTmR6bjNETGlEaEswcGI1RFd1ZFVWRU1yNFJPcDVfSkE1Um1XNURvRVpGWVFVa2NwSTNQc0RSSmpGb3ZTVVJqYU5yanJwamhWNE93RTlYNlFBT3E4QUhCWEd2bzhnLTBaVExIZlBXWlJzRThuR0VtQ0lteFdJcmoyVk56QzVVT2RlTmp3eWNnOHdQTzl0Y9IBuAFBVV95cUxPbGlRNm8wTmhFUXlSNUpYamgxdzA0Q2tOWnhxWTJfeW5QWU1Wc2JCVmd0V1piNUpBUGMzTDZSSmVpSUhLZUduSjhldkdWcXN3UXpSOUVUelVscC02UlFrZGNjRWJhTEd3djNpcWZZT3BsT3EtcVgxUzAxTEZ1UTl3R09LVHhmTDJabkUwV1ZESnh3c21laFBRQTI4b1VHZmVMUFdENDg2YXJSRktDczdxcWlRR3JzUHdy?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-01T17:47:38Z"
+          "reportedAt": "2026-09-30T19:04:29Z"
+        },
+        {
+          "id": "report-d556ec6a61a9",
+          "title": "US delays closure of Qatar camp housing more than 1,000 Afghans who helped the US war effort",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMFVjNjJZSnJGM05uVmhITnZWNXc4dk5rQ3FFdUZrdUlVNS16T0g0SHR1eEtfR1lYUW85Q3ZJX3RCcVE1bW5WNzR1eUN3c1J1blRKR3k4Y3lNanJScXZOckZNcFFmMEhnN2RkZEhOQVZJU2FTRjF2cnRHaXlSN0NRZlJidWZGbGJkQ0JqejZrVzJvakJzWE1qWm1NRGs4V0J4?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-29T21:57:00Z"
+        },
+        {
+          "id": "report-4b68bfd60380",
+          "title": "Iran parades Shahed drones through capital",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLVNlcWl1Zkp6MXRLdWpRc1ZRYjFEdjh6Y0xkVXZaNWN5MFNfSWQyZkI2eU1ab3p2VUhUNUw3Q05aeDhQMWcwQlZYVC1wSkdvYURfNk1VRDRtdXJYZ1gwSXUxZTMxb0hiQ2FmOHR2aXEybUlHWVpxbk5OMmU3eE5HQzZCZVpFLUFiNGZIZ19UM2N6ZW5ET1J2etIBngFBVV95cUxPbDQ4V3llOURlQzNsZjhXZk5KY1VvTlBjaU9OUzEtZ3JUNGpYNVpzWC1VOTV3dVZfa1dxYVM2NE13T3Q5WjZJa2ltZURWM0hManB3Vmd5N1VuOEVnb2Ftdmh3N1J4bFJUNjdLSUZ1YldWVUxRa2Z4T2JBUXlHWFZxSFJPRlphNW9RZUo2Rno1SC1uWWlIdEdpM203U05iUQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-01T00:55:24Z"
         },
         {
           "id": "report-dcd419e7461e",
@@ -2096,13 +2087,22 @@
           "reportedAt": "2026-09-29T18:56:46Z"
         },
         {
-          "id": "report-d9848750c38e",
-          "title": "Kosovo's lawmakers slam EU-backed court's war crimes verdicts of rebel leaders from war with Serbia",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUDBDbFQwWU9DUG5zT2Z6WWg1SGR3MFlseFNGUkhIWUsyTldrcmRZUDdWWVl4bktzSHFZOVktVkZidDBXbHZzbWQ4YUlLT3hhbko0MnhrSEFoRlNneEZWUU90NmV6U1l2cFF4YlRRWG1SQkxQWXQyZDFYUXlZYmZ5VnZSa1BpSnA5bkFuUGNnMjhoX0JuM2luTDdXcl9tOFZyUWt5OU5vUXMtOVk?oc=5",
-          "domain": "apnews.com",
+          "id": "report-01221e32156a",
+          "title": "Russian drone hits school in Ukraine’s Kyiv as Moscow presses air assault",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORFFFOG8xYWlMY1h6QVJSTTROMkRDSjNOQ21UbVZqRDN3MmF5dWxQNy1uZEVHMzN5bWdpUC1PclBtZS1iQjdYbkF5bEVGUW1HQlowUVFyNlhwd0NxZzc1NXhEN0FPQzkwN0lQcGQ1azJQSkJIWFhjcGZDSm5DdWNsVkltZWctTVBZSUwxQUJocnIzanZNYmxYdGZXLUJOOGFXaXB3b0F5TjJFMmcycVlXcGY1MNIBuAFBVV95cUxPNmhDNU42eGNtZ010NzdqZjFCNlFXMWF2b25rR0VFMHdEY1Zpbk9JUjZWc21iTFFTZDVnQjdIdU93LTl0d0E5b21HeC1UZVZkdUVUY2FjUFdrazN2RHE3cVpzWUFsR0JhUkhEOXdOSVpDeUlsUDlsMlVLZUlzQk1IbmxibGk5eFNiLU9NNTl5Ym9JTG5IdnpZSk9iRkhKUF9oSVI2Wjk3NnBveWdITHY4b25CRFpjWGgw?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-28T12:24:00Z"
+          "reportedAt": "2026-10-01T13:14:49Z"
+        },
+        {
+          "id": "report-e60701d0741d",
+          "title": "Russian drone crashes into Kyiv playground without exploding",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNakRsOC1CbHBkLUU0ems3c2tjTklQNEhhMXBsWWFJN1FvaW9zaFJUa0J6REFfMmd4bkJKbmUwTjNIZ09DOHg0d1Q4enJoVURLT1gzeGZWd1YtY0FRWVM4S3ZzRWc5UGd3cUpfYmk0VFZ2SGdoRDljc0ozb2Y0NTFlMnRWNFZ6RHJiXzFERkNVSGNKVUU0bHY3QndWVXh2cjc5dFA2cV91MWQwbVNLZmfSAbMBQVVfeXFMTUIwWFlTdDhOOXp2SVRoQld2Ml8tZDFtSEdBNDVnUXNUTEtUSk4tbjZ0YXoyVllYTWp5VXN6ZTNYM0ZMR3FKQk1kUTJRNGZjZUs2ZzlyWGR3OW1lNE1sbnlvQW13aUlwcDhsSlRBSzZ0aW54NnJWMldFX09BSV9IcDdJcVdqdWF2MEh4WW5yNTJEbEIyWmZmY2JvLVFvQ2haRHhabnZlMFdxY1F0cTVxSXVXXzg?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-30T22:24:19Z"
         },
         {
           "id": "report-3d06d7802bf8",
