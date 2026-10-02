@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-02T05:35:57.310Z",
+  "generatedAt": "2026-10-02T12:32:35.949Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-10-02T05:35:57.310Z",
+      "generatedAt": "2026-10-02T12:32:35.949Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -1691,7 +1691,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-10-02T05:35:57.310Z",
+      "generatedAt": "2026-10-02T12:32:35.949Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -1719,6 +1719,14 @@
           "pinned": false
         },
         {
+          "title": "US to send third aircraft carrier towards Iran: US official to Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY0JrMHU0WDJxM2QwSnZBZkVjZTJEOElaTjBiMV8wODB5eE5TeG02Z1dwWTB3bzZmQkVxTXhYaFh1dTVZa2xPZUtDdldvLU5OU2o4cWlKcnExa3NQajlLOVVxTjhSNzNocllRTnJIUHF6WEt5aW90WUM0aS1aNjdsbW1DRVh0V01PQmxSTFh6SlBsWXV1VHp0Zkp5ZE1WanNBdXZfTzFOUGxuUlloYXlVSmJUd9IBuAFBVV95cUxQVFMzY0lFQndrM28xaXNGSEo3T2pYUnFRd3NsQmk2N2JQLVV0c0tZQjFKYVR5Z2xIUlZQZ0ZsUmtxdEwyTTAwdGg2WHlQNDZxaG1OeHMteWVQdm5qci1LakNYekhKWmtGcGpfQnlPSm9mc0w1MnZxTDY2THJockliV1Z1S0NLZzdIU19pVXN2bHM3VGROcWI0aGEyNDRSN0wzNWNsektETklEeWhpQ0dkVlo5a0hTSUpf?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261002T032918Z",
+          "pinned": false
+        },
+        {
           "title": "Japan calls for 'momentum for diplomacy' to end US-Iran war",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMjVkUXFPaWRiQXFWM1ZsOHBQQUJYMUlVUF9CVnRqVGhXSlZWNG1Zb3Z2dVcwTF9pYnFXV2FFaGVoRlEwenNzTWI2R2J0a3FXWlI3bWk2Q1dIS2tGUl9ZdC16T2JlX0hkN296cGo1ZlpMZEg5bG11M2pQdEM4Nmp3aV9rbTNlMHctM0NUbXBUUHVUMHhOLVlHbUlFc2otRi05?oc=5",
           "domain": "aa.com.tr",
@@ -1740,14 +1748,6 @@
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20260929T133806Z",
-          "pinned": false
-        },
-        {
-          "title": "US to send third aircraft carrier towards Iran: US official to Al Jazeera",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY0JrMHU0WDJxM2QwSnZBZkVjZTJEOElaTjBiMV8wODB5eE5TeG02Z1dwWTB3bzZmQkVxTXhYaFh1dTVZa2xPZUtDdldvLU5OU2o4cWlKcnExa3NQajlLOVVxTjhSNzNocllRTnJIUHF6WEt5aW90WUM0aS1aNjdsbW1DRVh0V01PQmxSTFh6SlBsWXV1VHp0Zkp5ZE1WanNBdXZfTzFOUGxuUlloYXlVSmJUd9IBuAFBVV95cUxQVFMzY0lFQndrM28xaXNGSEo3T2pYUnFRd3NsQmk2N2JQLVV0c0tZQjFKYVR5Z2xIUlZQZ0ZsUmtxdEwyTTAwdGg2WHlQNDZxaG1OeHMteWVQdm5qci1LakNYekhKWmtGcGpfQnlPSm9mc0w1MnZxTDY2THJockliV1Z1S0NLZzdIU19pVXN2bHM3VGROcWI0aGEyNDRSN0wzNWNsektETklEeWhpQ0dkVlo5a0hTSUpf?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261002T032917Z",
           "pinned": false
         },
         {
@@ -1775,6 +1775,14 @@
           "pinned": false
         },
         {
+          "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EdFFlQnNfR040Y2NOcnpObDY3UXJGbmkyMHltYzRSMjZhVFpNQUdvRVYwTFUyWFRMNmdpaGRFTm5PUXpXSHRuSmVyWmp1ekgzaHJHTHpVc0x6LWs?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261002T100456Z",
+          "pinned": false
+        },
+        {
           "title": "Iran parliament speaker warns no one in region will sell oil if Tehran cannot",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSXgybTBNS2RDbWlyQ3Q0Q0wzN3JfeW1TUVNuV096cjlsd2RvZVctTHpESklpeTRjVHBOLXBZdjI1MGd0SUprMk1oYjRkWTdEYVhYNE5fNkd2U2Z1U0RTaTliZUxTTGRZZE5TOHFiNnB2NmdVWi0xTUkwN2h4S2YzcWVWeE0wU21vQTJoZE4zSHM3WmpDaU5wOXdjNS1falVCUVg1ZHR0T3gtczcwQUFscS1aRi1zdXhHMC1zd0Fubw?oc=5",
           "domain": "aa.com.tr",
@@ -1783,19 +1791,27 @@
           "pinned": false
         },
         {
+          "title": "Trump says 'some' munitions are low as Iran war grinds on",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwYS1GSHBLV1Z4UzhiT0FhRkNKNk9jZXRmUDJxS1pXM1RrMkEySXQwdHdNMm9vUWlWT0NST3d0Q3paa2J4NHRaYkQtTHJWRy1HS1NPNmlPckFCR0k?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261001T160207Z",
+          "pinned": false
+        },
+        {
+          "title": "Israel planned ‘false flag’ aircraft hijacking to draw US into new war with Iran: Report",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORWVSSzczcnZrM3lIOU9JZXdadGhmdmhlVEVkR0k4cjVuX2I3TEtPMUlodkZxcGZ5N2NFS0ZPQkpfWU9Rb1N5NnFvNDhfbTFzSUg2LWZydXFGNEJLaTh5RHdvQWFpU2hOMVpQaDlNb1FFVnRlNjNvcmJMMHNYMzRwNmJ1eXBmSDJHQk11aFVsS3AxQXRTTkF6UU04dHhfcmNPbFAyMjR2V0NnbTVfU3BDRHFUcFVjMXhZejNWbG9CT2RraFQ0VGpaNEVR?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20261001T234646Z",
+          "pinned": false
+        },
+        {
           "title": "Iran indicates it received a US response on its war-ending proposal, with details still unclear",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTzF1aTM5aWNKQThpZ21SMjFCVHFBXzhoVXZSWXJVSGg4VFN4NEhWVlhVUmdJeEJ3OVJLb3BVVHduU1pPSHBJYVg0VEFsbndOTERpekJFNjlja1NwMmU2X1JKeTlfYXlOWk1PX2NjN2dxRDBldV8xTFh4MEdtWUxiN2lxc05vOVdtc3hYWWZaVGpDdzZUeGtsRjhDZWpON3c0dENpWGVubmR4SnduZ1IwV1FpRQ?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "seen": "20261001T032500Z",
-          "pinned": false
-        },
-        {
-          "title": "Airstrike near a market in Myanmar’s Rakhine state kills 49 people",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQb2kwWGdxWFhkNnBvaGVoQzF3RzJtQUtfUGNqaXJNZEZTVE11bU0wMDlEZW03cThiUi14ZldIdkI0M21iNHM1bllsOFlGSnBTcU8tSmZkMllKbEdVX3lYMWNSZ2JKd3NKdFU5TnU3aS1SdlYzZExwYWF0VTQwdklNa3Q1UVVaZWVhaEpBa1Z1Q0VMNFFzVkE?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260929T011400Z",
           "pinned": false
         },
         {
@@ -1812,6 +1828,14 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20261001T140951Z",
+          "pinned": false
+        },
+        {
+          "title": "Airstrike near a market in Myanmar’s Rakhine state kills 49 people",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQb2kwWGdxWFhkNnBvaGVoQzF3RzJtQUtfUGNqaXJNZEZTVE11bU0wMDlEZW03cThiUi14ZldIdkI0M21iNHM1bllsOFlGSnBTcU8tSmZkMllKbEdVX3lYMWNSZ2JKd3NKdFU5TnU3aS1SdlYzZExwYWF0VTQwdklNa3Q1UVVaZWVhaEpBa1Z1Q0VMNFFzVkE?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20260929T011400Z",
           "pinned": false
         },
         {
@@ -1839,14 +1863,6 @@
           "pinned": false
         },
         {
-          "title": "Russia warns NATO of possible nuclear response if Kaliningrad is cut off",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYkxPSE9IbjNwN0xSRmY0d1Vic08zNE9VM01KMDZnTmR6bjNETGlEaEswcGI1RFd1ZFVWRU1yNFJPcDVfSkE1Um1XNURvRVpGWVFVa2NwSTNQc0RSSmpGb3ZTVVJqYU5yanJwamhWNE93RTlYNlFBT3E4QUhCWEd2bzhnLTBaVExIZlBXWlJzRThuR0VtQ0lteFdJcmoyVk56QzVVT2RlTmp3eWNnOHdQTzl0Y9IBuAFBVV95cUxPbGlRNm8wTmhFUXlSNUpYamgxdzA0Q2tOWnhxWTJfeW5QWU1Wc2JCVmd0V1piNUpBUGMzTDZSSmVpSUhLZUduSjhldkdWcXN3UXpSOUVUelVscC02UlFrZGNjRWJhTEd3djNpcWZZT3BsT3EtcVgxUzAxTEZ1UTl3R09LVHhmTDJabkUwV1ZESnh3c21laFBRQTI4b1VHZmVMUFdENDg2YXJSRktDczdxcWlRR3JzUHdy?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260930T190429Z",
-          "pinned": false
-        },
-        {
           "title": "US delays closure of Qatar camp housing more than 1,000 Afghans who helped the US war effort",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMFVjNjJZSnJGM05uVmhITnZWNXc4dk5rQ3FFdUZrdUlVNS16T0g0SHR1eEtfR1lYUW85Q3ZJX3RCcVE1bW5WNzR1eUN3c1J1blRKR3k4Y3lNanJScXZOckZNcFFmMEhnN2RkZEhOQVZJU2FTRjF2cnRHaXlSN0NRZlJidWZGbGJkQ0JqejZrVzJvakJzWE1qWm1NRGs4V0J4?oc=5",
           "domain": "apnews.com",
@@ -1855,11 +1871,11 @@
           "pinned": false
         },
         {
-          "title": "Iran parades Shahed drones through capital",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLVNlcWl1Zkp6MXRLdWpRc1ZRYjFEdjh6Y0xkVXZaNWN5MFNfSWQyZkI2eU1ab3p2VUhUNUw3Q05aeDhQMWcwQlZYVC1wSkdvYURfNk1VRDRtdXJYZ1gwSXUxZTMxb0hiQ2FmOHR2aXEybUlHWVpxbk5OMmU3eE5HQzZCZVpFLUFiNGZIZ19UM2N6ZW5ET1J2etIBngFBVV95cUxPbDQ4V3llOURlQzNsZjhXZk5KY1VvTlBjaU9OUzEtZ3JUNGpYNVpzWC1VOTV3dVZfa1dxYVM2NE13T3Q5WjZJa2ltZURWM0hManB3Vmd5N1VuOEVnb2Ftdmh3N1J4bFJUNjdLSUZ1YldWVUxRa2Z4T2JBUXlHWFZxSFJPRlphNW9RZUo2Rno1SC1uWWlIdEdpM203U05iUQ?oc=5",
+          "title": "Russia warns NATO of possible nuclear response if Kaliningrad is cut off",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYkxPSE9IbjNwN0xSRmY0d1Vic08zNE9VM01KMDZnTmR6bjNETGlEaEswcGI1RFd1ZFVWRU1yNFJPcDVfSkE1Um1XNURvRVpGWVFVa2NwSTNQc0RSSmpGb3ZTVVJqYU5yanJwamhWNE93RTlYNlFBT3E4QUhCWEd2bzhnLTBaVExIZlBXWlJzRThuR0VtQ0lteFdJcmoyVk56QzVVT2RlTmp3eWNnOHdQTzl0Y9IBuAFBVV95cUxPbGlRNm8wTmhFUXlSNUpYamgxdzA0Q2tOWnhxWTJfeW5QWU1Wc2JCVmd0V1piNUpBUGMzTDZSSmVpSUhLZUduSjhldkdWcXN3UXpSOUVUelVscC02UlFrZGNjRWJhTEd3djNpcWZZT3BsT3EtcVgxUzAxTEZ1UTl3R09LVHhmTDJabkUwV1ZESnh3c21laFBRQTI4b1VHZmVMUFdENDg2YXJSRktDczdxcWlRR3JzUHdy?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261001T005524Z",
+          "seen": "20260930T190429Z",
           "pinned": false
         },
         {
@@ -1868,22 +1884,6 @@
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "seen": "20260929T185646Z",
-          "pinned": false
-        },
-        {
-          "title": "Russian drone hits school in Ukraine’s Kyiv as Moscow presses air assault",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORFFFOG8xYWlMY1h6QVJSTTROMkRDSjNOQ21UbVZqRDN3MmF5dWxQNy1uZEVHMzN5bWdpUC1PclBtZS1iQjdYbkF5bEVGUW1HQlowUVFyNlhwd0NxZzc1NXhEN0FPQzkwN0lQcGQ1azJQSkJIWFhjcGZDSm5DdWNsVkltZWctTVBZSUwxQUJocnIzanZNYmxYdGZXLUJOOGFXaXB3b0F5TjJFMmcycVlXcGY1MNIBuAFBVV95cUxPNmhDNU42eGNtZ010NzdqZjFCNlFXMWF2b25rR0VFMHdEY1Zpbk9JUjZWc21iTFFTZDVnQjdIdU93LTl0d0E5b21HeC1UZVZkdUVUY2FjUFdrazN2RHE3cVpzWUFsR0JhUkhEOXdOSVpDeUlsUDlsMlVLZUlzQk1IbmxibGk5eFNiLU9NNTl5Ym9JTG5IdnpZSk9iRkhKUF9oSVI2Wjk3NnBveWdITHY4b25CRFpjWGgw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261001T131449Z",
-          "pinned": false
-        },
-        {
-          "title": "Russian drone crashes into Kyiv playground without exploding",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNakRsOC1CbHBkLUU0ems3c2tjTklQNEhhMXBsWWFJN1FvaW9zaFJUa0J6REFfMmd4bkJKbmUwTjNIZ09DOHg0d1Q4enJoVURLT1gzeGZWd1YtY0FRWVM4S3ZzRWc5UGd3cUpfYmk0VFZ2SGdoRDljc0ozb2Y0NTFlMnRWNFZ6RHJiXzFERkNVSGNKVUU0bHY3QndWVXh2cjc5dFA2cV91MWQwbVNLZmfSAbMBQVVfeXFMTUIwWFlTdDhOOXp2SVRoQld2Ml8tZDFtSEdBNDVnUXNUTEtUSk4tbjZ0YXoyVllYTWp5VXN6ZTNYM0ZMR3FKQk1kUTJRNGZjZUs2ZzlyWGR3OW1lNE1sbnlvQW13aUlwcDhsSlRBSzZ0aW54NnJWMldFX09BSV9IcDdJcVdqdWF2MEh4WW5yNTJEbEIyWmZmY2JvLVFvQ2haRHhabnZlMFdxY1F0cTVxSXVXXzg?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260930T222419Z",
           "pinned": false
         }
       ],
@@ -1916,6 +1916,15 @@
           "reportedAt": "2026-09-30T19:54:15Z"
         },
         {
+          "id": "report-22dd8a9b0e43",
+          "title": "US to send third aircraft carrier towards Iran: US official to Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY0JrMHU0WDJxM2QwSnZBZkVjZTJEOElaTjBiMV8wODB5eE5TeG02Z1dwWTB3bzZmQkVxTXhYaFh1dTVZa2xPZUtDdldvLU5OU2o4cWlKcnExa3NQajlLOVVxTjhSNzNocllRTnJIUHF6WEt5aW90WUM0aS1aNjdsbW1DRVh0V01PQmxSTFh6SlBsWXV1VHp0Zkp5ZE1WanNBdXZfTzFOUGxuUlloYXlVSmJUd9IBuAFBVV95cUxQVFMzY0lFQndrM28xaXNGSEo3T2pYUnFRd3NsQmk2N2JQLVV0c0tZQjFKYVR5Z2xIUlZQZ0ZsUmtxdEwyTTAwdGg2WHlQNDZxaG1OeHMteWVQdm5qci1LakNYekhKWmtGcGpfQnlPSm9mc0w1MnZxTDY2THJockliV1Z1S0NLZzdIU19pVXN2bHM3VGROcWI0aGEyNDRSN0wzNWNsektETklEeWhpQ0dkVlo5a0hTSUpf?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-02T03:29:18Z"
+        },
+        {
           "id": "report-ea17ed75cfda",
           "title": "Japan calls for 'momentum for diplomacy' to end US-Iran war",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMjVkUXFPaWRiQXFWM1ZsOHBQQUJYMUlVUF9CVnRqVGhXSlZWNG1Zb3Z2dVcwTF9pYnFXV2FFaGVoRlEwenNzTWI2R2J0a3FXWlI3bWk2Q1dIS2tGUl9ZdC16T2JlX0hkN296cGo1ZlpMZEg5bG11M2pQdEM4Nmp3aV9rbTNlMHctM0NUbXBUUHVUMHhOLVlHbUlFc2otRi05?oc=5",
@@ -1941,15 +1950,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-29T13:38:06Z"
-        },
-        {
-          "id": "report-22dd8a9b0e43",
-          "title": "US to send third aircraft carrier towards Iran: US official to Al Jazeera",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY0JrMHU0WDJxM2QwSnZBZkVjZTJEOElaTjBiMV8wODB5eE5TeG02Z1dwWTB3bzZmQkVxTXhYaFh1dTVZa2xPZUtDdldvLU5OU2o4cWlKcnExa3NQajlLOVVxTjhSNzNocllRTnJIUHF6WEt5aW90WUM0aS1aNjdsbW1DRVh0V01PQmxSTFh6SlBsWXV1VHp0Zkp5ZE1WanNBdXZfTzFOUGxuUlloYXlVSmJUd9IBuAFBVV95cUxQVFMzY0lFQndrM28xaXNGSEo3T2pYUnFRd3NsQmk2N2JQLVV0c0tZQjFKYVR5Z2xIUlZQZ0ZsUmtxdEwyTTAwdGg2WHlQNDZxaG1OeHMteWVQdm5qci1LakNYekhKWmtGcGpfQnlPSm9mc0w1MnZxTDY2THJockliV1Z1S0NLZzdIU19pVXN2bHM3VGROcWI0aGEyNDRSN0wzNWNsektETklEeWhpQ0dkVlo5a0hTSUpf?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-02T03:29:17Z"
         },
         {
           "id": "report-1113fb32233d",
@@ -1979,6 +1979,15 @@
           "reportedAt": "2026-10-01T16:44:58Z"
         },
         {
+          "id": "report-dcc0c0ad93ea",
+          "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EdFFlQnNfR040Y2NOcnpObDY3UXJGbmkyMHltYzRSMjZhVFpNQUdvRVYwTFUyWFRMNmdpaGRFTm5PUXpXSHRuSmVyWmp1ekgzaHJHTHpVc0x6LWs?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-02T10:04:56Z"
+        },
+        {
           "id": "report-403049e4fa4c",
           "title": "Iran parliament speaker warns no one in region will sell oil if Tehran cannot",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSXgybTBNS2RDbWlyQ3Q0Q0wzN3JfeW1TUVNuV096cjlsd2RvZVctTHpESklpeTRjVHBOLXBZdjI1MGd0SUprMk1oYjRkWTdEYVhYNE5fNkd2U2Z1U0RTaTliZUxTTGRZZE5TOHFiNnB2NmdVWi0xTUkwN2h4S2YzcWVWeE0wU21vQTJoZE4zSHM3WmpDaU5wOXdjNS1falVCUVg1ZHR0T3gtczcwQUFscS1aRi1zdXhHMC1zd0Fubw?oc=5",
@@ -1988,6 +1997,24 @@
           "reportedAt": "2026-09-29T09:17:12Z"
         },
         {
+          "id": "report-5a8f8343cab3",
+          "title": "Trump says 'some' munitions are low as Iran war grinds on",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwYS1GSHBLV1Z4UzhiT0FhRkNKNk9jZXRmUDJxS1pXM1RrMkEySXQwdHdNMm9vUWlWT0NST3d0Q3paa2J4NHRaYkQtTHJWRy1HS1NPNmlPckFCR0k?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-01T16:02:07Z"
+        },
+        {
+          "id": "report-c3541fb4ba36",
+          "title": "Israel planned ‘false flag’ aircraft hijacking to draw US into new war with Iran: Report",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORWVSSzczcnZrM3lIOU9JZXdadGhmdmhlVEVkR0k4cjVuX2I3TEtPMUlodkZxcGZ5N2NFS0ZPQkpfWU9Rb1N5NnFvNDhfbTFzSUg2LWZydXFGNEJLaTh5RHdvQWFpU2hOMVpQaDlNb1FFVnRlNjNvcmJMMHNYMzRwNmJ1eXBmSDJHQk11aFVsS3AxQXRTTkF6UU04dHhfcmNPbFAyMjR2V0NnbTVfU3BDRHFUcFVjMXhZejNWbG9CT2RraFQ0VGpaNEVR?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-10-01T23:46:46Z"
+        },
+        {
           "id": "report-24ff5d1860e2",
           "title": "Iran indicates it received a US response on its war-ending proposal, with details still unclear",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTzF1aTM5aWNKQThpZ21SMjFCVHFBXzhoVXZSWXJVSGg4VFN4NEhWVlhVUmdJeEJ3OVJLb3BVVHduU1pPSHBJYVg0VEFsbndOTERpekJFNjlja1NwMmU2X1JKeTlfYXlOWk1PX2NjN2dxRDBldV8xTFh4MEdtWUxiN2lxc05vOVdtc3hYWWZaVGpDdzZUeGtsRjhDZWpON3c0dENpWGVubmR4SnduZ1IwV1FpRQ?oc=5",
@@ -1995,15 +2022,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-10-01T03:25:00Z"
-        },
-        {
-          "id": "report-6f9a0c01402b",
-          "title": "Airstrike near a market in Myanmar’s Rakhine state kills 49 people",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQb2kwWGdxWFhkNnBvaGVoQzF3RzJtQUtfUGNqaXJNZEZTVE11bU0wMDlEZW03cThiUi14ZldIdkI0M21iNHM1bllsOFlGSnBTcU8tSmZkMllKbEdVX3lYMWNSZ2JKd3NKdFU5TnU3aS1SdlYzZExwYWF0VTQwdklNa3Q1UVVaZWVhaEpBa1Z1Q0VMNFFzVkE?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-29T01:14:00Z"
         },
         {
           "id": "report-9aa87ac2e6d4",
@@ -2022,6 +2040,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-10-01T14:09:51Z"
+        },
+        {
+          "id": "report-6f9a0c01402b",
+          "title": "Airstrike near a market in Myanmar’s Rakhine state kills 49 people",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQb2kwWGdxWFhkNnBvaGVoQzF3RzJtQUtfUGNqaXJNZEZTVE11bU0wMDlEZW03cThiUi14ZldIdkI0M21iNHM1bllsOFlGSnBTcU8tSmZkMllKbEdVX3lYMWNSZ2JKd3NKdFU5TnU3aS1SdlYzZExwYWF0VTQwdklNa3Q1UVVaZWVhaEpBa1Z1Q0VMNFFzVkE?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-09-29T01:14:00Z"
         },
         {
           "id": "report-67e076849ace",
@@ -2051,15 +2078,6 @@
           "reportedAt": "2026-09-29T12:20:02Z"
         },
         {
-          "id": "report-29e18b19500b",
-          "title": "Russia warns NATO of possible nuclear response if Kaliningrad is cut off",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYkxPSE9IbjNwN0xSRmY0d1Vic08zNE9VM01KMDZnTmR6bjNETGlEaEswcGI1RFd1ZFVWRU1yNFJPcDVfSkE1Um1XNURvRVpGWVFVa2NwSTNQc0RSSmpGb3ZTVVJqYU5yanJwamhWNE93RTlYNlFBT3E4QUhCWEd2bzhnLTBaVExIZlBXWlJzRThuR0VtQ0lteFdJcmoyVk56QzVVT2RlTmp3eWNnOHdQTzl0Y9IBuAFBVV95cUxPbGlRNm8wTmhFUXlSNUpYamgxdzA0Q2tOWnhxWTJfeW5QWU1Wc2JCVmd0V1piNUpBUGMzTDZSSmVpSUhLZUduSjhldkdWcXN3UXpSOUVUelVscC02UlFrZGNjRWJhTEd3djNpcWZZT3BsT3EtcVgxUzAxTEZ1UTl3R09LVHhmTDJabkUwV1ZESnh3c21laFBRQTI4b1VHZmVMUFdENDg2YXJSRktDczdxcWlRR3JzUHdy?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-30T19:04:29Z"
-        },
-        {
           "id": "report-d556ec6a61a9",
           "title": "US delays closure of Qatar camp housing more than 1,000 Afghans who helped the US war effort",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMFVjNjJZSnJGM05uVmhITnZWNXc4dk5rQ3FFdUZrdUlVNS16T0g0SHR1eEtfR1lYUW85Q3ZJX3RCcVE1bW5WNzR1eUN3c1J1blRKR3k4Y3lNanJScXZOckZNcFFmMEhnN2RkZEhOQVZJU2FTRjF2cnRHaXlSN0NRZlJidWZGbGJkQ0JqejZrVzJvakJzWE1qWm1NRGs4V0J4?oc=5",
@@ -2069,13 +2087,13 @@
           "reportedAt": "2026-09-29T21:57:00Z"
         },
         {
-          "id": "report-4b68bfd60380",
-          "title": "Iran parades Shahed drones through capital",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLVNlcWl1Zkp6MXRLdWpRc1ZRYjFEdjh6Y0xkVXZaNWN5MFNfSWQyZkI2eU1ab3p2VUhUNUw3Q05aeDhQMWcwQlZYVC1wSkdvYURfNk1VRDRtdXJYZ1gwSXUxZTMxb0hiQ2FmOHR2aXEybUlHWVpxbk5OMmU3eE5HQzZCZVpFLUFiNGZIZ19UM2N6ZW5ET1J2etIBngFBVV95cUxPbDQ4V3llOURlQzNsZjhXZk5KY1VvTlBjaU9OUzEtZ3JUNGpYNVpzWC1VOTV3dVZfa1dxYVM2NE13T3Q5WjZJa2ltZURWM0hManB3Vmd5N1VuOEVnb2Ftdmh3N1J4bFJUNjdLSUZ1YldWVUxRa2Z4T2JBUXlHWFZxSFJPRlphNW9RZUo2Rno1SC1uWWlIdEdpM203U05iUQ?oc=5",
+          "id": "report-29e18b19500b",
+          "title": "Russia warns NATO of possible nuclear response if Kaliningrad is cut off",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYkxPSE9IbjNwN0xSRmY0d1Vic08zNE9VM01KMDZnTmR6bjNETGlEaEswcGI1RFd1ZFVWRU1yNFJPcDVfSkE1Um1XNURvRVpGWVFVa2NwSTNQc0RSSmpGb3ZTVVJqYU5yanJwamhWNE93RTlYNlFBT3E4QUhCWEd2bzhnLTBaVExIZlBXWlJzRThuR0VtQ0lteFdJcmoyVk56QzVVT2RlTmp3eWNnOHdQTzl0Y9IBuAFBVV95cUxPbGlRNm8wTmhFUXlSNUpYamgxdzA0Q2tOWnhxWTJfeW5QWU1Wc2JCVmd0V1piNUpBUGMzTDZSSmVpSUhLZUduSjhldkdWcXN3UXpSOUVUelVscC02UlFrZGNjRWJhTEd3djNpcWZZT3BsT3EtcVgxUzAxTEZ1UTl3R09LVHhmTDJabkUwV1ZESnh3c21laFBRQTI4b1VHZmVMUFdENDg2YXJSRktDczdxcWlRR3JzUHdy?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-01T00:55:24Z"
+          "reportedAt": "2026-09-30T19:04:29Z"
         },
         {
           "id": "report-dcd419e7461e",
@@ -2085,24 +2103,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-29T18:56:46Z"
-        },
-        {
-          "id": "report-01221e32156a",
-          "title": "Russian drone hits school in Ukraine’s Kyiv as Moscow presses air assault",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORFFFOG8xYWlMY1h6QVJSTTROMkRDSjNOQ21UbVZqRDN3MmF5dWxQNy1uZEVHMzN5bWdpUC1PclBtZS1iQjdYbkF5bEVGUW1HQlowUVFyNlhwd0NxZzc1NXhEN0FPQzkwN0lQcGQ1azJQSkJIWFhjcGZDSm5DdWNsVkltZWctTVBZSUwxQUJocnIzanZNYmxYdGZXLUJOOGFXaXB3b0F5TjJFMmcycVlXcGY1MNIBuAFBVV95cUxPNmhDNU42eGNtZ010NzdqZjFCNlFXMWF2b25rR0VFMHdEY1Zpbk9JUjZWc21iTFFTZDVnQjdIdU93LTl0d0E5b21HeC1UZVZkdUVUY2FjUFdrazN2RHE3cVpzWUFsR0JhUkhEOXdOSVpDeUlsUDlsMlVLZUlzQk1IbmxibGk5eFNiLU9NNTl5Ym9JTG5IdnpZSk9iRkhKUF9oSVI2Wjk3NnBveWdITHY4b25CRFpjWGgw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-01T13:14:49Z"
-        },
-        {
-          "id": "report-e60701d0741d",
-          "title": "Russian drone crashes into Kyiv playground without exploding",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNakRsOC1CbHBkLUU0ems3c2tjTklQNEhhMXBsWWFJN1FvaW9zaFJUa0J6REFfMmd4bkJKbmUwTjNIZ09DOHg0d1Q4enJoVURLT1gzeGZWd1YtY0FRWVM4S3ZzRWc5UGd3cUpfYmk0VFZ2SGdoRDljc0ozb2Y0NTFlMnRWNFZ6RHJiXzFERkNVSGNKVUU0bHY3QndWVXh2cjc5dFA2cV91MWQwbVNLZmfSAbMBQVVfeXFMTUIwWFlTdDhOOXp2SVRoQld2Ml8tZDFtSEdBNDVnUXNUTEtUSk4tbjZ0YXoyVllYTWp5VXN6ZTNYM0ZMR3FKQk1kUTJRNGZjZUs2ZzlyWGR3OW1lNE1sbnlvQW13aUlwcDhsSlRBSzZ0aW54NnJWMldFX09BSV9IcDdJcVdqdWF2MEh4WW5yNTJEbEIyWmZmY2JvLVFvQ2haRHhabnZlMFdxY1F0cTVxSXVXXzg?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-30T22:24:19Z"
         },
         {
           "id": "report-3d06d7802bf8",
