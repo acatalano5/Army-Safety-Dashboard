@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-02T12:32:35.949Z",
+  "generatedAt": "2026-10-02T20:09:03.466Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -9,7 +9,7 @@
       "items": []
     },
     "safety": {
-      "generatedAt": "2026-10-01T20:31:30.138Z",
+      "generatedAt": "2026-10-02T20:09:03.466Z",
       "cadence": "daily",
       "items": [
         {
@@ -19,14 +19,6 @@
           "sourceTier": "Official / intergovernmental",
           "seen": "20250129T204800Z",
           "pinned": true
-        },
-        {
-          "title": "Air Force Thunderbird crashed after failure in engine ‘blind spot,’ investigation finds",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1aOXpKbm1qc2ZBWk54aFVxblBMOW5YRVRSR3AwbV9hT2k3QnJkM1hRdXBLU245UFdmaEtVbzlyd041MU5WZEhVLW1NTFl0MjFFTzR4czhTWDhSblNaX2ZuRlQ5cmd2SG9rVFhWWlRXWWxEYl9BNnB6WXJoNA?oc=5",
-          "domain": "taskandpurpose.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260922T070000Z",
-          "pinned": false
         },
         {
           "title": "PLR 26-067 – Motorcycle Mishap Claims One Soldier’s Life",
@@ -45,11 +37,19 @@
           "pinned": false
         },
         {
-          "title": "Pilot ejects in F-16 crash in Germany",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdDlwZWY5QUNLMXltbkF1LVZGNTNDTmI3T2ZUdm9reTBVejY1QjJxeWhXeE1vcUg0dlFCdjJsRDkxc1FSOWFSMWNBeWV6eU9NdlpPTVgwNmlJa2hVblhPcTBXV3pLc3FfaklqbEpiTHJsMzVHWFF6ODRGVjlFRk5vY19XTDFGUGgzOGlGZGVTQlJWQjlKQjl1d1ROYmlhUQ?oc=5",
-          "domain": "stripes.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260922T070000Z",
+          "title": "PLR 26-069 – Motorcycle Mishap Claims One Soldier’s Life",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPd3lNZFBZNnQ5VW5qdzIyYjEtWHNEYW1fUGc0Q3hiZWtTRjNnTjczNWZ0QVFGMWNKWldaQVN2cmNOOE8tSE1pZmxmWkFheDRWR3FlamhqbmNJa3U2eDlIdThJX25rcExkRUg3cGtzWDNXdUxPdWRJM2o4QTdNZlZ3QWZqY1JnaWhRVUFqa21rUXg4QzA0QmVHdVhyb3NjVFJubnNiUl9wb3ozU2dQdHNRMWRwdFNfV1B2RnhBQkJWM0hYOTE2bGJwa0tRZ0hjcXRVajZwdWtPdzRLWW94dVZr?oc=5",
+          "domain": "safety.army.mil",
+          "sourceTier": "Official military source",
+          "seen": "20260930T070000Z",
+          "pinned": false
+        },
+        {
+          "title": "PLR 26-068 – Sports, Recreation and Physical Training Mishap Claims One Soldier’s Life",
+          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNdzdXSVBpam1HQWNrcy1JTXFpblA0cFdxQXgzaTJYQnduR2tMaUI3T0JwU3JaUDk5VHVtazd1d0IxcmNYYzRkVEpKMy1ORVBmYU04TC1UM0hzOTQtTkNuQW91RVNGN3dMZGRFNUl2QTNucFRlM21wTHdoQkY0QWs1STZjNTh0elF1R3JBNXRIUkZGdHhDS2tmbjl5LTVLVi1KVGFwejhrNnJOMXRCa01QaHFxcGc4WldtUlNJT0RNUlJOb1hOdm04TkVfVEpZaU5zeXRkTzNMbi1MbEVqQjJ3MGVNV2F2UkItb1RCVmJKNGZGa0RjOHUwMUdUdURKc0NfY3cxbmdB?oc=5",
+          "domain": "safety.army.mil",
+          "sourceTier": "Official military source",
+          "seen": "20260930T070000Z",
           "pinned": false
         },
         {
@@ -75,17 +75,45 @@
           "sourceTier": "Official military source",
           "seen": "20260917T235209Z",
           "pinned": false
-        },
-        {
-          "title": "CORRECTION 2: UPDATE: Coast Guard locates missing boaters near St. Lawrence Island, Alaska",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTFNfcDRad01VbFJfaTVvX01xaVVvb2dSMmFISFc2T2ZfTGphbTdjV090RlJ2alpzVlk2WXZlWkR5US1nX3VUOHZBaHV1LVFhdTBZOVMwVkhud0g2T28wNzFfdEF4MHZBdE5UN1A1UXBoMkxiWDR0U19pU2JBWGtSRmVPVXNoRU9mam9oYm5ydnRxXzFLRkpaX20xY1V1N0VmeFlvaXpUQmpGYWFGRnJJSjljek9qZF9rUmFHSWd5YUExX09HcGZTM2dLd2pyUWp5VGtr?oc=5",
-          "domain": "news.uscg.mil",
-          "sourceTier": "Official military source",
-          "seen": "20260909T070000Z",
-          "pinned": false
         }
       ],
       "incidents": [
+        {
+          "id": "auto-9b30a4ac30c9",
+          "reportDate": "2026-09-30",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Other",
+          "event": "PLR 26-069 – Motorcycle Mishap Claims One Soldier’s Life",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "OFFICIAL INTAKE",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Official military source",
+          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
+          "source": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPd3lNZFBZNnQ5VW5qdzIyYjEtWHNEYW1fUGc0Q3hiZWtTRjNnTjczNWZ0QVFGMWNKWldaQVN2cmNOOE8tSE1pZmxmWkFheDRWR3FlamhqbmNJa3U2eDlIdThJX25rcExkRUg3cGtzWDNXdUxPdWRJM2o4QTdNZlZ3QWZqY1JnaWhRVUFqa21rUXg4QzA0QmVHdVhyb3NjVFJubnNiUl9wb3ozU2dQdHNRMWRwdFNfV1B2RnhBQkJWM0hYOTE2bGJwa0tRZ0hjcXRVajZwdWtPdzRLWW94dVZr?oc=5",
+          "sourceLabel": "safety.army.mil"
+        },
+        {
+          "id": "auto-c994308f7b8b",
+          "reportDate": "2026-09-30",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Other",
+          "event": "PLR 26-068 – Sports, Recreation and Physical Training Mishap Claims One Soldier’s Life",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "OFFICIAL INTAKE",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Official military source",
+          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
+          "source": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNdzdXSVBpam1HQWNrcy1JTXFpblA0cFdxQXgzaTJYQnduR2tMaUI3T0JwU3JaUDk5VHVtazd1d0IxcmNYYzRkVEpKMy1ORVBmYU04TC1UM0hzOTQtTkNuQW91RVNGN3dMZGRFNUl2QTNucFRlM21wTHdoQkY0QWs1STZjNTh0elF1R3JBNXRIUkZGdHhDS2tmbjl5LTVLVi1KVGFwejhrNnJOMXRCa01QaHFxcGc4WldtUlNJT0RNUlJOb1hOdm04TkVfVEpZaU5zeXRkTzNMbi1MbEVqQjJ3MGVNV2F2UkItb1RCVmJKNGZGa0RjOHUwMUdUdURKc0NfY3cxbmdB?oc=5",
+          "sourceLabel": "safety.army.mil"
+        },
         {
           "id": "auto-9e8d2cf53e58",
           "reportDate": "2026-09-28",
