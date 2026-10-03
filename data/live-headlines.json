@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T16:17:05.363Z",
+  "generatedAt": "2026-10-03T18:50:58.440Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -9,7 +9,7 @@
       "items": []
     },
     "safety": {
-      "generatedAt": "2026-10-02T20:09:03.466Z",
+      "generatedAt": "2026-10-03T18:50:58.440Z",
       "cadence": "daily",
       "items": [
         {
@@ -66,14 +66,6 @@
           "domain": "news.uscg.mil",
           "sourceTier": "Official military source",
           "seen": "20260928T000245Z",
-          "pinned": false
-        },
-        {
-          "title": "Coast Guard, San Francisco Police Department rescue 3 from grounded vessel near Golden Gate Bridge",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMThwb2hlcXpMdk9JcWlxR1lBTmFsWmFwUURMZkY5T1pWUEQzZkhQWUZRS0tPMlZzWjJwbVlraGUxQS1rR1htTFV6eUdSNFhaNmx6bzY3bkFsbk9pNllNc1plMlVpcXkxLVBLWEV4dHk4NUlZbE53UFU1M0R1ODVPeG9KUVY0aUg5Tlk4czRfZzFBVV90M054ZFQzbl85d3JaQ1o1UXVQZ3ZFUDE2LU9lUmRVT2lVYm5tSkZGdl8yZy02alN2c2dxYlUzSjNaNHZWZXc?oc=5",
-          "domain": "news.uscg.mil",
-          "sourceTier": "Official military source",
-          "seen": "20260917T235209Z",
           "pinned": false
         }
       ],
