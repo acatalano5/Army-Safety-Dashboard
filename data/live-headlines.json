@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T11:39:44.723Z",
+  "generatedAt": "2026-10-03T16:17:05.363Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-10-03T11:39:44.723Z",
+      "generatedAt": "2026-10-03T16:17:05.363Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -1719,7 +1719,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-10-03T11:39:44.723Z",
+      "generatedAt": "2026-10-03T16:17:05.363Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -1779,14 +1779,6 @@
           "pinned": false
         },
         {
-          "title": "Russia’s Putin rules out ceasefire with Ukraine during speech in Moscow",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa002bkkxQ2Z3VlpLMnhIRGtmMndKVDNrXzJab25KOGozel92VjVwMllkTnJyVHVIMlNhbzZBeEFMRTR1a1FGZngyRGJXT0FqTWg0dEw0R1I1M21mU1dXcmhULTFPb2dFR2xXRjIwRExYMUFkMnh6ZWlXY2tkakh1SzNCRDRHVlVXMkVJRGhOZlJtTFA3ZXdPSmwzX3RMOGFEc0xrSVZ0RlVFT3lUQzhwdtIBtgFBVV95cUxQdFdiOVVaYm1kUmpldGk3V0tCdS1NZ04yZEZyaWR0aUtJb09ZWEhoTWZCN05oOVhHbU5NeHJiVlBybi1ubkRqMkVVUnRiY2QtZlFHVnd0bkVkOHU0R1g3bkNfcVhwdnBubFo0ajdSZGxXcmNZbWh5YUVBNnNwTC14RFJtZ1FzNW5mVGo3WnR3eGhmMVhRSXFQSURSWHF4UlBsX2ZsUElhcWlVUl90RTVpc0o4MkUwUQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261001T213910Z",
-          "pinned": false
-        },
-        {
           "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EdFFlQnNfR040Y2NOcnpObDY3UXJGbmkyMHltYzRSMjZhVFpNQUdvRVYwTFUyWFRMNmdpaGRFTm5PUXpXSHRuSmVyWmp1ekgzaHJHTHpVc0x6LWs?oc=5",
           "domain": "bbc.com",
@@ -1795,11 +1787,19 @@
           "pinned": false
         },
         {
-          "title": "Addis Ababa explosions: Blasts heard in Ethiopia's capital after drone flights banned",
+          "title": "Explosions heard in Ethiopia's capital after drone flights banned",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hVnVmZjA2MDh5VnVFX1dhcnJhVnhPUkRhM0RWM3huODlZN3VfNGtSMTJpNlAyMkFtbjhWN1JvYzZIekdYdlY3UENoQUpQTFlLc2tzOWpUQWozZGM?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20261001T150536Z",
+          "pinned": false
+        },
+        {
+          "title": "Russia’s Putin rules out ceasefire with Ukraine during speech in Moscow",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa002bkkxQ2Z3VlpLMnhIRGtmMndKVDNrXzJab25KOGozel92VjVwMllkTnJyVHVIMlNhbzZBeEFMRTR1a1FGZngyRGJXT0FqTWg0dEw0R1I1M21mU1dXcmhULTFPb2dFR2xXRjIwRExYMUFkMnh6ZWlXY2tkakh1SzNCRDRHVlVXMkVJRGhOZlJtTFA3ZXdPSmwzX3RMOGFEc0xrSVZ0RlVFT3lUQzhwdtIBtgFBVV95cUxQdFdiOVVaYm1kUmpldGk3V0tCdS1NZ04yZEZyaWR0aUtJb09ZWEhoTWZCN05oOVhHbU5NeHJiVlBybi1ubkRqMkVVUnRiY2QtZlFHVnd0bkVkOHU0R1g3bkNfcVhwdnBubFo0ajdSZGxXcmNZbWh5YUVBNnNwTC14RFJtZ1FzNW5mVGo3WnR3eGhmMVhRSXFQSURSWHF4UlBsX2ZsUElhcWlVUl90RTVpc0o4MkUwUQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261001T213910Z",
           "pinned": false
         },
         {
@@ -1835,6 +1835,14 @@
           "pinned": false
         },
         {
+          "title": "Yemen’s army claims over 1,500 Houthi casualties, attacks Sanaa",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS2JvMzdKWGlzOXIzVTV3Y2E0ajEza2kzSE5icF9wWGJrTC1Sc051Y3JYNEVQZlo5YmVIZS0zcnZ6b3Y5Q0E4dTQ1SFJ6YTQwOWdoYmlUSDNBTjd6Z3RrQ195Sk12akk0UHludWJMZk12ZWgzUUphOVdrRU50bVpnMjh4VEJpN2xkWThvdlJvWHZtd3JSZmN5d0tUZ2RCRWpRak4xSdIBqgFBVV95cUxQMXRObHY1T2JOSWZQMFZ5STlNMHZyYzc3MmFhQV9RaDRWLVdJTy1KLXNLckY4cXVqSm5QWnJqcHdWaWxBckZzU2JKNHRBV0ZzS3VPZklOUTVUNkg4UlU4c0pCTWtLcDhwbHl4c3ZfWWlWU3R4blZaTFVnZ0hOZElILXYyRzZldGpjY3NCZDZXU2VuVWJGN0pmd05tWm1jUTd6WTBMeW5Xb0c0UQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261003T150000Z",
+          "pinned": false
+        },
+        {
           "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1S3VtSWZ3NlhJNDBjQS1zZDF3aGNNNzNrZXU0N2RPRFhvSGFVcndyMTJpczA2LUNuV2pwM1B2bW9IaDRfZEdXSFJxamdDWjU5WWR0MUZTcGppbjQ?oc=5",
           "domain": "bbc.com",
@@ -1867,6 +1875,14 @@
           "pinned": false
         },
         {
+          "title": "Israeli air attack on Gaza City apartment kills at least five",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSGpPWHZhNW9TMDk2OUxsRlFnbi1ycDRyeW9mSmN0dHduSnp2c2FZckF5cFRlMTdXX0c1QmUtc2VVOFhibmg5UnJHLXBKdnlSZmtOTWV5T19hODloTGppM2EtYUEzdzkwbkVEY3gyZTcxTzFvMllYOUwzVEJ6NWFidGNqMlpsWnhWUnMweXdQeDlMUnVYOEdRSlg2MTZoNFJpSzdobtIBqgFBVV95cUxPbFExTEIzRWk0V09YdHAyaUdjYjFaNnFZbXRNazJvUFhDNUpQNGNGRmpPT3p0X2dmUWhhUU1lZ1JFRjBtWGJiZ2xUazBaYkhkMGltdXFpWXpxb2FWcV9nZzg1TEFzeC1KOXdOQmNtLTZ4Q0tzakZGelpXOERYOTVBOGJXeFNoR08zWlZoNmxSZGtpSHRhY3ZSNWpWMHYtTG9ZZ3VQYmVVVk5CQQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261003T144845Z",
+          "pinned": false
+        },
+        {
           "title": "Fuel costs: Diesel prices in NI at highest level since Iran war began",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85VE0tUnFiQ1hQVTk3NFZyYWRDNFI0RHhNVWdyTHR6aTdkdXZjRElZN3dGclJJVGp1QVpGbGV5Qm0yQmdQeVA2ME8wb1VjbEh6ck0tMEltRVF3UE0?oc=5",
           "domain": "bbc.com",
@@ -1876,7 +1892,7 @@
         },
         {
           "title": "Russian drone hits school in Ukraine’s Kyiv as Moscow presses air assault",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORFFFOG8xYWlMY1h6QVJSTTROMkRDSjNOQ21UbVZqRDN3MmF5dWxQNy1uZEVHMzN5bWdpUC1PclBtZS1iQjdYbkF5bEVGUW1HQlowUVFyNlhwd0NxZzc1NXhEN0FPQzkwN0lQcGQ1azJQSkJIWFhjcGZDSm5DdWNsVkltZWctTVBZSUwxQUJocnIzanZNYmxYdGZXLUJOOGFXaXB3b0F5TjJFMmcycVlXcGY1MA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORFFFOG8xYWlMY1h6QVJSTTROMkRDSjNOQ21UbVZqRDN3MmF5dWxQNy1uZEVHMzN5bWdpUC1PclBtZS1iQjdYbkF5bEVGUW1HQlowUVFyNlhwd0NxZzc1NXhEN0FPQzkwN0lQcGQ1azJQSkJIWFhjcGZDSm5DdWNsVkltZWctTVBZSUwxQUJocnIzanZNYmxYdGZXLUJOOGFXaXB3b0F5TjJFMmcycVlXcGY1MNIBuAFBVV95cUxPNmhDNU42eGNtZ010NzdqZjFCNlFXMWF2b25rR0VFMHdEY1Zpbk9JUjZWc21iTFFTZDVnQjdIdU93LTl0d0E5b21HeC1UZVZkdUVUY2FjUFdrazN2RHE3cVpzWUFsR0JhUkhEOXdOSVpDeUlsUDlsMlVLZUlzQk1IbmxibGk5eFNiLU9NNTl5Ym9JTG5IdnpZSk9iRkhKUF9oSVI2Wjk3NnBveWdITHY4b25CRFpjWGgw?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20261001T131449Z",
@@ -1896,22 +1912,6 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20261002T110046Z",
-          "pinned": false
-        },
-        {
-          "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pSUVURXBKWVA1YmwtNjFZQ0tQbmt6NnUtWEVESEFsamFXR0tlb0NEbzViWDA1Tm9OSzROV3d0VXhmQ3k1UjNTNTg5ejYxQzlmU1A3NWlvaU5FU1E?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261002T152637Z",
-          "pinned": false
-        },
-        {
-          "title": "Third aircraft carrier and thousands of troops head to Mideast as Trump weighs new Iran strikes",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSmdWd1lfdkFiLU91NUFSVjhlQm55UFU5Q0NGT2dwb0d5TWNXbDE1R2IxcXl0dDJtdFAwUWFFNTUtTUdYMnlldkJfVG5RY0xDMW5iVTJObDRQRy1CemQydkpjRHJuZmN0OWNMelcwYjhtX1licUZZTEt1ZU5ORzNBRU1SeExvRmNRVGhNWGtJeFRhME4tbVFsMUVmWm9JRjhWZEpqMlJn?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261001T200300Z",
           "pinned": false
         }
       ],
@@ -1980,15 +1980,6 @@
           "reportedAt": "2026-10-01T14:01:07Z"
         },
         {
-          "id": "report-1113fb32233d",
-          "title": "Russia’s Putin rules out ceasefire with Ukraine during speech in Moscow",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa002bkkxQ2Z3VlpLMnhIRGtmMndKVDNrXzJab25KOGozel92VjVwMllkTnJyVHVIMlNhbzZBeEFMRTR1a1FGZngyRGJXT0FqTWg0dEw0R1I1M21mU1dXcmhULTFPb2dFR2xXRjIwRExYMUFkMnh6ZWlXY2tkakh1SzNCRDRHVlVXMkVJRGhOZlJtTFA3ZXdPSmwzX3RMOGFEc0xrSVZ0RlVFT3lUQzhwdtIBtgFBVV95cUxQdFdiOVVaYm1kUmpldGk3V0tCdS1NZ04yZEZyaWR0aUtJb09ZWEhoTWZCN05oOVhHbU5NeHJiVlBybi1ubkRqMkVVUnRiY2QtZlFHVnd0bkVkOHU0R1g3bkNfcVhwdnBubFo0ajdSZGxXcmNZbWh5YUVBNnNwTC14RFJtZ1FzNW5mVGo3WnR3eGhmMVhRSXFQSURSWHF4UlBsX2ZsUElhcWlVUl90RTVpc0o4MkUwUQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-01T21:39:10Z"
-        },
-        {
           "id": "report-dcc0c0ad93ea",
           "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EdFFlQnNfR040Y2NOcnpObDY3UXJGbmkyMHltYzRSMjZhVFpNQUdvRVYwTFUyWFRMNmdpaGRFTm5PUXpXSHRuSmVyWmp1ekgzaHJHTHpVc0x6LWs?oc=5",
@@ -1999,12 +1990,21 @@
         },
         {
           "id": "report-a97e5f4e3b4c",
-          "title": "Addis Ababa explosions: Blasts heard in Ethiopia's capital after drone flights banned",
+          "title": "Explosions heard in Ethiopia's capital after drone flights banned",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hVnVmZjA2MDh5VnVFX1dhcnJhVnhPUkRhM0RWM3huODlZN3VfNGtSMTJpNlAyMkFtbjhWN1JvYzZIekdYdlY3UENoQUpQTFlLc2tzOWpUQWozZGM?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-10-01T15:05:36Z"
+        },
+        {
+          "id": "report-1113fb32233d",
+          "title": "Russia’s Putin rules out ceasefire with Ukraine during speech in Moscow",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa002bkkxQ2Z3VlpLMnhIRGtmMndKVDNrXzJab25KOGozel92VjVwMllkTnJyVHVIMlNhbzZBeEFMRTR1a1FGZngyRGJXT0FqTWg0dEw0R1I1M21mU1dXcmhULTFPb2dFR2xXRjIwRExYMUFkMnh6ZWlXY2tkakh1SzNCRDRHVlVXMkVJRGhOZlJtTFA3ZXdPSmwzX3RMOGFEc0xrSVZ0RlVFT3lUQzhwdtIBtgFBVV95cUxQdFdiOVVaYm1kUmpldGk3V0tCdS1NZ04yZEZyaWR0aUtJb09ZWEhoTWZCN05oOVhHbU5NeHJiVlBybi1ubkRqMkVVUnRiY2QtZlFHVnd0bkVkOHU0R1g3bkNfcVhwdnBubFo0ajdSZGxXcmNZbWh5YUVBNnNwTC14RFJtZ1FzNW5mVGo3WnR3eGhmMVhRSXFQSURSWHF4UlBsX2ZsUElhcWlVUl90RTVpc0o4MkUwUQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-01T21:39:10Z"
         },
         {
           "id": "report-d5b986ce0d70",
@@ -2043,6 +2043,15 @@
           "reportedAt": "2026-10-01T23:46:46Z"
         },
         {
+          "id": "report-d78b1182a72a",
+          "title": "Yemen’s army claims over 1,500 Houthi casualties, attacks Sanaa",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS2JvMzdKWGlzOXIzVTV3Y2E0ajEza2kzSE5icF9wWGJrTC1Sc051Y3JYNEVQZlo5YmVIZS0zcnZ6b3Y5Q0E4dTQ1SFJ6YTQwOWdoYmlUSDNBTjd6Z3RrQ195Sk12akk0UHludWJMZk12ZWgzUUphOVdrRU50bVpnMjh4VEJpN2xkWThvdlJvWHZtd3JSZmN5d0tUZ2RCRWpRak4xSdIBqgFBVV95cUxQMXRObHY1T2JOSWZQMFZ5STlNMHZyYzc3MmFhQV9RaDRWLVdJTy1KLXNLckY4cXVqSm5QWnJqcHdWaWxBckZzU2JKNHRBV0ZzS3VPZklOUTVUNkg4UlU4c0pCTWtLcDhwbHl4c3ZfWWlWU3R4blZaTFVnZ0hOZElILXYyRzZldGpjY3NCZDZXU2VuVWJGN0pmd05tWm1jUTd6WTBMeW5Xb0c0UQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-03T15:00:00Z"
+        },
+        {
           "id": "report-3f7573132330",
           "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1S3VtSWZ3NlhJNDBjQS1zZDF3aGNNNzNrZXU0N2RPRFhvSGFVcndyMTJpczA2LUNuV2pwM1B2bW9IaDRfZEdXSFJxamdDWjU5WWR0MUZTcGppbjQ?oc=5",
@@ -2079,6 +2088,15 @@
           "reportedAt": "2026-10-01T17:47:38Z"
         },
         {
+          "id": "report-7370bfee6eb6",
+          "title": "Israeli air attack on Gaza City apartment kills at least five",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSGpPWHZhNW9TMDk2OUxsRlFnbi1ycDRyeW9mSmN0dHduSnp2c2FZckF5cFRlMTdXX0c1QmUtc2VVOFhibmg5UnJHLXBKdnlSZmtOTWV5T19hODloTGppM2EtYUEzdzkwbkVEY3gyZTcxTzFvMllYOUwzVEJ6NWFidGNqMlpsWnhWUnMweXdQeDlMUnVYOEdRSlg2MTZoNFJpSzdobtIBqgFBVV95cUxPbFExTEIzRWk0V09YdHAyaUdjYjFaNnFZbXRNazJvUFhDNUpQNGNGRmpPT3p0X2dmUWhhUU1lZ1JFRjBtWGJiZ2xUazBaYkhkMGltdXFpWXpxb2FWcV9nZzg1TEFzeC1KOXdOQmNtLTZ4Q0tzakZGelpXOERYOTVBOGJXeFNoR08zWlZoNmxSZGtpSHRhY3ZSNWpWMHYtTG9ZZ3VQYmVVVk5CQQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-03T14:48:45Z"
+        },
+        {
           "id": "report-e38e3388c6c2",
           "title": "Fuel costs: Diesel prices in NI at highest level since Iran war began",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85VE0tUnFiQ1hQVTk3NFZyYWRDNFI0RHhNVWdyTHR6aTdkdXZjRElZN3dGclJJVGp1QVpGbGV5Qm0yQmdQeVA2ME8wb1VjbEh6ck0tMEltRVF3UE0?oc=5",
@@ -2088,9 +2106,9 @@
           "reportedAt": "2026-10-02T12:29:47Z"
         },
         {
-          "id": "report-03b63d7dc86c",
+          "id": "report-01221e32156a",
           "title": "Russian drone hits school in Ukraine’s Kyiv as Moscow presses air assault",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORFFFOG8xYWlMY1h6QVJSTTROMkRDSjNOQ21UbVZqRDN3MmF5dWxQNy1uZEVHMzN5bWdpUC1PclBtZS1iQjdYbkF5bEVGUW1HQlowUVFyNlhwd0NxZzc1NXhEN0FPQzkwN0lQcGQ1azJQSkJIWFhjcGZDSm5DdWNsVkltZWctTVBZSUwxQUJocnIzanZNYmxYdGZXLUJOOGFXaXB3b0F5TjJFMmcycVlXcGY1MA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORFFFOG8xYWlMY1h6QVJSTTROMkRDSjNOQ21UbVZqRDN3MmF5dWxQNy1uZEVHMzN5bWdpUC1PclBtZS1iQjdYbkF5bEVGUW1HQlowUVFyNlhwd0NxZzc1NXhEN0FPQzkwN0lQcGQ1azJQSkJIWFhjcGZDSm5DdWNsVkltZWctTVBZSUwxQUJocnIzanZNYmxYdGZXLUJOOGFXaXB3b0F5TjJFMmcycVlXcGY1MNIBuAFBVV95cUxPNmhDNU42eGNtZ010NzdqZjFCNlFXMWF2b25rR0VFMHdEY1Zpbk9JUjZWc21iTFFTZDVnQjdIdU93LTl0d0E5b21HeC1UZVZkdUVUY2FjUFdrazN2RHE3cVpzWUFsR0JhUkhEOXdOSVpDeUlsUDlsMlVLZUlzQk1IbmxibGk5eFNiLU9NNTl5Ym9JTG5IdnpZSk9iRkhKUF9oSVI2Wjk3NnBveWdITHY4b25CRFpjWGgw?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
@@ -2113,24 +2131,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-10-02T11:00:46Z"
-        },
-        {
-          "id": "report-38a07b84858f",
-          "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pSUVURXBKWVA1YmwtNjFZQ0tQbmt6NnUtWEVESEFsamFXR0tlb0NEbzViWDA1Tm9OSzROV3d0VXhmQ3k1UjNTNTg5ejYxQzlmU1A3NWlvaU5FU1E?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-02T15:26:37Z"
-        },
-        {
-          "id": "report-5e59f42e5960",
-          "title": "Third aircraft carrier and thousands of troops head to Mideast as Trump weighs new Iran strikes",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSmdWd1lfdkFiLU91NUFSVjhlQm55UFU5Q0NGT2dwb0d5TWNXbDE1R2IxcXl0dDJtdFAwUWFFNTUtTUdYMnlldkJfVG5RY0xDMW5iVTJObDRQRy1CemQydkpjRHJuZmN0OWNMelcwYjhtX1licUZZTEt1ZU5ORzNBRU1SeExvRmNRVGhNWGtJeFRhME4tbVFsMUVmWm9JRjhWZEpqMlJn?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-01T20:03:00Z"
         },
         {
           "id": "report-3d06d7802bf8",
