@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T05:17:50.067Z",
+  "generatedAt": "2026-10-03T11:39:44.723Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-10-03T05:17:50.067Z",
+      "generatedAt": "2026-10-03T11:39:44.723Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -1719,7 +1719,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-10-03T05:17:50.067Z",
+      "generatedAt": "2026-10-03T11:39:44.723Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -1728,6 +1728,14 @@
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20260930T231006Z",
+          "pinned": false
+        },
+        {
+          "title": "New aircraft carrier, 10,000 US troops: Is the Iran war about to escalate?",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVFl3S200MERGUFV0MDdPcTBxN1JKcXhpOThnWXdNLXNQaXVTVTdUVkpiUGtsNGVfRVh1d0JfYVhiUkloYTRYSEdiRUdtQU50cVYxSHdlc2txXzNnVlduc1ZGeDB0dzdrSXR0ZnA4TElyZVFGSnFFWXN2TldMOGU5RU9TaXNJMkhxNm5UVDFMcXBmRVBYbTVua0dPSEJPYU1aa0pNQ2dIT1dMb1FUc0pnedIBtgFBVV95cUxPUmpzU2paSy0xR0pqdVRBRVFKb0lsVmk5bTQwSHc1blBvc2phUFF4WFJySk5QRVpsa0c4QWtTRmhubVczdkwyUklKNWhIUnQwX2h0bHo3NVRzQXRYdUJMekp4dHJYTFF1c05ncmFKa0U4WU9RTG5wYzNnTkVrb1lyMVF4WThCN2dPdkR4djF0MEVLLU5LWXJ5NGxFRWtjcHpZRFVtbW83emlMaVFIazJfVkhqUXRIZw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261002T100818Z",
           "pinned": false
         },
         {
@@ -1744,14 +1752,6 @@
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20261002T152928Z",
-          "pinned": false
-        },
-        {
-          "title": "New aircraft carrier, 10,000 US troops: Is the Iran war about to escalate?",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVFl3S200MERGUFV0MDdPcTBxN1JKcXhpOThnWXdNLXNQaXVTVTdUVkpiUGtsNGVfRVh1d0JfYVhiUkloYTRYSEdiRUdtQU50cVYxSHdlc2txXzNnVlduc1ZGeDB0dzdrSXR0ZnA4TElyZVFGSnFFWXN2TldMOGU5RU9TaXNJMkhxNm5UVDFMcXBmRVBYbTVua0dPSEJPYU1aa0pNQ2dIT1dMb1FUc0pnedIBtgFBVV95cUxPUmpzU2paSy0xR0pqdVRBRVFKb0lsVmk5bTQwSHc1blBvc2phUFF4WFJySk5QRVpsa0c4QWtTRmhubVczdkwyUklKNWhIUnQwX2h0bHo3NVRzQXRYdUJMekp4dHJYTFF1c05ncmFKa0U4WU9RTG5wYzNnTkVrb1lyMVF4WThCN2dPdkR4djF0MEVLLU5LWXJ5NGxFRWtjcHpZRFVtbW83emlMaVFIazJfVkhqUXRIZw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261002T100818Z",
           "pinned": false
         },
         {
@@ -1787,14 +1787,6 @@
           "pinned": false
         },
         {
-          "title": "Blasts heard in Addis Ababa as Ethiopia conflict widens in the north",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY0plMUVSbEx1aXhEaWlfUEE0UjN0YlM0X0NJamhrVkVHT19hUExQM3NIeDg0bkFXTGRZMTFtVV94SVZ3dmZyYTdCa0ZESG5FRDVvU3ZFNW9Kdk0xbmxTSUpVQWxERzRycmh3bXYtYm9xbDFLRlRlMEdQTGVPUXFCME44S2x3bTZpcVJnb19IZlNGc3N6eHVLRFFOV05UN0pBVUVRb1BLTzhneTZyNmc?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261001T164458Z",
-          "pinned": false
-        },
-        {
           "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EdFFlQnNfR040Y2NOcnpObDY3UXJGbmkyMHltYzRSMjZhVFpNQUdvRVYwTFUyWFRMNmdpaGRFTm5PUXpXSHRuSmVyWmp1ekgzaHJHTHpVc0x6LWs?oc=5",
           "domain": "bbc.com",
@@ -1811,6 +1803,22 @@
           "pinned": false
         },
         {
+          "title": "Blasts heard in Addis Ababa as Ethiopia conflict widens in the north",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY0plMUVSbEx1aXhEaWlfUEE0UjN0YlM0X0NJamhrVkVHT19hUExQM3NIeDg0bkFXTGRZMTFtVV94SVZ3dmZyYTdCa0ZESG5FRDVvU3ZFNW9Kdk0xbmxTSUpVQWxERzRycmh3bXYtYm9xbDFLRlRlMEdQTGVPUXFCME44S2x3bTZpcVJnb19IZlNGc3N6eHVLRFFOV05UN0pBVUVRb1BLTzhneTZyNmfSAbMBQVVfeXFMTjloOE1jckdWSWNkQk5BZ2t3TDRJWkZmZzBtWkFLZnlnamVYVjFvNThmWXdzSEw0TVEzV3BTT2lpa1Nma1NZQTRfT3FnR2lSa0YyS2hscWsyNHJNdF9TMzc5c0NKNW5sQ0RXZko3MndvaEo4NTBkem9nMjdEeTlzcUhXaC10VmNEREpMMzdDYTBFeTBkT0drUktYR09jc0h3S1JtVWppLTB4UWdfRzJfSGRmUjQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261001T164458Z",
+          "pinned": false
+        },
+        {
+          "title": "Israel could’ve ended Gaza war, freed captives sooner: Israel ex-negotiator",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOX0t6WS1vSWMyMk1lYzM3TkQ4MHJCdlhFVlREN2F4bHl2bzd2ZlROUE1OSi1ld0RJR2xkcEJTRzlsYzZicEQ4ZTlZWGN4ZDczV1hBVkJ3ZzJQRS0tcDJ2b3N3cURIWGdjWnFYSUU3Vm44WVFsSHdIR0hWWjV0OGVQSXBUYlNrRlNrZEQ4clJaLWFLMzlKRXF3TUZwYzExRWp1TDJMQ0R0Nnl6RWppTUljbFNYc9IBuAFBVV95cUxNZ0g1WkdlTTVBWGpZQkdWTGRqWjlBeTZENEY3Q3VIMGp5TEZEREFlZVJlUlVyaFdpNDhkaVBHSzlXNGtOUVJ0clhyNGdZcGxwdElaczFsMV9kcFVpZWNrejZlNEljZVR6Tzhxc3dOYmw0Zm9YVkNCZ195elNUR2RCSzIxN3VKVE1EWjNXaXhWTVFvekJQYnJaX2JtRGF5dHZ4bWxFU1dXRjc5a1pyNFR4N2JveHdrZFJR?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261002T215711Z",
+          "pinned": false
+        },
+        {
           "title": "Trump says 'some' munitions are low as Iran war grinds on",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwYS1GSHBLV1Z4UzhiT0FhRkNKNk9jZXRmUDJxS1pXM1RrMkEySXQwdHdNMm9vUWlWT0NST3d0Q3paa2J4NHRaYkQtTHJWRy1HS1NPNmlPckFCR0k?oc=5",
           "domain": "bbc.com",
@@ -1824,14 +1832,6 @@
           "domain": "aa.com.tr",
           "sourceTier": "State-affiliated reporting",
           "seen": "20261001T234646Z",
-          "pinned": false
-        },
-        {
-          "title": "Israel could’ve ended Gaza war, freed captives sooner: Israel ex-negotiator",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOX0t6WS1vSWMyMk1lYzM3TkQ4MHJCdlhFVlREN2F4bHl2bzd2ZlROUE1OSi1ld0RJR2xkcEJTRzlsYzZicEQ4ZTlZWGN4ZDczV1hBVkJ3ZzJQRS0tcDJ2b3N3cURIWGdjWnFYSUU3Vm44WVFsSHdIR0hWWjV0OGVQSXBUYlNrRlNrZEQ4clJaLWFLMzlKRXF3TUZwYzExRWp1TDJMQ0R0Nnl6RWppTUljbFNYc9IBuAFBVV95cUxNZ0g1WkdlTTVBWGpZQkdWTGRqWjlBeTZENEY3Q3VIMGp5TEZEREFlZVJlUlVyaFdpNDhkaVBHSzlXNGtOUVJ0clhyNGdZcGxwdElaczFsMV9kcFVpZWNrejZlNEljZVR6Tzhxc3dOYmw0Zm9YVkNCZ195elNUR2RCSzIxN3VKVE1EWjNXaXhWTVFvekJQYnJaX2JtRGF5dHZ4bWxFU1dXRjc5a1pyNFR4N2JveHdrZFJR?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261002T215711Z",
           "pinned": false
         },
         {
@@ -1907,11 +1907,11 @@
           "pinned": false
         },
         {
-          "title": "‘Dire situation’: Lebanese prisoners on hunger strike for 18 days",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM2hYR1liYmZIYWNCR2dWN0Rqanp0RFhrSEVVQjZjLUZ0TFU2WEp1ejg3QW13clBiVjJMLVFVWjhvZnA0T0RxenoycW5JaFp2RHVmcFZhWWl1OUwxUFZzbkJpaXNaOWVLbzdqWjIxRHcwa1Zrcm4zQ25sZ3RQdW1pbUg2SXQzdS0tVHZiVFdxQmpBNWtia0lfT3dqeENCYTN1NkVUc1Rn0gGrAUFVX3lxTFBibU9RTndVRS0zY1FtV3k5ZElBbnBuMUs1T3ZINEZqN0ZGek9NM3ZqaEs4dXRWMlI4bklwVWRjV2tvNDYwU3ZHZ25Xa042NzdnNFdmUk9BdzIwOG04VFVJSjhwaDBIeGRqMzcyVFo1bzhEbHdRY2RYQmRUYXU2YlNoTV9SeUFVVFVBbWw2UkVwemFoQUpjN1pQWlhSalhpUVAwYjJuSDNaY01ydw?oc=5",
-          "domain": "aljazeera.com",
+          "title": "Third aircraft carrier and thousands of troops head to Mideast as Trump weighs new Iran strikes",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSmdWd1lfdkFiLU91NUFSVjhlQm55UFU5Q0NGT2dwb0d5TWNXbDE1R2IxcXl0dDJtdFAwUWFFNTUtTUdYMnlldkJfVG5RY0xDMW5iVTJObDRQRy1CemQydkpjRHJuZmN0OWNMelcwYjhtX1licUZZTEt1ZU5ORzNBRU1SeExvRmNRVGhNWGtJeFRhME4tbVFsMUVmWm9JRjhWZEpqMlJn?oc=5",
+          "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20260930T074052Z",
+          "seen": "20261001T200300Z",
           "pinned": false
         }
       ],
@@ -1924,6 +1924,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-09-30T23:10:06Z"
+        },
+        {
+          "id": "report-a14b127ec745",
+          "title": "New aircraft carrier, 10,000 US troops: Is the Iran war about to escalate?",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVFl3S200MERGUFV0MDdPcTBxN1JKcXhpOThnWXdNLXNQaXVTVTdUVkpiUGtsNGVfRVh1d0JfYVhiUkloYTRYSEdiRUdtQU50cVYxSHdlc2txXzNnVlduc1ZGeDB0dzdrSXR0ZnA4TElyZVFGSnFFWXN2TldMOGU5RU9TaXNJMkhxNm5UVDFMcXBmRVBYbTVua0dPSEJPYU1aa0pNQ2dIT1dMb1FUc0pnedIBtgFBVV95cUxPUmpzU2paSy0xR0pqdVRBRVFKb0lsVmk5bTQwSHc1blBvc2phUFF4WFJySk5QRVpsa0c4QWtTRmhubVczdkwyUklKNWhIUnQwX2h0bHo3NVRzQXRYdUJMekp4dHJYTFF1c05ncmFKa0U4WU9RTG5wYzNnTkVrb1lyMVF4WThCN2dPdkR4djF0MEVLLU5LWXJ5NGxFRWtjcHpZRFVtbW83emlMaVFIazJfVkhqUXRIZw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-02T10:08:18Z"
         },
         {
           "id": "report-08921cccc3c9",
@@ -1942,15 +1951,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-10-02T15:29:28Z"
-        },
-        {
-          "id": "report-a14b127ec745",
-          "title": "New aircraft carrier, 10,000 US troops: Is the Iran war about to escalate?",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVFl3S200MERGUFV0MDdPcTBxN1JKcXhpOThnWXdNLXNQaXVTVTdUVkpiUGtsNGVfRVh1d0JfYVhiUkloYTRYSEdiRUdtQU50cVYxSHdlc2txXzNnVlduc1ZGeDB0dzdrSXR0ZnA4TElyZVFGSnFFWXN2TldMOGU5RU9TaXNJMkhxNm5UVDFMcXBmRVBYbTVua0dPSEJPYU1aa0pNQ2dIT1dMb1FUc0pnedIBtgFBVV95cUxPUmpzU2paSy0xR0pqdVRBRVFKb0lsVmk5bTQwSHc1blBvc2phUFF4WFJySk5QRVpsa0c4QWtTRmhubVczdkwyUklKNWhIUnQwX2h0bHo3NVRzQXRYdUJMekp4dHJYTFF1c05ncmFKa0U4WU9RTG5wYzNnTkVrb1lyMVF4WThCN2dPdkR4djF0MEVLLU5LWXJ5NGxFRWtjcHpZRFVtbW83emlMaVFIazJfVkhqUXRIZw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-02T10:08:18Z"
         },
         {
           "id": "report-22dd8a9b0e43",
@@ -1989,15 +1989,6 @@
           "reportedAt": "2026-10-01T21:39:10Z"
         },
         {
-          "id": "report-cc3e943d2047",
-          "title": "Blasts heard in Addis Ababa as Ethiopia conflict widens in the north",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY0plMUVSbEx1aXhEaWlfUEE0UjN0YlM0X0NJamhrVkVHT19hUExQM3NIeDg0bkFXTGRZMTFtVV94SVZ3dmZyYTdCa0ZESG5FRDVvU3ZFNW9Kdk0xbmxTSUpVQWxERzRycmh3bXYtYm9xbDFLRlRlMEdQTGVPUXFCME44S2x3bTZpcVJnb19IZlNGc3N6eHVLRFFOV05UN0pBVUVRb1BLTzhneTZyNmc?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-01T16:44:58Z"
-        },
-        {
           "id": "report-dcc0c0ad93ea",
           "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EdFFlQnNfR040Y2NOcnpObDY3UXJGbmkyMHltYzRSMjZhVFpNQUdvRVYwTFUyWFRMNmdpaGRFTm5PUXpXSHRuSmVyWmp1ekgzaHJHTHpVc0x6LWs?oc=5",
@@ -2016,6 +2007,24 @@
           "reportedAt": "2026-10-01T15:05:36Z"
         },
         {
+          "id": "report-d5b986ce0d70",
+          "title": "Blasts heard in Addis Ababa as Ethiopia conflict widens in the north",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY0plMUVSbEx1aXhEaWlfUEE0UjN0YlM0X0NJamhrVkVHT19hUExQM3NIeDg0bkFXTGRZMTFtVV94SVZ3dmZyYTdCa0ZESG5FRDVvU3ZFNW9Kdk0xbmxTSUpVQWxERzRycmh3bXYtYm9xbDFLRlRlMEdQTGVPUXFCME44S2x3bTZpcVJnb19IZlNGc3N6eHVLRFFOV05UN0pBVUVRb1BLTzhneTZyNmfSAbMBQVVfeXFMTjloOE1jckdWSWNkQk5BZ2t3TDRJWkZmZzBtWkFLZnlnamVYVjFvNThmWXdzSEw0TVEzV3BTT2lpa1Nma1NZQTRfT3FnR2lSa0YyS2hscWsyNHJNdF9TMzc5c0NKNW5sQ0RXZko3MndvaEo4NTBkem9nMjdEeTlzcUhXaC10VmNEREpMMzdDYTBFeTBkT0drUktYR09jc0h3S1JtVWppLTB4UWdfRzJfSGRmUjQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-01T16:44:58Z"
+        },
+        {
+          "id": "report-a9a8c5f62bd5",
+          "title": "Israel could’ve ended Gaza war, freed captives sooner: Israel ex-negotiator",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOX0t6WS1vSWMyMk1lYzM3TkQ4MHJCdlhFVlREN2F4bHl2bzd2ZlROUE1OSi1ld0RJR2xkcEJTRzlsYzZicEQ4ZTlZWGN4ZDczV1hBVkJ3ZzJQRS0tcDJ2b3N3cURIWGdjWnFYSUU3Vm44WVFsSHdIR0hWWjV0OGVQSXBUYlNrRlNrZEQ4clJaLWFLMzlKRXF3TUZwYzExRWp1TDJMQ0R0Nnl6RWppTUljbFNYc9IBuAFBVV95cUxNZ0g1WkdlTTVBWGpZQkdWTGRqWjlBeTZENEY3Q3VIMGp5TEZEREFlZVJlUlVyaFdpNDhkaVBHSzlXNGtOUVJ0clhyNGdZcGxwdElaczFsMV9kcFVpZWNrejZlNEljZVR6Tzhxc3dOYmw0Zm9YVkNCZ195elNUR2RCSzIxN3VKVE1EWjNXaXhWTVFvekJQYnJaX2JtRGF5dHZ4bWxFU1dXRjc5a1pyNFR4N2JveHdrZFJR?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-02T21:57:11Z"
+        },
+        {
           "id": "report-5a8f8343cab3",
           "title": "Trump says 'some' munitions are low as Iran war grinds on",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwYS1GSHBLV1Z4UzhiT0FhRkNKNk9jZXRmUDJxS1pXM1RrMkEySXQwdHdNMm9vUWlWT0NST3d0Q3paa2J4NHRaYkQtTHJWRy1HS1NPNmlPckFCR0k?oc=5",
@@ -2032,15 +2041,6 @@
           "sourceTier": "State-affiliated reporting",
           "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
           "reportedAt": "2026-10-01T23:46:46Z"
-        },
-        {
-          "id": "report-a9a8c5f62bd5",
-          "title": "Israel could’ve ended Gaza war, freed captives sooner: Israel ex-negotiator",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOX0t6WS1vSWMyMk1lYzM3TkQ4MHJCdlhFVlREN2F4bHl2bzd2ZlROUE1OSi1ld0RJR2xkcEJTRzlsYzZicEQ4ZTlZWGN4ZDczV1hBVkJ3ZzJQRS0tcDJ2b3N3cURIWGdjWnFYSUU3Vm44WVFsSHdIR0hWWjV0OGVQSXBUYlNrRlNrZEQ4clJaLWFLMzlKRXF3TUZwYzExRWp1TDJMQ0R0Nnl6RWppTUljbFNYc9IBuAFBVV95cUxNZ0g1WkdlTTVBWGpZQkdWTGRqWjlBeTZENEY3Q3VIMGp5TEZEREFlZVJlUlVyaFdpNDhkaVBHSzlXNGtOUVJ0clhyNGdZcGxwdElaczFsMV9kcFVpZWNrejZlNEljZVR6Tzhxc3dOYmw0Zm9YVkNCZ195elNUR2RCSzIxN3VKVE1EWjNXaXhWTVFvekJQYnJaX2JtRGF5dHZ4bWxFU1dXRjc5a1pyNFR4N2JveHdrZFJR?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-02T21:57:11Z"
         },
         {
           "id": "report-3f7573132330",
@@ -2124,13 +2124,13 @@
           "reportedAt": "2026-10-02T15:26:37Z"
         },
         {
-          "id": "report-47fb9d364e68",
-          "title": "‘Dire situation’: Lebanese prisoners on hunger strike for 18 days",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM2hYR1liYmZIYWNCR2dWN0Rqanp0RFhrSEVVQjZjLUZ0TFU2WEp1ejg3QW13clBiVjJMLVFVWjhvZnA0T0RxenoycW5JaFp2RHVmcFZhWWl1OUwxUFZzbkJpaXNaOWVLbzdqWjIxRHcwa1Zrcm4zQ25sZ3RQdW1pbUg2SXQzdS0tVHZiVFdxQmpBNWtia0lfT3dqeENCYTN1NkVUc1Rn0gGrAUFVX3lxTFBibU9RTndVRS0zY1FtV3k5ZElBbnBuMUs1T3ZINEZqN0ZGek9NM3ZqaEs4dXRWMlI4bklwVWRjV2tvNDYwU3ZHZ25Xa042NzdnNFdmUk9BdzIwOG04VFVJSjhwaDBIeGRqMzcyVFo1bzhEbHdRY2RYQmRUYXU2YlNoTV9SeUFVVFVBbWw2UkVwemFoQUpjN1pQWlhSalhpUVAwYjJuSDNaY01ydw?oc=5",
-          "domain": "aljazeera.com",
+          "id": "report-5e59f42e5960",
+          "title": "Third aircraft carrier and thousands of troops head to Mideast as Trump weighs new Iran strikes",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSmdWd1lfdkFiLU91NUFSVjhlQm55UFU5Q0NGT2dwb0d5TWNXbDE1R2IxcXl0dDJtdFAwUWFFNTUtTUdYMnlldkJfVG5RY0xDMW5iVTJObDRQRy1CemQydkpjRHJuZmN0OWNMelcwYjhtX1licUZZTEt1ZU5ORzNBRU1SeExvRmNRVGhNWGtJeFRhME4tbVFsMUVmWm9JRjhWZEpqMlJn?oc=5",
+          "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-09-30T07:40:52Z"
+          "reportedAt": "2026-10-01T20:03:00Z"
         },
         {
           "id": "report-3d06d7802bf8",
