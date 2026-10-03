@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T18:50:58.440Z",
+  "generatedAt": "2026-10-03T21:13:52.181Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-10-03T16:17:05.363Z",
+      "generatedAt": "2026-10-03T21:13:52.181Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -1711,7 +1711,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-10-03T16:17:05.363Z",
+      "generatedAt": "2026-10-03T21:13:52.181Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -1827,11 +1827,11 @@
           "pinned": false
         },
         {
-          "title": "Yemen’s army claims over 1,500 Houthi casualties, attacks Sanaa",
+          "title": "Yemen’s army says targets Houthis in hundreds of strikes, killing 700",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS2JvMzdKWGlzOXIzVTV3Y2E0ajEza2kzSE5icF9wWGJrTC1Sc051Y3JYNEVQZlo5YmVIZS0zcnZ6b3Y5Q0E4dTQ1SFJ6YTQwOWdoYmlUSDNBTjd6Z3RrQ195Sk12akk0UHludWJMZk12ZWgzUUphOVdrRU50bVpnMjh4VEJpN2xkWThvdlJvWHZtd3JSZmN5d0tUZ2RCRWpRak4xSdIBqgFBVV95cUxQMXRObHY1T2JOSWZQMFZ5STlNMHZyYzc3MmFhQV9RaDRWLVdJTy1KLXNLckY4cXVqSm5QWnJqcHdWaWxBckZzU2JKNHRBV0ZzS3VPZklOUTVUNkg4UlU4c0pCTWtLcDhwbHl4c3ZfWWlWU3R4blZaTFVnZ0hOZElILXYyRzZldGpjY3NCZDZXU2VuVWJGN0pmd05tWm1jUTd6WTBMeW5Xb0c0UQ?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261003T150000Z",
+          "seen": "20261003T205912Z",
           "pinned": false
         },
         {
@@ -1867,19 +1867,27 @@
           "pinned": false
         },
         {
-          "title": "Israeli air attack on Gaza City apartment kills at least five",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSGpPWHZhNW9TMDk2OUxsRlFnbi1ycDRyeW9mSmN0dHduSnp2c2FZckF5cFRlMTdXX0c1QmUtc2VVOFhibmg5UnJHLXBKdnlSZmtOTWV5T19hODloTGppM2EtYUEzdzkwbkVEY3gyZTcxTzFvMllYOUwzVEJ6NWFidGNqMlpsWnhWUnMweXdQeDlMUnVYOEdRSlg2MTZoNFJpSzdobtIBqgFBVV95cUxPbFExTEIzRWk0V09YdHAyaUdjYjFaNnFZbXRNazJvUFhDNUpQNGNGRmpPT3p0X2dmUWhhUU1lZ1JFRjBtWGJiZ2xUazBaYkhkMGltdXFpWXpxb2FWcV9nZzg1TEFzeC1KOXdOQmNtLTZ4Q0tzakZGelpXOERYOTVBOGJXeFNoR08zWlZoNmxSZGtpSHRhY3ZSNWpWMHYtTG9ZZ3VQYmVVVk5CQQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261003T144845Z",
-          "pinned": false
-        },
-        {
           "title": "Fuel costs: Diesel prices in NI at highest level since Iran war began",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85VE0tUnFiQ1hQVTk3NFZyYWRDNFI0RHhNVWdyTHR6aTdkdXZjRElZN3dGclJJVGp1QVpGbGV5Qm0yQmdQeVA2ME8wb1VjbEh6ck0tMEltRVF3UE0?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20261002T122947Z",
+          "pinned": false
+        },
+        {
+          "title": "Witness History | Boer War: Siege of Ladysmith",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8ySnp5R29fQ25qWWNIZzM2OGpwcW5VS2F1X2hUMDBNRnRsQXRwOTNpM3NIRmpieE5FSUlxc3VMYWFrQzJCeHRubmdFVUdEZnRu?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261002T100529Z",
+          "pinned": false
+        },
+        {
+          "title": "Israeli air attack on Gaza City apartment kills at least five",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSGpPWHZhNW9TMDk2OUxsRlFnbi1ycDRyeW9mSmN0dHduSnp2c2FZckF5cFRlMTdXX0c1QmUtc2VVOFhibmg5UnJHLXBKdnlSZmtOTWV5T19hODloTGppM2EtYUEzdzkwbkVEY3gyZTcxTzFvMllYOUwzVEJ6NWFidGNqMlpsWnhWUnMweXdQeDlMUnVYOEdRSlg2MTZoNFJpSzdobtIBqgFBVV95cUxPbFExTEIzRWk0V09YdHAyaUdjYjFaNnFZbXRNazJvUFhDNUpQNGNGRmpPT3p0X2dmUWhhUU1lZ1JFRjBtWGJiZ2xUazBaYkhkMGltdXFpWXpxb2FWcV9nZzg1TEFzeC1KOXdOQmNtLTZ4Q0tzakZGelpXOERYOTVBOGJXeFNoR08zWlZoNmxSZGtpSHRhY3ZSNWpWMHYtTG9ZZ3VQYmVVVk5CQQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261003T210000Z",
           "pinned": false
         },
         {
@@ -1896,14 +1904,6 @@
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20261001T193830Z",
-          "pinned": false
-        },
-        {
-          "title": "Explosions reported near military airport in Syria’s Idlib province",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdU41d3BNd2pLRVV3Um5fSGlHZ3FrOFJxc0JuRXRqTjNZQlhjR1hHZDVscTgtM2JLcW4xZ3RFcHdZUkViQ2lIM2lTSWhLTm1ZRy00UXl6NU5IV01WcUctMVRuek9mS0lDNjNCTnlwQjR4MVE5b1FDRl9nLW5kR2dOUTBn0gGHAUFVX3lxTFBobkxqTUVNSmRmaGF0LWF3aUpOb0t1Y2lIcDdBcWluZFRaTnhtck1meTlua1luN0dXcUtIRWxDVGp3T2lUaENCVnpURDdmOUF4b2VxNUZNUTc4UTlDQ0JJamlJeEZJR3N4TV9PTTBmUmpTWjJUT3FvdENqY3ZJOTVFUlNoSHpsOA?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261002T110046Z",
           "pinned": false
         }
       ],
@@ -2036,12 +2036,12 @@
         },
         {
           "id": "report-d78b1182a72a",
-          "title": "Yemen’s army claims over 1,500 Houthi casualties, attacks Sanaa",
+          "title": "Yemen’s army says targets Houthis in hundreds of strikes, killing 700",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS2JvMzdKWGlzOXIzVTV3Y2E0ajEza2kzSE5icF9wWGJrTC1Sc051Y3JYNEVQZlo5YmVIZS0zcnZ6b3Y5Q0E4dTQ1SFJ6YTQwOWdoYmlUSDNBTjd6Z3RrQ195Sk12akk0UHludWJMZk12ZWgzUUphOVdrRU50bVpnMjh4VEJpN2xkWThvdlJvWHZtd3JSZmN5d0tUZ2RCRWpRak4xSdIBqgFBVV95cUxQMXRObHY1T2JOSWZQMFZ5STlNMHZyYzc3MmFhQV9RaDRWLVdJTy1KLXNLckY4cXVqSm5QWnJqcHdWaWxBckZzU2JKNHRBV0ZzS3VPZklOUTVUNkg4UlU4c0pCTWtLcDhwbHl4c3ZfWWlWU3R4blZaTFVnZ0hOZElILXYyRzZldGpjY3NCZDZXU2VuVWJGN0pmd05tWm1jUTd6WTBMeW5Xb0c0UQ?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-03T15:00:00Z"
+          "reportedAt": "2026-10-03T20:59:12Z"
         },
         {
           "id": "report-3f7573132330",
@@ -2080,15 +2080,6 @@
           "reportedAt": "2026-10-01T17:47:38Z"
         },
         {
-          "id": "report-7370bfee6eb6",
-          "title": "Israeli air attack on Gaza City apartment kills at least five",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSGpPWHZhNW9TMDk2OUxsRlFnbi1ycDRyeW9mSmN0dHduSnp2c2FZckF5cFRlMTdXX0c1QmUtc2VVOFhibmg5UnJHLXBKdnlSZmtOTWV5T19hODloTGppM2EtYUEzdzkwbkVEY3gyZTcxTzFvMllYOUwzVEJ6NWFidGNqMlpsWnhWUnMweXdQeDlMUnVYOEdRSlg2MTZoNFJpSzdobtIBqgFBVV95cUxPbFExTEIzRWk0V09YdHAyaUdjYjFaNnFZbXRNazJvUFhDNUpQNGNGRmpPT3p0X2dmUWhhUU1lZ1JFRjBtWGJiZ2xUazBaYkhkMGltdXFpWXpxb2FWcV9nZzg1TEFzeC1KOXdOQmNtLTZ4Q0tzakZGelpXOERYOTVBOGJXeFNoR08zWlZoNmxSZGtpSHRhY3ZSNWpWMHYtTG9ZZ3VQYmVVVk5CQQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-03T14:48:45Z"
-        },
-        {
           "id": "report-e38e3388c6c2",
           "title": "Fuel costs: Diesel prices in NI at highest level since Iran war began",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85VE0tUnFiQ1hQVTk3NFZyYWRDNFI0RHhNVWdyTHR6aTdkdXZjRElZN3dGclJJVGp1QVpGbGV5Qm0yQmdQeVA2ME8wb1VjbEh6ck0tMEltRVF3UE0?oc=5",
@@ -2096,6 +2087,24 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-10-02T12:29:47Z"
+        },
+        {
+          "id": "report-e50100d64504",
+          "title": "Witness History | Boer War: Siege of Ladysmith",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8ySnp5R29fQ25qWWNIZzM2OGpwcW5VS2F1X2hUMDBNRnRsQXRwOTNpM3NIRmpieE5FSUlxc3VMYWFrQzJCeHRubmdFVUdEZnRu?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-02T10:05:29Z"
+        },
+        {
+          "id": "report-7370bfee6eb6",
+          "title": "Israeli air attack on Gaza City apartment kills at least five",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSGpPWHZhNW9TMDk2OUxsRlFnbi1ycDRyeW9mSmN0dHduSnp2c2FZckF5cFRlMTdXX0c1QmUtc2VVOFhibmg5UnJHLXBKdnlSZmtOTWV5T19hODloTGppM2EtYUEzdzkwbkVEY3gyZTcxTzFvMllYOUwzVEJ6NWFidGNqMlpsWnhWUnMweXdQeDlMUnVYOEdRSlg2MTZoNFJpSzdobtIBqgFBVV95cUxPbFExTEIzRWk0V09YdHAyaUdjYjFaNnFZbXRNazJvUFhDNUpQNGNGRmpPT3p0X2dmUWhhUU1lZ1JFRjBtWGJiZ2xUazBaYkhkMGltdXFpWXpxb2FWcV9nZzg1TEFzeC1KOXdOQmNtLTZ4Q0tzakZGelpXOERYOTVBOGJXeFNoR08zWlZoNmxSZGtpSHRhY3ZSNWpWMHYtTG9ZZ3VQYmVVVk5CQQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-03T21:00:00Z"
         },
         {
           "id": "report-01221e32156a",
@@ -2114,15 +2123,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-10-01T19:38:30Z"
-        },
-        {
-          "id": "report-35708cd16579",
-          "title": "Explosions reported near military airport in Syria’s Idlib province",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdU41d3BNd2pLRVV3Um5fSGlHZ3FrOFJxc0JuRXRqTjNZQlhjR1hHZDVscTgtM2JLcW4xZ3RFcHdZUkViQ2lIM2lTSWhLTm1ZRy00UXl6NU5IV01WcUctMVRuek9mS0lDNjNCTnlwQjR4MVE5b1FDRl9nLW5kR2dOUTBn0gGHAUFVX3lxTFBobkxqTUVNSmRmaGF0LWF3aUpOb0t1Y2lIcDdBcWluZFRaTnhtck1meTlua1luN0dXcUtIRWxDVGp3T2lUaENCVnpURDdmOUF4b2VxNUZNUTc4UTlDQ0JJamlJeEZJR3N4TV9PTTBmUmpTWjJUT3FvdENqY3ZJOTVFUlNoSHpsOA?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-02T11:00:46Z"
         },
         {
           "id": "report-3d06d7802bf8",
