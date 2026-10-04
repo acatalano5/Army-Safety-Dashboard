@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T19:36:26.914Z",
+  "generatedAt": "2026-10-04T21:24:04.532Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-10-04T12:21:01.270Z",
+      "generatedAt": "2026-10-04T21:24:04.532Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -1815,7 +1815,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-10-04T12:21:01.270Z",
+      "generatedAt": "2026-10-04T21:24:04.532Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -1843,6 +1843,22 @@
           "pinned": false
         },
         {
+          "title": "‘There is no military solution’ to end war, Iran tells US",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMTl1QlppeGs2ZkVqTnpuNHVvbUNkOGJqZDVONXh6dk9BaDVMZ2l2S05DV2E2b3MzbWU2ekJHYzJEaVlmcHBSOUEzSUVEbnRMUE1QMkRsWG1ZWjZpNlh4amN2bU5VelNkTWd3TnBOcW1LQWVQcFIxcXVIZ1RiQzZSVzRBdGRWMjREeC1sZkExZ1d1MzVzdXd0Nk1Xb2g?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20261004T102634Z",
+          "pinned": false
+        },
+        {
+          "title": "Yemen’s army says targets Houthis in hundreds of strikes, killing 700",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS2JvMzdKWGlzOXIzVTV3Y2E0ajEza2kzSE5icF9wWGJrTC1Sc051Y3JYNEVQZlo5YmVIZS0zcnZ6b3Y5Q0E4dTQ1SFJ6YTQwOWdoYmlUSDNBTjd6Z3RrQ195Sk12akk0UHludWJMZk12ZWgzUUphOVdrRU50bVpnMjh4VEJpN2xkWThvdlJvWHZtd3JSZmN5d0tUZ2RCRWpRak4xSdIBqgFBVV95cUxQMXRObHY1T2JOSWZQMFZ5STlNMHZyYzc3MmFhQV9RaDRWLVdJTy1KLXNLckY4cXVqSm5QWnJqcHdWaWxBckZzU2JKNHRBV0ZzS3VPZklOUTVUNkg4UlU4c0pCTWtLcDhwbHl4c3ZfWWlWU3R4blZaTFVnZ0hOZElILXYyRzZldGpjY3NCZDZXU2VuVWJGN0pmd05tWm1jUTd6WTBMeW5Xb0c0UQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261003T083650Z",
+          "pinned": false
+        },
+        {
           "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EdFFlQnNfR040Y2NOcnpObDY3UXJGbmkyMHltYzRSMjZhVFpNQUdvRVYwTFUyWFRMNmdpaGRFTm5PUXpXSHRuSmVyWmp1ekgzaHJHTHpVc0x6LWs?oc=5",
           "domain": "bbc.com",
@@ -1851,27 +1867,19 @@
           "pinned": false
         },
         {
-          "title": "Yemen’s army says targets Houthis in hundreds of strikes, killing 700",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS2JvMzdKWGlzOXIzVTV3Y2E0ajEza2kzSE5icF9wWGJrTC1Sc051Y3JYNEVQZlo5YmVIZS0zcnZ6b3Y5Q0E4dTQ1SFJ6YTQwOWdoYmlUSDNBTjd6Z3RrQ195Sk12akk0UHludWJMZk12ZWgzUUphOVdrRU50bVpnMjh4VEJpN2xkWThvdlJvWHZtd3JSZmN5d0tUZ2RCRWpRak4xSdIBqgFBVV95cUxQMXRObHY1T2JOSWZQMFZ5STlNMHZyYzc3MmFhQV9RaDRWLVdJTy1KLXNLckY4cXVqSm5QWnJqcHdWaWxBckZzU2JKNHRBV0ZzS3VPZklOUTVUNkg4UlU4c0pCTWtLcDhwbHl4c3ZfWWlWU3R4blZaTFVnZ0hOZElILXYyRzZldGpjY3NCZDZXU2VuVWJGN0pmd05tWm1jUTd6WTBMeW5Xb0c0UQ?oc=5",
+          "title": "Gaza’s Christians mourn mother and daughter killed in Israeli attack",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNd1dkSG5iWTliVExWM1hEUlNIcE50UVJJUHNOcWtUYWtEMWtCMTNyazBDX0k5STJGbklaMmhldFFxWlpGbnpwbXdIbUdVRFpJMzZNZVhVYlc1SlcyUzVYX0lEbUZRNjBHUWxWN2MwRWwtQW05ZzF3YWRpZUotQk91MnB4NVFHd1VpaTVVRW1aOHFkSEVzczhiRUk1MkJDZ3ZzVU5aWU9kY3k0R29I0gGyAUFVX3lxTE9JRThwaEFjZGpLZDFkTnVnT044RU1rcmRhREhaTmtTeTdOMkJwMnZ5M3dqdXRFV1p0U2lGU2JTa09QYXUtTkkzdldNTUhWbHBGeHNNQTRFNk1mNGM5Uk8tblh2U0NBZFFfZHB2X2dGQ2RDa2VDWGZoODJvZ3M0QUthZ25VcjExcnFxNXAzanpPUlNicG9aWkxiQTV5S01TcU15T1NQUVNDZktuYjJJZ3IzaUE?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261004T090000Z",
+          "seen": "20261004T195627Z",
           "pinned": false
         },
         {
-          "title": "Japan calls for 'momentum for diplomacy' to end US-Iran war",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVzhJMEE4VEtOVGM1SGF0SF9FYmg1ZGd6R19rVEo4TVBzYnY5UnVua1ZMaWlBVHNmbjF0TUVlLTZyV0hmWnFmcVphbU9wQkNUTVJUVnkyZHFuSGRvMXl0aUNkNWxfQXRCTzV2ZTExVjlXVWI5RXJsaGJjbFZxUFM4aXFRWUwtQXVnTHFLaUhSZUYtcndQSHBXRGN0NEFDZDlpM2ZGZmpR?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "seen": "20261001T140107Z",
-          "pinned": false
-        },
-        {
-          "title": "Explosions heard in Ethiopia's capital after drone flights banned",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hVnVmZjA2MDh5VnVFX1dhcnJhVnhPUkRhM0RWM3huODlZN3VfNGtSMTJpNlAyMkFtbjhWN1JvYzZIekdYdlY3UENoQUpQTFlLc2tzOWpUQWozZGM?oc=5",
-          "domain": "bbc.com",
+          "title": "Iran tells US: there is ‘no military solution’ to end the war",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQkpyTExGanRuUDljTW85VnZfN3FiRV9sWUVVanlIX0xMYjBtYXZlN0dRU21VbnBpU2ZYVVVGcFJ6SUllMkFOelkwVGJESWdQNDdObTNzMllrcF9VUlZIeXRDTERQd1ZhWllfaW5SQTBLSEtVMDNDSFdiYmlSNWtvTU5uUWJvMlVZelViNUZaTzVUdHRvblRSVEFxRWpkeFBNYWlWSVNrYkhGUGZFTHfSAbMBQVVfeXFMTndkdmRXaEU0aFFNbm5TWVJqVFROUnhRdWFJQWEycmxDNFIzMUhMbjZvSmtIUVZrSUo2MXZXR3JsOU81cjlTOFRjU0lZWk0zMkh1dElEcmo0OWZJQnpXRlZLanpBNFRvQ0Z5eDhTbDRwb0R0QjBlZVFjcWNKUEVhM1k1dWxiblZwNDYzSUhGbF84RGNoUmJ2QnVjelQ2ODViNkVhWldHR1VUejV3a2dOc21ibkE?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261001T150536Z",
+          "seen": "20261004T181906Z",
           "pinned": false
         },
         {
@@ -1888,14 +1896,6 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20261002T215711Z",
-          "pinned": false
-        },
-        {
-          "title": "Blasts heard in Addis Ababa as Ethiopia conflict widens in the north",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY0plMUVSbEx1aXhEaWlfUEE0UjN0YlM0X0NJamhrVkVHT19hUExQM3NIeDg0bkFXTGRZMTFtVV94SVZ3dmZyYTdCa0ZESG5FRDVvU3ZFNW9Kdk0xbmxTSUpVQWxERzRycmh3bXYtYm9xbDFLRlRlMEdQTGVPUXFCME44S2x3bTZpcVJnb19IZlNGc3N6eHVLRFFOV05UN0pBVUVRb1BLTzhneTZyNmc?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261001T164458Z",
           "pinned": false
         },
         {
@@ -1935,7 +1935,7 @@
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSGpPWHZhNW9TMDk2OUxsRlFnbi1ycDRyeW9mSmN0dHduSnp2c2FZckF5cFRlMTdXX0c1QmUtc2VVOFhibmg5UnJHLXBKdnlSZmtOTWV5T19hODloTGppM2EtYUEzdzkwbkVEY3gyZTcxTzFvMllYOUwzVEJ6NWFidGNqMlpsWnhWUnMweXdQeDlMUnVYOEdRSlg2MTZoNFJpSzdobtIBqgFBVV95cUxPbFExTEIzRWk0V09YdHAyaUdjYjFaNnFZbXRNazJvUFhDNUpQNGNGRmpPT3p0X2dmUWhhUU1lZ1JFRjBtWGJiZ2xUazBaYkhkMGltdXFpWXpxb2FWcV9nZzg1TEFzeC1KOXdOQmNtLTZ4Q0tzakZGelpXOERYOTVBOGJXeFNoR08zWlZoNmxSZGtpSHRhY3ZSNWpWMHYtTG9ZZ3VQYmVVVk5CQQ?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261004T091115Z",
+          "seen": "20261003T022746Z",
           "pinned": false
         },
         {
@@ -1947,19 +1947,19 @@
           "pinned": false
         },
         {
-          "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45djZCSHRoUWlOWThQNWlOd0p0cnVzSG1JSTNBOFFrUlRjeEljOEVQYnJSY2VLOUNGb2YtM1RUWUw5VlFfckl4YlpfT2o1eml1RHFMZWcxWmdxYzQ?oc=5",
-          "domain": "bbc.com",
+          "title": "Ethiopian government troops seize Tigray’s capital Mekelle",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZTZ5aXZwRWxZYk5TREwyb2UxbGpTeXczSzRLSmM3NktIT1FtbVc2Qy1xX2ZGZnNMTFQ1UFNZM09NNDY5bFRJaDlnSEZHRDlPTWRtNmp5WWN4RU1Sdkl2a0J6YnRiN2NwLU9raHJkM1IxdjZ1cGFzNndyV2tVdUM3TG5maFJVbF9pRWpBUWdMdmJ1RVZ6aGRyVWdyVGtXQm9KSFVLOUlVM0Z1Y2FI0gGyAUFVX3lxTE42OGpqUVNlNjFaVFhCZ21QRmp4RzlRNjhzNGdnZlFVSU80MTlka0o3NWRLdXRERFBzWUNONUdaNjM3OEdtZ3c5TkN5bF9iR2dlZHMtRmxYaFE4Y3gzTEFnUG5kbzRjLUNWcl9zXzZ3ZU4tZUxmaG90OU5uZG9JVFJIZ3FSNDlUYmVBQVVleW5WcGFLNWdMV2pVRnJPX1NfV3BhdmYtSEZKN2RkYXFCT3pQT1E?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261001T193830Z",
+          "seen": "20261004T191950Z",
           "pinned": false
         },
         {
-          "title": "Explosions reported near military airport in Syria’s Idlib province",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdU41d3BNd2pLRVV3Um5fSGlHZ3FrOFJxc0JuRXRqTjNZQlhjR1hHZDVscTgtM2JLcW4xZ3RFcHdZUkViQ2lIM2lTSWhLTm1ZRy00UXl6NU5IV01WcUctMVRuek9mS0lDNjNCTnlwQjR4MVE5b1FDRl9nLW5kR2dOUTBn0gGHAUFVX3lxTFBobkxqTUVNSmRmaGF0LWF3aUpOb0t1Y2lIcDdBcWluZFRaTnhtck1meTlua1luN0dXcUtIRWxDVGp3T2lUaENCVnpURDdmOUF4b2VxNUZNUTc4UTlDQ0JJamlJeEZJR3N4TV9PTTBmUmpTWjJUT3FvdENqY3ZJOTVFUlNoSHpsOA?oc=5",
+          "title": "Houthis claim strike on Aramco site as Yemen fighting intensifies",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONmY5RE5ILWt6MWtRZTJBS2VXVzdQdERuNHZFbk9PVHVuZFNfTVhjdm1yTWdUSTR0Q0xlNTN2eGhOUkE2WThVcXdDZ1pEcDAtQWJWWUFQbUM2RE9pbmtCa2lfM2t2RUxxVF9kUkJxd0htRjA0aXprc0NEQWZlNHVQTWpPVDdPNDVmZ25sNXFISGhaa0MxdEJzNEQxekE1ZVRoZWFkVEZsOElNR1g1amRXRFdkZm85RnPSAbwBQVVfeXFMUHdUakUzMklBc1VSRGZwMXN1X2M1NVg3b1dmUFZ5aXUtX2tmbW84UHNSckw2TlBmS1pXdmx1VE4tclZ6cGpSSFU1WTZRRmg3c3V2N3lYME1BRmUwa0RHZS1rd1BINkowa0xrMHNReUxXdmZyRzduTkN0TTlpVWV4c0p2Um5uWHRlNG14b0MwNF8zd2JTMHppaHlnN0tHMWJJTlhKMTltOE5MN0ktQVdoNGhRekg1RmhoVVBrdGM?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261002T110046Z",
+          "seen": "20261004T182842Z",
           "pinned": false
         },
         {
@@ -1979,6 +1979,14 @@
           "pinned": false
         },
         {
+          "title": "Air strike in Sudan kills UN aid truck driver: WFP",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcGdJY0RKM21uSVQyekE0cDNYOXUwbWpobXlzU3dROTFUbFBIVmdTM3FpMHJWcWo0QU1yTkMzNGkyRFBTa2UtOHF6dmRxVDRSUjlyVlpfUWxLcmtXd2VCVUk4WnBuQzN2bXFQYUY0YXEtb1Y4NkNBR1dPZ0VzSVpQSUhIbEdCbmdrc1RuckdFMElPTUMt0gGaAUFVX3lxTE5IaTlGS3RpX2hELUt6SWlraEtLd2lEZUN6RTFidlNPS2k2bE9nVG5iTk1qOTdna1ZSZUtiZTYtU1lfWENhdXd2R3JkbjN5QndOUm5LNlEtcU1sNUo3NkUxRVZsLTVNM1hrbVpmcDNqNDRfOWY4bG15RkYtSUNvWWg3UlJYZjF3Uk5jTXliNDhRMWVjOGVLSjVneFE?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261004T191950Z",
+          "pinned": false
+        },
+        {
           "title": "Russian attacks kill 6 in Ukraine and damage Kyiv’s Northern Bridge",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZzZPOENZalJ1U2RlazVCeF9LbnhXdC00MG4tOXhob1pYOFhVbHZVTmk2N2I1aEYtQmFHT1FlVWVwTkFMY3ZBbHNoOXM1M1RHM0FfZmhGUDRfeHFVOEt5NTRJLTlkZkNhSnpRV0JiSXYwaV81T2JVYkYyVF9CQUV5V3N1QjBJRTZ1SzVsOHVFMDByYkpRRVE?oc=5",
           "domain": "apnews.com",
@@ -1987,27 +1995,19 @@
           "pinned": false
         },
         {
+          "title": "Germany’s Merz announces new aid for Ukraine in Kyiv as Russia steps up attacks",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSW9xR0xYUHQ3OE8xMk1yRl8zSFNHQ1Zwd05Ob2dQeWNTLTFJb3FEWEF4SXo1X3NhRWlfamstU2puVzFXQzBXX2ZrSk9tN3BtNjk5eW9yU2phekV0SEo1RjktSU5CZWRrNllpRDl3WFlheV9oZ2pNckx6NEJuZ1VKam5rRlJSbXZTY01xZVVyTklqRFlidDhibWZRRQ?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261004T080221Z",
+          "pinned": false
+        },
+        {
           "title": "Latvians vote for a new parliament as fears of Russian hybrid attacks loom",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRXQ4TUpSdkVUX0pHODc1WHFHMVVEZy0wZFA5bTNqdkNLSmc2LWFwZ25WRWdyOTA2VGdCcWVNTVF1SmpBdG9QbXlkaXMxX2l5aGZveW9URHJxTWhIN2JaNGhUb1k5ajhzRi1JUmQ4eTJfMG10WUtaR1drWG8yRThvOVN6ZnVKWTFEVnpZNXU0S3VSMzUzUy0yeEFMWFRwT2hhM0ZKUzBranJ3eDRRSmNTeA?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "seen": "20261003T145400Z",
-          "pinned": false
-        },
-        {
-          "title": "South Korean golfer Tom Kim receives a military exemption with a gold medal at the Asian Games",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRDE1MEU4MnVDYUotZ1l6ZFR1NEpoUi1Yd3dHUnZGQk1oMEVzaW5YREhYa3FldjRDUkE3VFJTVlprTC1hVHZlME9CdFNoTUFVNXFNSDNIcTVHR3FyMFpLQmNvUTZhOWF5TjRRTUF6cnN0LXdUTlVrYnJxV1lNMWZtVUhFejJMVEVnYTBXaFh6aEdyUWpINEZuYjRCd2U?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261004T014400Z",
-          "pinned": false
-        },
-        {
-          "title": "Doctors warn about the risks energy drinks pose to kids. What families need to know",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRHkxU0ZIS3EyR0p4U3JnckNmX2lzQlc0aGdpcXBWTFlHTy1HZHVKcC10TExJUU55WkJZRW9hTlZOa3lTa2U0U1NZNmk2YlJ5aDc0Zndhdl9waDQ1RVhWRElRc25vVm54ZUUzWE53bjR5Y0FnYzZRRWxlS1laanVrVW9telFLcmRqZFBhMXdEZzJlODF6WldsckpST3ZaN0d6TW9UdDRjMA?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261003T120500Z",
           "pinned": false
         }
       ],
@@ -2040,6 +2040,24 @@
           "reportedAt": "2026-10-02T03:29:18Z"
         },
         {
+          "id": "report-fff4e9732527",
+          "title": "‘There is no military solution’ to end war, Iran tells US",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMTl1QlppeGs2ZkVqTnpuNHVvbUNkOGJqZDVONXh6dk9BaDVMZ2l2S05DV2E2b3MzbWU2ekJHYzJEaVlmcHBSOUEzSUVEbnRMUE1QMkRsWG1ZWjZpNlh4amN2bU5VelNkTWd3TnBOcW1LQWVQcFIxcXVIZ1RiQzZSVzRBdGRWMjREeC1sZkExZ1d1MzVzdXd0Nk1Xb2g?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-10-04T10:26:34Z"
+        },
+        {
+          "id": "report-d78b1182a72a",
+          "title": "Yemen’s army says targets Houthis in hundreds of strikes, killing 700",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS2JvMzdKWGlzOXIzVTV3Y2E0ajEza2kzSE5icF9wWGJrTC1Sc051Y3JYNEVQZlo5YmVIZS0zcnZ6b3Y5Q0E4dTQ1SFJ6YTQwOWdoYmlUSDNBTjd6Z3RrQ195Sk12akk0UHludWJMZk12ZWgzUUphOVdrRU50bVpnMjh4VEJpN2xkWThvdlJvWHZtd3JSZmN5d0tUZ2RCRWpRak4xSdIBqgFBVV95cUxQMXRObHY1T2JOSWZQMFZ5STlNMHZyYzc3MmFhQV9RaDRWLVdJTy1KLXNLckY4cXVqSm5QWnJqcHdWaWxBckZzU2JKNHRBV0ZzS3VPZklOUTVUNkg4UlU4c0pCTWtLcDhwbHl4c3ZfWWlWU3R4blZaTFVnZ0hOZElILXYyRzZldGpjY3NCZDZXU2VuVWJGN0pmd05tWm1jUTd6WTBMeW5Xb0c0UQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-03T08:36:50Z"
+        },
+        {
           "id": "report-dcc0c0ad93ea",
           "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EdFFlQnNfR040Y2NOcnpObDY3UXJGbmkyMHltYzRSMjZhVFpNQUdvRVYwTFUyWFRMNmdpaGRFTm5PUXpXSHRuSmVyWmp1ekgzaHJHTHpVc0x6LWs?oc=5",
@@ -2049,31 +2067,22 @@
           "reportedAt": "2026-10-02T16:08:25Z"
         },
         {
-          "id": "report-d78b1182a72a",
-          "title": "Yemen’s army says targets Houthis in hundreds of strikes, killing 700",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS2JvMzdKWGlzOXIzVTV3Y2E0ajEza2kzSE5icF9wWGJrTC1Sc051Y3JYNEVQZlo5YmVIZS0zcnZ6b3Y5Q0E4dTQ1SFJ6YTQwOWdoYmlUSDNBTjd6Z3RrQ195Sk12akk0UHludWJMZk12ZWgzUUphOVdrRU50bVpnMjh4VEJpN2xkWThvdlJvWHZtd3JSZmN5d0tUZ2RCRWpRak4xSdIBqgFBVV95cUxQMXRObHY1T2JOSWZQMFZ5STlNMHZyYzc3MmFhQV9RaDRWLVdJTy1KLXNLckY4cXVqSm5QWnJqcHdWaWxBckZzU2JKNHRBV0ZzS3VPZklOUTVUNkg4UlU4c0pCTWtLcDhwbHl4c3ZfWWlWU3R4blZaTFVnZ0hOZElILXYyRzZldGpjY3NCZDZXU2VuVWJGN0pmd05tWm1jUTd6WTBMeW5Xb0c0UQ?oc=5",
+          "id": "report-4f5483fe5902",
+          "title": "Gaza’s Christians mourn mother and daughter killed in Israeli attack",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNd1dkSG5iWTliVExWM1hEUlNIcE50UVJJUHNOcWtUYWtEMWtCMTNyazBDX0k5STJGbklaMmhldFFxWlpGbnpwbXdIbUdVRFpJMzZNZVhVYlc1SlcyUzVYX0lEbUZRNjBHUWxWN2MwRWwtQW05ZzF3YWRpZUotQk91MnB4NVFHd1VpaTVVRW1aOHFkSEVzczhiRUk1MkJDZ3ZzVU5aWU9kY3k0R29I0gGyAUFVX3lxTE9JRThwaEFjZGpLZDFkTnVnT044RU1rcmRhREhaTmtTeTdOMkJwMnZ5M3dqdXRFV1p0U2lGU2JTa09QYXUtTkkzdldNTUhWbHBGeHNNQTRFNk1mNGM5Uk8tblh2U0NBZFFfZHB2X2dGQ2RDa2VDWGZoODJvZ3M0QUthZ25VcjExcnFxNXAzanpPUlNicG9aWkxiQTV5S01TcU15T1NQUVNDZktuYjJJZ3IzaUE?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-04T09:00:00Z"
+          "reportedAt": "2026-10-04T19:56:27Z"
         },
         {
-          "id": "report-83021e39b7de",
-          "title": "Japan calls for 'momentum for diplomacy' to end US-Iran war",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVzhJMEE4VEtOVGM1SGF0SF9FYmg1ZGd6R19rVEo4TVBzYnY5UnVua1ZMaWlBVHNmbjF0TUVlLTZyV0hmWnFmcVphbU9wQkNUTVJUVnkyZHFuSGRvMXl0aUNkNWxfQXRCTzV2ZTExVjlXVWI5RXJsaGJjbFZxUFM4aXFRWUwtQXVnTHFLaUhSZUYtcndQSHBXRGN0NEFDZDlpM2ZGZmpR?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
-          "reportedAt": "2026-10-01T14:01:07Z"
-        },
-        {
-          "id": "report-a97e5f4e3b4c",
-          "title": "Explosions heard in Ethiopia's capital after drone flights banned",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hVnVmZjA2MDh5VnVFX1dhcnJhVnhPUkRhM0RWM3huODlZN3VfNGtSMTJpNlAyMkFtbjhWN1JvYzZIekdYdlY3UENoQUpQTFlLc2tzOWpUQWozZGM?oc=5",
-          "domain": "bbc.com",
+          "id": "report-a28dcd72ed88",
+          "title": "Iran tells US: there is ‘no military solution’ to end the war",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQkpyTExGanRuUDljTW85VnZfN3FiRV9sWUVVanlIX0xMYjBtYXZlN0dRU21VbnBpU2ZYVVVGcFJ6SUllMkFOelkwVGJESWdQNDdObTNzMllrcF9VUlZIeXRDTERQd1ZhWllfaW5SQTBLSEtVMDNDSFdiYmlSNWtvTU5uUWJvMlVZelViNUZaTzVUdHRvblRSVEFxRWpkeFBNYWlWSVNrYkhGUGZFTHfSAbMBQVVfeXFMTndkdmRXaEU0aFFNbm5TWVJqVFROUnhRdWFJQWEycmxDNFIzMUhMbjZvSmtIUVZrSUo2MXZXR3JsOU81cjlTOFRjU0lZWk0zMkh1dElEcmo0OWZJQnpXRlZLanpBNFRvQ0Z5eDhTbDRwb0R0QjBlZVFjcWNKUEVhM1k1dWxiblZwNDYzSUhGbF84RGNoUmJ2QnVjelQ2ODViNkVhWldHR1VUejV3a2dOc21ibkE?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-01T15:05:36Z"
+          "reportedAt": "2026-10-04T18:19:06Z"
         },
         {
           "id": "report-1113fb32233d",
@@ -2092,15 +2101,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-10-02T21:57:11Z"
-        },
-        {
-          "id": "report-cc3e943d2047",
-          "title": "Blasts heard in Addis Ababa as Ethiopia conflict widens in the north",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY0plMUVSbEx1aXhEaWlfUEE0UjN0YlM0X0NJamhrVkVHT19hUExQM3NIeDg0bkFXTGRZMTFtVV94SVZ3dmZyYTdCa0ZESG5FRDVvU3ZFNW9Kdk0xbmxTSUpVQWxERzRycmh3bXYtYm9xbDFLRlRlMEdQTGVPUXFCME44S2x3bTZpcVJnb19IZlNGc3N6eHVLRFFOV05UN0pBVUVRb1BLTzhneTZyNmc?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-01T16:44:58Z"
         },
         {
           "id": "report-5a8f8343cab3",
@@ -2145,7 +2145,7 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-04T09:11:15Z"
+          "reportedAt": "2026-10-03T02:27:46Z"
         },
         {
           "id": "report-e50100d64504",
@@ -2157,22 +2157,22 @@
           "reportedAt": "2026-10-02T10:05:29Z"
         },
         {
-          "id": "report-78fad4e9ba8f",
-          "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45djZCSHRoUWlOWThQNWlOd0p0cnVzSG1JSTNBOFFrUlRjeEljOEVQYnJSY2VLOUNGb2YtM1RUWUw5VlFfckl4YlpfT2o1eml1RHFMZWcxWmdxYzQ?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-01T19:38:30Z"
-        },
-        {
-          "id": "report-35708cd16579",
-          "title": "Explosions reported near military airport in Syria’s Idlib province",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdU41d3BNd2pLRVV3Um5fSGlHZ3FrOFJxc0JuRXRqTjNZQlhjR1hHZDVscTgtM2JLcW4xZ3RFcHdZUkViQ2lIM2lTSWhLTm1ZRy00UXl6NU5IV01WcUctMVRuek9mS0lDNjNCTnlwQjR4MVE5b1FDRl9nLW5kR2dOUTBn0gGHAUFVX3lxTFBobkxqTUVNSmRmaGF0LWF3aUpOb0t1Y2lIcDdBcWluZFRaTnhtck1meTlua1luN0dXcUtIRWxDVGp3T2lUaENCVnpURDdmOUF4b2VxNUZNUTc4UTlDQ0JJamlJeEZJR3N4TV9PTTBmUmpTWjJUT3FvdENqY3ZJOTVFUlNoSHpsOA?oc=5",
+          "id": "report-2cdaecd6fde6",
+          "title": "Ethiopian government troops seize Tigray’s capital Mekelle",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZTZ5aXZwRWxZYk5TREwyb2UxbGpTeXczSzRLSmM3NktIT1FtbVc2Qy1xX2ZGZnNMTFQ1UFNZM09NNDY5bFRJaDlnSEZHRDlPTWRtNmp5WWN4RU1Sdkl2a0J6YnRiN2NwLU9raHJkM1IxdjZ1cGFzNndyV2tVdUM3TG5maFJVbF9pRWpBUWdMdmJ1RVZ6aGRyVWdyVGtXQm9KSFVLOUlVM0Z1Y2FI0gGyAUFVX3lxTE42OGpqUVNlNjFaVFhCZ21QRmp4RzlRNjhzNGdnZlFVSU80MTlka0o3NWRLdXRERFBzWUNONUdaNjM3OEdtZ3c5TkN5bF9iR2dlZHMtRmxYaFE4Y3gzTEFnUG5kbzRjLUNWcl9zXzZ3ZU4tZUxmaG90OU5uZG9JVFJIZ3FSNDlUYmVBQVVleW5WcGFLNWdMV2pVRnJPX1NfV3BhdmYtSEZKN2RkYXFCT3pQT1E?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-02T11:00:46Z"
+          "reportedAt": "2026-10-04T19:19:50Z"
+        },
+        {
+          "id": "report-1ab715029252",
+          "title": "Houthis claim strike on Aramco site as Yemen fighting intensifies",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONmY5RE5ILWt6MWtRZTJBS2VXVzdQdERuNHZFbk9PVHVuZFNfTVhjdm1yTWdUSTR0Q0xlNTN2eGhOUkE2WThVcXdDZ1pEcDAtQWJWWUFQbUM2RE9pbmtCa2lfM2t2RUxxVF9kUkJxd0htRjA0aXprc0NEQWZlNHVQTWpPVDdPNDVmZ25sNXFISGhaa0MxdEJzNEQxekE1ZVRoZWFkVEZsOElNR1g1amRXRFdkZm85RnPSAbwBQVVfeXFMUHdUakUzMklBc1VSRGZwMXN1X2M1NVg3b1dmUFZ5aXUtX2tmbW84UHNSckw2TlBmS1pXdmx1VE4tclZ6cGpSSFU1WTZRRmg3c3V2N3lYME1BRmUwa0RHZS1rd1BINkowa0xrMHNReUxXdmZyRzduTkN0TTlpVWV4c0p2Um5uWHRlNG14b0MwNF8zd2JTMHppaHlnN0tHMWJJTlhKMTltOE5MN0ktQVdoNGhRekg1RmhoVVBrdGM?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-04T18:28:42Z"
         },
         {
           "id": "report-89ceb5300a61",
@@ -2193,6 +2193,15 @@
           "reportedAt": "2026-10-01T20:03:00Z"
         },
         {
+          "id": "report-60c2841aa9b3",
+          "title": "Air strike in Sudan kills UN aid truck driver: WFP",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcGdJY0RKM21uSVQyekE0cDNYOXUwbWpobXlzU3dROTFUbFBIVmdTM3FpMHJWcWo0QU1yTkMzNGkyRFBTa2UtOHF6dmRxVDRSUjlyVlpfUWxLcmtXd2VCVUk4WnBuQzN2bXFQYUY0YXEtb1Y4NkNBR1dPZ0VzSVpQSUhIbEdCbmdrc1RuckdFMElPTUMt0gGaAUFVX3lxTE5IaTlGS3RpX2hELUt6SWlraEtLd2lEZUN6RTFidlNPS2k2bE9nVG5iTk1qOTdna1ZSZUtiZTYtU1lfWENhdXd2R3JkbjN5QndOUm5LNlEtcU1sNUo3NkUxRVZsLTVNM1hrbVpmcDNqNDRfOWY4bG15RkYtSUNvWWg3UlJYZjF3Uk5jTXliNDhRMWVjOGVLSjVneFE?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-04T19:19:50Z"
+        },
+        {
           "id": "report-f47d0877de16",
           "title": "Russian attacks kill 6 in Ukraine and damage Kyiv’s Northern Bridge",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZzZPOENZalJ1U2RlazVCeF9LbnhXdC00MG4tOXhob1pYOFhVbHZVTmk2N2I1aEYtQmFHT1FlVWVwTkFMY3ZBbHNoOXM1M1RHM0FfZmhGUDRfeHFVOEt5NTRJLTlkZkNhSnpRV0JiSXYwaV81T2JVYkYyVF9CQUV5V3N1QjBJRTZ1SzVsOHVFMDByYkpRRVE?oc=5",
@@ -2202,6 +2211,15 @@
           "reportedAt": "2026-10-03T15:46:00Z"
         },
         {
+          "id": "report-612a6338f15e",
+          "title": "Germany’s Merz announces new aid for Ukraine in Kyiv as Russia steps up attacks",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSW9xR0xYUHQ3OE8xMk1yRl8zSFNHQ1Zwd05Ob2dQeWNTLTFJb3FEWEF4SXo1X3NhRWlfamstU2puVzFXQzBXX2ZrSk9tN3BtNjk5eW9yU2phekV0SEo1RjktSU5CZWRrNllpRDl3WFlheV9oZ2pNckx6NEJuZ1VKam5rRlJSbXZTY01xZVVyTklqRFlidDhibWZRRQ?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-04T08:02:21Z"
+        },
+        {
           "id": "report-383e3ee11425",
           "title": "Latvians vote for a new parliament as fears of Russian hybrid attacks loom",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRXQ4TUpSdkVUX0pHODc1WHFHMVVEZy0wZFA5bTNqdkNLSmc2LWFwZ25WRWdyOTA2VGdCcWVNTVF1SmpBdG9QbXlkaXMxX2l5aGZveW9URHJxTWhIN2JaNGhUb1k5ajhzRi1JUmQ4eTJfMG10WUtaR1drWG8yRThvOVN6ZnVKWTFEVnpZNXU0S3VSMzUzUy0yeEFMWFRwT2hhM0ZKUzBranJ3eDRRSmNTeA?oc=5",
@@ -2209,24 +2227,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-10-03T14:54:00Z"
-        },
-        {
-          "id": "report-2a4f9119c9f6",
-          "title": "South Korean golfer Tom Kim receives a military exemption with a gold medal at the Asian Games",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRDE1MEU4MnVDYUotZ1l6ZFR1NEpoUi1Yd3dHUnZGQk1oMEVzaW5YREhYa3FldjRDUkE3VFJTVlprTC1hVHZlME9CdFNoTUFVNXFNSDNIcTVHR3FyMFpLQmNvUTZhOWF5TjRRTUF6cnN0LXdUTlVrYnJxV1lNMWZtVUhFejJMVEVnYTBXaFh6aEdyUWpINEZuYjRCd2U?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-04T01:44:00Z"
-        },
-        {
-          "id": "report-5e4a34c4e706",
-          "title": "Doctors warn about the risks energy drinks pose to kids. What families need to know",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRHkxU0ZIS3EyR0p4U3JnckNmX2lzQlc0aGdpcXBWTFlHTy1HZHVKcC10TExJUU55WkJZRW9hTlZOa3lTa2U0U1NZNmk2YlJ5aDc0Zndhdl9waDQ1RVhWRElRc25vVm54ZUUzWE53bjR5Y0FnYzZRRWxlS1laanVrVW9telFLcmRqZFBhMXdEZzJlODF6WldsckpST3ZaN0d6TW9UdDRjMA?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-03T12:05:00Z"
         },
         {
           "id": "report-08921cccc3c9",
