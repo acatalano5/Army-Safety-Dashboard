@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T05:51:21.679Z",
+  "generatedAt": "2026-10-04T12:21:01.270Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-10-04T05:51:21.679Z",
+      "generatedAt": "2026-10-04T12:21:01.270Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -1711,7 +1711,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-10-04T05:51:21.679Z",
+      "generatedAt": "2026-10-04T12:21:01.270Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -1747,6 +1747,22 @@
           "pinned": false
         },
         {
+          "title": "Yemen’s army says targets Houthis in hundreds of strikes, killing 700",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS2JvMzdKWGlzOXIzVTV3Y2E0ajEza2kzSE5icF9wWGJrTC1Sc051Y3JYNEVQZlo5YmVIZS0zcnZ6b3Y5Q0E4dTQ1SFJ6YTQwOWdoYmlUSDNBTjd6Z3RrQ195Sk12akk0UHludWJMZk12ZWgzUUphOVdrRU50bVpnMjh4VEJpN2xkWThvdlJvWHZtd3JSZmN5d0tUZ2RCRWpRak4xSdIBqgFBVV95cUxQMXRObHY1T2JOSWZQMFZ5STlNMHZyYzc3MmFhQV9RaDRWLVdJTy1KLXNLckY4cXVqSm5QWnJqcHdWaWxBckZzU2JKNHRBV0ZzS3VPZklOUTVUNkg4UlU4c0pCTWtLcDhwbHl4c3ZfWWlWU3R4blZaTFVnZ0hOZElILXYyRzZldGpjY3NCZDZXU2VuVWJGN0pmd05tWm1jUTd6WTBMeW5Xb0c0UQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261004T090000Z",
+          "pinned": false
+        },
+        {
+          "title": "Japan calls for 'momentum for diplomacy' to end US-Iran war",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVzhJMEE4VEtOVGM1SGF0SF9FYmg1ZGd6R19rVEo4TVBzYnY5UnVua1ZMaWlBVHNmbjF0TUVlLTZyV0hmWnFmcVphbU9wQkNUTVJUVnkyZHFuSGRvMXl0aUNkNWxfQXRCTzV2ZTExVjlXVWI5RXJsaGJjbFZxUFM4aXFRWUwtQXVnTHFLaUhSZUYtcndQSHBXRGN0NEFDZDlpM2ZGZmpR?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20261001T140107Z",
+          "pinned": false
+        },
+        {
           "title": "Explosions heard in Ethiopia's capital after drone flights banned",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hVnVmZjA2MDh5VnVFX1dhcnJhVnhPUkRhM0RWM3huODlZN3VfNGtSMTJpNlAyMkFtbjhWN1JvYzZIekdYdlY3UENoQUpQTFlLc2tzOWpUQWozZGM?oc=5",
           "domain": "bbc.com",
@@ -1776,14 +1792,6 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20261001T164458Z",
-          "pinned": false
-        },
-        {
-          "title": "Yemen’s army says targets Houthis in hundreds of strikes, killing 700",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS2JvMzdKWGlzOXIzVTV3Y2E0ajEza2kzSE5icF9wWGJrTC1Sc051Y3JYNEVQZlo5YmVIZS0zcnZ6b3Y5Q0E4dTQ1SFJ6YTQwOWdoYmlUSDNBTjd6Z3RrQ195Sk12akk0UHludWJMZk12ZWgzUUphOVdrRU50bVpnMjh4VEJpN2xkWThvdlJvWHZtd3JSZmN5d0tUZ2RCRWpRak4xSdIBqgFBVV95cUxQMXRObHY1T2JOSWZQMFZ5STlNMHZyYzc3MmFhQV9RaDRWLVdJTy1KLXNLckY4cXVqSm5QWnJqcHdWaWxBckZzU2JKNHRBV0ZzS3VPZklOUTVUNkg4UlU4c0pCTWtLcDhwbHl4c3ZfWWlWU3R4blZaTFVnZ0hOZElILXYyRzZldGpjY3NCZDZXU2VuVWJGN0pmd05tWm1jUTd6WTBMeW5Xb0c0UQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261004T030000Z",
           "pinned": false
         },
         {
@@ -1823,7 +1831,7 @@
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSGpPWHZhNW9TMDk2OUxsRlFnbi1ycDRyeW9mSmN0dHduSnp2c2FZckF5cFRlMTdXX0c1QmUtc2VVOFhibmg5UnJHLXBKdnlSZmtOTWV5T19hODloTGppM2EtYUEzdzkwbkVEY3gyZTcxTzFvMllYOUwzVEJ6NWFidGNqMlpsWnhWUnMweXdQeDlMUnVYOEdRSlg2MTZoNFJpSzdobtIBqgFBVV95cUxPbFExTEIzRWk0V09YdHAyaUdjYjFaNnFZbXRNazJvUFhDNUpQNGNGRmpPT3p0X2dmUWhhUU1lZ1JFRjBtWGJiZ2xUazBaYkhkMGltdXFpWXpxb2FWcV9nZzg1TEFzeC1KOXdOQmNtLTZ4Q0tzakZGelpXOERYOTVBOGJXeFNoR08zWlZoNmxSZGtpSHRhY3ZSNWpWMHYtTG9ZZ3VQYmVVVk5CQQ?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261004T031115Z",
+          "seen": "20261004T091115Z",
           "pinned": false
         },
         {
@@ -1832,14 +1840,6 @@
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20261002T100529Z",
-          "pinned": false
-        },
-        {
-          "title": "Russian drone hits school in Ukraine’s Kyiv as Moscow presses air assault",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORFFFOG8xYWlMY1h6QVJSTTROMkRDSjNOQ21UbVZqRDN3MmF5dWxQNy1uZEVHMzN5bWdpUC1PclBtZS1iQjdYbkF5bEVGUW1HQlowUVFyNlhwd0NxZzc1NXhEN0FPQzkwN0lQcGQ1azJQSkJIWFhjcGZDSm5DdWNsVkltZWctTVBZSUwxQUJocnIzanZNYmxYdGZXLUJOOGFXaXB3b0F5TjJFMmcycVlXcGY1MNIBuAFBVV95cUxPNmhDNU42eGNtZ010NzdqZjFCNlFXMWF2b25rR0VFMHdEY1Zpbk9JUjZWc21iTFFTZDVnQjdIdU93LTl0d0E5b21HeC1UZVZkdUVUY2FjUFdrazN2RHE3cVpzWUFsR0JhUkhEOXdOSVpDeUlsUDlsMlVLZUlzQk1IbmxibGk5eFNiLU9NNTl5Ym9JTG5IdnpZSk9iRkhKUF9oSVI2Wjk3NnBveWdITHY4b25CRFpjWGgw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261001T131449Z",
           "pinned": false
         },
         {
@@ -1891,19 +1891,19 @@
           "pinned": false
         },
         {
-          "title": "Putin observes military drills in the Urals involving troops from China and other nations",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeERWYWZpcFhOdzhrOFBIZjlWNmJKT0J2ejhnRWpsU1dfVV9MQVlKLXJYdUkzcElHeUtiVjlaYkdPZ1gyVTEwZ2VESGlwbTc1NERjUFFsZVJ6T1NKd09vbGNCTzRRTnNWd3cxNWdPaF9Bc2d6YkZyaDlhZ2M0OG50RkJHOFd6S2xqdjdqLVV4N0daSnBoX21pTEZuRXNIUlFvYk5aNkF1Zw?oc=5",
+          "title": "South Korean golfer Tom Kim receives a military exemption with a gold medal at the Asian Games",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRDE1MEU4MnVDYUotZ1l6ZFR1NEpoUi1Yd3dHUnZGQk1oMEVzaW5YREhYa3FldjRDUkE3VFJTVlprTC1hVHZlME9CdFNoTUFVNXFNSDNIcTVHR3FyMFpLQmNvUTZhOWF5TjRRTUF6cnN0LXdUTlVrYnJxV1lNMWZtVUhFejJMVEVnYTBXaFh6aEdyUWpINEZuYjRCd2U?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261002T203511Z",
+          "seen": "20261004T014400Z",
           "pinned": false
         },
         {
-          "title": "Pakistani airstrikes in Afghanistan kill 10 civilians, Kabul and UN say",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ1E2RHdSQUs2TmdGXzdPbXZYY0hQX0JYMHNZbmJ4WXFYNVBLRVdGRWdtZVZHd2N1cDMyM2lkZnNYTWE5MDVmUkJTMTBHOWR4dFdhVUdGemQ0RzZ5R1dva0RUOGREY0RrLWlENEZnNUwzYkx0YW1kNEhZUFV3aG9YcnNtTmU5ZjBEOC1TN25aSGZIaWpaR3RXV2YtQ1dNcTFob296UHQ0UHNYLTlnSkNxUjlZRk13R29hODVwR05rZWFMV3RM?oc=5",
+          "title": "Doctors warn about the risks energy drinks pose to kids. What families need to know",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRHkxU0ZIS3EyR0p4U3JnckNmX2lzQlc0aGdpcXBWTFlHTy1HZHVKcC10TExJUU55WkJZRW9hTlZOa3lTa2U0U1NZNmk2YlJ5aDc0Zndhdl9waDQ1RVhWRElRc25vVm54ZUUzWE53bjR5Y0FnYzZRRWxlS1laanVrVW9telFLcmRqZFBhMXdEZzJlODF6WldsckpST3ZaN0d6TW9UdDRjMA?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261001T123200Z",
+          "seen": "20261003T120500Z",
           "pinned": false
         }
       ],
@@ -1945,6 +1945,24 @@
           "reportedAt": "2026-10-02T16:08:25Z"
         },
         {
+          "id": "report-d78b1182a72a",
+          "title": "Yemen’s army says targets Houthis in hundreds of strikes, killing 700",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS2JvMzdKWGlzOXIzVTV3Y2E0ajEza2kzSE5icF9wWGJrTC1Sc051Y3JYNEVQZlo5YmVIZS0zcnZ6b3Y5Q0E4dTQ1SFJ6YTQwOWdoYmlUSDNBTjd6Z3RrQ195Sk12akk0UHludWJMZk12ZWgzUUphOVdrRU50bVpnMjh4VEJpN2xkWThvdlJvWHZtd3JSZmN5d0tUZ2RCRWpRak4xSdIBqgFBVV95cUxQMXRObHY1T2JOSWZQMFZ5STlNMHZyYzc3MmFhQV9RaDRWLVdJTy1KLXNLckY4cXVqSm5QWnJqcHdWaWxBckZzU2JKNHRBV0ZzS3VPZklOUTVUNkg4UlU4c0pCTWtLcDhwbHl4c3ZfWWlWU3R4blZaTFVnZ0hOZElILXYyRzZldGpjY3NCZDZXU2VuVWJGN0pmd05tWm1jUTd6WTBMeW5Xb0c0UQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-04T09:00:00Z"
+        },
+        {
+          "id": "report-83021e39b7de",
+          "title": "Japan calls for 'momentum for diplomacy' to end US-Iran war",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVzhJMEE4VEtOVGM1SGF0SF9FYmg1ZGd6R19rVEo4TVBzYnY5UnVua1ZMaWlBVHNmbjF0TUVlLTZyV0hmWnFmcVphbU9wQkNUTVJUVnkyZHFuSGRvMXl0aUNkNWxfQXRCTzV2ZTExVjlXVWI5RXJsaGJjbFZxUFM4aXFRWUwtQXVnTHFLaUhSZUYtcndQSHBXRGN0NEFDZDlpM2ZGZmpR?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-10-01T14:01:07Z"
+        },
+        {
           "id": "report-a97e5f4e3b4c",
           "title": "Explosions heard in Ethiopia's capital after drone flights banned",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hVnVmZjA2MDh5VnVFX1dhcnJhVnhPUkRhM0RWM3huODlZN3VfNGtSMTJpNlAyMkFtbjhWN1JvYzZIekdYdlY3UENoQUpQTFlLc2tzOWpUQWozZGM?oc=5",
@@ -1979,15 +1997,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-10-01T16:44:58Z"
-        },
-        {
-          "id": "report-d78b1182a72a",
-          "title": "Yemen’s army says targets Houthis in hundreds of strikes, killing 700",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS2JvMzdKWGlzOXIzVTV3Y2E0ajEza2kzSE5icF9wWGJrTC1Sc051Y3JYNEVQZlo5YmVIZS0zcnZ6b3Y5Q0E4dTQ1SFJ6YTQwOWdoYmlUSDNBTjd6Z3RrQ195Sk12akk0UHludWJMZk12ZWgzUUphOVdrRU50bVpnMjh4VEJpN2xkWThvdlJvWHZtd3JSZmN5d0tUZ2RCRWpRak4xSdIBqgFBVV95cUxQMXRObHY1T2JOSWZQMFZ5STlNMHZyYzc3MmFhQV9RaDRWLVdJTy1KLXNLckY4cXVqSm5QWnJqcHdWaWxBckZzU2JKNHRBV0ZzS3VPZklOUTVUNkg4UlU4c0pCTWtLcDhwbHl4c3ZfWWlWU3R4blZaTFVnZ0hOZElILXYyRzZldGpjY3NCZDZXU2VuVWJGN0pmd05tWm1jUTd6WTBMeW5Xb0c0UQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-04T03:00:00Z"
         },
         {
           "id": "report-5a8f8343cab3",
@@ -2032,7 +2041,7 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-04T03:11:15Z"
+          "reportedAt": "2026-10-04T09:11:15Z"
         },
         {
           "id": "report-e50100d64504",
@@ -2042,15 +2051,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-10-02T10:05:29Z"
-        },
-        {
-          "id": "report-01221e32156a",
-          "title": "Russian drone hits school in Ukraine’s Kyiv as Moscow presses air assault",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORFFFOG8xYWlMY1h6QVJSTTROMkRDSjNOQ21UbVZqRDN3MmF5dWxQNy1uZEVHMzN5bWdpUC1PclBtZS1iQjdYbkF5bEVGUW1HQlowUVFyNlhwd0NxZzc1NXhEN0FPQzkwN0lQcGQ1azJQSkJIWFhjcGZDSm5DdWNsVkltZWctTVBZSUwxQUJocnIzanZNYmxYdGZXLUJOOGFXaXB3b0F5TjJFMmcycVlXcGY1MNIBuAFBVV95cUxPNmhDNU42eGNtZ010NzdqZjFCNlFXMWF2b25rR0VFMHdEY1Zpbk9JUjZWc21iTFFTZDVnQjdIdU93LTl0d0E5b21HeC1UZVZkdUVUY2FjUFdrazN2RHE3cVpzWUFsR0JhUkhEOXdOSVpDeUlsUDlsMlVLZUlzQk1IbmxibGk5eFNiLU9NNTl5Ym9JTG5IdnpZSk9iRkhKUF9oSVI2Wjk3NnBveWdITHY4b25CRFpjWGgw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-01T13:14:49Z"
         },
         {
           "id": "report-78fad4e9ba8f",
@@ -2107,22 +2107,22 @@
           "reportedAt": "2026-10-03T14:54:00Z"
         },
         {
-          "id": "report-bea3e6be0834",
-          "title": "Putin observes military drills in the Urals involving troops from China and other nations",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeERWYWZpcFhOdzhrOFBIZjlWNmJKT0J2ejhnRWpsU1dfVV9MQVlKLXJYdUkzcElHeUtiVjlaYkdPZ1gyVTEwZ2VESGlwbTc1NERjUFFsZVJ6T1NKd09vbGNCTzRRTnNWd3cxNWdPaF9Bc2d6YkZyaDlhZ2M0OG50RkJHOFd6S2xqdjdqLVV4N0daSnBoX21pTEZuRXNIUlFvYk5aNkF1Zw?oc=5",
+          "id": "report-2a4f9119c9f6",
+          "title": "South Korean golfer Tom Kim receives a military exemption with a gold medal at the Asian Games",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRDE1MEU4MnVDYUotZ1l6ZFR1NEpoUi1Yd3dHUnZGQk1oMEVzaW5YREhYa3FldjRDUkE3VFJTVlprTC1hVHZlME9CdFNoTUFVNXFNSDNIcTVHR3FyMFpLQmNvUTZhOWF5TjRRTUF6cnN0LXdUTlVrYnJxV1lNMWZtVUhFejJMVEVnYTBXaFh6aEdyUWpINEZuYjRCd2U?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-02T20:35:11Z"
+          "reportedAt": "2026-10-04T01:44:00Z"
         },
         {
-          "id": "report-4e99a824d630",
-          "title": "Pakistani airstrikes in Afghanistan kill 10 civilians, Kabul and UN say",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ1E2RHdSQUs2TmdGXzdPbXZYY0hQX0JYMHNZbmJ4WXFYNVBLRVdGRWdtZVZHd2N1cDMyM2lkZnNYTWE5MDVmUkJTMTBHOWR4dFdhVUdGemQ0RzZ5R1dva0RUOGREY0RrLWlENEZnNUwzYkx0YW1kNEhZUFV3aG9YcnNtTmU5ZjBEOC1TN25aSGZIaWpaR3RXV2YtQ1dNcTFob296UHQ0UHNYLTlnSkNxUjlZRk13R29hODVwR05rZWFMV3RM?oc=5",
+          "id": "report-5e4a34c4e706",
+          "title": "Doctors warn about the risks energy drinks pose to kids. What families need to know",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRHkxU0ZIS3EyR0p4U3JnckNmX2lzQlc0aGdpcXBWTFlHTy1HZHVKcC10TExJUU55WkJZRW9hTlZOa3lTa2U0U1NZNmk2YlJ5aDc0Zndhdl9waDQ1RVhWRElRc25vVm54ZUUzWE53bjR5Y0FnYzZRRWxlS1laanVrVW9telFLcmRqZFBhMXdEZzJlODF6WldsckpST3ZaN0d6TW9UdDRjMA?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-01T12:32:00Z"
+          "reportedAt": "2026-10-03T12:05:00Z"
         },
         {
           "id": "report-08921cccc3c9",
