@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T21:24:04.532Z",
+  "generatedAt": "2026-10-05T05:38:17.365Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-10-04T21:24:04.532Z",
+      "generatedAt": "2026-10-05T05:38:17.365Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -1815,7 +1815,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-10-04T21:24:04.532Z",
+      "generatedAt": "2026-10-05T05:38:17.365Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -1832,6 +1832,14 @@
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20261002T152928Z",
+          "pinned": false
+        },
+        {
+          "title": "Four African leaders issue joint declaration as Ethiopia war escalates",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZ3d3Q1ZtbjZMVVdRZ2NuZnZCZ0NTZzlWOVhSN09feDF3cFN0blFsUm40Rk5vaGx6aWYwUnlHaEpIRHhTY0NDNGFydzRXbVRRVTRPWThiWGRNVG55WGJxdGVMXzFxSWRiYVVlRGp1dnRIZjE4ZjljTGNUdXR3NjV4TlR4RDA1VHUwdFg3Z01IR2tlLV9BSFZtV2tEc0ZuMWNnUTBmTVJpV05ncThjZzhKVNIBtgFBVV95cUxQaVNpZ1pMT3NTWGQtRDhtZE1GUHZBSlRMeXVDanlLNktCU2ZWUWtlQ3A3V1E5VVJOdVJZR0E0YUZjemQwVnBFNFJ5dDhFaDVpZGNBd182Vmw2NHc2OG9NSzk0WXlicEc1M1JwUWVSWEFjaDNENmEzYUhVdGdFZk85dVdjQi0zY1p1emhZVXZrUkpJUHpmVEJRNVhRZG50bWdMLUItUnVnbzFqMzVSRTUtTGlXN0x2dw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261005T033235Z",
           "pinned": false
         },
         {
@@ -1871,7 +1879,7 @@
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNd1dkSG5iWTliVExWM1hEUlNIcE50UVJJUHNOcWtUYWtEMWtCMTNyazBDX0k5STJGbklaMmhldFFxWlpGbnpwbXdIbUdVRFpJMzZNZVhVYlc1SlcyUzVYX0lEbUZRNjBHUWxWN2MwRWwtQW05ZzF3YWRpZUotQk91MnB4NVFHd1VpaTVVRW1aOHFkSEVzczhiRUk1MkJDZ3ZzVU5aWU9kY3k0R29I0gGyAUFVX3lxTE9JRThwaEFjZGpLZDFkTnVnT044RU1rcmRhREhaTmtTeTdOMkJwMnZ5M3dqdXRFV1p0U2lGU2JTa09QYXUtTkkzdldNTUhWbHBGeHNNQTRFNk1mNGM5Uk8tblh2U0NBZFFfZHB2X2dGQ2RDa2VDWGZoODJvZ3M0QUthZ25VcjExcnFxNXAzanpPUlNicG9aWkxiQTV5S01TcU15T1NQUVNDZktuYjJJZ3IzaUE?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261004T195627Z",
+          "seen": "20261004T231234Z",
           "pinned": false
         },
         {
@@ -1879,15 +1887,7 @@
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQkpyTExGanRuUDljTW85VnZfN3FiRV9sWUVVanlIX0xMYjBtYXZlN0dRU21VbnBpU2ZYVVVGcFJ6SUllMkFOelkwVGJESWdQNDdObTNzMllrcF9VUlZIeXRDTERQd1ZhWllfaW5SQTBLSEtVMDNDSFdiYmlSNWtvTU5uUWJvMlVZelViNUZaTzVUdHRvblRSVEFxRWpkeFBNYWlWSVNrYkhGUGZFTHfSAbMBQVVfeXFMTndkdmRXaEU0aFFNbm5TWVJqVFROUnhRdWFJQWEycmxDNFIzMUhMbjZvSmtIUVZrSUo2MXZXR3JsOU81cjlTOFRjU0lZWk0zMkh1dElEcmo0OWZJQnpXRlZLanpBNFRvQ0Z5eDhTbDRwb0R0QjBlZVFjcWNKUEVhM1k1dWxiblZwNDYzSUhGbF84RGNoUmJ2QnVjelQ2ODViNkVhWldHR1VUejV3a2dOc21ibkE?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261004T181906Z",
-          "pinned": false
-        },
-        {
-          "title": "Russia’s Putin rules out ceasefire with Ukraine during speech in Moscow",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa002bkkxQ2Z3VlpLMnhIRGtmMndKVDNrXzJab25KOGozel92VjVwMllkTnJyVHVIMlNhbzZBeEFMRTR1a1FGZngyRGJXT0FqTWg0dEw0R1I1M21mU1dXcmhULTFPb2dFR2xXRjIwRExYMUFkMnh6ZWlXY2tkakh1SzNCRDRHVlVXMkVJRGhOZlJtTFA3ZXdPSmwzX3RMOGFEc0xrSVZ0RlVFT3lUQzhwdtIBtgFBVV95cUxQdFdiOVVaYm1kUmpldGk3V0tCdS1NZ04yZEZyaWR0aUtJb09ZWEhoTWZCN05oOVhHbU5NeHJiVlBybi1ubkRqMkVVUnRiY2QtZlFHVnd0bkVkOHU0R1g3bkNfcVhwdnBubFo0ajdSZGxXcmNZbWh5YUVBNnNwTC14RFJtZ1FzNW5mVGo3WnR3eGhmMVhRSXFQSURSWHF4UlBsX2ZsUElhcWlVUl90RTVpc0o4MkUwUQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261001T213910Z",
+          "seen": "20261005T033235Z",
           "pinned": false
         },
         {
@@ -1899,35 +1899,11 @@
           "pinned": false
         },
         {
-          "title": "Trump says 'some' munitions are low as Iran war grinds on",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwYS1GSHBLV1Z4UzhiT0FhRkNKNk9jZXRmUDJxS1pXM1RrMkEySXQwdHdNMm9vUWlWT0NST3d0Q3paa2J4NHRaYkQtTHJWRy1HS1NPNmlPckFCR0k?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261001T160207Z",
-          "pinned": false
-        },
-        {
-          "title": "Israel planned ‘false flag’ aircraft hijacking to draw US into new war with Iran: Report",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORWVSSzczcnZrM3lIOU9JZXdadGhmdmhlVEVkR0k4cjVuX2I3TEtPMUlodkZxcGZ5N2NFS0ZPQkpfWU9Rb1N5NnFvNDhfbTFzSUg2LWZydXFGNEJLaTh5RHdvQWFpU2hOMVpQaDlNb1FFVnRlNjNvcmJMMHNYMzRwNmJ1eXBmSDJHQk11aFVsS3AxQXRTTkF6UU04dHhfcmNPbFAyMjR2V0NnbTVfU3BDRHFUcFVjMXhZejNWbG9CT2RraFQ0VGpaNEVR?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "seen": "20261001T234646Z",
-          "pinned": false
-        },
-        {
           "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1S3VtSWZ3NlhJNDBjQS1zZDF3aGNNNzNrZXU0N2RPRFhvSGFVcndyMTJpczA2LUNuV2pwM1B2bW9IaDRfZEdXSFJxamdDWjU5WWR0MUZTcGppbjQ?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20261002T030913Z",
-          "pinned": false
-        },
-        {
-          "title": "Palestinians bury remains of 105 people killed in Israeli attack on Gaza",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONjV0cGFZUWkzQkw0bkVteTJtTnMzZDQwZTZucXgzeE5odFJ3clE1SnY5cUFJOTNsOW5FS3RrSDZxMUV6VHdFMGlXcThVaFBmRDZXdW5RRmNsU0h1d3UzUEpjTGEycmV5U016eEJ5WUxCVDZaMzluSVlSZTh5aDV1d0dINGhiQ3h5X3d3REFDeVpuWWNoVDNicTFDWkVDZnk4by1uQ1dmZlgxRnRHWlk0MS1YZEoyc2_SAbwBQVVfeXFMT1pCdzhnWDJpeFlnbWZkZ1M1Y1Rxc2N0YmlEb2wwZGd0RUN1X2p2ZmhBdlBKUTJzVFNHbHZ0b3lORHp2SU9vY19nUlBMc205S2VNeEd5QzVDcFJXWmNRQVBLSlFHZDdGNlkydmlzTzVsRmNMU0UwQ180QUdUMnFKNF9sM0djdGYzdnMxRTNzSnlRQjNlak1hUEtGQzAwVlAxU25ZbGd6OV9VWExjaWRQMDZ4MmQ1RldKYzFNV0U?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261001T140951Z",
           "pinned": false
         },
         {
@@ -1947,6 +1923,14 @@
           "pinned": false
         },
         {
+          "title": "Houthis claim strike on Aramco site as Yemen fighting intensifies",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONmY5RE5ILWt6MWtRZTJBS2VXVzdQdERuNHZFbk9PVHVuZFNfTVhjdm1yTWdUSTR0Q0xlNTN2eGhOUkE2WThVcXdDZ1pEcDAtQWJWWUFQbUM2RE9pbmtCa2lfM2t2RUxxVF9kUkJxd0htRjA0aXprc0NEQWZlNHVQTWpPVDdPNDVmZ25sNXFISGhaa0MxdEJzNEQxekE1ZVRoZWFkVEZsOElNR1g1amRXRFdkZm85RnPSAbwBQVVfeXFMUHdUakUzMklBc1VSRGZwMXN1X2M1NVg3b1dmUFZ5aXUtX2tmbW84UHNSckw2TlBmS1pXdmx1VE4tclZ6cGpSSFU1WTZRRmg3c3V2N3lYME1BRmUwa0RHZS1rd1BINkowa0xrMHNReUxXdmZyRzduTkN0TTlpVWV4c0p2Um5uWHRlNG14b0MwNF8zd2JTMHppaHlnN0tHMWJJTlhKMTltOE5MN0ktQVdoNGhRekg1RmhoVVBrdGM?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261005T024023Z",
+          "pinned": false
+        },
+        {
           "title": "Ethiopian government troops seize Tigray’s capital Mekelle",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZTZ5aXZwRWxZYk5TREwyb2UxbGpTeXczSzRLSmM3NktIT1FtbVc2Qy1xX2ZGZnNMTFQ1UFNZM09NNDY5bFRJaDlnSEZHRDlPTWRtNmp5WWN4RU1Sdkl2a0J6YnRiN2NwLU9raHJkM1IxdjZ1cGFzNndyV2tVdUM3TG5maFJVbF9pRWpBUWdMdmJ1RVZ6aGRyVWdyVGtXQm9KSFVLOUlVM0Z1Y2FI0gGyAUFVX3lxTE42OGpqUVNlNjFaVFhCZ21QRmp4RzlRNjhzNGdnZlFVSU80MTlka0o3NWRLdXRERFBzWUNONUdaNjM3OEdtZ3c5TkN5bF9iR2dlZHMtRmxYaFE4Y3gzTEFnUG5kbzRjLUNWcl9zXzZ3ZU4tZUxmaG90OU5uZG9JVFJIZ3FSNDlUYmVBQVVleW5WcGFLNWdMV2pVRnJPX1NfV3BhdmYtSEZKN2RkYXFCT3pQT1E?oc=5",
           "domain": "aljazeera.com",
@@ -1955,35 +1939,19 @@
           "pinned": false
         },
         {
-          "title": "Houthis claim strike on Aramco site as Yemen fighting intensifies",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONmY5RE5ILWt6MWtRZTJBS2VXVzdQdERuNHZFbk9PVHVuZFNfTVhjdm1yTWdUSTR0Q0xlNTN2eGhOUkE2WThVcXdDZ1pEcDAtQWJWWUFQbUM2RE9pbmtCa2lfM2t2RUxxVF9kUkJxd0htRjA0aXprc0NEQWZlNHVQTWpPVDdPNDVmZ25sNXFISGhaa0MxdEJzNEQxekE1ZVRoZWFkVEZsOElNR1g1amRXRFdkZm85RnPSAbwBQVVfeXFMUHdUakUzMklBc1VSRGZwMXN1X2M1NVg3b1dmUFZ5aXUtX2tmbW84UHNSckw2TlBmS1pXdmx1VE4tclZ6cGpSSFU1WTZRRmg3c3V2N3lYME1BRmUwa0RHZS1rd1BINkowa0xrMHNReUxXdmZyRzduTkN0TTlpVWV4c0p2Um5uWHRlNG14b0MwNF8zd2JTMHppaHlnN0tHMWJJTlhKMTltOE5MN0ktQVdoNGhRekg1RmhoVVBrdGM?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261004T182842Z",
+          "title": "US preparing to send additional troops, aircraft to Israel: Report",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNnRVWi1vSjN1NmRXbkFOOFd0aHdBQkx6ZmQ0WmZtYkR2cVAtcG9XcVhjN1VlRzFBTnJtVnEybk9SbzkzU0YzelY1dzQ2TEdfUXF5WUM0UWhKZWhCeHZUYU02elRmbEhXWEVtMXc0dGQ4UWtYV3k0cUd6LTdZTmdscGJxT0V0SHhOcm9Hclk4dlVybnl2Y1JUakU2bTdkNW1xWEcxY0lIdGpnZw?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20261004T214807Z",
           "pinned": false
         },
         {
-          "title": "Israeli drone kills Palestinian in Gaza, settlers kill another in West Bank",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeGFRdGtCclV6dFhET2xDOE51MEhsUnhVT05Mb2Q3UDBLbXE1QkN3NXZwZkQtREM0ZEExck1wdWZnN0hoNTNlRXQ4WlRzcGxEdGZTeGdVVHc0YzNtRFl4SG5pZWVUWjZpYlR3WlpkbkNJeGZsTEhfcmF5MkxqZUdRWDh4YmF6Q0c2NmJPRExtQlE0SVAydjBUbm5VYW5YdF9hQ1FHbi0xaTBLSE9jNXhxTk4teEN6QdIBuwFBVV95cUxPU202RUp1TGxWVXJEZ3dpVWN5eHI0a0g5VWxkeUZ5YmxRejM5dzEzckNLSHlGQnpNa2hRV3NNWXNCekVIdFVCZHRlelJNUXJGVGRORkJuM1J3LWxMd1J3NWpIU0h6aGZrX1ZmUXk5VzdvYjE5SVBIMG5xd001REh6VHVnTHV1M2hQRkpqYVY0V2xQTnRFdmJlSTktcjhHVXRTQVNwdk5Cd1ZvaEpObnltVHUyVllrNmJnNFNz?oc=5",
+          "title": "Nearly 1,500 migrants arrive in Myanmar from Malaysia despite UN warnings",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbkxQVk5PRlNDYVZPRUpVOXYzWW1obEQyT0lxOGVjR21yRl94aWhub2JyRXlORWVZZUJwMWdzMFdJd3I0MG5qOXhCMjI1OEdJNjZ1YTRpSFpOeDZCRU5tVFN1LU55MEp1WjQtcGdLbDNKUmZsM1plWm9DamNoQ0pKbDJVX0hmOTlvaFc0aUVVQ2hiZWMzNFNnd0M0YUVZLUk4RXg1QlJNRzBNQWI5eDJ1b2tTb9IBuAFBVV95cUxPTFFYNGI2cmttQVo5NHgyX29iOWhRUi1fbXhQM29Pb0Y4SGt5TFdfWFF6LWpiVlJ2SnpJbzl5ZkpfcVhpcklmOE5JQkFxUUVzZGE3QzgyQU9GbmN5ZnBkUHE4NGgyWk5ReVd3N0FnTTR3NzJYSzNWLTB4N0VoQ3FPNlRXQkpyMkhZbHJOd1hnUVdhOGlyQUI4aVU5YUZCVE9vak9fV2dBd3ZqLU5vbE93M3J1SERIX1hB?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261001T234931Z",
-          "pinned": false
-        },
-        {
-          "title": "Third aircraft carrier and thousands of troops head to Mideast as Trump weighs new Iran strikes",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSmdWd1lfdkFiLU91NUFSVjhlQm55UFU5Q0NGT2dwb0d5TWNXbDE1R2IxcXl0dDJtdFAwUWFFNTUtTUdYMnlldkJfVG5RY0xDMW5iVTJObDRQRy1CemQydkpjRHJuZmN0OWNMelcwYjhtX1licUZZTEt1ZU5ORzNBRU1SeExvRmNRVGhNWGtJeFRhME4tbVFsMUVmWm9JRjhWZEpqMlJn?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261001T200300Z",
-          "pinned": false
-        },
-        {
-          "title": "Air strike in Sudan kills UN aid truck driver: WFP",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcGdJY0RKM21uSVQyekE0cDNYOXUwbWpobXlzU3dROTFUbFBIVmdTM3FpMHJWcWo0QU1yTkMzNGkyRFBTa2UtOHF6dmRxVDRSUjlyVlpfUWxLcmtXd2VCVUk4WnBuQzN2bXFQYUY0YXEtb1Y4NkNBR1dPZ0VzSVpQSUhIbEdCbmdrc1RuckdFMElPTUMt0gGaAUFVX3lxTE5IaTlGS3RpX2hELUt6SWlraEtLd2lEZUN6RTFidlNPS2k2bE9nVG5iTk1qOTdna1ZSZUtiZTYtU1lfWENhdXd2R3JkbjN5QndOUm5LNlEtcU1sNUo3NkUxRVZsLTVNM1hrbVpmcDNqNDRfOWY4bG15RkYtSUNvWWg3UlJYZjF3Uk5jTXliNDhRMWVjOGVLSjVneFE?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261004T191950Z",
+          "seen": "20261005T042914Z",
           "pinned": false
         },
         {
@@ -1999,7 +1967,7 @@
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSW9xR0xYUHQ3OE8xMk1yRl8zSFNHQ1Zwd05Ob2dQeWNTLTFJb3FEWEF4SXo1X3NhRWlfamstU2puVzFXQzBXX2ZrSk9tN3BtNjk5eW9yU2phekV0SEo1RjktSU5CZWRrNllpRDl3WFlheV9oZ2pNckx6NEJuZ1VKam5rRlJSbXZTY01xZVVyTklqRFlidDhibWZRRQ?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261004T080221Z",
+          "seen": "20261004T163900Z",
           "pinned": false
         },
         {
@@ -2008,6 +1976,30 @@
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "seen": "20261003T145400Z",
+          "pinned": false
+        },
+        {
+          "title": "Photos show Indigenous Ghanaians commemorating 200th anniversary of military victory over Ashanti Empire",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOREFFOWRnZFpVeklZUEcyUURuelVvd0UzRVJpQUJqVlFjQVQwbXJ4dHlhUlNRMDdUSXR0TEU4cVNIWEUxYTVRZ20ybjdBeVh5eGRjY2xDd0M2Z2wwZkUtblh6NHYzbUo0NkVEMmRVUTVaWklhdTYwVnRfT1ZWZ0lnTXJxdnZaQXpfam9zSE5VdmhseHU1ek1LSmgtUEY2Ym1heFAwOU1Da2QxU0J6MDJ0bzhjakUzZzNrNTQ5MThJVTBFcGNFTFFYWW1DdnJ6QU51bzVUdEw5S2RfeklfR1hLZl9LOW14V25zMlFyUUFnYmx0SVFlNGc?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261004T122605Z",
+          "pinned": false
+        },
+        {
+          "title": "US Air Force removes all bombers from British air base targeted by a suspected terror attack",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVGp4WkdsREwtMEJNa255Vk13UFdFMG1aRGY2UTR0U29vQmN2TkFpb1cxT3g0QzVCUWh3NzNqV1VBb3p2YWxrLVZWWE5kQUtXbWtacmJrQjZSLS1sd0tObjhFY0xQSFR2RHlCbk45ZE1xNC0tbzZXMGp2ODBqV0kzazlfdWRqaHBYZDc1U2lB?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261004T215600Z",
+          "pinned": false
+        },
+        {
+          "title": "Conflict in Yemen and the Red Sea | Global Conflict Tracker",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1wLVlLT0hRb1JoS2NYWXdlLWtBdlJHVjBfUFMzLW04cU9ENTE3VVlwUW5IdHRqdDhfTmFqZ1FiRnBRcDU3a3NUajF4Ny1Wb1UxN2lqR091Q1BETVNSZm5maTVEeGhLM3VySUZuRVc5Yw?oc=5",
+          "domain": "cfr.org",
+          "sourceTier": "Structured / analytic",
+          "seen": "20261002T022100Z",
           "pinned": false
         }
       ],
@@ -2029,6 +2021,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-10-02T15:29:28Z"
+        },
+        {
+          "id": "report-ed801430381b",
+          "title": "Four African leaders issue joint declaration as Ethiopia war escalates",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZ3d3Q1ZtbjZMVVdRZ2NuZnZCZ0NTZzlWOVhSN09feDF3cFN0blFsUm40Rk5vaGx6aWYwUnlHaEpIRHhTY0NDNGFydzRXbVRRVTRPWThiWGRNVG55WGJxdGVMXzFxSWRiYVVlRGp1dnRIZjE4ZjljTGNUdXR3NjV4TlR4RDA1VHUwdFg3Z01IR2tlLV9BSFZtV2tEc0ZuMWNnUTBmTVJpV05ncThjZzhKVNIBtgFBVV95cUxQaVNpZ1pMT3NTWGQtRDhtZE1GUHZBSlRMeXVDanlLNktCU2ZWUWtlQ3A3V1E5VVJOdVJZR0E0YUZjemQwVnBFNFJ5dDhFaDVpZGNBd182Vmw2NHc2OG9NSzk0WXlicEc1M1JwUWVSWEFjaDNENmEzYUhVdGdFZk85dVdjQi0zY1p1emhZVXZrUkpJUHpmVEJRNVhRZG50bWdMLUItUnVnbzFqMzVSRTUtTGlXN0x2dw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-05T03:32:35Z"
         },
         {
           "id": "report-22dd8a9b0e43",
@@ -2073,7 +2074,7 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-04T19:56:27Z"
+          "reportedAt": "2026-10-04T23:12:34Z"
         },
         {
           "id": "report-a28dcd72ed88",
@@ -2082,16 +2083,7 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-04T18:19:06Z"
-        },
-        {
-          "id": "report-1113fb32233d",
-          "title": "Russia’s Putin rules out ceasefire with Ukraine during speech in Moscow",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa002bkkxQ2Z3VlpLMnhIRGtmMndKVDNrXzJab25KOGozel92VjVwMllkTnJyVHVIMlNhbzZBeEFMRTR1a1FGZngyRGJXT0FqTWg0dEw0R1I1M21mU1dXcmhULTFPb2dFR2xXRjIwRExYMUFkMnh6ZWlXY2tkakh1SzNCRDRHVlVXMkVJRGhOZlJtTFA3ZXdPSmwzX3RMOGFEc0xrSVZ0RlVFT3lUQzhwdtIBtgFBVV95cUxQdFdiOVVaYm1kUmpldGk3V0tCdS1NZ04yZEZyaWR0aUtJb09ZWEhoTWZCN05oOVhHbU5NeHJiVlBybi1ubkRqMkVVUnRiY2QtZlFHVnd0bkVkOHU0R1g3bkNfcVhwdnBubFo0ajdSZGxXcmNZbWh5YUVBNnNwTC14RFJtZ1FzNW5mVGo3WnR3eGhmMVhRSXFQSURSWHF4UlBsX2ZsUElhcWlVUl90RTVpc0o4MkUwUQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-01T21:39:10Z"
+          "reportedAt": "2026-10-05T03:32:35Z"
         },
         {
           "id": "report-a9a8c5f62bd5",
@@ -2103,24 +2095,6 @@
           "reportedAt": "2026-10-02T21:57:11Z"
         },
         {
-          "id": "report-5a8f8343cab3",
-          "title": "Trump says 'some' munitions are low as Iran war grinds on",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwYS1GSHBLV1Z4UzhiT0FhRkNKNk9jZXRmUDJxS1pXM1RrMkEySXQwdHdNMm9vUWlWT0NST3d0Q3paa2J4NHRaYkQtTHJWRy1HS1NPNmlPckFCR0k?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-01T16:02:07Z"
-        },
-        {
-          "id": "report-c3541fb4ba36",
-          "title": "Israel planned ‘false flag’ aircraft hijacking to draw US into new war with Iran: Report",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORWVSSzczcnZrM3lIOU9JZXdadGhmdmhlVEVkR0k4cjVuX2I3TEtPMUlodkZxcGZ5N2NFS0ZPQkpfWU9Rb1N5NnFvNDhfbTFzSUg2LWZydXFGNEJLaTh5RHdvQWFpU2hOMVpQaDlNb1FFVnRlNjNvcmJMMHNYMzRwNmJ1eXBmSDJHQk11aFVsS3AxQXRTTkF6UU04dHhfcmNPbFAyMjR2V0NnbTVfU3BDRHFUcFVjMXhZejNWbG9CT2RraFQ0VGpaNEVR?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
-          "reportedAt": "2026-10-01T23:46:46Z"
-        },
-        {
           "id": "report-3f7573132330",
           "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1S3VtSWZ3NlhJNDBjQS1zZDF3aGNNNzNrZXU0N2RPRFhvSGFVcndyMTJpczA2LUNuV2pwM1B2bW9IaDRfZEdXSFJxamdDWjU5WWR0MUZTcGppbjQ?oc=5",
@@ -2128,15 +2102,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-10-02T03:09:13Z"
-        },
-        {
-          "id": "report-1c7a359502ec",
-          "title": "Palestinians bury remains of 105 people killed in Israeli attack on Gaza",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONjV0cGFZUWkzQkw0bkVteTJtTnMzZDQwZTZucXgzeE5odFJ3clE1SnY5cUFJOTNsOW5FS3RrSDZxMUV6VHdFMGlXcThVaFBmRDZXdW5RRmNsU0h1d3UzUEpjTGEycmV5U016eEJ5WUxCVDZaMzluSVlSZTh5aDV1d0dINGhiQ3h5X3d3REFDeVpuWWNoVDNicTFDWkVDZnk4by1uQ1dmZlgxRnRHWlk0MS1YZEoyc2_SAbwBQVVfeXFMT1pCdzhnWDJpeFlnbWZkZ1M1Y1Rxc2N0YmlEb2wwZGd0RUN1X2p2ZmhBdlBKUTJzVFNHbHZ0b3lORHp2SU9vY19nUlBMc205S2VNeEd5QzVDcFJXWmNRQVBLSlFHZDdGNlkydmlzTzVsRmNMU0UwQ180QUdUMnFKNF9sM0djdGYzdnMxRTNzSnlRQjNlak1hUEtGQzAwVlAxU25ZbGd6OV9VWExjaWRQMDZ4MmQ1RldKYzFNV0U?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-01T14:09:51Z"
         },
         {
           "id": "report-7370bfee6eb6",
@@ -2157,6 +2122,15 @@
           "reportedAt": "2026-10-02T10:05:29Z"
         },
         {
+          "id": "report-1ab715029252",
+          "title": "Houthis claim strike on Aramco site as Yemen fighting intensifies",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONmY5RE5ILWt6MWtRZTJBS2VXVzdQdERuNHZFbk9PVHVuZFNfTVhjdm1yTWdUSTR0Q0xlNTN2eGhOUkE2WThVcXdDZ1pEcDAtQWJWWUFQbUM2RE9pbmtCa2lfM2t2RUxxVF9kUkJxd0htRjA0aXprc0NEQWZlNHVQTWpPVDdPNDVmZ25sNXFISGhaa0MxdEJzNEQxekE1ZVRoZWFkVEZsOElNR1g1amRXRFdkZm85RnPSAbwBQVVfeXFMUHdUakUzMklBc1VSRGZwMXN1X2M1NVg3b1dmUFZ5aXUtX2tmbW84UHNSckw2TlBmS1pXdmx1VE4tclZ6cGpSSFU1WTZRRmg3c3V2N3lYME1BRmUwa0RHZS1rd1BINkowa0xrMHNReUxXdmZyRzduTkN0TTlpVWV4c0p2Um5uWHRlNG14b0MwNF8zd2JTMHppaHlnN0tHMWJJTlhKMTltOE5MN0ktQVdoNGhRekg1RmhoVVBrdGM?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-05T02:40:23Z"
+        },
+        {
           "id": "report-2cdaecd6fde6",
           "title": "Ethiopian government troops seize Tigray’s capital Mekelle",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZTZ5aXZwRWxZYk5TREwyb2UxbGpTeXczSzRLSmM3NktIT1FtbVc2Qy1xX2ZGZnNMTFQ1UFNZM09NNDY5bFRJaDlnSEZHRDlPTWRtNmp5WWN4RU1Sdkl2a0J6YnRiN2NwLU9raHJkM1IxdjZ1cGFzNndyV2tVdUM3TG5maFJVbF9pRWpBUWdMdmJ1RVZ6aGRyVWdyVGtXQm9KSFVLOUlVM0Z1Y2FI0gGyAUFVX3lxTE42OGpqUVNlNjFaVFhCZ21QRmp4RzlRNjhzNGdnZlFVSU80MTlka0o3NWRLdXRERFBzWUNONUdaNjM3OEdtZ3c5TkN5bF9iR2dlZHMtRmxYaFE4Y3gzTEFnUG5kbzRjLUNWcl9zXzZ3ZU4tZUxmaG90OU5uZG9JVFJIZ3FSNDlUYmVBQVVleW5WcGFLNWdMV2pVRnJPX1NfV3BhdmYtSEZKN2RkYXFCT3pQT1E?oc=5",
@@ -2166,40 +2140,22 @@
           "reportedAt": "2026-10-04T19:19:50Z"
         },
         {
-          "id": "report-1ab715029252",
-          "title": "Houthis claim strike on Aramco site as Yemen fighting intensifies",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONmY5RE5ILWt6MWtRZTJBS2VXVzdQdERuNHZFbk9PVHVuZFNfTVhjdm1yTWdUSTR0Q0xlNTN2eGhOUkE2WThVcXdDZ1pEcDAtQWJWWUFQbUM2RE9pbmtCa2lfM2t2RUxxVF9kUkJxd0htRjA0aXprc0NEQWZlNHVQTWpPVDdPNDVmZ25sNXFISGhaa0MxdEJzNEQxekE1ZVRoZWFkVEZsOElNR1g1amRXRFdkZm85RnPSAbwBQVVfeXFMUHdUakUzMklBc1VSRGZwMXN1X2M1NVg3b1dmUFZ5aXUtX2tmbW84UHNSckw2TlBmS1pXdmx1VE4tclZ6cGpSSFU1WTZRRmg3c3V2N3lYME1BRmUwa0RHZS1rd1BINkowa0xrMHNReUxXdmZyRzduTkN0TTlpVWV4c0p2Um5uWHRlNG14b0MwNF8zd2JTMHppaHlnN0tHMWJJTlhKMTltOE5MN0ktQVdoNGhRekg1RmhoVVBrdGM?oc=5",
+          "id": "report-3c7fc82a7959",
+          "title": "US preparing to send additional troops, aircraft to Israel: Report",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNnRVWi1vSjN1NmRXbkFOOFd0aHdBQkx6ZmQ0WmZtYkR2cVAtcG9XcVhjN1VlRzFBTnJtVnEybk9SbzkzU0YzelY1dzQ2TEdfUXF5WUM0UWhKZWhCeHZUYU02elRmbEhXWEVtMXc0dGQ4UWtYV3k0cUd6LTdZTmdscGJxT0V0SHhOcm9Hclk4dlVybnl2Y1JUakU2bTdkNW1xWEcxY0lIdGpnZw?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-10-04T21:48:07Z"
+        },
+        {
+          "id": "report-c609a3f88c42",
+          "title": "Nearly 1,500 migrants arrive in Myanmar from Malaysia despite UN warnings",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbkxQVk5PRlNDYVZPRUpVOXYzWW1obEQyT0lxOGVjR21yRl94aWhub2JyRXlORWVZZUJwMWdzMFdJd3I0MG5qOXhCMjI1OEdJNjZ1YTRpSFpOeDZCRU5tVFN1LU55MEp1WjQtcGdLbDNKUmZsM1plWm9DamNoQ0pKbDJVX0hmOTlvaFc0aUVVQ2hiZWMzNFNnd0M0YUVZLUk4RXg1QlJNRzBNQWI5eDJ1b2tTb9IBuAFBVV95cUxPTFFYNGI2cmttQVo5NHgyX29iOWhRUi1fbXhQM29Pb0Y4SGt5TFdfWFF6LWpiVlJ2SnpJbzl5ZkpfcVhpcklmOE5JQkFxUUVzZGE3QzgyQU9GbmN5ZnBkUHE4NGgyWk5ReVd3N0FnTTR3NzJYSzNWLTB4N0VoQ3FPNlRXQkpyMkhZbHJOd1hnUVdhOGlyQUI4aVU5YUZCVE9vak9fV2dBd3ZqLU5vbE93M3J1SERIX1hB?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-04T18:28:42Z"
-        },
-        {
-          "id": "report-89ceb5300a61",
-          "title": "Israeli drone kills Palestinian in Gaza, settlers kill another in West Bank",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeGFRdGtCclV6dFhET2xDOE51MEhsUnhVT05Mb2Q3UDBLbXE1QkN3NXZwZkQtREM0ZEExck1wdWZnN0hoNTNlRXQ4WlRzcGxEdGZTeGdVVHc0YzNtRFl4SG5pZWVUWjZpYlR3WlpkbkNJeGZsTEhfcmF5MkxqZUdRWDh4YmF6Q0c2NmJPRExtQlE0SVAydjBUbm5VYW5YdF9hQ1FHbi0xaTBLSE9jNXhxTk4teEN6QdIBuwFBVV95cUxPU202RUp1TGxWVXJEZ3dpVWN5eHI0a0g5VWxkeUZ5YmxRejM5dzEzckNLSHlGQnpNa2hRV3NNWXNCekVIdFVCZHRlelJNUXJGVGRORkJuM1J3LWxMd1J3NWpIU0h6aGZrX1ZmUXk5VzdvYjE5SVBIMG5xd001REh6VHVnTHV1M2hQRkpqYVY0V2xQTnRFdmJlSTktcjhHVXRTQVNwdk5Cd1ZvaEpObnltVHUyVllrNmJnNFNz?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-01T23:49:31Z"
-        },
-        {
-          "id": "report-5e59f42e5960",
-          "title": "Third aircraft carrier and thousands of troops head to Mideast as Trump weighs new Iran strikes",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSmdWd1lfdkFiLU91NUFSVjhlQm55UFU5Q0NGT2dwb0d5TWNXbDE1R2IxcXl0dDJtdFAwUWFFNTUtTUdYMnlldkJfVG5RY0xDMW5iVTJObDRQRy1CemQydkpjRHJuZmN0OWNMelcwYjhtX1licUZZTEt1ZU5ORzNBRU1SeExvRmNRVGhNWGtJeFRhME4tbVFsMUVmWm9JRjhWZEpqMlJn?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-01T20:03:00Z"
-        },
-        {
-          "id": "report-60c2841aa9b3",
-          "title": "Air strike in Sudan kills UN aid truck driver: WFP",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcGdJY0RKM21uSVQyekE0cDNYOXUwbWpobXlzU3dROTFUbFBIVmdTM3FpMHJWcWo0QU1yTkMzNGkyRFBTa2UtOHF6dmRxVDRSUjlyVlpfUWxLcmtXd2VCVUk4WnBuQzN2bXFQYUY0YXEtb1Y4NkNBR1dPZ0VzSVpQSUhIbEdCbmdrc1RuckdFMElPTUMt0gGaAUFVX3lxTE5IaTlGS3RpX2hELUt6SWlraEtLd2lEZUN6RTFidlNPS2k2bE9nVG5iTk1qOTdna1ZSZUtiZTYtU1lfWENhdXd2R3JkbjN5QndOUm5LNlEtcU1sNUo3NkUxRVZsLTVNM1hrbVpmcDNqNDRfOWY4bG15RkYtSUNvWWg3UlJYZjF3Uk5jTXliNDhRMWVjOGVLSjVneFE?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-04T19:19:50Z"
+          "reportedAt": "2026-10-05T04:29:14Z"
         },
         {
           "id": "report-f47d0877de16",
@@ -2217,7 +2173,7 @@
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-04T08:02:21Z"
+          "reportedAt": "2026-10-04T16:39:00Z"
         },
         {
           "id": "report-383e3ee11425",
@@ -2227,6 +2183,33 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-10-03T14:54:00Z"
+        },
+        {
+          "id": "report-d97cebc8bd8e",
+          "title": "Photos show Indigenous Ghanaians commemorating 200th anniversary of military victory over Ashanti Empire",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOREFFOWRnZFpVeklZUEcyUURuelVvd0UzRVJpQUJqVlFjQVQwbXJ4dHlhUlNRMDdUSXR0TEU4cVNIWEUxYTVRZ20ybjdBeVh5eGRjY2xDd0M2Z2wwZkUtblh6NHYzbUo0NkVEMmRVUTVaWklhdTYwVnRfT1ZWZ0lnTXJxdnZaQXpfam9zSE5VdmhseHU1ek1LSmgtUEY2Ym1heFAwOU1Da2QxU0J6MDJ0bzhjakUzZzNrNTQ5MThJVTBFcGNFTFFYWW1DdnJ6QU51bzVUdEw5S2RfeklfR1hLZl9LOW14V25zMlFyUUFnYmx0SVFlNGc?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-04T12:26:05Z"
+        },
+        {
+          "id": "report-1b9da6af8007",
+          "title": "US Air Force removes all bombers from British air base targeted by a suspected terror attack",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVGp4WkdsREwtMEJNa255Vk13UFdFMG1aRGY2UTR0U29vQmN2TkFpb1cxT3g0QzVCUWh3NzNqV1VBb3p2YWxrLVZWWE5kQUtXbWtacmJrQjZSLS1sd0tObjhFY0xQSFR2RHlCbk45ZE1xNC0tbzZXMGp2ODBqV0kzazlfdWRqaHBYZDc1U2lB?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-04T21:56:00Z"
+        },
+        {
+          "id": "report-67598f362237",
+          "title": "Conflict in Yemen and the Red Sea | Global Conflict Tracker",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1wLVlLT0hRb1JoS2NYWXdlLWtBdlJHVjBfUFMzLW04cU9ENTE3VVlwUW5IdHRqdDhfTmFqZ1FiRnBRcDU3a3NUajF4Ny1Wb1UxN2lqR091Q1BETVNSZm5maTVEeGhLM3VySUZuRVc5Yw?oc=5",
+          "domain": "cfr.org",
+          "sourceTier": "Structured / analytic",
+          "confidenceLabel": "ANALYTIC REPORT",
+          "reportedAt": "2026-10-02T02:21:00Z"
         },
         {
           "id": "report-08921cccc3c9",
