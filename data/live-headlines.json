@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-06T06:20:06.408Z",
+  "generatedAt": "2026-10-06T18:21:53.692Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-10-06T06:20:06.408Z",
+      "generatedAt": "2026-10-06T18:21:53.692Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -1815,9 +1815,17 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-10-06T06:20:06.408Z",
+      "generatedAt": "2026-10-06T18:21:53.692Z",
       "cadence": "every 6 hours",
       "items": [
+        {
+          "title": "CIA assessment warns Israel risks civil war, state collapse: Report",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZUstd1NfU1VLZWttaWVEa3RzWjVQZjBuVGNUWVVfTVotX2d5TEQ4R1VKdk4yMEdQaElRU01HTEp2ZVIxUjcyUGQ4NFg5MURSWkZaaG5vdXpkYXd6REpjamZtMEt3aTBQT3dBczZ0NXl5NEVuOVFUVnA0MTBzZFRIWGVLT05SNnZwNWs2RnlDS1UwVkJVTXh6WVhyaVhLajcwM0w3UExPZXdDWjcwcjFF?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20261006T021937Z",
+          "pinned": false
+        },
         {
           "title": "Four African leaders issue joint declaration as Ethiopia war escalates",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZ3d3Q1ZtbjZMVVdRZ2NuZnZCZ0NTZzlWOVhSN09feDF3cFN0blFsUm40Rk5vaGx6aWYwUnlHaEpIRHhTY0NDNGFydzRXbVRRVTRPWThiWGRNVG55WGJxdGVMXzFxSWRiYVVlRGp1dnRIZjE4ZjljTGNUdXR3NjV4TlR4RDA1VHUwdFg3Z01IR2tlLV9BSFZtV2tEc0ZuMWNnUTBmTVJpV05ncThjZzhKVNIBtgFBVV95cUxQaVNpZ1pMT3NTWGQtRDhtZE1GUHZBSlRMeXVDanlLNktCU2ZWUWtlQ3A3V1E5VVJOdVJZR0E0YUZjemQwVnBFNFJ5dDhFaDVpZGNBd182Vmw2NHc2OG9NSzk0WXlicEc1M1JwUWVSWEFjaDNENmEzYUhVdGdFZk85dVdjQi0zY1p1emhZVXZrUkpJUHpmVEJRNVhRZG50bWdMLUItUnVnbzFqMzVSRTUtTGlXN0x2dw?oc=5",
@@ -1831,15 +1839,7 @@
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMDdyRHphbXllR19WLS1xNmFsdDJ1OHIxb1IyQkYzLThPMXpJaDI2ZWxuMjhLS1BlRkxZZVZkX3JjRjJNUTJGMTJRY3BSRlN0bFQyWHFPdzdfUkZ6Sm8zeGdfdjZibUJmVG5Renpob3FlN21PRHBoand5cmwzVFBhX3lDNUxtYzg2MVVpbHBqb0JDWG9IQTkxVUxmcFTSAaIBQVVfeXFMUHJQMVJBN0RLaVRhQ01ya0oxZU55NnplbkU3SjB5YnJTbEhHeHBXVkZETDdwUlBDT29YWkdEbjE0TE9CdGswejl6YWk5cXRQOGJkR0FfVG5EeGNUQzBHa3lEQmFBMkZab1labHN3OG4xNnByMUpubkh3VFUyOENXc0t1TGhhTkg3VmNBdk9TeWZmaERYTHdqLUl6ZmlqUzFEM0pB?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261006T035244Z",
-          "pinned": false
-        },
-        {
-          "title": "Yemen’s army says targets Houthis in hundreds of strikes, killing 700",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS2JvMzdKWGlzOXIzVTV3Y2E0ajEza2kzSE5icF9wWGJrTC1Sc051Y3JYNEVQZlo5YmVIZS0zcnZ6b3Y5Q0E4dTQ1SFJ6YTQwOWdoYmlUSDNBTjd6Z3RrQ195Sk12akk0UHludWJMZk12ZWgzUUphOVdrRU50bVpnMjh4VEJpN2xkWThvdlJvWHZtd3JSZmN5d0tUZ2RCRWpRak4xSdIBqgFBVV95cUxQMXRObHY1T2JOSWZQMFZ5STlNMHZyYzc3MmFhQV9RaDRWLVdJTy1KLXNLckY4cXVqSm5QWnJqcHdWaWxBckZzU2JKNHRBV0ZzS3VPZklOUTVUNkg4UlU4c0pCTWtLcDhwbHl4c3ZfWWlWU3R4blZaTFVnZ0hOZElILXYyRzZldGpjY3NCZDZXU2VuVWJGN0pmd05tWm1jUTd6WTBMeW5Xb0c0UQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261003T083650Z",
+          "seen": "20261006T023824Z",
           "pinned": false
         },
         {
@@ -1852,18 +1852,34 @@
         },
         {
           "title": "African Union denies blaming Egypt for Ethiopia crisis after Cairo objects",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRXNBNkJSRS0yV3lreGVKSVN5ZGFIZi1oWXVUNHJDN0lKNF8wQW56MzBaV3lpbXpCUzBzZGJ3cEVfWWIwNFJZLTd6eWh2VEdEaEhjdnN0N2wzVkttZFJWakVWVlR0TGY3WnV3elBGZXNGdWJQbmlmVXRhckIxRW44U3ZSWUx2aVFMS3YyRFdKSERNMnBwU1JYNzFRTVlUUVUtQXVjUm9rOUstcEpTQV9r?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeHE0WFphOHVKS0RSeFFjdS1HanJlNzBEQXpaRUlOekNMQnk2b0cyMzZibU5aa1VSLXU3SFlfdjEzWEFEWElyR1lJRXhueGdIdk5xUlI4S0QyLWd1TGJudERISVpwZFdLUjBHZUJZSTZHaktHeTdkVjVlZlFJZXdEMlFzX1RlRkNPVUhSaFlJLU15RWoxbHU4Q0tIU0hZWmVTdGRaQmpuZTRxZUluYkowT01TekQ?oc=5",
           "domain": "aa.com.tr",
           "sourceTier": "State-affiliated reporting",
-          "seen": "20261005T032619Z",
+          "seen": "20261005T032544Z",
           "pinned": false
         },
         {
-          "title": "Gaza’s Christians mourn mother and daughter killed in Israeli attack",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNd1dkSG5iWTliVExWM1hEUlNIcE50UVJJUHNOcWtUYWtEMWtCMTNyazBDX0k5STJGbklaMmhldFFxWlpGbnpwbXdIbUdVRFpJMzZNZVhVYlc1SlcyUzVYX0lEbUZRNjBHUWxWN2MwRWwtQW05ZzF3YWRpZUotQk91MnB4NVFHd1VpaTVVRW1aOHFkSEVzczhiRUk1MkJDZ3ZzVU5aWU9kY3k0R29I0gGyAUFVX3lxTE9JRThwaEFjZGpLZDFkTnVnT044RU1rcmRhREhaTmtTeTdOMkJwMnZ5M3dqdXRFV1p0U2lGU2JTa09QYXUtTkkzdldNTUhWbHBGeHNNQTRFNk1mNGM5Uk8tblh2U0NBZFFfZHB2X2dGQ2RDa2VDWGZoODJvZ3M0QUthZ25VcjExcnFxNXAzanpPUlNicG9aWkxiQTV5S01TcU15T1NQUVNDZktuYjJJZ3IzaUE?oc=5",
+          "title": "Southeast Asia’s energy chiefs meet against backdrop of Iran war",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVFJTWU1kaFpvMVZzcDE0Y1J4bHNLcEpsdWhmUnhIVEdmeUV2R1JTa09rM1FXRkpXX1JkSjkzWEZuRlVHMHBLc2VYdWpUMDBfRUoySEdlSjdmS09lTnhjTi1MRFZLVmVkMVo4VUZVQ01XWnJnckFzalE2TzJxaGRwRjFVUVNpZU5QZTJkWUJxUDhOUWdKQUN5dUJPNVNVS1FOd0pUTEdCanJXT2PSAbABQVVfeXFMUGlva3RZZDk3bWVJbzNsMC1LU1ZaakZ6bTVhc01UTm04WDRuYjVVMEZrRGR6U0FRd3lDSi1XbkI3WVVnUzUxbG96ZFhnU2d6MHU5UEVxZk5ZZTZPQ3VMWV9kQ2I5bEdLVFR5c2JHNjJucVRCanNCY0hBLTJSenZRdklyX3FtbGhKRXRjY3E2bDNTY2E0OU9xb2RsSllFRV9BTGJUZHpFQzByeGNXZDJ1VmE?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261004T080258Z",
+          "seen": "20261006T071123Z",
+          "pinned": false
+        },
+        {
+          "title": "UN rights council condemns attacks on civilians in Sudan, calls for truce",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX3g0dTBFSDh0ZGlNYVRxS1E3UVVEUzc1MnlYbFdmNzc2dGJfWERwQlNFQWY4ekxCVG1UYnJvOFNPZUI3NHdmeF9xWTZiNVFuanB3Q3RySlRJRkwwVHpyOXpDVThuQkk3cnZVbWl5XzZkN0RhOEdvS3pKejJyUDMtNlBuRnpyYjZlTGpIUHYtMENaZ3FEbHRlMVVJOV9HNFhkTlE0SC00V0kxY3BUQ2dKNkF1VdIBuAFBVV95cUxPdmhiVlVMNHhyQVFENE9MNjV0TGFhMUU3dTJRX3RQaEtMaU50blpLeHJKc1NVR0ZHbF8wa0Z0aHNjTkY0UHZVZjk5d1JRaWtMVHpXdzBJVFZwbkpSX1puU2RHc2tlS2hyT1dzR2NjaHc1d083Y0cybFpRdGRZX0xuS3FxZ1AtbnNDbVVlYVlRNm9IYTN2RWpWQzlDSi0zTno2ZnNBVUk5THVzaXVjNXJTdHZZaDBoMGda?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261006T034114Z",
+          "pinned": false
+        },
+        {
+          "title": "Ethiopian conflict: TPLF forces withdraw from Tigray regional capital Mekelle",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lZnJpVTV6SGZsTVlPOXZPdHpmdGhReGpQa1RneHB5TUR5LXJVcHl3ajI3OHM5ei1IaWc5dmFUWWpmTldsSTVURklnZ0ZBdC1tQXYwYk91ZmNFdkU?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261005T082912Z",
           "pinned": false
         },
         {
@@ -1899,14 +1915,6 @@
           "pinned": false
         },
         {
-          "title": "Israeli air attack on Gaza City apartment kills at least five",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSGpPWHZhNW9TMDk2OUxsRlFnbi1ycDRyeW9mSmN0dHduSnp2c2FZckF5cFRlMTdXX0c1QmUtc2VVOFhibmg5UnJHLXBKdnlSZmtOTWV5T19hODloTGppM2EtYUEzdzkwbkVEY3gyZTcxTzFvMllYOUwzVEJ6NWFidGNqMlpsWnhWUnMweXdQeDlMUnVYOEdRSlg2MTZoNFJpSzdobtIBqgFBVV95cUxPbFExTEIzRWk0V09YdHAyaUdjYjFaNnFZbXRNazJvUFhDNUpQNGNGRmpPT3p0X2dmUWhhUU1lZ1JFRjBtWGJiZ2xUazBaYkhkMGltdXFpWXpxb2FWcV9nZzg1TEFzeC1KOXdOQmNtLTZ4Q0tzakZGelpXOERYOTVBOGJXeFNoR08zWlZoNmxSZGtpSHRhY3ZSNWpWMHYtTG9ZZ3VQYmVVVk5CQQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261003T022746Z",
-          "pinned": false
-        },
-        {
           "title": "Police clash with Kosovo protesters over bid to curb Hague war crimes court",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYnFlNDZwVHN6Si1WLVVHWnI4NHNMd0Z5NS1kN0h4eHg4YzZiQmRpWXotTnZLd2tVSXFleS1yOWNVa3IyUTVjZEJ2cEY5Uy1GQ3BFZHZOdkRNNkdnZE04MW1ZSmwwSHVCQnJMQkVEV1B0dGhiS2l3czBwNWhlZU1YemRKMWZZc1d0U0JHdEREdUVkVXNpczRYTGx4dzUyazZZWE9hb3N6QUh4dVpDaHU0R2xKaG9lR3PSAbwBQVVfeXFMUGExanozbGV6cmhzMWhZdDB3Y2tZWF9MR01UVzRaNmFJc1BsMC1rWjVabWJPeVhEci1tXzZyMng0UVRTWGhyT08yMWVIczBUekxhZGN6OTJkQ21Lem5OTHJmdEVxOXpVY1FfTWhLZmxIZ1VrclZPNGNpVEJ0MWN5bXdaczJfa1NlLTg5RzlkMXBzN1JQMk4zNHM4YzZXS3RSc2ZKNlEwS0E0dkpCNEhFZnlTd3lXanh2bTAyeDM?oc=5",
           "domain": "aljazeera.com",
@@ -1919,7 +1927,15 @@
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYWdCUnhRQWc0UHFlc25JZFhubm9uZGpDUnpucDZPS2tQem9aMFpJMzVZVzY4TnFWOTdOdEpZNFRNd093RzRoNVV2djZkS0o3UGFiWkw5SUwyMjRBQlhpcFB6N3ZiZWlGeVBDd3BDX2oyUDEzajVwM1VyMFdoa1dhVVlNMkc3d3VhZVQ2LVdwSS1rVzNqcFVZNkxoQmNQV0oxa3RaYmdESdIBrAFBVV95cUxPQ0c4bDA0cHQzby0xODJYOFFOUTVBbEI0cjNHOWo5cEFLMFFaSHpRUGY4NW5YelMyQ19rWTZuN1Q0YjZQdkx0RmhwN1BFeVgtaWwwM0w4enlua1dlV2pVWW04TFp5WEt1dmxoa1R3N201eVJscXNxd3MxRzd6aVhpYklfU3lsRk5BczlBZUZQbnp6d2RtbXpHcGxzaGVuNk9ZMnBMRXd0RkFuYWNn?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261005T201834Z",
+          "seen": "20261006T031603Z",
+          "pinned": false
+        },
+        {
+          "title": "Ukraine launches major drone attack on Russia’s Moscow region, killing two",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQnRDc2xCQzMtaloxLUxjdWY1N2ZETG9ud2NwWW9vNm9JM1ZwTllISXgyQVVPQllrb0xxb3FHQTVrWnNHTmY1Z0xjRlItWnRkVjRCTXEtbmVZeEtwSm9rOWZZSUo4UGMxeHBWaWFYcDJHdWhLT2hLN2RtRVliTmVhNHBYTThZZGx3dkJPUGluMWxVX3N2Wk9QYVIxOV9aZ3dpVmtqQndWSTV5b1dmMzMtOGpUY9IBuAFBVV95cUxNQzFTcnBTcHo2NVdCWmEtSk1rUXV3b1Itd0x0VzBNdHNTS0FqTkNGaTQ4djJ4TElxZV9DMF9RWnAwcW1Oa3V3SlgyTHB4SXJSaUpGYUJXbEV2Q0xJTUZlOGpnS1hra3hkbV8tZEZ3RVhoY2lXMHE3WFllSEE1M1FGd09MT2VBSkMzd21SQUMyajI0d0xJQ0VOdEROR3JjVGNOUzMwNzUzQURjYzc4YmxZNk96a0RuXzBh?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261006T124831Z",
           "pinned": false
         },
         {
@@ -1927,7 +1943,7 @@
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTkx0NUw2bmwxX2RiSnZaYjV2eDNyRDlUWXdaeFNnYTVEQ00wT3VsNnBXWXJTdDZKOU1OVWktQlNZeHdEakNPM3lJMG9IM2VvMkZ0VDhWM1lwbkVjaGVvbE91TWdCR0VVV0QzRm5CSThUR01Wa2tCRnZrUWJaQ0VYM2luRzhqSkpjYW1DOV9vTEVmU19wVllFZUtIejh2dEM0aDlHRlltRW50Mk9KbE5ZcNIBtgFBVV95cUxQbnJRcWlFYzVXMHRJZVBNMkZpV25WVzFlQWdNeDNLTWxjVzNJUXh6Y3ROTUU2UVhKUGEzcmtaQ1U2LS1xcTJpS2Z4OEdkQVZIZndLSk5lZWhIakh3ZG03N2pkVnNZZlpUVjBuOURoUENZM3lLZFlzZE1YdU04RGt2Z0hKNnFLQU9MTVNkX2tWdlNkc1lHTEo4ZW5XUi1ieklzd1I4SDhLVWFORXZxcHM1ZVdrcnh1dw?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261005T151107Z",
+          "seen": "20261005T235956Z",
           "pinned": false
         },
         {
@@ -1939,11 +1955,11 @@
           "pinned": false
         },
         {
-          "title": "Houthis claim strike on Aramco site as Yemen fighting intensifies",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONmY5RE5ILWt6MWtRZTJBS2VXVzdQdERuNHZFbk9PVHVuZFNfTVhjdm1yTWdUSTR0Q0xlNTN2eGhOUkE2WThVcXdDZ1pEcDAtQWJWWUFQbUM2RE9pbmtCa2lfM2t2RUxxVF9kUkJxd0htRjA0aXprc0NEQWZlNHVQTWpPVDdPNDVmZ25sNXFISGhaa0MxdEJzNEQxekE1ZVRoZWFkVEZsOElNR1g1amRXRFdkZm85RnPSAbwBQVVfeXFMUHdUakUzMklBc1VSRGZwMXN1X2M1NVg3b1dmUFZ5aXUtX2tmbW84UHNSckw2TlBmS1pXdmx1VE4tclZ6cGpSSFU1WTZRRmg3c3V2N3lYME1BRmUwa0RHZS1rd1BINkowa0xrMHNReUxXdmZyRzduTkN0TTlpVWV4c0p2Um5uWHRlNG14b0MwNF8zd2JTMHppaHlnN0tHMWJJTlhKMTltOE5MN0ktQVdoNGhRekg1RmhoVVBrdGM?oc=5",
+          "title": "Nearly 1,500 migrants arrive in Myanmar from Malaysia despite UN warnings",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbkxQVk5PRlNDYVZPRUpVOXYzWW1obEQyT0lxOGVjR21yRl94aWhub2JyRXlORWVZZUJwMWdzMFdJd3I0MG5qOXhCMjI1OEdJNjZ1YTRpSFpOeDZCRU5tVFN1LU55MEp1WjQtcGdLbDNKUmZsM1plWm9DamNoQ0pKbDJVX0hmOTlvaFc0aUVVQ2hiZWMzNFNnd0M0YUVZLUk4RXg1QlJNRzBNQWI5eDJ1b2tTb9IBuAFBVV95cUxPTFFYNGI2cmttQVo5NHgyX29iOWhRUi1fbXhQM29Pb0Y4SGt5TFdfWFF6LWpiVlJ2SnpJbzl5ZkpfcVhpcklmOE5JQkFxUUVzZGE3QzgyQU9GbmN5ZnBkUHE4NGgyWk5ReVd3N0FnTTR3NzJYSzNWLTB4N0VoQ3FPNlRXQkpyMkhZbHJOd1hnUVdhOGlyQUI4aVU5YUZCVE9vak9fV2dBd3ZqLU5vbE93M3J1SERIX1hB?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261005T100048Z",
+          "seen": "20261005T224527Z",
           "pinned": false
         },
         {
@@ -1955,19 +1971,19 @@
           "pinned": false
         },
         {
-          "title": "Nearly 1,500 migrants arrive in Myanmar from Malaysia despite UN warnings",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbkxQVk5PRlNDYVZPRUpVOXYzWW1obEQyT0lxOGVjR21yRl94aWhub2JyRXlORWVZZUJwMWdzMFdJd3I0MG5qOXhCMjI1OEdJNjZ1YTRpSFpOeDZCRU5tVFN1LU55MEp1WjQtcGdLbDNKUmZsM1plWm9DamNoQ0pKbDJVX0hmOTlvaFc0aUVVQ2hiZWMzNFNnd0M0YUVZLUk4RXg1QlJNRzBNQWI5eDJ1b2tTb9IBuAFBVV95cUxPTFFYNGI2cmttQVo5NHgyX29iOWhRUi1fbXhQM29Pb0Y4SGt5TFdfWFF6LWpiVlJ2SnpJbzl5ZkpfcVhpcklmOE5JQkFxUUVzZGE3QzgyQU9GbmN5ZnBkUHE4NGgyWk5ReVd3N0FnTTR3NzJYSzNWLTB4N0VoQ3FPNlRXQkpyMkhZbHJOd1hnUVdhOGlyQUI4aVU5YUZCVE9vak9fV2dBd3ZqLU5vbE93M3J1SERIX1hB?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261005T013208Z",
-          "pinned": false
-        },
-        {
           "title": "Takeaways from AP report on Iranian attack in Kuwait that killed 6 US soldiers and wounded dozens",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYktlQjExTTUzSGNqWldOdEI3MHZtcFo1MV9FRnJtVmJ0MVduWWFkWmlkVjNXeDNuX0U5TWxOWG42ZFg3eFp6YXNuRkpCSWdGWGsxa051TDEwVXBQN0JYYlpUZ1UyQlAwbmprclNDV3JmS29yNHB2YURpNmRzajhZd0xxZUFoanFLYTdtNktjTm1nYVJIeGhnWHRYakwySVFSbVEtM0V5bw?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "seen": "20261005T110800Z",
+          "pinned": false
+        },
+        {
+          "title": "Israeli minister says ‘there will be no Sinai’ if Egypt attacks Israel",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObVJReFFVS1hBUlVOWks5d21EMU5rTFNEZUtXTHVYLWY3SW9LQVFVaHFPYXJ6eENPYV84WHJhdFVMTGJMRHB3SEVweWZvZGhXbnR4YjBHb1RRSzZwN0VZbzU0SlYza3NTY0c5WjhzUjNkd0l5YVJUaEZBN0xqSGVEUVBpVllKWmZxNHQzb21ONEZEWFloclpoS2JlVVVsQ1N5Smg5dWoybFVzYXhqTFE?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20261006T015704Z",
           "pinned": false
         },
         {
@@ -1979,39 +1995,32 @@
           "pinned": false
         },
         {
-          "title": "Russian attacks kill 6 in Ukraine and damage Kyiv’s Northern Bridge",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZzZPOENZalJ1U2RlazVCeF9LbnhXdC00MG4tOXhob1pYOFhVbHZVTmk2N2I1aEYtQmFHT1FlVWVwTkFMY3ZBbHNoOXM1M1RHM0FfZmhGUDRfeHFVOEt5NTRJLTlkZkNhSnpRV0JiSXYwaV81T2JVYkYyVF9CQUV5V3N1QjBJRTZ1SzVsOHVFMDByYkpRRVE?oc=5",
-          "domain": "apnews.com",
+          "title": "Ship sinks and crew missing after Black Sea drone attack",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5bHVXZjF1NDI1eWZ3QTR1RzJIVjRlRHp4VVRKNktxRXVtQnpaRHBPYS1RY2xfSVQtY1RDaDktV2p3VnNVVllYQXk5YkV3OXQ4MGNrc2FwcVVFNmc?oc=5",
+          "domain": "bbc.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261003T154600Z",
+          "seen": "20261006T115321Z",
           "pinned": false
         },
         {
-          "title": "Latest US military strike on alleged drug boat kills four in Caribbean",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTFdMdGtqZXRueGJGSXJ5ZEV1SzJnMFVzZFFXZ3c4dktiTk54MlpteFlDdGxzdThTdHB5RklQYXdqSmxMV0JkUEU3SS1wbVhLVkVwZXNCNVZ6SXNSdWFaWVpVSU9Ec2ZFRE1xVGlYWEFEUWtGNnR2c3AzZFA1OF9xYURmZ1g4QzF5UVNkUGFxY1ZwTHZNVVRKYUxyVlRZOHdCdnFfdnhHckVzb2FTRjBBTdIBtgFBVV95cUxQWm9tOEhTeUk1ZnpaeThXT3VZTTdQVzM1dHhaQV9McHFlanVYZzM0dWpCT0VFZUNvYlkwV1JKVUIxWkdkZU52VVhEZHhPaUZacHRzdjRjRWZDcW9tZkZkR1FFUl9nUnBjU292azU5RUNpSjAzUzY4cXB5aWVjZnFWdC1oUzdyekJ2U1RQbFk3UVJ5empYME00S1hkdk1Rc1I4M1RoaGxWeUJWYWFiSElFdGd2SzJTUQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261005T201834Z",
-          "pinned": false
-        },
-        {
-          "title": "Spain’s Pedro Sanchez announces snap election amid housing crisis",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOGRxS19iMFdBa3hSYk5UQm8zQWJnaW5jTGJqLWg0ZW1aUWlxTzFDYlBYQmdYYmZZSThhMTEtOGdFSEZmR1I1Q2w2Rm9IMGJ2XzNuY29ya3ZzeXpEMndwUGI4VEVDX19YNkJzRGs1Qmw1dVFDbnRnLVZDRWZGaHlxQU1mNWliTzVfWmxlNWRvbkNVeXR0bXNRUjB3SnJvT0hkc1Br0gGoAUFVX3lxTE9fVXdxRHBVeXhiT0Q4TE92TEM0bWluVzVyTHU2MnJIQ3VuQjNGSGlDWlgtOEdSUFZ6c3VYYTM3blp4OGFuSm0tSGJPME5ta1U5b1ByVXRsRl8wT2hwOFF0bWpyT2ZJWUtqdmI0UDZFRkZDWnpsWC1oSmJiWTd3R3ZEelJldlhOSlhXWjc4a0w3LUpJaXdaWV95eVVBZVRUblBpVnRHcm1lMw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261005T154113Z",
-          "pinned": false
-        },
-        {
-          "title": "'He's not coming back': Months after deadly Iranian attack, families of soldiers struggle to cope",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVEdvWTM3M2k2RXVyMC0zenJWQmY5aTVxX3NTWGVMYVFDRUhUTVVyYjdVbEpyUkpXV2xlMzlfR1FrMVVFOFBZVjNGTEFuMW03cVVRWWh1UXVVUFdXLTJCY0xVd1prT3EzN19zZjhNYzY1RWhQX3VXcWNxZDg3THRYeGFpVzBvNVFEOG9VZUFpRlYxbjNtSDIzODVOSU1mUjc0QlE?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261005T111600Z",
+          "title": "Houthis claim attacks on Saudi airports, state oil refinery, military sites",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY1JNYWFXSHJDUV9sd0REZUdLdjdjYldlMUI5enE3amVPajBkRTJHY2tYRmo1NmxWWUpQVC1xWkhHUVdaU2NyQnVlSEdmbmN0c3VzRzQ4WjNrSFBna09RbG5UbHd3aTdFZWg5WFlqM2xPTGZLZXdjTTgtMktjRVVKcjI2TktaQ1AxVDl5RGRMb0ZVNlVqMGFaUUIwOUhfOUJ4bjh4ZkUzUWROdVpOLVVRNHZSTTlNU1JpdHc?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20261005T210305Z",
           "pinned": false
         }
       ],
       "reports": [
+        {
+          "id": "report-15c47e1729dc",
+          "title": "CIA assessment warns Israel risks civil war, state collapse: Report",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZUstd1NfU1VLZWttaWVEa3RzWjVQZjBuVGNUWVVfTVotX2d5TEQ4R1VKdk4yMEdQaElRU01HTEp2ZVIxUjcyUGQ4NFg5MURSWkZaaG5vdXpkYXd6REpjamZtMEt3aTBQT3dBczZ0NXl5NEVuOVFUVnA0MTBzZFRIWGVLT05SNnZwNWs2RnlDS1UwVkJVTXh6WVhyaVhLajcwM0w3UExPZXdDWjcwcjFF?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-10-06T02:19:37Z"
+        },
         {
           "id": "report-ed801430381b",
           "title": "Four African leaders issue joint declaration as Ethiopia war escalates",
@@ -2028,16 +2037,7 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-06T03:52:44Z"
-        },
-        {
-          "id": "report-d78b1182a72a",
-          "title": "Yemen’s army says targets Houthis in hundreds of strikes, killing 700",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS2JvMzdKWGlzOXIzVTV3Y2E0ajEza2kzSE5icF9wWGJrTC1Sc051Y3JYNEVQZlo5YmVIZS0zcnZ6b3Y5Q0E4dTQ1SFJ6YTQwOWdoYmlUSDNBTjd6Z3RrQ195Sk12akk0UHludWJMZk12ZWgzUUphOVdrRU50bVpnMjh4VEJpN2xkWThvdlJvWHZtd3JSZmN5d0tUZ2RCRWpRak4xSdIBqgFBVV95cUxQMXRObHY1T2JOSWZQMFZ5STlNMHZyYzc3MmFhQV9RaDRWLVdJTy1KLXNLckY4cXVqSm5QWnJqcHdWaWxBckZzU2JKNHRBV0ZzS3VPZklOUTVUNkg4UlU4c0pCTWtLcDhwbHl4c3ZfWWlWU3R4blZaTFVnZ0hOZElILXYyRzZldGpjY3NCZDZXU2VuVWJGN0pmd05tWm1jUTd6WTBMeW5Xb0c0UQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-03T08:36:50Z"
+          "reportedAt": "2026-10-06T02:38:24Z"
         },
         {
           "id": "report-fff4e9732527",
@@ -2049,22 +2049,40 @@
           "reportedAt": "2026-10-04T10:26:34Z"
         },
         {
-          "id": "report-905d0f6738ae",
+          "id": "report-c8da5e2c95cd",
           "title": "African Union denies blaming Egypt for Ethiopia crisis after Cairo objects",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRXNBNkJSRS0yV3lreGVKSVN5ZGFIZi1oWXVUNHJDN0lKNF8wQW56MzBaV3lpbXpCUzBzZGJ3cEVfWWIwNFJZLTd6eWh2VEdEaEhjdnN0N2wzVkttZFJWakVWVlR0TGY3WnV3elBGZXNGdWJQbmlmVXRhckIxRW44U3ZSWUx2aVFMS3YyRFdKSERNMnBwU1JYNzFRTVlUUVUtQXVjUm9rOUstcEpTQV9r?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeHE0WFphOHVKS0RSeFFjdS1HanJlNzBEQXpaRUlOekNMQnk2b0cyMzZibU5aa1VSLXU3SFlfdjEzWEFEWElyR1lJRXhueGdIdk5xUlI4S0QyLWd1TGJudERISVpwZFdLUjBHZUJZSTZHaktHeTdkVjVlZlFJZXdEMlFzX1RlRkNPVUhSaFlJLU15RWoxbHU4Q0tIU0hZWmVTdGRaQmpuZTRxZUluYkowT01TekQ?oc=5",
           "domain": "aa.com.tr",
           "sourceTier": "State-affiliated reporting",
           "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
-          "reportedAt": "2026-10-05T03:26:19Z"
+          "reportedAt": "2026-10-05T03:25:44Z"
         },
         {
-          "id": "report-4f5483fe5902",
-          "title": "Gaza’s Christians mourn mother and daughter killed in Israeli attack",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNd1dkSG5iWTliVExWM1hEUlNIcE50UVJJUHNOcWtUYWtEMWtCMTNyazBDX0k5STJGbklaMmhldFFxWlpGbnpwbXdIbUdVRFpJMzZNZVhVYlc1SlcyUzVYX0lEbUZRNjBHUWxWN2MwRWwtQW05ZzF3YWRpZUotQk91MnB4NVFHd1VpaTVVRW1aOHFkSEVzczhiRUk1MkJDZ3ZzVU5aWU9kY3k0R29I0gGyAUFVX3lxTE9JRThwaEFjZGpLZDFkTnVnT044RU1rcmRhREhaTmtTeTdOMkJwMnZ5M3dqdXRFV1p0U2lGU2JTa09QYXUtTkkzdldNTUhWbHBGeHNNQTRFNk1mNGM5Uk8tblh2U0NBZFFfZHB2X2dGQ2RDa2VDWGZoODJvZ3M0QUthZ25VcjExcnFxNXAzanpPUlNicG9aWkxiQTV5S01TcU15T1NQUVNDZktuYjJJZ3IzaUE?oc=5",
+          "id": "report-10af5ba5830a",
+          "title": "Southeast Asia’s energy chiefs meet against backdrop of Iran war",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVFJTWU1kaFpvMVZzcDE0Y1J4bHNLcEpsdWhmUnhIVEdmeUV2R1JTa09rM1FXRkpXX1JkSjkzWEZuRlVHMHBLc2VYdWpUMDBfRUoySEdlSjdmS09lTnhjTi1MRFZLVmVkMVo4VUZVQ01XWnJnckFzalE2TzJxaGRwRjFVUVNpZU5QZTJkWUJxUDhOUWdKQUN5dUJPNVNVS1FOd0pUTEdCanJXT2PSAbABQVVfeXFMUGlva3RZZDk3bWVJbzNsMC1LU1ZaakZ6bTVhc01UTm04WDRuYjVVMEZrRGR6U0FRd3lDSi1XbkI3WVVnUzUxbG96ZFhnU2d6MHU5UEVxZk5ZZTZPQ3VMWV9kQ2I5bEdLVFR5c2JHNjJucVRCanNCY0hBLTJSenZRdklyX3FtbGhKRXRjY3E2bDNTY2E0OU9xb2RsSllFRV9BTGJUZHpFQzByeGNXZDJ1VmE?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-04T08:02:58Z"
+          "reportedAt": "2026-10-06T07:11:23Z"
+        },
+        {
+          "id": "report-d4113043fe63",
+          "title": "UN rights council condemns attacks on civilians in Sudan, calls for truce",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX3g0dTBFSDh0ZGlNYVRxS1E3UVVEUzc1MnlYbFdmNzc2dGJfWERwQlNFQWY4ekxCVG1UYnJvOFNPZUI3NHdmeF9xWTZiNVFuanB3Q3RySlRJRkwwVHpyOXpDVThuQkk3cnZVbWl5XzZkN0RhOEdvS3pKejJyUDMtNlBuRnpyYjZlTGpIUHYtMENaZ3FEbHRlMVVJOV9HNFhkTlE0SC00V0kxY3BUQ2dKNkF1VdIBuAFBVV95cUxPdmhiVlVMNHhyQVFENE9MNjV0TGFhMUU3dTJRX3RQaEtMaU50blpLeHJKc1NVR0ZHbF8wa0Z0aHNjTkY0UHZVZjk5d1JRaWtMVHpXdzBJVFZwbkpSX1puU2RHc2tlS2hyT1dzR2NjaHc1d083Y0cybFpRdGRZX0xuS3FxZ1AtbnNDbVVlYVlRNm9IYTN2RWpWQzlDSi0zTno2ZnNBVUk5THVzaXVjNXJTdHZZaDBoMGda?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-06T03:41:14Z"
+        },
+        {
+          "id": "report-30cf4f131459",
+          "title": "Ethiopian conflict: TPLF forces withdraw from Tigray regional capital Mekelle",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lZnJpVTV6SGZsTVlPOXZPdHpmdGhReGpQa1RneHB5TUR5LXJVcHl3ajI3OHM5ei1IaWc5dmFUWWpmTldsSTVURklnZ0ZBdC1tQXYwYk91ZmNFdkU?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-05T08:29:12Z"
         },
         {
           "id": "report-2f85dce0aa5b",
@@ -2103,15 +2121,6 @@
           "reportedAt": "2026-10-05T11:12:00Z"
         },
         {
-          "id": "report-7370bfee6eb6",
-          "title": "Israeli air attack on Gaza City apartment kills at least five",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSGpPWHZhNW9TMDk2OUxsRlFnbi1ycDRyeW9mSmN0dHduSnp2c2FZckF5cFRlMTdXX0c1QmUtc2VVOFhibmg5UnJHLXBKdnlSZmtOTWV5T19hODloTGppM2EtYUEzdzkwbkVEY3gyZTcxTzFvMllYOUwzVEJ6NWFidGNqMlpsWnhWUnMweXdQeDlMUnVYOEdRSlg2MTZoNFJpSzdobtIBqgFBVV95cUxPbFExTEIzRWk0V09YdHAyaUdjYjFaNnFZbXRNazJvUFhDNUpQNGNGRmpPT3p0X2dmUWhhUU1lZ1JFRjBtWGJiZ2xUazBaYkhkMGltdXFpWXpxb2FWcV9nZzg1TEFzeC1KOXdOQmNtLTZ4Q0tzakZGelpXOERYOTVBOGJXeFNoR08zWlZoNmxSZGtpSHRhY3ZSNWpWMHYtTG9ZZ3VQYmVVVk5CQQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-03T02:27:46Z"
-        },
-        {
           "id": "report-e26f7c7a732c",
           "title": "Police clash with Kosovo protesters over bid to curb Hague war crimes court",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYnFlNDZwVHN6Si1WLVVHWnI4NHNMd0Z5NS1kN0h4eHg4YzZiQmRpWXotTnZLd2tVSXFleS1yOWNVa3IyUTVjZEJ2cEY5Uy1GQ3BFZHZOdkRNNkdnZE04MW1ZSmwwSHVCQnJMQkVEV1B0dGhiS2l3czBwNWhlZU1YemRKMWZZc1d0U0JHdEREdUVkVXNpczRYTGx4dzUyazZZWE9hb3N6QUh4dVpDaHU0R2xKaG9lR3PSAbwBQVVfeXFMUGExanozbGV6cmhzMWhZdDB3Y2tZWF9MR01UVzRaNmFJc1BsMC1rWjVabWJPeVhEci1tXzZyMng0UVRTWGhyT08yMWVIczBUekxhZGN6OTJkQ21Lem5OTHJmdEVxOXpVY1FfTWhLZmxIZ1VrclZPNGNpVEJ0MWN5bXdaczJfa1NlLTg5RzlkMXBzN1JQMk4zNHM4YzZXS3RSc2ZKNlEwS0E0dkpCNEhFZnlTd3lXanh2bTAyeDM?oc=5",
@@ -2127,7 +2136,16 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-05T20:18:34Z"
+          "reportedAt": "2026-10-06T03:16:03Z"
+        },
+        {
+          "id": "report-a125bce27d39",
+          "title": "Ukraine launches major drone attack on Russia’s Moscow region, killing two",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQnRDc2xCQzMtaloxLUxjdWY1N2ZETG9ud2NwWW9vNm9JM1ZwTllISXgyQVVPQllrb0xxb3FHQTVrWnNHTmY1Z0xjRlItWnRkVjRCTXEtbmVZeEtwSm9rOWZZSUo4UGMxeHBWaWFYcDJHdWhLT2hLN2RtRVliTmVhNHBYTThZZGx3dkJPUGluMWxVX3N2Wk9QYVIxOV9aZ3dpVmtqQndWSTV5b1dmMzMtOGpUY9IBuAFBVV95cUxNQzFTcnBTcHo2NVdCWmEtSk1rUXV3b1Itd0x0VzBNdHNTS0FqTkNGaTQ4djJ4TElxZV9DMF9RWnAwcW1Oa3V3SlgyTHB4SXJSaUpGYUJXbEV2Q0xJTUZlOGpnS1hra3hkbV8tZEZ3RVhoY2lXMHE3WFllSEE1M1FGd09MT2VBSkMzd21SQUMyajI0d0xJQ0VOdEROR3JjVGNOUzMwNzUzQURjYzc4YmxZNk96a0RuXzBh?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-06T12:48:31Z"
         },
         {
           "id": "report-b0af932cdb52",
@@ -2136,7 +2154,7 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-05T15:11:07Z"
+          "reportedAt": "2026-10-05T23:59:56Z"
         },
         {
           "id": "report-81fa6d86594b",
@@ -2148,13 +2166,13 @@
           "reportedAt": "2026-10-06T02:22:24Z"
         },
         {
-          "id": "report-1ab715029252",
-          "title": "Houthis claim strike on Aramco site as Yemen fighting intensifies",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONmY5RE5ILWt6MWtRZTJBS2VXVzdQdERuNHZFbk9PVHVuZFNfTVhjdm1yTWdUSTR0Q0xlNTN2eGhOUkE2WThVcXdDZ1pEcDAtQWJWWUFQbUM2RE9pbmtCa2lfM2t2RUxxVF9kUkJxd0htRjA0aXprc0NEQWZlNHVQTWpPVDdPNDVmZ25sNXFISGhaa0MxdEJzNEQxekE1ZVRoZWFkVEZsOElNR1g1amRXRFdkZm85RnPSAbwBQVVfeXFMUHdUakUzMklBc1VSRGZwMXN1X2M1NVg3b1dmUFZ5aXUtX2tmbW84UHNSckw2TlBmS1pXdmx1VE4tclZ6cGpSSFU1WTZRRmg3c3V2N3lYME1BRmUwa0RHZS1rd1BINkowa0xrMHNReUxXdmZyRzduTkN0TTlpVWV4c0p2Um5uWHRlNG14b0MwNF8zd2JTMHppaHlnN0tHMWJJTlhKMTltOE5MN0ktQVdoNGhRekg1RmhoVVBrdGM?oc=5",
+          "id": "report-c609a3f88c42",
+          "title": "Nearly 1,500 migrants arrive in Myanmar from Malaysia despite UN warnings",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbkxQVk5PRlNDYVZPRUpVOXYzWW1obEQyT0lxOGVjR21yRl94aWhub2JyRXlORWVZZUJwMWdzMFdJd3I0MG5qOXhCMjI1OEdJNjZ1YTRpSFpOeDZCRU5tVFN1LU55MEp1WjQtcGdLbDNKUmZsM1plWm9DamNoQ0pKbDJVX0hmOTlvaFc0aUVVQ2hiZWMzNFNnd0M0YUVZLUk4RXg1QlJNRzBNQWI5eDJ1b2tTb9IBuAFBVV95cUxPTFFYNGI2cmttQVo5NHgyX29iOWhRUi1fbXhQM29Pb0Y4SGt5TFdfWFF6LWpiVlJ2SnpJbzl5ZkpfcVhpcklmOE5JQkFxUUVzZGE3QzgyQU9GbmN5ZnBkUHE4NGgyWk5ReVd3N0FnTTR3NzJYSzNWLTB4N0VoQ3FPNlRXQkpyMkhZbHJOd1hnUVdhOGlyQUI4aVU5YUZCVE9vak9fV2dBd3ZqLU5vbE93M3J1SERIX1hB?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-05T10:00:48Z"
+          "reportedAt": "2026-10-05T22:45:27Z"
         },
         {
           "id": "report-8551513c7ff4",
@@ -2166,15 +2184,6 @@
           "reportedAt": "2026-10-05T11:03:33Z"
         },
         {
-          "id": "report-c609a3f88c42",
-          "title": "Nearly 1,500 migrants arrive in Myanmar from Malaysia despite UN warnings",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbkxQVk5PRlNDYVZPRUpVOXYzWW1obEQyT0lxOGVjR21yRl94aWhub2JyRXlORWVZZUJwMWdzMFdJd3I0MG5qOXhCMjI1OEdJNjZ1YTRpSFpOeDZCRU5tVFN1LU55MEp1WjQtcGdLbDNKUmZsM1plWm9DamNoQ0pKbDJVX0hmOTlvaFc0aUVVQ2hiZWMzNFNnd0M0YUVZLUk4RXg1QlJNRzBNQWI5eDJ1b2tTb9IBuAFBVV95cUxPTFFYNGI2cmttQVo5NHgyX29iOWhRUi1fbXhQM29Pb0Y4SGt5TFdfWFF6LWpiVlJ2SnpJbzl5ZkpfcVhpcklmOE5JQkFxUUVzZGE3QzgyQU9GbmN5ZnBkUHE4NGgyWk5ReVd3N0FnTTR3NzJYSzNWLTB4N0VoQ3FPNlRXQkpyMkhZbHJOd1hnUVdhOGlyQUI4aVU5YUZCVE9vak9fV2dBd3ZqLU5vbE93M3J1SERIX1hB?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-05T01:32:08Z"
-        },
-        {
           "id": "report-51ce358ff8f4",
           "title": "Takeaways from AP report on Iranian attack in Kuwait that killed 6 US soldiers and wounded dozens",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYktlQjExTTUzSGNqWldOdEI3MHZtcFo1MV9FRnJtVmJ0MVduWWFkWmlkVjNXeDNuX0U5TWxOWG42ZFg3eFp6YXNuRkpCSWdGWGsxa051TDEwVXBQN0JYYlpUZ1UyQlAwbmprclNDV3JmS29yNHB2YURpNmRzajhZd0xxZUFoanFLYTdtNktjTm1nYVJIeGhnWHRYakwySVFSbVEtM0V5bw?oc=5",
@@ -2182,6 +2191,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-10-05T11:08:00Z"
+        },
+        {
+          "id": "report-56fe1f308b40",
+          "title": "Israeli minister says ‘there will be no Sinai’ if Egypt attacks Israel",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObVJReFFVS1hBUlVOWks5d21EMU5rTFNEZUtXTHVYLWY3SW9LQVFVaHFPYXJ6eENPYV84WHJhdFVMTGJMRHB3SEVweWZvZGhXbnR4YjBHb1RRSzZwN0VZbzU0SlYza3NTY0c5WjhzUjNkd0l5YVJUaEZBN0xqSGVEUVBpVllKWmZxNHQzb21ONEZEWFloclpoS2JlVVVsQ1N5Smg5dWoybFVzYXhqTFE?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-10-06T01:57:04Z"
         },
         {
           "id": "report-697e7fd385f9",
@@ -2193,40 +2211,22 @@
           "reportedAt": "2026-10-05T15:17:23Z"
         },
         {
-          "id": "report-f47d0877de16",
-          "title": "Russian attacks kill 6 in Ukraine and damage Kyiv’s Northern Bridge",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZzZPOENZalJ1U2RlazVCeF9LbnhXdC00MG4tOXhob1pYOFhVbHZVTmk2N2I1aEYtQmFHT1FlVWVwTkFMY3ZBbHNoOXM1M1RHM0FfZmhGUDRfeHFVOEt5NTRJLTlkZkNhSnpRV0JiSXYwaV81T2JVYkYyVF9CQUV5V3N1QjBJRTZ1SzVsOHVFMDByYkpRRVE?oc=5",
-          "domain": "apnews.com",
+          "id": "report-6b21eda36a97",
+          "title": "Ship sinks and crew missing after Black Sea drone attack",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5bHVXZjF1NDI1eWZ3QTR1RzJIVjRlRHp4VVRKNktxRXVtQnpaRHBPYS1RY2xfSVQtY1RDaDktV2p3VnNVVllYQXk5YkV3OXQ4MGNrc2FwcVVFNmc?oc=5",
+          "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-03T15:46:00Z"
+          "reportedAt": "2026-10-06T11:53:21Z"
         },
         {
-          "id": "report-ecb40eda6761",
-          "title": "Latest US military strike on alleged drug boat kills four in Caribbean",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTFdMdGtqZXRueGJGSXJ5ZEV1SzJnMFVzZFFXZ3c4dktiTk54MlpteFlDdGxzdThTdHB5RklQYXdqSmxMV0JkUEU3SS1wbVhLVkVwZXNCNVZ6SXNSdWFaWVpVSU9Ec2ZFRE1xVGlYWEFEUWtGNnR2c3AzZFA1OF9xYURmZ1g4QzF5UVNkUGFxY1ZwTHZNVVRKYUxyVlRZOHdCdnFfdnhHckVzb2FTRjBBTdIBtgFBVV95cUxQWm9tOEhTeUk1ZnpaeThXT3VZTTdQVzM1dHhaQV9McHFlanVYZzM0dWpCT0VFZUNvYlkwV1JKVUIxWkdkZU52VVhEZHhPaUZacHRzdjRjRWZDcW9tZkZkR1FFUl9nUnBjU292azU5RUNpSjAzUzY4cXB5aWVjZnFWdC1oUzdyekJ2U1RQbFk3UVJ5empYME00S1hkdk1Rc1I4M1RoaGxWeUJWYWFiSElFdGd2SzJTUQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-05T20:18:34Z"
-        },
-        {
-          "id": "report-8454d83a96a3",
-          "title": "Spain’s Pedro Sanchez announces snap election amid housing crisis",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOGRxS19iMFdBa3hSYk5UQm8zQWJnaW5jTGJqLWg0ZW1aUWlxTzFDYlBYQmdYYmZZSThhMTEtOGdFSEZmR1I1Q2w2Rm9IMGJ2XzNuY29ya3ZzeXpEMndwUGI4VEVDX19YNkJzRGs1Qmw1dVFDbnRnLVZDRWZGaHlxQU1mNWliTzVfWmxlNWRvbkNVeXR0bXNRUjB3SnJvT0hkc1Br0gGoAUFVX3lxTE9fVXdxRHBVeXhiT0Q4TE92TEM0bWluVzVyTHU2MnJIQ3VuQjNGSGlDWlgtOEdSUFZ6c3VYYTM3blp4OGFuSm0tSGJPME5ta1U5b1ByVXRsRl8wT2hwOFF0bWpyT2ZJWUtqdmI0UDZFRkZDWnpsWC1oSmJiWTd3R3ZEelJldlhOSlhXWjc4a0w3LUpJaXdaWV95eVVBZVRUblBpVnRHcm1lMw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-05T15:41:13Z"
-        },
-        {
-          "id": "report-98c9d1b6c910",
-          "title": "'He's not coming back': Months after deadly Iranian attack, families of soldiers struggle to cope",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVEdvWTM3M2k2RXVyMC0zenJWQmY5aTVxX3NTWGVMYVFDRUhUTVVyYjdVbEpyUkpXV2xlMzlfR1FrMVVFOFBZVjNGTEFuMW03cVVRWWh1UXVVUFdXLTJCY0xVd1prT3EzN19zZjhNYzY1RWhQX3VXcWNxZDg3THRYeGFpVzBvNVFEOG9VZUFpRlYxbjNtSDIzODVOSU1mUjc0QlE?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-05T11:16:00Z"
+          "id": "report-9bf2478c9b42",
+          "title": "Houthis claim attacks on Saudi airports, state oil refinery, military sites",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY1JNYWFXSHJDUV9sd0REZUdLdjdjYldlMUI5enE3amVPajBkRTJHY2tYRmo1NmxWWUpQVC1xWkhHUVdaU2NyQnVlSEdmbmN0c3VzRzQ4WjNrSFBna09RbG5UbHd3aTdFZWg5WFlqM2xPTGZLZXdjTTgtMktjRVVKcjI2TktaQ1AxVDl5RGRMb0ZVNlVqMGFaUUIwOUhfOUJ4bjh4ZkUzUWROdVpOLVVRNHZSTTlNU1JpdHc?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-10-05T21:03:05Z"
         },
         {
           "id": "report-67598f362237",
