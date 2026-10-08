@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-08T13:27:37.935Z",
+  "generatedAt": "2026-10-08T20:50:17.941Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -9,7 +9,7 @@
       "items": []
     },
     "safety": {
-      "generatedAt": "2026-10-07T20:47:59.845Z",
+      "generatedAt": "2026-10-08T20:50:17.941Z",
       "cadence": "daily",
       "items": [
         {
@@ -21,19 +21,11 @@
           "pinned": true
         },
         {
-          "title": "Takeaways from AP report on Iranian attack in Kuwait that killed 6 US soldiers and wounded dozens",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYktlQjExTTUzSGNqWldOdEI3MHZtcFo1MV9FRnJtVmJ0MVduWWFkWmlkVjNXeDNuX0U5TWxOWG42ZFg3eFp6YXNuRkpCSWdGWGsxa051TDEwVXBQN0JYYlpUZ1UyQlAwbmprclNDV3JmS29yNHB2YURpNmRzajhZd0xxZUFoanFLYTdtNktjTm1nYVJIeGhnWHRYakwySVFSbVEtM0V5bw?oc=5",
-          "domain": "apnews.com",
+          "title": "After two F-16 crashes, Air Force revamps how crews inspect a ‘blind spot’",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95ZV8zX0d2ZFZlM0NYVUt6WW5vNVljNUZpSW9VR0pfcDVqWkpiZS0xaXF5UGJ1Qmt0akVDLWFIQ2xnaEJmWXFXdFM4WGk5djgxTXl4MFc4dE9SVTJOY1U0dk5fcy0tczhYWVduVVE5V2ZMVlVXeWZrQw?oc=5",
+          "domain": "taskandpurpose.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261005T110800Z",
-          "pinned": false
-        },
-        {
-          "title": "PLR 26-067 – Motorcycle Mishap Claims One Soldier’s Life",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVDFUVlFQSzFTSWZhMS1xY29wd19HVWU3U29qZVAybk9PSHZDUkFxbHRWUzZ0NzdSelhNYVFibE90OUpYTlFOMjZYb1JINENkellMcVh5SFcwMUI1TDhqQmtrZ0FkUE0xRklmSjQyTmFYWmZXSHlIREx5Z2JfY0Q3VGt0TmM2eC1waHFLd3BkWkpMMDhfaDd6bk9TRnp3X015TWNSUko2MmFCdHFHVzVlZVFPV1R6SldJUnV5SnBkQi02VlU3dndnbl82czJMendhQWhXWkhwdVJDODR6bzhF?oc=5",
-          "domain": "safety.army.mil",
-          "sourceTier": "Official military source",
-          "seen": "20260923T070000Z",
+          "seen": "20261008T163754Z",
           "pinned": false
         },
         {
@@ -79,13 +71,13 @@
       ],
       "incidents": [
         {
-          "id": "auto-51ce358ff8f4",
-          "reportDate": "2026-10-05",
+          "id": "auto-d71c2400a768",
+          "reportDate": "2026-10-08",
           "dateBasis": "report discovery date",
-          "branch": "Army",
-          "department": "Department of the Army",
-          "type": "Other",
-          "event": "Takeaways from AP report on Iranian attack in Kuwait that killed 6 US soldiers and wounded dozens",
+          "branch": "Air Force",
+          "department": "Department of the Air Force",
+          "type": "Aviation",
+          "event": "After two F-16 crashes, Air Force revamps how crews inspect a ‘blind spot’",
           "location": "See official source",
           "fatalities": null,
           "injuries": null,
@@ -93,8 +85,8 @@
           "signalClass": "REPORTED MISHAP",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
-          "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYktlQjExTTUzSGNqWldOdEI3MHZtcFo1MV9FRnJtVmJ0MVduWWFkWmlkVjNXeDNuX0U5TWxOWG42ZFg3eFp6YXNuRkpCSWdGWGsxa051TDEwVXBQN0JYYlpUZ1UyQlAwbmprclNDV3JmS29yNHB2YURpNmRzajhZd0xxZUFoanFLYTdtNktjTm1nYVJIeGhnWHRYakwySVFSbVEtM0V5bw?oc=5",
-          "sourceLabel": "apnews.com"
+          "source": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95ZV8zX0d2ZFZlM0NYVUt6WW5vNVljNUZpSW9VR0pfcDVqWkpiZS0xaXF5UGJ1Qmt0akVDLWFIQ2xnaEJmWXFXdFM4WGk5djgxTXl4MFc4dE9SVTJOY1U0dk5fcy0tczhYWVduVVE5V2ZMVlVXeWZrQw?oc=5",
+          "sourceLabel": "taskandpurpose.com"
         },
         {
           "id": "auto-1239846d3108",
@@ -113,6 +105,24 @@
           "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
           "source": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVXFIcGFvZ3Q3WEt5cnF2V04tTXRhWmVDaVlpWmlQbTROYUNyejJnZzFvUmNpNk1YQjNxUzl4a3dBMjZZcW0xcmVqMklQMHZaVzRUbGZjNlFROFFXZTRKSzhHR25yckhqR2UzZ1BiS28yOGtpb3FtTENIemNnX00xaXBCa0Q2b2xJSzcweTY3VUJRd0xyUzFoZFhIdmF6eWpjb0huYXoxTkhGV0JzQTBNZF9vMm9pbHhmRjRqM2IxUmVoT0RuQ21B?oc=5",
           "sourceLabel": "news.uscg.mil"
+        },
+        {
+          "id": "auto-51ce358ff8f4",
+          "reportDate": "2026-10-05",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Other",
+          "event": "Takeaways from AP report on Iranian attack in Kuwait that killed 6 US soldiers and wounded dozens",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYktlQjExTTUzSGNqWldOdEI3MHZtcFo1MV9FRnJtVmJ0MVduWWFkWmlkVjNXeDNuX0U5TWxOWG42ZFg3eFp6YXNuRkpCSWdGWGsxa051TDEwVXBQN0JYYlpUZ1UyQlAwbmprclNDV3JmS29yNHB2YURpNmRzajhZd0xxZUFoanFLYTdtNktjTm1nYVJIeGhnWHRYakwySVFSbVEtM0V5bw?oc=5",
+          "sourceLabel": "apnews.com"
         },
         {
           "id": "auto-5a85e5fdf7e4",
