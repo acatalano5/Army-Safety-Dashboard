@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-08T06:02:40.753Z",
+  "generatedAt": "2026-10-08T13:27:37.935Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-10-08T06:02:40.753Z",
+      "generatedAt": "2026-10-08T13:27:37.935Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -1791,7 +1791,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-10-08T06:02:40.753Z",
+      "generatedAt": "2026-10-08T13:27:37.935Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -1851,11 +1851,27 @@
           "pinned": false
         },
         {
-          "title": "Eritrean troops move deep into Ethiopia's Tigray region as fighting escalates",
+          "title": "Eritrean troops move deep into Ethiopia's Tigray region, residents tell BBC",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sTG9Wa1o0dGJVN2k4M2wyeDQzWlE2WFhWbEFoa0lqUjhqQzFiTWo3VU5hdVNRUURVODg4TXV0SjBUY1JBSzhhLVZtMHJPMmMxcFIwemc0NGxmWXM?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20261007T184052Z",
+          "pinned": false
+        },
+        {
+          "title": "'Every day there is killing': Gazans face Israeli strikes despite ceasefire as peace deal stalls",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JblU1RW0zSVh1RHFBTDM2ZkpiR2pGNWZhYUdfRjNSSmkxd3pXNlFlaF9JVElreEViN0o0VXQ3b0tTQzNIY1BuQkt6b3NNdFNUa3NZWTltV29JS0E?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261008T050609Z",
+          "pinned": false
+        },
+        {
+          "title": "Gaza war sped up India’s shift towards Israel under Modi",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUmdGajd3aHNkbER6RWNGN1VMVVRLUENnaGhESWRZOWRVR2FtUDVyX3ZLLWJSbkFheUFiYTNvYUQtMzZMakhlYnhTZmRlR1ZldzE2VlhEVUgyTG5xRVhhSTVXUnNHVVZNZXlTUU5xTGdlREM1ZktYaUVFaWwwWXNOeWYwS19OT2RUTnpXRDQ2MkVDQWE0c0NNeUNINTN5cC1FdHfSAacBQVVfeXFMUDB3djJ1VERjdnVrZEswUzMxQ0JLRGg1Y0dxQk54VHBnWU1ERFQ1aDhidXgtb3didzlhNXRvcmhRR0hpNGJ2SmVXSnplY3JGbjBrQmhISlRIRnhSTTZPUzR0VFZWTk5oWXN2dVVHT0Y5b3FJY09KdlpRSkRONEE2UzE2X2ZQRWFlbHUyV0JVZVFGODV5czVHdGg1ZUNVXzhKckV3Q09WWk0?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261008T083938Z",
           "pinned": false
         },
         {
@@ -1875,11 +1891,11 @@
           "pinned": false
         },
         {
-          "title": "Ethiopian conflict: TPLF forces withdraw from Tigray regional capital Mekelle",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lZnJpVTV6SGZsTVlPOXZPdHpmdGhReGpQa1RneHB5TUR5LXJVcHl3ajI3OHM5ei1IaWc5dmFUWWpmTldsSTVURklnZ0ZBdC1tQXYwYk91ZmNFdkU?oc=5",
-          "domain": "bbc.com",
+          "title": "Gaza changed after three years of Israel’s genocidal war",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSzZRZC02dUZMTHkycVhaZ3dFaU5Ya3JiSktFazJjaC1pa0ZzTUZwVlN0QjFGWDZzYVFmdnFoYTUtSVFjU0FtdlFwakxVYURwMGV5ekVqNlNtTWJlOHVsamxSQkgxeWNIWjRuOUZYbkhBSE5JckN3amszUGQxd0YxcFpvUTgydzZBMW1MNDE1TGJ3b1lWN1VWZGJTS0dYTVNB0gGmAUFVX3lxTE1uV0J3NElTdVFpZkdiX2V1Mm54RGtULVZHZnlhYXltMld6S3Z1eXJhNjZWS0EycmktWWFRdkJqaDRTUERPOUl0WTU3ZGc3N3drODZrbngyOThvMXVJeW5fcDlac0pmejBsX1BvZWtycXMxdlYtTjNMYUtrd3dpX0xCb2F2VnhoZk43Tjc2VU42Wk5TaXRScF9jU095ajJ5QWNYT0pmTWc?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261005T082912Z",
+          "seen": "20261007T055145Z",
           "pinned": false
         },
         {
@@ -1891,11 +1907,19 @@
           "pinned": false
         },
         {
-          "title": "How three years of Israel’s genocidal war have changed Gaza",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSzZRZC02dUZMTHkycVhaZ3dFaU5Ya3JiSktFazJjaC1pa0ZzTUZwVlN0QjFGWDZzYVFmdnFoYTUtSVFjU0FtdlFwakxVYURwMGV5ekVqNlNtTWJlOHVsamxSQkgxeWNIWjRuOUZYbkhBSE5JckN3amszUGQxd0YxcFpvUTgydzZBMW1MNDE1TGJ3b1lWN1VWZGJTS0dYTVNB0gGmAUFVX3lxTE1uV0J3NElTdVFpZkdiX2V1Mm54RGtULVZHZnlhYXltMld6S3Z1eXJhNjZWS0EycmktWWFRdkJqaDRTUERPOUl0WTU3ZGc3N3drODZrbngyOThvMXVJeW5fcDlac0pmejBsX1BvZWtycXMxdlYtTjNMYUtrd3dpX0xCb2F2VnhoZk43Tjc2VU42Wk5TaXRScF9jU095ajJ5QWNYT0pmTWc?oc=5",
+          "title": "Is Europe preparing for a wider war with Russia?",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcWlnNnE1akRlVFR1d0dUX0xRbkxqZl9KV1hQeThobFdENEdOdDRDaGFfaEt1bDNhRDIycmJ2dEpsMHpfWWZfUm8wQnNCajBvd01TVzlQYWwzanp1dEdEdmFTanlPT1BvUWdlNGY5TU52dUMzd2phRDFJZ2IzLS1vWE9vbHpmRERvUFFhWW5fZ3RQZ25TNHYzR1dUOXhsblnSAaQBQVVfeXFMUG9zMEZJNVRycGNtWnozb3Z4T1NmSEhzZnBsal85ZExTdzJVSjFqUlVXZUlPRTZQT3AtTGRXaHZQVDN4WlV0aTFRQ3lEdEUzVXJ1WmJiUUV2ZTZiZlhjSTdSa3NfUXhBUU1qeWhESExTRFZuSVpvUUR0U1A1YlAwcmxHMTZtOTNfNW5XYTJqWVRnd3MwWWk5ZDhxSlpxNEU1ZHNzYTg?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261007T055145Z",
+          "seen": "20261006T163432Z",
+          "pinned": false
+        },
+        {
+          "title": "US stocks slide as oil prices fluctuate over renewed Iran war fears",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOHQ5dFo2YXd1enA3VnJ3blZXek5Fc2dnV1NzRURHQmZWV2RINk9fR0M3VThhaGdTYW9TTXk1b1dhbEptX2hWT1RZZ3NhTi1VMGNJVFJrU2hsaDVhMXBybU9Na0RpR3RDM1hZX0RsekdCWmxYWVI3WHdMN1dZd2hEWDlrYlluNURWUFJGYldqYU1nel9aY0hUQ1U2dlVVT0JGaERIRzYzakpyNDZp0gGyAUFVX3lxTE5zMkNybGZYZ09LeHFxY2JiMW1Bdk8tQTJFX21pakFEUnZuTWtxMmpkbENQcll4M3pqN2d4V1R6MGFjektoWDVsTHdiWWRBbUk4V29wWVpWLUkyWnI0MG5hUjZObGJYUlQ1T0xOdDhyRG45cmNWUHVsNDNxZE5OMzRnOExsbjMwOE82MHpDdEs5WmpkU2dXYnhEWmNuRXJ1SF9kOWNWT3VwWTFjSzg4RS1adHc?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261008T033437Z",
           "pinned": false
         },
         {
@@ -1907,11 +1931,11 @@
           "pinned": false
         },
         {
-          "title": "Iran tells US: there is ‘no military solution’ to end the war",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQkpyTExGanRuUDljTW85VnZfN3FiRV9sWUVVanlIX0xMYjBtYXZlN0dRU21VbnBpU2ZYVVVGcFJ6SUllMkFOelkwVGJESWdQNDdObTNzMllrcF9VUlZIeXRDTERQd1ZhWllfaW5SQTBLSEtVMDNDSFdiYmlSNWtvTU5uUWJvMlVZelViNUZaTzVUdHRvblRSVEFxRWpkeFBNYWlWSVNrYkhGUGZFTHfSAbMBQVVfeXFMTndkdmRXaEU0aFFNbm5TWVJqVFROUnhRdWFJQWEycmxDNFIzMUhMbjZvSmtIUVZrSUo2MXZXR3JsOU81cjlTOFRjU0lZWk0zMkh1dElEcmo0OWZJQnpXRlZLanpBNFRvQ0Z5eDhTbDRwb0R0QjBlZVFjcWNKUEVhM1k1dWxiblZwNDYzSUhGbF84RGNoUmJ2QnVjelQ2ODViNkVhWldHR1VUejV3a2dOc21ibkE?oc=5",
+          "title": "Russian attack on Ukraine’s Kramatorsk kills at least 12 people",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcjBwR180MWVSRmxPRXA4VFFleWdyTWxBTFZGMTg3aWN6ZGtxZlZoem1saEQ2Y0FCMHp3cmszZEs5RUVTbGtvajdsZUVYQTNTY21wZXNTMEVnNEkyYmFhSWV0b2U5N2lpRDJ2ZG9wc2FmOHVyUHZkQWFlSkl5VU1fRzBGUUwtWWpvdU9XdWQtQdIBlAFBVV95cUxNSnRHOW5UT19vXzdJZ2VlQjFBUmdpa2g0QnZMWHBHamxaSUYwU19yVDN3aEJBMkxLc0dMQ1RDeW91b2ZiVUp1UkZuVUM4MzlzQWt2NmdLZWtEcXFadzdJWm80TVo2bmtKRmFteXJTTmtxbXpTMkdqMW1zVTFtS3htb252QUpkdnRkTjgyekVWTDdDWG5J?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261005T102341Z",
+          "seen": "20261008T103223Z",
           "pinned": false
         },
         {
@@ -1923,19 +1947,11 @@
           "pinned": false
         },
         {
-          "title": "French president vows Paris’ ‘full support’ for Ukraine, help to ‘intercept drones’",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNT0phU0dYdHBmMnJQY2dJbDQ4NzdtdEwybHU4UmlkWUZXal9PcmstRDJXdVJWS3hpUmthLXlJTzM2dXV1ZkZ4b1BoaWROSDRXZDRxNkRxd1VrV1ZUVmUxeDNmSlRFQWJpRFVlS0VMdDlEa1JQSXY5R2Z3OFJKeUZVUXl1SXRxSVRSRThwdzRhS3JqRGI0QXBDaGhHWVNxU0dIdnJJSVZBUEtDbl8xZ0VfQVZSVkt0cXA0QWE2bw?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "seen": "20261005T133647Z",
-          "pinned": false
-        },
-        {
-          "title": "US stocks slide as oil prices fluctuate over renewed Iran war fears",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOHQ5dFo2YXd1enA3VnJ3blZXek5Fc2dnV1NzRURHQmZWV2RINk9fR0M3VThhaGdTYW9TTXk1b1dhbEptX2hWT1RZZ3NhTi1VMGNJVFJrU2hsaDVhMXBybU9Na0RpR3RDM1hZX0RsekdCWmxYWVI3WHdMN1dZd2hEWDlrYlluNURWUFJGYldqYU1nel9aY0hUQ1U2dlVVT0JGaERIRzYzakpyNDZp0gGyAUFVX3lxTE5zMkNybGZYZ09LeHFxY2JiMW1Bdk8tQTJFX21pakFEUnZuTWtxMmpkbENQcll4M3pqN2d4V1R6MGFjektoWDVsTHdiWWRBbUk4V29wWVpWLUkyWnI0MG5hUjZObGJYUlQ1T0xOdDhyRG45cmNWUHVsNDNxZE5OMzRnOExsbjMwOE82MHpDdEs5WmpkU2dXYnhEWmNuRXJ1SF9kOWNWT3VwWTFjSzg4RS1adHc?oc=5",
+          "title": "The Hormuz bonus: Sailor salaries soar for transits amid Iran war",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPX05aSmp4UEJIZzQtaEliRVh5ZXZ5aWlVcVhGUHIyYWVJTkdYR3BBTzVMRGotdkFxbUZrMlJCOXJHMjM3S0JhUk5FVWdLWDEyLWJ3azY1aWRsUDRFTWxZaW5adHp4T0N0bk9wS2k5bWtyMEpqY0J0cHM1U3VLbnFqd3JRUWw5aEZ5d3ZSNEhQSTY0R1VBT2lnM1NJT3k3QmRVRzdOSnhtQ0fSAa4BQVVfeXFMTjNnZW94cExjY0pHTDd1QkQ0U3FyQW5IQkVrMkFlamxZb0c1bGE2WHY4Wms4LURUYXl6XzlPbFludjBaT0E1TTlTT0prVERwdVBaemllNUNHVFRfWFBJUUJ4SGRWV2Q0bTBUZjdSZHNVYWI1UzNic3JPTmVGcmIyU0Z5NlBtMVU2eDFjVW5GcF9WSlZkUUFGWGhFb0drWV9oRzNKWERKNVNqR3E3MjJ3?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261008T033437Z",
+          "seen": "20261008T111035Z",
           "pinned": false
         },
         {
@@ -1963,27 +1979,11 @@
           "pinned": false
         },
         {
-          "title": "At least 20 killed as Russia launches ‘massive’ attack on Ukraine",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMFd0djYtZ2loUjk2bnIyUm1CaUlka2RWYXNqVHBzLXg2cUMtV21lUFRQRmdlem5CY0pHVF92Y3RsMUY3YmpYTUtuYklUT2ptTjJHZnlSdW1NMVN1R082Nm5XWk1Jalh6QXZ1YkptQ0JEUVh2bGZ6R1otR0RnM3hueHNUSjlCSlY3M05oeXdleW95RV85Q2hTQ2FtZkpXYzFPemtzNzYySGtNT19QTXZkOFVHc9IBuAFBVV95cUxOV0YtWWxyOGtTam96alFhTzJ4aDI5UFFYOFZzUjBoTUFnZmgtMzROQm9wVWZDYlBUOFBIZ25yejg4aElCS281SFdFTTBHRGQtajdwZjBvcS1aZ1VHZVl3b19QZkdMRExESEJ5Wm5JNUh5M0xmb2NMYlVaQk5mZmdRWFJMU3NyYU4wMXhvdjBLczlndGdGQ0lMWHI4WWV0em5OS21hMmYtX0xKTUlfemstal84NkwwSkY2?oc=5",
-          "domain": "aljazeera.com",
+          "title": "Fear and disruption for Ukraine's rail passengers as Russia escalates drone attacks",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04ZzJmUFVndGQ0QVFaMC1wTHhyc0h1SDMyd0dsYUs4TVI4am50YUJfS0dmeTliSk1PTkU5SUJzNjNLSWFyLWhyV2hIX1NOSUFfNmM5c0lNYzdKX0U?oc=5",
+          "domain": "bbc.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261007T153757Z",
-          "pinned": false
-        },
-        {
-          "title": "Ukraine launches major drone attack on Russia’s Moscow region, killing two",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQnRDc2xCQzMtaloxLUxjdWY1N2ZETG9ud2NwWW9vNm9JM1ZwTllISXgyQVVPQllrb0xxb3FHQTVrWnNHTmY1Z0xjRlItWnRkVjRCTXEtbmVZeEtwSm9rOWZZSUo4UGMxeHBWaWFYcDJHdWhLT2hLN2RtRVliTmVhNHBYTThZZGx3dkJPUGluMWxVX3N2Wk9QYVIxOV9aZ3dpVmtqQndWSTV5b1dmMzMtOGpUY9IBuAFBVV95cUxNQzFTcnBTcHo2NVdCWmEtSk1rUXV3b1Itd0x0VzBNdHNTS0FqTkNGaTQ4djJ4TElxZV9DMF9RWnAwcW1Oa3V3SlgyTHB4SXJSaUpGYUJXbEV2Q0xJTUZlOGpnS1hra3hkbV8tZEZ3RVhoY2lXMHE3WFllSEE1M1FGd09MT2VBSkMzd21SQUMyajI0d0xJQ0VOdEROR3JjVGNOUzMwNzUzQURjYzc4YmxZNk96a0RuXzBh?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261006T124831Z",
-          "pinned": false
-        },
-        {
-          "title": "Ukraine says Russian drone attack sinks ship in Romanian waters",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYWdCUnhRQWc0UHFlc25JZFhubm9uZGpDUnpucDZPS2tQem9aMFpJMzVZVzY4TnFWOTdOdEpZNFRNd093RzRoNVV2djZkS0o3UGFiWkw5SUwyMjRBQlhpcFB6N3ZiZWlGeVBDd3BDX2oyUDEzajVwM1VyMFdoa1dhVVlNMkc3d3VhZVQ2LVdwSS1rVzNqcFVZNkxoQmNQV0oxa3RaYmdESdIBrAFBVV95cUxPQ0c4bDA0cHQzby0xODJYOFFOUTVBbEI0cjNHOWo5cEFLMFFaSHpRUGY4NW5YelMyQ19rWTZuN1Q0YjZQdkx0RmhwN1BFeVgtaWwwM0w4enlua1dlV2pVWW04TFp5WEt1dmxoa1R3N201eVJscXNxd3MxRzd6aVhpYklfU3lsRk5BczlBZUZQbnp6d2RtbXpHcGxzaGVuNk9ZMnBMRXd0RkFuYWNn?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261006T031603Z",
+          "seen": "20261006T094837Z",
           "pinned": false
         }
       ],
@@ -2053,12 +2053,30 @@
         },
         {
           "id": "report-227fbb3fd90a",
-          "title": "Eritrean troops move deep into Ethiopia's Tigray region as fighting escalates",
+          "title": "Eritrean troops move deep into Ethiopia's Tigray region, residents tell BBC",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sTG9Wa1o0dGJVN2k4M2wyeDQzWlE2WFhWbEFoa0lqUjhqQzFiTWo3VU5hdVNRUURVODg4TXV0SjBUY1JBSzhhLVZtMHJPMmMxcFIwemc0NGxmWXM?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-10-07T18:40:52Z"
+        },
+        {
+          "id": "report-501b58295685",
+          "title": "'Every day there is killing': Gazans face Israeli strikes despite ceasefire as peace deal stalls",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JblU1RW0zSVh1RHFBTDM2ZkpiR2pGNWZhYUdfRjNSSmkxd3pXNlFlaF9JVElreEViN0o0VXQ3b0tTQzNIY1BuQkt6b3NNdFNUa3NZWTltV29JS0E?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-08T05:06:09Z"
+        },
+        {
+          "id": "report-3ec41338c08d",
+          "title": "Gaza war sped up India’s shift towards Israel under Modi",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUmdGajd3aHNkbER6RWNGN1VMVVRLUENnaGhESWRZOWRVR2FtUDVyX3ZLLWJSbkFheUFiYTNvYUQtMzZMakhlYnhTZmRlR1ZldzE2VlhEVUgyTG5xRVhhSTVXUnNHVVZNZXlTUU5xTGdlREM1ZktYaUVFaWwwWXNOeWYwS19OT2RUTnpXRDQ2MkVDQWE0c0NNeUNINTN5cC1FdHfSAacBQVVfeXFMUDB3djJ1VERjdnVrZEswUzMxQ0JLRGg1Y0dxQk54VHBnWU1ERFQ1aDhidXgtb3didzlhNXRvcmhRR0hpNGJ2SmVXSnplY3JGbjBrQmhISlRIRnhSTTZPUzR0VFZWTk5oWXN2dVVHT0Y5b3FJY09KdlpRSkRONEE2UzE2X2ZQRWFlbHUyV0JVZVFGODV5czVHdGg1ZUNVXzhKckV3Q09WWk0?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-08T08:39:38Z"
         },
         {
           "id": "report-10af5ba5830a",
@@ -2079,13 +2097,13 @@
           "reportedAt": "2026-10-06T03:41:14Z"
         },
         {
-          "id": "report-30cf4f131459",
-          "title": "Ethiopian conflict: TPLF forces withdraw from Tigray regional capital Mekelle",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lZnJpVTV6SGZsTVlPOXZPdHpmdGhReGpQa1RneHB5TUR5LXJVcHl3ajI3OHM5ei1IaWc5dmFUWWpmTldsSTVURklnZ0ZBdC1tQXYwYk91ZmNFdkU?oc=5",
-          "domain": "bbc.com",
+          "id": "report-800dbd63db5f",
+          "title": "Gaza changed after three years of Israel’s genocidal war",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSzZRZC02dUZMTHkycVhaZ3dFaU5Ya3JiSktFazJjaC1pa0ZzTUZwVlN0QjFGWDZzYVFmdnFoYTUtSVFjU0FtdlFwakxVYURwMGV5ekVqNlNtTWJlOHVsamxSQkgxeWNIWjRuOUZYbkhBSE5JckN3amszUGQxd0YxcFpvUTgydzZBMW1MNDE1TGJ3b1lWN1VWZGJTS0dYTVNB0gGmAUFVX3lxTE1uV0J3NElTdVFpZkdiX2V1Mm54RGtULVZHZnlhYXltMld6S3Z1eXJhNjZWS0EycmktWWFRdkJqaDRTUERPOUl0WTU3ZGc3N3drODZrbngyOThvMXVJeW5fcDlac0pmejBsX1BvZWtycXMxdlYtTjNMYUtrd3dpX0xCb2F2VnhoZk43Tjc2VU42Wk5TaXRScF9jU095ajJ5QWNYT0pmTWc?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-05T08:29:12Z"
+          "reportedAt": "2026-10-07T05:51:45Z"
         },
         {
           "id": "report-95a273fa66c6",
@@ -2097,13 +2115,22 @@
           "reportedAt": "2026-10-05T11:12:00Z"
         },
         {
-          "id": "report-800dbd63db5f",
-          "title": "How three years of Israel’s genocidal war have changed Gaza",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSzZRZC02dUZMTHkycVhaZ3dFaU5Ya3JiSktFazJjaC1pa0ZzTUZwVlN0QjFGWDZzYVFmdnFoYTUtSVFjU0FtdlFwakxVYURwMGV5ekVqNlNtTWJlOHVsamxSQkgxeWNIWjRuOUZYbkhBSE5JckN3amszUGQxd0YxcFpvUTgydzZBMW1MNDE1TGJ3b1lWN1VWZGJTS0dYTVNB0gGmAUFVX3lxTE1uV0J3NElTdVFpZkdiX2V1Mm54RGtULVZHZnlhYXltMld6S3Z1eXJhNjZWS0EycmktWWFRdkJqaDRTUERPOUl0WTU3ZGc3N3drODZrbngyOThvMXVJeW5fcDlac0pmejBsX1BvZWtycXMxdlYtTjNMYUtrd3dpX0xCb2F2VnhoZk43Tjc2VU42Wk5TaXRScF9jU095ajJ5QWNYT0pmTWc?oc=5",
+          "id": "report-56e19c577712",
+          "title": "Is Europe preparing for a wider war with Russia?",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcWlnNnE1akRlVFR1d0dUX0xRbkxqZl9KV1hQeThobFdENEdOdDRDaGFfaEt1bDNhRDIycmJ2dEpsMHpfWWZfUm8wQnNCajBvd01TVzlQYWwzanp1dEdEdmFTanlPT1BvUWdlNGY5TU52dUMzd2phRDFJZ2IzLS1vWE9vbHpmRERvUFFhWW5fZ3RQZ25TNHYzR1dUOXhsblnSAaQBQVVfeXFMUG9zMEZJNVRycGNtWnozb3Z4T1NmSEhzZnBsal85ZExTdzJVSjFqUlVXZUlPRTZQT3AtTGRXaHZQVDN4WlV0aTFRQ3lEdEUzVXJ1WmJiUUV2ZTZiZlhjSTdSa3NfUXhBUU1qeWhESExTRFZuSVpvUUR0U1A1YlAwcmxHMTZtOTNfNW5XYTJqWVRnd3MwWWk5ZDhxSlpxNEU1ZHNzYTg?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-07T05:51:45Z"
+          "reportedAt": "2026-10-06T16:34:32Z"
+        },
+        {
+          "id": "report-51814cb94b5b",
+          "title": "US stocks slide as oil prices fluctuate over renewed Iran war fears",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOHQ5dFo2YXd1enA3VnJ3blZXek5Fc2dnV1NzRURHQmZWV2RINk9fR0M3VThhaGdTYW9TTXk1b1dhbEptX2hWT1RZZ3NhTi1VMGNJVFJrU2hsaDVhMXBybU9Na0RpR3RDM1hZX0RsekdCWmxYWVI3WHdMN1dZd2hEWDlrYlluNURWUFJGYldqYU1nel9aY0hUQ1U2dlVVT0JGaERIRzYzakpyNDZp0gGyAUFVX3lxTE5zMkNybGZYZ09LeHFxY2JiMW1Bdk8tQTJFX21pakFEUnZuTWtxMmpkbENQcll4M3pqN2d4V1R6MGFjektoWDVsTHdiWWRBbUk4V29wWVpWLUkyWnI0MG5hUjZObGJYUlQ1T0xOdDhyRG45cmNWUHVsNDNxZE5OMzRnOExsbjMwOE82MHpDdEs5WmpkU2dXYnhEWmNuRXJ1SF9kOWNWT3VwWTFjSzg4RS1adHc?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-08T03:34:37Z"
         },
         {
           "id": "report-492e083ad00b",
@@ -2115,13 +2142,13 @@
           "reportedAt": "2026-10-06T09:07:27Z"
         },
         {
-          "id": "report-a28dcd72ed88",
-          "title": "Iran tells US: there is ‘no military solution’ to end the war",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQkpyTExGanRuUDljTW85VnZfN3FiRV9sWUVVanlIX0xMYjBtYXZlN0dRU21VbnBpU2ZYVVVGcFJ6SUllMkFOelkwVGJESWdQNDdObTNzMllrcF9VUlZIeXRDTERQd1ZhWllfaW5SQTBLSEtVMDNDSFdiYmlSNWtvTU5uUWJvMlVZelViNUZaTzVUdHRvblRSVEFxRWpkeFBNYWlWSVNrYkhGUGZFTHfSAbMBQVVfeXFMTndkdmRXaEU0aFFNbm5TWVJqVFROUnhRdWFJQWEycmxDNFIzMUhMbjZvSmtIUVZrSUo2MXZXR3JsOU81cjlTOFRjU0lZWk0zMkh1dElEcmo0OWZJQnpXRlZLanpBNFRvQ0Z5eDhTbDRwb0R0QjBlZVFjcWNKUEVhM1k1dWxiblZwNDYzSUhGbF84RGNoUmJ2QnVjelQ2ODViNkVhWldHR1VUejV3a2dOc21ibkE?oc=5",
+          "id": "report-221eb65dc186",
+          "title": "Russian attack on Ukraine’s Kramatorsk kills at least 12 people",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcjBwR180MWVSRmxPRXA4VFFleWdyTWxBTFZGMTg3aWN6ZGtxZlZoem1saEQ2Y0FCMHp3cmszZEs5RUVTbGtvajdsZUVYQTNTY21wZXNTMEVnNEkyYmFhSWV0b2U5N2lpRDJ2ZG9wc2FmOHVyUHZkQWFlSkl5VU1fRzBGUUwtWWpvdU9XdWQtQdIBlAFBVV95cUxNSnRHOW5UT19vXzdJZ2VlQjFBUmdpa2g0QnZMWHBHamxaSUYwU19yVDN3aEJBMkxLc0dMQ1RDeW91b2ZiVUp1UkZuVUM4MzlzQWt2NmdLZWtEcXFadzdJWm80TVo2bmtKRmFteXJTTmtxbXpTMkdqMW1zVTFtS3htb252QUpkdnRkTjgyekVWTDdDWG5J?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-05T10:23:41Z"
+          "reportedAt": "2026-10-08T10:32:23Z"
         },
         {
           "id": "report-ca120cc5f03e",
@@ -2133,22 +2160,13 @@
           "reportedAt": "2026-10-05T17:41:44Z"
         },
         {
-          "id": "report-a6b9d018ffb2",
-          "title": "French president vows Paris’ ‘full support’ for Ukraine, help to ‘intercept drones’",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNT0phU0dYdHBmMnJQY2dJbDQ4NzdtdEwybHU4UmlkWUZXal9PcmstRDJXdVJWS3hpUmthLXlJTzM2dXV1ZkZ4b1BoaWROSDRXZDRxNkRxd1VrV1ZUVmUxeDNmSlRFQWJpRFVlS0VMdDlEa1JQSXY5R2Z3OFJKeUZVUXl1SXRxSVRSRThwdzRhS3JqRGI0QXBDaGhHWVNxU0dIdnJJSVZBUEtDbl8xZ0VfQVZSVkt0cXA0QWE2bw?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
-          "reportedAt": "2026-10-05T13:36:47Z"
-        },
-        {
-          "id": "report-51814cb94b5b",
-          "title": "US stocks slide as oil prices fluctuate over renewed Iran war fears",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOHQ5dFo2YXd1enA3VnJ3blZXek5Fc2dnV1NzRURHQmZWV2RINk9fR0M3VThhaGdTYW9TTXk1b1dhbEptX2hWT1RZZ3NhTi1VMGNJVFJrU2hsaDVhMXBybU9Na0RpR3RDM1hZX0RsekdCWmxYWVI3WHdMN1dZd2hEWDlrYlluNURWUFJGYldqYU1nel9aY0hUQ1U2dlVVT0JGaERIRzYzakpyNDZp0gGyAUFVX3lxTE5zMkNybGZYZ09LeHFxY2JiMW1Bdk8tQTJFX21pakFEUnZuTWtxMmpkbENQcll4M3pqN2d4V1R6MGFjektoWDVsTHdiWWRBbUk4V29wWVpWLUkyWnI0MG5hUjZObGJYUlQ1T0xOdDhyRG45cmNWUHVsNDNxZE5OMzRnOExsbjMwOE82MHpDdEs5WmpkU2dXYnhEWmNuRXJ1SF9kOWNWT3VwWTFjSzg4RS1adHc?oc=5",
+          "id": "report-669a9d3c1ed3",
+          "title": "The Hormuz bonus: Sailor salaries soar for transits amid Iran war",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPX05aSmp4UEJIZzQtaEliRVh5ZXZ5aWlVcVhGUHIyYWVJTkdYR3BBTzVMRGotdkFxbUZrMlJCOXJHMjM3S0JhUk5FVWdLWDEyLWJ3azY1aWRsUDRFTWxZaW5adHp4T0N0bk9wS2k5bWtyMEpqY0J0cHM1U3VLbnFqd3JRUWw5aEZ5d3ZSNEhQSTY0R1VBT2lnM1NJT3k3QmRVRzdOSnhtQ0fSAa4BQVVfeXFMTjNnZW94cExjY0pHTDd1QkQ0U3FyQW5IQkVrMkFlamxZb0c1bGE2WHY4Wms4LURUYXl6XzlPbFludjBaT0E1TTlTT0prVERwdVBaemllNUNHVFRfWFBJUUJ4SGRWV2Q0bTBUZjdSZHNVYWI1UzNic3JPTmVGcmIyU0Z5NlBtMVU2eDFjVW5GcF9WSlZkUUFGWGhFb0drWV9oRzNKWERKNVNqR3E3MjJ3?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-08T03:34:37Z"
+          "reportedAt": "2026-10-08T11:10:35Z"
         },
         {
           "id": "report-04a584b8a323",
@@ -2178,31 +2196,13 @@
           "reportedAt": "2026-10-07T08:56:02Z"
         },
         {
-          "id": "report-385b3d4ac4a3",
-          "title": "At least 20 killed as Russia launches ‘massive’ attack on Ukraine",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMFd0djYtZ2loUjk2bnIyUm1CaUlka2RWYXNqVHBzLXg2cUMtV21lUFRQRmdlem5CY0pHVF92Y3RsMUY3YmpYTUtuYklUT2ptTjJHZnlSdW1NMVN1R082Nm5XWk1Jalh6QXZ1YkptQ0JEUVh2bGZ6R1otR0RnM3hueHNUSjlCSlY3M05oeXdleW95RV85Q2hTQ2FtZkpXYzFPemtzNzYySGtNT19QTXZkOFVHc9IBuAFBVV95cUxOV0YtWWxyOGtTam96alFhTzJ4aDI5UFFYOFZzUjBoTUFnZmgtMzROQm9wVWZDYlBUOFBIZ25yejg4aElCS281SFdFTTBHRGQtajdwZjBvcS1aZ1VHZVl3b19QZkdMRExESEJ5Wm5JNUh5M0xmb2NMYlVaQk5mZmdRWFJMU3NyYU4wMXhvdjBLczlndGdGQ0lMWHI4WWV0em5OS21hMmYtX0xKTUlfemstal84NkwwSkY2?oc=5",
-          "domain": "aljazeera.com",
+          "id": "report-ce8593c21a1d",
+          "title": "Fear and disruption for Ukraine's rail passengers as Russia escalates drone attacks",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04ZzJmUFVndGQ0QVFaMC1wTHhyc0h1SDMyd0dsYUs4TVI4am50YUJfS0dmeTliSk1PTkU5SUJzNjNLSWFyLWhyV2hIX1NOSUFfNmM5c0lNYzdKX0U?oc=5",
+          "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-07T15:37:57Z"
-        },
-        {
-          "id": "report-a125bce27d39",
-          "title": "Ukraine launches major drone attack on Russia’s Moscow region, killing two",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQnRDc2xCQzMtaloxLUxjdWY1N2ZETG9ud2NwWW9vNm9JM1ZwTllISXgyQVVPQllrb0xxb3FHQTVrWnNHTmY1Z0xjRlItWnRkVjRCTXEtbmVZeEtwSm9rOWZZSUo4UGMxeHBWaWFYcDJHdWhLT2hLN2RtRVliTmVhNHBYTThZZGx3dkJPUGluMWxVX3N2Wk9QYVIxOV9aZ3dpVmtqQndWSTV5b1dmMzMtOGpUY9IBuAFBVV95cUxNQzFTcnBTcHo2NVdCWmEtSk1rUXV3b1Itd0x0VzBNdHNTS0FqTkNGaTQ4djJ4TElxZV9DMF9RWnAwcW1Oa3V3SlgyTHB4SXJSaUpGYUJXbEV2Q0xJTUZlOGpnS1hra3hkbV8tZEZ3RVhoY2lXMHE3WFllSEE1M1FGd09MT2VBSkMzd21SQUMyajI0d0xJQ0VOdEROR3JjVGNOUzMwNzUzQURjYzc4YmxZNk96a0RuXzBh?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-06T12:48:31Z"
-        },
-        {
-          "id": "report-206218c174eb",
-          "title": "Ukraine says Russian drone attack sinks ship in Romanian waters",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYWdCUnhRQWc0UHFlc25JZFhubm9uZGpDUnpucDZPS2tQem9aMFpJMzVZVzY4TnFWOTdOdEpZNFRNd093RzRoNVV2djZkS0o3UGFiWkw5SUwyMjRBQlhpcFB6N3ZiZWlGeVBDd3BDX2oyUDEzajVwM1VyMFdoa1dhVVlNMkc3d3VhZVQ2LVdwSS1rVzNqcFVZNkxoQmNQV0oxa3RaYmdESdIBrAFBVV95cUxPQ0c4bDA0cHQzby0xODJYOFFOUTVBbEI0cjNHOWo5cEFLMFFaSHpRUGY4NW5YelMyQ19rWTZuN1Q0YjZQdkx0RmhwN1BFeVgtaWwwM0w4enlua1dlV2pVWW04TFp5WEt1dmxoa1R3N201eVJscXNxd3MxRzd6aVhpYklfU3lsRk5BczlBZUZQbnp6d2RtbXpHcGxzaGVuNk9ZMnBMRXd0RkFuYWNn?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-06T03:16:03Z"
+          "reportedAt": "2026-10-06T09:48:37Z"
         },
         {
           "id": "report-67598f362237",
