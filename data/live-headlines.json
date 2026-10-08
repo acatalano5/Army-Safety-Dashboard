@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-07T23:05:48.741Z",
+  "generatedAt": "2026-10-08T06:02:40.753Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-10-07T23:05:48.741Z",
+      "generatedAt": "2026-10-08T06:02:40.753Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -1791,7 +1791,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-10-07T23:05:48.741Z",
+      "generatedAt": "2026-10-08T06:02:40.753Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -1827,6 +1827,14 @@
           "pinned": false
         },
         {
+          "title": "Veteran presented with war medal on 100th birthday",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kWm1uSml5WVZ0Q083WWxfaDVyV083bGJCZlZwNjM4R2k5bmlSMjdBV0g2bW44dmRrdmxHY1lBUC1LaEhUWkdJRjFoYl9yT2luc3FDN0U1Wmc4MlU?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261007T170413Z",
+          "pinned": false
+        },
+        {
           "title": "More Oil, Same War: Why Increased Exports Aren’t a Sign of Iran’s Imminent Defeat",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaDlPd2syRGlsM2F3elo1dk9pM2FRczJBZUJSaHJ4Nl9NZ2g5dnJwSldrSlBCMWtxbWJqc3o4dVFLZVFlOV9lSDVtYWNBaXBwWXpsYTgzZ0szVF9FVXdVZDE4UmU3dlUyZUN6SUR5a0RTbTZEc2xVeGY4VmczT053TndCVEZiQXpPQXR3c2VVOERKd0VybkMyQ1Ftd05BQ0l2?oc=5",
           "domain": "cfr.org",
@@ -1840,14 +1848,6 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20261007T100338Z",
-          "pinned": false
-        },
-        {
-          "title": "Veteran presented with war medal on 100th birthday",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kWm1uSml5WVZ0Q083WWxfaDVyV083bGJCZlZwNjM4R2k5bmlSMjdBV0g2bW44dmRrdmxHY1lBUC1LaEhUWkdJRjFoYl9yT2luc3FDN0U1Wmc4MlU?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261007T170413Z",
           "pinned": false
         },
         {
@@ -1875,14 +1875,6 @@
           "pinned": false
         },
         {
-          "title": "Exclusive: Soldiers and Gold Star families press Army leadership after deadly Iranian drone strike",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOby1QWHVEVk9TLTY0blhNNUliTksyeE5WX3pld3VJMllVYmlPVEhGMk8zTjBCNkNlc2l5d2JGa1FSaGRmNW9DTGlod1RGTUNYdGdWRTRhdUQ5Vkt0QXllMVZCc3VmWllSYWROaGs3Nm16cWd6OUpMUWxKTVRCc0loVmt5UGw0OUVjaTZHbnRFbDMwOVRYZVlqYXVzSTcwQQ?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261005T111200Z",
-          "pinned": false
-        },
-        {
           "title": "Ethiopian conflict: TPLF forces withdraw from Tigray regional capital Mekelle",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lZnJpVTV6SGZsTVlPOXZPdHpmdGhReGpQa1RneHB5TUR5LXJVcHl3ajI3OHM5ei1IaWc5dmFUWWpmTldsSTVURklnZ0ZBdC1tQXYwYk91ZmNFdkU?oc=5",
           "domain": "bbc.com",
@@ -1891,11 +1883,11 @@
           "pinned": false
         },
         {
-          "title": "War on Iran: Is escalation more likely than a deal?",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZHVmNGprbXFMWEFRSV9EaEZXd2NraWhROFdhc3B2eTcwSzdReENqWEF2cDhySmctdHZBbzNRTDhma0ZvZ3FHVFNBTlQwMWp4ZEh0dEpFSU56alJHSGk0OGtWY3hOQmNJMDY2RjVCVWhOZkc4NWpYY3JFMjU4dzljeUpSN21iNFRsQlNuWUI5NmVrWDFPNGtzMHhmclV0UmZLdjhOV0dvUmMxR3h5R0HSAbMBQVVfeXFMTm9iVTR3TXVhbmxaeU1jMWVRZkwwOWNURFpacjF3b1NWYjNmTlBfdl9kUGdvYWtNdGcxUDdiSkRkX0dnS2JMUDloU182cEtsTVpnWks1YUhuYUpNY0F4am5yOEJLNHdpMl9QVmFmQ1F0dkFCb2pVaXdoWjNsM3BDOGtBLTM2UV9CR3l4aXQ1MzF5cC1ZVzkwTWtIZWhTSTNaYzY3Z1FKT1Bxdk92UGNBb09QNUE?oc=5",
-          "domain": "aljazeera.com",
+          "title": "Exclusive: Soldiers and Gold Star families press Army leadership after deadly Iranian drone strike",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOby1QWHVEVk9TLTY0blhNNUliTksyeE5WX3pld3VJMllVYmlPVEhGMk8zTjBCNkNlc2l5d2JGa1FSaGRmNW9DTGlod1RGTUNYdGdWRTRhdUQ5Vkt0QXllMVZCc3VmWllSYWROaGs3Nm16cWd6OUpMUWxKTVRCc0loVmt5UGw0OUVjaTZHbnRFbDMwOVRYZVlqYXVzSTcwQQ?oc=5",
+          "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261004T184821Z",
+          "seen": "20261005T111200Z",
           "pinned": false
         },
         {
@@ -1939,11 +1931,19 @@
           "pinned": false
         },
         {
-          "title": "Saudi Arabia says three wounded in attacks on airports near Yemen border",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWHVKeVJtVklCdVVISmNIb3NVbk9kV1dRYmtMX1dxRTlWWThPNmRzTkIzUlF2WGdVYWxST3JqU3p0akJDUU9jWm84clpuSkEyMG94ZmpoNzN4MkFaa3BjcnRxWnpGSlZBdFlUZ1R2YVFpM1dWdVJqeHAwaWNnRjhzNWx1SWNDb1R1c2pILWdrQ3U4TEZiN2pYdG5HN0s1dTRDMnBKTndzVjVFa2FQSlJqVkVXSdIBuAFBVV95cUxOYW9TMV9wZEVndkZNZlhUSEtmdGYxbktLalVSY3RPOE9tVlM3U041VndUR1VRTTNla2FpYlZvbDdzRjUtM0QxNnpOWmpQdl9LbkhMZG5iM0pBOENqR2Z2eTI4dVRIWC1lV1Z0OWVxZTBLdzB5Wk1oR241bGpKenFoVDdVQmlBSUZhTXNkX09wUmJ2MW5VMG85b1dPdU1ncXN0TWoybzh0bHR2RzdwODZLdEJSb3Z1dkt4?oc=5",
+          "title": "US stocks slide as oil prices fluctuate over renewed Iran war fears",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOHQ5dFo2YXd1enA3VnJ3blZXek5Fc2dnV1NzRURHQmZWV2RINk9fR0M3VThhaGdTYW9TTXk1b1dhbEptX2hWT1RZZ3NhTi1VMGNJVFJrU2hsaDVhMXBybU9Na0RpR3RDM1hZX0RsekdCWmxYWVI3WHdMN1dZd2hEWDlrYlluNURWUFJGYldqYU1nel9aY0hUQ1U2dlVVT0JGaERIRzYzakpyNDZp0gGyAUFVX3lxTE5zMkNybGZYZ09LeHFxY2JiMW1Bdk8tQTJFX21pakFEUnZuTWtxMmpkbENQcll4M3pqN2d4V1R6MGFjektoWDVsTHdiWWRBbUk4V29wWVpWLUkyWnI0MG5hUjZObGJYUlQ1T0xOdDhyRG45cmNWUHVsNDNxZE5OMzRnOExsbjMwOE82MHpDdEs5WmpkU2dXYnhEWmNuRXJ1SF9kOWNWT3VwWTFjSzg4RS1adHc?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261006T111826Z",
+          "seen": "20261008T033437Z",
+          "pinned": false
+        },
+        {
+          "title": "81 US aircraft lost or damaged during Iran war, congressional document shows",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNEVjRk9qZ2dyc3pPQ2lvNzVOaEJvV0hFOWhQT0J2R0dDR2ZiZlA0aG5MY1NfUi1nWHhIS0otV3RmMFRmLS10eGJyN0dQNlJWMkt6YWpxS1l6ZktLWkVMZGExa3BXSWlQWjdOeUMzaE9vemNPOTV2Y3FQNVlxM0pCM3c1aTVVTV91UjVFU2NXNTh2dWg0OXJKbURRQlBzcGp0Y1h0bU0tZDBUdzUxS3RVV0FoQ3hSUFVx?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20261007T133848Z",
           "pinned": false
         },
         {
@@ -1955,14 +1955,6 @@
           "pinned": false
         },
         {
-          "title": "Germany’s Merz in Kyiv announces $1.5B in aid, urges Putin to end war",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPODNiaXpEanFEcjZWQTgtWkZyRUp4RzEzREpJRGtraDd6S2xrSXBveGlXSWJMeTh2VWw4UFhoalVCMTBLTHhReTlSb3czUjlkY1F0ZXRuRkFWWHZxLWJHdTR6QkZ2LUtiTFNzbGJObk5xWVh4N0F3ZThFU1ZwazZOLXBidlFHaXVnSlRiTnJTb3Jua2VIUjJoQtIBngFBVV95cUxQRFdIR21LY2t6ZDNOUC1PMlV4SkpkQkF3MzVieGVVQ0U3WDM2T3V2NTFoSk9PbWZCQkZac0pxVkNXY0daT3F5Mll2Ty1nUlVKVmZHSEdtaTkxX25sckZIWjVCYllTRk9qRElQbUdRTjFPOVFkSjh0RHBjWTUzSjBleGtnY3kyekFrb29PV2lxNFMtNk44bU5YbzhKQ0gzQQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261004T200046Z",
-          "pinned": false
-        },
-        {
           "title": "What does a year-long ceasefire in Gaza look like?",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOU9vbGhkVFVnM082V1phSm8za25Ic0ZXdUc0bUE3bUhrN1FkRHA3X2JmZU1zSjVrdWMwTXFSN1o1Z1pxUVZ5N3V0RFNpUVJlXzNIa1h3NlpmZEVyYjVXM2w1dkl0cUthWTFkell5bHRJQmY4TVppcEY4RDZ2ano3YmJrclF2eHRWQ2E2enBkdFA1Mll6c2lmcGdMaV9jNTFlQm5SYXZfVWRJMHAz0gGyAUFVX3lxTE5tOC0weWVaSmwtZXhqVE5FUjVTTjJDMW5GYTNJdERZNmU3YVNIdGotbFVjcEJsRG5UYlZFQjdLR2FvdE9NSVJockQtLXVkVDNGRUdfN2oxb0k0d0ZWVnUyaEd2bnlVWkFrRHRnZ0dzUVdwNE1EUC02NUNSVEpYV0dXaWxZOGkyVmVLM1lnTkkySUJIYXJHbmo5b05vdFNCanJsZHdOWC1zckotVU9MdTRvbVE?oc=5",
           "domain": "aljazeera.com",
@@ -1971,11 +1963,11 @@
           "pinned": false
         },
         {
-          "title": "White House aide: Trump did not call for attacks on US cities but explained how he's preventing them",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeEtXbF9ZN2UxYktYMG9pRWVuYVA3X1UwUC1EOElkdVE0ZDhDLUJBZm9ETjJhREJPakVQRW42Uk9HN2RJQ3pUMlN0alZrRDktNEVsLUl4QXhGcGw1YUEwRjUwNjRTZE9mSXNvRmZRbDVxWGlWa3U5enNkc0pWWmFtdXF0NWluNGg0MV9zM2EzSXA1aWdiRDZUbUhwa2E?oc=5",
-          "domain": "apnews.com",
+          "title": "At least 20 killed as Russia launches ‘massive’ attack on Ukraine",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMFd0djYtZ2loUjk2bnIyUm1CaUlka2RWYXNqVHBzLXg2cUMtV21lUFRQRmdlem5CY0pHVF92Y3RsMUY3YmpYTUtuYklUT2ptTjJHZnlSdW1NMVN1R082Nm5XWk1Jalh6QXZ1YkptQ0JEUVh2bGZ6R1otR0RnM3hueHNUSjlCSlY3M05oeXdleW95RV85Q2hTQ2FtZkpXYzFPemtzNzYySGtNT19QTXZkOFVHc9IBuAFBVV95cUxOV0YtWWxyOGtTam96alFhTzJ4aDI5UFFYOFZzUjBoTUFnZmgtMzROQm9wVWZDYlBUOFBIZ25yejg4aElCS281SFdFTTBHRGQtajdwZjBvcS1aZ1VHZVl3b19QZkdMRExESEJ5Wm5JNUh5M0xmb2NMYlVaQk5mZmdRWFJMU3NyYU4wMXhvdjBLczlndGdGQ0lMWHI4WWV0em5OS21hMmYtX0xKTUlfemstal84NkwwSkY2?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261006T194500Z",
+          "seen": "20261007T153757Z",
           "pinned": false
         },
         {
@@ -1984,6 +1976,14 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20261006T124831Z",
+          "pinned": false
+        },
+        {
+          "title": "Ukraine says Russian drone attack sinks ship in Romanian waters",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYWdCUnhRQWc0UHFlc25JZFhubm9uZGpDUnpucDZPS2tQem9aMFpJMzVZVzY4TnFWOTdOdEpZNFRNd093RzRoNVV2djZkS0o3UGFiWkw5SUwyMjRBQlhpcFB6N3ZiZWlGeVBDd3BDX2oyUDEzajVwM1VyMFdoa1dhVVlNMkc3d3VhZVQ2LVdwSS1rVzNqcFVZNkxoQmNQV0oxa3RaYmdESdIBrAFBVV95cUxPQ0c4bDA0cHQzby0xODJYOFFOUTVBbEI0cjNHOWo5cEFLMFFaSHpRUGY4NW5YelMyQ19rWTZuN1Q0YjZQdkx0RmhwN1BFeVgtaWwwM0w4enlua1dlV2pVWW04TFp5WEt1dmxoa1R3N201eVJscXNxd3MxRzd6aVhpYklfU3lsRk5BczlBZUZQbnp6d2RtbXpHcGxzaGVuNk9ZMnBMRXd0RkFuYWNn?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261006T031603Z",
           "pinned": false
         }
       ],
@@ -2025,6 +2025,15 @@
           "reportedAt": "2026-10-06T14:18:18Z"
         },
         {
+          "id": "report-4bae3d5f0b22",
+          "title": "Veteran presented with war medal on 100th birthday",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kWm1uSml5WVZ0Q083WWxfaDVyV083bGJCZlZwNjM4R2k5bmlSMjdBV0g2bW44dmRrdmxHY1lBUC1LaEhUWkdJRjFoYl9yT2luc3FDN0U1Wmc4MlU?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-07T17:04:13Z"
+        },
+        {
           "id": "report-c7d4afc744a0",
           "title": "More Oil, Same War: Why Increased Exports Aren’t a Sign of Iran’s Imminent Defeat",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaDlPd2syRGlsM2F3elo1dk9pM2FRczJBZUJSaHJ4Nl9NZ2g5dnJwSldrSlBCMWtxbWJqc3o4dVFLZVFlOV9lSDVtYWNBaXBwWXpsYTgzZ0szVF9FVXdVZDE4UmU3dlUyZUN6SUR5a0RTbTZEc2xVeGY4VmczT053TndCVEZiQXpPQXR3c2VVOERKd0VybkMyQ1Ftd05BQ0l2?oc=5",
@@ -2041,15 +2050,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-10-07T10:03:38Z"
-        },
-        {
-          "id": "report-4bae3d5f0b22",
-          "title": "Veteran presented with war medal on 100th birthday",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kWm1uSml5WVZ0Q083WWxfaDVyV083bGJCZlZwNjM4R2k5bmlSMjdBV0g2bW44dmRrdmxHY1lBUC1LaEhUWkdJRjFoYl9yT2luc3FDN0U1Wmc4MlU?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-07T17:04:13Z"
         },
         {
           "id": "report-227fbb3fd90a",
@@ -2079,15 +2079,6 @@
           "reportedAt": "2026-10-06T03:41:14Z"
         },
         {
-          "id": "report-95a273fa66c6",
-          "title": "Exclusive: Soldiers and Gold Star families press Army leadership after deadly Iranian drone strike",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOby1QWHVEVk9TLTY0blhNNUliTksyeE5WX3pld3VJMllVYmlPVEhGMk8zTjBCNkNlc2l5d2JGa1FSaGRmNW9DTGlod1RGTUNYdGdWRTRhdUQ5Vkt0QXllMVZCc3VmWllSYWROaGs3Nm16cWd6OUpMUWxKTVRCc0loVmt5UGw0OUVjaTZHbnRFbDMwOVRYZVlqYXVzSTcwQQ?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-05T11:12:00Z"
-        },
-        {
           "id": "report-30cf4f131459",
           "title": "Ethiopian conflict: TPLF forces withdraw from Tigray regional capital Mekelle",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lZnJpVTV6SGZsTVlPOXZPdHpmdGhReGpQa1RneHB5TUR5LXJVcHl3ajI3OHM5ei1IaWc5dmFUWWpmTldsSTVURklnZ0ZBdC1tQXYwYk91ZmNFdkU?oc=5",
@@ -2097,13 +2088,13 @@
           "reportedAt": "2026-10-05T08:29:12Z"
         },
         {
-          "id": "report-2f85dce0aa5b",
-          "title": "War on Iran: Is escalation more likely than a deal?",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZHVmNGprbXFMWEFRSV9EaEZXd2NraWhROFdhc3B2eTcwSzdReENqWEF2cDhySmctdHZBbzNRTDhma0ZvZ3FHVFNBTlQwMWp4ZEh0dEpFSU56alJHSGk0OGtWY3hOQmNJMDY2RjVCVWhOZkc4NWpYY3JFMjU4dzljeUpSN21iNFRsQlNuWUI5NmVrWDFPNGtzMHhmclV0UmZLdjhOV0dvUmMxR3h5R0HSAbMBQVVfeXFMTm9iVTR3TXVhbmxaeU1jMWVRZkwwOWNURFpacjF3b1NWYjNmTlBfdl9kUGdvYWtNdGcxUDdiSkRkX0dnS2JMUDloU182cEtsTVpnWks1YUhuYUpNY0F4am5yOEJLNHdpMl9QVmFmQ1F0dkFCb2pVaXdoWjNsM3BDOGtBLTM2UV9CR3l4aXQ1MzF5cC1ZVzkwTWtIZWhTSTNaYzY3Z1FKT1Bxdk92UGNBb09QNUE?oc=5",
-          "domain": "aljazeera.com",
+          "id": "report-95a273fa66c6",
+          "title": "Exclusive: Soldiers and Gold Star families press Army leadership after deadly Iranian drone strike",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOby1QWHVEVk9TLTY0blhNNUliTksyeE5WX3pld3VJMllVYmlPVEhGMk8zTjBCNkNlc2l5d2JGa1FSaGRmNW9DTGlod1RGTUNYdGdWRTRhdUQ5Vkt0QXllMVZCc3VmWllSYWROaGs3Nm16cWd6OUpMUWxKTVRCc0loVmt5UGw0OUVjaTZHbnRFbDMwOVRYZVlqYXVzSTcwQQ?oc=5",
+          "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-04T18:48:21Z"
+          "reportedAt": "2026-10-05T11:12:00Z"
         },
         {
           "id": "report-800dbd63db5f",
@@ -2151,13 +2142,22 @@
           "reportedAt": "2026-10-05T13:36:47Z"
         },
         {
-          "id": "report-9c9b4b01f8e1",
-          "title": "Saudi Arabia says three wounded in attacks on airports near Yemen border",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWHVKeVJtVklCdVVISmNIb3NVbk9kV1dRYmtMX1dxRTlWWThPNmRzTkIzUlF2WGdVYWxST3JqU3p0akJDUU9jWm84clpuSkEyMG94ZmpoNzN4MkFaa3BjcnRxWnpGSlZBdFlUZ1R2YVFpM1dWdVJqeHAwaWNnRjhzNWx1SWNDb1R1c2pILWdrQ3U4TEZiN2pYdG5HN0s1dTRDMnBKTndzVjVFa2FQSlJqVkVXSdIBuAFBVV95cUxOYW9TMV9wZEVndkZNZlhUSEtmdGYxbktLalVSY3RPOE9tVlM3U041VndUR1VRTTNla2FpYlZvbDdzRjUtM0QxNnpOWmpQdl9LbkhMZG5iM0pBOENqR2Z2eTI4dVRIWC1lV1Z0OWVxZTBLdzB5Wk1oR241bGpKenFoVDdVQmlBSUZhTXNkX09wUmJ2MW5VMG85b1dPdU1ncXN0TWoybzh0bHR2RzdwODZLdEJSb3Z1dkt4?oc=5",
+          "id": "report-51814cb94b5b",
+          "title": "US stocks slide as oil prices fluctuate over renewed Iran war fears",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOHQ5dFo2YXd1enA3VnJ3blZXek5Fc2dnV1NzRURHQmZWV2RINk9fR0M3VThhaGdTYW9TTXk1b1dhbEptX2hWT1RZZ3NhTi1VMGNJVFJrU2hsaDVhMXBybU9Na0RpR3RDM1hZX0RsekdCWmxYWVI3WHdMN1dZd2hEWDlrYlluNURWUFJGYldqYU1nel9aY0hUQ1U2dlVVT0JGaERIRzYzakpyNDZp0gGyAUFVX3lxTE5zMkNybGZYZ09LeHFxY2JiMW1Bdk8tQTJFX21pakFEUnZuTWtxMmpkbENQcll4M3pqN2d4V1R6MGFjektoWDVsTHdiWWRBbUk4V29wWVpWLUkyWnI0MG5hUjZObGJYUlQ1T0xOdDhyRG45cmNWUHVsNDNxZE5OMzRnOExsbjMwOE82MHpDdEs5WmpkU2dXYnhEWmNuRXJ1SF9kOWNWT3VwWTFjSzg4RS1adHc?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-06T11:18:26Z"
+          "reportedAt": "2026-10-08T03:34:37Z"
+        },
+        {
+          "id": "report-04a584b8a323",
+          "title": "81 US aircraft lost or damaged during Iran war, congressional document shows",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNEVjRk9qZ2dyc3pPQ2lvNzVOaEJvV0hFOWhQT0J2R0dDR2ZiZlA0aG5MY1NfUi1nWHhIS0otV3RmMFRmLS10eGJyN0dQNlJWMkt6YWpxS1l6ZktLWkVMZGExa3BXSWlQWjdOeUMzaE9vemNPOTV2Y3FQNVlxM0pCM3c1aTVVTV91UjVFU2NXNTh2dWg0OXJKbURRQlBzcGp0Y1h0bU0tZDBUdzUxS3RVV0FoQ3hSUFVx?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-10-07T13:38:48Z"
         },
         {
           "id": "report-e26f7c7a732c",
@@ -2169,15 +2169,6 @@
           "reportedAt": "2026-10-06T02:37:33Z"
         },
         {
-          "id": "report-469d9fbb4db9",
-          "title": "Germany’s Merz in Kyiv announces $1.5B in aid, urges Putin to end war",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPODNiaXpEanFEcjZWQTgtWkZyRUp4RzEzREpJRGtraDd6S2xrSXBveGlXSWJMeTh2VWw4UFhoalVCMTBLTHhReTlSb3czUjlkY1F0ZXRuRkFWWHZxLWJHdTR6QkZ2LUtiTFNzbGJObk5xWVh4N0F3ZThFU1ZwazZOLXBidlFHaXVnSlRiTnJTb3Jua2VIUjJoQtIBngFBVV95cUxQRFdIR21LY2t6ZDNOUC1PMlV4SkpkQkF3MzVieGVVQ0U3WDM2T3V2NTFoSk9PbWZCQkZac0pxVkNXY0daT3F5Mll2Ty1nUlVKVmZHSEdtaTkxX25sckZIWjVCYllTRk9qRElQbUdRTjFPOVFkSjh0RHBjWTUzSjBleGtnY3kyekFrb29PV2lxNFMtNk44bU5YbzhKQ0gzQQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-04T20:00:46Z"
-        },
-        {
           "id": "report-5a3242e306a9",
           "title": "What does a year-long ceasefire in Gaza look like?",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOU9vbGhkVFVnM082V1phSm8za25Ic0ZXdUc0bUE3bUhrN1FkRHA3X2JmZU1zSjVrdWMwTXFSN1o1Z1pxUVZ5N3V0RFNpUVJlXzNIa1h3NlpmZEVyYjVXM2w1dkl0cUthWTFkell5bHRJQmY4TVppcEY4RDZ2ano3YmJrclF2eHRWQ2E2enBkdFA1Mll6c2lmcGdMaV9jNTFlQm5SYXZfVWRJMHAz0gGyAUFVX3lxTE5tOC0weWVaSmwtZXhqVE5FUjVTTjJDMW5GYTNJdERZNmU3YVNIdGotbFVjcEJsRG5UYlZFQjdLR2FvdE9NSVJockQtLXVkVDNGRUdfN2oxb0k0d0ZWVnUyaEd2bnlVWkFrRHRnZ0dzUVdwNE1EUC02NUNSVEpYV0dXaWxZOGkyVmVLM1lnTkkySUJIYXJHbmo5b05vdFNCanJsZHdOWC1zckotVU9MdTRvbVE?oc=5",
@@ -2187,13 +2178,13 @@
           "reportedAt": "2026-10-07T08:56:02Z"
         },
         {
-          "id": "report-f6f14fd31975",
-          "title": "White House aide: Trump did not call for attacks on US cities but explained how he's preventing them",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeEtXbF9ZN2UxYktYMG9pRWVuYVA3X1UwUC1EOElkdVE0ZDhDLUJBZm9ETjJhREJPakVQRW42Uk9HN2RJQ3pUMlN0alZrRDktNEVsLUl4QXhGcGw1YUEwRjUwNjRTZE9mSXNvRmZRbDVxWGlWa3U5enNkc0pWWmFtdXF0NWluNGg0MV9zM2EzSXA1aWdiRDZUbUhwa2E?oc=5",
-          "domain": "apnews.com",
+          "id": "report-385b3d4ac4a3",
+          "title": "At least 20 killed as Russia launches ‘massive’ attack on Ukraine",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMFd0djYtZ2loUjk2bnIyUm1CaUlka2RWYXNqVHBzLXg2cUMtV21lUFRQRmdlem5CY0pHVF92Y3RsMUY3YmpYTUtuYklUT2ptTjJHZnlSdW1NMVN1R082Nm5XWk1Jalh6QXZ1YkptQ0JEUVh2bGZ6R1otR0RnM3hueHNUSjlCSlY3M05oeXdleW95RV85Q2hTQ2FtZkpXYzFPemtzNzYySGtNT19QTXZkOFVHc9IBuAFBVV95cUxOV0YtWWxyOGtTam96alFhTzJ4aDI5UFFYOFZzUjBoTUFnZmgtMzROQm9wVWZDYlBUOFBIZ25yejg4aElCS281SFdFTTBHRGQtajdwZjBvcS1aZ1VHZVl3b19QZkdMRExESEJ5Wm5JNUh5M0xmb2NMYlVaQk5mZmdRWFJMU3NyYU4wMXhvdjBLczlndGdGQ0lMWHI4WWV0em5OS21hMmYtX0xKTUlfemstal84NkwwSkY2?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-06T19:45:00Z"
+          "reportedAt": "2026-10-07T15:37:57Z"
         },
         {
           "id": "report-a125bce27d39",
@@ -2203,6 +2194,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-10-06T12:48:31Z"
+        },
+        {
+          "id": "report-206218c174eb",
+          "title": "Ukraine says Russian drone attack sinks ship in Romanian waters",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYWdCUnhRQWc0UHFlc25JZFhubm9uZGpDUnpucDZPS2tQem9aMFpJMzVZVzY4TnFWOTdOdEpZNFRNd093RzRoNVV2djZkS0o3UGFiWkw5SUwyMjRBQlhpcFB6N3ZiZWlGeVBDd3BDX2oyUDEzajVwM1VyMFdoa1dhVVlNMkc3d3VhZVQ2LVdwSS1rVzNqcFVZNkxoQmNQV0oxa3RaYmdESdIBrAFBVV95cUxPQ0c4bDA0cHQzby0xODJYOFFOUTVBbEI0cjNHOWo5cEFLMFFaSHpRUGY4NW5YelMyQ19rWTZuN1Q0YjZQdkx0RmhwN1BFeVgtaWwwM0w4enlua1dlV2pVWW04TFp5WEt1dmxoa1R3N201eVJscXNxd3MxRzd6aVhpYklfU3lsRk5BczlBZUZQbnp6d2RtbXpHcGxzaGVuNk9ZMnBMRXd0RkFuYWNn?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-06T03:16:03Z"
         },
         {
           "id": "report-67598f362237",
