@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-09T06:07:26.364Z",
+  "generatedAt": "2026-10-09T20:20:48.352Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -9,7 +9,7 @@
       "items": []
     },
     "safety": {
-      "generatedAt": "2026-10-08T20:50:17.941Z",
+      "generatedAt": "2026-10-09T20:20:48.352Z",
       "cadence": "daily",
       "items": [
         {
@@ -19,6 +19,22 @@
           "sourceTier": "Official / intergovernmental",
           "seen": "20250129T204800Z",
           "pinned": true
+        },
+        {
+          "title": "US Army report cites systematic failures in 2025 helicopter and jet collision that killed 67",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPOXpVWFZrYnNLY3YtTk1LcDBTRm1ZM1gwT0dYeVhiUWNfcjg5MTN3WnQ3dzZRUlpxVzVyWXZYMTlYOUQzV09yUWtrT2M2Y3Rzc0hORVRQS0xhSTVNVkxZOTB5aTh4OGlOUDVpTUhCb3VOZ28wYnBFbnBycTNYTDNHMEtMU1NuRHZUQUZxSzQ2RDhVLUFSUmNoQlltWmxrT29peVliTlRramlPYWoyM284djlVbml1RVU3aUtiNWVMN2Jjc1BERm1uX1ZPMHhNNG91RnN3b19B?oc=5",
+          "domain": "reuters.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261008T180322Z",
+          "pinned": false
+        },
+        {
+          "title": "4 Marines ‘receiving medical care’ after hard landing of MV-22B Osprey in North Carolina",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTEpwTXQwTlVQUnktdmpMZ2NMbTJQSGZOZ1NpRUNNREhCdk5oUDA2VjQySnhLelBycG9lR3cyY0tLenM3b3MtZjVVUUtkakdqRTlncXBYQS1wQlZlS2xwV2R1TC1KTFh1LU9zbmpvNThOMTNvUmN1RWtlYl9fV3l1YXA2YUVKOG11bG43aS1ubHFSVmJSeFQxYzZ0OEhIUWdLVUdjUVpR?oc=5",
+          "domain": "stripes.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261007T232403Z",
+          "pinned": false
         },
         {
           "title": "After two F-16 crashes, Air Force revamps how crews inspect a ‘blind spot’",
@@ -34,6 +50,22 @@
           "domain": "stripes.com",
           "sourceTier": "Independent reporting",
           "seen": "20260922T070000Z",
+          "pinned": false
+        },
+        {
+          "title": "PLR 26-072 – Automobile Mishap Claims One Soldier’s Life",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbzBQbzN3NkRnbDhkaUdTWUt3ZHR3R3JaOHhKZkZySklJdVRWbDNLb3Bxb1J6ZXFaSUVSbC02V2tGbmFGVXVveXVDUnJIZzlEbHJwSzBNYUxqRVI4eGFjWWdBWWVDVW1KT29LMXBGUHhldTVzMWxMdGZMZkpZMmpRWHMzRVc5X0E0YUlXZmQzR0NlU1VZbk55V3Z2RDQzVFZ2Y1RzX2w1VFRaRm1VQzBrV2lVZUVKU0pmM2R5S1IyTkdtNXVwZ3N0N1FYbTZnR0ZYcjIyaWk5ZHYyWVU0eGpz?oc=5",
+          "domain": "safety.army.mil",
+          "sourceTier": "Official military source",
+          "seen": "20261008T203919Z",
+          "pinned": false
+        },
+        {
+          "title": "PLR 26-071 – Motorcycle Mishap Claims One Soldier’s Life",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQczRZdndTcDBOeFNwWmd6d0dqUG9hVnJwU2tFcTlVNzQ2cFQ4TklRWGx4RmhRWDRucXdHaV9INm5DV1JISHZoTGVNR0t6OGY5M1ZaeTlZRWZqU1lkaTBNV3R0YUJIbGtNTEMwNFdmcWpPazB6Q0RBQzJOWHVLekdRaXNnQXg4bDQ2TkhkZHNFVHNrZEZxeVZySWNQTTVWRk04VkFfSHFUbjV5clZoUldxczJkUWdOZ3ZJNmNZa2pCNXpOdFZhdWxRUllMMURONWlxd29zLTQzUzJwS0ZNMTBF?oc=5",
+          "domain": "safety.army.mil",
+          "sourceTier": "Official military source",
+          "seen": "20261008T203918Z",
           "pinned": false
         },
         {
@@ -67,9 +99,35 @@
           "sourceTier": "Official military source",
           "seen": "20261005T212744Z",
           "pinned": false
+        },
+        {
+          "title": "Coast Guard hoists injured man from Hammond Marina jetty",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWkJ2QzhyWVlxNk1nU29ycUZGYmlNUU84NUIzMWVXdnZiMXdLRFdtLXotZ08zeHBfN3FuR3FjYWh0VkVDcGlfWG4wLUhYMFBBam1KZ08zUkJ5TlRfbXRMUG5fd0xsbFoyekNSa1BGZFpSdmVGdzhWY1FUN1hNV1Mtb2hLRE9aQ1dxZW5HOW5zTmVyalZHQ0VTeHBteWxtaU9oa0hfTjA3VklBRXpNUzI0dFZ6d0w?oc=5",
+          "domain": "news.uscg.mil",
+          "sourceTier": "Official military source",
+          "seen": "20260927T070000Z",
+          "pinned": false
         }
       ],
       "incidents": [
+        {
+          "id": "auto-1a42f88533a0",
+          "reportDate": "2026-10-08",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Aviation",
+          "event": "US Army report cites systematic failures in 2025 helicopter and jet collision that killed 67",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPOXpVWFZrYnNLY3YtTk1LcDBTRm1ZM1gwT0dYeVhiUWNfcjg5MTN3WnQ3dzZRUlpxVzVyWXZYMTlYOUQzV09yUWtrT2M2Y3Rzc0hORVRQS0xhSTVNVkxZOTB5aTh4OGlOUDVpTUhCb3VOZ28wYnBFbnBycTNYTDNHMEtMU1NuRHZUQUZxSzQ2RDhVLUFSUmNoQlltWmxrT29peVliTlRramlPYWoyM284djlVbml1RVU3aUtiNWVMN2Jjc1BERm1uX1ZPMHhNNG91RnN3b19B?oc=5",
+          "sourceLabel": "reuters.com"
+        },
         {
           "id": "auto-d71c2400a768",
           "reportDate": "2026-10-08",
@@ -87,6 +145,60 @@
           "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
           "source": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95ZV8zX0d2ZFZlM0NYVUt6WW5vNVljNUZpSW9VR0pfcDVqWkpiZS0xaXF5UGJ1Qmt0akVDLWFIQ2xnaEJmWXFXdFM4WGk5djgxTXl4MFc4dE9SVTJOY1U0dk5fcy0tczhYWVduVVE5V2ZMVlVXeWZrQw?oc=5",
           "sourceLabel": "taskandpurpose.com"
+        },
+        {
+          "id": "auto-b18187ac61d5",
+          "reportDate": "2026-10-08",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Other",
+          "event": "PLR 26-072 – Automobile Mishap Claims One Soldier’s Life",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "OFFICIAL INTAKE",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Official military source",
+          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
+          "source": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbzBQbzN3NkRnbDhkaUdTWUt3ZHR3R3JaOHhKZkZySklJdVRWbDNLb3Bxb1J6ZXFaSUVSbC02V2tGbmFGVXVveXVDUnJIZzlEbHJwSzBNYUxqRVI4eGFjWWdBWWVDVW1KT29LMXBGUHhldTVzMWxMdGZMZkpZMmpRWHMzRVc5X0E0YUlXZmQzR0NlU1VZbk55V3Z2RDQzVFZ2Y1RzX2w1VFRaRm1VQzBrV2lVZUVKU0pmM2R5S1IyTkdtNXVwZ3N0N1FYbTZnR0ZYcjIyaWk5ZHYyWVU0eGpz?oc=5",
+          "sourceLabel": "safety.army.mil"
+        },
+        {
+          "id": "auto-e6a179383909",
+          "reportDate": "2026-10-08",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Other",
+          "event": "PLR 26-071 – Motorcycle Mishap Claims One Soldier’s Life",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "OFFICIAL INTAKE",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Official military source",
+          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
+          "source": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQczRZdndTcDBOeFNwWmd6d0dqUG9hVnJwU2tFcTlVNzQ2cFQ4TklRWGx4RmhRWDRucXdHaV9INm5DV1JISHZoTGVNR0t6OGY5M1ZaeTlZRWZqU1lkaTBNV3R0YUJIbGtNTEMwNFdmcWpPazB6Q0RBQzJOWHVLekdRaXNnQXg4bDQ2TkhkZHNFVHNrZEZxeVZySWNQTTVWRk04VkFfSHFUbjV5clZoUldxczJkUWdOZ3ZJNmNZa2pCNXpOdFZhdWxRUllMMURONWlxd29zLTQzUzJwS0ZNMTBF?oc=5",
+          "sourceLabel": "safety.army.mil"
+        },
+        {
+          "id": "auto-542bd4a80ff2",
+          "reportDate": "2026-10-07",
+          "dateBasis": "report discovery date",
+          "branch": "Marine Corps",
+          "department": "Department of the Navy",
+          "type": "Aviation",
+          "event": "4 Marines ‘receiving medical care’ after hard landing of MV-22B Osprey in North Carolina",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTEpwTXQwTlVQUnktdmpMZ2NMbTJQSGZOZ1NpRUNNREhCdk5oUDA2VjQySnhLelBycG9lR3cyY0tLenM3b3MtZjVVUUtkakdqRTlncXBYQS1wQlZlS2xwV2R1TC1KTFh1LU9zbmpvNThOMTNvUmN1RWtlYl9fV3l1YXA2YUVKOG11bG43aS1ubHFSVmJSeFQxYzZ0OEhIUWdLVUdjUVpR?oc=5",
+          "sourceLabel": "stripes.com"
         },
         {
           "id": "auto-1239846d3108",
