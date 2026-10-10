@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-10T12:29:54.818Z",
+  "generatedAt": "2026-10-10T19:31:49.077Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -21,7 +21,7 @@
       ]
     },
     "safety": {
-      "generatedAt": "2026-10-09T20:20:48.352Z",
+      "generatedAt": "2026-10-10T19:31:49.077Z",
       "cadence": "daily",
       "items": [
         {
@@ -45,7 +45,7 @@
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTEpwTXQwTlVQUnktdmpMZ2NMbTJQSGZOZ1NpRUNNREhCdk5oUDA2VjQySnhLelBycG9lR3cyY0tLenM3b3MtZjVVUUtkakdqRTlncXBYQS1wQlZlS2xwV2R1TC1KTFh1LU9zbmpvNThOMTNvUmN1RWtlYl9fV3l1YXA2YUVKOG11bG43aS1ubHFSVmJSeFQxYzZ0OEhIUWdLVUdjUVpR?oc=5",
           "domain": "stripes.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261007T232403Z",
+          "seen": "20261008T192631Z",
           "pinned": false
         },
         {
@@ -89,19 +89,19 @@
           "pinned": false
         },
         {
-          "title": "Coast Guard continues search for six people after locating debris from missing aircraft off Nantucket",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbU9EZ3M0cHFlaFBTTzZRT000djU0cnQ0UjRBVjZUYVB6Wm40czVzX2s5eEdFWVhWOE5lXzNfQ21fUlQwSHNDdzN3WkRmNG1pc3NVSzhKTU9qMldnMUxpWnBXZ2x0TFEyZS01MWZpWGFGNGJmUkkwekNBNjIwMG1KTGNhMHByZDJjOVdLZ2tJT0tTTTU0TUNzbU15Ty0zWHhib1I2ZDVhcjg4bjFiZ1BSV0lkTEN1R0tRekZRbUFnai1YajB1Mld4UU8tQjRVTWQ0VVE?oc=5",
-          "domain": "news.uscg.mil",
-          "sourceTier": "Official military source",
-          "seen": "20261004T013929Z",
-          "pinned": false
-        },
-        {
           "title": "Coast Guard suspends search near Manchester-by-the-Sea",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRU9jNTBqSDFtSUFLSURUYmduWGxNUGl2RElOMnRhQllXdGFDMGxWSnJWaUxKMUdVVnBfZGRYUi0wYTNNYjg4MUlJeW1hVXJvUGp2LU1fa2o3cHlObTBQdVQ2cFhIenBIV2RuNVUxRXc1V0hPaHZ6WDBuVzVsZXF2aGRER1d2ODd2aTdTWE0yY3dNa0xwWHFCaThTTFVZajNWRk9wdW4zRFlzTFNCLW95bEV3?oc=5",
           "domain": "news.uscg.mil",
           "sourceTier": "Official military source",
           "seen": "20261004T195433Z",
+          "pinned": false
+        },
+        {
+          "title": "Coast Guard continues search for six people after locating debris from missing aircraft off Nantucket",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbU9EZ3M0cHFlaFBTTzZRT000djU0cnQ0UjRBVjZUYVB6Wm40czVzX2s5eEdFWVhWOE5lXzNfQ21fUlQwSHNDdzN3WkRmNG1pc3NVSzhKTU9qMldnMUxpWnBXZ2x0TFEyZS01MWZpWGFGNGJmUkkwekNBNjIwMG1KTGNhMHByZDJjOVdLZ2tJT0tTTTU0TUNzbU15Ty0zWHhib1I2ZDVhcjg4bjFiZ1BSV0lkTEN1R0tRekZRbUFnai1YajB1Mld4UU8tQjRVTWQ0VVE?oc=5",
+          "domain": "news.uscg.mil",
+          "sourceTier": "Official military source",
+          "seen": "20261004T013929Z",
           "pinned": false
         },
         {
@@ -139,6 +139,24 @@
           "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
           "source": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPOXpVWFZrYnNLY3YtTk1LcDBTRm1ZM1gwT0dYeVhiUWNfcjg5MTN3WnQ3dzZRUlpxVzVyWXZYMTlYOUQzV09yUWtrT2M2Y3Rzc0hORVRQS0xhSTVNVkxZOTB5aTh4OGlOUDVpTUhCb3VOZ28wYnBFbnBycTNYTDNHMEtMU1NuRHZUQUZxSzQ2RDhVLUFSUmNoQlltWmxrT29peVliTlRramlPYWoyM284djlVbml1RVU3aUtiNWVMN2Jjc1BERm1uX1ZPMHhNNG91RnN3b19B?oc=5",
           "sourceLabel": "reuters.com"
+        },
+        {
+          "id": "auto-542bd4a80ff2",
+          "reportDate": "2026-10-08",
+          "dateBasis": "report discovery date",
+          "branch": "Marine Corps",
+          "department": "Department of the Navy",
+          "type": "Aviation",
+          "event": "4 Marines ‘receiving medical care’ after hard landing of MV-22B Osprey in North Carolina",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTEpwTXQwTlVQUnktdmpMZ2NMbTJQSGZOZ1NpRUNNREhCdk5oUDA2VjQySnhLelBycG9lR3cyY0tLenM3b3MtZjVVUUtkakdqRTlncXBYQS1wQlZlS2xwV2R1TC1KTFh1LU9zbmpvNThOMTNvUmN1RWtlYl9fV3l1YXA2YUVKOG11bG43aS1ubHFSVmJSeFQxYzZ0OEhIUWdLVUdjUVpR?oc=5",
+          "sourceLabel": "stripes.com"
         },
         {
           "id": "auto-d71c2400a768",
@@ -195,24 +213,6 @@
           "sourceLabel": "safety.army.mil"
         },
         {
-          "id": "auto-542bd4a80ff2",
-          "reportDate": "2026-10-07",
-          "dateBasis": "report discovery date",
-          "branch": "Marine Corps",
-          "department": "Department of the Navy",
-          "type": "Aviation",
-          "event": "4 Marines ‘receiving medical care’ after hard landing of MV-22B Osprey in North Carolina",
-          "location": "See official source",
-          "fatalities": null,
-          "injuries": null,
-          "status": "REPORTED / UNVALIDATED",
-          "signalClass": "REPORTED MISHAP",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
-          "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTEpwTXQwTlVQUnktdmpMZ2NMbTJQSGZOZ1NpRUNNREhCdk5oUDA2VjQySnhLelBycG9lR3cyY0tLenM3b3MtZjVVUUtkakdqRTlncXBYQS1wQlZlS2xwV2R1TC1KTFh1LU9zbmpvNThOMTNvUmN1RWtlYl9fV3l1YXA2YUVKOG11bG43aS1ubHFSVmJSeFQxYzZ0OEhIUWdLVUdjUVpR?oc=5",
-          "sourceLabel": "stripes.com"
-        },
-        {
           "id": "auto-1239846d3108",
           "reportDate": "2026-10-05",
           "dateBasis": "report discovery date",
@@ -249,24 +249,6 @@
           "sourceLabel": "apnews.com"
         },
         {
-          "id": "auto-5a85e5fdf7e4",
-          "reportDate": "2026-10-04",
-          "dateBasis": "report discovery date",
-          "branch": "Coast Guard",
-          "department": "Department of Homeland Security",
-          "type": "Aviation",
-          "event": "Coast Guard continues search for six people after locating debris from missing aircraft off Nantucket",
-          "location": "See official source",
-          "fatalities": null,
-          "injuries": null,
-          "status": "OFFICIAL INTAKE",
-          "signalClass": "REPORTED MISHAP",
-          "sourceTier": "Official military source",
-          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
-          "source": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbU9EZ3M0cHFlaFBTTzZRT000djU0cnQ0UjRBVjZUYVB6Wm40czVzX2s5eEdFWVhWOE5lXzNfQ21fUlQwSHNDdzN3WkRmNG1pc3NVSzhKTU9qMldnMUxpWnBXZ2x0TFEyZS01MWZpWGFGNGJmUkkwekNBNjIwMG1KTGNhMHByZDJjOVdLZ2tJT0tTTTU0TUNzbU15Ty0zWHhib1I2ZDVhcjg4bjFiZ1BSV0lkTEN1R0tRekZRbUFnai1YajB1Mld4UU8tQjRVTWQ0VVE?oc=5",
-          "sourceLabel": "news.uscg.mil"
-        },
-        {
           "id": "auto-6baf4576823a",
           "reportDate": "2026-10-04",
           "dateBasis": "report discovery date",
@@ -282,6 +264,24 @@
           "sourceTier": "Official military source",
           "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
           "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRU9jNTBqSDFtSUFLSURUYmduWGxNUGl2RElOMnRhQllXdGFDMGxWSnJWaUxKMUdVVnBfZGRYUi0wYTNNYjg4MUlJeW1hVXJvUGp2LU1fa2o3cHlObTBQdVQ2cFhIenBIV2RuNVUxRXc1V0hPaHZ6WDBuVzVsZXF2aGRER1d2ODd2aTdTWE0yY3dNa0xwWHFCaThTTFVZajNWRk9wdW4zRFlzTFNCLW95bEV3?oc=5",
+          "sourceLabel": "news.uscg.mil"
+        },
+        {
+          "id": "auto-5a85e5fdf7e4",
+          "reportDate": "2026-10-04",
+          "dateBasis": "report discovery date",
+          "branch": "Coast Guard",
+          "department": "Department of Homeland Security",
+          "type": "Aviation",
+          "event": "Coast Guard continues search for six people after locating debris from missing aircraft off Nantucket",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "OFFICIAL INTAKE",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Official military source",
+          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
+          "source": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbU9EZ3M0cHFlaFBTTzZRT000djU0cnQ0UjRBVjZUYVB6Wm40czVzX2s5eEdFWVhWOE5lXzNfQ21fUlQwSHNDdzN3WkRmNG1pc3NVSzhKTU9qMldnMUxpWnBXZ2x0TFEyZS01MWZpWGFGNGJmUkkwekNBNjIwMG1KTGNhMHByZDJjOVdLZ2tJT0tTTTU0TUNzbU15Ty0zWHhib1I2ZDVhcjg4bjFiZ1BSV0lkTEN1R0tRekZRbUFnai1YajB1Mld4UU8tQjRVTWQ0VVE?oc=5",
           "sourceLabel": "news.uscg.mil"
         },
         {
