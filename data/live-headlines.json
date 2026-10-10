@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-10T05:51:28.241Z",
+  "generatedAt": "2026-10-10T12:29:54.818Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-10-10T05:51:28.241Z",
+      "generatedAt": "2026-10-10T12:29:54.818Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -1925,7 +1925,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-10-10T05:51:28.241Z",
+      "generatedAt": "2026-10-10T12:29:54.818Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -1958,6 +1958,14 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20261007T100338Z",
+          "pinned": false
+        },
+        {
+          "title": "Photos: Gaza before and after – a city transformed by war",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSlY2QXJiS1ZqbXFSQTg0Q0NKV1dIZ2ZtSzBsTy1qNTB0NFIwdk1PbGFfMk9LSjNFNVlLX3ZwNDUyQ2l2UE9Xak50M25mZnhjNHpqalNKTTdmbHFSa2YwLU10Uk1HQjlCa0U2LUlKTm5jNGpHa0NCNDd5WlFDVGtHb0Q3LTRWTEE1ZklJWUZycTdmUTEtTUHSAZsBQVVfeXFMT2NscE5SZDluWG5TckhEaVBmc3c5VEtiSjlQOFFFRzcyMnlOZVVzaWZGNndEbEp0MTdhZVlHSnFBWXpPazBvUUFGNEJvYzZCS1NDaDE3T2hyWWR4QV9LVjhJZG9qeFpDc2ZGVDNOdzhoSFNPTXhpWVhjdExCa2tBWGppZHp5OWtBdXhqWUFPSkhHLUpDMUtadWVHbW8?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261009T053253Z",
           "pinned": false
         },
         {
@@ -1998,6 +2006,14 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20261008T231308Z",
+          "pinned": false
+        },
+        {
+          "title": "Israel’s economy prospers despite years of war, but prices worry voters",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLTliWDFjcUlQUkFkcS1FY2ZZTF96eThjSzJ0LUY0Wlh6Vi00djFQUldoRkhUS1R2NnpVZnV1U3BfRDMyYVROcFdJRzNMU0x5N3hlNFd5cHhwZm54X0lFRThJWE9EaG9ILWtIVGpXZzFjckhMSUk2bk5yUEJOX3l3c2pMaFVCRHdpRXpIdkFOUjFELWVzRGM5eU5WcDBXemk0MndnM191dW0zRnZhOVBOTlpic2TSAboBQVVfeXFMT1VkVkdMcWV5OGlFYTRjZTktLTcxekhGMnFFMjAtck1nb1BlVE04a1VoN0M2SnQ2UTloY2pOUUN1bHd4c2UtRkNwNnVJbVBlbVVHS291MUNtckxLeXdEcFdoSUFKVEZMZk8tQTdBQm9NRVAzSXNpOXMxM3hiZzZZSm1jbXhsQTJNNkMxQUhHdi1tYUpfSHZIblR0OFpEQXJvVl9ZY3FuZlE0eFZxb21VQUFPN0x3MUdmNThn?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261010T053335Z",
           "pinned": false
         },
         {
@@ -2081,14 +2097,6 @@
           "pinned": false
         },
         {
-          "title": "Saudi Arabia says three nationals killed in Houthi attacks on Riyadh airport.",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92am4zWndmemw0Yk5TY3hGVVc0dTZPb2hSeXBCYUtkbE42aENGenFSWUh6UWtLVG9vX0JXMktWdVpDc2stc0ZQV1MzOXZNS2hvOW9uX09rS2xFNWc?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261009T135025Z",
-          "pinned": false
-        },
-        {
           "title": "Russia’s Attacks in Europe Are Escalating. Here Is How to Push Back.",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOT2l6b1U0YjVSeGpUVVBndzB1eHpVSm9lSGFyNzA2TDBvUm5vWmN3N0QxeVNfekhfcUpiVDlsNm40Yll4bjZrV1M4cXNmYVlMUkFEUXVPRk9TX1Z6RlJ4TDFhVnNzVVlYbmVTaFhRRE5YbURNWElQQmRpRFpNTWVMdlVTSElubThIZWYzMDQ4NWZKeFZydjl1ZHBn?oc=5",
           "domain": "cfr.org",
@@ -2110,14 +2118,6 @@
           "domain": "al-monitor.com",
           "sourceTier": "Regional reporting",
           "seen": "20261009T182610Z",
-          "pinned": false
-        },
-        {
-          "title": "Stigma, funding cuts and the Iran war put contraception out of reach for Africa’s girls",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaXRnNUM4OVE4bWJDYTJjUmVjSGJFMXpGUkl6bHRUQTZySU9CTmJBNmlTZmRFOUlWMW0yNzJGalh1dlYyQXhweEViRUh6ZUtud0w1UmRPV1FNa1BXMHdvUnQyRThfQ1ptWHV2ZmJwZ0VKLVhLRUlMVzJ4a3VmNGotdEc4YTQ3Vnd1MFY4UGNWd01Ua2IxaU9tY000Tzl5V0Zu?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261009T050100Z",
           "pinned": false
         }
       ],
@@ -2157,6 +2157,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-10-07T10:03:38Z"
+        },
+        {
+          "id": "report-8c971eeebff5",
+          "title": "Photos: Gaza before and after – a city transformed by war",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSlY2QXJiS1ZqbXFSQTg0Q0NKV1dIZ2ZtSzBsTy1qNTB0NFIwdk1PbGFfMk9LSjNFNVlLX3ZwNDUyQ2l2UE9Xak50M25mZnhjNHpqalNKTTdmbHFSa2YwLU10Uk1HQjlCa0U2LUlKTm5jNGpHa0NCNDd5WlFDVGtHb0Q3LTRWTEE1ZklJWUZycTdmUTEtTUHSAZsBQVVfeXFMT2NscE5SZDluWG5TckhEaVBmc3c5VEtiSjlQOFFFRzcyMnlOZVVzaWZGNndEbEp0MTdhZVlHSnFBWXpPazBvUUFGNEJvYzZCS1NDaDE3T2hyWWR4QV9LVjhJZG9qeFpDc2ZGVDNOdzhoSFNPTXhpWVhjdExCa2tBWGppZHp5OWtBdXhqWUFPSkhHLUpDMUtadWVHbW8?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-09T05:32:53Z"
         },
         {
           "id": "report-501b58295685",
@@ -2202,6 +2211,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-10-08T23:13:08Z"
+        },
+        {
+          "id": "report-ca6edbdf3480",
+          "title": "Israel’s economy prospers despite years of war, but prices worry voters",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLTliWDFjcUlQUkFkcS1FY2ZZTF96eThjSzJ0LUY0Wlh6Vi00djFQUldoRkhUS1R2NnpVZnV1U3BfRDMyYVROcFdJRzNMU0x5N3hlNFd5cHhwZm54X0lFRThJWE9EaG9ILWtIVGpXZzFjckhMSUk2bk5yUEJOX3l3c2pMaFVCRHdpRXpIdkFOUjFELWVzRGM5eU5WcDBXemk0MndnM191dW0zRnZhOVBOTlpic2TSAboBQVVfeXFMT1VkVkdMcWV5OGlFYTRjZTktLTcxekhGMnFFMjAtck1nb1BlVE04a1VoN0M2SnQ2UTloY2pOUUN1bHd4c2UtRkNwNnVJbVBlbVVHS291MUNtckxLeXdEcFdoSUFKVEZMZk8tQTdBQm9NRVAzSXNpOXMxM3hiZzZZSm1jbXhsQTJNNkMxQUhHdi1tYUpfSHZIblR0OFpEQXJvVl9ZY3FuZlE0eFZxb21VQUFPN0x3MUdmNThn?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-10T05:33:35Z"
         },
         {
           "id": "report-436bc085441f",
@@ -2294,15 +2312,6 @@
           "reportedAt": "2026-10-07T15:37:57Z"
         },
         {
-          "id": "report-4e891b6375c1",
-          "title": "Saudi Arabia says three nationals killed in Houthi attacks on Riyadh airport.",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92am4zWndmemw0Yk5TY3hGVVc0dTZPb2hSeXBCYUtkbE42aENGenFSWUh6UWtLVG9vX0JXMktWdVpDc2stc0ZQV1MzOXZNS2hvOW9uX09rS2xFNWc?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-09T13:50:25Z"
-        },
-        {
           "id": "report-c3f7d6c03713",
           "title": "Russia’s Attacks in Europe Are Escalating. Here Is How to Push Back.",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOT2l6b1U0YjVSeGpUVVBndzB1eHpVSm9lSGFyNzA2TDBvUm5vWmN3N0QxeVNfekhfcUpiVDlsNm40Yll4bjZrV1M4cXNmYVlMUkFEUXVPRk9TX1Z6RlJ4TDFhVnNzVVlYbmVTaFhRRE5YbURNWElQQmRpRFpNTWVMdlVTSElubThIZWYzMDQ4NWZKeFZydjl1ZHBn?oc=5",
@@ -2328,15 +2337,6 @@
           "sourceTier": "Regional reporting",
           "confidenceLabel": "REGIONAL REPORT · UNCONFIRMED",
           "reportedAt": "2026-10-09T18:26:10Z"
-        },
-        {
-          "id": "report-ce662c90643e",
-          "title": "Stigma, funding cuts and the Iran war put contraception out of reach for Africa’s girls",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaXRnNUM4OVE4bWJDYTJjUmVjSGJFMXpGUkl6bHRUQTZySU9CTmJBNmlTZmRFOUlWMW0yNzJGalh1dlYyQXhweEViRUh6ZUtud0w1UmRPV1FNa1BXMHdvUnQyRThfQ1ptWHV2ZmJwZ0VKLVhLRUlMVzJ4a3VmNGotdEc4YTQ3Vnd1MFY4UGNWd01Ua2IxaU9tY000Tzl5V0Zu?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-09T05:01:00Z"
         },
         {
           "id": "report-c7d4afc744a0",
