@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-11T20:14:01.795Z",
+  "generatedAt": "2026-10-11T21:57:39.165Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-10-11T12:47:37.927Z",
+      "generatedAt": "2026-10-11T21:57:39.165Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -2025,9 +2025,17 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-10-11T12:47:37.927Z",
+      "generatedAt": "2026-10-11T21:57:39.165Z",
       "cadence": "every 6 hours",
       "items": [
+        {
+          "title": "How genocidal war on Gaza is shaping Israel’s election",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVGhaaEY0YkNFN2tIbmVxQXJRd3Znc1dnM3E3Q2FpUlUxamU3UjdrQmlWV0JwWEpWVXJBX0ZncWZOaWc3Q1VxNFREVW5jbENMSUN5TVBFNWpaeHNzdnZRVklrMWNVUXQtUG5HRi1OeExSV3VUaHdGWEY2U01fX2tmZGlDWnE2ZVoyS3phbHFMV3Jjek5pbXJlYkNBSGF6QWxndlRPNjk3b9IBrAFBVV95cUxNSWJ3ZVh6bnhhdTRhZ1RSTDVQMzZPMzdPajNzVlB5Rmg0TE9od3NBU1YwejBWQ3l3eGdUcnFQZGpRemRWcWFfRWhhUENVYWx3LVlXRDJ5UGZGaXBzWm5HcWdtemVWX0txQmJub052OGFYR1F0dGJ2TVN3X1BUbHptbHlUd21GbVZhY24wa2ROdGlqaVEtUnZITExoVEdUazZ6bi0zY1lKbTlnMlpl?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261011T054926Z",
+          "pinned": false
+        },
         {
           "title": "Will Ethiopia’s neighbours intervene as Tigray war escalates?",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbHdkSlRBV2ZHeTAyMndOQ01oR2ZfOHZlLW1qRlVFcmJZa3ZaQzhnX3Z1VmJqbHVkR1F2azdOQlRvQkdESmhSNmZJZjNMdHoyYm5RN2Jnd084NEd3ZGszWkRxV1IxV1BkelB5ckJnel9pYm9iLTQyOGVmQTYtb3dGeDVMaHVnLTFBcWxpeHVQU1dCQ2lhN1A4WFpYQkp6eTdUQVHSAacBQVVfeXFMTVFsUXI0Ti1TQ09scUF1cjR3ejJNMm0tT2pCMzltRWVmUUtmSXJkeXAxdDNxQjlYX09vVTd2WW54YURoaGNkbFlGb1htSVIyXzNMc1RVNTNUY3FyUjVOY1FxYXAtNE5uVzJOeEpFMjhVOFdSbnhLWE1BeXNkYlpvQVk0SkdXSlQxMUttcGxYckN3bXNUMWhHcXNGQVJuWjdCZzk0dEl0Qjg?oc=5",
@@ -2037,11 +2045,35 @@
           "pinned": false
         },
         {
-          "title": "How genocidal war on Gaza is shaping Israel’s election",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVGhaaEY0YkNFN2tIbmVxQXJRd3Znc1dnM3E3Q2FpUlUxamU3UjdrQmlWV0JwWEpWVXJBX0ZncWZOaWc3Q1VxNFREVW5jbENMSUN5TVBFNWpaeHNzdnZRVklrMWNVUXQtUG5HRi1OeExSV3VUaHdGWEY2U01fX2tmZGlDWnE2ZVoyS3phbHFMV3Jjek5pbXJlYkNBSGF6QWxndlRPNjk3b9IBrAFBVV95cUxNSWJ3ZVh6bnhhdTRhZ1RSTDVQMzZPMzdPajNzVlB5Rmg0TE9od3NBU1YwejBWQ3l3eGdUcnFQZGpRemRWcWFfRWhhUENVYWx3LVlXRDJ5UGZGaXBzWm5HcWdtemVWX0txQmJub052OGFYR1F0dGJ2TVN3X1BUbHptbHlUd21GbVZhY24wa2ROdGlqaVEtUnZITExoVEdUazZ6bi0zY1lKbTlnMlpl?oc=5",
+          "title": "Trump says Ukraine and Russia have agreed 'energy ceasefire'",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04QUtQbDZLV05uX0dPcEwxc3poa1BGZGVYdmVjM2NzQ3pUMkowOVd6ZzBMTGRZNG9KVlhUNHNqR3o1SG5sel96Rnd3YVJQMjEwZ09zRnoxSFcxQ2s?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261011T201536Z",
+          "pinned": false
+        },
+        {
+          "title": "Yemen fighting expands as Houthis attack Saudi airport again: What to know",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMDVTS1ZGSF8wX1ZNRk8wdUFmVFd5SmkyNWlkZmktVFRNNUxqSWxwUF8tT01GN2d0RzNtWmxSY0Y5aHJ1YlBWWHB3cjh4OXRjczc0UlNtWlJFc3JpUzlPMkZTS0laSDVOakFxZTVpNVZ0U19JUi03RTVvWVZGVlY0U0JUcDlPODJMZ1paTW9VUUp2M3VaSUFKVl91TENySDVHYXQ0RVQ0SlBEWUlTOUHSAbMBQVVfeXFMTVRZSG13RHl2RzVyQWtTSE9pb09YdldWYXcwSXBBOXRDeERqRGdwQXZFd2NfS2tjY0NxbDJwbTgybXFHeldfOHBaeVo5RGNRVnBsOXRya3JTTHc4T0RYS09BdGIydkFpMHlKX056NDhLc2w3a1o0ZHJzQkdRamtfMmZyQjB4MWktOEZqVXRfRXhfNWVwQVdwSUozemRzemkwR2puUmxBRFVDSHZBQXFZeUVIRDA?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261011T054926Z",
+          "seen": "20261011T200054Z",
+          "pinned": false
+        },
+        {
+          "title": "Three years after October 7, prolonged war takes its toll on Israelis",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQmN2TWNKaElNeWZ5VGdyLVBWSElEeGxQZXg1aFJ5elJsMEhjTE1OVnRHUEFWVTk2ZjcydkI3UjlXQ0lsTHZFMThBZWlidkYxbnFnZk40TXZKb0RaNTJMMW90WFBVYzhsTHRsWkRvZUNJaUFqQUNjMzRoRFFGN0d4YmtPcHFnUlRUSGoxb2E4NHRsMUZfN2dPVDZpcmdpYkcyU0tkdE5DdTc5c2M4VGfSAbMBQVVfeXFMT21MVlZ1ZmhuUGFUbXpFZ2VHRXZMWDZEWEJTaFRmZ0NWdGwyZ3VSUnp1U2tvZW04LXBYRG1wa2w2TjB5QmdOZnRrb1ZOc3V4X2pzQlJCclI4aERBMUdhcDk1dDdoQTZVb0p6SWFfNkZXeDM5Y1RYRi1KcmFzMXFOYjBUbWR4SmRrcE1tdDhmdWpIbFVBejZTZXdVd19CRkF1NjBYTjZXNzRvU1R4SUZpeTVGSTA?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261009T081548Z",
+          "pinned": false
+        },
+        {
+          "title": "Ethiopia, Eritrea ramp up rhetoric: Are they inching towards war?",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNd09raG1JWkJzLUJvUGhueWZOVnFSWHBVRWZMRDVYQ3Y5cmZjTFd5bDJaMHJjUno0eHd4M2JnOEtXeEJtS1pHRF9DT1UxQ2IzRHUtc25UcG0xd2FWOU9pQUdYX2stTjF3cVhvcXExbnVPLUxJb3FvTHFkYW5PejFBc1g4SlhUT19falNhLTdHamJJYTBLUFdjeEwwdXpYSy11bkJqeENpUdIBrAFBVV95cUxPenB0QW9TNlQ4c3pCTWJvX2dkMHBBaUlvdnNkMG14Mm5vNmpRWFM3SUd0RUl0RnN6cVN2MlZOaGlYVkh5T2kxcjUwWGhIeFBYckVpVk1QVy10ZFBkaVdhdU5jQ19UWGNRTnZ4eTBJLXdsXzNQOGpVOHVxd09CanNPRHBOencyaVBSdWJlMlJjbHlnemdsdllTWDBJc3dlbVg3ajdET2xGc2NRNDBY?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261011T141605Z",
           "pinned": false
         },
         {
@@ -2061,14 +2093,6 @@
           "pinned": false
         },
         {
-          "title": "Three years after October 7, prolonged war takes its toll on Israelis",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQmN2TWNKaElNeWZ5VGdyLVBWSElEeGxQZXg1aFJ5elJsMEhjTE1OVnRHUEFWVTk2ZjcydkI3UjlXQ0lsTHZFMThBZWlidkYxbnFnZk40TXZKb0RaNTJMMW90WFBVYzhsTHRsWkRvZUNJaUFqQUNjMzRoRFFGN0d4YmtPcHFnUlRUSGoxb2E4NHRsMUZfN2dPVDZpcmdpYkcyU0tkdE5DdTc5c2M4VGfSAbMBQVVfeXFMT21MVlZ1ZmhuUGFUbXpFZ2VHRXZMWDZEWEJTaFRmZ0NWdGwyZ3VSUnp1U2tvZW04LXBYRG1wa2w2TjB5QmdOZnRrb1ZOc3V4X2pzQlJCclI4aERBMUdhcDk1dDdoQTZVb0p6SWFfNkZXeDM5Y1RYRi1KcmFzMXFOYjBUbWR4SmRrcE1tdDhmdWpIbFVBejZTZXdVd19CRkF1NjBYTjZXNzRvU1R4SUZpeTVGSTA?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261009T081548Z",
-          "pinned": false
-        },
-        {
           "title": "New Ely museum honours two key World War Two RAF stations",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HYWowdlA1bEJyRnNjbnl0QXJUTjNtdjRjb2V3cUR5R3lkM1pxREp4cUExS2NrbFpyemgxTGdGYTdiRTFNdkRDRnZZcjNRcVNQcHAzdHU1VnY4UGs?oc=5",
           "domain": "bbc.com",
@@ -2082,6 +2106,14 @@
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20261008T050609Z",
+          "pinned": false
+        },
+        {
+          "title": "What the Iran war has done to the world’s energy supply, in charts",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRzFYc2VSOHpyUE1vTFZCazhLczV3dWpZaUQzdmY3bExLeTMySVNpdm9OdzNtN29MTDRfRThhRzB2NnFGQXV6TjFXdzhkVXBnNksydE1mc2d4ZE1zNzJ0bm9qZVpPMDBQcVJBUy10NHdSQnNfcEwwQTEwTV91RklEZlpwb3dIYTFQWm5tV3BWbmJBYXdUT2pHRDF1dUw5cmpmYzk4eDljNVJKZ9IBrwFBVV95cUxQNmVnQ1JDb2hvaXFrc2xlLXVQVXk1MUxVVW1rUFJENm84S1VmS2ZaNFNTVjZUU2hKRDRIdGU4Z2VCUTdZMGg2Q05PVFk2bFVPUFBHRURHaWgyZkVPSkc0QnlxT3UyenVZbWpyWGFVby0wVFZ1NmRGZHpVd0lzWGpTaHdNS3Z4LXR0d0RIdlgyaXpQaWZZZnFZWXhZeTRkelJFdXV1enpNWW5rMVdFWUpJ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261011T083335Z",
           "pinned": false
         },
         {
@@ -2125,11 +2157,11 @@
           "pinned": false
         },
         {
-          "title": "Russian attack on buses in Ukraine’s Kramatorsk kills at least 30 people",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcjBwR180MWVSRmxPRXA4VFFleWdyTWxBTFZGMTg3aWN6ZGtxZlZoem1saEQ2Y0FCMHp3cmszZEs5RUVTbGtvajdsZUVYQTNTY21wZXNTMEVnNEkyYmFhSWV0b2U5N2lpRDJ2ZG9wc2FmOHVyUHZkQWFlSkl5VU1fRzBGUUwtWWpvdU9XdWQtQdIBlAFBVV95cUxNSnRHOW5UT19vXzdJZ2VlQjFBUmdpa2g0QnZMWHBHamxaSUYwU19yVDN3aEJBMkxLc0dMQ1RDeW91b2ZiVUp1UkZuVUM4MzlzQWt2NmdLZWtEcXFadzdJWm80TVo2bmtKRmFteXJTTmtxbXpTMkdqMW1zVTFtS3htb252QUpkdnRkTjgyekVWTDdDWG5J?oc=5",
+          "title": "Israel’s economy prospers despite years of war, but prices worry voters",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLTliWDFjcUlQUkFkcS1FY2ZZTF96eThjSzJ0LUY0Wlh6Vi00djFQUldoRkhUS1R2NnpVZnV1U3BfRDMyYVROcFdJRzNMU0x5N3hlNFd5cHhwZm54X0lFRThJWE9EaG9ILWtIVGpXZzFjckhMSUk2bk5yUEJOX3l3c2pMaFVCRHdpRXpIdkFOUjFELWVzRGM5eU5WcDBXemk0MndnM191dW0zRnZhOVBOTlpic2TSAboBQVVfeXFMT1VkVkdMcWV5OGlFYTRjZTktLTcxekhGMnFFMjAtck1nb1BlVE04a1VoN0M2SnQ2UTloY2pOUUN1bHd4c2UtRkNwNnVJbVBlbVVHS291MUNtckxLeXdEcFdoSUFKVEZMZk8tQTdBQm9NRVAzSXNpOXMxM3hiZzZZSm1jbXhsQTJNNkMxQUhHdi1tYUpfSHZIblR0OFpEQXJvVl9ZY3FuZlE0eFZxb21VQUFPN0x3MUdmNThn?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261008T231308Z",
+          "seen": "20261010T053335Z",
           "pinned": false
         },
         {
@@ -2141,35 +2173,27 @@
           "pinned": false
         },
         {
-          "title": "Israel’s economy prospers despite years of war, but prices worry voters",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLTliWDFjcUlQUkFkcS1FY2ZZTF96eThjSzJ0LUY0Wlh6Vi00djFQUldoRkhUS1R2NnpVZnV1U3BfRDMyYVROcFdJRzNMU0x5N3hlNFd5cHhwZm54X0lFRThJWE9EaG9ILWtIVGpXZzFjckhMSUk2bk5yUEJOX3l3c2pMaFVCRHdpRXpIdkFOUjFELWVzRGM5eU5WcDBXemk0MndnM191dW0zRnZhOVBOTlpic2TSAboBQVVfeXFMT1VkVkdMcWV5OGlFYTRjZTktLTcxekhGMnFFMjAtck1nb1BlVE04a1VoN0M2SnQ2UTloY2pOUUN1bHd4c2UtRkNwNnVJbVBlbVVHS291MUNtckxLeXdEcFdoSUFKVEZMZk8tQTdBQm9NRVAzSXNpOXMxM3hiZzZZSm1jbXhsQTJNNkMxQUhHdi1tYUpfSHZIblR0OFpEQXJvVl9ZY3FuZlE0eFZxb21VQUFPN0x3MUdmNThn?oc=5",
+          "title": "Hormuz attacks intensify as efforts to end war on Iran stall",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOajZFRE5qcjI5WGVBUWVORmRYZ01xNzFGS0RvR01PLVY4UEx1dUFwQ3FkZlA4QWNOeTJSR0NUVUZQcVR1UjdaVmNBRU1yZ1ZuT2gyWDkzRlA1MUE0MXkwU3NEdWJWbzNodU9nY1pLU0VyT0pRQ0FjbVdEcFFSVEMxNnNHSjRHdmNUZmVGNjd3ZV9YTTJpc2U4dTRJUHBJOUlMendhONIBqgFBVV95cUxOVTdCRlJ6b1lUaVNqQlB0cERHWTB3TG5sRl9nSURfalAzZEJOTi1Ba3dkNmQ5ZGFoelJVMUhDY0l3QzQ2bWhFcUlfalkycDIyRFFiNGpaMGdSRl9pRHFpTGh6YXZJb0MwdGx1T1E1SDd3NjhkNmc0QlZibTdVbzBQNUdYQ0k4eHQ2TjJ6Y05lMW5FRHVEd3Nfdi1KZE1CdmthbDNMeHZjelVoUQ?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261010T053335Z",
+          "seen": "20261011T140552Z",
           "pinned": false
         },
         {
-          "title": "Saudi Arabia says 12 killed, 300 wounded in Houthi attack on Riyadh airport",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdGcxd2Q2QXhUSGFCZ3NmdUotNFR2bkxvZ0t5dUN3ZGFoWnEyeVVMaXU3YmxST3daXzhOeVpCcDRIbXJhYlJ2MUdsOEhNYVcwcThEZlQyZUFGQWFpeklPYlY2T0FZb3hQY0liUkRfZ3hpT3pOUTRkb2hhSUhkdmJSTmtrSURzZEhMdllIa1pqNm9mUDhCT3hnM1k5cDQ4bjh0OVBaNk9YMHpJd9IBrwFBVV95cUxOeEY5RWlrVmxYUFllYXkyMk5QeUZQZGZ6OGNGZ2dvVlo5cXB3STlBbnMxWmFpQUJYQ200VFZoaVdmM0lTRFpKTWRWMXRQUDhuc1lSdjduZHhSSXRLQjZNalhjNXdiYjhwd2xhbzlqbUF3RnN4bmV2U1hFdHJKYTZlWkllancybkk4Y0Rkc2tSZ0dPZlFiZzAyT0EzX29wMEJ0WnRGR3JUdU80aWU2TU00?oc=5",
+          "title": "Why are Houthi missiles breaking through Saudi Arabia’s air defences?",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT1ZOSzFDM3Yta3pYdDE1N2VlbTBTN0hJaTRJZkUtVGJ4NGY4V0ZwVkMtMmxQQjR1aFhhTk52M1FNeDI4bTlaZFhIMjBBaTV4eXRfaHloN2xrQUprTy1qZnlVa1VPYWZyaGh4MTdzZ2o2QkFZRVJFYVFuYmZRS0ZDR280T2RoaU9yRkI1MW9zV09RdTMzZnFLMHlnS19uMnRnRjIxT0dzWFhSa0J5NmfSAbMBQVVfeXFMUE9VUEo0X1M2UllxWXNLYVd4dGV6UVVjRk5GUVFyWnNpNUVTMFU5Z2dyVm1lZ2R5amJKR3lyTGk0RXpmRmdZN0dLVzNZSVpLUVM2NGFuYXdjU2dLQUdneFVsVjBTUWlvMF9CdXJMQm1QS2lQRm1LQXliajI4M3lZdlZqcXEtOU5aWWowWnZCa0Q1VjBtMG92Rmt5WUdTdWRERmtCMXpJWGZpTW1MY3J6R1J2c1U?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261011T054057Z",
+          "seen": "20261011T144339Z",
           "pinned": false
         },
         {
-          "title": "Russia kills 20 in Ukraine as US hosts ‘productive’ talks to end war",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNVRaMG1aRnhiZDJkQ1NPY3J2RVpHaVE5TkwwWmFMQjBNUGloLUNZbHYyNm50RmZaYTlSSlJNQmFHellyeTB2VVhxSk9Ka1hEX1FQWUhsN1hGcS1PQVVSUFJuTW1tQ01KZU1GX3RVcGc3cEZ3bGpqLXZHZXpuQmJ4S1NfampTN2gwbmszTUMyeVNPemhVeFUzaXMxbnJKMElSb0l1RnBOONIBrAFBVV95cUxPOEF4cGJIaG42czhBRHVhOGZ2STlHRThabnNjZFd4SkFtYWRobHlFMUVHQXJScnYzZ1p4ODJXLVE1emFwSHBuaGJwZXNobTBLMXBUNEtvRGgyMXN3QjJuTUh2ZUlUMVdTVnJQQ2d5UmZFZmNfVzQ4cm1hQ3EzbENCcmlyTEdCMFdsSFY0cWEyWXkyNWxOUlE0NXA3aktfTS1NeDVFenZwS092bHRL?oc=5",
+          "title": "Ukraine warns Trump-Putin diesel deal will bankroll Russia’s war",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSzB2SGJjZTZFd1lCcGRKdUc1RDk4aC1Mdm56TnBtMTZ1RnE0Yllkcy1rSHNrTEZrNlpaWmVZbFJ2ZWN0UnFGbmowbGR1emQtUEt3Z2xROXpWX1VBa29fVG1TdGxTV2ZBSDQ2MU8wUlRBNjZMeFdSX1pzRGV1Q0N0S2xRZXZEWDVtSGFKenp2dkZhSWZ5SnhNU2JsSTlJX0ViX1ZEY1ZiU2lST09TLWQ0Q0dpakU1d9IBuwFBVV95cUxQc2MtTEF0aDdqc2NGZFA5V2lwSzdXSVhZS1FrcFVtcllXcEF6bnVkUVg4bmpicTl2V3AzVllsYjZsTEUtNmJYQUVFMUZ2ZU5QSG9WZDY2dnVxWVhlVF9OS0d6RjJiV0pSdXFjNTFmZXhSOS1rSG5TM2dFRThDUU42ZGxraTBBNUxjNm9WMXlqY2JIVlZQYy1JeE8tcFd4YTdXNUFTdHFTTHJkWmU4SURGRWEzaXBzSDhvYjJr?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261010T175503Z",
-          "pinned": false
-        },
-        {
-          "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jMTlTQU5tVXR6aWxNX0sxZ3duY2YwN3dyLWVFY3pod0VldWZHUDNsVDI0V1dSRlZ1SkZwY3Z5dkc2TzZGWXZtek9lT3ZSQUo4YllNV2Myb2JURms?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261008T163129Z",
+          "seen": "20261010T123526Z",
           "pinned": false
         },
         {
@@ -2189,39 +2213,24 @@
           "pinned": false
         },
         {
-          "title": "Gazans face near-daily Israeli strikes a year into ceasefire",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3cEp4VUJORlpsTGhnTTNNWklHQzBlN25EYWNMZ1V1MWxuTlVGM004Mmd0d01pRVpUZTNYSzNkNllpMER3QmpHcXRVUWNzQjlJR1prSkxrc3M?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261008T112740Z",
-          "pinned": false
-        },
-        {
-          "title": "What has Trump’s Board of Peace achieved in a year since Gaza ‘ceasefire’?",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTmk1ZktpNHpjb3RJeXhEWjlKc2tfaVdkM3g5ZXpMX20zTnBad1pnTzZ6U0JMY2xqVjBCYlRGNHFveXpXNHJqLVdQLTIxMzFfdXotdEpMdWVQNnhQOEdSbUJOSUN1NkVtRk9jWlJpNjU1YXhFS0o0c2dGd3BuUldBT1oxdUxfTl8xRFlXOGtpRldLLVNiUmctN1dLRHNXUEg2YTRNM9IBqgFBVV95cUxQa2ZfMHNqWmxTYjkxc0wzbVZ1cmhiMkNmTV9uUVpuYldfSlNxc2hTTE5qMWxxX01pSlJmV3BBMlkySjQ1UGxhN3RXbHNyTkZmQy03ZWpiY3V5UmpYZ1NWc0REbXB6WVM1ZUF2bFN2MVNyZmx2bGNmLU9lMzVNb2NKc0p4RVF6TmdCNWtDcjJDcHR6OHBFLXNvSkhOVmlVcXVGNV9GQXV2YTRodw?oc=5",
+          "title": "Saudi Arabia says 12 killed, 300 wounded in Houthi attack on Riyadh airport",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdGcxd2Q2QXhUSGFCZ3NmdUotNFR2bkxvZ0t5dUN3ZGFoWnEyeVVMaXU3YmxST3daXzhOeVpCcDRIbXJhYlJ2MUdsOEhNYVcwcThEZlQyZUFGQWFpeklPYlY2T0FZb3hQY0liUkRfZ3hpT3pOUTRkb2hhSUhkdmJSTmtrSURzZEhMdllIa1pqNm9mUDhCT3hnM1k5cDQ4bjh0OVBaNk9YMHpJd9IBrwFBVV95cUxOeEY5RWlrVmxYUFllYXkyMk5QeUZQZGZ6OGNGZ2dvVlo5cXB3STlBbnMxWmFpQUJYQ200VFZoaVdmM0lTRFpKTWRWMXRQUDhuc1lSdjduZHhSSXRLQjZNalhjNXdiYjhwd2xhbzlqbUF3RnN4bmV2U1hFdHJKYTZlWkllancybkk4Y0Rkc2tSZ0dPZlFiZzAyT0EzX29wMEJ0WnRGR3JUdU80aWU2TU00?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261010T230343Z",
-          "pinned": false
-        },
-        {
-          "title": "A US-brokered ceasefire was supposed to end the war in Gaza. A year later, progress has stalled",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOF84RWlSNXdiVWh3azNPMS12R0h4ZFBReGdLNTM4SFg5c3lHdFRVRVRYdTV1Qm5PX1hLSHZsanBlY09fWXlZUUVrQ1VIbjg3clF6RVlBWFBKNFVYYXZZQmxrd3dTQm1yeWZkeUZVYVFvSk05SWMzQV9jcE1XZWZncjdoanNsNEJiTWtvY2FTa255dDZMVzF6RGV6cjdfSjZKOHJhR3BEbWtPRnZBQ2ktOFBfeEc?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261010T065000Z",
-          "pinned": false
-        },
-        {
-          "title": "Child among eight killed by Israel on Gaza ‘ceasefire’ anniversary",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNEt6WkNIVUVCQV9laGswamVmRE1YcTNWUFF2Z25vaXVyTGtPb3diN1JCN1F4ZHlYZUZKYWxEY0otRDlMMElUTlRYRUNRTmp3R0swX2kxTXA1QVlqb2t1TE55SUVsZElZeVFmdldHNjZEa3RjMUJHYkhQRDdkVjcwcTI5OTJaYW85VGNWUkhsX1kxZ3ltVHfSAZsBQVVfeXFMTWFpM015RWV4R0xjR0hVdjhSZ0tLOEpuY2c1SEZHQ1ZiUTlBUDFFQjF4aWVXRzZXTXZUVHBBZ21JR0dOaC1tdjh2STlpR0pXNWhJV1dkWGxnWWtKRFNsTGYyeUtmeUNTZlF2UUY2WmpEa0lTeUhEdGpHdmJ6ZEJoWmYtZ2xRMy1ZeUlJVHZMTTdOdTNBUXJXQWhhYWs?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261010T161432Z",
+          "seen": "20261011T054057Z",
           "pinned": false
         }
       ],
       "reports": [
+        {
+          "id": "report-2526640dc83e",
+          "title": "How genocidal war on Gaza is shaping Israel’s election",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVGhaaEY0YkNFN2tIbmVxQXJRd3Znc1dnM3E3Q2FpUlUxamU3UjdrQmlWV0JwWEpWVXJBX0ZncWZOaWc3Q1VxNFREVW5jbENMSUN5TVBFNWpaeHNzdnZRVklrMWNVUXQtUG5HRi1OeExSV3VUaHdGWEY2U01fX2tmZGlDWnE2ZVoyS3phbHFMV3Jjek5pbXJlYkNBSGF6QWxndlRPNjk3b9IBrAFBVV95cUxNSWJ3ZVh6bnhhdTRhZ1RSTDVQMzZPMzdPajNzVlB5Rmg0TE9od3NBU1YwejBWQ3l3eGdUcnFQZGpRemRWcWFfRWhhUENVYWx3LVlXRDJ5UGZGaXBzWm5HcWdtemVWX0txQmJub052OGFYR1F0dGJ2TVN3X1BUbHptbHlUd21GbVZhY24wa2ROdGlqaVEtUnZITExoVEdUazZ6bi0zY1lKbTlnMlpl?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-11T05:49:26Z"
+        },
         {
           "id": "report-5a5a2fa0eebb",
           "title": "Will Ethiopia’s neighbours intervene as Tigray war escalates?",
@@ -2232,13 +2241,40 @@
           "reportedAt": "2026-10-09T00:13:57Z"
         },
         {
-          "id": "report-2526640dc83e",
-          "title": "How genocidal war on Gaza is shaping Israel’s election",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVGhaaEY0YkNFN2tIbmVxQXJRd3Znc1dnM3E3Q2FpUlUxamU3UjdrQmlWV0JwWEpWVXJBX0ZncWZOaWc3Q1VxNFREVW5jbENMSUN5TVBFNWpaeHNzdnZRVklrMWNVUXQtUG5HRi1OeExSV3VUaHdGWEY2U01fX2tmZGlDWnE2ZVoyS3phbHFMV3Jjek5pbXJlYkNBSGF6QWxndlRPNjk3b9IBrAFBVV95cUxNSWJ3ZVh6bnhhdTRhZ1RSTDVQMzZPMzdPajNzVlB5Rmg0TE9od3NBU1YwejBWQ3l3eGdUcnFQZGpRemRWcWFfRWhhUENVYWx3LVlXRDJ5UGZGaXBzWm5HcWdtemVWX0txQmJub052OGFYR1F0dGJ2TVN3X1BUbHptbHlUd21GbVZhY24wa2ROdGlqaVEtUnZITExoVEdUazZ6bi0zY1lKbTlnMlpl?oc=5",
+          "id": "report-2fe7c88dc2d7",
+          "title": "Trump says Ukraine and Russia have agreed 'energy ceasefire'",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04QUtQbDZLV05uX0dPcEwxc3poa1BGZGVYdmVjM2NzQ3pUMkowOVd6ZzBMTGRZNG9KVlhUNHNqR3o1SG5sel96Rnd3YVJQMjEwZ09zRnoxSFcxQ2s?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-11T20:15:36Z"
+        },
+        {
+          "id": "report-ec9aabaeb76f",
+          "title": "Yemen fighting expands as Houthis attack Saudi airport again: What to know",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMDVTS1ZGSF8wX1ZNRk8wdUFmVFd5SmkyNWlkZmktVFRNNUxqSWxwUF8tT01GN2d0RzNtWmxSY0Y5aHJ1YlBWWHB3cjh4OXRjczc0UlNtWlJFc3JpUzlPMkZTS0laSDVOakFxZTVpNVZ0U19JUi03RTVvWVZGVlY0U0JUcDlPODJMZ1paTW9VUUp2M3VaSUFKVl91TENySDVHYXQ0RVQ0SlBEWUlTOUHSAbMBQVVfeXFMTVRZSG13RHl2RzVyQWtTSE9pb09YdldWYXcwSXBBOXRDeERqRGdwQXZFd2NfS2tjY0NxbDJwbTgybXFHeldfOHBaeVo5RGNRVnBsOXRya3JTTHc4T0RYS09BdGIydkFpMHlKX056NDhLc2w3a1o0ZHJzQkdRamtfMmZyQjB4MWktOEZqVXRfRXhfNWVwQVdwSUozemRzemkwR2puUmxBRFVDSHZBQXFZeUVIRDA?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-11T05:49:26Z"
+          "reportedAt": "2026-10-11T20:00:54Z"
+        },
+        {
+          "id": "report-ea2c000ee5c2",
+          "title": "Three years after October 7, prolonged war takes its toll on Israelis",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQmN2TWNKaElNeWZ5VGdyLVBWSElEeGxQZXg1aFJ5elJsMEhjTE1OVnRHUEFWVTk2ZjcydkI3UjlXQ0lsTHZFMThBZWlidkYxbnFnZk40TXZKb0RaNTJMMW90WFBVYzhsTHRsWkRvZUNJaUFqQUNjMzRoRFFGN0d4YmtPcHFnUlRUSGoxb2E4NHRsMUZfN2dPVDZpcmdpYkcyU0tkdE5DdTc5c2M4VGfSAbMBQVVfeXFMT21MVlZ1ZmhuUGFUbXpFZ2VHRXZMWDZEWEJTaFRmZ0NWdGwyZ3VSUnp1U2tvZW04LXBYRG1wa2w2TjB5QmdOZnRrb1ZOc3V4X2pzQlJCclI4aERBMUdhcDk1dDdoQTZVb0p6SWFfNkZXeDM5Y1RYRi1KcmFzMXFOYjBUbWR4SmRrcE1tdDhmdWpIbFVBejZTZXdVd19CRkF1NjBYTjZXNzRvU1R4SUZpeTVGSTA?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-09T08:15:48Z"
+        },
+        {
+          "id": "report-5d4b14a1cf06",
+          "title": "Ethiopia, Eritrea ramp up rhetoric: Are they inching towards war?",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNd09raG1JWkJzLUJvUGhueWZOVnFSWHBVRWZMRDVYQ3Y5cmZjTFd5bDJaMHJjUno0eHd4M2JnOEtXeEJtS1pHRF9DT1UxQ2IzRHUtc25UcG0xd2FWOU9pQUdYX2stTjF3cVhvcXExbnVPLUxJb3FvTHFkYW5PejFBc1g4SlhUT19falNhLTdHamJJYTBLUFdjeEwwdXpYSy11bkJqeENpUdIBrAFBVV95cUxPenB0QW9TNlQ4c3pCTWJvX2dkMHBBaUlvdnNkMG14Mm5vNmpRWFM3SUd0RUl0RnN6cVN2MlZOaGlYVkh5T2kxcjUwWGhIeFBYckVpVk1QVy10ZFBkaVdhdU5jQ19UWGNRTnZ4eTBJLXdsXzNQOGpVOHVxd09CanNPRHBOencyaVBSdWJlMlJjbHlnemdsdllTWDBJc3dlbVg3ajdET2xGc2NRNDBY?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-11T14:16:05Z"
         },
         {
           "id": "report-8c971eeebff5",
@@ -2259,15 +2295,6 @@
           "reportedAt": "2026-10-09T00:43:47Z"
         },
         {
-          "id": "report-ea2c000ee5c2",
-          "title": "Three years after October 7, prolonged war takes its toll on Israelis",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQmN2TWNKaElNeWZ5VGdyLVBWSElEeGxQZXg1aFJ5elJsMEhjTE1OVnRHUEFWVTk2ZjcydkI3UjlXQ0lsTHZFMThBZWlidkYxbnFnZk40TXZKb0RaNTJMMW90WFBVYzhsTHRsWkRvZUNJaUFqQUNjMzRoRFFGN0d4YmtPcHFnUlRUSGoxb2E4NHRsMUZfN2dPVDZpcmdpYkcyU0tkdE5DdTc5c2M4VGfSAbMBQVVfeXFMT21MVlZ1ZmhuUGFUbXpFZ2VHRXZMWDZEWEJTaFRmZ0NWdGwyZ3VSUnp1U2tvZW04LXBYRG1wa2w2TjB5QmdOZnRrb1ZOc3V4X2pzQlJCclI4aERBMUdhcDk1dDdoQTZVb0p6SWFfNkZXeDM5Y1RYRi1KcmFzMXFOYjBUbWR4SmRrcE1tdDhmdWpIbFVBejZTZXdVd19CRkF1NjBYTjZXNzRvU1R4SUZpeTVGSTA?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-09T08:15:48Z"
-        },
-        {
           "id": "report-3dcb2d2043fb",
           "title": "New Ely museum honours two key World War Two RAF stations",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HYWowdlA1bEJyRnNjbnl0QXJUTjNtdjRjb2V3cUR5R3lkM1pxREp4cUExS2NrbFpyemgxTGdGYTdiRTFNdkRDRnZZcjNRcVNQcHAzdHU1VnY4UGs?oc=5",
@@ -2284,6 +2311,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-10-08T05:06:09Z"
+        },
+        {
+          "id": "report-c6a3a050e441",
+          "title": "What the Iran war has done to the world’s energy supply, in charts",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRzFYc2VSOHpyUE1vTFZCazhLczV3dWpZaUQzdmY3bExLeTMySVNpdm9OdzNtN29MTDRfRThhRzB2NnFGQXV6TjFXdzhkVXBnNksydE1mc2d4ZE1zNzJ0bm9qZVpPMDBQcVJBUy10NHdSQnNfcEwwQTEwTV91RklEZlpwb3dIYTFQWm5tV3BWbmJBYXdUT2pHRDF1dUw5cmpmYzk4eDljNVJKZ9IBrwFBVV95cUxQNmVnQ1JDb2hvaXFrc2xlLXVQVXk1MUxVVW1rUFJENm84S1VmS2ZaNFNTVjZUU2hKRDRIdGU4Z2VCUTdZMGg2Q05PVFk2bFVPUFBHRURHaWgyZkVPSkc0QnlxT3UyenVZbWpyWGFVby0wVFZ1NmRGZHpVd0lzWGpTaHdNS3Z4LXR0d0RIdlgyaXpQaWZZZnFZWXhZeTRkelJFdXV1enpNWW5rMVdFWUpJ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-11T08:33:35Z"
         },
         {
           "id": "report-86b5397f3f50",
@@ -2331,13 +2367,13 @@
           "reportedAt": "2026-10-09T15:24:43Z"
         },
         {
-          "id": "report-221eb65dc186",
-          "title": "Russian attack on buses in Ukraine’s Kramatorsk kills at least 30 people",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcjBwR180MWVSRmxPRXA4VFFleWdyTWxBTFZGMTg3aWN6ZGtxZlZoem1saEQ2Y0FCMHp3cmszZEs5RUVTbGtvajdsZUVYQTNTY21wZXNTMEVnNEkyYmFhSWV0b2U5N2lpRDJ2ZG9wc2FmOHVyUHZkQWFlSkl5VU1fRzBGUUwtWWpvdU9XdWQtQdIBlAFBVV95cUxNSnRHOW5UT19vXzdJZ2VlQjFBUmdpa2g0QnZMWHBHamxaSUYwU19yVDN3aEJBMkxLc0dMQ1RDeW91b2ZiVUp1UkZuVUM4MzlzQWt2NmdLZWtEcXFadzdJWm80TVo2bmtKRmFteXJTTmtxbXpTMkdqMW1zVTFtS3htb252QUpkdnRkTjgyekVWTDdDWG5J?oc=5",
+          "id": "report-ca6edbdf3480",
+          "title": "Israel’s economy prospers despite years of war, but prices worry voters",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLTliWDFjcUlQUkFkcS1FY2ZZTF96eThjSzJ0LUY0Wlh6Vi00djFQUldoRkhUS1R2NnpVZnV1U3BfRDMyYVROcFdJRzNMU0x5N3hlNFd5cHhwZm54X0lFRThJWE9EaG9ILWtIVGpXZzFjckhMSUk2bk5yUEJOX3l3c2pMaFVCRHdpRXpIdkFOUjFELWVzRGM5eU5WcDBXemk0MndnM191dW0zRnZhOVBOTlpic2TSAboBQVVfeXFMT1VkVkdMcWV5OGlFYTRjZTktLTcxekhGMnFFMjAtck1nb1BlVE04a1VoN0M2SnQ2UTloY2pOUUN1bHd4c2UtRkNwNnVJbVBlbVVHS291MUNtckxLeXdEcFdoSUFKVEZMZk8tQTdBQm9NRVAzSXNpOXMxM3hiZzZZSm1jbXhsQTJNNkMxQUhHdi1tYUpfSHZIblR0OFpEQXJvVl9ZY3FuZlE0eFZxb21VQUFPN0x3MUdmNThn?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-08T23:13:08Z"
+          "reportedAt": "2026-10-10T05:33:35Z"
         },
         {
           "id": "report-c3f7d6c03713",
@@ -2349,40 +2385,31 @@
           "reportedAt": "2026-10-09T18:35:17Z"
         },
         {
-          "id": "report-ca6edbdf3480",
-          "title": "Israel’s economy prospers despite years of war, but prices worry voters",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLTliWDFjcUlQUkFkcS1FY2ZZTF96eThjSzJ0LUY0Wlh6Vi00djFQUldoRkhUS1R2NnpVZnV1U3BfRDMyYVROcFdJRzNMU0x5N3hlNFd5cHhwZm54X0lFRThJWE9EaG9ILWtIVGpXZzFjckhMSUk2bk5yUEJOX3l3c2pMaFVCRHdpRXpIdkFOUjFELWVzRGM5eU5WcDBXemk0MndnM191dW0zRnZhOVBOTlpic2TSAboBQVVfeXFMT1VkVkdMcWV5OGlFYTRjZTktLTcxekhGMnFFMjAtck1nb1BlVE04a1VoN0M2SnQ2UTloY2pOUUN1bHd4c2UtRkNwNnVJbVBlbVVHS291MUNtckxLeXdEcFdoSUFKVEZMZk8tQTdBQm9NRVAzSXNpOXMxM3hiZzZZSm1jbXhsQTJNNkMxQUhHdi1tYUpfSHZIblR0OFpEQXJvVl9ZY3FuZlE0eFZxb21VQUFPN0x3MUdmNThn?oc=5",
+          "id": "report-c58fb9115814",
+          "title": "Hormuz attacks intensify as efforts to end war on Iran stall",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOajZFRE5qcjI5WGVBUWVORmRYZ01xNzFGS0RvR01PLVY4UEx1dUFwQ3FkZlA4QWNOeTJSR0NUVUZQcVR1UjdaVmNBRU1yZ1ZuT2gyWDkzRlA1MUE0MXkwU3NEdWJWbzNodU9nY1pLU0VyT0pRQ0FjbVdEcFFSVEMxNnNHSjRHdmNUZmVGNjd3ZV9YTTJpc2U4dTRJUHBJOUlMendhONIBqgFBVV95cUxOVTdCRlJ6b1lUaVNqQlB0cERHWTB3TG5sRl9nSURfalAzZEJOTi1Ba3dkNmQ5ZGFoelJVMUhDY0l3QzQ2bWhFcUlfalkycDIyRFFiNGpaMGdSRl9pRHFpTGh6YXZJb0MwdGx1T1E1SDd3NjhkNmc0QlZibTdVbzBQNUdYQ0k4eHQ2TjJ6Y05lMW5FRHVEd3Nfdi1KZE1CdmthbDNMeHZjelVoUQ?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-10T05:33:35Z"
+          "reportedAt": "2026-10-11T14:05:52Z"
         },
         {
-          "id": "report-2fa305c285ed",
-          "title": "Saudi Arabia says 12 killed, 300 wounded in Houthi attack on Riyadh airport",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdGcxd2Q2QXhUSGFCZ3NmdUotNFR2bkxvZ0t5dUN3ZGFoWnEyeVVMaXU3YmxST3daXzhOeVpCcDRIbXJhYlJ2MUdsOEhNYVcwcThEZlQyZUFGQWFpeklPYlY2T0FZb3hQY0liUkRfZ3hpT3pOUTRkb2hhSUhkdmJSTmtrSURzZEhMdllIa1pqNm9mUDhCT3hnM1k5cDQ4bjh0OVBaNk9YMHpJd9IBrwFBVV95cUxOeEY5RWlrVmxYUFllYXkyMk5QeUZQZGZ6OGNGZ2dvVlo5cXB3STlBbnMxWmFpQUJYQ200VFZoaVdmM0lTRFpKTWRWMXRQUDhuc1lSdjduZHhSSXRLQjZNalhjNXdiYjhwd2xhbzlqbUF3RnN4bmV2U1hFdHJKYTZlWkllancybkk4Y0Rkc2tSZ0dPZlFiZzAyT0EzX29wMEJ0WnRGR3JUdU80aWU2TU00?oc=5",
+          "id": "report-a46c095c403d",
+          "title": "Why are Houthi missiles breaking through Saudi Arabia’s air defences?",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT1ZOSzFDM3Yta3pYdDE1N2VlbTBTN0hJaTRJZkUtVGJ4NGY4V0ZwVkMtMmxQQjR1aFhhTk52M1FNeDI4bTlaZFhIMjBBaTV4eXRfaHloN2xrQUprTy1qZnlVa1VPYWZyaGh4MTdzZ2o2QkFZRVJFYVFuYmZRS0ZDR280T2RoaU9yRkI1MW9zV09RdTMzZnFLMHlnS19uMnRnRjIxT0dzWFhSa0J5NmfSAbMBQVVfeXFMUE9VUEo0X1M2UllxWXNLYVd4dGV6UVVjRk5GUVFyWnNpNUVTMFU5Z2dyVm1lZ2R5amJKR3lyTGk0RXpmRmdZN0dLVzNZSVpLUVM2NGFuYXdjU2dLQUdneFVsVjBTUWlvMF9CdXJMQm1QS2lQRm1LQXliajI4M3lZdlZqcXEtOU5aWWowWnZCa0Q1VjBtMG92Rmt5WUdTdWRERmtCMXpJWGZpTW1MY3J6R1J2c1U?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-11T05:40:57Z"
+          "reportedAt": "2026-10-11T14:43:39Z"
         },
         {
-          "id": "report-19c446cde854",
-          "title": "Russia kills 20 in Ukraine as US hosts ‘productive’ talks to end war",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNVRaMG1aRnhiZDJkQ1NPY3J2RVpHaVE5TkwwWmFMQjBNUGloLUNZbHYyNm50RmZaYTlSSlJNQmFHellyeTB2VVhxSk9Ka1hEX1FQWUhsN1hGcS1PQVVSUFJuTW1tQ01KZU1GX3RVcGc3cEZ3bGpqLXZHZXpuQmJ4S1NfampTN2gwbmszTUMyeVNPemhVeFUzaXMxbnJKMElSb0l1RnBOONIBrAFBVV95cUxPOEF4cGJIaG42czhBRHVhOGZ2STlHRThabnNjZFd4SkFtYWRobHlFMUVHQXJScnYzZ1p4ODJXLVE1emFwSHBuaGJwZXNobTBLMXBUNEtvRGgyMXN3QjJuTUh2ZUlUMVdTVnJQQ2d5UmZFZmNfVzQ4cm1hQ3EzbENCcmlyTEdCMFdsSFY0cWEyWXkyNWxOUlE0NXA3aktfTS1NeDVFenZwS092bHRL?oc=5",
+          "id": "report-1ba9f2a962c0",
+          "title": "Ukraine warns Trump-Putin diesel deal will bankroll Russia’s war",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSzB2SGJjZTZFd1lCcGRKdUc1RDk4aC1Mdm56TnBtMTZ1RnE0Yllkcy1rSHNrTEZrNlpaWmVZbFJ2ZWN0UnFGbmowbGR1emQtUEt3Z2xROXpWX1VBa29fVG1TdGxTV2ZBSDQ2MU8wUlRBNjZMeFdSX1pzRGV1Q0N0S2xRZXZEWDVtSGFKenp2dkZhSWZ5SnhNU2JsSTlJX0ViX1ZEY1ZiU2lST09TLWQ0Q0dpakU1d9IBuwFBVV95cUxQc2MtTEF0aDdqc2NGZFA5V2lwSzdXSVhZS1FrcFVtcllXcEF6bnVkUVg4bmpicTl2V3AzVllsYjZsTEUtNmJYQUVFMUZ2ZU5QSG9WZDY2dnVxWVhlVF9OS0d6RjJiV0pSdXFjNTFmZXhSOS1rSG5TM2dFRThDUU42ZGxraTBBNUxjNm9WMXlqY2JIVlZQYy1JeE8tcFd4YTdXNUFTdHFTTHJkWmU4SURGRWEzaXBzSDhvYjJr?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-10T17:55:03Z"
-        },
-        {
-          "id": "report-947b95bef1d4",
-          "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jMTlTQU5tVXR6aWxNX0sxZ3duY2YwN3dyLWVFY3pod0VldWZHUDNsVDI0V1dSRlZ1SkZwY3Z5dkc2TzZGWXZtek9lT3ZSQUo4YllNV2Myb2JURms?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-08T16:31:29Z"
+          "reportedAt": "2026-10-10T12:35:26Z"
         },
         {
           "id": "report-51e5978e1283",
@@ -2403,40 +2430,13 @@
           "reportedAt": "2026-10-08T23:04:46Z"
         },
         {
-          "id": "report-293ef41ff0a9",
-          "title": "Gazans face near-daily Israeli strikes a year into ceasefire",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3cEp4VUJORlpsTGhnTTNNWklHQzBlN25EYWNMZ1V1MWxuTlVGM004Mmd0d01pRVpUZTNYSzNkNllpMER3QmpHcXRVUWNzQjlJR1prSkxrc3M?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-08T11:27:40Z"
-        },
-        {
-          "id": "report-ecfc6157ff32",
-          "title": "What has Trump’s Board of Peace achieved in a year since Gaza ‘ceasefire’?",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTmk1ZktpNHpjb3RJeXhEWjlKc2tfaVdkM3g5ZXpMX20zTnBad1pnTzZ6U0JMY2xqVjBCYlRGNHFveXpXNHJqLVdQLTIxMzFfdXotdEpMdWVQNnhQOEdSbUJOSUN1NkVtRk9jWlJpNjU1YXhFS0o0c2dGd3BuUldBT1oxdUxfTl8xRFlXOGtpRldLLVNiUmctN1dLRHNXUEg2YTRNM9IBqgFBVV95cUxQa2ZfMHNqWmxTYjkxc0wzbVZ1cmhiMkNmTV9uUVpuYldfSlNxc2hTTE5qMWxxX01pSlJmV3BBMlkySjQ1UGxhN3RXbHNyTkZmQy03ZWpiY3V5UmpYZ1NWc0REbXB6WVM1ZUF2bFN2MVNyZmx2bGNmLU9lMzVNb2NKc0p4RVF6TmdCNWtDcjJDcHR6OHBFLXNvSkhOVmlVcXVGNV9GQXV2YTRodw?oc=5",
+          "id": "report-2fa305c285ed",
+          "title": "Saudi Arabia says 12 killed, 300 wounded in Houthi attack on Riyadh airport",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdGcxd2Q2QXhUSGFCZ3NmdUotNFR2bkxvZ0t5dUN3ZGFoWnEyeVVMaXU3YmxST3daXzhOeVpCcDRIbXJhYlJ2MUdsOEhNYVcwcThEZlQyZUFGQWFpeklPYlY2T0FZb3hQY0liUkRfZ3hpT3pOUTRkb2hhSUhkdmJSTmtrSURzZEhMdllIa1pqNm9mUDhCT3hnM1k5cDQ4bjh0OVBaNk9YMHpJd9IBrwFBVV95cUxOeEY5RWlrVmxYUFllYXkyMk5QeUZQZGZ6OGNGZ2dvVlo5cXB3STlBbnMxWmFpQUJYQ200VFZoaVdmM0lTRFpKTWRWMXRQUDhuc1lSdjduZHhSSXRLQjZNalhjNXdiYjhwd2xhbzlqbUF3RnN4bmV2U1hFdHJKYTZlWkllancybkk4Y0Rkc2tSZ0dPZlFiZzAyT0EzX29wMEJ0WnRGR3JUdU80aWU2TU00?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-10T23:03:43Z"
-        },
-        {
-          "id": "report-e0809124ae91",
-          "title": "A US-brokered ceasefire was supposed to end the war in Gaza. A year later, progress has stalled",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOF84RWlSNXdiVWh3azNPMS12R0h4ZFBReGdLNTM4SFg5c3lHdFRVRVRYdTV1Qm5PX1hLSHZsanBlY09fWXlZUUVrQ1VIbjg3clF6RVlBWFBKNFVYYXZZQmxrd3dTQm1yeWZkeUZVYVFvSk05SWMzQV9jcE1XZWZncjdoanNsNEJiTWtvY2FTa255dDZMVzF6RGV6cjdfSjZKOHJhR3BEbWtPRnZBQ2ktOFBfeEc?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-10T06:50:00Z"
-        },
-        {
-          "id": "report-2ae89f78514f",
-          "title": "Child among eight killed by Israel on Gaza ‘ceasefire’ anniversary",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNEt6WkNIVUVCQV9laGswamVmRE1YcTNWUFF2Z25vaXVyTGtPb3diN1JCN1F4ZHlYZUZKYWxEY0otRDlMMElUTlRYRUNRTmp3R0swX2kxTXA1QVlqb2t1TE55SUVsZElZeVFmdldHNjZEa3RjMUJHYkhQRDdkVjcwcTI5OTJaYW85VGNWUkhsX1kxZ3ltVHfSAZsBQVVfeXFMTWFpM015RWV4R0xjR0hVdjhSZ0tLOEpuY2c1SEZHQ1ZiUTlBUDFFQjF4aWVXRzZXTXZUVHBBZ21JR0dOaC1tdjh2STlpR0pXNWhJV1dkWGxnWWtKRFNsTGYyeUtmeUNTZlF2UUY2WmpEa0lTeUhEdGpHdmJ6ZEJoWmYtZ2xRMy1ZeUlJVHZMTTdOdTNBUXJXQWhhYWs?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-10T16:14:32Z"
+          "reportedAt": "2026-10-11T05:40:57Z"
         },
         {
           "id": "report-c7d4afc744a0",
