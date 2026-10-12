@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T05:55:36.790Z",
+  "generatedAt": "2026-10-12T15:20:36.614Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-10-12T05:55:36.790Z",
+      "generatedAt": "2026-10-12T15:20:36.614Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -2025,7 +2025,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-10-12T05:55:36.790Z",
+      "generatedAt": "2026-10-12T15:20:36.614Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -2037,6 +2037,14 @@
           "pinned": false
         },
         {
+          "title": "Ukraine’s Zelenskyy accuses Russia of violating Trump’s ‘energy ceasefire’",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZVAwZndwWXN2OHh0Z29WTVVHQmIxcVNVellyOEtINnBhdDMzNlRvdVNPbjVzQkFIRGtZTDNheEwtcjFnQUo5OXFfNG52bWhIaEstdDRMeUJQWHBHMzNEVEJHUjYteGJWOVZldVBhWG9kbnpTSU9tanpqWkJOX2hxZFFGeGl6Y25OQms5Y0xQMElMMUJvZXF2cU5UMXpCR0hJZmV3aXM3Zjl4Um1Ca0Zzakd30gG3AUFVX3lxTE1EOVZJVTNJRGtLeU1yWFJQTTIycmNIR3N0d2RVajBoV1BQalBCVnlOXzBqcDlHbC13OWxtYlN1UmhraTJCTFdjRy1YcVdtckY5MFphR053bENoWFpRZjJ6ZUFiRlFneEhVNi1ES2FwSTNuUWVFVS1PR3FhTDJiQ092RzFxQ3dWcFozNnZfQmplYTNmTVlfNlNmZ19fUm1EMjFPRVJaUGpOeUV1cjJOWDVhemt3bzc5dw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261012T104854Z",
+          "pinned": false
+        },
+        {
           "title": "How genocidal war on Gaza is shaping Israel’s election",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVGhaaEY0YkNFN2tIbmVxQXJRd3Znc1dnM3E3Q2FpUlUxamU3UjdrQmlWV0JwWEpWVXJBX0ZncWZOaWc3Q1VxNFREVW5jbENMSUN5TVBFNWpaeHNzdnZRVklrMWNVUXQtUG5HRi1OeExSV3VUaHdGWEY2U01fX2tmZGlDWnE2ZVoyS3phbHFMV3Jjek5pbXJlYkNBSGF6QWxndlRPNjk3b9IBrAFBVV95cUxNSWJ3ZVh6bnhhdTRhZ1RSTDVQMzZPMzdPajNzVlB5Rmg0TE9od3NBU1YwejBWQ3l3eGdUcnFQZGpRemRWcWFfRWhhUENVYWx3LVlXRDJ5UGZGaXBzWm5HcWdtemVWX0txQmJub052OGFYR1F0dGJ2TVN3X1BUbHptbHlUd21GbVZhY24wa2ROdGlqaVEtUnZITExoVEdUazZ6bi0zY1lKbTlnMlpl?oc=5",
           "domain": "aljazeera.com",
@@ -2045,19 +2053,19 @@
           "pinned": false
         },
         {
-          "title": "What the Iran war has done to the world’s energy supply, in charts",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRzFYc2VSOHpyUE1vTFZCazhLczV3dWpZaUQzdmY3bExLeTMySVNpdm9OdzNtN29MTDRfRThhRzB2NnFGQXV6TjFXdzhkVXBnNksydE1mc2d4ZE1zNzJ0bm9qZVpPMDBQcVJBUy10NHdSQnNfcEwwQTEwTV91RklEZlpwb3dIYTFQWm5tV3BWbmJBYXdUT2pHRDF1dUw5cmpmYzk4eDljNVJKZ9IBrwFBVV95cUxQNmVnQ1JDb2hvaXFrc2xlLXVQVXk1MUxVVW1rUFJENm84S1VmS2ZaNFNTVjZUU2hKRDRIdGU4Z2VCUTdZMGg2Q05PVFk2bFVPUFBHRURHaWgyZkVPSkc0QnlxT3UyenVZbWpyWGFVby0wVFZ1NmRGZHpVd0lzWGpTaHdNS3Z4LXR0d0RIdlgyaXpQaWZZZnFZWXhZeTRkelJFdXV1enpNWW5rMVdFWUpJ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261011T083335Z",
-          "pinned": false
-        },
-        {
           "title": "Will Ethiopia’s neighbours intervene as Tigray war escalates?",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbHdkSlRBV2ZHeTAyMndOQ01oR2ZfOHZlLW1qRlVFcmJZa3ZaQzhnX3Z1VmJqbHVkR1F2azdOQlRvQkdESmhSNmZJZjNMdHoyYm5RN2Jnd084NEd3ZGszWkRxV1IxV1BkelB5ckJnel9pYm9iLTQyOGVmQTYtb3dGeDVMaHVnLTFBcWxpeHVQU1dCQ2lhN1A4WFpYQkp6eTdUQVHSAacBQVVfeXFMTVFsUXI0Ti1TQ09scUF1cjR3ejJNMm0tT2pCMzltRWVmUUtmSXJkeXAxdDNxQjlYX09vVTd2WW54YURoaGNkbFlGb1htSVIyXzNMc1RVNTNUY3FyUjVOY1FxYXAtNE5uVzJOeEpFMjhVOFdSbnhLWE1BeXNkYlpvQVk0SkdXSlQxMUttcGxYckN3bXNUMWhHcXNGQVJuWjdCZzk0dEl0Qjg?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20261009T001357Z",
+          "pinned": false
+        },
+        {
+          "title": "‘Energy ceasefire’: What’s behind Trump’s love-hate ties to Russian oil?",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSFcxaW1QV3RXUkpTVFVZY3ZXeHptMzVMTGl2bFZHMUhVVE1oa2xwdWd6a2ZVTEhnbkNJZXk1OWZvbnAyQTlzUmpKZG1kZ0xCb3JtbjZyajZnTVB1YUFnaUdvRU8yRTcwRkVUWVUxd1FFa0Y3Y05lUXgyQUpwX1dsSUxHZ243VFZRbks0Szl1X0RhTFZIcHBWcTljd0Ixd2ZJakRvenpyZWRMNThz0gGyAUFVX3lxTE5OMDZVNzBpMjR6dnpzYWhobVQ5eExNMWRpZkV6dW1SbE9GREZ6Y3I0Z010S0ZBQ0tHQ0xodE5kWXJyNzl3cGtERnZyN09FSXY4YTlWQzNyNGpMMk01bTFmRDc2Yy1Yak1JemNSN1RnUXJ1OWdtZjVobE5uSS1WWXNfX0xvcFctUTNZbDgyTFh0Z2dVUnVqRXVzWVJGTVQxWlEwMEl5M19faTJ5Y2pfZjRDOVE?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261012T113835Z",
           "pinned": false
         },
         {
@@ -2082,14 +2090,6 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20261009T081548Z",
-          "pinned": false
-        },
-        {
-          "title": "Photos: Gaza before and after – a city transformed by war",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSlY2QXJiS1ZqbXFSQTg0Q0NKV1dIZ2ZtSzBsTy1qNTB0NFIwdk1PbGFfMk9LSjNFNVlLX3ZwNDUyQ2l2UE9Xak50M25mZnhjNHpqalNKTTdmbHFSa2YwLU10Uk1HQjlCa0U2LUlKTm5jNGpHa0NCNDd5WlFDVGtHb0Q3LTRWTEE1ZklJWUZycTdmUTEtTUHSAZsBQVVfeXFMT2NscE5SZDluWG5TckhEaVBmc3c5VEtiSjlQOFFFRzcyMnlOZVVzaWZGNndEbEp0MTdhZVlHSnFBWXpPazBvUUFGNEJvYzZCS1NDaDE3T2hyWWR4QV9LVjhJZG9qeFpDc2ZGVDNOdzhoSFNPTXhpWVhjdExCa2tBWGppZHp5OWtBdXhqWUFPSkhHLUpDMUtadWVHbW8?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261009T053253Z",
           "pinned": false
         },
         {
@@ -2141,14 +2141,6 @@
           "pinned": false
         },
         {
-          "title": "Russia’s Attacks in Europe Are Escalating. Here Is How to Push Back.",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOT2l6b1U0YjVSeGpUVVBndzB1eHpVSm9lSGFyNzA2TDBvUm5vWmN3N0QxeVNfekhfcUpiVDlsNm40Yll4bjZrV1M4cXNmYVlMUkFEUXVPRk9TX1Z6RlJ4TDFhVnNzVVlYbmVTaFhRRE5YbURNWElQQmRpRFpNTWVMdlVTSElubThIZWYzMDQ4NWZKeFZydjl1ZHBn?oc=5",
-          "domain": "cfr.org",
-          "sourceTier": "Structured / analytic",
-          "seen": "20261009T183517Z",
-          "pinned": false
-        },
-        {
           "title": "Yemen fighting expands as Houthis attack Saudi airport again: What to know",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMDVTS1ZGSF8wX1ZNRk8wdUFmVFd5SmkyNWlkZmktVFRNNUxqSWxwUF8tT01GN2d0RzNtWmxSY0Y5aHJ1YlBWWHB3cjh4OXRjczc0UlNtWlJFc3JpUzlPMkZTS0laSDVOakFxZTVpNVZ0U19JUi03RTVvWVZGVlY0U0JUcDlPODJMZ1paTW9VUUp2M3VaSUFKVl91TENySDVHYXQ0RVQ0SlBEWUlTOUHSAbMBQVVfeXFMTVRZSG13RHl2RzVyQWtTSE9pb09YdldWYXcwSXBBOXRDeERqRGdwQXZFd2NfS2tjY0NxbDJwbTgybXFHeldfOHBaeVo5RGNRVnBsOXRya3JTTHc4T0RYS09BdGIydkFpMHlKX056NDhLc2w3a1o0ZHJzQkdRamtfMmZyQjB4MWktOEZqVXRfRXhfNWVwQVdwSUozemRzemkwR2puUmxBRFVDSHZBQXFZeUVIRDA?oc=5",
           "domain": "aljazeera.com",
@@ -2157,11 +2149,19 @@
           "pinned": false
         },
         {
-          "title": "Hormuz attacks intensify as efforts to end war on Iran stall",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOajZFRE5qcjI5WGVBUWVORmRYZ01xNzFGS0RvR01PLVY4UEx1dUFwQ3FkZlA4QWNOeTJSR0NUVUZQcVR1UjdaVmNBRU1yZ1ZuT2gyWDkzRlA1MUE0MXkwU3NEdWJWbzNodU9nY1pLU0VyT0pRQ0FjbVdEcFFSVEMxNnNHSjRHdmNUZmVGNjd3ZV9YTTJpc2U4dTRJUHBJOUlMendhONIBqgFBVV95cUxOVTdCRlJ6b1lUaVNqQlB0cERHWTB3TG5sRl9nSURfalAzZEJOTi1Ba3dkNmQ5ZGFoelJVMUhDY0l3QzQ2bWhFcUlfalkycDIyRFFiNGpaMGdSRl9pRHFpTGh6YXZJb0MwdGx1T1E1SDd3NjhkNmc0QlZibTdVbzBQNUdYQ0k4eHQ2TjJ6Y05lMW5FRHVEd3Nfdi1KZE1CdmthbDNMeHZjelVoUQ?oc=5",
+          "title": "Russia’s Attacks in Europe Are Escalating. Here Is How to Push Back.",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOT2l6b1U0YjVSeGpUVVBndzB1eHpVSm9lSGFyNzA2TDBvUm5vWmN3N0QxeVNfekhfcUpiVDlsNm40Yll4bjZrV1M4cXNmYVlMUkFEUXVPRk9TX1Z6RlJ4TDFhVnNzVVlYbmVTaFhRRE5YbURNWElQQmRpRFpNTWVMdlVTSElubThIZWYzMDQ4NWZKeFZydjl1ZHBn?oc=5",
+          "domain": "cfr.org",
+          "sourceTier": "Structured / analytic",
+          "seen": "20261009T183517Z",
+          "pinned": false
+        },
+        {
+          "title": "Fear and uncertainty for civilians as Yemen’s capital comes under attack",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPU1pweE1BOFpOY002b2ZLUG5SRW1lbXFsSGdUanBiVi0xSkNDR3VhTUFnVThuQnlKcGtoXzVvUVhYWVE0Z3hlT3NMSUVEYzR4d0xIaW9OdklvMHVoRnlBXzhqcGpjV0w0dU5qam9USXBXaHNmTlAyR2FGaGo0MlNRNUhqLUh2Y0xqTkRQWS1yLXRpbGxBTXV2NTUyLTRmOEYyVlk0SkxXWG1ieU1mb3ZXLTg3R2VYUlRpbmpqNG8yWdIBxAFBVV95cUxQMXR2T05kblNmMTRaYnpoTmhuMENkUERuZUR2T1hLLXlaSGVmeHVFMVZ1UUpUUTZTQTJyR0tXaDJ1R3I3c2dOdW9VOHJ3bWxGbUpSVDNJOWtmMG5oNFhuY01uVS1feWJ6ZFBRdm9NbXVkTVNDcWluTEg4VkpYZFNwT2RtSi1PUVdRdkR6V1RtZENBcmVyVEJJR2hmckxkY0k0Y0Q4dzZMcm5GTmk5cWxDMzBfTUYzRlNHYUxQREN0X1pRbnRv?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261011T140552Z",
+          "seen": "20261011T104741Z",
           "pinned": false
         },
         {
@@ -2173,19 +2173,19 @@
           "pinned": false
         },
         {
+          "title": "Ukraine hit by blackouts after Russian strikes despite 'energy ceasefire'",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTaGRvQkRDWnpVYTFrajZyUVprTi1OM2tXZXpIUl8wOWZycm1LelV2SlVfZUw5MFhHUEN5STNYVV80d1pYeUFQOW9wSGRVdEF3eW1xVE9zbzJpRjQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261012T085235Z",
+          "pinned": false
+        },
+        {
           "title": "Saudi Arabia says 12 killed, 300 wounded in Houthi attack on Riyadh airport",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdGcxd2Q2QXhUSGFCZ3NmdUotNFR2bkxvZ0t5dUN3ZGFoWnEyeVVMaXU3YmxST3daXzhOeVpCcDRIbXJhYlJ2MUdsOEhNYVcwcThEZlQyZUFGQWFpeklPYlY2T0FZb3hQY0liUkRfZ3hpT3pOUTRkb2hhSUhkdmJSTmtrSURzZEhMdllIa1pqNm9mUDhCT3hnM1k5cDQ4bjh0OVBaNk9YMHpJd9IBrwFBVV95cUxOeEY5RWlrVmxYUFllYXkyMk5QeUZQZGZ6OGNGZ2dvVlo5cXB3STlBbnMxWmFpQUJYQ200VFZoaVdmM0lTRFpKTWRWMXRQUDhuc1lSdjduZHhSSXRLQjZNalhjNXdiYjhwd2xhbzlqbUF3RnN4bmV2U1hFdHJKYTZlWkllancybkk4Y0Rkc2tSZ0dPZlFiZzAyT0EzX29wMEJ0WnRGR3JUdU80aWU2TU00?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20261011T054057Z",
-          "pinned": false
-        },
-        {
-          "title": "Gaza ceasefire ‘exists in name only’, more than 100 NGOs say",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV04xd1dxLWdROUZ1WVdyaU5HUzJHUUZlaXBCdDJ4SVNTYmh3MEtsaHBmSDlzdWlXWDM2NEUxZEh1SXhfd2hJWk5FNWNJQWltRlNqVnJrWHBpNkZ4VGJSWU1TUHdCV1Z2a2NvMGlXbFBnNGNtVnNoQmxmUUxWX19ja0JNd2tfSndjTExXdnVOd0pZQUdiSHlyR0ZISE1lUHfSAaQBQVVfeXFMTWY5UF9KWGpwcDk1ZHZSWGlaa2xGS0VCcm85UkpyemV6cENIeTdLQlpRcTdrbVBBdTlpVHRIalBkeWxXRXVOX05QeWJlVExSYVdGNVJGcHlkaGoxUkQ5WTRzRU4tLVh1ckdHZHh5VTRHSi1uT05NVlgyTkRiWW1fb1h0NVVWZG1DdG9wX2VuYVhReDVqYVM2ZEZaRjJ3R2dtLVRYUXI?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261009T182451Z",
           "pinned": false
         },
         {
@@ -2197,27 +2197,27 @@
           "pinned": false
         },
         {
+          "title": "Gaza ceasefire ‘exists in name only’, more than 100 NGOs say",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV04xd1dxLWdROUZ1WVdyaU5HUzJHUUZlaXBCdDJ4SVNTYmh3MEtsaHBmSDlzdWlXWDM2NEUxZEh1SXhfd2hJWk5FNWNJQWltRlNqVnJrWHBpNkZ4VGJSWU1TUHdCV1Z2a2NvMGlXbFBnNGNtVnNoQmxmUUxWX19ja0JNd2tfSndjTExXdnVOd0pZQUdiSHlyR0ZISE1lUHfSAaQBQVVfeXFMTWY5UF9KWGpwcDk1ZHZSWGlaa2xGS0VCcm85UkpyemV6cENIeTdLQlpRcTdrbVBBdTlpVHRIalBkeWxXRXVOX05QeWJlVExSYVdGNVJGcHlkaGoxUkQ5WTRzRU4tLVh1ckdHZHh5VTRHSi1uT05NVlgyTkRiWW1fb1h0NVVWZG1DdG9wX2VuYVhReDVqYVM2ZEZaRjJ3R2dtLVRYUXI?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261009T182451Z",
+          "pinned": false
+        },
+        {
           "title": "Trump says Russia and Ukraine agree to an ‘energy ceasefire’ but Kyiv says attacks continue",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPamZWc0pzUzdKd3YzOVM2MXRGdTc1akUwMDBma1pxUkt1OXd3ajk5RUlhLS1xaHJsVVdwVXk5cDVaMlFIcGxqSWtpelg1UUsydjFIZ3VpSXBKMTBnVlh3TTFUMGdjNlBtMWhEZmFpSnFTNVBDMWx1OVN5X2xGQS1DUndqS2RPQ2FBWXIxNGE5QzFhX0wzaW9vWUkwb2VoUHhGZU5Z?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261011T192900Z",
+          "seen": "20261012T045600Z",
           "pinned": false
         },
         {
-          "title": "Child among eight killed by Israel on Gaza ‘ceasefire’ anniversary",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNEt6WkNIVUVCQV9laGswamVmRE1YcTNWUFF2Z25vaXVyTGtPb3diN1JCN1F4ZHlYZUZKYWxEY0otRDlMMElUTlRYRUNRTmp3R0swX2kxTXA1QVlqb2t1TE55SUVsZElZeVFmdldHNjZEa3RjMUJHYkhQRDdkVjcwcTI5OTJaYW85VGNWUkhsX1kxZ3ltVHfSAZsBQVVfeXFMTWFpM015RWV4R0xjR0hVdjhSZ0tLOEpuY2c1SEZHQ1ZiUTlBUDFFQjF4aWVXRzZXTXZUVHBBZ21JR0dOaC1tdjh2STlpR0pXNWhJV1dkWGxnWWtKRFNsTGYyeUtmeUNTZlF2UUY2WmpEa0lTeUhEdGpHdmJ6ZEJoWmYtZ2xRMy1ZeUlJVHZMTTdOdTNBUXJXQWhhYWs?oc=5",
+          "title": "At least 72 Sudanese miners killed in air strike: Rights monitor",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTFNLVEYyaVhLYjdPQ0o5aDJzRU5vcXFKVUtuRXhmV0pRcTJubjE1cTBtYjA2MnMxbXdGd3dPMEFnUnNqT0pKMDF6T2pBX1RBcmgzcDRqQ2hMeGhrNHdZN0dGRkdXeTRjajJfOVlXUFR4OV9SMll3Qkp5Nl9sSFRtTzFnakFxYzZSU0tUWVduSk1ZOTV4bFpOcjFsTEFJbENOdnM3anlKclrSAa4BQVVfeXFMTUZEMmdWbVFqaVJZR1otUVZKUlFPN2ZFY0FqbVIxblBCa0VjLXdGLUNQR0Vacjc4UTJSdFZPVjA2X0Fjb3VZMW5xVC1aSExpWmNPWDZDU19rTG1yTUJSR3RkdzNxeWFWYWlXNi02VEd5dU41Tk1TZjlyUEZyU1ZhbmVFZ0xkMUJzbFEtT1FZT3gtQmtlSWR6LUJReE1YdEQzUjU4SmJBazBHQWdVMjJR?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261010T161432Z",
-          "pinned": false
-        },
-        {
-          "title": "A US-brokered ceasefire was supposed to end the war in Gaza. A year later, progress has stalled",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOF84RWlSNXdiVWh3azNPMS12R0h4ZFBReGdLNTM4SFg5c3lHdFRVRVRYdTV1Qm5PX1hLSHZsanBlY09fWXlZUUVrQ1VIbjg3clF6RVlBWFBKNFVYYXZZQmxrd3dTQm1yeWZkeUZVYVFvSk05SWMzQV9jcE1XZWZncjdoanNsNEJiTWtvY2FTa255dDZMVzF6RGV6cjdfSjZKOHJhR3BEbWtPRnZBQ2ktOFBfeEc?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261010T065000Z",
+          "seen": "20261012T031514Z",
           "pinned": false
         }
       ],
@@ -2232,6 +2232,15 @@
           "reportedAt": "2026-10-11T18:52:18Z"
         },
         {
+          "id": "report-dd62b46336e1",
+          "title": "Ukraine’s Zelenskyy accuses Russia of violating Trump’s ‘energy ceasefire’",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZVAwZndwWXN2OHh0Z29WTVVHQmIxcVNVellyOEtINnBhdDMzNlRvdVNPbjVzQkFIRGtZTDNheEwtcjFnQUo5OXFfNG52bWhIaEstdDRMeUJQWHBHMzNEVEJHUjYteGJWOVZldVBhWG9kbnpTSU9tanpqWkJOX2hxZFFGeGl6Y25OQms5Y0xQMElMMUJvZXF2cU5UMXpCR0hJZmV3aXM3Zjl4Um1Ca0Zzakd30gG3AUFVX3lxTE1EOVZJVTNJRGtLeU1yWFJQTTIycmNIR3N0d2RVajBoV1BQalBCVnlOXzBqcDlHbC13OWxtYlN1UmhraTJCTFdjRy1YcVdtckY5MFphR053bENoWFpRZjJ6ZUFiRlFneEhVNi1ES2FwSTNuUWVFVS1PR3FhTDJiQ092RzFxQ3dWcFozNnZfQmplYTNmTVlfNlNmZ19fUm1EMjFPRVJaUGpOeUV1cjJOWDVhemt3bzc5dw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-12T10:48:54Z"
+        },
+        {
           "id": "report-2526640dc83e",
           "title": "How genocidal war on Gaza is shaping Israel’s election",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVGhaaEY0YkNFN2tIbmVxQXJRd3Znc1dnM3E3Q2FpUlUxamU3UjdrQmlWV0JwWEpWVXJBX0ZncWZOaWc3Q1VxNFREVW5jbENMSUN5TVBFNWpaeHNzdnZRVklrMWNVUXQtUG5HRi1OeExSV3VUaHdGWEY2U01fX2tmZGlDWnE2ZVoyS3phbHFMV3Jjek5pbXJlYkNBSGF6QWxndlRPNjk3b9IBrAFBVV95cUxNSWJ3ZVh6bnhhdTRhZ1RSTDVQMzZPMzdPajNzVlB5Rmg0TE9od3NBU1YwejBWQ3l3eGdUcnFQZGpRemRWcWFfRWhhUENVYWx3LVlXRDJ5UGZGaXBzWm5HcWdtemVWX0txQmJub052OGFYR1F0dGJ2TVN3X1BUbHptbHlUd21GbVZhY24wa2ROdGlqaVEtUnZITExoVEdUazZ6bi0zY1lKbTlnMlpl?oc=5",
@@ -2241,15 +2250,6 @@
           "reportedAt": "2026-10-11T05:49:26Z"
         },
         {
-          "id": "report-c6a3a050e441",
-          "title": "What the Iran war has done to the world’s energy supply, in charts",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRzFYc2VSOHpyUE1vTFZCazhLczV3dWpZaUQzdmY3bExLeTMySVNpdm9OdzNtN29MTDRfRThhRzB2NnFGQXV6TjFXdzhkVXBnNksydE1mc2d4ZE1zNzJ0bm9qZVpPMDBQcVJBUy10NHdSQnNfcEwwQTEwTV91RklEZlpwb3dIYTFQWm5tV3BWbmJBYXdUT2pHRDF1dUw5cmpmYzk4eDljNVJKZ9IBrwFBVV95cUxQNmVnQ1JDb2hvaXFrc2xlLXVQVXk1MUxVVW1rUFJENm84S1VmS2ZaNFNTVjZUU2hKRDRIdGU4Z2VCUTdZMGg2Q05PVFk2bFVPUFBHRURHaWgyZkVPSkc0QnlxT3UyenVZbWpyWGFVby0wVFZ1NmRGZHpVd0lzWGpTaHdNS3Z4LXR0d0RIdlgyaXpQaWZZZnFZWXhZeTRkelJFdXV1enpNWW5rMVdFWUpJ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-11T08:33:35Z"
-        },
-        {
           "id": "report-5a5a2fa0eebb",
           "title": "Will Ethiopia’s neighbours intervene as Tigray war escalates?",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbHdkSlRBV2ZHeTAyMndOQ01oR2ZfOHZlLW1qRlVFcmJZa3ZaQzhnX3Z1VmJqbHVkR1F2azdOQlRvQkdESmhSNmZJZjNMdHoyYm5RN2Jnd084NEd3ZGszWkRxV1IxV1BkelB5ckJnel9pYm9iLTQyOGVmQTYtb3dGeDVMaHVnLTFBcWxpeHVQU1dCQ2lhN1A4WFpYQkp6eTdUQVHSAacBQVVfeXFMTVFsUXI0Ti1TQ09scUF1cjR3ejJNMm0tT2pCMzltRWVmUUtmSXJkeXAxdDNxQjlYX09vVTd2WW54YURoaGNkbFlGb1htSVIyXzNMc1RVNTNUY3FyUjVOY1FxYXAtNE5uVzJOeEpFMjhVOFdSbnhLWE1BeXNkYlpvQVk0SkdXSlQxMUttcGxYckN3bXNUMWhHcXNGQVJuWjdCZzk0dEl0Qjg?oc=5",
@@ -2257,6 +2257,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-10-09T00:13:57Z"
+        },
+        {
+          "id": "report-f6d3911c7118",
+          "title": "‘Energy ceasefire’: What’s behind Trump’s love-hate ties to Russian oil?",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSFcxaW1QV3RXUkpTVFVZY3ZXeHptMzVMTGl2bFZHMUhVVE1oa2xwdWd6a2ZVTEhnbkNJZXk1OWZvbnAyQTlzUmpKZG1kZ0xCb3JtbjZyajZnTVB1YUFnaUdvRU8yRTcwRkVUWVUxd1FFa0Y3Y05lUXgyQUpwX1dsSUxHZ243VFZRbks0Szl1X0RhTFZIcHBWcTljd0Ixd2ZJakRvenpyZWRMNThz0gGyAUFVX3lxTE5OMDZVNzBpMjR6dnpzYWhobVQ5eExNMWRpZkV6dW1SbE9GREZ6Y3I0Z010S0ZBQ0tHQ0xodE5kWXJyNzl3cGtERnZyN09FSXY4YTlWQzNyNGpMMk01bTFmRDc2Yy1Yak1JemNSN1RnUXJ1OWdtZjVobE5uSS1WWXNfX0xvcFctUTNZbDgyTFh0Z2dVUnVqRXVzWVJGTVQxWlEwMEl5M19faTJ5Y2pfZjRDOVE?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-12T11:38:35Z"
         },
         {
           "id": "report-2fe7c88dc2d7",
@@ -2284,15 +2293,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-10-09T08:15:48Z"
-        },
-        {
-          "id": "report-8c971eeebff5",
-          "title": "Photos: Gaza before and after – a city transformed by war",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSlY2QXJiS1ZqbXFSQTg0Q0NKV1dIZ2ZtSzBsTy1qNTB0NFIwdk1PbGFfMk9LSjNFNVlLX3ZwNDUyQ2l2UE9Xak50M25mZnhjNHpqalNKTTdmbHFSa2YwLU10Uk1HQjlCa0U2LUlKTm5jNGpHa0NCNDd5WlFDVGtHb0Q3LTRWTEE1ZklJWUZycTdmUTEtTUHSAZsBQVVfeXFMT2NscE5SZDluWG5TckhEaVBmc3c5VEtiSjlQOFFFRzcyMnlOZVVzaWZGNndEbEp0MTdhZVlHSnFBWXpPazBvUUFGNEJvYzZCS1NDaDE3T2hyWWR4QV9LVjhJZG9qeFpDc2ZGVDNOdzhoSFNPTXhpWVhjdExCa2tBWGppZHp5OWtBdXhqWUFPSkhHLUpDMUtadWVHbW8?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-09T05:32:53Z"
         },
         {
           "id": "report-3dcb2d2043fb",
@@ -2349,15 +2349,6 @@
           "reportedAt": "2026-10-10T05:33:35Z"
         },
         {
-          "id": "report-c3f7d6c03713",
-          "title": "Russia’s Attacks in Europe Are Escalating. Here Is How to Push Back.",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOT2l6b1U0YjVSeGpUVVBndzB1eHpVSm9lSGFyNzA2TDBvUm5vWmN3N0QxeVNfekhfcUpiVDlsNm40Yll4bjZrV1M4cXNmYVlMUkFEUXVPRk9TX1Z6RlJ4TDFhVnNzVVlYbmVTaFhRRE5YbURNWElQQmRpRFpNTWVMdlVTSElubThIZWYzMDQ4NWZKeFZydjl1ZHBn?oc=5",
-          "domain": "cfr.org",
-          "sourceTier": "Structured / analytic",
-          "confidenceLabel": "ANALYTIC REPORT",
-          "reportedAt": "2026-10-09T18:35:17Z"
-        },
-        {
           "id": "report-ec9aabaeb76f",
           "title": "Yemen fighting expands as Houthis attack Saudi airport again: What to know",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMDVTS1ZGSF8wX1ZNRk8wdUFmVFd5SmkyNWlkZmktVFRNNUxqSWxwUF8tT01GN2d0RzNtWmxSY0Y5aHJ1YlBWWHB3cjh4OXRjczc0UlNtWlJFc3JpUzlPMkZTS0laSDVOakFxZTVpNVZ0U19JUi03RTVvWVZGVlY0U0JUcDlPODJMZ1paTW9VUUp2M3VaSUFKVl91TENySDVHYXQ0RVQ0SlBEWUlTOUHSAbMBQVVfeXFMTVRZSG13RHl2RzVyQWtTSE9pb09YdldWYXcwSXBBOXRDeERqRGdwQXZFd2NfS2tjY0NxbDJwbTgybXFHeldfOHBaeVo5RGNRVnBsOXRya3JTTHc4T0RYS09BdGIydkFpMHlKX056NDhLc2w3a1o0ZHJzQkdRamtfMmZyQjB4MWktOEZqVXRfRXhfNWVwQVdwSUozemRzemkwR2puUmxBRFVDSHZBQXFZeUVIRDA?oc=5",
@@ -2367,13 +2358,22 @@
           "reportedAt": "2026-10-11T20:00:54Z"
         },
         {
-          "id": "report-c58fb9115814",
-          "title": "Hormuz attacks intensify as efforts to end war on Iran stall",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOajZFRE5qcjI5WGVBUWVORmRYZ01xNzFGS0RvR01PLVY4UEx1dUFwQ3FkZlA4QWNOeTJSR0NUVUZQcVR1UjdaVmNBRU1yZ1ZuT2gyWDkzRlA1MUE0MXkwU3NEdWJWbzNodU9nY1pLU0VyT0pRQ0FjbVdEcFFSVEMxNnNHSjRHdmNUZmVGNjd3ZV9YTTJpc2U4dTRJUHBJOUlMendhONIBqgFBVV95cUxOVTdCRlJ6b1lUaVNqQlB0cERHWTB3TG5sRl9nSURfalAzZEJOTi1Ba3dkNmQ5ZGFoelJVMUhDY0l3QzQ2bWhFcUlfalkycDIyRFFiNGpaMGdSRl9pRHFpTGh6YXZJb0MwdGx1T1E1SDd3NjhkNmc0QlZibTdVbzBQNUdYQ0k4eHQ2TjJ6Y05lMW5FRHVEd3Nfdi1KZE1CdmthbDNMeHZjelVoUQ?oc=5",
+          "id": "report-c3f7d6c03713",
+          "title": "Russia’s Attacks in Europe Are Escalating. Here Is How to Push Back.",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOT2l6b1U0YjVSeGpUVVBndzB1eHpVSm9lSGFyNzA2TDBvUm5vWmN3N0QxeVNfekhfcUpiVDlsNm40Yll4bjZrV1M4cXNmYVlMUkFEUXVPRk9TX1Z6RlJ4TDFhVnNzVVlYbmVTaFhRRE5YbURNWElQQmRpRFpNTWVMdlVTSElubThIZWYzMDQ4NWZKeFZydjl1ZHBn?oc=5",
+          "domain": "cfr.org",
+          "sourceTier": "Structured / analytic",
+          "confidenceLabel": "ANALYTIC REPORT",
+          "reportedAt": "2026-10-09T18:35:17Z"
+        },
+        {
+          "id": "report-8b4bed23ee6c",
+          "title": "Fear and uncertainty for civilians as Yemen’s capital comes under attack",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPU1pweE1BOFpOY002b2ZLUG5SRW1lbXFsSGdUanBiVi0xSkNDR3VhTUFnVThuQnlKcGtoXzVvUVhYWVE0Z3hlT3NMSUVEYzR4d0xIaW9OdklvMHVoRnlBXzhqcGpjV0w0dU5qam9USXBXaHNmTlAyR2FGaGo0MlNRNUhqLUh2Y0xqTkRQWS1yLXRpbGxBTXV2NTUyLTRmOEYyVlk0SkxXWG1ieU1mb3ZXLTg3R2VYUlRpbmpqNG8yWdIBxAFBVV95cUxQMXR2T05kblNmMTRaYnpoTmhuMENkUERuZUR2T1hLLXlaSGVmeHVFMVZ1UUpUUTZTQTJyR0tXaDJ1R3I3c2dOdW9VOHJ3bWxGbUpSVDNJOWtmMG5oNFhuY01uVS1feWJ6ZFBRdm9NbXVkTVNDcWluTEg4VkpYZFNwT2RtSi1PUVdRdkR6V1RtZENBcmVyVEJJR2hmckxkY0k0Y0Q4dzZMcm5GTmk5cWxDMzBfTUYzRlNHYUxQREN0X1pRbnRv?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-11T14:05:52Z"
+          "reportedAt": "2026-10-11T10:47:41Z"
         },
         {
           "id": "report-1ba9f2a962c0",
@@ -2385,6 +2385,15 @@
           "reportedAt": "2026-10-10T12:35:26Z"
         },
         {
+          "id": "report-34e0d1179d29",
+          "title": "Ukraine hit by blackouts after Russian strikes despite 'energy ceasefire'",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTaGRvQkRDWnpVYTFrajZyUVprTi1OM2tXZXpIUl8wOWZycm1LelV2SlVfZUw5MFhHUEN5STNYVV80d1pYeUFQOW9wSGRVdEF3eW1xVE9zbzJpRjQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-12T08:52:35Z"
+        },
+        {
           "id": "report-2fa305c285ed",
           "title": "Saudi Arabia says 12 killed, 300 wounded in Houthi attack on Riyadh airport",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdGcxd2Q2QXhUSGFCZ3NmdUotNFR2bkxvZ0t5dUN3ZGFoWnEyeVVMaXU3YmxST3daXzhOeVpCcDRIbXJhYlJ2MUdsOEhNYVcwcThEZlQyZUFGQWFpeklPYlY2T0FZb3hQY0liUkRfZ3hpT3pOUTRkb2hhSUhkdmJSTmtrSURzZEhMdllIa1pqNm9mUDhCT3hnM1k5cDQ4bjh0OVBaNk9YMHpJd9IBrwFBVV95cUxOeEY5RWlrVmxYUFllYXkyMk5QeUZQZGZ6OGNGZ2dvVlo5cXB3STlBbnMxWmFpQUJYQ200VFZoaVdmM0lTRFpKTWRWMXRQUDhuc1lSdjduZHhSSXRLQjZNalhjNXdiYjhwd2xhbzlqbUF3RnN4bmV2U1hFdHJKYTZlWkllancybkk4Y0Rkc2tSZ0dPZlFiZzAyT0EzX29wMEJ0WnRGR3JUdU80aWU2TU00?oc=5",
@@ -2392,15 +2401,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-10-11T05:40:57Z"
-        },
-        {
-          "id": "report-51e5978e1283",
-          "title": "Gaza ceasefire ‘exists in name only’, more than 100 NGOs say",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV04xd1dxLWdROUZ1WVdyaU5HUzJHUUZlaXBCdDJ4SVNTYmh3MEtsaHBmSDlzdWlXWDM2NEUxZEh1SXhfd2hJWk5FNWNJQWltRlNqVnJrWHBpNkZ4VGJSWU1TUHdCV1Z2a2NvMGlXbFBnNGNtVnNoQmxmUUxWX19ja0JNd2tfSndjTExXdnVOd0pZQUdiSHlyR0ZISE1lUHfSAaQBQVVfeXFMTWY5UF9KWGpwcDk1ZHZSWGlaa2xGS0VCcm85UkpyemV6cENIeTdLQlpRcTdrbVBBdTlpVHRIalBkeWxXRXVOX05QeWJlVExSYVdGNVJGcHlkaGoxUkQ5WTRzRU4tLVh1ckdHZHh5VTRHSi1uT05NVlgyTkRiWW1fb1h0NVVWZG1DdG9wX2VuYVhReDVqYVM2ZEZaRjJ3R2dtLVRYUXI?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-09T18:24:51Z"
         },
         {
           "id": "report-bc512e1c858d",
@@ -2412,31 +2412,31 @@
           "reportedAt": "2026-10-11T12:30:03Z"
         },
         {
+          "id": "report-51e5978e1283",
+          "title": "Gaza ceasefire ‘exists in name only’, more than 100 NGOs say",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV04xd1dxLWdROUZ1WVdyaU5HUzJHUUZlaXBCdDJ4SVNTYmh3MEtsaHBmSDlzdWlXWDM2NEUxZEh1SXhfd2hJWk5FNWNJQWltRlNqVnJrWHBpNkZ4VGJSWU1TUHdCV1Z2a2NvMGlXbFBnNGNtVnNoQmxmUUxWX19ja0JNd2tfSndjTExXdnVOd0pZQUdiSHlyR0ZISE1lUHfSAaQBQVVfeXFMTWY5UF9KWGpwcDk1ZHZSWGlaa2xGS0VCcm85UkpyemV6cENIeTdLQlpRcTdrbVBBdTlpVHRIalBkeWxXRXVOX05QeWJlVExSYVdGNVJGcHlkaGoxUkQ5WTRzRU4tLVh1ckdHZHh5VTRHSi1uT05NVlgyTkRiWW1fb1h0NVVWZG1DdG9wX2VuYVhReDVqYVM2ZEZaRjJ3R2dtLVRYUXI?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-09T18:24:51Z"
+        },
+        {
           "id": "report-dd22df13c29d",
           "title": "Trump says Russia and Ukraine agree to an ‘energy ceasefire’ but Kyiv says attacks continue",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPamZWc0pzUzdKd3YzOVM2MXRGdTc1akUwMDBma1pxUkt1OXd3ajk5RUlhLS1xaHJsVVdwVXk5cDVaMlFIcGxqSWtpelg1UUsydjFIZ3VpSXBKMTBnVlh3TTFUMGdjNlBtMWhEZmFpSnFTNVBDMWx1OVN5X2xGQS1DUndqS2RPQ2FBWXIxNGE5QzFhX0wzaW9vWUkwb2VoUHhGZU5Z?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-11T19:29:00Z"
+          "reportedAt": "2026-10-12T04:56:00Z"
         },
         {
-          "id": "report-2ae89f78514f",
-          "title": "Child among eight killed by Israel on Gaza ‘ceasefire’ anniversary",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNEt6WkNIVUVCQV9laGswamVmRE1YcTNWUFF2Z25vaXVyTGtPb3diN1JCN1F4ZHlYZUZKYWxEY0otRDlMMElUTlRYRUNRTmp3R0swX2kxTXA1QVlqb2t1TE55SUVsZElZeVFmdldHNjZEa3RjMUJHYkhQRDdkVjcwcTI5OTJaYW85VGNWUkhsX1kxZ3ltVHfSAZsBQVVfeXFMTWFpM015RWV4R0xjR0hVdjhSZ0tLOEpuY2c1SEZHQ1ZiUTlBUDFFQjF4aWVXRzZXTXZUVHBBZ21JR0dOaC1tdjh2STlpR0pXNWhJV1dkWGxnWWtKRFNsTGYyeUtmeUNTZlF2UUY2WmpEa0lTeUhEdGpHdmJ6ZEJoWmYtZ2xRMy1ZeUlJVHZMTTdOdTNBUXJXQWhhYWs?oc=5",
+          "id": "report-10c5a4d9ad24",
+          "title": "At least 72 Sudanese miners killed in air strike: Rights monitor",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTFNLVEYyaVhLYjdPQ0o5aDJzRU5vcXFKVUtuRXhmV0pRcTJubjE1cTBtYjA2MnMxbXdGd3dPMEFnUnNqT0pKMDF6T2pBX1RBcmgzcDRqQ2hMeGhrNHdZN0dGRkdXeTRjajJfOVlXUFR4OV9SMll3Qkp5Nl9sSFRtTzFnakFxYzZSU0tUWVduSk1ZOTV4bFpOcjFsTEFJbENOdnM3anlKclrSAa4BQVVfeXFMTUZEMmdWbVFqaVJZR1otUVZKUlFPN2ZFY0FqbVIxblBCa0VjLXdGLUNQR0Vacjc4UTJSdFZPVjA2X0Fjb3VZMW5xVC1aSExpWmNPWDZDU19rTG1yTUJSR3RkdzNxeWFWYWlXNi02VEd5dU41Tk1TZjlyUEZyU1ZhbmVFZ0xkMUJzbFEtT1FZT3gtQmtlSWR6LUJReE1YdEQzUjU4SmJBazBHQWdVMjJR?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-10T16:14:32Z"
-        },
-        {
-          "id": "report-e0809124ae91",
-          "title": "A US-brokered ceasefire was supposed to end the war in Gaza. A year later, progress has stalled",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOF84RWlSNXdiVWh3azNPMS12R0h4ZFBReGdLNTM4SFg5c3lHdFRVRVRYdTV1Qm5PX1hLSHZsanBlY09fWXlZUUVrQ1VIbjg3clF6RVlBWFBKNFVYYXZZQmxrd3dTQm1yeWZkeUZVYVFvSk05SWMzQV9jcE1XZWZncjdoanNsNEJiTWtvY2FTa255dDZMVzF6RGV6cjdfSjZKOHJhR3BEbWtPRnZBQ2ktOFBfeEc?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-10T06:50:00Z"
+          "reportedAt": "2026-10-12T03:15:14Z"
         },
         {
           "id": "report-c7d4afc744a0",
