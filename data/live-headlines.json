@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-15T11:26:33.920Z",
+  "generatedAt": "2026-10-15T16:58:40.607Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-10-15T11:26:33.920Z",
+      "generatedAt": "2026-10-15T16:58:40.607Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -1977,7 +1977,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-10-15T11:26:33.920Z",
+      "generatedAt": "2026-10-15T16:58:40.607Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -2013,14 +2013,6 @@
           "pinned": false
         },
         {
-          "title": "War in Ukraine | Global Conflict Tracker",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzNzUzWFZFa3dRQ094S3NlRzRSbVloSUU5ZGhYSHZBLUYxdTlvdGdaTmN6b09EOGZlYmVTaGRnSFVzbk12T0Z4bDJJTnF6bGI4S1ZaVXhNUDY3cEJweFJVVWZZQ2c4T0NOT3lWVy1BMHFFRGJNdUQ5Rg?oc=5",
-          "domain": "cfr.org",
-          "sourceTier": "Structured / analytic",
-          "seen": "20261013T135100Z",
-          "pinned": false
-        },
-        {
           "title": "Which war is having the biggest impact on diesel prices - Iran or Ukraine?",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OQzgxcFdBcHNXTFNfd01ZM0JRTHVJc2gtMlY1aW9FeEZ4Mjh2LWM5a3k2ajVRS1ZaTE11d3hLR2xnX2VLYnNtdEtkTlB3VS1UWk9oU1dHenc5RjA?oc=5",
           "domain": "bbc.com",
@@ -2050,6 +2042,14 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20261015T101258Z",
+          "pinned": false
+        },
+        {
+          "title": "Ukrainians fear US intelligence cuts as Russian strikes intensify",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSXlfR1l2Qy1LRGE2TDhGQ2c4a1dVUklBRHZoc20takFqM1NxUzJtcjhaVk5iUVJZaWVyeXdiSUFNT0RucmRONURmN1ZaRUFFWHBCYTFSaFpFaVdQQ2lyZHNxaWNTazlLUHdJR2NWWUF3V3VfRlBCMzI1NUZMWXl5bk45Ti1IQ0NYMkNkOUl6dXpfbFRRcGk0UGpNcXI2ZVRicmlLck40a2FfNzDSAbABQVVfeXFMTUxzaEJob3dvOUIySVBhZWtXdENVOTBRM0JNY09DeU5ybl9aQU8wLWgxcXU4T3lpNXM0TmQzd2o4QUNaUjFEQTVmUjQxakp6T2lqTHpBZHRIU3BUZi1SaENRWVF0V01fUDI1cmRyZjRCT05xTjQ0Zm9Kdk44ZmpFY1Bqd2Q2b1lXaTNDZGdweDZaUEpWeEdmcjZ2eFo3dnZGRkQ0andTcWxtbm0wS3ZMakw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261015T115259Z",
           "pinned": false
         },
         {
@@ -2085,11 +2085,11 @@
           "pinned": false
         },
         {
-          "title": "Middle East and Central Asia’s economy to shrink in 2026 amid war, IMF says",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS21VbVNZWmtxOTNETndGYXdELUtxVEpnakhseHFMdS1zeG9RLXJrMzVVTHlkbjlpa2tXR3k2ek9ic2ZDbFU3ZkZBcV9PNzdVcVc1Nm9ZZEJNUFRLQTZmV24wUUtBYnRtaW1mNm80UXk2clRiR1o0WUlRdXpScFE3TC1BcnNpejRROVhaZ3UteDJELWpoOVpLbTZZb2VsSUp6Tkd4MWZOTkFxamNKVG42UVdIc243TFJpTUHSAb8BQVVfeXFMT1MtYXUxdzFtZi11Z2FabS1scVRNUko1MUpNdXVhR1NTcUZXc1JhdGdrU19uRGZjZm5DcWRYNWs1aUxFdXdEZHQ0eXhOdHFWaE5JZ3BUcHRPRWtISjkzOFFweThKdFpxRHNBTkEwaUZqV2tfSGR2enJQdXpaWXl1cDV5cXdSbkhRUG1Kbm1UUzVhWnZVZ3REVWQ1Y2hKMlpsUGIxZWlKUGt6RTdyUVg1MVM1MEVJVDZSUlo5ejQ5VlE?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261013T074103Z",
+          "title": "Iran's framework deal with US helped Tehran strengthen military capabilities: Parliament speaker",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNT1Q0Yko3QXktOVZwN1A0RlRjUnN6Q0l2eGNLTVNNQ1FFOW5pMERoS2ZMTjBOdTV2YjZDUVJKM3J2Z2g2VmowYjhOWVJYdENQZE1tVkNYN1FyakdGZGFkcHZzTUc1U01iSkxlS1ZwQlJqZ2N0SXp4X3JIbGNzbkVfSzBydkdoSUNzUTRHSVEyTGJMMk9oZmNNVzlnU2Y3RUV6d3BrT182MDU1d0s0TnV1S0IwdDRYdV8yVVJtUFNSMnpZU3BZd0lkV2RMTjcwbUdWbVoxcUxB?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20261014T194127Z",
           "pinned": false
         },
         {
@@ -2098,6 +2098,14 @@
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20261013T043009Z",
+          "pinned": false
+        },
+        {
+          "title": "Why is Starlink internet so important in the Ukraine war?",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HOERYQmNFRTNwNXpWcHpiNmhkbGs2MExuRk0xS0JyWjhMN2lObnpiTUFhdnExOUt5Ml9BdHlUakZxUm5WbUhUOXo3QS1HcURRazdjeWZTR0RrNTA?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261015T112519Z",
           "pinned": false
         },
         {
@@ -2157,19 +2165,11 @@
           "pinned": false
         },
         {
-          "title": "Trump says Russia and Ukraine agree to an ‘energy ceasefire’ but Kyiv says attacks continue",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPamZWc0pzUzdKd3YzOVM2MXRGdTc1akUwMDBma1pxUkt1OXd3ajk5RUlhLS1xaHJsVVdwVXk5cDVaMlFIcGxqSWtpelg1UUsydjFIZ3VpSXBKMTBnVlh3TTFUMGdjNlBtMWhEZmFpSnFTNVBDMWx1OVN5X2xGQS1DUndqS2RPQ2FBWXIxNGE5QzFhX0wzaW9vWUkwb2VoUHhGZU5Z?oc=5",
-          "domain": "apnews.com",
+          "title": "Watch: What could Trump's energy ceasefire mean for Ukraine?",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE84ZUtFTzZOeEFxeV9QYVgwNWtZNTI0NHRFUnJTT2lhZEMybDUwTk9vQThtT29YVElXNnZ0UTQ4T0RadDgtMkd2b25XWjRVMjF5R3cwazV6VWc?oc=5",
+          "domain": "bbc.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261012T045600Z",
-          "pinned": false
-        },
-        {
-          "title": "North Korea gaining military logistics, deployment experience in Ukraine war: US general",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSTZaU3NjVExxd05QcXpHNVE0enNnal9ZV2k4TjE2enNEcjk3SFFQYmJoTDFSak1namRuV0NudFFJY3pyRHNEU2t0Tms1YXZTazBROVY2Z25LR3lxUHM3UUlaUExud28wOWk4TXRHQWV6S2hXazVhQThRN2ViSURyeFhocF9EajRPTEhncVRfaElDZWI4alNCWWk3RFo3U0hBamo4eTYyUzExeG8wUm9lY2NRUlgta3c5eE1IR09tc2JNZ3ZCZno4ZTVzaTY?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "seen": "20261014T042011Z",
+          "seen": "20261012T155130Z",
           "pinned": false
         }
       ],
@@ -2211,15 +2211,6 @@
           "reportedAt": "2026-10-12T21:20:51Z"
         },
         {
-          "id": "report-3d06d7802bf8",
-          "title": "War in Ukraine | Global Conflict Tracker",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzNzUzWFZFa3dRQ094S3NlRzRSbVloSUU5ZGhYSHZBLUYxdTlvdGdaTmN6b09EOGZlYmVTaGRnSFVzbk12T0Z4bDJJTnF6bGI4S1ZaVXhNUDY3cEJweFJVVWZZQ2c4T0NOT3lWVy1BMHFFRGJNdUQ5Rg?oc=5",
-          "domain": "cfr.org",
-          "sourceTier": "Structured / analytic",
-          "confidenceLabel": "ANALYTIC REPORT",
-          "reportedAt": "2026-10-13T13:51:00Z"
-        },
-        {
           "id": "report-9416cb84788c",
           "title": "Which war is having the biggest impact on diesel prices - Iran or Ukraine?",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OQzgxcFdBcHNXTFNfd01ZM0JRTHVJc2gtMlY1aW9FeEZ4Mjh2LWM5a3k2ajVRS1ZaTE11d3hLR2xnX2VLYnNtdEtkTlB3VS1UWk9oU1dHenc5RjA?oc=5",
@@ -2254,6 +2245,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-10-15T10:12:58Z"
+        },
+        {
+          "id": "report-11258154ade6",
+          "title": "Ukrainians fear US intelligence cuts as Russian strikes intensify",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSXlfR1l2Qy1LRGE2TDhGQ2c4a1dVUklBRHZoc20takFqM1NxUzJtcjhaVk5iUVJZaWVyeXdiSUFNT0RucmRONURmN1ZaRUFFWHBCYTFSaFpFaVdQQ2lyZHNxaWNTazlLUHdJR2NWWUF3V3VfRlBCMzI1NUZMWXl5bk45Ti1IQ0NYMkNkOUl6dXpfbFRRcGk0UGpNcXI2ZVRicmlLck40a2FfNzDSAbABQVVfeXFMTUxzaEJob3dvOUIySVBhZWtXdENVOTBRM0JNY09DeU5ybl9aQU8wLWgxcXU4T3lpNXM0TmQzd2o4QUNaUjFEQTVmUjQxakp6T2lqTHpBZHRIU3BUZi1SaENRWVF0V01fUDI1cmRyZjRCT05xTjQ0Zm9Kdk44ZmpFY1Bqd2Q2b1lXaTNDZGdweDZaUEpWeEdmcjZ2eFo3dnZGRkQ0andTcWxtbm0wS3ZMakw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-15T11:52:59Z"
         },
         {
           "id": "report-1781f02e81ef",
@@ -2292,13 +2292,13 @@
           "reportedAt": "2026-10-13T15:52:15Z"
         },
         {
-          "id": "report-c497a839edc4",
-          "title": "Middle East and Central Asia’s economy to shrink in 2026 amid war, IMF says",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS21VbVNZWmtxOTNETndGYXdELUtxVEpnakhseHFMdS1zeG9RLXJrMzVVTHlkbjlpa2tXR3k2ek9ic2ZDbFU3ZkZBcV9PNzdVcVc1Nm9ZZEJNUFRLQTZmV24wUUtBYnRtaW1mNm80UXk2clRiR1o0WUlRdXpScFE3TC1BcnNpejRROVhaZ3UteDJELWpoOVpLbTZZb2VsSUp6Tkd4MWZOTkFxamNKVG42UVdIc243TFJpTUHSAb8BQVVfeXFMT1MtYXUxdzFtZi11Z2FabS1scVRNUko1MUpNdXVhR1NTcUZXc1JhdGdrU19uRGZjZm5DcWRYNWs1aUxFdXdEZHQ0eXhOdHFWaE5JZ3BUcHRPRWtISjkzOFFweThKdFpxRHNBTkEwaUZqV2tfSGR2enJQdXpaWXl1cDV5cXdSbkhRUG1Kbm1UUzVhWnZVZ3REVWQ1Y2hKMlpsUGIxZWlKUGt6RTdyUVg1MVM1MEVJVDZSUlo5ejQ5VlE?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-13T07:41:03Z"
+          "id": "report-029786cc45c0",
+          "title": "Iran's framework deal with US helped Tehran strengthen military capabilities: Parliament speaker",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNT1Q0Yko3QXktOVZwN1A0RlRjUnN6Q0l2eGNLTVNNQ1FFOW5pMERoS2ZMTjBOdTV2YjZDUVJKM3J2Z2g2VmowYjhOWVJYdENQZE1tVkNYN1FyakdGZGFkcHZzTUc1U01iSkxlS1ZwQlJqZ2N0SXp4X3JIbGNzbkVfSzBydkdoSUNzUTRHSVEyTGJMMk9oZmNNVzlnU2Y3RUV6d3BrT182MDU1d0s0TnV1S0IwdDRYdV8yVVJtUFNSMnpZU3BZd0lkV2RMTjcwbUdWbVoxcUxB?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-10-14T19:41:27Z"
         },
         {
           "id": "report-b81361cc279f",
@@ -2308,6 +2308,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-10-13T04:30:09Z"
+        },
+        {
+          "id": "report-2a10fa9c1c33",
+          "title": "Why is Starlink internet so important in the Ukraine war?",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HOERYQmNFRTNwNXpWcHpiNmhkbGs2MExuRk0xS0JyWjhMN2lObnpiTUFhdnExOUt5Ml9BdHlUakZxUm5WbUhUOXo3QS1HcURRazdjeWZTR0RrNTA?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-15T11:25:19Z"
         },
         {
           "id": "report-a190a7866b7f",
@@ -2373,22 +2382,22 @@
           "reportedAt": "2026-10-13T08:03:50Z"
         },
         {
-          "id": "report-dd22df13c29d",
-          "title": "Trump says Russia and Ukraine agree to an ‘energy ceasefire’ but Kyiv says attacks continue",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPamZWc0pzUzdKd3YzOVM2MXRGdTc1akUwMDBma1pxUkt1OXd3ajk5RUlhLS1xaHJsVVdwVXk5cDVaMlFIcGxqSWtpelg1UUsydjFIZ3VpSXBKMTBnVlh3TTFUMGdjNlBtMWhEZmFpSnFTNVBDMWx1OVN5X2xGQS1DUndqS2RPQ2FBWXIxNGE5QzFhX0wzaW9vWUkwb2VoUHhGZU5Z?oc=5",
-          "domain": "apnews.com",
+          "id": "report-25bfa4965913",
+          "title": "Watch: What could Trump's energy ceasefire mean for Ukraine?",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE84ZUtFTzZOeEFxeV9QYVgwNWtZNTI0NHRFUnJTT2lhZEMybDUwTk9vQThtT29YVElXNnZ0UTQ4T0RadDgtMkd2b25XWjRVMjF5R3cwazV6VWc?oc=5",
+          "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-12T04:56:00Z"
+          "reportedAt": "2026-10-12T15:51:30Z"
         },
         {
-          "id": "report-cbc414d36c3e",
-          "title": "North Korea gaining military logistics, deployment experience in Ukraine war: US general",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSTZaU3NjVExxd05QcXpHNVE0enNnal9ZV2k4TjE2enNEcjk3SFFQYmJoTDFSak1namRuV0NudFFJY3pyRHNEU2t0Tms1YXZTazBROVY2Z25LR3lxUHM3UUlaUExud28wOWk4TXRHQWV6S2hXazVhQThRN2ViSURyeFhocF9EajRPTEhncVRfaElDZWI4alNCWWk3RFo3U0hBamo4eTYyUzExeG8wUm9lY2NRUlgta3c5eE1IR09tc2JNZ3ZCZno4ZTVzaTY?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
-          "reportedAt": "2026-10-14T04:20:11Z"
+          "id": "report-3d06d7802bf8",
+          "title": "War in Ukraine | Global Conflict Tracker",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzNzUzWFZFa3dRQ094S3NlRzRSbVloSUU5ZGhYSHZBLUYxdTlvdGdaTmN6b09EOGZlYmVTaGRnSFVzbk12T0Z4bDJJTnF6bGI4S1ZaVXhNUDY3cEJweFJVVWZZQ2c4T0NOT3lWVy1BMHFFRGJNdUQ5Rg?oc=5",
+          "domain": "cfr.org",
+          "sourceTier": "Structured / analytic",
+          "confidenceLabel": "ANALYTIC REPORT",
+          "reportedAt": "2026-10-13T13:51:00Z"
         },
         {
           "id": "report-c3f7d6c03713",
