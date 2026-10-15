@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-14T21:41:35.448Z",
+  "generatedAt": "2026-10-15T04:36:58.497Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-10-14T21:41:35.448Z",
+      "generatedAt": "2026-10-15T04:36:58.497Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -1977,7 +1977,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-10-14T21:41:35.448Z",
+      "generatedAt": "2026-10-15T04:36:58.497Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -2005,6 +2005,14 @@
           "pinned": false
         },
         {
+          "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTaGRvQkRDWnpVYTFrajZyUVprTi1OM2tXZXpIUl8wOWZycm1LelV2SlVfZUw5MFhHUEN5STNYVV80d1pYeUFQOW9wSGRVdEF3eW1xVE9zbzJpRjQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261012T212051Z",
+          "pinned": false
+        },
+        {
           "title": "Which war is having the biggest impact on diesel prices - Iran or Ukraine?",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OQzgxcFdBcHNXTFNfd01ZM0JRTHVJc2gtMlY1aW9FeEZ4Mjh2LWM5a3k2ajVRS1ZaTE11d3hLR2xnX2VLYnNtdEtkTlB3VS1UWk9oU1dHenc5RjA?oc=5",
           "domain": "bbc.com",
@@ -2029,43 +2037,11 @@
           "pinned": false
         },
         {
-          "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTaGRvQkRDWnpVYTFrajZyUVprTi1OM2tXZXpIUl8wOWZycm1LelV2SlVfZUw5MFhHUEN5STNYVV80d1pYeUFQOW9wSGRVdEF3eW1xVE9zbzJpRjQ?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261012T212051Z",
-          "pinned": false
-        },
-        {
-          "title": "Trump says Ukraine and Russia have agreed 'energy ceasefire'",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04QUtQbDZLV05uX0dPcEwxc3poa1BGZGVYdmVjM2NzQ3pUMkowOVd6ZzBMTGRZNG9KVlhUNHNqR3o1SG5sel96Rnd3YVJQMjEwZ09zRnoxSFcxQ2s?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261011T213640Z",
-          "pinned": false
-        },
-        {
-          "title": "Zelenskyy says Russia strikes energy facilities despite Trump claim of an energy ceasefire",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYk9yd3EweHFPQ2doVnFxQmxCdEJxMmdBdF9FT2tzdExGZmR3eUo0TjFyTmU0azY4UEtmRW56djNGaERmMGdpcmNHZWRPcllwdEhPUVhsNjJqMzYxRko2dXA0VTBtdGZvYUdid1hZZkFMeGtJOGdVX1J0NUU5X29naUJaUVNxMG9LWEw2Q3prUHVTNTlyanVIbjFxOE80Y3oyNTlfX3VhT2U?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261012T215000Z",
-          "pinned": false
-        },
-        {
           "title": "Ethiopia’s Tigray war: Where do the UAE and Saudi Arabia stand?",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTUV5MndaMXRQMERSYVZhSXo0NWVYdjRfbmtqSU9MM1NGV0k2d3RBZ1VWdWVEN3I1bFlaYW9DWUx6NkpmUDMwS1dSTG9lRDRQUXlscmFPQjZNVHZycUhfLUVJS2VXS2wtSlRlYTRkb0ltVkJaRThSNHNpX1NRdEcxUWNxenI3Slg5T1AzTDZtUGgyZVhSeFJxQ0MtR2Zxd3ZLNHVqVtIBqgFBVV95cUxOcVl5a0FQUGpXWVhnTGV3bExraFZMTFJZYk9kcTRGN3VwS0dtaHp3RTNoV1NENGw5bFZsUkFoYUxSWkRCUTJuNFN3N3dOREt3ZjNxRFVFNEctT29mS0VmclNDUlZmVzZKeUZjWjR5dDFqUnZ3dFBEbVEtcW5mN2c3S3VYNGNOY1ZNbFRJSFdIRlFXZDlCaXlHTTNGNnQ0Vm5mZVo3eDdDLXRfdw?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20261013T015706Z",
-          "pinned": false
-        },
-        {
-          "title": "Ethiopia, Eritrea ramp up rhetoric: Are they inching towards war?",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNd09raG1JWkJzLUJvUGhueWZOVnFSWHBVRWZMRDVYQ3Y5cmZjTFd5bDJaMHJjUno0eHd4M2JnOEtXeEJtS1pHRF9DT1UxQ2IzRHUtc25UcG0xd2FWOU9pQUdYX2stTjF3cVhvcXExbnVPLUxJb3FvTHFkYW5PejFBc1g4SlhUT19falNhLTdHamJJYTBLUFdjeEwwdXpYSy11bkJqeENpUdIBrAFBVV95cUxPenB0QW9TNlQ4c3pCTWJvX2dkMHBBaUlvdnNkMG14Mm5vNmpRWFM3SUd0RUl0RnN6cVN2MlZOaGlYVkh5T2kxcjUwWGhIeFBYckVpVk1QVy10ZFBkaVdhdU5jQ19UWGNRTnZ4eTBJLXdsXzNQOGpVOHVxd09CanNPRHBOencyaVBSdWJlMlJjbHlnemdsdllTWDBJc3dlbVg3ajdET2xGc2NRNDBY?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261011T141605Z",
           "pinned": false
         },
         {
@@ -2109,11 +2085,11 @@
           "pinned": false
         },
         {
-          "title": "Watch: What we know about Russia's overnight strikes on Ukraine",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9waVVuamZleTNzNk5wckgxdG4xd2tVVFhsRFotRzU1b3dwNy1NTUtnTGVsaEFnNzVXNzVFbUdaS0YwT3B2Zmx3YzZ3T0F5ZFN0WUhxT2U5bkQ?oc=5",
-          "domain": "bbc.com",
+          "title": "‘Massive’ Russian attack on Ukraine kills at least 9, damages power sites",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOR255TWFCcWE0UHZFUTlzMlNtZVNKOUhDanV1eFNHMDVDZ2F6ZVVaZlA3QUtNTVB2RXJKZTdqRGJSaldhU0lVWVRESzRtZ3hYbVZJNnY1R3hxdElwV0RwX2w2R2JJSk95aGFqM21lQmJTTFhqR0NMLWQ0ZEpPWnVYOWNFWW1XU2NfNGRiaURZSlBKYUdaeGNnc3BwZ0wxelN4QUlILVpqSXdLbjZ5T0daem9Bb9IBuAFBVV95cUxOTkctWElMd3BpWDhKMm8yQ2lXLWgxWFE3TTFtV05zdVUwQV9PRjlFSGIwSUhzVnpnRng5NWFBWjRZQS1MZ1hfYzVLOVZaLVVacGxRclJpOVQ3bDRNSWt1OTZ1a1dhOTZkTnlrWXVHMHRtT1BzQ1RqTGhCcGZVQWloZUhkUXNZOWZWcG5JU21ibk5ZMEpDWTI4aEdOR25TVEhsS2liVkRDbTFpdGtwSEFEQTA0RjlzUFZD?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261014T092503Z",
+          "seen": "20261014T131243Z",
           "pinned": false
         },
         {
@@ -2133,14 +2109,6 @@
           "pinned": false
         },
         {
-          "title": "Hormuz attacks intensify as efforts to end war on Iran stall",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOajZFRE5qcjI5WGVBUWVORmRYZ01xNzFGS0RvR01PLVY4UEx1dUFwQ3FkZlA4QWNOeTJSR0NUVUZQcVR1UjdaVmNBRU1yZ1ZuT2gyWDkzRlA1MUE0MXkwU3NEdWJWbzNodU9nY1pLU0VyT0pRQ0FjbVdEcFFSVEMxNnNHSjRHdmNUZmVGNjd3ZV9YTTJpc2U4dTRJUHBJOUlMendhONIBqgFBVV95cUxOVTdCRlJ6b1lUaVNqQlB0cERHWTB3TG5sRl9nSURfalAzZEJOTi1Ba3dkNmQ5ZGFoelJVMUhDY0l3QzQ2bWhFcUlfalkycDIyRFFiNGpaMGdSRl9pRHFpTGh6YXZJb0MwdGx1T1E1SDd3NjhkNmc0QlZibTdVbzBQNUdYQ0k4eHQ2TjJ6Y05lMW5FRHVEd3Nfdi1KZE1CdmthbDNMeHZjelVoUQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261011T140552Z",
-          "pinned": false
-        },
-        {
           "title": "Iran’s IRGC Navy threatens to sink US warships approaching Strait of Hormuz",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeGxtWGtEMEstTTJYUnk0WlQyN3E1Rlg3YWNwYUdSS2l5dDZ5VjJjNExJUnVWT3VRQkQ1SGp1dXVyc1VPUWhVdFNXUUh6OFRVZHJkR1NWb3doMEl4bjZCYzJraTAzblJrdXhldWxCREg0UWtqcmd1MjB1V2huOE05N0s3Nml6X19YSm1Qc1JMc011TG5wRFNNN3JyQzJRbjlpMFVTcEtremRYWGJLOGw5LWVlWm8wWXdsMG5jOE1mZFpnNmdEQnc?oc=5",
           "domain": "aa.com.tr",
@@ -2149,11 +2117,11 @@
           "pinned": false
         },
         {
-          "title": "Saudi Arabia vows response over Houthi ‘war crime’ attack on Riyadh airport",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUHFUYzE2TUlLMTd6eDl0a0lLZzdYcG8tM0NsMi05ZTZSaVl5ME5UZ3dMdWVaVlcxdDdyWExRYmpzOF9RejlYVjhOMzRrbUhoUEpMdGpaZ3ppWGVyQjlHeEpOUTY4d1BEMXpLczhmZnBhcEgteVg5bnNXWWZUZjdhR3lkWm01a2JYYzFLamdIRWRxZEVZYjNBS3hqVlVETk1LSVlSTmtGb21ZVzVnZ1ZVZFdJYlF4T1F4R0RqWWdXUHpGcEHSAcgBQVVfeXFMTkNBSDJ5dnlOWl9Zem50WUd5eGRkaE5OajdNdHo0NlUyR21hOElTVXRaU2x5ZEZUUWNiRHdfRFRLTElQcEpxZUhuTUpvY1FxZHBLajJYRlRBX3o5aldmbktCcWtZanJRRmRFSjE2dHgyUHhKUnd0ejhrXzA3clBLWVhBN1poQ1d4R2xibFBWZ1h5aG5fUzc3NU8wZm5GTlJKU19NOHRXQkFwTkZGVENzb1hyZHN3RUR6Qy1mYy1MSXBQSV9yTVo1YUI?oc=5",
+          "title": "Two scenarios for the Yemen war",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPU0s5XzFYYnlBckoyaTk1YlRFdURDeVMwWnJWb3RQcU8zOGZ2X3RUczJqZFZORkRaWHNicUJYRkdRU19ydzZHMC1VTkRuTU16Y2J6bEVIeGxJY3pvT0VHZjk5ZHYxTDRkc09VeFFvS2NsMTlIVVY5blFPMjJrLThrdV9jMNIBiAFBVV95cUxNRWJSOEplVjdlSUVpT09VbE9odTJIXzhzRmNYT2twUDBfYVdyR2ZqWmkydDl5ekl0a25NT0dhdUx6bHVXUFQwVzZKQkNLdnBBUXY0TFNDVDIyOTVMWDVMRUZTZ1JLVWg5SzIwY05MUFNvcUh2cjl0OGNXN1hXX1ZTTEItQjJQOWVK?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261011T123003Z",
+          "seen": "20261014T135410Z",
           "pinned": false
         },
         {
@@ -2170,6 +2138,38 @@
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "seen": "20261012T045600Z",
+          "pinned": false
+        },
+        {
+          "title": "North Korea gaining military logistics, deployment experience in Ukraine war: US general",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSTZaU3NjVExxd05QcXpHNVE0enNnal9ZV2k4TjE2enNEcjk3SFFQYmJoTDFSak1namRuV0NudFFJY3pyRHNEU2t0Tms1YXZTazBROVY2Z25LR3lxUHM3UUlaUExud28wOWk4TXRHQWV6S2hXazVhQThRN2ViSURyeFhocF9EajRPTEhncVRfaElDZWI4alNCWWk3RFo3U0hBamo4eTYyUzExeG8wUm9lY2NRUlgta3c5eE1IR09tc2JNZ3ZCZno4ZTVzaTY?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20261014T042011Z",
+          "pinned": false
+        },
+        {
+          "title": "Ukrainian drones strike more than 100km into Russian territory",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMWM0ZzJkbVBrSENiSC1aaU04WVdYWktybWktdGdLSWZKdGRNc3ZBZTBiMkM3WlFjRzU3U0FxNWducEVUdU5MeHpsQ2FraWlEdGJBeXBpZnJDRnVQeGpwNGJIRHZqNDZ6S01KeDNzLWRDQl9VZXJSUHpreHdQZVJsQzRieXpDeE13TFowcEQ5NXNUYVdvNkFTTHY3STk2UURVNHZxN3o1X0RzY19tZGpyM2NxSnTSAboBQVVfeXFMT0lOLWlPckxSVVl0cXN6ZVY1NG9uSmRTbVAxYi1QcERGS1F1c0xFUHZySU4zdXVRcWU0cWVfMkRwSHFuSkFZdmVrTnRLQk93SDBoend4b05SamtoTUYtQ0g2S3pmVFlXQngyeFN4cEJDX25yclVQMUtHOWtZc3VwYkk0UllUNUZhTWlvMWVLSGwwUHNSUGI1b2FsTVFfSWFVbjVhSHM4U25JYk9GTlFGLU5KWFp0TUNJdU5R?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261014T051100Z",
+          "pinned": false
+        },
+        {
+          "title": "Why Trump’s ‘energy ceasefire’ upset Europe",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWW1aYzdMUTJwQ09MRmJxaFYwY2hFSFFYdk5uMU5zU3BNTmxmSHVFWWZBcVowTHpaRmY4aThMZkNoMGhiZkxuNWE0WG15Tkg1dDRUZXNxdzBaZnhKRFItVEpGUUE0Nms2akRTZDVxcy1TTXhtTTliMEMzbWZLcHluUlJsNDA1b0pYamoxMHhBS1FvRkhhZXRr0gGcAUFVX3lxTE9BeDJrR3czVnlzYm5QMXVZcGFpUzROd19Nckd0Y1JKamV6YmdLbVNxQmhPaWdyVG5tdDJOM3p3Y3RvX3dSTzl6MDFZY2FCY3NxdHd0cGVBZ3RNM1RUOHVfaHZob0FWZ2IzakF5WE5nNDU5OTJBdnZPMjRYaDBzRTQtbmNUWEtXUnZSQzRTdENKa0dGUTBQT3RtQlhhaA?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261013T181038Z",
+          "pinned": false
+        },
+        {
+          "title": "The Global Story | Was World War Two worth it? Some US conservatives have doubts",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE03RkJkTlFWVlNDdklhcnp0eGoxSVhwd2NSMVkyQlBPSFBPbUROc183YmhSemtvdWlmZXpRZmNqNWp3a1N4R2JodlJXckEwenpr?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261013T091211Z",
           "pinned": false
         }
       ],
@@ -2202,6 +2202,15 @@
           "reportedAt": "2026-10-13T03:34:53Z"
         },
         {
+          "id": "report-34e0d1179d29",
+          "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTaGRvQkRDWnpVYTFrajZyUVprTi1OM2tXZXpIUl8wOWZycm1LelV2SlVfZUw5MFhHUEN5STNYVV80d1pYeUFQOW9wSGRVdEF3eW1xVE9zbzJpRjQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-12T21:20:51Z"
+        },
+        {
           "id": "report-9416cb84788c",
           "title": "Which war is having the biggest impact on diesel prices - Iran or Ukraine?",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OQzgxcFdBcHNXTFNfd01ZM0JRTHVJc2gtMlY1aW9FeEZ4Mjh2LWM5a3k2ajVRS1ZaTE11d3hLR2xnX2VLYnNtdEtkTlB3VS1UWk9oU1dHenc5RjA?oc=5",
@@ -2229,33 +2238,6 @@
           "reportedAt": "2026-10-13T13:27:31Z"
         },
         {
-          "id": "report-34e0d1179d29",
-          "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTaGRvQkRDWnpVYTFrajZyUVprTi1OM2tXZXpIUl8wOWZycm1LelV2SlVfZUw5MFhHUEN5STNYVV80d1pYeUFQOW9wSGRVdEF3eW1xVE9zbzJpRjQ?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-12T21:20:51Z"
-        },
-        {
-          "id": "report-2fe7c88dc2d7",
-          "title": "Trump says Ukraine and Russia have agreed 'energy ceasefire'",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04QUtQbDZLV05uX0dPcEwxc3poa1BGZGVYdmVjM2NzQ3pUMkowOVd6ZzBMTGRZNG9KVlhUNHNqR3o1SG5sel96Rnd3YVJQMjEwZ09zRnoxSFcxQ2s?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-11T21:36:40Z"
-        },
-        {
-          "id": "report-1781f02e81ef",
-          "title": "Zelenskyy says Russia strikes energy facilities despite Trump claim of an energy ceasefire",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYk9yd3EweHFPQ2doVnFxQmxCdEJxMmdBdF9FT2tzdExGZmR3eUo0TjFyTmU0azY4UEtmRW56djNGaERmMGdpcmNHZWRPcllwdEhPUVhsNjJqMzYxRko2dXA0VTBtdGZvYUdid1hZZkFMeGtJOGdVX1J0NUU5X29naUJaUVNxMG9LWEw2Q3prUHVTNTlyanVIbjFxOE80Y3oyNTlfX3VhT2U?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-12T21:50:00Z"
-        },
-        {
           "id": "report-951e385ba37a",
           "title": "Ethiopia’s Tigray war: Where do the UAE and Saudi Arabia stand?",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTUV5MndaMXRQMERSYVZhSXo0NWVYdjRfbmtqSU9MM1NGV0k2d3RBZ1VWdWVEN3I1bFlaYW9DWUx6NkpmUDMwS1dSTG9lRDRQUXlscmFPQjZNVHZycUhfLUVJS2VXS2wtSlRlYTRkb0ltVkJaRThSNHNpX1NRdEcxUWNxenI3Slg5T1AzTDZtUGgyZVhSeFJxQ0MtR2Zxd3ZLNHVqVtIBqgFBVV95cUxOcVl5a0FQUGpXWVhnTGV3bExraFZMTFJZYk9kcTRGN3VwS0dtaHp3RTNoV1NENGw5bFZsUkFoYUxSWkRCUTJuNFN3N3dOREt3ZjNxRFVFNEctT29mS0VmclNDUlZmVzZKeUZjWjR5dDFqUnZ3dFBEbVEtcW5mN2c3S3VYNGNOY1ZNbFRJSFdIRlFXZDlCaXlHTTNGNnQ0Vm5mZVo3eDdDLXRfdw?oc=5",
@@ -2263,15 +2245,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-10-13T01:57:06Z"
-        },
-        {
-          "id": "report-5d4b14a1cf06",
-          "title": "Ethiopia, Eritrea ramp up rhetoric: Are they inching towards war?",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNd09raG1JWkJzLUJvUGhueWZOVnFSWHBVRWZMRDVYQ3Y5cmZjTFd5bDJaMHJjUno0eHd4M2JnOEtXeEJtS1pHRF9DT1UxQ2IzRHUtc25UcG0xd2FWOU9pQUdYX2stTjF3cVhvcXExbnVPLUxJb3FvTHFkYW5PejFBc1g4SlhUT19falNhLTdHamJJYTBLUFdjeEwwdXpYSy11bkJqeENpUdIBrAFBVV95cUxPenB0QW9TNlQ4c3pCTWJvX2dkMHBBaUlvdnNkMG14Mm5vNmpRWFM3SUd0RUl0RnN6cVN2MlZOaGlYVkh5T2kxcjUwWGhIeFBYckVpVk1QVy10ZFBkaVdhdU5jQ19UWGNRTnZ4eTBJLXdsXzNQOGpVOHVxd09CanNPRHBOencyaVBSdWJlMlJjbHlnemdsdllTWDBJc3dlbVg3ajdET2xGc2NRNDBY?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-11T14:16:05Z"
         },
         {
           "id": "report-25f1fd5364f6",
@@ -2319,13 +2292,13 @@
           "reportedAt": "2026-10-14T01:05:31Z"
         },
         {
-          "id": "report-5fcb3cef3488",
-          "title": "Watch: What we know about Russia's overnight strikes on Ukraine",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9waVVuamZleTNzNk5wckgxdG4xd2tVVFhsRFotRzU1b3dwNy1NTUtnTGVsaEFnNzVXNzVFbUdaS0YwT3B2Zmx3YzZ3T0F5ZFN0WUhxT2U5bkQ?oc=5",
-          "domain": "bbc.com",
+          "id": "report-6af9364f4ceb",
+          "title": "‘Massive’ Russian attack on Ukraine kills at least 9, damages power sites",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOR255TWFCcWE0UHZFUTlzMlNtZVNKOUhDanV1eFNHMDVDZ2F6ZVVaZlA3QUtNTVB2RXJKZTdqRGJSaldhU0lVWVRESzRtZ3hYbVZJNnY1R3hxdElwV0RwX2w2R2JJSk95aGFqM21lQmJTTFhqR0NMLWQ0ZEpPWnVYOWNFWW1XU2NfNGRiaURZSlBKYUdaeGNnc3BwZ0wxelN4QUlILVpqSXdLbjZ5T0daem9Bb9IBuAFBVV95cUxOTkctWElMd3BpWDhKMm8yQ2lXLWgxWFE3TTFtV05zdVUwQV9PRjlFSGIwSUhzVnpnRng5NWFBWjRZQS1MZ1hfYzVLOVZaLVVacGxRclJpOVQ3bDRNSWt1OTZ1a1dhOTZkTnlrWXVHMHRtT1BzQ1RqTGhCcGZVQWloZUhkUXNZOWZWcG5JU21ibk5ZMEpDWTI4aEdOR25TVEhsS2liVkRDbTFpdGtwSEFEQTA0RjlzUFZD?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-14T09:25:03Z"
+          "reportedAt": "2026-10-14T13:12:43Z"
         },
         {
           "id": "report-241026879ee2",
@@ -2346,15 +2319,6 @@
           "reportedAt": "2026-10-13T15:11:04Z"
         },
         {
-          "id": "report-c58fb9115814",
-          "title": "Hormuz attacks intensify as efforts to end war on Iran stall",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOajZFRE5qcjI5WGVBUWVORmRYZ01xNzFGS0RvR01PLVY4UEx1dUFwQ3FkZlA4QWNOeTJSR0NUVUZQcVR1UjdaVmNBRU1yZ1ZuT2gyWDkzRlA1MUE0MXkwU3NEdWJWbzNodU9nY1pLU0VyT0pRQ0FjbVdEcFFSVEMxNnNHSjRHdmNUZmVGNjd3ZV9YTTJpc2U4dTRJUHBJOUlMendhONIBqgFBVV95cUxOVTdCRlJ6b1lUaVNqQlB0cERHWTB3TG5sRl9nSURfalAzZEJOTi1Ba3dkNmQ5ZGFoelJVMUhDY0l3QzQ2bWhFcUlfalkycDIyRFFiNGpaMGdSRl9pRHFpTGh6YXZJb0MwdGx1T1E1SDd3NjhkNmc0QlZibTdVbzBQNUdYQ0k4eHQ2TjJ6Y05lMW5FRHVEd3Nfdi1KZE1CdmthbDNMeHZjelVoUQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-11T14:05:52Z"
-        },
-        {
           "id": "report-91b4c0e117da",
           "title": "Iran’s IRGC Navy threatens to sink US warships approaching Strait of Hormuz",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeGxtWGtEMEstTTJYUnk0WlQyN3E1Rlg3YWNwYUdSS2l5dDZ5VjJjNExJUnVWT3VRQkQ1SGp1dXVyc1VPUWhVdFNXUUh6OFRVZHJkR1NWb3doMEl4bjZCYzJraTAzblJrdXhldWxCREg0UWtqcmd1MjB1V2huOE05N0s3Nml6X19YSm1Qc1JMc011TG5wRFNNN3JyQzJRbjlpMFVTcEtremRYWGJLOGw5LWVlWm8wWXdsMG5jOE1mZFpnNmdEQnc?oc=5",
@@ -2364,13 +2328,13 @@
           "reportedAt": "2026-10-13T19:09:30Z"
         },
         {
-          "id": "report-bc512e1c858d",
-          "title": "Saudi Arabia vows response over Houthi ‘war crime’ attack on Riyadh airport",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUHFUYzE2TUlLMTd6eDl0a0lLZzdYcG8tM0NsMi05ZTZSaVl5ME5UZ3dMdWVaVlcxdDdyWExRYmpzOF9RejlYVjhOMzRrbUhoUEpMdGpaZ3ppWGVyQjlHeEpOUTY4d1BEMXpLczhmZnBhcEgteVg5bnNXWWZUZjdhR3lkWm01a2JYYzFLamdIRWRxZEVZYjNBS3hqVlVETk1LSVlSTmtGb21ZVzVnZ1ZVZFdJYlF4T1F4R0RqWWdXUHpGcEHSAcgBQVVfeXFMTkNBSDJ5dnlOWl9Zem50WUd5eGRkaE5OajdNdHo0NlUyR21hOElTVXRaU2x5ZEZUUWNiRHdfRFRLTElQcEpxZUhuTUpvY1FxZHBLajJYRlRBX3o5aldmbktCcWtZanJRRmRFSjE2dHgyUHhKUnd0ejhrXzA3clBLWVhBN1poQ1d4R2xibFBWZ1h5aG5fUzc3NU8wZm5GTlJKU19NOHRXQkFwTkZGVENzb1hyZHN3RUR6Qy1mYy1MSXBQSV9yTVo1YUI?oc=5",
+          "id": "report-3f8e1cddb502",
+          "title": "Two scenarios for the Yemen war",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPU0s5XzFYYnlBckoyaTk1YlRFdURDeVMwWnJWb3RQcU8zOGZ2X3RUczJqZFZORkRaWHNicUJYRkdRU19ydzZHMC1VTkRuTU16Y2J6bEVIeGxJY3pvT0VHZjk5ZHYxTDRkc09VeFFvS2NsMTlIVVY5blFPMjJrLThrdV9jMNIBiAFBVV95cUxNRWJSOEplVjdlSUVpT09VbE9odTJIXzhzRmNYT2twUDBfYVdyR2ZqWmkydDl5ekl0a25NT0dhdUx6bHVXUFQwVzZKQkNLdnBBUXY0TFNDVDIyOTVMWDVMRUZTZ1JLVWg5SzIwY05MUFNvcUh2cjl0OGNXN1hXX1ZTTEItQjJQOWVK?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-11T12:30:03Z"
+          "reportedAt": "2026-10-14T13:54:10Z"
         },
         {
           "id": "report-44dc0e9756ab",
@@ -2389,6 +2353,42 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-10-12T04:56:00Z"
+        },
+        {
+          "id": "report-cbc414d36c3e",
+          "title": "North Korea gaining military logistics, deployment experience in Ukraine war: US general",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSTZaU3NjVExxd05QcXpHNVE0enNnal9ZV2k4TjE2enNEcjk3SFFQYmJoTDFSak1namRuV0NudFFJY3pyRHNEU2t0Tms1YXZTazBROVY2Z25LR3lxUHM3UUlaUExud28wOWk4TXRHQWV6S2hXazVhQThRN2ViSURyeFhocF9EajRPTEhncVRfaElDZWI4alNCWWk3RFo3U0hBamo4eTYyUzExeG8wUm9lY2NRUlgta3c5eE1IR09tc2JNZ3ZCZno4ZTVzaTY?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-10-14T04:20:11Z"
+        },
+        {
+          "id": "report-80c107444468",
+          "title": "Ukrainian drones strike more than 100km into Russian territory",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMWM0ZzJkbVBrSENiSC1aaU04WVdYWktybWktdGdLSWZKdGRNc3ZBZTBiMkM3WlFjRzU3U0FxNWducEVUdU5MeHpsQ2FraWlEdGJBeXBpZnJDRnVQeGpwNGJIRHZqNDZ6S01KeDNzLWRDQl9VZXJSUHpreHdQZVJsQzRieXpDeE13TFowcEQ5NXNUYVdvNkFTTHY3STk2UURVNHZxN3o1X0RzY19tZGpyM2NxSnTSAboBQVVfeXFMT0lOLWlPckxSVVl0cXN6ZVY1NG9uSmRTbVAxYi1QcERGS1F1c0xFUHZySU4zdXVRcWU0cWVfMkRwSHFuSkFZdmVrTnRLQk93SDBoend4b05SamtoTUYtQ0g2S3pmVFlXQngyeFN4cEJDX25yclVQMUtHOWtZc3VwYkk0UllUNUZhTWlvMWVLSGwwUHNSUGI1b2FsTVFfSWFVbjVhSHM4U25JYk9GTlFGLU5KWFp0TUNJdU5R?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-14T05:11:00Z"
+        },
+        {
+          "id": "report-a63e805a9c17",
+          "title": "Why Trump’s ‘energy ceasefire’ upset Europe",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWW1aYzdMUTJwQ09MRmJxaFYwY2hFSFFYdk5uMU5zU3BNTmxmSHVFWWZBcVowTHpaRmY4aThMZkNoMGhiZkxuNWE0WG15Tkg1dDRUZXNxdzBaZnhKRFItVEpGUUE0Nms2akRTZDVxcy1TTXhtTTliMEMzbWZLcHluUlJsNDA1b0pYamoxMHhBS1FvRkhhZXRr0gGcAUFVX3lxTE9BeDJrR3czVnlzYm5QMXVZcGFpUzROd19Nckd0Y1JKamV6YmdLbVNxQmhPaWdyVG5tdDJOM3p3Y3RvX3dSTzl6MDFZY2FCY3NxdHd0cGVBZ3RNM1RUOHVfaHZob0FWZ2IzakF5WE5nNDU5OTJBdnZPMjRYaDBzRTQtbmNUWEtXUnZSQzRTdENKa0dGUTBQT3RtQlhhaA?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-13T18:10:38Z"
+        },
+        {
+          "id": "report-05e572b99dd4",
+          "title": "The Global Story | Was World War Two worth it? Some US conservatives have doubts",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE03RkJkTlFWVlNDdklhcnp0eGoxSVhwd2NSMVkyQlBPSFBPbUROc183YmhSemtvdWlmZXpRZmNqNWp3a1N4R2JodlJXckEwenpr?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-13T09:12:11Z"
         },
         {
           "id": "report-3d06d7802bf8",
