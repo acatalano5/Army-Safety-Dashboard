@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-16T16:38:55.103Z",
+  "generatedAt": "2026-10-16T19:02:44.984Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -9,7 +9,7 @@
       "items": []
     },
     "safety": {
-      "generatedAt": "2026-10-15T19:24:13.813Z",
+      "generatedAt": "2026-10-16T19:02:44.984Z",
       "cadence": "daily",
       "items": [
         {
@@ -29,22 +29,6 @@
           "pinned": false
         },
         {
-          "title": "After two F-16 crashes, Air Force revamps how crews inspect a ‘blind spot’",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95ZV8zX0d2ZFZlM0NYVUt6WW5vNVljNUZpSW9VR0pfcDVqWkpiZS0xaXF5UGJ1Qmt0akVDLWFIQ2xnaEJmWXFXdFM4WGk5djgxTXl4MFc4dE9SVTJOY1U0dk5fcy0tczhYWVduVVE5V2ZMVlVXeWZrQw?oc=5",
-          "domain": "taskandpurpose.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261008T163754Z",
-          "pinned": false
-        },
-        {
-          "title": "Air Force Thunderbird crashed after failure in engine ‘blind spot,’ investigation finds",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1aOXpKbm1qc2ZBWk54aFVxblBMOW5YRVRSR3AwbV9hT2k3QnJkM1hRdXBLU245UFdmaEtVbzlyd041MU5WZEhVLW1NTFl0MjFFTzR4czhTWDhSblNaX2ZuRlQ5cmd2SG9rVFhWWlRXWWxEYl9BNnB6WXJoNA?oc=5",
-          "domain": "taskandpurpose.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260922T070000Z",
-          "pinned": false
-        },
-        {
           "title": "PLR 26-072 – Automobile Mishap Claims One Soldier’s Life",
           "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbzBQbzN3NkRnbDhkaUdTWUt3ZHR3R3JaOHhKZkZySklJdVRWbDNLb3Bxb1J6ZXFaSUVSbC02V2tGbmFGVXVveXVDUnJIZzlEbHJwSzBNYUxqRVI4eGFjWWdBWWVDVW1KT29LMXBGUHhldTVzMWxMdGZMZkpZMmpRWHMzRVc5X0E0YUlXZmQzR0NlU1VZbk55V3Z2RDQzVFZ2Y1RzX2w1VFRaRm1VQzBrV2lVZUVKU0pmM2R5S1IyTkdtNXVwZ3N0N1FYbTZnR0ZYcjIyaWk5ZHYyWVU0eGpz?oc=5",
           "domain": "safety.army.mil",
@@ -61,6 +45,14 @@
           "pinned": false
         },
         {
+          "title": "PLR 26-066 – Motorcycle Mishap Claims One Soldier’s Life",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQV0FtMnUxYXlRMGRxQy05N1FJZ1NOR2xrVmUxNVhYbjYtdDFJYjhZRzNQamU1ZWhCaEI0NTdXczJ5TVVkM3V2LTVONlNST0d6QzN2TFl2UWJ4SEhZNGlWRWtOSlBwamdoRU5nS3VMMm9hN1BnTFRJZ25YMUVJclU0UmZtMDBOWEpEdnJpYVFVd2xYVnJsMHNoZFZjOXZMeEVoV1VxNFNMQkRQS3NnNmVHbTlnakhZdEdabkxIbV9Pd01FelhHXzBsbkd6NjJKNG01dkFQTXFuYzdWeHB1UXk4?oc=5",
+          "domain": "safety.army.mil",
+          "sourceTier": "Official military source",
+          "seen": "20260917T070000Z",
+          "pinned": false
+        },
+        {
           "title": "Pilot safely ejects from crash of Texas Air National Guard F-16 in northern Michigan",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQzZLZ0lJb0h6TlE0MEVVcmp0SjJMelZXT0wxczVnQkZ3X3JjTWY4OHZ2U01XOXlyMWVURVRGV0lJTXRhOW1za08xS1pkZDdzZ01ER0M3WjVOWDRSRjhnQmJzYXNKMlBvTkc4M05Rb1FCYjRxQmJCcF9YUkx0eW1vOVlfdG92WkNLT1A1VWp1MlM?oc=5",
           "domain": "stripes.com",
@@ -74,6 +66,14 @@
           "domain": "stripes.com",
           "sourceTier": "Independent reporting",
           "seen": "20260922T070000Z",
+          "pinned": false
+        },
+        {
+          "title": "U.S. Coast Guard Releases Major Incident Investigation Report into Fatal MH-60T Mishap Wes",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdzdHZFJvd2pEaWtGWXV3THhRVm5EMUZIcVktSjh3MHRYLVQ1blN2dUE5b05LVXBvZVpzZGUyTGJIbF9KQy1iQk96UmwzQ2M5Q05sS3ZZNS05ZkdUNF81SWZfekI1dngwbnlxTENNX1dKdWdVbTlQbHFyT3hFV3FVSWZpTTNnUlJfTUJsTWtOQlZDUnpMSkR1eWRadTRDRzdVMlZSQlhtNGFMRWpmMnR0M21IZTcwenRDUWcxNk5KLUFKTVVnOXpLY2FxRHdIRUpvNTBZ?oc=5",
+          "domain": "news.uscg.mil",
+          "sourceTier": "Official military source",
+          "seen": "20261016T180553Z",
           "pinned": false
         },
         {
@@ -103,6 +103,24 @@
       ],
       "incidents": [
         {
+          "id": "auto-583b6ebcd817",
+          "reportDate": "2026-10-16",
+          "dateBasis": "report discovery date",
+          "branch": "Coast Guard",
+          "department": "Department of Homeland Security",
+          "type": "Other",
+          "event": "U.S. Coast Guard Releases Major Incident Investigation Report into Fatal MH-60T Mishap Wes",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "OFFICIAL INTAKE",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Official military source",
+          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
+          "source": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdzdHZFJvd2pEaWtGWXV3THhRVm5EMUZIcVktSjh3MHRYLVQ1blN2dUE5b05LVXBvZVpzZGUyTGJIbF9KQy1iQk96UmwzQ2M5Q05sS3ZZNS05ZkdUNF81SWZfekI1dngwbnlxTENNX1dKdWdVbTlQbHFyT3hFV3FVSWZpTTNnUlJfTUJsTWtOQlZDUnpMSkR1eWRadTRDRzdVMlZSQlhtNGFMRWpmMnR0M21IZTcwenRDUWcxNk5KLUFKTVVnOXpLY2FxRHdIRUpvNTBZ?oc=5",
+          "sourceLabel": "news.uscg.mil"
+        },
+        {
           "id": "auto-542bd4a80ff2",
           "reportDate": "2026-10-08",
           "dateBasis": "report discovery date",
@@ -119,24 +137,6 @@
           "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
           "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTEpwTXQwTlVQUnktdmpMZ2NMbTJQSGZOZ1NpRUNNREhCdk5oUDA2VjQySnhLelBycG9lR3cyY0tLenM3b3MtZjVVUUtkakdqRTlncXBYQS1wQlZlS2xwV2R1TC1KTFh1LU9zbmpvNThOMTNvUmN1RWtlYl9fV3l1YXA2YUVKOG11bG43aS1ubHFSVmJSeFQxYzZ0OEhIUWdLVUdjUVpR?oc=5",
           "sourceLabel": "stripes.com"
-        },
-        {
-          "id": "auto-d71c2400a768",
-          "reportDate": "2026-10-08",
-          "dateBasis": "report discovery date",
-          "branch": "Air Force",
-          "department": "Department of the Air Force",
-          "type": "Aviation",
-          "event": "After two F-16 crashes, Air Force revamps how crews inspect a ‘blind spot’",
-          "location": "See official source",
-          "fatalities": null,
-          "injuries": null,
-          "status": "REPORTED / UNVALIDATED",
-          "signalClass": "REPORTED MISHAP",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
-          "source": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95ZV8zX0d2ZFZlM0NYVUt6WW5vNVljNUZpSW9VR0pfcDVqWkpiZS0xaXF5UGJ1Qmt0akVDLWFIQ2xnaEJmWXFXdFM4WGk5djgxTXl4MFc4dE9SVTJOY1U0dk5fcy0tczhYWVduVVE5V2ZMVlVXeWZrQw?oc=5",
-          "sourceLabel": "taskandpurpose.com"
         },
         {
           "id": "auto-b18187ac61d5",
@@ -173,6 +173,24 @@
           "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
           "source": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQczRZdndTcDBOeFNwWmd6d0dqUG9hVnJwU2tFcTlVNzQ2cFQ4TklRWGx4RmhRWDRucXdHaV9INm5DV1JISHZoTGVNR0t6OGY5M1ZaeTlZRWZqU1lkaTBNV3R0YUJIbGtNTEMwNFdmcWpPazB6Q0RBQzJOWHVLekdRaXNnQXg4bDQ2TkhkZHNFVHNrZEZxeVZySWNQTTVWRk04VkFfSHFUbjV5clZoUldxczJkUWdOZ3ZJNmNZa2pCNXpOdFZhdWxRUllMMURONWlxd29zLTQzUzJwS0ZNMTBF?oc=5",
           "sourceLabel": "safety.army.mil"
+        },
+        {
+          "id": "auto-d71c2400a768",
+          "reportDate": "2026-10-08",
+          "dateBasis": "report discovery date",
+          "branch": "Air Force",
+          "department": "Department of the Air Force",
+          "type": "Aviation",
+          "event": "After two F-16 crashes, Air Force revamps how crews inspect a ‘blind spot’",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95ZV8zX0d2ZFZlM0NYVUt6WW5vNVljNUZpSW9VR0pfcDVqWkpiZS0xaXF5UGJ1Qmt0akVDLWFIQ2xnaEJmWXFXdFM4WGk5djgxTXl4MFc4dE9SVTJOY1U0dk5fcy0tczhYWVduVVE5V2ZMVlVXeWZrQw?oc=5",
+          "sourceLabel": "taskandpurpose.com"
         },
         {
           "id": "auto-1a42f88533a0",
@@ -373,24 +391,6 @@
           "sourceLabel": "airandspaceforces.com"
         },
         {
-          "id": "auto-4a96cedfdfa0",
-          "reportDate": "2026-09-22",
-          "dateBasis": "report discovery date",
-          "branch": "Air Force",
-          "department": "Department of the Air Force",
-          "type": "Aviation",
-          "event": "Air Force Thunderbird crashed after failure in engine ‘blind spot,’ investigation finds",
-          "location": "See official source",
-          "fatalities": null,
-          "injuries": null,
-          "status": "REPORTED / UNVALIDATED",
-          "signalClass": "REPORTED MISHAP",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
-          "source": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1aOXpKbm1qc2ZBWk54aFVxblBMOW5YRVRSR3AwbV9hT2k3QnJkM1hRdXBLU245UFdmaEtVbzlyd041MU5WZEhVLW1NTFl0MjFFTzR4czhTWDhSblNaX2ZuRlQ5cmd2SG9rVFhWWlRXWWxEYl9BNnB6WXJoNA?oc=5",
-          "sourceLabel": "taskandpurpose.com"
-        },
-        {
           "id": "auto-1672b670af93",
           "reportDate": "2026-09-22",
           "dateBasis": "report discovery date",
@@ -407,6 +407,24 @@
           "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
           "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdDlwZWY5QUNLMXltbkF1LVZGNTNDTmI3T2ZUdm9reTBVejY1QjJxeWhXeE1vcUg0dlFCdjJsRDkxc1FSOWFSMWNBeWV6eU9NdlpPTVgwNmlJa2hVblhPcTBXV3pLc3FfaklqbEpiTHJsMzVHWFF6ODRGVjlFRk5vY19XTDFGUGgzOGlGZGVTQlJWQjlKQjl1d1ROYmlhUQ?oc=5",
           "sourceLabel": "stripes.com"
+        },
+        {
+          "id": "auto-4a96cedfdfa0",
+          "reportDate": "2026-09-22",
+          "dateBasis": "report discovery date",
+          "branch": "Air Force",
+          "department": "Department of the Air Force",
+          "type": "Aviation",
+          "event": "Air Force Thunderbird crashed after failure in engine ‘blind spot,’ investigation finds",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1aOXpKbm1qc2ZBWk54aFVxblBMOW5YRVRSR3AwbV9hT2k3QnJkM1hRdXBLU245UFdmaEtVbzlyd041MU5WZEhVLW1NTFl0MjFFTzR4czhTWDhSblNaX2ZuRlQ5cmd2SG9rVFhWWlRXWWxEYl9BNnB6WXJoNA?oc=5",
+          "sourceLabel": "taskandpurpose.com"
         },
         {
           "id": "auto-ab05e252e28f",
@@ -535,6 +553,24 @@
           "sourceLabel": "apnews.com"
         },
         {
+          "id": "auto-aee650e833e5",
+          "reportDate": "2026-09-17",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Other",
+          "event": "PLR 26-066 – Motorcycle Mishap Claims One Soldier’s Life",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "OFFICIAL INTAKE",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Official military source",
+          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
+          "source": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQV0FtMnUxYXlRMGRxQy05N1FJZ1NOR2xrVmUxNVhYbjYtdDFJYjhZRzNQamU1ZWhCaEI0NTdXczJ5TVVkM3V2LTVONlNST0d6QzN2TFl2UWJ4SEhZNGlWRWtOSlBwamdoRU5nS3VMMm9hN1BnTFRJZ25YMUVJclU0UmZtMDBOWEpEdnJpYVFVd2xYVnJsMHNoZFZjOXZMeEVoV1VxNFNMQkRQS3NnNmVHbTlnakhZdEdabkxIbV9Pd01FelhHXzBsbkd6NjJKNG01dkFQTXFuYzdWeHB1UXk4?oc=5",
+          "sourceLabel": "safety.army.mil"
+        },
+        {
           "id": "auto-224f31a55528",
           "reportDate": "2026-09-17",
           "dateBasis": "report discovery date",
@@ -569,24 +605,6 @@
           "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
           "source": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMThwb2hlcXpMdk9JcWlxR1lBTmFsWmFwUURMZkY5T1pWUEQzZkhQWUZRS0tPMlZzWjJwbVlraGUxQS1rR1htTFV6eUdSNFhaNmx6bzY3bkFsbk9pNllNc1plMlVpcXkxLVBLWEV4dHk4NUlZbE53UFU1M0R1ODVPeG9KUVY0aUg5Tlk4czRfZzFBVV90M054ZFQzbl85d3JaQ1o1UXVQZ3ZFUDE2LU9lUmRVT2lVYm5tSkZGdl8yZy02alN2c2dxYlUzSjNaNHZWZXc?oc=5",
           "sourceLabel": "news.uscg.mil"
-        },
-        {
-          "id": "auto-aee650e833e5",
-          "reportDate": "2026-09-17",
-          "dateBasis": "report discovery date",
-          "branch": "Army",
-          "department": "Department of the Army",
-          "type": "Other",
-          "event": "PLR 26-066 – Motorcycle Mishap Claims One Soldier’s Life",
-          "location": "See official source",
-          "fatalities": null,
-          "injuries": null,
-          "status": "OFFICIAL INTAKE",
-          "signalClass": "REPORTED MISHAP",
-          "sourceTier": "Official military source",
-          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
-          "source": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQV0FtMnUxYXlRMGRxQy05N1FJZ1NOR2xrVmUxNVhYbjYtdDFJYjhZRzNQamU1ZWhCaEI0NTdXczJ5TVVkM3V2LTVONlNST0d6QzN2TFl2UWJ4SEhZNGlWRWtOSlBwamdoRU5nS3VMMm9hN1BnTFRJZ25YMUVJclU0UmZtMDBOWEpEdnJpYVFVd2xYVnJsMHNoZFZjOXZMeEVoV1VxNFNMQkRQS3NnNmVHbTlnakhZdEdabkxIbV9Pd01FelhHXzBsbkd6NjJKNG01dkFQTXFuYzdWeHB1UXk4?oc=5",
-          "sourceLabel": "safety.army.mil"
         },
         {
           "id": "auto-abde9ccdad6f",
