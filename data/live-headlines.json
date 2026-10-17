@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-17T04:23:36.514Z",
+  "generatedAt": "2026-10-17T10:42:51.569Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-10-17T04:23:36.514Z",
+      "generatedAt": "2026-10-17T10:42:51.569Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -1959,7 +1959,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-10-17T04:23:36.514Z",
+      "generatedAt": "2026-10-17T10:42:51.569Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -2011,11 +2011,27 @@
           "pinned": false
         },
         {
+          "title": "IMF urges support for poorer nations facing high inflation, war spillovers",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObUM4T3BZOEVlNWJJeXJqZVc0cGlVcXZhRW1NTkpiSFpBVlpoQ3ZRa3NXaThrY1A2V09hT092dTkxWFZDOC1Sa2o5SW5xNFBFb3JfMUVsX0RkMXA2cFAyOHpjMldnMjRFeUM0SVB2UUNveUhkdFBaeGxoV1A4bmF6dlpqNEhtUlRJYlhUMmRKd2RfZEVOd0J6ck5HNVdTX0RBSmJBUEFncjNqek5r0gGyAUFVX3lxTE50Nk8wdVJyUWJJZlNsc1dteUc5SmhPZkp3Qk1PRjFHeGpISDA1aDB4WTRkVnZubmthVjFJTTctRTBJYi1qR1JGNzR2a1RhcGlwS3o0RnVxd25Bem1kZFRWS0o3ZlhIcjh2Z3ZnNkFLOFBXb2Z3TjhJaFpaZ1F3VTRNY3Y3LUhxdXM4UlNVMXQwMEptQTVLeDlwa2RiYVI2TWRrUThuR1FLa003eHBjUjR5SVE?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261017T093727Z",
+          "pinned": false
+        },
+        {
           "title": "Trump says Iran war will end ‘very soon,’ predicts oil prices will plunge",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMTRlWkNnOW16bnlsYkFZOUZ2UHZRRTZYZXhOYjU2R1oxSW9kbVVidXhDYnM3Q1hjMjE3Tk1tZjFBV1JsT2JmTmI2dXA4dFFYcUF1cFB0YjJQWFNrb2ptck94N0lyTGpqNHlDaUdMRy1mUEQ0TEJ6R01aa2RqZjljWVUzVDh3b2J5cFJJZnd1VEhjU2FObEtrMmVOUFlkVUxfVUt4V25iZWUyUXNLV0wwd3RR?oc=5",
           "domain": "aa.com.tr",
           "sourceTier": "State-affiliated reporting",
           "seen": "20261015T045304Z",
+          "pinned": false
+        },
+        {
+          "title": "Vance suggests disagreement with Trump over Iran war",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZFpWcV80QVNfR0JMZkRlN1dvUDJyWkxpREdqeWVhdmZwZFlOZ0d4MHZlYkRFZHluR0Q2ckVkQ1RyWVRDY0hidVdFNG5ocEQyX2FnaTFOaENzSTVMNURTaHdONHhuZmlNTElBZmxRaTd0RDJ1ZWxWYmtmRDRTeUJVUDYxa2lxQ2pkbHFJVzBtcHFTQUtoSHhfc2pB?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20261017T054050Z",
           "pinned": false
         },
         {
@@ -2035,6 +2051,22 @@
           "pinned": false
         },
         {
+          "title": "'Mystery drones over UK' and 'Troops heading to Poland for war games'",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5RlVQcG11VXFROWtzOC1QLVI2ZWI5d2JDYjRVam1ycXV3NUQ4UmpUWEF3cnFLYmJzSlhnUnpwWWF1YmFZS0hWeGhhaFRrS29aaU9pOGxXLU9YdnM?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261016T235059Z",
+          "pinned": false
+        },
+        {
+          "title": "Russian attacks in Ukraine kill at least 8, cut power to 1 million",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcnZEY2FlWjBOSE5pdjZxRk9FQXViZVlGN2cxQXM3SHBXODRxb1VSSDBnMk05WXdRVUs1S21yZDhnRHlldW80SXNIdlVrLUhQQ1lGa0FZcWhfUU1PN25LZGt4VmprX1NIWG1JcGJKZ3J5bFBfenFhZm9zazRTV3k1dVFBakhjUWFmR3JvZVBFN1NkVkpqVzdvOFZTejhIZ3d5TkJyQ1hTOG1LMEXSAbABQVVfeXFMUGo2WnZaRVhTYk8zZ2M0aU9UcmpGOTN4U0p5S0cyb1duUzhyT0lQcExGZmhRc25VZWVMUThydmtiQ3RHbE9fQjl3ZEdrZ3gxWlhVSUlzbENfWTVXU2pDM0w3RWxRcFdkcEdhRGJUNkNTYjhyQTdmbGRDWjlWQ1MwQzFjV0k3bjJHMkhCRDB3ei1qRDRXelFYWlU5dTNGRGtFREdIbk5WVzV6TjNWN1BkVXE?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261017T052807Z",
+          "pinned": false
+        },
+        {
           "title": "Iran steps up Hormuz surveillance: Attacks soar, oil flows crash again",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZEoydG9jdlpqSFV4N3RwNzZULXNUMEgwVW54MjZad0U5TWI0MVlSemdzNG90X3YtaVp2cEhHRm1FMDRqUjZtaUs1MjZtdlY0d0l2amZLTS1MMUkzakNHMzV4b0hoYktXWHo1ckwwSkVCUG1vRzF1X1p6VUJZYXUtYndkRHRoZnIwbUczS2dmc2pHYzdQSlhYNWJoZXd1T050bzBYNEx3UGlvX0JKWWxF0gG0AUFVX3lxTFBuRVdqTEhtSEJaRjhiSjU3eTBYRHVBbjllR1lhMndWOFFHMENQLXhtNXF4SHl5WjlVWWdhdWJnSU0zR1QtNmQ2MldNdzgtTWg0ZzdsNkpkS2kyMzlyZmg4NkZiOFQtVURiUEhSMGw2WFJEOGp0Z05ZbmQzVi11andqNjRJT3l4V1hQSERpNTduWTNkc2NQTUI2MGt4R29xMTlBQkNYMTFheUI0ZkdsdnRVOVluaA?oc=5",
           "domain": "aljazeera.com",
@@ -2043,19 +2075,19 @@
           "pinned": false
         },
         {
-          "title": "British ex-soldier pictured posing in front of burning Gaza school faces calls for war crimes probe: Report",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWFBnbGhiaVRCbC1FQUZZNkRpR1lJQ1lFbzJGU200bzRxTFdWTU0zZTlpRElzaFZkMjBuTGEzMUo5Sjk5RXo1UEZyNzYyTlBuNjN0MDduOWFObVdiMEtkOWkwSndXaWh6YUE1MlJ1RkNsLTdrQzVpd3JKR0EwcVZJMnY2V3I1NEctMjN5c3JXc2IxcmotVm9oaUY2TTZxS1A5SUhIR09jUU9CVW1Ccy1LLUNLRUgxSnA0V3RKTkozUkROWWprekVhcGhFT194TDlKWkpBNUhaYjJ3Nko5N0RB?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "seen": "20261014T223007Z",
-          "pinned": false
-        },
-        {
           "title": "Ukrainian drones are forced to slow down by sudden restrictions on use of Starlink",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSWRmRG9DZUlZX3NNS19fcHRySUhIMlZadTN2YjVTdkdOQl9NT0lhSmJtdHM3ai1xMU9oQU1PVVRtMmdVbEFndlVWSXFJX2Y5RVEyRXlTQTFJclFBSHN3eVo2NlpMSlNrOWZfZ2hLR0VKZms1enQ1VjdicVdsN1R1RFVDVkJMLW5tQmUtbGpUN1JMMG5YWDNQSG9GVURLVmVZOVlzOFF1elAxR0w0?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "seen": "20261014T210200Z",
+          "pinned": false
+        },
+        {
+          "title": "Iran war votes in Congress become a focal point for campaign ad attacks",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeFVaOW15cDVJdVdmdmpXaVFjakhuckIzY090LTd4QVE4SWtsY1NJVTB1XzdKckpkV1BvVjBxOU9mcUVoV1RUeWZBbXdKYlBkN2VtaGhfS2RwdFZTNzV6QnpTeUxTbTNwNl9hSDl0d01OV19qQWVxWXA4ZUNCN3NIX08wZ3diSzNZRHQtTVA3cEhxNGVp?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261017T040500Z",
           "pinned": false
         },
         {
@@ -2091,14 +2123,6 @@
           "pinned": false
         },
         {
-          "title": "Ukrainians lash out at Trump as Zelenskyy warns of US betrayal",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUHBIQVBaN2dIQ0xBdUdNTEFfRjhUNUVuTXc2aUwxZjFIZDZzRDhGekJWa2tPLTdkRzViV0J5LVBjMWZjWTVpQkg0azVYYTVBdnQ2dDFQOEI4aENqa2FuZG5tbGhlbFZVemxrbExLVTFQU0I5YVJ0YTFZUDBSUjg0T3ptZ0JXaTTSAYwBQVVfeXFMTmdXbDdVZmt1dTZ5Z1dlZmc0YjlNUHAxZGpMdXg0MFM3WUkwRWVvSldmRFk4YTdKTHVFenpiQjVhQjV4NDc2Z3JDQUp5MW9wSnZVR2RvLWhkX1FkSWxLcUhKZVBhM1V4czEyVjRpQVVNbmRMNGZ4YTU0ekIxS3JjZjU0NG5PRXdMMU1aUi0?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261015T133301Z",
-          "pinned": false
-        },
-        {
           "title": "Yemen’s government says Houthis fired two missiles at Aden airport",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaVhUUGZEdkhGc191dGhfWFNwZlNvaDBMeE9mTnJEUFZucFY1YjloR2RIeHBuekg5ZzUwNXFpeklQcVJvM0M0bkxIbGtGS1M3SW1sb0dUSlQ3aTNHd014YmtEZmRkSDVhX1Q3WjdNLThhejktNEgtYkJnaXp1RzhBZ0lqRDg3aXhUZEY3S1FSeGFWazIwQWZueTlXUmRBa3pXWjltVHRRMTlMYknSAbABQVVfeXFMT1NGdURoYUY4RmhTZ0tReWl2UUw4ZFl2Vkx0QzB1bmlHdEUxZ2x4UFhUVTQzUUROLWQxSWd1TmJzVEVsYTBWbjFUeFg4WmlucU5ZeG5EXzcxNVFKODRzdFpPMXViU1RQa29ObDZSTEVUdENVY0pBVmNUUWVkSTE3M1p0UTl6Qm5LU3hxZlpZOTBUQnpCaF9SaFZJbU02TXpSdWxoaVV0NjZNSkMxWGxiRkc?oc=5",
           "domain": "aljazeera.com",
@@ -2115,43 +2139,19 @@
           "pinned": false
         },
         {
+          "title": "Ukrainians lash out at Trump as Zelenskyy warns of US betrayal",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUHBIQVBaN2dIQ0xBdUdNTEFfRjhUNUVuTXc2aUwxZjFIZDZzRDhGekJWa2tPLTdkRzViV0J5LVBjMWZjWTVpQkg0azVYYTVBdnQ2dDFQOEI4aENqa2FuZG5tbGhlbFZVemxrbExLVTFQU0I5YVJ0YTFZUDBSUjg0T3ptZ0JXaTTSAYwBQVVfeXFMTmdXbDdVZmt1dTZ5Z1dlZmc0YjlNUHAxZGpMdXg0MFM3WUkwRWVvSldmRFk4YTdKTHVFenpiQjVhQjV4NDc2Z3JDQUp5MW9wSnZVR2RvLWhkX1FkSWxLcUhKZVBhM1V4czEyVjRpQVVNbmRMNGZ4YTU0ekIxS3JjZjU0NG5PRXdMMU1aUi0?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261015T133301Z",
+          "pinned": false
+        },
+        {
           "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vbTJaWk05Ny1JSFlaa1RLTTV4QkdUX21kdXRkdUhRT1dvZmI1RGdMZ3hQdjlTM2JELXc1aXZ0Y3hVQlhMY3RXYXpIUVYwa08zVVFaUEdzU3AtaVU?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20261016T050017Z",
-          "pinned": false
-        },
-        {
-          "title": "Saudi diplomat says Iran encourages Houthi escalation of attacks on the kingdom",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNGpETlVZV2FSN1RFcWNqam9vZUhLV0hsMGRwT05DUDl1OXA0aUtIdUFnX0ZjdXE0OEpHLTF1ZV9VSHdmdW8wRlk3UmhIVERHbkpUQjRtVF8tWTl0Nm13SlE4YnlNOWtDbndsZkh0VThIVWpxcmNzeC1HRHRMS1RQaHdLbURxaXBkRmkzaXA3UnEzR0JoaWJJREJCSnFiSWplX0FpbHhR?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261015T174814Z",
-          "pinned": false
-        },
-        {
-          "title": "Two Syrian pipelines damaged amid spate of attacks on energy infrastructure",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVGktSEVYNkZrRE9YdUF2djJOQnUzU3lYbzlCXzZCd3JxYUd2UVlZcGhKSkJrcU9ucENKcnpwakFVYVhCUlZMeEpRakFyRERmTHI4T1MycEVva2V2VHR4R1d2VkVfb05xMFQ3VFZmVkVHWEppRDNWNTBHdDdIYkYyS1J1MGI0c1VuRnAtSnFtaUFYUWNkZUQzeXlVcVJLVTFRd0RhTEhHM3RhYV9aaTE3Q1VXN3pKY2RxN3N3SNIBwgFBVV95cUxOeTZQNTBQeUVSNzRDVUtXU1A5REdObmZrdWV3cUlTQjVJVXpScDdLbW5EYkVzWVhyd2xTT2FuNlJmNFd1c1A3cXpCdms5YkYzOFNGbFo2UlZyWG1mU3YzcERheHdibGdpYnoyMVU3MjFGT280NjBoZ3U4eG5ieE54M2pqQzlEV052MDdQbVd0Z0NqR09sdmd4SmVjZk9hVXhkT1Y2VVNGRWRpcGp2b191Ti1Uc2MtWG9zQ2MwNnJnN3E1QQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261015T235637Z",
-          "pinned": false
-        },
-        {
-          "title": "AP gets exclusive look at 'StarGate,' Ukraine's first aerial drone to evacuate wounded soldiers",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcmVYX0Y3d0VqV0E3N3hGZTE5YkRHYlljM3dvM1E2enZLMW5KdC1JX0pZaVF6YTdsTWQyUHNzUzRHdGxtUXJya2RxQkppNm9hUXpPWHNySXd3MFlLSG5iTW1SN1JLSTcxbVQ1b0hxRW5uNS00T081bGx4MzF4NXNveTdmcGZSejltR0NPbGhmU05PR0R2ZEd1dmJTUm1ka183RjdF?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261016T013700Z",
-          "pinned": false
-        },
-        {
-          "title": "Presidential adviser says Ukraine is in talks to lift speed limit on military satellite network",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNG1DTnVsQzVWSFp3dVB6NXZaVEEzeWVyUXlyc3hCS0NFR3JVTG5icnAxR1BmWkEwc2dqTF9iWUZiTEtkTEU3c19PU2Z5cU5pN0xUZzJlMGtEM2c5dmpTLVFCTWlXcGF5YVZDZV9Ec2pDRk1CYU5ScVl3YTIyTnhES3VTOThDLXRtQ05oNFZLNFJfMkpSVVJiQ1BQN3RMOW1pUGV5dmxma0lUblJwd1FrVkZtckJpT1ZYa3dsRFFn?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261016T211100Z",
           "pinned": false
         }
       ],
@@ -2211,6 +2211,15 @@
           "reportedAt": "2026-10-14T01:05:31Z"
         },
         {
+          "id": "report-58a092f39c71",
+          "title": "IMF urges support for poorer nations facing high inflation, war spillovers",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObUM4T3BZOEVlNWJJeXJqZVc0cGlVcXZhRW1NTkpiSFpBVlpoQ3ZRa3NXaThrY1A2V09hT092dTkxWFZDOC1Sa2o5SW5xNFBFb3JfMUVsX0RkMXA2cFAyOHpjMldnMjRFeUM0SVB2UUNveUhkdFBaeGxoV1A4bmF6dlpqNEhtUlRJYlhUMmRKd2RfZEVOd0J6ck5HNVdTX0RBSmJBUEFncjNqek5r0gGyAUFVX3lxTE50Nk8wdVJyUWJJZlNsc1dteUc5SmhPZkp3Qk1PRjFHeGpISDA1aDB4WTRkVnZubmthVjFJTTctRTBJYi1qR1JGNzR2a1RhcGlwS3o0RnVxd25Bem1kZFRWS0o3ZlhIcjh2Z3ZnNkFLOFBXb2Z3TjhJaFpaZ1F3VTRNY3Y3LUhxdXM4UlNVMXQwMEptQTVLeDlwa2RiYVI2TWRrUThuR1FLa003eHBjUjR5SVE?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-17T09:37:27Z"
+        },
+        {
           "id": "report-0219e82f188d",
           "title": "Trump says Iran war will end ‘very soon,’ predicts oil prices will plunge",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMTRlWkNnOW16bnlsYkFZOUZ2UHZRRTZYZXhOYjU2R1oxSW9kbVVidXhDYnM3Q1hjMjE3Tk1tZjFBV1JsT2JmTmI2dXA4dFFYcUF1cFB0YjJQWFNrb2ptck94N0lyTGpqNHlDaUdMRy1mUEQ0TEJ6R01aa2RqZjljWVUzVDh3b2J5cFJJZnd1VEhjU2FObEtrMmVOUFlkVUxfVUt4V25iZWUyUXNLV0wwd3RR?oc=5",
@@ -2218,6 +2227,15 @@
           "sourceTier": "State-affiliated reporting",
           "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
           "reportedAt": "2026-10-15T04:53:04Z"
+        },
+        {
+          "id": "report-2bc8d7f7d533",
+          "title": "Vance suggests disagreement with Trump over Iran war",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZFpWcV80QVNfR0JMZkRlN1dvUDJyWkxpREdqeWVhdmZwZFlOZ0d4MHZlYkRFZHluR0Q2ckVkQ1RyWVRDY0hidVdFNG5ocEQyX2FnaTFOaENzSTVMNURTaHdONHhuZmlNTElBZmxRaTd0RDJ1ZWxWYmtmRDRTeUJVUDYxa2lxQ2pkbHFJVzBtcHFTQUtoSHhfc2pB?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-10-17T05:40:50Z"
         },
         {
           "id": "report-cbc414d36c3e",
@@ -2238,6 +2256,24 @@
           "reportedAt": "2026-10-14T05:11:00Z"
         },
         {
+          "id": "report-9973e450199e",
+          "title": "'Mystery drones over UK' and 'Troops heading to Poland for war games'",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5RlVQcG11VXFROWtzOC1QLVI2ZWI5d2JDYjRVam1ycXV3NUQ4UmpUWEF3cnFLYmJzSlhnUnpwWWF1YmFZS0hWeGhhaFRrS29aaU9pOGxXLU9YdnM?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-16T23:50:59Z"
+        },
+        {
+          "id": "report-e2d317eb1cc6",
+          "title": "Russian attacks in Ukraine kill at least 8, cut power to 1 million",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcnZEY2FlWjBOSE5pdjZxRk9FQXViZVlGN2cxQXM3SHBXODRxb1VSSDBnMk05WXdRVUs1S21yZDhnRHlldW80SXNIdlVrLUhQQ1lGa0FZcWhfUU1PN25LZGt4VmprX1NIWG1JcGJKZ3J5bFBfenFhZm9zazRTV3k1dVFBakhjUWFmR3JvZVBFN1NkVkpqVzdvOFZTejhIZ3d5TkJyQ1hTOG1LMEXSAbABQVVfeXFMUGo2WnZaRVhTYk8zZ2M0aU9UcmpGOTN4U0p5S0cyb1duUzhyT0lQcExGZmhRc25VZWVMUThydmtiQ3RHbE9fQjl3ZEdrZ3gxWlhVSUlzbENfWTVXU2pDM0w3RWxRcFdkcEdhRGJUNkNTYjhyQTdmbGRDWjlWQ1MwQzFjV0k3bjJHMkhCRDB3ei1qRDRXelFYWlU5dTNGRGtFREdIbk5WVzV6TjNWN1BkVXE?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-17T05:28:07Z"
+        },
+        {
           "id": "report-e6aeabb1acdf",
           "title": "Iran steps up Hormuz surveillance: Attacks soar, oil flows crash again",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZEoydG9jdlpqSFV4N3RwNzZULXNUMEgwVW54MjZad0U5TWI0MVlSemdzNG90X3YtaVp2cEhHRm1FMDRqUjZtaUs1MjZtdlY0d0l2amZLTS1MMUkzakNHMzV4b0hoYktXWHo1ckwwSkVCUG1vRzF1X1p6VUJZYXUtYndkRHRoZnIwbUczS2dmc2pHYzdQSlhYNWJoZXd1T050bzBYNEx3UGlvX0JKWWxF0gG0AUFVX3lxTFBuRVdqTEhtSEJaRjhiSjU3eTBYRHVBbjllR1lhMndWOFFHMENQLXhtNXF4SHl5WjlVWWdhdWJnSU0zR1QtNmQ2MldNdzgtTWg0ZzdsNkpkS2kyMzlyZmg4NkZiOFQtVURiUEhSMGw2WFJEOGp0Z05ZbmQzVi11andqNjRJT3l4V1hQSERpNTduWTNkc2NQTUI2MGt4R29xMTlBQkNYMTFheUI0ZkdsdnRVOVluaA?oc=5",
@@ -2247,15 +2283,6 @@
           "reportedAt": "2026-10-14T11:26:57Z"
         },
         {
-          "id": "report-1e3413f4c9bd",
-          "title": "British ex-soldier pictured posing in front of burning Gaza school faces calls for war crimes probe: Report",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWFBnbGhiaVRCbC1FQUZZNkRpR1lJQ1lFbzJGU200bzRxTFdWTU0zZTlpRElzaFZkMjBuTGEzMUo5Sjk5RXo1UEZyNzYyTlBuNjN0MDduOWFObVdiMEtkOWkwSndXaWh6YUE1MlJ1RkNsLTdrQzVpd3JKR0EwcVZJMnY2V3I1NEctMjN5c3JXc2IxcmotVm9oaUY2TTZxS1A5SUhIR09jUU9CVW1Ccy1LLUNLRUgxSnA0V3RKTkozUkROWWprekVhcGhFT194TDlKWkpBNUhaYjJ3Nko5N0RB?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
-          "reportedAt": "2026-10-14T22:30:07Z"
-        },
-        {
           "id": "report-8051812c1071",
           "title": "Ukrainian drones are forced to slow down by sudden restrictions on use of Starlink",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSWRmRG9DZUlZX3NNS19fcHRySUhIMlZadTN2YjVTdkdOQl9NT0lhSmJtdHM3ai1xMU9oQU1PVVRtMmdVbEFndlVWSXFJX2Y5RVEyRXlTQTFJclFBSHN3eVo2NlpMSlNrOWZfZ2hLR0VKZms1enQ1VjdicVdsN1R1RFVDVkJMLW5tQmUtbGpUN1JMMG5YWDNQSG9GVURLVmVZOVlzOFF1elAxR0w0?oc=5",
@@ -2263,6 +2290,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-10-14T21:02:00Z"
+        },
+        {
+          "id": "report-7a368913cf3e",
+          "title": "Iran war votes in Congress become a focal point for campaign ad attacks",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeFVaOW15cDVJdVdmdmpXaVFjakhuckIzY090LTd4QVE4SWtsY1NJVTB1XzdKckpkV1BvVjBxOU9mcUVoV1RUeWZBbXdKYlBkN2VtaGhfS2RwdFZTNzV6QnpTeUxTbTNwNl9hSDl0d01OV19qQWVxWXA4ZUNCN3NIX08wZ3diSzNZRHQtTVA3cEhxNGVp?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-17T04:05:00Z"
         },
         {
           "id": "report-e1f6d1a6b74b",
@@ -2301,15 +2337,6 @@
           "reportedAt": "2026-10-16T10:24:00Z"
         },
         {
-          "id": "report-5619d2f30c39",
-          "title": "Ukrainians lash out at Trump as Zelenskyy warns of US betrayal",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUHBIQVBaN2dIQ0xBdUdNTEFfRjhUNUVuTXc2aUwxZjFIZDZzRDhGekJWa2tPLTdkRzViV0J5LVBjMWZjWTVpQkg0azVYYTVBdnQ2dDFQOEI4aENqa2FuZG5tbGhlbFZVemxrbExLVTFQU0I5YVJ0YTFZUDBSUjg0T3ptZ0JXaTTSAYwBQVVfeXFMTmdXbDdVZmt1dTZ5Z1dlZmc0YjlNUHAxZGpMdXg0MFM3WUkwRWVvSldmRFk4YTdKTHVFenpiQjVhQjV4NDc2Z3JDQUp5MW9wSnZVR2RvLWhkX1FkSWxLcUhKZVBhM1V4czEyVjRpQVVNbmRMNGZ4YTU0ekIxS3JjZjU0NG5PRXdMMU1aUi0?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-15T13:33:01Z"
-        },
-        {
           "id": "report-e283f1807c93",
           "title": "Yemen’s government says Houthis fired two missiles at Aden airport",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaVhUUGZEdkhGc191dGhfWFNwZlNvaDBMeE9mTnJEUFZucFY1YjloR2RIeHBuekg5ZzUwNXFpeklQcVJvM0M0bkxIbGtGS1M3SW1sb0dUSlQ3aTNHd014YmtEZmRkSDVhX1Q3WjdNLThhejktNEgtYkJnaXp1RzhBZ0lqRDg3aXhUZEY3S1FSeGFWazIwQWZueTlXUmRBa3pXWjltVHRRMTlMYknSAbABQVVfeXFMT1NGdURoYUY4RmhTZ0tReWl2UUw4ZFl2Vkx0QzB1bmlHdEUxZ2x4UFhUVTQzUUROLWQxSWd1TmJzVEVsYTBWbjFUeFg4WmlucU5ZeG5EXzcxNVFKODRzdFpPMXViU1RQa29ObDZSTEVUdENVY0pBVmNUUWVkSTE3M1p0UTl6Qm5LU3hxZlpZOTBUQnpCaF9SaFZJbU02TXpSdWxoaVV0NjZNSkMxWGxiRkc?oc=5",
@@ -2328,6 +2355,15 @@
           "reportedAt": "2026-10-16T20:24:00Z"
         },
         {
+          "id": "report-5619d2f30c39",
+          "title": "Ukrainians lash out at Trump as Zelenskyy warns of US betrayal",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUHBIQVBaN2dIQ0xBdUdNTEFfRjhUNUVuTXc2aUwxZjFIZDZzRDhGekJWa2tPLTdkRzViV0J5LVBjMWZjWTVpQkg0azVYYTVBdnQ2dDFQOEI4aENqa2FuZG5tbGhlbFZVemxrbExLVTFQU0I5YVJ0YTFZUDBSUjg0T3ptZ0JXaTTSAYwBQVVfeXFMTmdXbDdVZmt1dTZ5Z1dlZmc0YjlNUHAxZGpMdXg0MFM3WUkwRWVvSldmRFk4YTdKTHVFenpiQjVhQjV4NDc2Z3JDQUp5MW9wSnZVR2RvLWhkX1FkSWxLcUhKZVBhM1V4czEyVjRpQVVNbmRMNGZ4YTU0ekIxS3JjZjU0NG5PRXdMMU1aUi0?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-15T13:33:01Z"
+        },
+        {
           "id": "report-4529ae23d6c2",
           "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vbTJaWk05Ny1JSFlaa1RLTTV4QkdUX21kdXRkdUhRT1dvZmI1RGdMZ3hQdjlTM2JELXc1aXZ0Y3hVQlhMY3RXYXpIUVYwa08zVVFaUEdzU3AtaVU?oc=5",
@@ -2335,42 +2371,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-10-16T05:00:17Z"
-        },
-        {
-          "id": "report-89d2060b2d5d",
-          "title": "Saudi diplomat says Iran encourages Houthi escalation of attacks on the kingdom",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNGpETlVZV2FSN1RFcWNqam9vZUhLV0hsMGRwT05DUDl1OXA0aUtIdUFnX0ZjdXE0OEpHLTF1ZV9VSHdmdW8wRlk3UmhIVERHbkpUQjRtVF8tWTl0Nm13SlE4YnlNOWtDbndsZkh0VThIVWpxcmNzeC1HRHRMS1RQaHdLbURxaXBkRmkzaXA3UnEzR0JoaWJJREJCSnFiSWplX0FpbHhR?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-15T17:48:14Z"
-        },
-        {
-          "id": "report-f89168ce7156",
-          "title": "Two Syrian pipelines damaged amid spate of attacks on energy infrastructure",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVGktSEVYNkZrRE9YdUF2djJOQnUzU3lYbzlCXzZCd3JxYUd2UVlZcGhKSkJrcU9ucENKcnpwakFVYVhCUlZMeEpRakFyRERmTHI4T1MycEVva2V2VHR4R1d2VkVfb05xMFQ3VFZmVkVHWEppRDNWNTBHdDdIYkYyS1J1MGI0c1VuRnAtSnFtaUFYUWNkZUQzeXlVcVJLVTFRd0RhTEhHM3RhYV9aaTE3Q1VXN3pKY2RxN3N3SNIBwgFBVV95cUxOeTZQNTBQeUVSNzRDVUtXU1A5REdObmZrdWV3cUlTQjVJVXpScDdLbW5EYkVzWVhyd2xTT2FuNlJmNFd1c1A3cXpCdms5YkYzOFNGbFo2UlZyWG1mU3YzcERheHdibGdpYnoyMVU3MjFGT280NjBoZ3U4eG5ieE54M2pqQzlEV052MDdQbVd0Z0NqR09sdmd4SmVjZk9hVXhkT1Y2VVNGRWRpcGp2b191Ti1Uc2MtWG9zQ2MwNnJnN3E1QQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-15T23:56:37Z"
-        },
-        {
-          "id": "report-bf513a86a86a",
-          "title": "AP gets exclusive look at 'StarGate,' Ukraine's first aerial drone to evacuate wounded soldiers",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcmVYX0Y3d0VqV0E3N3hGZTE5YkRHYlljM3dvM1E2enZLMW5KdC1JX0pZaVF6YTdsTWQyUHNzUzRHdGxtUXJya2RxQkppNm9hUXpPWHNySXd3MFlLSG5iTW1SN1JLSTcxbVQ1b0hxRW5uNS00T081bGx4MzF4NXNveTdmcGZSejltR0NPbGhmU05PR0R2ZEd1dmJTUm1ka183RjdF?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-16T01:37:00Z"
-        },
-        {
-          "id": "report-4ed05ba8f01b",
-          "title": "Presidential adviser says Ukraine is in talks to lift speed limit on military satellite network",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNG1DTnVsQzVWSFp3dVB6NXZaVEEzeWVyUXlyc3hCS0NFR3JVTG5icnAxR1BmWkEwc2dqTF9iWUZiTEtkTEU3c19PU2Z5cU5pN0xUZzJlMGtEM2c5dmpTLVFCTWlXcGF5YVZDZV9Ec2pDRk1CYU5ScVl3YTIyTnhES3VTOThDLXRtQ05oNFZLNFJfMkpSVVJiQ1BQN3RMOW1pUGV5dmxma0lUblJwd1FrVkZtckJpT1ZYa3dsRFFn?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-16T21:11:00Z"
         },
         {
           "id": "report-3d06d7802bf8",
