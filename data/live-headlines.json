@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-19T20:44:01.921Z",
+  "generatedAt": "2026-10-19T22:22:02.523Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-10-19T13:10:49.832Z",
+      "generatedAt": "2026-10-19T22:22:02.523Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -2029,9 +2029,17 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-10-19T13:10:49.832Z",
+      "generatedAt": "2026-10-19T22:22:02.523Z",
       "cadence": "every 6 hours",
       "items": [
+        {
+          "title": "Russia’s Lavrov discusses US war and regional security during Tehran visit",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQlRWbm1ZdGNfX3BQcTV4MTZBMERabzQ1ZWEwSXhhdW5pZkUxMFBvZXFuRTBsMjZ6Q182MG9qZWhJNDJOb3Y0WU96Zng3bWpfWGgyMFdrUzVvdjhrRk1QSm1IdTZoTW1TZENrTVNyLWpxdmpwbU5PZXFnd2RReXhDaS1pNEN6azVDdGt3OEtCTnRHV1hybXZ2Y3FLMzVVQndkNlFEbWlZWEJ1WTlWN3FJX3A4U3I3SGvSAbwBQVVfeXFMT2J4YW5XUTF5ckF5M2xIaWx2LUJkeW9sUkdhWnVCRU8wT1BIa2hsckRiZlFqcmlWMTFCb21iODNXUngxM1ZDeXB0UnRLcEZkbjFRbDkxMjllYlpmbXZhd3NXTk9nRHI2a2VuUm5KVWprcG53RzJQMFdKa0Y1TWhkN1V3VVB2UmJ2OElZWU43VGVETTlrNkdOa3NYdFlEajlLYVJOZDNybnc0WW9EV19CZEN2LV9WMGhiU3doV2U?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261019T162251Z",
+          "pinned": false
+        },
         {
           "title": "What help can Egypt offer Saudi Arabia in the war against the Houthis?",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMzhqQlNqYWdrQzFNTHpobVpTUndWZ3NoOWpxRXVoNUdYckdDaDVkSmtwbXJ4Y2RnZDN6OTZ0VjFLM1FfNHRZTGVOSXA4T19lamlwb3ZPQWFXd082VmNlWEJhQ082OHJvalJCdFNXa3B1NW9pVkhYVkZ6eG9uWk9YMTBzMlRQQV9QN19WclB5aWtwdjBKRlhyY1I2cFBoQUVZRlVvcVlCbHNpUG4wcGlSWdIBtgFBVV95cUxOR0tmR1ctSUduRlQ1Z3A4SlNJMUwtT28zSWNWYWRvWDM5d0dIaFcxQ3pvQnFRTTFlSHA0ODlJeEo5UHdzSC1hNDFLazEyUUN3T0JWMlFlTjlnZjFGTTVtNWVfSEwtbkhRd1BnR19VblIzTElFc1I2NXgyT1YyNElQYmxtTWJ3RmdDWldvdV9CYi0xaGZ4ZXJraXd1M2R1VGtmMFJWQXhmOERBYmpSYXEySGEzMDZ5Zw?oc=5",
@@ -2049,19 +2057,19 @@
           "pinned": false
         },
         {
-          "title": "How Iran messaging highlights cost of war ahead of US midterm elections",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPckE1c3laVXZKWGlFMEUwMEcwQXR4VDBqRlJxRUo0M1pMWk9SRDVtOHMzLU5qNzJxYW92NUw3QkVadlNlUU5OZWJjeG9ubURBNlpKNnVHU0otOWV4Si1GenlwV2tadElpRjRjQkM1aGlJTGZUeGJfU3JWSGdNQ0dUc0szQ0hvdFZPWnhKaURtcXJuMVlBeFdZdVdhbENBZVlfVk9yaXdtZWFsVEgyVnl3NWRjSdIBuAFBVV95cUxNaTFsRERla2prbU16VDhKWUhCbE1NTVRQVzZ1bXRJcHBQeGtmR19aVzlWVVdFNzBHT3N0b2ZsazRiSDV1UWJWXzJCZXhLeTNjWXJqWWdCN01iWmxDcno2M2xKN0w3VjhrandDcGlrRGtENTdTcGVERE50a1JRV0VSSzZGZ0lQMTZOZFZZT1VpLXloM1dqelFsSl9oZEgxWldjOHhCUGNic1BHUElFVTRPX3R2N2pzRUlG?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261016T182804Z",
-          "pinned": false
-        },
-        {
           "title": "The Victory of Asymmetry in the Iran War",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE43OUIxMHNwSW04WUVCMm9kdjd0MDBNWjBaeWl1aWZqT3VEODFEamJiWHRsRHBBQ1Q2eVFYRGdsbFVmb1cwRjZDN3JyZWpOQjhBbEdmVWNfVEgycV9uREtJMEYwMzdSaDJZb3E2UUgxeFgyMVhkT3V2OA?oc=5",
           "domain": "cfr.org",
           "sourceTier": "Structured / analytic",
           "seen": "20261016T165608Z",
+          "pinned": false
+        },
+        {
+          "title": "How Iran messaging highlights cost of war ahead of US midterm elections",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPckE1c3laVXZKWGlFMEUwMEcwQXR4VDBqRlJxRUo0M1pMWk9SRDVtOHMzLU5qNzJxYW92NUw3QkVadlNlUU5OZWJjeG9ubURBNlpKNnVHU0otOWV4Si1GenlwV2tadElpRjRjQkM1aGlJTGZUeGJfU3JWSGdNQ0dUc0szQ0hvdFZPWnhKaURtcXJuMVlBeFdZdVdhbENBZVlfVk9yaXdtZWFsVEgyVnl3NWRjSdIBuAFBVV95cUxNaTFsRERla2prbU16VDhKWUhCbE1NTVRQVzZ1bXRJcHBQeGtmR19aVzlWVVdFNzBHT3N0b2ZsazRiSDV1UWJWXzJCZXhLeTNjWXJqWWdCN01iWmxDcno2M2xKN0w3VjhrandDcGlrRGtENTdTcGVERE50a1JRV0VSSzZGZ0lQMTZOZFZZT1VpLXloM1dqelFsSl9oZEgxWldjOHhCUGNic1BHUElFVTRPX3R2N2pzRUlG?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261016T182804Z",
           "pinned": false
         },
         {
@@ -2081,6 +2089,14 @@
           "pinned": false
         },
         {
+          "title": "Myanmar’s coup leader-turned-president wins back neighbours despite war",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTVlpeTE4V1VOdkxnN1pYM1BNa0FfYjM5NXVVdFhtdFlXem9OdzZiR1JWUW9feUUzbVBUMy1VaFFGMmlKV2ZwczQwRDIwSGxnYkpQZGxSdmhwQ0o2TTY2MXZ2QVh3OU1ITk9SYXhJMnh3a0hUWk1zQnczbkNaMk5SRWhkS0dTVVlVVl9pWGZjNnFQR0tZSG5UZnc5Q3pfNGtRTXFjdWRXdHV2XzBRMzlsUlFxMA?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261016T014238Z",
+          "pinned": false
+        },
+        {
           "title": "Ukraine’s Attacks on Russian Data Centers Lay Bare a Global Risk to AI",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNN005dVJpNmNzRWtTVHp6eXhfZElHZG9wYW50Q1FoXzg5aFRib3UzcWQ0SjZiQ0Vabm5RcldPZzhGWHRfejA4ZXB1cUFLVDNkOFhsQm9QYnhWbUF0NHd4X2wySE1zOGpBVHFqWjlfS0pUVm5ON2l2bkFBS2lkUF9SOHFSeHVkdE5QSUtXYzUzXzFTZWEzTFkzWGRFNU53MVk?oc=5",
           "domain": "cfr.org",
@@ -2094,6 +2110,14 @@
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "seen": "20261017T040500Z",
+          "pinned": false
+        },
+        {
+          "title": "Saudi-led coalition intercepts drones as Egypt weighs sending help",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObzE5OEQ1YmtRaTQzMEN4ZC16UVlZOXRXTm9kZm93dldxWmxwUkMwYVJPMkx4YktUcm15d2ZzbHJVbFNaZUZ5RDl3V1lxVzY2eDA0OHFhT2RINHhNMU9GRFNiQ1RRUmo0akRHOEhieFZiZkYxOEEtSkFWUkMwQ3UxdWF0VVFSanNMY3M1RDVBSzk0ZE5lRVd0R2U1TE9HOTEtRmxEOEduRlowLUpv0gGyAUFVX3lxTFBsajZwTGFfQ0YyU0hzT2drU2xPM1haeGl5V1JOamM5TXFDeGQ0VmlCQnBNWDNkanNELVBBZWJTREhPSVRUd0tJM1d3T1pKRzlvZTk0VVdQTHlJdVJUdWhndUFrbnFvcXJoaWwwVVNDM3kwWEtBdWN5Smt0b1dtZ3lFYkFIbTE2Z0Yzb0FXRVNSVUlhWHRJRENRT21EMnVjN3N0c3IxTjBHT2dqemFJZ1VIeVE?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261017T232653Z",
           "pinned": false
         },
         {
@@ -2113,27 +2137,27 @@
           "pinned": false
         },
         {
-          "title": "Vance suggests disagreement with Trump over Iran war",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZFpWcV80QVNfR0JMZkRlN1dvUDJyWkxpREdqeWVhdmZwZFlOZ0d4MHZlYkRFZHluR0Q2ckVkQ1RyWVRDY0hidVdFNG5ocEQyX2FnaTFOaENzSTVMNURTaHdONHhuZmlNTElBZmxRaTd0RDJ1ZWxWYmtmRDRTeUJVUDYxa2lxQ2pkbHFJVzBtcHFTQUtoSHhfc2pB?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "seen": "20261017T054050Z",
-          "pinned": false
-        },
-        {
-          "title": "Vance faces tough questions on Iran war, immigration and more in CBS town hall",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNmNuX0Jsc285RXhjY2Fud29veUhrRzdDQUhQT1lnaEpncUVmanpPbUZSRkJOSDBDSXVxUkVrMjNJclhWQ1BuVFh3R2VYWUlxU3pYdW9HcHJkMTQ3X213Nk5McHl0ZWJQN0pyQWhETG9lX01mQTBNVnBQZURDMXlLeVZtRmtQbGJONnk2OXpsRGx5YUNLVFpB?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261018T033100Z",
-          "pinned": false
-        },
-        {
-          "title": "Solar power booms in Philippines as war on Iran spikes energy costs",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdFBWNm9HY3h0Y2lhOXh4VnZFWEI5Y0VJOVJCQUttOWJHVFRoYmF6bnR5X2xBdkZBbmYyTVVGU3FfNUxQR0gtWGlWRE1pWG1KYWVKY1JOYlhqYm9tQTFFaEF2QTdJcy1BMTJEY25NX0JQS2t0aXpzQzR2VTl4RjJ2c0VhazhzSmxLN2wyMUpQXzkyOUt6anRpMUYzeFdYSzQ1Tm5xTDlWbm02NEJ6OWfSAbMBQVVfeXFMTzE3WGd3QlhSM3ZzbmllU242eGZFcTJVZXZId2dxZHk2MVE2OFNiTGdlS3pRcW9EZmdITGdiUDVmMnUwV3V2clkzMG9nOFBhT0d2QmRLb0ZoUWFXa1NGZG1TdDhTUXUxOHRFYkRaUmozNTZucEZaT0M4cm96X0dPWTlSTFhyenByanBmWkM5X1h6Yy1nLXY4Nk1HUTBtM1R5YXhHWnU2RUUwWWpfMzhhb2VEbWc?oc=5",
+          "title": "Russia’s war in Ukraine puts Europe on edge",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTHlVSkpsN1pxWmtvNzhiVEkxMHctRDlQTEpmVUZCYlFqUVV2MnMtZzM5S2Y4Y0pkQ2NYbTdjV3JNZDZSMmh1LWNPOEpuSUNSWXF6bTJjcngzd1ZGU2pCbzhXUmJWSUxyVmo2WGt0SlAzWUx3U0dpTS1xb1lLb1pVaDNqek5tc1dZSGZab3pYcUlmWmJIdVVYNkQ0YWlKck5JMzVLSUZDMNIBrAFBVV95cUxNY0VDa3JaSWZYWWlwYU5LQV9TU2JMYURBYTRJbDcyM3Z2UzhTX1dPSF9adk5zdFpkZEpBdkNIQzhEbmJaV2pJaUsyTDIwRl9qUUp4WTVTeVdPY21iSjB6dEU3dHN1cGFjRWRzRElfRENVbmQ1UUoxMml3NU9rNURhMFdOYlBrMHcwLVdjaGRyV29FeU9oTThXWm4zemcwZTlncWFLaHNrRklWdlRy?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261017T102511Z",
+          "seen": "20261018T103358Z",
+          "pinned": false
+        },
+        {
+          "title": "Egypt’s el-Sisi vows to defend Saudi Arabia from Houthi attacks",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYWhZdlRadk94dzNBTEFIVGV2b2dHU0I4eVlzRzFMdzRmYVcyZjd6eS1RaHFjRTVMMFgxZHRxNWlQT3k0NE9qTkxXalBmMUFkVy0wNmFPQTR3Z25fcGRkTVl2YURkaWxtWURvb3RtRDViQWpVTVBJMTJQNnh5UkkzSUlibkQtSDJE0gGOAUFVX3lxTE85clpGcjNjZDNsSVRXd1FFM004amU2Vll1QjVUTGFBaWM2dHRvNkJ6dGx5RDl6bmpTeDRqVHZXRkVoanh2MGM1dlZEWmxpQVVhLWt2X05QNjJ2X3VsWWRWcldxWE82OXpoaUVEeUZUNHpEQm8xN2FMWWxURDU4cTltYmY4Yzk2aVJ1Mk4yNHc?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261017T164929Z",
+          "pinned": false
+        },
+        {
+          "title": "‘Weight of responsibility’: Promise and perils of covering Ethiopia’s war",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSmFqSVptV3NRcmNzMU9BLTlsOUV0LWF5LW9iZUtaM0Y0NDlGUmJ4aGRMUzRyM0o1VmNxMVh5ZWhaVEpNbWNHLTdrOGQwblNCWHR0WWtNU25VNjI2WExpY0tjVnF4QUpyaHBRdGhfNzh4Sjg2TWlpU1RCNzBjcVdHN29VaVNjQnU4WlRwNFpsVVFYT0J3bmRRN3J3M05SZngyRXprNjRpSDFTYWozOHRQaNIBtgFBVV95cUxOSGkzX1JpYUFPbVJOdVltUV9IY180LTJMR1lwc3Jkb0tqNFBiRDFqaGxyQ1BIQ05jOEJWRlBOVmhNVVdqMTVDSUQyUmlaZ3pZZy1xVUs1VUtGaGFfdmFLaEpuWUt3WjFDNVBUMHl3cFB5R0NoTzV3anZ2YWtZeUdVcVhDdmZOMnN4SWhrN0p5MWh0UEo2ckhEVzk2VV9lYlZaRk5tVmxsUmYxTUd2ZlE0dnhyT0lfZw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261019T133127Z",
           "pinned": false
         },
         {
@@ -2145,87 +2169,72 @@
           "pinned": false
         },
         {
+          "title": "Vance suggests disagreement with Trump over Iran war",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZFpWcV80QVNfR0JMZkRlN1dvUDJyWkxpREdqeWVhdmZwZFlOZ0d4MHZlYkRFZHluR0Q2ckVkQ1RyWVRDY0hidVdFNG5ocEQyX2FnaTFOaENzSTVMNURTaHdONHhuZmlNTElBZmxRaTd0RDJ1ZWxWYmtmRDRTeUJVUDYxa2lxQ2pkbHFJVzBtcHFTQUtoSHhfc2pB?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20261017T054050Z",
+          "pinned": false
+        },
+        {
+          "title": "Solar power booms in Philippines as war on Iran spikes energy costs",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdFBWNm9HY3h0Y2lhOXh4VnZFWEI5Y0VJOVJCQUttOWJHVFRoYmF6bnR5X2xBdkZBbmYyTVVGU3FfNUxQR0gtWGlWRE1pWG1KYWVKY1JOYlhqYm9tQTFFaEF2QTdJcy1BMTJEY25NX0JQS2t0aXpzQzR2VTl4RjJ2c0VhazhzSmxLN2wyMUpQXzkyOUt6anRpMUYzeFdYSzQ1Tm5xTDlWbm02NEJ6OWfSAbMBQVVfeXFMTzE3WGd3QlhSM3ZzbmllU242eGZFcTJVZXZId2dxZHk2MVE2OFNiTGdlS3pRcW9EZmdITGdiUDVmMnUwV3V2clkzMG9nOFBhT0d2QmRLb0ZoUWFXa1NGZG1TdDhTUXUxOHRFYkRaUmozNTZucEZaT0M4cm96X0dPWTlSTFhyenByanBmWkM5X1h6Yy1nLXY4Nk1HUTBtM1R5YXhHWnU2RUUwWWpfMzhhb2VEbWc?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261017T102511Z",
+          "pinned": false
+        },
+        {
+          "title": "Russia’s Lavrov discusses US war and regional security in Tehran visit",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNGY3eEp1ejlqZ1BCWkVka0pFRC03ZXQzc2VVclNpM21GZUlPZVh3N0xvLVpydVpyTTB0ZXhsQm1WdFdrT0RuaW5SUU9BbXlCVXNpcjF1dEQ2cmExWG43VzhiZlpwZUN3Zkl1Z2xraHVVcWFQZmZOR1ppd3NHazVTYnJ0N25sVGFYYW12VzJlRUtDaXNTeTFvMWVPZmFFT1pHZXQ5eDJKYU1KcVRFTU4tOEpubFN3MzBlSFJfdmdn0gHDAUFVX3lxTE5qTEpIbW1EeTcwM2dBQ2ItX1MzTVF4NDR0NG44ZHpzWDdINm1OUjhLT243cHRvQVdBb1dHbFVLdjlZN3FDaWxDR25oeXBZU0hIbnBnZmp3d3djZDl0WUFYRURTR2JzS2YxRXVmcUlIZ0tIUE4tZDZ5QTN3YWJGQXZoODM3el9XS1RINVF4dlB3Y2RsQzRUNTNQUXBTUFRWRTd3amI0OVpFSDJFUDJHSVVpbWR5eTc2dTlka3Y2N0xSQllRWQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261019T153153Z",
+          "pinned": false
+        },
+        {
+          "title": "Vance faces tough questions on Iran war, immigration and more in CBS town hall",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNmNuX0Jsc285RXhjY2Fud29veUhrRzdDQUhQT1lnaEpncUVmanpPbUZSRkJOSDBDSXVxUkVrMjNJclhWQ1BuVFh3R2VYWUlxU3pYdW9HcHJkMTQ3X213Nk5McHl0ZWJQN0pyQWhETG9lX01mQTBNVnBQZURDMXlLeVZtRmtQbGJONnk2OXpsRGx5YUNLVFpB?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261018T033100Z",
+          "pinned": false
+        },
+        {
+          "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5udnhBejAzQzZIeHRuYVp2N0s5alNvR3dKS0dfdmRMbFVhX0FjRDY5VXBqOWJXVzg3OEs4ZzhlaHF6bnNMNDhtSmhQaWo2QTRhc0h2endmQUNpcGM?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261019T142003Z",
+          "pinned": false
+        },
+        {
+          "title": "Houthi attack on Yemen army camp in Shabwa kills at least 53: reports",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQURxelJpODVFeDRIVWZNaEk5cFZlYXpMdUxxa2owdTRGbmV4SHI2a2JHaDluMzRTNFdobDdNeUN3ZHFuR1hfQ1lmSU1aWXFJc0hVaklCaWw1cEJjUno5Uk1Dc3FCcktyZV9rX3J4Rkd0UDZtMXV5NGhacDRHTTdoZGRkRGJNcG1QajFvYXk0Mkt3MS1UeDN5eW03U05COXVzOWFPbncyZFV2UkZVb1RMadIBtgFBVV95cUxQb1pVOUxXRU1SdmVLRmRkVE5qRDJ1dzdoM3JfZFlZSmxKa2d3a28yTXVReGFyWEtqNVN3ZmRIX1ZseWpsNzRscDVLZWFiellubjJsOW9iM1ZyT0FkUF9MUWljckF4WFdrSmhwd3pBWG15dGl4cXJyV2ZBY2RveFdkS01xT1hkc3JHMXFzNXFfVy1MUk9vNk1ocEVKTGFnMjROcVlMVmF1X3NYcVU4Rkd3TDNsTG1Ldw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261019T160430Z",
+          "pinned": false
+        },
+        {
           "title": "Ukraine launches over 1,000 drones at Russia, setting oil facilities ablaze",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcEJCSHJCeWRoX05HaTVfaElIWE11RVVPQkE2bzk1dUVjVm1ZT3JMRFV3Wm9GdjVXOGZSMEc5T2MzVlkzdk9hXzVQaGRmUVdTSXV4a1RxemFyUXVhS0c1cWE0eEZ4c2RvRG5hMUVVZ1JabldKcXVnRnlXUWFDZlQ4c0NtZG1CNEpVLTl5aHdtSGZHZ19YdlpZOXp0QW11Q3p4eEx2R2xsMlh5dk1OenRqS1lTSE5xUdIBuwFBVV95cUxQUG1DbHYyV01VRGEwR1BKOWtXWnJ4dFZqZDBCbnZMb19vV3E1Y0NabzJqZGt5Y3NSS05JT3QyR2xnOXprX2NnR3FxbWc3dk5EYXRfRzdwLTRBX21YUXFHdlZnc2F5Wm1zbkI4REk4ejk2VmFIVm94X01TMWp0SUJ1dVNvWEZjSzVlVndwTlpSUEJ0OTFXcXE2Qnk1LVlEVXRPSjNVQUhSc0hfbVpJY2w4dm1Zalg4QkIwNHpZ?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20261019T030152Z",
           "pinned": false
-        },
-        {
-          "title": "Airstrike kills at least 9 in rebel-held Yemen, and other Mideast news",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZTVQOXY5eWJtZXExSXpLYk9CMWUycWRQTEREeEtlUUtlQkRTR3laVnZQTEFIVjN6S1BpbXVkU3N1Nm1Vb09POV8xVGRncFFBMlp6RUR6QVJTTXBwcnZ4M2kzcmVXYVJVM3FaWkZyVlRsNGs2aml5UWdBM0Nuc3oyblpMS1hrdnVjcFZnNkx4bjJTVGJ3OEM0S1piZnFtbHZ1VnlUdEZvMjVHcGtZaGNSVg?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261018T163100Z",
-          "pinned": false
-        },
-        {
-          "title": "Global News Podcast | The Global Story:Was World War Two worth it? Some US conservatives have doubts",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1MUDdNeXZQd1NlTmM5SzZEZVU2UWtoLXpmN21LZzNpRkNPWFZCQms0R1Q0c2dFaWw1ZkdKVHFqd0l6T2xQTURKSVZnRTNKRjhZ?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261018T190646Z",
-          "pinned": false
-        },
-        {
-          "title": "'They handled it exactly the right way': How the Kennedys averted the 1962 Cuban missile crisis",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUlgza1FWOV9MTlRQc3lHRTl6NEJTUGlqSkYtcVZkZi1hX3pnVzdlV05JNGFHM3BNOWNKYjRMc1ZNZUdibHMwYy11TXB3dHZmZUpJeDg3NndUaHUwR3g1Y215R1RaSnlpZnpDRWxKY3NycXA4TkhSRW9JTmtEUThXVmd5ZURNcVFhcS1pX19Sejk2YU9GYUN3TGhn?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261019T100838Z",
-          "pinned": false
-        },
-        {
-          "title": "Drone strike and fire on ship in Romanian waters raise fears that war in Ukraine is spreading",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSXc0QkVBRmZ5aVBXeGkzTnJkdzlXTlBBVXlCTVB1Mk1HWFRhVmd1Q29tUnJQUVlvUTk1QUJuZmFxTzgzR3NhNncyeUNTV3M3Znc5ZHNseWpFSEFNMGdGUVpGeXZ3dzdQNUJkSUxYaUhNQ0dhckV0RUVudWxidXd4VGFCSkpBZHF4TkVjVmdpMzZPVkZFanFxVVM3SjFFZlVLYnc?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261016T022017Z",
-          "pinned": false
-        },
-        {
-          "title": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO’s response",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTzFrRE5pMHU0QUV5V2ZHeTBuUHR3cnJDY09QMnEyMndIVVA5TG5aUE5zSkhIdWNhZVVLcEJPSGMweVFtVGFma3RXcWlZa2xaeVpMWjg3UnFsUXQ0SXQ1ZFdwdXY0cG4zc3U3NlJBRm81eEkyanlKcG1ENGJWS21CWHN5M3RmZkcxY1dnWTBDNFNna0o1WDgyNnZvTlJOSDlwN1VyeDY1VHktNnVyU0E?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261016T102400Z",
-          "pinned": false
-        },
-        {
-          "title": "Yemen’s government says Houthis fired two missiles at Aden airport",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaVhUUGZEdkhGc191dGhfWFNwZlNvaDBMeE9mTnJEUFZucFY1YjloR2RIeHBuekg5ZzUwNXFpeklQcVJvM0M0bkxIbGtGS1M3SW1sb0dUSlQ3aTNHd014YmtEZmRkSDVhX1Q3WjdNLThhejktNEgtYkJnaXp1RzhBZ0lqRDg3aXhUZEY3S1FSeGFWazIwQWZueTlXUmRBa3pXWjltVHRRMTlMYknSAbABQVVfeXFMT1NGdURoYUY4RmhTZ0tReWl2UUw4ZFl2Vkx0QzB1bmlHdEUxZ2x4UFhUVTQzUUROLWQxSWd1TmJzVEVsYTBWbjFUeFg4WmlucU5ZeG5EXzcxNVFKODRzdFpPMXViU1RQa29ObDZSTEVUdENVY0pBVmNUUWVkSTE3M1p0UTl6Qm5LU3hxZlpZOTBUQnpCaF9SaFZJbU02TXpSdWxoaVV0NjZNSkMxWGxiRkc?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261016T221122Z",
-          "pinned": false
-        },
-        {
-          "title": "UK must protect against Russian 'hybrid attacks', ex-national security adviser says",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhLVJFX196czlxN2paNGdMQldPSVZyUnlDZm1qV1VlNl9iYXVKdi1zTVk0UWRDRzdtOHpOZmZaSmJCc1NTUzBYaGtLZ3BXZXNnbEFWWjBmcWJBMDA?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261017T125609Z",
-          "pinned": false
-        },
-        {
-          "title": "A bitter Michigan Senate race rattles Jewish and Muslim voters already on edge over the war in Gaza",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdDc3TmplVHhQU05mQkZtU2d0QnhQWjhWMWcyNDY2Q0U3T2dlY3Z1cnR1eTA0Z0VhRVp2MDBkUVJfcW1Db1YzUTdpanBRVnFaYU96ZFVwMzJMQ1daYXRVbUVsYzJQblFwYUk2UVlXVzI0NmowcmdUQkhYby03RWhzaWlXV2JsUzZaVzM3OEY2aTFubWNLdzI5ckM3bWV2bzVFWXR2VUJB?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261017T160600Z",
-          "pinned": false
-        },
-        {
-          "title": "Mali’s military and armed groups committing abuses against civilians: HRW",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSjRJaE8yNFJZY05lWUktVy1Cb1dPMmlrSG91WEhXTmtNRUczclhkZlEtVURLRmVIVE1FNkJzeGEtWTI0dDFMOTlTbnNDQ01vSk9uZUh6NWZ1SktfTUJoMmg1STVFeVV0OGFtRko2YS14U1ZNX1YtRTlSWXI0NkJ4QzVPbnJnWjh0X0laMThTQmh3YnNiNWlqdUx2eTl0TklqQ3hRbjdnOGo1VjZkSUdhXzU0SdIBuAFBVV95cUxQdVZBeFFGTHBpTHpWdkprYmVTbnZKY003RHdpOUd3WkVWT1hodWxQNzJHNGdaLTQxa3ZmR1dWSzRFS015cUNIekJkZ0x0UHZ1RENHTkh6Znc1dTJRN2pRVlFkNnJjQmtHZTBOMVhhRjR0Y0xNS0hranlVaDFhd1ZOR3c2a1N1ZG16M085NW1rTzJaaXEwOUp3cEZqMThTbE92X01ZNXBvVVBvdUhYQTRNWWhKdmhSWC1W?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261019T081658Z",
-          "pinned": false
         }
       ],
       "reports": [
+        {
+          "id": "report-75a7b1a6842b",
+          "title": "Russia’s Lavrov discusses US war and regional security during Tehran visit",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQlRWbm1ZdGNfX3BQcTV4MTZBMERabzQ1ZWEwSXhhdW5pZkUxMFBvZXFuRTBsMjZ6Q182MG9qZWhJNDJOb3Y0WU96Zng3bWpfWGgyMFdrUzVvdjhrRk1QSm1IdTZoTW1TZENrTVNyLWpxdmpwbU5PZXFnd2RReXhDaS1pNEN6azVDdGt3OEtCTnRHV1hybXZ2Y3FLMzVVQndkNlFEbWlZWEJ1WTlWN3FJX3A4U3I3SGvSAbwBQVVfeXFMT2J4YW5XUTF5ckF5M2xIaWx2LUJkeW9sUkdhWnVCRU8wT1BIa2hsckRiZlFqcmlWMTFCb21iODNXUngxM1ZDeXB0UnRLcEZkbjFRbDkxMjllYlpmbXZhd3NXTk9nRHI2a2VuUm5KVWprcG53RzJQMFdKa0Y1TWhkN1V3VVB2UmJ2OElZWU43VGVETTlrNkdOa3NYdFlEajlLYVJOZDNybnc0WW9EV19CZEN2LV9WMGhiU3doV2U?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-19T16:22:51Z"
+        },
         {
           "id": "report-c86d768ab0e0",
           "title": "What help can Egypt offer Saudi Arabia in the war against the Houthis?",
@@ -2245,15 +2254,6 @@
           "reportedAt": "2026-10-19T01:05:07Z"
         },
         {
-          "id": "report-81b16f805296",
-          "title": "How Iran messaging highlights cost of war ahead of US midterm elections",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPckE1c3laVXZKWGlFMEUwMEcwQXR4VDBqRlJxRUo0M1pMWk9SRDVtOHMzLU5qNzJxYW92NUw3QkVadlNlUU5OZWJjeG9ubURBNlpKNnVHU0otOWV4Si1GenlwV2tadElpRjRjQkM1aGlJTGZUeGJfU3JWSGdNQ0dUc0szQ0hvdFZPWnhKaURtcXJuMVlBeFdZdVdhbENBZVlfVk9yaXdtZWFsVEgyVnl3NWRjSdIBuAFBVV95cUxNaTFsRERla2prbU16VDhKWUhCbE1NTVRQVzZ1bXRJcHBQeGtmR19aVzlWVVdFNzBHT3N0b2ZsazRiSDV1UWJWXzJCZXhLeTNjWXJqWWdCN01iWmxDcno2M2xKN0w3VjhrandDcGlrRGtENTdTcGVERE50a1JRV0VSSzZGZ0lQMTZOZFZZT1VpLXloM1dqelFsSl9oZEgxWldjOHhCUGNic1BHUElFVTRPX3R2N2pzRUlG?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-16T18:28:04Z"
-        },
-        {
           "id": "report-ba89f2695635",
           "title": "The Victory of Asymmetry in the Iran War",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE43OUIxMHNwSW04WUVCMm9kdjd0MDBNWjBaeWl1aWZqT3VEODFEamJiWHRsRHBBQ1Q2eVFYRGdsbFVmb1cwRjZDN3JyZWpOQjhBbEdmVWNfVEgycV9uREtJMEYwMzdSaDJZb3E2UUgxeFgyMVhkT3V2OA?oc=5",
@@ -2261,6 +2261,15 @@
           "sourceTier": "Structured / analytic",
           "confidenceLabel": "ANALYTIC REPORT",
           "reportedAt": "2026-10-16T16:56:08Z"
+        },
+        {
+          "id": "report-81b16f805296",
+          "title": "How Iran messaging highlights cost of war ahead of US midterm elections",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPckE1c3laVXZKWGlFMEUwMEcwQXR4VDBqRlJxRUo0M1pMWk9SRDVtOHMzLU5qNzJxYW92NUw3QkVadlNlUU5OZWJjeG9ubURBNlpKNnVHU0otOWV4Si1GenlwV2tadElpRjRjQkM1aGlJTGZUeGJfU3JWSGdNQ0dUc0szQ0hvdFZPWnhKaURtcXJuMVlBeFdZdVdhbENBZVlfVk9yaXdtZWFsVEgyVnl3NWRjSdIBuAFBVV95cUxNaTFsRERla2prbU16VDhKWUhCbE1NTVRQVzZ1bXRJcHBQeGtmR19aVzlWVVdFNzBHT3N0b2ZsazRiSDV1UWJWXzJCZXhLeTNjWXJqWWdCN01iWmxDcno2M2xKN0w3VjhrandDcGlrRGtENTdTcGVERE50a1JRV0VSSzZGZ0lQMTZOZFZZT1VpLXloM1dqelFsSl9oZEgxWldjOHhCUGNic1BHUElFVTRPX3R2N2pzRUlG?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-16T18:28:04Z"
         },
         {
           "id": "report-70de7f9bbd66",
@@ -2281,6 +2290,15 @@
           "reportedAt": "2026-10-18T23:42:17Z"
         },
         {
+          "id": "report-8930391c41af",
+          "title": "Myanmar’s coup leader-turned-president wins back neighbours despite war",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTVlpeTE4V1VOdkxnN1pYM1BNa0FfYjM5NXVVdFhtdFlXem9OdzZiR1JWUW9feUUzbVBUMy1VaFFGMmlKV2ZwczQwRDIwSGxnYkpQZGxSdmhwQ0o2TTY2MXZ2QVh3OU1ITk9SYXhJMnh3a0hUWk1zQnczbkNaMk5SRWhkS0dTVVlVVl9pWGZjNnFQR0tZSG5UZnc5Q3pfNGtRTXFjdWRXdHV2XzBRMzlsUlFxMA?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-16T01:42:38Z"
+        },
+        {
           "id": "report-1e4e84f77493",
           "title": "Ukraine’s Attacks on Russian Data Centers Lay Bare a Global Risk to AI",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNN005dVJpNmNzRWtTVHp6eXhfZElHZG9wYW50Q1FoXzg5aFRib3UzcWQ0SjZiQ0Vabm5RcldPZzhGWHRfejA4ZXB1cUFLVDNkOFhsQm9QYnhWbUF0NHd4X2wySE1zOGpBVHFqWjlfS0pUVm5ON2l2bkFBS2lkUF9SOHFSeHVkdE5QSUtXYzUzXzFTZWEzTFkzWGRFNU53MVk?oc=5",
@@ -2297,6 +2315,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-10-17T04:05:00Z"
+        },
+        {
+          "id": "report-1e33dc654929",
+          "title": "Saudi-led coalition intercepts drones as Egypt weighs sending help",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObzE5OEQ1YmtRaTQzMEN4ZC16UVlZOXRXTm9kZm93dldxWmxwUkMwYVJPMkx4YktUcm15d2ZzbHJVbFNaZUZ5RDl3V1lxVzY2eDA0OHFhT2RINHhNMU9GRFNiQ1RRUmo0akRHOEhieFZiZkYxOEEtSkFWUkMwQ3UxdWF0VVFSanNMY3M1RDVBSzk0ZE5lRVd0R2U1TE9HOTEtRmxEOEduRlowLUpv0gGyAUFVX3lxTFBsajZwTGFfQ0YyU0hzT2drU2xPM1haeGl5V1JOamM5TXFDeGQ0VmlCQnBNWDNkanNELVBBZWJTREhPSVRUd0tJM1d3T1pKRzlvZTk0VVdQTHlJdVJUdWhndUFrbnFvcXJoaWwwVVNDM3kwWEtBdWN5Smt0b1dtZ3lFYkFIbTE2Z0Yzb0FXRVNSVUlhWHRJRENRT21EMnVjN3N0c3IxTjBHT2dqemFJZ1VIeVE?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-17T23:26:53Z"
         },
         {
           "id": "report-f9c4b3631065",
@@ -2317,31 +2344,31 @@
           "reportedAt": "2026-10-17T09:37:27Z"
         },
         {
-          "id": "report-2bc8d7f7d533",
-          "title": "Vance suggests disagreement with Trump over Iran war",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZFpWcV80QVNfR0JMZkRlN1dvUDJyWkxpREdqeWVhdmZwZFlOZ0d4MHZlYkRFZHluR0Q2ckVkQ1RyWVRDY0hidVdFNG5ocEQyX2FnaTFOaENzSTVMNURTaHdONHhuZmlNTElBZmxRaTd0RDJ1ZWxWYmtmRDRTeUJVUDYxa2lxQ2pkbHFJVzBtcHFTQUtoSHhfc2pB?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
-          "reportedAt": "2026-10-17T05:40:50Z"
-        },
-        {
-          "id": "report-fc4d21408fc6",
-          "title": "Vance faces tough questions on Iran war, immigration and more in CBS town hall",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNmNuX0Jsc285RXhjY2Fud29veUhrRzdDQUhQT1lnaEpncUVmanpPbUZSRkJOSDBDSXVxUkVrMjNJclhWQ1BuVFh3R2VYWUlxU3pYdW9HcHJkMTQ3X213Nk5McHl0ZWJQN0pyQWhETG9lX01mQTBNVnBQZURDMXlLeVZtRmtQbGJONnk2OXpsRGx5YUNLVFpB?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-18T03:31:00Z"
-        },
-        {
-          "id": "report-8680aa4891a1",
-          "title": "Solar power booms in Philippines as war on Iran spikes energy costs",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdFBWNm9HY3h0Y2lhOXh4VnZFWEI5Y0VJOVJCQUttOWJHVFRoYmF6bnR5X2xBdkZBbmYyTVVGU3FfNUxQR0gtWGlWRE1pWG1KYWVKY1JOYlhqYm9tQTFFaEF2QTdJcy1BMTJEY25NX0JQS2t0aXpzQzR2VTl4RjJ2c0VhazhzSmxLN2wyMUpQXzkyOUt6anRpMUYzeFdYSzQ1Tm5xTDlWbm02NEJ6OWfSAbMBQVVfeXFMTzE3WGd3QlhSM3ZzbmllU242eGZFcTJVZXZId2dxZHk2MVE2OFNiTGdlS3pRcW9EZmdITGdiUDVmMnUwV3V2clkzMG9nOFBhT0d2QmRLb0ZoUWFXa1NGZG1TdDhTUXUxOHRFYkRaUmozNTZucEZaT0M4cm96X0dPWTlSTFhyenByanBmWkM5X1h6Yy1nLXY4Nk1HUTBtM1R5YXhHWnU2RUUwWWpfMzhhb2VEbWc?oc=5",
+          "id": "report-b117cb530d89",
+          "title": "Russia’s war in Ukraine puts Europe on edge",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTHlVSkpsN1pxWmtvNzhiVEkxMHctRDlQTEpmVUZCYlFqUVV2MnMtZzM5S2Y4Y0pkQ2NYbTdjV3JNZDZSMmh1LWNPOEpuSUNSWXF6bTJjcngzd1ZGU2pCbzhXUmJWSUxyVmo2WGt0SlAzWUx3U0dpTS1xb1lLb1pVaDNqek5tc1dZSGZab3pYcUlmWmJIdVVYNkQ0YWlKck5JMzVLSUZDMNIBrAFBVV95cUxNY0VDa3JaSWZYWWlwYU5LQV9TU2JMYURBYTRJbDcyM3Z2UzhTX1dPSF9adk5zdFpkZEpBdkNIQzhEbmJaV2pJaUsyTDIwRl9qUUp4WTVTeVdPY21iSjB6dEU3dHN1cGFjRWRzRElfRENVbmQ1UUoxMml3NU9rNURhMFdOYlBrMHcwLVdjaGRyV29FeU9oTThXWm4zemcwZTlncWFLaHNrRklWdlRy?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-17T10:25:11Z"
+          "reportedAt": "2026-10-18T10:33:58Z"
+        },
+        {
+          "id": "report-f45778baf083",
+          "title": "Egypt’s el-Sisi vows to defend Saudi Arabia from Houthi attacks",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYWhZdlRadk94dzNBTEFIVGV2b2dHU0I4eVlzRzFMdzRmYVcyZjd6eS1RaHFjRTVMMFgxZHRxNWlQT3k0NE9qTkxXalBmMUFkVy0wNmFPQTR3Z25fcGRkTVl2YURkaWxtWURvb3RtRDViQWpVTVBJMTJQNnh5UkkzSUlibkQtSDJE0gGOAUFVX3lxTE85clpGcjNjZDNsSVRXd1FFM004amU2Vll1QjVUTGFBaWM2dHRvNkJ6dGx5RDl6bmpTeDRqVHZXRkVoanh2MGM1dlZEWmxpQVVhLWt2X05QNjJ2X3VsWWRWcldxWE82OXpoaUVEeUZUNHpEQm8xN2FMWWxURDU4cTltYmY4Yzk2aVJ1Mk4yNHc?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-17T16:49:29Z"
+        },
+        {
+          "id": "report-a134a9492803",
+          "title": "‘Weight of responsibility’: Promise and perils of covering Ethiopia’s war",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSmFqSVptV3NRcmNzMU9BLTlsOUV0LWF5LW9iZUtaM0Y0NDlGUmJ4aGRMUzRyM0o1VmNxMVh5ZWhaVEpNbWNHLTdrOGQwblNCWHR0WWtNU25VNjI2WExpY0tjVnF4QUpyaHBRdGhfNzh4Sjg2TWlpU1RCNzBjcVdHN29VaVNjQnU4WlRwNFpsVVFYT0J3bmRRN3J3M05SZngyRXprNjRpSDFTYWozOHRQaNIBtgFBVV95cUxOSGkzX1JpYUFPbVJOdVltUV9IY180LTJMR1lwc3Jkb0tqNFBiRDFqaGxyQ1BIQ05jOEJWRlBOVmhNVVdqMTVDSUQyUmlaZ3pZZy1xVUs1VUtGaGFfdmFLaEpuWUt3WjFDNVBUMHl3cFB5R0NoTzV3anZ2YWtZeUdVcVhDdmZOMnN4SWhrN0p5MWh0UEo2ckhEVzk2VV9lYlZaRk5tVmxsUmYxTUd2ZlE0dnhyT0lfZw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-19T13:31:27Z"
         },
         {
           "id": "report-00ced67f5557",
@@ -2353,6 +2380,60 @@
           "reportedAt": "2026-10-19T09:27:13Z"
         },
         {
+          "id": "report-2bc8d7f7d533",
+          "title": "Vance suggests disagreement with Trump over Iran war",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZFpWcV80QVNfR0JMZkRlN1dvUDJyWkxpREdqeWVhdmZwZFlOZ0d4MHZlYkRFZHluR0Q2ckVkQ1RyWVRDY0hidVdFNG5ocEQyX2FnaTFOaENzSTVMNURTaHdONHhuZmlNTElBZmxRaTd0RDJ1ZWxWYmtmRDRTeUJVUDYxa2lxQ2pkbHFJVzBtcHFTQUtoSHhfc2pB?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-10-17T05:40:50Z"
+        },
+        {
+          "id": "report-8680aa4891a1",
+          "title": "Solar power booms in Philippines as war on Iran spikes energy costs",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdFBWNm9HY3h0Y2lhOXh4VnZFWEI5Y0VJOVJCQUttOWJHVFRoYmF6bnR5X2xBdkZBbmYyTVVGU3FfNUxQR0gtWGlWRE1pWG1KYWVKY1JOYlhqYm9tQTFFaEF2QTdJcy1BMTJEY25NX0JQS2t0aXpzQzR2VTl4RjJ2c0VhazhzSmxLN2wyMUpQXzkyOUt6anRpMUYzeFdYSzQ1Tm5xTDlWbm02NEJ6OWfSAbMBQVVfeXFMTzE3WGd3QlhSM3ZzbmllU242eGZFcTJVZXZId2dxZHk2MVE2OFNiTGdlS3pRcW9EZmdITGdiUDVmMnUwV3V2clkzMG9nOFBhT0d2QmRLb0ZoUWFXa1NGZG1TdDhTUXUxOHRFYkRaUmozNTZucEZaT0M4cm96X0dPWTlSTFhyenByanBmWkM5X1h6Yy1nLXY4Nk1HUTBtM1R5YXhHWnU2RUUwWWpfMzhhb2VEbWc?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-17T10:25:11Z"
+        },
+        {
+          "id": "report-5e2940bd2d71",
+          "title": "Russia’s Lavrov discusses US war and regional security in Tehran visit",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNGY3eEp1ejlqZ1BCWkVka0pFRC03ZXQzc2VVclNpM21GZUlPZVh3N0xvLVpydVpyTTB0ZXhsQm1WdFdrT0RuaW5SUU9BbXlCVXNpcjF1dEQ2cmExWG43VzhiZlpwZUN3Zkl1Z2xraHVVcWFQZmZOR1ppd3NHazVTYnJ0N25sVGFYYW12VzJlRUtDaXNTeTFvMWVPZmFFT1pHZXQ5eDJKYU1KcVRFTU4tOEpubFN3MzBlSFJfdmdn0gHDAUFVX3lxTE5qTEpIbW1EeTcwM2dBQ2ItX1MzTVF4NDR0NG44ZHpzWDdINm1OUjhLT243cHRvQVdBb1dHbFVLdjlZN3FDaWxDR25oeXBZU0hIbnBnZmp3d3djZDl0WUFYRURTR2JzS2YxRXVmcUlIZ0tIUE4tZDZ5QTN3YWJGQXZoODM3el9XS1RINVF4dlB3Y2RsQzRUNTNQUXBTUFRWRTd3amI0OVpFSDJFUDJHSVVpbWR5eTc2dTlka3Y2N0xSQllRWQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-19T15:31:53Z"
+        },
+        {
+          "id": "report-fc4d21408fc6",
+          "title": "Vance faces tough questions on Iran war, immigration and more in CBS town hall",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNmNuX0Jsc285RXhjY2Fud29veUhrRzdDQUhQT1lnaEpncUVmanpPbUZSRkJOSDBDSXVxUkVrMjNJclhWQ1BuVFh3R2VYWUlxU3pYdW9HcHJkMTQ3X213Nk5McHl0ZWJQN0pyQWhETG9lX01mQTBNVnBQZURDMXlLeVZtRmtQbGJONnk2OXpsRGx5YUNLVFpB?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-18T03:31:00Z"
+        },
+        {
+          "id": "report-591d643e4f67",
+          "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5udnhBejAzQzZIeHRuYVp2N0s5alNvR3dKS0dfdmRMbFVhX0FjRDY5VXBqOWJXVzg3OEs4ZzhlaHF6bnNMNDhtSmhQaWo2QTRhc0h2endmQUNpcGM?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-19T14:20:03Z"
+        },
+        {
+          "id": "report-ccaa23fd265a",
+          "title": "Houthi attack on Yemen army camp in Shabwa kills at least 53: reports",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQURxelJpODVFeDRIVWZNaEk5cFZlYXpMdUxxa2owdTRGbmV4SHI2a2JHaDluMzRTNFdobDdNeUN3ZHFuR1hfQ1lmSU1aWXFJc0hVaklCaWw1cEJjUno5Uk1Dc3FCcktyZV9rX3J4Rkd0UDZtMXV5NGhacDRHTTdoZGRkRGJNcG1QajFvYXk0Mkt3MS1UeDN5eW03U05COXVzOWFPbncyZFV2UkZVb1RMadIBtgFBVV95cUxQb1pVOUxXRU1SdmVLRmRkVE5qRDJ1dzdoM3JfZFlZSmxKa2d3a28yTXVReGFyWEtqNVN3ZmRIX1ZseWpsNzRscDVLZWFiellubjJsOW9iM1ZyT0FkUF9MUWljckF4WFdrSmhwd3pBWG15dGl4cXJyV2ZBY2RveFdkS01xT1hkc3JHMXFzNXFfVy1MUk9vNk1ocEVKTGFnMjROcVlMVmF1X3NYcVU4Rkd3TDNsTG1Ldw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-19T16:04:30Z"
+        },
+        {
           "id": "report-67976290d080",
           "title": "Ukraine launches over 1,000 drones at Russia, setting oil facilities ablaze",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcEJCSHJCeWRoX05HaTVfaElIWE11RVVPQkE2bzk1dUVjVm1ZT3JMRFV3Wm9GdjVXOGZSMEc5T2MzVlkzdk9hXzVQaGRmUVdTSXV4a1RxemFyUXVhS0c1cWE0eEZ4c2RvRG5hMUVVZ1JabldKcXVnRnlXUWFDZlQ4c0NtZG1CNEpVLTl5aHdtSGZHZ19YdlpZOXp0QW11Q3p4eEx2R2xsMlh5dk1OenRqS1lTSE5xUdIBuwFBVV95cUxQUG1DbHYyV01VRGEwR1BKOWtXWnJ4dFZqZDBCbnZMb19vV3E1Y0NabzJqZGt5Y3NSS05JT3QyR2xnOXprX2NnR3FxbWc3dk5EYXRfRzdwLTRBX21YUXFHdlZnc2F5Wm1zbkI4REk4ejk2VmFIVm94X01TMWp0SUJ1dVNvWEZjSzVlVndwTlpSUEJ0OTFXcXE2Qnk1LVlEVXRPSjNVQUhSc0hfbVpJY2w4dm1Zalg4QkIwNHpZ?oc=5",
@@ -2360,87 +2441,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-10-19T03:01:52Z"
-        },
-        {
-          "id": "report-9bcfc6c23417",
-          "title": "Airstrike kills at least 9 in rebel-held Yemen, and other Mideast news",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZTVQOXY5eWJtZXExSXpLYk9CMWUycWRQTEREeEtlUUtlQkRTR3laVnZQTEFIVjN6S1BpbXVkU3N1Nm1Vb09POV8xVGRncFFBMlp6RUR6QVJTTXBwcnZ4M2kzcmVXYVJVM3FaWkZyVlRsNGs2aml5UWdBM0Nuc3oyblpMS1hrdnVjcFZnNkx4bjJTVGJ3OEM0S1piZnFtbHZ1VnlUdEZvMjVHcGtZaGNSVg?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-18T16:31:00Z"
-        },
-        {
-          "id": "report-6ca87336610a",
-          "title": "Global News Podcast | The Global Story:Was World War Two worth it? Some US conservatives have doubts",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1MUDdNeXZQd1NlTmM5SzZEZVU2UWtoLXpmN21LZzNpRkNPWFZCQms0R1Q0c2dFaWw1ZkdKVHFqd0l6T2xQTURKSVZnRTNKRjhZ?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-18T19:06:46Z"
-        },
-        {
-          "id": "report-5eaf85b91d11",
-          "title": "'They handled it exactly the right way': How the Kennedys averted the 1962 Cuban missile crisis",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUlgza1FWOV9MTlRQc3lHRTl6NEJTUGlqSkYtcVZkZi1hX3pnVzdlV05JNGFHM3BNOWNKYjRMc1ZNZUdibHMwYy11TXB3dHZmZUpJeDg3NndUaHUwR3g1Y215R1RaSnlpZnpDRWxKY3NycXA4TkhSRW9JTmtEUThXVmd5ZURNcVFhcS1pX19Sejk2YU9GYUN3TGhn?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-19T10:08:38Z"
-        },
-        {
-          "id": "report-c328ee3d63a5",
-          "title": "Drone strike and fire on ship in Romanian waters raise fears that war in Ukraine is spreading",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSXc0QkVBRmZ5aVBXeGkzTnJkdzlXTlBBVXlCTVB1Mk1HWFRhVmd1Q29tUnJQUVlvUTk1QUJuZmFxTzgzR3NhNncyeUNTV3M3Znc5ZHNseWpFSEFNMGdGUVpGeXZ3dzdQNUJkSUxYaUhNQ0dhckV0RUVudWxidXd4VGFCSkpBZHF4TkVjVmdpMzZPVkZFanFxVVM3SjFFZlVLYnc?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-16T02:20:17Z"
-        },
-        {
-          "id": "report-48568cf91c37",
-          "title": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO’s response",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTzFrRE5pMHU0QUV5V2ZHeTBuUHR3cnJDY09QMnEyMndIVVA5TG5aUE5zSkhIdWNhZVVLcEJPSGMweVFtVGFma3RXcWlZa2xaeVpMWjg3UnFsUXQ0SXQ1ZFdwdXY0cG4zc3U3NlJBRm81eEkyanlKcG1ENGJWS21CWHN5M3RmZkcxY1dnWTBDNFNna0o1WDgyNnZvTlJOSDlwN1VyeDY1VHktNnVyU0E?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-16T10:24:00Z"
-        },
-        {
-          "id": "report-e283f1807c93",
-          "title": "Yemen’s government says Houthis fired two missiles at Aden airport",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaVhUUGZEdkhGc191dGhfWFNwZlNvaDBMeE9mTnJEUFZucFY1YjloR2RIeHBuekg5ZzUwNXFpeklQcVJvM0M0bkxIbGtGS1M3SW1sb0dUSlQ3aTNHd014YmtEZmRkSDVhX1Q3WjdNLThhejktNEgtYkJnaXp1RzhBZ0lqRDg3aXhUZEY3S1FSeGFWazIwQWZueTlXUmRBa3pXWjltVHRRMTlMYknSAbABQVVfeXFMT1NGdURoYUY4RmhTZ0tReWl2UUw4ZFl2Vkx0QzB1bmlHdEUxZ2x4UFhUVTQzUUROLWQxSWd1TmJzVEVsYTBWbjFUeFg4WmlucU5ZeG5EXzcxNVFKODRzdFpPMXViU1RQa29ObDZSTEVUdENVY0pBVmNUUWVkSTE3M1p0UTl6Qm5LU3hxZlpZOTBUQnpCaF9SaFZJbU02TXpSdWxoaVV0NjZNSkMxWGxiRkc?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-16T22:11:22Z"
-        },
-        {
-          "id": "report-137d99d14ba9",
-          "title": "UK must protect against Russian 'hybrid attacks', ex-national security adviser says",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhLVJFX196czlxN2paNGdMQldPSVZyUnlDZm1qV1VlNl9iYXVKdi1zTVk0UWRDRzdtOHpOZmZaSmJCc1NTUzBYaGtLZ3BXZXNnbEFWWjBmcWJBMDA?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-17T12:56:09Z"
-        },
-        {
-          "id": "report-5f68ae684e51",
-          "title": "A bitter Michigan Senate race rattles Jewish and Muslim voters already on edge over the war in Gaza",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdDc3TmplVHhQU05mQkZtU2d0QnhQWjhWMWcyNDY2Q0U3T2dlY3Z1cnR1eTA0Z0VhRVp2MDBkUVJfcW1Db1YzUTdpanBRVnFaYU96ZFVwMzJMQ1daYXRVbUVsYzJQblFwYUk2UVlXVzI0NmowcmdUQkhYby03RWhzaWlXV2JsUzZaVzM3OEY2aTFubWNLdzI5ckM3bWV2bzVFWXR2VUJB?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-17T16:06:00Z"
-        },
-        {
-          "id": "report-3cdb81842293",
-          "title": "Mali’s military and armed groups committing abuses against civilians: HRW",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSjRJaE8yNFJZY05lWUktVy1Cb1dPMmlrSG91WEhXTmtNRUczclhkZlEtVURLRmVIVE1FNkJzeGEtWTI0dDFMOTlTbnNDQ01vSk9uZUh6NWZ1SktfTUJoMmg1STVFeVV0OGFtRko2YS14U1ZNX1YtRTlSWXI0NkJ4QzVPbnJnWjh0X0laMThTQmh3YnNiNWlqdUx2eTl0TklqQ3hRbjdnOGo1VjZkSUdhXzU0SdIBuAFBVV95cUxQdVZBeFFGTHBpTHpWdkprYmVTbnZKY003RHdpOUd3WkVWT1hodWxQNzJHNGdaLTQxa3ZmR1dWSzRFS015cUNIekJkZ0x0UHZ1RENHTkh6Znc1dTJRN2pRVlFkNnJjQmtHZTBOMVhhRjR0Y0xNS0hranlVaDFhd1ZOR3c2a1N1ZG16M085NW1rTzJaaXEwOUp3cEZqMThTbE92X01ZNXBvVVBvdUhYQTRNWWhKdmhSWC1W?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-19T08:16:58Z"
         },
         {
           "id": "report-3d06d7802bf8",
