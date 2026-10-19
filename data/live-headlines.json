@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-18T20:42:01.414Z",
+  "generatedAt": "2026-10-19T04:39:38.671Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-10-18T20:42:01.414Z",
+      "generatedAt": "2026-10-19T04:39:38.671Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -2067,23 +2067,23 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-10-18T20:42:01.414Z",
+      "generatedAt": "2026-10-19T04:39:38.671Z",
       "cadence": "every 6 hours",
       "items": [
-        {
-          "title": "The Victory of Asymmetry in the Iran War",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE43OUIxMHNwSW04WUVCMm9kdjd0MDBNWjBaeWl1aWZqT3VEODFEamJiWHRsRHBBQ1Q2eVFYRGdsbFVmb1cwRjZDN3JyZWpOQjhBbEdmVWNfVEgycV9uREtJMEYwMzdSaDJZb3E2UUgxeFgyMVhkT3V2OA?oc=5",
-          "domain": "cfr.org",
-          "sourceTier": "Structured / analytic",
-          "seen": "20261016T165608Z",
-          "pinned": false
-        },
         {
           "title": "What help can Egypt offer Saudi Arabia in the war against the Houthis?",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMzhqQlNqYWdrQzFNTHpobVpTUndWZ3NoOWpxRXVoNUdYckdDaDVkSmtwbXJ4Y2RnZDN6OTZ0VjFLM1FfNHRZTGVOSXA4T19lamlwb3ZPQWFXd082VmNlWEJhQ082OHJvalJCdFNXa3B1NW9pVkhYVkZ6eG9uWk9YMTBzMlRQQV9QN19WclB5aWtwdjBKRlhyY1I2cFBoQUVZRlVvcVlCbHNpUG4wcGlSWdIBtgFBVV95cUxOR0tmR1ctSUduRlQ1Z3A4SlNJMUwtT28zSWNWYWRvWDM5d0dIaFcxQ3pvQnFRTTFlSHA0ODlJeEo5UHdzSC1hNDFLazEyUUN3T0JWMlFlTjlnZjFGTTVtNWVfSEwtbkhRd1BnR19VblIzTElFc1I2NXgyT1YyNElQYmxtTWJ3RmdDWldvdV9CYi0xaGZ4ZXJraXd1M2R1VGtmMFJWQXhmOERBYmpSYXEySGEzMDZ5Zw?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20261018T111321Z",
+          "pinned": false
+        },
+        {
+          "title": "The Victory of Asymmetry in the Iran War",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE43OUIxMHNwSW04WUVCMm9kdjd0MDBNWjBaeWl1aWZqT3VEODFEamJiWHRsRHBBQ1Q2eVFYRGdsbFVmb1cwRjZDN3JyZWpOQjhBbEdmVWNfVEgycV9uREtJMEYwMzdSaDJZb3E2UUgxeFgyMVhkT3V2OA?oc=5",
+          "domain": "cfr.org",
+          "sourceTier": "Structured / analytic",
+          "seen": "20261016T165608Z",
           "pinned": false
         },
         {
@@ -2103,6 +2103,14 @@
           "pinned": false
         },
         {
+          "title": "Iran's foreign minister accuses Netanyahu of pushing US toward another war to avoid prison",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVURFUTFiLXNhSFpqRmhOdkNnY2xiTThhSWVzVHNCWHd6MHM2TUd1MWFudlNscUxhSkZDQTF4Q2Ewb0RuSjJjZUV1VVFOZ1B2MkFHSGpPRU1keTlrS3FHcXQxMkhZVG05ZUtqeGtPN3VvbjJwN1YtVGd4R2xWX2VvWjVCT29sMU9XRkZLcjQxWTNILTdjenRudEVXSF9KekNtc0t1NUNDMWl4R2NobjdSWUlWYnF4Z2RIWC16MjZKTHR2dw?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20261018T234217Z",
+          "pinned": false
+        },
+        {
           "title": "Trump slams Zelenskyy as Ukraine resumes strikes on Russian oil refineries",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeFZyYTgwUC1nM3AyZGg2X0ZxLV9aam1pZUNQalpMN2Rxb0h5WGZpMWswdWd6LXRsbks4emJKY05Gcmh1cHhFQVdZM2hGVlJjTUI5NjdHdUdWekFxeU9sRy1JV3F5TG1BVXJJUGQ1RzN6ZFNMeEpTUTR3RjFzN0d2UHliS1k1ZDNOTVpyal9RNy15RjUxd0FXVVRYMNIBoAFBVV95cUxOaGxHX0FFM200OV80YVI1SnYyV2RSem1uWjJWWjdRSFYybXVTdU5RTGt0cUFNUm1wUEo2MVhSTFpjUUxVS2N6Y3E2aVVCbW8zanRUY3libG1VR1UwZ3hBemJuc3pNQ3h3SlZ2U1dJNER1TEh0LWc1VTdmd1hfalRyZUtGZnJHOWdCb1pURERZWE43NXhjcTZwWllwMENpS21s?oc=5",
           "domain": "aljazeera.com",
@@ -2111,19 +2119,11 @@
           "pinned": false
         },
         {
-          "title": "Ukrainians fear US intelligence cuts as Russian strikes intensify",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSXlfR1l2Qy1LRGE2TDhGQ2c4a1dVUklBRHZoc20takFqM1NxUzJtcjhaVk5iUVJZaWVyeXdiSUFNT0RucmRONURmN1ZaRUFFWHBCYTFSaFpFaVdQQ2lyZHNxaWNTazlLUHdJR2NWWUF3V3VfRlBCMzI1NUZMWXl5bk45Ti1IQ0NYMkNkOUl6dXpfbFRRcGk0UGpNcXI2ZVRicmlLck40a2FfNzDSAbABQVVfeXFMTUxzaEJob3dvOUIySVBhZWtXdENVOTBRM0JNY09DeU5ybl9aQU8wLWgxcXU4T3lpNXM0TmQzd2o4QUNaUjFEQTVmUjQxakp6T2lqTHpBZHRIU3BUZi1SaENRWVF0V01fUDI1cmRyZjRCT05xTjQ0Zm9Kdk44ZmpFY1Bqd2Q2b1lXaTNDZGdweDZaUEpWeEdmcjZ2eFo3dnZGRkQ0andTcWxtbm0wS3ZMakw?oc=5",
+          "title": "Russia’s war on Ukraine ‘must be brought to an end’, Zelenskyy says",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMDQ3Mmh0T2tYUGJXakxFbkI3QWlLTGd3eHBla2lqX3pLQS1EUWMwU0x1V0ZvaTNzQ3YyTEs0MVVfVVdxUG50dEg0dWkxN1FuYkJoOWs0N2daYmxZZ3ByVTBfRUdtNElQX3JBbV9VaU1KcGllaVRYeUUtc21MWUpCbVFueEhpOG1RdFVPaFExaVhGcnU2ZGppaGtmaW45UTZEdjVaMEkxYUvSAa4BQVVfeXFMUHJkRW1Ec0ExdGM0TDNTR0VLUEZRZkpic1JWM1Y0SHlhM01KQTAyRzdJaHhsM2Jjd1Y3R21yeF9jQm1TZUN3WFdsUTMxMzh3Z09tMkZ5Wm5tS2N6MnBra0NfWEJtdW0tX2xoR0owb1NPV0JJVVdvbmlwY1hNOW1wYjBsZUNyc3Itc0VFMEVZYTBfajZrU1hEem1OeEZuZ2pBS1FqUUtmWi0tVVI5bWxB?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261015T115259Z",
-          "pinned": false
-        },
-        {
-          "title": "Iran war votes in Congress become a focal point for campaign ad attacks",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeFVaOW15cDVJdVdmdmpXaVFjakhuckIzY090LTd4QVE4SWtsY1NJVTB1XzdKckpkV1BvVjBxOU9mcUVoV1RUeWZBbXdKYlBkN2VtaGhfS2RwdFZTNzV6QnpTeUxTbTNwNl9hSDl0d01OV19qQWVxWXA4ZUNCN3NIX08wZ3diSzNZRHQtTVA3cEhxNGVp?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261017T040500Z",
+          "seen": "20261019T010507Z",
           "pinned": false
         },
         {
@@ -2132,6 +2132,14 @@
           "domain": "cfr.org",
           "sourceTier": "Structured / analytic",
           "seen": "20261016T213150Z",
+          "pinned": false
+        },
+        {
+          "title": "Iran war votes in Congress become a focal point for campaign ad attacks",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeFVaOW15cDVJdVdmdmpXaVFjakhuckIzY090LTd4QVE4SWtsY1NJVTB1XzdKckpkV1BvVjBxOU9mcUVoV1RUeWZBbXdKYlBkN2VtaGhfS2RwdFZTNzV6QnpTeUxTbTNwNl9hSDl0d01OV19qQWVxWXA4ZUNCN3NIX08wZ3diSzNZRHQtTVA3cEhxNGVp?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261017T040500Z",
           "pinned": false
         },
         {
@@ -2151,22 +2159,6 @@
           "pinned": false
         },
         {
-          "title": "Trump says Iran war will end ‘very soon,’ predicts oil prices will plunge",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMTRlWkNnOW16bnlsYkFZOUZ2UHZRRTZYZXhOYjU2R1oxSW9kbVVidXhDYnM3Q1hjMjE3Tk1tZjFBV1JsT2JmTmI2dXA4dFFYcUF1cFB0YjJQWFNrb2ptck94N0lyTGpqNHlDaUdMRy1mUEQ0TEJ6R01aa2RqZjljWVUzVDh3b2J5cFJJZnd1VEhjU2FObEtrMmVOUFlkVUxfVUt4V25iZWUyUXNLV0wwd3RR?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "seen": "20261015T045304Z",
-          "pinned": false
-        },
-        {
-          "title": "Vance suggests disagreement with Trump over Iran war",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZFpWcV80QVNfR0JMZkRlN1dvUDJyWkxpREdqeWVhdmZwZFlOZ0d4MHZlYkRFZHluR0Q2ckVkQ1RyWVRDY0hidVdFNG5ocEQyX2FnaTFOaENzSTVMNURTaHdONHhuZmlNTElBZmxRaTd0RDJ1ZWxWYmtmRDRTeUJVUDYxa2lxQ2pkbHFJVzBtcHFTQUtoSHhfc2pB?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "seen": "20261017T054050Z",
-          "pinned": false
-        },
-        {
           "title": "Vance acknowledges ‘failures’ in US handling of Iran war",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZGtTaU0wUGJSQWFUYm9EWVcyVDdWTnpjaHhDUWdPSUFSLTQ3TjV4cXBtUV9vYV9Kc0NwTTljamEtT195RGZpdmplZkIzdG1RRFJaaF9adVlEX2ZIU3plNkZSaXZocjJnY2RyX0U1anVCX1laTzI2YmI5Q2Zjd3c4WGhpTWwwR1ZJZmFCUXRVVGlLVHVjdEQ5ZDJCUWk?oc=5",
           "domain": "aa.com.tr",
@@ -2175,11 +2167,11 @@
           "pinned": false
         },
         {
-          "title": "St Petersburg under attack from Ukrainian drone swarm",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNlZMWDY1UWZoZzRJSUFYMnZHbDFGZ0dvVHlxWmpBS0JUVlQyby1BQ3ctOTNTdDZWa2h0cmxrMDlyMlJSZWhCTjNhal9mcE9HVVBWT0JxZVJ2VUMyZFpMRVM1T0Z4NjFsZ2pSVFJ4YjZQUXlpajVXdFpvYXFaY3BuMFp6QzNTMEF1WllwVmlWUUdPNTNpUHZNTlREU1dUZjhoejJhTC1fUHPSAa4BQVVfeXFMTVZKUmZRZFd6eEo3eGw1VGVuRGxiS0hnTnhTMGUxS0ZCYzJ3SmQyUlQzcjJqdHZ2R19qb0Ytc0ttQUt3eENZbDR3UF94dlJMaEJaTVVsMk9RY1NjeEJoU0stLTJzN0dkd25qeXdRektNa2NDWmd3X2NxQ1MzejlMeHExNTRKNGdlSGhEWl9NZ0JfcmpPb0pQbVMwRGc3dVhhaEpFcE5sbUN4b1QtVHhB?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261018T045819Z",
+          "title": "Vance suggests disagreement with Trump over Iran war",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZFpWcV80QVNfR0JMZkRlN1dvUDJyWkxpREdqeWVhdmZwZFlOZ0d4MHZlYkRFZHluR0Q2ckVkQ1RyWVRDY0hidVdFNG5ocEQyX2FnaTFOaENzSTVMNURTaHdONHhuZmlNTElBZmxRaTd0RDJ1ZWxWYmtmRDRTeUJVUDYxa2lxQ2pkbHFJVzBtcHFTQUtoSHhfc2pB?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20261017T054050Z",
           "pinned": false
         },
         {
@@ -2207,11 +2199,11 @@
           "pinned": false
         },
         {
-          "title": "Russian jet-powered drone hits supermarket in Ukraine’s Odesa",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZVp1WlAwNVJObDJBRVktTDlqZ29DVXVYN1N4d2tOZUduaXlpUXd3V2FBV1F4NE5ZbnBLellRS21DTTluZ2dMQ25RdUNJUEhHS2QzUm9admRQTHdvT19GVzF6N3JfN0I3QmF3OUFwRE5SMUV5MENueHZfNXM1NlpwczhMMjR4ZzZ5c1RjNHNtVERDQzNSLWNqQjBhM2xWaGZOdzA3dFhnZTVqVXNBRmE4em5n0gG3AUFVX3lxTE41UnJ3VW5iT3ktQmxjLUhrTHJlVEZwT0Jsb0NTUzdhTEJIazZjQVZIZWZqQUxFdTVyTGtFbE0zV1JyU1BUSXZzUUFQeUFiVjBiX0ZCNkJBazlMamNFYnkwS3BDT3hLMjR5RUw4VC1jeHRjRkhOTnFUNXNNNEU1d3dUWm12a2dlN2MwZEI5TEpuVE5QcWFoTFVkRENCbFluZ19jT1dEcUZRemY3b2Yzb1BoTS05WC1UYw?oc=5",
+          "title": "Ukraine launches over 1,000 drones at Russia, setting oil facilities ablaze",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcEJCSHJCeWRoX05HaTVfaElIWE11RVVPQkE2bzk1dUVjVm1ZT3JMRFV3Wm9GdjVXOGZSMEc5T2MzVlkzdk9hXzVQaGRmUVdTSXV4a1RxemFyUXVhS0c1cWE0eEZ4c2RvRG5hMUVVZ1JabldKcXVnRnlXUWFDZlQ4c0NtZG1CNEpVLTl5aHdtSGZHZ19YdlpZOXp0QW11Q3p4eEx2R2xsMlh5dk1OenRqS1lTSE5xUdIBuwFBVV95cUxQUG1DbHYyV01VRGEwR1BKOWtXWnJ4dFZqZDBCbnZMb19vV3E1Y0NabzJqZGt5Y3NSS05JT3QyR2xnOXprX2NnR3FxbWc3dk5EYXRfRzdwLTRBX21YUXFHdlZnc2F5Wm1zbkI4REk4ejk2VmFIVm94X01TMWp0SUJ1dVNvWEZjSzVlVndwTlpSUEJ0OTFXcXE2Qnk1LVlEVXRPSjNVQUhSc0hfbVpJY2w4dm1Zalg4QkIwNHpZ?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261015T155301Z",
+          "seen": "20261019T030143Z",
           "pinned": false
         },
         {
@@ -2219,15 +2211,15 @@
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZTVQOXY5eWJtZXExSXpLYk9CMWUycWRQTEREeEtlUUtlQkRTR3laVnZQTEFIVjN6S1BpbXVkU3N1Nm1Vb09POV8xVGRncFFBMlp6RUR6QVJTTXBwcnZ4M2kzcmVXYVJVM3FaWkZyVlRsNGs2aml5UWdBM0Nuc3oyblpMS1hrdnVjcFZnNkx4bjJTVGJ3OEM0S1piZnFtbHZ1VnlUdEZvMjVHcGtZaGNSVg?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261018T094334Z",
+          "seen": "20261018T163100Z",
           "pinned": false
         },
         {
-          "title": "Saudi-led forces try to break Houthi siege of Taiz with airstrikes",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTkp6amhHMk5rdjhLTWxhaXdRanpXQnBPZmtkOFIxU2MteXFTSzdCRFlUdUFHZUk1Y0VUeHg0dGRVaUdQb05VQkxsY183Y3ExVTE1al9MZGkzYzdHQnVpV0hkLU1pSnJOVW0xWlF3TU5tdzAtTkRrLV9ORm9pZVpESUZ1RmZBTnVIMVFxcUxYV2lSc19CaEduNmVJcS1STnBNNk1OUEh2S2RLNEhFRWVJTXBHSnlDQ3RBUkHSAb8BQVVfeXFMTldCMFJTcU5MRVV4WTFpd05IX2RRTFBpNDdtRC1FV1ZjcU9tc1dmeVZNNVczamM1OTJ4cEpaYzVIYXdIVzVZT2ZhWXh5Nk41MEd2YVcyTUlBbUtVcEREeUEwaUgtbXVhZ2ZNY2ExUWNsUlpmeHNuY2dKN3RRWGYtRDBVX0tMbUphbTV6djlDVVNYNVAwWVc1alBmSDdDWmQzRmpMOFFjLUExZk80c1lFbEVrUlhqeklWZEhlTGVDYnM?oc=5",
-          "domain": "aljazeera.com",
+          "title": "Global News Podcast | The Global Story:Was World War Two worth it? Some US conservatives have doubts",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1MUDdNeXZQd1NlTmM5SzZEZVU2UWtoLXpmN21LZzNpRkNPWFZCQms0R1Q0c2dFaWw1ZkdKVHFqd0l6T2xQTURKSVZnRTNKRjhZ?oc=5",
+          "domain": "bbc.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261018T011307Z",
+          "seen": "20261018T190646Z",
           "pinned": false
         },
         {
@@ -2236,14 +2228,6 @@
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "seen": "20261016T022017Z",
-          "pinned": false
-        },
-        {
-          "title": "Egypt to provide ‘necessary’ support to Saudi Arabia amid Houthi attacks",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdE1va1c1b1lELXRZM0w2akJhSzhDTlZVNXhyZ2JiT1RrRGQ2MlN2M09BazE3Snp4MFpUN1VaX3ViZnJrNjUxa2h0OUJOcWpDSmNVTUJQYk16VE5vMnkyT3dwaVFpZEN3UTFkd3pyUjBYcUVkaGxkak05bFFNZkp3M0hTOU1lY0NzdmU3Z0ltZUptclNhY1ZUR1hTb2NUT2FtQzhvU9IBqgFBVV95cUxNLWF0M0dkVUhrblpKX0d0RTN2NWJVV2NpbWh3UWFKNHhUSXFkQ3p1R0RKem45LWNZNHJCRUZlQUxKOENQS1U3bGZhOGhyeFFlVVJRMmtzeUxUTjZJTnVnM2RYcTNITmFQVjdoSXdENXRDdnlLREhKYUxhd21NeUVPM3h3Tm5oTnh2dW45ekluTE9jSFBmaE5OVU8tOTNpVTZjMG1tVE4xWXRudw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261018T114925Z",
           "pinned": false
         },
         {
@@ -2261,18 +2245,25 @@
           "sourceTier": "Independent reporting",
           "seen": "20261016T221122Z",
           "pinned": false
+        },
+        {
+          "title": "UK must protect against Russian 'hybrid attacks', ex-national security adviser says",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhLVJFX196czlxN2paNGdMQldPSVZyUnlDZm1qV1VlNl9iYXVKdi1zTVk0UWRDRzdtOHpOZmZaSmJCc1NTUzBYaGtLZ3BXZXNnbEFWWjBmcWJBMDA?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261017T125609Z",
+          "pinned": false
+        },
+        {
+          "title": "A bitter Michigan Senate race rattles Jewish and Muslim voters already on edge over the war in Gaza",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdDc3TmplVHhQU05mQkZtU2d0QnhQWjhWMWcyNDY2Q0U3T2dlY3Z1cnR1eTA0Z0VhRVp2MDBkUVJfcW1Db1YzUTdpanBRVnFaYU96ZFVwMzJMQ1daYXRVbUVsYzJQblFwYUk2UVlXVzI0NmowcmdUQkhYby03RWhzaWlXV2JsUzZaVzM3OEY2aTFubWNLdzI5ckM3bWV2bzVFWXR2VUJB?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261017T160600Z",
+          "pinned": false
         }
       ],
       "reports": [
-        {
-          "id": "report-ba89f2695635",
-          "title": "The Victory of Asymmetry in the Iran War",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE43OUIxMHNwSW04WUVCMm9kdjd0MDBNWjBaeWl1aWZqT3VEODFEamJiWHRsRHBBQ1Q2eVFYRGdsbFVmb1cwRjZDN3JyZWpOQjhBbEdmVWNfVEgycV9uREtJMEYwMzdSaDJZb3E2UUgxeFgyMVhkT3V2OA?oc=5",
-          "domain": "cfr.org",
-          "sourceTier": "Structured / analytic",
-          "confidenceLabel": "ANALYTIC REPORT",
-          "reportedAt": "2026-10-16T16:56:08Z"
-        },
         {
           "id": "report-c86d768ab0e0",
           "title": "What help can Egypt offer Saudi Arabia in the war against the Houthis?",
@@ -2281,6 +2272,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-10-18T11:13:21Z"
+        },
+        {
+          "id": "report-ba89f2695635",
+          "title": "The Victory of Asymmetry in the Iran War",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE43OUIxMHNwSW04WUVCMm9kdjd0MDBNWjBaeWl1aWZqT3VEODFEamJiWHRsRHBBQ1Q2eVFYRGdsbFVmb1cwRjZDN3JyZWpOQjhBbEdmVWNfVEgycV9uREtJMEYwMzdSaDJZb3E2UUgxeFgyMVhkT3V2OA?oc=5",
+          "domain": "cfr.org",
+          "sourceTier": "Structured / analytic",
+          "confidenceLabel": "ANALYTIC REPORT",
+          "reportedAt": "2026-10-16T16:56:08Z"
         },
         {
           "id": "report-81b16f805296",
@@ -2301,6 +2301,15 @@
           "reportedAt": "2026-10-17T19:04:10Z"
         },
         {
+          "id": "report-626a80d04ab8",
+          "title": "Iran's foreign minister accuses Netanyahu of pushing US toward another war to avoid prison",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVURFUTFiLXNhSFpqRmhOdkNnY2xiTThhSWVzVHNCWHd6MHM2TUd1MWFudlNscUxhSkZDQTF4Q2Ewb0RuSjJjZUV1VVFOZ1B2MkFHSGpPRU1keTlrS3FHcXQxMkhZVG05ZUtqeGtPN3VvbjJwN1YtVGd4R2xWX2VvWjVCT29sMU9XRkZLcjQxWTNILTdjenRudEVXSF9KekNtc0t1NUNDMWl4R2NobjdSWUlWYnF4Z2RIWC16MjZKTHR2dw?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-10-18T23:42:17Z"
+        },
+        {
           "id": "report-68617454e3b9",
           "title": "Trump slams Zelenskyy as Ukraine resumes strikes on Russian oil refineries",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeFZyYTgwUC1nM3AyZGg2X0ZxLV9aam1pZUNQalpMN2Rxb0h5WGZpMWswdWd6LXRsbks4emJKY05Gcmh1cHhFQVdZM2hGVlJjTUI5NjdHdUdWekFxeU9sRy1JV3F5TG1BVXJJUGQ1RzN6ZFNMeEpTUTR3RjFzN0d2UHliS1k1ZDNOTVpyal9RNy15RjUxd0FXVVRYMNIBoAFBVV95cUxOaGxHX0FFM200OV80YVI1SnYyV2RSem1uWjJWWjdRSFYybXVTdU5RTGt0cUFNUm1wUEo2MVhSTFpjUUxVS2N6Y3E2aVVCbW8zanRUY3libG1VR1UwZ3hBemJuc3pNQ3h3SlZ2U1dJNER1TEh0LWc1VTdmd1hfalRyZUtGZnJHOWdCb1pURERZWE43NXhjcTZwWllwMENpS21s?oc=5",
@@ -2310,22 +2319,13 @@
           "reportedAt": "2026-10-16T00:52:18Z"
         },
         {
-          "id": "report-11258154ade6",
-          "title": "Ukrainians fear US intelligence cuts as Russian strikes intensify",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSXlfR1l2Qy1LRGE2TDhGQ2c4a1dVUklBRHZoc20takFqM1NxUzJtcjhaVk5iUVJZaWVyeXdiSUFNT0RucmRONURmN1ZaRUFFWHBCYTFSaFpFaVdQQ2lyZHNxaWNTazlLUHdJR2NWWUF3V3VfRlBCMzI1NUZMWXl5bk45Ti1IQ0NYMkNkOUl6dXpfbFRRcGk0UGpNcXI2ZVRicmlLck40a2FfNzDSAbABQVVfeXFMTUxzaEJob3dvOUIySVBhZWtXdENVOTBRM0JNY09DeU5ybl9aQU8wLWgxcXU4T3lpNXM0TmQzd2o4QUNaUjFEQTVmUjQxakp6T2lqTHpBZHRIU3BUZi1SaENRWVF0V01fUDI1cmRyZjRCT05xTjQ0Zm9Kdk44ZmpFY1Bqd2Q2b1lXaTNDZGdweDZaUEpWeEdmcjZ2eFo3dnZGRkQ0andTcWxtbm0wS3ZMakw?oc=5",
+          "id": "report-ed933b4c00d0",
+          "title": "Russia’s war on Ukraine ‘must be brought to an end’, Zelenskyy says",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMDQ3Mmh0T2tYUGJXakxFbkI3QWlLTGd3eHBla2lqX3pLQS1EUWMwU0x1V0ZvaTNzQ3YyTEs0MVVfVVdxUG50dEg0dWkxN1FuYkJoOWs0N2daYmxZZ3ByVTBfRUdtNElQX3JBbV9VaU1KcGllaVRYeUUtc21MWUpCbVFueEhpOG1RdFVPaFExaVhGcnU2ZGppaGtmaW45UTZEdjVaMEkxYUvSAa4BQVVfeXFMUHJkRW1Ec0ExdGM0TDNTR0VLUEZRZkpic1JWM1Y0SHlhM01KQTAyRzdJaHhsM2Jjd1Y3R21yeF9jQm1TZUN3WFdsUTMxMzh3Z09tMkZ5Wm5tS2N6MnBra0NfWEJtdW0tX2xoR0owb1NPV0JJVVdvbmlwY1hNOW1wYjBsZUNyc3Itc0VFMEVZYTBfajZrU1hEem1OeEZuZ2pBS1FqUUtmWi0tVVI5bWxB?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-15T11:52:59Z"
-        },
-        {
-          "id": "report-7a368913cf3e",
-          "title": "Iran war votes in Congress become a focal point for campaign ad attacks",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeFVaOW15cDVJdVdmdmpXaVFjakhuckIzY090LTd4QVE4SWtsY1NJVTB1XzdKckpkV1BvVjBxOU9mcUVoV1RUeWZBbXdKYlBkN2VtaGhfS2RwdFZTNzV6QnpTeUxTbTNwNl9hSDl0d01OV19qQWVxWXA4ZUNCN3NIX08wZ3diSzNZRHQtTVA3cEhxNGVp?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-17T04:05:00Z"
+          "reportedAt": "2026-10-19T01:05:07Z"
         },
         {
           "id": "report-1e4e84f77493",
@@ -2335,6 +2335,15 @@
           "sourceTier": "Structured / analytic",
           "confidenceLabel": "ANALYTIC REPORT",
           "reportedAt": "2026-10-16T21:31:50Z"
+        },
+        {
+          "id": "report-7a368913cf3e",
+          "title": "Iran war votes in Congress become a focal point for campaign ad attacks",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeFVaOW15cDVJdVdmdmpXaVFjakhuckIzY090LTd4QVE4SWtsY1NJVTB1XzdKckpkV1BvVjBxOU9mcUVoV1RUeWZBbXdKYlBkN2VtaGhfS2RwdFZTNzV6QnpTeUxTbTNwNl9hSDl0d01OV19qQWVxWXA4ZUNCN3NIX08wZ3diSzNZRHQtTVA3cEhxNGVp?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-17T04:05:00Z"
         },
         {
           "id": "report-f9c4b3631065",
@@ -2355,24 +2364,6 @@
           "reportedAt": "2026-10-17T09:37:27Z"
         },
         {
-          "id": "report-0219e82f188d",
-          "title": "Trump says Iran war will end ‘very soon,’ predicts oil prices will plunge",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMTRlWkNnOW16bnlsYkFZOUZ2UHZRRTZYZXhOYjU2R1oxSW9kbVVidXhDYnM3Q1hjMjE3Tk1tZjFBV1JsT2JmTmI2dXA4dFFYcUF1cFB0YjJQWFNrb2ptck94N0lyTGpqNHlDaUdMRy1mUEQ0TEJ6R01aa2RqZjljWVUzVDh3b2J5cFJJZnd1VEhjU2FObEtrMmVOUFlkVUxfVUt4V25iZWUyUXNLV0wwd3RR?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
-          "reportedAt": "2026-10-15T04:53:04Z"
-        },
-        {
-          "id": "report-2bc8d7f7d533",
-          "title": "Vance suggests disagreement with Trump over Iran war",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZFpWcV80QVNfR0JMZkRlN1dvUDJyWkxpREdqeWVhdmZwZFlOZ0d4MHZlYkRFZHluR0Q2ckVkQ1RyWVRDY0hidVdFNG5ocEQyX2FnaTFOaENzSTVMNURTaHdONHhuZmlNTElBZmxRaTd0RDJ1ZWxWYmtmRDRTeUJVUDYxa2lxQ2pkbHFJVzBtcHFTQUtoSHhfc2pB?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
-          "reportedAt": "2026-10-17T05:40:50Z"
-        },
-        {
           "id": "report-398063f21021",
           "title": "Vance acknowledges ‘failures’ in US handling of Iran war",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZGtTaU0wUGJSQWFUYm9EWVcyVDdWTnpjaHhDUWdPSUFSLTQ3TjV4cXBtUV9vYV9Kc0NwTTljamEtT195RGZpdmplZkIzdG1RRFJaaF9adVlEX2ZIU3plNkZSaXZocjJnY2RyX0U1anVCX1laTzI2YmI5Q2Zjd3c4WGhpTWwwR1ZJZmFCUXRVVGlLVHVjdEQ5ZDJCUWk?oc=5",
@@ -2382,13 +2373,13 @@
           "reportedAt": "2026-10-18T15:03:39Z"
         },
         {
-          "id": "report-6c27a23e0241",
-          "title": "St Petersburg under attack from Ukrainian drone swarm",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNlZMWDY1UWZoZzRJSUFYMnZHbDFGZ0dvVHlxWmpBS0JUVlQyby1BQ3ctOTNTdDZWa2h0cmxrMDlyMlJSZWhCTjNhal9mcE9HVVBWT0JxZVJ2VUMyZFpMRVM1T0Z4NjFsZ2pSVFJ4YjZQUXlpajVXdFpvYXFaY3BuMFp6QzNTMEF1WllwVmlWUUdPNTNpUHZNTlREU1dUZjhoejJhTC1fUHPSAa4BQVVfeXFMTVZKUmZRZFd6eEo3eGw1VGVuRGxiS0hnTnhTMGUxS0ZCYzJ3SmQyUlQzcjJqdHZ2R19qb0Ytc0ttQUt3eENZbDR3UF94dlJMaEJaTVVsMk9RY1NjeEJoU0stLTJzN0dkd25qeXdRektNa2NDWmd3X2NxQ1MzejlMeHExNTRKNGdlSGhEWl9NZ0JfcmpPb0pQbVMwRGc3dVhhaEpFcE5sbUN4b1QtVHhB?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-18T04:58:19Z"
+          "id": "report-2bc8d7f7d533",
+          "title": "Vance suggests disagreement with Trump over Iran war",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZFpWcV80QVNfR0JMZkRlN1dvUDJyWkxpREdqeWVhdmZwZFlOZ0d4MHZlYkRFZHluR0Q2ckVkQ1RyWVRDY0hidVdFNG5ocEQyX2FnaTFOaENzSTVMNURTaHdONHhuZmlNTElBZmxRaTd0RDJ1ZWxWYmtmRDRTeUJVUDYxa2lxQ2pkbHFJVzBtcHFTQUtoSHhfc2pB?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-10-17T05:40:50Z"
         },
         {
           "id": "report-fc4d21408fc6",
@@ -2418,13 +2409,13 @@
           "reportedAt": "2026-10-17T18:30:16Z"
         },
         {
-          "id": "report-2e9072b66f44",
-          "title": "Russian jet-powered drone hits supermarket in Ukraine’s Odesa",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZVp1WlAwNVJObDJBRVktTDlqZ29DVXVYN1N4d2tOZUduaXlpUXd3V2FBV1F4NE5ZbnBLellRS21DTTluZ2dMQ25RdUNJUEhHS2QzUm9admRQTHdvT19GVzF6N3JfN0I3QmF3OUFwRE5SMUV5MENueHZfNXM1NlpwczhMMjR4ZzZ5c1RjNHNtVERDQzNSLWNqQjBhM2xWaGZOdzA3dFhnZTVqVXNBRmE4em5n0gG3AUFVX3lxTE41UnJ3VW5iT3ktQmxjLUhrTHJlVEZwT0Jsb0NTUzdhTEJIazZjQVZIZWZqQUxFdTVyTGtFbE0zV1JyU1BUSXZzUUFQeUFiVjBiX0ZCNkJBazlMamNFYnkwS3BDT3hLMjR5RUw4VC1jeHRjRkhOTnFUNXNNNEU1d3dUWm12a2dlN2MwZEI5TEpuVE5QcWFoTFVkRENCbFluZ19jT1dEcUZRemY3b2Yzb1BoTS05WC1UYw?oc=5",
+          "id": "report-67976290d080",
+          "title": "Ukraine launches over 1,000 drones at Russia, setting oil facilities ablaze",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcEJCSHJCeWRoX05HaTVfaElIWE11RVVPQkE2bzk1dUVjVm1ZT3JMRFV3Wm9GdjVXOGZSMEc5T2MzVlkzdk9hXzVQaGRmUVdTSXV4a1RxemFyUXVhS0c1cWE0eEZ4c2RvRG5hMUVVZ1JabldKcXVnRnlXUWFDZlQ4c0NtZG1CNEpVLTl5aHdtSGZHZ19YdlpZOXp0QW11Q3p4eEx2R2xsMlh5dk1OenRqS1lTSE5xUdIBuwFBVV95cUxQUG1DbHYyV01VRGEwR1BKOWtXWnJ4dFZqZDBCbnZMb19vV3E1Y0NabzJqZGt5Y3NSS05JT3QyR2xnOXprX2NnR3FxbWc3dk5EYXRfRzdwLTRBX21YUXFHdlZnc2F5Wm1zbkI4REk4ejk2VmFIVm94X01TMWp0SUJ1dVNvWEZjSzVlVndwTlpSUEJ0OTFXcXE2Qnk1LVlEVXRPSjNVQUhSc0hfbVpJY2w4dm1Zalg4QkIwNHpZ?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-15T15:53:01Z"
+          "reportedAt": "2026-10-19T03:01:43Z"
         },
         {
           "id": "report-9bcfc6c23417",
@@ -2433,16 +2424,16 @@
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-18T09:43:34Z"
+          "reportedAt": "2026-10-18T16:31:00Z"
         },
         {
-          "id": "report-6c2807a829f8",
-          "title": "Saudi-led forces try to break Houthi siege of Taiz with airstrikes",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTkp6amhHMk5rdjhLTWxhaXdRanpXQnBPZmtkOFIxU2MteXFTSzdCRFlUdUFHZUk1Y0VUeHg0dGRVaUdQb05VQkxsY183Y3ExVTE1al9MZGkzYzdHQnVpV0hkLU1pSnJOVW0xWlF3TU5tdzAtTkRrLV9ORm9pZVpESUZ1RmZBTnVIMVFxcUxYV2lSc19CaEduNmVJcS1STnBNNk1OUEh2S2RLNEhFRWVJTXBHSnlDQ3RBUkHSAb8BQVVfeXFMTldCMFJTcU5MRVV4WTFpd05IX2RRTFBpNDdtRC1FV1ZjcU9tc1dmeVZNNVczamM1OTJ4cEpaYzVIYXdIVzVZT2ZhWXh5Nk41MEd2YVcyTUlBbUtVcEREeUEwaUgtbXVhZ2ZNY2ExUWNsUlpmeHNuY2dKN3RRWGYtRDBVX0tMbUphbTV6djlDVVNYNVAwWVc1alBmSDdDWmQzRmpMOFFjLUExZk80c1lFbEVrUlhqeklWZEhlTGVDYnM?oc=5",
-          "domain": "aljazeera.com",
+          "id": "report-6ca87336610a",
+          "title": "Global News Podcast | The Global Story:Was World War Two worth it? Some US conservatives have doubts",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1MUDdNeXZQd1NlTmM5SzZEZVU2UWtoLXpmN21LZzNpRkNPWFZCQms0R1Q0c2dFaWw1ZkdKVHFqd0l6T2xQTURKSVZnRTNKRjhZ?oc=5",
+          "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-18T01:13:07Z"
+          "reportedAt": "2026-10-18T19:06:46Z"
         },
         {
           "id": "report-c328ee3d63a5",
@@ -2452,15 +2443,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-10-16T02:20:17Z"
-        },
-        {
-          "id": "report-19c7b18ae814",
-          "title": "Egypt to provide ‘necessary’ support to Saudi Arabia amid Houthi attacks",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdE1va1c1b1lELXRZM0w2akJhSzhDTlZVNXhyZ2JiT1RrRGQ2MlN2M09BazE3Snp4MFpUN1VaX3ViZnJrNjUxa2h0OUJOcWpDSmNVTUJQYk16VE5vMnkyT3dwaVFpZEN3UTFkd3pyUjBYcUVkaGxkak05bFFNZkp3M0hTOU1lY0NzdmU3Z0ltZUptclNhY1ZUR1hTb2NUT2FtQzhvU9IBqgFBVV95cUxNLWF0M0dkVUhrblpKX0d0RTN2NWJVV2NpbWh3UWFKNHhUSXFkQ3p1R0RKem45LWNZNHJCRUZlQUxKOENQS1U3bGZhOGhyeFFlVVJRMmtzeUxUTjZJTnVnM2RYcTNITmFQVjdoSXdENXRDdnlLREhKYUxhd21NeUVPM3h3Tm5oTnh2dW45ekluTE9jSFBmaE5OVU8tOTNpVTZjMG1tVE4xWXRudw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-18T11:49:25Z"
         },
         {
           "id": "report-48568cf91c37",
@@ -2479,6 +2461,24 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-10-16T22:11:22Z"
+        },
+        {
+          "id": "report-137d99d14ba9",
+          "title": "UK must protect against Russian 'hybrid attacks', ex-national security adviser says",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhLVJFX196czlxN2paNGdMQldPSVZyUnlDZm1qV1VlNl9iYXVKdi1zTVk0UWRDRzdtOHpOZmZaSmJCc1NTUzBYaGtLZ3BXZXNnbEFWWjBmcWJBMDA?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-17T12:56:09Z"
+        },
+        {
+          "id": "report-5f68ae684e51",
+          "title": "A bitter Michigan Senate race rattles Jewish and Muslim voters already on edge over the war in Gaza",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdDc3TmplVHhQU05mQkZtU2d0QnhQWjhWMWcyNDY2Q0U3T2dlY3Z1cnR1eTA0Z0VhRVp2MDBkUVJfcW1Db1YzUTdpanBRVnFaYU96ZFVwMzJMQ1daYXRVbUVsYzJQblFwYUk2UVlXVzI0NmowcmdUQkhYby03RWhzaWlXV2JsUzZaVzM3OEY2aTFubWNLdzI5ckM3bWV2bzVFWXR2VUJB?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-17T16:06:00Z"
         },
         {
           "id": "report-3d06d7802bf8",
