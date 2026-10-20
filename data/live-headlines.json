@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T11:34:11.395Z",
+  "generatedAt": "2026-10-20T17:02:48.582Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-10-20T11:34:11.395Z",
+      "generatedAt": "2026-10-20T17:02:48.582Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -2029,7 +2029,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-10-20T11:34:11.395Z",
+      "generatedAt": "2026-10-20T17:02:48.582Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -2038,6 +2038,14 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20261019T162251Z",
+          "pinned": false
+        },
+        {
+          "title": "Russia’s Lavrov discusses US war and regional security in Tehran visit",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNGY3eEp1ejlqZ1BCWkVka0pFRC03ZXQzc2VVclNpM21GZUlPZVh3N0xvLVpydVpyTTB0ZXhsQm1WdFdrT0RuaW5SUU9BbXlCVXNpcjF1dEQ2cmExWG43VzhiZlpwZUN3Zkl1Z2xraHVVcWFQZmZOR1ppd3NHazVTYnJ0N25sVGFYYW12VzJlRUtDaXNTeTFvMWVPZmFFT1pHZXQ5eDJKYU1KcVRFTU4tOEpubFN3MzBlSFJfdmdn0gHDAUFVX3lxTE5qTEpIbW1EeTcwM2dBQ2ItX1MzTVF4NDR0NG44ZHpzWDdINm1OUjhLT243cHRvQVdBb1dHbFVLdjlZN3FDaWxDR25oeXBZU0hIbnBnZmp3d3djZDl0WUFYRURTR2JzS2YxRXVmcUlIZ0tIUE4tZDZ5QTN3YWJGQXZoODM3el9XS1RINVF4dlB3Y2RsQzRUNTNQUXBTUFRWRTd3amI0OVpFSDJFUDJHSVVpbWR5eTc2dTlka3Y2N0xSQllRWQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261019T153153Z",
           "pinned": false
         },
         {
@@ -2074,18 +2082,10 @@
         },
         {
           "title": "Iran's foreign minister accuses Netanyahu of pushing US toward another war to avoid prison",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVURFUTFiLXNhSFpqRmhOdkNnY2xiTThhSWVzVHNCWHd6MHM2TUd1MWFudlNscUxhSkZDQTF4Q2Ewb0RuSjJjZUV1VVFOZ1B2MkFHSGpPRU1keTlrS3FHcXQxMkhZVG05ZUtqeGtPN3VvbjJwN1YtVGd4R2xWX2VvWjVCT29sMU9XRkZLcjQxWTNILTdjenRudEVXSF9KekNtc0t1NUNDMWl4R2NobjdSWUlWYnF4Z2RIWC16MjZKTHR2dw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeVNZYzUxRUNHSGMtSWVGMlZuVGt2dTBLcnZmYUtkOVE2cGNONDV4Zm1ReTU3SEtWZHpHQV8tZFM0dGc2TTJCLXdraTl5YUZwM205d3kyRF9BV202bVA1YmhEVVVvMExSR3lwaFFURXdkN0VnN1BrNnNmWGU5NlN5YVlOM0o2SXY3eko3em5vWkY2SWRva19nM3JZTkVod2dnR1F0N2htM1NmVHhHbEZ3ekg2a2p1N1NacEhlZnRkRklZRW9QLXE0?oc=5",
           "domain": "aa.com.tr",
           "sourceTier": "State-affiliated reporting",
           "seen": "20261018T234217Z",
-          "pinned": false
-        },
-        {
-          "title": "Iran war votes in Congress become a focal point for campaign ad attacks",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeFVaOW15cDVJdVdmdmpXaVFjakhuckIzY090LTd4QVE4SWtsY1NJVTB1XzdKckpkV1BvVjBxOU9mcUVoV1RUeWZBbXdKYlBkN2VtaGhfS2RwdFZTNzV6QnpTeUxTbTNwNl9hSDl0d01OV19qQWVxWXA4ZUNCN3NIX08wZ3diSzNZRHQtTVA3cEhxNGVp?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261017T040500Z",
           "pinned": false
         },
         {
@@ -2094,6 +2094,22 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20261019T171953Z",
+          "pinned": false
+        },
+        {
+          "title": "Israeli attacks kill at least four Palestinians in Gaza",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNN2JKMGN3UXpYNVdOQTkzUW1sOTN2R2ZkVnV2NlNiSVBla2dWQk1yQUNYNzluc3VvajhsYVBSb3E1VHFzQW1QNGJJNkxRVWJzUUVjUTZ6c0YwX01GTTd0d2RoVmlaMVdVajhPYmpXQkk5QnhUYWtsZGpoRG54QWNJNXZnWnFYcjYxcS1oMF9IZkVaWnFkeEE5Q2N6ZktFT18zTTk1TDc1d9IBrAFBVV95cUxPYTk1aTVHWUVmZFI5R1lYR1VuekVVbTRBZHU3Sk1HQ3FCOGRkNVU3SkRsZDFPQ2RIb1JZR0U4Znl1QkFRVVJSMk5UV2MwN1JUYjlLcmNwRUNiTVkyenNVNDlkbEtTOG5mXzhIS1VTOTFRVjh4WjItY0xOUXMwU2NPWWJiVHFaamdjMkxVWUp3ZFdIQ0ZSVndsOE1hZVF3Vl9GTmFMYkVOLUhsQUJr?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261020T131719Z",
+          "pinned": false
+        },
+        {
+          "title": "Iran war votes in Congress become a focal point for campaign ad attacks",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeFVaOW15cDVJdVdmdmpXaVFjakhuckIzY090LTd4QVE4SWtsY1NJVTB1XzdKckpkV1BvVjBxOU9mcUVoV1RUeWZBbXdKYlBkN2VtaGhfS2RwdFZTNzV6QnpTeUxTbTNwNl9hSDl0d01OV19qQWVxWXA4ZUNCN3NIX08wZ3diSzNZRHQtTVA3cEhxNGVp?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261017T040500Z",
           "pinned": false
         },
         {
@@ -2154,7 +2170,7 @@
         },
         {
           "title": "Israeli drone attacks kill six Palestinians across Gaza despite ‘ceasefire’",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZFFTd0tBVFB3WGFRWGtIWEFRVXpiMC1oZFFwRmVNZ2d5WU5kM09seFBWNUp5SFRIa2R6NC1aWF9XODk4QlFTZDZNcnVwbFVNRmN4V2VzbTdxWE9sckVxMWpwVXpzUjFycGpfcE1NWktmZmZyR01oUUFGdUdwTGliZmFicENPcVJBR0RMeTNFdUdpd0w3YVVxbUxSSlVvZ3ZibmtKYXBsd2FxOWhjeXJCVjZRb011UQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZFFTd0tBVFB3WGFRWGtIWEFRVXpiMC1oZFFwRmVNZ2d5WU5kM09seFBWNUp5SFRIa2R6NC1aWF9XODk4QlFTZDZNcnVwbFVNRmN4V2VzbTdxWE9sckVxMWpwVXpzUjFycGpfcE1NWktmZmZyR01oUUFGdUdwTGliZmFicENPcVJBR0RMeTNFdUdpd0w3YVVxbUxSSlVvZ3ZibmtKYXBsd2FxOWhjeXJCVjZRb011UdIBuwFBVV95cUxQYnVxTE1iNGhaNXdsdjFiWEVsaElON1FIVFNONS1CbTVQMjl2ZjJfakp3UDN2MXB6UzQ0WHRJd05ja05GRzJ4SEFOWjhTdjhLVTE1bEdjSTV2b01EZHVLRE93ZFBQTmxsU0ZZemxUV3lpMHB1dVdTMVBYckRZek1hWlRQU1FtTTg0ZUNjeTRnTG1zeGttZXpIcHdYOVBiSkJqcDhnaVlSY1hPS0xSYlVuZS1ZSllGSGJka3dv?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20261017T183016Z",
@@ -2166,14 +2182,6 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20261017T102511Z",
-          "pinned": false
-        },
-        {
-          "title": "Vance faces tough questions on Iran war, immigration and more in CBS town hall",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNmNuX0Jsc285RXhjY2Fud29veUhrRzdDQUhQT1lnaEpncUVmanpPbUZSRkJOSDBDSXVxUkVrMjNJclhWQ1BuVFh3R2VYWUlxU3pYdW9HcHJkMTQ3X213Nk5McHl0ZWJQN0pyQWhETG9lX01mQTBNVnBQZURDMXlLeVZtRmtQbGJONnk2OXpsRGx5YUNLVFpB?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261018T033100Z",
           "pinned": false
         },
         {
@@ -2201,27 +2209,19 @@
           "pinned": false
         },
         {
-          "title": "War on Iran backlash threatens Republican control of Congress",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPd2o5SGJXWTd6cGpCQlBhOVFpajQxeXdHNHBZOFVYdEFEcGd2YnlqMkE3RW53a1EwN2ZkZnZCZzVoX25NdlpKc2xsUlZPRnA3YzRaZzcxOHFYZlQ0UkkzY0VDdHpHOFoyX21XZ1UtbEFxeVIzaUhLeTM3bEdmOFpFMVZ0ejRhNXl0ajVZVHJVbWtiZm03Yjc1dEREcjI2NGRHckUwVXhNQzNSbXJXRTBCTdIBtgFBVV95cUxOM3RNWHR6MU9YVXZuUjBFMm1YQWJtVFQ3Z2x5eHRPWjh0OHdwOUtxU2pmLWlMcjRJNjc1ZDFFUkNtUHRXbHRNWEFNcUZhNG5aQWZKa0FZSGFKSkdITjlWTzk3bEFxNDdJRmdobTE0bERrMTBhXzNDWmJfcXRnY3JNYjRRdm8zWi0ydFgxc0R2Z1dSME1rY2VJeFhtbmNfX1lFX29MZUQybWtJaktOOUUxU3pwMFBhZw?oc=5",
-          "domain": "aljazeera.com",
+          "title": "Vance faces tough questions on Iran war, immigration and more in CBS town hall",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNmNuX0Jsc285RXhjY2Fud29veUhrRzdDQUhQT1lnaEpncUVmanpPbUZSRkJOSDBDSXVxUkVrMjNJclhWQ1BuVFh3R2VYWUlxU3pYdW9HcHJkMTQ3X213Nk5McHl0ZWJQN0pyQWhETG9lX01mQTBNVnBQZURDMXlLeVZtRmtQbGJONnk2OXpsRGx5YUNLVFpB?oc=5",
+          "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261019T162511Z",
+          "seen": "20261018T033100Z",
           "pinned": false
         },
         {
-          "title": "JERUSALEM DAILY: Settlers attack EU diplomats",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMzVqc2xXOURuZDBsTURzbk5zNlVoc0QtOWlNajF2WnlYSXl2MjJZaXU2a2JGeWllZExlRW1KS3c5RHBfbmVmMndNS0Z6U05aYTBWcFVjTE1HbDJ0VGVEZGNIWU8tbTFIOXdhODZteHZiOVBwdzJMdjRKZDh6TWFPdDdlOWNlNktVNUNxdHNfNkJfLXhoSmppdXlGRi1ISUJ6czdPNHJR0gGrAUFVX3lxTE5hWmpFWjg3bHVyYTh6djlLVHdEMUMydDBtdGNlRGY5WndDOE54S1ZGaHBuMXNLb3RFZWs3TGR2S3RDYUhLODNmLWx0bGF0ZXUzOFh5dVVwUWlzMW13b004ZzBzb0N2Q2w5bHpITlJjeXIyakVXS2R3cVpIR0pSNUlvQk5BWHJQcGVYaFlDb05EdDhHTE1oa0pNNjZHTmpUZlhzdEhrTXV3X19kWQ?oc=5",
+          "title": "US envoy Barrack defends decision to join Israel in war on Iran",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYnVoQUVCak1IYXdhdXVlblp6VHhmOGlZRTNoVkxySXZlNXJIdVY1MTdxOXNjNmp2RF91UXhZVTFwbHEzaXcwYXVKZ3pGYW92Tmxrb1FDRVRiYlZfTEhEd2dRM1ExNFhYQTdBdG40b1hjQW1xd29WaVJLRVJ4SW5JRVdwaFd2WlRmcS1yRGh5dE9SdTDSAZgBQVVfeXFMTkZONzBrZXFmZVoxMUNEUmozTnZRdTRyVmhGeHFvaGpuRzExVzEycm1ZQWhVQzdPcTRNbDhZVW5qV0JtQ3QwMFE4aDMtYnZyemI1WU8weWN3OXRPUm5XMllaRnZva2RQaHdVV1F4WnNwTVBFZEJDXzFPaGdseGNCOWx6Y1Juc29SaGNrcjMxYXVrX05MVFd4RE4?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261018T175305Z",
-          "pinned": false
-        },
-        {
-          "title": "'They handled it exactly the right way': How the Kennedys averted the 1962 Cuban missile crisis",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUlgza1FWOV9MTlRQc3lHRTl6NEJTUGlqSkYtcVZkZi1hX3pnVzdlV05JNGFHM3BNOWNKYjRMc1ZNZUdibHMwYy11TXB3dHZmZUpJeDg3NndUaHUwR3g1Y215R1RaSnlpZnpDRWxKY3NycXA4TkhSRW9JTmtEUThXVmd5ZURNcVFhcS1pX19Sejk2YU9GYUN3TGhn?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261019T110000Z",
+          "seen": "20261020T134704Z",
           "pinned": false
         }
       ],
@@ -2234,6 +2234,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-10-19T16:22:51Z"
+        },
+        {
+          "id": "report-5e2940bd2d71",
+          "title": "Russia’s Lavrov discusses US war and regional security in Tehran visit",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNGY3eEp1ejlqZ1BCWkVka0pFRC03ZXQzc2VVclNpM21GZUlPZVh3N0xvLVpydVpyTTB0ZXhsQm1WdFdrT0RuaW5SUU9BbXlCVXNpcjF1dEQ2cmExWG43VzhiZlpwZUN3Zkl1Z2xraHVVcWFQZmZOR1ppd3NHazVTYnJ0N25sVGFYYW12VzJlRUtDaXNTeTFvMWVPZmFFT1pHZXQ5eDJKYU1KcVRFTU4tOEpubFN3MzBlSFJfdmdn0gHDAUFVX3lxTE5qTEpIbW1EeTcwM2dBQ2ItX1MzTVF4NDR0NG44ZHpzWDdINm1OUjhLT243cHRvQVdBb1dHbFVLdjlZN3FDaWxDR25oeXBZU0hIbnBnZmp3d3djZDl0WUFYRURTR2JzS2YxRXVmcUlIZ0tIUE4tZDZ5QTN3YWJGQXZoODM3el9XS1RINVF4dlB3Y2RsQzRUNTNQUXBTUFRWRTd3amI0OVpFSDJFUDJHSVVpbWR5eTc2dTlka3Y2N0xSQllRWQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-19T15:31:53Z"
         },
         {
           "id": "report-c86d768ab0e0",
@@ -2272,22 +2281,13 @@
           "reportedAt": "2026-10-20T10:37:05Z"
         },
         {
-          "id": "report-626a80d04ab8",
+          "id": "report-9c4e7ba23498",
           "title": "Iran's foreign minister accuses Netanyahu of pushing US toward another war to avoid prison",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVURFUTFiLXNhSFpqRmhOdkNnY2xiTThhSWVzVHNCWHd6MHM2TUd1MWFudlNscUxhSkZDQTF4Q2Ewb0RuSjJjZUV1VVFOZ1B2MkFHSGpPRU1keTlrS3FHcXQxMkhZVG05ZUtqeGtPN3VvbjJwN1YtVGd4R2xWX2VvWjVCT29sMU9XRkZLcjQxWTNILTdjenRudEVXSF9KekNtc0t1NUNDMWl4R2NobjdSWUlWYnF4Z2RIWC16MjZKTHR2dw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeVNZYzUxRUNHSGMtSWVGMlZuVGt2dTBLcnZmYUtkOVE2cGNONDV4Zm1ReTU3SEtWZHpHQV8tZFM0dGc2TTJCLXdraTl5YUZwM205d3kyRF9BV202bVA1YmhEVVVvMExSR3lwaFFURXdkN0VnN1BrNnNmWGU5NlN5YVlOM0o2SXY3eko3em5vWkY2SWRva19nM3JZTkVod2dnR1F0N2htM1NmVHhHbEZ3ekg2a2p1N1NacEhlZnRkRklZRW9QLXE0?oc=5",
           "domain": "aa.com.tr",
           "sourceTier": "State-affiliated reporting",
           "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
           "reportedAt": "2026-10-18T23:42:17Z"
-        },
-        {
-          "id": "report-7a368913cf3e",
-          "title": "Iran war votes in Congress become a focal point for campaign ad attacks",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeFVaOW15cDVJdVdmdmpXaVFjakhuckIzY090LTd4QVE4SWtsY1NJVTB1XzdKckpkV1BvVjBxOU9mcUVoV1RUeWZBbXdKYlBkN2VtaGhfS2RwdFZTNzV6QnpTeUxTbTNwNl9hSDl0d01OV19qQWVxWXA4ZUNCN3NIX08wZ3diSzNZRHQtTVA3cEhxNGVp?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-17T04:05:00Z"
         },
         {
           "id": "report-dff05cdf07a5",
@@ -2297,6 +2297,24 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-10-19T17:19:53Z"
+        },
+        {
+          "id": "report-03e76ee6336c",
+          "title": "Israeli attacks kill at least four Palestinians in Gaza",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNN2JKMGN3UXpYNVdOQTkzUW1sOTN2R2ZkVnV2NlNiSVBla2dWQk1yQUNYNzluc3VvajhsYVBSb3E1VHFzQW1QNGJJNkxRVWJzUUVjUTZ6c0YwX01GTTd0d2RoVmlaMVdVajhPYmpXQkk5QnhUYWtsZGpoRG54QWNJNXZnWnFYcjYxcS1oMF9IZkVaWnFkeEE5Q2N6ZktFT18zTTk1TDc1d9IBrAFBVV95cUxPYTk1aTVHWUVmZFI5R1lYR1VuekVVbTRBZHU3Sk1HQ3FCOGRkNVU3SkRsZDFPQ2RIb1JZR0U4Znl1QkFRVVJSMk5UV2MwN1JUYjlLcmNwRUNiTVkyenNVNDlkbEtTOG5mXzhIS1VTOTFRVjh4WjItY0xOUXMwU2NPWWJiVHFaamdjMkxVWUp3ZFdIQ0ZSVndsOE1hZVF3Vl9GTmFMYkVOLUhsQUJr?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-20T13:17:19Z"
+        },
+        {
+          "id": "report-7a368913cf3e",
+          "title": "Iran war votes in Congress become a focal point for campaign ad attacks",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeFVaOW15cDVJdVdmdmpXaVFjakhuckIzY090LTd4QVE4SWtsY1NJVTB1XzdKckpkV1BvVjBxOU9mcUVoV1RUeWZBbXdKYlBkN2VtaGhfS2RwdFZTNzV6QnpTeUxTbTNwNl9hSDl0d01OV19qQWVxWXA4ZUNCN3NIX08wZ3diSzNZRHQtTVA3cEhxNGVp?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-17T04:05:00Z"
         },
         {
           "id": "report-1e33dc654929",
@@ -2362,9 +2380,9 @@
           "reportedAt": "2026-10-19T09:27:13Z"
         },
         {
-          "id": "report-0755fe486efc",
+          "id": "report-079e242073f7",
           "title": "Israeli drone attacks kill six Palestinians across Gaza despite ‘ceasefire’",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZFFTd0tBVFB3WGFRWGtIWEFRVXpiMC1oZFFwRmVNZ2d5WU5kM09seFBWNUp5SFRIa2R6NC1aWF9XODk4QlFTZDZNcnVwbFVNRmN4V2VzbTdxWE9sckVxMWpwVXpzUjFycGpfcE1NWktmZmZyR01oUUFGdUdwTGliZmFicENPcVJBR0RMeTNFdUdpd0w3YVVxbUxSSlVvZ3ZibmtKYXBsd2FxOWhjeXJCVjZRb011UQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZFFTd0tBVFB3WGFRWGtIWEFRVXpiMC1oZFFwRmVNZ2d5WU5kM09seFBWNUp5SFRIa2R6NC1aWF9XODk4QlFTZDZNcnVwbFVNRmN4V2VzbTdxWE9sckVxMWpwVXpzUjFycGpfcE1NWktmZmZyR01oUUFGdUdwTGliZmFicENPcVJBR0RMeTNFdUdpd0w3YVVxbUxSSlVvZ3ZibmtKYXBsd2FxOWhjeXJCVjZRb011UdIBuwFBVV95cUxQYnVxTE1iNGhaNXdsdjFiWEVsaElON1FIVFNONS1CbTVQMjl2ZjJfakp3UDN2MXB6UzQ0WHRJd05ja05GRzJ4SEFOWjhTdjhLVTE1bEdjSTV2b01EZHVLRE93ZFBQTmxsU0ZZemxUV3lpMHB1dVdTMVBYckRZek1hWlRQU1FtTTg0ZUNjeTRnTG1zeGttZXpIcHdYOVBiSkJqcDhnaVlSY1hPS0xSYlVuZS1ZSllGSGJka3dv?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
@@ -2378,15 +2396,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-10-17T10:25:11Z"
-        },
-        {
-          "id": "report-fc4d21408fc6",
-          "title": "Vance faces tough questions on Iran war, immigration and more in CBS town hall",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNmNuX0Jsc285RXhjY2Fud29veUhrRzdDQUhQT1lnaEpncUVmanpPbUZSRkJOSDBDSXVxUkVrMjNJclhWQ1BuVFh3R2VYWUlxU3pYdW9HcHJkMTQ3X213Nk5McHl0ZWJQN0pyQWhETG9lX01mQTBNVnBQZURDMXlLeVZtRmtQbGJONnk2OXpsRGx5YUNLVFpB?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-18T03:31:00Z"
         },
         {
           "id": "report-591d643e4f67",
@@ -2416,31 +2425,22 @@
           "reportedAt": "2026-10-18T15:03:39Z"
         },
         {
-          "id": "report-2f27e95e5082",
-          "title": "War on Iran backlash threatens Republican control of Congress",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPd2o5SGJXWTd6cGpCQlBhOVFpajQxeXdHNHBZOFVYdEFEcGd2YnlqMkE3RW53a1EwN2ZkZnZCZzVoX25NdlpKc2xsUlZPRnA3YzRaZzcxOHFYZlQ0UkkzY0VDdHpHOFoyX21XZ1UtbEFxeVIzaUhLeTM3bEdmOFpFMVZ0ejRhNXl0ajVZVHJVbWtiZm03Yjc1dEREcjI2NGRHckUwVXhNQzNSbXJXRTBCTdIBtgFBVV95cUxOM3RNWHR6MU9YVXZuUjBFMm1YQWJtVFQ3Z2x5eHRPWjh0OHdwOUtxU2pmLWlMcjRJNjc1ZDFFUkNtUHRXbHRNWEFNcUZhNG5aQWZKa0FZSGFKSkdITjlWTzk3bEFxNDdJRmdobTE0bERrMTBhXzNDWmJfcXRnY3JNYjRRdm8zWi0ydFgxc0R2Z1dSME1rY2VJeFhtbmNfX1lFX29MZUQybWtJaktOOUUxU3pwMFBhZw?oc=5",
+          "id": "report-fc4d21408fc6",
+          "title": "Vance faces tough questions on Iran war, immigration and more in CBS town hall",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNmNuX0Jsc285RXhjY2Fud29veUhrRzdDQUhQT1lnaEpncUVmanpPbUZSRkJOSDBDSXVxUkVrMjNJclhWQ1BuVFh3R2VYWUlxU3pYdW9HcHJkMTQ3X213Nk5McHl0ZWJQN0pyQWhETG9lX01mQTBNVnBQZURDMXlLeVZtRmtQbGJONnk2OXpsRGx5YUNLVFpB?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-18T03:31:00Z"
+        },
+        {
+          "id": "report-c083d447b1fa",
+          "title": "US envoy Barrack defends decision to join Israel in war on Iran",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYnVoQUVCak1IYXdhdXVlblp6VHhmOGlZRTNoVkxySXZlNXJIdVY1MTdxOXNjNmp2RF91UXhZVTFwbHEzaXcwYXVKZ3pGYW92Tmxrb1FDRVRiYlZfTEhEd2dRM1ExNFhYQTdBdG40b1hjQW1xd29WaVJLRVJ4SW5JRVdwaFd2WlRmcS1yRGh5dE9SdTDSAZgBQVVfeXFMTkZONzBrZXFmZVoxMUNEUmozTnZRdTRyVmhGeHFvaGpuRzExVzEycm1ZQWhVQzdPcTRNbDhZVW5qV0JtQ3QwMFE4aDMtYnZyemI1WU8weWN3OXRPUm5XMllaRnZva2RQaHdVV1F4WnNwTVBFZEJDXzFPaGdseGNCOWx6Y1Juc29SaGNrcjMxYXVrX05MVFd4RE4?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-19T16:25:11Z"
-        },
-        {
-          "id": "report-746dc41458eb",
-          "title": "JERUSALEM DAILY: Settlers attack EU diplomats",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMzVqc2xXOURuZDBsTURzbk5zNlVoc0QtOWlNajF2WnlYSXl2MjJZaXU2a2JGeWllZExlRW1KS3c5RHBfbmVmMndNS0Z6U05aYTBWcFVjTE1HbDJ0VGVEZGNIWU8tbTFIOXdhODZteHZiOVBwdzJMdjRKZDh6TWFPdDdlOWNlNktVNUNxdHNfNkJfLXhoSmppdXlGRi1ISUJ6czdPNHJR0gGrAUFVX3lxTE5hWmpFWjg3bHVyYTh6djlLVHdEMUMydDBtdGNlRGY5WndDOE54S1ZGaHBuMXNLb3RFZWs3TGR2S3RDYUhLODNmLWx0bGF0ZXUzOFh5dVVwUWlzMW13b004ZzBzb0N2Q2w5bHpITlJjeXIyakVXS2R3cVpIR0pSNUlvQk5BWHJQcGVYaFlDb05EdDhHTE1oa0pNNjZHTmpUZlhzdEhrTXV3X19kWQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-18T17:53:05Z"
-        },
-        {
-          "id": "report-5eaf85b91d11",
-          "title": "'They handled it exactly the right way': How the Kennedys averted the 1962 Cuban missile crisis",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUlgza1FWOV9MTlRQc3lHRTl6NEJTUGlqSkYtcVZkZi1hX3pnVzdlV05JNGFHM3BNOWNKYjRMc1ZNZUdibHMwYy11TXB3dHZmZUpJeDg3NndUaHUwR3g1Y215R1RaSnlpZnpDRWxKY3NycXA4TkhSRW9JTmtEUThXVmd5ZURNcVFhcS1pX19Sejk2YU9GYUN3TGhn?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-19T11:00:00Z"
+          "reportedAt": "2026-10-20T13:47:04Z"
         },
         {
           "id": "report-ba89f2695635",
