@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T17:02:48.582Z",
+  "generatedAt": "2026-10-20T19:36:16.699Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -9,7 +9,7 @@
       "items": []
     },
     "safety": {
-      "generatedAt": "2026-10-19T20:44:01.921Z",
+      "generatedAt": "2026-10-20T19:36:16.699Z",
       "cadence": "daily",
       "items": [
         {
@@ -21,6 +21,14 @@
           "pinned": true
         },
         {
+          "title": "Air Force Identifies TACP Airman Killed in Alamodome Rappelling Accident",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSTZwTFh2RWQxemxYQUFrVmpCQWdqNkM3UWROcDF3Wm5YV1dzUjlYYk9aWTBfNS0yMk5fRGtiU1lTbFRaSzJ0a0dmMG5weDZ3dWprb1FTeUg5aUN4R3ZLclhOZDVBQzNJcEl0STFuei1Va3p6Si05MzZtRkdPVV9Tb2FfTmIwRWJCcVA0U0ZLZFU1ZzVNa3huaE9aaw?oc=5",
+          "domain": "airandspaceforces.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261019T223302Z",
+          "pinned": false
+        },
+        {
           "title": "US Army Soldiers Intervene During Crash and Knife Attack near JBLM [Image 3 of 3]",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOWJHdDFRN0k4aGVaekpLOFRIWkpKSWVMdXV0X0hoRHpMVXRxc2xuRFZyVm1KR3dEQmlTRFZfV2dpN0lmZUlGN0xfYzdZbUtJWnJBSnFST1VUMTB6cExMQmp5djAwSGxVLU5nRUd0TG5xSGtLb1lfRGdLYTA4dlZaa3l3d3d1NzZ0RDBMZGNwdEJ5WmF4SGxzOHA0MWJLZWlHQ0dWd2hVc2c?oc=5",
           "domain": "dvidshub.net",
@@ -29,11 +37,11 @@
           "pinned": false
         },
         {
-          "title": "PLR 26-069 – Motorcycle Mishap Claims One Soldier’s Life",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPd3lNZFBZNnQ5VW5qdzIyYjEtWHNEYW1fUGc0Q3hiZWtTRjNnTjczNWZ0QVFGMWNKWldaQVN2cmNOOE8tSE1pZmxmWkFheDRWR3FlamhqbmNJa3U2eDlIdThJX25rcExkRUg3cGtzWDNXdUxPdWRJM2o4QTdNZlZ3QWZqY1JnaWhRVUFqa21rUXg4QzA0QmVHdVhyb3NjVFJubnNiUl9wb3ozU2dQdHNRMWRwdFNfV1B2RnhBQkJWM0hYOTE2bGJwa0tRZ0hjcXRVajZwdWtPdzRLWW94dVZr?oc=5",
-          "domain": "safety.army.mil",
-          "sourceTier": "Official military source",
-          "seen": "20260930T070000Z",
+          "title": "Four Salvadoran air force members missing after gang ambush in Haiti",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeDI0TFhMejhZSEJta3lTcS1OZUtlU2UwTkRxTDRlb2FyTzNVajdTMzNyS3JTbGw0SnpXR3lIMEVXUFlNUTk2WVVWX1hQQzkyLVV5SjlXREVSMFlkY1l2d3pkYjNjd29aT3RyTVVKdHlUNi0tMEIwUWN0VGZVU19nUkpfRUw2UlFHUTNjZEVUVHllbEQyeUlyQ085MDRIdXNMdG5UQ1h2UVlXTGxyMHBtakhFMGMzSWluSFBiUGh0US1tT3VPWjlv?oc=5",
+          "domain": "reuters.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261019T190922Z",
           "pinned": false
         },
         {
@@ -61,6 +69,14 @@
           "pinned": false
         },
         {
+          "title": "PLR 26-069 – Motorcycle Mishap Claims One Soldier’s Life",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPd3lNZFBZNnQ5VW5qdzIyYjEtWHNEYW1fUGc0Q3hiZWtTRjNnTjczNWZ0QVFGMWNKWldaQVN2cmNOOE8tSE1pZmxmWkFheDRWR3FlamhqbmNJa3U2eDlIdThJX25rcExkRUg3cGtzWDNXdUxPdWRJM2o4QTdNZlZ3QWZqY1JnaWhRVUFqa21rUXg4QzA0QmVHdVhyb3NjVFJubnNiUl9wb3ozU2dQdHNRMWRwdFNfV1B2RnhBQkJWM0hYOTE2bGJwa0tRZ0hjcXRVajZwdWtPdzRLWW94dVZr?oc=5",
+          "domain": "safety.army.mil",
+          "sourceTier": "Official military source",
+          "seen": "20260930T070000Z",
+          "pinned": false
+        },
+        {
           "title": "PLR 26-068 – Sports, Recreation and Physical Training Mishap Claims One Soldier’s Life",
           "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNdzdXSVBpam1HQWNrcy1JTXFpblA0cFdxQXgzaTJYQnduR2tMaUI3T0JwU3JaUDk5VHVtazd1d0IxcmNYYzRkVEpKMy1ORVBmYU04TC1UM0hzOTQtTkNuQW91RVNGN3dMZGRFNUl2QTNucFRlM21wTHdoQkY0QWs1STZjNTh0elF1R3JBNXRIUkZGdHhDS2tmbjl5LTVLVi1KVGFwejhrNnJOMXRCa01QaHFxcGc4WldtUlNJT0RNUlJOb1hOdm04TkVfVEpZaU5zeXRkTzNMbi1MbEVqQjJ3MGVNV2F2UkItb1RCVmJKNGZGa0RjOHUwMUdUdURKc0NfY3cxbmdB?oc=5",
           "domain": "safety.army.mil",
@@ -82,14 +98,6 @@
           "domain": "news.uscg.mil",
           "sourceTier": "Official military source",
           "seen": "20261005T070000Z",
-          "pinned": false
-        },
-        {
-          "title": "Coast Guard, San Francisco Police Department rescue 3 from grounded vessel near Golden Gate Bridge",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1aMlZ6SE5qaURxLVk2QWZpRjNnZ3R0eDdNM3F1V1VqSEJLZDMtcXNUZUdqUXRMMWdxTnpXRTlfRkpWY3l2c3MtSlBmRURvYXBJN1Njc19Xb2t1TE1mYS1YLXFKZEpXRXdyNmdRaDV6Mk5HUllIRmc?oc=5",
-          "domain": "news.uscg.mil",
-          "sourceTier": "Official military source",
-          "seen": "20261016T032923Z",
           "pinned": false
         },
         {
@@ -118,6 +126,42 @@
         }
       ],
       "incidents": [
+        {
+          "id": "auto-b02a86eef2bb",
+          "reportDate": "2026-10-19",
+          "dateBasis": "report discovery date",
+          "branch": "Air Force",
+          "department": "Department of the Air Force",
+          "type": "Other",
+          "event": "Air Force Identifies TACP Airman Killed in Alamodome Rappelling Accident",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSTZwTFh2RWQxemxYQUFrVmpCQWdqNkM3UWROcDF3Wm5YV1dzUjlYYk9aWTBfNS0yMk5fRGtiU1lTbFRaSzJ0a0dmMG5weDZ3dWprb1FTeUg5aUN4R3ZLclhOZDVBQzNJcEl0STFuei1Va3p6Si05MzZtRkdPVV9Tb2FfTmIwRWJCcVA0U0ZLZFU1ZzVNa3huaE9aaw?oc=5",
+          "sourceLabel": "airandspaceforces.com"
+        },
+        {
+          "id": "auto-87c88f9a4eb4",
+          "reportDate": "2026-10-19",
+          "dateBasis": "report discovery date",
+          "branch": "Air Force",
+          "department": "Department of the Air Force",
+          "type": "Other",
+          "event": "Four Salvadoran air force members missing after gang ambush in Haiti",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeDI0TFhMejhZSEJta3lTcS1OZUtlU2UwTkRxTDRlb2FyTzNVajdTMzNyS3JTbGw0SnpXR3lIMEVXUFlNUTk2WVVWX1hQQzkyLVV5SjlXREVSMFlkY1l2d3pkYjNjd29aT3RyTVVKdHlUNi0tMEIwUWN0VGZVU19nUkpfRUw2UlFHUTNjZEVUVHllbEQyeUlyQ085MDRIdXNMdG5UQ1h2UVlXTGxyMHBtakhFMGMzSWluSFBiUGh0US1tT3VPWjlv?oc=5",
+          "sourceLabel": "reuters.com"
+        },
         {
           "id": "auto-8fddae765eb0",
           "reportDate": "2026-10-17",
