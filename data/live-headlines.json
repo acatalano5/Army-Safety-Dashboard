@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T19:36:16.699Z",
+  "generatedAt": "2026-10-20T21:36:45.905Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-10-20T17:02:48.582Z",
+      "generatedAt": "2026-10-20T21:36:45.905Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -2073,7 +2073,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-10-20T17:02:48.582Z",
+      "generatedAt": "2026-10-20T21:36:45.905Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -2125,6 +2125,14 @@
           "pinned": false
         },
         {
+          "title": "Israeli attacks kill at least four Palestinians in Gaza",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNN2JKMGN3UXpYNVdOQTkzUW1sOTN2R2ZkVnV2NlNiSVBla2dWQk1yQUNYNzluc3VvajhsYVBSb3E1VHFzQW1QNGJJNkxRVWJzUUVjUTZ6c0YwX01GTTd0d2RoVmlaMVdVajhPYmpXQkk5QnhUYWtsZGpoRG54QWNJNXZnWnFYcjYxcS1oMF9IZkVaWnFkeEE5Q2N6ZktFT18zTTk1TDc1d9IBrAFBVV95cUxPYTk1aTVHWUVmZFI5R1lYR1VuekVVbTRBZHU3Sk1HQ3FCOGRkNVU3SkRsZDFPQ2RIb1JZR0U4Znl1QkFRVVJSMk5UV2MwN1JUYjlLcmNwRUNiTVkyenNVNDlkbEtTOG5mXzhIS1VTOTFRVjh4WjItY0xOUXMwU2NPWWJiVHFaamdjMkxVWUp3ZFdIQ0ZSVndsOE1hZVF3Vl9GTmFMYkVOLUhsQUJr?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261020T131719Z",
+          "pinned": false
+        },
+        {
           "title": "Iran's foreign minister accuses Netanyahu of pushing US toward another war to avoid prison",
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeVNZYzUxRUNHSGMtSWVGMlZuVGt2dTBLcnZmYUtkOVE2cGNONDV4Zm1ReTU3SEtWZHpHQV8tZFM0dGc2TTJCLXdraTl5YUZwM205d3kyRF9BV202bVA1YmhEVVVvMExSR3lwaFFURXdkN0VnN1BrNnNmWGU5NlN5YVlOM0o2SXY3eko3em5vWkY2SWRva19nM3JZTkVod2dnR1F0N2htM1NmVHhHbEZ3ekg2a2p1N1NacEhlZnRkRklZRW9QLXE0?oc=5",
           "domain": "aa.com.tr",
@@ -2141,27 +2149,11 @@
           "pinned": false
         },
         {
-          "title": "Israeli attacks kill at least four Palestinians in Gaza",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNN2JKMGN3UXpYNVdOQTkzUW1sOTN2R2ZkVnV2NlNiSVBla2dWQk1yQUNYNzluc3VvajhsYVBSb3E1VHFzQW1QNGJJNkxRVWJzUUVjUTZ6c0YwX01GTTd0d2RoVmlaMVdVajhPYmpXQkk5QnhUYWtsZGpoRG54QWNJNXZnWnFYcjYxcS1oMF9IZkVaWnFkeEE5Q2N6ZktFT18zTTk1TDc1d9IBrAFBVV95cUxPYTk1aTVHWUVmZFI5R1lYR1VuekVVbTRBZHU3Sk1HQ3FCOGRkNVU3SkRsZDFPQ2RIb1JZR0U4Znl1QkFRVVJSMk5UV2MwN1JUYjlLcmNwRUNiTVkyenNVNDlkbEtTOG5mXzhIS1VTOTFRVjh4WjItY0xOUXMwU2NPWWJiVHFaamdjMkxVWUp3ZFdIQ0ZSVndsOE1hZVF3Vl9GTmFMYkVOLUhsQUJr?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261020T131719Z",
-          "pinned": false
-        },
-        {
           "title": "Iran war votes in Congress become a focal point for campaign ad attacks",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeFVaOW15cDVJdVdmdmpXaVFjakhuckIzY090LTd4QVE4SWtsY1NJVTB1XzdKckpkV1BvVjBxOU9mcUVoV1RUeWZBbXdKYlBkN2VtaGhfS2RwdFZTNzV6QnpTeUxTbTNwNl9hSDl0d01OV19qQWVxWXA4ZUNCN3NIX08wZ3diSzNZRHQtTVA3cEhxNGVp?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "seen": "20261017T040500Z",
-          "pinned": false
-        },
-        {
-          "title": "Saudi-led coalition intercepts drones as Egypt weighs sending help",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObzE5OEQ1YmtRaTQzMEN4ZC16UVlZOXRXTm9kZm93dldxWmxwUkMwYVJPMkx4YktUcm15d2ZzbHJVbFNaZUZ5RDl3V1lxVzY2eDA0OHFhT2RINHhNMU9GRFNiQ1RRUmo0akRHOEhieFZiZkYxOEEtSkFWUkMwQ3UxdWF0VVFSanNMY3M1RDVBSzk0ZE5lRVd0R2U1TE9HOTEtRmxEOEduRlowLUpv0gGyAUFVX3lxTFBsajZwTGFfQ0YyU0hzT2drU2xPM1haeGl5V1JOamM5TXFDeGQ0VmlCQnBNWDNkanNELVBBZWJTREhPSVRUd0tJM1d3T1pKRzlvZTk0VVdQTHlJdVJUdWhndUFrbnFvcXJoaWwwVVNDM3kwWEtBdWN5Smt0b1dtZ3lFYkFIbTE2Z0Yzb0FXRVNSVUlhWHRJRENRT21EMnVjN3N0c3IxTjBHT2dqemFJZ1VIeVE?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261017T232653Z",
           "pinned": false
         },
         {
@@ -2189,19 +2181,27 @@
           "pinned": false
         },
         {
-          "title": "Egypt’s el-Sisi vows to defend Saudi Arabia from Houthi attacks",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYWhZdlRadk94dzNBTEFIVGV2b2dHU0I4eVlzRzFMdzRmYVcyZjd6eS1RaHFjRTVMMFgxZHRxNWlQT3k0NE9qTkxXalBmMUFkVy0wNmFPQTR3Z25fcGRkTVl2YURkaWxtWURvb3RtRDViQWpVTVBJMTJQNnh5UkkzSUlibkQtSDJE0gGOAUFVX3lxTE85clpGcjNjZDNsSVRXd1FFM004amU2Vll1QjVUTGFBaWM2dHRvNkJ6dGx5RDl6bmpTeDRqVHZXRkVoanh2MGM1dlZEWmxpQVVhLWt2X05QNjJ2X3VsWWRWcldxWE82OXpoaUVEeUZUNHpEQm8xN2FMWWxURDU4cTltYmY4Yzk2aVJ1Mk4yNHc?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261017T164929Z",
-          "pinned": false
-        },
-        {
           "title": "‘Weight of responsibility’: Promise and perils of covering Ethiopia’s war",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSmFqSVptV3NRcmNzMU9BLTlsOUV0LWF5LW9iZUtaM0Y0NDlGUmJ4aGRMUzRyM0o1VmNxMVh5ZWhaVEpNbWNHLTdrOGQwblNCWHR0WWtNU25VNjI2WExpY0tjVnF4QUpyaHBRdGhfNzh4Sjg2TWlpU1RCNzBjcVdHN29VaVNjQnU4WlRwNFpsVVFYT0J3bmRRN3J3M05SZngyRXprNjRpSDFTYWozOHRQaNIBtgFBVV95cUxOSGkzX1JpYUFPbVJOdVltUV9IY180LTJMR1lwc3Jkb0tqNFBiRDFqaGxyQ1BIQ05jOEJWRlBOVmhNVVdqMTVDSUQyUmlaZ3pZZy1xVUs1VUtGaGFfdmFLaEpuWUt3WjFDNVBUMHl3cFB5R0NoTzV3anZ2YWtZeUdVcVhDdmZOMnN4SWhrN0p5MWh0UEo2ckhEVzk2VV9lYlZaRk5tVmxsUmYxTUd2ZlE0dnhyT0lfZw?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20261019T133127Z",
+          "pinned": false
+        },
+        {
+          "title": "US envoy Barrack defends decision to join Israel in war on Iran",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYnVoQUVCak1IYXdhdXVlblp6VHhmOGlZRTNoVkxySXZlNXJIdVY1MTdxOXNjNmp2RF91UXhZVTFwbHEzaXcwYXVKZ3pGYW92Tmxrb1FDRVRiYlZfTEhEd2dRM1ExNFhYQTdBdG40b1hjQW1xd29WaVJLRVJ4SW5JRVdwaFd2WlRmcS1yRGh5dE9SdTDSAZgBQVVfeXFMTkZONzBrZXFmZVoxMUNEUmozTnZRdTRyVmhGeHFvaGpuRzExVzEycm1ZQWhVQzdPcTRNbDhZVW5qV0JtQ3QwMFE4aDMtYnZyemI1WU8weWN3OXRPUm5XMllaRnZva2RQaHdVV1F4WnNwTVBFZEJDXzFPaGdseGNCOWx6Y1Juc29SaGNrcjMxYXVrX05MVFd4RE4?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261020T134704Z",
+          "pinned": false
+        },
+        {
+          "title": "Egypt’s el-Sisi vows to defend Saudi Arabia from Houthi attacks",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYWhZdlRadk94dzNBTEFIVGV2b2dHU0I4eVlzRzFMdzRmYVcyZjd6eS1RaHFjRTVMMFgxZHRxNWlQT3k0NE9qTkxXalBmMUFkVy0wNmFPQTR3Z25fcGRkTVl2YURkaWxtWURvb3RtRDViQWpVTVBJMTJQNnh5UkkzSUlibkQtSDJE0gGOAUFVX3lxTE85clpGcjNjZDNsSVRXd1FFM004amU2Vll1QjVUTGFBaWM2dHRvNkJ6dGx5RDl6bmpTeDRqVHZXRkVoanh2MGM1dlZEWmxpQVVhLWt2X05QNjJ2X3VsWWRWcldxWE82OXpoaUVEeUZUNHpEQm8xN2FMWWxURDU4cTltYmY4Yzk2aVJ1Mk4yNHc?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261017T164929Z",
           "pinned": false
         },
         {
@@ -2213,22 +2213,6 @@
           "pinned": false
         },
         {
-          "title": "Israeli drone attacks kill six Palestinians across Gaza despite ‘ceasefire’",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZFFTd0tBVFB3WGFRWGtIWEFRVXpiMC1oZFFwRmVNZ2d5WU5kM09seFBWNUp5SFRIa2R6NC1aWF9XODk4QlFTZDZNcnVwbFVNRmN4V2VzbTdxWE9sckVxMWpwVXpzUjFycGpfcE1NWktmZmZyR01oUUFGdUdwTGliZmFicENPcVJBR0RMeTNFdUdpd0w3YVVxbUxSSlVvZ3ZibmtKYXBsd2FxOWhjeXJCVjZRb011UdIBuwFBVV95cUxQYnVxTE1iNGhaNXdsdjFiWEVsaElON1FIVFNONS1CbTVQMjl2ZjJfakp3UDN2MXB6UzQ0WHRJd05ja05GRzJ4SEFOWjhTdjhLVTE1bEdjSTV2b01EZHVLRE93ZFBQTmxsU0ZZemxUV3lpMHB1dVdTMVBYckRZek1hWlRQU1FtTTg0ZUNjeTRnTG1zeGttZXpIcHdYOVBiSkJqcDhnaVlSY1hPS0xSYlVuZS1ZSllGSGJka3dv?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261017T183016Z",
-          "pinned": false
-        },
-        {
-          "title": "Solar power booms in Philippines as war on Iran spikes energy costs",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdFBWNm9HY3h0Y2lhOXh4VnZFWEI5Y0VJOVJCQUttOWJHVFRoYmF6bnR5X2xBdkZBbmYyTVVGU3FfNUxQR0gtWGlWRE1pWG1KYWVKY1JOYlhqYm9tQTFFaEF2QTdJcy1BMTJEY25NX0JQS2t0aXpzQzR2VTl4RjJ2c0VhazhzSmxLN2wyMUpQXzkyOUt6anRpMUYzeFdYSzQ1Tm5xTDlWbm02NEJ6OWfSAbMBQVVfeXFMTzE3WGd3QlhSM3ZzbmllU242eGZFcTJVZXZId2dxZHk2MVE2OFNiTGdlS3pRcW9EZmdITGdiUDVmMnUwV3V2clkzMG9nOFBhT0d2QmRLb0ZoUWFXa1NGZG1TdDhTUXUxOHRFYkRaUmozNTZucEZaT0M4cm96X0dPWTlSTFhyenByanBmWkM5X1h6Yy1nLXY4Nk1HUTBtM1R5YXhHWnU2RUUwWWpfMzhhb2VEbWc?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261017T102511Z",
-          "pinned": false
-        },
-        {
           "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5udnhBejAzQzZIeHRuYVp2N0s5alNvR3dKS0dfdmRMbFVhX0FjRDY5VXBqOWJXVzg3OEs4ZzhlaHF6bnNMNDhtSmhQaWo2QTRhc0h2endmQUNpcGM?oc=5",
           "domain": "bbc.com",
@@ -2237,11 +2221,11 @@
           "pinned": false
         },
         {
-          "title": "Vance suggests disagreement with Trump over Iran war",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZFpWcV80QVNfR0JMZkRlN1dvUDJyWkxpREdqeWVhdmZwZFlOZ0d4MHZlYkRFZHluR0Q2ckVkQ1RyWVRDY0hidVdFNG5ocEQyX2FnaTFOaENzSTVMNURTaHdONHhuZmlNTElBZmxRaTd0RDJ1ZWxWYmtmRDRTeUJVUDYxa2lxQ2pkbHFJVzBtcHFTQUtoSHhfc2pB?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "seen": "20261017T054050Z",
+          "title": "Solar power booms in Philippines as war on Iran spikes energy costs",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdFBWNm9HY3h0Y2lhOXh4VnZFWEI5Y0VJOVJCQUttOWJHVFRoYmF6bnR5X2xBdkZBbmYyTVVGU3FfNUxQR0gtWGlWRE1pWG1KYWVKY1JOYlhqYm9tQTFFaEF2QTdJcy1BMTJEY25NX0JQS2t0aXpzQzR2VTl4RjJ2c0VhazhzSmxLN2wyMUpQXzkyOUt6anRpMUYzeFdYSzQ1Tm5xTDlWbm02NEJ6OWfSAbMBQVVfeXFMTzE3WGd3QlhSM3ZzbmllU242eGZFcTJVZXZId2dxZHk2MVE2OFNiTGdlS3pRcW9EZmdITGdiUDVmMnUwV3V2clkzMG9nOFBhT0d2QmRLb0ZoUWFXa1NGZG1TdDhTUXUxOHRFYkRaUmozNTZucEZaT0M4cm96X0dPWTlSTFhyenByanBmWkM5X1h6Yy1nLXY4Nk1HUTBtM1R5YXhHWnU2RUUwWWpfMzhhb2VEbWc?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261017T102511Z",
           "pinned": false
         },
         {
@@ -2261,11 +2245,27 @@
           "pinned": false
         },
         {
-          "title": "US envoy Barrack defends decision to join Israel in war on Iran",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYnVoQUVCak1IYXdhdXVlblp6VHhmOGlZRTNoVkxySXZlNXJIdVY1MTdxOXNjNmp2RF91UXhZVTFwbHEzaXcwYXVKZ3pGYW92Tmxrb1FDRVRiYlZfTEhEd2dRM1ExNFhYQTdBdG40b1hjQW1xd29WaVJLRVJ4SW5JRVdwaFd2WlRmcS1yRGh5dE9SdTDSAZgBQVVfeXFMTkZONzBrZXFmZVoxMUNEUmozTnZRdTRyVmhGeHFvaGpuRzExVzEycm1ZQWhVQzdPcTRNbDhZVW5qV0JtQ3QwMFE4aDMtYnZyemI1WU8weWN3OXRPUm5XMllaRnZva2RQaHdVV1F4WnNwTVBFZEJDXzFPaGdseGNCOWx6Y1Juc29SaGNrcjMxYXVrX05MVFd4RE4?oc=5",
+          "title": "'They handled it exactly the right way': How the Kennedys averted the 1962 Cuban missile crisis",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUlgza1FWOV9MTlRQc3lHRTl6NEJTUGlqSkYtcVZkZi1hX3pnVzdlV05JNGFHM3BNOWNKYjRMc1ZNZUdibHMwYy11TXB3dHZmZUpJeDg3NndUaHUwR3g1Y215R1RaSnlpZnpDRWxKY3NycXA4TkhSRW9JTmtEUThXVmd5ZURNcVFhcS1pX19Sejk2YU9GYUN3TGhn?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261019T110000Z",
+          "pinned": false
+        },
+        {
+          "title": "Yemen’s critically ill are trapped as war closes the country’s airports",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSklJdTNLeF84clJ0Mk5mV3FCRmZGS3BLOUZtdmNrZHF3cEVyd0kzSVVEcGllSmM2bXYzWGM2RXNyTTlnVE5tZGNhVkd6dVFqUmd0UTBuemkydmhMU3d6eXhBTWh4ZGlfZkxRTEt6aUJJVW82bDkwYWdYTl9IaFFyamxkLVMyYUhLVXdCc25ia1FITkZwV2JubXlDZml0OElaamhESWF1T3g3dFdtZ2V0bzE5bFF4QdIBuwFBVV95cUxQQXNlbkFSY1ViRVdrTDFfdDVfSHZSQUJiSFNjcnA3RUFiT3paOE4xZS1pT1d2ZmdpdFN4NERBSnMtc3AxdDVWeXNDMFNEcjNranZBVFFEcDV6cW95cHYxcFpNTFNRRUd6eHVJQkFJY0llMzVaTkJ3UXpTZGVDbkFBRmZ4cnFnc2ZkeWRsc1ZMZGxiQmdibG90ak5RaDc4N1ZWU2NwSHJlZk01YmwtZmlOcUJHUTZiVFZBaUpR?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261020T134704Z",
+          "seen": "20261020T120912Z",
+          "pinned": false
+        },
+        {
+          "title": "War on Iran backlash threatens Republican control of Congress",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPd2o5SGJXWTd6cGpCQlBhOVFpajQxeXdHNHBZOFVYdEFEcGd2YnlqMkE3RW53a1EwN2ZkZnZCZzVoX25NdlpKc2xsUlZPRnA3YzRaZzcxOHFYZlQ0UkkzY0VDdHpHOFoyX21XZ1UtbEFxeVIzaUhLeTM3bEdmOFpFMVZ0ejRhNXl0ajVZVHJVbWtiZm03Yjc1dEREcjI2NGRHckUwVXhNQzNSbXJXRTBCTdIBtgFBVV95cUxOM3RNWHR6MU9YVXZuUjBFMm1YQWJtVFQ3Z2x5eHRPWjh0OHdwOUtxU2pmLWlMcjRJNjc1ZDFFUkNtUHRXbHRNWEFNcUZhNG5aQWZKa0FZSGFKSkdITjlWTzk3bEFxNDdJRmdobTE0bERrMTBhXzNDWmJfcXRnY3JNYjRRdm8zWi0ydFgxc0R2Z1dSME1rY2VJeFhtbmNfX1lFX29MZUQybWtJaktOOUUxU3pwMFBhZw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261019T162511Z",
           "pinned": false
         }
       ],
@@ -2325,6 +2325,15 @@
           "reportedAt": "2026-10-20T10:37:05Z"
         },
         {
+          "id": "report-03e76ee6336c",
+          "title": "Israeli attacks kill at least four Palestinians in Gaza",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNN2JKMGN3UXpYNVdOQTkzUW1sOTN2R2ZkVnV2NlNiSVBla2dWQk1yQUNYNzluc3VvajhsYVBSb3E1VHFzQW1QNGJJNkxRVWJzUUVjUTZ6c0YwX01GTTd0d2RoVmlaMVdVajhPYmpXQkk5QnhUYWtsZGpoRG54QWNJNXZnWnFYcjYxcS1oMF9IZkVaWnFkeEE5Q2N6ZktFT18zTTk1TDc1d9IBrAFBVV95cUxPYTk1aTVHWUVmZFI5R1lYR1VuekVVbTRBZHU3Sk1HQ3FCOGRkNVU3SkRsZDFPQ2RIb1JZR0U4Znl1QkFRVVJSMk5UV2MwN1JUYjlLcmNwRUNiTVkyenNVNDlkbEtTOG5mXzhIS1VTOTFRVjh4WjItY0xOUXMwU2NPWWJiVHFaamdjMkxVWUp3ZFdIQ0ZSVndsOE1hZVF3Vl9GTmFMYkVOLUhsQUJr?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-20T13:17:19Z"
+        },
+        {
           "id": "report-9c4e7ba23498",
           "title": "Iran's foreign minister accuses Netanyahu of pushing US toward another war to avoid prison",
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeVNZYzUxRUNHSGMtSWVGMlZuVGt2dTBLcnZmYUtkOVE2cGNONDV4Zm1ReTU3SEtWZHpHQV8tZFM0dGc2TTJCLXdraTl5YUZwM205d3kyRF9BV202bVA1YmhEVVVvMExSR3lwaFFURXdkN0VnN1BrNnNmWGU5NlN5YVlOM0o2SXY3eko3em5vWkY2SWRva19nM3JZTkVod2dnR1F0N2htM1NmVHhHbEZ3ekg2a2p1N1NacEhlZnRkRklZRW9QLXE0?oc=5",
@@ -2343,15 +2352,6 @@
           "reportedAt": "2026-10-19T17:19:53Z"
         },
         {
-          "id": "report-03e76ee6336c",
-          "title": "Israeli attacks kill at least four Palestinians in Gaza",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNN2JKMGN3UXpYNVdOQTkzUW1sOTN2R2ZkVnV2NlNiSVBla2dWQk1yQUNYNzluc3VvajhsYVBSb3E1VHFzQW1QNGJJNkxRVWJzUUVjUTZ6c0YwX01GTTd0d2RoVmlaMVdVajhPYmpXQkk5QnhUYWtsZGpoRG54QWNJNXZnWnFYcjYxcS1oMF9IZkVaWnFkeEE5Q2N6ZktFT18zTTk1TDc1d9IBrAFBVV95cUxPYTk1aTVHWUVmZFI5R1lYR1VuekVVbTRBZHU3Sk1HQ3FCOGRkNVU3SkRsZDFPQ2RIb1JZR0U4Znl1QkFRVVJSMk5UV2MwN1JUYjlLcmNwRUNiTVkyenNVNDlkbEtTOG5mXzhIS1VTOTFRVjh4WjItY0xOUXMwU2NPWWJiVHFaamdjMkxVWUp3ZFdIQ0ZSVndsOE1hZVF3Vl9GTmFMYkVOLUhsQUJr?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-20T13:17:19Z"
-        },
-        {
           "id": "report-7a368913cf3e",
           "title": "Iran war votes in Congress become a focal point for campaign ad attacks",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeFVaOW15cDVJdVdmdmpXaVFjakhuckIzY090LTd4QVE4SWtsY1NJVTB1XzdKckpkV1BvVjBxOU9mcUVoV1RUeWZBbXdKYlBkN2VtaGhfS2RwdFZTNzV6QnpTeUxTbTNwNl9hSDl0d01OV19qQWVxWXA4ZUNCN3NIX08wZ3diSzNZRHQtTVA3cEhxNGVp?oc=5",
@@ -2359,15 +2359,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-10-17T04:05:00Z"
-        },
-        {
-          "id": "report-1e33dc654929",
-          "title": "Saudi-led coalition intercepts drones as Egypt weighs sending help",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObzE5OEQ1YmtRaTQzMEN4ZC16UVlZOXRXTm9kZm93dldxWmxwUkMwYVJPMkx4YktUcm15d2ZzbHJVbFNaZUZ5RDl3V1lxVzY2eDA0OHFhT2RINHhNMU9GRFNiQ1RRUmo0akRHOEhieFZiZkYxOEEtSkFWUkMwQ3UxdWF0VVFSanNMY3M1RDVBSzk0ZE5lRVd0R2U1TE9HOTEtRmxEOEduRlowLUpv0gGyAUFVX3lxTFBsajZwTGFfQ0YyU0hzT2drU2xPM1haeGl5V1JOamM5TXFDeGQ0VmlCQnBNWDNkanNELVBBZWJTREhPSVRUd0tJM1d3T1pKRzlvZTk0VVdQTHlJdVJUdWhndUFrbnFvcXJoaWwwVVNDM3kwWEtBdWN5Smt0b1dtZ3lFYkFIbTE2Z0Yzb0FXRVNSVUlhWHRJRENRT21EMnVjN3N0c3IxTjBHT2dqemFJZ1VIeVE?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-17T23:26:53Z"
         },
         {
           "id": "report-58a092f39c71",
@@ -2397,15 +2388,6 @@
           "reportedAt": "2026-10-18T16:28:02Z"
         },
         {
-          "id": "report-f45778baf083",
-          "title": "Egypt’s el-Sisi vows to defend Saudi Arabia from Houthi attacks",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYWhZdlRadk94dzNBTEFIVGV2b2dHU0I4eVlzRzFMdzRmYVcyZjd6eS1RaHFjRTVMMFgxZHRxNWlQT3k0NE9qTkxXalBmMUFkVy0wNmFPQTR3Z25fcGRkTVl2YURkaWxtWURvb3RtRDViQWpVTVBJMTJQNnh5UkkzSUlibkQtSDJE0gGOAUFVX3lxTE85clpGcjNjZDNsSVRXd1FFM004amU2Vll1QjVUTGFBaWM2dHRvNkJ6dGx5RDl6bmpTeDRqVHZXRkVoanh2MGM1dlZEWmxpQVVhLWt2X05QNjJ2X3VsWWRWcldxWE82OXpoaUVEeUZUNHpEQm8xN2FMWWxURDU4cTltYmY4Yzk2aVJ1Mk4yNHc?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-17T16:49:29Z"
-        },
-        {
           "id": "report-a134a9492803",
           "title": "‘Weight of responsibility’: Promise and perils of covering Ethiopia’s war",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSmFqSVptV3NRcmNzMU9BLTlsOUV0LWF5LW9iZUtaM0Y0NDlGUmJ4aGRMUzRyM0o1VmNxMVh5ZWhaVEpNbWNHLTdrOGQwblNCWHR0WWtNU25VNjI2WExpY0tjVnF4QUpyaHBRdGhfNzh4Sjg2TWlpU1RCNzBjcVdHN29VaVNjQnU4WlRwNFpsVVFYT0J3bmRRN3J3M05SZngyRXprNjRpSDFTYWozOHRQaNIBtgFBVV95cUxOSGkzX1JpYUFPbVJOdVltUV9IY180LTJMR1lwc3Jkb0tqNFBiRDFqaGxyQ1BIQ05jOEJWRlBOVmhNVVdqMTVDSUQyUmlaZ3pZZy1xVUs1VUtGaGFfdmFLaEpuWUt3WjFDNVBUMHl3cFB5R0NoTzV3anZ2YWtZeUdVcVhDdmZOMnN4SWhrN0p5MWh0UEo2ckhEVzk2VV9lYlZaRk5tVmxsUmYxTUd2ZlE0dnhyT0lfZw?oc=5",
@@ -2413,6 +2395,24 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-10-19T13:31:27Z"
+        },
+        {
+          "id": "report-c083d447b1fa",
+          "title": "US envoy Barrack defends decision to join Israel in war on Iran",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYnVoQUVCak1IYXdhdXVlblp6VHhmOGlZRTNoVkxySXZlNXJIdVY1MTdxOXNjNmp2RF91UXhZVTFwbHEzaXcwYXVKZ3pGYW92Tmxrb1FDRVRiYlZfTEhEd2dRM1ExNFhYQTdBdG40b1hjQW1xd29WaVJLRVJ4SW5JRVdwaFd2WlRmcS1yRGh5dE9SdTDSAZgBQVVfeXFMTkZONzBrZXFmZVoxMUNEUmozTnZRdTRyVmhGeHFvaGpuRzExVzEycm1ZQWhVQzdPcTRNbDhZVW5qV0JtQ3QwMFE4aDMtYnZyemI1WU8weWN3OXRPUm5XMllaRnZva2RQaHdVV1F4WnNwTVBFZEJDXzFPaGdseGNCOWx6Y1Juc29SaGNrcjMxYXVrX05MVFd4RE4?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-20T13:47:04Z"
+        },
+        {
+          "id": "report-f45778baf083",
+          "title": "Egypt’s el-Sisi vows to defend Saudi Arabia from Houthi attacks",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYWhZdlRadk94dzNBTEFIVGV2b2dHU0I4eVlzRzFMdzRmYVcyZjd6eS1RaHFjRTVMMFgxZHRxNWlQT3k0NE9qTkxXalBmMUFkVy0wNmFPQTR3Z25fcGRkTVl2YURkaWxtWURvb3RtRDViQWpVTVBJMTJQNnh5UkkzSUlibkQtSDJE0gGOAUFVX3lxTE85clpGcjNjZDNsSVRXd1FFM004amU2Vll1QjVUTGFBaWM2dHRvNkJ6dGx5RDl6bmpTeDRqVHZXRkVoanh2MGM1dlZEWmxpQVVhLWt2X05QNjJ2X3VsWWRWcldxWE82OXpoaUVEeUZUNHpEQm8xN2FMWWxURDU4cTltYmY4Yzk2aVJ1Mk4yNHc?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-17T16:49:29Z"
         },
         {
           "id": "report-00ced67f5557",
@@ -2424,24 +2424,6 @@
           "reportedAt": "2026-10-19T09:27:13Z"
         },
         {
-          "id": "report-079e242073f7",
-          "title": "Israeli drone attacks kill six Palestinians across Gaza despite ‘ceasefire’",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZFFTd0tBVFB3WGFRWGtIWEFRVXpiMC1oZFFwRmVNZ2d5WU5kM09seFBWNUp5SFRIa2R6NC1aWF9XODk4QlFTZDZNcnVwbFVNRmN4V2VzbTdxWE9sckVxMWpwVXpzUjFycGpfcE1NWktmZmZyR01oUUFGdUdwTGliZmFicENPcVJBR0RMeTNFdUdpd0w3YVVxbUxSSlVvZ3ZibmtKYXBsd2FxOWhjeXJCVjZRb011UdIBuwFBVV95cUxQYnVxTE1iNGhaNXdsdjFiWEVsaElON1FIVFNONS1CbTVQMjl2ZjJfakp3UDN2MXB6UzQ0WHRJd05ja05GRzJ4SEFOWjhTdjhLVTE1bEdjSTV2b01EZHVLRE93ZFBQTmxsU0ZZemxUV3lpMHB1dVdTMVBYckRZek1hWlRQU1FtTTg0ZUNjeTRnTG1zeGttZXpIcHdYOVBiSkJqcDhnaVlSY1hPS0xSYlVuZS1ZSllGSGJka3dv?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-17T18:30:16Z"
-        },
-        {
-          "id": "report-8680aa4891a1",
-          "title": "Solar power booms in Philippines as war on Iran spikes energy costs",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdFBWNm9HY3h0Y2lhOXh4VnZFWEI5Y0VJOVJCQUttOWJHVFRoYmF6bnR5X2xBdkZBbmYyTVVGU3FfNUxQR0gtWGlWRE1pWG1KYWVKY1JOYlhqYm9tQTFFaEF2QTdJcy1BMTJEY25NX0JQS2t0aXpzQzR2VTl4RjJ2c0VhazhzSmxLN2wyMUpQXzkyOUt6anRpMUYzeFdYSzQ1Tm5xTDlWbm02NEJ6OWfSAbMBQVVfeXFMTzE3WGd3QlhSM3ZzbmllU242eGZFcTJVZXZId2dxZHk2MVE2OFNiTGdlS3pRcW9EZmdITGdiUDVmMnUwV3V2clkzMG9nOFBhT0d2QmRLb0ZoUWFXa1NGZG1TdDhTUXUxOHRFYkRaUmozNTZucEZaT0M4cm96X0dPWTlSTFhyenByanBmWkM5X1h6Yy1nLXY4Nk1HUTBtM1R5YXhHWnU2RUUwWWpfMzhhb2VEbWc?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-17T10:25:11Z"
-        },
-        {
           "id": "report-591d643e4f67",
           "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5udnhBejAzQzZIeHRuYVp2N0s5alNvR3dKS0dfdmRMbFVhX0FjRDY5VXBqOWJXVzg3OEs4ZzhlaHF6bnNMNDhtSmhQaWo2QTRhc0h2endmQUNpcGM?oc=5",
@@ -2451,13 +2433,13 @@
           "reportedAt": "2026-10-19T21:02:33Z"
         },
         {
-          "id": "report-2bc8d7f7d533",
-          "title": "Vance suggests disagreement with Trump over Iran war",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZFpWcV80QVNfR0JMZkRlN1dvUDJyWkxpREdqeWVhdmZwZFlOZ0d4MHZlYkRFZHluR0Q2ckVkQ1RyWVRDY0hidVdFNG5ocEQyX2FnaTFOaENzSTVMNURTaHdONHhuZmlNTElBZmxRaTd0RDJ1ZWxWYmtmRDRTeUJVUDYxa2lxQ2pkbHFJVzBtcHFTQUtoSHhfc2pB?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
-          "reportedAt": "2026-10-17T05:40:50Z"
+          "id": "report-8680aa4891a1",
+          "title": "Solar power booms in Philippines as war on Iran spikes energy costs",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdFBWNm9HY3h0Y2lhOXh4VnZFWEI5Y0VJOVJCQUttOWJHVFRoYmF6bnR5X2xBdkZBbmYyTVVGU3FfNUxQR0gtWGlWRE1pWG1KYWVKY1JOYlhqYm9tQTFFaEF2QTdJcy1BMTJEY25NX0JQS2t0aXpzQzR2VTl4RjJ2c0VhazhzSmxLN2wyMUpQXzkyOUt6anRpMUYzeFdYSzQ1Tm5xTDlWbm02NEJ6OWfSAbMBQVVfeXFMTzE3WGd3QlhSM3ZzbmllU242eGZFcTJVZXZId2dxZHk2MVE2OFNiTGdlS3pRcW9EZmdITGdiUDVmMnUwV3V2clkzMG9nOFBhT0d2QmRLb0ZoUWFXa1NGZG1TdDhTUXUxOHRFYkRaUmozNTZucEZaT0M4cm96X0dPWTlSTFhyenByanBmWkM5X1h6Yy1nLXY4Nk1HUTBtM1R5YXhHWnU2RUUwWWpfMzhhb2VEbWc?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-17T10:25:11Z"
         },
         {
           "id": "report-398063f21021",
@@ -2478,13 +2460,31 @@
           "reportedAt": "2026-10-18T03:31:00Z"
         },
         {
-          "id": "report-c083d447b1fa",
-          "title": "US envoy Barrack defends decision to join Israel in war on Iran",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYnVoQUVCak1IYXdhdXVlblp6VHhmOGlZRTNoVkxySXZlNXJIdVY1MTdxOXNjNmp2RF91UXhZVTFwbHEzaXcwYXVKZ3pGYW92Tmxrb1FDRVRiYlZfTEhEd2dRM1ExNFhYQTdBdG40b1hjQW1xd29WaVJLRVJ4SW5JRVdwaFd2WlRmcS1yRGh5dE9SdTDSAZgBQVVfeXFMTkZONzBrZXFmZVoxMUNEUmozTnZRdTRyVmhGeHFvaGpuRzExVzEycm1ZQWhVQzdPcTRNbDhZVW5qV0JtQ3QwMFE4aDMtYnZyemI1WU8weWN3OXRPUm5XMllaRnZva2RQaHdVV1F4WnNwTVBFZEJDXzFPaGdseGNCOWx6Y1Juc29SaGNrcjMxYXVrX05MVFd4RE4?oc=5",
+          "id": "report-5eaf85b91d11",
+          "title": "'They handled it exactly the right way': How the Kennedys averted the 1962 Cuban missile crisis",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUlgza1FWOV9MTlRQc3lHRTl6NEJTUGlqSkYtcVZkZi1hX3pnVzdlV05JNGFHM3BNOWNKYjRMc1ZNZUdibHMwYy11TXB3dHZmZUpJeDg3NndUaHUwR3g1Y215R1RaSnlpZnpDRWxKY3NycXA4TkhSRW9JTmtEUThXVmd5ZURNcVFhcS1pX19Sejk2YU9GYUN3TGhn?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-19T11:00:00Z"
+        },
+        {
+          "id": "report-f53af5419f26",
+          "title": "Yemen’s critically ill are trapped as war closes the country’s airports",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSklJdTNLeF84clJ0Mk5mV3FCRmZGS3BLOUZtdmNrZHF3cEVyd0kzSVVEcGllSmM2bXYzWGM2RXNyTTlnVE5tZGNhVkd6dVFqUmd0UTBuemkydmhMU3d6eXhBTWh4ZGlfZkxRTEt6aUJJVW82bDkwYWdYTl9IaFFyamxkLVMyYUhLVXdCc25ia1FITkZwV2JubXlDZml0OElaamhESWF1T3g3dFdtZ2V0bzE5bFF4QdIBuwFBVV95cUxQQXNlbkFSY1ViRVdrTDFfdDVfSHZSQUJiSFNjcnA3RUFiT3paOE4xZS1pT1d2ZmdpdFN4NERBSnMtc3AxdDVWeXNDMFNEcjNranZBVFFEcDV6cW95cHYxcFpNTFNRRUd6eHVJQkFJY0llMzVaTkJ3UXpTZGVDbkFBRmZ4cnFnc2ZkeWRsc1ZMZGxiQmdibG90ak5RaDc4N1ZWU2NwSHJlZk01YmwtZmlOcUJHUTZiVFZBaUpR?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-20T13:47:04Z"
+          "reportedAt": "2026-10-20T12:09:12Z"
+        },
+        {
+          "id": "report-2f27e95e5082",
+          "title": "War on Iran backlash threatens Republican control of Congress",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPd2o5SGJXWTd6cGpCQlBhOVFpajQxeXdHNHBZOFVYdEFEcGd2YnlqMkE3RW53a1EwN2ZkZnZCZzVoX25NdlpKc2xsUlZPRnA3YzRaZzcxOHFYZlQ0UkkzY0VDdHpHOFoyX21XZ1UtbEFxeVIzaUhLeTM3bEdmOFpFMVZ0ejRhNXl0ajVZVHJVbWtiZm03Yjc1dEREcjI2NGRHckUwVXhNQzNSbXJXRTBCTdIBtgFBVV95cUxOM3RNWHR6MU9YVXZuUjBFMm1YQWJtVFQ3Z2x5eHRPWjh0OHdwOUtxU2pmLWlMcjRJNjc1ZDFFUkNtUHRXbHRNWEFNcUZhNG5aQWZKa0FZSGFKSkdITjlWTzk3bEFxNDdJRmdobTE0bERrMTBhXzNDWmJfcXRnY3JNYjRRdm8zWi0ydFgxc0R2Z1dSME1rY2VJeFhtbmNfX1lFX29MZUQybWtJaktOOUUxU3pwMFBhZw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-19T16:25:11Z"
         },
         {
           "id": "report-ba89f2695635",
