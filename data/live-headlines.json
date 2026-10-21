@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-21T17:11:56.909Z",
+  "generatedAt": "2026-10-21T19:38:35.326Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -9,7 +9,7 @@
       "items": []
     },
     "safety": {
-      "generatedAt": "2026-10-20T19:36:16.699Z",
+      "generatedAt": "2026-10-21T19:38:35.326Z",
       "cadence": "daily",
       "items": [
         {
@@ -42,6 +42,22 @@
           "domain": "reuters.com",
           "sourceTier": "Independent reporting",
           "seen": "20261019T190922Z",
+          "pinned": false
+        },
+        {
+          "title": "PLR 26-070 – Sports, Recreation and Physical Training Mishap Claims One Soldier’s Life",
+          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxON3Bvd1AzSzNnOWtkc1ctVWxKbnFBbHIxLUtmZDdyX2VXYnU1ZnNNVk4yMERzdmhmVU54ZVF3UFQzb2hOMzZPYmRKYy1BSE51X0FaNVJySEZEVllaTzBNY0lKSXhLQzBVVHpkbnlLT3hqdWFHWUFna3h1RVc1YzlfdUF1ZVdveGF3S2R3VU9ja0ZNbHFkT08xRms0MmRQQkJ6VWh6aXNjektROTB0d2xpTjNYQm9rM0FkUkhQUDNCRG9aTUx2Z0ZudFE5cjVpVnhLVXI0Nm5pbXp2b1FRQkQtSHdzbWtkem5STnB1Z3pkX3NZcGRFa0d3M01xcFlxVFBxWXJVN2tn?oc=5",
+          "domain": "safety.army.mil",
+          "sourceTier": "Official military source",
+          "seen": "20261008T203920Z",
+          "pinned": false
+        },
+        {
+          "title": "PLR 26-072 – Automobile Mishap Claims One Soldier’s Life",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbzBQbzN3NkRnbDhkaUdTWUt3ZHR3R3JaOHhKZkZySklJdVRWbDNLb3Bxb1J6ZXFaSUVSbC02V2tGbmFGVXVveXVDUnJIZzlEbHJwSzBNYUxqRVI4eGFjWWdBWWVDVW1KT29LMXBGUHhldTVzMWxMdGZMZkpZMmpRWHMzRVc5X0E0YUlXZmQzR0NlU1VZbk55V3Z2RDQzVFZ2Y1RzX2w1VFRaRm1VQzBrV2lVZUVKU0pmM2R5S1IyTkdtNXVwZ3N0N1FYbTZnR0ZYcjIyaWk5ZHYyWVU0eGpz?oc=5",
+          "domain": "safety.army.mil",
+          "sourceTier": "Official military source",
+          "seen": "20261008T203919Z",
           "pinned": false
         },
         {
@@ -117,11 +133,35 @@
           "pinned": false
         },
         {
+          "title": "Coast Guard searches for missing medical transport aircraft off Nantucket",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZVItdG1NMUJMYjhlb1ZyZ0ZneDJfRzI1Zl9QQmVlWVpkMjh1Q1lNcGdUa3gtYU9VcHVLZG1KSXhhdGJIclpYQ1dPcGxPTGNZbWs3SjlPbGZkRjdtVmlRLWhIVkMtckhWbHNNTi1ZSlpkSHJsUzdQRXFzZTJSOWVjN3VueUN3eldFYjRHNmhzOG1tbmpaUHk2Ti1RY2owWUg4VXUycXZqVGFKXzFzeWVjOUJHbUc3ODMyUWJUOUFQeXdzSUVLbHVnbGRDMA?oc=5",
+          "domain": "news.uscg.mil",
+          "sourceTier": "Official military source",
+          "seen": "20261003T070000Z",
+          "pinned": false
+        },
+        {
           "title": "Coast Guard suspends search for missing cruise ship passenger 57 miles off Mexican coast",
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxON2VMUDl2UG5MclFYS2d5RDNWbTNkSlVhWVZyRnNBRi04THotdGszN1kwdlpScGh3R0ZCS3l5N0hGVTBROUVJcTF5YkJEYkpuS1l6VjhXVDJmMjVsamthUU9mNFZEdmo5Vmp3VThqNEQtX2NFaTVReTRFOFg2THlkY2lsRG1pRVhFMUhfeVNOdHFlSW1EbE81SlYwNkFQTFVTX2g5UkVIT0UyZkFUWERwMXJTZ2tBZVBVWmFIZExUMzVjRDYxNUJWRVRlakNaOERJZzNv?oc=5",
           "domain": "news.uscg.mil",
           "sourceTier": "Official military source",
           "seen": "20260923T070000Z",
+          "pinned": false
+        },
+        {
+          "title": "Coast Guard suspends search of missing medical transport aircraft off Nantucket",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcFRfX293TWVHM0dsWkMzbzkxUjFhX1lSUS12eTZvekd3cnItWXB2eDZHRXZlSDFsYzBEMmhzOU15cGpzX1pYTkM0dUpCWVFFM2l5SnpXaXBkWk1CVXd6UkpoR1FXOEhUTmZrYVJyZUdDMmJ3MjlwWmVNUWp1LUZpRlFzZzVSRXJscjBESmtiXzNUa3hpcDZwbXVSTkhtSkpieTBvSFlNajk2RFpWaWxhM0hfZ2RSbGZBMm0zTU1FY1FxeHZiakdNYzZMQVU0ekh0ZkhJ?oc=5",
+          "domain": "news.uscg.mil",
+          "sourceTier": "Official military source",
+          "seen": "20261004T070000Z",
+          "pinned": false
+        },
+        {
+          "title": "Coast Guard, partner agencies suspend search for missing aliens following vessel capsizing in the Mona Passage",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMzdvVWYzSFE0NWstNURuclNnTmVrNEFjMlpGRVBadl8yVkc5QmFQZzZVb0NuMDlHWHJwZ2Vxb0k0M3V5R2FqbVNQbGpiYzFHOGJFRVBVOGlpMk9tRTZqb3B0dVdXOWxDdTVUTTlyS2NkTHU4ZVNnbmlEZ3hIaWpVWTBxTnV4VFhraGlCeWFZWmEzaXY5Rk55VnpwME84a0FPUXJIRy1hSFBMZ09pVzgtdS1oYWttQnV6cEh3VWlHdE9tUWtZd3k4NGJYb1JacVpkUFBF?oc=5",
+          "domain": "news.uscg.mil",
+          "sourceTier": "Official military source",
+          "seen": "20261001T070000Z",
           "pinned": false
         }
       ],
@@ -235,6 +275,42 @@
           "sourceLabel": "dvidshub.net"
         },
         {
+          "id": "auto-c69262b89463",
+          "reportDate": "2026-10-08",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Other",
+          "event": "PLR 26-070 – Sports, Recreation and Physical Training Mishap Claims One Soldier’s Life",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "OFFICIAL INTAKE",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Official military source",
+          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
+          "source": "https://news.google.com/rss/articles/CBMihgJBVV95cUxON3Bvd1AzSzNnOWtkc1ctVWxKbnFBbHIxLUtmZDdyX2VXYnU1ZnNNVk4yMERzdmhmVU54ZVF3UFQzb2hOMzZPYmRKYy1BSE51X0FaNVJySEZEVllaTzBNY0lKSXhLQzBVVHpkbnlLT3hqdWFHWUFna3h1RVc1YzlfdUF1ZVdveGF3S2R3VU9ja0ZNbHFkT08xRms0MmRQQkJ6VWh6aXNjektROTB0d2xpTjNYQm9rM0FkUkhQUDNCRG9aTUx2Z0ZudFE5cjVpVnhLVXI0Nm5pbXp2b1FRQkQtSHdzbWtkem5STnB1Z3pkX3NZcGRFa0d3M01xcFlxVFBxWXJVN2tn?oc=5",
+          "sourceLabel": "safety.army.mil"
+        },
+        {
+          "id": "auto-b18187ac61d5",
+          "reportDate": "2026-10-08",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Other",
+          "event": "PLR 26-072 – Automobile Mishap Claims One Soldier’s Life",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "OFFICIAL INTAKE",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Official military source",
+          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
+          "source": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbzBQbzN3NkRnbDhkaUdTWUt3ZHR3R3JaOHhKZkZySklJdVRWbDNLb3Bxb1J6ZXFaSUVSbC02V2tGbmFGVXVveXVDUnJIZzlEbHJwSzBNYUxqRVI4eGFjWWdBWWVDVW1KT29LMXBGUHhldTVzMWxMdGZMZkpZMmpRWHMzRVc5X0E0YUlXZmQzR0NlU1VZbk55V3Z2RDQzVFZ2Y1RzX2w1VFRaRm1VQzBrV2lVZUVKU0pmM2R5S1IyTkdtNXVwZ3N0N1FYbTZnR0ZYcjIyaWk5ZHYyWVU0eGpz?oc=5",
+          "sourceLabel": "safety.army.mil"
+        },
+        {
           "id": "auto-e6a179383909",
           "reportDate": "2026-10-08",
           "dateBasis": "report discovery date",
@@ -269,24 +345,6 @@
           "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
           "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTEpwTXQwTlVQUnktdmpMZ2NMbTJQSGZOZ1NpRUNNREhCdk5oUDA2VjQySnhLelBycG9lR3cyY0tLenM3b3MtZjVVUUtkakdqRTlncXBYQS1wQlZlS2xwV2R1TC1KTFh1LU9zbmpvNThOMTNvUmN1RWtlYl9fV3l1YXA2YUVKOG11bG43aS1ubHFSVmJSeFQxYzZ0OEhIUWdLVUdjUVpR?oc=5",
           "sourceLabel": "stripes.com"
-        },
-        {
-          "id": "auto-b18187ac61d5",
-          "reportDate": "2026-10-08",
-          "dateBasis": "report discovery date",
-          "branch": "Army",
-          "department": "Department of the Army",
-          "type": "Other",
-          "event": "PLR 26-072 – Automobile Mishap Claims One Soldier’s Life",
-          "location": "See official source",
-          "fatalities": null,
-          "injuries": null,
-          "status": "OFFICIAL INTAKE",
-          "signalClass": "REPORTED MISHAP",
-          "sourceTier": "Official military source",
-          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
-          "source": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbzBQbzN3NkRnbDhkaUdTWUt3ZHR3R3JaOHhKZkZySklJdVRWbDNLb3Bxb1J6ZXFaSUVSbC02V2tGbmFGVXVveXVDUnJIZzlEbHJwSzBNYUxqRVI4eGFjWWdBWWVDVW1KT29LMXBGUHhldTVzMWxMdGZMZkpZMmpRWHMzRVc5X0E0YUlXZmQzR0NlU1VZbk55V3Z2RDQzVFZ2Y1RzX2w1VFRaRm1VQzBrV2lVZUVKU0pmM2R5S1IyTkdtNXVwZ3N0N1FYbTZnR0ZYcjIyaWk5ZHYyWVU0eGpz?oc=5",
-          "sourceLabel": "safety.army.mil"
         },
         {
           "id": "auto-d71c2400a768",
@@ -361,6 +419,24 @@
           "sourceLabel": "apnews.com"
         },
         {
+          "id": "auto-9183c4c4a22f",
+          "reportDate": "2026-10-04",
+          "dateBasis": "report discovery date",
+          "branch": "Coast Guard",
+          "department": "Department of Homeland Security",
+          "type": "Aviation",
+          "event": "Coast Guard suspends search of missing medical transport aircraft off Nantucket",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "OFFICIAL INTAKE",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Official military source",
+          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
+          "source": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcFRfX293TWVHM0dsWkMzbzkxUjFhX1lSUS12eTZvekd3cnItWXB2eDZHRXZlSDFsYzBEMmhzOU15cGpzX1pYTkM0dUpCWVFFM2l5SnpXaXBkWk1CVXd6UkpoR1FXOEhUTmZrYVJyZUdDMmJ3MjlwWmVNUWp1LUZpRlFzZzVSRXJscjBESmtiXzNUa3hpcDZwbXVSTkhtSkpieTBvSFlNajk2RFpWaWxhM0hfZ2RSbGZBMm0zTU1FY1FxeHZiakdNYzZMQVU0ekh0ZkhJ?oc=5",
+          "sourceLabel": "news.uscg.mil"
+        },
+        {
           "id": "auto-6baf4576823a",
           "reportDate": "2026-10-04",
           "dateBasis": "report discovery date",
@@ -379,6 +455,24 @@
           "sourceLabel": "news.uscg.mil"
         },
         {
+          "id": "auto-917bb71c44ef",
+          "reportDate": "2026-10-03",
+          "dateBasis": "report discovery date",
+          "branch": "Coast Guard",
+          "department": "Department of Homeland Security",
+          "type": "Aviation",
+          "event": "Coast Guard searches for missing medical transport aircraft off Nantucket",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "OFFICIAL INTAKE",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Official military source",
+          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
+          "source": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZVItdG1NMUJMYjhlb1ZyZ0ZneDJfRzI1Zl9QQmVlWVpkMjh1Q1lNcGdUa3gtYU9VcHVLZG1KSXhhdGJIclpYQ1dPcGxPTGNZbWs3SjlPbGZkRjdtVmlRLWhIVkMtckhWbHNNTi1ZSlpkSHJsUzdQRXFzZTJSOWVjN3VueUN3eldFYjRHNmhzOG1tbmpaUHk2Ti1RY2owWUg4VXUycXZqVGFKXzFzeWVjOUJHbUc3ODMyUWJUOUFQeXdzSUVLbHVnbGRDMA?oc=5",
+          "sourceLabel": "news.uscg.mil"
+        },
+        {
           "id": "auto-5a85e5fdf7e4",
           "reportDate": "2026-10-03",
           "dateBasis": "report discovery date",
@@ -394,6 +488,24 @@
           "sourceTier": "Official military source",
           "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
           "source": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbU9EZ3M0cHFlaFBTTzZRT000djU0cnQ0UjRBVjZUYVB6Wm40czVzX2s5eEdFWVhWOE5lXzNfQ21fUlQwSHNDdzN3WkRmNG1pc3NVSzhKTU9qMldnMUxpWnBXZ2x0TFEyZS01MWZpWGFGNGJmUkkwekNBNjIwMG1KTGNhMHByZDJjOVdLZ2tJT0tTTTU0TUNzbU15Ty0zWHhib1I2ZDVhcjg4bjFiZ1BSV0lkTEN1R0tRekZRbUFnai1YajB1Mld4UU8tQjRVTWQ0VVE?oc=5",
+          "sourceLabel": "news.uscg.mil"
+        },
+        {
+          "id": "auto-a4a167d78583",
+          "reportDate": "2026-10-01",
+          "dateBasis": "report discovery date",
+          "branch": "Coast Guard",
+          "department": "Department of Homeland Security",
+          "type": "Maritime",
+          "event": "Coast Guard, partner agencies suspend search for missing aliens following vessel capsizing in the Mona Passage",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "OFFICIAL INTAKE",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Official military source",
+          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
+          "source": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMzdvVWYzSFE0NWstNURuclNnTmVrNEFjMlpGRVBadl8yVkc5QmFQZzZVb0NuMDlHWHJwZ2Vxb0k0M3V5R2FqbVNQbGpiYzFHOGJFRVBVOGlpMk9tRTZqb3B0dVdXOWxDdTVUTTlyS2NkTHU4ZVNnbmlEZ3hIaWpVWTBxTnV4VFhraGlCeWFZWmEzaXY5Rk55VnpwME84a0FPUXJIRy1hSFBMZ09pVzgtdS1oYWttQnV6cEh3VWlHdE9tUWtZd3k4NGJYb1JacVpkUFBF?oc=5",
           "sourceLabel": "news.uscg.mil"
         },
         {
