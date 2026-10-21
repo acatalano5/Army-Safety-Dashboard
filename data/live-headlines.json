@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-21T19:38:35.326Z",
+  "generatedAt": "2026-10-21T21:42:07.794Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-10-21T17:11:56.909Z",
+      "generatedAt": "2026-10-21T21:42:07.794Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -2185,7 +2185,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-10-21T17:11:56.909Z",
+      "generatedAt": "2026-10-21T21:42:07.794Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -2197,11 +2197,27 @@
           "pinned": false
         },
         {
+          "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uR3lheURKOHZfRVVGclF1YVpoVE9QcXpBTTlkc2JjUXV2RTQ2bHY0SFZCa1hmTXVTWU1XTnRaVk8yWk1XX2lUbWl4LVNjQ0Ficm5UdEdMMDh0S1E?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261021T174234Z",
+          "pinned": false
+        },
+        {
           "title": "Russia’s Lavrov discusses US war and regional security in Tehran visit",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNGY3eEp1ejlqZ1BCWkVka0pFRC03ZXQzc2VVclNpM21GZUlPZVh3N0xvLVpydVpyTTB0ZXhsQm1WdFdrT0RuaW5SUU9BbXlCVXNpcjF1dEQ2cmExWG43VzhiZlpwZUN3Zkl1Z2xraHVVcWFQZmZOR1ppd3NHazVTYnJ0N25sVGFYYW12VzJlRUtDaXNTeTFvMWVPZmFFT1pHZXQ5eDJKYU1KcVRFTU4tOEpubFN3MzBlSFJfdmdn0gHDAUFVX3lxTE5qTEpIbW1EeTcwM2dBQ2ItX1MzTVF4NDR0NG44ZHpzWDdINm1OUjhLT243cHRvQVdBb1dHbFVLdjlZN3FDaWxDR25oeXBZU0hIbnBnZmp3d3djZDl0WUFYRURTR2JzS2YxRXVmcUlIZ0tIUE4tZDZ5QTN3YWJGQXZoODM3el9XS1RINVF4dlB3Y2RsQzRUNTNQUXBTUFRWRTd3amI0OVpFSDJFUDJHSVVpbWR5eTc2dTlka3Y2N0xSQllRWQ?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20261019T153153Z",
+          "pinned": false
+        },
+        {
+          "title": "What help can Egypt offer Saudi Arabia in the war against the Houthis?",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMzhqQlNqYWdrQzFNTHpobVpTUndWZ3NoOWpxRXVoNUdYckdDaDVkSmtwbXJ4Y2RnZDN6OTZ0VjFLM1FfNHRZTGVOSXA4T19lamlwb3ZPQWFXd082VmNlWEJhQ082OHJvalJCdFNXa3B1NW9pVkhYVkZ6eG9uWk9YMTBzMlRQQV9QN19WclB5aWtwdjBKRlhyY1I2cFBoQUVZRlVvcVlCbHNpUG4wcGlSWdIBtgFBVV95cUxOR0tmR1ctSUduRlQ1Z3A4SlNJMUwtT28zSWNWYWRvWDM5d0dIaFcxQ3pvQnFRTTFlSHA0ODlJeEo5UHdzSC1hNDFLazEyUUN3T0JWMlFlTjlnZjFGTTVtNWVfSEwtbkhRd1BnR19VblIzTElFc1I2NXgyT1YyNElQYmxtTWJ3RmdDWldvdV9CYi0xaGZ4ZXJraXd1M2R1VGtmMFJWQXhmOERBYmpSYXEySGEzMDZ5Zw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261018T111321Z",
           "pinned": false
         },
         {
@@ -2226,6 +2242,14 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20261020T131719Z",
+          "pinned": false
+        },
+        {
+          "title": "Qatar warns global energy shockwaves from Iran war have yet to peak",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNU0VIWU5qMkFsVzFscGFuVFV1VEtOTWx1Wmg2OE1fQmZCalJJbkJNMHJid1JBUjJTLXVXYThDMEQyMVc4dGlMakxOTEFudklpU2NhdDU1Vm1xZDB1NXZ3RVU5em5IV01uTVI4T1RjMFhVbW12bV95Qy1EcnVkdURuT0Zyd3VtYVI3M25vN0RIUjVNeHJkU1dPbzYtUWw0RmJ5UWttS2g1b1NxVzUyQVE?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261019T092713Z",
           "pinned": false
         },
         {
@@ -2277,14 +2301,6 @@
           "pinned": false
         },
         {
-          "title": "Qatar warns global energy shockwaves from Iran war have yet to peak",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNU0VIWU5qMkFsVzFscGFuVFV1VEtOTWx1Wmg2OE1fQmZCalJJbkJNMHJid1JBUjJTLXVXYThDMEQyMVc4dGlMakxOTEFudklpU2NhdDU1Vm1xZDB1NXZ3RVU5em5IV01uTVI4T1RjMFhVbW12bV95Qy1EcnVkdURuT0Zyd3VtYVI3M25vN0RIUjVNeHJkU1dPbzYtUWw0RmJ5UWttS2g1b1NxVzUyQVHSAbMBQVVfeXFMT0V1ZDUxUjhWYW9iOENYbi1sNFhfSXlNSi12ZDZRbWJ6ZTVJWjRyd3BvUnBJZ2xRLWpSTUlnLWNVd0ZNZ0xTU2EzVUVsTWpNcXlJbkxLXzE4LVJ1OHNFM0NTQ1dxYy1IRUJLSGlqenFYeGVCVjhGVU5GYW1vSldqVE1weWRpRjhjeHk0QVFxVFE0aTBzN2hSQ2ZWYkd1YnlVaEYzQzN4TXIxcDFnNE5FMlJMTzA?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261019T092713Z",
-          "pinned": false
-        },
-        {
           "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5udnhBejAzQzZIeHRuYVp2N0s5alNvR3dKS0dfdmRMbFVhX0FjRDY5VXBqOWJXVzg3OEs4ZzhlaHF6bnNMNDhtSmhQaWo2QTRhc0h2endmQUNpcGM?oc=5",
           "domain": "bbc.com",
@@ -2293,27 +2309,11 @@
           "pinned": false
         },
         {
-          "title": "Russia ready to resume talks with Ukraine and US to end war",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uR3lheURKOHZfRVVGclF1YVpoVE9QcXpBTTlkc2JjUXV2RTQ2bHY0SFZCa1hmTXVTWU1XTnRaVk8yWk1XX2lUbWl4LVNjQ0Ficm5UdEdMMDh0S1E?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261021T155621Z",
-          "pinned": false
-        },
-        {
-          "title": "Vance faces tough questions on Iran war, immigration and more in CBS town hall",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNmNuX0Jsc285RXhjY2Fud29veUhrRzdDQUhQT1lnaEpncUVmanpPbUZSRkJOSDBDSXVxUkVrMjNJclhWQ1BuVFh3R2VYWUlxU3pYdW9HcHJkMTQ3X213Nk5McHl0ZWJQN0pyQWhETG9lX01mQTBNVnBQZURDMXlLeVZtRmtQbGJONnk2OXpsRGx5YUNLVFpB?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261018T033100Z",
-          "pinned": false
-        },
-        {
-          "title": "Putin agrees to resume trilateral talks on Ukraine war with Kyiv and Washington, Kremlin says",
+          "title": "Russia agrees to resume three-way talks on Ukraine war with Kyiv and Washington, Kremlin says",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMW9MQzVDRzVJcjRnVnpSeW5ZVlhBTEFablZZNTNQNFNkYmhmWjFXR2M4RlNDWldOTlh5TjFSYU5tVHhPSFFidnBtNFVGMEthRjV1TElCVGdQMjZHOXNNLXV6R1F0QVJjYTR6Q0pMbW4xVkFmUDVuQXNoYUJxbUd1TlBaWG4xdlBaYTZQVTJUSEdZXzJXN28xS0praHdNb0t2eUU3clRWTF9fR2ljZW1V?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261021T142100Z",
+          "seen": "20261021T212000Z",
           "pinned": false
         },
         {
@@ -2341,11 +2341,19 @@
           "pinned": false
         },
         {
-          "title": "Iran says 20 to 30 aircraft destroyed during war with US, Israel",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPenNmOHFTc0w4Nk9YQWhEY1ZWaDdZNEVBVVFHUTRHaEFKNzFWbEh0VGFJSmx4d19XVk16bU5XWHVtNDFCbmx4Q0JyREN6RWpUTjhubzJMSW8yWTgyZERZOVZ0N3REU2t1aWJXWEgzdjRlY24yQmZTMTkzTVFWVWJGRkVpTER1a09kNWlBUHNCUHB0WFhvamFqeWVmMS11RzVQa2hrVHdrcWhnSGdk?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "seen": "20261019T134124Z",
+          "title": "Vance faces tough questions on Iran war, immigration and more in CBS town hall",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNmNuX0Jsc285RXhjY2Fud29veUhrRzdDQUhQT1lnaEpncUVmanpPbUZSRkJOSDBDSXVxUkVrMjNJclhWQ1BuVFh3R2VYWUlxU3pYdW9HcHJkMTQ3X213Nk5McHl0ZWJQN0pyQWhETG9lX01mQTBNVnBQZURDMXlLeVZtRmtQbGJONnk2OXpsRGx5YUNLVFpB?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261018T033100Z",
+          "pinned": false
+        },
+        {
+          "title": "Extension plans put forward for historic Jersey War Tunnels",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yN1UyRHNncnowcVI2NzdqSGFrWTRubDZ0UG41anc3ZDdldVRJS3doY3hYNGI0VDNKMkFtVzhZc0NJcTlLYS1vbTc4M1hzLWlTS0U3aDJSd1N6eHc?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261021T125839Z",
           "pinned": false
         },
         {
@@ -2357,27 +2365,19 @@
           "pinned": false
         },
         {
+          "title": "Iran says 20 to 30 aircraft destroyed during war with US, Israel",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPenNmOHFTc0w4Nk9YQWhEY1ZWaDdZNEVBVVFHUTRHaEFKNzFWbEh0VGFJSmx4d19XVk16bU5XWHVtNDFCbmx4Q0JyREN6RWpUTjhubzJMSW8yWTgyZERZOVZ0N3REU2t1aWJXWEgzdjRlY24yQmZTMTkzTVFWVWJGRkVpTER1a09kNWlBUHNCUHB0WFhvamFqeWVmMS11RzVQa2hrVHdrcWhnSGdk?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20261019T134124Z",
+          "pinned": false
+        },
+        {
           "title": "NATO to send additional patrol planes to Black Sea after drone attacks",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOU1jbXF5cW96TXpGelhzZGhoNEZFS3NqckUxYTNKT3NVQWlDLWxPbmVHbkNWZy1lSTdrTzBhNDlyOUpVd1lsM1IwbDd5U3FWVWVZeF9zRjlsQk51TXJMWmhPQkljS2haZFItV3JOVXNuUWM4QWJ0TnA3THNHZUFvc3h0dl8zT3E1VTNFRWp0TTNiOFNPZzRpTC0zX3BXcUJHSENMY3liMThwUTRiNXdDeC1B0gG3AUFVX3lxTE1hbFhpVzR3cVVabnEzWEIzNnBwb0hZNnZoT3hIRklhTDVsV3ExZ2RpYk96UGZYbnVKaFB0UHVYRmRWd2VvUk14OXAyQ2NqOEFMSnVCVFFwcmp1QXY5RWc0TEZ5UGljMHVNTDVNWHJRN1Vnei1YaFhNMnFJb2wyckdOV1U5UTdJdl9sTnRBRmVTcHBuSEJpNmNOLWFmTFJjSFNSNkRmQUpzZUczV3V6UlpEY3R0ZHMwVQ?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20261020T233144Z",
-          "pinned": false
-        },
-        {
-          "title": "Airstrike kills at least 9 in rebel-held Yemen, and other Mideast news",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZTVQOXY5eWJtZXExSXpLYk9CMWUycWRQTEREeEtlUUtlQkRTR3laVnZQTEFIVjN6S1BpbXVkU3N1Nm1Vb09POV8xVGRncFFBMlp6RUR6QVJTTXBwcnZ4M2kzcmVXYVJVM3FaWkZyVlRsNGs2aml5UWdBM0Nuc3oyblpMS1hrdnVjcFZnNkx4bjJTVGJ3OEM0S1piZnFtbHZ1VnlUdEZvMjVHcGtZaGNSVg?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261018T094334Z",
-          "pinned": false
-        },
-        {
-          "title": "Houthi attack on Yemen army camp in Shabwa kills at least 53: reports",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQURxelJpODVFeDRIVWZNaEk5cFZlYXpMdUxxa2owdTRGbmV4SHI2a2JHaDluMzRTNFdobDdNeUN3ZHFuR1hfQ1lmSU1aWXFJc0hVaklCaWw1cEJjUno5Uk1Dc3FCcktyZV9rX3J4Rkd0UDZtMXV5NGhacDRHTTdoZGRkRGJNcG1QajFvYXk0Mkt3MS1UeDN5eW03U05COXVzOWFPbncyZFV2UkZVb1RMadIBtgFBVV95cUxQb1pVOUxXRU1SdmVLRmRkVE5qRDJ1dzdoM3JfZFlZSmxKa2d3a28yTXVReGFyWEtqNVN3ZmRIX1ZseWpsNzRscDVLZWFiellubjJsOW9iM1ZyT0FkUF9MUWljckF4WFdrSmhwd3pBWG15dGl4cXJyV2ZBY2RveFdkS01xT1hkc3JHMXFzNXFfVy1MUk9vNk1ocEVKTGFnMjROcVlMVmF1X3NYcVU4Rkd3TDNsTG1Ldw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261019T160430Z",
           "pinned": false
         }
       ],
@@ -2392,6 +2392,15 @@
           "reportedAt": "2026-10-19T16:22:51Z"
         },
         {
+          "id": "report-4be5e9bd994c",
+          "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uR3lheURKOHZfRVVGclF1YVpoVE9QcXpBTTlkc2JjUXV2RTQ2bHY0SFZCa1hmTXVTWU1XTnRaVk8yWk1XX2lUbWl4LVNjQ0Ficm5UdEdMMDh0S1E?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-21T17:42:34Z"
+        },
+        {
           "id": "report-5e2940bd2d71",
           "title": "Russia’s Lavrov discusses US war and regional security in Tehran visit",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNGY3eEp1ejlqZ1BCWkVka0pFRC03ZXQzc2VVclNpM21GZUlPZVh3N0xvLVpydVpyTTB0ZXhsQm1WdFdrT0RuaW5SUU9BbXlCVXNpcjF1dEQ2cmExWG43VzhiZlpwZUN3Zkl1Z2xraHVVcWFQZmZOR1ppd3NHazVTYnJ0N25sVGFYYW12VzJlRUtDaXNTeTFvMWVPZmFFT1pHZXQ5eDJKYU1KcVRFTU4tOEpubFN3MzBlSFJfdmdn0gHDAUFVX3lxTE5qTEpIbW1EeTcwM2dBQ2ItX1MzTVF4NDR0NG44ZHpzWDdINm1OUjhLT243cHRvQVdBb1dHbFVLdjlZN3FDaWxDR25oeXBZU0hIbnBnZmp3d3djZDl0WUFYRURTR2JzS2YxRXVmcUlIZ0tIUE4tZDZ5QTN3YWJGQXZoODM3el9XS1RINVF4dlB3Y2RsQzRUNTNQUXBTUFRWRTd3amI0OVpFSDJFUDJHSVVpbWR5eTc2dTlka3Y2N0xSQllRWQ?oc=5",
@@ -2399,6 +2408,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-10-19T15:31:53Z"
+        },
+        {
+          "id": "report-c86d768ab0e0",
+          "title": "What help can Egypt offer Saudi Arabia in the war against the Houthis?",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMzhqQlNqYWdrQzFNTHpobVpTUndWZ3NoOWpxRXVoNUdYckdDaDVkSmtwbXJ4Y2RnZDN6OTZ0VjFLM1FfNHRZTGVOSXA4T19lamlwb3ZPQWFXd082VmNlWEJhQ082OHJvalJCdFNXa3B1NW9pVkhYVkZ6eG9uWk9YMTBzMlRQQV9QN19WclB5aWtwdjBKRlhyY1I2cFBoQUVZRlVvcVlCbHNpUG4wcGlSWdIBtgFBVV95cUxOR0tmR1ctSUduRlQ1Z3A4SlNJMUwtT28zSWNWYWRvWDM5d0dIaFcxQ3pvQnFRTTFlSHA0ODlJeEo5UHdzSC1hNDFLazEyUUN3T0JWMlFlTjlnZjFGTTVtNWVfSEwtbkhRd1BnR19VblIzTElFc1I2NXgyT1YyNElQYmxtTWJ3RmdDWldvdV9CYi0xaGZ4ZXJraXd1M2R1VGtmMFJWQXhmOERBYmpSYXEySGEzMDZ5Zw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-18T11:13:21Z"
         },
         {
           "id": "report-ed933b4c00d0",
@@ -2426,6 +2444,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-10-20T13:17:19Z"
+        },
+        {
+          "id": "report-6e9b7559bc9e",
+          "title": "Qatar warns global energy shockwaves from Iran war have yet to peak",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNU0VIWU5qMkFsVzFscGFuVFV1VEtOTWx1Wmg2OE1fQmZCalJJbkJNMHJid1JBUjJTLXVXYThDMEQyMVc4dGlMakxOTEFudklpU2NhdDU1Vm1xZDB1NXZ3RVU5em5IV01uTVI4T1RjMFhVbW12bV95Qy1EcnVkdURuT0Zyd3VtYVI3M25vN0RIUjVNeHJkU1dPbzYtUWw0RmJ5UWttS2g1b1NxVzUyQVE?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-19T09:27:13Z"
         },
         {
           "id": "report-dff05cdf07a5",
@@ -2482,15 +2509,6 @@
           "reportedAt": "2026-10-19T13:31:27Z"
         },
         {
-          "id": "report-00ced67f5557",
-          "title": "Qatar warns global energy shockwaves from Iran war have yet to peak",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNU0VIWU5qMkFsVzFscGFuVFV1VEtOTWx1Wmg2OE1fQmZCalJJbkJNMHJid1JBUjJTLXVXYThDMEQyMVc4dGlMakxOTEFudklpU2NhdDU1Vm1xZDB1NXZ3RVU5em5IV01uTVI4T1RjMFhVbW12bV95Qy1EcnVkdURuT0Zyd3VtYVI3M25vN0RIUjVNeHJkU1dPbzYtUWw0RmJ5UWttS2g1b1NxVzUyQVHSAbMBQVVfeXFMT0V1ZDUxUjhWYW9iOENYbi1sNFhfSXlNSi12ZDZRbWJ6ZTVJWjRyd3BvUnBJZ2xRLWpSTUlnLWNVd0ZNZ0xTU2EzVUVsTWpNcXlJbkxLXzE4LVJ1OHNFM0NTQ1dxYy1IRUJLSGlqenFYeGVCVjhGVU5GYW1vSldqVE1weWRpRjhjeHk0QVFxVFE0aTBzN2hSQ2ZWYkd1YnlVaEYzQzN4TXIxcDFnNE5FMlJMTzA?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-19T09:27:13Z"
-        },
-        {
           "id": "report-591d643e4f67",
           "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5udnhBejAzQzZIeHRuYVp2N0s5alNvR3dKS0dfdmRMbFVhX0FjRDY5VXBqOWJXVzg3OEs4ZzhlaHF6bnNMNDhtSmhQaWo2QTRhc0h2endmQUNpcGM?oc=5",
@@ -2500,31 +2518,13 @@
           "reportedAt": "2026-10-19T21:02:33Z"
         },
         {
-          "id": "report-4be5e9bd994c",
-          "title": "Russia ready to resume talks with Ukraine and US to end war",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uR3lheURKOHZfRVVGclF1YVpoVE9QcXpBTTlkc2JjUXV2RTQ2bHY0SFZCa1hmTXVTWU1XTnRaVk8yWk1XX2lUbWl4LVNjQ0Ficm5UdEdMMDh0S1E?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-21T15:56:21Z"
-        },
-        {
-          "id": "report-fc4d21408fc6",
-          "title": "Vance faces tough questions on Iran war, immigration and more in CBS town hall",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNmNuX0Jsc285RXhjY2Fud29veUhrRzdDQUhQT1lnaEpncUVmanpPbUZSRkJOSDBDSXVxUkVrMjNJclhWQ1BuVFh3R2VYWUlxU3pYdW9HcHJkMTQ3X213Nk5McHl0ZWJQN0pyQWhETG9lX01mQTBNVnBQZURDMXlLeVZtRmtQbGJONnk2OXpsRGx5YUNLVFpB?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-18T03:31:00Z"
-        },
-        {
           "id": "report-13ea3e751cfe",
-          "title": "Putin agrees to resume trilateral talks on Ukraine war with Kyiv and Washington, Kremlin says",
+          "title": "Russia agrees to resume three-way talks on Ukraine war with Kyiv and Washington, Kremlin says",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMW9MQzVDRzVJcjRnVnpSeW5ZVlhBTEFablZZNTNQNFNkYmhmWjFXR2M4RlNDWldOTlh5TjFSYU5tVHhPSFFidnBtNFVGMEthRjV1TElCVGdQMjZHOXNNLXV6R1F0QVJjYTR6Q0pMbW4xVkFmUDVuQXNoYUJxbUd1TlBaWG4xdlBaYTZQVTJUSEdZXzJXN28xS0praHdNb0t2eUU3clRWTF9fR2ljZW1V?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-21T14:21:00Z"
+          "reportedAt": "2026-10-21T21:20:00Z"
         },
         {
           "id": "report-5eaf85b91d11",
@@ -2554,13 +2554,22 @@
           "reportedAt": "2026-10-20T12:09:12Z"
         },
         {
-          "id": "report-d69504ec4c63",
-          "title": "Iran says 20 to 30 aircraft destroyed during war with US, Israel",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPenNmOHFTc0w4Nk9YQWhEY1ZWaDdZNEVBVVFHUTRHaEFKNzFWbEh0VGFJSmx4d19XVk16bU5XWHVtNDFCbmx4Q0JyREN6RWpUTjhubzJMSW8yWTgyZERZOVZ0N3REU2t1aWJXWEgzdjRlY24yQmZTMTkzTVFWVWJGRkVpTER1a09kNWlBUHNCUHB0WFhvamFqeWVmMS11RzVQa2hrVHdrcWhnSGdk?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
-          "reportedAt": "2026-10-19T13:41:24Z"
+          "id": "report-fc4d21408fc6",
+          "title": "Vance faces tough questions on Iran war, immigration and more in CBS town hall",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNmNuX0Jsc285RXhjY2Fud29veUhrRzdDQUhQT1lnaEpncUVmanpPbUZSRkJOSDBDSXVxUkVrMjNJclhWQ1BuVFh3R2VYWUlxU3pYdW9HcHJkMTQ3X213Nk5McHl0ZWJQN0pyQWhETG9lX01mQTBNVnBQZURDMXlLeVZtRmtQbGJONnk2OXpsRGx5YUNLVFpB?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-18T03:31:00Z"
+        },
+        {
+          "id": "report-9d8250e026dc",
+          "title": "Extension plans put forward for historic Jersey War Tunnels",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yN1UyRHNncnowcVI2NzdqSGFrWTRubDZ0UG41anc3ZDdldVRJS3doY3hYNGI0VDNKMkFtVzhZc0NJcTlLYS1vbTc4M1hzLWlTS0U3aDJSd1N6eHc?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-21T12:58:39Z"
         },
         {
           "id": "report-ed4b34e210a5",
@@ -2572,6 +2581,15 @@
           "reportedAt": "2026-10-20T16:12:24Z"
         },
         {
+          "id": "report-d69504ec4c63",
+          "title": "Iran says 20 to 30 aircraft destroyed during war with US, Israel",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPenNmOHFTc0w4Nk9YQWhEY1ZWaDdZNEVBVVFHUTRHaEFKNzFWbEh0VGFJSmx4d19XVk16bU5XWHVtNDFCbmx4Q0JyREN6RWpUTjhubzJMSW8yWTgyZERZOVZ0N3REU2t1aWJXWEgzdjRlY24yQmZTMTkzTVFWVWJGRkVpTER1a09kNWlBUHNCUHB0WFhvamFqeWVmMS11RzVQa2hrVHdrcWhnSGdk?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-10-19T13:41:24Z"
+        },
+        {
           "id": "report-303f7580bcef",
           "title": "NATO to send additional patrol planes to Black Sea after drone attacks",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOU1jbXF5cW96TXpGelhzZGhoNEZFS3NqckUxYTNKT3NVQWlDLWxPbmVHbkNWZy1lSTdrTzBhNDlyOUpVd1lsM1IwbDd5U3FWVWVZeF9zRjlsQk51TXJMWmhPQkljS2haZFItV3JOVXNuUWM4QWJ0TnA3THNHZUFvc3h0dl8zT3E1VTNFRWp0TTNiOFNPZzRpTC0zX3BXcUJHSENMY3liMThwUTRiNXdDeC1B0gG3AUFVX3lxTE1hbFhpVzR3cVVabnEzWEIzNnBwb0hZNnZoT3hIRklhTDVsV3ExZ2RpYk96UGZYbnVKaFB0UHVYRmRWd2VvUk14OXAyQ2NqOEFMSnVCVFFwcmp1QXY5RWc0TEZ5UGljMHVNTDVNWHJRN1Vnei1YaFhNMnFJb2wyckdOV1U5UTdJdl9sTnRBRmVTcHBuSEJpNmNOLWFmTFJjSFNSNkRmQUpzZUczV3V6UlpEY3R0ZHMwVQ?oc=5",
@@ -2579,24 +2597,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-10-20T23:31:44Z"
-        },
-        {
-          "id": "report-9bcfc6c23417",
-          "title": "Airstrike kills at least 9 in rebel-held Yemen, and other Mideast news",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZTVQOXY5eWJtZXExSXpLYk9CMWUycWRQTEREeEtlUUtlQkRTR3laVnZQTEFIVjN6S1BpbXVkU3N1Nm1Vb09POV8xVGRncFFBMlp6RUR6QVJTTXBwcnZ4M2kzcmVXYVJVM3FaWkZyVlRsNGs2aml5UWdBM0Nuc3oyblpMS1hrdnVjcFZnNkx4bjJTVGJ3OEM0S1piZnFtbHZ1VnlUdEZvMjVHcGtZaGNSVg?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-18T09:43:34Z"
-        },
-        {
-          "id": "report-ccaa23fd265a",
-          "title": "Houthi attack on Yemen army camp in Shabwa kills at least 53: reports",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQURxelJpODVFeDRIVWZNaEk5cFZlYXpMdUxxa2owdTRGbmV4SHI2a2JHaDluMzRTNFdobDdNeUN3ZHFuR1hfQ1lmSU1aWXFJc0hVaklCaWw1cEJjUno5Uk1Dc3FCcktyZV9rX3J4Rkd0UDZtMXV5NGhacDRHTTdoZGRkRGJNcG1QajFvYXk0Mkt3MS1UeDN5eW03U05COXVzOWFPbncyZFV2UkZVb1RMadIBtgFBVV95cUxQb1pVOUxXRU1SdmVLRmRkVE5qRDJ1dzdoM3JfZFlZSmxKa2d3a28yTXVReGFyWEtqNVN3ZmRIX1ZseWpsNzRscDVLZWFiellubjJsOW9iM1ZyT0FkUF9MUWljckF4WFdrSmhwd3pBWG15dGl4cXJyV2ZBY2RveFdkS01xT1hkc3JHMXFzNXFfVy1MUk9vNk1ocEVKTGFnMjROcVlMVmF1X3NYcVU4Rkd3TDNsTG1Ldw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-19T16:04:30Z"
         },
         {
           "id": "report-ba89f2695635",
