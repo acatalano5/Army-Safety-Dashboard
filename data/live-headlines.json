@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-22T17:08:39.992Z",
+  "generatedAt": "2026-10-22T19:31:34.119Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -9,7 +9,7 @@
       "items": []
     },
     "safety": {
-      "generatedAt": "2026-10-21T19:38:35.326Z",
+      "generatedAt": "2026-10-22T19:31:34.119Z",
       "cadence": "daily",
       "items": [
         {
@@ -66,22 +66,6 @@
           "domain": "safety.army.mil",
           "sourceTier": "Official military source",
           "seen": "20261008T203918Z",
-          "pinned": false
-        },
-        {
-          "title": "PLR 26-067 – Motorcycle Mishap Claims One Soldier’s Life",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVDFUVlFQSzFTSWZhMS1xY29wd19HVWU3U29qZVAybk9PSHZDUkFxbHRWUzZ0NzdSelhNYVFibE90OUpYTlFOMjZYb1JINENkellMcVh5SFcwMUI1TDhqQmtrZ0FkUE0xRklmSjQyTmFYWmZXSHlIREx5Z2JfY0Q3VGt0TmM2eC1waHFLd3BkWkpMMDhfaDd6bk9TRnp3X015TWNSUko2MmFCdHFHVzVlZVFPV1R6SldJUnV5SnBkQi02VlU3dndnbl82czJMendhQWhXWkhwdVJDODR6bzhF?oc=5",
-          "domain": "safety.army.mil",
-          "sourceTier": "Official military source",
-          "seen": "20260923T070000Z",
-          "pinned": false
-        },
-        {
-          "title": "Pilot ejects in F-16 crash in Germany",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdDlwZWY5QUNLMXltbkF1LVZGNTNDTmI3T2ZUdm9reTBVejY1QjJxeWhXeE1vcUg0dlFCdjJsRDkxc1FSOWFSMWNBeWV6eU9NdlpPTVgwNmlJa2hVblhPcTBXV3pLc3FfaklqbEpiTHJsMzVHWFF6ODRGVjlFRk5vY19XTDFGUGgzOGlGZGVTQlJWQjlKQjl1d1ROYmlhUQ?oc=5",
-          "domain": "stripes.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20260922T070000Z",
           "pinned": false
         },
         {
@@ -563,24 +547,6 @@
           "sourceLabel": "news.uscg.mil"
         },
         {
-          "id": "auto-d5cb77e140c5",
-          "reportDate": "2026-09-23",
-          "dateBasis": "report discovery date",
-          "branch": "Army",
-          "department": "Department of the Army",
-          "type": "Other",
-          "event": "PLR 26-067 – Motorcycle Mishap Claims One Soldier’s Life",
-          "location": "See official source",
-          "fatalities": null,
-          "injuries": null,
-          "status": "OFFICIAL INTAKE",
-          "signalClass": "REPORTED MISHAP",
-          "sourceTier": "Official military source",
-          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
-          "source": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVDFUVlFQSzFTSWZhMS1xY29wd19HVWU3U29qZVAybk9PSHZDUkFxbHRWUzZ0NzdSelhNYVFibE90OUpYTlFOMjZYb1JINENkellMcVh5SFcwMUI1TDhqQmtrZ0FkUE0xRklmSjQyTmFYWmZXSHlIREx5Z2JfY0Q3VGt0TmM2eC1waHFLd3BkWkpMMDhfaDd6bk9TRnp3X015TWNSUko2MmFCdHFHVzVlZVFPV1R6SldJUnV5SnBkQi02VlU3dndnbl82czJMendhQWhXWkhwdVJDODR6bzhF?oc=5",
-          "sourceLabel": "safety.army.mil"
-        },
-        {
           "id": "auto-ef59dff80d84",
           "reportDate": "2026-09-23",
           "dateBasis": "report discovery date",
@@ -597,6 +563,24 @@
           "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
           "source": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxON2VMUDl2UG5MclFYS2d5RDNWbTNkSlVhWVZyRnNBRi04THotdGszN1kwdlpScGh3R0ZCS3l5N0hGVTBROUVJcTF5YkJEYkpuS1l6VjhXVDJmMjVsamthUU9mNFZEdmo5Vmp3VThqNEQtX2NFaTVReTRFOFg2THlkY2lsRG1pRVhFMUhfeVNOdHFlSW1EbE81SlYwNkFQTFVTX2g5UkVIT0UyZkFUWERwMXJTZ2tBZVBVWmFIZExUMzVjRDYxNUJWRVRlakNaOERJZzNv?oc=5",
           "sourceLabel": "news.uscg.mil"
+        },
+        {
+          "id": "auto-d5cb77e140c5",
+          "reportDate": "2026-09-23",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Other",
+          "event": "PLR 26-067 – Motorcycle Mishap Claims One Soldier’s Life",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "OFFICIAL INTAKE",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Official military source",
+          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
+          "source": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVDFUVlFQSzFTSWZhMS1xY29wd19HVWU3U29qZVAybk9PSHZDUkFxbHRWUzZ0NzdSelhNYVFibE90OUpYTlFOMjZYb1JINENkellMcVh5SFcwMUI1TDhqQmtrZ0FkUE0xRklmSjQyTmFYWmZXSHlIREx5Z2JfY0Q3VGt0TmM2eC1waHFLd3BkWkpMMDhfaDd6bk9TRnp3X015TWNSUko2MmFCdHFHVzVlZVFPV1R6SldJUnV5SnBkQi02VlU3dndnbl82czJMendhQWhXWkhwdVJDODR6bzhF?oc=5",
+          "sourceLabel": "safety.army.mil"
         },
         {
           "id": "auto-aca7857ede35",
