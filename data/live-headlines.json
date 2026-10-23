@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T17:06:50.597Z",
+  "generatedAt": "2026-10-23T19:33:12.173Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -9,7 +9,7 @@
       "items": []
     },
     "safety": {
-      "generatedAt": "2026-10-22T19:31:34.119Z",
+      "generatedAt": "2026-10-23T19:33:12.173Z",
       "cadence": "daily",
       "items": [
         {
@@ -34,14 +34,6 @@
           "domain": "dvidshub.net",
           "sourceTier": "Official military source",
           "seen": "20261008T025200Z",
-          "pinned": false
-        },
-        {
-          "title": "Four Salvadoran air force members missing after gang ambush in Haiti",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeDI0TFhMejhZSEJta3lTcS1OZUtlU2UwTkRxTDRlb2FyTzNVajdTMzNyS3JTbGw0SnpXR3lIMEVXUFlNUTk2WVVWX1hQQzkyLVV5SjlXREVSMFlkY1l2d3pkYjNjd29aT3RyTVVKdHlUNi0tMEIwUWN0VGZVU19nUkpfRUw2UlFHUTNjZEVUVHllbEQyeUlyQ085MDRIdXNMdG5UQ1h2UVlXTGxyMHBtakhFMGMzSWluSFBiUGh0US1tT3VPWjlv?oc=5",
-          "domain": "reuters.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261019T190922Z",
           "pinned": false
         },
         {
@@ -85,6 +77,14 @@
           "pinned": false
         },
         {
+          "title": "Mishap Investigation Advice",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc19FY29CaU9ZS05HZ010VnR3R2FGa1JBMFZTb2tZdEJLZkpfRTRLdm9VdGEwallmUi14dGlYNC12dmhYU3ZxaXJrQWJBM25LdmxadFFOanlYUWhkZFhmVTF2NG5iTUtfNHVJaWpiRVZ6UmdoVkxxUlU4OFFVVG13UA?oc=5",
+          "domain": "safety.army.mil",
+          "sourceTier": "Official military source",
+          "seen": "20261018T070000Z",
+          "pinned": false
+        },
+        {
           "title": "U.S. Coast Guard Releases Major Incident Investigation Report into Fatal MH-60T Mishap West off Cape Flattery",
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdzdHZFJvd2pEaWtGWXV3THhRVm5EMUZIcVktSjh3MHRYLVQ1blN2dUE5b05LVXBvZVpzZGUyTGJIbF9KQy1iQk96UmwzQ2M5Q05sS3ZZNS05ZkdUNF81SWZfekI1dngwbnlxTENNX1dKdWdVbTlQbHFyT3hFV3FVSWZpTTNnUlJfTUJsTWtOQlZDUnpMSkR1eWRadTRDRzdVMlZSQlhtNGFMRWpmMnR0M21IZTcwenRDUWcxNk5KLUFKTVVnOXpLY2FxRHdIRUpvNTBZ?oc=5",
           "domain": "news.uscg.mil",
@@ -122,14 +122,6 @@
           "domain": "news.uscg.mil",
           "sourceTier": "Official military source",
           "seen": "20261003T070000Z",
-          "pinned": false
-        },
-        {
-          "title": "Coast Guard suspends search for missing cruise ship passenger 57 miles off Mexican coast",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxON2VMUDl2UG5MclFYS2d5RDNWbTNkSlVhWVZyRnNBRi04THotdGszN1kwdlpScGh3R0ZCS3l5N0hGVTBROUVJcTF5YkJEYkpuS1l6VjhXVDJmMjVsamthUU9mNFZEdmo5Vmp3VThqNEQtX2NFaTVReTRFOFg2THlkY2lsRG1pRVhFMUhfeVNOdHFlSW1EbE81SlYwNkFQTFVTX2g5UkVIT0UyZkFUWERwMXJTZ2tBZVBVWmFIZExUMzVjRDYxNUJWRVRlakNaOERJZzNv?oc=5",
-          "domain": "news.uscg.mil",
-          "sourceTier": "Official military source",
-          "seen": "20260923T070000Z",
           "pinned": false
         },
         {
@@ -185,6 +177,24 @@
           "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
           "source": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeDI0TFhMejhZSEJta3lTcS1OZUtlU2UwTkRxTDRlb2FyTzNVajdTMzNyS3JTbGw0SnpXR3lIMEVXUFlNUTk2WVVWX1hQQzkyLVV5SjlXREVSMFlkY1l2d3pkYjNjd29aT3RyTVVKdHlUNi0tMEIwUWN0VGZVU19nUkpfRUw2UlFHUTNjZEVUVHllbEQyeUlyQ085MDRIdXNMdG5UQ1h2UVlXTGxyMHBtakhFMGMzSWluSFBiUGh0US1tT3VPWjlv?oc=5",
           "sourceLabel": "reuters.com"
+        },
+        {
+          "id": "auto-a349404d1c85",
+          "reportDate": "2026-10-18",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Other",
+          "event": "Mishap Investigation Advice",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "OFFICIAL INTAKE",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Official military source",
+          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
+          "source": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc19FY29CaU9ZS05HZ010VnR3R2FGa1JBMFZTb2tZdEJLZkpfRTRLdm9VdGEwallmUi14dGlYNC12dmhYU3ZxaXJrQWJBM25LdmxadFFOanlYUWhkZFhmVTF2NG5iTUtfNHVJaWpiRVZ6UmdoVkxxUlU4OFFVVG13UA?oc=5",
+          "sourceLabel": "safety.army.mil"
         },
         {
           "id": "auto-8fddae765eb0",
@@ -2111,24 +2121,6 @@
           "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
           "source": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQmE0R2xiMDkta0xiLVZzTndKYnJKM1dFa1hUM05wYjdia3c4MU40UXBXZzQzRmVLMU9PcWJFQTZBakRIYjJtY05mcWZSYVU1TGlfZHJhYmdyTWJpdUlUblJ0ZUZtckdjMlhvMjJHelN5NmExYVFtdlJ2Mk8xQzE0TVYtWVZYalFURlVjc1l4T0IyWm9LUEFJZlMtVWZCUFpqeWpTSFJqbG5yZGFFNUF0N1Nhc29ORkVNcng3ejh2dUpoQ3pnUFRFajBGQVNVSlhYRllN?oc=5",
           "sourceLabel": "patrick.spaceforce.mil"
-        },
-        {
-          "id": "auto-a349404d1c85",
-          "reportDate": "2022-12-07",
-          "dateBasis": "report discovery date",
-          "branch": "Army",
-          "department": "Department of the Army",
-          "type": "Other",
-          "event": "Mishap Investigation Advice",
-          "location": "See official source",
-          "fatalities": null,
-          "injuries": null,
-          "status": "OFFICIAL INTAKE",
-          "signalClass": "REPORTED MISHAP",
-          "sourceTier": "Official military source",
-          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
-          "source": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc19FY29CaU9ZS05HZ010VnR3R2FGa1JBMFZTb2tZdEJLZkpfRTRLdm9VdGEwallmUi14dGlYNC12dmhYU3ZxaXJrQWJBM25LdmxadFFOanlYUWhkZFhmVTF2NG5iTUtfNHVJaWpiRVZ6UmdoVkxxUlU4OFFVVG13UA?oc=5",
-          "sourceLabel": "safety.army.mil"
         },
         {
           "id": "auto-51aa13191293",
