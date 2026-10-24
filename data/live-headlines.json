@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T18:22:54.906Z",
+  "generatedAt": "2026-10-24T20:48:15.391Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-10-24T15:55:37.869Z",
+      "generatedAt": "2026-10-24T20:48:15.391Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -2239,9 +2239,17 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-10-24T15:55:37.869Z",
+      "generatedAt": "2026-10-24T20:48:15.391Z",
       "cadence": "every 6 hours",
       "items": [
+        {
+          "title": "Trump’s broken promises: economy, war and ICE",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdUF6NDE0cFpzdWEtcHlJSU84OUtTUnpGeFQ3YVdRM193ZVJjeXlvaVU1aC1sR1JTa29CdmU0ME9ldkFkMXpHZTNFWTdNNXhraXFPUjkyZjJneG1fR3l3NlpUWXBROGV6NklzNVdSd0FpNDVoOG9fTXJBRVNuU1U5SmtObzBEbC1zSGpkTmE4SFh3eExnUkxYb3ZLSk91R3fSAaQBQVVfeXFMTzVVT18tZEFIcFNkZXVueGQxSkItSnptWV9RRmN5bFFzWkRZVm1mMzE3WDl4NFRWbVdBT0l1UmFLVHRsWWI1T1JtTnVxV1MzMllpbkl3cWE3Vl9DLVNRQi13SmZId0R5V1pqQU9wSXpjYWVVZExJMHhoMkZlZXhWQzRkQmhKTXUydS1Rd0pQS0VwMFM2eGt6MVZpWDFxWGt6Y2xGcko?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261023T201440Z",
+          "pinned": false
+        },
         {
           "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uR3lheURKOHZfRVVGclF1YVpoVE9QcXpBTTlkc2JjUXV2RTQ2bHY0SFZCa1hmTXVTWU1XTnRaVk8yWk1XX2lUbWl4LVNjQ0Ficm5UdEdMMDh0S1E?oc=5",
@@ -2259,14 +2267,6 @@
           "pinned": false
         },
         {
-          "title": "Tigray resumes daily life amid fears of wider war",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcl8wNzRPTEh3Qkx1Uk1ldkVsTDZJNlBVUG8wSVUxZVA3MlFMek8wTEk0TEhwSmJ2QW5HQW9WNElYUElZTDNjZUJwTUR5S1Y4U2NETHVPR2JSeFVyd09pZDNjRzdWTG4yeEdSWXViZUgzV3BWUnBYV1llSWVDQXFMS0hNRFZibFZPcXp4N2Fua29XeWZNYmfSAZsBQVVfeXFMT1duZVQtN3V5RkEyT2J0SURXdE1CYmFrU2hpS1FNamV3UmVMcWlNSWJIZzN4bDZRRGxENzQ1QkZxNjRvcThFaDF1ekoyRW5yN0d3b1BRVjRELU0xcklNZkF4TUNRV2wwMkZtaEIwNEVEUXNnb29aVXQ5RzU4N3I1MVZqeEt1MWEzUTNFaXBpZ1d6WEJXajRNYTVtWUk?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261022T021033Z",
-          "pinned": false
-        },
-        {
           "title": "Trump’s Putin Overtures Deserve Criticism. But Outrage Won’t End the Ukraine War.",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVUdVMWVLWEpqU1pER2RKZ2luY2o4VkM2d1lzYVFVbDUtUHBRWHpYNGtFZmJrc3FsY2VWNTE4azBUUEVEeXJZMGtvU0dVVnNGaVF0YUdOeVNGWVZwLUk0M0FVQkpDMnI5MFZuWXpLZmEwWEVhNzdrYTkzUVhwWWtVRmlQWG52anVabnVUbXYzNnNUVklBdktlLVlyUWVUNzRrc2ZJSjZDYWZFZw?oc=5",
           "domain": "cfr.org",
@@ -2275,11 +2275,27 @@
           "pinned": false
         },
         {
+          "title": "Tigray resumes daily life amid fears of wider war",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcl8wNzRPTEh3Qkx1Uk1ldkVsTDZJNlBVUG8wSVUxZVA3MlFMek8wTEk0TEhwSmJ2QW5HQW9WNElYUElZTDNjZUJwTUR5S1Y4U2NETHVPR2JSeFVyd09pZDNjRzdWTG4yeEdSWXViZUgzV3BWUnBYV1llSWVDQXFMS0hNRFZibFZPcXp4N2Fua29XeWZNYmfSAZsBQVVfeXFMT1duZVQtN3V5RkEyT2J0SURXdE1CYmFrU2hpS1FNamV3UmVMcWlNSWJIZzN4bDZRRGxENzQ1QkZxNjRvcThFaDF1ekoyRW5yN0d3b1BRVjRELU0xcklNZkF4TUNRV2wwMkZtaEIwNEVEUXNnb29aVXQ5RzU4N3I1MVZqeEt1MWEzUTNFaXBpZ1d6WEJXajRNYTVtWUk?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261022T021033Z",
+          "pinned": false
+        },
+        {
           "title": "Iran determined to keep uranium amid increased war odds, flurry of meetings",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMFdVak1QOFhwYnBoaW5XVWlNY05HTXlvZXh1bGVUU3Z1VXBmbkhyRUFqeV9TMndmdy1RcDVPd3FzdTNock94LWt4LXZsXzhqV1lZSkNtMjB5ZDRmX0tsVE9LbFBRR1FHd0VfbzBMMTNwZTl3Mmd4Nml1b3d2ZW8tY252ZzI1OVVSYlRuemwyNEZWb1A4ODlGOGJfV3A5all6Y0hsb2ZuQUxMYVFIWDlPZWJMdm1BdEXSAbwBQVVfeXFMUEx6Vjg5MkdDbjdhRTBaZnJVY1lGLVJad2k3ekVfOUM5WUp6UUItaXFaNkVfR3hrdjRDaTVHWl9JR2hSVDdRUFozSkVOOTJTdGVyX3Ficml2bzZmTzM0YVVqcmJxdlhVYlpCelZHU1R1aTM1eHJyWW1pcHViMGluUGNhekUtaHltU1VyV0MyWGVLZlpKc255RzZxaEdlem42R0dQTnN3ZGxPOEhRa1BTT2hnNFFBRUtrS3hjQy0?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20261021T191217Z",
+          "pinned": false
+        },
+        {
+          "title": "Iran says won’t allow US warships to get close as Trump ponders new attacks",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbnhYekZtTGYtNUxRY1l0SkNlclVxV1JhVHJ2QUNzRFhRQW96Z0FWbXBSakNhblFEYk9kNHBibExfT0xFVFhLbUEzLWZpR0VNVC0tT2NlTTRIWmlaRThSTXN5OEF6d1ZiSEhGak11ck5zclJpYkRPODdJdFNqLXJTWjZiemlRSnZuOUV1MWY3eDZYMTBjaThzRDJaU3VVQnFqbFQ3bEt2enJEeHNUcm1nZTBnT1lXNXfSAbwBQVVfeXFMTzcyR081VVdqUVNRX05XQ0NxRFFPdm81M0NEV0hPcm9FYlZmTEJ4bTBPQUtjSjZvOEx3aGFWdGNDbHkyZzdoVDlVZzZyU1NrNkt4YkhBZGxZcm1vZ0tlWTB0T3lZbDdaX3dnSkZVdUpqc19KZnpWS3Vlc2tiN1JEQUNWZEVZYmV0ZWVyYXFENDU4a2FqU3ZWZGR5dFFreHl4VzVZellsU2hwQVcyZzBBTjl6SG9WQUpBNmprOXA?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261024T131507Z",
           "pinned": false
         },
         {
@@ -2315,11 +2331,11 @@
           "pinned": false
         },
         {
-          "title": "Qatar, France call for opening of Hormuz and Gaza ceasefire implementation",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYkw0S1pZT3NUWTZoNXV5UzlmSkNncVpJZm55RzZNUzRYaE84WHdCbkFIaC1CeVRuVEZRbURObUZBVzJGYVNDMnRFeXczdW0zVjg3d0dCSmE0U1VMbnNxTWozWDYzdzBzYTlZTUtsS1dqQjVibE1DanpQS0hwaGhiSzByWXRwaXY2b01wSFFaN2RvOTFrNDFMTnRObE5DWDFmcmlWSUhqdkVCMGZ1aERCeUVsbmV2UdIBuwFBVV95cUxPRHdYejczZDIxeWFydUo4eTZkYWNPSGpjdzFHclJOeFF5NWtRZldfZjVyODVGZkRYRlRyRHU0ZkhnQ1hYT1k3ZXJta0xCT2ZtSzVyRnZKamJyVWVOOE04N1dDdEZLNTlLcjdEcElKZk1IWXJKYVc2eDk5SGJGTDc3YVhkdUlMRmtyU1h2TjllVmNPVmh3ZUJtUDdjcHI0X2I2Ry1VeW1YV3hPZnNpQmtUSi1NSnEzN1B0UFpj?oc=5",
+          "title": "Israeli attacks kill four as famine risk looms in Gaza",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa1JPY0I4cnB1WEZRVDV3NVp6RjQ4QmFtY2J3bW1UUk0wdzU1V2o1WlVMb3NZNUxsNm1aWlg5YmduOFVCZWtvNjRQOUMwSjYyYmljNzJCelRFVWt3a1VkbGVaNFVfNFRCVURiU3ZfMENNeTl5RVNHQjRZSTRwVEh2elhmTloteEdTZFdCSkpYRVdoUXNHbFZHREdDT2VMcUHSAaQBQVVfeXFMTWFYendSNFY5bW9rTWFCbVVHcDdwc05PeW9meV8wWVc5QmxzWFF0ZElrYmU2X3Y5dUtISmRBLXhWRUprZDNBbUJJWm94Q1ZHZ01nX3JHMDdacVVsMU1qZkRSeXlNZDJOVU1WaTNBallDTHpPRFI3LWE4eGZnRVg2NTBKV1dNZVpwRWpNZGJSU1MxSmVrcDNCeG40M2VuZTNSVkhFM1Y?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261022T015856Z",
+          "seen": "20261022T195528Z",
           "pinned": false
         },
         {
@@ -2331,11 +2347,19 @@
           "pinned": false
         },
         {
-          "title": "Israeli attacks kill four as famine risk looms in Gaza",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa1JPY0I4cnB1WEZRVDV3NVp6RjQ4QmFtY2J3bW1UUk0wdzU1V2o1WlVMb3NZNUxsNm1aWlg5YmduOFVCZWtvNjRQOUMwSjYyYmljNzJCelRFVWt3a1VkbGVaNFVfNFRCVURiU3ZfMENNeTl5RVNHQjRZSTRwVEh2elhmTloteEdTZFdCSkpYRVdoUXNHbFZHREdDT2VMcUHSAaQBQVVfeXFMTWFYendSNFY5bW9rTWFCbVVHcDdwc05PeW9meV8wWVc5QmxzWFF0ZElrYmU2X3Y5dUtISmRBLXhWRUprZDNBbUJJWm94Q1ZHZ01nX3JHMDdacVVsMU1qZkRSeXlNZDJOVU1WaTNBallDTHpPRFI3LWE4eGZnRVg2NTBKV1dNZVpwRWpNZGJSU1MxSmVrcDNCeG40M2VuZTNSVkhFM1Y?oc=5",
+          "title": "Qatar, France call for opening of Hormuz and Gaza ceasefire implementation",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYkw0S1pZT3NUWTZoNXV5UzlmSkNncVpJZm55RzZNUzRYaE84WHdCbkFIaC1CeVRuVEZRbURObUZBVzJGYVNDMnRFeXczdW0zVjg3d0dCSmE0U1VMbnNxTWozWDYzdzBzYTlZTUtsS1dqQjVibE1DanpQS0hwaGhiSzByWXRwaXY2b01wSFFaN2RvOTFrNDFMTnRObE5DWDFmcmlWSUhqdkVCMGZ1aERCeUVsbmV2UdIBuwFBVV95cUxPRHdYejczZDIxeWFydUo4eTZkYWNPSGpjdzFHclJOeFF5NWtRZldfZjVyODVGZkRYRlRyRHU0ZkhnQ1hYT1k3ZXJta0xCT2ZtSzVyRnZKamJyVWVOOE04N1dDdEZLNTlLcjdEcElKZk1IWXJKYVc2eDk5SGJGTDc3YVhkdUlMRmtyU1h2TjllVmNPVmh3ZUJtUDdjcHI0X2I2Ry1VeW1YV3hPZnNpQmtUSi1NSnEzN1B0UFpj?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261022T195528Z",
+          "seen": "20261022T015856Z",
+          "pinned": false
+        },
+        {
+          "title": "Russia agrees to resume three-way talks on Ukraine war with Kyiv and Washington, Kremlin says",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMW9MQzVDRzVJcjRnVnpSeW5ZVlhBTEFablZZNTNQNFNkYmhmWjFXR2M4RlNDWldOTlh5TjFSYU5tVHhPSFFidnBtNFVGMEthRjV1TElCVGdQMjZHOXNNLXV6R1F0QVJjYTR6Q0pMbW4xVkFmUDVuQXNoYUJxbUd1TlBaWG4xdlBaYTZQVTJUSEdZXzJXN28xS0praHdNb0t2eUU3clRWTF9fR2ljZW1V?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261021T212000Z",
           "pinned": false
         },
         {
@@ -2352,6 +2376,14 @@
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20261024T073602Z",
+          "pinned": false
+        },
+        {
+          "title": "What to know about the Melania Trump-brokered ceasefire in Russian-occupied Oleshky",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONllIN0YycVhheUhkdFhFSTdabU5DMmJGMFNIQS15NWYwQV9BTS0tV3lPeHJkUGVsWmNNX3FZMkI5bEdzUF9sNXAtUklUb2JsRDZ1UkNScEFJMHRjRWZITGJxMS1hTWdyM0hhdjk3eUM2dkNiTG1IVjQta28takE4YUUwaWYtQ0MyNGE1aFkzUS1VQXQyNkEweDl4TWZYRGx4NlpZU2szYi1tdw?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261024T123100Z",
           "pinned": false
         },
         {
@@ -2387,55 +2419,32 @@
           "pinned": false
         },
         {
+          "title": "Iran says 7 oil tankers attacked in the Strait of Hormuz as fears grow of a return to war",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOVo5NGVvb09wSzBSTFVOa21PVVRNWWlEYUd1ZEU2U0tjTm55R3hYQ2Ezd1lUWUYwbFNpVUhJVDBxNlZaamJKaDJvblV1dl83LVhSX21rMkZuUXQtWFZmZmpZbXRrMkwwRzloVnA0QUs0cjN5MXNiZDBKR2MwaW9Sa1BKUGlaRUlQeG5PYnNPcTQ3YXZFc3QybjE1ZmVCYVJmY0doag?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261022T185500Z",
+          "pinned": false
+        },
+        {
           "title": "Is an 'AI war' complicating your job search?",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xTlgxV2lrLS0wQnhKWW5ZZnZQVVZjLTFpRHdRNV85aUg1MVlwZ1EtRm1IbGM5UFRBRjA3NGpTODkwSUJPQkl6TUZ4NkxJRlhCYWpwSDFTWDE4bVE?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20261022T050131Z",
           "pinned": false
-        },
-        {
-          "title": "Global News Podcast | Melania Trump brokers ceasefire for Ukrainian city",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBKYUIzNlk1Tnk3MUlGMkszRXZ0d3o0WGdMUmtfZjdHd19tYWlkX3ZwbEU3cmkwQmxidlQzcGNuUFRLdHFSQXNpSEdLbnJvaVpQ?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261024T035317Z",
-          "pinned": false
-        },
-        {
-          "title": "UK's gaps in Arctic defence leave it open to Russian attacks, committee warns",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iS2hOWGdpbTQxVXRXUFNHbjkxaEphdk90S1lzSVNScFJObW1qT1lNM0tXdzdBRTY2V2JTaXFDREJ3T281WVNwaVJSTk44TFZuRDBnSHFCTzdyODA?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261022T020921Z",
-          "pinned": false
-        },
-        {
-          "title": "FCC Democrat warns broadcasters to resist Trump’s media pressure tactics",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcjRQNXpDTFVyVmtiNzBpSlViUWVFdFU1OUpvQWRvdXlYMnU3bWN5N0lFamxmMDliaU02ejVQazNiUXhoaEtiYUZrV0NRTVNaYmJFZHQ1ZUk3U205TVpYd3NUM1k5NnNBZXRiNG16REs1bndWUV95aWlySlRhNzNFR01qVEE1Yl9OTGN5Qnkwa0w3d21Db0x6NHZZbVlfNGRWWkxaU3AwYzN5ajZTUzRJblZyRUhzSFnSAbwBQVVfeXFMTm5xQjQ4Qms2NXFpdkVPcy1STFQtR2xXV2NuZDdMdmhlNVk5Mzg5RHhoV3F2MGZxTUJIdkpkZTYwOUVscGJaS1lfbTUyODhBbnhfU0VnYVF1cTZLUzhJRmhZRUxzUWJjWE9hc2hydzk2TEY2bnFLTmFIYXptdXN5YW1jVXU5dFpTOHFwU2ppeGFQZXJIdkxVekdZcEVUdU5IVXhPelpFQ3pOZW0zdDRPb2RPajc3UVFZV2t6WlM?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261023T204728Z",
-          "pinned": false
-        },
-        {
-          "title": "US-sanctioned ICC wins Sakharov Prize, EU’s top human rights award",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNGRZdXYwZWdKX1JISFJXa1A5UW5FcVRMVWY5SUI1LWk5MHNFdUVpU3hyaElYQzBBOXZRSzRiaVFUZ2FpZU4xTmpIREpiX2wtWHpzNVlQaktRdUJKN1VQbF8yMk1RNVhnZXZZYWYxYjg1TUhkOFFONkNrUkV0b0JrSGVlVGd5VG9OR3hZamtHY2lIbk5BVk9QRk83dmEtLXN3N2MtZjZOalNCd9IBrwFBVV95cUxPTEM2ajJmekFwcU1xZlY2WEJIWmJJNFRlLXBzUHFYc2k1NEd0Z3gzYjJ0eHA2UGtmLWlqX3VUcVA5cU81NGROS0k5RjlNa3Q2bFgyTXc1c1hoakhjT3JHaEFXSWtZdDhMbXExYWEzUW5rWUI1WUhObXlvNnlPQUE2aVFzR1Q0MHJDVEFBWllLRU4yOFZfY2w2OHhmMTFRbWpEN1ZVMXRtS0x3VjFHU2VF?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261022T223910Z",
-          "pinned": false
-        },
-        {
-          "title": "A Ukrainian soldier lost his sight in war. Now he hopes to see his children again",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM0lfRHBNRmlWY1RVMGtOemRtLVVpaDY5WjR2OHA1YjE2cjViUXItdnZaemdBVUh3cmtkLTBOS0JaZ3Y0Qm1HZGp1XzdtajNtdkxFeC12WlZYbXFGTEYzRXZnd0Z0eFFPTzN4WWxwWWZLOHBPRF8za0V1Q21taVRUd0doNzRMSjVqWldVTHNydG5nVzQzWXow?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261023T040800Z",
-          "pinned": false
         }
       ],
       "reports": [
+        {
+          "id": "report-87f4c8d81cd6",
+          "title": "Trump’s broken promises: economy, war and ICE",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdUF6NDE0cFpzdWEtcHlJSU84OUtTUnpGeFQ3YVdRM193ZVJjeXlvaVU1aC1sR1JTa29CdmU0ME9ldkFkMXpHZTNFWTdNNXhraXFPUjkyZjJneG1fR3l3NlpUWXBROGV6NklzNVdSd0FpNDVoOG9fTXJBRVNuU1U5SmtObzBEbC1zSGpkTmE4SFh3eExnUkxYb3ZLSk91R3fSAaQBQVVfeXFMTzVVT18tZEFIcFNkZXVueGQxSkItSnptWV9RRmN5bFFzWkRZVm1mMzE3WDl4NFRWbVdBT0l1UmFLVHRsWWI1T1JtTnVxV1MzMllpbkl3cWE3Vl9DLVNRQi13SmZId0R5V1pqQU9wSXpjYWVVZExJMHhoMkZlZXhWQzRkQmhKTXUydS1Rd0pQS0VwMFM2eGt6MVZpWDFxWGt6Y2xGcko?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-23T20:14:40Z"
+        },
         {
           "id": "report-4be5e9bd994c",
           "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
@@ -2455,15 +2464,6 @@
           "reportedAt": "2026-10-24T00:19:34Z"
         },
         {
-          "id": "report-35d475c78b88",
-          "title": "Tigray resumes daily life amid fears of wider war",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcl8wNzRPTEh3Qkx1Uk1ldkVsTDZJNlBVUG8wSVUxZVA3MlFMek8wTEk0TEhwSmJ2QW5HQW9WNElYUElZTDNjZUJwTUR5S1Y4U2NETHVPR2JSeFVyd09pZDNjRzdWTG4yeEdSWXViZUgzV3BWUnBYV1llSWVDQXFMS0hNRFZibFZPcXp4N2Fua29XeWZNYmfSAZsBQVVfeXFMT1duZVQtN3V5RkEyT2J0SURXdE1CYmFrU2hpS1FNamV3UmVMcWlNSWJIZzN4bDZRRGxENzQ1QkZxNjRvcThFaDF1ekoyRW5yN0d3b1BRVjRELU0xcklNZkF4TUNRV2wwMkZtaEIwNEVEUXNnb29aVXQ5RzU4N3I1MVZqeEt1MWEzUTNFaXBpZ1d6WEJXajRNYTVtWUk?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-22T02:10:33Z"
-        },
-        {
           "id": "report-4c82028ce965",
           "title": "Trump’s Putin Overtures Deserve Criticism. But Outrage Won’t End the Ukraine War.",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVUdVMWVLWEpqU1pER2RKZ2luY2o4VkM2d1lzYVFVbDUtUHBRWHpYNGtFZmJrc3FsY2VWNTE4azBUUEVEeXJZMGtvU0dVVnNGaVF0YUdOeVNGWVZwLUk0M0FVQkpDMnI5MFZuWXpLZmEwWEVhNzdrYTkzUVhwWWtVRmlQWG52anVabnVUbXYzNnNUVklBdktlLVlyUWVUNzRrc2ZJSjZDYWZFZw?oc=5",
@@ -2473,6 +2473,15 @@
           "reportedAt": "2026-10-21T21:17:59Z"
         },
         {
+          "id": "report-35d475c78b88",
+          "title": "Tigray resumes daily life amid fears of wider war",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcl8wNzRPTEh3Qkx1Uk1ldkVsTDZJNlBVUG8wSVUxZVA3MlFMek8wTEk0TEhwSmJ2QW5HQW9WNElYUElZTDNjZUJwTUR5S1Y4U2NETHVPR2JSeFVyd09pZDNjRzdWTG4yeEdSWXViZUgzV3BWUnBYV1llSWVDQXFMS0hNRFZibFZPcXp4N2Fua29XeWZNYmfSAZsBQVVfeXFMT1duZVQtN3V5RkEyT2J0SURXdE1CYmFrU2hpS1FNamV3UmVMcWlNSWJIZzN4bDZRRGxENzQ1QkZxNjRvcThFaDF1ekoyRW5yN0d3b1BRVjRELU0xcklNZkF4TUNRV2wwMkZtaEIwNEVEUXNnb29aVXQ5RzU4N3I1MVZqeEt1MWEzUTNFaXBpZ1d6WEJXajRNYTVtWUk?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-22T02:10:33Z"
+        },
+        {
           "id": "report-06e99c446fe5",
           "title": "Iran determined to keep uranium amid increased war odds, flurry of meetings",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMFdVak1QOFhwYnBoaW5XVWlNY05HTXlvZXh1bGVUU3Z1VXBmbkhyRUFqeV9TMndmdy1RcDVPd3FzdTNock94LWt4LXZsXzhqV1lZSkNtMjB5ZDRmX0tsVE9LbFBRR1FHd0VfbzBMMTNwZTl3Mmd4Nml1b3d2ZW8tY252ZzI1OVVSYlRuemwyNEZWb1A4ODlGOGJfV3A5all6Y0hsb2ZuQUxMYVFIWDlPZWJMdm1BdEXSAbwBQVVfeXFMUEx6Vjg5MkdDbjdhRTBaZnJVY1lGLVJad2k3ekVfOUM5WUp6UUItaXFaNkVfR3hrdjRDaTVHWl9JR2hSVDdRUFozSkVOOTJTdGVyX3Ficml2bzZmTzM0YVVqcmJxdlhVYlpCelZHU1R1aTM1eHJyWW1pcHViMGluUGNhekUtaHltU1VyV0MyWGVLZlpKc255RzZxaEdlem42R0dQTnN3ZGxPOEhRa1BTT2hnNFFBRUtrS3hjQy0?oc=5",
@@ -2480,6 +2489,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-10-21T19:12:17Z"
+        },
+        {
+          "id": "report-48ea5016f6ea",
+          "title": "Iran says won’t allow US warships to get close as Trump ponders new attacks",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbnhYekZtTGYtNUxRY1l0SkNlclVxV1JhVHJ2QUNzRFhRQW96Z0FWbXBSakNhblFEYk9kNHBibExfT0xFVFhLbUEzLWZpR0VNVC0tT2NlTTRIWmlaRThSTXN5OEF6d1ZiSEhGak11ck5zclJpYkRPODdJdFNqLXJTWjZiemlRSnZuOUV1MWY3eDZYMTBjaThzRDJaU3VVQnFqbFQ3bEt2enJEeHNUcm1nZTBnT1lXNXfSAbwBQVVfeXFMTzcyR081VVdqUVNRX05XQ0NxRFFPdm81M0NEV0hPcm9FYlZmTEJ4bTBPQUtjSjZvOEx3aGFWdGNDbHkyZzdoVDlVZzZyU1NrNkt4YkhBZGxZcm1vZ0tlWTB0T3lZbDdaX3dnSkZVdUpqc19KZnpWS3Vlc2tiN1JEQUNWZEVZYmV0ZWVyYXFENDU4a2FqU3ZWZGR5dFFreHl4VzVZellsU2hwQVcyZzBBTjl6SG9WQUpBNmprOXA?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-24T13:15:07Z"
         },
         {
           "id": "report-18cb86c3436e",
@@ -2518,13 +2536,13 @@
           "reportedAt": "2026-10-24T04:48:23Z"
         },
         {
-          "id": "report-b415682d05e0",
-          "title": "Qatar, France call for opening of Hormuz and Gaza ceasefire implementation",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYkw0S1pZT3NUWTZoNXV5UzlmSkNncVpJZm55RzZNUzRYaE84WHdCbkFIaC1CeVRuVEZRbURObUZBVzJGYVNDMnRFeXczdW0zVjg3d0dCSmE0U1VMbnNxTWozWDYzdzBzYTlZTUtsS1dqQjVibE1DanpQS0hwaGhiSzByWXRwaXY2b01wSFFaN2RvOTFrNDFMTnRObE5DWDFmcmlWSUhqdkVCMGZ1aERCeUVsbmV2UdIBuwFBVV95cUxPRHdYejczZDIxeWFydUo4eTZkYWNPSGpjdzFHclJOeFF5NWtRZldfZjVyODVGZkRYRlRyRHU0ZkhnQ1hYT1k3ZXJta0xCT2ZtSzVyRnZKamJyVWVOOE04N1dDdEZLNTlLcjdEcElKZk1IWXJKYVc2eDk5SGJGTDc3YVhkdUlMRmtyU1h2TjllVmNPVmh3ZUJtUDdjcHI0X2I2Ry1VeW1YV3hPZnNpQmtUSi1NSnEzN1B0UFpj?oc=5",
+          "id": "report-507d9cc0818f",
+          "title": "Israeli attacks kill four as famine risk looms in Gaza",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa1JPY0I4cnB1WEZRVDV3NVp6RjQ4QmFtY2J3bW1UUk0wdzU1V2o1WlVMb3NZNUxsNm1aWlg5YmduOFVCZWtvNjRQOUMwSjYyYmljNzJCelRFVWt3a1VkbGVaNFVfNFRCVURiU3ZfMENNeTl5RVNHQjRZSTRwVEh2elhmTloteEdTZFdCSkpYRVdoUXNHbFZHREdDT2VMcUHSAaQBQVVfeXFMTWFYendSNFY5bW9rTWFCbVVHcDdwc05PeW9meV8wWVc5QmxzWFF0ZElrYmU2X3Y5dUtISmRBLXhWRUprZDNBbUJJWm94Q1ZHZ01nX3JHMDdacVVsMU1qZkRSeXlNZDJOVU1WaTNBallDTHpPRFI3LWE4eGZnRVg2NTBKV1dNZVpwRWpNZGJSU1MxSmVrcDNCeG40M2VuZTNSVkhFM1Y?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-22T01:58:56Z"
+          "reportedAt": "2026-10-22T19:55:28Z"
         },
         {
           "id": "report-68897566fef9",
@@ -2536,13 +2554,22 @@
           "reportedAt": "2026-10-24T01:17:00Z"
         },
         {
-          "id": "report-507d9cc0818f",
-          "title": "Israeli attacks kill four as famine risk looms in Gaza",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa1JPY0I4cnB1WEZRVDV3NVp6RjQ4QmFtY2J3bW1UUk0wdzU1V2o1WlVMb3NZNUxsNm1aWlg5YmduOFVCZWtvNjRQOUMwSjYyYmljNzJCelRFVWt3a1VkbGVaNFVfNFRCVURiU3ZfMENNeTl5RVNHQjRZSTRwVEh2elhmTloteEdTZFdCSkpYRVdoUXNHbFZHREdDT2VMcUHSAaQBQVVfeXFMTWFYendSNFY5bW9rTWFCbVVHcDdwc05PeW9meV8wWVc5QmxzWFF0ZElrYmU2X3Y5dUtISmRBLXhWRUprZDNBbUJJWm94Q1ZHZ01nX3JHMDdacVVsMU1qZkRSeXlNZDJOVU1WaTNBallDTHpPRFI3LWE4eGZnRVg2NTBKV1dNZVpwRWpNZGJSU1MxSmVrcDNCeG40M2VuZTNSVkhFM1Y?oc=5",
+          "id": "report-b415682d05e0",
+          "title": "Qatar, France call for opening of Hormuz and Gaza ceasefire implementation",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYkw0S1pZT3NUWTZoNXV5UzlmSkNncVpJZm55RzZNUzRYaE84WHdCbkFIaC1CeVRuVEZRbURObUZBVzJGYVNDMnRFeXczdW0zVjg3d0dCSmE0U1VMbnNxTWozWDYzdzBzYTlZTUtsS1dqQjVibE1DanpQS0hwaGhiSzByWXRwaXY2b01wSFFaN2RvOTFrNDFMTnRObE5DWDFmcmlWSUhqdkVCMGZ1aERCeUVsbmV2UdIBuwFBVV95cUxPRHdYejczZDIxeWFydUo4eTZkYWNPSGpjdzFHclJOeFF5NWtRZldfZjVyODVGZkRYRlRyRHU0ZkhnQ1hYT1k3ZXJta0xCT2ZtSzVyRnZKamJyVWVOOE04N1dDdEZLNTlLcjdEcElKZk1IWXJKYVc2eDk5SGJGTDc3YVhkdUlMRmtyU1h2TjllVmNPVmh3ZUJtUDdjcHI0X2I2Ry1VeW1YV3hPZnNpQmtUSi1NSnEzN1B0UFpj?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-22T19:55:28Z"
+          "reportedAt": "2026-10-22T01:58:56Z"
+        },
+        {
+          "id": "report-13ea3e751cfe",
+          "title": "Russia agrees to resume three-way talks on Ukraine war with Kyiv and Washington, Kremlin says",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMW9MQzVDRzVJcjRnVnpSeW5ZVlhBTEFablZZNTNQNFNkYmhmWjFXR2M4RlNDWldOTlh5TjFSYU5tVHhPSFFidnBtNFVGMEthRjV1TElCVGdQMjZHOXNNLXV6R1F0QVJjYTR6Q0pMbW4xVkFmUDVuQXNoYUJxbUd1TlBaWG4xdlBaYTZQVTJUSEdZXzJXN28xS0praHdNb0t2eUU3clRWTF9fR2ljZW1V?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-21T21:20:00Z"
         },
         {
           "id": "report-304d131c461c",
@@ -2561,6 +2588,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-10-24T07:36:02Z"
+        },
+        {
+          "id": "report-57c81ce23407",
+          "title": "What to know about the Melania Trump-brokered ceasefire in Russian-occupied Oleshky",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONllIN0YycVhheUhkdFhFSTdabU5DMmJGMFNIQS15NWYwQV9BTS0tV3lPeHJkUGVsWmNNX3FZMkI5bEdzUF9sNXAtUklUb2JsRDZ1UkNScEFJMHRjRWZITGJxMS1hTWdyM0hhdjk3eUM2dkNiTG1IVjQta28takE4YUUwaWYtQ0MyNGE1aFkzUS1VQXQyNkEweDl4TWZYRGx4NlpZU2szYi1tdw?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-24T12:31:00Z"
         },
         {
           "id": "report-c3a378ac1d45",
@@ -2599,6 +2635,15 @@
           "reportedAt": "2026-10-21T12:58:39Z"
         },
         {
+          "id": "report-4d96117a4bc4",
+          "title": "Iran says 7 oil tankers attacked in the Strait of Hormuz as fears grow of a return to war",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOVo5NGVvb09wSzBSTFVOa21PVVRNWWlEYUd1ZEU2U0tjTm55R3hYQ2Ezd1lUWUYwbFNpVUhJVDBxNlZaamJKaDJvblV1dl83LVhSX21rMkZuUXQtWFZmZmpZbXRrMkwwRzloVnA0QUs0cjN5MXNiZDBKR2MwaW9Sa1BKUGlaRUlQeG5PYnNPcTQ3YXZFc3QybjE1ZmVCYVJmY0doag?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-22T18:55:00Z"
+        },
+        {
           "id": "report-c3acfc37b3f9",
           "title": "Is an 'AI war' complicating your job search?",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xTlgxV2lrLS0wQnhKWW5ZZnZQVVZjLTFpRHdRNV85aUg1MVlwZ1EtRm1IbGM5UFRBRjA3NGpTODkwSUJPQkl6TUZ4NkxJRlhCYWpwSDFTWDE4bVE?oc=5",
@@ -2606,51 +2651,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-10-22T05:01:31Z"
-        },
-        {
-          "id": "report-f011aac37f23",
-          "title": "Global News Podcast | Melania Trump brokers ceasefire for Ukrainian city",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBKYUIzNlk1Tnk3MUlGMkszRXZ0d3o0WGdMUmtfZjdHd19tYWlkX3ZwbEU3cmkwQmxidlQzcGNuUFRLdHFSQXNpSEdLbnJvaVpQ?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-24T03:53:17Z"
-        },
-        {
-          "id": "report-4d12fb716bfe",
-          "title": "UK's gaps in Arctic defence leave it open to Russian attacks, committee warns",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iS2hOWGdpbTQxVXRXUFNHbjkxaEphdk90S1lzSVNScFJObW1qT1lNM0tXdzdBRTY2V2JTaXFDREJ3T281WVNwaVJSTk44TFZuRDBnSHFCTzdyODA?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-22T02:09:21Z"
-        },
-        {
-          "id": "report-1df57d71b093",
-          "title": "FCC Democrat warns broadcasters to resist Trump’s media pressure tactics",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcjRQNXpDTFVyVmtiNzBpSlViUWVFdFU1OUpvQWRvdXlYMnU3bWN5N0lFamxmMDliaU02ejVQazNiUXhoaEtiYUZrV0NRTVNaYmJFZHQ1ZUk3U205TVpYd3NUM1k5NnNBZXRiNG16REs1bndWUV95aWlySlRhNzNFR01qVEE1Yl9OTGN5Qnkwa0w3d21Db0x6NHZZbVlfNGRWWkxaU3AwYzN5ajZTUzRJblZyRUhzSFnSAbwBQVVfeXFMTm5xQjQ4Qms2NXFpdkVPcy1STFQtR2xXV2NuZDdMdmhlNVk5Mzg5RHhoV3F2MGZxTUJIdkpkZTYwOUVscGJaS1lfbTUyODhBbnhfU0VnYVF1cTZLUzhJRmhZRUxzUWJjWE9hc2hydzk2TEY2bnFLTmFIYXptdXN5YW1jVXU5dFpTOHFwU2ppeGFQZXJIdkxVekdZcEVUdU5IVXhPelpFQ3pOZW0zdDRPb2RPajc3UVFZV2t6WlM?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-23T20:47:28Z"
-        },
-        {
-          "id": "report-d550f17682c6",
-          "title": "US-sanctioned ICC wins Sakharov Prize, EU’s top human rights award",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNGRZdXYwZWdKX1JISFJXa1A5UW5FcVRMVWY5SUI1LWk5MHNFdUVpU3hyaElYQzBBOXZRSzRiaVFUZ2FpZU4xTmpIREpiX2wtWHpzNVlQaktRdUJKN1VQbF8yMk1RNVhnZXZZYWYxYjg1TUhkOFFONkNrUkV0b0JrSGVlVGd5VG9OR3hZamtHY2lIbk5BVk9QRk83dmEtLXN3N2MtZjZOalNCd9IBrwFBVV95cUxPTEM2ajJmekFwcU1xZlY2WEJIWmJJNFRlLXBzUHFYc2k1NEd0Z3gzYjJ0eHA2UGtmLWlqX3VUcVA5cU81NGROS0k5RjlNa3Q2bFgyTXc1c1hoakhjT3JHaEFXSWtZdDhMbXExYWEzUW5rWUI1WUhObXlvNnlPQUE2aVFzR1Q0MHJDVEFBWllLRU4yOFZfY2w2OHhmMTFRbWpEN1ZVMXRtS0x3VjFHU2VF?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-22T22:39:10Z"
-        },
-        {
-          "id": "report-0af4d93635ba",
-          "title": "A Ukrainian soldier lost his sight in war. Now he hopes to see his children again",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM0lfRHBNRmlWY1RVMGtOemRtLVVpaDY5WjR2OHA1YjE2cjViUXItdnZaemdBVUh3cmtkLTBOS0JaZ3Y0Qm1HZGp1XzdtajNtdkxFeC12WlZYbXFGTEYzRXZnd0Z0eFFPTzN4WWxwWWZLOHBPRF8za0V1Q21taVRUd0doNzRMSjVqWldVTHNydG5nVzQzWXow?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-23T04:08:00Z"
         },
         {
           "id": "report-ba89f2695635",
