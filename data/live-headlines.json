@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T16:15:23.477Z",
+  "generatedAt": "2026-10-25T18:34:25.297Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -9,7 +9,7 @@
       "items": []
     },
     "safety": {
-      "generatedAt": "2026-10-24T18:22:54.906Z",
+      "generatedAt": "2026-10-25T18:34:25.297Z",
       "cadence": "daily",
       "items": [
         {
@@ -19,14 +19,6 @@
           "sourceTier": "Official / intergovernmental",
           "seen": "20250129T204800Z",
           "pinned": true
-        },
-        {
-          "title": "Air Force Identifies TACP Airman Killed in Alamodome Rappelling Accident",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSTZwTFh2RWQxemxYQUFrVmpCQWdqNkM3UWROcDF3Wm5YV1dzUjlYYk9aWTBfNS0yMk5fRGtiU1lTbFRaSzJ0a0dmMG5weDZ3dWprb1FTeUg5aUN4R3ZLclhOZDVBQzNJcEl0STFuei1Va3p6Si05MzZtRkdPVV9Tb2FfTmIwRWJCcVA0U0ZLZFU1ZzVNa3huaE9aaw?oc=5",
-          "domain": "airandspaceforces.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261019T223302Z",
-          "pinned": false
         },
         {
           "title": "US Army Soldiers Intervene During Crash and Knife Attack near JBLM [Image 3 of 3]",
@@ -50,14 +42,6 @@
           "domain": "safety.army.mil",
           "sourceTier": "Official military source",
           "seen": "20261008T203920Z",
-          "pinned": false
-        },
-        {
-          "title": "PLR 26-072 – Automobile Mishap Claims One Soldier’s Life",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbzBQbzN3NkRnbDhkaUdTWUt3ZHR3R3JaOHhKZkZySklJdVRWbDNLb3Bxb1J6ZXFaSUVSbC02V2tGbmFGVXVveXVDUnJIZzlEbHJwSzBNYUxqRVI4eGFjWWdBWWVDVW1KT29LMXBGUHhldTVzMWxMdGZMZkpZMmpRWHMzRVc5X0E0YUlXZmQzR0NlU1VZbk55V3Z2RDQzVFZ2Y1RzX2w1VFRaRm1VQzBrV2lVZUVKU0pmM2R5S1IyTkdtNXVwZ3N0N1FYbTZnR0ZYcjIyaWk5ZHYyWVU0eGpz?oc=5",
-          "domain": "safety.army.mil",
-          "sourceTier": "Official military source",
-          "seen": "20261008T203919Z",
           "pinned": false
         },
         {
@@ -97,7 +81,7 @@
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdzdHZFJvd2pEaWtGWXV3THhRVm5EMUZIcVktSjh3MHRYLVQ1blN2dUE5b05LVXBvZVpzZGUyTGJIbF9KQy1iQk96UmwzQ2M5Q05sS3ZZNS05ZkdUNF81SWZfekI1dngwbnlxTENNX1dKdWdVbTlQbHFyT3hFV3FVSWZpTTNnUlJfTUJsTWtOQlZDUnpMSkR1eWRadTRDRzdVMlZSQlhtNGFMRWpmMnR0M21IZTcwenRDUWcxNk5KLUFKTVVnOXpLY2FxRHdIRUpvNTBZ?oc=5",
           "domain": "news.uscg.mil",
           "sourceTier": "Official military source",
-          "seen": "20261016T202621Z",
+          "seen": "20261016T070000Z",
           "pinned": false
         },
         {
@@ -347,24 +331,6 @@
           "sourceLabel": "safety.army.mil"
         },
         {
-          "id": "auto-b18187ac61d5",
-          "reportDate": "2026-10-08",
-          "dateBasis": "report discovery date",
-          "branch": "Army",
-          "department": "Department of the Army",
-          "type": "Other",
-          "event": "PLR 26-072 – Automobile Mishap Claims One Soldier’s Life",
-          "location": "See official source",
-          "fatalities": null,
-          "injuries": null,
-          "status": "OFFICIAL INTAKE",
-          "signalClass": "REPORTED MISHAP",
-          "sourceTier": "Official military source",
-          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
-          "source": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbzBQbzN3NkRnbDhkaUdTWUt3ZHR3R3JaOHhKZkZySklJdVRWbDNLb3Bxb1J6ZXFaSUVSbC02V2tGbmFGVXVveXVDUnJIZzlEbHJwSzBNYUxqRVI4eGFjWWdBWWVDVW1KT29LMXBGUHhldTVzMWxMdGZMZkpZMmpRWHMzRVc5X0E0YUlXZmQzR0NlU1VZbk55V3Z2RDQzVFZ2Y1RzX2w1VFRaRm1VQzBrV2lVZUVKU0pmM2R5S1IyTkdtNXVwZ3N0N1FYbTZnR0ZYcjIyaWk5ZHYyWVU0eGpz?oc=5",
-          "sourceLabel": "safety.army.mil"
-        },
-        {
           "id": "auto-e6a179383909",
           "reportDate": "2026-10-08",
           "dateBasis": "report discovery date",
@@ -380,6 +346,24 @@
           "sourceTier": "Official military source",
           "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
           "source": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQczRZdndTcDBOeFNwWmd6d0dqUG9hVnJwU2tFcTlVNzQ2cFQ4TklRWGx4RmhRWDRucXdHaV9INm5DV1JISHZoTGVNR0t6OGY5M1ZaeTlZRWZqU1lkaTBNV3R0YUJIbGtNTEMwNFdmcWpPazB6Q0RBQzJOWHVLekdRaXNnQXg4bDQ2TkhkZHNFVHNrZEZxeVZySWNQTTVWRk04VkFfSHFUbjV5clZoUldxczJkUWdOZ3ZJNmNZa2pCNXpOdFZhdWxRUllMMURONWlxd29zLTQzUzJwS0ZNMTBF?oc=5",
+          "sourceLabel": "safety.army.mil"
+        },
+        {
+          "id": "auto-b18187ac61d5",
+          "reportDate": "2026-10-08",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Other",
+          "event": "PLR 26-072 – Automobile Mishap Claims One Soldier’s Life",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "OFFICIAL INTAKE",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Official military source",
+          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
+          "source": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbzBQbzN3NkRnbDhkaUdTWUt3ZHR3R3JaOHhKZkZySklJdVRWbDNLb3Bxb1J6ZXFaSUVSbC02V2tGbmFGVXVveXVDUnJIZzlEbHJwSzBNYUxqRVI4eGFjWWdBWWVDVW1KT29LMXBGUHhldTVzMWxMdGZMZkpZMmpRWHMzRVc5X0E0YUlXZmQzR0NlU1VZbk55V3Z2RDQzVFZ2Y1RzX2w1VFRaRm1VQzBrV2lVZUVKU0pmM2R5S1IyTkdtNXVwZ3N0N1FYbTZnR0ZYcjIyaWk5ZHYyWVU0eGpz?oc=5",
           "sourceLabel": "safety.army.mil"
         },
         {
