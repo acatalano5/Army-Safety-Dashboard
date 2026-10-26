@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T20:51:08.740Z",
+  "generatedAt": "2026-10-26T04:43:22.700Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-10-25T20:51:08.740Z",
+      "generatedAt": "2026-10-26T04:43:22.700Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -2247,23 +2247,23 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-10-25T20:51:08.740Z",
+      "generatedAt": "2026-10-26T04:43:22.700Z",
       "cadence": "every 6 hours",
       "items": [
-        {
-          "title": "Trump’s broken promises: economy, war and ICE",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdUF6NDE0cFpzdWEtcHlJSU84OUtTUnpGeFQ3YVdRM193ZVJjeXlvaVU1aC1sR1JTa29CdmU0ME9ldkFkMXpHZTNFWTdNNXhraXFPUjkyZjJneG1fR3l3NlpUWXBROGV6NklzNVdSd0FpNDVoOG9fTXJBRVNuU1U5SmtObzBEbC1zSGpkTmE4SFh3eExnUkxYb3ZLSk91R3fSAaQBQVVfeXFMTzVVT18tZEFIcFNkZXVueGQxSkItSnptWV9RRmN5bFFzWkRZVm1mMzE3WDl4NFRWbVdBT0l1UmFLVHRsWWI1T1JtTnVxV1MzMllpbkl3cWE3Vl9DLVNRQi13SmZId0R5V1pqQU9wSXpjYWVVZExJMHhoMkZlZXhWQzRkQmhKTXUydS1Rd0pQS0VwMFM2eGt6MVZpWDFxWGt6Y2xGcko?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261023T201440Z",
-          "pinned": false
-        },
         {
           "title": "Obama’s Ohio, Michigan speeches: Key takeaways on Trump, Iran war, midterms",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNmpMTzVMV0M5WU04b2s2LW1QeWlLWVVSdnRJQ2xQeW9WeVdXVjZYVkVwVFgzWTd5U25HZHJ4VFFIb0xfZDBrOVNJYzVsWndCcmhfdEkycExMaVoxelNzcWtuTWhxdjFKWVZxeVhGemVZdi0wNjBaX1pwdWE0aTBOS1gtUlNUcjRwRXNzcXNkdnF6ZDlrTFBJejVCQ1kwUGRjQWQ2MTNHai10OUlhQ29TdFNn0gG3AUFVX3lxTE9zVTVQVDdCLWlial92eERzejVzYnlMSnRwdTRiOFd5WTZCcFE2VnVabkJYOFNwV0NQRl90a0R1ZllSc2NDUDdPLVd3bXBUV0dLcU01a0MzbVhNVUlHczgzUTlYOW95YkZFVVdFOW8zVmROUUN0alc1aTZzRnNuTUxZcHg1a1VTQktVYkNhSTBNMzZiampRSUFtbjBFaDBSZURlVDBiYnh4MjBBRDNuYlVNTnpPcVdJaw?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20261025T085107Z",
+          "pinned": false
+        },
+        {
+          "title": "Trump’s broken promises: economy, war and ICE",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdUF6NDE0cFpzdWEtcHlJSU84OUtTUnpGeFQ3YVdRM193ZVJjeXlvaVU1aC1sR1JTa29CdmU0ME9ldkFkMXpHZTNFWTdNNXhraXFPUjkyZjJneG1fR3l3NlpUWXBROGV6NklzNVdSd0FpNDVoOG9fTXJBRVNuU1U5SmtObzBEbC1zSGpkTmE4SFh3eExnUkxYb3ZLSk91R3fSAaQBQVVfeXFMTzVVT18tZEFIcFNkZXVueGQxSkItSnptWV9RRmN5bFFzWkRZVm1mMzE3WDl4NFRWbVdBT0l1UmFLVHRsWWI1T1JtTnVxV1MzMllpbkl3cWE3Vl9DLVNRQi13SmZId0R5V1pqQU9wSXpjYWVVZExJMHhoMkZlZXhWQzRkQmhKTXUydS1Rd0pQS0VwMFM2eGt6MVZpWDFxWGt6Y2xGcko?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261023T201440Z",
           "pinned": false
         },
         {
@@ -2291,14 +2291,6 @@
           "pinned": false
         },
         {
-          "title": "‘Foreign policy is the economy’: How Iran war is shaping US midterm vote",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZTE0eGxjbnpxQWhWMFZjZ2NLRndrUVVRT0tESmFTMmFvVTRYOThlT3RIT0dGQmRjWFkxYlhvQWo0SUVzeEI0S0lpYTlYd1IyXzBldjhBZDVicnZuZzBRTUVmWnplc2E5dE04VGFEOUNESXc5QlRTUHhEaEdvYUdnRU9QSDFRVTNZdHJjT095aHBkNlYtUWRlUEpFZVFuaUNvYlBhWGtpX2tzZlJyejdZNdIBtgFBVV95cUxNWl9vS193SjVBemd0dU1KZkFYT3Fqd2lpQTZHaHZ3NHJHUE44cFJQU3lFODZqaFJXY3dPMjk5NUJzVElTOEZHZjF2YkFhOWpOcEloZ0pOMFFjLXliTG96eFZXQWprb2p6cERWRkZrTDJWbDRzTEpBS2VJc0d1QmJ4QldYeUNFMldQSjVFUU02RWVFbGhJd3FSeFpyeU01NFRBNTNVRGdQTEk4TmhUQ21VbzRxdWFSdw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261023T161221Z",
-          "pinned": false
-        },
-        {
           "title": "Gaza’s visually and hearing-impaired children miss school due to Israel war",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbmdtUml1WGlzcUlpWFFyTkJEX3FBb0FYZEVDNWhzc3dfRXVRQ21LeG1JdXU2czV5d2ptVGdDRVRodmFHUFpjMlIzcklqNW1JbmZxaFYzVHB5UXRuOG10M2t4WDhpLTJLYnNkZEdNUmwwenhaY0UwaUprSUJnUlJiUlNhQnVQNEpKTUFydjdjVUx6QzF4SXd5ODc3Ukw5S3Y2NF9zVUlWa2ZZV2FUV2YzVUN1OXlEajJxTC01WdIBwgFBVV95cUxQVEQtejRyTHlUTjltZ1l3enRCanJLeUhpZ3loM1ltZXMtYWxlTGpkZVBtby10SEp2bUY1Wk04enRpUzVKVC0zZVduaklzWVlNZ0pzOUtkU29ySDdQa0NBMVpDM1VjeWkxNE1RRTY4WWpFTGgyckJLOEs3NjBEZ0s3eEV1UUFDaHluVmRYRFl3M3dseDcwSy0tN3EzTjc0eEo2NTJ2NlV3ZWRVM1BGLUttbXFSVkRzWnczblVvTjlLR1JCZw?oc=5",
           "domain": "aljazeera.com",
@@ -2307,11 +2299,11 @@
           "pinned": false
         },
         {
-          "title": "Tigray resumes daily life amid fears of wider war",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcl8wNzRPTEh3Qkx1Uk1ldkVsTDZJNlBVUG8wSVUxZVA3MlFMek8wTEk0TEhwSmJ2QW5HQW9WNElYUElZTDNjZUJwTUR5S1Y4U2NETHVPR2JSeFVyd09pZDNjRzdWTG4yeEdSWXViZUgzV3BWUnBYV1llSWVDQXFMS0hNRFZibFZPcXp4N2Fua29XeWZNYmfSAZsBQVVfeXFMT1duZVQtN3V5RkEyT2J0SURXdE1CYmFrU2hpS1FNamV3UmVMcWlNSWJIZzN4bDZRRGxENzQ1QkZxNjRvcThFaDF1ekoyRW5yN0d3b1BRVjRELU0xcklNZkF4TUNRV2wwMkZtaEIwNEVEUXNnb29aVXQ5RzU4N3I1MVZqeEt1MWEzUTNFaXBpZ1d6WEJXajRNYTVtWUk?oc=5",
+          "title": "‘Foreign policy is the economy’: How Iran war is shaping US midterm vote",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZTE0eGxjbnpxQWhWMFZjZ2NLRndrUVVRT0tESmFTMmFvVTRYOThlT3RIT0dGQmRjWFkxYlhvQWo0SUVzeEI0S0lpYTlYd1IyXzBldjhBZDVicnZuZzBRTUVmWnplc2E5dE04VGFEOUNESXc5QlRTUHhEaEdvYUdnRU9QSDFRVTNZdHJjT095aHBkNlYtUWRlUEpFZVFuaUNvYlBhWGtpX2tzZlJyejdZNdIBtgFBVV95cUxNWl9vS193SjVBemd0dU1KZkFYT3Fqd2lpQTZHaHZ3NHJHUE44cFJQU3lFODZqaFJXY3dPMjk5NUJzVElTOEZHZjF2YkFhOWpOcEloZ0pOMFFjLXliTG96eFZXQWprb2p6cERWRkZrTDJWbDRzTEpBS2VJc0d1QmJ4QldYeUNFMldQSjVFUU02RWVFbGhJd3FSeFpyeU01NFRBNTNVRGdQTEk4TmhUQ21VbzRxdWFSdw?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261022T021033Z",
+          "seen": "20261023T161221Z",
           "pinned": false
         },
         {
@@ -2323,6 +2315,14 @@
           "pinned": false
         },
         {
+          "title": "Iran blames US for deal failure, urges new try amid fear of new attacks",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ05XMkJCM0VsWlpad3c3TDI0OTBlWEl4SnJrdlNfRmFyRXdTOGpEZUk2YWlUMFZHZ25qOTctZ282NXo1bXN6SXZGUFZTNTZwN2JBbVJtNjZzY1lmYkQzU3l6Y3N0U2ZERmJ4eHUwc3kxX3otMUFiUm12RWY2MVJWTUs4Sk54V3lOZURVOUYzQ2hWZzBQU3lhYTBQd0NCOGNFUUJ1QUdEREhXaTBLQkpDRTlB0gG3AUFVX3lxTE81TzJSMTVEOHE5ZWVybzFEVXRiWFJiYWo1VkJsVTJjbEp4WVE0eFFwSFp3VjhmVWpuSHRKVy1rdjFndzdQTG4xd0w1ejN0anp6T1U0a25Delkxc2Z5N0R6elBjMDVYVDU4SWlyQW5xQUFBcUtQVGtHRjM4TWk4eC0zUFUtd3VTdnd4ZnhBdUUwejUwdFE4eG1RSHlnRGNmNG9VXy1fNVRDUkFiNkVPc2djMFRfM2NsZw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261024T213625Z",
+          "pinned": false
+        },
+        {
           "title": "Trump says Musk restored Ukraine’s Starlink access amid Russia war",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWmZpbEx6YzBidHFXWVdHQVpwdV9yUWtDYUZhWGJuaWJfa1pGWC1rMzhvOE9Pa0hsQUhKaG4tZ2o5N3VjSHpaMEZQb0V4UnlxY3JNeko1VW5GRzd5Um5fYTVtOEFOcTZteVdLVklYTXRxZDJfSnV2TUdfckJxX05kNWVNaWxjRzlzUVNiTHZDMEVjNGRmYVZSUTFBQW4zWEhrSGxhXzF2RFNOSEnSAbABQVVfeXFMUGhDQk4zTElXU1dFcXNJcHVqN29NTkp4MURWOElJcUNCRHRRVnhrSFlVcVZ0bGVCT1poQXFlYzRkUEh3cjY5NkpZa1pFNzhXaWVEcFREVlV5YThseGxjQXdVRVJPc1hBdktsVmZheE5YTUVsdnZGMF8yVm0tajV3ZWVlTFVYVU1INGVIVWFVRWJwcEtjYzhFNlMweV8wUW50cEExODJhX2ptZTFWdE5hcUU?oc=5",
           "domain": "aljazeera.com",
@@ -2331,11 +2331,11 @@
           "pinned": false
         },
         {
-          "title": "Iran blames US for deal failure, urges new try amid fear of new attacks",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ05XMkJCM0VsWlpad3c3TDI0OTBlWEl4SnJrdlNfRmFyRXdTOGpEZUk2YWlUMFZHZ25qOTctZ282NXo1bXN6SXZGUFZTNTZwN2JBbVJtNjZzY1lmYkQzU3l6Y3N0U2ZERmJ4eHUwc3kxX3otMUFiUm12RWY2MVJWTUs4Sk54V3lOZURVOUYzQ2hWZzBQU3lhYTBQd0NCOGNFUUJ1QUdEREhXaTBLQkpDRTlB0gG3AUFVX3lxTE81TzJSMTVEOHE5ZWVybzFEVXRiWFJiYWo1VkJsVTJjbEp4WVE0eFFwSFp3VjhmVWpuSHRKVy1rdjFndzdQTG4xd0w1ejN0anp6T1U0a25Delkxc2Z5N0R6elBjMDVYVDU4SWlyQW5xQUFBcUtQVGtHRjM4TWk4eC0zUFUtd3VTdnd4ZnhBdUUwejUwdFE4eG1RSHlnRGNmNG9VXy1fNVRDUkFiNkVPc2djMFRfM2NsZw?oc=5",
-          "domain": "aljazeera.com",
+          "title": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oN3NlRVJ0TWk4bW5vVHRUblM0c3JUS3pyZzVSLUcyNTBSa0dpZTl1aXpXbVlPeU9qT2t0S3JIdm9Jb2JzSWxRZVRObm4teDJqSEU1ZVFLRENZbEk?oc=5",
+          "domain": "bbc.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261024T213625Z",
+          "seen": "20261025T022715Z",
           "pinned": false
         },
         {
@@ -2355,27 +2355,11 @@
           "pinned": false
         },
         {
-          "title": "Kansas Sen. Roger Marshall says the Ukraine war, not the Iran war, has caused high diesel prices",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNFlwUEhrRzY3LVNyRkJaZkdfb04wYURuSFpOV21ZMXhnM2poTjI4T0dtdjJNdEE2cXZvRm02N01JS2x2RzFzMzUxc1JCc2E4V0FjcVR2TTU5WTREV1BGbndhMS12czc3ZkY1S2dyRUowZ18tUGtNXzdzZ3JEYTZlTkZ5eUgycHBIRTNwaVZSMlNFaDI2TUlIYWZtMGp3ZTFmN3lFeU9SNmFjMm54UmwzWA?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261022T041300Z",
-          "pinned": false
-        },
-        {
           "title": "World War Two Bungay love story inspires quest to save artwork",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OVXFMZ1MyeDZCMlI2ZlVtRGZla2RLX3dFYjN0LU4tdVJYYUpSVVl0MHplSmpYdFd4YmQxdldVVjhNenJfRjF1U1lZRkhCNDJ4ZmxGTEZPZ0Jad0U?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20261024T044823Z",
-          "pinned": false
-        },
-        {
-          "title": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oN3NlRVJ0TWk4bW5vVHRUblM0c3JUS3pyZzVSLUcyNTBSa0dpZTl1aXpXbVlPeU9qT2t0S3JIdm9Jb2JzSWxRZVRObm4teDJqSEU1ZVFLRENZbEk?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261025T022715Z",
           "pinned": false
         },
         {
@@ -2395,27 +2379,27 @@
           "pinned": false
         },
         {
-          "title": "Israeli attacks kill four as famine risk looms in Gaza",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa1JPY0I4cnB1WEZRVDV3NVp6RjQ4QmFtY2J3bW1UUk0wdzU1V2o1WlVMb3NZNUxsNm1aWlg5YmduOFVCZWtvNjRQOUMwSjYyYmljNzJCelRFVWt3a1VkbGVaNFVfNFRCVURiU3ZfMENNeTl5RVNHQjRZSTRwVEh2elhmTloteEdTZFdCSkpYRVdoUXNHbFZHREdDT2VMcUHSAaQBQVVfeXFMTWFYendSNFY5bW9rTWFCbVVHcDdwc05PeW9meV8wWVc5QmxzWFF0ZElrYmU2X3Y5dUtISmRBLXhWRUprZDNBbUJJWm94Q1ZHZ01nX3JHMDdacVVsMU1qZkRSeXlNZDJOVU1WaTNBallDTHpPRFI3LWE4eGZnRVg2NTBKV1dNZVpwRWpNZGJSU1MxSmVrcDNCeG40M2VuZTNSVkhFM1Y?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261022T195528Z",
+          "title": "Iran's army claims it shot down US drone over southern Iran",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVzVTS0tDaEJqZE9MaG93S25xTDZLczFxM2l6MzVvb01lVF9BVEREOVpwX2dseHFiU3B3NE5hT1Z6bTVRR0V5Qmd2cS0tZGxLYW9RWTJ6R0gwZW9uLTRoMGtSY0VBWDB3U0o1Sm54cmEtS1Y0YUdUNmlBV1hEbnN4VEJqV3gxbHZleTNGRmF5RFh6bVBiQ2xVN3VGUGtkT1RLTEJJaVFR?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20261025T081646Z",
           "pinned": false
         },
         {
-          "title": "Qatar, France call for opening of Hormuz and Gaza ceasefire implementation",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYkw0S1pZT3NUWTZoNXV5UzlmSkNncVpJZm55RzZNUzRYaE84WHdCbkFIaC1CeVRuVEZRbURObUZBVzJGYVNDMnRFeXczdW0zVjg3d0dCSmE0U1VMbnNxTWozWDYzdzBzYTlZTUtsS1dqQjVibE1DanpQS0hwaGhiSzByWXRwaXY2b01wSFFaN2RvOTFrNDFMTnRObE5DWDFmcmlWSUhqdkVCMGZ1aERCeUVsbmV2UdIBuwFBVV95cUxPRHdYejczZDIxeWFydUo4eTZkYWNPSGpjdzFHclJOeFF5NWtRZldfZjVyODVGZkRYRlRyRHU0ZkhnQ1hYT1k3ZXJta0xCT2ZtSzVyRnZKamJyVWVOOE04N1dDdEZLNTlLcjdEcElKZk1IWXJKYVc2eDk5SGJGTDc3YVhkdUlMRmtyU1h2TjllVmNPVmh3ZUJtUDdjcHI0X2I2Ry1VeW1YV3hPZnNpQmtUSi1NSnEzN1B0UFpj?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261022T015856Z",
+          "title": "Trump says US will do business with Ukraine, Russia after war ends",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObklGejEwbFdGa21Sa3VRWU1XamN4b3BGOXRWTzlZb3RJek9CaFFuR0tuSDREb0cwcmhZZjdmaGRIbEdtUGFwbnFSdGFkb0xTRmVSVDlYRFk4RXpPaUtCR3IwejVmZ1VKTjJLSlBTTFFYX1BqUUt4RlVLXzlxQ2ZqdWlqU2o2Z2hHdUpnWVliTDJ0cmpBeE9DQXl0aVRDeXQzTElrNWU0Y092SjA?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20261024T205307Z",
           "pinned": false
         },
         {
-          "title": "Melania Trump brokers a ceasefire deal in Russian-occupied Ukrainian city to get relief aid in",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMkNRM3hJTVJkUGxjNjB3QmhSd2FSb2JHZkZtTjVNdzNWeHJ4QkpwdEd0cWttQjg0ZmVSQUtCV0JHTFRCeTd3NGJITy1ybDRTQzB4ZkhEdDEtRkRhcUZrWHdONWJZZFlBbGV5YmhkbDh5LTlaZm9jelQ3Y2FWOEcxUlhLZE5yX2c4dVhSZlYyVDUtVllza2ZLLTVXQ2RCN093aGJlRmc4RU9jcHZROVRv?oc=5",
+          "title": "What to know about the Melania Trump-brokered ceasefire in Russian-occupied Oleshky",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONllIN0YycVhheUhkdFhFSTdabU5DMmJGMFNIQS15NWYwQV9BTS0tV3lPeHJkUGVsWmNNX3FZMkI5bEdzUF9sNXAtUklUb2JsRDZ1UkNScEFJMHRjRWZITGJxMS1hTWdyM0hhdjk3eUM2dkNiTG1IVjQta28takE4YUUwaWYtQ0MyNGE1aFkzUS1VQXQyNkEweDl4TWZYRGx4NlpZU2szYi1tdw?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261024T011700Z",
+          "seen": "20261024T210500Z",
           "pinned": false
         },
         {
@@ -2435,24 +2419,31 @@
           "pinned": false
         },
         {
-          "title": "What to know about the Melania Trump-brokered ceasefire in Russian-occupied Oleshky",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONllIN0YycVhheUhkdFhFSTdabU5DMmJGMFNIQS15NWYwQV9BTS0tV3lPeHJkUGVsWmNNX3FZMkI5bEdzUF9sNXAtUklUb2JsRDZ1UkNScEFJMHRjRWZITGJxMS1hTWdyM0hhdjk3eUM2dkNiTG1IVjQta28takE4YUUwaWYtQ0MyNGE1aFkzUS1VQXQyNkEweDl4TWZYRGx4NlpZU2szYi1tdw?oc=5",
+          "title": "Melania Trump brokers a ceasefire deal in Russian-occupied Ukrainian city to get relief aid in",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMkNRM3hJTVJkUGxjNjB3QmhSd2FSb2JHZkZtTjVNdzNWeHJ4QkpwdEd0cWttQjg0ZmVSQUtCV0JHTFRCeTd3NGJITy1ybDRTQzB4ZkhEdDEtRkRhcUZrWHdONWJZZFlBbGV5YmhkbDh5LTlaZm9jelQ3Y2FWOEcxUlhLZE5yX2c4dVhSZlYyVDUtVllza2ZLLTVXQ2RCN093aGJlRmc4RU9jcHZROVRv?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261024T210500Z",
+          "seen": "20261024T011700Z",
+          "pinned": false
+        },
+        {
+          "title": "How is the US-Israeli war on Iran causing havoc in Europe?",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVmJvVFROYklRaWdWUnhjOXhGUVpNQmRzME1NM25aUWVTNVlDQU90aGNQaTRlZTUzZUNscE9QZHNZX2ZZY0pKS2htbjNpUHJXaDVMR25zeFRlU1I2ZzN0LWlsdTNsSU9TUnZvcFVFTXVyUXZtUjNvZFhlQU1WUjdITnBlZ1hzc0gyRXV4blBDMkdPcC13Wl9VbW5uaC1JaGR30gGmAUFVX3lxTE4xY3BFSzlQa0VZLWcwaUo3SklTdzRKaExfbzlEUjNDYlVpczR6amNiN3BmUzRaM0tReUhJeVVnWkJnaWJkVXMtVUlQR3haX2JScWFsRHRmazlzYW9hMVZfaFdIYWxiendHMldwcDBMOWctQWNQX0xQd0RZUVVDOEt5OUQzSkhZbFpHMEIxc0dSOENFbm1jRVNUUjZBSzN6MjJzTjNJMFE?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261025T145113Z",
+          "pinned": false
+        },
+        {
+          "title": "Trump rules out Sunday military strikes on Iran",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPN3lITV8yYm15VGlnTWR1TzlzVzdIVy1wdUQwUHJzSVFLMHRyWXAxQTlGNm9fMFAxWWt4UGVaNG9kbEYyRTJGUkRkeUVXaWpoWFJWSmtrU040a0dET0dHQUxxUTBCNmNqZkpfNDlLU3lQT1ZvNS1yRXVLcmUwdmhZbFhJMmM3OEp1WHFTaTZ6SQ?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20261025T163557Z",
           "pinned": false
         }
       ],
       "reports": [
-        {
-          "id": "report-87f4c8d81cd6",
-          "title": "Trump’s broken promises: economy, war and ICE",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdUF6NDE0cFpzdWEtcHlJSU84OUtTUnpGeFQ3YVdRM193ZVJjeXlvaVU1aC1sR1JTa29CdmU0ME9ldkFkMXpHZTNFWTdNNXhraXFPUjkyZjJneG1fR3l3NlpUWXBROGV6NklzNVdSd0FpNDVoOG9fTXJBRVNuU1U5SmtObzBEbC1zSGpkTmE4SFh3eExnUkxYb3ZLSk91R3fSAaQBQVVfeXFMTzVVT18tZEFIcFNkZXVueGQxSkItSnptWV9RRmN5bFFzWkRZVm1mMzE3WDl4NFRWbVdBT0l1UmFLVHRsWWI1T1JtTnVxV1MzMllpbkl3cWE3Vl9DLVNRQi13SmZId0R5V1pqQU9wSXpjYWVVZExJMHhoMkZlZXhWQzRkQmhKTXUydS1Rd0pQS0VwMFM2eGt6MVZpWDFxWGt6Y2xGcko?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-23T20:14:40Z"
-        },
         {
           "id": "report-4d98b99e39f8",
           "title": "Obama’s Ohio, Michigan speeches: Key takeaways on Trump, Iran war, midterms",
@@ -2461,6 +2452,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-10-25T08:51:07Z"
+        },
+        {
+          "id": "report-87f4c8d81cd6",
+          "title": "Trump’s broken promises: economy, war and ICE",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdUF6NDE0cFpzdWEtcHlJSU84OUtTUnpGeFQ3YVdRM193ZVJjeXlvaVU1aC1sR1JTa29CdmU0ME9ldkFkMXpHZTNFWTdNNXhraXFPUjkyZjJneG1fR3l3NlpUWXBROGV6NklzNVdSd0FpNDVoOG9fTXJBRVNuU1U5SmtObzBEbC1zSGpkTmE4SFh3eExnUkxYb3ZLSk91R3fSAaQBQVVfeXFMTzVVT18tZEFIcFNkZXVueGQxSkItSnptWV9RRmN5bFFzWkRZVm1mMzE3WDl4NFRWbVdBT0l1UmFLVHRsWWI1T1JtTnVxV1MzMllpbkl3cWE3Vl9DLVNRQi13SmZId0R5V1pqQU9wSXpjYWVVZExJMHhoMkZlZXhWQzRkQmhKTXUydS1Rd0pQS0VwMFM2eGt6MVZpWDFxWGt6Y2xGcko?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-23T20:14:40Z"
         },
         {
           "id": "report-d5e290b5928d",
@@ -2490,15 +2490,6 @@
           "reportedAt": "2026-10-24T22:23:11Z"
         },
         {
-          "id": "report-f343b0c074d6",
-          "title": "‘Foreign policy is the economy’: How Iran war is shaping US midterm vote",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZTE0eGxjbnpxQWhWMFZjZ2NLRndrUVVRT0tESmFTMmFvVTRYOThlT3RIT0dGQmRjWFkxYlhvQWo0SUVzeEI0S0lpYTlYd1IyXzBldjhBZDVicnZuZzBRTUVmWnplc2E5dE04VGFEOUNESXc5QlRTUHhEaEdvYUdnRU9QSDFRVTNZdHJjT095aHBkNlYtUWRlUEpFZVFuaUNvYlBhWGtpX2tzZlJyejdZNdIBtgFBVV95cUxNWl9vS193SjVBemd0dU1KZkFYT3Fqd2lpQTZHaHZ3NHJHUE44cFJQU3lFODZqaFJXY3dPMjk5NUJzVElTOEZHZjF2YkFhOWpOcEloZ0pOMFFjLXliTG96eFZXQWprb2p6cERWRkZrTDJWbDRzTEpBS2VJc0d1QmJ4QldYeUNFMldQSjVFUU02RWVFbGhJd3FSeFpyeU01NFRBNTNVRGdQTEk4TmhUQ21VbzRxdWFSdw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-23T16:12:21Z"
-        },
-        {
           "id": "report-58c0b3769295",
           "title": "Gaza’s visually and hearing-impaired children miss school due to Israel war",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbmdtUml1WGlzcUlpWFFyTkJEX3FBb0FYZEVDNWhzc3dfRXVRQ21LeG1JdXU2czV5d2ptVGdDRVRodmFHUFpjMlIzcklqNW1JbmZxaFYzVHB5UXRuOG10M2t4WDhpLTJLYnNkZEdNUmwwenhaY0UwaUprSUJnUlJiUlNhQnVQNEpKTUFydjdjVUx6QzF4SXd5ODc3Ukw5S3Y2NF9zVUlWa2ZZV2FUV2YzVUN1OXlEajJxTC01WdIBwgFBVV95cUxQVEQtejRyTHlUTjltZ1l3enRCanJLeUhpZ3loM1ltZXMtYWxlTGpkZVBtby10SEp2bUY1Wk04enRpUzVKVC0zZVduaklzWVlNZ0pzOUtkU29ySDdQa0NBMVpDM1VjeWkxNE1RRTY4WWpFTGgyckJLOEs3NjBEZ0s3eEV1UUFDaHluVmRYRFl3M3dseDcwSy0tN3EzTjc0eEo2NTJ2NlV3ZWRVM1BGLUttbXFSVkRzWnczblVvTjlLR1JCZw?oc=5",
@@ -2508,13 +2499,13 @@
           "reportedAt": "2026-10-25T14:03:09Z"
         },
         {
-          "id": "report-35d475c78b88",
-          "title": "Tigray resumes daily life amid fears of wider war",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcl8wNzRPTEh3Qkx1Uk1ldkVsTDZJNlBVUG8wSVUxZVA3MlFMek8wTEk0TEhwSmJ2QW5HQW9WNElYUElZTDNjZUJwTUR5S1Y4U2NETHVPR2JSeFVyd09pZDNjRzdWTG4yeEdSWXViZUgzV3BWUnBYV1llSWVDQXFMS0hNRFZibFZPcXp4N2Fua29XeWZNYmfSAZsBQVVfeXFMT1duZVQtN3V5RkEyT2J0SURXdE1CYmFrU2hpS1FNamV3UmVMcWlNSWJIZzN4bDZRRGxENzQ1QkZxNjRvcThFaDF1ekoyRW5yN0d3b1BRVjRELU0xcklNZkF4TUNRV2wwMkZtaEIwNEVEUXNnb29aVXQ5RzU4N3I1MVZqeEt1MWEzUTNFaXBpZ1d6WEJXajRNYTVtWUk?oc=5",
+          "id": "report-f343b0c074d6",
+          "title": "‘Foreign policy is the economy’: How Iran war is shaping US midterm vote",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZTE0eGxjbnpxQWhWMFZjZ2NLRndrUVVRT0tESmFTMmFvVTRYOThlT3RIT0dGQmRjWFkxYlhvQWo0SUVzeEI0S0lpYTlYd1IyXzBldjhBZDVicnZuZzBRTUVmWnplc2E5dE04VGFEOUNESXc5QlRTUHhEaEdvYUdnRU9QSDFRVTNZdHJjT095aHBkNlYtUWRlUEpFZVFuaUNvYlBhWGtpX2tzZlJyejdZNdIBtgFBVV95cUxNWl9vS193SjVBemd0dU1KZkFYT3Fqd2lpQTZHaHZ3NHJHUE44cFJQU3lFODZqaFJXY3dPMjk5NUJzVElTOEZHZjF2YkFhOWpOcEloZ0pOMFFjLXliTG96eFZXQWprb2p6cERWRkZrTDJWbDRzTEpBS2VJc0d1QmJ4QldYeUNFMldQSjVFUU02RWVFbGhJd3FSeFpyeU01NFRBNTNVRGdQTEk4TmhUQ21VbzRxdWFSdw?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-22T02:10:33Z"
+          "reportedAt": "2026-10-23T16:12:21Z"
         },
         {
           "id": "report-48ea5016f6ea",
@@ -2526,6 +2517,15 @@
           "reportedAt": "2026-10-24T13:15:07Z"
         },
         {
+          "id": "report-6179b93a6101",
+          "title": "Iran blames US for deal failure, urges new try amid fear of new attacks",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ05XMkJCM0VsWlpad3c3TDI0OTBlWEl4SnJrdlNfRmFyRXdTOGpEZUk2YWlUMFZHZ25qOTctZ282NXo1bXN6SXZGUFZTNTZwN2JBbVJtNjZzY1lmYkQzU3l6Y3N0U2ZERmJ4eHUwc3kxX3otMUFiUm12RWY2MVJWTUs4Sk54V3lOZURVOUYzQ2hWZzBQU3lhYTBQd0NCOGNFUUJ1QUdEREhXaTBLQkpDRTlB0gG3AUFVX3lxTE81TzJSMTVEOHE5ZWVybzFEVXRiWFJiYWo1VkJsVTJjbEp4WVE0eFFwSFp3VjhmVWpuSHRKVy1rdjFndzdQTG4xd0w1ejN0anp6T1U0a25Delkxc2Z5N0R6elBjMDVYVDU4SWlyQW5xQUFBcUtQVGtHRjM4TWk4eC0zUFUtd3VTdnd4ZnhBdUUwejUwdFE4eG1RSHlnRGNmNG9VXy1fNVRDUkFiNkVPc2djMFRfM2NsZw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-24T21:36:25Z"
+        },
+        {
           "id": "report-18cb86c3436e",
           "title": "Trump says Musk restored Ukraine’s Starlink access amid Russia war",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWmZpbEx6YzBidHFXWVdHQVpwdV9yUWtDYUZhWGJuaWJfa1pGWC1rMzhvOE9Pa0hsQUhKaG4tZ2o5N3VjSHpaMEZQb0V4UnlxY3JNeko1VW5GRzd5Um5fYTVtOEFOcTZteVdLVklYTXRxZDJfSnV2TUdfckJxX05kNWVNaWxjRzlzUVNiTHZDMEVjNGRmYVZSUTFBQW4zWEhrSGxhXzF2RFNOSEnSAbABQVVfeXFMUGhDQk4zTElXU1dFcXNJcHVqN29NTkp4MURWOElJcUNCRHRRVnhrSFlVcVZ0bGVCT1poQXFlYzRkUEh3cjY5NkpZa1pFNzhXaWVEcFREVlV5YThseGxjQXdVRVJPc1hBdktsVmZheE5YTUVsdnZGMF8yVm0tajV3ZWVlTFVYVU1INGVIVWFVRWJwcEtjYzhFNlMweV8wUW50cEExODJhX2ptZTFWdE5hcUU?oc=5",
@@ -2535,13 +2535,13 @@
           "reportedAt": "2026-10-23T01:51:23Z"
         },
         {
-          "id": "report-6179b93a6101",
-          "title": "Iran blames US for deal failure, urges new try amid fear of new attacks",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ05XMkJCM0VsWlpad3c3TDI0OTBlWEl4SnJrdlNfRmFyRXdTOGpEZUk2YWlUMFZHZ25qOTctZ282NXo1bXN6SXZGUFZTNTZwN2JBbVJtNjZzY1lmYkQzU3l6Y3N0U2ZERmJ4eHUwc3kxX3otMUFiUm12RWY2MVJWTUs4Sk54V3lOZURVOUYzQ2hWZzBQU3lhYTBQd0NCOGNFUUJ1QUdEREhXaTBLQkpDRTlB0gG3AUFVX3lxTE81TzJSMTVEOHE5ZWVybzFEVXRiWFJiYWo1VkJsVTJjbEp4WVE0eFFwSFp3VjhmVWpuSHRKVy1rdjFndzdQTG4xd0w1ejN0anp6T1U0a25Delkxc2Z5N0R6elBjMDVYVDU4SWlyQW5xQUFBcUtQVGtHRjM4TWk4eC0zUFUtd3VTdnd4ZnhBdUUwejUwdFE4eG1RSHlnRGNmNG9VXy1fNVRDUkFiNkVPc2djMFRfM2NsZw?oc=5",
-          "domain": "aljazeera.com",
+          "id": "report-a7ce113e4b93",
+          "title": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oN3NlRVJ0TWk4bW5vVHRUblM0c3JUS3pyZzVSLUcyNTBSa0dpZTl1aXpXbVlPeU9qT2t0S3JIdm9Jb2JzSWxRZVRObm4teDJqSEU1ZVFLRENZbEk?oc=5",
+          "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-24T21:36:25Z"
+          "reportedAt": "2026-10-25T02:27:15Z"
         },
         {
           "id": "report-045e6416385a",
@@ -2562,15 +2562,6 @@
           "reportedAt": "2026-10-24T20:55:01Z"
         },
         {
-          "id": "report-a0f99f9d35c2",
-          "title": "Kansas Sen. Roger Marshall says the Ukraine war, not the Iran war, has caused high diesel prices",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNFlwUEhrRzY3LVNyRkJaZkdfb04wYURuSFpOV21ZMXhnM2poTjI4T0dtdjJNdEE2cXZvRm02N01JS2x2RzFzMzUxc1JCc2E4V0FjcVR2TTU5WTREV1BGbndhMS12czc3ZkY1S2dyRUowZ18tUGtNXzdzZ3JEYTZlTkZ5eUgycHBIRTNwaVZSMlNFaDI2TUlIYWZtMGp3ZTFmN3lFeU9SNmFjMm54UmwzWA?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-22T04:13:00Z"
-        },
-        {
           "id": "report-21514c0ad0d2",
           "title": "World War Two Bungay love story inspires quest to save artwork",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OVXFMZ1MyeDZCMlI2ZlVtRGZla2RLX3dFYjN0LU4tdVJYYUpSVVl0MHplSmpYdFd4YmQxdldVVjhNenJfRjF1U1lZRkhCNDJ4ZmxGTEZPZ0Jad0U?oc=5",
@@ -2578,15 +2569,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-10-24T04:48:23Z"
-        },
-        {
-          "id": "report-a7ce113e4b93",
-          "title": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oN3NlRVJ0TWk4bW5vVHRUblM0c3JUS3pyZzVSLUcyNTBSa0dpZTl1aXpXbVlPeU9qT2t0S3JIdm9Jb2JzSWxRZVRObm4teDJqSEU1ZVFLRENZbEk?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-25T02:27:15Z"
         },
         {
           "id": "report-90df6d38e318",
@@ -2607,31 +2589,31 @@
           "reportedAt": "2026-10-25T11:41:52Z"
         },
         {
-          "id": "report-507d9cc0818f",
-          "title": "Israeli attacks kill four as famine risk looms in Gaza",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa1JPY0I4cnB1WEZRVDV3NVp6RjQ4QmFtY2J3bW1UUk0wdzU1V2o1WlVMb3NZNUxsNm1aWlg5YmduOFVCZWtvNjRQOUMwSjYyYmljNzJCelRFVWt3a1VkbGVaNFVfNFRCVURiU3ZfMENNeTl5RVNHQjRZSTRwVEh2elhmTloteEdTZFdCSkpYRVdoUXNHbFZHREdDT2VMcUHSAaQBQVVfeXFMTWFYendSNFY5bW9rTWFCbVVHcDdwc05PeW9meV8wWVc5QmxzWFF0ZElrYmU2X3Y5dUtISmRBLXhWRUprZDNBbUJJWm94Q1ZHZ01nX3JHMDdacVVsMU1qZkRSeXlNZDJOVU1WaTNBallDTHpPRFI3LWE4eGZnRVg2NTBKV1dNZVpwRWpNZGJSU1MxSmVrcDNCeG40M2VuZTNSVkhFM1Y?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-22T19:55:28Z"
+          "id": "report-33f608b4dcfa",
+          "title": "Iran's army claims it shot down US drone over southern Iran",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVzVTS0tDaEJqZE9MaG93S25xTDZLczFxM2l6MzVvb01lVF9BVEREOVpwX2dseHFiU3B3NE5hT1Z6bTVRR0V5Qmd2cS0tZGxLYW9RWTJ6R0gwZW9uLTRoMGtSY0VBWDB3U0o1Sm54cmEtS1Y0YUdUNmlBV1hEbnN4VEJqV3gxbHZleTNGRmF5RFh6bVBiQ2xVN3VGUGtkT1RLTEJJaVFR?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-10-25T08:16:46Z"
         },
         {
-          "id": "report-b415682d05e0",
-          "title": "Qatar, France call for opening of Hormuz and Gaza ceasefire implementation",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYkw0S1pZT3NUWTZoNXV5UzlmSkNncVpJZm55RzZNUzRYaE84WHdCbkFIaC1CeVRuVEZRbURObUZBVzJGYVNDMnRFeXczdW0zVjg3d0dCSmE0U1VMbnNxTWozWDYzdzBzYTlZTUtsS1dqQjVibE1DanpQS0hwaGhiSzByWXRwaXY2b01wSFFaN2RvOTFrNDFMTnRObE5DWDFmcmlWSUhqdkVCMGZ1aERCeUVsbmV2UdIBuwFBVV95cUxPRHdYejczZDIxeWFydUo4eTZkYWNPSGpjdzFHclJOeFF5NWtRZldfZjVyODVGZkRYRlRyRHU0ZkhnQ1hYT1k3ZXJta0xCT2ZtSzVyRnZKamJyVWVOOE04N1dDdEZLNTlLcjdEcElKZk1IWXJKYVc2eDk5SGJGTDc3YVhkdUlMRmtyU1h2TjllVmNPVmh3ZUJtUDdjcHI0X2I2Ry1VeW1YV3hPZnNpQmtUSi1NSnEzN1B0UFpj?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-22T01:58:56Z"
+          "id": "report-51b4dbf1e703",
+          "title": "Trump says US will do business with Ukraine, Russia after war ends",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObklGejEwbFdGa21Sa3VRWU1XamN4b3BGOXRWTzlZb3RJek9CaFFuR0tuSDREb0cwcmhZZjdmaGRIbEdtUGFwbnFSdGFkb0xTRmVSVDlYRFk4RXpPaUtCR3IwejVmZ1VKTjJLSlBTTFFYX1BqUUt4RlVLXzlxQ2ZqdWlqU2o2Z2hHdUpnWVliTDJ0cmpBeE9DQXl0aVRDeXQzTElrNWU0Y092SjA?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-10-24T20:53:07Z"
         },
         {
-          "id": "report-68897566fef9",
-          "title": "Melania Trump brokers a ceasefire deal in Russian-occupied Ukrainian city to get relief aid in",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMkNRM3hJTVJkUGxjNjB3QmhSd2FSb2JHZkZtTjVNdzNWeHJ4QkpwdEd0cWttQjg0ZmVSQUtCV0JHTFRCeTd3NGJITy1ybDRTQzB4ZkhEdDEtRkRhcUZrWHdONWJZZFlBbGV5YmhkbDh5LTlaZm9jelQ3Y2FWOEcxUlhLZE5yX2c4dVhSZlYyVDUtVllza2ZLLTVXQ2RCN093aGJlRmc4RU9jcHZROVRv?oc=5",
+          "id": "report-57c81ce23407",
+          "title": "What to know about the Melania Trump-brokered ceasefire in Russian-occupied Oleshky",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONllIN0YycVhheUhkdFhFSTdabU5DMmJGMFNIQS15NWYwQV9BTS0tV3lPeHJkUGVsWmNNX3FZMkI5bEdzUF9sNXAtUklUb2JsRDZ1UkNScEFJMHRjRWZITGJxMS1hTWdyM0hhdjk3eUM2dkNiTG1IVjQta28takE4YUUwaWYtQ0MyNGE1aFkzUS1VQXQyNkEweDl4TWZYRGx4NlpZU2szYi1tdw?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-24T01:17:00Z"
+          "reportedAt": "2026-10-24T21:05:00Z"
         },
         {
           "id": "report-280deeb07585",
@@ -2652,13 +2634,31 @@
           "reportedAt": "2026-10-24T23:11:29Z"
         },
         {
-          "id": "report-57c81ce23407",
-          "title": "What to know about the Melania Trump-brokered ceasefire in Russian-occupied Oleshky",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONllIN0YycVhheUhkdFhFSTdabU5DMmJGMFNIQS15NWYwQV9BTS0tV3lPeHJkUGVsWmNNX3FZMkI5bEdzUF9sNXAtUklUb2JsRDZ1UkNScEFJMHRjRWZITGJxMS1hTWdyM0hhdjk3eUM2dkNiTG1IVjQta28takE4YUUwaWYtQ0MyNGE1aFkzUS1VQXQyNkEweDl4TWZYRGx4NlpZU2szYi1tdw?oc=5",
+          "id": "report-68897566fef9",
+          "title": "Melania Trump brokers a ceasefire deal in Russian-occupied Ukrainian city to get relief aid in",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMkNRM3hJTVJkUGxjNjB3QmhSd2FSb2JHZkZtTjVNdzNWeHJ4QkpwdEd0cWttQjg0ZmVSQUtCV0JHTFRCeTd3NGJITy1ybDRTQzB4ZkhEdDEtRkRhcUZrWHdONWJZZFlBbGV5YmhkbDh5LTlaZm9jelQ3Y2FWOEcxUlhLZE5yX2c4dVhSZlYyVDUtVllza2ZLLTVXQ2RCN093aGJlRmc4RU9jcHZROVRv?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-24T21:05:00Z"
+          "reportedAt": "2026-10-24T01:17:00Z"
+        },
+        {
+          "id": "report-f365369e147e",
+          "title": "How is the US-Israeli war on Iran causing havoc in Europe?",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVmJvVFROYklRaWdWUnhjOXhGUVpNQmRzME1NM25aUWVTNVlDQU90aGNQaTRlZTUzZUNscE9QZHNZX2ZZY0pKS2htbjNpUHJXaDVMR25zeFRlU1I2ZzN0LWlsdTNsSU9TUnZvcFVFTXVyUXZtUjNvZFhlQU1WUjdITnBlZ1hzc0gyRXV4blBDMkdPcC13Wl9VbW5uaC1JaGR30gGmAUFVX3lxTE4xY3BFSzlQa0VZLWcwaUo3SklTdzRKaExfbzlEUjNDYlVpczR6amNiN3BmUzRaM0tReUhJeVVnWkJnaWJkVXMtVUlQR3haX2JScWFsRHRmazlzYW9hMVZfaFdIYWxiendHMldwcDBMOWctQWNQX0xQd0RZUVVDOEt5OUQzSkhZbFpHMEIxc0dSOENFbm1jRVNUUjZBSzN6MjJzTjNJMFE?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-25T14:51:13Z"
+        },
+        {
+          "id": "report-858462a178bc",
+          "title": "Trump rules out Sunday military strikes on Iran",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPN3lITV8yYm15VGlnTWR1TzlzVzdIVy1wdUQwUHJzSVFLMHRyWXAxQTlGNm9fMFAxWWt4UGVaNG9kbEYyRTJGUkRkeUVXaWpoWFJWSmtrU040a0dET0dHQUxxUTBCNmNqZkpfNDlLU3lQT1ZvNS1yRXVLcmUwdmhZbFhJMmM3OEp1WHFTaTZ6SQ?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-10-25T16:35:57Z"
         },
         {
           "id": "report-c3a378ac1d45",
