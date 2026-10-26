@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T12:59:50.988Z",
+  "generatedAt": "2026-10-26T22:38:37.394Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-10-26T12:59:50.988Z",
+      "generatedAt": "2026-10-26T22:38:37.394Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -2247,23 +2247,23 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-10-26T12:59:50.988Z",
+      "generatedAt": "2026-10-26T22:38:37.394Z",
       "cadence": "every 6 hours",
       "items": [
-        {
-          "title": "Trump’s broken promises: economy, war and ICE",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdUF6NDE0cFpzdWEtcHlJSU84OUtTUnpGeFQ3YVdRM193ZVJjeXlvaVU1aC1sR1JTa29CdmU0ME9ldkFkMXpHZTNFWTdNNXhraXFPUjkyZjJneG1fR3l3NlpUWXBROGV6NklzNVdSd0FpNDVoOG9fTXJBRVNuU1U5SmtObzBEbC1zSGpkTmE4SFh3eExnUkxYb3ZLSk91R3fSAaQBQVVfeXFMTzVVT18tZEFIcFNkZXVueGQxSkItSnptWV9RRmN5bFFzWkRZVm1mMzE3WDl4NFRWbVdBT0l1UmFLVHRsWWI1T1JtTnVxV1MzMllpbkl3cWE3Vl9DLVNRQi13SmZId0R5V1pqQU9wSXpjYWVVZExJMHhoMkZlZXhWQzRkQmhKTXUydS1Rd0pQS0VwMFM2eGt6MVZpWDFxWGt6Y2xGcko?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261023T201440Z",
-          "pinned": false
-        },
         {
           "title": "Obama’s Ohio, Michigan speeches: Key takeaways on Trump, Iran war, midterms",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNmpMTzVMV0M5WU04b2s2LW1QeWlLWVVSdnRJQ2xQeW9WeVdXVjZYVkVwVFgzWTd5U25HZHJ4VFFIb0xfZDBrOVNJYzVsWndCcmhfdEkycExMaVoxelNzcWtuTWhxdjFKWVZxeVhGemVZdi0wNjBaX1pwdWE0aTBOS1gtUlNUcjRwRXNzcXNkdnF6ZDlrTFBJejVCQ1kwUGRjQWQ2MTNHai10OUlhQ29TdFNn0gG3AUFVX3lxTE9zVTVQVDdCLWlial92eERzejVzYnlMSnRwdTRiOFd5WTZCcFE2VnVabkJYOFNwV0NQRl90a0R1ZllSc2NDUDdPLVd3bXBUV0dLcU01a0MzbVhNVUlHczgzUTlYOW95YkZFVVdFOW8zVmROUUN0alc1aTZzRnNuTUxZcHg1a1VTQktVYkNhSTBNMzZiampRSUFtbjBFaDBSZURlVDBiYnh4MjBBRDNuYlVNTnpPcVdJaw?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20261025T085107Z",
+          "pinned": false
+        },
+        {
+          "title": "Trump’s broken promises: economy, war and ICE",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdUF6NDE0cFpzdWEtcHlJSU84OUtTUnpGeFQ3YVdRM193ZVJjeXlvaVU1aC1sR1JTa29CdmU0ME9ldkFkMXpHZTNFWTdNNXhraXFPUjkyZjJneG1fR3l3NlpUWXBROGV6NklzNVdSd0FpNDVoOG9fTXJBRVNuU1U5SmtObzBEbC1zSGpkTmE4SFh3eExnUkxYb3ZLSk91R3fSAaQBQVVfeXFMTzVVT18tZEFIcFNkZXVueGQxSkItSnptWV9RRmN5bFFzWkRZVm1mMzE3WDl4NFRWbVdBT0l1UmFLVHRsWWI1T1JtTnVxV1MzMllpbkl3cWE3Vl9DLVNRQi13SmZId0R5V1pqQU9wSXpjYWVVZExJMHhoMkZlZXhWQzRkQmhKTXUydS1Rd0pQS0VwMFM2eGt6MVZpWDFxWGt6Y2xGcko?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261023T201440Z",
           "pinned": false
         },
         {
@@ -2283,14 +2283,6 @@
           "pinned": false
         },
         {
-          "title": "Melania Trump ‘secured ceasefire’ in Ukrainian city of Oleshky: White House",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSHlzeURsR3Y1eUZHZDhJMDV6c1NmazNhamplQlF4LWNZNUswWlVhNDBNa3FaRmRyNmV0U2tiSXk0M0ZHSDRnYl9iS2ZBWHA4MnFkbWdYR2R6M0tLV2tSNWpBaEpYcXREZlBGYzBNdERTdWloNk0wTENNNlZ6dC1wdVhKV0ZCdmIyajJpRTBSeER5dU55VHRLeGEybzhHRGQzNGZWUnMyX1NLbzNRbDkxNXVB0gG3AUFVX3lxTE5qTDdlWnc5Zlc2aGRVTFhpcVoxT2VnWnhmeGdfeS1xWE44WUp3RjZsNmMwOUx3dXE3amtWTGxnQlg0SU82VXA4bGNEQjlFM3Y3UzZqSk03M2xTWmpseFlEd3NvXy1lc1UzanlLbV82eVVIQ2wyWDJ6enJCSDRYdjQxT0FSbDhqYkhUa2pQWEJDWjRsZFRDRmFENnpaMzlBNjBRMnR6WFVac1p2eC1YdHhOdjh0NGMyaw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261024T001934Z",
-          "pinned": false
-        },
-        {
           "title": "Putin puts Trump ahead of Iran in bid to mediate war - Al-Monitor",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN0w3bVVBMUswRGNUYVJKQUF0VEFwa2Q4V0pyWmVobnhpbExzeXhvMHA3ak1UNkN6NVhpVUVISk01OHY4UkhlQUJLRlBVM3BSVGVHekJtTEwyc014UFdDTFRBVHZCeVVrM0JkYXB5c3RxLWpDT05NczE2OUZ5bjFBalFtTG9ieW5KQ3gyWVBRU1pYZw?oc=5",
           "domain": "al-monitor.com",
@@ -2299,11 +2291,11 @@
           "pinned": false
         },
         {
-          "title": "‘Foreign policy is the economy’: How Iran war is shaping US midterm vote",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZTE0eGxjbnpxQWhWMFZjZ2NLRndrUVVRT0tESmFTMmFvVTRYOThlT3RIT0dGQmRjWFkxYlhvQWo0SUVzeEI0S0lpYTlYd1IyXzBldjhBZDVicnZuZzBRTUVmWnplc2E5dE04VGFEOUNESXc5QlRTUHhEaEdvYUdnRU9QSDFRVTNZdHJjT095aHBkNlYtUWRlUEpFZVFuaUNvYlBhWGtpX2tzZlJyejdZNdIBtgFBVV95cUxNWl9vS193SjVBemd0dU1KZkFYT3Fqd2lpQTZHaHZ3NHJHUE44cFJQU3lFODZqaFJXY3dPMjk5NUJzVElTOEZHZjF2YkFhOWpOcEloZ0pOMFFjLXliTG96eFZXQWprb2p6cERWRkZrTDJWbDRzTEpBS2VJc0d1QmJ4QldYeUNFMldQSjVFUU02RWVFbGhJd3FSeFpyeU01NFRBNTNVRGdQTEk4TmhUQ21VbzRxdWFSdw?oc=5",
+          "title": "Melania Trump ‘secured ceasefire’ in Ukrainian city of Oleshky: White House",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSHlzeURsR3Y1eUZHZDhJMDV6c1NmazNhamplQlF4LWNZNUswWlVhNDBNa3FaRmRyNmV0U2tiSXk0M0ZHSDRnYl9iS2ZBWHA4MnFkbWdYR2R6M0tLV2tSNWpBaEpYcXREZlBGYzBNdERTdWloNk0wTENNNlZ6dC1wdVhKV0ZCdmIyajJpRTBSeER5dU55VHRLeGEybzhHRGQzNGZWUnMyX1NLbzNRbDkxNXVB0gG3AUFVX3lxTE5qTDdlWnc5Zlc2aGRVTFhpcVoxT2VnWnhmeGdfeS1xWE44WUp3RjZsNmMwOUx3dXE3amtWTGxnQlg0SU82VXA4bGNEQjlFM3Y3UzZqSk03M2xTWmpseFlEd3NvXy1lc1UzanlLbV82eVVIQ2wyWDJ6enJCSDRYdjQxT0FSbDhqYkhUa2pQWEJDWjRsZFRDRmFENnpaMzlBNjBRMnR6WFVac1p2eC1YdHhOdjh0NGMyaw?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261023T161221Z",
+          "seen": "20261024T001934Z",
           "pinned": false
         },
         {
@@ -2323,19 +2315,11 @@
           "pinned": false
         },
         {
-          "title": "Britain must be ready for war within 1,000 days: Defense secretary",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSFBYbFBNTkZPODJSMUt3aHFFUlBGem1oTDVaeS1qTUFaOG00cnpfaTB4X2JuZnNKRHZKcTZLelVyd2pVRU9JNU9KZEdjNlV2Zk90TURlS1BucUFwZzJKamZZeFBkVklWRHY1YXlMbHlwcG4xd293ZFhYLVMxeWJHZzZsRmhXZFZXb0xsNXBTNTRNUW9LY0w0bzZOUkZSdzg4ZEZF?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "seen": "20261026T015605Z",
-          "pinned": false
-        },
-        {
-          "title": "Iran blames US for deal failure, urges new try amid fear of new attacks",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ05XMkJCM0VsWlpad3c3TDI0OTBlWEl4SnJrdlNfRmFyRXdTOGpEZUk2YWlUMFZHZ25qOTctZ282NXo1bXN6SXZGUFZTNTZwN2JBbVJtNjZzY1lmYkQzU3l6Y3N0U2ZERmJ4eHUwc3kxX3otMUFiUm12RWY2MVJWTUs4Sk54V3lOZURVOUYzQ2hWZzBQU3lhYTBQd0NCOGNFUUJ1QUdEREhXaTBLQkpDRTlB0gG3AUFVX3lxTE81TzJSMTVEOHE5ZWVybzFEVXRiWFJiYWo1VkJsVTJjbEp4WVE0eFFwSFp3VjhmVWpuSHRKVy1rdjFndzdQTG4xd0w1ejN0anp6T1U0a25Delkxc2Z5N0R6elBjMDVYVDU4SWlyQW5xQUFBcUtQVGtHRjM4TWk4eC0zUFUtd3VTdnd4ZnhBdUUwejUwdFE4eG1RSHlnRGNmNG9VXy1fNVRDUkFiNkVPc2djMFRfM2NsZw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261024T213625Z",
+          "title": "Pete Hegseth’s Campaign to Remake the U.S. Military",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcU5UaVl5YkRIYndFY1NTNGlJVVRyU3ZzX0VHcGh1V2VlNmQ0SUJkcm5sTUFtMDliTF9kXzd4MzBGUzZSMjQ0QXo0Q0Q4S1RJOEU2YkJQSTYtNWZKb25WMzVwWUlNYUdhb1BVMU10eHJMTU9JN1RFcHMyZmtmTlcxQU50anE?oc=5",
+          "domain": "cfr.org",
+          "sourceTier": "Structured / analytic",
+          "seen": "20261023T023918Z",
           "pinned": false
         },
         {
@@ -2347,6 +2331,14 @@
           "pinned": false
         },
         {
+          "title": "Iran blames US for deal failure, urges new try amid fear of new attacks",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ05XMkJCM0VsWlpad3c3TDI0OTBlWEl4SnJrdlNfRmFyRXdTOGpEZUk2YWlUMFZHZ25qOTctZ282NXo1bXN6SXZGUFZTNTZwN2JBbVJtNjZzY1lmYkQzU3l6Y3N0U2ZERmJ4eHUwc3kxX3otMUFiUm12RWY2MVJWTUs4Sk54V3lOZURVOUYzQ2hWZzBQU3lhYTBQd0NCOGNFUUJ1QUdEREhXaTBLQkpDRTlB0gG3AUFVX3lxTE81TzJSMTVEOHE5ZWVybzFEVXRiWFJiYWo1VkJsVTJjbEp4WVE0eFFwSFp3VjhmVWpuSHRKVy1rdjFndzdQTG4xd0w1ejN0anp6T1U0a25Delkxc2Z5N0R6elBjMDVYVDU4SWlyQW5xQUFBcUtQVGtHRjM4TWk4eC0zUFUtd3VTdnd4ZnhBdUUwejUwdFE4eG1RSHlnRGNmNG9VXy1fNVRDUkFiNkVPc2djMFRfM2NsZw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261024T213625Z",
+          "pinned": false
+        },
+        {
           "title": "Trump says US could strike Iran ‘tomorrow’ or reach ‘big, beautiful’ deal",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVVlUV194bG9BWmFubXdJc1ZZTGlYSHZadG5zNERMemhaVkZiNnNqRjlEM1dzMVg3dm1MeHZ4ZjJvNVY1ZEw2QkpSbVR4YW14VnNvcjI2aTBIMUQ3MTRxMk1uMXBJU3BNUGhZdlFSalg1cHBhbU9BTGM4M2Job0tjMDU4QnhSdTFLYnVrRW5GYnBxQVo2eUxkQmV5MW9FTGMtQjBQdVluRVVXNTA?oc=5",
           "domain": "aa.com.tr",
@@ -2355,11 +2347,11 @@
           "pinned": false
         },
         {
-          "title": "US-Iran war, then and now: How the landscape has changed since February",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSU5RUE1mMXBUSlFKam8zamJLelROVFZybXVxNkZKZTBLM2swWEZxZmJoUVJYcmhEUEVUSzZ5RW82Y1VnOTZzdzN2NzNacE1ucG5waUNXRS1mZHFVV2FTZE5zeDNobXQxNU0zLWNJd0cxSmJoYnBjNkRzb0xPZ3p5YUwyblZRTlpwUDRsLWtfOXBwbV80ZEUzNmY1eXZaSUtlQXVoaHpUcFlubHlvQUQ2YdIBtgFBVV95cUxQLUs4eDdhSGt3aUV4SUJRSG9PTlhTaDJmMDFoU281VmphR01WVVE2MDdTWld1R2VZZ09EbnM3S0JwQXlwenNwOUp5Y2hkb1pXMkk3S2dsRFRCVGRrcGJJalRKa1R4RmxYSXpwZlIxSnU2NDZKYXMzdzVVTDVnUGlGUXlrTzNTam9GYnVxNFQ2eE9sT1FkQnZPU0EtTVZkb2lqcjZ3ZWtXYjVOUUk2aVZYcXZZT0lxUQ?oc=5",
-          "domain": "aljazeera.com",
+          "title": "In his own words: Trump on gas prices and energy costs since launching the war with Iran",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWVloTVpZeHZsZHpoNVdPZFQ0X21mbU5QSnY1UmczNVNJTG9iTmhMSlNoaVM0YUVwWnQzNjIzb3ktV1JRUEp5VVR4bHdCOGdHUGZXQ2RzMzAzLVlrZ2M4OVhjOUoyOVJtNEplUEc2YlRCTE1YWV94aUVhZ2dybUJ2SkoxRHE0ak5ObVBnVmxmTWNIaTNPT2VCM21pTHA3N28?oc=5",
+          "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261023T114822Z",
+          "seen": "20261026T124300Z",
           "pinned": false
         },
         {
@@ -2368,14 +2360,6 @@
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20261024T044823Z",
-          "pinned": false
-        },
-        {
-          "title": "Pete Hegseth’s Campaign to Remake the U.S. Military",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcU5UaVl5YkRIYndFY1NTNGlJVVRyU3ZzX0VHcGh1V2VlNmQ0SUJkcm5sTUFtMDliTF9kXzd4MzBGUzZSMjQ0QXo0Q0Q4S1RJOEU2YkJQSTYtNWZKb25WMzVwWUlNYUdhb1BVMU10eHJMTU9JN1RFcHMyZmtmTlcxQU50anE?oc=5",
-          "domain": "cfr.org",
-          "sourceTier": "Structured / analytic",
-          "seen": "20261023T023918Z",
           "pinned": false
         },
         {
@@ -2403,6 +2387,14 @@
           "pinned": false
         },
         {
+          "title": "Russian attacks on Ukraine’s energy infrastructure a war crime: UN",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaXpnLU1DZ3RHdUdUUEpLT1gyNHBacVNZczhrSkhzd3dLZV9RMl9HNUszaFNXRTN6dEctQnRoSVA4Q3Rfc1dFMlBmQ29vWExwa0kyRzdfSUl4RDNIcDA5ZllHQ25SYXhUdHd0VXF1OEN2LTYxdmU5aEt1UDgza0IwRGg0bnJRZjlLV0ozelVEdU1EVGNJLTJkREtWTjZUaGZrVEJlb0NkTGFVQdIBrwFBVV95cUxQQlZtUG9QcDFJVTdxOGdrb1R1NFVnZUFPRVk3VDhSZ1kxNEhJNmFEdVRQMm9OWDlsQ255bG00SlBsaElJM3RhVFZfWXBkU0R4a09yUlFLbHl3WnFMdWtPazVhYVFfSmdSalJtZDJLbnN0a0RLR0g3NlZqSEZ2eE9jOFB0VU00ZUxkOVRlLXY2MGx1ZHFSMDdnaHhKeTJoZW51RU9iVEJfTFB0Wl85TG9r?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261026T173046Z",
+          "pinned": false
+        },
+        {
           "title": "How is the US-Israeli war on Iran causing havoc in Europe?",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVmJvVFROYklRaWdWUnhjOXhGUVpNQmRzME1NM25aUWVTNVlDQU90aGNQaTRlZTUzZUNscE9QZHNZX2ZZY0pKS2htbjNpUHJXaDVMR25zeFRlU1I2ZzN0LWlsdTNsSU9TUnZvcFVFTXVyUXZtUjNvZFhlQU1WUjdITnBlZ1hzc0gyRXV4blBDMkdPcC13Wl9VbW5uaC1JaGR30gGmAUFVX3lxTE4xY3BFSzlQa0VZLWcwaUo3SklTdzRKaExfbzlEUjNDYlVpczR6amNiN3BmUzRaM0tReUhJeVVnWkJnaWJkVXMtVUlQR3haX2JScWFsRHRmazlzYW9hMVZfaFdIYWxiendHMldwcDBMOWctQWNQX0xQd0RZUVVDOEt5OUQzSkhZbFpHMEIxc0dSOENFbm1jRVNUUjZBSzN6MjJzTjNJMFE?oc=5",
           "domain": "aljazeera.com",
@@ -2411,19 +2403,19 @@
           "pinned": false
         },
         {
-          "title": "Trump says US will do business with Ukraine, Russia after war ends",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObklGejEwbFdGa21Sa3VRWU1XamN4b3BGOXRWTzlZb3RJek9CaFFuR0tuSDREb0cwcmhZZjdmaGRIbEdtUGFwbnFSdGFkb0xTRmVSVDlYRFk4RXpPaUtCR3IwejVmZ1VKTjJLSlBTTFFYX1BqUUt4RlVLXzlxQ2ZqdWlqU2o2Z2hHdUpnWVliTDJ0cmpBeE9DQXl0aVRDeXQzTElrNWU0Y092SjA?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "seen": "20261024T205307Z",
-          "pinned": false
-        },
-        {
           "title": "Iran trying harder to target US personnel in Middle East, intelligence chief warns",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OWDNRWTNxMkEyVlFfSEZmUVlPVlNncENwMDBNck1XNDRWZzEzVDV0VVdzQUx5UW1wZVpwSnN5ZUxlUERKb20ycjUtNExTX1pOeDZva1BiTVFxZUk?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20261024T073602Z",
+          "pinned": false
+        },
+        {
+          "title": "Trump says US will do business with Ukraine, Russia after war ends",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObklGejEwbFdGa21Sa3VRWU1XamN4b3BGOXRWTzlZb3RJek9CaFFuR0tuSDREb0cwcmhZZjdmaGRIbEdtUGFwbnFSdGFkb0xTRmVSVDlYRFk4RXpPaUtCR3IwejVmZ1VKTjJLSlBTTFFYX1BqUUt4RlVLXzlxQ2ZqdWlqU2o2Z2hHdUpnWVliTDJ0cmpBeE9DQXl0aVRDeXQzTElrNWU0Y092SjA?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20261024T205307Z",
           "pinned": false
         },
         {
@@ -2439,20 +2431,19 @@
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONllIN0YycVhheUhkdFhFSTdabU5DMmJGMFNIQS15NWYwQV9BTS0tV3lPeHJkUGVsWmNNX3FZMkI5bEdzUF9sNXAtUklUb2JsRDZ1UkNScEFJMHRjRWZITGJxMS1hTWdyM0hhdjk3eUM2dkNiTG1IVjQta28takE4YUUwaWYtQ0MyNGE1aFkzUS1VQXQyNkEweDl4TWZYRGx4NlpZU2szYi1tdw?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261024T210500Z",
+          "seen": "20261024T124442Z",
+          "pinned": false
+        },
+        {
+          "title": "Trump lauds Melania over Russia-Ukraine localised ceasefire deal",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPandBSUd6MV9Kb0FrYWc3YVN4RnVMa1h3WTVieVpjVE4zSzU1SVBBLWl3WS1VMks0cXJvMW54MktYOTZZLVp1ME9hOXhlNHlFMFRKR3draWgtVTJmTVk2N2lvcnNQcjdkWmlFTTRlb1RKZTVOZnloRHRWQzk3eDdXWUZmSUx5Y25oSWdvaVZEUU5meWYxcm5UMlMzSXY5SXppM09tZ1lBZDNiSHdLWGFpQXF3REplckXSAbwBQVVfeXFMTTdyXy1EcVQyNHkweWN3SUhQOFFuTFZJTlFsckMtYWxqamVQb0o3VGtxaU5VR3JYeXFIaTFTUklmSGltUVNiOHZKVDJDYXdoVVFzUEtPaU5kU0FSUnZwSmJFUEVLQ3U1ekZRVjV0eVhqZzNkTkRlOU1kcWpUZlVLTEZtVW14UGpyN3B3RnlRRlprUWFzMUVULThwVVpKRW5aaW5aTEhoeWlhSV9hQi1NZDF5bTY2QWFRVzJmTG0?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261024T231129Z",
           "pinned": false
         }
       ],
       "reports": [
-        {
-          "id": "report-87f4c8d81cd6",
-          "title": "Trump’s broken promises: economy, war and ICE",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdUF6NDE0cFpzdWEtcHlJSU84OUtTUnpGeFQ3YVdRM193ZVJjeXlvaVU1aC1sR1JTa29CdmU0ME9ldkFkMXpHZTNFWTdNNXhraXFPUjkyZjJneG1fR3l3NlpUWXBROGV6NklzNVdSd0FpNDVoOG9fTXJBRVNuU1U5SmtObzBEbC1zSGpkTmE4SFh3eExnUkxYb3ZLSk91R3fSAaQBQVVfeXFMTzVVT18tZEFIcFNkZXVueGQxSkItSnptWV9RRmN5bFFzWkRZVm1mMzE3WDl4NFRWbVdBT0l1UmFLVHRsWWI1T1JtTnVxV1MzMllpbkl3cWE3Vl9DLVNRQi13SmZId0R5V1pqQU9wSXpjYWVVZExJMHhoMkZlZXhWQzRkQmhKTXUydS1Rd0pQS0VwMFM2eGt6MVZpWDFxWGt6Y2xGcko?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-23T20:14:40Z"
-        },
         {
           "id": "report-4d98b99e39f8",
           "title": "Obama’s Ohio, Michigan speeches: Key takeaways on Trump, Iran war, midterms",
@@ -2461,6 +2452,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-10-25T08:51:07Z"
+        },
+        {
+          "id": "report-87f4c8d81cd6",
+          "title": "Trump’s broken promises: economy, war and ICE",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdUF6NDE0cFpzdWEtcHlJSU84OUtTUnpGeFQ3YVdRM193ZVJjeXlvaVU1aC1sR1JTa29CdmU0ME9ldkFkMXpHZTNFWTdNNXhraXFPUjkyZjJneG1fR3l3NlpUWXBROGV6NklzNVdSd0FpNDVoOG9fTXJBRVNuU1U5SmtObzBEbC1zSGpkTmE4SFh3eExnUkxYb3ZLSk91R3fSAaQBQVVfeXFMTzVVT18tZEFIcFNkZXVueGQxSkItSnptWV9RRmN5bFFzWkRZVm1mMzE3WDl4NFRWbVdBT0l1UmFLVHRsWWI1T1JtTnVxV1MzMllpbkl3cWE3Vl9DLVNRQi13SmZId0R5V1pqQU9wSXpjYWVVZExJMHhoMkZlZXhWQzRkQmhKTXUydS1Rd0pQS0VwMFM2eGt6MVZpWDFxWGt6Y2xGcko?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-23T20:14:40Z"
         },
         {
           "id": "report-48ea5016f6ea",
@@ -2481,15 +2481,6 @@
           "reportedAt": "2026-10-25T06:18:56Z"
         },
         {
-          "id": "report-0f4c53381457",
-          "title": "Melania Trump ‘secured ceasefire’ in Ukrainian city of Oleshky: White House",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSHlzeURsR3Y1eUZHZDhJMDV6c1NmazNhamplQlF4LWNZNUswWlVhNDBNa3FaRmRyNmV0U2tiSXk0M0ZHSDRnYl9iS2ZBWHA4MnFkbWdYR2R6M0tLV2tSNWpBaEpYcXREZlBGYzBNdERTdWloNk0wTENNNlZ6dC1wdVhKV0ZCdmIyajJpRTBSeER5dU55VHRLeGEybzhHRGQzNGZWUnMyX1NLbzNRbDkxNXVB0gG3AUFVX3lxTE5qTDdlWnc5Zlc2aGRVTFhpcVoxT2VnWnhmeGdfeS1xWE44WUp3RjZsNmMwOUx3dXE3amtWTGxnQlg0SU82VXA4bGNEQjlFM3Y3UzZqSk03M2xTWmpseFlEd3NvXy1lc1UzanlLbV82eVVIQ2wyWDJ6enJCSDRYdjQxT0FSbDhqYkhUa2pQWEJDWjRsZFRDRmFENnpaMzlBNjBRMnR6WFVac1p2eC1YdHhOdjh0NGMyaw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-24T00:19:34Z"
-        },
-        {
           "id": "report-ec1cf735ab6c",
           "title": "Putin puts Trump ahead of Iran in bid to mediate war - Al-Monitor",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN0w3bVVBMUswRGNUYVJKQUF0VEFwa2Q4V0pyWmVobnhpbExzeXhvMHA3ak1UNkN6NVhpVUVISk01OHY4UkhlQUJLRlBVM3BSVGVHekJtTEwyc014UFdDTFRBVHZCeVVrM0JkYXB5c3RxLWpDT05NczE2OUZ5bjFBalFtTG9ieW5KQ3gyWVBRU1pYZw?oc=5",
@@ -2499,13 +2490,13 @@
           "reportedAt": "2026-10-24T22:23:11Z"
         },
         {
-          "id": "report-f343b0c074d6",
-          "title": "‘Foreign policy is the economy’: How Iran war is shaping US midterm vote",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZTE0eGxjbnpxQWhWMFZjZ2NLRndrUVVRT0tESmFTMmFvVTRYOThlT3RIT0dGQmRjWFkxYlhvQWo0SUVzeEI0S0lpYTlYd1IyXzBldjhBZDVicnZuZzBRTUVmWnplc2E5dE04VGFEOUNESXc5QlRTUHhEaEdvYUdnRU9QSDFRVTNZdHJjT095aHBkNlYtUWRlUEpFZVFuaUNvYlBhWGtpX2tzZlJyejdZNdIBtgFBVV95cUxNWl9vS193SjVBemd0dU1KZkFYT3Fqd2lpQTZHaHZ3NHJHUE44cFJQU3lFODZqaFJXY3dPMjk5NUJzVElTOEZHZjF2YkFhOWpOcEloZ0pOMFFjLXliTG96eFZXQWprb2p6cERWRkZrTDJWbDRzTEpBS2VJc0d1QmJ4QldYeUNFMldQSjVFUU02RWVFbGhJd3FSeFpyeU01NFRBNTNVRGdQTEk4TmhUQ21VbzRxdWFSdw?oc=5",
+          "id": "report-0f4c53381457",
+          "title": "Melania Trump ‘secured ceasefire’ in Ukrainian city of Oleshky: White House",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSHlzeURsR3Y1eUZHZDhJMDV6c1NmazNhamplQlF4LWNZNUswWlVhNDBNa3FaRmRyNmV0U2tiSXk0M0ZHSDRnYl9iS2ZBWHA4MnFkbWdYR2R6M0tLV2tSNWpBaEpYcXREZlBGYzBNdERTdWloNk0wTENNNlZ6dC1wdVhKV0ZCdmIyajJpRTBSeER5dU55VHRLeGEybzhHRGQzNGZWUnMyX1NLbzNRbDkxNXVB0gG3AUFVX3lxTE5qTDdlWnc5Zlc2aGRVTFhpcVoxT2VnWnhmeGdfeS1xWE44WUp3RjZsNmMwOUx3dXE3amtWTGxnQlg0SU82VXA4bGNEQjlFM3Y3UzZqSk03M2xTWmpseFlEd3NvXy1lc1UzanlLbV82eVVIQ2wyWDJ6enJCSDRYdjQxT0FSbDhqYkhUa2pQWEJDWjRsZFRDRmFENnpaMzlBNjBRMnR6WFVac1p2eC1YdHhOdjh0NGMyaw?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-23T16:12:21Z"
+          "reportedAt": "2026-10-24T00:19:34Z"
         },
         {
           "id": "report-58c0b3769295",
@@ -2526,22 +2517,13 @@
           "reportedAt": "2026-10-25T02:27:15Z"
         },
         {
-          "id": "report-0a15fd2429f1",
-          "title": "Britain must be ready for war within 1,000 days: Defense secretary",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSFBYbFBNTkZPODJSMUt3aHFFUlBGem1oTDVaeS1qTUFaOG00cnpfaTB4X2JuZnNKRHZKcTZLelVyd2pVRU9JNU9KZEdjNlV2Zk90TURlS1BucUFwZzJKamZZeFBkVklWRHY1YXlMbHlwcG4xd293ZFhYLVMxeWJHZzZsRmhXZFZXb0xsNXBTNTRNUW9LY0w0bzZOUkZSdzg4ZEZF?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
-          "reportedAt": "2026-10-26T01:56:05Z"
-        },
-        {
-          "id": "report-6179b93a6101",
-          "title": "Iran blames US for deal failure, urges new try amid fear of new attacks",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ05XMkJCM0VsWlpad3c3TDI0OTBlWEl4SnJrdlNfRmFyRXdTOGpEZUk2YWlUMFZHZ25qOTctZ282NXo1bXN6SXZGUFZTNTZwN2JBbVJtNjZzY1lmYkQzU3l6Y3N0U2ZERmJ4eHUwc3kxX3otMUFiUm12RWY2MVJWTUs4Sk54V3lOZURVOUYzQ2hWZzBQU3lhYTBQd0NCOGNFUUJ1QUdEREhXaTBLQkpDRTlB0gG3AUFVX3lxTE81TzJSMTVEOHE5ZWVybzFEVXRiWFJiYWo1VkJsVTJjbEp4WVE0eFFwSFp3VjhmVWpuSHRKVy1rdjFndzdQTG4xd0w1ejN0anp6T1U0a25Delkxc2Z5N0R6elBjMDVYVDU4SWlyQW5xQUFBcUtQVGtHRjM4TWk4eC0zUFUtd3VTdnd4ZnhBdUUwejUwdFE4eG1RSHlnRGNmNG9VXy1fNVRDUkFiNkVPc2djMFRfM2NsZw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-24T21:36:25Z"
+          "id": "report-90df6d38e318",
+          "title": "Pete Hegseth’s Campaign to Remake the U.S. Military",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcU5UaVl5YkRIYndFY1NTNGlJVVRyU3ZzX0VHcGh1V2VlNmQ0SUJkcm5sTUFtMDliTF9kXzd4MzBGUzZSMjQ0QXo0Q0Q4S1RJOEU2YkJQSTYtNWZKb25WMzVwWUlNYUdhb1BVMU10eHJMTU9JN1RFcHMyZmtmTlcxQU50anE?oc=5",
+          "domain": "cfr.org",
+          "sourceTier": "Structured / analytic",
+          "confidenceLabel": "ANALYTIC REPORT",
+          "reportedAt": "2026-10-23T02:39:18Z"
         },
         {
           "id": "report-18cb86c3436e",
@@ -2553,6 +2535,15 @@
           "reportedAt": "2026-10-23T01:51:23Z"
         },
         {
+          "id": "report-6179b93a6101",
+          "title": "Iran blames US for deal failure, urges new try amid fear of new attacks",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ05XMkJCM0VsWlpad3c3TDI0OTBlWEl4SnJrdlNfRmFyRXdTOGpEZUk2YWlUMFZHZ25qOTctZ282NXo1bXN6SXZGUFZTNTZwN2JBbVJtNjZzY1lmYkQzU3l6Y3N0U2ZERmJ4eHUwc3kxX3otMUFiUm12RWY2MVJWTUs4Sk54V3lOZURVOUYzQ2hWZzBQU3lhYTBQd0NCOGNFUUJ1QUdEREhXaTBLQkpDRTlB0gG3AUFVX3lxTE81TzJSMTVEOHE5ZWVybzFEVXRiWFJiYWo1VkJsVTJjbEp4WVE0eFFwSFp3VjhmVWpuSHRKVy1rdjFndzdQTG4xd0w1ejN0anp6T1U0a25Delkxc2Z5N0R6elBjMDVYVDU4SWlyQW5xQUFBcUtQVGtHRjM4TWk4eC0zUFUtd3VTdnd4ZnhBdUUwejUwdFE4eG1RSHlnRGNmNG9VXy1fNVRDUkFiNkVPc2djMFRfM2NsZw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-24T21:36:25Z"
+        },
+        {
           "id": "report-91ecb95ab9af",
           "title": "Trump says US could strike Iran ‘tomorrow’ or reach ‘big, beautiful’ deal",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVVlUV194bG9BWmFubXdJc1ZZTGlYSHZadG5zNERMemhaVkZiNnNqRjlEM1dzMVg3dm1MeHZ4ZjJvNVY1ZEw2QkpSbVR4YW14VnNvcjI2aTBIMUQ3MTRxMk1uMXBJU3BNUGhZdlFSalg1cHBhbU9BTGM4M2Job0tjMDU4QnhSdTFLYnVrRW5GYnBxQVo2eUxkQmV5MW9FTGMtQjBQdVluRVVXNTA?oc=5",
@@ -2562,13 +2553,13 @@
           "reportedAt": "2026-10-24T20:55:01Z"
         },
         {
-          "id": "report-045e6416385a",
-          "title": "US-Iran war, then and now: How the landscape has changed since February",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSU5RUE1mMXBUSlFKam8zamJLelROVFZybXVxNkZKZTBLM2swWEZxZmJoUVJYcmhEUEVUSzZ5RW82Y1VnOTZzdzN2NzNacE1ucG5waUNXRS1mZHFVV2FTZE5zeDNobXQxNU0zLWNJd0cxSmJoYnBjNkRzb0xPZ3p5YUwyblZRTlpwUDRsLWtfOXBwbV80ZEUzNmY1eXZaSUtlQXVoaHpUcFlubHlvQUQ2YdIBtgFBVV95cUxQLUs4eDdhSGt3aUV4SUJRSG9PTlhTaDJmMDFoU281VmphR01WVVE2MDdTWld1R2VZZ09EbnM3S0JwQXlwenNwOUp5Y2hkb1pXMkk3S2dsRFRCVGRrcGJJalRKa1R4RmxYSXpwZlIxSnU2NDZKYXMzdzVVTDVnUGlGUXlrTzNTam9GYnVxNFQ2eE9sT1FkQnZPU0EtTVZkb2lqcjZ3ZWtXYjVOUUk2aVZYcXZZT0lxUQ?oc=5",
-          "domain": "aljazeera.com",
+          "id": "report-0a11f3ddbe62",
+          "title": "In his own words: Trump on gas prices and energy costs since launching the war with Iran",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWVloTVpZeHZsZHpoNVdPZFQ0X21mbU5QSnY1UmczNVNJTG9iTmhMSlNoaVM0YUVwWnQzNjIzb3ktV1JRUEp5VVR4bHdCOGdHUGZXQ2RzMzAzLVlrZ2M4OVhjOUoyOVJtNEplUEc2YlRCTE1YWV94aUVhZ2dybUJ2SkoxRHE0ak5ObVBnVmxmTWNIaTNPT2VCM21pTHA3N28?oc=5",
+          "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-23T11:48:22Z"
+          "reportedAt": "2026-10-26T12:43:00Z"
         },
         {
           "id": "report-21514c0ad0d2",
@@ -2578,15 +2569,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-10-24T04:48:23Z"
-        },
-        {
-          "id": "report-90df6d38e318",
-          "title": "Pete Hegseth’s Campaign to Remake the U.S. Military",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcU5UaVl5YkRIYndFY1NTNGlJVVRyU3ZzX0VHcGh1V2VlNmQ0SUJkcm5sTUFtMDliTF9kXzd4MzBGUzZSMjQ0QXo0Q0Q4S1RJOEU2YkJQSTYtNWZKb25WMzVwWUlNYUdhb1BVMU10eHJMTU9JN1RFcHMyZmtmTlcxQU50anE?oc=5",
-          "domain": "cfr.org",
-          "sourceTier": "Structured / analytic",
-          "confidenceLabel": "ANALYTIC REPORT",
-          "reportedAt": "2026-10-23T02:39:18Z"
         },
         {
           "id": "report-cea7b93ef432",
@@ -2616,6 +2598,15 @@
           "reportedAt": "2026-10-26T01:40:42Z"
         },
         {
+          "id": "report-61ed770d305a",
+          "title": "Russian attacks on Ukraine’s energy infrastructure a war crime: UN",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaXpnLU1DZ3RHdUdUUEpLT1gyNHBacVNZczhrSkhzd3dLZV9RMl9HNUszaFNXRTN6dEctQnRoSVA4Q3Rfc1dFMlBmQ29vWExwa0kyRzdfSUl4RDNIcDA5ZllHQ25SYXhUdHd0VXF1OEN2LTYxdmU5aEt1UDgza0IwRGg0bnJRZjlLV0ozelVEdU1EVGNJLTJkREtWTjZUaGZrVEJlb0NkTGFVQdIBrwFBVV95cUxQQlZtUG9QcDFJVTdxOGdrb1R1NFVnZUFPRVk3VDhSZ1kxNEhJNmFEdVRQMm9OWDlsQ255bG00SlBsaElJM3RhVFZfWXBkU0R4a09yUlFLbHl3WnFMdWtPazVhYVFfSmdSalJtZDJLbnN0a0RLR0g3NlZqSEZ2eE9jOFB0VU00ZUxkOVRlLXY2MGx1ZHFSMDdnaHhKeTJoZW51RU9iVEJfTFB0Wl85TG9r?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-26T17:30:46Z"
+        },
+        {
           "id": "report-f365369e147e",
           "title": "How is the US-Israeli war on Iran causing havoc in Europe?",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVmJvVFROYklRaWdWUnhjOXhGUVpNQmRzME1NM25aUWVTNVlDQU90aGNQaTRlZTUzZUNscE9QZHNZX2ZZY0pKS2htbjNpUHJXaDVMR25zeFRlU1I2ZzN0LWlsdTNsSU9TUnZvcFVFTXVyUXZtUjNvZFhlQU1WUjdITnBlZ1hzc0gyRXV4blBDMkdPcC13Wl9VbW5uaC1JaGR30gGmAUFVX3lxTE4xY3BFSzlQa0VZLWcwaUo3SklTdzRKaExfbzlEUjNDYlVpczR6amNiN3BmUzRaM0tReUhJeVVnWkJnaWJkVXMtVUlQR3haX2JScWFsRHRmazlzYW9hMVZfaFdIYWxiendHMldwcDBMOWctQWNQX0xQd0RZUVVDOEt5OUQzSkhZbFpHMEIxc0dSOENFbm1jRVNUUjZBSzN6MjJzTjNJMFE?oc=5",
@@ -2625,15 +2616,6 @@
           "reportedAt": "2026-10-25T14:51:13Z"
         },
         {
-          "id": "report-51b4dbf1e703",
-          "title": "Trump says US will do business with Ukraine, Russia after war ends",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObklGejEwbFdGa21Sa3VRWU1XamN4b3BGOXRWTzlZb3RJek9CaFFuR0tuSDREb0cwcmhZZjdmaGRIbEdtUGFwbnFSdGFkb0xTRmVSVDlYRFk4RXpPaUtCR3IwejVmZ1VKTjJLSlBTTFFYX1BqUUt4RlVLXzlxQ2ZqdWlqU2o2Z2hHdUpnWVliTDJ0cmpBeE9DQXl0aVRDeXQzTElrNWU0Y092SjA?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
-          "reportedAt": "2026-10-24T20:53:07Z"
-        },
-        {
           "id": "report-280deeb07585",
           "title": "Iran trying harder to target US personnel in Middle East, intelligence chief warns",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OWDNRWTNxMkEyVlFfSEZmUVlPVlNncENwMDBNck1XNDRWZzEzVDV0VVdzQUx5UW1wZVpwSnN5ZUxlUERKb20ycjUtNExTX1pOeDZva1BiTVFxZUk?oc=5",
@@ -2641,6 +2623,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-10-24T07:36:02Z"
+        },
+        {
+          "id": "report-51b4dbf1e703",
+          "title": "Trump says US will do business with Ukraine, Russia after war ends",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObklGejEwbFdGa21Sa3VRWU1XamN4b3BGOXRWTzlZb3RJek9CaFFuR0tuSDREb0cwcmhZZjdmaGRIbEdtUGFwbnFSdGFkb0xTRmVSVDlYRFk4RXpPaUtCR3IwejVmZ1VKTjJLSlBTTFFYX1BqUUt4RlVLXzlxQ2ZqdWlqU2o2Z2hHdUpnWVliTDJ0cmpBeE9DQXl0aVRDeXQzTElrNWU0Y092SjA?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-10-24T20:53:07Z"
         },
         {
           "id": "report-68897566fef9",
@@ -2658,7 +2649,16 @@
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-24T21:05:00Z"
+          "reportedAt": "2026-10-24T12:44:42Z"
+        },
+        {
+          "id": "report-55cc1575e83d",
+          "title": "Trump lauds Melania over Russia-Ukraine localised ceasefire deal",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPandBSUd6MV9Kb0FrYWc3YVN4RnVMa1h3WTVieVpjVE4zSzU1SVBBLWl3WS1VMks0cXJvMW54MktYOTZZLVp1ME9hOXhlNHlFMFRKR3draWgtVTJmTVk2N2lvcnNQcjdkWmlFTTRlb1RKZTVOZnloRHRWQzk3eDdXWUZmSUx5Y25oSWdvaVZEUU5meWYxcm5UMlMzSXY5SXppM09tZ1lBZDNiSHdLWGFpQXF3REplckXSAbwBQVVfeXFMTTdyXy1EcVQyNHkweWN3SUhQOFFuTFZJTlFsckMtYWxqamVQb0o3VGtxaU5VR3JYeXFIaTFTUklmSGltUVNiOHZKVDJDYXdoVVFzUEtPaU5kU0FSUnZwSmJFUEVLQ3U1ekZRVjV0eVhqZzNkTkRlOU1kcWpUZlVLTEZtVW14UGpyN3B3RnlRRlprUWFzMUVULThwVVpKRW5aaW5aTEhoeWlhSV9hQi1NZDF5bTY2QWFRVzJmTG0?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-24T23:11:29Z"
         },
         {
           "id": "report-c3a378ac1d45",
