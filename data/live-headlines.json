@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T20:14:50.054Z",
+  "generatedAt": "2026-10-27T22:12:11.226Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-10-27T18:01:41.571Z",
+      "generatedAt": "2026-10-27T22:12:11.226Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -2225,7 +2225,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-10-27T18:01:41.571Z",
+      "generatedAt": "2026-10-27T22:12:11.226Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -2246,7 +2246,7 @@
         },
         {
           "title": "Bulgarians vote for president in shadow of Russia’s war on Ukraine",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWTBIcDhPZnhvMkN6U2ZGamdNTXVRczlFNk54SzVpcWJHZlFtQ2hUZHZWSDhnNC1ZQy1zbEJjUW12M3ZybjVES2hOVzZZSS1PQnE2UWNqNFd3RHZyZ1p2ZjR0OTRYY3JXOTVrOS13SkM0anYteGFqQ1NJei1TVEtSUlJRSmFQVFhHVTNWTl8xUjliaS1MVEhpNm9MSFk3RlM2U0EzMlVSZ2hSX1k?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWTBIcDhPZnhvMkN6U2ZGamdNTXVRczlFNk54SzVpcWJHZlFtQ2hUZHZWSDhnNC1ZQy1zbEJjUW12M3ZybjVES2hOVzZZSS1PQnE2UWNqNFd3RHZyZ1p2ZjR0OTRYY3JXOTVrOS13SkM0anYteGFqQ1NJei1TVEtSUlJRSmFQVFhHVTNWTl8xUjliaS1MVEhpNm9MSFk3RlM2U0EzMlVSZ2hSX1nSAbABQVVfeXFMTzVVRFl3TENUdERQVy1vMlhocFFYSEplaV9pSTlCSGx1Xzg4WnV5WkFoa3VSSXdUZVBsUFVVR2JCdzhoSkV4WkZ2Yzd1RmlXVS02aGpDa3BEUk1kaFk5eUg5eDVJa1RhRDJGSjhsamhhS250dkstV1pDU1RsVm9fS2ZicDBJRU9jZ296eWUtRnN2QnVGNWNBbDVfUWw3VjdITWdlMXR3X0RKY1dYeG5vbGY?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20261025T061856Z",
@@ -2258,14 +2258,6 @@
           "domain": "al-monitor.com",
           "sourceTier": "Regional reporting",
           "seen": "20261024T222311Z",
-          "pinned": false
-        },
-        {
-          "title": "Norway and Finland hold rare call with Putin to discuss ending war",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuWm1OYWtDeFFLZ0JBTzN0bUdYWGVpUnc1aDBjTVZTSDIyTDJ3bzFPelE5X2ttdVlrYXpSQ3ZPQTU3OUt1WnU1Z004MElQR2lId0RQUXlTbXVnSkk?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261027T142305Z",
           "pinned": false
         },
         {
@@ -2285,19 +2277,43 @@
           "pinned": false
         },
         {
+          "title": "Localized Ukraine ceasefire brokered by Melania Trump starts as Nordic leaders speak to Putin",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVkZvYUdad3FWZ0VGLUk4emZUR3RUODJqUlhVbEJzSkdIU25PaGgzU2ZhNUN5c0dzY3dLcXpDOU5ZUU5kRUU4TEFtSTdVVUZKTlBTNUpESldXYXMxaW1RZy0wTnc4MjFpY21DZTh1S0l5dHNDbU43TmVIb01UUzFDdFRDSmpyajZMalhCdg?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261027T012606Z",
+          "pinned": false
+        },
+        {
+          "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHaWNuMEIyWVhmNXR5S2JHMzhLbXhFc0o5YVNGNGY1MERGOXdXNHZPejNXSjM0VjhlU1ROWXBpUVVpRlRhcGdCWVNMU1IweVZveUZ2VHlrSTlPWWc?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261027T201953Z",
+          "pinned": false
+        },
+        {
           "title": "What to know about the Melania Trump-brokered ceasefire in Russian-occupied Oleshky",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONllIN0YycVhheUhkdFhFSTdabU5DMmJGMFNIQS15NWYwQV9BTS0tV3lPeHJkUGVsWmNNX3FZMkI5bEdzUF9sNXAtUklUb2JsRDZ1UkNScEFJMHRjRWZITGJxMS1hTWdyM0hhdjk3eUM2dkNiTG1IVjQta28takE4YUUwaWYtQ0MyNGE1aFkzUS1VQXQyNkEweDl4TWZYRGx4NlpZU2szYi1tdw?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261027T122145Z",
+          "seen": "20261027T131000Z",
           "pinned": false
         },
         {
-          "title": "Britain must be ready for war within 1,000 days: Defense secretary",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSFBYbFBNTkZPODJSMUt3aHFFUlBGem1oTDVaeS1qTUFaOG00cnpfaTB4X2JuZnNKRHZKcTZLelVyd2pVRU9JNU9KZEdjNlV2Zk90TURlS1BucUFwZzJKamZZeFBkVklWRHY1YXlMbHlwcG4xd293ZFhYLVMxeWJHZzZsRmhXZFZXb0xsNXBTNTRNUW9LY0w0bzZOUkZSdzg4ZEZF?oc=5",
+          "title": "Norway and Finland hold rare call with Putin to discuss ending war",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuWm1OYWtDeFFLZ0JBTzN0bUdYWGVpUnc1aDBjTVZTSDIyTDJ3bzFPelE5X2ttdVlrYXpSQ3ZPQTU3OUt1WnU1Z004MElQR2lId0RQUXlTbXVnSkk?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261027T182823Z",
+          "pinned": false
+        },
+        {
+          "title": "Iran’s supreme leader calls for meeting Tehran’s conditions to end war",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOGQ1RjFPakRUSnZ5QnVyTFdreXBjX3VUUVJzZURXWElyR3RTeXZGQWgyNmNCQV9wZFZDQVlHY3FRQnRDcW5GdXVKc0pXS25WNmY2MkthSG03UC1xblBobFNqZTN3eDEzTVUzR3JqRVh5ZDNhYlctSmNGYno3R2NXTGxYVC1qSkQ2a3oxT1ZJdDRLTjNpMHVoMDFLM2V4MHVPMnJ0SWNhQmZyQW9MOGNIVXFuRi1aQQ?oc=5",
           "domain": "aa.com.tr",
           "sourceTier": "State-affiliated reporting",
-          "seen": "20261026T015605Z",
+          "seen": "20261027T112406Z",
           "pinned": false
         },
         {
@@ -2329,7 +2345,7 @@
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWVloTVpZeHZsZHpoNVdPZFQ0X21mbU5QSnY1UmczNVNJTG9iTmhMSlNoaVM0YUVwWnQzNjIzb3ktV1JRUEp5VVR4bHdCOGdHUGZXQ2RzMzAzLVlrZ2M4OVhjOUoyOVJtNEplUEc2YlRCTE1YWV94aUVhZ2dybUJ2SkoxRHE0ak5ObVBnVmxmTWNIaTNPT2VCM21pTHA3N28?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261026T104612Z",
+          "seen": "20261026T124300Z",
           "pinned": false
         },
         {
@@ -2349,6 +2365,14 @@
           "pinned": false
         },
         {
+          "title": "Thune scrambles to save his Senate majority as voters voice concern over the Iran war and gas prices",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcTVNR28xZGd0cEtsWm84SnN4X2htV3dyd2VEamVsZXFWLXo3M3dsYUtBdDlCdlRGdWRiODlYQURDNlBPNGRtVVRJdmE1VGlYblM3bDhFcnk3SUs0ZC1MMWVCd1ltSnRqSGRTMWt6bjV5Yzc1YVVYTmc4ZnpNdjUzNlBKczRXNzFDdWdqQWhkWW02bkZiTFlqUzFWZHFrNGs3aFB2RGlVeGZrQzNROHJtYm9NYlpKaW8?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261026T133700Z",
+          "pinned": false
+        },
+        {
           "title": "Iran's army claims it shot down US drone over southern Iran",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVzVTS0tDaEJqZE9MaG93S25xTDZLczFxM2l6MzVvb01lVF9BVEREOVpwX2dseHFiU3B3NE5hT1Z6bTVRR0V5Qmd2cS0tZGxLYW9RWTJ6R0gwZW9uLTRoMGtSY0VBWDB3U0o1Sm54cmEtS1Y0YUdUNmlBV1hEbnN4VEJqV3gxbHZleTNGRmF5RFh6bVBiQ2xVN3VGUGtkT1RLTEJJaVFR?oc=5",
           "domain": "aa.com.tr",
@@ -2357,11 +2381,11 @@
           "pinned": false
         },
         {
-          "title": "Thune scrambles to save his Senate majority as voters voice concern over the Iran war and gas prices",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcTVNR28xZGd0cEtsWm84SnN4X2htV3dyd2VEamVsZXFWLXo3M3dsYUtBdDlCdlRGdWRiODlYQURDNlBPNGRtVVRJdmE1VGlYblM3bDhFcnk3SUs0ZC1MMWVCd1ltSnRqSGRTMWt6bjV5Yzc1YVVYTmc4ZnpNdjUzNlBKczRXNzFDdWdqQWhkWW02bkZiTFlqUzFWZHFrNGs3aFB2RGlVeGZrQzNROHJtYm9NYlpKaW8?oc=5",
-          "domain": "apnews.com",
+          "title": "Iranians brace for renewed attacks after Israeli, US elections",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTjdBU0lIRDR1ZzBnUDFWOWZ1M1pUMEtyOGtNVGtrVnJHOW0xNkhGTS1uRTZxNWExWWM2Qjd5QUIyZTM2NXZlbi1NVUVoYW1hSEV0VlZ2azZ5WVRzakU2ZXlVbWh0TmtsdVBRQk0zbmlRYTV2allUMTNCX0N3UzZfVkNmNHhZMGNPeElwbHN1MnNaOWtZRzVHaEdESWt6VjdRamdwS1VUWkh0TlNFN00waDlJMXlWbjjSAbwBQVVfeXFMUG1UOS1tV0QtWDhJSUZyVk4yaUg0b3hnXzlWa2xJUm5VTmZXcHNNV3lfYmVCQ0RCM2dVVklwTGpFMDBic1lZQWQzWkJsS2JwR1ZndU8xMFRLcHpqMHpMOUtYU2hCYkx3TU01NmRUZ1NtaDJfYUV6TnpyS3JXcFhsMWVsZHd0VFlKOU1WNWtScG5BZklEVDNFTWMxUTNHUWJLYUI1VjkyUUJvZFhnNHl4ZEFZV1VDUmlWcmJHYUY?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261026T133700Z",
+          "seen": "20261027T132756Z",
           "pinned": false
         },
         {
@@ -2381,22 +2405,6 @@
           "pinned": false
         },
         {
-          "title": "Iran trying harder to target US personnel in Middle East, intelligence chief warns",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OWDNRWTNxMkEyVlFfSEZmUVlPVlNncENwMDBNck1XNDRWZzEzVDV0VVdzQUx5UW1wZVpwSnN5ZUxlUERKb20ycjUtNExTX1pOeDZva1BiTVFxZUk?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261024T073602Z",
-          "pinned": false
-        },
-        {
-          "title": "Trump says US will do business with Ukraine, Russia after war ends",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObklGejEwbFdGa21Sa3VRWU1XamN4b3BGOXRWTzlZb3RJek9CaFFuR0tuSDREb0cwcmhZZjdmaGRIbEdtUGFwbnFSdGFkb0xTRmVSVDlYRFk4RXpPaUtCR3IwejVmZ1VKTjJLSlBTTFFYX1BqUUt4RlVLXzlxQ2ZqdWlqU2o2Z2hHdUpnWVliTDJ0cmpBeE9DQXl0aVRDeXQzTElrNWU0Y092SjA?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "seen": "20261024T205307Z",
-          "pinned": false
-        },
-        {
           "title": "Trump lauds Melania over Russia-Ukraine localised ceasefire deal",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPandBSUd6MV9Kb0FrYWc3YVN4RnVMa1h3WTVieVpjVE4zSzU1SVBBLWl3WS1VMks0cXJvMW54MktYOTZZLVp1ME9hOXhlNHlFMFRKR3draWgtVTJmTVk2N2lvcnNQcjdkWmlFTTRlb1RKZTVOZnloRHRWQzk3eDdXWUZmSUx5Y25oSWdvaVZEUU5meWYxcm5UMlMzSXY5SXppM09tZ1lBZDNiSHdLWGFpQXF3REplckXSAbwBQVVfeXFMTTdyXy1EcVQyNHkweWN3SUhQOFFuTFZJTlFsckMtYWxqamVQb0o3VGtxaU5VR3JYeXFIaTFTUklmSGltUVNiOHZKVDJDYXdoVVFzUEtPaU5kU0FSUnZwSmJFUEVLQ3U1ekZRVjV0eVhqZzNkTkRlOU1kcWpUZlVLTEZtVW14UGpyN3B3RnlRRlprUWFzMUVULThwVVpKRW5aaW5aTEhoeWlhSV9hQi1NZDF5bTY2QWFRVzJmTG0?oc=5",
           "domain": "aljazeera.com",
@@ -2410,14 +2418,6 @@
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "seen": "20261024T011700Z",
-          "pinned": false
-        },
-        {
-          "title": "Localized Ukraine ceasefire brokered by Melania Trump starts as Nordic leaders speak to Putin",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVkZvYUdad3FWZ0VGLUk4emZUR3RUODJqUlhVbEJzSkdIU25PaGgzU2ZhNUN5c0dzY3dLcXpDOU5ZUU5kRUU4TEFtSTdVVUZKTlBTNUpESldXYXMxaW1RZy0wTnc4MjFpY21DZTh1S0l5dHNDbU43TmVIb01UUzFDdFRDSmpyajZMalhCdg?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261027T162800Z",
           "pinned": false
         }
       ],
@@ -2441,9 +2441,9 @@
           "reportedAt": "2026-10-25T08:51:07Z"
         },
         {
-          "id": "report-58e25c3f184f",
+          "id": "report-d5e290b5928d",
           "title": "Bulgarians vote for president in shadow of Russia’s war on Ukraine",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWTBIcDhPZnhvMkN6U2ZGamdNTXVRczlFNk54SzVpcWJHZlFtQ2hUZHZWSDhnNC1ZQy1zbEJjUW12M3ZybjVES2hOVzZZSS1PQnE2UWNqNFd3RHZyZ1p2ZjR0OTRYY3JXOTVrOS13SkM0anYteGFqQ1NJei1TVEtSUlJRSmFQVFhHVTNWTl8xUjliaS1MVEhpNm9MSFk3RlM2U0EzMlVSZ2hSX1k?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWTBIcDhPZnhvMkN6U2ZGamdNTXVRczlFNk54SzVpcWJHZlFtQ2hUZHZWSDhnNC1ZQy1zbEJjUW12M3ZybjVES2hOVzZZSS1PQnE2UWNqNFd3RHZyZ1p2ZjR0OTRYY3JXOTVrOS13SkM0anYteGFqQ1NJei1TVEtSUlJRSmFQVFhHVTNWTl8xUjliaS1MVEhpNm9MSFk3RlM2U0EzMlVSZ2hSX1nSAbABQVVfeXFMTzVVRFl3TENUdERQVy1vMlhocFFYSEplaV9pSTlCSGx1Xzg4WnV5WkFoa3VSSXdUZVBsUFVVR2JCdzhoSkV4WkZ2Yzd1RmlXVS02aGpDa3BEUk1kaFk5eUg5eDVJa1RhRDJGSjhsamhhS250dkstV1pDU1RsVm9fS2ZicDBJRU9jZ296eWUtRnN2QnVGNWNBbDVfUWw3VjdITWdlMXR3X0RKY1dYeG5vbGY?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
@@ -2457,15 +2457,6 @@
           "sourceTier": "Regional reporting",
           "confidenceLabel": "REGIONAL REPORT · UNCONFIRMED",
           "reportedAt": "2026-10-24T22:23:11Z"
-        },
-        {
-          "id": "report-986c6595e450",
-          "title": "Norway and Finland hold rare call with Putin to discuss ending war",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuWm1OYWtDeFFLZ0JBTzN0bUdYWGVpUnc1aDBjTVZTSDIyTDJ3bzFPelE5X2ttdVlrYXpSQ3ZPQTU3OUt1WnU1Z004MElQR2lId0RQUXlTbXVnSkk?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-27T14:23:05Z"
         },
         {
           "id": "report-58c0b3769295",
@@ -2486,22 +2477,49 @@
           "reportedAt": "2026-10-24T00:19:34Z"
         },
         {
+          "id": "report-d76ebf813f49",
+          "title": "Localized Ukraine ceasefire brokered by Melania Trump starts as Nordic leaders speak to Putin",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVkZvYUdad3FWZ0VGLUk4emZUR3RUODJqUlhVbEJzSkdIU25PaGgzU2ZhNUN5c0dzY3dLcXpDOU5ZUU5kRUU4TEFtSTdVVUZKTlBTNUpESldXYXMxaW1RZy0wTnc4MjFpY21DZTh1S0l5dHNDbU43TmVIb01UUzFDdFRDSmpyajZMalhCdg?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-27T01:26:06Z"
+        },
+        {
+          "id": "report-1de606f497c2",
+          "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHaWNuMEIyWVhmNXR5S2JHMzhLbXhFc0o5YVNGNGY1MERGOXdXNHZPejNXSjM0VjhlU1ROWXBpUVVpRlRhcGdCWVNMU1IweVZveUZ2VHlrSTlPWWc?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-27T20:19:53Z"
+        },
+        {
           "id": "report-57c81ce23407",
           "title": "What to know about the Melania Trump-brokered ceasefire in Russian-occupied Oleshky",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONllIN0YycVhheUhkdFhFSTdabU5DMmJGMFNIQS15NWYwQV9BTS0tV3lPeHJkUGVsWmNNX3FZMkI5bEdzUF9sNXAtUklUb2JsRDZ1UkNScEFJMHRjRWZITGJxMS1hTWdyM0hhdjk3eUM2dkNiTG1IVjQta28takE4YUUwaWYtQ0MyNGE1aFkzUS1VQXQyNkEweDl4TWZYRGx4NlpZU2szYi1tdw?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-27T12:21:45Z"
+          "reportedAt": "2026-10-27T13:10:00Z"
         },
         {
-          "id": "report-0a15fd2429f1",
-          "title": "Britain must be ready for war within 1,000 days: Defense secretary",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSFBYbFBNTkZPODJSMUt3aHFFUlBGem1oTDVaeS1qTUFaOG00cnpfaTB4X2JuZnNKRHZKcTZLelVyd2pVRU9JNU9KZEdjNlV2Zk90TURlS1BucUFwZzJKamZZeFBkVklWRHY1YXlMbHlwcG4xd293ZFhYLVMxeWJHZzZsRmhXZFZXb0xsNXBTNTRNUW9LY0w0bzZOUkZSdzg4ZEZF?oc=5",
+          "id": "report-986c6595e450",
+          "title": "Norway and Finland hold rare call with Putin to discuss ending war",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuWm1OYWtDeFFLZ0JBTzN0bUdYWGVpUnc1aDBjTVZTSDIyTDJ3bzFPelE5X2ttdVlrYXpSQ3ZPQTU3OUt1WnU1Z004MElQR2lId0RQUXlTbXVnSkk?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-27T18:28:23Z"
+        },
+        {
+          "id": "report-e83bb6893ae2",
+          "title": "Iran’s supreme leader calls for meeting Tehran’s conditions to end war",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOGQ1RjFPakRUSnZ5QnVyTFdreXBjX3VUUVJzZURXWElyR3RTeXZGQWgyNmNCQV9wZFZDQVlHY3FRQnRDcW5GdXVKc0pXS25WNmY2MkthSG03UC1xblBobFNqZTN3eDEzTVUzR3JqRVh5ZDNhYlctSmNGYno3R2NXTGxYVC1qSkQ2a3oxT1ZJdDRLTjNpMHVoMDFLM2V4MHVPMnJ0SWNhQmZyQW9MOGNIVXFuRi1aQQ?oc=5",
           "domain": "aa.com.tr",
           "sourceTier": "State-affiliated reporting",
           "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
-          "reportedAt": "2026-10-26T01:56:05Z"
+          "reportedAt": "2026-10-27T11:24:06Z"
         },
         {
           "id": "report-21514c0ad0d2",
@@ -2537,7 +2555,7 @@
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-26T10:46:12Z"
+          "reportedAt": "2026-10-26T12:43:00Z"
         },
         {
           "id": "report-7837c18f39b0",
@@ -2558,6 +2576,15 @@
           "reportedAt": "2026-10-25T11:41:52Z"
         },
         {
+          "id": "report-85b3b6ee07d8",
+          "title": "Thune scrambles to save his Senate majority as voters voice concern over the Iran war and gas prices",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcTVNR28xZGd0cEtsWm84SnN4X2htV3dyd2VEamVsZXFWLXo3M3dsYUtBdDlCdlRGdWRiODlYQURDNlBPNGRtVVRJdmE1VGlYblM3bDhFcnk3SUs0ZC1MMWVCd1ltSnRqSGRTMWt6bjV5Yzc1YVVYTmc4ZnpNdjUzNlBKczRXNzFDdWdqQWhkWW02bkZiTFlqUzFWZHFrNGs3aFB2RGlVeGZrQzNROHJtYm9NYlpKaW8?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-26T13:37:00Z"
+        },
+        {
           "id": "report-33f608b4dcfa",
           "title": "Iran's army claims it shot down US drone over southern Iran",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVzVTS0tDaEJqZE9MaG93S25xTDZLczFxM2l6MzVvb01lVF9BVEREOVpwX2dseHFiU3B3NE5hT1Z6bTVRR0V5Qmd2cS0tZGxLYW9RWTJ6R0gwZW9uLTRoMGtSY0VBWDB3U0o1Sm54cmEtS1Y0YUdUNmlBV1hEbnN4VEJqV3gxbHZleTNGRmF5RFh6bVBiQ2xVN3VGUGtkT1RLTEJJaVFR?oc=5",
@@ -2567,13 +2594,13 @@
           "reportedAt": "2026-10-25T08:16:46Z"
         },
         {
-          "id": "report-85b3b6ee07d8",
-          "title": "Thune scrambles to save his Senate majority as voters voice concern over the Iran war and gas prices",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcTVNR28xZGd0cEtsWm84SnN4X2htV3dyd2VEamVsZXFWLXo3M3dsYUtBdDlCdlRGdWRiODlYQURDNlBPNGRtVVRJdmE1VGlYblM3bDhFcnk3SUs0ZC1MMWVCd1ltSnRqSGRTMWt6bjV5Yzc1YVVYTmc4ZnpNdjUzNlBKczRXNzFDdWdqQWhkWW02bkZiTFlqUzFWZHFrNGs3aFB2RGlVeGZrQzNROHJtYm9NYlpKaW8?oc=5",
-          "domain": "apnews.com",
+          "id": "report-12dbede9cb5d",
+          "title": "Iranians brace for renewed attacks after Israeli, US elections",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTjdBU0lIRDR1ZzBnUDFWOWZ1M1pUMEtyOGtNVGtrVnJHOW0xNkhGTS1uRTZxNWExWWM2Qjd5QUIyZTM2NXZlbi1NVUVoYW1hSEV0VlZ2azZ5WVRzakU2ZXlVbWh0TmtsdVBRQk0zbmlRYTV2allUMTNCX0N3UzZfVkNmNHhZMGNPeElwbHN1MnNaOWtZRzVHaEdESWt6VjdRamdwS1VUWkh0TlNFN00waDlJMXlWbjjSAbwBQVVfeXFMUG1UOS1tV0QtWDhJSUZyVk4yaUg0b3hnXzlWa2xJUm5VTmZXcHNNV3lfYmVCQ0RCM2dVVklwTGpFMDBic1lZQWQzWkJsS2JwR1ZndU8xMFRLcHpqMHpMOUtYU2hCYkx3TU01NmRUZ1NtaDJfYUV6TnpyS3JXcFhsMWVsZHd0VFlKOU1WNWtScG5BZklEVDNFTWMxUTNHUWJLYUI1VjkyUUJvZFhnNHl4ZEFZV1VDUmlWcmJHYUY?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-26T13:37:00Z"
+          "reportedAt": "2026-10-27T13:27:56Z"
         },
         {
           "id": "report-d7ed375822a9",
@@ -2594,24 +2621,6 @@
           "reportedAt": "2026-10-26T17:30:46Z"
         },
         {
-          "id": "report-280deeb07585",
-          "title": "Iran trying harder to target US personnel in Middle East, intelligence chief warns",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OWDNRWTNxMkEyVlFfSEZmUVlPVlNncENwMDBNck1XNDRWZzEzVDV0VVdzQUx5UW1wZVpwSnN5ZUxlUERKb20ycjUtNExTX1pOeDZva1BiTVFxZUk?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-24T07:36:02Z"
-        },
-        {
-          "id": "report-51b4dbf1e703",
-          "title": "Trump says US will do business with Ukraine, Russia after war ends",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObklGejEwbFdGa21Sa3VRWU1XamN4b3BGOXRWTzlZb3RJek9CaFFuR0tuSDREb0cwcmhZZjdmaGRIbEdtUGFwbnFSdGFkb0xTRmVSVDlYRFk4RXpPaUtCR3IwejVmZ1VKTjJLSlBTTFFYX1BqUUt4RlVLXzlxQ2ZqdWlqU2o2Z2hHdUpnWVliTDJ0cmpBeE9DQXl0aVRDeXQzTElrNWU0Y092SjA?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
-          "reportedAt": "2026-10-24T20:53:07Z"
-        },
-        {
           "id": "report-55cc1575e83d",
           "title": "Trump lauds Melania over Russia-Ukraine localised ceasefire deal",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPandBSUd6MV9Kb0FrYWc3YVN4RnVMa1h3WTVieVpjVE4zSzU1SVBBLWl3WS1VMks0cXJvMW54MktYOTZZLVp1ME9hOXhlNHlFMFRKR3draWgtVTJmTVk2N2lvcnNQcjdkWmlFTTRlb1RKZTVOZnloRHRWQzk3eDdXWUZmSUx5Y25oSWdvaVZEUU5meWYxcm5UMlMzSXY5SXppM09tZ1lBZDNiSHdLWGFpQXF3REplckXSAbwBQVVfeXFMTTdyXy1EcVQyNHkweWN3SUhQOFFuTFZJTlFsckMtYWxqamVQb0o3VGtxaU5VR3JYeXFIaTFTUklmSGltUVNiOHZKVDJDYXdoVVFzUEtPaU5kU0FSUnZwSmJFUEVLQ3U1ekZRVjV0eVhqZzNkTkRlOU1kcWpUZlVLTEZtVW14UGpyN3B3RnlRRlprUWFzMUVULThwVVpKRW5aaW5aTEhoeWlhSV9hQi1NZDF5bTY2QWFRVzJmTG0?oc=5",
@@ -2628,15 +2637,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-10-24T01:17:00Z"
-        },
-        {
-          "id": "report-d76ebf813f49",
-          "title": "Localized Ukraine ceasefire brokered by Melania Trump starts as Nordic leaders speak to Putin",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVkZvYUdad3FWZ0VGLUk4emZUR3RUODJqUlhVbEJzSkdIU25PaGgzU2ZhNUN5c0dzY3dLcXpDOU5ZUU5kRUU4TEFtSTdVVUZKTlBTNUpESldXYXMxaW1RZy0wTnc4MjFpY21DZTh1S0l5dHNDbU43TmVIb01UUzFDdFRDSmpyajZMalhCdg?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-27T16:28:00Z"
         },
         {
           "id": "report-90df6d38e318",
