@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T12:10:00.541Z",
+  "generatedAt": "2026-10-27T18:01:41.571Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-10-27T12:10:00.541Z",
+      "generatedAt": "2026-10-27T18:01:41.571Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -2247,9 +2247,17 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-10-27T12:10:00.541Z",
+      "generatedAt": "2026-10-27T18:01:41.571Z",
       "cadence": "every 6 hours",
       "items": [
+        {
+          "title": "Melania or the pope: Who brokered Russia-Ukraine ceasefire in Oleshky?",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZzNVQW5uV3pYd3hISHo5Q2YtalI4U3pOM2FSbTlXX2FOclZ4a3hxRnJxN3dLRGctdnM1ZFctX3RCQWYxdDRCOXdXcVluVmJMNDVVTVRXc29ybG1XNE9VQW5hTFpRbG02T00tdno2cTV1X0x1QUFGT2IzeVM5SHhnbjN5ZHJYUjZYT2lyZzNIbFllREVPcjA5Tm9xRHF2aUQ0NG9iOVRfSTVpQnFoRlhJ0gG0AUFVX3lxTE5aMVc2Mml2aDIwRGpFTHRyM0RlQko5d1lGMXdGVjZOM0NyMVlaamJPbG50SHFEN0tPZXZfMVR3VEpmbWJsSWw2NW1qeVlpWGJ6aVlYdjRqX3ZwOERmb0VtWnIwNHo0ZlpLUjdrb2Fncl92MldnM053WVpsT0liNjlhN3haVC1oVjBpQVJXTFlXUVZkbXRDS0pMZUh6eGd1T3hIY0JyQVlNMGpkd2VyNWhTQWx5Yw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261027T134710Z",
+          "pinned": false
+        },
         {
           "title": "Obama’s Ohio, Michigan speeches: Key takeaways on Trump, Iran war, midterms",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNmpMTzVMV0M5WU04b2s2LW1QeWlLWVVSdnRJQ2xQeW9WeVdXVjZYVkVwVFgzWTd5U25HZHJ4VFFIb0xfZDBrOVNJYzVsWndCcmhfdEkycExMaVoxelNzcWtuTWhxdjFKWVZxeVhGemVZdi0wNjBaX1pwdWE0aTBOS1gtUlNUcjRwRXNzcXNkdnF6ZDlrTFBJejVCQ1kwUGRjQWQ2MTNHai10OUlhQ29TdFNn0gG3AUFVX3lxTE9zVTVQVDdCLWlial92eERzejVzYnlMSnRwdTRiOFd5WTZCcFE2VnVabkJYOFNwV0NQRl90a0R1ZllSc2NDUDdPLVd3bXBUV0dLcU01a0MzbVhNVUlHczgzUTlYOW95YkZFVVdFOW8zVmROUUN0alc1aTZzRnNuTUxZcHg1a1VTQktVYkNhSTBNMzZiampRSUFtbjBFaDBSZURlVDBiYnh4MjBBRDNuYlVNTnpPcVdJaw?oc=5",
@@ -2259,11 +2267,11 @@
           "pinned": false
         },
         {
-          "title": "Iran says won’t allow US warships to get close as Trump ponders new attacks",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbnhYekZtTGYtNUxRY1l0SkNlclVxV1JhVHJ2QUNzRFhRQW96Z0FWbXBSakNhblFEYk9kNHBibExfT0xFVFhLbUEzLWZpR0VNVC0tT2NlTTRIWmlaRThSTXN5OEF6d1ZiSEhGak11ck5zclJpYkRPODdJdFNqLXJTWjZiemlRSnZuOUV1MWY3eDZYMTBjaThzRDJaU3VVQnFqbFQ3bEt2enJEeHNUcm1nZTBnT1lXNXfSAbwBQVVfeXFMTzcyR081VVdqUVNRX05XQ0NxRFFPdm81M0NEV0hPcm9FYlZmTEJ4bTBPQUtjSjZvOEx3aGFWdGNDbHkyZzdoVDlVZzZyU1NrNkt4YkhBZGxZcm1vZ0tlWTB0T3lZbDdaX3dnSkZVdUpqc19KZnpWS3Vlc2tiN1JEQUNWZEVZYmV0ZWVyYXFENDU4a2FqU3ZWZGR5dFFreHl4VzVZellsU2hwQVcyZzBBTjl6SG9WQUpBNmprOXA?oc=5",
+          "title": "Bulgarians vote for president in shadow of Russia’s war on Ukraine",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWTBIcDhPZnhvMkN6U2ZGamdNTXVRczlFNk54SzVpcWJHZlFtQ2hUZHZWSDhnNC1ZQy1zbEJjUW12M3ZybjVES2hOVzZZSS1PQnE2UWNqNFd3RHZyZ1p2ZjR0OTRYY3JXOTVrOS13SkM0anYteGFqQ1NJei1TVEtSUlJRSmFQVFhHVTNWTl8xUjliaS1MVEhpNm9MSFk3RlM2U0EzMlVSZ2hSX1k?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261024T131507Z",
+          "seen": "20261025T061856Z",
           "pinned": false
         },
         {
@@ -2271,23 +2279,15 @@
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN0w3bVVBMUswRGNUYVJKQUF0VEFwa2Q4V0pyWmVobnhpbExzeXhvMHA3ak1UNkN6NVhpVUVISk01OHY4UkhlQUJLRlBVM3BSVGVHekJtTEwyc014UFdDTFRBVHZCeVVrM0JkYXB5c3RxLWpDT05NczE2OUZ5bjFBalFtTG9ieW5KQ3gyWVBRU1pYZw?oc=5",
           "domain": "al-monitor.com",
           "sourceTier": "Regional reporting",
-          "seen": "20261024T222129Z",
+          "seen": "20261024T222311Z",
           "pinned": false
         },
         {
-          "title": "Bulgarians vote for president in shadow of Russia’s war on Ukraine",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWTBIcDhPZnhvMkN6U2ZGamdNTXVRczlFNk54SzVpcWJHZlFtQ2hUZHZWSDhnNC1ZQy1zbEJjUW12M3ZybjVES2hOVzZZSS1PQnE2UWNqNFd3RHZyZ1p2ZjR0OTRYY3JXOTVrOS13SkM0anYteGFqQ1NJei1TVEtSUlJRSmFQVFhHVTNWTl8xUjliaS1MVEhpNm9MSFk3RlM2U0EzMlVSZ2hSX1nSAbABQVVfeXFMTzVVRFl3TENUdERQVy1vMlhocFFYSEplaV9pSTlCSGx1Xzg4WnV5WkFoa3VSSXdUZVBsUFVVR2JCdzhoSkV4WkZ2Yzd1RmlXVS02aGpDa3BEUk1kaFk5eUg5eDVJa1RhRDJGSjhsamhhS250dkstV1pDU1RsVm9fS2ZicDBJRU9jZ296eWUtRnN2QnVGNWNBbDVfUWw3VjdITWdlMXR3X0RKY1dYeG5vbGY?oc=5",
-          "domain": "aljazeera.com",
+          "title": "Norway and Finland hold rare call with Putin to discuss ending war",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuWm1OYWtDeFFLZ0JBTzN0bUdYWGVpUnc1aDBjTVZTSDIyTDJ3bzFPelE5X2ttdVlrYXpSQ3ZPQTU3OUt1WnU1Z004MElQR2lId0RQUXlTbXVnSkk?oc=5",
+          "domain": "bbc.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261025T061856Z",
-          "pinned": false
-        },
-        {
-          "title": "Melania Trump ‘secured ceasefire’ in Ukrainian city of Oleshky: White House",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSHlzeURsR3Y1eUZHZDhJMDV6c1NmazNhamplQlF4LWNZNUswWlVhNDBNa3FaRmRyNmV0U2tiSXk0M0ZHSDRnYl9iS2ZBWHA4MnFkbWdYR2R6M0tLV2tSNWpBaEpYcXREZlBGYzBNdERTdWloNk0wTENNNlZ6dC1wdVhKV0ZCdmIyajJpRTBSeER5dU55VHRLeGEybzhHRGQzNGZWUnMyX1NLbzNRbDkxNXVB0gG3AUFVX3lxTE5qTDdlWnc5Zlc2aGRVTFhpcVoxT2VnWnhmeGdfeS1xWE44WUp3RjZsNmMwOUx3dXE3amtWTGxnQlg0SU82VXA4bGNEQjlFM3Y3UzZqSk03M2xTWmpseFlEd3NvXy1lc1UzanlLbV82eVVIQ2wyWDJ6enJCSDRYdjQxT0FSbDhqYkhUa2pQWEJDWjRsZFRDRmFENnpaMzlBNjBRMnR6WFVac1p2eC1YdHhOdjh0NGMyaw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261024T001934Z",
+          "seen": "20261027T142305Z",
           "pinned": false
         },
         {
@@ -2299,11 +2299,19 @@
           "pinned": false
         },
         {
-          "title": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oN3NlRVJ0TWk4bW5vVHRUblM0c3JUS3pyZzVSLUcyNTBSa0dpZTl1aXpXbVlPeU9qT2t0S3JIdm9Jb2JzSWxRZVRObm4teDJqSEU1ZVFLRENZbEk?oc=5",
-          "domain": "bbc.com",
+          "title": "Melania Trump ‘secured ceasefire’ in Ukrainian city of Oleshky: White House",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSHlzeURsR3Y1eUZHZDhJMDV6c1NmazNhamplQlF4LWNZNUswWlVhNDBNa3FaRmRyNmV0U2tiSXk0M0ZHSDRnYl9iS2ZBWHA4MnFkbWdYR2R6M0tLV2tSNWpBaEpYcXREZlBGYzBNdERTdWloNk0wTENNNlZ6dC1wdVhKV0ZCdmIyajJpRTBSeER5dU55VHRLeGEybzhHRGQzNGZWUnMyX1NLbzNRbDkxNXVB0gG3AUFVX3lxTE5qTDdlWnc5Zlc2aGRVTFhpcVoxT2VnWnhmeGdfeS1xWE44WUp3RjZsNmMwOUx3dXE3amtWTGxnQlg0SU82VXA4bGNEQjlFM3Y3UzZqSk03M2xTWmpseFlEd3NvXy1lc1UzanlLbV82eVVIQ2wyWDJ6enJCSDRYdjQxT0FSbDhqYkhUa2pQWEJDWjRsZFRDRmFENnpaMzlBNjBRMnR6WFVac1p2eC1YdHhOdjh0NGMyaw?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261025T022715Z",
+          "seen": "20261024T001934Z",
+          "pinned": false
+        },
+        {
+          "title": "What to know about the Melania Trump-brokered ceasefire in Russian-occupied Oleshky",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONllIN0YycVhheUhkdFhFSTdabU5DMmJGMFNIQS15NWYwQV9BTS0tV3lPeHJkUGVsWmNNX3FZMkI5bEdzUF9sNXAtUklUb2JsRDZ1UkNScEFJMHRjRWZITGJxMS1hTWdyM0hhdjk3eUM2dkNiTG1IVjQta28takE4YUUwaWYtQ0MyNGE1aFkzUS1VQXQyNkEweDl4TWZYRGx4NlpZU2szYi1tdw?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261027T122145Z",
           "pinned": false
         },
         {
@@ -2315,19 +2323,19 @@
           "pinned": false
         },
         {
-          "title": "Iran blames US for deal failure, urges new try amid fear of new attacks",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ05XMkJCM0VsWlpad3c3TDI0OTBlWEl4SnJrdlNfRmFyRXdTOGpEZUk2YWlUMFZHZ25qOTctZ282NXo1bXN6SXZGUFZTNTZwN2JBbVJtNjZzY1lmYkQzU3l6Y3N0U2ZERmJ4eHUwc3kxX3otMUFiUm12RWY2MVJWTUs4Sk54V3lOZURVOUYzQ2hWZzBQU3lhYTBQd0NCOGNFUUJ1QUdEREhXaTBLQkpDRTlB0gG3AUFVX3lxTE81TzJSMTVEOHE5ZWVybzFEVXRiWFJiYWo1VkJsVTJjbEp4WVE0eFFwSFp3VjhmVWpuSHRKVy1rdjFndzdQTG4xd0w1ejN0anp6T1U0a25Delkxc2Z5N0R6elBjMDVYVDU4SWlyQW5xQUFBcUtQVGtHRjM4TWk4eC0zUFUtd3VTdnd4ZnhBdUUwejUwdFE4eG1RSHlnRGNmNG9VXy1fNVRDUkFiNkVPc2djMFRfM2NsZw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261024T213625Z",
-          "pinned": false
-        },
-        {
           "title": "World War Two Bungay love story inspires quest to save artwork",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OVXFMZ1MyeDZCMlI2ZlVtRGZla2RLX3dFYjN0LU4tdVJYYUpSVVl0MHplSmpYdFd4YmQxdldVVjhNenJfRjF1U1lZRkhCNDJ4ZmxGTEZPZ0Jad0U?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20261024T044823Z",
+          "pinned": false
+        },
+        {
+          "title": "Iran blames US for deal failure, urges new try amid fear of new attacks",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ05XMkJCM0VsWlpad3c3TDI0OTBlWEl4SnJrdlNfRmFyRXdTOGpEZUk2YWlUMFZHZ25qOTctZ282NXo1bXN6SXZGUFZTNTZwN2JBbVJtNjZzY1lmYkQzU3l6Y3N0U2ZERmJ4eHUwc3kxX3otMUFiUm12RWY2MVJWTUs4Sk54V3lOZURVOUYzQ2hWZzBQU3lhYTBQd0NCOGNFUUJ1QUdEREhXaTBLQkpDRTlB0gG3AUFVX3lxTE81TzJSMTVEOHE5ZWVybzFEVXRiWFJiYWo1VkJsVTJjbEp4WVE0eFFwSFp3VjhmVWpuSHRKVy1rdjFndzdQTG4xd0w1ejN0anp6T1U0a25Delkxc2Z5N0R6elBjMDVYVDU4SWlyQW5xQUFBcUtQVGtHRjM4TWk4eC0zUFUtd3VTdnd4ZnhBdUUwejUwdFE4eG1RSHlnRGNmNG9VXy1fNVRDUkFiNkVPc2djMFRfM2NsZw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261024T213625Z",
           "pinned": false
         },
         {
@@ -2343,7 +2351,7 @@
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWVloTVpZeHZsZHpoNVdPZFQ0X21mbU5QSnY1UmczNVNJTG9iTmhMSlNoaVM0YUVwWnQzNjIzb3ktV1JRUEp5VVR4bHdCOGdHUGZXQ2RzMzAzLVlrZ2M4OVhjOUoyOVJtNEplUEc2YlRCTE1YWV94aUVhZ2dybUJ2SkoxRHE0ak5ObVBnVmxmTWNIaTNPT2VCM21pTHA3N28?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261026T124300Z",
+          "seen": "20261026T104612Z",
           "pinned": false
         },
         {
@@ -2371,6 +2379,22 @@
           "pinned": false
         },
         {
+          "title": "Thune scrambles to save his Senate majority as voters voice concern over the Iran war and gas prices",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcTVNR28xZGd0cEtsWm84SnN4X2htV3dyd2VEamVsZXFWLXo3M3dsYUtBdDlCdlRGdWRiODlYQURDNlBPNGRtVVRJdmE1VGlYblM3bDhFcnk3SUs0ZC1MMWVCd1ltSnRqSGRTMWt6bjV5Yzc1YVVYTmc4ZnpNdjUzNlBKczRXNzFDdWdqQWhkWW02bkZiTFlqUzFWZHFrNGs3aFB2RGlVeGZrQzNROHJtYm9NYlpKaW8?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261026T133700Z",
+          "pinned": false
+        },
+        {
+          "title": "Pentagon plans to keep US military bases running for 90 days without outside support: Report",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWTl5S2JHVGRsR01yM29telhMazhITUNaR0hWYzBoZHF6Uy1pTk1RVkszcF93TW94angzWXd1c2NlUG5yOGhSZ244a2YwLWxOcXg5aVZ3cXlkYlI3bi1NY0wtZk1DSEN1MzgyLVVJUmgtTWI5SGR2Z185WkI3MmFhSXdrVnJtVUduV3lpb19xNmdTZ2pjdVJ6YVhHYndHYm9rX0hZbzk5WHd3MHdXdTlEWGNPZlBrOHhIZ0JBSGlBLWNYMnFURnV4cw?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20261026T014042Z",
+          "pinned": false
+        },
+        {
           "title": "Russian attacks on Ukraine’s energy infrastructure a war crime: UN",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaXpnLU1DZ3RHdUdUUEpLT1gyNHBacVNZczhrSkhzd3dLZV9RMl9HNUszaFNXRTN6dEctQnRoSVA4Q3Rfc1dFMlBmQ29vWExwa0kyRzdfSUl4RDNIcDA5ZllHQ25SYXhUdHd0VXF1OEN2LTYxdmU5aEt1UDgza0IwRGg0bnJRZjlLV0ozelVEdU1EVGNJLTJkREtWTjZUaGZrVEJlb0NkTGFVQdIBrwFBVV95cUxQQlZtUG9QcDFJVTdxOGdrb1R1NFVnZUFPRVk3VDhSZ1kxNEhJNmFEdVRQMm9OWDlsQ255bG00SlBsaElJM3RhVFZfWXBkU0R4a09yUlFLbHl3WnFMdWtPazVhYVFfSmdSalJtZDJLbnN0a0RLR0g3NlZqSEZ2eE9jOFB0VU00ZUxkOVRlLXY2MGx1ZHFSMDdnaHhKeTJoZW51RU9iVEJfTFB0Wl85TG9r?oc=5",
           "domain": "aljazeera.com",
@@ -2387,43 +2411,11 @@
           "pinned": false
         },
         {
-          "title": "Pentagon plans to keep US military bases running for 90 days without outside support: Report",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOLXlWRVJhVnNxNWdTV2plVkZSZ2VzRXVkc3lzZVp0NlZaMVIxTzh0ZGY2eVJvRWEwYlJubklXNi14UU9kbGt3RnNwZ19kd2EtNkhWQ21EWXZoNkV1UWZtNU02ZlhRQkVadEtzSDRzVUtwYzdQRTN4Tm14WnM1b3dOc1pWUnRKUnJtRzAzV3R1M1lpcUg3MDJQVVh0dmlJSFpCdVo0V21BOTRUWmlzS1ZhaHVPNmFybmxRblp5Z1V0Q25WMmh3UGJPTXc5cDc0Zw?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "seen": "20261026T013723Z",
-          "pinned": false
-        },
-        {
-          "title": "How is the US-Israeli war on Iran causing havoc in Europe?",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVmJvVFROYklRaWdWUnhjOXhGUVpNQmRzME1NM25aUWVTNVlDQU90aGNQaTRlZTUzZUNscE9QZHNZX2ZZY0pKS2htbjNpUHJXaDVMR25zeFRlU1I2ZzN0LWlsdTNsSU9TUnZvcFVFTXVyUXZtUjNvZFhlQU1WUjdITnBlZ1hzc0gyRXV4blBDMkdPcC13Wl9VbW5uaC1JaGR30gGmAUFVX3lxTE4xY3BFSzlQa0VZLWcwaUo3SklTdzRKaExfbzlEUjNDYlVpczR6amNiN3BmUzRaM0tReUhJeVVnWkJnaWJkVXMtVUlQR3haX2JScWFsRHRmazlzYW9hMVZfaFdIYWxiendHMldwcDBMOWctQWNQX0xQd0RZUVVDOEt5OUQzSkhZbFpHMEIxc0dSOENFbm1jRVNUUjZBSzN6MjJzTjNJMFE?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261025T145113Z",
-          "pinned": false
-        },
-        {
           "title": "Trump says US will do business with Ukraine, Russia after war ends",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObklGejEwbFdGa21Sa3VRWU1XamN4b3BGOXRWTzlZb3RJek9CaFFuR0tuSDREb0cwcmhZZjdmaGRIbEdtUGFwbnFSdGFkb0xTRmVSVDlYRFk4RXpPaUtCR3IwejVmZ1VKTjJLSlBTTFFYX1BqUUt4RlVLXzlxQ2ZqdWlqU2o2Z2hHdUpnWVliTDJ0cmpBeE9DQXl0aVRDeXQzTElrNWU0Y092SjA?oc=5",
           "domain": "aa.com.tr",
           "sourceTier": "State-affiliated reporting",
           "seen": "20261024T205307Z",
-          "pinned": false
-        },
-        {
-          "title": "What to know about the Melania Trump-brokered ceasefire in Russian-occupied Oleshky",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONllIN0YycVhheUhkdFhFSTdabU5DMmJGMFNIQS15NWYwQV9BTS0tV3lPeHJkUGVsWmNNX3FZMkI5bEdzUF9sNXAtUklUb2JsRDZ1UkNScEFJMHRjRWZITGJxMS1hTWdyM0hhdjk3eUM2dkNiTG1IVjQta28takE4YUUwaWYtQ0MyNGE1aFkzUS1VQXQyNkEweDl4TWZYRGx4NlpZU2szYi1tdw?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261024T210500Z",
-          "pinned": false
-        },
-        {
-          "title": "Melania Trump brokers a ceasefire deal in Russian-occupied Ukrainian city to get relief aid in",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMkNRM3hJTVJkUGxjNjB3QmhSd2FSb2JHZkZtTjVNdzNWeHJ4QkpwdEd0cWttQjg0ZmVSQUtCV0JHTFRCeTd3NGJITy1ybDRTQzB4ZkhEdDEtRkRhcUZrWHdONWJZZFlBbGV5YmhkbDh5LTlaZm9jelQ3Y2FWOEcxUlhLZE5yX2c4dVhSZlYyVDUtVllza2ZLLTVXQ2RCN093aGJlRmc4RU9jcHZROVRv?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261024T011700Z",
           "pinned": false
         },
         {
@@ -2435,15 +2427,32 @@
           "pinned": false
         },
         {
-          "title": "Localized ceasefire brokered by Melania Trump starts as Nordic leaders speak to Putin and Zelenskyy",
+          "title": "Melania Trump brokers a ceasefire deal in Russian-occupied Ukrainian city to get relief aid in",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMkNRM3hJTVJkUGxjNjB3QmhSd2FSb2JHZkZtTjVNdzNWeHJ4QkpwdEd0cWttQjg0ZmVSQUtCV0JHTFRCeTd3NGJITy1ybDRTQzB4ZkhEdDEtRkRhcUZrWHdONWJZZFlBbGV5YmhkbDh5LTlaZm9jelQ3Y2FWOEcxUlhLZE5yX2c4dVhSZlYyVDUtVllza2ZLLTVXQ2RCN093aGJlRmc4RU9jcHZROVRv?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261024T011700Z",
+          "pinned": false
+        },
+        {
+          "title": "Localized Ukraine ceasefire brokered by Melania Trump starts as Nordic leaders speak to Putin",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVkZvYUdad3FWZ0VGLUk4emZUR3RUODJqUlhVbEJzSkdIU25PaGgzU2ZhNUN5c0dzY3dLcXpDOU5ZUU5kRUU4TEFtSTdVVUZKTlBTNUpESldXYXMxaW1RZy0wTnc4MjFpY21DZTh1S0l5dHNDbU43TmVIb01UUzFDdFRDSmpyajZMalhCdg?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261027T105200Z",
+          "seen": "20261027T162800Z",
           "pinned": false
         }
       ],
       "reports": [
+        {
+          "id": "report-46dbf1d76df2",
+          "title": "Melania or the pope: Who brokered Russia-Ukraine ceasefire in Oleshky?",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZzNVQW5uV3pYd3hISHo5Q2YtalI4U3pOM2FSbTlXX2FOclZ4a3hxRnJxN3dLRGctdnM1ZFctX3RCQWYxdDRCOXdXcVluVmJMNDVVTVRXc29ybG1XNE9VQW5hTFpRbG02T00tdno2cTV1X0x1QUFGT2IzeVM5SHhnbjN5ZHJYUjZYT2lyZzNIbFllREVPcjA5Tm9xRHF2aUQ0NG9iOVRfSTVpQnFoRlhJ0gG0AUFVX3lxTE5aMVc2Mml2aDIwRGpFTHRyM0RlQko5d1lGMXdGVjZOM0NyMVlaamJPbG50SHFEN0tPZXZfMVR3VEpmbWJsSWw2NW1qeVlpWGJ6aVlYdjRqX3ZwOERmb0VtWnIwNHo0ZlpLUjdrb2Fncl92MldnM053WVpsT0liNjlhN3haVC1oVjBpQVJXTFlXUVZkbXRDS0pMZUh6eGd1T3hIY0JyQVlNMGpkd2VyNWhTQWx5Yw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-27T13:47:10Z"
+        },
         {
           "id": "report-4d98b99e39f8",
           "title": "Obama’s Ohio, Michigan speeches: Key takeaways on Trump, Iran war, midterms",
@@ -2454,13 +2463,13 @@
           "reportedAt": "2026-10-25T08:51:07Z"
         },
         {
-          "id": "report-48ea5016f6ea",
-          "title": "Iran says won’t allow US warships to get close as Trump ponders new attacks",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbnhYekZtTGYtNUxRY1l0SkNlclVxV1JhVHJ2QUNzRFhRQW96Z0FWbXBSakNhblFEYk9kNHBibExfT0xFVFhLbUEzLWZpR0VNVC0tT2NlTTRIWmlaRThSTXN5OEF6d1ZiSEhGak11ck5zclJpYkRPODdJdFNqLXJTWjZiemlRSnZuOUV1MWY3eDZYMTBjaThzRDJaU3VVQnFqbFQ3bEt2enJEeHNUcm1nZTBnT1lXNXfSAbwBQVVfeXFMTzcyR081VVdqUVNRX05XQ0NxRFFPdm81M0NEV0hPcm9FYlZmTEJ4bTBPQUtjSjZvOEx3aGFWdGNDbHkyZzdoVDlVZzZyU1NrNkt4YkhBZGxZcm1vZ0tlWTB0T3lZbDdaX3dnSkZVdUpqc19KZnpWS3Vlc2tiN1JEQUNWZEVZYmV0ZWVyYXFENDU4a2FqU3ZWZGR5dFFreHl4VzVZellsU2hwQVcyZzBBTjl6SG9WQUpBNmprOXA?oc=5",
+          "id": "report-58e25c3f184f",
+          "title": "Bulgarians vote for president in shadow of Russia’s war on Ukraine",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWTBIcDhPZnhvMkN6U2ZGamdNTXVRczlFNk54SzVpcWJHZlFtQ2hUZHZWSDhnNC1ZQy1zbEJjUW12M3ZybjVES2hOVzZZSS1PQnE2UWNqNFd3RHZyZ1p2ZjR0OTRYY3JXOTVrOS13SkM0anYteGFqQ1NJei1TVEtSUlJRSmFQVFhHVTNWTl8xUjliaS1MVEhpNm9MSFk3RlM2U0EzMlVSZ2hSX1k?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-24T13:15:07Z"
+          "reportedAt": "2026-10-25T06:18:56Z"
         },
         {
           "id": "report-ec1cf735ab6c",
@@ -2469,25 +2478,16 @@
           "domain": "al-monitor.com",
           "sourceTier": "Regional reporting",
           "confidenceLabel": "REGIONAL REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-24T22:21:29Z"
+          "reportedAt": "2026-10-24T22:23:11Z"
         },
         {
-          "id": "report-d5e290b5928d",
-          "title": "Bulgarians vote for president in shadow of Russia’s war on Ukraine",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWTBIcDhPZnhvMkN6U2ZGamdNTXVRczlFNk54SzVpcWJHZlFtQ2hUZHZWSDhnNC1ZQy1zbEJjUW12M3ZybjVES2hOVzZZSS1PQnE2UWNqNFd3RHZyZ1p2ZjR0OTRYY3JXOTVrOS13SkM0anYteGFqQ1NJei1TVEtSUlJRSmFQVFhHVTNWTl8xUjliaS1MVEhpNm9MSFk3RlM2U0EzMlVSZ2hSX1nSAbABQVVfeXFMTzVVRFl3TENUdERQVy1vMlhocFFYSEplaV9pSTlCSGx1Xzg4WnV5WkFoa3VSSXdUZVBsUFVVR2JCdzhoSkV4WkZ2Yzd1RmlXVS02aGpDa3BEUk1kaFk5eUg5eDVJa1RhRDJGSjhsamhhS250dkstV1pDU1RsVm9fS2ZicDBJRU9jZ296eWUtRnN2QnVGNWNBbDVfUWw3VjdITWdlMXR3X0RKY1dYeG5vbGY?oc=5",
-          "domain": "aljazeera.com",
+          "id": "report-986c6595e450",
+          "title": "Norway and Finland hold rare call with Putin to discuss ending war",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuWm1OYWtDeFFLZ0JBTzN0bUdYWGVpUnc1aDBjTVZTSDIyTDJ3bzFPelE5X2ttdVlrYXpSQ3ZPQTU3OUt1WnU1Z004MElQR2lId0RQUXlTbXVnSkk?oc=5",
+          "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-25T06:18:56Z"
-        },
-        {
-          "id": "report-0f4c53381457",
-          "title": "Melania Trump ‘secured ceasefire’ in Ukrainian city of Oleshky: White House",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSHlzeURsR3Y1eUZHZDhJMDV6c1NmazNhamplQlF4LWNZNUswWlVhNDBNa3FaRmRyNmV0U2tiSXk0M0ZHSDRnYl9iS2ZBWHA4MnFkbWdYR2R6M0tLV2tSNWpBaEpYcXREZlBGYzBNdERTdWloNk0wTENNNlZ6dC1wdVhKV0ZCdmIyajJpRTBSeER5dU55VHRLeGEybzhHRGQzNGZWUnMyX1NLbzNRbDkxNXVB0gG3AUFVX3lxTE5qTDdlWnc5Zlc2aGRVTFhpcVoxT2VnWnhmeGdfeS1xWE44WUp3RjZsNmMwOUx3dXE3amtWTGxnQlg0SU82VXA4bGNEQjlFM3Y3UzZqSk03M2xTWmpseFlEd3NvXy1lc1UzanlLbV82eVVIQ2wyWDJ6enJCSDRYdjQxT0FSbDhqYkhUa2pQWEJDWjRsZFRDRmFENnpaMzlBNjBRMnR6WFVac1p2eC1YdHhOdjh0NGMyaw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-24T00:19:34Z"
+          "reportedAt": "2026-10-27T14:23:05Z"
         },
         {
           "id": "report-58c0b3769295",
@@ -2499,13 +2499,22 @@
           "reportedAt": "2026-10-25T14:03:09Z"
         },
         {
-          "id": "report-a7ce113e4b93",
-          "title": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oN3NlRVJ0TWk4bW5vVHRUblM0c3JUS3pyZzVSLUcyNTBSa0dpZTl1aXpXbVlPeU9qT2t0S3JIdm9Jb2JzSWxRZVRObm4teDJqSEU1ZVFLRENZbEk?oc=5",
-          "domain": "bbc.com",
+          "id": "report-0f4c53381457",
+          "title": "Melania Trump ‘secured ceasefire’ in Ukrainian city of Oleshky: White House",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSHlzeURsR3Y1eUZHZDhJMDV6c1NmazNhamplQlF4LWNZNUswWlVhNDBNa3FaRmRyNmV0U2tiSXk0M0ZHSDRnYl9iS2ZBWHA4MnFkbWdYR2R6M0tLV2tSNWpBaEpYcXREZlBGYzBNdERTdWloNk0wTENNNlZ6dC1wdVhKV0ZCdmIyajJpRTBSeER5dU55VHRLeGEybzhHRGQzNGZWUnMyX1NLbzNRbDkxNXVB0gG3AUFVX3lxTE5qTDdlWnc5Zlc2aGRVTFhpcVoxT2VnWnhmeGdfeS1xWE44WUp3RjZsNmMwOUx3dXE3amtWTGxnQlg0SU82VXA4bGNEQjlFM3Y3UzZqSk03M2xTWmpseFlEd3NvXy1lc1UzanlLbV82eVVIQ2wyWDJ6enJCSDRYdjQxT0FSbDhqYkhUa2pQWEJDWjRsZFRDRmFENnpaMzlBNjBRMnR6WFVac1p2eC1YdHhOdjh0NGMyaw?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-25T02:27:15Z"
+          "reportedAt": "2026-10-24T00:19:34Z"
+        },
+        {
+          "id": "report-57c81ce23407",
+          "title": "What to know about the Melania Trump-brokered ceasefire in Russian-occupied Oleshky",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONllIN0YycVhheUhkdFhFSTdabU5DMmJGMFNIQS15NWYwQV9BTS0tV3lPeHJkUGVsWmNNX3FZMkI5bEdzUF9sNXAtUklUb2JsRDZ1UkNScEFJMHRjRWZITGJxMS1hTWdyM0hhdjk3eUM2dkNiTG1IVjQta28takE4YUUwaWYtQ0MyNGE1aFkzUS1VQXQyNkEweDl4TWZYRGx4NlpZU2szYi1tdw?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-27T12:21:45Z"
         },
         {
           "id": "report-0a15fd2429f1",
@@ -2517,15 +2526,6 @@
           "reportedAt": "2026-10-26T01:56:05Z"
         },
         {
-          "id": "report-6179b93a6101",
-          "title": "Iran blames US for deal failure, urges new try amid fear of new attacks",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ05XMkJCM0VsWlpad3c3TDI0OTBlWEl4SnJrdlNfRmFyRXdTOGpEZUk2YWlUMFZHZ25qOTctZ282NXo1bXN6SXZGUFZTNTZwN2JBbVJtNjZzY1lmYkQzU3l6Y3N0U2ZERmJ4eHUwc3kxX3otMUFiUm12RWY2MVJWTUs4Sk54V3lOZURVOUYzQ2hWZzBQU3lhYTBQd0NCOGNFUUJ1QUdEREhXaTBLQkpDRTlB0gG3AUFVX3lxTE81TzJSMTVEOHE5ZWVybzFEVXRiWFJiYWo1VkJsVTJjbEp4WVE0eFFwSFp3VjhmVWpuSHRKVy1rdjFndzdQTG4xd0w1ejN0anp6T1U0a25Delkxc2Z5N0R6elBjMDVYVDU4SWlyQW5xQUFBcUtQVGtHRjM4TWk4eC0zUFUtd3VTdnd4ZnhBdUUwejUwdFE4eG1RSHlnRGNmNG9VXy1fNVRDUkFiNkVPc2djMFRfM2NsZw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-24T21:36:25Z"
-        },
-        {
           "id": "report-21514c0ad0d2",
           "title": "World War Two Bungay love story inspires quest to save artwork",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OVXFMZ1MyeDZCMlI2ZlVtRGZla2RLX3dFYjN0LU4tdVJYYUpSVVl0MHplSmpYdFd4YmQxdldVVjhNenJfRjF1U1lZRkhCNDJ4ZmxGTEZPZ0Jad0U?oc=5",
@@ -2533,6 +2533,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-10-24T04:48:23Z"
+        },
+        {
+          "id": "report-6179b93a6101",
+          "title": "Iran blames US for deal failure, urges new try amid fear of new attacks",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ05XMkJCM0VsWlpad3c3TDI0OTBlWEl4SnJrdlNfRmFyRXdTOGpEZUk2YWlUMFZHZ25qOTctZ282NXo1bXN6SXZGUFZTNTZwN2JBbVJtNjZzY1lmYkQzU3l6Y3N0U2ZERmJ4eHUwc3kxX3otMUFiUm12RWY2MVJWTUs4Sk54V3lOZURVOUYzQ2hWZzBQU3lhYTBQd0NCOGNFUUJ1QUdEREhXaTBLQkpDRTlB0gG3AUFVX3lxTE81TzJSMTVEOHE5ZWVybzFEVXRiWFJiYWo1VkJsVTJjbEp4WVE0eFFwSFp3VjhmVWpuSHRKVy1rdjFndzdQTG4xd0w1ejN0anp6T1U0a25Delkxc2Z5N0R6elBjMDVYVDU4SWlyQW5xQUFBcUtQVGtHRjM4TWk4eC0zUFUtd3VTdnd4ZnhBdUUwejUwdFE4eG1RSHlnRGNmNG9VXy1fNVRDUkFiNkVPc2djMFRfM2NsZw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-24T21:36:25Z"
         },
         {
           "id": "report-91ecb95ab9af",
@@ -2550,7 +2559,7 @@
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-26T12:43:00Z"
+          "reportedAt": "2026-10-26T10:46:12Z"
         },
         {
           "id": "report-7837c18f39b0",
@@ -2580,6 +2589,24 @@
           "reportedAt": "2026-10-25T08:16:46Z"
         },
         {
+          "id": "report-85b3b6ee07d8",
+          "title": "Thune scrambles to save his Senate majority as voters voice concern over the Iran war and gas prices",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcTVNR28xZGd0cEtsWm84SnN4X2htV3dyd2VEamVsZXFWLXo3M3dsYUtBdDlCdlRGdWRiODlYQURDNlBPNGRtVVRJdmE1VGlYblM3bDhFcnk3SUs0ZC1MMWVCd1ltSnRqSGRTMWt6bjV5Yzc1YVVYTmc4ZnpNdjUzNlBKczRXNzFDdWdqQWhkWW02bkZiTFlqUzFWZHFrNGs3aFB2RGlVeGZrQzNROHJtYm9NYlpKaW8?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-26T13:37:00Z"
+        },
+        {
+          "id": "report-d7ed375822a9",
+          "title": "Pentagon plans to keep US military bases running for 90 days without outside support: Report",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWTl5S2JHVGRsR01yM29telhMazhITUNaR0hWYzBoZHF6Uy1pTk1RVkszcF93TW94angzWXd1c2NlUG5yOGhSZ244a2YwLWxOcXg5aVZ3cXlkYlI3bi1NY0wtZk1DSEN1MzgyLVVJUmgtTWI5SGR2Z185WkI3MmFhSXdrVnJtVUduV3lpb19xNmdTZ2pjdVJ6YVhHYndHYm9rX0hZbzk5WHd3MHdXdTlEWGNPZlBrOHhIZ0JBSGlBLWNYMnFURnV4cw?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-10-26T01:40:42Z"
+        },
+        {
           "id": "report-61ed770d305a",
           "title": "Russian attacks on Ukraine’s energy infrastructure a war crime: UN",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaXpnLU1DZ3RHdUdUUEpLT1gyNHBacVNZczhrSkhzd3dLZV9RMl9HNUszaFNXRTN6dEctQnRoSVA4Q3Rfc1dFMlBmQ29vWExwa0kyRzdfSUl4RDNIcDA5ZllHQ25SYXhUdHd0VXF1OEN2LTYxdmU5aEt1UDgza0IwRGg0bnJRZjlLV0ozelVEdU1EVGNJLTJkREtWTjZUaGZrVEJlb0NkTGFVQdIBrwFBVV95cUxQQlZtUG9QcDFJVTdxOGdrb1R1NFVnZUFPRVk3VDhSZ1kxNEhJNmFEdVRQMm9OWDlsQ255bG00SlBsaElJM3RhVFZfWXBkU0R4a09yUlFLbHl3WnFMdWtPazVhYVFfSmdSalJtZDJLbnN0a0RLR0g3NlZqSEZ2eE9jOFB0VU00ZUxkOVRlLXY2MGx1ZHFSMDdnaHhKeTJoZW51RU9iVEJfTFB0Wl85TG9r?oc=5",
@@ -2598,24 +2625,6 @@
           "reportedAt": "2026-10-24T07:36:02Z"
         },
         {
-          "id": "report-ec0e5fbfa4ae",
-          "title": "Pentagon plans to keep US military bases running for 90 days without outside support: Report",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOLXlWRVJhVnNxNWdTV2plVkZSZ2VzRXVkc3lzZVp0NlZaMVIxTzh0ZGY2eVJvRWEwYlJubklXNi14UU9kbGt3RnNwZ19kd2EtNkhWQ21EWXZoNkV1UWZtNU02ZlhRQkVadEtzSDRzVUtwYzdQRTN4Tm14WnM1b3dOc1pWUnRKUnJtRzAzV3R1M1lpcUg3MDJQVVh0dmlJSFpCdVo0V21BOTRUWmlzS1ZhaHVPNmFybmxRblp5Z1V0Q25WMmh3UGJPTXc5cDc0Zw?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
-          "reportedAt": "2026-10-26T01:37:23Z"
-        },
-        {
-          "id": "report-f365369e147e",
-          "title": "How is the US-Israeli war on Iran causing havoc in Europe?",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVmJvVFROYklRaWdWUnhjOXhGUVpNQmRzME1NM25aUWVTNVlDQU90aGNQaTRlZTUzZUNscE9QZHNZX2ZZY0pKS2htbjNpUHJXaDVMR25zeFRlU1I2ZzN0LWlsdTNsSU9TUnZvcFVFTXVyUXZtUjNvZFhlQU1WUjdITnBlZ1hzc0gyRXV4blBDMkdPcC13Wl9VbW5uaC1JaGR30gGmAUFVX3lxTE4xY3BFSzlQa0VZLWcwaUo3SklTdzRKaExfbzlEUjNDYlVpczR6amNiN3BmUzRaM0tReUhJeVVnWkJnaWJkVXMtVUlQR3haX2JScWFsRHRmazlzYW9hMVZfaFdIYWxiendHMldwcDBMOWctQWNQX0xQd0RZUVVDOEt5OUQzSkhZbFpHMEIxc0dSOENFbm1jRVNUUjZBSzN6MjJzTjNJMFE?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-25T14:51:13Z"
-        },
-        {
           "id": "report-51b4dbf1e703",
           "title": "Trump says US will do business with Ukraine, Russia after war ends",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObklGejEwbFdGa21Sa3VRWU1XamN4b3BGOXRWTzlZb3RJek9CaFFuR0tuSDREb0cwcmhZZjdmaGRIbEdtUGFwbnFSdGFkb0xTRmVSVDlYRFk4RXpPaUtCR3IwejVmZ1VKTjJLSlBTTFFYX1BqUUt4RlVLXzlxQ2ZqdWlqU2o2Z2hHdUpnWVliTDJ0cmpBeE9DQXl0aVRDeXQzTElrNWU0Y092SjA?oc=5",
@@ -2623,24 +2632,6 @@
           "sourceTier": "State-affiliated reporting",
           "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
           "reportedAt": "2026-10-24T20:53:07Z"
-        },
-        {
-          "id": "report-57c81ce23407",
-          "title": "What to know about the Melania Trump-brokered ceasefire in Russian-occupied Oleshky",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONllIN0YycVhheUhkdFhFSTdabU5DMmJGMFNIQS15NWYwQV9BTS0tV3lPeHJkUGVsWmNNX3FZMkI5bEdzUF9sNXAtUklUb2JsRDZ1UkNScEFJMHRjRWZITGJxMS1hTWdyM0hhdjk3eUM2dkNiTG1IVjQta28takE4YUUwaWYtQ0MyNGE1aFkzUS1VQXQyNkEweDl4TWZYRGx4NlpZU2szYi1tdw?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-24T21:05:00Z"
-        },
-        {
-          "id": "report-68897566fef9",
-          "title": "Melania Trump brokers a ceasefire deal in Russian-occupied Ukrainian city to get relief aid in",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMkNRM3hJTVJkUGxjNjB3QmhSd2FSb2JHZkZtTjVNdzNWeHJ4QkpwdEd0cWttQjg0ZmVSQUtCV0JHTFRCeTd3NGJITy1ybDRTQzB4ZkhEdDEtRkRhcUZrWHdONWJZZFlBbGV5YmhkbDh5LTlaZm9jelQ3Y2FWOEcxUlhLZE5yX2c4dVhSZlYyVDUtVllza2ZLLTVXQ2RCN093aGJlRmc4RU9jcHZROVRv?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-24T01:17:00Z"
         },
         {
           "id": "report-55cc1575e83d",
@@ -2652,13 +2643,22 @@
           "reportedAt": "2026-10-24T23:11:29Z"
         },
         {
+          "id": "report-68897566fef9",
+          "title": "Melania Trump brokers a ceasefire deal in Russian-occupied Ukrainian city to get relief aid in",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMkNRM3hJTVJkUGxjNjB3QmhSd2FSb2JHZkZtTjVNdzNWeHJ4QkpwdEd0cWttQjg0ZmVSQUtCV0JHTFRCeTd3NGJITy1ybDRTQzB4ZkhEdDEtRkRhcUZrWHdONWJZZFlBbGV5YmhkbDh5LTlaZm9jelQ3Y2FWOEcxUlhLZE5yX2c4dVhSZlYyVDUtVllza2ZLLTVXQ2RCN093aGJlRmc4RU9jcHZROVRv?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-24T01:17:00Z"
+        },
+        {
           "id": "report-d76ebf813f49",
-          "title": "Localized ceasefire brokered by Melania Trump starts as Nordic leaders speak to Putin and Zelenskyy",
+          "title": "Localized Ukraine ceasefire brokered by Melania Trump starts as Nordic leaders speak to Putin",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVkZvYUdad3FWZ0VGLUk4emZUR3RUODJqUlhVbEJzSkdIU25PaGgzU2ZhNUN5c0dzY3dLcXpDOU5ZUU5kRUU4TEFtSTdVVUZKTlBTNUpESldXYXMxaW1RZy0wTnc4MjFpY21DZTh1S0l5dHNDbU43TmVIb01UUzFDdFRDSmpyajZMalhCdg?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-27T10:52:00Z"
+          "reportedAt": "2026-10-27T16:28:00Z"
         },
         {
           "id": "report-90df6d38e318",
