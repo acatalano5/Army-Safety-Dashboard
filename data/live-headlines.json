@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T12:52:34.660Z",
+  "generatedAt": "2026-10-28T20:33:34.408Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -9,7 +9,7 @@
       "items": []
     },
     "safety": {
-      "generatedAt": "2026-10-27T20:14:50.054Z",
+      "generatedAt": "2026-10-28T20:33:34.408Z",
       "cadence": "daily",
       "items": [
         {
@@ -29,6 +29,14 @@
           "pinned": false
         },
         {
+          "title": "US Army Soldiers Intervene During Crash and Knife Attack near JBLM [Image 3 of 3]",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOWJHdDFRN0k4aGVaekpLOFRIWkpKSWVMdXV0X0hoRHpMVXRxc2xuRFZyVm1KR3dEQmlTRFZfV2dpN0lmZUlGN0xfYzdZbUtJWnJBSnFST1VUMTB6cExMQmp5djAwSGxVLU5nRUd0TG5xSGtLb1lfRGdLYTA4dlZaa3l3d3d1NzZ0RDBMZGNwdEJ5WmF4SGxzOHA0MWJLZWlHQ0dWd2hVc2c?oc=5",
+          "domain": "dvidshub.net",
+          "sourceTier": "Official military source",
+          "seen": "20261008T025200Z",
+          "pinned": false
+        },
+        {
           "title": "Four Philippine Air Force pilots killed in training accident",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUkZPOHk1VnhKNVhxNUVsNzg1VGdBWG1lYUFmLUptalZfVlJkMjJfVWU5MTh5TmhaZmZvRmZDbVNnRjZSb01GcV8tZWg1YlY2OVhZanBoV0NRMTZQbnd6eUhoOGlVekhkTkVrbXFCN1ZWTTF3UHVFRWdWZXdsWGkxUXhybVBhMlV6VDhGZ1JjcG5HNHRoWGhvRGxQSWYyVklyUkVsS01ZMGxyY0t6UlpkT3J3?oc=5",
           "domain": "reuters.com",
@@ -41,15 +49,7 @@
           "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxON3Bvd1AzSzNnOWtkc1ctVWxKbnFBbHIxLUtmZDdyX2VXYnU1ZnNNVk4yMERzdmhmVU54ZVF3UFQzb2hOMzZPYmRKYy1BSE51X0FaNVJySEZEVllaTzBNY0lKSXhLQzBVVHpkbnlLT3hqdWFHWUFna3h1RVc1YzlfdUF1ZVdveGF3S2R3VU9ja0ZNbHFkT08xRms0MmRQQkJ6VWh6aXNjektROTB0d2xpTjNYQm9rM0FkUkhQUDNCRG9aTUx2Z0ZudFE5cjVpVnhLVXI0Nm5pbXp2b1FRQkQtSHdzbWtkem5STnB1Z3pkX3NZcGRFa0d3M01xcFlxVFBxWXJVN2tn?oc=5",
           "domain": "safety.army.mil",
           "sourceTier": "Official military source",
-          "seen": "20261008T203920Z",
-          "pinned": false
-        },
-        {
-          "title": "PLR 26-072 – Automobile Mishap Claims One Soldier’s Life",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbzBQbzN3NkRnbDhkaUdTWUt3ZHR3R3JaOHhKZkZySklJdVRWbDNLb3Bxb1J6ZXFaSUVSbC02V2tGbmFGVXVveXVDUnJIZzlEbHJwSzBNYUxqRVI4eGFjWWdBWWVDVW1KT29LMXBGUHhldTVzMWxMdGZMZkpZMmpRWHMzRVc5X0E0YUlXZmQzR0NlU1VZbk55V3Z2RDQzVFZ2Y1RzX2w1VFRaRm1VQzBrV2lVZUVKU0pmM2R5S1IyTkdtNXVwZ3N0N1FYbTZnR0ZYcjIyaWk5ZHYyWVU0eGpz?oc=5",
-          "domain": "safety.army.mil",
-          "sourceTier": "Official military source",
-          "seen": "20261008T203919Z",
+          "seen": "20261008T070000Z",
           "pinned": false
         },
         {
@@ -61,24 +61,24 @@
           "pinned": false
         },
         {
-          "title": "PLR 26-068 – Sports, Recreation and Physical Training Mishap Claims One Soldier’s Life",
-          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNdzdXSVBpam1HQWNrcy1JTXFpblA0cFdxQXgzaTJYQnduR2tMaUI3T0JwU3JaUDk5VHVtazd1d0IxcmNYYzRkVEpKMy1ORVBmYU04TC1UM0hzOTQtTkNuQW91RVNGN3dMZGRFNUl2QTNucFRlM21wTHdoQkY0QWs1STZjNTh0elF1R3JBNXRIUkZGdHhDS2tmbjl5LTVLVi1KVGFwejhrNnJOMXRCa01QaHFxcGc4WldtUlNJT0RNUlJOb1hOdm04TkVfVEpZaU5zeXRkTzNMbi1MbEVqQjJ3MGVNV2F2UkItb1RCVmJKNGZGa0RjOHUwMUdUdURKc0NfY3cxbmdB?oc=5",
-          "domain": "safety.army.mil",
-          "sourceTier": "Official military source",
-          "seen": "20260930T070000Z",
-          "pinned": false
-        },
-        {
-          "title": "PLR 26-071 – Motorcycle Mishap Claims One Soldier’s Life",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQczRZdndTcDBOeFNwWmd6d0dqUG9hVnJwU2tFcTlVNzQ2cFQ4TklRWGx4RmhRWDRucXdHaV9INm5DV1JISHZoTGVNR0t6OGY5M1ZaeTlZRWZqU1lkaTBNV3R0YUJIbGtNTEMwNFdmcWpPazB6Q0RBQzJOWHVLekdRaXNnQXg4bDQ2TkhkZHNFVHNrZEZxeVZySWNQTTVWRk04VkFfSHFUbjV5clZoUldxczJkUWdOZ3ZJNmNZa2pCNXpOdFZhdWxRUllMMURONWlxd29zLTQzUzJwS0ZNMTBF?oc=5",
-          "domain": "safety.army.mil",
-          "sourceTier": "Official military source",
-          "seen": "20261008T203918Z",
-          "pinned": false
-        },
-        {
           "title": "Mishap Investigation Advice",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc19FY29CaU9ZS05HZ010VnR3R2FGa1JBMFZTb2tZdEJLZkpfRTRLdm9VdGEwallmUi14dGlYNC12dmhYU3ZxaXJrQWJBM25LdmxadFFOanlYUWhkZFhmVTF2NG5iTUtfNHVJaWpiRVZ6UmdoVkxxUlU4OFFVVG13UA?oc=5",
+          "domain": "safety.army.mil",
+          "sourceTier": "Official military source",
+          "seen": "20261018T070000Z",
+          "pinned": false
+        },
+        {
+          "title": "Crash Rescue Products",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WQTh5RzJ4RUhLMVQ0bDhKLVkwSVV1SlFSWTd4ZVBVQVJGMFREUHZSclZWT3d1NG9ReHFjclF4VVRLNGRpUW5qWENyLXJ0VEt3Z2RyeEx5WmxxQTJua2hHdExaVTd6MW1IeXdLZVJZcw?oc=5",
+          "domain": "safety.army.mil",
+          "sourceTier": "Official military source",
+          "seen": "20261025T070000Z",
+          "pinned": false
+        },
+        {
+          "title": "Mishap Reporting & Investigation - USACRC",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQa3N3dHMxU2JBdXZfZmptYXdVWXdzMzdKU2pmcXVFSU5uYmxEWUw0UGQ4OGJ0eXUzbF9MOHgzSEowdTRIY3A4VFpKZnlhcENkazdJdGhwVndlenhPdjRGbDgyRUZEU1NDU2kzUDhFb2NEM0JHTmxLSl9pVzNfSEozUUkyTGFHQVJONTJneEhBOGx4NUtQYjl4dC1nYU1qX0lHQXZUZERuV2JwbElWaHZhbkJockR3Z05GS1FpM1NEQnI2ZHprUUE?oc=5",
           "domain": "safety.army.mil",
           "sourceTier": "Official military source",
           "seen": "20261018T070000Z",
@@ -101,19 +101,19 @@
           "pinned": false
         },
         {
-          "title": "Coast Guard suspends search of missing medical transport aircraft off Nantucket",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcFRfX293TWVHM0dsWkMzbzkxUjFhX1lSUS12eTZvekd3cnItWXB2eDZHRXZlSDFsYzBEMmhzOU15cGpzX1pYTkM0dUpCWVFFM2l5SnpXaXBkWk1CVXd6UkpoR1FXOEhUTmZrYVJyZUdDMmJ3MjlwWmVNUWp1LUZpRlFzZzVSRXJscjBESmtiXzNUa3hpcDZwbXVSTkhtSkpieTBvSFlNajk2RFpWaWxhM0hfZ2RSbGZBMm0zTU1FY1FxeHZiakdNYzZMQVU0ekh0ZkhJ?oc=5",
-          "domain": "news.uscg.mil",
-          "sourceTier": "Official military source",
-          "seen": "20261004T070000Z",
-          "pinned": false
-        },
-        {
           "title": "Coast Guard, partners rescue missing diver near Catalina Island",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPek5sNnkzM2h5ZXpMX1BaWXdSSzhfZlRYaHA4NlAwcG5mMENLSDcwZzd3UkpuMXpxX292YmdjX1VIMHNBbHhfdnNnclJaTDgzVG1xdHMtTlNmTFlHYkNCQVprSzFuMGxhOUZwZ0NWY3l4d01ueHZOQUxUeDc2SzRvcG8wWHhnSUVvcVlRcnEtYjdNVDRZb09tcGFKaTk3c1NCakliNzROMGtIMjNYcmVER0tZckVrVHczY2JCdw?oc=5",
           "domain": "news.uscg.mil",
           "sourceTier": "Official military source",
           "seen": "20261016T070000Z",
+          "pinned": false
+        },
+        {
+          "title": "Coast Guard suspends search of missing medical transport aircraft off Nantucket",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcFRfX293TWVHM0dsWkMzbzkxUjFhX1lSUS12eTZvekd3cnItWXB2eDZHRXZlSDFsYzBEMmhzOU15cGpzX1pYTkM0dUpCWVFFM2l5SnpXaXBkWk1CVXd6UkpoR1FXOEhUTmZrYVJyZUdDMmJ3MjlwWmVNUWp1LUZpRlFzZzVSRXJscjBESmtiXzNUa3hpcDZwbXVSTkhtSkpieTBvSFlNajk2RFpWaWxhM0hfZ2RSbGZBMm0zTU1FY1FxeHZiakdNYzZMQVU0ekh0ZkhJ?oc=5",
+          "domain": "news.uscg.mil",
+          "sourceTier": "Official military source",
+          "seen": "20261004T070000Z",
           "pinned": false
         },
         {
@@ -151,6 +151,24 @@
           "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
           "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUXVZa3hzdzBmNkg3RS1YaGd4Q0U0blByVmtYVXFzb3p5OWZ0TWhxdFRDNGpDcUN3Wlk5SG5CcEJhRmVhUVFRS0hDYkIxLXZJTm9wOEZDVlAxWmhwdllPemJJcm9RQ1BSNDZUWTRyaG5vYUFwb3hIbnNKWm1jVFNfX0VNMXdXeFdqMjA4dmtHTnJEc1haYnc?oc=5",
           "sourceLabel": "airandspaceforces.com"
+        },
+        {
+          "id": "auto-dce6037e2d3b",
+          "reportDate": "2026-10-25",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Aviation",
+          "event": "Crash Rescue Products",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "OFFICIAL INTAKE",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Official military source",
+          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
+          "source": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WQTh5RzJ4RUhLMVQ0bDhKLVkwSVV1SlFSWTd4ZVBVQVJGMFREUHZSclZWT3d1NG9ReHFjclF4VVRLNGRpUW5qWENyLXJ0VEt3Z2RyeEx5WmxxQTJua2hHdExaVTd6MW1IeXdLZVJZcw?oc=5",
+          "sourceLabel": "safety.army.mil"
         },
         {
           "id": "auto-91ff9ae81e65",
@@ -222,6 +240,24 @@
           "sourceTier": "Official military source",
           "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
           "source": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc19FY29CaU9ZS05HZ010VnR3R2FGa1JBMFZTb2tZdEJLZkpfRTRLdm9VdGEwallmUi14dGlYNC12dmhYU3ZxaXJrQWJBM25LdmxadFFOanlYUWhkZFhmVTF2NG5iTUtfNHVJaWpiRVZ6UmdoVkxxUlU4OFFVVG13UA?oc=5",
+          "sourceLabel": "safety.army.mil"
+        },
+        {
+          "id": "auto-e8d9bbcefe14",
+          "reportDate": "2026-10-18",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Other",
+          "event": "Mishap Reporting & Investigation - USACRC",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "OFFICIAL INTAKE",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Official military source",
+          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
+          "source": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQa3N3dHMxU2JBdXZfZmptYXdVWXdzMzdKU2pmcXVFSU5uYmxEWUw0UGQ4OGJ0eXUzbF9MOHgzSEowdTRIY3A4VFpKZnlhcENkazdJdGhwVndlenhPdjRGbDgyRUZEU1NDU2kzUDhFb2NEM0JHTmxLSl9pVzNfSEozUUkyTGFHQVJONTJneEhBOGx4NUtQYjl4dC1nYU1qX0lHQXZUZERuV2JwbElWaHZhbkJockR3Z05GS1FpM1NEQnI2ZHprUUE?oc=5",
           "sourceLabel": "safety.army.mil"
         },
         {
@@ -297,6 +333,24 @@
           "sourceLabel": "news.uscg.mil"
         },
         {
+          "id": "auto-0631349b0cd2",
+          "reportDate": "2026-10-08",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Aviation",
+          "event": "US Army Soldiers Intervene During Crash and Knife Attack near JBLM [Image 3 of 3]",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "OFFICIAL INTAKE",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Official military source",
+          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
+          "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOWJHdDFRN0k4aGVaekpLOFRIWkpKSWVMdXV0X0hoRHpMVXRxc2xuRFZyVm1KR3dEQmlTRFZfV2dpN0lmZUlGN0xfYzdZbUtJWnJBSnFST1VUMTB6cExMQmp5djAwSGxVLU5nRUd0TG5xSGtLb1lfRGdLYTA4dlZaa3l3d3d1NzZ0RDBMZGNwdEJ5WmF4SGxzOHA0MWJLZWlHQ0dWd2hVc2c?oc=5",
+          "sourceLabel": "dvidshub.net"
+        },
+        {
           "id": "auto-c69262b89463",
           "reportDate": "2026-10-08",
           "dateBasis": "report discovery date",
@@ -349,24 +403,6 @@
           "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
           "source": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQczRZdndTcDBOeFNwWmd6d0dqUG9hVnJwU2tFcTlVNzQ2cFQ4TklRWGx4RmhRWDRucXdHaV9INm5DV1JISHZoTGVNR0t6OGY5M1ZaeTlZRWZqU1lkaTBNV3R0YUJIbGtNTEMwNFdmcWpPazB6Q0RBQzJOWHVLekdRaXNnQXg4bDQ2TkhkZHNFVHNrZEZxeVZySWNQTTVWRk04VkFfSHFUbjV5clZoUldxczJkUWdOZ3ZJNmNZa2pCNXpOdFZhdWxRUllMMURONWlxd29zLTQzUzJwS0ZNMTBF?oc=5",
           "sourceLabel": "safety.army.mil"
-        },
-        {
-          "id": "auto-0631349b0cd2",
-          "reportDate": "2026-10-08",
-          "dateBasis": "report discovery date",
-          "branch": "Army",
-          "department": "Department of the Army",
-          "type": "Aviation",
-          "event": "US Army Soldiers Intervene During Crash and Knife Attack near JBLM [Image 3 of 3]",
-          "location": "See official source",
-          "fatalities": null,
-          "injuries": null,
-          "status": "OFFICIAL INTAKE",
-          "signalClass": "REPORTED MISHAP",
-          "sourceTier": "Official military source",
-          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
-          "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOWJHdDFRN0k4aGVaekpLOFRIWkpKSWVMdXV0X0hoRHpMVXRxc2xuRFZyVm1KR3dEQmlTRFZfV2dpN0lmZUlGN0xfYzdZbUtJWnJBSnFST1VUMTB6cExMQmp5djAwSGxVLU5nRUd0TG5xSGtLb1lfRGdLYTA4dlZaa3l3d3d1NzZ0RDBMZGNwdEJ5WmF4SGxzOHA0MWJLZWlHQ0dWd2hVc2c?oc=5",
-          "sourceLabel": "dvidshub.net"
         },
         {
           "id": "auto-542bd4a80ff2",
