@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T12:52:35.927Z",
+  "generatedAt": "2026-10-30T20:08:50.844Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -9,7 +9,7 @@
       "items": []
     },
     "safety": {
-      "generatedAt": "2026-10-29T20:36:35.977Z",
+      "generatedAt": "2026-10-30T20:08:50.844Z",
       "cadence": "daily",
       "items": [
         {
@@ -19,30 +19,6 @@
           "sourceTier": "Official / intergovernmental",
           "seen": "20250129T204800Z",
           "pinned": true
-        },
-        {
-          "title": "US military says 5 were killed by a strike on an alleged drug boat in the eastern Pacific",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY3BpbmZocXhobXlNU0FiNi15VGpBbXJ5aHgxY29OMXA4cDNETS1aNEtnel9XTURZTWE1VUZ3YmVzMDhtNHJSZEY0eVFhR1hxdVYzSlJ6ZkdyRnllNEZIN1dWLXFFalVjMFBqTVk4Y05ySVNnanQ1YnM2ejFLNEFXbkJoWlNlaF9WdGQ2ZUlmSHRNN19TQlR1elI5MUM3QkJGaTBYa1d2blo1NmJiYU9rbzJERHVWN2p0elE?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261027T174600Z",
-          "pinned": false
-        },
-        {
-          "title": "US Army Soldiers Intervene During Crash and Knife Attack near JBLM [Image 3 of 3]",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOWJHdDFRN0k4aGVaekpLOFRIWkpKSWVMdXV0X0hoRHpMVXRxc2xuRFZyVm1KR3dEQmlTRFZfV2dpN0lmZUlGN0xfYzdZbUtJWnJBSnFST1VUMTB6cExMQmp5djAwSGxVLU5nRUd0TG5xSGtLb1lfRGdLYTA4dlZaa3l3d3d1NzZ0RDBMZGNwdEJ5WmF4SGxzOHA0MWJLZWlHQ0dWd2hVc2c?oc=5",
-          "domain": "dvidshub.net",
-          "sourceTier": "Official military source",
-          "seen": "20261008T025200Z",
-          "pinned": false
-        },
-        {
-          "title": "Four Philippine Air Force pilots killed in training accident",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUkZPOHk1VnhKNVhxNUVsNzg1VGdBWG1lYUFmLUptalZfVlJkMjJfVWU5MTh5TmhaZmZvRmZDbVNnRjZSb01GcV8tZWg1YlY2OVhZanBoV0NRMTZQbnd6eUhoOGlVekhkTkVrbXFCN1ZWTTF3UHVFRWdWZXdsWGkxUXhybVBhMlV6VDhGZ1JjcG5HNHRoWGhvRGxQSWYyVklyUkVsS01ZMGxyY0t6UlpkT3J3?oc=5",
-          "domain": "reuters.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261024T065507Z",
-          "pinned": false
         },
         {
           "title": "US military’s drug boat strikes have now killed at least 240 people",
@@ -69,24 +45,32 @@
           "pinned": false
         },
         {
-          "title": "PLR 26-068 – Sports, Recreation and Physical Training Mishap Claims One Soldier’s Life",
-          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNdzdXSVBpam1HQWNrcy1JTXFpblA0cFdxQXgzaTJYQnduR2tMaUI3T0JwU3JaUDk5VHVtazd1d0IxcmNYYzRkVEpKMy1ORVBmYU04TC1UM0hzOTQtTkNuQW91RVNGN3dMZGRFNUl2QTNucFRlM21wTHdoQkY0QWs1STZjNTh0elF1R3JBNXRIUkZGdHhDS2tmbjl5LTVLVi1KVGFwejhrNnJOMXRCa01QaHFxcGc4WldtUlNJT0RNUlJOb1hOdm04TkVfVEpZaU5zeXRkTzNMbi1MbEVqQjJ3MGVNV2F2UkItb1RCVmJKNGZGa0RjOHUwMUdUdURKc0NfY3cxbmdB?oc=5",
-          "domain": "safety.army.mil",
-          "sourceTier": "Official military source",
-          "seen": "20260930T070000Z",
-          "pinned": false
-        },
-        {
           "title": "PLR 26-071 – Motorcycle Mishap Claims One Soldier’s Life",
           "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQczRZdndTcDBOeFNwWmd6d0dqUG9hVnJwU2tFcTlVNzQ2cFQ4TklRWGx4RmhRWDRucXdHaV9INm5DV1JISHZoTGVNR0t6OGY5M1ZaeTlZRWZqU1lkaTBNV3R0YUJIbGtNTEMwNFdmcWpPazB6Q0RBQzJOWHVLekdRaXNnQXg4bDQ2TkhkZHNFVHNrZEZxeVZySWNQTTVWRk04VkFfSHFUbjV5clZoUldxczJkUWdOZ3ZJNmNZa2pCNXpOdFZhdWxRUllMMURONWlxd29zLTQzUzJwS0ZNMTBF?oc=5",
           "domain": "safety.army.mil",
           "sourceTier": "Official military source",
-          "seen": "20261008T203918Z",
+          "seen": "20261008T070000Z",
           "pinned": false
         },
         {
           "title": "Mishap Investigation Advice",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc19FY29CaU9ZS05HZ010VnR3R2FGa1JBMFZTb2tZdEJLZkpfRTRLdm9VdGEwallmUi14dGlYNC12dmhYU3ZxaXJrQWJBM25LdmxadFFOanlYUWhkZFhmVTF2NG5iTUtfNHVJaWpiRVZ6UmdoVkxxUlU4OFFVVG13UA?oc=5",
+          "domain": "safety.army.mil",
+          "sourceTier": "Official military source",
+          "seen": "20261025T070000Z",
+          "pinned": false
+        },
+        {
+          "title": "Crash Rescue Products",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WQTh5RzJ4RUhLMVQ0bDhKLVkwSVV1SlFSWTd4ZVBVQVJGMFREUHZSclZWT3d1NG9ReHFjclF4VVRLNGRpUW5qWENyLXJ0VEt3Z2RyeEx5WmxxQTJua2hHdExaVTd6MW1IeXdLZVJZcw?oc=5",
+          "domain": "safety.army.mil",
+          "sourceTier": "Official military source",
+          "seen": "20261025T070000Z",
+          "pinned": false
+        },
+        {
+          "title": "Mishap Reporting & Investigation - USACRC",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQa3N3dHMxU2JBdXZfZmptYXdVWXdzMzdKU2pmcXVFSU5uYmxEWUw0UGQ4OGJ0eXUzbF9MOHgzSEowdTRIY3A4VFpKZnlhcENkazdJdGhwVndlenhPdjRGbDgyRUZEU1NDU2kzUDhFb2NEM0JHTmxLSl9pVzNfSEozUUkyTGFHQVJONTJneEhBOGx4NUtQYjl4dC1nYU1qX0lHQXZUZERuV2JwbElWaHZhbkJockR3Z05GS1FpM1NEQnI2ZHprUUE?oc=5",
           "domain": "safety.army.mil",
           "sourceTier": "Official military source",
           "seen": "20261025T070000Z",
@@ -151,24 +135,6 @@
       ],
       "incidents": [
         {
-          "id": "auto-0742cf9ea4e3",
-          "reportDate": "2026-10-27",
-          "dateBasis": "report discovery date",
-          "branch": "Army",
-          "department": "Department of the Army",
-          "type": "Maritime",
-          "event": "US military says 5 were killed by a strike on an alleged drug boat in the eastern Pacific",
-          "location": "See official source",
-          "fatalities": null,
-          "injuries": null,
-          "status": "REPORTED / UNVALIDATED",
-          "signalClass": "REPORTED MISHAP",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
-          "source": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY3BpbmZocXhobXlNU0FiNi15VGpBbXJ5aHgxY29OMXA4cDNETS1aNEtnel9XTURZTWE1VUZ3YmVzMDhtNHJSZEY0eVFhR1hxdVYzSlJ6ZkdyRnllNEZIN1dWLXFFalVjMFBqTVk4Y05ySVNnanQ1YnM2ejFLNEFXbkJoWlNlaF9WdGQ2ZUlmSHRNN19TQlR1elI5MUM3QkJGaTBYa1d2blo1NmJiYU9rbzJERHVWN2p0elE?oc=5",
-          "sourceLabel": "apnews.com"
-        },
-        {
           "id": "auto-1b32012f32cd",
           "reportDate": "2026-10-27",
           "dateBasis": "report discovery date",
@@ -185,6 +151,24 @@
           "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
           "source": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4taVVwVmM3VGVDR0tGSXRtQ0dQX3Y0ZFBrQ3pDOXYza2ZNV2ttV1hoamFZZks1R0hNcFctRkdaTG95UGZoZVlIWHUzVkNMdDhvZFRZMUNKQ1B0OGNMbVhiVlp3QXFPd1lNRDhqVEs1Yw?oc=5",
           "sourceLabel": "taskandpurpose.com"
+        },
+        {
+          "id": "auto-0742cf9ea4e3",
+          "reportDate": "2026-10-27",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Maritime",
+          "event": "US military says 5 were killed by a strike on an alleged drug boat in the eastern Pacific",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY3BpbmZocXhobXlNU0FiNi15VGpBbXJ5aHgxY29OMXA4cDNETS1aNEtnel9XTURZTWE1VUZ3YmVzMDhtNHJSZEY0eVFhR1hxdVYzSlJ6ZkdyRnllNEZIN1dWLXFFalVjMFBqTVk4Y05ySVNnanQ1YnM2ejFLNEFXbkJoWlNlaF9WdGQ2ZUlmSHRNN19TQlR1elI5MUM3QkJGaTBYa1d2blo1NmJiYU9rbzJERHVWN2p0elE?oc=5",
+          "sourceLabel": "apnews.com"
         },
         {
           "id": "auto-200eb78bd1e4",
@@ -241,6 +225,24 @@
           "sourceLabel": "safety.army.mil"
         },
         {
+          "id": "auto-e8d9bbcefe14",
+          "reportDate": "2026-10-25",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Other",
+          "event": "Mishap Reporting & Investigation - USACRC",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "OFFICIAL INTAKE",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Official military source",
+          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
+          "source": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQa3N3dHMxU2JBdXZfZmptYXdVWXdzMzdKU2pmcXVFSU5uYmxEWUw0UGQ4OGJ0eXUzbF9MOHgzSEowdTRIY3A4VFpKZnlhcENkazdJdGhwVndlenhPdjRGbDgyRUZEU1NDU2kzUDhFb2NEM0JHTmxLSl9pVzNfSEozUUkyTGFHQVJONTJneEhBOGx4NUtQYjl4dC1nYU1qX0lHQXZUZERuV2JwbElWaHZhbkJockR3Z05GS1FpM1NEQnI2ZHprUUE?oc=5",
+          "sourceLabel": "safety.army.mil"
+        },
+        {
           "id": "auto-91ff9ae81e65",
           "reportDate": "2026-10-24",
           "dateBasis": "report discovery date",
@@ -293,24 +295,6 @@
           "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
           "source": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeDI0TFhMejhZSEJta3lTcS1OZUtlU2UwTkRxTDRlb2FyTzNVajdTMzNyS3JTbGw0SnpXR3lIMEVXUFlNUTk2WVVWX1hQQzkyLVV5SjlXREVSMFlkY1l2d3pkYjNjd29aT3RyTVVKdHlUNi0tMEIwUWN0VGZVU19nUkpfRUw2UlFHUTNjZEVUVHllbEQyeUlyQ085MDRIdXNMdG5UQ1h2UVlXTGxyMHBtakhFMGMzSWluSFBiUGh0US1tT3VPWjlv?oc=5",
           "sourceLabel": "reuters.com"
-        },
-        {
-          "id": "auto-e8d9bbcefe14",
-          "reportDate": "2026-10-18",
-          "dateBasis": "report discovery date",
-          "branch": "Army",
-          "department": "Department of the Army",
-          "type": "Other",
-          "event": "Mishap Reporting & Investigation - USACRC",
-          "location": "See official source",
-          "fatalities": null,
-          "injuries": null,
-          "status": "OFFICIAL INTAKE",
-          "signalClass": "REPORTED MISHAP",
-          "sourceTier": "Official military source",
-          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
-          "source": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQa3N3dHMxU2JBdXZfZmptYXdVWXdzMzdKU2pmcXVFSU5uYmxEWUw0UGQ4OGJ0eXUzbF9MOHgzSEowdTRIY3A4VFpKZnlhcENkazdJdGhwVndlenhPdjRGbDgyRUZEU1NDU2kzUDhFb2NEM0JHTmxLSl9pVzNfSEozUUkyTGFHQVJONTJneEhBOGx4NUtQYjl4dC1nYU1qX0lHQXZUZERuV2JwbElWaHZhbkJockR3Z05GS1FpM1NEQnI2ZHprUUE?oc=5",
-          "sourceLabel": "safety.army.mil"
         },
         {
           "id": "auto-583b6ebcd817",
@@ -385,24 +369,6 @@
           "sourceLabel": "news.uscg.mil"
         },
         {
-          "id": "auto-0631349b0cd2",
-          "reportDate": "2026-10-08",
-          "dateBasis": "report discovery date",
-          "branch": "Army",
-          "department": "Department of the Army",
-          "type": "Aviation",
-          "event": "US Army Soldiers Intervene During Crash and Knife Attack near JBLM [Image 3 of 3]",
-          "location": "See official source",
-          "fatalities": null,
-          "injuries": null,
-          "status": "OFFICIAL INTAKE",
-          "signalClass": "REPORTED MISHAP",
-          "sourceTier": "Official military source",
-          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
-          "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOWJHdDFRN0k4aGVaekpLOFRIWkpKSWVMdXV0X0hoRHpMVXRxc2xuRFZyVm1KR3dEQmlTRFZfV2dpN0lmZUlGN0xfYzdZbUtJWnJBSnFST1VUMTB6cExMQmp5djAwSGxVLU5nRUd0TG5xSGtLb1lfRGdLYTA4dlZaa3l3d3d1NzZ0RDBMZGNwdEJ5WmF4SGxzOHA0MWJLZWlHQ0dWd2hVc2c?oc=5",
-          "sourceLabel": "dvidshub.net"
-        },
-        {
           "id": "auto-c69262b89463",
           "reportDate": "2026-10-08",
           "dateBasis": "report discovery date",
@@ -437,6 +403,24 @@
           "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
           "source": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQczRZdndTcDBOeFNwWmd6d0dqUG9hVnJwU2tFcTlVNzQ2cFQ4TklRWGx4RmhRWDRucXdHaV9INm5DV1JISHZoTGVNR0t6OGY5M1ZaeTlZRWZqU1lkaTBNV3R0YUJIbGtNTEMwNFdmcWpPazB6Q0RBQzJOWHVLekdRaXNnQXg4bDQ2TkhkZHNFVHNrZEZxeVZySWNQTTVWRk04VkFfSHFUbjV5clZoUldxczJkUWdOZ3ZJNmNZa2pCNXpOdFZhdWxRUllMMURONWlxd29zLTQzUzJwS0ZNMTBF?oc=5",
           "sourceLabel": "safety.army.mil"
+        },
+        {
+          "id": "auto-0631349b0cd2",
+          "reportDate": "2026-10-08",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Aviation",
+          "event": "US Army Soldiers Intervene During Crash and Knife Attack near JBLM [Image 3 of 3]",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "OFFICIAL INTAKE",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Official military source",
+          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
+          "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOWJHdDFRN0k4aGVaekpLOFRIWkpKSWVMdXV0X0hoRHpMVXRxc2xuRFZyVm1KR3dEQmlTRFZfV2dpN0lmZUlGN0xfYzdZbUtJWnJBSnFST1VUMTB6cExMQmp5djAwSGxVLU5nRUd0TG5xSGtLb1lfRGdLYTA4dlZaa3l3d3d1NzZ0RDBMZGNwdEJ5WmF4SGxzOHA0MWJLZWlHQ0dWd2hVc2c?oc=5",
+          "sourceLabel": "dvidshub.net"
         },
         {
           "id": "auto-b18187ac61d5",
