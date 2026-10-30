@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T05:45:31.431Z",
+  "generatedAt": "2026-10-30T12:52:35.927Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-10-30T05:45:31.431Z",
+      "generatedAt": "2026-10-30T12:52:35.927Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -2313,9 +2313,17 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-10-30T05:45:31.431Z",
+      "generatedAt": "2026-10-30T12:52:35.927Z",
       "cadence": "every 6 hours",
       "items": [
+        {
+          "title": "US weighs new Iran strikes as Vance reaches out: Is war or a deal closer?",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTGN2bDJnRlZBUFNOTlVyNkF2Y3BydmxnS002TXB5MHZ6WnVmN1JlajliLXpmQ2hnMk9iejQ5MFZrdDNKU19nRWg2LWpST3ZYVHB4ckZ1Y0JhaFJNU1RaSlpOWGVjZkdreHB4YllHOTdhQzJ3NzJzcEY5LUo1Y1gtTzU2U0x0ejJ0ckFTTHcwbXJCVXdUZnEwNzBDd09uQk9XVG1lVl81MVloZi0yQVJOWS1NQdIBuAFBVV95cUxPUzd5NDgxT3R6MW9xenM1TFFrdlBPandwQkRNaVd2ODFmcF9EeXBCeXpwUERFOHl5WUtfNTVzZFo3eUpDaFFHbEJ3bmRpNFd5SDd6bnBDNGV0UWtxNUI2YzNTNWpObHktMVFPc0pkMGlISVJxb0Vfc0d5UDZZWXVtbXNKYmxBdVQxeUhzT2hraXQ2TzIydWgxWS1qazFEU1RWUzdySWNpbXRGeFZxWE1qZWNqZUh0Sk5y?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261030T104457Z",
+          "pinned": false
+        },
         {
           "title": "Sudan war and inflation leave families struggling to survive in Khartoum",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcXBFYXVkMjN1YnVpQm5GVFg1aGt0UlZaQzVUWVJTUVk4NzB0QmY4c1EzakNIcTAwZ0RGMmdRMW54VXYtdXk1ejloc3l0YzJyRzh3OEx3UmNzOFNfblRSQWRVRXE4U0hxWnhkQkh5X2NWNnVzOG9kY3FTNVBMeHc0MnJHNkhvTThQTDBWbWpCQjhjUHhnbzJvR0dhMmhEbTJCYktLdV93LUdYTXYzdEc2MnRFbEVMVGVqQnfSAb8BQVVfeXFMT1laVFdPaG1oQVlqdk55OUNjYnRLQkpyVmt1ei1EdktNb0FldWlUZDJWVjNfd0FhZjZiaUdGb1VkYlU0TXUyVFdtSmdWZUdqSUtVSWxXV2twcGl0ZWM1SUR6VF9KNHhTM2paa3hhQjBXSGY4cDk2SklNRUFDUzdUU1Z5OVotOUE0U1l0UnE1M2xkSXdGejlYTGIxMWFNS1BYemtzaDl6QTNDdVNycVA3d3FSbVZuWjhWdXRXYWFFQmM?oc=5",
@@ -2325,19 +2333,35 @@
           "pinned": false
         },
         {
-          "title": "Melania or the pope: Who brokered Russia-Ukraine ceasefire in Oleshky?",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZzNVQW5uV3pYd3hISHo5Q2YtalI4U3pOM2FSbTlXX2FOclZ4a3hxRnJxN3dLRGctdnM1ZFctX3RCQWYxdDRCOXdXcVluVmJMNDVVTVRXc29ybG1XNE9VQW5hTFpRbG02T00tdno2cTV1X0x1QUFGT2IzeVM5SHhnbjN5ZHJYUjZYT2lyZzNIbFllREVPcjA5Tm9xRHF2aUQ0NG9iOVRfSTVpQnFoRlhJ0gG0AUFVX3lxTE5aMVc2Mml2aDIwRGpFTHRyM0RlQko5d1lGMXdGVjZOM0NyMVlaamJPbG50SHFEN0tPZXZfMVR3VEpmbWJsSWw2NW1qeVlpWGJ6aVlYdjRqX3ZwOERmb0VtWnIwNHo0ZlpLUjdrb2Fncl92MldnM053WVpsT0liNjlhN3haVC1oVjBpQVJXTFlXUVZkbXRDS0pMZUh6eGd1T3hIY0JyQVlNMGpkd2VyNWhTQWx5Yw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261027T134710Z",
-          "pinned": false
-        },
-        {
           "title": "Pentagon says Iran war has cost US taxpayers $47bn: What that means",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOXo4WGVRZE9wNk5rWUQzcENPb3lhaVRWSU8wSnN4eE5HT2NNT2tNNHV5czhKaGNKQnRSdVNmenFUaEVraTd0WWZYSG1SdGJGZnlmVXNhZHNNanlhVXRLdmx1TV9oV3lfV1kwUko0VVg4bEoyTzFzOFhkd3l4bXBHSzVHMlVXZmJVRGptMUlrZlFpYTlvcXlLZlBTNHlZaDJRekNjRTRCSG9uSjTSAbABQVVfeXFMUGRIczNfdUtzdlp3Sl85MEtReUNERjA3WjdJbWs0bFl1cVh4bHU1clU3bHk5bEthcUJIb2xOM3RiX0IxdWl2elpwbXVQd0M0dlBnc01LLUs0eDRYQ0cwemR1V1hGcFFEc0x5VE1tajh2eS1aaUNUZ1hpTVNyaFc1NTE4MjJNQkJ3V09MSHdnNlQ1Y1h0NjZrYV8zUE5jOFdYRG9DZ3c2UlNRdDZBdURmNjg?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20261029T165205Z",
+          "pinned": false
+        },
+        {
+          "title": "What can a global strike of dockworkers achieve for Gaza?",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNG1BYzB1Q0VNUWQwNUpMRjJhYzNPMzZvck41c0ZYRXpKZldYUVZJZVJKNjk4NGlFY19fdGlsOTdXcUY5dHhHTjhBRHFmT2o2SFYzdVAzMi1hblZHTjh5Q0Q1RzdYTTczMTh2a0FLcjYzeHhGbVVuNXVhS09URzNmSGVNV0Ixak5UVXlGTkZRaWMxUUd3Zm42Vk9TWDBKRWlZUk9UadIBqgFBVV95cUxPd2Mydm1jUXJyUFFTQkpVWnNDWl82QTJzV1FVUDRqX2dyaWhTeWtwZ1BsdXhGRFVJSXZ5RzhEY2hXSUdKalFHbU9lakowbG9kRFZPQ212QzN5d3hHaHQ2eFBYT0pNanVKckFmOVluLW5VRVhtd2hxNmk2YThjenB3UWpLVHJoaFZxT0ZLc0stVUdtRnJkcTYzYTRKMmkxVGFhZk5OdkdMRlY4Zw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261030T100656Z",
+          "pinned": false
+        },
+        {
+          "title": "Saudi Arabia reports interception of Houthi drone targeting Mecca",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV3NIQ2tYTXA2UkVQUUh3UGxESzR2R1JnSVhjQjAtQ01PTm5mckJQcjZuSDA1Q3pmeWlnVUhlbThSaEhKRk9uWWdqUW1qRWlzajhDbHhIbU12NmJPNzA1WXNnWllQMkduX01GUXNvNlV2UEUxckZhek5NLWJNR1VEYjB2eXN6TGhLdjRBdU9XVUZHNnNTa1JDU2FyN3dOUmEzbEFaRmNPLXRhakXSAbABQVVfeXFMUFBWdEVMYlpIblRxQ3lVOWFPRnVTa1FwQ1pPTXFuZmV6ODEzNmd1Y0VFNVF4MHVhWU1kRWl6dHl0N2xWNXR5VmRrVmpRelZHeWZtRGZzcWlsUUhnd28yMXlpcFc2dnJQVHJoSkh4bzNwQ3FZeXBybW5EdHl5WjB6ajlkVUhxQVdJMzJwa0hEZkJrMDM5Ty1zQmU3cEZ2S08wWjFLeGdRZHBvblAxVWE0Vmc?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261030T111158Z",
+          "pinned": false
+        },
+        {
+          "title": "North Korea fires missiles as row over landmine blast intensifies",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRWNEcnhSM3B4YWNJTXpBeTdYbFUxVFhqV21rVFlZNVpER3cyQ0NsdU5WNkxzaXN1bFVYZHJnTW4waG1XRDJjVWpXaWpud0U5N1Mxc3dWWktEUEtKblRHMDFiM1JBRUtmYTFpeWZTT2xyN0w4eTlGVFI2c3ZXMGZQbGxqb1oxY09ub2JuXzJFTDU5RWNBblh0aERfV25OTU1BaXhPcXViSHd2cjDSAbABQVVfeXFMTXhvRlVoZTFreFNlYXpVZnBXTGhYTm5HMzlTS2MyRndXcjdJWm9Xc3lleHI1V19EOWdZcHNoM0dJdVlSek1MWHFvWTlXbjlBRlJvZHBFWVZJenMxX0M2UlVBbVQta04ydE1VdFJiUHl2VF9jWmRUSGo5ZGJnX093YU85UExiLXdtXy04WXFrLUJUS1ZtOE1XZFBTWnhuMVBqWDJMbi1OWkhPc0tTb01LaVE?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261029T194935Z",
           "pinned": false
         },
         {
@@ -2357,14 +2381,6 @@
           "pinned": false
         },
         {
-          "title": "Localized Ukraine ceasefire brokered by Melania Trump starts as Nordic leaders speak to Putin",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVkZvYUdad3FWZ0VGLUk4emZUR3RUODJqUlhVbEJzSkdIU25PaGgzU2ZhNUN5c0dzY3dLcXpDOU5ZUU5kRUU4TEFtSTdVVUZKTlBTNUpESldXYXMxaW1RZy0wTnc4MjFpY21DZTh1S0l5dHNDbU43TmVIb01UUzFDdFRDSmpyajZMalhCdg?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261027T162800Z",
-          "pinned": false
-        },
-        {
           "title": "US warns Gulf states of possible 'short, intense' Iran war after midterms: Report",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWkpXRWZ5a3NQZlo5MllGUFAzQm5fbU0tUzdKZXAyeWxBZ3Y4ajM4YUtVa19nODEyb1dUYzBFVlFmelJpdXZsT0lHbjFWMEt4VHBRZHRKdEJLd2RzLWVqaDgyYkNVb1lvalJxWGtBSFY1cjNoenl3RzE0ZEpiSVNjd0JEWkp3cEVrMHZ6eTJpeFlHcjRBaW1vUC1rbDJUYXJYUGc2eXBWdjFmMS0wMll6SnhoRVVKMm1fdkpz?oc=5",
           "domain": "aa.com.tr",
@@ -2378,6 +2394,14 @@
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20261029T082331Z",
+          "pinned": false
+        },
+        {
+          "title": "Localized Ukraine ceasefire brokered by Melania Trump starts as Nordic leaders speak to Putin",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVkZvYUdad3FWZ0VGLUk4emZUR3RUODJqUlhVbEJzSkdIU25PaGgzU2ZhNUN5c0dzY3dLcXpDOU5ZUU5kRUU4TEFtSTdVVUZKTlBTNUpESldXYXMxaW1RZy0wTnc4MjFpY21DZTh1S0l5dHNDbU43TmVIb01UUzFDdFRDSmpyajZMalhCdg?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261027T162800Z",
           "pinned": false
         },
         {
@@ -2397,11 +2421,35 @@
           "pinned": false
         },
         {
+          "title": "Sudan investigation maps commanders linked to wartime rape",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZVFBUFJucU00Vi1wem8yMDVYRWFCZVdqQW55Y080dUhVS1NHZzh6a3YtV1JKdUZacFZ0VkdSa2NNUkVmd2lDX0JnR2JicmU4c24tLUxTaXl6bEtzNGxmTVUzc0JpLUwxbjItbWdMaWVTQXlxRFg5VWdCUWo5V0g5S01nQnRJR2RIQThLQzF1NWR1V2xhMFRjVlBZNmtZbGg0NUln0gGoAUFVX3lxTFBRRkVYanpvX19IZV93cTZmV1NYRmpWTGpIUXZTN2FGcWVkWHJMaE4xT2Y3SFF5TUNBZ2gzVjlMb2l0eVljczVkaUo0MTcwalBOLTFVU2xqYVA5WjRiZjRjUzlRRXJkeFhYNGg0VDZUNmE4WS0wQTcyMFdfenRZMURJbkpLdFRLSl9qV2dLeERzSnNOSk1sQjF3RUpXSDFhWXZtODNDaHFNYQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261030T082522Z",
+          "pinned": false
+        },
+        {
+          "title": "Houthi forces claim six attacks on Saudi airports, oil facilities",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTEhERlpWem04ZnozTFJCeEcwbmNLVkN6eUtjUFgtdDJnNU1iVFVWWExvTU9WQ09EQ3g0SmJYZ011OWh4TTlUd2pKLURkQUljS3VDNzNmcktLMEZYZTRydklucHl3RF9PeDF1VW5QTlFCbEs0U2ZfbEtqdlpVczB5VTBiUFM0VnZ3Mkl6dVdoZWRvanJCS3VmUW9Ma2hwQ18zbFA3T2lmMU5Hd9IBrwFBVV95cUxNNDBlaUpwVUU2NTFwc0ZhYXdwUmxTa2JjdklXNUVudHZDa25DV29LMUZWa2hRRTBtWml6QTA3Y2ZPNEJOMHo3c2RVSDdYbkNLTzBLbWJXczlBZEY4bWQ3dlZ4amtOOGVtUm90MFpXZWQ2cXZSdk1RNnU0R1BQNWtGRG5YUW5ibVBUa2hPSHA0eEVYVGRNS2Nta3V3bE1mTU4zNllDOEV1N2J6MWd2ODlv?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261030T001513Z",
+          "pinned": false
+        },
+        {
           "title": "Hegseth fires the Pentagon’s top military planner even as Trump considers new Iran strikes",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZmVIdU1FSEwxZkxoSnhpcWZPNHFqM0NfT2ZOTDZvQW5XUlVSSGYwTmlaRlhKdXMyRlk1ZVJ2SHpVeVhaTkhiX0FWWHhLdUs4bDU4WjNlV2Z0Vno4VzEzTlRoUkJOeTA5eTVvT3hsY3I4aGswSmVNbWJNTkZzalpUMXhmVTJSVDZEakxodkJLeExNaDh6UHBuVkVvUjZzbEE3?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "seen": "20261029T030200Z",
+          "pinned": false
+        },
+        {
+          "title": "Oil flows are up as Iran war turmoil eases. Why do prices keep rising?",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTlNLUkh5cVYwaDlIQU45RC1MUm9Wa3gwRDlTOGVaNWFnaDN4dTNjeWR1V2N3UVZIeEFTV0tHRFl5ZUIxQ3lnNVlndjd2ZDZDTmZaZDR0YTJ6amtJZXBVNTZZMWp5d1N4X2h6T3loSGQxTHNoMzdiM0JuZjhMUklUSmJESDcwVGFHMFpBbHFWZzZFYmdub3huUVJpUGw5eVNnMnZpRUluSWZ6YlJaMXVUMmN0b9IBuAFBVV95cUxPZlFzaS1EWm9uVXR2aHZiMGVGWnRLTW9GbVlvclI0bjlFSFFmRXNnc0h6UU1VYTU3VHlvcHEzZmRpRUQ1VTVuc2RjQVhzMkNWYndQWEszSFZDQW9jaTlYeERWT2VpUnFaenB2dFJLRzBWNEZKUy1FMERmWVJ5dENkUHBTWC1HVGRsVUNZeW9QX05BSV9HWG5JNFpWT0NGLXgyNFBvMEZaZWtqUTFINWxNbzg3LXRMeUNf?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261030T083751Z",
           "pinned": false
         },
         {
@@ -2421,27 +2469,19 @@
           "pinned": false
         },
         {
+          "title": "Russian oil refinery struck as Ukraine renews drone attacks",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcVQwNDJLZkYzWGpxRVdaQjg5enB4bzRZaUt2Y3c3enFfM2ZEVVNVRi1jLWZ2M3FERzBlT0xPbzJrbm5GTElnajF1dG01YmpRNzJHUTJ0eTNDV0RRbVdzTldseTRIRERpWVpHUFcxTWpHc3hNWDFheTZlY24tTF9NNlIyQ0JxRDJhNVZmSG9ndkR4cGs5dGtTM09QZDYzbGtURmZZSGFfVmw3blJVQkdUdtIBtgFBVV95cUxNQmt4WmF6dUIyRDE1Q3pnWk9xaEZqSlJDU0xSdktQTEdnXzBQRTFzWGliYnhTQjRtaGRHdlowOGY4RXhDSktDRFU5VXFPNVhSTmQ5djVtdWtiOGRrNGNSMklNLXdXbUZlOUFFQ2JyamdZUThmcThfcGl6ek1yaGVpcFFaOXFuSkk4TkM1R1FrZlYyeWxTdnVEXzR6OGVDRHpvcHpLQXh0REc2bHN1NVlwYlNna09xQQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261030T091958Z",
+          "pinned": false
+        },
+        {
           "title": "Sudan’s war steals children’s future with school closures and displacement",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTGtvekpmWmNhYXZUMmlBXzE3Ynp6YmhOal93NnptZlo2elFaeUwtYTNfQkI0OGRMdk1tY0s2enlpLTBEYk5QaU1rRXQ1a0FqNjhMZ0dfR3dkdUZ1WmF0SXBiMkhCSlVvZW1obnJHdXJsY0dDcUZMQWhLenpETzdwYUVsV0RIZnZOWUFLeVNPTjRDSzdSMDJFQl9keDBqNVNuaUhFVkp2UG9FUnExc2VRTkp5NWdQZmJJdzdr0gHAAUFVX3lxTFBReWdIRXNraG5yUWRKTmxxZFhYWk9tYm5UNUYzeWxobWtGTFRIbU03QnpmelJJMVhvdzREbWEyc1EtdFdMUWQyT0w5MGpxU2dEZGxWNnhYRm9DUzhkZk8xcUNQQUlKSGZDR3B3cG5IQVExWC0xOW9zN2c5VU16MllySjZrdXFScUdZdjdlU2FYUHkwTERNc0dUa05SeGRYLWFqd2psNDh1TDFWWlJ3blloQnF0enpwZkMwWDRjcTE1bQ?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20261027T145039Z",
-          "pinned": false
-        },
-        {
-          "title": "A ceasefire in a Ukrainian city is holding, officials say, as Moscow and Kyiv await US-led talks",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeVNqQ3QtR0JRdndEWkJPdXFNXzEzQTlpZ0xjbGZySmhXb2lyTFB6ZlJVdVExUy1wV200dGp0TVFiT09sNVRuemd1UW1sYzloblRWOEU0TVloYm9Fby0wYWtzb3lfMFFBQzJJam1DMjFQYlAwTW1hMlFyRm93ZF9mUk1hbXFRMHlsTnBrSV9nMEtzdjRpa0RxbXJPamVpeGc?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261028T161800Z",
-          "pinned": false
-        },
-        {
-          "title": "At least 14 people killed in Russian attack on Dnipro train station",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxON0dvUmlSSHZXZjNsam5PN082YVZHUXF5ZHRhMkF6eHh2b0JlbzhhWFFJM0JzZGFiLU1TTkRDYk5IbE5RRE90NTlXMGx1bm9Pa0drTG02TF9Bd002Sm1IV2tXNk1aSzZPNmwxRmRyVnJBYUp2WEZtZDRCaVVWV2ptVm5zYXBDS3lsakZsdnpEZzNhRVFTWDFSUVdKUEd2dHJZMXlvdWFmYS1jZGRH0gGyAUFVX3lxTE9VQVVwWmZIZnRtQ1NDUGRjOEVzMVpfQXYtYkZvdThDbjB5T3RBa3hBUjgxUFMxNm9zNzFZZU5vd0VtN3dlbzlSeEU5UFp5WFRoQjd1ZzVGX0NjZ0pNSURsaktyYkxvRGc4eUdPRmhZWmdTdlZER1N4WGpua2FwdDQwNE5lNjlpelhXWjV4Z1R0R1FtNlc3Yk5YdDJMaGdfYWZXaElIMkpxZ3RRQTdJbUdINlE?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261029T172756Z",
           "pinned": false
         },
         {
@@ -2453,19 +2493,11 @@
           "pinned": false
         },
         {
-          "title": "Russia committed war crimes in Ukraine by attacking its energy grid, UN-backed inquiry says",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOckctdmhsdjZTU1FZLThLMWZNbUtFTHlmNDB6bE9ZT2tOeU9yd2NQLTEzVExNeHBJSTZUM1lIYjZpZDhCMmRENGV0aml4ZmpDQWpIUm5YSlVxb2JEdTRaLXJlcHFOSUhLR3M1VGFIVUZNbGJaRklpbGJZWDJldjF3ZlZaN3Y3eDJmaXpMTHZOMGI4ODRHbHFqcHVJTXBQaThUTUdxbktSaFcxQQ?oc=5",
+          "title": "A ceasefire in a Ukrainian city is holding, officials say, as Moscow and Kyiv await US-led talks",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeVNqQ3QtR0JRdndEWkJPdXFNXzEzQTlpZ0xjbGZySmhXb2lyTFB6ZlJVdVExUy1wV200dGp0TVFiT09sNVRuemd1UW1sYzloblRWOEU0TVloYm9Fby0wYWtzb3lfMFFBQzJJam1DMjFQYlAwTW1hMlFyRm93ZF9mUk1hbXFRMHlsTnBrSV9nMEtzdjRpa0RxbXJPamVpeGc?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261027T152500Z",
-          "pinned": false
-        },
-        {
-          "title": "Pope says ‘there is no such thing as a holy war’ in message to religious leaders",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWTFmMnNzZmVXS3VnMFQ5WHdOT1VmU090cUpfU3c0SE9TaWhzbE5HYUVZQ2VKaXZ6T0RmMXk4SE1YZG5rNDBac1A1WEswT0JLR01lTTJ6WU5jb00tRnN4cU5NRHBtNHZ1RzVpd2gyUkVXNzdVZnlGcnFoWUhTS1F1NkVXYjBmdHFwdUxVbllyNzdKWkhMbTFmdnVST0hZeEYwalhIb1NaWW5ZRC1P?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261027T200700Z",
+          "seen": "20261028T161800Z",
           "pinned": false
         },
         {
@@ -2475,41 +2507,18 @@
           "sourceTier": "Independent reporting",
           "seen": "20261029T112516Z",
           "pinned": false
-        },
-        {
-          "title": "What we know of Vance’s letter to Rezaei, as Trump warns Gulf to ‘prepare’",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZk9HcnJxTU44TTZNeDNNbXZzbFJRUk8xSkJ1NDdueGs5UFdBYzlWdTVHQ0x6Vk5rX3BEanZfTk5NNnFYMHRaUnpYSTd6cGdBMjhLWURZZUlVTEdhbDZzUXNnaUNCS0E5UjJKN09xcTB2M1BQdFgtbWZYOGZYd29lVUx0RFBpRnRSd253V0RCbl9YQ2tGWWhGZTI4S2loT3lrWXlvWTdzRmJadGJweE5qbVN30gG3AUFVX3lxTFAtU2c4d0J1NDF2SUtocUxNNDFqcWhUeGwwZ0pKMEJEX3pJWEtUMlNHaUdMSjdyTGduMmxnWGFhb1NvWm1WLUpCMDZWWDZWaXNwdlZqTzVnV3lranBuQ3hMR0otd21Wa21xcUQwMXM5MGNaR1VXb0ZhcW5ETHBVM2R3QWVWOXNVNVNaUGZtckJ2SS1pcURpdzJvZlZmR2dDdURRVUdnQ3lqUXk3TkdvajBuOUpCZEl1WQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261029T114709Z",
-          "pinned": false
-        },
-        {
-          "title": "US warns allies to prepare for possible Iran strikes, retaliation after elections, AP sources say",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSjBaT3BqdnFQYS1UeUNSUWJLTUljTWt3NnBfQkxBUmtGMUVYSXNCaEFBc1djNkhnZXl2SnFHTDNXZ2taRzlVc0FPSmVmb1k2WG45clBiMVdWQ3lYRFRtWTA5Zk5ySGdjcnBJNzBhNFJDQU5iRWlsSXYwMWRpTW1jRlBGVzgxYTJuanlYc3d5dkRDaFoycnBLVWIydFY?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261029T025800Z",
-          "pinned": false
-        },
-        {
-          "title": "Damascus, Amman contradict each other on attack that killed civilians",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb2oxajIyamFVeEhiR2E5LThwcWtETG9wY2plRUJua0drS2Q1dGVUNmd2UFM3bHMyQ0xuUmEwTkpCeVFTbDQ3NFdCSW1MRUgtdlJRVzVJMVJwRG9FbV84UHMtLVNfa0dmVElMMEFYQ2VHNkExQUZDczlhdHBCQk11OHg5R3VLd2pWLVhVMDdodFRnb0RQVG02NFZ1TWd0RlM5c1drNjFLS3JkZ3plZGNaWFFza2LSAboBQVVfeXFMTXg3WUJ0STdMYTc2am5oY2g5ZnQ2UGtXZkNaLVh2clNORm5Ja09DaFdWSDZaYkU2WFRDVXpQemNSTFdwS1gtMjBYcmNRVVhYQjVpZXZYMzdLOXNoRThSaTQyTDgwTnlXZDU4REx2QW9uTmZ0THR0Y1N3X3JLYnRwanhMZ2k3bzRmQ1pxeG5ycEZBVk1qSE1xczdmZmZ0elNLeXYyYmVwaFo2dzQ0d0VRSlQ1UzRULVY5Z3Zn?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261029T134725Z",
-          "pinned": false
-        },
-        {
-          "title": "Houthi forces claim six attacks on Saudi airports, oil facilities",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTEhERlpWem04ZnozTFJCeEcwbmNLVkN6eUtjUFgtdDJnNU1iVFVWWExvTU9WQ09EQ3g0SmJYZ011OWh4TTlUd2pKLURkQUljS3VDNzNmcktLMEZYZTRydklucHl3RF9PeDF1VW5QTlFCbEs0U2ZfbEtqdlpVczB5VTBiUFM0VnZ3Mkl6dVdoZWRvanJCS3VmUW9Ma2hwQ18zbFA3T2lmMU5Hd9IBrwFBVV95cUxNNDBlaUpwVUU2NTFwc0ZhYXdwUmxTa2JjdklXNUVudHZDa25DV29LMUZWa2hRRTBtWml6QTA3Y2ZPNEJOMHo3c2RVSDdYbkNLTzBLbWJXczlBZEY4bWQ3dlZ4amtOOGVtUm90MFpXZWQ2cXZSdk1RNnU0R1BQNWtGRG5YUW5ibVBUa2hPSHA0eEVYVGRNS2Nta3V3bE1mTU4zNllDOEV1N2J6MWd2ODlv?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261030T001513Z",
-          "pinned": false
         }
       ],
       "reports": [
+        {
+          "id": "report-b97ca6164c11",
+          "title": "US weighs new Iran strikes as Vance reaches out: Is war or a deal closer?",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTGN2bDJnRlZBUFNOTlVyNkF2Y3BydmxnS002TXB5MHZ6WnVmN1JlajliLXpmQ2hnMk9iejQ5MFZrdDNKU19nRWg2LWpST3ZYVHB4ckZ1Y0JhaFJNU1RaSlpOWGVjZkdreHB4YllHOTdhQzJ3NzJzcEY5LUo1Y1gtTzU2U0x0ejJ0ckFTTHcwbXJCVXdUZnEwNzBDd09uQk9XVG1lVl81MVloZi0yQVJOWS1NQdIBuAFBVV95cUxPUzd5NDgxT3R6MW9xenM1TFFrdlBPandwQkRNaVd2ODFmcF9EeXBCeXpwUERFOHl5WUtfNTVzZFo3eUpDaFFHbEJ3bmRpNFd5SDd6bnBDNGV0UWtxNUI2YzNTNWpObHktMVFPc0pkMGlISVJxb0Vfc0d5UDZZWXVtbXNKYmxBdVQxeUhzT2hraXQ2TzIydWgxWS1qazFEU1RWUzdySWNpbXRGeFZxWE1qZWNqZUh0Sk5y?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-30T10:44:57Z"
+        },
         {
           "id": "report-655e67e47ea1",
           "title": "Sudan war and inflation leave families struggling to survive in Khartoum",
@@ -2520,15 +2529,6 @@
           "reportedAt": "2026-10-28T17:21:29Z"
         },
         {
-          "id": "report-46dbf1d76df2",
-          "title": "Melania or the pope: Who brokered Russia-Ukraine ceasefire in Oleshky?",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZzNVQW5uV3pYd3hISHo5Q2YtalI4U3pOM2FSbTlXX2FOclZ4a3hxRnJxN3dLRGctdnM1ZFctX3RCQWYxdDRCOXdXcVluVmJMNDVVTVRXc29ybG1XNE9VQW5hTFpRbG02T00tdno2cTV1X0x1QUFGT2IzeVM5SHhnbjN5ZHJYUjZYT2lyZzNIbFllREVPcjA5Tm9xRHF2aUQ0NG9iOVRfSTVpQnFoRlhJ0gG0AUFVX3lxTE5aMVc2Mml2aDIwRGpFTHRyM0RlQko5d1lGMXdGVjZOM0NyMVlaamJPbG50SHFEN0tPZXZfMVR3VEpmbWJsSWw2NW1qeVlpWGJ6aVlYdjRqX3ZwOERmb0VtWnIwNHo0ZlpLUjdrb2Fncl92MldnM053WVpsT0liNjlhN3haVC1oVjBpQVJXTFlXUVZkbXRDS0pMZUh6eGd1T3hIY0JyQVlNMGpkd2VyNWhTQWx5Yw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-27T13:47:10Z"
-        },
-        {
           "id": "report-e119426843df",
           "title": "Pentagon says Iran war has cost US taxpayers $47bn: What that means",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOXo4WGVRZE9wNk5rWUQzcENPb3lhaVRWSU8wSnN4eE5HT2NNT2tNNHV5czhKaGNKQnRSdVNmenFUaEVraTd0WWZYSG1SdGJGZnlmVXNhZHNNanlhVXRLdmx1TV9oV3lfV1kwUko0VVg4bEoyTzFzOFhkd3l4bXBHSzVHMlVXZmJVRGptMUlrZlFpYTlvcXlLZlBTNHlZaDJRekNjRTRCSG9uSjTSAbABQVVfeXFMUGRIczNfdUtzdlp3Sl85MEtReUNERjA3WjdJbWs0bFl1cVh4bHU1clU3bHk5bEthcUJIb2xOM3RiX0IxdWl2elpwbXVQd0M0dlBnc01LLUs0eDRYQ0cwemR1V1hGcFFEc0x5VE1tajh2eS1aaUNUZ1hpTVNyaFc1NTE4MjJNQkJ3V09MSHdnNlQ1Y1h0NjZrYV8zUE5jOFdYRG9DZ3c2UlNRdDZBdURmNjg?oc=5",
@@ -2536,6 +2536,33 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-10-29T16:52:05Z"
+        },
+        {
+          "id": "report-5cd0c78be4bd",
+          "title": "What can a global strike of dockworkers achieve for Gaza?",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNG1BYzB1Q0VNUWQwNUpMRjJhYzNPMzZvck41c0ZYRXpKZldYUVZJZVJKNjk4NGlFY19fdGlsOTdXcUY5dHhHTjhBRHFmT2o2SFYzdVAzMi1hblZHTjh5Q0Q1RzdYTTczMTh2a0FLcjYzeHhGbVVuNXVhS09URzNmSGVNV0Ixak5UVXlGTkZRaWMxUUd3Zm42Vk9TWDBKRWlZUk9UadIBqgFBVV95cUxPd2Mydm1jUXJyUFFTQkpVWnNDWl82QTJzV1FVUDRqX2dyaWhTeWtwZ1BsdXhGRFVJSXZ5RzhEY2hXSUdKalFHbU9lakowbG9kRFZPQ212QzN5d3hHaHQ2eFBYT0pNanVKckFmOVluLW5VRVhtd2hxNmk2YThjenB3UWpLVHJoaFZxT0ZLc0stVUdtRnJkcTYzYTRKMmkxVGFhZk5OdkdMRlY4Zw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-30T10:06:56Z"
+        },
+        {
+          "id": "report-dbcdb064cd24",
+          "title": "Saudi Arabia reports interception of Houthi drone targeting Mecca",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV3NIQ2tYTXA2UkVQUUh3UGxESzR2R1JnSVhjQjAtQ01PTm5mckJQcjZuSDA1Q3pmeWlnVUhlbThSaEhKRk9uWWdqUW1qRWlzajhDbHhIbU12NmJPNzA1WXNnWllQMkduX01GUXNvNlV2UEUxckZhek5NLWJNR1VEYjB2eXN6TGhLdjRBdU9XVUZHNnNTa1JDU2FyN3dOUmEzbEFaRmNPLXRhakXSAbABQVVfeXFMUFBWdEVMYlpIblRxQ3lVOWFPRnVTa1FwQ1pPTXFuZmV6ODEzNmd1Y0VFNVF4MHVhWU1kRWl6dHl0N2xWNXR5VmRrVmpRelZHeWZtRGZzcWlsUUhnd28yMXlpcFc2dnJQVHJoSkh4bzNwQ3FZeXBybW5EdHl5WjB6ajlkVUhxQVdJMzJwa0hEZkJrMDM5Ty1zQmU3cEZ2S08wWjFLeGdRZHBvblAxVWE0Vmc?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-30T11:11:58Z"
+        },
+        {
+          "id": "report-5c2de291ed19",
+          "title": "North Korea fires missiles as row over landmine blast intensifies",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRWNEcnhSM3B4YWNJTXpBeTdYbFUxVFhqV21rVFlZNVpER3cyQ0NsdU5WNkxzaXN1bFVYZHJnTW4waG1XRDJjVWpXaWpud0U5N1Mxc3dWWktEUEtKblRHMDFiM1JBRUtmYTFpeWZTT2xyN0w4eTlGVFI2c3ZXMGZQbGxqb1oxY09ub2JuXzJFTDU5RWNBblh0aERfV25OTU1BaXhPcXViSHd2cjDSAbABQVVfeXFMTXhvRlVoZTFreFNlYXpVZnBXTGhYTm5HMzlTS2MyRndXcjdJWm9Xc3lleHI1V19EOWdZcHNoM0dJdVlSek1MWHFvWTlXbjlBRlJvZHBFWVZJenMxX0M2UlVBbVQta04ydE1VdFJiUHl2VF9jWmRUSGo5ZGJnX093YU85UExiLXdtXy04WXFrLUJUS1ZtOE1XZFBTWnhuMVBqWDJMbi1OWkhPc0tTb01LaVE?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-29T19:49:35Z"
         },
         {
           "id": "report-5ab19b9b8281",
@@ -2556,15 +2583,6 @@
           "reportedAt": "2026-10-27T13:27:56Z"
         },
         {
-          "id": "report-d76ebf813f49",
-          "title": "Localized Ukraine ceasefire brokered by Melania Trump starts as Nordic leaders speak to Putin",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVkZvYUdad3FWZ0VGLUk4emZUR3RUODJqUlhVbEJzSkdIU25PaGgzU2ZhNUN5c0dzY3dLcXpDOU5ZUU5kRUU4TEFtSTdVVUZKTlBTNUpESldXYXMxaW1RZy0wTnc4MjFpY21DZTh1S0l5dHNDbU43TmVIb01UUzFDdFRDSmpyajZMalhCdg?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-27T16:28:00Z"
-        },
-        {
           "id": "report-38e270b199f9",
           "title": "US warns Gulf states of possible 'short, intense' Iran war after midterms: Report",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWkpXRWZ5a3NQZlo5MllGUFAzQm5fbU0tUzdKZXAyeWxBZ3Y4ajM4YUtVa19nODEyb1dUYzBFVlFmelJpdXZsT0lHbjFWMEt4VHBRZHRKdEJLd2RzLWVqaDgyYkNVb1lvalJxWGtBSFY1cjNoenl3RzE0ZEpiSVNjd0JEWkp3cEVrMHZ6eTJpeFlHcjRBaW1vUC1rbDJUYXJYUGc2eXBWdjFmMS0wMll6SnhoRVVKMm1fdkpz?oc=5",
@@ -2581,6 +2599,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-10-29T08:23:31Z"
+        },
+        {
+          "id": "report-d76ebf813f49",
+          "title": "Localized Ukraine ceasefire brokered by Melania Trump starts as Nordic leaders speak to Putin",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVkZvYUdad3FWZ0VGLUk4emZUR3RUODJqUlhVbEJzSkdIU25PaGgzU2ZhNUN5c0dzY3dLcXpDOU5ZUU5kRUU4TEFtSTdVVUZKTlBTNUpESldXYXMxaW1RZy0wTnc4MjFpY21DZTh1S0l5dHNDbU43TmVIb01UUzFDdFRDSmpyajZMalhCdg?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-27T16:28:00Z"
         },
         {
           "id": "report-1de606f497c2",
@@ -2601,6 +2628,24 @@
           "reportedAt": "2026-10-27T11:24:06Z"
         },
         {
+          "id": "report-2481433b857e",
+          "title": "Sudan investigation maps commanders linked to wartime rape",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZVFBUFJucU00Vi1wem8yMDVYRWFCZVdqQW55Y080dUhVS1NHZzh6a3YtV1JKdUZacFZ0VkdSa2NNUkVmd2lDX0JnR2JicmU4c24tLUxTaXl6bEtzNGxmTVUzc0JpLUwxbjItbWdMaWVTQXlxRFg5VWdCUWo5V0g5S01nQnRJR2RIQThLQzF1NWR1V2xhMFRjVlBZNmtZbGg0NUln0gGoAUFVX3lxTFBRRkVYanpvX19IZV93cTZmV1NYRmpWTGpIUXZTN2FGcWVkWHJMaE4xT2Y3SFF5TUNBZ2gzVjlMb2l0eVljczVkaUo0MTcwalBOLTFVU2xqYVA5WjRiZjRjUzlRRXJkeFhYNGg0VDZUNmE4WS0wQTcyMFdfenRZMURJbkpLdFRLSl9qV2dLeERzSnNOSk1sQjF3RUpXSDFhWXZtODNDaHFNYQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-30T08:25:22Z"
+        },
+        {
+          "id": "report-8f9562085fe5",
+          "title": "Houthi forces claim six attacks on Saudi airports, oil facilities",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTEhERlpWem04ZnozTFJCeEcwbmNLVkN6eUtjUFgtdDJnNU1iVFVWWExvTU9WQ09EQ3g0SmJYZ011OWh4TTlUd2pKLURkQUljS3VDNzNmcktLMEZYZTRydklucHl3RF9PeDF1VW5QTlFCbEs0U2ZfbEtqdlpVczB5VTBiUFM0VnZ3Mkl6dVdoZWRvanJCS3VmUW9Ma2hwQ18zbFA3T2lmMU5Hd9IBrwFBVV95cUxNNDBlaUpwVUU2NTFwc0ZhYXdwUmxTa2JjdklXNUVudHZDa25DV29LMUZWa2hRRTBtWml6QTA3Y2ZPNEJOMHo3c2RVSDdYbkNLTzBLbWJXczlBZEY4bWQ3dlZ4amtOOGVtUm90MFpXZWQ2cXZSdk1RNnU0R1BQNWtGRG5YUW5ibVBUa2hPSHA0eEVYVGRNS2Nta3V3bE1mTU4zNllDOEV1N2J6MWd2ODlv?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-30T00:15:13Z"
+        },
+        {
           "id": "report-f431b13f309c",
           "title": "Hegseth fires the Pentagon’s top military planner even as Trump considers new Iran strikes",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZmVIdU1FSEwxZkxoSnhpcWZPNHFqM0NfT2ZOTDZvQW5XUlVSSGYwTmlaRlhKdXMyRlk1ZVJ2SHpVeVhaTkhiX0FWWHhLdUs4bDU4WjNlV2Z0Vno4VzEzTlRoUkJOeTA5eTVvT3hsY3I4aGswSmVNbWJNTkZzalpUMXhmVTJSVDZEakxodkJLeExNaDh6UHBuVkVvUjZzbEE3?oc=5",
@@ -2608,6 +2653,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-10-29T03:02:00Z"
+        },
+        {
+          "id": "report-00f07e5a4533",
+          "title": "Oil flows are up as Iran war turmoil eases. Why do prices keep rising?",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTlNLUkh5cVYwaDlIQU45RC1MUm9Wa3gwRDlTOGVaNWFnaDN4dTNjeWR1V2N3UVZIeEFTV0tHRFl5ZUIxQ3lnNVlndjd2ZDZDTmZaZDR0YTJ6amtJZXBVNTZZMWp5d1N4X2h6T3loSGQxTHNoMzdiM0JuZjhMUklUSmJESDcwVGFHMFpBbHFWZzZFYmdub3huUVJpUGw5eVNnMnZpRUluSWZ6YlJaMXVUMmN0b9IBuAFBVV95cUxPZlFzaS1EWm9uVXR2aHZiMGVGWnRLTW9GbVlvclI0bjlFSFFmRXNnc0h6UU1VYTU3VHlvcHEzZmRpRUQ1VTVuc2RjQVhzMkNWYndQWEszSFZDQW9jaTlYeERWT2VpUnFaenB2dFJLRzBWNEZKUy1FMERmWVJ5dENkUHBTWC1HVGRsVUNZeW9QX05BSV9HWG5JNFpWT0NGLXgyNFBvMEZaZWtqUTFINWxNbzg3LXRMeUNf?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-30T08:37:51Z"
         },
         {
           "id": "report-b91570b4c98e",
@@ -2628,6 +2682,15 @@
           "reportedAt": "2026-10-29T02:55:43Z"
         },
         {
+          "id": "report-723d3c05d601",
+          "title": "Russian oil refinery struck as Ukraine renews drone attacks",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcVQwNDJLZkYzWGpxRVdaQjg5enB4bzRZaUt2Y3c3enFfM2ZEVVNVRi1jLWZ2M3FERzBlT0xPbzJrbm5GTElnajF1dG01YmpRNzJHUTJ0eTNDV0RRbVdzTldseTRIRERpWVpHUFcxTWpHc3hNWDFheTZlY24tTF9NNlIyQ0JxRDJhNVZmSG9ndkR4cGs5dGtTM09QZDYzbGtURmZZSGFfVmw3blJVQkdUdtIBtgFBVV95cUxNQmt4WmF6dUIyRDE1Q3pnWk9xaEZqSlJDU0xSdktQTEdnXzBQRTFzWGliYnhTQjRtaGRHdlowOGY4RXhDSktDRFU5VXFPNVhSTmQ5djVtdWtiOGRrNGNSMklNLXdXbUZlOUFFQ2JyamdZUThmcThfcGl6ek1yaGVpcFFaOXFuSkk4TkM1R1FrZlYyeWxTdnVEXzR6OGVDRHpvcHpLQXh0REc2bHN1NVlwYlNna09xQQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-30T09:19:58Z"
+        },
+        {
           "id": "report-9e4b1cd3a1d2",
           "title": "Sudan’s war steals children’s future with school closures and displacement",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTGtvekpmWmNhYXZUMmlBXzE3Ynp6YmhOal93NnptZlo2elFaeUwtYTNfQkI0OGRMdk1tY0s2enlpLTBEYk5QaU1rRXQ1a0FqNjhMZ0dfR3dkdUZ1WmF0SXBiMkhCSlVvZW1obnJHdXJsY0dDcUZMQWhLenpETzdwYUVsV0RIZnZOWUFLeVNPTjRDSzdSMDJFQl9keDBqNVNuaUhFVkp2UG9FUnExc2VRTkp5NWdQZmJJdzdr0gHAAUFVX3lxTFBReWdIRXNraG5yUWRKTmxxZFhYWk9tYm5UNUYzeWxobWtGTFRIbU03QnpmelJJMVhvdzREbWEyc1EtdFdMUWQyT0w5MGpxU2dEZGxWNnhYRm9DUzhkZk8xcUNQQUlKSGZDR3B3cG5IQVExWC0xOW9zN2c5VU16MllySjZrdXFScUdZdjdlU2FYUHkwTERNc0dUa05SeGRYLWFqd2psNDh1TDFWWlJ3blloQnF0enpwZkMwWDRjcTE1bQ?oc=5",
@@ -2635,24 +2698,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-10-27T14:50:39Z"
-        },
-        {
-          "id": "report-bcab0c7e91a1",
-          "title": "A ceasefire in a Ukrainian city is holding, officials say, as Moscow and Kyiv await US-led talks",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeVNqQ3QtR0JRdndEWkJPdXFNXzEzQTlpZ0xjbGZySmhXb2lyTFB6ZlJVdVExUy1wV200dGp0TVFiT09sNVRuemd1UW1sYzloblRWOEU0TVloYm9Fby0wYWtzb3lfMFFBQzJJam1DMjFQYlAwTW1hMlFyRm93ZF9mUk1hbXFRMHlsTnBrSV9nMEtzdjRpa0RxbXJPamVpeGc?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-28T16:18:00Z"
-        },
-        {
-          "id": "report-f9dcddb9aa79",
-          "title": "At least 14 people killed in Russian attack on Dnipro train station",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxON0dvUmlSSHZXZjNsam5PN082YVZHUXF5ZHRhMkF6eHh2b0JlbzhhWFFJM0JzZGFiLU1TTkRDYk5IbE5RRE90NTlXMGx1bm9Pa0drTG02TF9Bd002Sm1IV2tXNk1aSzZPNmwxRmRyVnJBYUp2WEZtZDRCaVVWV2ptVm5zYXBDS3lsakZsdnpEZzNhRVFTWDFSUVdKUEd2dHJZMXlvdWFmYS1jZGRH0gGyAUFVX3lxTE9VQVVwWmZIZnRtQ1NDUGRjOEVzMVpfQXYtYkZvdThDbjB5T3RBa3hBUjgxUFMxNm9zNzFZZU5vd0VtN3dlbzlSeEU5UFp5WFRoQjd1ZzVGX0NjZ0pNSURsaktyYkxvRGc4eUdPRmhZWmdTdlZER1N4WGpua2FwdDQwNE5lNjlpelhXWjV4Z1R0R1FtNlc3Yk5YdDJMaGdfYWZXaElIMkpxZ3RRQTdJbUdINlE?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-29T17:27:56Z"
         },
         {
           "id": "report-d2783eb7b8fa",
@@ -2664,22 +2709,13 @@
           "reportedAt": "2026-10-29T17:46:15Z"
         },
         {
-          "id": "report-0ed544bec9d1",
-          "title": "Russia committed war crimes in Ukraine by attacking its energy grid, UN-backed inquiry says",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOckctdmhsdjZTU1FZLThLMWZNbUtFTHlmNDB6bE9ZT2tOeU9yd2NQLTEzVExNeHBJSTZUM1lIYjZpZDhCMmRENGV0aml4ZmpDQWpIUm5YSlVxb2JEdTRaLXJlcHFOSUhLR3M1VGFIVUZNbGJaRklpbGJZWDJldjF3ZlZaN3Y3eDJmaXpMTHZOMGI4ODRHbHFqcHVJTXBQaThUTUdxbktSaFcxQQ?oc=5",
+          "id": "report-bcab0c7e91a1",
+          "title": "A ceasefire in a Ukrainian city is holding, officials say, as Moscow and Kyiv await US-led talks",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeVNqQ3QtR0JRdndEWkJPdXFNXzEzQTlpZ0xjbGZySmhXb2lyTFB6ZlJVdVExUy1wV200dGp0TVFiT09sNVRuemd1UW1sYzloblRWOEU0TVloYm9Fby0wYWtzb3lfMFFBQzJJam1DMjFQYlAwTW1hMlFyRm93ZF9mUk1hbXFRMHlsTnBrSV9nMEtzdjRpa0RxbXJPamVpeGc?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-27T15:25:00Z"
-        },
-        {
-          "id": "report-2bdc59cb7e47",
-          "title": "Pope says ‘there is no such thing as a holy war’ in message to religious leaders",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWTFmMnNzZmVXS3VnMFQ5WHdOT1VmU090cUpfU3c0SE9TaWhzbE5HYUVZQ2VKaXZ6T0RmMXk4SE1YZG5rNDBac1A1WEswT0JLR01lTTJ6WU5jb00tRnN4cU5NRHBtNHZ1RzVpd2gyUkVXNzdVZnlGcnFoWUhTS1F1NkVXYjBmdHFwdUxVbllyNzdKWkhMbTFmdnVST0hZeEYwalhIb1NaWW5ZRC1P?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-27T20:07:00Z"
+          "reportedAt": "2026-10-28T16:18:00Z"
         },
         {
           "id": "report-0add1511dedb",
@@ -2689,42 +2725,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-10-29T11:25:16Z"
-        },
-        {
-          "id": "report-ea2f13e87bf0",
-          "title": "What we know of Vance’s letter to Rezaei, as Trump warns Gulf to ‘prepare’",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZk9HcnJxTU44TTZNeDNNbXZzbFJRUk8xSkJ1NDdueGs5UFdBYzlWdTVHQ0x6Vk5rX3BEanZfTk5NNnFYMHRaUnpYSTd6cGdBMjhLWURZZUlVTEdhbDZzUXNnaUNCS0E5UjJKN09xcTB2M1BQdFgtbWZYOGZYd29lVUx0RFBpRnRSd253V0RCbl9YQ2tGWWhGZTI4S2loT3lrWXlvWTdzRmJadGJweE5qbVN30gG3AUFVX3lxTFAtU2c4d0J1NDF2SUtocUxNNDFqcWhUeGwwZ0pKMEJEX3pJWEtUMlNHaUdMSjdyTGduMmxnWGFhb1NvWm1WLUpCMDZWWDZWaXNwdlZqTzVnV3lranBuQ3hMR0otd21Wa21xcUQwMXM5MGNaR1VXb0ZhcW5ETHBVM2R3QWVWOXNVNVNaUGZtckJ2SS1pcURpdzJvZlZmR2dDdURRVUdnQ3lqUXk3TkdvajBuOUpCZEl1WQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-29T11:47:09Z"
-        },
-        {
-          "id": "report-15e816f3aad3",
-          "title": "US warns allies to prepare for possible Iran strikes, retaliation after elections, AP sources say",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSjBaT3BqdnFQYS1UeUNSUWJLTUljTWt3NnBfQkxBUmtGMUVYSXNCaEFBc1djNkhnZXl2SnFHTDNXZ2taRzlVc0FPSmVmb1k2WG45clBiMVdWQ3lYRFRtWTA5Zk5ySGdjcnBJNzBhNFJDQU5iRWlsSXYwMWRpTW1jRlBGVzgxYTJuanlYc3d5dkRDaFoycnBLVWIydFY?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-29T02:58:00Z"
-        },
-        {
-          "id": "report-32681bb0ddee",
-          "title": "Damascus, Amman contradict each other on attack that killed civilians",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb2oxajIyamFVeEhiR2E5LThwcWtETG9wY2plRUJua0drS2Q1dGVUNmd2UFM3bHMyQ0xuUmEwTkpCeVFTbDQ3NFdCSW1MRUgtdlJRVzVJMVJwRG9FbV84UHMtLVNfa0dmVElMMEFYQ2VHNkExQUZDczlhdHBCQk11OHg5R3VLd2pWLVhVMDdodFRnb0RQVG02NFZ1TWd0RlM5c1drNjFLS3JkZ3plZGNaWFFza2LSAboBQVVfeXFMTXg3WUJ0STdMYTc2am5oY2g5ZnQ2UGtXZkNaLVh2clNORm5Ja09DaFdWSDZaYkU2WFRDVXpQemNSTFdwS1gtMjBYcmNRVVhYQjVpZXZYMzdLOXNoRThSaTQyTDgwTnlXZDU4REx2QW9uTmZ0THR0Y1N3X3JLYnRwanhMZ2k3bzRmQ1pxeG5ycEZBVk1qSE1xczdmZmZ0elNLeXYyYmVwaFo2dzQ0d0VRSlQ1UzRULVY5Z3Zn?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-29T13:47:25Z"
-        },
-        {
-          "id": "report-8f9562085fe5",
-          "title": "Houthi forces claim six attacks on Saudi airports, oil facilities",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTEhERlpWem04ZnozTFJCeEcwbmNLVkN6eUtjUFgtdDJnNU1iVFVWWExvTU9WQ09EQ3g0SmJYZ011OWh4TTlUd2pKLURkQUljS3VDNzNmcktLMEZYZTRydklucHl3RF9PeDF1VW5QTlFCbEs0U2ZfbEtqdlpVczB5VTBiUFM0VnZ3Mkl6dVdoZWRvanJCS3VmUW9Ma2hwQ18zbFA3T2lmMU5Hd9IBrwFBVV95cUxNNDBlaUpwVUU2NTFwc0ZhYXdwUmxTa2JjdklXNUVudHZDa25DV29LMUZWa2hRRTBtWml6QTA3Y2ZPNEJOMHo3c2RVSDdYbkNLTzBLbWJXczlBZEY4bWQ3dlZ4amtOOGVtUm90MFpXZWQ2cXZSdk1RNnU0R1BQNWtGRG5YUW5ibVBUa2hPSHA0eEVYVGRNS2Nta3V3bE1mTU4zNllDOEV1N2J6MWd2ODlv?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-30T00:15:13Z"
         },
         {
           "id": "report-90df6d38e318",
