@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-29T22:45:07.382Z",
+  "generatedAt": "2026-10-30T05:45:31.431Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-10-29T22:45:07.382Z",
+      "generatedAt": "2026-10-30T05:45:31.431Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -2313,7 +2313,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-10-29T22:45:07.382Z",
+      "generatedAt": "2026-10-30T05:45:31.431Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -2373,19 +2373,19 @@
           "pinned": false
         },
         {
-          "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHaWNuMEIyWVhmNXR5S2JHMzhLbXhFc0o5YVNGNGY1MERGOXdXNHZPejNXSjM0VjhlU1ROWXBpUVVpRlRhcGdCWVNMU1IweVZveUZ2VHlrSTlPWWc?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261027T221108Z",
-          "pinned": false
-        },
-        {
           "title": "Ethiopia receives 12 Russian fighter jets and air defence systems as Tigray war escalates",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13Vm9zcWRPR3V4ZmlKaEFVOHVQRGZ1QTRtamp0M1BiRkR5LTBJNlE4anluYmJ4SUhuZGQyQzBWMkw3MFZtMUNfTkFjTHR5Vmhoa1pEckwwV2Rjcmc?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20261029T082331Z",
+          "pinned": false
+        },
+        {
+          "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHaWNuMEIyWVhmNXR5S2JHMzhLbXhFc0o5YVNGNGY1MERGOXdXNHZPejNXSjM0VjhlU1ROWXBpUVVpRlRhcGdCWVNMU1IweVZveUZ2VHlrSTlPWWc?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261027T221108Z",
           "pinned": false
         },
         {
@@ -2397,27 +2397,11 @@
           "pinned": false
         },
         {
-          "title": "In his own words: Trump on gas prices and energy costs since launching the war with Iran",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWVloTVpZeHZsZHpoNVdPZFQ0X21mbU5QSnY1UmczNVNJTG9iTmhMSlNoaVM0YUVwWnQzNjIzb3ktV1JRUEp5VVR4bHdCOGdHUGZXQ2RzMzAzLVlrZ2M4OVhjOUoyOVJtNEplUEc2YlRCTE1YWV94aUVhZ2dybUJ2SkoxRHE0ak5ObVBnVmxmTWNIaTNPT2VCM21pTHA3N28?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261026T124300Z",
-          "pinned": false
-        },
-        {
           "title": "Hegseth fires the Pentagon’s top military planner even as Trump considers new Iran strikes",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZmVIdU1FSEwxZkxoSnhpcWZPNHFqM0NfT2ZOTDZvQW5XUlVSSGYwTmlaRlhKdXMyRlk1ZVJ2SHpVeVhaTkhiX0FWWHhLdUs4bDU4WjNlV2Z0Vno4VzEzTlRoUkJOeTA5eTVvT3hsY3I4aGswSmVNbWJNTkZzalpUMXhmVTJSVDZEakxodkJLeExNaDh6UHBuVkVvUjZzbEE3?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "seen": "20261029T030200Z",
-          "pinned": false
-        },
-        {
-          "title": "Guterres warns of ‘unimaginable’ consequences of Iran-Gulf escalation",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZGx6SmZ5ZjR4bENuNFJjRXNjTUdOMDQwNFc4b051LXJkZll6QW5taVJMY3VET3dTSzRZVTlGWHQ3STJGNTRKMUZlelktcEVBNVR4czBKNG84MWFZSDBqdzFqdlk5RVRIYWNsYVlqUUFQY2tYSFVJbGozcmlYZnZiMXJIbkR4dEdvaDhsbGtlT2hXUFljWHdsWWZSZ3FIQdIBowFBVV95cUxQR19jVFJqWThTbzk3T1dQY2JiOHBBZW5sdGstNjJwRkxJdi1NU0xLTjNnTkxRYTRDMnlPV3RSRHRwUUhGU1p6MDlEaGs2aHc5X0RsT1NXdm8wWU9GbGY4dGxPeHNjVnJYUTBSX2Y2YkZHNXZNNk00ZjNWdHViY0tHWTM1QkNUYk14QVk5dnZXNmVaR1JYNTRBTTB2WUNTMW94RFlV?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261026T170136Z",
           "pinned": false
         },
         {
@@ -2429,11 +2413,11 @@
           "pinned": false
         },
         {
-          "title": "UN-commissioned experts say Gaza ceasefire has not stopped Israel from committing genocide",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZnd1NVJUWmc4MHhtYUdaTUc3VzBGSkFET0RBbkdTM1hJZFRQWUlKOVA0Qm9uUTUxTi1hNGROUU1MWnliMjVrLXdzRXlxd0xjM1NBOUZOS09pZWRaR0YwdmNxcWlJYm5jZkdJSlJtV1QxUWhsZENVMGdPcHNHSUZjUi15Vl9mclBmdWtaZjhqclVCaDVpSlBN?oc=5",
-          "domain": "apnews.com",
+          "title": "Strikes on Darfur market in Sudan killed more than 100, rights group says",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNb0x6d2NxdVBNUVZZSG1LQWRPS3NidTYtRHpvLUloclpZSlFfdDktUTA1cWJkM2V2U2haVjBKOUhSQURucXlVQkdjWGZnREZwZzhMdEJwMmQ1WkNoY2NHcDJQUDJwVll4TDBLYjRlX2tTREpCTmk0cnR3bWdadkp5TFFMYWhCOXJrVjg4RHBXckVzWDVDQVYwSHVkM29tcFZGenMzUTA3T2k4cHVJLTYxSl9n0gG3AUFVX3lxTE5ZVllZTkRINDd3ejFaRnd0dTZneTMzSDdyVDhLWDBoNmdLZVdDdG9SUG1RaTJoMmJ1ZEpERGRNUUZZWFJneXhYcjFVVWdUYmw4WjFOWXFnQTFwMmZxc1otZFdlNF9DQVRBVFNidDVQX0FESW9CQ3gzNjlJelZDX3ppM3U2UmtLclpsOU9rZWRFMDRabTVSTzdqZ1VLaVAtNHRDQzYyVWczTDNKazFiS1BpVlZwZzBsVQ?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261026T135400Z",
+          "seen": "20261029T025543Z",
           "pinned": false
         },
         {
@@ -2445,11 +2429,11 @@
           "pinned": false
         },
         {
-          "title": "Strikes on Darfur market in Sudan killed more than 100, rights group says",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNb0x6d2NxdVBNUVZZSG1LQWRPS3NidTYtRHpvLUloclpZSlFfdDktUTA1cWJkM2V2U2haVjBKOUhSQURucXlVQkdjWGZnREZwZzhMdEJwMmQ1WkNoY2NHcDJQUDJwVll4TDBLYjRlX2tTREpCTmk0cnR3bWdadkp5TFFMYWhCOXJrVjg4RHBXckVzWDVDQVYwSHVkM29tcFZGenMzUTA3T2k4cHVJLTYxSl9n0gG3AUFVX3lxTE5ZVllZTkRINDd3ejFaRnd0dTZneTMzSDdyVDhLWDBoNmdLZVdDdG9SUG1RaTJoMmJ1ZEpERGRNUUZZWFJneXhYcjFVVWdUYmw4WjFOWXFnQTFwMmZxc1otZFdlNF9DQVRBVFNidDVQX0FESW9CQ3gzNjlJelZDX3ppM3U2UmtLclpsOU9rZWRFMDRabTVSTzdqZ1VLaVAtNHRDQzYyVWczTDNKazFiS1BpVlZwZzBsVQ?oc=5",
-          "domain": "aljazeera.com",
+          "title": "A ceasefire in a Ukrainian city is holding, officials say, as Moscow and Kyiv await US-led talks",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeVNqQ3QtR0JRdndEWkJPdXFNXzEzQTlpZ0xjbGZySmhXb2lyTFB6ZlJVdVExUy1wV200dGp0TVFiT09sNVRuemd1UW1sYzloblRWOEU0TVloYm9Fby0wYWtzb3lfMFFBQzJJam1DMjFQYlAwTW1hMlFyRm93ZF9mUk1hbXFRMHlsTnBrSV9nMEtzdjRpa0RxbXJPamVpeGc?oc=5",
+          "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261029T025543Z",
+          "seen": "20261028T161800Z",
           "pinned": false
         },
         {
@@ -2469,11 +2453,11 @@
           "pinned": false
         },
         {
-          "title": "A ceasefire in a Ukrainian city is holding, officials say, as Moscow and Kyiv await US-led talks",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeVNqQ3QtR0JRdndEWkJPdXFNXzEzQTlpZ0xjbGZySmhXb2lyTFB6ZlJVdVExUy1wV200dGp0TVFiT09sNVRuemd1UW1sYzloblRWOEU0TVloYm9Fby0wYWtzb3lfMFFBQzJJam1DMjFQYlAwTW1hMlFyRm93ZF9mUk1hbXFRMHlsTnBrSV9nMEtzdjRpa0RxbXJPamVpeGc?oc=5",
+          "title": "Russia committed war crimes in Ukraine by attacking its energy grid, UN-backed inquiry says",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOckctdmhsdjZTU1FZLThLMWZNbUtFTHlmNDB6bE9ZT2tOeU9yd2NQLTEzVExNeHBJSTZUM1lIYjZpZDhCMmRENGV0aml4ZmpDQWpIUm5YSlVxb2JEdTRaLXJlcHFOSUhLR3M1VGFIVUZNbGJaRklpbGJZWDJldjF3ZlZaN3Y3eDJmaXpMTHZOMGI4ODRHbHFqcHVJTXBQaThUTUdxbktSaFcxQQ?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261028T161800Z",
+          "seen": "20261027T152500Z",
           "pinned": false
         },
         {
@@ -2493,19 +2477,35 @@
           "pinned": false
         },
         {
-          "title": "Russia committed war crimes in Ukraine by attacking its energy grid, UN-backed inquiry says",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOckctdmhsdjZTU1FZLThLMWZNbUtFTHlmNDB6bE9ZT2tOeU9yd2NQLTEzVExNeHBJSTZUM1lIYjZpZDhCMmRENGV0aml4ZmpDQWpIUm5YSlVxb2JEdTRaLXJlcHFOSUhLR3M1VGFIVUZNbGJaRklpbGJZWDJldjF3ZlZaN3Y3eDJmaXpMTHZOMGI4ODRHbHFqcHVJTXBQaThUTUdxbktSaFcxQQ?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261027T152500Z",
-          "pinned": false
-        },
-        {
           "title": "What we know of Vance’s letter to Rezaei, as Trump warns Gulf to ‘prepare’",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZk9HcnJxTU44TTZNeDNNbXZzbFJRUk8xSkJ1NDdueGs5UFdBYzlWdTVHQ0x6Vk5rX3BEanZfTk5NNnFYMHRaUnpYSTd6cGdBMjhLWURZZUlVTEdhbDZzUXNnaUNCS0E5UjJKN09xcTB2M1BQdFgtbWZYOGZYd29lVUx0RFBpRnRSd253V0RCbl9YQ2tGWWhGZTI4S2loT3lrWXlvWTdzRmJadGJweE5qbVN30gG3AUFVX3lxTFAtU2c4d0J1NDF2SUtocUxNNDFqcWhUeGwwZ0pKMEJEX3pJWEtUMlNHaUdMSjdyTGduMmxnWGFhb1NvWm1WLUpCMDZWWDZWaXNwdlZqTzVnV3lranBuQ3hMR0otd21Wa21xcUQwMXM5MGNaR1VXb0ZhcW5ETHBVM2R3QWVWOXNVNVNaUGZtckJ2SS1pcURpdzJvZlZmR2dDdURRVUdnQ3lqUXk3TkdvajBuOUpCZEl1WQ?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20261029T114709Z",
+          "pinned": false
+        },
+        {
+          "title": "US warns allies to prepare for possible Iran strikes, retaliation after elections, AP sources say",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSjBaT3BqdnFQYS1UeUNSUWJLTUljTWt3NnBfQkxBUmtGMUVYSXNCaEFBc1djNkhnZXl2SnFHTDNXZ2taRzlVc0FPSmVmb1k2WG45clBiMVdWQ3lYRFRtWTA5Zk5ySGdjcnBJNzBhNFJDQU5iRWlsSXYwMWRpTW1jRlBGVzgxYTJuanlYc3d5dkRDaFoycnBLVWIydFY?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261029T025800Z",
+          "pinned": false
+        },
+        {
+          "title": "Damascus, Amman contradict each other on attack that killed civilians",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb2oxajIyamFVeEhiR2E5LThwcWtETG9wY2plRUJua0drS2Q1dGVUNmd2UFM3bHMyQ0xuUmEwTkpCeVFTbDQ3NFdCSW1MRUgtdlJRVzVJMVJwRG9FbV84UHMtLVNfa0dmVElMMEFYQ2VHNkExQUZDczlhdHBCQk11OHg5R3VLd2pWLVhVMDdodFRnb0RQVG02NFZ1TWd0RlM5c1drNjFLS3JkZ3plZGNaWFFza2LSAboBQVVfeXFMTXg3WUJ0STdMYTc2am5oY2g5ZnQ2UGtXZkNaLVh2clNORm5Ja09DaFdWSDZaYkU2WFRDVXpQemNSTFdwS1gtMjBYcmNRVVhYQjVpZXZYMzdLOXNoRThSaTQyTDgwTnlXZDU4REx2QW9uTmZ0THR0Y1N3X3JLYnRwanhMZ2k3bzRmQ1pxeG5ycEZBVk1qSE1xczdmZmZ0elNLeXYyYmVwaFo2dzQ0d0VRSlQ1UzRULVY5Z3Zn?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261029T134725Z",
+          "pinned": false
+        },
+        {
+          "title": "Houthi forces claim six attacks on Saudi airports, oil facilities",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTEhERlpWem04ZnozTFJCeEcwbmNLVkN6eUtjUFgtdDJnNU1iVFVWWExvTU9WQ09EQ3g0SmJYZ011OWh4TTlUd2pKLURkQUljS3VDNzNmcktLMEZYZTRydklucHl3RF9PeDF1VW5QTlFCbEs0U2ZfbEtqdlpVczB5VTBiUFM0VnZ3Mkl6dVdoZWRvanJCS3VmUW9Ma2hwQ18zbFA3T2lmMU5Hd9IBrwFBVV95cUxNNDBlaUpwVUU2NTFwc0ZhYXdwUmxTa2JjdklXNUVudHZDa25DV29LMUZWa2hRRTBtWml6QTA3Y2ZPNEJOMHo3c2RVSDdYbkNLTzBLbWJXczlBZEY4bWQ3dlZ4amtOOGVtUm90MFpXZWQ2cXZSdk1RNnU0R1BQNWtGRG5YUW5ibVBUa2hPSHA0eEVYVGRNS2Nta3V3bE1mTU4zNllDOEV1N2J6MWd2ODlv?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261030T001513Z",
           "pinned": false
         }
       ],
@@ -2574,15 +2574,6 @@
           "reportedAt": "2026-10-28T02:18:50Z"
         },
         {
-          "id": "report-1de606f497c2",
-          "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHaWNuMEIyWVhmNXR5S2JHMzhLbXhFc0o5YVNGNGY1MERGOXdXNHZPejNXSjM0VjhlU1ROWXBpUVVpRlRhcGdCWVNMU1IweVZveUZ2VHlrSTlPWWc?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-27T22:11:08Z"
-        },
-        {
           "id": "report-d112a414ad2e",
           "title": "Ethiopia receives 12 Russian fighter jets and air defence systems as Tigray war escalates",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13Vm9zcWRPR3V4ZmlKaEFVOHVQRGZ1QTRtamp0M1BiRkR5LTBJNlE4anluYmJ4SUhuZGQyQzBWMkw3MFZtMUNfTkFjTHR5Vmhoa1pEckwwV2Rjcmc?oc=5",
@@ -2590,6 +2581,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-10-29T08:23:31Z"
+        },
+        {
+          "id": "report-1de606f497c2",
+          "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHaWNuMEIyWVhmNXR5S2JHMzhLbXhFc0o5YVNGNGY1MERGOXdXNHZPejNXSjM0VjhlU1ROWXBpUVVpRlRhcGdCWVNMU1IweVZveUZ2VHlrSTlPWWc?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-27T22:11:08Z"
         },
         {
           "id": "report-e83bb6893ae2",
@@ -2601,15 +2601,6 @@
           "reportedAt": "2026-10-27T11:24:06Z"
         },
         {
-          "id": "report-0a11f3ddbe62",
-          "title": "In his own words: Trump on gas prices and energy costs since launching the war with Iran",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWVloTVpZeHZsZHpoNVdPZFQ0X21mbU5QSnY1UmczNVNJTG9iTmhMSlNoaVM0YUVwWnQzNjIzb3ktV1JRUEp5VVR4bHdCOGdHUGZXQ2RzMzAzLVlrZ2M4OVhjOUoyOVJtNEplUEc2YlRCTE1YWV94aUVhZ2dybUJ2SkoxRHE0ak5ObVBnVmxmTWNIaTNPT2VCM21pTHA3N28?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-26T12:43:00Z"
-        },
-        {
           "id": "report-f431b13f309c",
           "title": "Hegseth fires the Pentagon’s top military planner even as Trump considers new Iran strikes",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZmVIdU1FSEwxZkxoSnhpcWZPNHFqM0NfT2ZOTDZvQW5XUlVSSGYwTmlaRlhKdXMyRlk1ZVJ2SHpVeVhaTkhiX0FWWHhLdUs4bDU4WjNlV2Z0Vno4VzEzTlRoUkJOeTA5eTVvT3hsY3I4aGswSmVNbWJNTkZzalpUMXhmVTJSVDZEakxodkJLeExNaDh6UHBuVkVvUjZzbEE3?oc=5",
@@ -2617,15 +2608,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-10-29T03:02:00Z"
-        },
-        {
-          "id": "report-2eb5c7b425c5",
-          "title": "Guterres warns of ‘unimaginable’ consequences of Iran-Gulf escalation",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZGx6SmZ5ZjR4bENuNFJjRXNjTUdOMDQwNFc4b051LXJkZll6QW5taVJMY3VET3dTSzRZVTlGWHQ3STJGNTRKMUZlelktcEVBNVR4czBKNG84MWFZSDBqdzFqdlk5RVRIYWNsYVlqUUFQY2tYSFVJbGozcmlYZnZiMXJIbkR4dEdvaDhsbGtlT2hXUFljWHdsWWZSZ3FIQdIBowFBVV95cUxQR19jVFJqWThTbzk3T1dQY2JiOHBBZW5sdGstNjJwRkxJdi1NU0xLTjNnTkxRYTRDMnlPV3RSRHRwUUhGU1p6MDlEaGs2aHc5X0RsT1NXdm8wWU9GbGY4dGxPeHNjVnJYUTBSX2Y2YkZHNXZNNk00ZjNWdHViY0tHWTM1QkNUYk14QVk5dnZXNmVaR1JYNTRBTTB2WUNTMW94RFlV?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-26T17:01:36Z"
         },
         {
           "id": "report-b91570b4c98e",
@@ -2637,13 +2619,13 @@
           "reportedAt": "2026-10-27T15:41:46Z"
         },
         {
-          "id": "report-f3b462aa6a55",
-          "title": "UN-commissioned experts say Gaza ceasefire has not stopped Israel from committing genocide",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZnd1NVJUWmc4MHhtYUdaTUc3VzBGSkFET0RBbkdTM1hJZFRQWUlKOVA0Qm9uUTUxTi1hNGROUU1MWnliMjVrLXdzRXlxd0xjM1NBOUZOS09pZWRaR0YwdmNxcWlJYm5jZkdJSlJtV1QxUWhsZENVMGdPcHNHSUZjUi15Vl9mclBmdWtaZjhqclVCaDVpSlBN?oc=5",
-          "domain": "apnews.com",
+          "id": "report-95d28985699e",
+          "title": "Strikes on Darfur market in Sudan killed more than 100, rights group says",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNb0x6d2NxdVBNUVZZSG1LQWRPS3NidTYtRHpvLUloclpZSlFfdDktUTA1cWJkM2V2U2haVjBKOUhSQURucXlVQkdjWGZnREZwZzhMdEJwMmQ1WkNoY2NHcDJQUDJwVll4TDBLYjRlX2tTREpCTmk0cnR3bWdadkp5TFFMYWhCOXJrVjg4RHBXckVzWDVDQVYwSHVkM29tcFZGenMzUTA3T2k4cHVJLTYxSl9n0gG3AUFVX3lxTE5ZVllZTkRINDd3ejFaRnd0dTZneTMzSDdyVDhLWDBoNmdLZVdDdG9SUG1RaTJoMmJ1ZEpERGRNUUZZWFJneXhYcjFVVWdUYmw4WjFOWXFnQTFwMmZxc1otZFdlNF9DQVRBVFNidDVQX0FESW9CQ3gzNjlJelZDX3ppM3U2UmtLclpsOU9rZWRFMDRabTVSTzdqZ1VLaVAtNHRDQzYyVWczTDNKazFiS1BpVlZwZzBsVQ?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-26T13:54:00Z"
+          "reportedAt": "2026-10-29T02:55:43Z"
         },
         {
           "id": "report-9e4b1cd3a1d2",
@@ -2655,13 +2637,13 @@
           "reportedAt": "2026-10-27T14:50:39Z"
         },
         {
-          "id": "report-95d28985699e",
-          "title": "Strikes on Darfur market in Sudan killed more than 100, rights group says",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNb0x6d2NxdVBNUVZZSG1LQWRPS3NidTYtRHpvLUloclpZSlFfdDktUTA1cWJkM2V2U2haVjBKOUhSQURucXlVQkdjWGZnREZwZzhMdEJwMmQ1WkNoY2NHcDJQUDJwVll4TDBLYjRlX2tTREpCTmk0cnR3bWdadkp5TFFMYWhCOXJrVjg4RHBXckVzWDVDQVYwSHVkM29tcFZGenMzUTA3T2k4cHVJLTYxSl9n0gG3AUFVX3lxTE5ZVllZTkRINDd3ejFaRnd0dTZneTMzSDdyVDhLWDBoNmdLZVdDdG9SUG1RaTJoMmJ1ZEpERGRNUUZZWFJneXhYcjFVVWdUYmw4WjFOWXFnQTFwMmZxc1otZFdlNF9DQVRBVFNidDVQX0FESW9CQ3gzNjlJelZDX3ppM3U2UmtLclpsOU9rZWRFMDRabTVSTzdqZ1VLaVAtNHRDQzYyVWczTDNKazFiS1BpVlZwZzBsVQ?oc=5",
-          "domain": "aljazeera.com",
+          "id": "report-bcab0c7e91a1",
+          "title": "A ceasefire in a Ukrainian city is holding, officials say, as Moscow and Kyiv await US-led talks",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeVNqQ3QtR0JRdndEWkJPdXFNXzEzQTlpZ0xjbGZySmhXb2lyTFB6ZlJVdVExUy1wV200dGp0TVFiT09sNVRuemd1UW1sYzloblRWOEU0TVloYm9Fby0wYWtzb3lfMFFBQzJJam1DMjFQYlAwTW1hMlFyRm93ZF9mUk1hbXFRMHlsTnBrSV9nMEtzdjRpa0RxbXJPamVpeGc?oc=5",
+          "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-29T02:55:43Z"
+          "reportedAt": "2026-10-28T16:18:00Z"
         },
         {
           "id": "report-f9dcddb9aa79",
@@ -2682,13 +2664,13 @@
           "reportedAt": "2026-10-29T17:46:15Z"
         },
         {
-          "id": "report-bcab0c7e91a1",
-          "title": "A ceasefire in a Ukrainian city is holding, officials say, as Moscow and Kyiv await US-led talks",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeVNqQ3QtR0JRdndEWkJPdXFNXzEzQTlpZ0xjbGZySmhXb2lyTFB6ZlJVdVExUy1wV200dGp0TVFiT09sNVRuemd1UW1sYzloblRWOEU0TVloYm9Fby0wYWtzb3lfMFFBQzJJam1DMjFQYlAwTW1hMlFyRm93ZF9mUk1hbXFRMHlsTnBrSV9nMEtzdjRpa0RxbXJPamVpeGc?oc=5",
+          "id": "report-0ed544bec9d1",
+          "title": "Russia committed war crimes in Ukraine by attacking its energy grid, UN-backed inquiry says",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOckctdmhsdjZTU1FZLThLMWZNbUtFTHlmNDB6bE9ZT2tOeU9yd2NQLTEzVExNeHBJSTZUM1lIYjZpZDhCMmRENGV0aml4ZmpDQWpIUm5YSlVxb2JEdTRaLXJlcHFOSUhLR3M1VGFIVUZNbGJaRklpbGJZWDJldjF3ZlZaN3Y3eDJmaXpMTHZOMGI4ODRHbHFqcHVJTXBQaThUTUdxbktSaFcxQQ?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-28T16:18:00Z"
+          "reportedAt": "2026-10-27T15:25:00Z"
         },
         {
           "id": "report-2bdc59cb7e47",
@@ -2709,15 +2691,6 @@
           "reportedAt": "2026-10-29T11:25:16Z"
         },
         {
-          "id": "report-0ed544bec9d1",
-          "title": "Russia committed war crimes in Ukraine by attacking its energy grid, UN-backed inquiry says",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOckctdmhsdjZTU1FZLThLMWZNbUtFTHlmNDB6bE9ZT2tOeU9yd2NQLTEzVExNeHBJSTZUM1lIYjZpZDhCMmRENGV0aml4ZmpDQWpIUm5YSlVxb2JEdTRaLXJlcHFOSUhLR3M1VGFIVUZNbGJaRklpbGJZWDJldjF3ZlZaN3Y3eDJmaXpMTHZOMGI4ODRHbHFqcHVJTXBQaThUTUdxbktSaFcxQQ?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-27T15:25:00Z"
-        },
-        {
           "id": "report-ea2f13e87bf0",
           "title": "What we know of Vance’s letter to Rezaei, as Trump warns Gulf to ‘prepare’",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZk9HcnJxTU44TTZNeDNNbXZzbFJRUk8xSkJ1NDdueGs5UFdBYzlWdTVHQ0x6Vk5rX3BEanZfTk5NNnFYMHRaUnpYSTd6cGdBMjhLWURZZUlVTEdhbDZzUXNnaUNCS0E5UjJKN09xcTB2M1BQdFgtbWZYOGZYd29lVUx0RFBpRnRSd253V0RCbl9YQ2tGWWhGZTI4S2loT3lrWXlvWTdzRmJadGJweE5qbVN30gG3AUFVX3lxTFAtU2c4d0J1NDF2SUtocUxNNDFqcWhUeGwwZ0pKMEJEX3pJWEtUMlNHaUdMSjdyTGduMmxnWGFhb1NvWm1WLUpCMDZWWDZWaXNwdlZqTzVnV3lranBuQ3hMR0otd21Wa21xcUQwMXM5MGNaR1VXb0ZhcW5ETHBVM2R3QWVWOXNVNVNaUGZtckJ2SS1pcURpdzJvZlZmR2dDdURRVUdnQ3lqUXk3TkdvajBuOUpCZEl1WQ?oc=5",
@@ -2725,6 +2698,33 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-10-29T11:47:09Z"
+        },
+        {
+          "id": "report-15e816f3aad3",
+          "title": "US warns allies to prepare for possible Iran strikes, retaliation after elections, AP sources say",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSjBaT3BqdnFQYS1UeUNSUWJLTUljTWt3NnBfQkxBUmtGMUVYSXNCaEFBc1djNkhnZXl2SnFHTDNXZ2taRzlVc0FPSmVmb1k2WG45clBiMVdWQ3lYRFRtWTA5Zk5ySGdjcnBJNzBhNFJDQU5iRWlsSXYwMWRpTW1jRlBGVzgxYTJuanlYc3d5dkRDaFoycnBLVWIydFY?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-29T02:58:00Z"
+        },
+        {
+          "id": "report-32681bb0ddee",
+          "title": "Damascus, Amman contradict each other on attack that killed civilians",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb2oxajIyamFVeEhiR2E5LThwcWtETG9wY2plRUJua0drS2Q1dGVUNmd2UFM3bHMyQ0xuUmEwTkpCeVFTbDQ3NFdCSW1MRUgtdlJRVzVJMVJwRG9FbV84UHMtLVNfa0dmVElMMEFYQ2VHNkExQUZDczlhdHBCQk11OHg5R3VLd2pWLVhVMDdodFRnb0RQVG02NFZ1TWd0RlM5c1drNjFLS3JkZ3plZGNaWFFza2LSAboBQVVfeXFMTXg3WUJ0STdMYTc2am5oY2g5ZnQ2UGtXZkNaLVh2clNORm5Ja09DaFdWSDZaYkU2WFRDVXpQemNSTFdwS1gtMjBYcmNRVVhYQjVpZXZYMzdLOXNoRThSaTQyTDgwTnlXZDU4REx2QW9uTmZ0THR0Y1N3X3JLYnRwanhMZ2k3bzRmQ1pxeG5ycEZBVk1qSE1xczdmZmZ0elNLeXYyYmVwaFo2dzQ0d0VRSlQ1UzRULVY5Z3Zn?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-29T13:47:25Z"
+        },
+        {
+          "id": "report-8f9562085fe5",
+          "title": "Houthi forces claim six attacks on Saudi airports, oil facilities",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTEhERlpWem04ZnozTFJCeEcwbmNLVkN6eUtjUFgtdDJnNU1iVFVWWExvTU9WQ09EQ3g0SmJYZ011OWh4TTlUd2pKLURkQUljS3VDNzNmcktLMEZYZTRydklucHl3RF9PeDF1VW5QTlFCbEs0U2ZfbEtqdlpVczB5VTBiUFM0VnZ3Mkl6dVdoZWRvanJCS3VmUW9Ma2hwQ18zbFA3T2lmMU5Hd9IBrwFBVV95cUxNNDBlaUpwVUU2NTFwc0ZhYXdwUmxTa2JjdklXNUVudHZDa25DV29LMUZWa2hRRTBtWml6QTA3Y2ZPNEJOMHo3c2RVSDdYbkNLTzBLbWJXczlBZEY4bWQ3dlZ4amtOOGVtUm90MFpXZWQ2cXZSdk1RNnU0R1BQNWtGRG5YUW5ibVBUa2hPSHA0eEVYVGRNS2Nta3V3bE1mTU4zNllDOEV1N2J6MWd2ODlv?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-30T00:15:13Z"
         },
         {
           "id": "report-90df6d38e318",
