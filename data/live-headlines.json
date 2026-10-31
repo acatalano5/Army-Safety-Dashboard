@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T12:23:59.669Z",
+  "generatedAt": "2026-10-31T19:33:54.344Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -9,7 +9,7 @@
       "items": []
     },
     "safety": {
-      "generatedAt": "2026-10-30T20:08:50.844Z",
+      "generatedAt": "2026-10-31T19:33:54.344Z",
       "cadence": "daily",
       "items": [
         {
@@ -37,14 +37,6 @@
           "pinned": false
         },
         {
-          "title": "PLR 26-069 – Motorcycle Mishap Claims One Soldier’s Life",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPd3lNZFBZNnQ5VW5qdzIyYjEtWHNEYW1fUGc0Q3hiZWtTRjNnTjczNWZ0QVFGMWNKWldaQVN2cmNOOE8tSE1pZmxmWkFheDRWR3FlamhqbmNJa3U2eDlIdThJX25rcExkRUg3cGtzWDNXdUxPdWRJM2o4QTdNZlZ3QWZqY1JnaWhRVUFqa21rUXg4QzA0QmVHdVhyb3NjVFJubnNiUl9wb3ozU2dQdHNRMWRwdFNfV1B2RnhBQkJWM0hYOTE2bGJwa0tRZ0hjcXRVajZwdWtPdzRLWW94dVZr?oc=5",
-          "domain": "safety.army.mil",
-          "sourceTier": "Official military source",
-          "seen": "20260930T070000Z",
-          "pinned": false
-        },
-        {
           "title": "PLR 26-071 – Motorcycle Mishap Claims One Soldier’s Life",
           "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQczRZdndTcDBOeFNwWmd6d0dqUG9hVnJwU2tFcTlVNzQ2cFQ4TklRWGx4RmhRWDRucXdHaV9INm5DV1JISHZoTGVNR0t6OGY5M1ZaeTlZRWZqU1lkaTBNV3R0YUJIbGtNTEMwNFdmcWpPazB6Q0RBQzJOWHVLekdRaXNnQXg4bDQ2TkhkZHNFVHNrZEZxeVZySWNQTTVWRk04VkFfSHFUbjV5clZoUldxczJkUWdOZ3ZJNmNZa2pCNXpOdFZhdWxRUllMMURONWlxd29zLTQzUzJwS0ZNMTBF?oc=5",
           "domain": "safety.army.mil",
@@ -55,22 +47,6 @@
         {
           "title": "Mishap Investigation Advice",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc19FY29CaU9ZS05HZ010VnR3R2FGa1JBMFZTb2tZdEJLZkpfRTRLdm9VdGEwallmUi14dGlYNC12dmhYU3ZxaXJrQWJBM25LdmxadFFOanlYUWhkZFhmVTF2NG5iTUtfNHVJaWpiRVZ6UmdoVkxxUlU4OFFVVG13UA?oc=5",
-          "domain": "safety.army.mil",
-          "sourceTier": "Official military source",
-          "seen": "20261025T070000Z",
-          "pinned": false
-        },
-        {
-          "title": "Crash Rescue Products",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WQTh5RzJ4RUhLMVQ0bDhKLVkwSVV1SlFSWTd4ZVBVQVJGMFREUHZSclZWT3d1NG9ReHFjclF4VVRLNGRpUW5qWENyLXJ0VEt3Z2RyeEx5WmxxQTJua2hHdExaVTd6MW1IeXdLZVJZcw?oc=5",
-          "domain": "safety.army.mil",
-          "sourceTier": "Official military source",
-          "seen": "20261025T070000Z",
-          "pinned": false
-        },
-        {
-          "title": "Mishap Reporting & Investigation - USACRC",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQa3N3dHMxU2JBdXZfZmptYXdVWXdzMzdKU2pmcXVFSU5uYmxEWUw0UGQ4OGJ0eXUzbF9MOHgzSEowdTRIY3A4VFpKZnlhcENkazdJdGhwVndlenhPdjRGbDgyRUZEU1NDU2kzUDhFb2NEM0JHTmxLSl9pVzNfSEozUUkyTGFHQVJONTJneEhBOGx4NUtQYjl4dC1nYU1qX0lHQXZUZERuV2JwbElWaHZhbkJockR3Z05GS1FpM1NEQnI2ZHprUUE?oc=5",
           "domain": "safety.army.mil",
           "sourceTier": "Official military source",
           "seen": "20261025T070000Z",
@@ -122,14 +98,6 @@
           "domain": "news.uscg.mil",
           "sourceTier": "Official military source",
           "seen": "20261011T070000Z",
-          "pinned": false
-        },
-        {
-          "title": "Coast Guard, partner agencies suspend search for missing aliens following vessel capsizing in the Mona Passage",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMzdvVWYzSFE0NWstNURuclNnTmVrNEFjMlpGRVBadl8yVkc5QmFQZzZVb0NuMDlHWHJwZ2Vxb0k0M3V5R2FqbVNQbGpiYzFHOGJFRVBVOGlpMk9tRTZqb3B0dVdXOWxDdTVUTTlyS2NkTHU4ZVNnbmlEZ3hIaWpVWTBxTnV4VFhraGlCeWFZWmEzaXY5Rk55VnpwME84a0FPUXJIRy1hSFBMZ09pVzgtdS1oYWttQnV6cEh3VWlHdE9tUWtZd3k4NGJYb1JacVpkUFBF?oc=5",
-          "domain": "news.uscg.mil",
-          "sourceTier": "Official military source",
-          "seen": "20261001T070000Z",
           "pinned": false
         }
       ],
