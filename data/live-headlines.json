@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T06:00:00.394Z",
+  "generatedAt": "2026-11-01T13:20:00.577Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-11-01T06:00:00.394Z",
+      "generatedAt": "2026-11-01T13:20:00.577Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -2265,7 +2265,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-11-01T06:00:00.394Z",
+      "generatedAt": "2026-11-01T13:20:00.577Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -2293,14 +2293,6 @@
           "pinned": false
         },
         {
-          "title": "Houthi forces claim six attacks on Saudi airports, oil facilities",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTEhERlpWem04ZnozTFJCeEcwbmNLVkN6eUtjUFgtdDJnNU1iVFVWWExvTU9WQ09EQ3g0SmJYZ011OWh4TTlUd2pKLURkQUljS3VDNzNmcktLMEZYZTRydklucHl3RF9PeDF1VW5QTlFCbEs0U2ZfbEtqdlpVczB5VTBiUFM0VnZ3Mkl6dVdoZWRvanJCS3VmUW9Ma2hwQ18zbFA3T2lmMU5Hd9IBrwFBVV95cUxNNDBlaUpwVUU2NTFwc0ZhYXdwUmxTa2JjdklXNUVudHZDa25DV29LMUZWa2hRRTBtWml6QTA3Y2ZPNEJOMHo3c2RVSDdYbkNLTzBLbWJXczlBZEY4bWQ3dlZ4amtOOGVtUm90MFpXZWQ2cXZSdk1RNnU0R1BQNWtGRG5YUW5ibVBUa2hPSHA0eEVYVGRNS2Nta3V3bE1mTU4zNllDOEV1N2J6MWd2ODlv?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261030T001513Z",
-          "pinned": false
-        },
-        {
           "title": "Iran warns of unfettered retaliation if attacked as mediators try for peace",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQkhKTDRHUm1CcU9YcEY1OWtxWGZtV1l4TU1EbnRXWWxMcmRkTnlUVjY0MVNldDBwRG1NSUY2QWhKdEExQVBvQ2MxcnU5T2IyTlVnTXhmbzl5RS1wRjFmZ3NCZGJHeDF5eXZLZl9OdkRkT1NVNkVaaWtlZG05YXBmWmxJamdabUZmMW1KNHVoUFBtc21CaVhwdWxfRzljWmZnTVlDSE9jYzN6UkYzNEQ2N0gyWmtESnVK0gG-AUFVX3lxTE9WbXN6bVJjcHNaMHp3bXdRTHJ6TFhtcW5RejJEOWVRYkZxSHhaLUxBT3dqc3E0Wk0xV21ueklxSkZlTk9sMDBabXdHYzNJcjhUNUZCZndjZ2VyWUNkaFlpc0l4dDY4YVd4dXhCalJWVmlzSHVtbENfMy1hNTloNWtEOXg4aUhrZWJLWTRlZGNmRjZOMzZaVm16Nkg2YUhxakxtcWZtQWg3aDNtYzVqbXNGOWxRRFVFZjBEd1M2WVE?oc=5",
           "domain": "aljazeera.com",
@@ -2317,11 +2309,11 @@
           "pinned": false
         },
         {
-          "title": "Ethiopia receives 12 Russian fighter jets and air defence systems as Tigray war escalates",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13Vm9zcWRPR3V4ZmlKaEFVOHVQRGZ1QTRtamp0M1BiRkR5LTBJNlE4anluYmJ4SUhuZGQyQzBWMkw3MFZtMUNfTkFjTHR5Vmhoa1pEckwwV2Rjcmc?oc=5",
-          "domain": "bbc.com",
+          "title": "What we know about latest efforts to end US war on Iran",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRElUanM3UHV6bjRuT0lJVUhKMXNvQldwNzdORkM2NVJYQ2F3OW4tdmxPOUZzVnhoTjhiWDBGLWZmQVFzTXNWRmFFeS1rUklOQ1JKS1JwMlRGelZlQlg2RGNIX21zVnNvdXB4R0pTQ05UYVpPUmlzQzdsaWU1aE9QVDJtb1Z1azFVMTB6RmhieS1uSlREYnBn0gGcAUFVX3lxTE1CcFNUWUFEbGNZd3VISG1GcjBCMjhzTDVHV1NYWFlJMERQSnBMcEIyaVRGb09ab0VyMFBuYlY0SDVCYkhQZHpqYXpVN0pUT3JPbzl4ZnFNN05HZHY5QUlRMmlIZzNPVUd6Ul9WdFdGazZPS2lZR3gyd3ZJbzBNUV9UaS0zOE4tcU1uYXhuY0VHMUdsNDJ2UE9OckppcA?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261029T082331Z",
+          "seen": "20261101T033507Z",
           "pinned": false
         },
         {
@@ -2333,19 +2325,11 @@
           "pinned": false
         },
         {
-          "title": "Hegseth fires the Pentagon’s top military planner even as Trump considers new Iran strikes",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZmVIdU1FSEwxZkxoSnhpcWZPNHFqM0NfT2ZOTDZvQW5XUlVSSGYwTmlaRlhKdXMyRlk1ZVJ2SHpVeVhaTkhiX0FWWHhLdUs4bDU4WjNlV2Z0Vno4VzEzTlRoUkJOeTA5eTVvT3hsY3I4aGswSmVNbWJNTkZzalpUMXhmVTJSVDZEakxodkJLeExNaDh6UHBuVkVvUjZzbEE3?oc=5",
-          "domain": "apnews.com",
+          "title": "A Gulf non-aggression pact could be the path forward",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWkRhbVN4Vm1TOGtZYXZRcWw1b24yTUMwLXZGMDdtYkdBTGNrdHhrOURKTC1UY2lCYUdaMGNndUNBQjZabERwelRydUFiVnN5b04wOEFnVTBMSjZoZ0RkV2VWT05CaDJ5dWdrOG1uclNqWUphWXRHYm9ablRoWnBiRFdVQ0doRC1VVjVneURUYk5FOFVIdFkyYjBfMmJEZ9IBowFBVV95cUxPMkViMjdxOTFlelVpMHA1ekFKc3N6SWVpZjkzdFJJYk1lVU5QS20yZXZ6RW5PamIydXBWZzg3NEZTcDYtemlrWU8xeFVZOTJySXoxNkVndjRRRWFJbFJZSVU3VEl3ajlFWFdaeXB5ZUpZeVE1Z3VqU3MybEN3RWN6c3dnVXhJUWNRdHVVR0VWdUpVSWVmZGhCTHowSVg5Mkx3ekc0?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261029T030200Z",
-          "pinned": false
-        },
-        {
-          "title": "US deploys 10 military cargo planes to Israel amid preparations for possible strike on Iran: Report",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSndRVzFHSnZEYzBSMjR4UlAtN1J5SjE5d3dDZ1NEdGQyVEtObW1fajZwcUpydUtEVnY5N0pYWDI5NF9EeHZBLTNmX0hrYUYxb3ZZMUo4T21reGs0dm5UUTBtY3doazR4alZuaUUwWDZRS0JoSnYwSTYzWm9jNWR4ak9GSE42cnZUdm5ZbE5hYWZsLU5JX0l4Y0Q2eWMwWUpMVU9kcEZYWndRLWtzSkkyUWNPNmJCajdTVWlTUFp3SDBHWlJ6OXJId2ZKdFNjUlJhalBRVDVCcEZic2w2d0V3eFBGOF8?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "seen": "20261029T231724Z",
+          "seen": "20261101T070627Z",
           "pinned": false
         },
         {
@@ -2405,11 +2389,11 @@
           "pinned": false
         },
         {
-          "title": "Strikes on Darfur market in Sudan killed more than 100, rights group says",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNb0x6d2NxdVBNUVZZSG1LQWRPS3NidTYtRHpvLUloclpZSlFfdDktUTA1cWJkM2V2U2haVjBKOUhSQURucXlVQkdjWGZnREZwZzhMdEJwMmQ1WkNoY2NHcDJQUDJwVll4TDBLYjRlX2tTREpCTmk0cnR3bWdadkp5TFFMYWhCOXJrVjg4RHBXckVzWDVDQVYwSHVkM29tcFZGenMzUTA3T2k4cHVJLTYxSl9n0gG3AUFVX3lxTE5ZVllZTkRINDd3ejFaRnd0dTZneTMzSDdyVDhLWDBoNmdLZVdDdG9SUG1RaTJoMmJ1ZEpERGRNUUZZWFJneXhYcjFVVWdUYmw4WjFOWXFnQTFwMmZxc1otZFdlNF9DQVRBVFNidDVQX0FESW9CQ3gzNjlJelZDX3ppM3U2UmtLclpsOU9rZWRFMDRabTVSTzdqZ1VLaVAtNHRDQzYyVWczTDNKazFiS1BpVlZwZzBsVQ?oc=5",
+          "title": "Gaza doctors struggle with bereavement, overwork, trauma amid genocidal war",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQkh1WjBWTTBQeFRKaWN2QWc3bm9IVGd4TkVTeGZsazlXZ21meEZxcUc5eUVSWGM0ZUR2enV3Y3d6UTkwM0hmVTFrdXA1VnJZTmxXSENwRlV4WE5wb19ITTdpaFN4ZTBDZEh2MEVUVUJsNmtCSVRWYmNod3Zsd3FXZ182TmlsMmRTSXB6QzQ5Rm9rbHgzaVlQOWhMdm1aakZELUt5ZndvLWU4VWdmUlB4aUR1RS3SAboBQVVfeXFMT1pDdjhQeXdFeGxRem5zSW1ndVA2QWg2MjlpLURRTmltR1V6OVA1S0NnNWNuZE4xWHJ0OHpfdlpqZ3pIOEo4UDNXRHBEa2xBTWVLeVcyTDZoa3JyNTAteE01YnlTZWlIZEFWOGJKVTlMbjZTTXV6X0xibTBrTkc0TEVfX09QOG1MV1hrSVd1VG9uYnFCdll0SVVjM3M3WTlWcGpuZkNNa29QaERIVmNVNFAxalczVE45V1lR?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261029T025543Z",
+          "seen": "20261101T074538Z",
           "pinned": false
         },
         {
@@ -2421,14 +2405,6 @@
           "pinned": false
         },
         {
-          "title": "'Rush to recover stolen $6bn' and 'War on wind farms'",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLTFRQNGFWdjNDZ1hSNURSalcxRHlUeFc1b1FIeTdpTWhJWVJWWl9YZ3JHSGdCalBTTF9FMzktcXZWV2I3cmRMWjJUTVVwVzM2a1R1TThGc2JiMjA?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261031T052422Z",
-          "pinned": false
-        },
-        {
           "title": "Iran warns war could spread ‘much wider’ if US launches ‘another military adventure’",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNN2EtUThrYVJyQzBKZjNQdXFWYnIxTXFnb2dBM18tVTdsMnZyVUJ5TTJIbHhGU3o2ZDVUTGFRRXg3MFpUck1GVjJFZHF5UXh3VTI3d2xmc25EWmNnMjFlYzBlRkJLaDNJbFFpYzViYmFneFdIUzVhZEltbFRyREJDUEltVktrWTY2dXJWMllmLWJCTTZaQWt3Z2NkZjRVMVBOMlpqOGowdEpNTTBlN2hqN0Z6Si1YcE1oV01KTUsxbHlrYVFG?oc=5",
           "domain": "aa.com.tr",
@@ -2437,11 +2413,11 @@
           "pinned": false
         },
         {
-          "title": "CENTCOM chief briefs Trump on Iran strike options - Al-Monitor",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONmpsOXVncmRBSkN1djBTTVlqYTlsdy1NU2ptYTdUUU1zVEltRk4ta2NzNkpXWmwxUmY1TWd4WGhseUdvWjhLU0lKYjlzUkl5eEowcER1ZThDWVhDNWRpSlV3RVNGUUFmejZnejN3a0VCSVQ3aHd3ejljdUt2Ul9SdlZ3Q1c4Tk9yV2RLMkNhZlU3NldsaVE?oc=5",
-          "domain": "al-monitor.com",
-          "sourceTier": "Regional reporting",
-          "seen": "20261029T203827Z",
+          "title": "'Rush to recover stolen $6bn' and 'War on wind farms'",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLTFRQNGFWdjNDZ1hSNURSalcxRHlUeFc1b1FIeTdpTWhJWVJWWl9YZ3JHSGdCalBTTF9FMzktcXZWV2I3cmRMWjJUTVVwVzM2a1R1TThGc2JiMjA?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261031T052422Z",
           "pinned": false
         },
         {
@@ -2453,11 +2429,35 @@
           "pinned": false
         },
         {
-          "title": "Damascus, Amman contradict each other on attack that killed civilians",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb2oxajIyamFVeEhiR2E5LThwcWtETG9wY2plRUJua0drS2Q1dGVUNmd2UFM3bHMyQ0xuUmEwTkpCeVFTbDQ3NFdCSW1MRUgtdlJRVzVJMVJwRG9FbV84UHMtLVNfa0dmVElMMEFYQ2VHNkExQUZDczlhdHBCQk11OHg5R3VLd2pWLVhVMDdodFRnb0RQVG02NFZ1TWd0RlM5c1drNjFLS3JkZ3plZGNaWFFza2LSAboBQVVfeXFMTXg3WUJ0STdMYTc2am5oY2g5ZnQ2UGtXZkNaLVh2clNORm5Ja09DaFdWSDZaYkU2WFRDVXpQemNSTFdwS1gtMjBYcmNRVVhYQjVpZXZYMzdLOXNoRThSaTQyTDgwTnlXZDU4REx2QW9uTmZ0THR0Y1N3X3JLYnRwanhMZ2k3bzRmQ1pxeG5ycEZBVk1qSE1xczdmZmZ0elNLeXYyYmVwaFo2dzQ0d0VRSlQ1UzRULVY5Z3Zn?oc=5",
+          "title": "German students protest social spending cuts, military conscription plans Saturday",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSlI0dk1MaHR5S3I3cHlVWV9qWVNEaXZ0cFVLWU5iMHU5UHNmUV8zaTFlcW1rVml1TnlpSzVZZ0xCSHBsWmhSMS1NRDYwMWFUeFFMMzM3OUlpOUtiTlhvVk5HUmp1LVZ4RlpwTThiYnEtMDBIZ1JtMTVaSFprMGxNYjljdVBmME1oWVZfUnltN0VlOWpYQjdRTmVVUWFfWmNjNGE5bzZyVUdlNEdJb3dXeENhRHZpSEtIUEk3LUUwYzMzUQ?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20261031T085057Z",
+          "pinned": false
+        },
+        {
+          "title": "Iran's leader says response to attack would have no 'geographic limits,' and other Mideast news",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcC1sSkxtLWVVWVpCXzVQc1pIeHhrdnBEYkY1ZjZmQjQtZE9CdWNOdkFPalphUHVmWTJ0dk1NUUNtX2Y4RVJ1U0FQZ21BM1VkQTFUOU1IVHNRd2kwMGs4c0VqUG81X2hRbVlvU0NCOFRiYjR4TDdhajltTmRRazJBbUotYUs3Q3o0aEg4UDBONEhodw?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261031T222500Z",
+          "pinned": false
+        },
+        {
+          "title": "At least four Palestinians killed in Gaza as Israeli attacks continue",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMzNBRm5Tcjlhb25TTHRJOVdVd0tHRl9wTnY1Nk1lUmU1RlhtaVVsdEJ4Q1Y4Q01HallYV1VVcXpRaDFOVXRYN21CbHNRYlV6akI5Q0wyNEZTSWhwZ281bm5aek94WlpaZFUyVFcyTEZoNFFzeXlWZXYxVzJXdDRoMi1XamVtX1ZEVnFEVzhGTE9aUUw3UFNoRzlkaFpNTWJyYWV0TjJqdTZZbEZMS19rYtIBtgFBVV95cUxPTVdqUERHZnRLbGhqLU84MjljNjhack95TEMxaGxMWU9QdlpqYmk4b2tFWVFsY25peS12TF9HbGdCNlE0SWpSMnU4TUlPcHdwRHA1NENuN3Z3LTZpRGk0Yzg1WU5uYnVlQTloQzduY0ZLd0hoeXhiSnh1NmJXZjlSUm9KM09veWtUZTM0VDRBaEtlamYwdjFJRTV1M1BfekUyQWRXWW9UMmlqWUJPcXNlQWpYd1ZlZw?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261029T134725Z",
+          "seen": "20261031T175526Z",
+          "pinned": false
+        },
+        {
+          "title": "'Painful' years ahead, think tanks warn, as living standards set to fall",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05dGJhbzZWX0F3SFg4dzFWb3ZOSTlPWW1GUnJjM1BVTmNDOWp3REZOWGRPdTVqclliZ096aVZoWUZaLVl3Ny1CSWtGbUFITTJpQ1g4Z04tX3pfV1k?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261029T131924Z",
           "pinned": false
         }
       ],
@@ -2490,15 +2490,6 @@
           "reportedAt": "2026-10-29T16:52:05Z"
         },
         {
-          "id": "report-8f9562085fe5",
-          "title": "Houthi forces claim six attacks on Saudi airports, oil facilities",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTEhERlpWem04ZnozTFJCeEcwbmNLVkN6eUtjUFgtdDJnNU1iVFVWWExvTU9WQ09EQ3g0SmJYZ011OWh4TTlUd2pKLURkQUljS3VDNzNmcktLMEZYZTRydklucHl3RF9PeDF1VW5QTlFCbEs0U2ZfbEtqdlpVczB5VTBiUFM0VnZ3Mkl6dVdoZWRvanJCS3VmUW9Ma2hwQ18zbFA3T2lmMU5Hd9IBrwFBVV95cUxNNDBlaUpwVUU2NTFwc0ZhYXdwUmxTa2JjdklXNUVudHZDa25DV29LMUZWa2hRRTBtWml6QTA3Y2ZPNEJOMHo3c2RVSDdYbkNLTzBLbWJXczlBZEY4bWQ3dlZ4amtOOGVtUm90MFpXZWQ2cXZSdk1RNnU0R1BQNWtGRG5YUW5ibVBUa2hPSHA0eEVYVGRNS2Nta3V3bE1mTU4zNllDOEV1N2J6MWd2ODlv?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-30T00:15:13Z"
-        },
-        {
           "id": "report-8ccc03317586",
           "title": "Iran warns of unfettered retaliation if attacked as mediators try for peace",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQkhKTDRHUm1CcU9YcEY1OWtxWGZtV1l4TU1EbnRXWWxMcmRkTnlUVjY0MVNldDBwRG1NSUY2QWhKdEExQVBvQ2MxcnU5T2IyTlVnTXhmbzl5RS1wRjFmZ3NCZGJHeDF5eXZLZl9OdkRkT1NVNkVaaWtlZG05YXBmWmxJamdabUZmMW1KNHVoUFBtc21CaVhwdWxfRzljWmZnTVlDSE9jYzN6UkYzNEQ2N0gyWmtESnVK0gG-AUFVX3lxTE9WbXN6bVJjcHNaMHp3bXdRTHJ6TFhtcW5RejJEOWVRYkZxSHhaLUxBT3dqc3E0Wk0xV21ueklxSkZlTk9sMDBabXdHYzNJcjhUNUZCZndjZ2VyWUNkaFlpc0l4dDY4YVd4dXhCalJWVmlzSHVtbENfMy1hNTloNWtEOXg4aUhrZWJLWTRlZGNmRjZOMzZaVm16Nkg2YUhxakxtcWZtQWg3aDNtYzVqbXNGOWxRRFVFZjBEd1M2WVE?oc=5",
@@ -2517,13 +2508,13 @@
           "reportedAt": "2026-10-30T13:01:59Z"
         },
         {
-          "id": "report-d112a414ad2e",
-          "title": "Ethiopia receives 12 Russian fighter jets and air defence systems as Tigray war escalates",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13Vm9zcWRPR3V4ZmlKaEFVOHVQRGZ1QTRtamp0M1BiRkR5LTBJNlE4anluYmJ4SUhuZGQyQzBWMkw3MFZtMUNfTkFjTHR5Vmhoa1pEckwwV2Rjcmc?oc=5",
-          "domain": "bbc.com",
+          "id": "report-c795db21dd60",
+          "title": "What we know about latest efforts to end US war on Iran",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRElUanM3UHV6bjRuT0lJVUhKMXNvQldwNzdORkM2NVJYQ2F3OW4tdmxPOUZzVnhoTjhiWDBGLWZmQVFzTXNWRmFFeS1rUklOQ1JKS1JwMlRGelZlQlg2RGNIX21zVnNvdXB4R0pTQ05UYVpPUmlzQzdsaWU1aE9QVDJtb1Z1azFVMTB6RmhieS1uSlREYnBn0gGcAUFVX3lxTE1CcFNUWUFEbGNZd3VISG1GcjBCMjhzTDVHV1NYWFlJMERQSnBMcEIyaVRGb09ab0VyMFBuYlY0SDVCYkhQZHpqYXpVN0pUT3JPbzl4ZnFNN05HZHY5QUlRMmlIZzNPVUd6Ul9WdFdGazZPS2lZR3gyd3ZJbzBNUV9UaS0zOE4tcU1uYXhuY0VHMUdsNDJ2UE9OckppcA?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-29T08:23:31Z"
+          "reportedAt": "2026-11-01T03:35:07Z"
         },
         {
           "id": "report-5cd0c78be4bd",
@@ -2535,22 +2526,13 @@
           "reportedAt": "2026-10-30T10:06:56Z"
         },
         {
-          "id": "report-f431b13f309c",
-          "title": "Hegseth fires the Pentagon’s top military planner even as Trump considers new Iran strikes",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZmVIdU1FSEwxZkxoSnhpcWZPNHFqM0NfT2ZOTDZvQW5XUlVSSGYwTmlaRlhKdXMyRlk1ZVJ2SHpVeVhaTkhiX0FWWHhLdUs4bDU4WjNlV2Z0Vno4VzEzTlRoUkJOeTA5eTVvT3hsY3I4aGswSmVNbWJNTkZzalpUMXhmVTJSVDZEakxodkJLeExNaDh6UHBuVkVvUjZzbEE3?oc=5",
-          "domain": "apnews.com",
+          "id": "report-2a4ce2244329",
+          "title": "A Gulf non-aggression pact could be the path forward",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWkRhbVN4Vm1TOGtZYXZRcWw1b24yTUMwLXZGMDdtYkdBTGNrdHhrOURKTC1UY2lCYUdaMGNndUNBQjZabERwelRydUFiVnN5b04wOEFnVTBMSjZoZ0RkV2VWT05CaDJ5dWdrOG1uclNqWUphWXRHYm9ablRoWnBiRFdVQ0doRC1VVjVneURUYk5FOFVIdFkyYjBfMmJEZ9IBowFBVV95cUxPMkViMjdxOTFlelVpMHA1ekFKc3N6SWVpZjkzdFJJYk1lVU5QS20yZXZ6RW5PamIydXBWZzg3NEZTcDYtemlrWU8xeFVZOTJySXoxNkVndjRRRWFJbFJZSVU3VEl3ajlFWFdaeXB5ZUpZeVE1Z3VqU3MybEN3RWN6c3dnVXhJUWNRdHVVR0VWdUpVSWVmZGhCTHowSVg5Mkx3ekc0?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-29T03:02:00Z"
-        },
-        {
-          "id": "report-729ccdce9314",
-          "title": "US deploys 10 military cargo planes to Israel amid preparations for possible strike on Iran: Report",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSndRVzFHSnZEYzBSMjR4UlAtN1J5SjE5d3dDZ1NEdGQyVEtObW1fajZwcUpydUtEVnY5N0pYWDI5NF9EeHZBLTNmX0hrYUYxb3ZZMUo4T21reGs0dm5UUTBtY3doazR4alZuaUUwWDZRS0JoSnYwSTYzWm9jNWR4ak9GSE42cnZUdm5ZbE5hYWZsLU5JX0l4Y0Q2eWMwWUpMVU9kcEZYWndRLWtzSkkyUWNPNmJCajdTVWlTUFp3SDBHWlJ6OXJId2ZKdFNjUlJhalBRVDVCcEZic2w2d0V3eFBGOF8?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
-          "reportedAt": "2026-10-29T23:17:24Z"
+          "reportedAt": "2026-11-01T07:06:27Z"
         },
         {
           "id": "report-2481433b857e",
@@ -2616,13 +2598,13 @@
           "reportedAt": "2026-10-31T02:50:09Z"
         },
         {
-          "id": "report-95d28985699e",
-          "title": "Strikes on Darfur market in Sudan killed more than 100, rights group says",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNb0x6d2NxdVBNUVZZSG1LQWRPS3NidTYtRHpvLUloclpZSlFfdDktUTA1cWJkM2V2U2haVjBKOUhSQURucXlVQkdjWGZnREZwZzhMdEJwMmQ1WkNoY2NHcDJQUDJwVll4TDBLYjRlX2tTREpCTmk0cnR3bWdadkp5TFFMYWhCOXJrVjg4RHBXckVzWDVDQVYwSHVkM29tcFZGenMzUTA3T2k4cHVJLTYxSl9n0gG3AUFVX3lxTE5ZVllZTkRINDd3ejFaRnd0dTZneTMzSDdyVDhLWDBoNmdLZVdDdG9SUG1RaTJoMmJ1ZEpERGRNUUZZWFJneXhYcjFVVWdUYmw4WjFOWXFnQTFwMmZxc1otZFdlNF9DQVRBVFNidDVQX0FESW9CQ3gzNjlJelZDX3ppM3U2UmtLclpsOU9rZWRFMDRabTVSTzdqZ1VLaVAtNHRDQzYyVWczTDNKazFiS1BpVlZwZzBsVQ?oc=5",
+          "id": "report-c7d49a3d7fa8",
+          "title": "Gaza doctors struggle with bereavement, overwork, trauma amid genocidal war",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQkh1WjBWTTBQeFRKaWN2QWc3bm9IVGd4TkVTeGZsazlXZ21meEZxcUc5eUVSWGM0ZUR2enV3Y3d6UTkwM0hmVTFrdXA1VnJZTmxXSENwRlV4WE5wb19ITTdpaFN4ZTBDZEh2MEVUVUJsNmtCSVRWYmNod3Zsd3FXZ182TmlsMmRTSXB6QzQ5Rm9rbHgzaVlQOWhMdm1aakZELUt5ZndvLWU4VWdmUlB4aUR1RS3SAboBQVVfeXFMT1pDdjhQeXdFeGxRem5zSW1ndVA2QWg2MjlpLURRTmltR1V6OVA1S0NnNWNuZE4xWHJ0OHpfdlpqZ3pIOEo4UDNXRHBEa2xBTWVLeVcyTDZoa3JyNTAteE01YnlTZWlIZEFWOGJKVTlMbjZTTXV6X0xibTBrTkc0TEVfX09QOG1MV1hrSVd1VG9uYnFCdll0SVVjM3M3WTlWcGpuZkNNa29QaERIVmNVNFAxalczVE45V1lR?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-29T02:55:43Z"
+          "reportedAt": "2026-11-01T07:45:38Z"
         },
         {
           "id": "report-d2783eb7b8fa",
@@ -2634,15 +2616,6 @@
           "reportedAt": "2026-10-29T17:46:15Z"
         },
         {
-          "id": "report-b6da00474e8a",
-          "title": "'Rush to recover stolen $6bn' and 'War on wind farms'",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLTFRQNGFWdjNDZ1hSNURSalcxRHlUeFc1b1FIeTdpTWhJWVJWWl9YZ3JHSGdCalBTTF9FMzktcXZWV2I3cmRMWjJUTVVwVzM2a1R1TThGc2JiMjA?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-31T05:24:22Z"
-        },
-        {
           "id": "report-e85f5f3e2df8",
           "title": "Iran warns war could spread ‘much wider’ if US launches ‘another military adventure’",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNN2EtUThrYVJyQzBKZjNQdXFWYnIxTXFnb2dBM18tVTdsMnZyVUJ5TTJIbHhGU3o2ZDVUTGFRRXg3MFpUck1GVjJFZHF5UXh3VTI3d2xmc25EWmNnMjFlYzBlRkJLaDNJbFFpYzViYmFneFdIUzVhZEltbFRyREJDUEltVktrWTY2dXJWMllmLWJCTTZaQWt3Z2NkZjRVMVBOMlpqOGowdEpNTTBlN2hqN0Z6Si1YcE1oV01KTUsxbHlrYVFG?oc=5",
@@ -2652,13 +2625,13 @@
           "reportedAt": "2026-10-31T09:44:13Z"
         },
         {
-          "id": "report-e04aad13d780",
-          "title": "CENTCOM chief briefs Trump on Iran strike options - Al-Monitor",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONmpsOXVncmRBSkN1djBTTVlqYTlsdy1NU2ptYTdUUU1zVEltRk4ta2NzNkpXWmwxUmY1TWd4WGhseUdvWjhLU0lKYjlzUkl5eEowcER1ZThDWVhDNWRpSlV3RVNGUUFmejZnejN3a0VCSVQ3aHd3ejljdUt2Ul9SdlZ3Q1c4Tk9yV2RLMkNhZlU3NldsaVE?oc=5",
-          "domain": "al-monitor.com",
-          "sourceTier": "Regional reporting",
-          "confidenceLabel": "REGIONAL REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-29T20:38:27Z"
+          "id": "report-b6da00474e8a",
+          "title": "'Rush to recover stolen $6bn' and 'War on wind farms'",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLTFRQNGFWdjNDZ1hSNURSalcxRHlUeFc1b1FIeTdpTWhJWVJWWl9YZ3JHSGdCalBTTF9FMzktcXZWV2I3cmRMWjJUTVVwVzM2a1R1TThGc2JiMjA?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-31T05:24:22Z"
         },
         {
           "id": "report-0add1511dedb",
@@ -2670,13 +2643,40 @@
           "reportedAt": "2026-10-29T11:25:16Z"
         },
         {
-          "id": "report-32681bb0ddee",
-          "title": "Damascus, Amman contradict each other on attack that killed civilians",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb2oxajIyamFVeEhiR2E5LThwcWtETG9wY2plRUJua0drS2Q1dGVUNmd2UFM3bHMyQ0xuUmEwTkpCeVFTbDQ3NFdCSW1MRUgtdlJRVzVJMVJwRG9FbV84UHMtLVNfa0dmVElMMEFYQ2VHNkExQUZDczlhdHBCQk11OHg5R3VLd2pWLVhVMDdodFRnb0RQVG02NFZ1TWd0RlM5c1drNjFLS3JkZ3plZGNaWFFza2LSAboBQVVfeXFMTXg3WUJ0STdMYTc2am5oY2g5ZnQ2UGtXZkNaLVh2clNORm5Ja09DaFdWSDZaYkU2WFRDVXpQemNSTFdwS1gtMjBYcmNRVVhYQjVpZXZYMzdLOXNoRThSaTQyTDgwTnlXZDU4REx2QW9uTmZ0THR0Y1N3X3JLYnRwanhMZ2k3bzRmQ1pxeG5ycEZBVk1qSE1xczdmZmZ0elNLeXYyYmVwaFo2dzQ0d0VRSlQ1UzRULVY5Z3Zn?oc=5",
+          "id": "report-eaccfba351be",
+          "title": "German students protest social spending cuts, military conscription plans Saturday",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSlI0dk1MaHR5S3I3cHlVWV9qWVNEaXZ0cFVLWU5iMHU5UHNmUV8zaTFlcW1rVml1TnlpSzVZZ0xCSHBsWmhSMS1NRDYwMWFUeFFMMzM3OUlpOUtiTlhvVk5HUmp1LVZ4RlpwTThiYnEtMDBIZ1JtMTVaSFprMGxNYjljdVBmME1oWVZfUnltN0VlOWpYQjdRTmVVUWFfWmNjNGE5bzZyVUdlNEdJb3dXeENhRHZpSEtIUEk3LUUwYzMzUQ?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-10-31T08:50:57Z"
+        },
+        {
+          "id": "report-be9fa3b0d337",
+          "title": "Iran's leader says response to attack would have no 'geographic limits,' and other Mideast news",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcC1sSkxtLWVVWVpCXzVQc1pIeHhrdnBEYkY1ZjZmQjQtZE9CdWNOdkFPalphUHVmWTJ0dk1NUUNtX2Y4RVJ1U0FQZ21BM1VkQTFUOU1IVHNRd2kwMGs4c0VqUG81X2hRbVlvU0NCOFRiYjR4TDdhajltTmRRazJBbUotYUs3Q3o0aEg4UDBONEhodw?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-31T22:25:00Z"
+        },
+        {
+          "id": "report-629cb61e77ad",
+          "title": "At least four Palestinians killed in Gaza as Israeli attacks continue",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMzNBRm5Tcjlhb25TTHRJOVdVd0tHRl9wTnY1Nk1lUmU1RlhtaVVsdEJ4Q1Y4Q01HallYV1VVcXpRaDFOVXRYN21CbHNRYlV6akI5Q0wyNEZTSWhwZ281bm5aek94WlpaZFUyVFcyTEZoNFFzeXlWZXYxVzJXdDRoMi1XamVtX1ZEVnFEVzhGTE9aUUw3UFNoRzlkaFpNTWJyYWV0TjJqdTZZbEZMS19rYtIBtgFBVV95cUxPTVdqUERHZnRLbGhqLU84MjljNjhack95TEMxaGxMWU9QdlpqYmk4b2tFWVFsY25peS12TF9HbGdCNlE0SWpSMnU4TUlPcHdwRHA1NENuN3Z3LTZpRGk0Yzg1WU5uYnVlQTloQzduY0ZLd0hoeXhiSnh1NmJXZjlSUm9KM09veWtUZTM0VDRBaEtlamYwdjFJRTV1M1BfekUyQWRXWW9UMmlqWUJPcXNlQWpYd1ZlZw?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-29T13:47:25Z"
+          "reportedAt": "2026-10-31T17:55:26Z"
+        },
+        {
+          "id": "report-252f5a2b757c",
+          "title": "'Painful' years ahead, think tanks warn, as living standards set to fall",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05dGJhbzZWX0F3SFg4dzFWb3ZOSTlPWW1GUnJjM1BVTmNDOWp3REZOWGRPdTVqclliZ096aVZoWUZaLVl3Ny1CSWtGbUFITTJpQ1g4Z04tX3pfV1k?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-29T13:19:24Z"
         },
         {
           "id": "report-90df6d38e318",
