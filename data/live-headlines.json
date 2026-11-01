@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T13:20:00.577Z",
+  "generatedAt": "2026-11-01T19:54:19.424Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -9,7 +9,7 @@
       "items": []
     },
     "safety": {
-      "generatedAt": "2026-10-31T19:33:54.344Z",
+      "generatedAt": "2026-11-01T19:54:19.424Z",
       "cadence": "daily",
       "items": [
         {
@@ -19,6 +19,22 @@
           "sourceTier": "Official / intergovernmental",
           "seen": "20250129T204800Z",
           "pinned": true
+        },
+        {
+          "title": "US military says 5 were killed by a strike on an alleged drug boat in the eastern Pacific",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY3BpbmZocXhobXlNU0FiNi15VGpBbXJ5aHgxY29OMXA4cDNETS1aNEtnel9XTURZTWE1VUZ3YmVzMDhtNHJSZEY0eVFhR1hxdVYzSlJ6ZkdyRnllNEZIN1dWLXFFalVjMFBqTVk4Y05ySVNnanQ1YnM2ejFLNEFXbkJoWlNlaF9WdGQ2ZUlmSHRNN19TQlR1elI5MUM3QkJGaTBYa1d2blo1NmJiYU9rbzJERHVWN2p0elE?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261027T174600Z",
+          "pinned": false
+        },
+        {
+          "title": "Four Philippine Air Force pilots killed in training accident",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUkZPOHk1VnhKNVhxNUVsNzg1VGdBWG1lYUFmLUptalZfVlJkMjJfVWU5MTh5TmhaZmZvRmZDbVNnRjZSb01GcV8tZWg1YlY2OVhZanBoV0NRMTZQbnd6eUhoOGlVekhkTkVrbXFCN1ZWTTF3UHVFRWdWZXdsWGkxUXhybVBhMlV6VDhGZ1JjcG5HNHRoWGhvRGxQSWYyVklyUkVsS01ZMGxyY0t6UlpkT3J3?oc=5",
+          "domain": "reuters.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261023T070000Z",
+          "pinned": false
         },
         {
           "title": "US military’s drug boat strikes have now killed at least 240 people",
@@ -34,6 +50,14 @@
           "domain": "safety.army.mil",
           "sourceTier": "Official military source",
           "seen": "20261008T070000Z",
+          "pinned": false
+        },
+        {
+          "title": "PLR 26-072 – Automobile Mishap Claims One Soldier’s Life",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbzBQbzN3NkRnbDhkaUdTWUt3ZHR3R3JaOHhKZkZySklJdVRWbDNLb3Bxb1J6ZXFaSUVSbC02V2tGbmFGVXVveXVDUnJIZzlEbHJwSzBNYUxqRVI4eGFjWWdBWWVDVW1KT29LMXBGUHhldTVzMWxMdGZMZkpZMmpRWHMzRVc5X0E0YUlXZmQzR0NlU1VZbk55V3Z2RDQzVFZ2Y1RzX2w1VFRaRm1VQzBrV2lVZUVKU0pmM2R5S1IyTkdtNXVwZ3N0N1FYbTZnR0ZYcjIyaWk5ZHYyWVU0eGpz?oc=5",
+          "domain": "safety.army.mil",
+          "sourceTier": "Official military source",
+          "seen": "20261008T203919Z",
           "pinned": false
         },
         {
@@ -103,24 +127,6 @@
       ],
       "incidents": [
         {
-          "id": "auto-1b32012f32cd",
-          "reportDate": "2026-10-27",
-          "dateBasis": "report discovery date",
-          "branch": "Army",
-          "department": "Department of the Army",
-          "type": "Maritime",
-          "event": "US military’s drug boat strikes have now killed at least 240 people",
-          "location": "See official source",
-          "fatalities": null,
-          "injuries": null,
-          "status": "REPORTED / UNVALIDATED",
-          "signalClass": "REPORTED MISHAP",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
-          "source": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4taVVwVmM3VGVDR0tGSXRtQ0dQX3Y0ZFBrQ3pDOXYza2ZNV2ttV1hoamFZZks1R0hNcFctRkdaTG95UGZoZVlIWHUzVkNMdDhvZFRZMUNKQ1B0OGNMbVhiVlp3QXFPd1lNRDhqVEs1Yw?oc=5",
-          "sourceLabel": "taskandpurpose.com"
-        },
-        {
           "id": "auto-0742cf9ea4e3",
           "reportDate": "2026-10-27",
           "dateBasis": "report discovery date",
@@ -137,6 +143,24 @@
           "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
           "source": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY3BpbmZocXhobXlNU0FiNi15VGpBbXJ5aHgxY29OMXA4cDNETS1aNEtnel9XTURZTWE1VUZ3YmVzMDhtNHJSZEY0eVFhR1hxdVYzSlJ6ZkdyRnllNEZIN1dWLXFFalVjMFBqTVk4Y05ySVNnanQ1YnM2ejFLNEFXbkJoWlNlaF9WdGQ2ZUlmSHRNN19TQlR1elI5MUM3QkJGaTBYa1d2blo1NmJiYU9rbzJERHVWN2p0elE?oc=5",
           "sourceLabel": "apnews.com"
+        },
+        {
+          "id": "auto-1b32012f32cd",
+          "reportDate": "2026-10-27",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Maritime",
+          "event": "US military’s drug boat strikes have now killed at least 240 people",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4taVVwVmM3VGVDR0tGSXRtQ0dQX3Y0ZFBrQ3pDOXYza2ZNV2ttV1hoamFZZks1R0hNcFctRkdaTG95UGZoZVlIWHUzVkNMdDhvZFRZMUNKQ1B0OGNMbVhiVlp3QXFPd1lNRDhqVEs1Yw?oc=5",
+          "sourceLabel": "taskandpurpose.com"
         },
         {
           "id": "auto-200eb78bd1e4",
@@ -212,7 +236,7 @@
         },
         {
           "id": "auto-91ff9ae81e65",
-          "reportDate": "2026-10-24",
+          "reportDate": "2026-10-23",
           "dateBasis": "report discovery date",
           "branch": "Air Force",
           "department": "Department of the Air Force",
@@ -355,6 +379,24 @@
           "sourceLabel": "safety.army.mil"
         },
         {
+          "id": "auto-b18187ac61d5",
+          "reportDate": "2026-10-08",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Other",
+          "event": "PLR 26-072 – Automobile Mishap Claims One Soldier’s Life",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "OFFICIAL INTAKE",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Official military source",
+          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
+          "source": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbzBQbzN3NkRnbDhkaUdTWUt3ZHR3R3JaOHhKZkZySklJdVRWbDNLb3Bxb1J6ZXFaSUVSbC02V2tGbmFGVXVveXVDUnJIZzlEbHJwSzBNYUxqRVI4eGFjWWdBWWVDVW1KT29LMXBGUHhldTVzMWxMdGZMZkpZMmpRWHMzRVc5X0E0YUlXZmQzR0NlU1VZbk55V3Z2RDQzVFZ2Y1RzX2w1VFRaRm1VQzBrV2lVZUVKU0pmM2R5S1IyTkdtNXVwZ3N0N1FYbTZnR0ZYcjIyaWk5ZHYyWVU0eGpz?oc=5",
+          "sourceLabel": "safety.army.mil"
+        },
+        {
           "id": "auto-e6a179383909",
           "reportDate": "2026-10-08",
           "dateBasis": "report discovery date",
@@ -389,24 +431,6 @@
           "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
           "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOWJHdDFRN0k4aGVaekpLOFRIWkpKSWVMdXV0X0hoRHpMVXRxc2xuRFZyVm1KR3dEQmlTRFZfV2dpN0lmZUlGN0xfYzdZbUtJWnJBSnFST1VUMTB6cExMQmp5djAwSGxVLU5nRUd0TG5xSGtLb1lfRGdLYTA4dlZaa3l3d3d1NzZ0RDBMZGNwdEJ5WmF4SGxzOHA0MWJLZWlHQ0dWd2hVc2c?oc=5",
           "sourceLabel": "dvidshub.net"
-        },
-        {
-          "id": "auto-b18187ac61d5",
-          "reportDate": "2026-10-08",
-          "dateBasis": "report discovery date",
-          "branch": "Army",
-          "department": "Department of the Army",
-          "type": "Other",
-          "event": "PLR 26-072 – Automobile Mishap Claims One Soldier’s Life",
-          "location": "See official source",
-          "fatalities": null,
-          "injuries": null,
-          "status": "OFFICIAL INTAKE",
-          "signalClass": "REPORTED MISHAP",
-          "sourceTier": "Official military source",
-          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
-          "source": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbzBQbzN3NkRnbDhkaUdTWUt3ZHR3R3JaOHhKZkZySklJdVRWbDNLb3Bxb1J6ZXFaSUVSbC02V2tGbmFGVXVveXVDUnJIZzlEbHJwSzBNYUxqRVI4eGFjWWdBWWVDVW1KT29LMXBGUHhldTVzMWxMdGZMZkpZMmpRWHMzRVc5X0E0YUlXZmQzR0NlU1VZbk55V3Z2RDQzVFZ2Y1RzX2w1VFRaRm1VQzBrV2lVZUVKU0pmM2R5S1IyTkdtNXVwZ3N0N1FYbTZnR0ZYcjIyaWk5ZHYyWVU0eGpz?oc=5",
-          "sourceLabel": "safety.army.mil"
         },
         {
           "id": "auto-542bd4a80ff2",
