@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T21:32:41.963Z",
+  "generatedAt": "2026-11-01T06:00:00.394Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-10-31T21:32:41.963Z",
+      "generatedAt": "2026-11-01T06:00:00.394Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -2265,7 +2265,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-10-31T21:32:41.963Z",
+      "generatedAt": "2026-11-01T06:00:00.394Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -2293,14 +2293,6 @@
           "pinned": false
         },
         {
-          "title": "Sudan war and inflation leave families struggling to survive in Khartoum",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcXBFYXVkMjN1YnVpQm5GVFg1aGt0UlZaQzVUWVJTUVk4NzB0QmY4c1EzakNIcTAwZ0RGMmdRMW54VXYtdXk1ejloc3l0YzJyRzh3OEx3UmNzOFNfblRSQWRVRXE4U0hxWnhkQkh5X2NWNnVzOG9kY3FTNVBMeHc0MnJHNkhvTThQTDBWbWpCQjhjUHhnbzJvR0dhMmhEbTJCYktLdV93LUdYTXYzdEc2MnRFbEVMVGVqQnfSAb8BQVVfeXFMT1laVFdPaG1oQVlqdk55OUNjYnRLQkpyVmt1ei1EdktNb0FldWlUZDJWVjNfd0FhZjZiaUdGb1VkYlU0TXUyVFdtSmdWZUdqSUtVSWxXV2twcGl0ZWM1SUR6VF9KNHhTM2paa3hhQjBXSGY4cDk2SklNRUFDUzdUU1Z5OVotOUE0U1l0UnE1M2xkSXdGejlYTGIxMWFNS1BYemtzaDl6QTNDdVNycVA3d3FSbVZuWjhWdXRXYWFFQmM?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261028T172129Z",
-          "pinned": false
-        },
-        {
           "title": "Houthi forces claim six attacks on Saudi airports, oil facilities",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTEhERlpWem04ZnozTFJCeEcwbmNLVkN6eUtjUFgtdDJnNU1iVFVWWExvTU9WQ09EQ3g0SmJYZ011OWh4TTlUd2pKLURkQUljS3VDNzNmcktLMEZYZTRydklucHl3RF9PeDF1VW5QTlFCbEs0U2ZfbEtqdlpVczB5VTBiUFM0VnZ3Mkl6dVdoZWRvanJCS3VmUW9Ma2hwQ18zbFA3T2lmMU5Hd9IBrwFBVV95cUxNNDBlaUpwVUU2NTFwc0ZhYXdwUmxTa2JjdklXNUVudHZDa25DV29LMUZWa2hRRTBtWml6QTA3Y2ZPNEJOMHo3c2RVSDdYbkNLTzBLbWJXczlBZEY4bWQ3dlZ4amtOOGVtUm90MFpXZWQ2cXZSdk1RNnU0R1BQNWtGRG5YUW5ibVBUa2hPSHA0eEVYVGRNS2Nta3V3bE1mTU4zNllDOEV1N2J6MWd2ODlv?oc=5",
           "domain": "aljazeera.com",
@@ -2317,27 +2309,11 @@
           "pinned": false
         },
         {
-          "title": "The Global Story | Did Melania Trump broker a ceasefire in Ukraine?",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE80WU5pRG9xV0FGbVRwYndBNEVYVjNaU3JfU09FdlZHUjBRZFFQNmYwU3RpalhWNjlQbkNiQ2tsS2pENHFvaVl0dVdiNjdkNXhL?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261028T110624Z",
-          "pinned": false
-        },
-        {
           "title": "Senators briefed on Trump’s ‘insane’ plan to restart war on Iran",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPekJWWndObXJPMFhyRlJSczctMGhIWndLcWpuZEFNMkw3eUt2WmNvUUQwR0luTGl6anBBTWR5T0Y1aWZSYW9jeVhoaWFucmNCS1UwVkxrX2xEdGJEVm1NWlBjYmN4VlJFbV9VeVBNRlJUbWdNeC1FUmtKUTVYektKNlZNTzhtbU9BdWtHc240dXBjc3VTUDJYcDMxakRmdnY5Q0lqSHJ4WkpPcGVheWRFMl9Td9IBuAFBVV95cUxNQ21hclNVWFJRUGN3eGhrY0xEQ2tlYllNN1JYa0REMmhtanB5Y2p4Q1hSSURIY1RNR3E5S2tBb1ExQ2NFemFlZ0tBaE0tUWFRZG5tdDk5VWdWMXFQbzctaDc1M2xOd05IcXg1dG9jZExEeE0xTVlndTBaOEUxN1MxMjlxZVZWUWJGMktjZFhXeUJlQW01ZlZiMDlwamtqYU5OX2VidGpYeUpDT01WbHZFdHhhN2hsUkhv?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20261030T130159Z",
-          "pinned": false
-        },
-        {
-          "title": "US warns Gulf states of possible 'short, intense' Iran war after midterms: Report",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWkpXRWZ5a3NQZlo5MllGUFAzQm5fbU0tUzdKZXAyeWxBZ3Y4ajM4YUtVa19nODEyb1dUYzBFVlFmelJpdXZsT0lHbjFWMEt4VHBRZHRKdEJLd2RzLWVqaDgyYkNVb1lvalJxWGtBSFY1cjNoenl3RzE0ZEpiSVNjd0JEWkp3cEVrMHZ6eTJpeFlHcjRBaW1vUC1rbDJUYXJYUGc2eXBWdjFmMS0wMll6SnhoRVVKMm1fdkpz?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "seen": "20261028T021850Z",
           "pinned": false
         },
         {
@@ -2381,6 +2357,14 @@
           "pinned": false
         },
         {
+          "title": "Turkiye’s Erdogan urges Russia and Ukraine to stop Black Sea attacks",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbUtSSWRMZXhYSWQ0dzdObGp6d1NTQnVBaEhSWHFSaVU0MkFxV2ZNclVpNWd1MEtKak9VQVpieUx4X1hLUzNLU1pHUXp3UzRJUDhpRzlObUlzZWxaLUdSV0MxZ0xZTkhtNEg0dDFUMWFWNER2c05IdFdLMy14Q0t4MWhXaWVob280dFA1cWM2VWFid1E5bnZtTlJpVHc3N0l4TGFCZjRiZ3p4SEdDZWfSAbMBQVVfeXFMT2RPZEdiMUlpVk84cjY4SUtITU40LWE3cVk1dXAzTmt1S2JhMVhzNWZ3UmgyRGREWFQ5SEhRWU1ubkwzRW9TTENpa2ZMMFBycVdfUC1Za0xZX2M2OFNEOUFveEtSQ1FBMzc1bzdiRzB1OVQzVDY0THpiZDZnZWdsSGFZRWhHaWgzM3VtelQ2aGpOVFpBajE1UWZic0psOG01ZFhNV3hOTkl1dkFpc19WRE1mQUk?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261031T201120Z",
+          "pinned": false
+        },
+        {
           "title": "Qatari officials in Iran in bid to revive ceasefire deal with US",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSDdnbjUwcjA0SXkzWlVXOFZsREJjcjR1dV80T25uVTVHeEExZkRwSjlIWHoxXy1xWnk5MnRkblhvcHpDTDEtWDF1VGRoTVVrWmZIUWRkSEdyd0VTLWFSSkRtTkdLZlBVdHFfWWlXd3FjWDJDTjFyTWxuYkdyVGdnZFVibWRhczJ3WmhhUmJWUTdsNTdXUWxqalpiSloyQTI3OWpzSHNESkdzUdIBrwFBVV95cUxNVXZ2X0l5M0gzLXExaUNPZ0RHem0zVzBMX3ExbURWZU9CZVVmRnM1dUExY2ljY1Q3VDYwSm5pNExMWDZ3Vmo2cy1kUk9WTWlmWjhLYmZRcXlPY2JHSHlkSzFEUlVtODlpcktaUk9MejdGek9jWGhyS1V5QkdTUDMwaVg0UnVYdE1UMVVyNEZINUZiMllkQTNia01ZVHhPUmxtS2F4RVZvVkcxOGdoYjU4?oc=5",
           "domain": "aljazeera.com",
@@ -2413,14 +2397,6 @@
           "pinned": false
         },
         {
-          "title": "Strikes on Darfur market in Sudan killed more than 100, rights group says",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNb0x6d2NxdVBNUVZZSG1LQWRPS3NidTYtRHpvLUloclpZSlFfdDktUTA1cWJkM2V2U2haVjBKOUhSQURucXlVQkdjWGZnREZwZzhMdEJwMmQ1WkNoY2NHcDJQUDJwVll4TDBLYjRlX2tTREpCTmk0cnR3bWdadkp5TFFMYWhCOXJrVjg4RHBXckVzWDVDQVYwSHVkM29tcFZGenMzUTA3T2k4cHVJLTYxSl9n0gG3AUFVX3lxTE5ZVllZTkRINDd3ejFaRnd0dTZneTMzSDdyVDhLWDBoNmdLZVdDdG9SUG1RaTJoMmJ1ZEpERGRNUUZZWFJneXhYcjFVVWdUYmw4WjFOWXFnQTFwMmZxc1otZFdlNF9DQVRBVFNidDVQX0FESW9CQ3gzNjlJelZDX3ppM3U2UmtLclpsOU9rZWRFMDRabTVSTzdqZ1VLaVAtNHRDQzYyVWczTDNKazFiS1BpVlZwZzBsVQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261029T025543Z",
-          "pinned": false
-        },
-        {
           "title": "Hundreds evacuated from Melania-brokered ceasefire town of Oleshky",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb2E2RjkzMTJhSW4yMzVyTHVhd2dpb1llRFdmNTV3TC15Vld5aTFucjRsdVVyOEpRazBlWFBaZTk3MVdrVEhCbXZvRGpvb1hzbGlVdEJhb0EyZDBrdWlCWHBYSWFjV3lFa01Pb1pLdDBtUXgxUk1tbE9ia1JIeVhub05Xdml4UElMbmxueWFzUjhUMU5DUWQ0c0VtQklKbG1DdlhNdWJtcGFSMHJJWlNkS3EwZW5DY3hZU0HSAb8BQVVfeXFMTUc2bktLdDA1djhUQjZRYnJ5blB2UVJtZGRPZVNyNThIb3czVW9iamZEd0RIZ0xyd0RHZTNYYjFnZFRuSVFqTnNuWjNXdk04TnVwWE1xUHQzRWxpNkM2cEVDVVUya1VtVW9LYmtBQ2drQjNGR0VGd0RIckNaVEl6anJlSThFdnJmaU5yN3k1ejFUYzFLVFVJR2ZhWGFZQzI2SkY4N09qMzNkalZ2NlVlUHJBcV9aT0xsZ2ZZUXN1LVE?oc=5",
           "domain": "aljazeera.com",
@@ -2429,11 +2405,11 @@
           "pinned": false
         },
         {
-          "title": "After the ‘martyr’s’ funeral: The families left behind by Yemen’s war",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT2ZHSkgxcGxWZFg2TDNIdEJnaXNaVGdWSkd3OGk3aWVIQzE4azlhcUxweHVGbDJMTDR1RjNHWVBXRVc5alMyT0xINE9OdWhlaEgxQVVyNVdYajFRMW9TcGpyQ29sME1kRnNwRWlKVUtvZDFwX0tMTzQweHRsU2M5QnVpZjJKQTVsQVhQVUpjYXNDYXI0Snc4dHl2S05idEtjVUJTSFpzZ0I3eFN6VEtB0gG0AUFVX3lxTE05VDZscDRzLVhkUDFuVnhYTndlTWlvQk5aM3N3MnVRXzRnWF9yUzJQcFB0a2poRWdLMXU2ZjFnU2JMajlNeWozcW41Tk5rNU9UWTJ1WW1wUlVkRkxlTXpHRVlNQ3VqY0dLRnRncElYTUxXTkRBZ3lvdDZ1X3VEdmlQUEhMOHRRcFJRcEVvWGcxSzNYdlI3ekttVDVyWHV4bEFETzN2bmE0WUFNa2lhTi1EN1huZQ?oc=5",
+          "title": "Strikes on Darfur market in Sudan killed more than 100, rights group says",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNb0x6d2NxdVBNUVZZSG1LQWRPS3NidTYtRHpvLUloclpZSlFfdDktUTA1cWJkM2V2U2haVjBKOUhSQURucXlVQkdjWGZnREZwZzhMdEJwMmQ1WkNoY2NHcDJQUDJwVll4TDBLYjRlX2tTREpCTmk0cnR3bWdadkp5TFFMYWhCOXJrVjg4RHBXckVzWDVDQVYwSHVkM29tcFZGenMzUTA3T2k4cHVJLTYxSl9n0gG3AUFVX3lxTE5ZVllZTkRINDd3ejFaRnd0dTZneTMzSDdyVDhLWDBoNmdLZVdDdG9SUG1RaTJoMmJ1ZEpERGRNUUZZWFJneXhYcjFVVWdUYmw4WjFOWXFnQTFwMmZxc1otZFdlNF9DQVRBVFNidDVQX0FESW9CQ3gzNjlJelZDX3ppM3U2UmtLclpsOU9rZWRFMDRabTVSTzdqZ1VLaVAtNHRDQzYyVWczTDNKazFiS1BpVlZwZzBsVQ?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261031T055530Z",
+          "seen": "20261029T025543Z",
           "pinned": false
         },
         {
@@ -2458,6 +2434,30 @@
           "domain": "aa.com.tr",
           "sourceTier": "State-affiliated reporting",
           "seen": "20261031T094413Z",
+          "pinned": false
+        },
+        {
+          "title": "CENTCOM chief briefs Trump on Iran strike options - Al-Monitor",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONmpsOXVncmRBSkN1djBTTVlqYTlsdy1NU2ptYTdUUU1zVEltRk4ta2NzNkpXWmwxUmY1TWd4WGhseUdvWjhLU0lKYjlzUkl5eEowcER1ZThDWVhDNWRpSlV3RVNGUUFmejZnejN3a0VCSVQ3aHd3ejljdUt2Ul9SdlZ3Q1c4Tk9yV2RLMkNhZlU3NldsaVE?oc=5",
+          "domain": "al-monitor.com",
+          "sourceTier": "Regional reporting",
+          "seen": "20261029T203827Z",
+          "pinned": false
+        },
+        {
+          "title": "M23 Rebels: US sanctions Rwanda's defence ministry over Congo war",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GY3Y4czlDTlI5MjdiMTFzQTk3eHRLTDBBWnZtS2EtUFctZU5scFhuTUFqSmNZTmJIZENSUE9KSmg3TEU2ODNNRkFfUXdpOEJqQk0wcVJkejR2YTQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261029T112516Z",
+          "pinned": false
+        },
+        {
+          "title": "Damascus, Amman contradict each other on attack that killed civilians",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb2oxajIyamFVeEhiR2E5LThwcWtETG9wY2plRUJua0drS2Q1dGVUNmd2UFM3bHMyQ0xuUmEwTkpCeVFTbDQ3NFdCSW1MRUgtdlJRVzVJMVJwRG9FbV84UHMtLVNfa0dmVElMMEFYQ2VHNkExQUZDczlhdHBCQk11OHg5R3VLd2pWLVhVMDdodFRnb0RQVG02NFZ1TWd0RlM5c1drNjFLS3JkZ3plZGNaWFFza2LSAboBQVVfeXFMTXg3WUJ0STdMYTc2am5oY2g5ZnQ2UGtXZkNaLVh2clNORm5Ja09DaFdWSDZaYkU2WFRDVXpQemNSTFdwS1gtMjBYcmNRVVhYQjVpZXZYMzdLOXNoRThSaTQyTDgwTnlXZDU4REx2QW9uTmZ0THR0Y1N3X3JLYnRwanhMZ2k3bzRmQ1pxeG5ycEZBVk1qSE1xczdmZmZ0elNLeXYyYmVwaFo2dzQ0d0VRSlQ1UzRULVY5Z3Zn?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261029T134725Z",
           "pinned": false
         }
       ],
@@ -2490,15 +2490,6 @@
           "reportedAt": "2026-10-29T16:52:05Z"
         },
         {
-          "id": "report-655e67e47ea1",
-          "title": "Sudan war and inflation leave families struggling to survive in Khartoum",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcXBFYXVkMjN1YnVpQm5GVFg1aGt0UlZaQzVUWVJTUVk4NzB0QmY4c1EzakNIcTAwZ0RGMmdRMW54VXYtdXk1ejloc3l0YzJyRzh3OEx3UmNzOFNfblRSQWRVRXE4U0hxWnhkQkh5X2NWNnVzOG9kY3FTNVBMeHc0MnJHNkhvTThQTDBWbWpCQjhjUHhnbzJvR0dhMmhEbTJCYktLdV93LUdYTXYzdEc2MnRFbEVMVGVqQnfSAb8BQVVfeXFMT1laVFdPaG1oQVlqdk55OUNjYnRLQkpyVmt1ei1EdktNb0FldWlUZDJWVjNfd0FhZjZiaUdGb1VkYlU0TXUyVFdtSmdWZUdqSUtVSWxXV2twcGl0ZWM1SUR6VF9KNHhTM2paa3hhQjBXSGY4cDk2SklNRUFDUzdUU1Z5OVotOUE0U1l0UnE1M2xkSXdGejlYTGIxMWFNS1BYemtzaDl6QTNDdVNycVA3d3FSbVZuWjhWdXRXYWFFQmM?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-28T17:21:29Z"
-        },
-        {
           "id": "report-8f9562085fe5",
           "title": "Houthi forces claim six attacks on Saudi airports, oil facilities",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTEhERlpWem04ZnozTFJCeEcwbmNLVkN6eUtjUFgtdDJnNU1iVFVWWExvTU9WQ09EQ3g0SmJYZ011OWh4TTlUd2pKLURkQUljS3VDNzNmcktLMEZYZTRydklucHl3RF9PeDF1VW5QTlFCbEs0U2ZfbEtqdlpVczB5VTBiUFM0VnZ3Mkl6dVdoZWRvanJCS3VmUW9Ma2hwQ18zbFA3T2lmMU5Hd9IBrwFBVV95cUxNNDBlaUpwVUU2NTFwc0ZhYXdwUmxTa2JjdklXNUVudHZDa25DV29LMUZWa2hRRTBtWml6QTA3Y2ZPNEJOMHo3c2RVSDdYbkNLTzBLbWJXczlBZEY4bWQ3dlZ4amtOOGVtUm90MFpXZWQ2cXZSdk1RNnU0R1BQNWtGRG5YUW5ibVBUa2hPSHA0eEVYVGRNS2Nta3V3bE1mTU4zNllDOEV1N2J6MWd2ODlv?oc=5",
@@ -2517,15 +2508,6 @@
           "reportedAt": "2026-10-31T12:15:37Z"
         },
         {
-          "id": "report-5ab19b9b8281",
-          "title": "The Global Story | Did Melania Trump broker a ceasefire in Ukraine?",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE80WU5pRG9xV0FGbVRwYndBNEVYVjNaU3JfU09FdlZHUjBRZFFQNmYwU3RpalhWNjlQbkNiQ2tsS2pENHFvaVl0dVdiNjdkNXhL?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-28T11:06:24Z"
-        },
-        {
           "id": "report-b9860d73791e",
           "title": "Senators briefed on Trump’s ‘insane’ plan to restart war on Iran",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPekJWWndObXJPMFhyRlJSczctMGhIWndLcWpuZEFNMkw3eUt2WmNvUUQwR0luTGl6anBBTWR5T0Y1aWZSYW9jeVhoaWFucmNCS1UwVkxrX2xEdGJEVm1NWlBjYmN4VlJFbV9VeVBNRlJUbWdNeC1FUmtKUTVYektKNlZNTzhtbU9BdWtHc240dXBjc3VTUDJYcDMxakRmdnY5Q0lqSHJ4WkpPcGVheWRFMl9Td9IBuAFBVV95cUxNQ21hclNVWFJRUGN3eGhrY0xEQ2tlYllNN1JYa0REMmhtanB5Y2p4Q1hSSURIY1RNR3E5S2tBb1ExQ2NFemFlZ0tBaE0tUWFRZG5tdDk5VWdWMXFQbzctaDc1M2xOd05IcXg1dG9jZExEeE0xTVlndTBaOEUxN1MxMjlxZVZWUWJGMktjZFhXeUJlQW01ZlZiMDlwamtqYU5OX2VidGpYeUpDT01WbHZFdHhhN2hsUkhv?oc=5",
@@ -2533,15 +2515,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-10-30T13:01:59Z"
-        },
-        {
-          "id": "report-38e270b199f9",
-          "title": "US warns Gulf states of possible 'short, intense' Iran war after midterms: Report",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWkpXRWZ5a3NQZlo5MllGUFAzQm5fbU0tUzdKZXAyeWxBZ3Y4ajM4YUtVa19nODEyb1dUYzBFVlFmelJpdXZsT0lHbjFWMEt4VHBRZHRKdEJLd2RzLWVqaDgyYkNVb1lvalJxWGtBSFY1cjNoenl3RzE0ZEpiSVNjd0JEWkp3cEVrMHZ6eTJpeFlHcjRBaW1vUC1rbDJUYXJYUGc2eXBWdjFmMS0wMll6SnhoRVVKMm1fdkpz?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
-          "reportedAt": "2026-10-28T02:18:50Z"
         },
         {
           "id": "report-d112a414ad2e",
@@ -2589,6 +2562,15 @@
           "reportedAt": "2026-10-30T08:25:22Z"
         },
         {
+          "id": "report-9de8b5597722",
+          "title": "Turkiye’s Erdogan urges Russia and Ukraine to stop Black Sea attacks",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbUtSSWRMZXhYSWQ0dzdObGp6d1NTQnVBaEhSWHFSaVU0MkFxV2ZNclVpNWd1MEtKak9VQVpieUx4X1hLUzNLU1pHUXp3UzRJUDhpRzlObUlzZWxaLUdSV0MxZ0xZTkhtNEg0dDFUMWFWNER2c05IdFdLMy14Q0t4MWhXaWVob280dFA1cWM2VWFid1E5bnZtTlJpVHc3N0l4TGFCZjRiZ3p4SEdDZWfSAbMBQVVfeXFMT2RPZEdiMUlpVk84cjY4SUtITU40LWE3cVk1dXAzTmt1S2JhMVhzNWZ3UmgyRGREWFQ5SEhRWU1ubkwzRW9TTENpa2ZMMFBycVdfUC1Za0xZX2M2OFNEOUFveEtSQ1FBMzc1bzdiRzB1OVQzVDY0THpiZDZnZWdsSGFZRWhHaWgzM3VtelQ2aGpOVFpBajE1UWZic0psOG01ZFhNV3hOTkl1dkFpc19WRE1mQUk?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-31T20:11:20Z"
+        },
+        {
           "id": "report-b5c7185b3f52",
           "title": "Qatari officials in Iran in bid to revive ceasefire deal with US",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSDdnbjUwcjA0SXkzWlVXOFZsREJjcjR1dV80T25uVTVHeEExZkRwSjlIWHoxXy1xWnk5MnRkblhvcHpDTDEtWDF1VGRoTVVrWmZIUWRkSEdyd0VTLWFSSkRtTkdLZlBVdHFfWWlXd3FjWDJDTjFyTWxuYkdyVGdnZFVibWRhczJ3WmhhUmJWUTdsNTdXUWxqalpiSloyQTI3OWpzSHNESkdzUdIBrwFBVV95cUxNVXZ2X0l5M0gzLXExaUNPZ0RHem0zVzBMX3ExbURWZU9CZVVmRnM1dUExY2ljY1Q3VDYwSm5pNExMWDZ3Vmo2cy1kUk9WTWlmWjhLYmZRcXlPY2JHSHlkSzFEUlVtODlpcktaUk9MejdGek9jWGhyS1V5QkdTUDMwaVg0UnVYdE1UMVVyNEZINUZiMllkQTNia01ZVHhPUmxtS2F4RVZvVkcxOGdoYjU4?oc=5",
@@ -2625,15 +2607,6 @@
           "reportedAt": "2026-10-30T09:19:58Z"
         },
         {
-          "id": "report-95d28985699e",
-          "title": "Strikes on Darfur market in Sudan killed more than 100, rights group says",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNb0x6d2NxdVBNUVZZSG1LQWRPS3NidTYtRHpvLUloclpZSlFfdDktUTA1cWJkM2V2U2haVjBKOUhSQURucXlVQkdjWGZnREZwZzhMdEJwMmQ1WkNoY2NHcDJQUDJwVll4TDBLYjRlX2tTREpCTmk0cnR3bWdadkp5TFFMYWhCOXJrVjg4RHBXckVzWDVDQVYwSHVkM29tcFZGenMzUTA3T2k4cHVJLTYxSl9n0gG3AUFVX3lxTE5ZVllZTkRINDd3ejFaRnd0dTZneTMzSDdyVDhLWDBoNmdLZVdDdG9SUG1RaTJoMmJ1ZEpERGRNUUZZWFJneXhYcjFVVWdUYmw4WjFOWXFnQTFwMmZxc1otZFdlNF9DQVRBVFNidDVQX0FESW9CQ3gzNjlJelZDX3ppM3U2UmtLclpsOU9rZWRFMDRabTVSTzdqZ1VLaVAtNHRDQzYyVWczTDNKazFiS1BpVlZwZzBsVQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-29T02:55:43Z"
-        },
-        {
           "id": "report-842081adae32",
           "title": "Hundreds evacuated from Melania-brokered ceasefire town of Oleshky",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb2E2RjkzMTJhSW4yMzVyTHVhd2dpb1llRFdmNTV3TC15Vld5aTFucjRsdVVyOEpRazBlWFBaZTk3MVdrVEhCbXZvRGpvb1hzbGlVdEJhb0EyZDBrdWlCWHBYSWFjV3lFa01Pb1pLdDBtUXgxUk1tbE9ia1JIeVhub05Xdml4UElMbmxueWFzUjhUMU5DUWQ0c0VtQklKbG1DdlhNdWJtcGFSMHJJWlNkS3EwZW5DY3hZU0HSAb8BQVVfeXFMTUc2bktLdDA1djhUQjZRYnJ5blB2UVJtZGRPZVNyNThIb3czVW9iamZEd0RIZ0xyd0RHZTNYYjFnZFRuSVFqTnNuWjNXdk04TnVwWE1xUHQzRWxpNkM2cEVDVVUya1VtVW9LYmtBQ2drQjNGR0VGd0RIckNaVEl6anJlSThFdnJmaU5yN3k1ejFUYzFLVFVJR2ZhWGFZQzI2SkY4N09qMzNkalZ2NlVlUHJBcV9aT0xsZ2ZZUXN1LVE?oc=5",
@@ -2643,13 +2616,13 @@
           "reportedAt": "2026-10-31T02:50:09Z"
         },
         {
-          "id": "report-5b6aa7331e29",
-          "title": "After the ‘martyr’s’ funeral: The families left behind by Yemen’s war",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT2ZHSkgxcGxWZFg2TDNIdEJnaXNaVGdWSkd3OGk3aWVIQzE4azlhcUxweHVGbDJMTDR1RjNHWVBXRVc5alMyT0xINE9OdWhlaEgxQVVyNVdYajFRMW9TcGpyQ29sME1kRnNwRWlKVUtvZDFwX0tMTzQweHRsU2M5QnVpZjJKQTVsQVhQVUpjYXNDYXI0Snc4dHl2S05idEtjVUJTSFpzZ0I3eFN6VEtB0gG0AUFVX3lxTE05VDZscDRzLVhkUDFuVnhYTndlTWlvQk5aM3N3MnVRXzRnWF9yUzJQcFB0a2poRWdLMXU2ZjFnU2JMajlNeWozcW41Tk5rNU9UWTJ1WW1wUlVkRkxlTXpHRVlNQ3VqY0dLRnRncElYTUxXTkRBZ3lvdDZ1X3VEdmlQUEhMOHRRcFJRcEVvWGcxSzNYdlI3ekttVDVyWHV4bEFETzN2bmE0WUFNa2lhTi1EN1huZQ?oc=5",
+          "id": "report-95d28985699e",
+          "title": "Strikes on Darfur market in Sudan killed more than 100, rights group says",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNb0x6d2NxdVBNUVZZSG1LQWRPS3NidTYtRHpvLUloclpZSlFfdDktUTA1cWJkM2V2U2haVjBKOUhSQURucXlVQkdjWGZnREZwZzhMdEJwMmQ1WkNoY2NHcDJQUDJwVll4TDBLYjRlX2tTREpCTmk0cnR3bWdadkp5TFFMYWhCOXJrVjg4RHBXckVzWDVDQVYwSHVkM29tcFZGenMzUTA3T2k4cHVJLTYxSl9n0gG3AUFVX3lxTE5ZVllZTkRINDd3ejFaRnd0dTZneTMzSDdyVDhLWDBoNmdLZVdDdG9SUG1RaTJoMmJ1ZEpERGRNUUZZWFJneXhYcjFVVWdUYmw4WjFOWXFnQTFwMmZxc1otZFdlNF9DQVRBVFNidDVQX0FESW9CQ3gzNjlJelZDX3ppM3U2UmtLclpsOU9rZWRFMDRabTVSTzdqZ1VLaVAtNHRDQzYyVWczTDNKazFiS1BpVlZwZzBsVQ?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-31T05:55:30Z"
+          "reportedAt": "2026-10-29T02:55:43Z"
         },
         {
           "id": "report-d2783eb7b8fa",
@@ -2677,6 +2650,33 @@
           "sourceTier": "State-affiliated reporting",
           "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
           "reportedAt": "2026-10-31T09:44:13Z"
+        },
+        {
+          "id": "report-e04aad13d780",
+          "title": "CENTCOM chief briefs Trump on Iran strike options - Al-Monitor",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONmpsOXVncmRBSkN1djBTTVlqYTlsdy1NU2ptYTdUUU1zVEltRk4ta2NzNkpXWmwxUmY1TWd4WGhseUdvWjhLU0lKYjlzUkl5eEowcER1ZThDWVhDNWRpSlV3RVNGUUFmejZnejN3a0VCSVQ3aHd3ejljdUt2Ul9SdlZ3Q1c4Tk9yV2RLMkNhZlU3NldsaVE?oc=5",
+          "domain": "al-monitor.com",
+          "sourceTier": "Regional reporting",
+          "confidenceLabel": "REGIONAL REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-29T20:38:27Z"
+        },
+        {
+          "id": "report-0add1511dedb",
+          "title": "M23 Rebels: US sanctions Rwanda's defence ministry over Congo war",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GY3Y4czlDTlI5MjdiMTFzQTk3eHRLTDBBWnZtS2EtUFctZU5scFhuTUFqSmNZTmJIZENSUE9KSmg3TEU2ODNNRkFfUXdpOEJqQk0wcVJkejR2YTQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-29T11:25:16Z"
+        },
+        {
+          "id": "report-32681bb0ddee",
+          "title": "Damascus, Amman contradict each other on attack that killed civilians",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb2oxajIyamFVeEhiR2E5LThwcWtETG9wY2plRUJua0drS2Q1dGVUNmd2UFM3bHMyQ0xuUmEwTkpCeVFTbDQ3NFdCSW1MRUgtdlJRVzVJMVJwRG9FbV84UHMtLVNfa0dmVElMMEFYQ2VHNkExQUZDczlhdHBCQk11OHg5R3VLd2pWLVhVMDdodFRnb0RQVG02NFZ1TWd0RlM5c1drNjFLS3JkZ3plZGNaWFFza2LSAboBQVVfeXFMTXg3WUJ0STdMYTc2am5oY2g5ZnQ2UGtXZkNaLVh2clNORm5Ja09DaFdWSDZaYkU2WFRDVXpQemNSTFdwS1gtMjBYcmNRVVhYQjVpZXZYMzdLOXNoRThSaTQyTDgwTnlXZDU4REx2QW9uTmZ0THR0Y1N3X3JLYnRwanhMZ2k3bzRmQ1pxeG5ycEZBVk1qSE1xczdmZmZ0elNLeXYyYmVwaFo2dzQ0d0VRSlQ1UzRULVY5Z3Zn?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-10-29T13:47:25Z"
         },
         {
           "id": "report-90df6d38e318",
