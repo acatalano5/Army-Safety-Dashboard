@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:10:30.209Z",
+  "generatedAt": "2026-11-03T21:16:43.212Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -9,7 +9,7 @@
       "items": []
     },
     "safety": {
-      "generatedAt": "2026-11-02T23:13:52.730Z",
+      "generatedAt": "2026-11-03T21:16:43.212Z",
       "cadence": "daily",
       "items": [
         {
@@ -19,6 +19,14 @@
           "sourceTier": "Official / intergovernmental",
           "seen": "20250129T204800Z",
           "pinned": true
+        },
+        {
+          "title": "T-38 Crash That Briefly Paused Flights Caused by ‘Under-Torqued’ Pin",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaDFiT19tcW9ueExjWU5yTHdWWDBtT3l5VElQTjNNSGFjZU1teUJlOC1mcHJ1dlNtaF9UZ2lpUnNGcEZwUjVZOG9vVzJ3dDl2SWtSMkYwaFVrcnJmV19vM3ZhYmo4YjM1b0tWLXdGWG1zLS1SRU1QU0c2eW5oZzhvVDE0ODNQaGpG?oc=5",
+          "domain": "airandspaceforces.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261102T234831Z",
+          "pinned": false
         },
         {
           "title": "Florida Learjet Crash: The Air Force Still Flies Its Cousin, and the Navy Hires Learjets as Enemies",
@@ -57,15 +65,15 @@
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaF9CbVhOcU9ycW94aVZORjE2Wkk5M1ZjcmxvajR3UWpJZ0VVRU9jUXdVZXZMMUViNE1uRVdmNEFTbkxmS0ZWSW9tT0o0WnhFOU5IVUxtZXBaU3kyQmpna0JzVzZLRWtZOUNKS3pjaENJRkUxbUpuS3lHa3VUTlEyb1pFU1B5TDFHOC1WQVRMeUZPLUdETUZNWEFkZjk1MnNKM3piVW9kb1p2RWFvZEdodndfYkllNG8?oc=5",
           "domain": "stripes.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261102T092655Z",
+          "seen": "20261102T142827Z",
           "pinned": false
         },
         {
-          "title": "Mishap Investigation Advice",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc19FY29CaU9ZS05HZ010VnR3R2FGa1JBMFZTb2tZdEJLZkpfRTRLdm9VdGEwallmUi14dGlYNC12dmhYU3ZxaXJrQWJBM25LdmxadFFOanlYUWhkZFhmVTF2NG5iTUtfNHVJaWpiRVZ6UmdoVkxxUlU4OFFVVG13UA?oc=5",
+          "title": "Crash Rescue Products",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WQTh5RzJ4RUhLMVQ0bDhKLVkwSVV1SlFSWTd4ZVBVQVJGMFREUHZSclZWT3d1NG9ReHFjclF4VVRLNGRpUW5qWENyLXJ0VEt3Z2RyeEx5WmxxQTJua2hHdExaVTd6MW1IeXdLZVJZcw?oc=5",
           "domain": "safety.army.mil",
           "sourceTier": "Official military source",
-          "seen": "20261025T070000Z",
+          "seen": "20261101T070000Z",
           "pinned": false
         },
         {
@@ -82,14 +90,6 @@
           "domain": "news.uscg.mil",
           "sourceTier": "Official military source",
           "seen": "20261005T070000Z",
-          "pinned": false
-        },
-        {
-          "title": "Coast Guard suspends search of missing medical transport aircraft off Nantucket",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcFRfX293TWVHM0dsWkMzbzkxUjFhX1lSUS12eTZvekd3cnItWXB2eDZHRXZlSDFsYzBEMmhzOU15cGpzX1pYTkM0dUpCWVFFM2l5SnpXaXBkWk1CVXd6UkpoR1FXOEhUTmZrYVJyZUdDMmJ3MjlwWmVNUWp1LUZpRlFzZzVSRXJscjBESmtiXzNUa3hpcDZwbXVSTkhtSkpieTBvSFlNajk2RFpWaWxhM0hfZ2RSbGZBMm0zTU1FY1FxeHZiakdNYzZMQVU0ekh0ZkhJ?oc=5",
-          "domain": "news.uscg.mil",
-          "sourceTier": "Official military source",
-          "seen": "20261004T070000Z",
           "pinned": false
         },
         {
@@ -110,6 +110,24 @@
         }
       ],
       "incidents": [
+        {
+          "id": "auto-6136c4aafe2a",
+          "reportDate": "2026-11-02",
+          "dateBasis": "report discovery date",
+          "branch": "Air Force",
+          "department": "Department of the Air Force",
+          "type": "Aviation",
+          "event": "T-38 Crash That Briefly Paused Flights Caused by ‘Under-Torqued’ Pin",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaDFiT19tcW9ueExjWU5yTHdWWDBtT3l5VElQTjNNSGFjZU1teUJlOC1mcHJ1dlNtaF9UZ2lpUnNGcEZwUjVZOG9vVzJ3dDl2SWtSMkYwaFVrcnJmV19vM3ZhYmo4YjM1b0tWLXdGWG1zLS1SRU1QU0c2eW5oZzhvVDE0ODNQaGpG?oc=5",
+          "sourceLabel": "airandspaceforces.com"
+        },
         {
           "id": "auto-b5eea4a5d5da",
           "reportDate": "2026-11-02",
@@ -145,6 +163,24 @@
           "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
           "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaF9CbVhOcU9ycW94aVZORjE2Wkk5M1ZjcmxvajR3UWpJZ0VVRU9jUXdVZXZMMUViNE1uRVdmNEFTbkxmS0ZWSW9tT0o0WnhFOU5IVUxtZXBaU3kyQmpna0JzVzZLRWtZOUNKS3pjaENJRkUxbUpuS3lHa3VUTlEyb1pFU1B5TDFHOC1WQVRMeUZPLUdETUZNWEFkZjk1MnNKM3piVW9kb1p2RWFvZEdodndfYkllNG8?oc=5",
           "sourceLabel": "stripes.com"
+        },
+        {
+          "id": "auto-dce6037e2d3b",
+          "reportDate": "2026-11-01",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Aviation",
+          "event": "Crash Rescue Products",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "OFFICIAL INTAKE",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Official military source",
+          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
+          "source": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WQTh5RzJ4RUhLMVQ0bDhKLVkwSVV1SlFSWTd4ZVBVQVJGMFREUHZSclZWT3d1NG9ReHFjclF4VVRLNGRpUW5qWENyLXJ0VEt3Z2RyeEx5WmxxQTJua2hHdExaVTd6MW1IeXdLZVJZcw?oc=5",
+          "sourceLabel": "safety.army.mil"
         },
         {
           "id": "auto-1b32012f32cd",
@@ -216,24 +252,6 @@
           "sourceTier": "Official military source",
           "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
           "source": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc19FY29CaU9ZS05HZ010VnR3R2FGa1JBMFZTb2tZdEJLZkpfRTRLdm9VdGEwallmUi14dGlYNC12dmhYU3ZxaXJrQWJBM25LdmxadFFOanlYUWhkZFhmVTF2NG5iTUtfNHVJaWpiRVZ6UmdoVkxxUlU4OFFVVG13UA?oc=5",
-          "sourceLabel": "safety.army.mil"
-        },
-        {
-          "id": "auto-dce6037e2d3b",
-          "reportDate": "2026-10-25",
-          "dateBasis": "report discovery date",
-          "branch": "Army",
-          "department": "Department of the Army",
-          "type": "Aviation",
-          "event": "Crash Rescue Products",
-          "location": "See official source",
-          "fatalities": null,
-          "injuries": null,
-          "status": "OFFICIAL INTAKE",
-          "signalClass": "REPORTED MISHAP",
-          "sourceTier": "Official military source",
-          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
-          "source": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WQTh5RzJ4RUhLMVQ0bDhKLVkwSVV1SlFSWTd4ZVBVQVJGMFREUHZSclZWT3d1NG9ReHFjclF4VVRLNGRpUW5qWENyLXJ0VEt3Z2RyeEx5WmxxQTJua2hHdExaVTd6MW1IeXdLZVJZcw?oc=5",
           "sourceLabel": "safety.army.mil"
         },
         {
