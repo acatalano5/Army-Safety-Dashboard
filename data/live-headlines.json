@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T00:57:10.897Z",
+  "generatedAt": "2026-11-03T14:10:30.209Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-11-03T00:57:10.897Z",
+      "generatedAt": "2026-11-03T14:10:30.209Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -2327,7 +2327,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-11-03T00:57:10.897Z",
+      "generatedAt": "2026-11-03T14:10:30.209Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -2339,11 +2339,27 @@
           "pinned": false
         },
         {
-          "title": "Iran warns of unfettered retaliation if attacked as mediators try for peace",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQkhKTDRHUm1CcU9YcEY1OWtxWGZtV1l4TU1EbnRXWWxMcmRkTnlUVjY0MVNldDBwRG1NSUY2QWhKdEExQVBvQ2MxcnU5T2IyTlVnTXhmbzl5RS1wRjFmZ3NCZGJHeDF5eXZLZl9OdkRkT1NVNkVaaWtlZG05YXBmWmxJamdabUZmMW1KNHVoUFBtc21CaVhwdWxfRzljWmZnTVlDSE9jYzN6UkYzNEQ2N0gyWmtESnVK0gG-AUFVX3lxTE9WbXN6bVJjcHNaMHp3bXdRTHJ6TFhtcW5RejJEOWVRYkZxSHhaLUxBT3dqc3E0Wk0xV21ueklxSkZlTk9sMDBabXdHYzNJcjhUNUZCZndjZ2VyWUNkaFlpc0l4dDY4YVd4dXhCalJWVmlzSHVtbENfMy1hNTloNWtEOXg4aUhrZWJLWTRlZGNmRjZOMzZaVm16Nkg2YUhxakxtcWZtQWg3aDNtYzVqbXNGOWxRRFVFZjBEd1M2WVE?oc=5",
+          "title": "Russian attack on Ukraine aid hub kills 31 as US announces new peace talks",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOXNCcFZ3enhVSFJfdHQyZ1N3bjdWWVVQMk5seXRsWW42X2Z5Yi1sbFN4ZmJRRlhqa0FCbkZOemN5b0Q0eVdvWmpaN1h0TjZXdmkzd0VkdVQ1VnY2TEVibHNTbmJDSnlDSzZLbDRBRnNvdUFmUklDUFlrblJYMkZheE5PNkE4WmxwX0N0ZVNNTHZCMENneHZiTVhYeWktcE5jODNzN3ZzS2tpZ9IBrwFBVV95cUxNcXhuNzZpVXhhdE5PMDRIbkFKSlFENEZNcVJSZWNyTVU5RFc2a1BiODJfMmNldWNGanNERVdNdEJRdi1ncWZnRWxQWUJ3VGZkWVpuWnJabDlDS1RYY0JZUWZ0X3U1N1F2Z0JHbkJ6X0RpQWFFQXQtR1dxU1lTSWEzYS1qcnBpMXdSWnprckVGQjdsMnREck1jWmtqS1ZTLW9GUktBUGNPOXhJN1J3SDVz?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261031T121537Z",
+          "seen": "20261103T094826Z",
+          "pinned": false
+        },
+        {
+          "title": "Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQazFFTTMzNUJ2SzhZblQxcGowTm9WbTNqa2lSYUJLckNuRkRvZmEyaVJrSlhsNkRQN1ZUbGFjZ0lFUVFtak5jOFppMFVGVHh0UUlOVFdKeWNHR2d4Tjh1ZXkyZ25iUVNJSFI0amw3cjdVOUEtMElHRnZ1UURVSDFRcTk1enNOSEk4RmE2ZUw1RVVXTXNVQmg1Rm1LMEk3UUJjRHF3bWtLUHl1UXhpVFJya1dYMkfSAboBQVVfeXFMUG52WkRoZDlGSHAxZ3BwOGhOUEp1SWJuTVNxZHJnSzBmaWEwSk55NUJqV0Y1cWplUkJtdV9OUjl6TUFqeXF2Um00RElDaVg2R2lHbjN1b2s1RFBvX3lDS1dMQlZrVVVlTk0ydno0OWZXU3M1eUlLa2dUMHMxRGRQNlBuWW9FeUdyb3c2Z2s1dXdjd2V6ajVLRGxyNDNzYWVod1p3X1prOWMzNDJqLWpDckN0S3NlbjI5QkFR?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261103T095904Z",
+          "pinned": false
+        },
+        {
+          "title": "Trump signals progress on Iran deal as Tehran pushes faster ceasefire",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWXRvLUpqbi1FNFBLbTk4Y0lENWhacExyTXdZOGNvNENlYVd1WWdUWGpLdFBRQzM3S25GNUtNTUI2SEF3QVdrZFh1ZC11eDhUNEZfWVdNemhDazlUa0oxVEY2TXk5NmlGcVRNRFFMSUZwdlZYdVNTM3R0aVdYbFZVNmRCRzRZQ0FNMmFWMVBodFlOZzNhdUg0SEJacUNHTW_SAaQBQVVfeXFMT21lMjVQYV9jeGVYWTg0Rk5nWW5pQzg3MFhSS0NVRXUtQlBuNHcxUk5EQVVNR0FNY0NKalRuaFFrckpaYWhvY2s1NW5SeVZWa2ZVbk1XbVk2QUxhV1J6UmV6OU1JOEg3bV9JNkF6bnFzc0JlZVNBZDlsbTJoOHRnbDVWbUtsREpQQ0J0TW9JUGRfYUhzOHpHd3pLc1R3SF9naVNvZUg?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261103T011038Z",
           "pinned": false
         },
         {
@@ -2355,6 +2371,14 @@
           "pinned": false
         },
         {
+          "title": "Sudan’s displaced return to new challenges in war-battered Khartoum",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeXM4TVRfT0VyVF9VNFE3THBkZTAtblBIelN6TncxZklOcGpKaWxhTUZMY1FCeVFMQXVReVdxYzZEV1BYN0dZYldmbENIcUNDSFFSbUxadzNseWtUS3RKcFE3bGt0OEg0WXdfN0ZlZk1ZcVk5REFnZUd2VXpLRXM0eEdyZEFBaUQzc3pXbHlJZVlBblFYZUJfUmllVkxDd21BMm9mV2ZqejE4WlpVa2tYbNIBtgFBVV95cUxQVTV5M0pkM0NsYTZXNHhEYmVySGllYkx0Y1Y2V200Tm10VkNDSXBLa1paNGdLUnFuajVvMUtFU1JqSWUzTTZ1a0xqMXZLQTM0OW5GQl9tSWFPeldNdS1TSmczWE1Uai14ZnJwYmF3ZF9DdjNnVktaMllJOWY2enh0SmY0ZkZyVnBwNDR2UDZKQ2dEcGRpdFR1blRldEN1TlV1WUN6V0xKRUNtOUl6RV9jbjhTTFhJQQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261103T092542Z",
+          "pinned": false
+        },
+        {
           "title": "What we know about latest efforts to end US war on Iran",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRElUanM3UHV6bjRuT0lJVUhKMXNvQldwNzdORkM2NVJYQ2F3OW4tdmxPOUZzVnhoTjhiWDBGLWZmQVFzTXNWRmFFeS1rUklOQ1JKS1JwMlRGelZlQlg2RGNIX21zVnNvdXB4R0pTQ05UYVpPUmlzQzdsaWU1aE9QVDJtb1Z1azFVMTB6RmhieS1uSlREYnBn0gGcAUFVX3lxTE1CcFNUWUFEbGNZd3VISG1GcjBCMjhzTDVHV1NYWFlJMERQSnBMcEIyaVRGb09ab0VyMFBuYlY0SDVCYkhQZHpqYXpVN0pUT3JPbzl4ZnFNN05HZHY5QUlRMmlIZzNPVUd6Ul9WdFdGazZPS2lZR3gyd3ZJbzBNUV9UaS0zOE4tcU1uYXhuY0VHMUdsNDJ2UE9OckppcA?oc=5",
           "domain": "aljazeera.com",
@@ -2363,19 +2387,27 @@
           "pinned": false
         },
         {
-          "title": "Iran pushing accelerated plan for ceasefire talks with US",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWXRvLUpqbi1FNFBLbTk4Y0lENWhacExyTXdZOGNvNENlYVd1WWdUWGpLdFBRQzM3S25GNUtNTUI2SEF3QVdrZFh1ZC11eDhUNEZfWVdNemhDazlUa0oxVEY2TXk5NmlGcVRNRFFMSUZwdlZYdVNTM3R0aVdYbFZVNmRCRzRZQ0FNMmFWMVBodFlOZzNhdUg0SEJacUNHTW_SAaQBQVVfeXFMT21lMjVQYV9jeGVYWTg0Rk5nWW5pQzg3MFhSS0NVRXUtQlBuNHcxUk5EQVVNR0FNY0NKalRuaFFrckpaYWhvY2s1NW5SeVZWa2ZVbk1XbVk2QUxhV1J6UmV6OU1JOEg3bV9JNkF6bnFzc0JlZVNBZDlsbTJoOHRnbDVWbUtsREpQQ0J0TW9JUGRfYUhzOHpHd3pLc1R3SF9naVNvZUg?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261102T185856Z",
-          "pinned": false
-        },
-        {
           "title": "How US oil firms profit $130bn from Iran war as household bills surge",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWTl1NTlNZVhwYmJNd3dac1plX3ZZaXdlS2xuSUJIS0Q3NUx5UU04eDBmRzE5NjM5WXNkeVJNVzJOejVnbnJLV0NDTHNRMWhNRzBnWG5QOFE1dE56cjVtNGRwaHJ3T3hSR2FCZHU0RmRfbElKZnJDbkluSkhvUjBRdTM5Yk0xdHIyZVF6RFBmRUZuYmxsTm1TU09yR3EyaFdhbDd2Z0VPd1BJR21QMmfSAbMBQVVfeXFMTUVWdFhyYUduWmg3bGI5YnJoY2RlNGZTaFVEVmhtX2UtNmg1QzdDeVB3SnVURmFyclJQZ0dMNUlJaTVYbmJfQmZfNWtLRDlFU2haX2p1VTZrSHJHUlhzblhzdEFhMlJNcnpvYU8xVWhKT3M0WEdTQjN5a1J4VzQxdE5iTzVBYUtFbHUtSWt0N3hiUml5dEhHN2ZZRF9TUVpOMktwamRsNDIycmFTNHpXUzNZMGc?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20261102T143032Z",
+          "pinned": false
+        },
+        {
+          "title": "US hits Qeshm Island, Pezeshkian signals more diplomacy: Iran war latest",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQN3VQMEhEWThtQUQ1MnNyMzlyTTNkVE5YQTljdkRXOHFsNjc4WVRMSVE1UDhxb0V2MnpVd3otLVJSempBQnRwVEdIbFN3emJKRGdWMGZOZ2ZuYm9zODY1V0RmZFFWV3ZLYkxZZ1ZySmY4WWU1bWwtcUwyT011eENIMlUxLWdCV294SXZxcHZ4ZjJPT2VGODFjN2xkRjNLX1RzSHVNQ0cwTldvaDdlbzFfMtIBtgFBVV95cUxPbVZiTmhvSjJ6QjNOVVBhQWFUSDFRNFRYaUFMMzhDR2xfZXVpMDQ4R0NFT3pmSVBwZzk4T3ZaUVBpQU4tNWw5dWZxVXNManh3LTIzcS1ZRHNtUklpazV2elZuNzZMN2FFUEhxbDZHcVQ5SFpxaGxjanhmN1JiNWpYWmsydFNxa0t1bGtXVnB6X1MzSzJtUDJXYm90SWZUZFE1UDZJS2VfY2VCV1FrTFFvb3VfaG9RZw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261103T105538Z",
+          "pinned": false
+        },
+        {
+          "title": "US strikes Iranian island ahead of midterm elections",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxYlJRM3p5MDBuWjZfNk8xTVR0ejJyRzg5ZS01M0JIX2w2ZzktZERNZ2NMY0ROTGpRR19aNEEyZWxfNzljR3FZN185d01DRFExa3Q4WTdrZU1CeEk?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261103T113333Z",
           "pinned": false
         },
         {
@@ -2395,6 +2427,22 @@
           "pinned": false
         },
         {
+          "title": "Newspaper headlines: Mahmood's 'Duty of care' or 'climbdown' and 'The new cold war'",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3QklPRE9nTkFwWWdqMUpfeTdOSWc5OGxvSXdsUjVvUEtVLVhhS0EtaHRRT1d3NDFnUU0xZzNnTGhUN3JyeDJESFByblVfSE1qQ0xES0ZVT3F5UDg?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261103T051432Z",
+          "pinned": false
+        },
+        {
+          "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHbURkOHdGSS1HSFdpbG1TQXBGa2lhNkVoS3RhRHBRSVR2bTlKa0dKTTc5MFpfUHNlNFJ1LXV0M0pQd0t1QWNzLTNIcFR3ZGxDNTZzWURxc3R1U1U?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261102T173319Z",
+          "pinned": false
+        },
+        {
           "title": "Kherson braces for return of war as localised Russia-Ukraine truce ends",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSmhPRWdMd0h3RkJOUWJLdUdMZk4xN1VvR1RVS1pRaG50MzJUYWFvYnYzS3h2WlBwZGFpYjNid3dMcHVhZWNpbFVSa0VTWTdITEs5T2Y0dWpRckJBOUtGWXFDelRITE5NcUQ4RFZUTksxQ2dqX29lXzJJem0tT1pPV2lxcUloS0Q4RENLZWEyaE5YSEtpR3RyQ0k0eXpPSTNLZXBzNUFWRnRKZWpWcWZielhZakvSAboBQVVfeXFMTVNGdVRNRW8tWlZVOVJrVktvU3BQTjh5aVB3Y005Q3g0RGhSTlFZN2NfWTNINUJqT1B0WVVFWHRVQkJ0THJZaHdfNHNNclBUTVNhdHFJRlZhTVQ0Wk5vOTRncWxJUTBZWkdxb0FISDh4eXRMTTA3bEwtQ1pndzdZVlNFcTZYcmJZR2tLZ2lVaVZ3bURvejgxcFRSZXhYYkktU3Zic0l0ZldkWWV0ZlRoV3JpQzdwbWhOVVZ3?oc=5",
           "domain": "aljazeera.com",
@@ -2411,27 +2459,11 @@
           "pinned": false
         },
         {
-          "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHbURkOHdGSS1HSFdpbG1TQXBGa2lhNkVoS3RhRHBRSVR2bTlKa0dKTTc5MFpfUHNlNFJ1LXV0M0pQd0t1QWNzLTNIcFR3ZGxDNTZzWURxc3R1U1U?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261102T173319Z",
-          "pinned": false
-        },
-        {
           "title": "Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1URnRWSXh1UnA2ckptNEdJd2VGVVU4N2FKYUxjanpWWVpsRDRUVWNpYXFtV3JFSWdlLUdwUVdWVXgzd09UTjRuQ2ljcnIySF9lWjhEbVFpSks1MHM?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20261102T143501Z",
-          "pinned": false
-        },
-        {
-          "title": "Hundreds evacuated from Melania-brokered ceasefire town of Oleshky",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb2E2RjkzMTJhSW4yMzVyTHVhd2dpb1llRFdmNTV3TC15Vld5aTFucjRsdVVyOEpRazBlWFBaZTk3MVdrVEhCbXZvRGpvb1hzbGlVdEJhb0EyZDBrdWlCWHBYSWFjV3lFa01Pb1pLdDBtUXgxUk1tbE9ia1JIeVhub05Xdml4UElMbmxueWFzUjhUMU5DUWQ0c0VtQklKbG1DdlhNdWJtcGFSMHJJWlNkS3EwZW5DY3hZU0HSAb8BQVVfeXFMTUc2bktLdDA1djhUQjZRYnJ5blB2UVJtZGRPZVNyNThIb3czVW9iamZEd0RIZ0xyd0RHZTNYYjFnZFRuSVFqTnNuWjNXdk04TnVwWE1xUHQzRWxpNkM2cEVDVVUya1VtVW9LYmtBQ2drQjNGR0VGd0RIckNaVEl6anJlSThFdnJmaU5yN3k1ejFUYzFLVFVJR2ZhWGFZQzI2SkY4N09qMzNkalZ2NlVlUHJBcV9aT0xsZ2ZZUXN1LVE?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261031T025009Z",
           "pinned": false
         },
         {
@@ -2459,38 +2491,6 @@
           "pinned": false
         },
         {
-          "title": "Iran's leader says response to attack would have no 'geographic limits,' and other Mideast news",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcC1sSkxtLWVVWVpCXzVQc1pIeHhrdnBEYkY1ZjZmQjQtZE9CdWNOdkFPalphUHVmWTJ0dk1NUUNtX2Y4RVJ1U0FQZ21BM1VkQTFUOU1IVHNRd2kwMGs4c0VqUG81X2hRbVlvU0NCOFRiYjR4TDdhajltTmRRazJBbUotYUs3Q3o0aEg4UDBONEhodw?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261031T104135Z",
-          "pinned": false
-        },
-        {
-          "title": "Gaza doctors struggle with bereavement, overwork, trauma amid genocidal war",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQkh1WjBWTTBQeFRKaWN2QWc3bm9IVGd4TkVTeGZsazlXZ21meEZxcUc5eUVSWGM0ZUR2enV3Y3d6UTkwM0hmVTFrdXA1VnJZTmxXSENwRlV4WE5wb19ITTdpaFN4ZTBDZEh2MEVUVUJsNmtCSVRWYmNod3Zsd3FXZ182TmlsMmRTSXB6QzQ5Rm9rbHgzaVlQOWhMdm1aakZELUt5ZndvLWU4VWdmUlB4aUR1RS3SAboBQVVfeXFMT1pDdjhQeXdFeGxRem5zSW1ndVA2QWg2MjlpLURRTmltR1V6OVA1S0NnNWNuZE4xWHJ0OHpfdlpqZ3pIOEo4UDNXRHBEa2xBTWVLeVcyTDZoa3JyNTAteE01YnlTZWlIZEFWOGJKVTlMbjZTTXV6X0xibTBrTkc0TEVfX09QOG1MV1hrSVd1VG9uYnFCdll0SVVjM3M3WTlWcGpuZkNNa29QaERIVmNVNFAxalczVE45V1lR?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261101T074538Z",
-          "pinned": false
-        },
-        {
-          "title": "Nuclear radiation in Russia, Ukraine? No, just hacked warning alerts",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZTN5bktCQ0lvY3ZfalRyZW52YnAxU2M0Z0Q5WkE2dTBKa2JtYUcxbnlCWXVtRGRxYjIxYURwYU1YVjZYaHljdFp1VnpxalV2eVFscHU2RFVYRXlnZ2xTZDdNVEhHR29UenlkZHlsWTNsX1lyc2NvNFV3UENwTWU2VzV5ZzJEQ2JtRjM5dW5CRkd5RUlrUFg3c0FFS2hUaEY3R1JfTDJnTWZmd9IBrwFBVV95cUxQRGFFdjNwOFRkcnBsMnhWbW1qV055TXJmblVzcnFuRXpiNkRMS085V1FaejFFVG5WVThpTzI2TnI5cTIwSFFXUC1tWkVXRDlFOHA0NjlGRGd0cWZqNVpFaGZCZVN6akVqS1NPcGN6MEg4QUxKRUdDWDRLNGVqNmpMY2N1a05lOXN2X1V3eDZrMXF3WHBURWFEZzV3cDN4TkFJc2ZQYW0yV2toRmY5dTI4?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261102T094611Z",
-          "pinned": false
-        },
-        {
-          "title": "War protesters chain themselves to USAF base entrance",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BU2sycV9FTXBSc2NmVFNoMXZNU1Q5eVh1ODJBQnlrcTBrOHhYQ1FGMUtjZkFGUmdnOEtYNzlzLThzZXNYTlQ5VG0tYl8yQk5TT1B3bDY4VDhhbTA?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261102T170105Z",
-          "pinned": false
-        },
-        {
           "title": "War memorial statue depicting Jesus vandalised at Warrington church",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiUndTMnI2LWltZmYwbnV2ekdvdmdhTS1LMzRhTklzU24telkyeVhwMlltUVdpd3ViLVJNekxNRjUyOXQ5TnZZMW1SWXQxX2haczlBZ0lMYjEwNHM?oc=5",
           "domain": "bbc.com",
@@ -2499,27 +2499,27 @@
           "pinned": false
         },
         {
-          "title": "Vance says US has had ‘good conversations’ with Iran on finding deal to end conflict",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSlZQOGFnNWxyTG91ZkxGMkdDdlNhd1RuRUZzblYtZGxfOGpReXI2cE5oazAzZkFQRW96Y3VrUkdfenVFWWtPS1BfaFBYYWQ1WVBMVmpuaTZuU3llOGZNMF85QnVGRHAwZlphVWVoaDFiZWhoMWVjalhyTE5na3BVWjVHcmIyWDFoU0FnU2ZBaFZyOE5GRGJqQzdR?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261102T232700Z",
-          "pinned": false
-        },
-        {
-          "title": "Iran warns war could spread ‘much wider’ if US launches ‘another military adventure’",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNN2EtUThrYVJyQzBKZjNQdXFWYnIxTXFnb2dBM18tVTdsMnZyVUJ5TTJIbHhGU3o2ZDVUTGFRRXg3MFpUck1GVjJFZHF5UXh3VTI3d2xmc25EWmNnMjFlYzBlRkJLaDNJbFFpYzViYmFneFdIUzVhZEltbFRyREJDUEltVktrWTY2dXJWMllmLWJCTTZaQWt3Z2NkZjRVMVBOMlpqOGowdEpNTTBlN2hqN0Z6Si1YcE1oV01KTUsxbHlrYVFG?oc=5",
+          "title": "Iran delivers ‘firm, rational’ response to US, says ‘ball in America’s court to prevent war’",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcG93amIyUW9MT2NDUGVDVno5Q0JNNnhTSzYtVXZYV2NMdlZycTBKbER2NDJzRTR3XzNjcmp0Nk1jYUZLTFEwYWJzUFZSaFloZklHazhFcGtkck5hWkhDRm16alJJVGxDX1gzRTRZOHhVWWhEOENWeWJRVGlmOE52REhlcFR1cnlfcVRIdXQ1VmdoRUFlMDJwQmlFNDdQamtQc0huaXBYb3E4WUxTcmtqOTVkUTdQc1FLQW9EOFFzYWl6SmQ0ZGRvbHdROFg?oc=5",
           "domain": "aa.com.tr",
           "sourceTier": "State-affiliated reporting",
-          "seen": "20261031T094413Z",
+          "seen": "20261103T074109Z",
           "pinned": false
         },
         {
-          "title": "A brief ceasefire opens a perilous escape window from Kherson’s riverside kill zone",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQb3kzM01FTVZSOElRZGZMbmdPQWNodU1Jc0NGNDV3UDFNYmxQUzNQbFVuMnJ6N3VudWd6RE5LRWpGYVVrX20zeXF0YlZNQ2pCejZTX2hSSkR6emVhMXh6VWN5MldYRUk0T1VTR1dpaW9ubGptM3BoMlN5d3NOOTJVTnJWb2ZhNThrajN0Ykt3eG1ocWN1V0NFdHhCUEM?oc=5",
-          "domain": "apnews.com",
+          "title": "War protesters chain themselves to USAF base entrance",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BU2sycV9FTXBSc2NmVFNoMXZNU1Q5eVh1ODJBQnlrcTBrOHhYQ1FGMUtjZkFGUmdnOEtYNzlzLThzZXNYTlQ5VG0tYl8yQk5TT1B3bDY4VDhhbTA?oc=5",
+          "domain": "bbc.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261102T092600Z",
+          "seen": "20261103T122302Z",
+          "pinned": false
+        },
+        {
+          "title": "Gaza doctors struggle with bereavement, overwork, trauma amid genocidal war",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQkh1WjBWTTBQeFRKaWN2QWc3bm9IVGd4TkVTeGZsazlXZ21meEZxcUc5eUVSWGM0ZUR2enV3Y3d6UTkwM0hmVTFrdXA1VnJZTmxXSENwRlV4WE5wb19ITTdpaFN4ZTBDZEh2MEVUVUJsNmtCSVRWYmNod3Zsd3FXZ182TmlsMmRTSXB6QzQ5Rm9rbHgzaVlQOWhMdm1aakZELUt5ZndvLWU4VWdmUlB4aUR1RS3SAboBQVVfeXFMT1pDdjhQeXdFeGxRem5zSW1ndVA2QWg2MjlpLURRTmltR1V6OVA1S0NnNWNuZE4xWHJ0OHpfdlpqZ3pIOEo4UDNXRHBEa2xBTWVLeVcyTDZoa3JyNTAteE01YnlTZWlIZEFWOGJKVTlMbjZTTXV6X0xibTBrTkc0TEVfX09QOG1MV1hrSVd1VG9uYnFCdll0SVVjM3M3WTlWcGpuZkNNa29QaERIVmNVNFAxalczVE45V1lR?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261101T074538Z",
           "pinned": false
         }
       ],
@@ -2534,13 +2534,31 @@
           "reportedAt": "2026-10-31T12:25:38Z"
         },
         {
-          "id": "report-8ccc03317586",
-          "title": "Iran warns of unfettered retaliation if attacked as mediators try for peace",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQkhKTDRHUm1CcU9YcEY1OWtxWGZtV1l4TU1EbnRXWWxMcmRkTnlUVjY0MVNldDBwRG1NSUY2QWhKdEExQVBvQ2MxcnU5T2IyTlVnTXhmbzl5RS1wRjFmZ3NCZGJHeDF5eXZLZl9OdkRkT1NVNkVaaWtlZG05YXBmWmxJamdabUZmMW1KNHVoUFBtc21CaVhwdWxfRzljWmZnTVlDSE9jYzN6UkYzNEQ2N0gyWmtESnVK0gG-AUFVX3lxTE9WbXN6bVJjcHNaMHp3bXdRTHJ6TFhtcW5RejJEOWVRYkZxSHhaLUxBT3dqc3E0Wk0xV21ueklxSkZlTk9sMDBabXdHYzNJcjhUNUZCZndjZ2VyWUNkaFlpc0l4dDY4YVd4dXhCalJWVmlzSHVtbENfMy1hNTloNWtEOXg4aUhrZWJLWTRlZGNmRjZOMzZaVm16Nkg2YUhxakxtcWZtQWg3aDNtYzVqbXNGOWxRRFVFZjBEd1M2WVE?oc=5",
+          "id": "report-591837729fce",
+          "title": "Russian attack on Ukraine aid hub kills 31 as US announces new peace talks",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOXNCcFZ3enhVSFJfdHQyZ1N3bjdWWVVQMk5seXRsWW42X2Z5Yi1sbFN4ZmJRRlhqa0FCbkZOemN5b0Q0eVdvWmpaN1h0TjZXdmkzd0VkdVQ1VnY2TEVibHNTbmJDSnlDSzZLbDRBRnNvdUFmUklDUFlrblJYMkZheE5PNkE4WmxwX0N0ZVNNTHZCMENneHZiTVhYeWktcE5jODNzN3ZzS2tpZ9IBrwFBVV95cUxNcXhuNzZpVXhhdE5PMDRIbkFKSlFENEZNcVJSZWNyTVU5RFc2a1BiODJfMmNldWNGanNERVdNdEJRdi1ncWZnRWxQWUJ3VGZkWVpuWnJabDlDS1RYY0JZUWZ0X3U1N1F2Z0JHbkJ6X0RpQWFFQXQtR1dxU1lTSWEzYS1qcnBpMXdSWnprckVGQjdsMnREck1jWmtqS1ZTLW9GUktBUGNPOXhJN1J3SDVz?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-31T12:15:37Z"
+          "reportedAt": "2026-11-03T09:48:26Z"
+        },
+        {
+          "id": "report-16f2c175dfc4",
+          "title": "Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQazFFTTMzNUJ2SzhZblQxcGowTm9WbTNqa2lSYUJLckNuRkRvZmEyaVJrSlhsNkRQN1ZUbGFjZ0lFUVFtak5jOFppMFVGVHh0UUlOVFdKeWNHR2d4Tjh1ZXkyZ25iUVNJSFI0amw3cjdVOUEtMElHRnZ1UURVSDFRcTk1enNOSEk4RmE2ZUw1RVVXTXNVQmg1Rm1LMEk3UUJjRHF3bWtLUHl1UXhpVFJya1dYMkfSAboBQVVfeXFMUG52WkRoZDlGSHAxZ3BwOGhOUEp1SWJuTVNxZHJnSzBmaWEwSk55NUJqV0Y1cWplUkJtdV9OUjl6TUFqeXF2Um00RElDaVg2R2lHbjN1b2s1RFBvX3lDS1dMQlZrVVVlTk0ydno0OWZXU3M1eUlLa2dUMHMxRGRQNlBuWW9FeUdyb3c2Z2s1dXdjd2V6ajVLRGxyNDNzYWVod1p3X1prOWMzNDJqLWpDckN0S3NlbjI5QkFR?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-03T09:59:04Z"
+        },
+        {
+          "id": "report-3365905927e2",
+          "title": "Trump signals progress on Iran deal as Tehran pushes faster ceasefire",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWXRvLUpqbi1FNFBLbTk4Y0lENWhacExyTXdZOGNvNENlYVd1WWdUWGpLdFBRQzM3S25GNUtNTUI2SEF3QVdrZFh1ZC11eDhUNEZfWVdNemhDazlUa0oxVEY2TXk5NmlGcVRNRFFMSUZwdlZYdVNTM3R0aVdYbFZVNmRCRzRZQ0FNMmFWMVBodFlOZzNhdUg0SEJacUNHTW_SAaQBQVVfeXFMT21lMjVQYV9jeGVYWTg0Rk5nWW5pQzg3MFhSS0NVRXUtQlBuNHcxUk5EQVVNR0FNY0NKalRuaFFrckpaYWhvY2s1NW5SeVZWa2ZVbk1XbVk2QUxhV1J6UmV6OU1JOEg3bV9JNkF6bnFzc0JlZVNBZDlsbTJoOHRnbDVWbUtsREpQQ0J0TW9JUGRfYUhzOHpHd3pLc1R3SF9naVNvZUg?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-03T01:10:38Z"
         },
         {
           "id": "report-3ff4ba474433",
@@ -2552,6 +2570,15 @@
           "reportedAt": "2026-11-01T19:01:04Z"
         },
         {
+          "id": "report-e3e28241bd28",
+          "title": "Sudan’s displaced return to new challenges in war-battered Khartoum",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeXM4TVRfT0VyVF9VNFE3THBkZTAtblBIelN6TncxZklOcGpKaWxhTUZMY1FCeVFMQXVReVdxYzZEV1BYN0dZYldmbENIcUNDSFFSbUxadzNseWtUS3RKcFE3bGt0OEg0WXdfN0ZlZk1ZcVk5REFnZUd2VXpLRXM0eEdyZEFBaUQzc3pXbHlJZVlBblFYZUJfUmllVkxDd21BMm9mV2ZqejE4WlpVa2tYbNIBtgFBVV95cUxQVTV5M0pkM0NsYTZXNHhEYmVySGllYkx0Y1Y2V200Tm10VkNDSXBLa1paNGdLUnFuajVvMUtFU1JqSWUzTTZ1a0xqMXZLQTM0OW5GQl9tSWFPeldNdS1TSmczWE1Uai14ZnJwYmF3ZF9DdjNnVktaMllJOWY2enh0SmY0ZkZyVnBwNDR2UDZKQ2dEcGRpdFR1blRldEN1TlV1WUN6V0xKRUNtOUl6RV9jbjhTTFhJQQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-03T09:25:42Z"
+        },
+        {
           "id": "report-c795db21dd60",
           "title": "What we know about latest efforts to end US war on Iran",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRElUanM3UHV6bjRuT0lJVUhKMXNvQldwNzdORkM2NVJYQ2F3OW4tdmxPOUZzVnhoTjhiWDBGLWZmQVFzTXNWRmFFeS1rUklOQ1JKS1JwMlRGelZlQlg2RGNIX21zVnNvdXB4R0pTQ05UYVpPUmlzQzdsaWU1aE9QVDJtb1Z1azFVMTB6RmhieS1uSlREYnBn0gGcAUFVX3lxTE1CcFNUWUFEbGNZd3VISG1GcjBCMjhzTDVHV1NYWFlJMERQSnBMcEIyaVRGb09ab0VyMFBuYlY0SDVCYkhQZHpqYXpVN0pUT3JPbzl4ZnFNN05HZHY5QUlRMmlIZzNPVUd6Ul9WdFdGazZPS2lZR3gyd3ZJbzBNUV9UaS0zOE4tcU1uYXhuY0VHMUdsNDJ2UE9OckppcA?oc=5",
@@ -2561,15 +2588,6 @@
           "reportedAt": "2026-11-01T03:35:07Z"
         },
         {
-          "id": "report-3365905927e2",
-          "title": "Iran pushing accelerated plan for ceasefire talks with US",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWXRvLUpqbi1FNFBLbTk4Y0lENWhacExyTXdZOGNvNENlYVd1WWdUWGpLdFBRQzM3S25GNUtNTUI2SEF3QVdrZFh1ZC11eDhUNEZfWVdNemhDazlUa0oxVEY2TXk5NmlGcVRNRFFMSUZwdlZYdVNTM3R0aVdYbFZVNmRCRzRZQ0FNMmFWMVBodFlOZzNhdUg0SEJacUNHTW_SAaQBQVVfeXFMT21lMjVQYV9jeGVYWTg0Rk5nWW5pQzg3MFhSS0NVRXUtQlBuNHcxUk5EQVVNR0FNY0NKalRuaFFrckpaYWhvY2s1NW5SeVZWa2ZVbk1XbVk2QUxhV1J6UmV6OU1JOEg3bV9JNkF6bnFzc0JlZVNBZDlsbTJoOHRnbDVWbUtsREpQQ0J0TW9JUGRfYUhzOHpHd3pLc1R3SF9naVNvZUg?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-02T18:58:56Z"
-        },
-        {
           "id": "report-39aa160466a6",
           "title": "How US oil firms profit $130bn from Iran war as household bills surge",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWTl1NTlNZVhwYmJNd3dac1plX3ZZaXdlS2xuSUJIS0Q3NUx5UU04eDBmRzE5NjM5WXNkeVJNVzJOejVnbnJLV0NDTHNRMWhNRzBnWG5QOFE1dE56cjVtNGRwaHJ3T3hSR2FCZHU0RmRfbElKZnJDbkluSkhvUjBRdTM5Yk0xdHIyZVF6RFBmRUZuYmxsTm1TU09yR3EyaFdhbDd2Z0VPd1BJR21QMmfSAbMBQVVfeXFMTUVWdFhyYUduWmg3bGI5YnJoY2RlNGZTaFVEVmhtX2UtNmg1QzdDeVB3SnVURmFyclJQZ0dMNUlJaTVYbmJfQmZfNWtLRDlFU2haX2p1VTZrSHJHUlhzblhzdEFhMlJNcnpvYU8xVWhKT3M0WEdTQjN5a1J4VzQxdE5iTzVBYUtFbHUtSWt0N3hiUml5dEhHN2ZZRF9TUVpOMktwamRsNDIycmFTNHpXUzNZMGc?oc=5",
@@ -2577,6 +2595,24 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-11-02T14:30:32Z"
+        },
+        {
+          "id": "report-a587f989ae6f",
+          "title": "US hits Qeshm Island, Pezeshkian signals more diplomacy: Iran war latest",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQN3VQMEhEWThtQUQ1MnNyMzlyTTNkVE5YQTljdkRXOHFsNjc4WVRMSVE1UDhxb0V2MnpVd3otLVJSempBQnRwVEdIbFN3emJKRGdWMGZOZ2ZuYm9zODY1V0RmZFFWV3ZLYkxZZ1ZySmY4WWU1bWwtcUwyT011eENIMlUxLWdCV294SXZxcHZ4ZjJPT2VGODFjN2xkRjNLX1RzSHVNQ0cwTldvaDdlbzFfMtIBtgFBVV95cUxPbVZiTmhvSjJ6QjNOVVBhQWFUSDFRNFRYaUFMMzhDR2xfZXVpMDQ4R0NFT3pmSVBwZzk4T3ZaUVBpQU4tNWw5dWZxVXNManh3LTIzcS1ZRHNtUklpazV2elZuNzZMN2FFUEhxbDZHcVQ5SFpxaGxjanhmN1JiNWpYWmsydFNxa0t1bGtXVnB6X1MzSzJtUDJXYm90SWZUZFE1UDZJS2VfY2VCV1FrTFFvb3VfaG9RZw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-03T10:55:38Z"
+        },
+        {
+          "id": "report-ed1af32119cc",
+          "title": "US strikes Iranian island ahead of midterm elections",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxYlJRM3p5MDBuWjZfNk8xTVR0ejJyRzg5ZS01M0JIX2w2ZzktZERNZ2NMY0ROTGpRR19aNEEyZWxfNzljR3FZN185d01DRFExa3Q4WTdrZU1CeEk?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-03T11:33:33Z"
         },
         {
           "id": "report-6a2be415f3a9",
@@ -2597,6 +2633,24 @@
           "reportedAt": "2026-10-31T20:11:20Z"
         },
         {
+          "id": "report-7f9d82c5266f",
+          "title": "Newspaper headlines: Mahmood's 'Duty of care' or 'climbdown' and 'The new cold war'",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3QklPRE9nTkFwWWdqMUpfeTdOSWc5OGxvSXdsUjVvUEtVLVhhS0EtaHRRT1d3NDFnUU0xZzNnTGhUN3JyeDJESFByblVfSE1qQ0xES0ZVT3F5UDg?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-03T05:14:32Z"
+        },
+        {
+          "id": "report-571e020b11b6",
+          "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHbURkOHdGSS1HSFdpbG1TQXBGa2lhNkVoS3RhRHBRSVR2bTlKa0dKTTc5MFpfUHNlNFJ1LXV0M0pQd0t1QWNzLTNIcFR3ZGxDNTZzWURxc3R1U1U?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-02T17:33:19Z"
+        },
+        {
           "id": "report-85ed5b14bb4b",
           "title": "Kherson braces for return of war as localised Russia-Ukraine truce ends",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSmhPRWdMd0h3RkJOUWJLdUdMZk4xN1VvR1RVS1pRaG50MzJUYWFvYnYzS3h2WlBwZGFpYjNid3dMcHVhZWNpbFVSa0VTWTdITEs5T2Y0dWpRckJBOUtGWXFDelRITE5NcUQ4RFZUTksxQ2dqX29lXzJJem0tT1pPV2lxcUloS0Q4RENLZWEyaE5YSEtpR3RyQ0k0eXpPSTNLZXBzNUFWRnRKZWpWcWZielhZakvSAboBQVVfeXFMTVNGdVRNRW8tWlZVOVJrVktvU3BQTjh5aVB3Y005Q3g0RGhSTlFZN2NfWTNINUJqT1B0WVVFWHRVQkJ0THJZaHdfNHNNclBUTVNhdHFJRlZhTVQ0Wk5vOTRncWxJUTBZWkdxb0FISDh4eXRMTTA3bEwtQ1pndzdZVlNFcTZYcmJZR2tLZ2lVaVZ3bURvejgxcFRSZXhYYkktU3Zic0l0ZldkWWV0ZlRoV3JpQzdwbWhOVVZ3?oc=5",
@@ -2615,15 +2669,6 @@
           "reportedAt": "2026-11-01T16:26:10Z"
         },
         {
-          "id": "report-571e020b11b6",
-          "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHbURkOHdGSS1HSFdpbG1TQXBGa2lhNkVoS3RhRHBRSVR2bTlKa0dKTTc5MFpfUHNlNFJ1LXV0M0pQd0t1QWNzLTNIcFR3ZGxDNTZzWURxc3R1U1U?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-02T17:33:19Z"
-        },
-        {
           "id": "report-ee97a952ca30",
           "title": "Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1URnRWSXh1UnA2ckptNEdJd2VGVVU4N2FKYUxjanpWWVpsRDRUVWNpYXFtV3JFSWdlLUdwUVdWVXgzd09UTjRuQ2ljcnIySF9lWjhEbVFpSks1MHM?oc=5",
@@ -2631,15 +2676,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-11-02T14:35:01Z"
-        },
-        {
-          "id": "report-842081adae32",
-          "title": "Hundreds evacuated from Melania-brokered ceasefire town of Oleshky",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb2E2RjkzMTJhSW4yMzVyTHVhd2dpb1llRFdmNTV3TC15Vld5aTFucjRsdVVyOEpRazBlWFBaZTk3MVdrVEhCbXZvRGpvb1hzbGlVdEJhb0EyZDBrdWlCWHBYSWFjV3lFa01Pb1pLdDBtUXgxUk1tbE9ia1JIeVhub05Xdml4UElMbmxueWFzUjhUMU5DUWQ0c0VtQklKbG1DdlhNdWJtcGFSMHJJWlNkS3EwZW5DY3hZU0HSAb8BQVVfeXFMTUc2bktLdDA1djhUQjZRYnJ5blB2UVJtZGRPZVNyNThIb3czVW9iamZEd0RIZ0xyd0RHZTNYYjFnZFRuSVFqTnNuWjNXdk04TnVwWE1xUHQzRWxpNkM2cEVDVVUya1VtVW9LYmtBQ2drQjNGR0VGd0RIckNaVEl6anJlSThFdnJmaU5yN3k1ejFUYzFLVFVJR2ZhWGFZQzI2SkY4N09qMzNkalZ2NlVlUHJBcV9aT0xsZ2ZZUXN1LVE?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-31T02:50:09Z"
         },
         {
           "id": "report-c37e41ee591f",
@@ -2669,42 +2705,6 @@
           "reportedAt": "2026-11-01T16:48:05Z"
         },
         {
-          "id": "report-be9fa3b0d337",
-          "title": "Iran's leader says response to attack would have no 'geographic limits,' and other Mideast news",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcC1sSkxtLWVVWVpCXzVQc1pIeHhrdnBEYkY1ZjZmQjQtZE9CdWNOdkFPalphUHVmWTJ0dk1NUUNtX2Y4RVJ1U0FQZ21BM1VkQTFUOU1IVHNRd2kwMGs4c0VqUG81X2hRbVlvU0NCOFRiYjR4TDdhajltTmRRazJBbUotYUs3Q3o0aEg4UDBONEhodw?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-10-31T10:41:35Z"
-        },
-        {
-          "id": "report-c7d49a3d7fa8",
-          "title": "Gaza doctors struggle with bereavement, overwork, trauma amid genocidal war",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQkh1WjBWTTBQeFRKaWN2QWc3bm9IVGd4TkVTeGZsazlXZ21meEZxcUc5eUVSWGM0ZUR2enV3Y3d6UTkwM0hmVTFrdXA1VnJZTmxXSENwRlV4WE5wb19ITTdpaFN4ZTBDZEh2MEVUVUJsNmtCSVRWYmNod3Zsd3FXZ182TmlsMmRTSXB6QzQ5Rm9rbHgzaVlQOWhMdm1aakZELUt5ZndvLWU4VWdmUlB4aUR1RS3SAboBQVVfeXFMT1pDdjhQeXdFeGxRem5zSW1ndVA2QWg2MjlpLURRTmltR1V6OVA1S0NnNWNuZE4xWHJ0OHpfdlpqZ3pIOEo4UDNXRHBEa2xBTWVLeVcyTDZoa3JyNTAteE01YnlTZWlIZEFWOGJKVTlMbjZTTXV6X0xibTBrTkc0TEVfX09QOG1MV1hrSVd1VG9uYnFCdll0SVVjM3M3WTlWcGpuZkNNa29QaERIVmNVNFAxalczVE45V1lR?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-01T07:45:38Z"
-        },
-        {
-          "id": "report-172417f55a76",
-          "title": "Nuclear radiation in Russia, Ukraine? No, just hacked warning alerts",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZTN5bktCQ0lvY3ZfalRyZW52YnAxU2M0Z0Q5WkE2dTBKa2JtYUcxbnlCWXVtRGRxYjIxYURwYU1YVjZYaHljdFp1VnpxalV2eVFscHU2RFVYRXlnZ2xTZDdNVEhHR29UenlkZHlsWTNsX1lyc2NvNFV3UENwTWU2VzV5ZzJEQ2JtRjM5dW5CRkd5RUlrUFg3c0FFS2hUaEY3R1JfTDJnTWZmd9IBrwFBVV95cUxQRGFFdjNwOFRkcnBsMnhWbW1qV055TXJmblVzcnFuRXpiNkRMS085V1FaejFFVG5WVThpTzI2TnI5cTIwSFFXUC1tWkVXRDlFOHA0NjlGRGd0cWZqNVpFaGZCZVN6akVqS1NPcGN6MEg4QUxKRUdDWDRLNGVqNmpMY2N1a05lOXN2X1V3eDZrMXF3WHBURWFEZzV3cDN4TkFJc2ZQYW0yV2toRmY5dTI4?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-02T09:46:11Z"
-        },
-        {
-          "id": "report-77e38b7448a3",
-          "title": "War protesters chain themselves to USAF base entrance",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BU2sycV9FTXBSc2NmVFNoMXZNU1Q5eVh1ODJBQnlrcTBrOHhYQ1FGMUtjZkFGUmdnOEtYNzlzLThzZXNYTlQ5VG0tYl8yQk5TT1B3bDY4VDhhbTA?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-02T17:01:05Z"
-        },
-        {
           "id": "report-51a7b94913e9",
           "title": "War memorial statue depicting Jesus vandalised at Warrington church",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiUndTMnI2LWltZmYwbnV2ekdvdmdhTS1LMzRhTklzU24telkyeVhwMlltUVdpd3ViLVJNekxNRjUyOXQ5TnZZMW1SWXQxX2haczlBZ0lMYjEwNHM?oc=5",
@@ -2714,31 +2714,31 @@
           "reportedAt": "2026-11-02T17:38:43Z"
         },
         {
-          "id": "report-84e3951fe10e",
-          "title": "Vance says US has had ‘good conversations’ with Iran on finding deal to end conflict",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSlZQOGFnNWxyTG91ZkxGMkdDdlNhd1RuRUZzblYtZGxfOGpReXI2cE5oazAzZkFQRW96Y3VrUkdfenVFWWtPS1BfaFBYYWQ1WVBMVmpuaTZuU3llOGZNMF85QnVGRHAwZlphVWVoaDFiZWhoMWVjalhyTE5na3BVWjVHcmIyWDFoU0FnU2ZBaFZyOE5GRGJqQzdR?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-02T23:27:00Z"
-        },
-        {
-          "id": "report-e85f5f3e2df8",
-          "title": "Iran warns war could spread ‘much wider’ if US launches ‘another military adventure’",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNN2EtUThrYVJyQzBKZjNQdXFWYnIxTXFnb2dBM18tVTdsMnZyVUJ5TTJIbHhGU3o2ZDVUTGFRRXg3MFpUck1GVjJFZHF5UXh3VTI3d2xmc25EWmNnMjFlYzBlRkJLaDNJbFFpYzViYmFneFdIUzVhZEltbFRyREJDUEltVktrWTY2dXJWMllmLWJCTTZaQWt3Z2NkZjRVMVBOMlpqOGowdEpNTTBlN2hqN0Z6Si1YcE1oV01KTUsxbHlrYVFG?oc=5",
+          "id": "report-85f364ab0eaa",
+          "title": "Iran delivers ‘firm, rational’ response to US, says ‘ball in America’s court to prevent war’",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcG93amIyUW9MT2NDUGVDVno5Q0JNNnhTSzYtVXZYV2NMdlZycTBKbER2NDJzRTR3XzNjcmp0Nk1jYUZLTFEwYWJzUFZSaFloZklHazhFcGtkck5hWkhDRm16alJJVGxDX1gzRTRZOHhVWWhEOENWeWJRVGlmOE52REhlcFR1cnlfcVRIdXQ1VmdoRUFlMDJwQmlFNDdQamtQc0huaXBYb3E4WUxTcmtqOTVkUTdQc1FLQW9EOFFzYWl6SmQ0ZGRvbHdROFg?oc=5",
           "domain": "aa.com.tr",
           "sourceTier": "State-affiliated reporting",
           "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
-          "reportedAt": "2026-10-31T09:44:13Z"
+          "reportedAt": "2026-11-03T07:41:09Z"
         },
         {
-          "id": "report-19e93915e81e",
-          "title": "A brief ceasefire opens a perilous escape window from Kherson’s riverside kill zone",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQb3kzM01FTVZSOElRZGZMbmdPQWNodU1Jc0NGNDV3UDFNYmxQUzNQbFVuMnJ6N3VudWd6RE5LRWpGYVVrX20zeXF0YlZNQ2pCejZTX2hSSkR6emVhMXh6VWN5MldYRUk0T1VTR1dpaW9ubGptM3BoMlN5d3NOOTJVTnJWb2ZhNThrajN0Ykt3eG1ocWN1V0NFdHhCUEM?oc=5",
-          "domain": "apnews.com",
+          "id": "report-77e38b7448a3",
+          "title": "War protesters chain themselves to USAF base entrance",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BU2sycV9FTXBSc2NmVFNoMXZNU1Q5eVh1ODJBQnlrcTBrOHhYQ1FGMUtjZkFGUmdnOEtYNzlzLThzZXNYTlQ5VG0tYl8yQk5TT1B3bDY4VDhhbTA?oc=5",
+          "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-02T09:26:00Z"
+          "reportedAt": "2026-11-03T12:23:02Z"
+        },
+        {
+          "id": "report-c7d49a3d7fa8",
+          "title": "Gaza doctors struggle with bereavement, overwork, trauma amid genocidal war",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQkh1WjBWTTBQeFRKaWN2QWc3bm9IVGd4TkVTeGZsazlXZ21meEZxcUc5eUVSWGM0ZUR2enV3Y3d6UTkwM0hmVTFrdXA1VnJZTmxXSENwRlV4WE5wb19ITTdpaFN4ZTBDZEh2MEVUVUJsNmtCSVRWYmNod3Zsd3FXZ182TmlsMmRTSXB6QzQ5Rm9rbHgzaVlQOWhMdm1aakZELUt5ZndvLWU4VWdmUlB4aUR1RS3SAboBQVVfeXFMT1pDdjhQeXdFeGxRem5zSW1ndVA2QWg2MjlpLURRTmltR1V6OVA1S0NnNWNuZE4xWHJ0OHpfdlpqZ3pIOEo4UDNXRHBEa2xBTWVLeVcyTDZoa3JyNTAteE01YnlTZWlIZEFWOGJKVTlMbjZTTXV6X0xibTBrTkc0TEVfX09QOG1MV1hrSVd1VG9uYnFCdll0SVVjM3M3WTlWcGpuZkNNa29QaERIVmNVNFAxalczVE45V1lR?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-01T07:45:38Z"
         },
         {
           "id": "report-90df6d38e318",
