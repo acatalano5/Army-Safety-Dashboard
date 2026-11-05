@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T23:40:07.967Z",
+  "generatedAt": "2026-11-05T06:43:12.866Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-11-04T23:40:07.967Z",
+      "generatedAt": "2026-11-05T06:43:12.866Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -2347,25 +2347,9 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-11-04T23:40:07.967Z",
+      "generatedAt": "2026-11-05T06:43:12.866Z",
       "cadence": "every 6 hours",
       "items": [
-        {
-          "title": "Russian attack on Ukraine aid hub kills 31 as US announces new peace talks",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOXNCcFZ3enhVSFJfdHQyZ1N3bjdWWVVQMk5seXRsWW42X2Z5Yi1sbFN4ZmJRRlhqa0FCbkZOemN5b0Q0eVdvWmpaN1h0TjZXdmkzd0VkdVQ1VnY2TEVibHNTbmJDSnlDSzZLbDRBRnNvdUFmUklDUFlrblJYMkZheE5PNkE4WmxwX0N0ZVNNTHZCMENneHZiTVhYeWktcE5jODNzN3ZzS2tpZ9IBrwFBVV95cUxNcXhuNzZpVXhhdE5PMDRIbkFKSlFENEZNcVJSZWNyTVU5RFc2a1BiODJfMmNldWNGanNERVdNdEJRdi1ncWZnRWxQWUJ3VGZkWVpuWnJabDlDS1RYY0JZUWZ0X3U1N1F2Z0JHbkJ6X0RpQWFFQXQtR1dxU1lTSWEzYS1qcnBpMXdSWnprckVGQjdsMnREck1jWmtqS1ZTLW9GUktBUGNPOXhJN1J3SDVz?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261103T094826Z",
-          "pinned": false
-        },
-        {
-          "title": "Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQazFFTTMzNUJ2SzhZblQxcGowTm9WbTNqa2lSYUJLckNuRkRvZmEyaVJrSlhsNkRQN1ZUbGFjZ0lFUVFtak5jOFppMFVGVHh0UUlOVFdKeWNHR2d4Tjh1ZXkyZ25iUVNJSFI0amw3cjdVOUEtMElHRnZ1UURVSDFRcTk1enNOSEk4RmE2ZUw1RVVXTXNVQmg1Rm1LMEk3UUJjRHF3bWtLUHl1UXhpVFJya1dYMkfSAboBQVVfeXFMUG52WkRoZDlGSHAxZ3BwOGhOUEp1SWJuTVNxZHJnSzBmaWEwSk55NUJqV0Y1cWplUkJtdV9OUjl6TUFqeXF2Um00RElDaVg2R2lHbjN1b2s1RFBvX3lDS1dMQlZrVVVlTk0ydno0OWZXU3M1eUlLa2dUMHMxRGRQNlBuWW9FeUdyb3c2Z2s1dXdjd2V6ajVLRGxyNDNzYWVod1p3X1prOWMzNDJqLWpDckN0S3NlbjI5QkFR?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261103T095904Z",
-          "pinned": false
-        },
         {
           "title": "Can Democrats stop Iran war, reverse Trump’s tariffs after midterms win?",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNjd5aWdVVzA1ZThHeGRqck9pSjhRMjd3R1YyVTRsQlY5MG0wR28yUUJtc0VwTVVYdmJZeWl0VEE0YnhxMXMtQWlWT2lsWHpiQVFXa1dLRHV6ekE4c3lkeWhYOUxSNlRkTXQ3ZG5QRnNNTGd5bnZORWdpVEF3WHBUVU9hQzh3Y0d6QmpYT1M4RGczckx0WWZhTTlGRXhzdktIVFM1ZUxMa1FDNzYxNkpaQURPUdIBuAFBVV95cUxPX1BUN1ZpOUxnM3Izb2s0aU1qQVBHZlZJRVpGbVRnUkVxX3J4QmZ1NDJBenRUXzhNcUJUc1UzM1lyY3dpM1lJaldYS1JrQ2V6emFKYXhOS1BQRm1GR0dLeXdISENVaVQxX09YNFFnSTdEUC14SVFUQy1CRDlEazN1VGRoY0ExVlFreXhfNmNMcjFESW5sV3A1a3hwNk9YVHUyTWxxRDh4V1lmS1RjeFgybHFGNXdOMlpt?oc=5",
@@ -2375,11 +2359,27 @@
           "pinned": false
         },
         {
+          "title": "Russian attack on Ukraine aid hub kills 31 as US announces new peace talks",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOXNCcFZ3enhVSFJfdHQyZ1N3bjdWWVVQMk5seXRsWW42X2Z5Yi1sbFN4ZmJRRlhqa0FCbkZOemN5b0Q0eVdvWmpaN1h0TjZXdmkzd0VkdVQ1VnY2TEVibHNTbmJDSnlDSzZLbDRBRnNvdUFmUklDUFlrblJYMkZheE5PNkE4WmxwX0N0ZVNNTHZCMENneHZiTVhYeWktcE5jODNzN3ZzS2tpZ9IBrwFBVV95cUxNcXhuNzZpVXhhdE5PMDRIbkFKSlFENEZNcVJSZWNyTVU5RFc2a1BiODJfMmNldWNGanNERVdNdEJRdi1ncWZnRWxQWUJ3VGZkWVpuWnJabDlDS1RYY0JZUWZ0X3U1N1F2Z0JHbkJ6X0RpQWFFQXQtR1dxU1lTSWEzYS1qcnBpMXdSWnprckVGQjdsMnREck1jWmtqS1ZTLW9GUktBUGNPOXhJN1J3SDVz?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261103T094826Z",
+          "pinned": false
+        },
+        {
           "title": "Iranian leaders welcome US midterm results, but Trump may still attack",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdF9kYVI3SGNySm5CRUp6OWpWc1F3TzZYN09vMnJHTmFFTnJoOUpacUdHbnJ5Ty1WSmZab21Ea0Y0R2w3MERTcjd6ajBqN1FkQ3JCaGl4XzRxU091eFROMm9yUnBzODV0Zm8xMTh3WkxBMFpUVXV6YlB2d1R0bm9SMElIdktra1FJWTdabURGN1B3UzM1TWRqT1JkME5VcndzWExPbjBn0gGrAUFVX3lxTE0tSXQyTjAyWHRXMUl5dVJ0c0ZMSFdDSTFKNGtTU3pqMlUwd3ZMMmROb0NnbS01THhRYkloXzNQOGE4Uzc3RTdHekFIS3BJYUppYTA2b2NrcWVucmZBTkNaR1VrTGRfM3FueUNzMzNSSGlZZU8xQ0pzYTFyQWpULWhtU09zalFRY0xkSkh5N1hJWi1YS0Z3cjkxOTlURzlidGlEU2htVHZBa0Nfaw?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20261104T152816Z",
+          "pinned": false
+        },
+        {
+          "title": "Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQazFFTTMzNUJ2SzhZblQxcGowTm9WbTNqa2lSYUJLckNuRkRvZmEyaVJrSlhsNkRQN1ZUbGFjZ0lFUVFtak5jOFppMFVGVHh0UUlOVFdKeWNHR2d4Tjh1ZXkyZ25iUVNJSFI0amw3cjdVOUEtMElHRnZ1UURVSDFRcTk1enNOSEk4RmE2ZUw1RVVXTXNVQmg1Rm1LMEk3UUJjRHF3bWtLUHl1UXhpVFJya1dYMkfSAboBQVVfeXFMUG52WkRoZDlGSHAxZ3BwOGhOUEp1SWJuTVNxZHJnSzBmaWEwSk55NUJqV0Y1cWplUkJtdV9OUjl6TUFqeXF2Um00RElDaVg2R2lHbjN1b2s1RFBvX3lDS1dMQlZrVVVlTk0ydno0OWZXU3M1eUlLa2dUMHMxRGRQNlBuWW9FeUdyb3c2Z2s1dXdjd2V6ajVLRGxyNDNzYWVod1p3X1prOWMzNDJqLWpDckN0S3NlbjI5QkFR?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261103T095904Z",
           "pinned": false
         },
         {
@@ -2407,19 +2407,19 @@
           "pinned": false
         },
         {
-          "title": "US strikes Iranian island ahead of midterm elections",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxYlJRM3p5MDBuWjZfNk8xTVR0ejJyRzg5ZS01M0JIX2w2ZzktZERNZ2NMY0ROTGpRR19aNEEyZWxfNzljR3FZN185d01DRFExa3Q4WTdrZU1CeEk?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261103T113333Z",
-          "pinned": false
-        },
-        {
           "title": "Trump signals progress on Iran deal as Tehran pushes faster ceasefire",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWXRvLUpqbi1FNFBLbTk4Y0lENWhacExyTXdZOGNvNENlYVd1WWdUWGpLdFBRQzM3S25GNUtNTUI2SEF3QVdrZFh1ZC11eDhUNEZfWVdNemhDazlUa0oxVEY2TXk5NmlGcVRNRFFMSUZwdlZYdVNTM3R0aVdYbFZVNmRCRzRZQ0FNMmFWMVBodFlOZzNhdUg0SEJacUNHTW_SAaQBQVVfeXFMT21lMjVQYV9jeGVYWTg0Rk5nWW5pQzg3MFhSS0NVRXUtQlBuNHcxUk5EQVVNR0FNY0NKalRuaFFrckpaYWhvY2s1NW5SeVZWa2ZVbk1XbVk2QUxhV1J6UmV6OU1JOEg3bV9JNkF6bnFzc0JlZVNBZDlsbTJoOHRnbDVWbUtsREpQQ0J0TW9JUGRfYUhzOHpHd3pLc1R3SF9naVNvZUg?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20261103T011038Z",
+          "pinned": false
+        },
+        {
+          "title": "US strikes Iranian island ahead of midterm elections",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxYlJRM3p5MDBuWjZfNk8xTVR0ejJyRzg5ZS01M0JIX2w2ZzktZERNZ2NMY0ROTGpRR19aNEEyZWxfNzljR3FZN185d01DRFExa3Q4WTdrZU1CeEk?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261103T113333Z",
           "pinned": false
         },
         {
@@ -2447,11 +2447,11 @@
           "pinned": false
         },
         {
-          "title": "Vance says Republicans lost big because of Iran war: 'Everyone knows why we lost'",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90cHNJSHQyeHVUM1JkOGF0UzhfbzFPRXlhZkc2WlhtLVJ2Ym1vSWl6akxucDd0cGowR1RsbEVBWUU2RHVVVWc3X09kLUhTVFF4OHpsT1JMQ0xYS3M?oc=5",
-          "domain": "bbc.com",
+          "title": "How US oil firms profit $130bn from Iran war as household bills surge",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWTl1NTlNZVhwYmJNd3dac1plX3ZZaXdlS2xuSUJIS0Q3NUx5UU04eDBmRzE5NjM5WXNkeVJNVzJOejVnbnJLV0NDTHNRMWhNRzBnWG5QOFE1dE56cjVtNGRwaHJ3T3hSR2FCZHU0RmRfbElKZnJDbkluSkhvUjBRdTM5Yk0xdHIyZVF6RFBmRUZuYmxsTm1TU09yR3EyaFdhbDd2Z0VPd1BJR21QMmfSAbMBQVVfeXFMTUVWdFhyYUduWmg3bGI5YnJoY2RlNGZTaFVEVmhtX2UtNmg1QzdDeVB3SnVURmFyclJQZ0dMNUlJaTVYbmJfQmZfNWtLRDlFU2haX2p1VTZrSHJHUlhzblhzdEFhMlJNcnpvYU8xVWhKT3M0WEdTQjN5a1J4VzQxdE5iTzVBYUtFbHUtSWt0N3hiUml5dEhHN2ZZRF9TUVpOMktwamRsNDIycmFTNHpXUzNZMGc?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261104T191221Z",
+          "seen": "20261102T143032Z",
           "pinned": false
         },
         {
@@ -2463,43 +2463,11 @@
           "pinned": false
         },
         {
-          "title": "How US oil firms profit $130bn from Iran war as household bills surge",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWTl1NTlNZVhwYmJNd3dac1plX3ZZaXdlS2xuSUJIS0Q3NUx5UU04eDBmRzE5NjM5WXNkeVJNVzJOejVnbnJLV0NDTHNRMWhNRzBnWG5QOFE1dE56cjVtNGRwaHJ3T3hSR2FCZHU0RmRfbElKZnJDbkluSkhvUjBRdTM5Yk0xdHIyZVF6RFBmRUZuYmxsTm1TU09yR3EyaFdhbDd2Z0VPd1BJR21QMmfSAbMBQVVfeXFMTUVWdFhyYUduWmg3bGI5YnJoY2RlNGZTaFVEVmhtX2UtNmg1QzdDeVB3SnVURmFyclJQZ0dMNUlJaTVYbmJfQmZfNWtLRDlFU2haX2p1VTZrSHJHUlhzblhzdEFhMlJNcnpvYU8xVWhKT3M0WEdTQjN5a1J4VzQxdE5iTzVBYUtFbHUtSWt0N3hiUml5dEhHN2ZZRF9TUVpOMktwamRsNDIycmFTNHpXUzNZMGc?oc=5",
-          "domain": "aljazeera.com",
+          "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yRE8zWTktbFNWZGxHdlhMZk4xYTM1VUZMaHI1WGd6ck50M2N6anJ5N1pFOWlVZUtlN3hIWmdKMXlRWC10Z3FrSzFWWlFCSEFjT2VuQUZpeGpZSWs?oc=5",
+          "domain": "bbc.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261102T143032Z",
-          "pinned": false
-        },
-        {
-          "title": "How will the Iran war shape the outcome of the US midterm vote?",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcFJwaS1FY2hTcTNQU2FrR1lvTVg0R3lncTMwQ0xhQXVpeDgtN0lXNDZfVUJuODZyMER4b2NPRnNwdXZqUGpGc2o2bnM5azV5NUo4X0xmdlN4ZFVLQ0tKaVB1dUw1VVcxZ2d1aFZXOEpxek5pRjl3eXNmbFlLSVc1eEpkMjhrNkNCdGJmSGJtcWRlYWhub29lb2xzM3ZwTUxBbnBMR2taeDVKRTBHZVFrWnRiQ240LWtYbGfSAb8BQVVfeXFMTjdkbzVUbFdhOGNrZlNqVEk0ZGVkTnBDUnlXc3dIRE8yTGZLQ3pvbmM4RmdSVlhXTmd1djdBVktMQWZfM3NGejdmbG5nVFpJZ0Y0TU5sTkVVNWxGU1JEUmhrWmg5MEk4MjdyS0t3YjV5Z1FvR0RLVDhfRzdYc1owT2x1ZG9DdlFfcUVPR2xER3lDUTI5SmFMRUhFM1E5NThrZDlXSndsM3RKOWl1anRkT0s1V0JJTl84SnFCNnRlSE0?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261101T190104Z",
-          "pinned": false
-        },
-        {
-          "title": "Democratic sweep of Congress ushers in a new era as Trump acknowledges impact of the Iran war",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQemZtNHA3MndVd0YwZEZjYVZSdXA5NVpnXzhpUnY5Mkp5U2lBTnBtNEV6dVB0LUJZVXBDV2lUNnNHbTczNWFVVEtXUVhFdlUxdm5sOWl6U0JFMjhGXzgzQ19GNXdrNUVJMlB4czlkenlNOUctMGllMmFLRTJrVXl0T1hoQ1ZUcmI4N0xxU18wTEhuQUNHYm5mNFhNc0pVRjJqY0s0clotUW42czd0TTRCNw?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261104T204900Z",
-          "pinned": false
-        },
-        {
-          "title": "Iran’s Khamenei warns Trump loss at polls won’t end US hostility",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWDFEXzdGZXdFVFZjVENub3Z2ZC1YaVpJcjVoVjlVbjFwYWFQd0tEVC1yNEtKN0REUG5LcUZKTjV1amFCYVMwSjU4S0xNLUFGaWdsRzZpakQzQ2xmYy1ERzVmSnF5QTg0WnBBcHYyR3RoVVBLdTJKZ1RCN2FsWGNDdTVLeVVUeWt2VVE4WnpWNXdwU2pPckVsNnpoekJTdlNSYkdjWUhkZ3NscjkzSHRoRnFEZkkxd9IBuwFBVV95cUxQTjhXQ1dyT3JQQjRHaXdWMnpvNFNqNURSQWgyT0lzRWRJb3lmdEI4a29qLVVBOVpkZU1sRlBEMVI2ODN4R2NTeUhLRUFPcUUyckpCVEZLRkxLU2cyVjk3WjIwVmJENEhmM1E1V0tzSk5WN2pnam14QU8zLVNqcG12TVFNOXQ3Zk5KRG1hSzFSaG94OWd1RjY0T196MWdmVk1Od2tzZGVPZjFDbmsteWU4b3dINGQtYkpReEhV?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261104T163136Z",
-          "pinned": false
-        },
-        {
-          "title": "UN warns of security risks in Western Sahara as peacekeeping mission ends",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbzloMWQxNUZlY2pSeXhOSnJHUnNOUG1BMDNsNjl4Y0NySXVOOTF6TDdLVThfOFJXMDRzYWJDRzhxdmhEYWNvT09YYVM4M3JRZUtLVkFVaV9HWWVPU0hzTlU0bGVIa00wV3N5amZSUEhtNEtZclJnMnU1Q2prLWhTWTRSRHNkZWpBMWp1YUcyR1czQkFid0huUnhhRnRLa0VadjFqUV9GMHBoZUh1WGk2VERBWGjSAboBQVVfeXFMUEY2VS1UbUJUV0dBNjJhZEdId1Z0OXhDTm5RT3B5Z0pxbDRoWTh5bUFfM0lzVUxfZGJGTHlzS00taUljT3pyVUdLRjViWDFFdmdBWUJpUVVlU05Qd3BJblRiVnB1Sk1HZHMwcUFCMFl5dkI5UkNIWDRLOWNuaUZGU3VVc2JINmFhY1FsaVlPS1NTcmNYTThwVHl2Rm5CZEYyQm5mdmVTS1FlMXhCNDIzeXhYTW1SenJCdE1R?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261101T232956Z",
+          "seen": "20261105T034756Z",
           "pinned": false
         },
         {
@@ -2511,6 +2479,30 @@
           "pinned": false
         },
         {
+          "title": "Iran’s Khamenei warns Trump loss at polls won’t end US hostility",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWDFEXzdGZXdFVFZjVENub3Z2ZC1YaVpJcjVoVjlVbjFwYWFQd0tEVC1yNEtKN0REUG5LcUZKTjV1amFCYVMwSjU4S0xNLUFGaWdsRzZpakQzQ2xmYy1ERzVmSnF5QTg0WnBBcHYyR3RoVVBLdTJKZ1RCN2FsWGNDdTVLeVVUeWt2VVE4WnpWNXdwU2pPckVsNnpoekJTdlNSYkdjWUhkZ3NscjkzSHRoRnFEZkkxd9IBuwFBVV95cUxQTjhXQ1dyT3JQQjRHaXdWMnpvNFNqNURSQWgyT0lzRWRJb3lmdEI4a29qLVVBOVpkZU1sRlBEMVI2ODN4R2NTeUhLRUFPcUUyckpCVEZLRkxLU2cyVjk3WjIwVmJENEhmM1E1V0tzSk5WN2pnam14QU8zLVNqcG12TVFNOXQ3Zk5KRG1hSzFSaG94OWd1RjY0T196MWdmVk1Od2tzZGVPZjFDbmsteWU4b3dINGQtYkpReEhV?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261104T163136Z",
+          "pinned": false
+        },
+        {
+          "title": "Sudan factories struggle to restart after devastating wartime losses",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRGY4dkdZSjJTWDFoNkdabEJuZ0hXZDJVTmtEaWtBbUkzYmU0dDBObzUwcGFFYVU5MVdXcFdYcjVQVEQ5V3Mwd1hqMzVWMU9GazliNUFYSnZwa1Y5c01GSEw4amdlVnljZXo3c2k1V09xRGI2SngzTUVfZmpmQlkwd291MEZuM1dzSzBhc3hpU29oWWJ3ZUFfZjlHdW16VjhBeTIzNVRWb3pVamlIRHfSAbMBQVVfeXFMUG82TFo5Y0dOTHVCQ25XcDhNT3NCckhLVVhhbXRQWDlYRjNpN3RheDltOU5YeGpUWWtPalIwZDRaQmtHM05HWWZxajM2VGM4RTJkYXNQM0ptMG9CVHNxa3UtcmpWVGRNTXdPaFVNTkNXRHREcnVoNHJnYy14b3NGR1BOV1l0V2lIN1dQV0VnOEwySF9pblJsMlFGNmc4YjlVeWJvOExHM2VIR3VsQmtjdUt5dVk?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261104T223420Z",
+          "pinned": false
+        },
+        {
+          "title": "Democratic sweep of Congress ushers in a new era as Trump acknowledges impact of the Iran war",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQemZtNHA3MndVd0YwZEZjYVZSdXA5NVpnXzhpUnY5Mkp5U2lBTnBtNEV6dVB0LUJZVXBDV2lUNnNHbTczNWFVVEtXUVhFdlUxdm5sOWl6U0JFMjhGXzgzQ19GNXdrNUVJMlB4czlkenlNOUctMGllMmFLRTJrVXl0T1hoQ1ZUcmI4N0xxU18wTEhuQUNHYm5mNFhNc0pVRjJqY0s0clotUW42czd0TTRCNw?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261104T204900Z",
+          "pinned": false
+        },
+        {
           "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOM2FoblJSYWxpbFBKV3BrQUZuRXFHTWN6d29HWV9hU0ZPQmxMMHltY01LOVIxSUR4V040UWt1ZEZGUGtlQThobzB4c1o4UHhjVVlQTVdfOHJOcDg?oc=5",
           "domain": "bbc.com",
@@ -2519,19 +2511,27 @@
           "pinned": false
         },
         {
-          "title": "Russia detains minor over alleged Moscow attack plot after US warning",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcm9HR0poYzFGTmNDa0U4ejUyTEgxT2FXXy1UZXQyNjlwQmhXMm11YzVGNENzLTFCOC1uVXgwUUh2NWVWMlB4N1oyQWxucmNXWXJyU1BzaV9WOGYtcmNuTlBDMUJ1emVxQ0d2VWRWZ3JXMTZrWGs0VnlSWlpjX1dqOUdPS2FLeEJfaThvbkM3Z2h3Q0MtX2h0bTdTTUZDQ0oyemlZSXg1R3lsSHd4X3Rz0gG0AUFVX3lxTE9oY09aWTVHV2k3ZlVSY2ZhSmFHc0w5clFacmY5WEdyQS10SjZNb1ZOSjRpUlVpQkNGWk5OSGxIMkFrLWx2X2puR1NOaHBPWFdWWDVmb0VpTl81TXhkUERaNDBiRUxqYzBJTllRdUx4VHBKNjdSc1B0eUxXb0gxaDBnWlZHRTE4YXdPYVJUNm5TR21aaWlIQXI1VGVIVkhwVk1mNHJkUkp2clNhYTFac0tyLWpZYg?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261101T162610Z",
-          "pinned": false
-        },
-        {
           "title": "Iran’s leaders say midterm results show US voters have rejected Trump’s war",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORWpUSjZoNTU2eEkzUGZJbHl4WEdBMWtFNzQ1Q3l1V1VTbVJSeUprOHhmS19STXpBSi1oV2lmanFnT09MZldRd0lyNjJ5WFAycWRWQzd6UFRLSm1YSDNQRGpXdldpRjF1QmlYM3Y3anpjWUVScndXNDQ1VHkxWk9HNDJhTGJtc2V6T3VRTw?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "seen": "20261104T204600Z",
+          "pinned": false
+        },
+        {
+          "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHbURkOHdGSS1HSFdpbG1TQXBGa2lhNkVoS3RhRHBRSVR2bTlKa0dKTTc5MFpfUHNlNFJ1LXV0M0pQd0t1QWNzLTNIcFR3ZGxDNTZzWURxc3R1U1U?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261102T173319Z",
+          "pinned": false
+        },
+        {
+          "title": "Trump admits Iran war hurt Republican vote, vows to veto ‘insane’ bills",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMm41SFlwczktQmJ2aFdwSlY2MkxONGc1RVdSQzlaZmt6Ykt2X3pCVmtBTFZLeUxJRzRLNWVMNm9DbWhZRzh0dDVnTWFualV5Rnh2Q3F3Qzh5VDdTRGpYdzhqNnJXUXVvTHFWc3JXZ2U3QnNtbzRNY1hWYVlpYUpCb242OGF6RXk2eHBSLXRQVWthWDdraXlsQU9SbFZBSUxNbzNyVWFpcjVVWVE4VlVNWnlveWF2RGtpM3Iw0gHAAUFVX3lxTE5WNGplR01rVVJyMEtQU3o4U21JOFpiTk1rd3Voa0NRYkhfTXRraGVNR1NIOFFqZEozb0EyTkdYbWdsZHVra2RBODZMMkNqUENnSWh0RVpkYUp6NFZXZVBueEtucDJUa2Ftb2xJcklOY3RwVXBHWEVPbmEwbVBJbTdyOUdQaHU4WXlEUHBIdUdWSW1aS3RFMG9tbkM1SUVZeDJCMWx4TUNJUTFhX3c4RDZsYUc2QTlIbnJrcF9ZYTZXeg?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261104T132056Z",
           "pinned": false
         },
         {
@@ -2545,24 +2545,6 @@
       ],
       "reports": [
         {
-          "id": "report-591837729fce",
-          "title": "Russian attack on Ukraine aid hub kills 31 as US announces new peace talks",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOXNCcFZ3enhVSFJfdHQyZ1N3bjdWWVVQMk5seXRsWW42X2Z5Yi1sbFN4ZmJRRlhqa0FCbkZOemN5b0Q0eVdvWmpaN1h0TjZXdmkzd0VkdVQ1VnY2TEVibHNTbmJDSnlDSzZLbDRBRnNvdUFmUklDUFlrblJYMkZheE5PNkE4WmxwX0N0ZVNNTHZCMENneHZiTVhYeWktcE5jODNzN3ZzS2tpZ9IBrwFBVV95cUxNcXhuNzZpVXhhdE5PMDRIbkFKSlFENEZNcVJSZWNyTVU5RFc2a1BiODJfMmNldWNGanNERVdNdEJRdi1ncWZnRWxQWUJ3VGZkWVpuWnJabDlDS1RYY0JZUWZ0X3U1N1F2Z0JHbkJ6X0RpQWFFQXQtR1dxU1lTSWEzYS1qcnBpMXdSWnprckVGQjdsMnREck1jWmtqS1ZTLW9GUktBUGNPOXhJN1J3SDVz?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-03T09:48:26Z"
-        },
-        {
-          "id": "report-16f2c175dfc4",
-          "title": "Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQazFFTTMzNUJ2SzhZblQxcGowTm9WbTNqa2lSYUJLckNuRkRvZmEyaVJrSlhsNkRQN1ZUbGFjZ0lFUVFtak5jOFppMFVGVHh0UUlOVFdKeWNHR2d4Tjh1ZXkyZ25iUVNJSFI0amw3cjdVOUEtMElHRnZ1UURVSDFRcTk1enNOSEk4RmE2ZUw1RVVXTXNVQmg1Rm1LMEk3UUJjRHF3bWtLUHl1UXhpVFJya1dYMkfSAboBQVVfeXFMUG52WkRoZDlGSHAxZ3BwOGhOUEp1SWJuTVNxZHJnSzBmaWEwSk55NUJqV0Y1cWplUkJtdV9OUjl6TUFqeXF2Um00RElDaVg2R2lHbjN1b2s1RFBvX3lDS1dMQlZrVVVlTk0ydno0OWZXU3M1eUlLa2dUMHMxRGRQNlBuWW9FeUdyb3c2Z2s1dXdjd2V6ajVLRGxyNDNzYWVod1p3X1prOWMzNDJqLWpDckN0S3NlbjI5QkFR?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-03T09:59:04Z"
-        },
-        {
           "id": "report-98d0ced45e31",
           "title": "Can Democrats stop Iran war, reverse Trump’s tariffs after midterms win?",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNjd5aWdVVzA1ZThHeGRqck9pSjhRMjd3R1YyVTRsQlY5MG0wR28yUUJtc0VwTVVYdmJZeWl0VEE0YnhxMXMtQWlWT2lsWHpiQVFXa1dLRHV6ekE4c3lkeWhYOUxSNlRkTXQ3ZG5QRnNNTGd5bnZORWdpVEF3WHBUVU9hQzh3Y0d6QmpYT1M4RGczckx0WWZhTTlGRXhzdktIVFM1ZUxMa1FDNzYxNkpaQURPUdIBuAFBVV95cUxPX1BUN1ZpOUxnM3Izb2s0aU1qQVBHZlZJRVpGbVRnUkVxX3J4QmZ1NDJBenRUXzhNcUJUc1UzM1lyY3dpM1lJaldYS1JrQ2V6emFKYXhOS1BQRm1GR0dLeXdISENVaVQxX09YNFFnSTdEUC14SVFUQy1CRDlEazN1VGRoY0ExVlFreXhfNmNMcjFESW5sV3A1a3hwNk9YVHUyTWxxRDh4V1lmS1RjeFgybHFGNXdOMlpt?oc=5",
@@ -2572,6 +2554,15 @@
           "reportedAt": "2026-11-04T12:51:12Z"
         },
         {
+          "id": "report-591837729fce",
+          "title": "Russian attack on Ukraine aid hub kills 31 as US announces new peace talks",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOXNCcFZ3enhVSFJfdHQyZ1N3bjdWWVVQMk5seXRsWW42X2Z5Yi1sbFN4ZmJRRlhqa0FCbkZOemN5b0Q0eVdvWmpaN1h0TjZXdmkzd0VkdVQ1VnY2TEVibHNTbmJDSnlDSzZLbDRBRnNvdUFmUklDUFlrblJYMkZheE5PNkE4WmxwX0N0ZVNNTHZCMENneHZiTVhYeWktcE5jODNzN3ZzS2tpZ9IBrwFBVV95cUxNcXhuNzZpVXhhdE5PMDRIbkFKSlFENEZNcVJSZWNyTVU5RFc2a1BiODJfMmNldWNGanNERVdNdEJRdi1ncWZnRWxQWUJ3VGZkWVpuWnJabDlDS1RYY0JZUWZ0X3U1N1F2Z0JHbkJ6X0RpQWFFQXQtR1dxU1lTSWEzYS1qcnBpMXdSWnprckVGQjdsMnREck1jWmtqS1ZTLW9GUktBUGNPOXhJN1J3SDVz?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-03T09:48:26Z"
+        },
+        {
           "id": "report-9fac5bf18c95",
           "title": "Iranian leaders welcome US midterm results, but Trump may still attack",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdF9kYVI3SGNySm5CRUp6OWpWc1F3TzZYN09vMnJHTmFFTnJoOUpacUdHbnJ5Ty1WSmZab21Ea0Y0R2w3MERTcjd6ajBqN1FkQ3JCaGl4XzRxU091eFROMm9yUnBzODV0Zm8xMTh3WkxBMFpUVXV6YlB2d1R0bm9SMElIdktra1FJWTdabURGN1B3UzM1TWRqT1JkME5VcndzWExPbjBn0gGrAUFVX3lxTE0tSXQyTjAyWHRXMUl5dVJ0c0ZMSFdDSTFKNGtTU3pqMlUwd3ZMMmROb0NnbS01THhRYkloXzNQOGE4Uzc3RTdHekFIS3BJYUppYTA2b2NrcWVucmZBTkNaR1VrTGRfM3FueUNzMzNSSGlZZU8xQ0pzYTFyQWpULWhtU09zalFRY0xkSkh5N1hJWi1YS0Z3cjkxOTlURzlidGlEU2htVHZBa0Nfaw?oc=5",
@@ -2579,6 +2570,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-11-04T15:28:16Z"
+        },
+        {
+          "id": "report-16f2c175dfc4",
+          "title": "Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQazFFTTMzNUJ2SzhZblQxcGowTm9WbTNqa2lSYUJLckNuRkRvZmEyaVJrSlhsNkRQN1ZUbGFjZ0lFUVFtak5jOFppMFVGVHh0UUlOVFdKeWNHR2d4Tjh1ZXkyZ25iUVNJSFI0amw3cjdVOUEtMElHRnZ1UURVSDFRcTk1enNOSEk4RmE2ZUw1RVVXTXNVQmg1Rm1LMEk3UUJjRHF3bWtLUHl1UXhpVFJya1dYMkfSAboBQVVfeXFMUG52WkRoZDlGSHAxZ3BwOGhOUEp1SWJuTVNxZHJnSzBmaWEwSk55NUJqV0Y1cWplUkJtdV9OUjl6TUFqeXF2Um00RElDaVg2R2lHbjN1b2s1RFBvX3lDS1dMQlZrVVVlTk0ydno0OWZXU3M1eUlLa2dUMHMxRGRQNlBuWW9FeUdyb3c2Z2s1dXdjd2V6ajVLRGxyNDNzYWVod1p3X1prOWMzNDJqLWpDckN0S3NlbjI5QkFR?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-03T09:59:04Z"
         },
         {
           "id": "report-18e1c0d6390e",
@@ -2608,15 +2608,6 @@
           "reportedAt": "2026-11-04T23:17:34Z"
         },
         {
-          "id": "report-ed1af32119cc",
-          "title": "US strikes Iranian island ahead of midterm elections",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxYlJRM3p5MDBuWjZfNk8xTVR0ejJyRzg5ZS01M0JIX2w2ZzktZERNZ2NMY0ROTGpRR19aNEEyZWxfNzljR3FZN185d01DRFExa3Q4WTdrZU1CeEk?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-03T11:33:33Z"
-        },
-        {
           "id": "report-3365905927e2",
           "title": "Trump signals progress on Iran deal as Tehran pushes faster ceasefire",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWXRvLUpqbi1FNFBLbTk4Y0lENWhacExyTXdZOGNvNENlYVd1WWdUWGpLdFBRQzM3S25GNUtNTUI2SEF3QVdrZFh1ZC11eDhUNEZfWVdNemhDazlUa0oxVEY2TXk5NmlGcVRNRFFMSUZwdlZYdVNTM3R0aVdYbFZVNmRCRzRZQ0FNMmFWMVBodFlOZzNhdUg0SEJacUNHTW_SAaQBQVVfeXFMT21lMjVQYV9jeGVYWTg0Rk5nWW5pQzg3MFhSS0NVRXUtQlBuNHcxUk5EQVVNR0FNY0NKalRuaFFrckpaYWhvY2s1NW5SeVZWa2ZVbk1XbVk2QUxhV1J6UmV6OU1JOEg3bV9JNkF6bnFzc0JlZVNBZDlsbTJoOHRnbDVWbUtsREpQQ0J0TW9JUGRfYUhzOHpHd3pLc1R3SF9naVNvZUg?oc=5",
@@ -2624,6 +2615,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-11-03T01:10:38Z"
+        },
+        {
+          "id": "report-ed1af32119cc",
+          "title": "US strikes Iranian island ahead of midterm elections",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxYlJRM3p5MDBuWjZfNk8xTVR0ejJyRzg5ZS01M0JIX2w2ZzktZERNZ2NMY0ROTGpRR19aNEEyZWxfNzljR3FZN185d01DRFExa3Q4WTdrZU1CeEk?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-03T11:33:33Z"
         },
         {
           "id": "report-af063cee2e89",
@@ -2653,13 +2653,13 @@
           "reportedAt": "2026-11-03T09:25:42Z"
         },
         {
-          "id": "report-c96f4c8a7674",
-          "title": "Vance says Republicans lost big because of Iran war: 'Everyone knows why we lost'",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90cHNJSHQyeHVUM1JkOGF0UzhfbzFPRXlhZkc2WlhtLVJ2Ym1vSWl6akxucDd0cGowR1RsbEVBWUU2RHVVVWc3X09kLUhTVFF4OHpsT1JMQ0xYS3M?oc=5",
-          "domain": "bbc.com",
+          "id": "report-39aa160466a6",
+          "title": "How US oil firms profit $130bn from Iran war as household bills surge",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWTl1NTlNZVhwYmJNd3dac1plX3ZZaXdlS2xuSUJIS0Q3NUx5UU04eDBmRzE5NjM5WXNkeVJNVzJOejVnbnJLV0NDTHNRMWhNRzBnWG5QOFE1dE56cjVtNGRwaHJ3T3hSR2FCZHU0RmRfbElKZnJDbkluSkhvUjBRdTM5Yk0xdHIyZVF6RFBmRUZuYmxsTm1TU09yR3EyaFdhbDd2Z0VPd1BJR21QMmfSAbMBQVVfeXFMTUVWdFhyYUduWmg3bGI5YnJoY2RlNGZTaFVEVmhtX2UtNmg1QzdDeVB3SnVURmFyclJQZ0dMNUlJaTVYbmJfQmZfNWtLRDlFU2haX2p1VTZrSHJHUlhzblhzdEFhMlJNcnpvYU8xVWhKT3M0WEdTQjN5a1J4VzQxdE5iTzVBYUtFbHUtSWt0N3hiUml5dEhHN2ZZRF9TUVpOMktwamRsNDIycmFTNHpXUzNZMGc?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-04T19:12:21Z"
+          "reportedAt": "2026-11-02T14:30:32Z"
         },
         {
           "id": "report-6cdfee6fe05c",
@@ -2671,49 +2671,13 @@
           "reportedAt": "2026-11-04T20:37:53Z"
         },
         {
-          "id": "report-39aa160466a6",
-          "title": "How US oil firms profit $130bn from Iran war as household bills surge",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWTl1NTlNZVhwYmJNd3dac1plX3ZZaXdlS2xuSUJIS0Q3NUx5UU04eDBmRzE5NjM5WXNkeVJNVzJOejVnbnJLV0NDTHNRMWhNRzBnWG5QOFE1dE56cjVtNGRwaHJ3T3hSR2FCZHU0RmRfbElKZnJDbkluSkhvUjBRdTM5Yk0xdHIyZVF6RFBmRUZuYmxsTm1TU09yR3EyaFdhbDd2Z0VPd1BJR21QMmfSAbMBQVVfeXFMTUVWdFhyYUduWmg3bGI5YnJoY2RlNGZTaFVEVmhtX2UtNmg1QzdDeVB3SnVURmFyclJQZ0dMNUlJaTVYbmJfQmZfNWtLRDlFU2haX2p1VTZrSHJHUlhzblhzdEFhMlJNcnpvYU8xVWhKT3M0WEdTQjN5a1J4VzQxdE5iTzVBYUtFbHUtSWt0N3hiUml5dEhHN2ZZRF9TUVpOMktwamRsNDIycmFTNHpXUzNZMGc?oc=5",
-          "domain": "aljazeera.com",
+          "id": "report-0b0bc0482649",
+          "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yRE8zWTktbFNWZGxHdlhMZk4xYTM1VUZMaHI1WGd6ck50M2N6anJ5N1pFOWlVZUtlN3hIWmdKMXlRWC10Z3FrSzFWWlFCSEFjT2VuQUZpeGpZSWs?oc=5",
+          "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-02T14:30:32Z"
-        },
-        {
-          "id": "report-3ff4ba474433",
-          "title": "How will the Iran war shape the outcome of the US midterm vote?",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcFJwaS1FY2hTcTNQU2FrR1lvTVg0R3lncTMwQ0xhQXVpeDgtN0lXNDZfVUJuODZyMER4b2NPRnNwdXZqUGpGc2o2bnM5azV5NUo4X0xmdlN4ZFVLQ0tKaVB1dUw1VVcxZ2d1aFZXOEpxek5pRjl3eXNmbFlLSVc1eEpkMjhrNkNCdGJmSGJtcWRlYWhub29lb2xzM3ZwTUxBbnBMR2taeDVKRTBHZVFrWnRiQ240LWtYbGfSAb8BQVVfeXFMTjdkbzVUbFdhOGNrZlNqVEk0ZGVkTnBDUnlXc3dIRE8yTGZLQ3pvbmM4RmdSVlhXTmd1djdBVktMQWZfM3NGejdmbG5nVFpJZ0Y0TU5sTkVVNWxGU1JEUmhrWmg5MEk4MjdyS0t3YjV5Z1FvR0RLVDhfRzdYc1owT2x1ZG9DdlFfcUVPR2xER3lDUTI5SmFMRUhFM1E5NThrZDlXSndsM3RKOWl1anRkT0s1V0JJTl84SnFCNnRlSE0?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-01T19:01:04Z"
-        },
-        {
-          "id": "report-a604b6a77717",
-          "title": "Democratic sweep of Congress ushers in a new era as Trump acknowledges impact of the Iran war",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQemZtNHA3MndVd0YwZEZjYVZSdXA5NVpnXzhpUnY5Mkp5U2lBTnBtNEV6dVB0LUJZVXBDV2lUNnNHbTczNWFVVEtXUVhFdlUxdm5sOWl6U0JFMjhGXzgzQ19GNXdrNUVJMlB4czlkenlNOUctMGllMmFLRTJrVXl0T1hoQ1ZUcmI4N0xxU18wTEhuQUNHYm5mNFhNc0pVRjJqY0s0clotUW42czd0TTRCNw?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-04T20:49:00Z"
-        },
-        {
-          "id": "report-c22e591b863e",
-          "title": "Iran’s Khamenei warns Trump loss at polls won’t end US hostility",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWDFEXzdGZXdFVFZjVENub3Z2ZC1YaVpJcjVoVjlVbjFwYWFQd0tEVC1yNEtKN0REUG5LcUZKTjV1amFCYVMwSjU4S0xNLUFGaWdsRzZpakQzQ2xmYy1ERzVmSnF5QTg0WnBBcHYyR3RoVVBLdTJKZ1RCN2FsWGNDdTVLeVVUeWt2VVE4WnpWNXdwU2pPckVsNnpoekJTdlNSYkdjWUhkZ3NscjkzSHRoRnFEZkkxd9IBuwFBVV95cUxQTjhXQ1dyT3JQQjRHaXdWMnpvNFNqNURSQWgyT0lzRWRJb3lmdEI4a29qLVVBOVpkZU1sRlBEMVI2ODN4R2NTeUhLRUFPcUUyckpCVEZLRkxLU2cyVjk3WjIwVmJENEhmM1E1V0tzSk5WN2pnam14QU8zLVNqcG12TVFNOXQ3Zk5KRG1hSzFSaG94OWd1RjY0T196MWdmVk1Od2tzZGVPZjFDbmsteWU4b3dINGQtYkpReEhV?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-04T16:31:36Z"
-        },
-        {
-          "id": "report-6a2be415f3a9",
-          "title": "UN warns of security risks in Western Sahara as peacekeeping mission ends",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbzloMWQxNUZlY2pSeXhOSnJHUnNOUG1BMDNsNjl4Y0NySXVOOTF6TDdLVThfOFJXMDRzYWJDRzhxdmhEYWNvT09YYVM4M3JRZUtLVkFVaV9HWWVPU0hzTlU0bGVIa00wV3N5amZSUEhtNEtZclJnMnU1Q2prLWhTWTRSRHNkZWpBMWp1YUcyR1czQkFid0huUnhhRnRLa0VadjFqUV9GMHBoZUh1WGk2VERBWGjSAboBQVVfeXFMUEY2VS1UbUJUV0dBNjJhZEdId1Z0OXhDTm5RT3B5Z0pxbDRoWTh5bUFfM0lzVUxfZGJGTHlzS00taUljT3pyVUdLRjViWDFFdmdBWUJpUVVlU05Qd3BJblRiVnB1Sk1HZHMwcUFCMFl5dkI5UkNIWDRLOWNuaUZGU3VVc2JINmFhY1FsaVlPS1NTcmNYTThwVHl2Rm5CZEYyQm5mdmVTS1FlMXhCNDIzeXhYTW1SenJCdE1R?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-01T23:29:56Z"
+          "reportedAt": "2026-11-05T03:47:56Z"
         },
         {
           "id": "report-a587f989ae6f",
@@ -2725,6 +2689,33 @@
           "reportedAt": "2026-11-03T10:55:38Z"
         },
         {
+          "id": "report-c22e591b863e",
+          "title": "Iran’s Khamenei warns Trump loss at polls won’t end US hostility",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWDFEXzdGZXdFVFZjVENub3Z2ZC1YaVpJcjVoVjlVbjFwYWFQd0tEVC1yNEtKN0REUG5LcUZKTjV1amFCYVMwSjU4S0xNLUFGaWdsRzZpakQzQ2xmYy1ERzVmSnF5QTg0WnBBcHYyR3RoVVBLdTJKZ1RCN2FsWGNDdTVLeVVUeWt2VVE4WnpWNXdwU2pPckVsNnpoekJTdlNSYkdjWUhkZ3NscjkzSHRoRnFEZkkxd9IBuwFBVV95cUxQTjhXQ1dyT3JQQjRHaXdWMnpvNFNqNURSQWgyT0lzRWRJb3lmdEI4a29qLVVBOVpkZU1sRlBEMVI2ODN4R2NTeUhLRUFPcUUyckpCVEZLRkxLU2cyVjk3WjIwVmJENEhmM1E1V0tzSk5WN2pnam14QU8zLVNqcG12TVFNOXQ3Zk5KRG1hSzFSaG94OWd1RjY0T196MWdmVk1Od2tzZGVPZjFDbmsteWU4b3dINGQtYkpReEhV?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-04T16:31:36Z"
+        },
+        {
+          "id": "report-8403cc461db6",
+          "title": "Sudan factories struggle to restart after devastating wartime losses",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRGY4dkdZSjJTWDFoNkdabEJuZ0hXZDJVTmtEaWtBbUkzYmU0dDBObzUwcGFFYVU5MVdXcFdYcjVQVEQ5V3Mwd1hqMzVWMU9GazliNUFYSnZwa1Y5c01GSEw4amdlVnljZXo3c2k1V09xRGI2SngzTUVfZmpmQlkwd291MEZuM1dzSzBhc3hpU29oWWJ3ZUFfZjlHdW16VjhBeTIzNVRWb3pVamlIRHfSAbMBQVVfeXFMUG82TFo5Y0dOTHVCQ25XcDhNT3NCckhLVVhhbXRQWDlYRjNpN3RheDltOU5YeGpUWWtPalIwZDRaQmtHM05HWWZxajM2VGM4RTJkYXNQM0ptMG9CVHNxa3UtcmpWVGRNTXdPaFVNTkNXRHREcnVoNHJnYy14b3NGR1BOV1l0V2lIN1dQV0VnOEwySF9pblJsMlFGNmc4YjlVeWJvOExHM2VIR3VsQmtjdUt5dVk?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-04T22:34:20Z"
+        },
+        {
+          "id": "report-a604b6a77717",
+          "title": "Democratic sweep of Congress ushers in a new era as Trump acknowledges impact of the Iran war",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQemZtNHA3MndVd0YwZEZjYVZSdXA5NVpnXzhpUnY5Mkp5U2lBTnBtNEV6dVB0LUJZVXBDV2lUNnNHbTczNWFVVEtXUVhFdlUxdm5sOWl6U0JFMjhGXzgzQ19GNXdrNUVJMlB4czlkenlNOUctMGllMmFLRTJrVXl0T1hoQ1ZUcmI4N0xxU18wTEhuQUNHYm5mNFhNc0pVRjJqY0s0clotUW42czd0TTRCNw?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-04T20:49:00Z"
+        },
+        {
           "id": "report-5ac79abc68b3",
           "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOM2FoblJSYWxpbFBKV3BrQUZuRXFHTWN6d29HWV9hU0ZPQmxMMHltY01LOVIxSUR4V040UWt1ZEZGUGtlQThobzB4c1o4UHhjVVlQTVdfOHJOcDg?oc=5",
@@ -2734,15 +2725,6 @@
           "reportedAt": "2026-11-03T16:57:41Z"
         },
         {
-          "id": "report-ff2e7a2c963f",
-          "title": "Russia detains minor over alleged Moscow attack plot after US warning",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcm9HR0poYzFGTmNDa0U4ejUyTEgxT2FXXy1UZXQyNjlwQmhXMm11YzVGNENzLTFCOC1uVXgwUUh2NWVWMlB4N1oyQWxucmNXWXJyU1BzaV9WOGYtcmNuTlBDMUJ1emVxQ0d2VWRWZ3JXMTZrWGs0VnlSWlpjX1dqOUdPS2FLeEJfaThvbkM3Z2h3Q0MtX2h0bTdTTUZDQ0oyemlZSXg1R3lsSHd4X3Rz0gG0AUFVX3lxTE9oY09aWTVHV2k3ZlVSY2ZhSmFHc0w5clFacmY5WEdyQS10SjZNb1ZOSjRpUlVpQkNGWk5OSGxIMkFrLWx2X2puR1NOaHBPWFdWWDVmb0VpTl81TXhkUERaNDBiRUxqYzBJTllRdUx4VHBKNjdSc1B0eUxXb0gxaDBnWlZHRTE4YXdPYVJUNm5TR21aaWlIQXI1VGVIVkhwVk1mNHJkUkp2clNhYTFac0tyLWpZYg?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-01T16:26:10Z"
-        },
-        {
           "id": "report-ecd66b4f7f3f",
           "title": "Iran’s leaders say midterm results show US voters have rejected Trump’s war",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORWpUSjZoNTU2eEkzUGZJbHl4WEdBMWtFNzQ1Q3l1V1VTbVJSeUprOHhmS19STXpBSi1oV2lmanFnT09MZldRd0lyNjJ5WFAycWRWQzd6UFRLSm1YSDNQRGpXdldpRjF1QmlYM3Y3anpjWUVScndXNDQ1VHkxWk9HNDJhTGJtc2V6T3VRTw?oc=5",
@@ -2750,6 +2732,24 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-11-04T20:46:00Z"
+        },
+        {
+          "id": "report-571e020b11b6",
+          "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHbURkOHdGSS1HSFdpbG1TQXBGa2lhNkVoS3RhRHBRSVR2bTlKa0dKTTc5MFpfUHNlNFJ1LXV0M0pQd0t1QWNzLTNIcFR3ZGxDNTZzWURxc3R1U1U?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-02T17:33:19Z"
+        },
+        {
+          "id": "report-e688a603e46b",
+          "title": "Trump admits Iran war hurt Republican vote, vows to veto ‘insane’ bills",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMm41SFlwczktQmJ2aFdwSlY2MkxONGc1RVdSQzlaZmt6Ykt2X3pCVmtBTFZLeUxJRzRLNWVMNm9DbWhZRzh0dDVnTWFualV5Rnh2Q3F3Qzh5VDdTRGpYdzhqNnJXUXVvTHFWc3JXZ2U3QnNtbzRNY1hWYVlpYUpCb242OGF6RXk2eHBSLXRQVWthWDdraXlsQU9SbFZBSUxNbzNyVWFpcjVVWVE4VlVNWnlveWF2RGtpM3Iw0gHAAUFVX3lxTE5WNGplR01rVVJyMEtQU3o4U21JOFpiTk1rd3Voa0NRYkhfTXRraGVNR1NIOFFqZEozb0EyTkdYbWdsZHVra2RBODZMMkNqUENnSWh0RVpkYUp6NFZXZVBueEtucDJUa2Ftb2xJcklOY3RwVXBHWEVPbmEwbVBJbTdyOUdQaHU4WXlEUHBIdUdWSW1aS3RFMG9tbkM1SUVZeDJCMWx4TUNJUTFhX3c4RDZsYUc2QTlIbnJrcF9ZYTZXeg?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-04T13:20:56Z"
         },
         {
           "id": "report-ee97a952ca30",
