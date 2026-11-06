@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T19:23:46.064Z",
+  "generatedAt": "2026-11-06T21:04:44.179Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -9,7 +9,7 @@
       "items": []
     },
     "safety": {
-      "generatedAt": "2026-11-05T21:34:24.660Z",
+      "generatedAt": "2026-11-06T21:04:44.179Z",
       "cadence": "daily",
       "items": [
         {
@@ -34,14 +34,6 @@
           "domain": "military.com",
           "sourceTier": "Independent reporting",
           "seen": "20261102T183604Z",
-          "pinned": false
-        },
-        {
-          "title": "News - Ahead-of-schedule and accident-free: Navy cuts ribbon on critical facility supporting shipyard modernization",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdEpWQ1hpREV1U2JnQU4xYWRQTWJpaXQ3LTVIbFo2TDRiZFVBeThSLTB1UzZnNFRaVVQtaWlUVmwxVF9JVDdHTE9ydmk4MjJhT1VZVzA2MDRCUk1kTHBnSjRFb3hVd3pVYTI3cDNFbHdsREhwd0EyOElpeVV1LXNOdXFpVmJ2cVpYUXRuY3p2Um9XXzUtY1Fwa2p2bzB6UUxvMU94eVl2UFl5c00xbTFmbE1MN2FmVWZuUWNHSEdXZ2dVY2lUUWtDNjBwVXhnT1RxZlZsdA?oc=5",
-          "domain": "dvidshub.net",
-          "sourceTier": "Official military source",
-          "seen": "20261023T070000Z",
           "pinned": false
         },
         {
@@ -71,6 +63,14 @@
         {
           "title": "Crash Rescue Products",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WQTh5RzJ4RUhLMVQ0bDhKLVkwSVV1SlFSWTd4ZVBVQVJGMFREUHZSclZWT3d1NG9ReHFjclF4VVRLNGRpUW5qWENyLXJ0VEt3Z2RyeEx5WmxxQTJua2hHdExaVTd6MW1IeXdLZVJZcw?oc=5",
+          "domain": "safety.army.mil",
+          "sourceTier": "Official military source",
+          "seen": "20261101T070000Z",
+          "pinned": false
+        },
+        {
+          "title": "Mishap Reporting & Investigation - USACRC",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQa3N3dHMxU2JBdXZfZmptYXdVWXdzMzdKU2pmcXVFSU5uYmxEWUw0UGQ4OGJ0eXUzbF9MOHgzSEowdTRIY3A4VFpKZnlhcENkazdJdGhwVndlenhPdjRGbDgyRUZEU1NDU2kzUDhFb2NEM0JHTmxLSl9pVzNfSEozUUkyTGFHQVJONTJneEhBOGx4NUtQYjl4dC1nYU1qX0lHQXZUZERuV2JwbElWaHZhbkJockR3Z05GS1FpM1NEQnI2ZHprUUE?oc=5",
           "domain": "safety.army.mil",
           "sourceTier": "Official military source",
           "seen": "20261101T070000Z",
@@ -185,6 +185,24 @@
           "sourceLabel": "safety.army.mil"
         },
         {
+          "id": "auto-e8d9bbcefe14",
+          "reportDate": "2026-11-01",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Other",
+          "event": "Mishap Reporting & Investigation - USACRC",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "OFFICIAL INTAKE",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Official military source",
+          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
+          "source": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQa3N3dHMxU2JBdXZfZmptYXdVWXdzMzdKU2pmcXVFSU5uYmxEWUw0UGQ4OGJ0eXUzbF9MOHgzSEowdTRIY3A4VFpKZnlhcENkazdJdGhwVndlenhPdjRGbDgyRUZEU1NDU2kzUDhFb2NEM0JHTmxLSl9pVzNfSEozUUkyTGFHQVJONTJneEhBOGx4NUtQYjl4dC1nYU1qX0lHQXZUZERuV2JwbElWaHZhbkJockR3Z05GS1FpM1NEQnI2ZHprUUE?oc=5",
+          "sourceLabel": "safety.army.mil"
+        },
+        {
           "id": "auto-1b32012f32cd",
           "reportDate": "2026-10-27",
           "dateBasis": "report discovery date",
@@ -237,24 +255,6 @@
           "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
           "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUXVZa3hzdzBmNkg3RS1YaGd4Q0U0blByVmtYVXFzb3p5OWZ0TWhxdFRDNGpDcUN3Wlk5SG5CcEJhRmVhUVFRS0hDYkIxLXZJTm9wOEZDVlAxWmhwdllPemJJcm9RQ1BSNDZUWTRyaG5vYUFwb3hIbnNKWm1jVFNfX0VNMXdXeFdqMjA4dmtHTnJEc1haYnc?oc=5",
           "sourceLabel": "airandspaceforces.com"
-        },
-        {
-          "id": "auto-e8d9bbcefe14",
-          "reportDate": "2026-10-25",
-          "dateBasis": "report discovery date",
-          "branch": "Army",
-          "department": "Department of the Army",
-          "type": "Other",
-          "event": "Mishap Reporting & Investigation - USACRC",
-          "location": "See official source",
-          "fatalities": null,
-          "injuries": null,
-          "status": "OFFICIAL INTAKE",
-          "signalClass": "REPORTED MISHAP",
-          "sourceTier": "Official military source",
-          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
-          "source": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQa3N3dHMxU2JBdXZfZmptYXdVWXdzMzdKU2pmcXVFSU5uYmxEWUw0UGQ4OGJ0eXUzbF9MOHgzSEowdTRIY3A4VFpKZnlhcENkazdJdGhwVndlenhPdjRGbDgyRUZEU1NDU2kzUDhFb2NEM0JHTmxLSl9pVzNfSEozUUkyTGFHQVJONTJneEhBOGx4NUtQYjl4dC1nYU1qX0lHQXZUZERuV2JwbElWaHZhbkJockR3Z05GS1FpM1NEQnI2ZHprUUE?oc=5",
-          "sourceLabel": "safety.army.mil"
         },
         {
           "id": "auto-f9a95814fed4",
