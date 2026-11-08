@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T20:27:27.132Z",
+  "generatedAt": "2026-11-08T22:02:39.712Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-11-08T13:22:17.245Z",
+      "generatedAt": "2026-11-08T22:02:39.712Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -2553,7 +2553,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-11-08T13:22:17.245Z",
+      "generatedAt": "2026-11-08T22:02:39.712Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -2578,6 +2578,14 @@
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20261105T172349Z",
+          "pinned": false
+        },
+        {
+          "title": "Iran warns US of 'devastating response' if Washington starts war",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbmVtN0wxM3FSekxMN0g4Tno2QXRwMEQ3a0Ezd1VGdkZORUYyeEVHeDh1UlB6anlwMUhNN3VBbk9Bd0RRU1RjeWJCRUZ2S0VFSHA0SVR3Zm5IdEZLUFE1X0hCZ2lFSTR4cXpZSHIwSnczMldyVnJPcmtUWmpwNHNzSnYyYnBLLUw1V19yZlhNRHQ4NG5yVzF2M0ZCY09zSGNlOWZWVTBpMmRtQ0ZpQjA5RFA3OTU?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20261107T190540Z",
           "pinned": false
         },
         {
@@ -2621,6 +2629,22 @@
           "pinned": false
         },
         {
+          "title": "Dozens killed as humanitarian crisis mounts in Yemen: What next for war?",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbmlWWnMtTzdiUHpoSW8yUnpONHhJYVB5MGZDeUZsZENScV8ySzlUTlZOT2xUMWtuQWRqZ09RY0J0cHNxUlFlZUpsdVZkX1BhTndacWg5WFhxVTZkaVhCNDRJQlZFWmY5THd6bkRUWWMyWnQ0azJfZ2ROY3VRbWVvTk5ZZ1VlZHppcnRrZlVLR1VRTDQwNWUwOU5xcDZRNDc5YzQ0WDBmeXNoTk9iaXpqaNIBtgFBVV95cUxNYTFGRDdJbDZ4dF84UWp3MWdSMFlzYTI4NGF5cHdBSkpXRXhxOVh1WlJqTzI5ZXd3VWZXY285bnVMU2JTR20tcTlqdzRVbmNQc0JBRDJFRFk0WTBXZ3R4U3F3eWRnMFp2RExYZmpGVkRJMmtuNVpkOUlYb0x3M0RvWkdxa09ELU4zZ0dQNlFmbE9XX1l3bTBJLXI1RnpMZkF6dE8yd09jRHJNbTRvWkxCSjlxLVVWZw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261107T120334Z",
+          "pinned": false
+        },
+        {
+          "title": "Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORWd2ZHNRRjNUZE56eU5kdTU3cl9ja2dwemEtRWYyaG9GcEVBU2RBS3N5a3g1dFY4blY4a1d0eEtQa0VwdTFtNGVZRGhkWW9fZURoZFlnS0dZUXBndnJMME5EUjloYmthMDlOcnltMUNVblF2eHRXNU53RWdLNEZuRWtZYzF3M0d6QlllRjBMMnJaUU5SdVJ0YVVWUXM3V0hKeVg0YXV4ONIBrAFBVV95cUxPSXZRVmV6bnNJWlA5Zm5mcHZNMEdFNjBGbXdGYWJsYnllQUxFM0pQZ2N6OTdpYUZ5NUFtSHhjaG15YTF3VVg4TFM2MTFZVE1nOGN1dngxOFZfOExmajNUMXFJYVRwR3VISFRiMWFBVWlHOE9pSjJtdkJZTHlHMGFFN0xkOVVRRVotTjgzOVBFVGhBbGxETTRVN2JXNHV2OXRYVjlSQ3ROdFRTeFFF?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261107T085156Z",
+          "pinned": false
+        },
+        {
           "title": "Newark Peace Match commemorates World War One Christmas truce",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Oa3FkWGhCVkIwTVRqWW9oUTd4OGVaOGxjWHFCRGRTcWU0YTNNZW43Z1M2dDFCd1ZiZXZ2U2pRdTVfTnA4UHBpX1VSVTBJZjl2ZWJPWEVpVm9EOVk?oc=5",
           "domain": "bbc.com",
@@ -2634,22 +2658,6 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20261107T063248Z",
-          "pinned": false
-        },
-        {
-          "title": "Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORWd2ZHNRRjNUZE56eU5kdTU3cl9ja2dwemEtRWYyaG9GcEVBU2RBS3N5a3g1dFY4blY4a1d0eEtQa0VwdTFtNGVZRGhkWW9fZURoZFlnS0dZUXBndnJMME5EUjloYmthMDlOcnltMUNVblF2eHRXNU53RWdLNEZuRWtZYzF3M0d6QlllRjBMMnJaUU5SdVJ0YVVWUXM3V0hKeVg0YXV4ONIBrAFBVV95cUxPSXZRVmV6bnNJWlA5Zm5mcHZNMEdFNjBGbXdGYWJsYnllQUxFM0pQZ2N6OTdpYUZ5NUFtSHhjaG15YTF3VVg4TFM2MTFZVE1nOGN1dngxOFZfOExmajNUMXFJYVRwR3VISFRiMWFBVWlHOE9pSjJtdkJZTHlHMGFFN0xkOVVRRVotTjgzOVBFVGhBbGxETTRVN2JXNHV2OXRYVjlSQ3ROdFRTeFFF?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261107T085156Z",
-          "pinned": false
-        },
-        {
-          "title": "Dozens killed as humanitarian crisis mounts in Yemen: What next for war?",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbmlWWnMtTzdiUHpoSW8yUnpONHhJYVB5MGZDeUZsZENScV8ySzlUTlZOT2xUMWtuQWRqZ09RY0J0cHNxUlFlZUpsdVZkX1BhTndacWg5WFhxVTZkaVhCNDRJQlZFWmY5THd6bkRUWWMyWnQ0azJfZ2ROY3VRbWVvTk5ZZ1VlZHppcnRrZlVLR1VRTDQwNWUwOU5xcDZRNDc5YzQ0WDBmeXNoTk9iaXpqaNIBtgFBVV95cUxNYTFGRDdJbDZ4dF84UWp3MWdSMFlzYTI4NGF5cHdBSkpXRXhxOVh1WlJqTzI5ZXd3VWZXY285bnVMU2JTR20tcTlqdzRVbmNQc0JBRDJFRFk0WTBXZ3R4U3F3eWRnMFp2RExYZmpGVkRJMmtuNVpkOUlYb0x3M0RvWkdxa09ELU4zZ0dQNlFmbE9XX1l3bTBJLXI1RnpMZkF6dE8yd09jRHJNbTRvWkxCSjlxLVVWZw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261107T120334Z",
           "pinned": false
         },
         {
@@ -2693,19 +2701,19 @@
           "pinned": false
         },
         {
-          "title": "European troops prepare for possible post-ceasefire deployment to Ukraine",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd3JZUlE3WV96czBfUWRYc0R4ZDFsbFM0eTZqck14dHRKMG5rcmFuWGUxUS16dVhqUkFKcEx0dlY1UjBJTXBDYV9yUkJwMXRWMzhPLXk4SWdTVU9fTkhCMmQzLW5PTHo2UnBWdDZwcVZOLUJSWnRpVHdaSkE3dW9rWFR0UXBjZ0s0S1QtSVc2VmVJXzTSAZgBQVVfeXFMT005R2VlYzFnMGhyaDBHNkdJcHM4UnI0MTliSDlSX0F5UjRGcmtfcldGUUJIazJaX3hfQWhaWWVobmx1TlllY3NUdTVfNVVXVWhfSFVzOGJUdEttdDc5eVNUWE5qUUVpWTB1UVlLOGVJT1dxX3BMWTBDOEpIT1FkVHJJbTJteW4yMXZlMFRjWTZ5aDdZYkhYOWc?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261106T161220Z",
-          "pinned": false
-        },
-        {
           "title": "Abdul El-Sayed slams Trump’s tariff war with Canada",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUnYwLWlzSG81XzlXRFFWRHdmWXU3OWljQnBHaU5FVThCWHlFVGU2Ynl5VUxtQkljeXoxX1hSTk1STmRkajFpa19OR2NxSkowcjlyakpjMEVzTjBDUmhCUkgzcTdHaE51UTdBTVBTak0tZ3VZMHNUWUdWaUxXaFRnekYxYzVEX1JtVWIzTW1VSkNWa3Bta1VJSlFiM1BJS3duZ2pv0gGoAUFVX3lxTE9RTXdZSDNoNGplSW1JaFFJOC1LMEVxbE9rSmphM0pfd0tuTXd0WVFCS1R1RFd0M3QyRjJjdFVYSnF6R3RWWTlhcVlqcTdQUmhYVWlPZktmRDZWS3gybG16MmVOcW53ZERGWHpVekN6Z2ZrNFNoM1Z4QWhtNXpaMVdNd1FMcGxTVkI5ek9UZTZOaUN3U3hxdFFzaTZZR24ycmxIUTd0S0o0Nw?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20261107T205706Z",
+          "pinned": false
+        },
+        {
+          "title": "European troops prepare for possible post-ceasefire deployment to Ukraine",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd3JZUlE3WV96czBfUWRYc0R4ZDFsbFM0eTZqck14dHRKMG5rcmFuWGUxUS16dVhqUkFKcEx0dlY1UjBJTXBDYV9yUkJwMXRWMzhPLXk4SWdTVU9fTkhCMmQzLW5PTHo2UnBWdDZwcVZOLUJSWnRpVHdaSkE3dW9rWFR0UXBjZ0s0S1QtSVc2VmVJXzTSAZgBQVVfeXFMT005R2VlYzFnMGhyaDBHNkdJcHM4UnI0MTliSDlSX0F5UjRGcmtfcldGUUJIazJaX3hfQWhaWWVobmx1TlllY3NUdTVfNVVXVWhfSFVzOGJUdEttdDc5eVNUWE5qUUVpWTB1UVlLOGVJT1dxX3BMWTBDOEpIT1FkVHJJbTJteW4yMXZlMFRjWTZ5aDdZYkhYOWc?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261106T161220Z",
           "pinned": false
         },
         {
@@ -2725,27 +2733,19 @@
           "pinned": false
         },
         {
+          "title": "Russian strikes on Ukraine leave hundreds of thousands without electricity",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPX3k2UlNRSWl0LVdfSFFVR2NNOFlpSGVsWWRiS05JelN6M09NYy1GRFp1V2R6RjZaaWRfV2g0R0xkS2JrSlJCMF9LNHJ3aW5XdGdYWm9kVno5NUFKQS15VnJVRUVKdzU3MEtlQ3NZOHd0T01NR0tXalNUd0ZUVDVZRmJBNmpSWDllSWJsVk1TMUdZc3VtS2RtVkNBTERyeDVZUjk4ODhGM0hlWnlMQzRXbzBZS2dQQdIBuwFBVV95cUxQQkNrd3QxaE9kSV9USXh5bkNjNDdHUTZHZmhUYnU0NXVlY3gwTWxwVEppU2tFSWpidURIQ1MtVFdPYlhhd2lub1FSUUR6bVNJWVB4VmQxNUJQODRzU2dURk5XejU1N2FRaXlJSVRGOENKMHdpZFE0SWo4T2RjTU9IVzNvZUJ6OXRkSzJtVmJOczhRNk1NUElLcHJKR3hBZ1JobWl2OFNXcC1PbE5tU3VlQmxZSFcwZ0h2b0s0?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261108T122729Z",
+          "pinned": false
+        },
+        {
           "title": "Iran turns to Putin as war, US election reshape strategic calculations - Al-Monitor",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPY0dJakxhSWRiV1NuNEp2cmhhaU5ESy1GM0MyUUI4UmRIRi1oN0tvQmxPNC0wLVA1ajFEYmhNUGpoVFAwaGVNMnFuRmVxYVBMZGthaGkxZFVpRkp0TDh6RDZ2OXFMd2RVNDloRHlwTzBTRjEzRTUwdFhKTEcwa01mbHk4eWoybGREdFB6UVVpZUZmRXlnbTNUU1VRSEFHSm5CaUExR01zOGlnSGho?oc=5",
           "domain": "al-monitor.com",
           "sourceTier": "Regional reporting",
-          "seen": "20261105T080000Z",
-          "pinned": false
-        },
-        {
-          "title": "Drone and missile attacks wound 9 in Ukraine as country prepares for talks with Russia and US",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSEJTUU1HSllBRS1hYUxLTGNzSGpQdEwzQVgyUnBnRmdUN1dRdmtUaGxMb2lEVHh2MjBOaUVfQk5Ed0tnaUduaFFxcXhPdnhRa1lCTFNRQjRUWk5URDhJeFVENWNJUUVEUnd4V0J0bDFpY3Z5Y09jc3NpRS0zZk5RVHBHNVlxM0Q0RGFXSExYN1YyRm5CeHdEZ3ZCUFJVV1VT?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261108T003700Z",
-          "pinned": false
-        },
-        {
-          "title": "We face paying £9,000 tax even though our second home is in a war zone",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tVkltSm1UNzhTNC10c3hRaVV3S1UtdW16Z0xQc1JXWS1aMDVGTHFOSnltdEVrTzljbGxxM1BFQXVqd1Z5bXNTT0RWXzU5V05LNEFPMm95SU5hY1k?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261108T080459Z",
+          "seen": "20261107T070026Z",
           "pinned": false
         }
       ],
@@ -2776,6 +2776,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-11-05T17:23:49Z"
+        },
+        {
+          "id": "report-c866630f7511",
+          "title": "Iran warns US of 'devastating response' if Washington starts war",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbmVtN0wxM3FSekxMN0g4Tno2QXRwMEQ3a0Ezd1VGdkZORUYyeEVHeDh1UlB6anlwMUhNN3VBbk9Bd0RRU1RjeWJCRUZ2S0VFSHA0SVR3Zm5IdEZLUFE1X0hCZ2lFSTR4cXpZSHIwSnczMldyVnJPcmtUWmpwNHNzSnYyYnBLLUw1V19yZlhNRHQ4NG5yVzF2M0ZCY09zSGNlOWZWVTBpMmRtQ0ZpQjA5RFA3OTU?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-11-07T19:05:40Z"
         },
         {
           "id": "report-7d1e578bc1ac",
@@ -2823,6 +2832,24 @@
           "reportedAt": "2026-11-06T05:17:40Z"
         },
         {
+          "id": "report-ab277c4d3c94",
+          "title": "Dozens killed as humanitarian crisis mounts in Yemen: What next for war?",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbmlWWnMtTzdiUHpoSW8yUnpONHhJYVB5MGZDeUZsZENScV8ySzlUTlZOT2xUMWtuQWRqZ09RY0J0cHNxUlFlZUpsdVZkX1BhTndacWg5WFhxVTZkaVhCNDRJQlZFWmY5THd6bkRUWWMyWnQ0azJfZ2ROY3VRbWVvTk5ZZ1VlZHppcnRrZlVLR1VRTDQwNWUwOU5xcDZRNDc5YzQ0WDBmeXNoTk9iaXpqaNIBtgFBVV95cUxNYTFGRDdJbDZ4dF84UWp3MWdSMFlzYTI4NGF5cHdBSkpXRXhxOVh1WlJqTzI5ZXd3VWZXY285bnVMU2JTR20tcTlqdzRVbmNQc0JBRDJFRFk0WTBXZ3R4U3F3eWRnMFp2RExYZmpGVkRJMmtuNVpkOUlYb0x3M0RvWkdxa09ELU4zZ0dQNlFmbE9XX1l3bTBJLXI1RnpMZkF6dE8yd09jRHJNbTRvWkxCSjlxLVVWZw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-07T12:03:34Z"
+        },
+        {
+          "id": "report-cf54c1d8f3e5",
+          "title": "Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORWd2ZHNRRjNUZE56eU5kdTU3cl9ja2dwemEtRWYyaG9GcEVBU2RBS3N5a3g1dFY4blY4a1d0eEtQa0VwdTFtNGVZRGhkWW9fZURoZFlnS0dZUXBndnJMME5EUjloYmthMDlOcnltMUNVblF2eHRXNU53RWdLNEZuRWtZYzF3M0d6QlllRjBMMnJaUU5SdVJ0YVVWUXM3V0hKeVg0YXV4ONIBrAFBVV95cUxPSXZRVmV6bnNJWlA5Zm5mcHZNMEdFNjBGbXdGYWJsYnllQUxFM0pQZ2N6OTdpYUZ5NUFtSHhjaG15YTF3VVg4TFM2MTFZVE1nOGN1dngxOFZfOExmajNUMXFJYVRwR3VISFRiMWFBVWlHOE9pSjJtdkJZTHlHMGFFN0xkOVVRRVotTjgzOVBFVGhBbGxETTRVN2JXNHV2OXRYVjlSQ3ROdFRTeFFF?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-07T08:51:56Z"
+        },
+        {
           "id": "report-c0bddd80eb7e",
           "title": "Newark Peace Match commemorates World War One Christmas truce",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Oa3FkWGhCVkIwTVRqWW9oUTd4OGVaOGxjWHFCRGRTcWU0YTNNZW43Z1M2dDFCd1ZiZXZ2U2pRdTVfTnA4UHBpX1VSVTBJZjl2ZWJPWEVpVm9EOVk?oc=5",
@@ -2839,24 +2866,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-11-07T06:32:48Z"
-        },
-        {
-          "id": "report-cf54c1d8f3e5",
-          "title": "Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORWd2ZHNRRjNUZE56eU5kdTU3cl9ja2dwemEtRWYyaG9GcEVBU2RBS3N5a3g1dFY4blY4a1d0eEtQa0VwdTFtNGVZRGhkWW9fZURoZFlnS0dZUXBndnJMME5EUjloYmthMDlOcnltMUNVblF2eHRXNU53RWdLNEZuRWtZYzF3M0d6QlllRjBMMnJaUU5SdVJ0YVVWUXM3V0hKeVg0YXV4ONIBrAFBVV95cUxPSXZRVmV6bnNJWlA5Zm5mcHZNMEdFNjBGbXdGYWJsYnllQUxFM0pQZ2N6OTdpYUZ5NUFtSHhjaG15YTF3VVg4TFM2MTFZVE1nOGN1dngxOFZfOExmajNUMXFJYVRwR3VISFRiMWFBVWlHOE9pSjJtdkJZTHlHMGFFN0xkOVVRRVotTjgzOVBFVGhBbGxETTRVN2JXNHV2OXRYVjlSQ3ROdFRTeFFF?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-07T08:51:56Z"
-        },
-        {
-          "id": "report-ab277c4d3c94",
-          "title": "Dozens killed as humanitarian crisis mounts in Yemen: What next for war?",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbmlWWnMtTzdiUHpoSW8yUnpONHhJYVB5MGZDeUZsZENScV8ySzlUTlZOT2xUMWtuQWRqZ09RY0J0cHNxUlFlZUpsdVZkX1BhTndacWg5WFhxVTZkaVhCNDRJQlZFWmY5THd6bkRUWWMyWnQ0azJfZ2ROY3VRbWVvTk5ZZ1VlZHppcnRrZlVLR1VRTDQwNWUwOU5xcDZRNDc5YzQ0WDBmeXNoTk9iaXpqaNIBtgFBVV95cUxNYTFGRDdJbDZ4dF84UWp3MWdSMFlzYTI4NGF5cHdBSkpXRXhxOVh1WlJqTzI5ZXd3VWZXY285bnVMU2JTR20tcTlqdzRVbmNQc0JBRDJFRFk0WTBXZ3R4U3F3eWRnMFp2RExYZmpGVkRJMmtuNVpkOUlYb0x3M0RvWkdxa09ELU4zZ0dQNlFmbE9XX1l3bTBJLXI1RnpMZkF6dE8yd09jRHJNbTRvWkxCSjlxLVVWZw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-07T12:03:34Z"
         },
         {
           "id": "report-348d87f14131",
@@ -2904,15 +2913,6 @@
           "reportedAt": "2026-11-07T02:11:00Z"
         },
         {
-          "id": "report-9511ce3fc9d7",
-          "title": "European troops prepare for possible post-ceasefire deployment to Ukraine",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd3JZUlE3WV96czBfUWRYc0R4ZDFsbFM0eTZqck14dHRKMG5rcmFuWGUxUS16dVhqUkFKcEx0dlY1UjBJTXBDYV9yUkJwMXRWMzhPLXk4SWdTVU9fTkhCMmQzLW5PTHo2UnBWdDZwcVZOLUJSWnRpVHdaSkE3dW9rWFR0UXBjZ0s0S1QtSVc2VmVJXzTSAZgBQVVfeXFMT005R2VlYzFnMGhyaDBHNkdJcHM4UnI0MTliSDlSX0F5UjRGcmtfcldGUUJIazJaX3hfQWhaWWVobmx1TlllY3NUdTVfNVVXVWhfSFVzOGJUdEttdDc5eVNUWE5qUUVpWTB1UVlLOGVJT1dxX3BMWTBDOEpIT1FkVHJJbTJteW4yMXZlMFRjWTZ5aDdZYkhYOWc?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-06T16:12:20Z"
-        },
-        {
           "id": "report-fe6414b9ab10",
           "title": "Abdul El-Sayed slams Trump’s tariff war with Canada",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUnYwLWlzSG81XzlXRFFWRHdmWXU3OWljQnBHaU5FVThCWHlFVGU2Ynl5VUxtQkljeXoxX1hSTk1STmRkajFpa19OR2NxSkowcjlyakpjMEVzTjBDUmhCUkgzcTdHaE51UTdBTVBTak0tZ3VZMHNUWUdWaUxXaFRnekYxYzVEX1JtVWIzTW1VSkNWa3Bta1VJSlFiM1BJS3duZ2pv0gGoAUFVX3lxTE9RTXdZSDNoNGplSW1JaFFJOC1LMEVxbE9rSmphM0pfd0tuTXd0WVFCS1R1RFd0M3QyRjJjdFVYSnF6R3RWWTlhcVlqcTdQUmhYVWlPZktmRDZWS3gybG16MmVOcW53ZERGWHpVekN6Z2ZrNFNoM1Z4QWhtNXpaMVdNd1FMcGxTVkI5ek9UZTZOaUN3U3hxdFFzaTZZR24ycmxIUTd0S0o0Nw?oc=5",
@@ -2920,6 +2920,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-11-07T20:57:06Z"
+        },
+        {
+          "id": "report-9511ce3fc9d7",
+          "title": "European troops prepare for possible post-ceasefire deployment to Ukraine",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd3JZUlE3WV96czBfUWRYc0R4ZDFsbFM0eTZqck14dHRKMG5rcmFuWGUxUS16dVhqUkFKcEx0dlY1UjBJTXBDYV9yUkJwMXRWMzhPLXk4SWdTVU9fTkhCMmQzLW5PTHo2UnBWdDZwcVZOLUJSWnRpVHdaSkE3dW9rWFR0UXBjZ0s0S1QtSVc2VmVJXzTSAZgBQVVfeXFMT005R2VlYzFnMGhyaDBHNkdJcHM4UnI0MTliSDlSX0F5UjRGcmtfcldGUUJIazJaX3hfQWhaWWVobmx1TlllY3NUdTVfNVVXVWhfSFVzOGJUdEttdDc5eVNUWE5qUUVpWTB1UVlLOGVJT1dxX3BMWTBDOEpIT1FkVHJJbTJteW4yMXZlMFRjWTZ5aDdZYkhYOWc?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-06T16:12:20Z"
         },
         {
           "id": "report-1cd49ee57d14",
@@ -2940,31 +2949,22 @@
           "reportedAt": "2026-11-05T20:52:12Z"
         },
         {
+          "id": "report-7e829411c97a",
+          "title": "Russian strikes on Ukraine leave hundreds of thousands without electricity",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPX3k2UlNRSWl0LVdfSFFVR2NNOFlpSGVsWWRiS05JelN6M09NYy1GRFp1V2R6RjZaaWRfV2g0R0xkS2JrSlJCMF9LNHJ3aW5XdGdYWm9kVno5NUFKQS15VnJVRUVKdzU3MEtlQ3NZOHd0T01NR0tXalNUd0ZUVDVZRmJBNmpSWDllSWJsVk1TMUdZc3VtS2RtVkNBTERyeDVZUjk4ODhGM0hlWnlMQzRXbzBZS2dQQdIBuwFBVV95cUxQQkNrd3QxaE9kSV9USXh5bkNjNDdHUTZHZmhUYnU0NXVlY3gwTWxwVEppU2tFSWpidURIQ1MtVFdPYlhhd2lub1FSUUR6bVNJWVB4VmQxNUJQODRzU2dURk5XejU1N2FRaXlJSVRGOENKMHdpZFE0SWo4T2RjTU9IVzNvZUJ6OXRkSzJtVmJOczhRNk1NUElLcHJKR3hBZ1JobWl2OFNXcC1PbE5tU3VlQmxZSFcwZ0h2b0s0?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-08T12:27:29Z"
+        },
+        {
           "id": "report-6843121e5836",
           "title": "Iran turns to Putin as war, US election reshape strategic calculations - Al-Monitor",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPY0dJakxhSWRiV1NuNEp2cmhhaU5ESy1GM0MyUUI4UmRIRi1oN0tvQmxPNC0wLVA1ajFEYmhNUGpoVFAwaGVNMnFuRmVxYVBMZGthaGkxZFVpRkp0TDh6RDZ2OXFMd2RVNDloRHlwTzBTRjEzRTUwdFhKTEcwa01mbHk4eWoybGREdFB6UVVpZUZmRXlnbTNUU1VRSEFHSm5CaUExR01zOGlnSGho?oc=5",
           "domain": "al-monitor.com",
           "sourceTier": "Regional reporting",
           "confidenceLabel": "REGIONAL REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-05T08:00:00Z"
-        },
-        {
-          "id": "report-6a47f23562fd",
-          "title": "Drone and missile attacks wound 9 in Ukraine as country prepares for talks with Russia and US",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSEJTUU1HSllBRS1hYUxLTGNzSGpQdEwzQVgyUnBnRmdUN1dRdmtUaGxMb2lEVHh2MjBOaUVfQk5Ed0tnaUduaFFxcXhPdnhRa1lCTFNRQjRUWk5URDhJeFVENWNJUUVEUnd4V0J0bDFpY3Z5Y09jc3NpRS0zZk5RVHBHNVlxM0Q0RGFXSExYN1YyRm5CeHdEZ3ZCUFJVV1VT?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-08T00:37:00Z"
-        },
-        {
-          "id": "report-e6bd6e8ce7c3",
-          "title": "We face paying £9,000 tax even though our second home is in a war zone",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tVkltSm1UNzhTNC10c3hRaVV3S1UtdW16Z0xQc1JXWS1aMDVGTHFOSnltdEVrTzljbGxxM1BFQXVqd1Z5bXNTT0RWXzU5V05LNEFPMm95SU5hY1k?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-08T08:04:59Z"
+          "reportedAt": "2026-11-07T07:00:26Z"
         },
         {
           "id": "report-bab30519ca8f",
