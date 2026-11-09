@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T06:21:45.583Z",
+  "generatedAt": "2026-11-09T22:19:49.809Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-11-09T06:21:45.583Z",
+      "generatedAt": "2026-11-09T22:19:49.809Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -2553,7 +2553,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-11-09T06:21:45.583Z",
+      "generatedAt": "2026-11-09T22:19:49.809Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -2562,6 +2562,22 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20261107T104442Z",
+          "pinned": false
+        },
+        {
+          "title": "Iran’s authorities harden domestic security controls amid US strike threats",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNejM4M1haR2lZMnBiOEpTSTJOazlhRHNRQ0N1Wk1GZGJlYzJpZGd5b1JBLXV6ZXVRMEhtZXJzdHVtSlBfNVMzdzNVTlF5cEVUNGwxbnB3VVBGMG9kMlpIM3g3ZDFvWVJKU084NnBndnpYdVFFMDY5eTBad3RrR1BoOHlwc0lyNnNMODJPbDR0SDhoVXRxUWdaRU9TUkd6T2hfRldBQTJPV3dJVEJCME9YVWtsM0Z6d9IBuwFBVV95cUxOcDI0VFBIaVBFVnVCa1UtV0IyZmVnWkhPNkM5T1p5dy1UMU9rMkRzMk96ZE1NLWlkS0pmNkJnVnNGQUFUNTBaQjJtSWZlYzhEamMxbzk2a29OSHdNWTREUDh3S3RJR3JvWHh1V1ktVFRxUWswSXBZUkV2UGtMbmtXeDR5UDBiM2hkai1kbzVvT056YjB2OUM4NmVzOVBURFJrUFNJT1NfT09ZZUpBSzVjMFh3NUFNWHNyQ3hV?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261109T100044Z",
+          "pinned": false
+        },
+        {
+          "title": "Iran warns US of 'devastating response' if Washington starts war",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbmVtN0wxM3FSekxMN0g4Tno2QXRwMEQ3a0Ezd1VGdkZORUYyeEVHeDh1UlB6anlwMUhNN3VBbk9Bd0RRU1RjeWJCRUZ2S0VFSHA0SVR3Zm5IdEZLUFE1X0hCZ2lFSTR4cXpZSHIwSnczMldyVnJPcmtUWmpwNHNzSnYyYnBLLUw1V19yZlhNRHQ4NG5yVzF2M0ZCY09zSGNlOWZWVTBpMmRtQ0ZpQjA5RFA3OTU?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20261107T190540Z",
           "pinned": false
         },
         {
@@ -2581,11 +2597,27 @@
           "pinned": false
         },
         {
-          "title": "Iran warns US of 'devastating response' if Washington starts war",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbmVtN0wxM3FSekxMN0g4Tno2QXRwMEQ3a0Ezd1VGdkZORUYyeEVHeDh1UlB6anlwMUhNN3VBbk9Bd0RRU1RjeWJCRUZ2S0VFSHA0SVR3Zm5IdEZLUFE1X0hCZ2lFSTR4cXpZSHIwSnczMldyVnJPcmtUWmpwNHNzSnYyYnBLLUw1V19yZlhNRHQ4NG5yVzF2M0ZCY09zSGNlOWZWVTBpMmRtQ0ZpQjA5RFA3OTU?oc=5",
+          "title": "Rubio says war on Iran unpopular but ‘necessary’ to stop nuclear threat",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMFlYWG5HNENyZGpLS1JGNzJvMzJqTjJReEplWTNFMnBXTjFQM0ZiblN3WVh3ZEpfcWxGbTE5aTY1MjgtajEwU19vLUlPZUNTdXk4VE9oY0dBblkybmVoOHJ4WUJ4bHhIcjk2akRPRlhYV1pVbVdBZ09hRzFKazJLZUhVSl8zbURINVFMWHZKcDZ0UWRab09ka3hWSkpDaVU4YXVlSzNrLWNMVUZkUXlJ0gG0AUFVX3lxTE11UV9jSEd6eTNyZU5EYXhJMTQyNzJRMS02eHExS0NUZi1PWXV3T0l3NHhHc0xDQ0xNLXB4eU9CUGxJaWxZZEt3REFLMHFlTGlIMUFjX3Myc3duczRGSmRIMVBMNjF4eHpIVy1nT3VRaUhKQXpKUTc1YVFpb0NOQmpVSU85eW9MWGRkQnpxcVFzem9NUmJmR3lQOExkTDNJd2wtemJJQ0dVeGd1MVFocldSdXBEVQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261109T040821Z",
+          "pinned": false
+        },
+        {
+          "title": "Trump cites 'great dislike' for Israel, Iran war among reasons for Republican midterm losses",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPN0lJeGUybVJOd0RaOTJWMXZMakRNMzNZNnhrdS16RG4yWDc0elRhNFgtNFRvRmpYZG1IVFlnVWZtYThSdS1OMEFNR3RmbWRKWDBaR2NMQ2xSdGRqbFRLb3BBTGFKdENHS01vWWZUb0tjYWhCWVVXMDFjRUM4TzE1dWdWcFNrOW90RkNJQTk2V3Eybnd0aHRlY0dqWXlEWUY0UFBvYkZMT00zMWhrVExLc3U3RDAycTBrY0RKaTA2WWlnMEctd0JMZWZ2RmJyT00?oc=5",
           "domain": "aa.com.tr",
           "sourceTier": "State-affiliated reporting",
-          "seen": "20261107T190540Z",
+          "seen": "20261109T020437Z",
+          "pinned": false
+        },
+        {
+          "title": "Iran stands by demands to end the war as US ramps up military pressure",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTkgtZG1NRldabldXcTZyQ2ZCMjRVVERlVW1ralBFRUdDSUJSTm43X0lWRzVTUGZ3akZqVkl2c2ttR3VnQVNlc0lhU24yY01DM25jTWdwY3NBMzl1NkhOTlNZSnBKcFk5X212QjJXc1RSemQ4NVUtSGhxc0JvQWpGU0xhdVJxcGxFaFFkbzZGalpabDNsMzhpOU1jdVhHazh3MmhVOTdSRVlWZW5kYXBuddIBtgFBVV95cUxOWjNoNFZsbXJob0phMTUzYWt1Q1FONkdmeGRDZV8xcUJfNXZxQm9PaExVMFY3U2M4QWFJdEV0dHd3OXpSY0Z6WXcySFp0ZldFaWRDTmxXSTJNRFE3LU13c3VBTk02djRxZUM2Z2pvTUFRbmxmTEpXM1VUUTJPenlqLWFRZ09MTTI1ZUlGS3pPS3Flajhua1poeXMtN01ENmdNQ2FsMDJzVWNfSzBXalJmenpDRzZBQQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261109T144501Z",
           "pinned": false
         },
         {
@@ -2597,27 +2629,11 @@
           "pinned": false
         },
         {
-          "title": "Rubio says war on Iran unpopular but ‘necessary’ to stop nuclear threat",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMFlYWG5HNENyZGpLS1JGNzJvMzJqTjJReEplWTNFMnBXTjFQM0ZiblN3WVh3ZEpfcWxGbTE5aTY1MjgtajEwU19vLUlPZUNTdXk4VE9oY0dBblkybmVoOHJ4WUJ4bHhIcjk2akRPRlhYV1pVbVdBZ09hRzFKazJLZUhVSl8zbURINVFMWHZKcDZ0UWRab09ka3hWSkpDaVU4YXVlSzNrLWNMVUZkUXlJ0gG0AUFVX3lxTE11UV9jSEd6eTNyZU5EYXhJMTQyNzJRMS02eHExS0NUZi1PWXV3T0l3NHhHc0xDQ0xNLXB4eU9CUGxJaWxZZEt3REFLMHFlTGlIMUFjX3Myc3duczRGSmRIMVBMNjF4eHpIVy1nT3VRaUhKQXpKUTc1YVFpb0NOQmpVSU85eW9MWGRkQnpxcVFzem9NUmJmR3lQOExkTDNJd2wtemJJQ0dVeGd1MVFocldSdXBEVQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261109T040624Z",
-          "pinned": false
-        },
-        {
           "title": "Iraq’s al-Zaidi talks to Trump as Baghdad seeks to stay out of war on Iran",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMnVfME83OVozQ0xVaFhEaUU4bG9yRWZBTmNVbHNVRXJLOS1hWFZBdnM4WWpiZTc5bG9aZ3pQcVJuLW85bGx0QWJvSU45bUpZaTdQWWp4cXc0OG8wb242SGdSSEk0VlMzSHlxdjFUbldDZnAzcHpISi1RdUZyNHpPNjZCQmNIdnZJdFFwM1hzTDNLcGNxVk81a3E5SUdlREtoQnhpNU5KNDFEdVdqenVfVWNMVkHSAboBQVVfeXFMTUZFb1JmYk45YmttZGZYSG9CTmpYd19CN2tSTlhaR3ROV3h2dk53bU1Ud3lzbzFtb2FZRkJVX256VkNlam1CanZjVFk0TmVEaGk5NFYtblo1UnBNUDN0TkR6cnFxV2hmUUlJRVJkOFVqRlhiekpkTmxxdkIxVFE5b0VyOWxvZ05sM1N6c05iUEQ4VndkSm1qWXVYZk9GVDZzYzNzVVF3VmliUFgzTF9kb053c2UySHZnU2Jn?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20261106T051740Z",
-          "pinned": false
-        },
-        {
-          "title": "Dozens killed as humanitarian crisis mounts in Yemen: What next for war?",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbmlWWnMtTzdiUHpoSW8yUnpONHhJYVB5MGZDeUZsZENScV8ySzlUTlZOT2xUMWtuQWRqZ09RY0J0cHNxUlFlZUpsdVZkX1BhTndacWg5WFhxVTZkaVhCNDRJQlZFWmY5THd6bkRUWWMyWnQ0azJfZ2ROY3VRbWVvTk5ZZ1VlZHppcnRrZlVLR1VRTDQwNWUwOU5xcDZRNDc5YzQ0WDBmeXNoTk9iaXpqaNIBtgFBVV95cUxNYTFGRDdJbDZ4dF84UWp3MWdSMFlzYTI4NGF5cHdBSkpXRXhxOVh1WlJqTzI5ZXd3VWZXY285bnVMU2JTR20tcTlqdzRVbmNQc0JBRDJFRFk0WTBXZ3R4U3F3eWRnMFp2RExYZmpGVkRJMmtuNVpkOUlYb0x3M0RvWkdxa09ELU4zZ0dQNlFmbE9XX1l3bTBJLXI1RnpMZkF6dE8yd09jRHJNbTRvWkxCSjlxLVVWZw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261107T120334Z",
           "pinned": false
         },
         {
@@ -2634,6 +2650,14 @@
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20261107T070936Z",
+          "pinned": false
+        },
+        {
+          "title": "Dozens killed as humanitarian crisis mounts in Yemen: What next for war?",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbmlWWnMtTzdiUHpoSW8yUnpONHhJYVB5MGZDeUZsZENScV8ySzlUTlZOT2xUMWtuQWRqZ09RY0J0cHNxUlFlZUpsdVZkX1BhTndacWg5WFhxVTZkaVhCNDRJQlZFWmY5THd6bkRUWWMyWnQ0azJfZ2ROY3VRbWVvTk5ZZ1VlZHppcnRrZlVLR1VRTDQwNWUwOU5xcDZRNDc5YzQ0WDBmeXNoTk9iaXpqaNIBtgFBVV95cUxNYTFGRDdJbDZ4dF84UWp3MWdSMFlzYTI4NGF5cHdBSkpXRXhxOVh1WlJqTzI5ZXd3VWZXY285bnVMU2JTR20tcTlqdzRVbmNQc0JBRDJFRFk0WTBXZ3R4U3F3eWRnMFp2RExYZmpGVkRJMmtuNVpkOUlYb0x3M0RvWkdxa09ELU4zZ0dQNlFmbE9XX1l3bTBJLXI1RnpMZkF6dE8yd09jRHJNbTRvWkxCSjlxLVVWZw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261107T120334Z",
           "pinned": false
         },
         {
@@ -2661,27 +2685,11 @@
           "pinned": false
         },
         {
-          "title": "US military carries out new targeted strikes on Iran as Tehran's leaders weigh mediator's proposals",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONzhSRFZOUUdVTUxvUEhJUkpCcGZrSnNyX0pSc081QmlIUXY1NmZHZUFiU1lDYWFDdFJncWtkdVRxQWRjSGV2Z3FXVEItNmRNMG4zN0VfWjVXWm9xdjJkZ1VLSVc4NTZzUkZ0bDV1V0VWVC1mamVrQlB6VHhPUEJ0eGhDMWdBOFZrZU5qRno5RFJyZ1FuWExPVXFjNmFCSmRMX1VnZWp3?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261107T021100Z",
-          "pinned": false
-        },
-        {
-          "title": "Rubio says Trump's war against Iran not 'necessarily popular' but needed to stop a nuclear threat",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMERvcmZhZjQ1LXNKMjVUZG42cmxpMUJ5ci1xOEdYVzZ6QjdiRVdiNVpnSGVmdnRZQ3ZKNFNNV3ZnMENHeFY4TnZsLUZmNVozMlRyb25BcEN0YUI0NnFkcjNLMzVaSVpEMHZIMEtLMklNXzZkRDNRNVBKeVR3R2NTamdja09VeG1TZXNFYndua1p1Wk5Hb3RzVkFXeGV1VDd1SURKSURB?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261109T013800Z",
-          "pinned": false
-        },
-        {
-          "title": "Ukraine’s Zaporizhzhia faces threat as Russian drones close in",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWllSbGNtVWlYR2xfb0dCd2JVMFBtbWNrMjEzN2xNdFhOSE5iNmRIYkFhS253dEpvQVA0cV9ldjE2alpFS1BKUHBEQnVQdkNEclFpUm9pLVpDbzJwb1NkdXpQaVRid0RDSDU4bWNfOVRBWkpRdnlLSzBwVXh6VGNjRG9BWnVmTmZ2OXRzU3VuTUhFYnlWcnptSmJR0gGfAUFVX3lxTE53OC1VdGdjcjRoWEtaWmNRSmRfN0s3QUNBbExvb0VwVi1idU5DNV93cVgzSjd0V0pGbExJeHY3VTJjTlEzbGFmbUNjQk1CSEhOLU1ZOU9JODhFelhQQXJndXk1T1ZMRzZWVFVOTTVIaW9HT3A4Nkk4cmlvOW5vMmhaWE5WQS1DSFoxUmZjcjJPX3NQaHdYY3VMYzRWSmNGYw?oc=5",
+          "title": "Who are the seafarers caught in the US-Israeli war on Iran?",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbFZTaUdlS08tWmFfLUFBSjl2YWpsbTR0VnpJbVM0STRmVUtWc091VkpIXzdkamFnNW1PemNROXRrRExYZFZwOVhWeEhMcW5BbHAzcmctRUxHNE5uMFpMTUJxdDdLeHk0RGpJdWRFb0JYZnF4dURxdlV5bnp1YjFiSEUtX2RkYy13azUtdmtYSHo5cGNjbmhyS19NdUFMMHda0gGmAUFVX3lxTE9TNzdqWEVZaTRnSV8zLW01S1RrMWtPZEdlbVQyZG9fTngtUl82QU9oaUdLMmpxTDNqUzZoalh0SE5EUUwyNktoVHk0dFVVV2prSUxsV3VZSU5BRjFtaWEtQ19wYm9aR3NEZDc4X1J1ZkwzMUV2Vk52eHpyc3JELXJsdW9Xa3g2UVJjakRjX0YxQ21rREQzZk9EcXJXTFE2dkNsWFRmZkE?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261107T203707Z",
+          "seen": "20261109T071023Z",
           "pinned": false
         },
         {
@@ -2693,6 +2701,22 @@
           "pinned": false
         },
         {
+          "title": "Millions fleeing Sudan’s war risk losing shelter as funds run low, UN warns",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOThmWWZaMjRvbFVRd1U2WTBYeVlfd1pXelRiaUZmS0N5UkE1OW1YLS1ObHMzZE5JQVp5QjRTWFNvNmJjR2U3RVg3TlYwVXpoNnpqckFSSjdmYVhLWjA3bHNPM3FjR3l6WWRNSF9tZlpGTVJ0aURwdjlqaV9tT3hFeV9BZlhVLTFaUHpsUFAyTHpGQUZGU19qU0EwV1R4STB6SHJOdTdfaW8xY3Iwei1tanpzc2XSAboBQVVfeXFMT0g5LW9BSm4yZjdjVTRQSE9xT05kQzdDT1BvYXhhSGNMR2dwSXpHWDZoZUhkNk4zT1FUeGE2Y1I5TVVObDhiMVVQdzFpMW5XVkNidkZUbzhkWnV0WG0wWVpfYS1SQVNoWklQclBQY08tLUdXWWZGS1NIajl0T09PS1loeF9HU052OEtFX01PcnJBZUFtWXN0NlBZTFpJSlo1MTF4LU5MS1pGSFVaRDZKWmVtQnI3QVVxdTB3?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261106T162227Z",
+          "pinned": false
+        },
+        {
+          "title": "“One War at a Time”: President Abraham Lincoln and the 1861 Trent Affair",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeUFEcC12b1h1U2ZYYjhSaGdjU1hwdnVRMDNGSG81bnNlbFR1THVBeTdxRGg2eGtrMkxxQUZoeHVrVDJnOGhGQWEtMDRWd1JPOWpld2c3ZjNRcVpjY0pOUU8xZjhtR0l1M0tucVRVR2ZkOXJMeU5xXzZ2NTJiOGRBaXpfS0ZNc1FqcGZNZkJKT2lZS0lEU3NCOEJYaEhsUXc?oc=5",
+          "domain": "cfr.org",
+          "sourceTier": "Structured / analytic",
+          "seen": "20261108T175258Z",
+          "pinned": false
+        },
+        {
           "title": "European troops prepare for possible post-ceasefire deployment to Ukraine",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd3JZUlE3WV96czBfUWRYc0R4ZDFsbFM0eTZqck14dHRKMG5rcmFuWGUxUS16dVhqUkFKcEx0dlY1UjBJTXBDYV9yUkJwMXRWMzhPLXk4SWdTVU9fTkhCMmQzLW5PTHo2UnBWdDZwcVZOLUJSWnRpVHdaSkE3dW9rWFR0UXBjZ0s0S1QtSVc2VmVJXzTSAZgBQVVfeXFMT005R2VlYzFnMGhyaDBHNkdJcHM4UnI0MTliSDlSX0F5UjRGcmtfcldGUUJIazJaX3hfQWhaWWVobmx1TlllY3NUdTVfNVVXVWhfSFVzOGJUdEttdDc5eVNUWE5qUUVpWTB1UVlLOGVJT1dxX3BMWTBDOEpIT1FkVHJJbTJteW4yMXZlMFRjWTZ5aDdZYkhYOWc?oc=5",
           "domain": "aljazeera.com",
@@ -2701,11 +2725,11 @@
           "pinned": false
         },
         {
-          "title": "Millions fleeing Sudan’s war risk losing shelter as funds run low, UN warns",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOThmWWZaMjRvbFVRd1U2WTBYeVlfd1pXelRiaUZmS0N5UkE1OW1YLS1ObHMzZE5JQVp5QjRTWFNvNmJjR2U3RVg3TlYwVXpoNnpqckFSSjdmYVhLWjA3bHNPM3FjR3l6WWRNSF9tZlpGTVJ0aURwdjlqaV9tT3hFeV9BZlhVLTFaUHpsUFAyTHpGQUZGU19qU0EwV1R4STB6SHJOdTdfaW8xY3Iwei1tanpzc2XSAboBQVVfeXFMT0g5LW9BSm4yZjdjVTRQSE9xT05kQzdDT1BvYXhhSGNMR2dwSXpHWDZoZUhkNk4zT1FUeGE2Y1I5TVVObDhiMVVQdzFpMW5XVkNidkZUbzhkWnV0WG0wWVpfYS1SQVNoWklQclBQY08tLUdXWWZGS1NIajl0T09PS1loeF9HU052OEtFX01PcnJBZUFtWXN0NlBZTFpJSlo1MTF4LU5MS1pGSFVaRDZKWmVtQnI3QVVxdTB3?oc=5",
-          "domain": "aljazeera.com",
+          "title": "Newark Peace Match remembers WW1 Christmas truce",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qMHhjWVhJb3M4eVd1WW9uSzktN3dRQmEwc3hyUWlweFN0TVRkZnZqcDVzaFc2bzBJNnc1c3VVbUFpMUN6T2laQlJ4QUxPbXBwbzdxekduYWFsRjQ?oc=5",
+          "domain": "bbc.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261106T162227Z",
+          "seen": "20261108T085157Z",
           "pinned": false
         },
         {
@@ -2717,35 +2741,11 @@
           "pinned": false
         },
         {
-          "title": "Remembrance Sunday evokes memories of Isle of Man's war years",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43ZGN4YTdieUdPQ2tlbVdIYmtmcUJEX0JEajVQd0lUMkRJT1JuX1R4X05NVkZvV0c5LXkwM3pNTE54LXNpWFB5SFJvLTFBQ0RLZUl4cHdvV200dWc?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261108T070500Z",
-          "pinned": false
-        },
-        {
-          "title": "World War Two hero, 101, reflects on survival, loss and a new life",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XOWdVWVpvaXQ0cWY3SVNkT3ZMVmllcnRWS3ZsWTNmamw3WTBaejNvdXhIRWE1MEhkeGszY3c3NDR6bFlqeU1HRmd6U04xNHZBdDFtZDdEY1ZNMDA?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261108T092322Z",
-          "pinned": false
-        },
-        {
-          "title": "House Democrats will start their majority focused on boosting healthcare and ending the Iran war",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRUZqXzRlNzlQR2NVZl9XU29lOC04OGpOZVZNMjJfd3REeU5JY3BOYmowdWVZNDliRDRlTGRlaS1XYVNrZFJrOHoyY3MyVDJfbUs0eDdBMlllLWs1b1d5YXJHVVhvTnJrTzRpaWdRN3FwbjU0VWhhOEVCVFJhREhEQnh1TGhZS3ZfcGwxVjRzUHhDd1NLSHVPWmZQTURZNW5DbzJoSXVTQ18tN2k4WHVpeElR?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261107T130900Z",
-          "pinned": false
-        },
-        {
-          "title": "Iran says 2-day proposal stands, warns US against renewed attacks",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQmY3Zkl4MlNfSDhBMkhWWmZPZHVzOWlqRmpvNDZlMmJQeU11OEZaemgzNEpkaHNLR1UyRjYxcTlkelBuSWhCSlI1OU1SMHJHamtwNXlVWlFvZTE4WU8tODhWZTVvNTBHOWllTGNPUzlCN0VUaXBHSG9jUWIxbF9Vc0tFd2FpNExtM0VvcXVNZTMyY19qQTlSZVMwSFpwTGxZVGdUNnJsQnhHSTJ3NVV5M2FB?oc=5",
+          "title": "Trump says Ukraine will emerge with 'different shape' after Russia war",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeEYzV2tPOWFQZkFCZTRWUld1QXR1VHA3dEtMOURyZUVKMmlzV1NrMFJOUDZhczBldC00Z2c2Tk1BNVRKWXZ2Sl9GanVCbEhpdGlxeHlEYnBTVC1CNG9UelQ1dTJLLUNGcVQxMWdZZ3NYMGExUl9UbXpCbTJXUmd3ZEtKLVlrN1VJVUlwRHJXUUtBZWdsS2VkM1lmVEx4dWdweXVDZjJ3bTU3dw?oc=5",
           "domain": "aa.com.tr",
           "sourceTier": "State-affiliated reporting",
-          "seen": "20261108T182734Z",
+          "seen": "20261109T031710Z",
           "pinned": false
         }
       ],
@@ -2758,6 +2758,24 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-11-07T10:44:42Z"
+        },
+        {
+          "id": "report-391d5ab36dc0",
+          "title": "Iran’s authorities harden domestic security controls amid US strike threats",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNejM4M1haR2lZMnBiOEpTSTJOazlhRHNRQ0N1Wk1GZGJlYzJpZGd5b1JBLXV6ZXVRMEhtZXJzdHVtSlBfNVMzdzNVTlF5cEVUNGwxbnB3VVBGMG9kMlpIM3g3ZDFvWVJKU084NnBndnpYdVFFMDY5eTBad3RrR1BoOHlwc0lyNnNMODJPbDR0SDhoVXRxUWdaRU9TUkd6T2hfRldBQTJPV3dJVEJCME9YVWtsM0Z6d9IBuwFBVV95cUxOcDI0VFBIaVBFVnVCa1UtV0IyZmVnWkhPNkM5T1p5dy1UMU9rMkRzMk96ZE1NLWlkS0pmNkJnVnNGQUFUNTBaQjJtSWZlYzhEamMxbzk2a29OSHdNWTREUDh3S3RJR3JvWHh1V1ktVFRxUWswSXBZUkV2UGtMbmtXeDR5UDBiM2hkai1kbzVvT056YjB2OUM4NmVzOVBURFJrUFNJT1NfT09ZZUpBSzVjMFh3NUFNWHNyQ3hV?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-09T10:00:44Z"
+        },
+        {
+          "id": "report-c866630f7511",
+          "title": "Iran warns US of 'devastating response' if Washington starts war",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbmVtN0wxM3FSekxMN0g4Tno2QXRwMEQ3a0Ezd1VGdkZORUYyeEVHeDh1UlB6anlwMUhNN3VBbk9Bd0RRU1RjeWJCRUZ2S0VFSHA0SVR3Zm5IdEZLUFE1X0hCZ2lFSTR4cXpZSHIwSnczMldyVnJPcmtUWmpwNHNzSnYyYnBLLUw1V19yZlhNRHQ4NG5yVzF2M0ZCY09zSGNlOWZWVTBpMmRtQ0ZpQjA5RFA3OTU?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-11-07T19:05:40Z"
         },
         {
           "id": "report-150270e7dae0",
@@ -2778,13 +2796,31 @@
           "reportedAt": "2026-11-08T20:16:12Z"
         },
         {
-          "id": "report-c866630f7511",
-          "title": "Iran warns US of 'devastating response' if Washington starts war",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbmVtN0wxM3FSekxMN0g4Tno2QXRwMEQ3a0Ezd1VGdkZORUYyeEVHeDh1UlB6anlwMUhNN3VBbk9Bd0RRU1RjeWJCRUZ2S0VFSHA0SVR3Zm5IdEZLUFE1X0hCZ2lFSTR4cXpZSHIwSnczMldyVnJPcmtUWmpwNHNzSnYyYnBLLUw1V19yZlhNRHQ4NG5yVzF2M0ZCY09zSGNlOWZWVTBpMmRtQ0ZpQjA5RFA3OTU?oc=5",
+          "id": "report-59fcb5a9df17",
+          "title": "Rubio says war on Iran unpopular but ‘necessary’ to stop nuclear threat",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMFlYWG5HNENyZGpLS1JGNzJvMzJqTjJReEplWTNFMnBXTjFQM0ZiblN3WVh3ZEpfcWxGbTE5aTY1MjgtajEwU19vLUlPZUNTdXk4VE9oY0dBblkybmVoOHJ4WUJ4bHhIcjk2akRPRlhYV1pVbVdBZ09hRzFKazJLZUhVSl8zbURINVFMWHZKcDZ0UWRab09ka3hWSkpDaVU4YXVlSzNrLWNMVUZkUXlJ0gG0AUFVX3lxTE11UV9jSEd6eTNyZU5EYXhJMTQyNzJRMS02eHExS0NUZi1PWXV3T0l3NHhHc0xDQ0xNLXB4eU9CUGxJaWxZZEt3REFLMHFlTGlIMUFjX3Myc3duczRGSmRIMVBMNjF4eHpIVy1nT3VRaUhKQXpKUTc1YVFpb0NOQmpVSU85eW9MWGRkQnpxcVFzem9NUmJmR3lQOExkTDNJd2wtemJJQ0dVeGd1MVFocldSdXBEVQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-09T04:08:21Z"
+        },
+        {
+          "id": "report-c09b1d0bd7f0",
+          "title": "Trump cites 'great dislike' for Israel, Iran war among reasons for Republican midterm losses",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPN0lJeGUybVJOd0RaOTJWMXZMakRNMzNZNnhrdS16RG4yWDc0elRhNFgtNFRvRmpYZG1IVFlnVWZtYThSdS1OMEFNR3RmbWRKWDBaR2NMQ2xSdGRqbFRLb3BBTGFKdENHS01vWWZUb0tjYWhCWVVXMDFjRUM4TzE1dWdWcFNrOW90RkNJQTk2V3Eybnd0aHRlY0dqWXlEWUY0UFBvYkZMT00zMWhrVExLc3U3RDAycTBrY0RKaTA2WWlnMEctd0JMZWZ2RmJyT00?oc=5",
           "domain": "aa.com.tr",
           "sourceTier": "State-affiliated reporting",
           "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
-          "reportedAt": "2026-11-07T19:05:40Z"
+          "reportedAt": "2026-11-09T02:04:37Z"
+        },
+        {
+          "id": "report-cf17dae5584d",
+          "title": "Iran stands by demands to end the war as US ramps up military pressure",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTkgtZG1NRldabldXcTZyQ2ZCMjRVVERlVW1ralBFRUdDSUJSTm43X0lWRzVTUGZ3akZqVkl2c2ttR3VnQVNlc0lhU24yY01DM25jTWdwY3NBMzl1NkhOTlNZSnBKcFk5X212QjJXc1RSemQ4NVUtSGhxc0JvQWpGU0xhdVJxcGxFaFFkbzZGalpabDNsMzhpOU1jdVhHazh3MmhVOTdSRVlWZW5kYXBuddIBtgFBVV95cUxOWjNoNFZsbXJob0phMTUzYWt1Q1FONkdmeGRDZV8xcUJfNXZxQm9PaExVMFY3U2M4QWFJdEV0dHd3OXpSY0Z6WXcySFp0ZldFaWRDTmxXSTJNRFE3LU13c3VBTk02djRxZUM2Z2pvTUFRbmxmTEpXM1VUUTJPenlqLWFRZ09MTTI1ZUlGS3pPS3Flajhua1poeXMtN01ENmdNQ2FsMDJzVWNfSzBXalJmenpDRzZBQQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-09T14:45:01Z"
         },
         {
           "id": "report-fd62a80572bd",
@@ -2796,15 +2832,6 @@
           "reportedAt": "2026-11-07T11:28:37Z"
         },
         {
-          "id": "report-59fcb5a9df17",
-          "title": "Rubio says war on Iran unpopular but ‘necessary’ to stop nuclear threat",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMFlYWG5HNENyZGpLS1JGNzJvMzJqTjJReEplWTNFMnBXTjFQM0ZiblN3WVh3ZEpfcWxGbTE5aTY1MjgtajEwU19vLUlPZUNTdXk4VE9oY0dBblkybmVoOHJ4WUJ4bHhIcjk2akRPRlhYV1pVbVdBZ09hRzFKazJLZUhVSl8zbURINVFMWHZKcDZ0UWRab09ka3hWSkpDaVU4YXVlSzNrLWNMVUZkUXlJ0gG0AUFVX3lxTE11UV9jSEd6eTNyZU5EYXhJMTQyNzJRMS02eHExS0NUZi1PWXV3T0l3NHhHc0xDQ0xNLXB4eU9CUGxJaWxZZEt3REFLMHFlTGlIMUFjX3Myc3duczRGSmRIMVBMNjF4eHpIVy1nT3VRaUhKQXpKUTc1YVFpb0NOQmpVSU85eW9MWGRkQnpxcVFzem9NUmJmR3lQOExkTDNJd2wtemJJQ0dVeGd1MVFocldSdXBEVQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-09T04:06:24Z"
-        },
-        {
           "id": "report-f527c2e9e65a",
           "title": "Iraq’s al-Zaidi talks to Trump as Baghdad seeks to stay out of war on Iran",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMnVfME83OVozQ0xVaFhEaUU4bG9yRWZBTmNVbHNVRXJLOS1hWFZBdnM4WWpiZTc5bG9aZ3pQcVJuLW85bGx0QWJvSU45bUpZaTdQWWp4cXc0OG8wb242SGdSSEk0VlMzSHlxdjFUbldDZnAzcHpISi1RdUZyNHpPNjZCQmNIdnZJdFFwM1hzTDNLcGNxVk81a3E5SUdlREtoQnhpNU5KNDFEdVdqenVfVWNMVkHSAboBQVVfeXFMTUZFb1JmYk45YmttZGZYSG9CTmpYd19CN2tSTlhaR3ROV3h2dk53bU1Ud3lzbzFtb2FZRkJVX256VkNlam1CanZjVFk0TmVEaGk5NFYtblo1UnBNUDN0TkR6cnFxV2hmUUlJRVJkOFVqRlhiekpkTmxxdkIxVFE5b0VyOWxvZ05sM1N6c05iUEQ4VndkSm1qWXVYZk9GVDZzYzNzVVF3VmliUFgzTF9kb053c2UySHZnU2Jn?oc=5",
@@ -2812,15 +2839,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-11-06T05:17:40Z"
-        },
-        {
-          "id": "report-ab277c4d3c94",
-          "title": "Dozens killed as humanitarian crisis mounts in Yemen: What next for war?",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbmlWWnMtTzdiUHpoSW8yUnpONHhJYVB5MGZDeUZsZENScV8ySzlUTlZOT2xUMWtuQWRqZ09RY0J0cHNxUlFlZUpsdVZkX1BhTndacWg5WFhxVTZkaVhCNDRJQlZFWmY5THd6bkRUWWMyWnQ0azJfZ2ROY3VRbWVvTk5ZZ1VlZHppcnRrZlVLR1VRTDQwNWUwOU5xcDZRNDc5YzQ0WDBmeXNoTk9iaXpqaNIBtgFBVV95cUxNYTFGRDdJbDZ4dF84UWp3MWdSMFlzYTI4NGF5cHdBSkpXRXhxOVh1WlJqTzI5ZXd3VWZXY285bnVMU2JTR20tcTlqdzRVbmNQc0JBRDJFRFk0WTBXZ3R4U3F3eWRnMFp2RExYZmpGVkRJMmtuNVpkOUlYb0x3M0RvWkdxa09ELU4zZ0dQNlFmbE9XX1l3bTBJLXI1RnpMZkF6dE8yd09jRHJNbTRvWkxCSjlxLVVWZw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-07T12:03:34Z"
         },
         {
           "id": "report-cf54c1d8f3e5",
@@ -2839,6 +2857,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-11-07T07:09:36Z"
+        },
+        {
+          "id": "report-ab277c4d3c94",
+          "title": "Dozens killed as humanitarian crisis mounts in Yemen: What next for war?",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbmlWWnMtTzdiUHpoSW8yUnpONHhJYVB5MGZDeUZsZENScV8ySzlUTlZOT2xUMWtuQWRqZ09RY0J0cHNxUlFlZUpsdVZkX1BhTndacWg5WFhxVTZkaVhCNDRJQlZFWmY5THd6bkRUWWMyWnQ0azJfZ2ROY3VRbWVvTk5ZZ1VlZHppcnRrZlVLR1VRTDQwNWUwOU5xcDZRNDc5YzQ0WDBmeXNoTk9iaXpqaNIBtgFBVV95cUxNYTFGRDdJbDZ4dF84UWp3MWdSMFlzYTI4NGF5cHdBSkpXRXhxOVh1WlJqTzI5ZXd3VWZXY285bnVMU2JTR20tcTlqdzRVbmNQc0JBRDJFRFk0WTBXZ3R4U3F3eWRnMFp2RExYZmpGVkRJMmtuNVpkOUlYb0x3M0RvWkdxa09ELU4zZ0dQNlFmbE9XX1l3bTBJLXI1RnpMZkF6dE8yd09jRHJNbTRvWkxCSjlxLVVWZw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-07T12:03:34Z"
         },
         {
           "id": "report-6ca73d31f517",
@@ -2868,31 +2895,13 @@
           "reportedAt": "2026-11-07T07:22:25Z"
         },
         {
-          "id": "report-9c9cef3fe66e",
-          "title": "US military carries out new targeted strikes on Iran as Tehran's leaders weigh mediator's proposals",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONzhSRFZOUUdVTUxvUEhJUkpCcGZrSnNyX0pSc081QmlIUXY1NmZHZUFiU1lDYWFDdFJncWtkdVRxQWRjSGV2Z3FXVEItNmRNMG4zN0VfWjVXWm9xdjJkZ1VLSVc4NTZzUkZ0bDV1V0VWVC1mamVrQlB6VHhPUEJ0eGhDMWdBOFZrZU5qRno5RFJyZ1FuWExPVXFjNmFCSmRMX1VnZWp3?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-07T02:11:00Z"
-        },
-        {
-          "id": "report-0fba9febe11f",
-          "title": "Rubio says Trump's war against Iran not 'necessarily popular' but needed to stop a nuclear threat",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMERvcmZhZjQ1LXNKMjVUZG42cmxpMUJ5ci1xOEdYVzZ6QjdiRVdiNVpnSGVmdnRZQ3ZKNFNNV3ZnMENHeFY4TnZsLUZmNVozMlRyb25BcEN0YUI0NnFkcjNLMzVaSVpEMHZIMEtLMklNXzZkRDNRNVBKeVR3R2NTamdja09VeG1TZXNFYndua1p1Wk5Hb3RzVkFXeGV1VDd1SURKSURB?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-09T01:38:00Z"
-        },
-        {
-          "id": "report-0a6850a9bee0",
-          "title": "Ukraine’s Zaporizhzhia faces threat as Russian drones close in",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWllSbGNtVWlYR2xfb0dCd2JVMFBtbWNrMjEzN2xNdFhOSE5iNmRIYkFhS253dEpvQVA0cV9ldjE2alpFS1BKUHBEQnVQdkNEclFpUm9pLVpDbzJwb1NkdXpQaVRid0RDSDU4bWNfOVRBWkpRdnlLSzBwVXh6VGNjRG9BWnVmTmZ2OXRzU3VuTUhFYnlWcnptSmJR0gGfAUFVX3lxTE53OC1VdGdjcjRoWEtaWmNRSmRfN0s3QUNBbExvb0VwVi1idU5DNV93cVgzSjd0V0pGbExJeHY3VTJjTlEzbGFmbUNjQk1CSEhOLU1ZOU9JODhFelhQQXJndXk1T1ZMRzZWVFVOTTVIaW9HT3A4Nkk4cmlvOW5vMmhaWE5WQS1DSFoxUmZjcjJPX3NQaHdYY3VMYzRWSmNGYw?oc=5",
+          "id": "report-ecce3f705762",
+          "title": "Who are the seafarers caught in the US-Israeli war on Iran?",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbFZTaUdlS08tWmFfLUFBSjl2YWpsbTR0VnpJbVM0STRmVUtWc091VkpIXzdkamFnNW1PemNROXRrRExYZFZwOVhWeEhMcW5BbHAzcmctRUxHNE5uMFpMTUJxdDdLeHk0RGpJdWRFb0JYZnF4dURxdlV5bnp1YjFiSEUtX2RkYy13azUtdmtYSHo5cGNjbmhyS19NdUFMMHda0gGmAUFVX3lxTE9TNzdqWEVZaTRnSV8zLW01S1RrMWtPZEdlbVQyZG9fTngtUl82QU9oaUdLMmpxTDNqUzZoalh0SE5EUUwyNktoVHk0dFVVV2prSUxsV3VZSU5BRjFtaWEtQ19wYm9aR3NEZDc4X1J1ZkwzMUV2Vk52eHpyc3JELXJsdW9Xa3g2UVJjakRjX0YxQ21rREQzZk9EcXJXTFE2dkNsWFRmZkE?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-07T20:37:07Z"
+          "reportedAt": "2026-11-09T07:10:23Z"
         },
         {
           "id": "report-fe6414b9ab10",
@@ -2904,6 +2913,24 @@
           "reportedAt": "2026-11-07T20:57:06Z"
         },
         {
+          "id": "report-1cd49ee57d14",
+          "title": "Millions fleeing Sudan’s war risk losing shelter as funds run low, UN warns",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOThmWWZaMjRvbFVRd1U2WTBYeVlfd1pXelRiaUZmS0N5UkE1OW1YLS1ObHMzZE5JQVp5QjRTWFNvNmJjR2U3RVg3TlYwVXpoNnpqckFSSjdmYVhLWjA3bHNPM3FjR3l6WWRNSF9tZlpGTVJ0aURwdjlqaV9tT3hFeV9BZlhVLTFaUHpsUFAyTHpGQUZGU19qU0EwV1R4STB6SHJOdTdfaW8xY3Iwei1tanpzc2XSAboBQVVfeXFMT0g5LW9BSm4yZjdjVTRQSE9xT05kQzdDT1BvYXhhSGNMR2dwSXpHWDZoZUhkNk4zT1FUeGE2Y1I5TVVObDhiMVVQdzFpMW5XVkNidkZUbzhkWnV0WG0wWVpfYS1SQVNoWklQclBQY08tLUdXWWZGS1NIajl0T09PS1loeF9HU052OEtFX01PcnJBZUFtWXN0NlBZTFpJSlo1MTF4LU5MS1pGSFVaRDZKWmVtQnI3QVVxdTB3?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-06T16:22:27Z"
+        },
+        {
+          "id": "report-852ecef4f963",
+          "title": "“One War at a Time”: President Abraham Lincoln and the 1861 Trent Affair",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeUFEcC12b1h1U2ZYYjhSaGdjU1hwdnVRMDNGSG81bnNlbFR1THVBeTdxRGg2eGtrMkxxQUZoeHVrVDJnOGhGQWEtMDRWd1JPOWpld2c3ZjNRcVpjY0pOUU8xZjhtR0l1M0tucVRVR2ZkOXJMeU5xXzZ2NTJiOGRBaXpfS0ZNc1FqcGZNZkJKT2lZS0lEU3NCOEJYaEhsUXc?oc=5",
+          "domain": "cfr.org",
+          "sourceTier": "Structured / analytic",
+          "confidenceLabel": "ANALYTIC REPORT",
+          "reportedAt": "2026-11-08T17:52:58Z"
+        },
+        {
           "id": "report-9511ce3fc9d7",
           "title": "European troops prepare for possible post-ceasefire deployment to Ukraine",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd3JZUlE3WV96czBfUWRYc0R4ZDFsbFM0eTZqck14dHRKMG5rcmFuWGUxUS16dVhqUkFKcEx0dlY1UjBJTXBDYV9yUkJwMXRWMzhPLXk4SWdTVU9fTkhCMmQzLW5PTHo2UnBWdDZwcVZOLUJSWnRpVHdaSkE3dW9rWFR0UXBjZ0s0S1QtSVc2VmVJXzTSAZgBQVVfeXFMT005R2VlYzFnMGhyaDBHNkdJcHM4UnI0MTliSDlSX0F5UjRGcmtfcldGUUJIazJaX3hfQWhaWWVobmx1TlllY3NUdTVfNVVXVWhfSFVzOGJUdEttdDc5eVNUWE5qUUVpWTB1UVlLOGVJT1dxX3BMWTBDOEpIT1FkVHJJbTJteW4yMXZlMFRjWTZ5aDdZYkhYOWc?oc=5",
@@ -2913,13 +2940,13 @@
           "reportedAt": "2026-11-06T16:12:20Z"
         },
         {
-          "id": "report-1cd49ee57d14",
-          "title": "Millions fleeing Sudan’s war risk losing shelter as funds run low, UN warns",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOThmWWZaMjRvbFVRd1U2WTBYeVlfd1pXelRiaUZmS0N5UkE1OW1YLS1ObHMzZE5JQVp5QjRTWFNvNmJjR2U3RVg3TlYwVXpoNnpqckFSSjdmYVhLWjA3bHNPM3FjR3l6WWRNSF9tZlpGTVJ0aURwdjlqaV9tT3hFeV9BZlhVLTFaUHpsUFAyTHpGQUZGU19qU0EwV1R4STB6SHJOdTdfaW8xY3Iwei1tanpzc2XSAboBQVVfeXFMT0g5LW9BSm4yZjdjVTRQSE9xT05kQzdDT1BvYXhhSGNMR2dwSXpHWDZoZUhkNk4zT1FUeGE2Y1I5TVVObDhiMVVQdzFpMW5XVkNidkZUbzhkWnV0WG0wWVpfYS1SQVNoWklQclBQY08tLUdXWWZGS1NIajl0T09PS1loeF9HU052OEtFX01PcnJBZUFtWXN0NlBZTFpJSlo1MTF4LU5MS1pGSFVaRDZKWmVtQnI3QVVxdTB3?oc=5",
-          "domain": "aljazeera.com",
+          "id": "report-b03c086f1c54",
+          "title": "Newark Peace Match remembers WW1 Christmas truce",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qMHhjWVhJb3M4eVd1WW9uSzktN3dRQmEwc3hyUWlweFN0TVRkZnZqcDVzaFc2bzBJNnc1c3VVbUFpMUN6T2laQlJ4QUxPbXBwbzdxekduYWFsRjQ?oc=5",
+          "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-06T16:22:27Z"
+          "reportedAt": "2026-11-08T08:51:57Z"
         },
         {
           "id": "report-7e829411c97a",
@@ -2931,40 +2958,13 @@
           "reportedAt": "2026-11-08T12:27:29Z"
         },
         {
-          "id": "report-71fcbcb4162e",
-          "title": "Remembrance Sunday evokes memories of Isle of Man's war years",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43ZGN4YTdieUdPQ2tlbVdIYmtmcUJEX0JEajVQd0lUMkRJT1JuX1R4X05NVkZvV0c5LXkwM3pNTE54LXNpWFB5SFJvLTFBQ0RLZUl4cHdvV200dWc?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-08T07:05:00Z"
-        },
-        {
-          "id": "report-538023dcba50",
-          "title": "World War Two hero, 101, reflects on survival, loss and a new life",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XOWdVWVpvaXQ0cWY3SVNkT3ZMVmllcnRWS3ZsWTNmamw3WTBaejNvdXhIRWE1MEhkeGszY3c3NDR6bFlqeU1HRmd6U04xNHZBdDFtZDdEY1ZNMDA?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-08T09:23:22Z"
-        },
-        {
-          "id": "report-4bfd9caa0dd6",
-          "title": "House Democrats will start their majority focused on boosting healthcare and ending the Iran war",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRUZqXzRlNzlQR2NVZl9XU29lOC04OGpOZVZNMjJfd3REeU5JY3BOYmowdWVZNDliRDRlTGRlaS1XYVNrZFJrOHoyY3MyVDJfbUs0eDdBMlllLWs1b1d5YXJHVVhvTnJrTzRpaWdRN3FwbjU0VWhhOEVCVFJhREhEQnh1TGhZS3ZfcGwxVjRzUHhDd1NLSHVPWmZQTURZNW5DbzJoSXVTQ18tN2k4WHVpeElR?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-07T13:09:00Z"
-        },
-        {
-          "id": "report-6ad67fa73aac",
-          "title": "Iran says 2-day proposal stands, warns US against renewed attacks",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQmY3Zkl4MlNfSDhBMkhWWmZPZHVzOWlqRmpvNDZlMmJQeU11OEZaemgzNEpkaHNLR1UyRjYxcTlkelBuSWhCSlI1OU1SMHJHamtwNXlVWlFvZTE4WU8tODhWZTVvNTBHOWllTGNPUzlCN0VUaXBHSG9jUWIxbF9Vc0tFd2FpNExtM0VvcXVNZTMyY19qQTlSZVMwSFpwTGxZVGdUNnJsQnhHSTJ3NVV5M2FB?oc=5",
+          "id": "report-6a35a7b47a81",
+          "title": "Trump says Ukraine will emerge with 'different shape' after Russia war",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeEYzV2tPOWFQZkFCZTRWUld1QXR1VHA3dEtMOURyZUVKMmlzV1NrMFJOUDZhczBldC00Z2c2Tk1BNVRKWXZ2Sl9GanVCbEhpdGlxeHlEYnBTVC1CNG9UelQ1dTJLLUNGcVQxMWdZZ3NYMGExUl9UbXpCbTJXUmd3ZEtKLVlrN1VJVUlwRHJXUUtBZWdsS2VkM1lmVEx4dWdweXVDZjJ3bTU3dw?oc=5",
           "domain": "aa.com.tr",
           "sourceTier": "State-affiliated reporting",
           "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
-          "reportedAt": "2026-11-08T18:27:34Z"
+          "reportedAt": "2026-11-09T03:17:10Z"
         },
         {
           "id": "report-bab30519ca8f",
