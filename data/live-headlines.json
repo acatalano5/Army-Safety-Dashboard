@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T19:44:09.252Z",
+  "generatedAt": "2026-11-10T21:26:12.515Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -9,7 +9,7 @@
       "items": []
     },
     "safety": {
-      "generatedAt": "2026-11-09T23:51:53.131Z",
+      "generatedAt": "2026-11-10T21:26:12.515Z",
       "cadence": "daily",
       "items": [
         {
@@ -19,14 +19,6 @@
           "sourceTier": "Official / intergovernmental",
           "seen": "20250129T204800Z",
           "pinned": true
-        },
-        {
-          "title": "T-38 Crash in Alabama Caused by ‘Under-Torqued’ Pin",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaDFiT19tcW9ueExjWU5yTHdWWDBtT3l5VElQTjNNSGFjZU1teUJlOC1mcHJ1dlNtaF9UZ2lpUnNGcEZwUjVZOG9vVzJ3dDl2SWtSMkYwaFVrcnJmV19vM3ZhYmo4YjM1b0tWLXdGWG1zLS1SRU1QU0c2eW5oZzhvVDE0ODNQaGpG?oc=5",
-          "domain": "airandspaceforces.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261102T234831Z",
-          "pinned": false
         },
         {
           "title": "Florida Learjet Crash: The Air Force Still Flies Its Cousin, and the Navy Hires Learjets as Enemies",
@@ -53,6 +45,14 @@
           "pinned": false
         },
         {
+          "title": "Family sues Air Force over daughter’s brain injury from birth overseas",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBkaTRiZEs5R281X3ZQTDBqdVN3N1B1eGhSMjFjc1ZJSWlaS1Yxc2dOcDNfZHZfZGtMdXZ6QnV0NUp4ZTh3V2REYzY2XzR0cDlHZWtqc0RtelY4SjV3MkVfci1YXzAyQm53OXU5VGF4ZjlNT1JNdUxmVVh3?oc=5",
+          "domain": "taskandpurpose.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261110T162258Z",
+          "pinned": false
+        },
+        {
           "title": "U.S. Coast Guard Releases Major Incident Investigation Report into Fatal MH-60T Mishap West off Cape Flattery",
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdzdHZFJvd2pEaWtGWXV3THhRVm5EMUZIcVktSjh3MHRYLVQ1blN2dUE5b05LVXBvZVpzZGUyTGJIbF9KQy1iQk96UmwzQ2M5Q05sS3ZZNS05ZkdUNF81SWZfekI1dngwbnlxTENNX1dKdWdVbTlQbHFyT3hFV3FVSWZpTTNnUlJfTUJsTWtOQlZDUnpMSkR1eWRadTRDRzdVMlZSQlhtNGFMRWpmMnR0M21IZTcwenRDUWcxNk5KLUFKTVVnOXpLY2FxRHdIRUpvNTBZ?oc=5",
           "domain": "news.uscg.mil",
@@ -61,23 +61,23 @@
           "pinned": false
         },
         {
-          "title": "Coast Guard rescues man from grounded sailboat near Coronado, Calif.",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaFNLMWlRVEdZclhJc2VIbzFqanhqY2JEeTFnbHlta05pNlAwWmh5Wk52bzJSYnY2QmZDNFZ3NUNJRW04cnJzMjhrQzZ1R2xzVlFUdmtjS3Qzb2dSOXNkSldubVhhRjZHa2NfMGlDRUhVeEExTEpXS2VDZVZmQWZkZmtiSlFwc3Ywc1ZrdzN3TFFJNkFzMzF4YmFSYTR0SXF3VFFYNG83dGV0dVJqRGtEbjhuNWxCdmU5aEZIN0FsQlNPZw?oc=5",
+          "title": "Coast Guard suspends search for woman near Panther Beach",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOUNiVXJTY1UwWlZiT05yQXVSY1F1Z2VGODFXenkxb1cwWExzMjV0Q09YMXQwM2QtN3V6cVhsenR6T2dzZGlBUTNnVDUtRnRRa0JkNXlPcVdqdjltRkVieVlibExrMkZwbHNob25yc2FrUEhZVEhINWtoLTI4MlVjblljRFpXTkt6UTFOOTZybU5ZWUhCM1J4VXJORUU2eFFfVEpoaE5Yb3M3OEdEa3VzRFRWSFo?oc=5",
           "domain": "news.uscg.mil",
           "sourceTier": "Official military source",
-          "seen": "20261011T070000Z",
+          "seen": "20261110T172742Z",
           "pinned": false
         }
       ],
       "incidents": [
         {
-          "id": "auto-6136c4aafe2a",
-          "reportDate": "2026-11-02",
+          "id": "auto-afd6e013074d",
+          "reportDate": "2026-11-10",
           "dateBasis": "report discovery date",
           "branch": "Air Force",
           "department": "Department of the Air Force",
-          "type": "Aviation",
-          "event": "T-38 Crash in Alabama Caused by ‘Under-Torqued’ Pin",
+          "type": "Other",
+          "event": "Family sues Air Force over daughter’s brain injury from birth overseas",
           "location": "See official source",
           "fatalities": null,
           "injuries": null,
@@ -85,8 +85,26 @@
           "signalClass": "REPORTED MISHAP",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
-          "source": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaDFiT19tcW9ueExjWU5yTHdWWDBtT3l5VElQTjNNSGFjZU1teUJlOC1mcHJ1dlNtaF9UZ2lpUnNGcEZwUjVZOG9vVzJ3dDl2SWtSMkYwaFVrcnJmV19vM3ZhYmo4YjM1b0tWLXdGWG1zLS1SRU1QU0c2eW5oZzhvVDE0ODNQaGpG?oc=5",
-          "sourceLabel": "airandspaceforces.com"
+          "source": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBkaTRiZEs5R281X3ZQTDBqdVN3N1B1eGhSMjFjc1ZJSWlaS1Yxc2dOcDNfZHZfZGtMdXZ6QnV0NUp4ZTh3V2REYzY2XzR0cDlHZWtqc0RtelY4SjV3MkVfci1YXzAyQm53OXU5VGF4ZjlNT1JNdUxmVVh3?oc=5",
+          "sourceLabel": "taskandpurpose.com"
+        },
+        {
+          "id": "auto-21ff6272ac48",
+          "reportDate": "2026-11-10",
+          "dateBasis": "report discovery date",
+          "branch": "Coast Guard",
+          "department": "Department of Homeland Security",
+          "type": "Other",
+          "event": "Coast Guard suspends search for woman near Panther Beach",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "OFFICIAL INTAKE",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Official military source",
+          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
+          "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOUNiVXJTY1UwWlZiT05yQXVSY1F1Z2VGODFXenkxb1cwWExzMjV0Q09YMXQwM2QtN3V6cVhsenR6T2dzZGlBUTNnVDUtRnRRa0JkNXlPcVdqdjltRkVieVlibExrMkZwbHNob25yc2FrUEhZVEhINWtoLTI4MlVjblljRFpXTkt6UTFOOTZybU5ZWUhCM1J4VXJORUU2eFFfVEpoaE5Yb3M3OEdEa3VzRFRWSFo?oc=5",
+          "sourceLabel": "news.uscg.mil"
         },
         {
           "id": "auto-b5eea4a5d5da",
@@ -105,6 +123,24 @@
           "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
           "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVzRDb0RXN1FuWlJ2cVhFTjJacTNMOVB6NkhlWGNQZGUwSlNsV3gyQmxrdFpuX3VKdVRDOWhFbzlYWW0wZG9xRFFqalNxbndqV3VwellPQmlkVUtZdXJueDhhY1hpN09yQjBNdEV1RksxMzdOd3VfMFVCVmU0VWhnSnRzN0lhTkZLaWFINEZWSThzV2R5Y2llc3ZKazhUVnlYelYtb3FmZVozYnRhYjI0R0ln?oc=5",
           "sourceLabel": "military.com"
+        },
+        {
+          "id": "auto-6136c4aafe2a",
+          "reportDate": "2026-11-02",
+          "dateBasis": "report discovery date",
+          "branch": "Air Force",
+          "department": "Department of the Air Force",
+          "type": "Aviation",
+          "event": "T-38 Crash in Alabama Caused by ‘Under-Torqued’ Pin",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaDFiT19tcW9ueExjWU5yTHdWWDBtT3l5VElQTjNNSGFjZU1teUJlOC1mcHJ1dlNtaF9UZ2lpUnNGcEZwUjVZOG9vVzJ3dDl2SWtSMkYwaFVrcnJmV19vM3ZhYmo4YjM1b0tWLXdGWG1zLS1SRU1QU0c2eW5oZzhvVDE0ODNQaGpG?oc=5",
+          "sourceLabel": "airandspaceforces.com"
         },
         {
           "id": "auto-c13d8b9fafc9",
