@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T14:18:43.147Z",
+  "generatedAt": "2026-11-11T22:16:42.497Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -9,7 +9,7 @@
       "items": []
     },
     "safety": {
-      "generatedAt": "2026-11-10T21:26:12.515Z",
+      "generatedAt": "2026-11-11T22:16:42.497Z",
       "cadence": "daily",
       "items": [
         {
@@ -25,7 +25,15 @@
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVzRDb0RXN1FuWlJ2cVhFTjJacTNMOVB6NkhlWGNQZGUwSlNsV3gyQmxrdFpuX3VKdVRDOWhFbzlYWW0wZG9xRFFqalNxbndqV3VwellPQmlkVUtZdXJueDhhY1hpN09yQjBNdEV1RksxMzdOd3VfMFVCVmU0VWhnSnRzN0lhTkZLaWFINEZWSThzV2R5Y2llc3ZKazhUVnlYelYtb3FmZVozYnRhYjI0R0ln?oc=5",
           "domain": "military.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261102T183604Z",
+          "seen": "20261102T080000Z",
+          "pinned": false
+        },
+        {
+          "title": "Family sues Air Force over daughter’s brain injury from birth overseas",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBkaTRiZEs5R281X3ZQTDBqdVN3N1B1eGhSMjFjc1ZJSWlaS1Yxc2dOcDNfZHZfZGtMdXZ6QnV0NUp4ZTh3V2REYzY2XzR0cDlHZWtqc0RtelY4SjV3MkVfci1YXzAyQm53OXU5VGF4ZjlNT1JNdUxmVVh3?oc=5",
+          "domain": "taskandpurpose.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261110T162258Z",
           "pinned": false
         },
         {
@@ -41,15 +49,15 @@
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQa3N3dHMxU2JBdXZfZmptYXdVWXdzMzdKU2pmcXVFSU5uYmxEWUw0UGQ4OGJ0eXUzbF9MOHgzSEowdTRIY3A4VFpKZnlhcENkazdJdGhwVndlenhPdjRGbDgyRUZEU1NDU2kzUDhFb2NEM0JHTmxLSl9pVzNfSEozUUkyTGFHQVJONTJneEhBOGx4NUtQYjl4dC1nYU1qX0lHQXZUZERuV2JwbElWaHZhbkJockR3Z05GS1FpM1NEQnI2ZHprUUE?oc=5",
           "domain": "safety.army.mil",
           "sourceTier": "Official military source",
-          "seen": "20261101T070000Z",
+          "seen": "20261108T080000Z",
           "pinned": false
         },
         {
-          "title": "Family sues Air Force over daughter’s brain injury from birth overseas",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBkaTRiZEs5R281X3ZQTDBqdVN3N1B1eGhSMjFjc1ZJSWlaS1Yxc2dOcDNfZHZfZGtMdXZ6QnV0NUp4ZTh3V2REYzY2XzR0cDlHZWtqc0RtelY4SjV3MkVfci1YXzAyQm53OXU5VGF4ZjlNT1JNdUxmVVh3?oc=5",
-          "domain": "taskandpurpose.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261110T162258Z",
+          "title": "Coast Guard suspends search for woman near Panther Beach",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOUNiVXJTY1UwWlZiT05yQXVSY1F1Z2VGODFXenkxb1cwWExzMjV0Q09YMXQwM2QtN3V6cVhsenR6T2dzZGlBUTNnVDUtRnRRa0JkNXlPcVdqdjltRkVieVlibExrMkZwbHNob25yc2FrUEhZVEhINWtoLTI4MlVjblljRFpXTkt6UTFOOTZybU5ZWUhCM1J4VXJORUU2eFFfVEpoaE5Yb3M3OEdEa3VzRFRWSFo?oc=5",
+          "domain": "news.uscg.mil",
+          "sourceTier": "Official military source",
+          "seen": "20261110T172742Z",
           "pinned": false
         },
         {
@@ -61,11 +69,11 @@
           "pinned": false
         },
         {
-          "title": "Coast Guard suspends search for woman near Panther Beach",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOUNiVXJTY1UwWlZiT05yQXVSY1F1Z2VGODFXenkxb1cwWExzMjV0Q09YMXQwM2QtN3V6cVhsenR6T2dzZGlBUTNnVDUtRnRRa0JkNXlPcVdqdjltRkVieVlibExrMkZwbHNob25yc2FrUEhZVEhINWtoLTI4MlVjblljRFpXTkt6UTFOOTZybU5ZWUhCM1J4VXJORUU2eFFfVEpoaE5Yb3M3OEdEa3VzRFRWSFo?oc=5",
+          "title": "Coast Guard, partners rescue missing diver near Catalina Island",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPek5sNnkzM2h5ZXpMX1BaWXdSSzhfZlRYaHA4NlAwcG5mMENLSDcwZzd3UkpuMXpxX292YmdjX1VIMHNBbHhfdnNnclJaTDgzVG1xdHMtTlNmTFlHYkNCQVprSzFuMGxhOUZwZ0NWY3l4d01ueHZOQUxUeDc2SzRvcG8wWHhnSUVvcVlRcnEtYjdNVDRZb09tcGFKaTk3c1NCakliNzROMGtIMjNYcmVER0tZckVrVHczY2JCdw?oc=5",
           "domain": "news.uscg.mil",
           "sourceTier": "Official military source",
-          "seen": "20261110T172742Z",
+          "seen": "20261016T070000Z",
           "pinned": false
         }
       ],
@@ -105,6 +113,24 @@
           "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
           "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOUNiVXJTY1UwWlZiT05yQXVSY1F1Z2VGODFXenkxb1cwWExzMjV0Q09YMXQwM2QtN3V6cVhsenR6T2dzZGlBUTNnVDUtRnRRa0JkNXlPcVdqdjltRkVieVlibExrMkZwbHNob25yc2FrUEhZVEhINWtoLTI4MlVjblljRFpXTkt6UTFOOTZybU5ZWUhCM1J4VXJORUU2eFFfVEpoaE5Yb3M3OEdEa3VzRFRWSFo?oc=5",
           "sourceLabel": "news.uscg.mil"
+        },
+        {
+          "id": "auto-e8d9bbcefe14",
+          "reportDate": "2026-11-08",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Other",
+          "event": "Mishap Reporting & Investigation - USACRC",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "OFFICIAL INTAKE",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Official military source",
+          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
+          "source": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQa3N3dHMxU2JBdXZfZmptYXdVWXdzMzdKU2pmcXVFSU5uYmxEWUw0UGQ4OGJ0eXUzbF9MOHgzSEowdTRIY3A4VFpKZnlhcENkazdJdGhwVndlenhPdjRGbDgyRUZEU1NDU2kzUDhFb2NEM0JHTmxLSl9pVzNfSEozUUkyTGFHQVJONTJneEhBOGx4NUtQYjl4dC1nYU1qX0lHQXZUZERuV2JwbElWaHZhbkJockR3Z05GS1FpM1NEQnI2ZHprUUE?oc=5",
+          "sourceLabel": "safety.army.mil"
         },
         {
           "id": "auto-b5eea4a5d5da",
@@ -176,24 +202,6 @@
           "sourceTier": "Official military source",
           "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
           "source": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc19FY29CaU9ZS05HZ010VnR3R2FGa1JBMFZTb2tZdEJLZkpfRTRLdm9VdGEwallmUi14dGlYNC12dmhYU3ZxaXJrQWJBM25LdmxadFFOanlYUWhkZFhmVTF2NG5iTUtfNHVJaWpiRVZ6UmdoVkxxUlU4OFFVVG13UA?oc=5",
-          "sourceLabel": "safety.army.mil"
-        },
-        {
-          "id": "auto-e8d9bbcefe14",
-          "reportDate": "2026-11-01",
-          "dateBasis": "report discovery date",
-          "branch": "Army",
-          "department": "Department of the Army",
-          "type": "Other",
-          "event": "Mishap Reporting & Investigation - USACRC",
-          "location": "See official source",
-          "fatalities": null,
-          "injuries": null,
-          "status": "OFFICIAL INTAKE",
-          "signalClass": "REPORTED MISHAP",
-          "sourceTier": "Official military source",
-          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
-          "source": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQa3N3dHMxU2JBdXZfZmptYXdVWXdzMzdKU2pmcXVFSU5uYmxEWUw0UGQ4OGJ0eXUzbF9MOHgzSEowdTRIY3A4VFpKZnlhcENkazdJdGhwVndlenhPdjRGbDgyRUZEU1NDU2kzUDhFb2NEM0JHTmxLSl9pVzNfSEozUUkyTGFHQVJONTJneEhBOGx4NUtQYjl4dC1nYU1qX0lHQXZUZERuV2JwbElWaHZhbkJockR3Z05GS1FpM1NEQnI2ZHprUUE?oc=5",
           "sourceLabel": "safety.army.mil"
         },
         {
