@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T06:12:56.845Z",
+  "generatedAt": "2026-11-11T14:18:43.147Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-11-11T06:12:56.845Z",
+      "generatedAt": "2026-11-11T14:18:43.147Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -2485,9 +2485,17 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-11-11T06:12:56.845Z",
+      "generatedAt": "2026-11-11T14:18:43.147Z",
       "cadence": "every 6 hours",
       "items": [
+        {
+          "title": "‘Positive momentum’: Is the US war on Iran about to end?",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbkxDMlpGamhRLTVyZGpBdE1zQkRrOHZvLXlrb1ZSWXNMdUhVNDNmaWNzX0lKQm5ncC1ZM01VZm1yb210NW15eG5DVWlaaDBPTFhldXBDRlFJdFFmMElHZWZpekFRb3ByMExFZHNuZ21HOXQ2Tjh4X3V6WVEwLUtlV3ZWS2JQVUFKbm5ISFc2Y2VCVUpKanppczZR0gGfAUFVX3lxTE1fYjdrZmtKMkhWNnF0UnNYZVpXMTNydmRLNVA1VkxpMlVSTkxnX0pfQUxLNzFoTDlHeWhWdzJpYmFRcFcyakJNRzVraUdpT0VpTURSR0VwZ256bTNxZVhMX2k1S2FUVTRObWFlTU04X2piLVNqc0FYSG11a3FPdkhBU2R0QlBEYkhLcEVHajhBRjQxbDBtSWxqblpISHZ2OA?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261110T152205Z",
+          "pinned": false
+        },
         {
           "title": "Iran stands by demands to end the war as US ramps up military pressure",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTkgtZG1NRldabldXcTZyQ2ZCMjRVVERlVW1ralBFRUdDSUJSTm43X0lWRzVTUGZ3akZqVkl2c2ttR3VnQVNlc0lhU24yY01DM25jTWdwY3NBMzl1NkhOTlNZSnBKcFk5X212QjJXc1RSemQ4NVUtSGhxc0JvQWpGU0xhdVJxcGxFaFFkbzZGalpabDNsMzhpOU1jdVhHazh3MmhVOTdSRVlWZW5kYXBuddIBtgFBVV95cUxOWjNoNFZsbXJob0phMTUzYWt1Q1FONkdmeGRDZV8xcUJfNXZxQm9PaExVMFY3U2M4QWFJdEV0dHd3OXpSY0Z6WXcySFp0ZldFaWRDTmxXSTJNRFE3LU13c3VBTk02djRxZUM2Z2pvTUFRbmxmTEpXM1VUUTJPenlqLWFRZ09MTTI1ZUlGS3pPS3Flajhua1poeXMtN01ENmdNQ2FsMDJzVWNfSzBXalJmenpDRzZBQQ?oc=5",
@@ -2502,14 +2510,6 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20261109T100044Z",
-          "pinned": false
-        },
-        {
-          "title": "‘Positive momentum’: Is the US war on Iran about to end?",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbkxDMlpGamhRLTVyZGpBdE1zQkRrOHZvLXlrb1ZSWXNMdUhVNDNmaWNzX0lKQm5ncC1ZM01VZm1yb210NW15eG5DVWlaaDBPTFhldXBDRlFJdFFmMElHZWZpekFRb3ByMExFZHNuZ21HOXQ2Tjh4X3V6WVEwLUtlV3ZWS2JQVUFKbm5ISFc2Y2VCVUpKanppczZR0gGfAUFVX3lxTE1fYjdrZmtKMkhWNnF0UnNYZVpXMTNydmRLNVA1VkxpMlVSTkxnX0pfQUxLNzFoTDlHeWhWdzJpYmFRcFcyakJNRzVraUdpT0VpTURSR0VwZ256bTNxZVhMX2k1S2FUVTRObWFlTU04X2piLVNqc0FYSG11a3FPdkhBU2R0QlBEYkhLcEVHajhBRjQxbDBtSWxqblpISHZ2OA?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261110T152205Z",
           "pinned": false
         },
         {
@@ -2529,11 +2529,11 @@
           "pinned": false
         },
         {
-          "title": "Tigray displaced families fear renewed war as hopes of returning home fade",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZVRvVzBSaThURGcycGtZbUJYcHdkbzlVTWlzOG9fMDFvU1JTWFVOOU9HRTM2WFhUdFJadW1JVTJ3QTBYa3lJQm1pd2tpVlRGU1psZXM3Y2dkenpxMUgyU2g3Tl93UTgweS1uaFVINEN3dlBpNXlwREQzbmhpNVRLRTljcjNrOGcxcHRyM0NUYnVwY1BwUFhVYjIwQVpBc1c0Tkp6UFFUVHJOTElOOExjeUtxckk2R2vSAbwBQVVfeXFMTnAwN3g1SlpGWUZNODdlekkxS0V1c3IwZnBLWmRSanJ6QnIzeE5vUk5jX0c2QjVSZ3BKWGRuWnYzbnM5ZkI0VXh5YVpmOEQ1YWVRVkpBSTZJMkk5U2xOQ2k3eFFBTi11T2hZb0ZaWEdibnVGVG1hRmllMjlVdnVCLUVVRWtOVDh6SXIxVkFDSXFLTFhYcHB1cnM0eW9SWC1JbkhkTDQ3dHJVT2puNWVVa1BMTVJmRU1UZUtmQmI?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261111T011333Z",
+          "title": "China can play key role in ending Iran's ‘neither war nor peace' situation with US: Iranian parliament speaker",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPQlRRNzRHN1VHTTB6WjdHSUxoazQtMG1kLVcydWxJQzBvRlFyMm9zOXJsSXBuOWkxb1B5UUZyZUU2eE5aWlV3ZW9vV0NRenREVWw3MTZwUlAxYXZrSGZTeWNVQk1yWnlJbVc1R3N3eFN5bG81LXU1S0Uyak1BcU1mZG50QlRidm9wQ2xwZ3ZTNHpCSUw3VXl2LURJeGhJRVBpb0FPYnFMcjNjMHV1T3Q4QndHN1FGZkZ6SE1xTUtNZTU1QV9fX1hHazRnSGVFWG1FaUtOSFFwSE5taVpxazZic0NPWVk5M0k?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20261110T212916Z",
           "pinned": false
         },
         {
@@ -2542,6 +2542,14 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20261110T020413Z",
+          "pinned": false
+        },
+        {
+          "title": "Tigray displaced families fear renewed war as hopes of returning home fade",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZVRvVzBSaThURGcycGtZbUJYcHdkbzlVTWlzOG9fMDFvU1JTWFVOOU9HRTM2WFhUdFJadW1JVTJ3QTBYa3lJQm1pd2tpVlRGU1psZXM3Y2dkenpxMUgyU2g3Tl93UTgweS1uaFVINEN3dlBpNXlwREQzbmhpNVRLRTljcjNrOGcxcHRyM0NUYnVwY1BwUFhVYjIwQVpBc1c0Tkp6UFFUVHJOTElOOExjeUtxckk2R2vSAbwBQVVfeXFMTnAwN3g1SlpGWUZNODdlekkxS0V1c3IwZnBLWmRSanJ6QnIzeE5vUk5jX0c2QjVSZ3BKWGRuWnYzbnM5ZkI0VXh5YVpmOEQ1YWVRVkpBSTZJMkk5U2xOQ2k3eFFBTi11T2hZb0ZaWEdibnVGVG1hRmllMjlVdnVCLUVVRWtOVDh6SXIxVkFDSXFLTFhYcHB1cnM0eW9SWC1JbkhkTDQ3dHJVT2puNWVVa1BMTVJmRU1UZUtmQmI?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261111T011333Z",
           "pinned": false
         },
         {
@@ -2585,11 +2593,19 @@
           "pinned": false
         },
         {
-          "title": "Trump after meeting with Qatari PM says he believes war with Iran is militarily 'effectively over'",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOelU0dnZ5Y2ROMkdrZXlYYURIcnJocXdKbWx1eTlPcENLMk1vX3ctTC1ycGlfQ0dlemFiX2pHRzRvSkd4NTZ3aEdxU3h5OW5ZeUo3cU50YTVPODlxb2lZMVBwRFU4bXlmYlJiTmdHSHcxUUdQMFptNG43Y1hsanUzbTJHMHc5eTlVeVlz?oc=5",
-          "domain": "apnews.com",
+          "title": "New photos are 'essential evidence' of possible SAS war crimes, inquiry told",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaWDllM3FQakdQZ254VG5CdEpoaTlldHdMX192Tm5TN3IwbUlBcl9pRkVCbWZnbkVHWk12SXhseERGQU9pQjR5b2xhTVAwT3hGVWVWbF9Bd0s0RFU?oc=5",
+          "domain": "bbc.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261109T220209Z",
+          "seen": "20261111T011130Z",
+          "pinned": false
+        },
+        {
+          "title": "Iran opens training camp for women in readiness for war",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR3dlMmNFOTlHaUVNR2ZSaUJVSHpUV0E1NU1XVk4xd3lRZlFNbnpmVWo0dXUtaWhuUnFZcGMtN1RlQ1AtRm9Gd24zZE51T1lIcUtMMUFHa1pqbUU5NURZcmxpd3JaZnh6Z3M3VjhXNFlFMl82dVlpaWFCbkE4bVNGTEk1VnR4al8zS2EtaVg0QzZqQzRCcW9vb0RYUXk2ZzFvU3JBSlZnVdIBrAFBVV95cUxQWnZLazR5dFVsS2JfbHNYXzJFZmdldHdRczJnWFUtNUlmQXBhb2pVZUo4ZkZ1S285TnY5c3ZsYjdwZ2Rqd3BMSnZmYkMwZGNSV25IMmJwdTliVzJYanljVlpubnhxaFZFLTkwcmpCaHpaZWlTRThMTFg4d01Bc3RYMy1CZHp6ZndyNjdUcjJzb1NibzlvU1hVc2dSSmpCWTZSSzdXSmQwcnRzdG1q?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261111T033946Z",
           "pinned": false
         },
         {
@@ -2617,22 +2633,6 @@
           "pinned": false
         },
         {
-          "title": "Iran opens training camp for women in readiness for war",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR3dlMmNFOTlHaUVNR2ZSaUJVSHpUV0E1NU1XVk4xd3lRZlFNbnpmVWo0dXUtaWhuUnFZcGMtN1RlQ1AtRm9Gd24zZE51T1lIcUtMMUFHa1pqbUU5NURZcmxpd3JaZnh6Z3M3VjhXNFlFMl82dVlpaWFCbkE4bVNGTEk1VnR4al8zS2EtaVg0QzZqQzRCcW9vb0RYUXk2ZzFvU3JBSlZnVdIBrAFBVV95cUxQWnZLazR5dFVsS2JfbHNYXzJFZmdldHdRczJnWFUtNUlmQXBhb2pVZUo4ZkZ1S285TnY5c3ZsYjdwZ2Rqd3BMSnZmYkMwZGNSV25IMmJwdTliVzJYanljVlpubnhxaFZFLTkwcmpCaHpaZWlTRThMTFg4d01Bc3RYMy1CZHp6ZndyNjdUcjJzb1NibzlvU1hVc2dSSmpCWTZSSzdXSmQwcnRzdG1q?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261111T033946Z",
-          "pinned": false
-        },
-        {
-          "title": "New photos are 'essential evidence' of possible SAS war crimes, inquiry told",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaWDllM3FQakdQZ254VG5CdEpoaTlldHdMX192Tm5TN3IwbUlBcl9pRkVCbWZnbkVHWk12SXhseERGQU9pQjR5b2xhTVAwT3hGVWVWbF9Bd0s0RFU?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261111T011130Z",
-          "pinned": false
-        },
-        {
           "title": "US voters want Democrats focused on ending Iran war, lowering costs: Poll",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ3NWVUx0bUZWN1Y5MUxkRG5ZWGF2VFVzOHhFa0NsQzJ3Z2ZoWGlmNUEtRGFfaVVvYXVCUHFaak41LXVBaDJRdkhMSThVTlc3c0JMQTVYTnVLTFpxR0RrSjA0WlVhNnVxc1lOU1ViWW1XLU9XSFotTFc2eUdvUzhWeTB4X0RLWUt1MmR3SGNzNzE2S1lQUUxTNmNPN2oyQkxDaEtpRFZnQ0pYSDdlSkpHaXl2WdIBuAFBVV95cUxQanlGTU44bUg3MEo0UmlQTFpGUFBhWDZ2VERBZThVNEZ2dnFQeWs5TTBpeVo5OGRNTUZhbkhYdTZDdEVibUxLenBpelZOb2g5aEVvQWpITTAxQ3pvMEh5WGwxWkVyYzA3N0RBMnNNd2tYNVFmY1JsSHk1TDU4MTRVcHVaUzBSNGo4eXEzd3pfc3V2SmhzRTRmXzlhMjFSRkxPeFVZR3N4LTBWTnowRzFLbndQUTBuZm55?oc=5",
           "domain": "aljazeera.com",
@@ -2657,19 +2657,11 @@
           "pinned": false
         },
         {
-          "title": "South African police arrest 9 foreigners for trying to join Russia-Ukraine war",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR2N4a2djZmNTTXYyR2ZhemFQZURkNGFrSE0tcU1pc3dPakRmQ2lVMWs2eTRDZklrUXpsQlRGVGlMVDFRTnFpSWZnd2c3TGU3M2dnY3B3WGFEVHhzcHg1Mm5DUXlCNWdzTk9WNnlKU3RFX3ZRSzVFcEhFMmlocEU4SmphbWphWHptZkNlLWo2cnVweHFoNUZ5cEZyQm1nQlNFcGZCVHlKY0VNRW8?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261109T151000Z",
-          "pinned": false
-        },
-        {
-          "title": "Remembrance Sunday evokes memories of Isle of Man's war years",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43ZGN4YTdieUdPQ2tlbVdIYmtmcUJEX0JEajVQd0lUMkRJT1JuX1R4X05NVkZvV0c5LXkwM3pNTE54LXNpWFB5SFJvLTFBQ0RLZUl4cHdvV200dWc?oc=5",
+          "title": "War memorial plaques returned to Euston station",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNRVRHTjVHQXRpS2VRLVhzQnBpclZSR0lmejZsYW9fVTJJcDFhT0hvaXdEaFFWSlZtdUdnd1VIN3QtXzhYM2RqdFM4elVqQ3EwYkF5bHJlN1pGVUU?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261108T070500Z",
+          "seen": "20261111T060511Z",
           "pinned": false
         },
         {
@@ -2679,9 +2671,26 @@
           "sourceTier": "Independent reporting",
           "seen": "20261109T121549Z",
           "pinned": false
+        },
+        {
+          "title": "Veteran researches stories behind Pontefract's 134 war graves",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lcV81djU4RUFDLURIUjNCWEdIc1hldFBLYV83bFJ2bS1FVHBqYmdLSXNqWFZjeGFvYUtZUko0anFrVVdpeU9xVmN4djBZVTVtTFhhXy1hVE1CYzg?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261111T062111Z",
+          "pinned": false
         }
       ],
       "reports": [
+        {
+          "id": "report-2279ee2b8e55",
+          "title": "‘Positive momentum’: Is the US war on Iran about to end?",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbkxDMlpGamhRLTVyZGpBdE1zQkRrOHZvLXlrb1ZSWXNMdUhVNDNmaWNzX0lKQm5ncC1ZM01VZm1yb210NW15eG5DVWlaaDBPTFhldXBDRlFJdFFmMElHZWZpekFRb3ByMExFZHNuZ21HOXQ2Tjh4X3V6WVEwLUtlV3ZWS2JQVUFKbm5ISFc2Y2VCVUpKanppczZR0gGfAUFVX3lxTE1fYjdrZmtKMkhWNnF0UnNYZVpXMTNydmRLNVA1VkxpMlVSTkxnX0pfQUxLNzFoTDlHeWhWdzJpYmFRcFcyakJNRzVraUdpT0VpTURSR0VwZ256bTNxZVhMX2k1S2FUVTRObWFlTU04X2piLVNqc0FYSG11a3FPdkhBU2R0QlBEYkhLcEVHajhBRjQxbDBtSWxqblpISHZ2OA?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-10T15:22:05Z"
+        },
         {
           "id": "report-cf17dae5584d",
           "title": "Iran stands by demands to end the war as US ramps up military pressure",
@@ -2699,15 +2708,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-11-09T10:00:44Z"
-        },
-        {
-          "id": "report-2279ee2b8e55",
-          "title": "‘Positive momentum’: Is the US war on Iran about to end?",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbkxDMlpGamhRLTVyZGpBdE1zQkRrOHZvLXlrb1ZSWXNMdUhVNDNmaWNzX0lKQm5ncC1ZM01VZm1yb210NW15eG5DVWlaaDBPTFhldXBDRlFJdFFmMElHZWZpekFRb3ByMExFZHNuZ21HOXQ2Tjh4X3V6WVEwLUtlV3ZWS2JQVUFKbm5ISFc2Y2VCVUpKanppczZR0gGfAUFVX3lxTE1fYjdrZmtKMkhWNnF0UnNYZVpXMTNydmRLNVA1VkxpMlVSTkxnX0pfQUxLNzFoTDlHeWhWdzJpYmFRcFcyakJNRzVraUdpT0VpTURSR0VwZ256bTNxZVhMX2k1S2FUVTRObWFlTU04X2piLVNqc0FYSG11a3FPdkhBU2R0QlBEYkhLcEVHajhBRjQxbDBtSWxqblpISHZ2OA?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-10T15:22:05Z"
         },
         {
           "id": "report-7e6203b909a8",
@@ -2728,13 +2728,13 @@
           "reportedAt": "2026-11-09T04:08:21Z"
         },
         {
-          "id": "report-3ba3d610ff4c",
-          "title": "Tigray displaced families fear renewed war as hopes of returning home fade",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZVRvVzBSaThURGcycGtZbUJYcHdkbzlVTWlzOG9fMDFvU1JTWFVOOU9HRTM2WFhUdFJadW1JVTJ3QTBYa3lJQm1pd2tpVlRGU1psZXM3Y2dkenpxMUgyU2g3Tl93UTgweS1uaFVINEN3dlBpNXlwREQzbmhpNVRLRTljcjNrOGcxcHRyM0NUYnVwY1BwUFhVYjIwQVpBc1c0Tkp6UFFUVHJOTElOOExjeUtxckk2R2vSAbwBQVVfeXFMTnAwN3g1SlpGWUZNODdlekkxS0V1c3IwZnBLWmRSanJ6QnIzeE5vUk5jX0c2QjVSZ3BKWGRuWnYzbnM5ZkI0VXh5YVpmOEQ1YWVRVkpBSTZJMkk5U2xOQ2k3eFFBTi11T2hZb0ZaWEdibnVGVG1hRmllMjlVdnVCLUVVRWtOVDh6SXIxVkFDSXFLTFhYcHB1cnM0eW9SWC1JbkhkTDQ3dHJVT2puNWVVa1BMTVJmRU1UZUtmQmI?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-11T01:13:33Z"
+          "id": "report-5e7f14bc8f62",
+          "title": "China can play key role in ending Iran's ‘neither war nor peace' situation with US: Iranian parliament speaker",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPQlRRNzRHN1VHTTB6WjdHSUxoazQtMG1kLVcydWxJQzBvRlFyMm9zOXJsSXBuOWkxb1B5UUZyZUU2eE5aWlV3ZW9vV0NRenREVWw3MTZwUlAxYXZrSGZTeWNVQk1yWnlJbVc1R3N3eFN5bG81LXU1S0Uyak1BcU1mZG50QlRidm9wQ2xwZ3ZTNHpCSUw3VXl2LURJeGhJRVBpb0FPYnFMcjNjMHV1T3Q4QndHN1FGZkZ6SE1xTUtNZTU1QV9fX1hHazRnSGVFWG1FaUtOSFFwSE5taVpxazZic0NPWVk5M0k?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-11-10T21:29:16Z"
         },
         {
           "id": "report-0741333117ab",
@@ -2744,6 +2744,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-11-10T02:04:13Z"
+        },
+        {
+          "id": "report-3ba3d610ff4c",
+          "title": "Tigray displaced families fear renewed war as hopes of returning home fade",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZVRvVzBSaThURGcycGtZbUJYcHdkbzlVTWlzOG9fMDFvU1JTWFVOOU9HRTM2WFhUdFJadW1JVTJ3QTBYa3lJQm1pd2tpVlRGU1psZXM3Y2dkenpxMUgyU2g3Tl93UTgweS1uaFVINEN3dlBpNXlwREQzbmhpNVRLRTljcjNrOGcxcHRyM0NUYnVwY1BwUFhVYjIwQVpBc1c0Tkp6UFFUVHJOTElOOExjeUtxckk2R2vSAbwBQVVfeXFMTnAwN3g1SlpGWUZNODdlekkxS0V1c3IwZnBLWmRSanJ6QnIzeE5vUk5jX0c2QjVSZ3BKWGRuWnYzbnM5ZkI0VXh5YVpmOEQ1YWVRVkpBSTZJMkk5U2xOQ2k3eFFBTi11T2hZb0ZaWEdibnVGVG1hRmllMjlVdnVCLUVVRWtOVDh6SXIxVkFDSXFLTFhYcHB1cnM0eW9SWC1JbkhkTDQ3dHJVT2puNWVVa1BMTVJmRU1UZUtmQmI?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-11T01:13:33Z"
         },
         {
           "id": "report-55fcffad61f8",
@@ -2791,13 +2800,22 @@
           "reportedAt": "2026-11-09T07:10:23Z"
         },
         {
-          "id": "report-0a929cccf5b4",
-          "title": "Trump after meeting with Qatari PM says he believes war with Iran is militarily 'effectively over'",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOelU0dnZ5Y2ROMkdrZXlYYURIcnJocXdKbWx1eTlPcENLMk1vX3ctTC1ycGlfQ0dlemFiX2pHRzRvSkd4NTZ3aEdxU3h5OW5ZeUo3cU50YTVPODlxb2lZMVBwRFU4bXlmYlJiTmdHSHcxUUdQMFptNG43Y1hsanUzbTJHMHc5eTlVeVlz?oc=5",
-          "domain": "apnews.com",
+          "id": "report-d7e898e6759f",
+          "title": "New photos are 'essential evidence' of possible SAS war crimes, inquiry told",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaWDllM3FQakdQZ254VG5CdEpoaTlldHdMX192Tm5TN3IwbUlBcl9pRkVCbWZnbkVHWk12SXhseERGQU9pQjR5b2xhTVAwT3hGVWVWbF9Bd0s0RFU?oc=5",
+          "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-09T22:02:09Z"
+          "reportedAt": "2026-11-11T01:11:30Z"
+        },
+        {
+          "id": "report-9ba39b5908e9",
+          "title": "Iran opens training camp for women in readiness for war",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR3dlMmNFOTlHaUVNR2ZSaUJVSHpUV0E1NU1XVk4xd3lRZlFNbnpmVWo0dXUtaWhuUnFZcGMtN1RlQ1AtRm9Gd24zZE51T1lIcUtMMUFHa1pqbUU5NURZcmxpd3JaZnh6Z3M3VjhXNFlFMl82dVlpaWFCbkE4bVNGTEk1VnR4al8zS2EtaVg0QzZqQzRCcW9vb0RYUXk2ZzFvU3JBSlZnVdIBrAFBVV95cUxQWnZLazR5dFVsS2JfbHNYXzJFZmdldHdRczJnWFUtNUlmQXBhb2pVZUo4ZkZ1S285TnY5c3ZsYjdwZ2Rqd3BMSnZmYkMwZGNSV25IMmJwdTliVzJYanljVlpubnhxaFZFLTkwcmpCaHpaZWlTRThMTFg4d01Bc3RYMy1CZHp6ZndyNjdUcjJzb1NibzlvU1hVc2dSSmpCWTZSSzdXSmQwcnRzdG1q?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-11T03:39:46Z"
         },
         {
           "id": "report-d145ed5b6d56",
@@ -2827,24 +2845,6 @@
           "reportedAt": "2026-11-09T20:53:00Z"
         },
         {
-          "id": "report-9ba39b5908e9",
-          "title": "Iran opens training camp for women in readiness for war",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR3dlMmNFOTlHaUVNR2ZSaUJVSHpUV0E1NU1XVk4xd3lRZlFNbnpmVWo0dXUtaWhuUnFZcGMtN1RlQ1AtRm9Gd24zZE51T1lIcUtMMUFHa1pqbUU5NURZcmxpd3JaZnh6Z3M3VjhXNFlFMl82dVlpaWFCbkE4bVNGTEk1VnR4al8zS2EtaVg0QzZqQzRCcW9vb0RYUXk2ZzFvU3JBSlZnVdIBrAFBVV95cUxQWnZLazR5dFVsS2JfbHNYXzJFZmdldHdRczJnWFUtNUlmQXBhb2pVZUo4ZkZ1S285TnY5c3ZsYjdwZ2Rqd3BMSnZmYkMwZGNSV25IMmJwdTliVzJYanljVlpubnhxaFZFLTkwcmpCaHpaZWlTRThMTFg4d01Bc3RYMy1CZHp6ZndyNjdUcjJzb1NibzlvU1hVc2dSSmpCWTZSSzdXSmQwcnRzdG1q?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-11T03:39:46Z"
-        },
-        {
-          "id": "report-d7e898e6759f",
-          "title": "New photos are 'essential evidence' of possible SAS war crimes, inquiry told",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaWDllM3FQakdQZ254VG5CdEpoaTlldHdMX192Tm5TN3IwbUlBcl9pRkVCbWZnbkVHWk12SXhseERGQU9pQjR5b2xhTVAwT3hGVWVWbF9Bd0s0RFU?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-11T01:11:30Z"
-        },
-        {
           "id": "report-fc3152deb51a",
           "title": "US voters want Democrats focused on ending Iran war, lowering costs: Poll",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ3NWVUx0bUZWN1Y5MUxkRG5ZWGF2VFVzOHhFa0NsQzJ3Z2ZoWGlmNUEtRGFfaVVvYXVCUHFaak41LXVBaDJRdkhMSThVTlc3c0JMQTVYTnVLTFpxR0RrSjA0WlVhNnVxc1lOU1ViWW1XLU9XSFotTFc2eUdvUzhWeTB4X0RLWUt1MmR3SGNzNzE2S1lQUUxTNmNPN2oyQkxDaEtpRFZnQ0pYSDdlSkpHaXl2WdIBuAFBVV95cUxQanlGTU44bUg3MEo0UmlQTFpGUFBhWDZ2VERBZThVNEZ2dnFQeWs5TTBpeVo5OGRNTUZhbkhYdTZDdEVibUxLenBpelZOb2g5aEVvQWpITTAxQ3pvMEh5WGwxWkVyYzA3N0RBMnNNd2tYNVFmY1JsSHk1TDU4MTRVcHVaUzBSNGo4eXEzd3pfc3V2SmhzRTRmXzlhMjFSRkxPeFVZR3N4LTBWTnowRzFLbndQUTBuZm55?oc=5",
@@ -2872,22 +2872,13 @@
           "reportedAt": "2026-11-09T03:17:09Z"
         },
         {
-          "id": "report-59d6d70314db",
-          "title": "South African police arrest 9 foreigners for trying to join Russia-Ukraine war",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR2N4a2djZmNTTXYyR2ZhemFQZURkNGFrSE0tcU1pc3dPakRmQ2lVMWs2eTRDZklrUXpsQlRGVGlMVDFRTnFpSWZnd2c3TGU3M2dnY3B3WGFEVHhzcHg1Mm5DUXlCNWdzTk9WNnlKU3RFX3ZRSzVFcEhFMmlocEU4SmphbWphWHptZkNlLWo2cnVweHFoNUZ5cEZyQm1nQlNFcGZCVHlKY0VNRW8?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-09T15:10:00Z"
-        },
-        {
-          "id": "report-71fcbcb4162e",
-          "title": "Remembrance Sunday evokes memories of Isle of Man's war years",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43ZGN4YTdieUdPQ2tlbVdIYmtmcUJEX0JEajVQd0lUMkRJT1JuX1R4X05NVkZvV0c5LXkwM3pNTE54LXNpWFB5SFJvLTFBQ0RLZUl4cHdvV200dWc?oc=5",
+          "id": "report-decc24cee2e5",
+          "title": "War memorial plaques returned to Euston station",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNRVRHTjVHQXRpS2VRLVhzQnBpclZSR0lmejZsYW9fVTJJcDFhT0hvaXdEaFFWSlZtdUdnd1VIN3QtXzhYM2RqdFM4elVqQ3EwYkF5bHJlN1pGVUU?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-08T07:05:00Z"
+          "reportedAt": "2026-11-11T06:05:11Z"
         },
         {
           "id": "report-2e2b1f71afe3",
@@ -2897,6 +2888,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-11-09T12:15:49Z"
+        },
+        {
+          "id": "report-77f87b982e1b",
+          "title": "Veteran researches stories behind Pontefract's 134 war graves",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lcV81djU4RUFDLURIUjNCWEdIc1hldFBLYV83bFJ2bS1FVHBqYmdLSXNqWFZjeGFvYUtZUko0anFrVVdpeU9xVmN4djBZVTVtTFhhXy1hVE1CYzg?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-11T06:21:11Z"
         },
         {
           "id": "report-852ecef4f963",
