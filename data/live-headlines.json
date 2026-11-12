@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T21:55:55.197Z",
+  "generatedAt": "2026-11-12T23:38:31.256Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-11-12T15:12:01.381Z",
+      "generatedAt": "2026-11-12T23:38:31.256Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -2501,9 +2501,17 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-11-12T15:12:01.381Z",
+      "generatedAt": "2026-11-12T23:38:31.256Z",
       "cadence": "every 6 hours",
       "items": [
+        {
+          "title": "‘No war, no peace’: Can Iran break the deadlock with the US?",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYXQ5Y3BkZ2ViQ1NSQ3MtWXRteVg3ZFNBTFRWWXJ0eHhWUWY0OThCNHl4c2VJaTQ3X05UTjU5WTBRYTZJUkVld1VrZTQ3TDFSUHYyOV9YckpyN2dDOFJfSF93M0g0RHJqV1MweUkwOHdCaWlSVHJvdm9jYm95d1pxM1lCUG5Ibk5lbDduclpmUUhWZ1JjUGlrVmdxSHNBUdIBowFBVV95cUxPa0dyY3drVndxNWVSczdJdmd5T1hCY19iNVViRmZVdlllMEdXUDZxbGtzRjF5T3lySXRYTjdmR01xOUFoNks2RXZtTi12YVBlOExkSWRsLTNLSlMxVWlHUnhyRnpYbEFUUnJOMHpzak9YVm44UGQ4THduVnFqbnF4c292bEF5OHdaSVhTb1Y5NmZXREN3NjBtWlhKUmRDQnpTVHB3?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261112T143414Z",
+          "pinned": false
+        },
         {
           "title": "Rubio backs blockade, Vance wants deal: Is Trump’s team split on Iran war?",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBCYVRxVHdXS2I0WWlWam93NzhydHhvZnRPWUN6ZEZySlF1WGp6a1JDWVNPal9hVmFYbEdNWlVyclgwN0lOZC1hZVR6Z2R1M3pUQW5LRjRZSlVYZndYaDNzbDVtNEF5UmZwbFNoNzB4NnNzSnJQdkpDM9IBfkFVX3lxTE52RGRYcHhoaW9LZFhuZHc4N2ZocFVUcGZlYXZSM21ZYmR2a25odXBneUo5ZW5tNnZ1SEFOdzZNLS1pYXhtai1kd2cxTUI4SjIyd2trTF9BWk9nVVEzak9UYmRMWHZPMmpOZWhOUnplei1yUlNEbDVrUlhTd25tZw?oc=5",
@@ -2521,11 +2529,11 @@
           "pinned": false
         },
         {
-          "title": "Iran’s authorities harden domestic security controls amid US strike threats",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNejM4M1haR2lZMnBiOEpTSTJOazlhRHNRQ0N1Wk1GZGJlYzJpZGd5b1JBLXV6ZXVRMEhtZXJzdHVtSlBfNVMzdzNVTlF5cEVUNGwxbnB3VVBGMG9kMlpIM3g3ZDFvWVJKU084NnBndnpYdVFFMDY5eTBad3RrR1BoOHlwc0lyNnNMODJPbDR0SDhoVXRxUWdaRU9TUkd6T2hfRldBQTJPV3dJVEJCME9YVWtsM0Z6d9IBuwFBVV95cUxOcDI0VFBIaVBFVnVCa1UtV0IyZmVnWkhPNkM5T1p5dy1UMU9rMkRzMk96ZE1NLWlkS0pmNkJnVnNGQUFUNTBaQjJtSWZlYzhEamMxbzk2a29OSHdNWTREUDh3S3RJR3JvWHh1V1ktVFRxUWswSXBZUkV2UGtMbmtXeDR5UDBiM2hkai1kbzVvT056YjB2OUM4NmVzOVBURFJrUFNJT1NfT09ZZUpBSzVjMFh3NUFNWHNyQ3hV?oc=5",
-          "domain": "aljazeera.com",
+          "title": "EU: Martin says Europe's security 'fundamentally reshaped' by war in Ukraine",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pUW1aQllXNnU1UmxpaUxWTUdRUm5UdHlaeGpOa0xCNV9yRkIwZ1pEM21qamx3ZkpiYUdqcjhrb2FrY1RxeXVlRllIbnpWOW16VzJzZmI0eU5YUXc?oc=5",
+          "domain": "bbc.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261109T100044Z",
+          "seen": "20261112T145615Z",
           "pinned": false
         },
         {
@@ -2585,19 +2593,27 @@
           "pinned": false
         },
         {
-          "title": "French wartime resistance heroine Solange Alexandre dies aged 104",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jZ2R3RF95bWM0MFlyM3JTdGFZeGlWc1lWYzVVMTF0YnBydXB3V09EcTdaSUtWcHpNeWpiaHRyS2Z4MVZGVmdXQldKdW1ZeXUxQXpBRXlIZ2NCdm8?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261110T132354Z",
-          "pinned": false
-        },
-        {
           "title": "Ireland faces pressure to stop sending Russia an ingredient vital to its war on Ukraine",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc2lvZUtOMFJMUFh0VlBpdnZObEJBZHNSSmNzOENBaDhrRElabllhNWo2bGV5QTNtbGZsZnpIQWpPSy1helVnWWxjRHB3emtzWm02bHpmS2xyM3JTM1NIc3pHQ0FZek1NQ1dLbWZJZWoteE9YYUp0SndXMFMtWlVKSlZuUWRob0RGbzZYQlpfWV8zbFBwRk1lVEdDTkoxOUxrWVdUVGgzMA?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261112T143700Z",
+          "seen": "20261112T175700Z",
+          "pinned": false
+        },
+        {
+          "title": "Turkey’s president calls the war in Gaza an ‘ecocide’ at the UN climate summit",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQUc5TXFGV2djcE9qWnVHWWU4VklJbHBtNjZQeExQNXUtVDFHNExYX2xzc0p1YmdYSVRjRXVZcXphTFJCWnZ1UEZUOFh6SzRvWUpVUjdiUktaa2d4a1Z5bVFsYkJBa2pWWHJrLTNFS2xxeVlHVVF2V19IeEVESms1LVpBblp0NjhiR1VUTXJjRmFlMDhPZ0VRM2JuNXNUMTVXcjhOYUgxSGt1dFRtTlQ4Ukxadk5JZURoVmVqeVZuYldGWWtQbTIwUGZBakZlQQ?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261111T221900Z",
+          "pinned": false
+        },
+        {
+          "title": "Heat-trapping carbon pollution drops, but scientists cite the Iran war rather than energy progress",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdkI5Vi11QVdqOEtRTlgyal9tdUduNm1BaDdEajhWdkVqU1NCMktwUUFkdkxCVEZqN3BrUGFRak51aGJNU21hT2oyQ2ZtcS0ybnNXQUY0SVFsdHRpenNrQTNBR09ueFZaSVpKRTJSSExOcXl0TVhwTFptd19QX19qbnN4eUFlbjNaT0VCZ2FwRnFWUEx1ajZ3Mmc1U0ZqUGVRZUZyQ3dQODRQX29laFhlZA?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261110T143800Z",
           "pinned": false
         },
         {
@@ -2617,19 +2633,27 @@
           "pinned": false
         },
         {
-          "title": "Iran opens training camp for women in readiness for war",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR3dlMmNFOTlHaUVNR2ZSaUJVSHpUV0E1NU1XVk4xd3lRZlFNbnpmVWo0dXUtaWhuUnFZcGMtN1RlQ1AtRm9Gd24zZE51T1lIcUtMMUFHa1pqbUU5NURZcmxpd3JaZnh6Z3M3VjhXNFlFMl82dVlpaWFCbkE4bVNGTEk1VnR4al8zS2EtaVg0QzZqQzRCcW9vb0RYUXk2ZzFvU3JBSlZnVdIBrAFBVV95cUxQWnZLazR5dFVsS2JfbHNYXzJFZmdldHdRczJnWFUtNUlmQXBhb2pVZUo4ZkZ1S285TnY5c3ZsYjdwZ2Rqd3BMSnZmYkMwZGNSV25IMmJwdTliVzJYanljVlpubnhxaFZFLTkwcmpCaHpaZWlTRThMTFg4d01Bc3RYMy1CZHp6ZndyNjdUcjJzb1NibzlvU1hVc2dSSmpCWTZSSzdXSmQwcnRzdG1q?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261111T033946Z",
-          "pinned": false
-        },
-        {
           "title": "New photos are 'essential evidence' of possible SAS war crimes, inquiry told",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaWDllM3FQakdQZ254VG5CdEpoaTlldHdMX192Tm5TN3IwbUlBcl9pRkVCbWZnbkVHWk12SXhseERGQU9pQjR5b2xhTVAwT3hGVWVWbF9Bd0s0RFU?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20261111T011130Z",
+          "pinned": false
+        },
+        {
+          "title": "Israeli strike on Gaza hospital kills 6 people, including a doctor and a child, Health Ministry says",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU3ZJQlhjSko5MDVzS25JNzdQaWprR1pORklBMUI1Qlg0T3Zkc2J1eV8yUTE1S2RMdHlLcjdDbXNrNERFdDNtYTFleFlkNHZyeXBfQ25lcS05S29hd3YtT3ZWMXE2eUs2RXpuZXV2Z01OcklJeXdKT2FzR1dqZVRHRE9Ncl9QUzVSTkVod1V6RnFjMWNIcFBkWXBWU0FWWTM3TGJj?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261112T175100Z",
+          "pinned": false
+        },
+        {
+          "title": "Iran opens training camp for women in readiness for war",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR3dlMmNFOTlHaUVNR2ZSaUJVSHpUV0E1NU1XVk4xd3lRZlFNbnpmVWo0dXUtaWhuUnFZcGMtN1RlQ1AtRm9Gd24zZE51T1lIcUtMMUFHa1pqbUU5NURZcmxpd3JaZnh6Z3M3VjhXNFlFMl82dVlpaWFCbkE4bVNGTEk1VnR4al8zS2EtaVg0QzZqQzRCcW9vb0RYUXk2ZzFvU3JBSlZnVdIBrAFBVV95cUxQWnZLazR5dFVsS2JfbHNYXzJFZmdldHdRczJnWFUtNUlmQXBhb2pVZUo4ZkZ1S285TnY5c3ZsYjdwZ2Rqd3BMSnZmYkMwZGNSV25IMmJwdTliVzJYanljVlpubnhxaFZFLTkwcmpCaHpaZWlTRThMTFg4d01Bc3RYMy1CZHp6ZndyNjdUcjJzb1NibzlvU1hVc2dSSmpCWTZSSzdXSmQwcnRzdG1q?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261111T033946Z",
           "pinned": false
         },
         {
@@ -2641,27 +2665,11 @@
           "pinned": false
         },
         {
-          "title": "Israeli strike on Gaza hospital kills 6 people, including a doctor and a child, Health Ministry says",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU3ZJQlhjSko5MDVzS25JNzdQaWprR1pORklBMUI1Qlg0T3Zkc2J1eV8yUTE1S2RMdHlLcjdDbXNrNERFdDNtYTFleFlkNHZyeXBfQ25lcS05S29hd3YtT3ZWMXE2eUs2RXpuZXV2Z01OcklJeXdKT2FzR1dqZVRHRE9Ncl9QUzVSTkVod1V6RnFjMWNIcFBkWXBWU0FWWTM3TGJj?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261112T121500Z",
-          "pinned": false
-        },
-        {
           "title": "Ireland and Ukraine considering co-production of unmanned drones",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XcWt1N1oteHJvMUVPRGlfZU95eERzTjdxVWxQSWpOV2dicV9HOEplOWlPQkZMMWtCNWFHNVNIM3NBYkJfVlZCNi02R2k2RnI3cXNlUjdXcEY4Tm8?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20261111T232734Z",
-          "pinned": false
-        },
-        {
-          "title": "US voters want Democrats focused on ending Iran war, lowering costs: Poll",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ3NWVUx0bUZWN1Y5MUxkRG5ZWGF2VFVzOHhFa0NsQzJ3Z2ZoWGlmNUEtRGFfaVVvYXVCUHFaak41LXVBaDJRdkhMSThVTlc3c0JMQTVYTnVLTFpxR0RrSjA0WlVhNnVxc1lOU1ViWW1XLU9XSFotTFc2eUdvUzhWeTB4X0RLWUt1MmR3SGNzNzE2S1lQUUxTNmNPN2oyQkxDaEtpRFZnQ0pYSDdlSkpHaXl2WdIBuAFBVV95cUxQanlGTU44bUg3MEo0UmlQTFpGUFBhWDZ2VERBZThVNEZ2dnFQeWs5TTBpeVo5OGRNTUZhbkhYdTZDdEVibUxLenBpelZOb2g5aEVvQWpITTAxQ3pvMEh5WGwxWkVyYzA3N0RBMnNNd2tYNVFmY1JsSHk1TDU4MTRVcHVaUzBSNGo4eXEzd3pfc3V2SmhzRTRmXzlhMjFSRkxPeFVZR3N4LTBWTnowRzFLbndQUTBuZm55?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261110T203111Z",
           "pinned": false
         },
         {
@@ -2687,17 +2695,18 @@
           "sourceTier": "Independent reporting",
           "seen": "20261111T062111Z",
           "pinned": false
-        },
-        {
-          "title": "War veteran returns Falklands helmet to Argentina",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84MEJOWjNTejVGWU1halQ3YWZHTmdHNkJMUDJkSFJCcml2STJ5Rm1vdmwwNU9zS2ZOMnh2VmRGTkd4Z3dtWS05QWppQ2RCU0FXM0lmLTc2d0tMbGM?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261111T060930Z",
-          "pinned": false
         }
       ],
       "reports": [
+        {
+          "id": "report-5268d3682c9c",
+          "title": "‘No war, no peace’: Can Iran break the deadlock with the US?",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYXQ5Y3BkZ2ViQ1NSQ3MtWXRteVg3ZFNBTFRWWXJ0eHhWUWY0OThCNHl4c2VJaTQ3X05UTjU5WTBRYTZJUkVld1VrZTQ3TDFSUHYyOV9YckpyN2dDOFJfSF93M0g0RHJqV1MweUkwOHdCaWlSVHJvdm9jYm95d1pxM1lCUG5Ibk5lbDduclpmUUhWZ1JjUGlrVmdxSHNBUdIBowFBVV95cUxPa0dyY3drVndxNWVSczdJdmd5T1hCY19iNVViRmZVdlllMEdXUDZxbGtzRjF5T3lySXRYTjdmR01xOUFoNks2RXZtTi12YVBlOExkSWRsLTNLSlMxVWlHUnhyRnpYbEFUUnJOMHpzak9YVm44UGQ4THduVnFqbnF4c292bEF5OHdaSVhTb1Y5NmZXREN3NjBtWlhKUmRDQnpTVHB3?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-12T14:34:14Z"
+        },
         {
           "id": "report-faf57de0d4f7",
           "title": "Rubio backs blockade, Vance wants deal: Is Trump’s team split on Iran war?",
@@ -2717,13 +2726,13 @@
           "reportedAt": "2026-11-10T15:22:05Z"
         },
         {
-          "id": "report-391d5ab36dc0",
-          "title": "Iran’s authorities harden domestic security controls amid US strike threats",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNejM4M1haR2lZMnBiOEpTSTJOazlhRHNRQ0N1Wk1GZGJlYzJpZGd5b1JBLXV6ZXVRMEhtZXJzdHVtSlBfNVMzdzNVTlF5cEVUNGwxbnB3VVBGMG9kMlpIM3g3ZDFvWVJKU084NnBndnpYdVFFMDY5eTBad3RrR1BoOHlwc0lyNnNMODJPbDR0SDhoVXRxUWdaRU9TUkd6T2hfRldBQTJPV3dJVEJCME9YVWtsM0Z6d9IBuwFBVV95cUxOcDI0VFBIaVBFVnVCa1UtV0IyZmVnWkhPNkM5T1p5dy1UMU9rMkRzMk96ZE1NLWlkS0pmNkJnVnNGQUFUNTBaQjJtSWZlYzhEamMxbzk2a29OSHdNWTREUDh3S3RJR3JvWHh1V1ktVFRxUWswSXBZUkV2UGtMbmtXeDR5UDBiM2hkai1kbzVvT056YjB2OUM4NmVzOVBURFJrUFNJT1NfT09ZZUpBSzVjMFh3NUFNWHNyQ3hV?oc=5",
-          "domain": "aljazeera.com",
+          "id": "report-9065b984c17f",
+          "title": "EU: Martin says Europe's security 'fundamentally reshaped' by war in Ukraine",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pUW1aQllXNnU1UmxpaUxWTUdRUm5UdHlaeGpOa0xCNV9yRkIwZ1pEM21qamx3ZkpiYUdqcjhrb2FrY1RxeXVlRllIbnpWOW16VzJzZmI0eU5YUXc?oc=5",
+          "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-09T10:00:44Z"
+          "reportedAt": "2026-11-12T14:56:15Z"
         },
         {
           "id": "report-d34b7ffc8b78",
@@ -2789,22 +2798,31 @@
           "reportedAt": "2026-11-11T19:30:48Z"
         },
         {
-          "id": "report-066f588b8eec",
-          "title": "French wartime resistance heroine Solange Alexandre dies aged 104",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jZ2R3RF95bWM0MFlyM3JTdGFZeGlWc1lWYzVVMTF0YnBydXB3V09EcTdaSUtWcHpNeWpiaHRyS2Z4MVZGVmdXQldKdW1ZeXUxQXpBRXlIZ2NCdm8?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-10T13:23:54Z"
-        },
-        {
           "id": "report-47c14a83dec4",
           "title": "Ireland faces pressure to stop sending Russia an ingredient vital to its war on Ukraine",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc2lvZUtOMFJMUFh0VlBpdnZObEJBZHNSSmNzOENBaDhrRElabllhNWo2bGV5QTNtbGZsZnpIQWpPSy1helVnWWxjRHB3emtzWm02bHpmS2xyM3JTM1NIc3pHQ0FZek1NQ1dLbWZJZWoteE9YYUp0SndXMFMtWlVKSlZuUWRob0RGbzZYQlpfWV8zbFBwRk1lVEdDTkoxOUxrWVdUVGgzMA?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-12T14:37:00Z"
+          "reportedAt": "2026-11-12T17:57:00Z"
+        },
+        {
+          "id": "report-0ef5ddb6c78f",
+          "title": "Turkey’s president calls the war in Gaza an ‘ecocide’ at the UN climate summit",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQUc5TXFGV2djcE9qWnVHWWU4VklJbHBtNjZQeExQNXUtVDFHNExYX2xzc0p1YmdYSVRjRXVZcXphTFJCWnZ1UEZUOFh6SzRvWUpVUjdiUktaa2d4a1Z5bVFsYkJBa2pWWHJrLTNFS2xxeVlHVVF2V19IeEVESms1LVpBblp0NjhiR1VUTXJjRmFlMDhPZ0VRM2JuNXNUMTVXcjhOYUgxSGt1dFRtTlQ4Ukxadk5JZURoVmVqeVZuYldGWWtQbTIwUGZBakZlQQ?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-11T22:19:00Z"
+        },
+        {
+          "id": "report-81044d880e8d",
+          "title": "Heat-trapping carbon pollution drops, but scientists cite the Iran war rather than energy progress",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdkI5Vi11QVdqOEtRTlgyal9tdUduNm1BaDdEajhWdkVqU1NCMktwUUFkdkxCVEZqN3BrUGFRak51aGJNU21hT2oyQ2ZtcS0ybnNXQUY0SVFsdHRpenNrQTNBR09ueFZaSVpKRTJSSExOcXl0TVhwTFptd19QX19qbnN4eUFlbjNaT0VCZ2FwRnFWUEx1ajZ3Mmc1U0ZqUGVRZUZyQ3dQODRQX29laFhlZA?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-10T14:38:00Z"
         },
         {
           "id": "report-1d42635bfaef",
@@ -2825,15 +2843,6 @@
           "reportedAt": "2026-11-11T17:33:00Z"
         },
         {
-          "id": "report-9ba39b5908e9",
-          "title": "Iran opens training camp for women in readiness for war",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR3dlMmNFOTlHaUVNR2ZSaUJVSHpUV0E1NU1XVk4xd3lRZlFNbnpmVWo0dXUtaWhuUnFZcGMtN1RlQ1AtRm9Gd24zZE51T1lIcUtMMUFHa1pqbUU5NURZcmxpd3JaZnh6Z3M3VjhXNFlFMl82dVlpaWFCbkE4bVNGTEk1VnR4al8zS2EtaVg0QzZqQzRCcW9vb0RYUXk2ZzFvU3JBSlZnVdIBrAFBVV95cUxQWnZLazR5dFVsS2JfbHNYXzJFZmdldHdRczJnWFUtNUlmQXBhb2pVZUo4ZkZ1S285TnY5c3ZsYjdwZ2Rqd3BMSnZmYkMwZGNSV25IMmJwdTliVzJYanljVlpubnhxaFZFLTkwcmpCaHpaZWlTRThMTFg4d01Bc3RYMy1CZHp6ZndyNjdUcjJzb1NibzlvU1hVc2dSSmpCWTZSSzdXSmQwcnRzdG1q?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-11T03:39:46Z"
-        },
-        {
           "id": "report-d7e898e6759f",
           "title": "New photos are 'essential evidence' of possible SAS war crimes, inquiry told",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaWDllM3FQakdQZ254VG5CdEpoaTlldHdMX192Tm5TN3IwbUlBcl9pRkVCbWZnbkVHWk12SXhseERGQU9pQjR5b2xhTVAwT3hGVWVWbF9Bd0s0RFU?oc=5",
@@ -2841,6 +2850,24 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-11-11T01:11:30Z"
+        },
+        {
+          "id": "report-26ffbcd5878e",
+          "title": "Israeli strike on Gaza hospital kills 6 people, including a doctor and a child, Health Ministry says",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU3ZJQlhjSko5MDVzS25JNzdQaWprR1pORklBMUI1Qlg0T3Zkc2J1eV8yUTE1S2RMdHlLcjdDbXNrNERFdDNtYTFleFlkNHZyeXBfQ25lcS05S29hd3YtT3ZWMXE2eUs2RXpuZXV2Z01OcklJeXdKT2FzR1dqZVRHRE9Ncl9QUzVSTkVod1V6RnFjMWNIcFBkWXBWU0FWWTM3TGJj?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-12T17:51:00Z"
+        },
+        {
+          "id": "report-9ba39b5908e9",
+          "title": "Iran opens training camp for women in readiness for war",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR3dlMmNFOTlHaUVNR2ZSaUJVSHpUV0E1NU1XVk4xd3lRZlFNbnpmVWo0dXUtaWhuUnFZcGMtN1RlQ1AtRm9Gd24zZE51T1lIcUtMMUFHa1pqbUU5NURZcmxpd3JaZnh6Z3M3VjhXNFlFMl82dVlpaWFCbkE4bVNGTEk1VnR4al8zS2EtaVg0QzZqQzRCcW9vb0RYUXk2ZzFvU3JBSlZnVdIBrAFBVV95cUxQWnZLazR5dFVsS2JfbHNYXzJFZmdldHdRczJnWFUtNUlmQXBhb2pVZUo4ZkZ1S285TnY5c3ZsYjdwZ2Rqd3BMSnZmYkMwZGNSV25IMmJwdTliVzJYanljVlpubnhxaFZFLTkwcmpCaHpaZWlTRThMTFg4d01Bc3RYMy1CZHp6ZndyNjdUcjJzb1NibzlvU1hVc2dSSmpCWTZSSzdXSmQwcnRzdG1q?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-11T03:39:46Z"
         },
         {
           "id": "report-21fec6061223",
@@ -2852,15 +2879,6 @@
           "reportedAt": "2026-11-10T12:59:39Z"
         },
         {
-          "id": "report-26ffbcd5878e",
-          "title": "Israeli strike on Gaza hospital kills 6 people, including a doctor and a child, Health Ministry says",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU3ZJQlhjSko5MDVzS25JNzdQaWprR1pORklBMUI1Qlg0T3Zkc2J1eV8yUTE1S2RMdHlLcjdDbXNrNERFdDNtYTFleFlkNHZyeXBfQ25lcS05S29hd3YtT3ZWMXE2eUs2RXpuZXV2Z01OcklJeXdKT2FzR1dqZVRHRE9Ncl9QUzVSTkVod1V6RnFjMWNIcFBkWXBWU0FWWTM3TGJj?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-12T12:15:00Z"
-        },
-        {
           "id": "report-0d7f6c193617",
           "title": "Ireland and Ukraine considering co-production of unmanned drones",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XcWt1N1oteHJvMUVPRGlfZU95eERzTjdxVWxQSWpOV2dicV9HOEplOWlPQkZMMWtCNWFHNVNIM3NBYkJfVlZCNi02R2k2RnI3cXNlUjdXcEY4Tm8?oc=5",
@@ -2868,15 +2886,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-11-11T23:27:34Z"
-        },
-        {
-          "id": "report-fc3152deb51a",
-          "title": "US voters want Democrats focused on ending Iran war, lowering costs: Poll",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ3NWVUx0bUZWN1Y5MUxkRG5ZWGF2VFVzOHhFa0NsQzJ3Z2ZoWGlmNUEtRGFfaVVvYXVCUHFaak41LXVBaDJRdkhMSThVTlc3c0JMQTVYTnVLTFpxR0RrSjA0WlVhNnVxc1lOU1ViWW1XLU9XSFotTFc2eUdvUzhWeTB4X0RLWUt1MmR3SGNzNzE2S1lQUUxTNmNPN2oyQkxDaEtpRFZnQ0pYSDdlSkpHaXl2WdIBuAFBVV95cUxQanlGTU44bUg3MEo0UmlQTFpGUFBhWDZ2VERBZThVNEZ2dnFQeWs5TTBpeVo5OGRNTUZhbkhYdTZDdEVibUxLenBpelZOb2g5aEVvQWpITTAxQ3pvMEh5WGwxWkVyYzA3N0RBMnNNd2tYNVFmY1JsSHk1TDU4MTRVcHVaUzBSNGo4eXEzd3pfc3V2SmhzRTRmXzlhMjFSRkxPeFVZR3N4LTBWTnowRzFLbndQUTBuZm55?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-10T20:31:11Z"
         },
         {
           "id": "report-b93c850eefc3",
@@ -2904,15 +2913,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-11-11T06:21:11Z"
-        },
-        {
-          "id": "report-032dd5dacfce",
-          "title": "War veteran returns Falklands helmet to Argentina",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84MEJOWjNTejVGWU1halQ3YWZHTmdHNkJMUDJkSFJCcml2STJ5Rm1vdmwwNU9zS2ZOMnh2VmRGTkd4Z3dtWS05QWppQ2RCU0FXM0lmLTc2d0tMbGM?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-11T06:09:30Z"
         },
         {
           "id": "report-852ecef4f963",
