@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T22:16:42.497Z",
+  "generatedAt": "2026-11-12T00:41:13.815Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-11-11T14:18:43.147Z",
+      "generatedAt": "2026-11-12T00:41:13.815Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -2493,9 +2493,17 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-11-11T14:18:43.147Z",
+      "generatedAt": "2026-11-12T00:41:13.815Z",
       "cadence": "every 6 hours",
       "items": [
+        {
+          "title": "Rubio backs blockade, Vance wants deal: Is Trump’s team split on Iran war?",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBCYVRxVHdXS2I0WWlWam93NzhydHhvZnRPWUN6ZEZySlF1WGp6a1JDWVNPal9hVmFYbEdNWlVyclgwN0lOZC1hZVR6Z2R1M3pUQW5LRjRZSlVYZndYaDNzbDVtNEF5UmZwbFNoNzB4NnNzSnJQdkpDM9IBfkFVX3lxTE52RGRYcHhoaW9LZFhuZHc4N2ZocFVUcGZlYXZSM21ZYmR2a25odXBneUo5ZW5tNnZ1SEFOdzZNLS1pYXhtai1kd2cxTUI4SjIyd2trTF9BWk9nVVEzak9UYmRMWHZPMmpOZWhOUnplei1yUlNEbDVrUlhTd25tZw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261111T141455Z",
+          "pinned": false
+        },
         {
           "title": "‘Positive momentum’: Is the US war on Iran about to end?",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbkxDMlpGamhRLTVyZGpBdE1zQkRrOHZvLXlrb1ZSWXNMdUhVNDNmaWNzX0lKQm5ncC1ZM01VZm1yb210NW15eG5DVWlaaDBPTFhldXBDRlFJdFFmMElHZWZpekFRb3ByMExFZHNuZ21HOXQ2Tjh4X3V6WVEwLUtlV3ZWS2JQVUFKbm5ISFc2Y2VCVUpKanppczZR0gGfAUFVX3lxTE1fYjdrZmtKMkhWNnF0UnNYZVpXMTNydmRLNVA1VkxpMlVSTkxnX0pfQUxLNzFoTDlHeWhWdzJpYmFRcFcyakJNRzVraUdpT0VpTURSR0VwZ256bTNxZVhMX2k1S2FUVTRObWFlTU04X2piLVNqc0FYSG11a3FPdkhBU2R0QlBEYkhLcEVHajhBRjQxbDBtSWxqblpISHZ2OA?oc=5",
@@ -2521,14 +2529,6 @@
           "pinned": false
         },
         {
-          "title": "Iran threatens to ‘rain down hell’ if US escalates war",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeGY4UThBZ2p5aG5CeVd1RWktVFhWbjVMUGJmaEZmdWdkLXpFa3dfcW1PRkZlcUJvLWFBbU1lc05NbmVTT2I1bDB3M1M4Rzg5VkxleDJJNkRZNlJPRHFrOFQxYkxZdzVRY29lR1hZY09oUko3Y2pUZGlqdG42Y2lIZ1lEWDQ1dlRSMXFoTnFTczZvclUzclMxNtIBngFBVV95cUxNNnV4cG5GTnQ4SmJXeWxmV1pXY0pQRDQyZWwtcWVFYnhPRHNsQ2VIRnhVZlhybWdObWVreUNJSGU1UzIzdHcxU2RkU3B5WFVHVHFrUFprNkthQ2JQaWNPMm1ET3ZKNTd2eW5wTkFDOC1GSDJpemZWelk4ZlhCaWdVUWdBRWx3TkFiWUd1OVlCTWktODJlNkVya1BmZDVTdw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261108T201612Z",
-          "pinned": false
-        },
-        {
           "title": "Rubio says war on Iran unpopular but ‘necessary’ to stop nuclear threat",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMFlYWG5HNENyZGpLS1JGNzJvMzJqTjJReEplWTNFMnBXTjFQM0ZiblN3WVh3ZEpfcWxGbTE5aTY1MjgtajEwU19vLUlPZUNTdXk4VE9oY0dBblkybmVoOHJ4WUJ4bHhIcjk2akRPRlhYV1pVbVdBZ09hRzFKazJLZUhVSl8zbURINVFMWHZKcDZ0UWRab09ka3hWSkpDaVU4YXVlSzNrLWNMVUZkUXlJ0gG0AUFVX3lxTE11UV9jSEd6eTNyZU5EYXhJMTQyNzJRMS02eHExS0NUZi1PWXV3T0l3NHhHc0xDQ0xNLXB4eU9CUGxJaWxZZEt3REFLMHFlTGlIMUFjX3Myc3duczRGSmRIMVBMNjF4eHpIVy1nT3VRaUhKQXpKUTc1YVFpb0NOQmpVSU85eW9MWGRkQnpxcVFzem9NUmJmR3lQOExkTDNJd2wtemJJQ0dVeGd1MVFocldSdXBEVQ?oc=5",
           "domain": "aljazeera.com",
@@ -2542,6 +2542,14 @@
           "domain": "aa.com.tr",
           "sourceTier": "State-affiliated reporting",
           "seen": "20261110T212916Z",
+          "pinned": false
+        },
+        {
+          "title": "Hormuz Strait will ‘never return’ to pre-war status, Iran’s Ghalibaf says",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWGxvd2hwTGtyaGlUa3hIS3BUSkdPYXJVNUd2Wnl1V0M1enhlSVdnUU9UN091S0JPLThfTTk3QVkwUmhPR212enhUWDUxRGdqZ0RtVXVJY3Ruc0podzdET0QtX0VCbGMwRzY5ZHMtTEQtMHNSaGtVQmVueGdCWTJ1SXFTVUlZRzVzZXdDUTZwcXo3cHdyTzlfS3gyTzMySDBmNlctcHNR0gGrAUFVX3lxTE9ETk94YXFQVXpLTFZnMUFLWDJEYWlLR2pDSkkyUTdtSFNKcXdfQUtHUkNTcnBNc05LYk4xR09nZ0ctUDVvakxYejhwT18xVURRUHA3TUdWLWpIOUVpTnFkQmRFWXhaaWpadTNOLVpxdTMzUUl6OVhuQ25sSmRUMXJfMmJiTEtHbFpMSzVaNXpTU1lRTlkwWmFyUHZQb2Q5TENUMUh1ejZVZS1jVQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261111T210603Z",
           "pinned": false
         },
         {
@@ -2577,14 +2585,6 @@
           "pinned": false
         },
         {
-          "title": "After meeting Qatar PM, Trump calls Iran war ‘effectively over’ militarily",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQk10al9Za09KSVdSOEJFak01MEtXS0I0bHg2Q2wzSmUzSDlEVlpObU41Mjg0aUZhQU5zR1NIbzdTMHJLV1FDbEk5WExHLUF0aUlHVU9CSlpEMXozNVFzSm5PTm4zekxYVmR6YlZLYUtHVUEzREp3UEIzSW1NTksyMWJXZTFiWTRvNW5oSGtQOVY3ZW1uOHdNYXJuWUtnWmhkVTRQWEsxRdIBrAFBVV95cUxOeDVLZnJwdDZ1b2dWamRIanBpZXUtQXE1dVhQeXVmY0haLVRFUDFwa2Zicl9FQTEyUXhFaE40dldBQmR1amhrSkFqd2U3Z1d4RXhSZ1VFTGpmeHpMNERLc2syWFZYLVk3aGtvQk5WZFRYWlRLODE3NEs4UGF4amM2ZEVFSmZJcElHaEpQSlJ2Z2ZsTFh4TUhhb3BqblV2ZHBHaTRPWXNpcDJMeTdG?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261110T014336Z",
-          "pinned": false
-        },
-        {
           "title": "Qatar PM meets with Trump for talks on ending war on Iran",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUWV4Z1BVUDIzY25WUXNCbkZ5Zl9QUXJnaElLV1Y2eXBMUGFaaEs4NC1XR19ZZnFrTFFySHVXZ1hDdUxCUkZQcXpHMVFyQTZka3d0c1RrdEhRZjVYT25MTTREYW4tekpCTkItMThha0FNMXNSX2VvcmhKRUlWdUhiSDlIeXJTR2JQYW1GRDFrQ1hlTWhOYmR2R0tKZ09lVUlxblhJZFJGdEhvM3ZL0gGyAUFVX3lxTFBzaHl2bmYyUnpMUXBZS216b1hOWm4xSmloMDFyNDJqOE5sUDZPOWxVanNReGNUQ3pRV1plY014aW93emI4T0hKTFBNRUM1T3J2YTNwbVlVRXM2WmtHdFNROGNtdkg0NUc0OWZpN25XNmtrWjZvakFhSmFwZzg5OUNubEtZYUJuY2NObjMza0dORU5XbV81cXdBcmZfM050akdqQi1aR2FVanBKdnhCWkcxaGc?oc=5",
           "domain": "aljazeera.com",
@@ -2598,6 +2598,14 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20261109T071023Z",
+          "pinned": false
+        },
+        {
+          "title": "Trump after meeting with Qatari PM says he believes war with Iran is militarily 'effectively over'",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOelU0dnZ5Y2ROMkdrZXlYYURIcnJocXdKbWx1eTlPcENLMk1vX3ctTC1ycGlfQ0dlemFiX2pHRzRvSkd4NTZ3aEdxU3h5OW5ZeUo3cU50YTVPODlxb2lZMVBwRFU4bXlmYlJiTmdHSHcxUUdQMFptNG43Y1hsanUzbTJHMHc5eTlVeVlz?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261109T220209Z",
           "pinned": false
         },
         {
@@ -2617,14 +2625,6 @@
           "pinned": false
         },
         {
-          "title": "Russian military plane that landed in Israel carried military intelligence chief: Report",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORkt0dU1UY2JsWV8yTkdhQWpUYVg0WFR0eVhzRDJTM2V0SnVLQU0ybDRNdHhlbzdZZ0RVelYyOG94SUQ1YmJDX0RHa0dEb092VTJoUVJBc2E3ekc0ZnRCU3AwS3MtM1Z2bjFKVHJPWHV6OEtwS0xPQ194UHBiT1lNZ21nYWczU3NzdHJGellWYk9Ramt0OXBlb0tITkx0RWVHclo0OWRKRXZzNWVMMUNQTGRGbTV3N05uZmM4d1Y2WjFQbWpzeU5B?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "seen": "20261109T230259Z",
-          "pinned": false
-        },
-        {
           "title": "Iran lifts 2,000km limit on its ballistic missiles: What that means",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV1JBQXh0T1UybDBQUDF1ak5UajRqVWdaUjVHY2F0YWtWYlAwLUdFNm16alI4d2dTWG9jNHhBNzVZZUxDemVzSzZKMUNqN2dnM2JVYy1uQm5FQ2dZVkNMM2dINEhFN2hCeWhFaHpaOHgyTVhBd2hvMHI3Z2JIaFh4bnBfajlzVXNKbFpxZWN2SUFYTjFQcWtnZ216OE9mOHgxN2taSGhhWjZzd1nSAbABQVVfeXFMTVRPdWIwbnlsVHJ4aHBmOTNyWFNTbzhmajNIZXFSaUZlQWNneXQ1ZUczTXlMM3NHYXRNaXg3c2E1UEVxNjJwVm9LU2o5TnNTV2pISE9EVC1WU0w5OFdwUTJBRjJXaERTOEQ2SDFVYnhtTDhvUVV0NlBraXFwM1JXeUNNTFhaRTNRTVdKTnVFUWtYVkROelVIZ3U5R2hSSm5WQUVYTFBFSUNYdHJzY3kwZnY?oc=5",
           "domain": "aljazeera.com",
@@ -2633,11 +2633,11 @@
           "pinned": false
         },
         {
-          "title": "Trump envoys aim to persuade Russia to include Europe in negotiations on ending war with Ukraine",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSzJmdDczN2hxRVpiY0V5UzZWZlFBR3oxaUlhWW96SzNvUEcxd3Q5clI3M1FXUTZqMkF5dmpZV29xdjFZV1hBNDZpeXVwalQ4X1lISlZGY1lIWVZ2UXpYUUExQXl0aVlZazNycEFHQ25xclZiNHQyOW5nWlFoYlFPU3VyeTZwa0hPUkNMeTJ5ck9UVk95?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261109T205300Z",
+          "title": "Russian military plane that landed in Israel carried military intelligence chief: Report",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORkt0dU1UY2JsWV8yTkdhQWpUYVg0WFR0eVhzRDJTM2V0SnVLQU0ybDRNdHhlbzdZZ0RVelYyOG94SUQ1YmJDX0RHa0dEb092VTJoUVJBc2E3ekc0ZnRCU3AwS3MtM1Z2bjFKVHJPWHV6OEtwS0xPQ194UHBiT1lNZ21nYWczU3NzdHJGellWYk9Ramt0OXBlb0tITkx0RWVHclo0OWRKRXZzNWVMMUNQTGRGbTV3N05uZmM4d1Y2WjFQbWpzeU5B?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20261109T230259Z",
           "pinned": false
         },
         {
@@ -2649,6 +2649,14 @@
           "pinned": false
         },
         {
+          "title": "Trump says Ukraine will emerge with 'different shape' after Russia war",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNM0JuUmJFU2dUdlN0c2ZlYmREWjlhUkNJRTdZeU4xdEtEek9yMEFpdkNBN2ZDOW81Qm5NaTYxUlFnT0RlWV85OUNpOTNCTFdLeUJSZnhBcGItRHo1MXVJUHZrdEFPUExBcFNfWkRhN2lMS1RKR21xeXdTWWs0YmpiOWJfbmhrdU9DbHFOSk9VcGdlNFBXakxOVTlpblBfaXM1U0ljU0VicFUybmx4bTYw?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20261109T031709Z",
+          "pinned": false
+        },
+        {
           "title": "Trump says war with Iran is ‘effectively over,’ but US remains ‘locked and loaded’",
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNlozNFZyT1BlYnQ0MnNfNU5TaDN4cDRpb0ZWMmJsQ2U1Yjdnb2ZnSlhMMk5ySlNfRWVjSlFBS0pyWk5sX3V2eXJYZnYtSjY4Qlc2U1dNX1ZWTWk4ZFZmSG05SEFzeWFfQ1VuVDdOWWhWeXVTRlF2ckdOUWx1bXhKcXpLSVpYUzhYbmQtSmJHWm5OQnlqdTFFeXp2QnVtQXh4TS1JZXhpN2d3d2dyTHN1bXBwRnpCRWl5QUlZbW1FNlEtM0M4aHpFLUdvUTByTDVv?oc=5",
           "domain": "apnews.com",
@@ -2657,11 +2665,11 @@
           "pinned": false
         },
         {
-          "title": "Trump says Ukraine will emerge with 'different shape' after Russia war",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNM0JuUmJFU2dUdlN0c2ZlYmREWjlhUkNJRTdZeU4xdEtEek9yMEFpdkNBN2ZDOW81Qm5NaTYxUlFnT0RlWV85OUNpOTNCTFdLeUJSZnhBcGItRHo1MXVJUHZrdEFPUExBcFNfWkRhN2lMS1RKR21xeXdTWWs0YmpiOWJfbmhrdU9DbHFOSk9VcGdlNFBXakxOVTlpblBfaXM1U0ljU0VicFUybmx4bTYw?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "seen": "20261109T031709Z",
+          "title": "World War Two artwork saved from leaky roof",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaaFA3Z3BpNldxNkpjbVdzWmo0WGR6SUtiTkF6MFAtT1dsZEdMUlppSkFXRXpKVnNEZUFqN2wwaXdxU2hJX243Skw1bTlUWGJqbm12dk1hUGJ1eWM?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261109T121549Z",
           "pinned": false
         },
         {
@@ -2673,23 +2681,24 @@
           "pinned": false
         },
         {
-          "title": "USAAF World War Two artwork at Bungay base saved from leaky roof",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaaFA3Z3BpNldxNkpjbVdzWmo0WGR6SUtiTkF6MFAtT1dsZEdMUlppSkFXRXpKVnNEZUFqN2wwaXdxU2hJX243Skw1bTlUWGJqbm12dk1hUGJ1eWM?oc=5",
-          "domain": "bbc.com",
+          "title": "South African police arrest 9 foreigners for trying to join Russia-Ukraine war",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR2N4a2djZmNTTXYyR2ZhemFQZURkNGFrSE0tcU1pc3dPakRmQ2lVMWs2eTRDZklrUXpsQlRGVGlMVDFRTnFpSWZnd2c3TGU3M2dnY3B3WGFEVHhzcHg1Mm5DUXlCNWdzTk9WNnlKU3RFX3ZRSzVFcEhFMmlocEU4SmphbWphWHptZkNlLWo2cnVweHFoNUZ5cEZyQm1nQlNFcGZCVHlKY0VNRW8?oc=5",
+          "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261109T121549Z",
-          "pinned": false
-        },
-        {
-          "title": "Veteran researches stories behind Pontefract's 134 war graves",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lcV81djU4RUFDLURIUjNCWEdIc1hldFBLYV83bFJ2bS1FVHBqYmdLSXNqWFZjeGFvYUtZUko0anFrVVdpeU9xVmN4djBZVTVtTFhhXy1hVE1CYzg?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261111T062111Z",
+          "seen": "20261109T151000Z",
           "pinned": false
         }
       ],
       "reports": [
+        {
+          "id": "report-faf57de0d4f7",
+          "title": "Rubio backs blockade, Vance wants deal: Is Trump’s team split on Iran war?",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBCYVRxVHdXS2I0WWlWam93NzhydHhvZnRPWUN6ZEZySlF1WGp6a1JDWVNPal9hVmFYbEdNWlVyclgwN0lOZC1hZVR6Z2R1M3pUQW5LRjRZSlVYZndYaDNzbDVtNEF5UmZwbFNoNzB4NnNzSnJQdkpDM9IBfkFVX3lxTE52RGRYcHhoaW9LZFhuZHc4N2ZocFVUcGZlYXZSM21ZYmR2a25odXBneUo5ZW5tNnZ1SEFOdzZNLS1pYXhtai1kd2cxTUI4SjIyd2trTF9BWk9nVVEzak9UYmRMWHZPMmpOZWhOUnplei1yUlNEbDVrUlhTd25tZw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-11T14:14:55Z"
+        },
         {
           "id": "report-2279ee2b8e55",
           "title": "‘Positive momentum’: Is the US war on Iran about to end?",
@@ -2718,15 +2727,6 @@
           "reportedAt": "2026-11-09T10:00:44Z"
         },
         {
-          "id": "report-7e6203b909a8",
-          "title": "Iran threatens to ‘rain down hell’ if US escalates war",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeGY4UThBZ2p5aG5CeVd1RWktVFhWbjVMUGJmaEZmdWdkLXpFa3dfcW1PRkZlcUJvLWFBbU1lc05NbmVTT2I1bDB3M1M4Rzg5VkxleDJJNkRZNlJPRHFrOFQxYkxZdzVRY29lR1hZY09oUko3Y2pUZGlqdG42Y2lIZ1lEWDQ1dlRSMXFoTnFTczZvclUzclMxNtIBngFBVV95cUxNNnV4cG5GTnQ4SmJXeWxmV1pXY0pQRDQyZWwtcWVFYnhPRHNsQ2VIRnhVZlhybWdObWVreUNJSGU1UzIzdHcxU2RkU3B5WFVHVHFrUFprNkthQ2JQaWNPMm1ET3ZKNTd2eW5wTkFDOC1GSDJpemZWelk4ZlhCaWdVUWdBRWx3TkFiWUd1OVlCTWktODJlNkVya1BmZDVTdw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-08T20:16:12Z"
-        },
-        {
           "id": "report-59fcb5a9df17",
           "title": "Rubio says war on Iran unpopular but ‘necessary’ to stop nuclear threat",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMFlYWG5HNENyZGpLS1JGNzJvMzJqTjJReEplWTNFMnBXTjFQM0ZiblN3WVh3ZEpfcWxGbTE5aTY1MjgtajEwU19vLUlPZUNTdXk4VE9oY0dBblkybmVoOHJ4WUJ4bHhIcjk2akRPRlhYV1pVbVdBZ09hRzFKazJLZUhVSl8zbURINVFMWHZKcDZ0UWRab09ka3hWSkpDaVU4YXVlSzNrLWNMVUZkUXlJ0gG0AUFVX3lxTE11UV9jSEd6eTNyZU5EYXhJMTQyNzJRMS02eHExS0NUZi1PWXV3T0l3NHhHc0xDQ0xNLXB4eU9CUGxJaWxZZEt3REFLMHFlTGlIMUFjX3Myc3duczRGSmRIMVBMNjF4eHpIVy1nT3VRaUhKQXpKUTc1YVFpb0NOQmpVSU85eW9MWGRkQnpxcVFzem9NUmJmR3lQOExkTDNJd2wtemJJQ0dVeGd1MVFocldSdXBEVQ?oc=5",
@@ -2743,6 +2743,15 @@
           "sourceTier": "State-affiliated reporting",
           "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
           "reportedAt": "2026-11-10T21:29:16Z"
+        },
+        {
+          "id": "report-302d0612fa2c",
+          "title": "Hormuz Strait will ‘never return’ to pre-war status, Iran’s Ghalibaf says",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWGxvd2hwTGtyaGlUa3hIS3BUSkdPYXJVNUd2Wnl1V0M1enhlSVdnUU9UN091S0JPLThfTTk3QVkwUmhPR212enhUWDUxRGdqZ0RtVXVJY3Ruc0podzdET0QtX0VCbGMwRzY5ZHMtTEQtMHNSaGtVQmVueGdCWTJ1SXFTVUlZRzVzZXdDUTZwcXo3cHdyTzlfS3gyTzMySDBmNlctcHNR0gGrAUFVX3lxTE9ETk94YXFQVXpLTFZnMUFLWDJEYWlLR2pDSkkyUTdtSFNKcXdfQUtHUkNTcnBNc05LYk4xR09nZ0ctUDVvakxYejhwT18xVURRUHA3TUdWLWpIOUVpTnFkQmRFWXhaaWpadTNOLVpxdTMzUUl6OVhuQ25sSmRUMXJfMmJiTEtHbFpMSzVaNXpTU1lRTlkwWmFyUHZQb2Q5TENUMUh1ejZVZS1jVQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-11T21:06:03Z"
         },
         {
           "id": "report-0741333117ab",
@@ -2781,15 +2790,6 @@
           "reportedAt": "2026-11-10T13:23:54Z"
         },
         {
-          "id": "report-e232d97cc22e",
-          "title": "After meeting Qatar PM, Trump calls Iran war ‘effectively over’ militarily",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQk10al9Za09KSVdSOEJFak01MEtXS0I0bHg2Q2wzSmUzSDlEVlpObU41Mjg0aUZhQU5zR1NIbzdTMHJLV1FDbEk5WExHLUF0aUlHVU9CSlpEMXozNVFzSm5PTm4zekxYVmR6YlZLYUtHVUEzREp3UEIzSW1NTksyMWJXZTFiWTRvNW5oSGtQOVY3ZW1uOHdNYXJuWUtnWmhkVTRQWEsxRdIBrAFBVV95cUxOeDVLZnJwdDZ1b2dWamRIanBpZXUtQXE1dVhQeXVmY0haLVRFUDFwa2Zicl9FQTEyUXhFaE40dldBQmR1amhrSkFqd2U3Z1d4RXhSZ1VFTGpmeHpMNERLc2syWFZYLVk3aGtvQk5WZFRYWlRLODE3NEs4UGF4amM2ZEVFSmZJcElHaEpQSlJ2Z2ZsTFh4TUhhb3BqblV2ZHBHaTRPWXNpcDJMeTdG?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-10T01:43:36Z"
-        },
-        {
           "id": "report-2864c9669420",
           "title": "Qatar PM meets with Trump for talks on ending war on Iran",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUWV4Z1BVUDIzY25WUXNCbkZ5Zl9QUXJnaElLV1Y2eXBMUGFaaEs4NC1XR19ZZnFrTFFySHVXZ1hDdUxCUkZQcXpHMVFyQTZka3d0c1RrdEhRZjVYT25MTTREYW4tekpCTkItMThha0FNMXNSX2VvcmhKRUlWdUhiSDlIeXJTR2JQYW1GRDFrQ1hlTWhOYmR2R0tKZ09lVUlxblhJZFJGdEhvM3ZL0gGyAUFVX3lxTFBzaHl2bmYyUnpMUXBZS216b1hOWm4xSmloMDFyNDJqOE5sUDZPOWxVanNReGNUQ3pRV1plY014aW93emI4T0hKTFBNRUM1T3J2YTNwbVlVRXM2WmtHdFNROGNtdkg0NUc0OWZpN25XNmtrWjZvakFhSmFwZzg5OUNubEtZYUJuY2NObjMza0dORU5XbV81cXdBcmZfM050akdqQi1aR2FVanBKdnhCWkcxaGc?oc=5",
@@ -2806,6 +2806,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-11-09T07:10:23Z"
+        },
+        {
+          "id": "report-0a929cccf5b4",
+          "title": "Trump after meeting with Qatari PM says he believes war with Iran is militarily 'effectively over'",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOelU0dnZ5Y2ROMkdrZXlYYURIcnJocXdKbWx1eTlPcENLMk1vX3ctTC1ycGlfQ0dlemFiX2pHRzRvSkd4NTZ3aEdxU3h5OW5ZeUo3cU50YTVPODlxb2lZMVBwRFU4bXlmYlJiTmdHSHcxUUdQMFptNG43Y1hsanUzbTJHMHc5eTlVeVlz?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-09T22:02:09Z"
         },
         {
           "id": "report-d7e898e6759f",
@@ -2826,15 +2835,6 @@
           "reportedAt": "2026-11-11T03:39:46Z"
         },
         {
-          "id": "report-d145ed5b6d56",
-          "title": "Russian military plane that landed in Israel carried military intelligence chief: Report",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORkt0dU1UY2JsWV8yTkdhQWpUYVg0WFR0eVhzRDJTM2V0SnVLQU0ybDRNdHhlbzdZZ0RVelYyOG94SUQ1YmJDX0RHa0dEb092VTJoUVJBc2E3ekc0ZnRCU3AwS3MtM1Z2bjFKVHJPWHV6OEtwS0xPQ194UHBiT1lNZ21nYWczU3NzdHJGellWYk9Ramt0OXBlb0tITkx0RWVHclo0OWRKRXZzNWVMMUNQTGRGbTV3N05uZmM4d1Y2WjFQbWpzeU5B?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
-          "reportedAt": "2026-11-09T23:02:59Z"
-        },
-        {
           "id": "report-21fec6061223",
           "title": "Iran lifts 2,000km limit on its ballistic missiles: What that means",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV1JBQXh0T1UybDBQUDF1ak5UajRqVWdaUjVHY2F0YWtWYlAwLUdFNm16alI4d2dTWG9jNHhBNzVZZUxDemVzSzZKMUNqN2dnM2JVYy1uQm5FQ2dZVkNMM2dINEhFN2hCeWhFaHpaOHgyTVhBd2hvMHI3Z2JIaFh4bnBfajlzVXNKbFpxZWN2SUFYTjFQcWtnZ216OE9mOHgxN2taSGhhWjZzd1nSAbABQVVfeXFMTVRPdWIwbnlsVHJ4aHBmOTNyWFNTbzhmajNIZXFSaUZlQWNneXQ1ZUczTXlMM3NHYXRNaXg3c2E1UEVxNjJwVm9LU2o5TnNTV2pISE9EVC1WU0w5OFdwUTJBRjJXaERTOEQ2SDFVYnhtTDhvUVV0NlBraXFwM1JXeUNNTFhaRTNRTVdKTnVFUWtYVkROelVIZ3U5R2hSSm5WQUVYTFBFSUNYdHJzY3kwZnY?oc=5",
@@ -2844,13 +2844,13 @@
           "reportedAt": "2026-11-10T12:59:39Z"
         },
         {
-          "id": "report-1a5cf482daeb",
-          "title": "Trump envoys aim to persuade Russia to include Europe in negotiations on ending war with Ukraine",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSzJmdDczN2hxRVpiY0V5UzZWZlFBR3oxaUlhWW96SzNvUEcxd3Q5clI3M1FXUTZqMkF5dmpZV29xdjFZV1hBNDZpeXVwalQ4X1lISlZGY1lIWVZ2UXpYUUExQXl0aVlZazNycEFHQ25xclZiNHQyOW5nWlFoYlFPU3VyeTZwa0hPUkNMeTJ5ck9UVk95?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-09T20:53:00Z"
+          "id": "report-d145ed5b6d56",
+          "title": "Russian military plane that landed in Israel carried military intelligence chief: Report",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORkt0dU1UY2JsWV8yTkdhQWpUYVg0WFR0eVhzRDJTM2V0SnVLQU0ybDRNdHhlbzdZZ0RVelYyOG94SUQ1YmJDX0RHa0dEb092VTJoUVJBc2E3ekc0ZnRCU3AwS3MtM1Z2bjFKVHJPWHV6OEtwS0xPQ194UHBiT1lNZ21nYWczU3NzdHJGellWYk9Ramt0OXBlb0tITkx0RWVHclo0OWRKRXZzNWVMMUNQTGRGbTV3N05uZmM4d1Y2WjFQbWpzeU5B?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-11-09T23:02:59Z"
         },
         {
           "id": "report-fc3152deb51a",
@@ -2862,6 +2862,15 @@
           "reportedAt": "2026-11-10T20:31:11Z"
         },
         {
+          "id": "report-28b439e69f94",
+          "title": "Trump says Ukraine will emerge with 'different shape' after Russia war",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNM0JuUmJFU2dUdlN0c2ZlYmREWjlhUkNJRTdZeU4xdEtEek9yMEFpdkNBN2ZDOW81Qm5NaTYxUlFnT0RlWV85OUNpOTNCTFdLeUJSZnhBcGItRHo1MXVJUHZrdEFPUExBcFNfWkRhN2lMS1RKR21xeXdTWWs0YmpiOWJfbmhrdU9DbHFOSk9VcGdlNFBXakxOVTlpblBfaXM1U0ljU0VicFUybmx4bTYw?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-11-09T03:17:09Z"
+        },
+        {
           "id": "report-89f23b08a0b7",
           "title": "Trump says war with Iran is ‘effectively over,’ but US remains ‘locked and loaded’",
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNlozNFZyT1BlYnQ0MnNfNU5TaDN4cDRpb0ZWMmJsQ2U1Yjdnb2ZnSlhMMk5ySlNfRWVjSlFBS0pyWk5sX3V2eXJYZnYtSjY4Qlc2U1dNX1ZWTWk4ZFZmSG05SEFzeWFfQ1VuVDdOWWhWeXVTRlF2ckdOUWx1bXhKcXpLSVpYUzhYbmQtSmJHWm5OQnlqdTFFeXp2QnVtQXh4TS1JZXhpN2d3d2dyTHN1bXBwRnpCRWl5QUlZbW1FNlEtM0M4aHpFLUdvUTByTDVv?oc=5",
@@ -2871,13 +2880,13 @@
           "reportedAt": "2026-11-09T23:03:00Z"
         },
         {
-          "id": "report-28b439e69f94",
-          "title": "Trump says Ukraine will emerge with 'different shape' after Russia war",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNM0JuUmJFU2dUdlN0c2ZlYmREWjlhUkNJRTdZeU4xdEtEek9yMEFpdkNBN2ZDOW81Qm5NaTYxUlFnT0RlWV85OUNpOTNCTFdLeUJSZnhBcGItRHo1MXVJUHZrdEFPUExBcFNfWkRhN2lMS1RKR21xeXdTWWs0YmpiOWJfbmhrdU9DbHFOSk9VcGdlNFBXakxOVTlpblBfaXM1U0ljU0VicFUybmx4bTYw?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
-          "reportedAt": "2026-11-09T03:17:09Z"
+          "id": "report-2e2b1f71afe3",
+          "title": "World War Two artwork saved from leaky roof",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaaFA3Z3BpNldxNkpjbVdzWmo0WGR6SUtiTkF6MFAtT1dsZEdMUlppSkFXRXpKVnNEZUFqN2wwaXdxU2hJX243Skw1bTlUWGJqbm12dk1hUGJ1eWM?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-09T12:15:49Z"
         },
         {
           "id": "report-decc24cee2e5",
@@ -2889,22 +2898,13 @@
           "reportedAt": "2026-11-11T06:05:11Z"
         },
         {
-          "id": "report-2e2b1f71afe3",
-          "title": "USAAF World War Two artwork at Bungay base saved from leaky roof",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaaFA3Z3BpNldxNkpjbVdzWmo0WGR6SUtiTkF6MFAtT1dsZEdMUlppSkFXRXpKVnNEZUFqN2wwaXdxU2hJX243Skw1bTlUWGJqbm12dk1hUGJ1eWM?oc=5",
-          "domain": "bbc.com",
+          "id": "report-59d6d70314db",
+          "title": "South African police arrest 9 foreigners for trying to join Russia-Ukraine war",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR2N4a2djZmNTTXYyR2ZhemFQZURkNGFrSE0tcU1pc3dPakRmQ2lVMWs2eTRDZklrUXpsQlRGVGlMVDFRTnFpSWZnd2c3TGU3M2dnY3B3WGFEVHhzcHg1Mm5DUXlCNWdzTk9WNnlKU3RFX3ZRSzVFcEhFMmlocEU4SmphbWphWHptZkNlLWo2cnVweHFoNUZ5cEZyQm1nQlNFcGZCVHlKY0VNRW8?oc=5",
+          "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-09T12:15:49Z"
-        },
-        {
-          "id": "report-77f87b982e1b",
-          "title": "Veteran researches stories behind Pontefract's 134 war graves",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lcV81djU4RUFDLURIUjNCWEdIc1hldFBLYV83bFJ2bS1FVHBqYmdLSXNqWFZjeGFvYUtZUko0anFrVVdpeU9xVmN4djBZVTVtTFhhXy1hVE1CYzg?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-11T06:21:11Z"
+          "reportedAt": "2026-11-09T15:10:00Z"
         },
         {
           "id": "report-852ecef4f963",
