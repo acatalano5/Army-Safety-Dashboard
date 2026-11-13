@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-13T19:40:40.927Z",
+  "generatedAt": "2026-11-13T21:39:15.984Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -9,7 +9,7 @@
       "items": []
     },
     "safety": {
-      "generatedAt": "2026-11-12T21:55:55.197Z",
+      "generatedAt": "2026-11-13T21:39:15.984Z",
       "cadence": "daily",
       "items": [
         {
@@ -19,14 +19,6 @@
           "sourceTier": "Official / intergovernmental",
           "seen": "20250129T204800Z",
           "pinned": true
-        },
-        {
-          "title": "Florida Learjet Crash: The Air Force Still Flies Its Cousin, and the Navy Hires Learjets as Enemies",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVzRDb0RXN1FuWlJ2cVhFTjJacTNMOVB6NkhlWGNQZGUwSlNsV3gyQmxrdFpuX3VKdVRDOWhFbzlYWW0wZG9xRFFqalNxbndqV3VwellPQmlkVUtZdXJueDhhY1hpN09yQjBNdEV1RksxMzdOd3VfMFVCVmU0VWhnSnRzN0lhTkZLaWFINEZWSThzV2R5Y2llc3ZKazhUVnlYelYtb3FmZVozYnRhYjI0R0ln?oc=5",
-          "domain": "military.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261102T080000Z",
-          "pinned": false
         },
         {
           "title": "Family sues Air Force over daughter’s brain injury from birth overseas",
