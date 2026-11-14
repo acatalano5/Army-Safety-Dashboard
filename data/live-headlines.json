@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-14T20:05:45.932Z",
+  "generatedAt": "2026-11-14T22:23:13.974Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-11-14T18:00:48.034Z",
+      "generatedAt": "2026-11-14T22:23:13.974Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -2493,7 +2493,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-11-14T18:00:48.034Z",
+      "generatedAt": "2026-11-14T22:23:13.974Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -2521,11 +2521,19 @@
           "pinned": false
         },
         {
-          "title": "This Beirut family has sold falafel for 100 years, through war and crisis. It has no plan to stop",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVTh3T3U4V0h4TkZXQVRFeHF6RTRtbmFFZ1JPWlpJNlhJT19palZkU25lRXNWbE1wTTZQRjkzWmh3NHpUeERyQTVBRUNOOU1tZU1oZTdIMXZrZzQ4dDZLVFNQZ3cybkZpM0NrSGR4cnlhMFNSN0o5eTZSMzlXS3piNjQ1c3JtT0FSR2tKRURrMUZ1OTMyZk1VMm9iVFJ0YUYyWEtYcWF5Zl94Zw?oc=5",
-          "domain": "apnews.com",
+          "title": "Russian casualties ‘reach 450,000’: What that means for the Ukraine war",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM1ZOQkZOUFlTWklpVXVpbjFKd2RZdTNBbGNZUHN2ZGhILUdDSDlnVmVRQkxaVzBoajJKWEkyTjEyTEFUdENFejMwNnNucEdDRkRSdTZ4eXh2WXo3ckswZWE0ZGVrSnMtYXpOZkhQNDhPQ3NEWmdKc05MeWhaQUpGV25YUTZLR1FQX2xfNWVCdTRvaFpIR0ppTUtGcTBCZXNVZGlVc0VXaG9KTkNxOGfSAbMBQVVfeXFMTnhoendibndFZDA5c1RndEd1dDIzNjVBWngxZnB0T0NDMFNKMldxcHRmb2NMOC1veFB6TnZZTXdXUUg1M2JzWVRGYTlqTGVkcU5uelItYXA2b0VQTGlJR3hkb2FyS19BT0Z5NW92U3pJYmFyWUxaRWV2cEFhUFJZc1ZTSWdnQjFwdlZNNXVWalA4TXhyWkh5eWZ2bU1iWm1yaGlYYWU4REZBck9wcTNIRUIyRHc?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261112T053100Z",
+          "seen": "20261114T130347Z",
+          "pinned": false
+        },
+        {
+          "title": "US Treasury warns against rate hikes during US-Iran war energy ‘shock’",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY0IzNVR6Xzl2Q1NFaVdPY2xCWU11YzN4SWVTc0ZOV2FjRmV4QVZXQVctY2t4S2JJN3hKbWhfbjU5dV9qR2lxTGxZNVpFNTNlNEk3bm1PRGxOVjlrOFdMZE90cHFnU0xCMlFzci1Yc2c1SU9zMUEteUEyUjZ2YnV4M2hici1ZMmRDdzFqNjBuM05kNW1takVSYlg3Tm9NV3l3QllqdHRGRDNMUEVtYzBzbFAxb9IBuAFBVV95cUxQcDBLU1RQR0Etb2lQbm5kOEhlYVpseTJSazRLRWlWb1FIUjFLQ3YzY1p5Y0Jfbk13bU14a0Y2YVYwaW5vdkxEeTdwZ3dHMUdZSGhrNVpuSXAwWjdVTHdOSFg3MVhNMmFyZ2F4YUl3blRWbTN5SjhhcXJodVE0TjF6NlliUXlQV25kMFczalZvYmhINU00aWNNRkZNeGUwOWpLdkNOcHYxenJ5elU2dFpuRG83dW1oaGsx?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261113T162538Z",
           "pinned": false
         },
         {
@@ -2534,6 +2542,14 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20261111T210603Z",
+          "pinned": false
+        },
+        {
+          "title": "This Beirut family has sold falafel for 100 years, through war and crisis. It has no plan to stop",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVTh3T3U4V0h4TkZXQVRFeHF6RTRtbmFFZ1JPWlpJNlhJT19palZkU25lRXNWbE1wTTZQRjkzWmh3NHpUeERyQTVBRUNOOU1tZU1oZTdIMXZrZzQ4dDZLVFNQZ3cybkZpM0NrSGR4cnlhMFNSN0o5eTZSMzlXS3piNjQ1c3JtT0FSR2tKRURrMUZ1OTMyZk1VMm9iVFJ0YUYyWEtYcWF5Zl94Zw?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261112T053100Z",
           "pinned": false
         },
         {
@@ -2569,14 +2585,6 @@
           "pinned": false
         },
         {
-          "title": "Iran warns of expanded retaliation as Israel reportedly readies to attack",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaGV6WFJxeUNSa0ZVZFFWdC1mUGJUbEtIZldwSjJDWGQxUnFodTZ5akhnY010WTRLMXYtNjh5akpyczZkNjg1LXlUUnlQakJ5WmxORm9xQ0M4ck81WU9WWlhHU0x5WU1neXJrbTU0ZDRtd0JWa01TUTdRNjN1SDZfUkRObDg1dmJySkR3THpuaWh1TU94NVVMSHBJbEZ6VHNWUTlCNC1tTklKWFZlLXBvTHJWVkRtZ9IBuwFBVV95cUxPNmpBLWlIVTN1aUhtZ3R0amt5bWlCWGliV19MV2x5WExRRndaY2o0Nmc3cjVnZnFhX0Y3ZzVRMzBoQV9lZnctRWNiSlZ4LUtMV0JYVEVqaWpwSHo0STQ5Qzc0V0ZmMGlEZDBDNlduRVp2TUx1TjhURlRKYXdzS1N3Z1FKZ3ZJQjBTbGxyOW9tVHJaWXpDZkFqY0pEbVNEaDVkOUNmVmdoUFpQQTJTQnktZU94d3JMVm1iNFVR?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261112T040513Z",
-          "pinned": false
-        },
-        {
           "title": "Turkey’s president calls the war in Gaza an ‘ecocide’ at the UN climate summit",
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQUc5TXFGV2djcE9qWnVHWWU4VklJbHBtNjZQeExQNXUtVDFHNExYX2xzc0p1YmdYSVRjRXVZcXphTFJCWnZ1UEZUOFh6SzRvWUpVUjdiUktaa2d4a1Z5bVFsYkJBa2pWWHJrLTNFS2xxeVlHVVF2V19IeEVESms1LVpBblp0NjhiR1VUTXJjRmFlMDhPZ0VRM2JuNXNUMTVXcjhOYUgxSGt1dFRtTlQ4Ukxadk5JZURoVmVqeVZuYldGWWtQbTIwUGZBakZlQQ?oc=5",
           "domain": "apnews.com",
@@ -2597,15 +2605,7 @@
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQN0Q3Wkdxa0R4WG83d052SElGRm5zUGROWVhoLWlUV1U1MG1JNHhUVE53OFZHRDR2bHBJRFB4alVwYVlDSmRUYWNBaW9zY2U4VTgxa2MxWDFfNWppX0U2TVZuazdfQThrclhRVlRJNXZveklNVm5WMXkzNzdpbWpsQzNTNkJYOXphLVRfNzNTODJvSnhB?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261112T054408Z",
-          "pinned": false
-        },
-        {
-          "title": "Godzilla returns in special-effects glory in the latest movie with an anti-war message",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ2FGNThpbUZjMzkwSGxXLWxBUDVpNldrRGhfNHhKV29wRHlBN19LRWxDYWdUU29wUy1Wb0d4U1g2WnlZelZoa1ZiTlZQdGgzb2swNlBHVkpGNjFhTTZnWS1VT0xXQk1YamtjZ2ZEVlJjakV6ZjZTMkZxOF9YNC00Y3RmQV92a2l1QlRMcjdqNngySkFXZXdJVEluZ3lfdw?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261113T025900Z",
+          "seen": "20261112T100800Z",
           "pinned": false
         },
         {
@@ -2617,11 +2617,27 @@
           "pinned": false
         },
         {
-          "title": "US Treasury warns against rate hikes during US-Iran war energy ‘shock’",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY0IzNVR6Xzl2Q1NFaVdPY2xCWU11YzN4SWVTc0ZOV2FjRmV4QVZXQVctY2t4S2JJN3hKbWhfbjU5dV9qR2lxTGxZNVpFNTNlNEk3bm1PRGxOVjlrOFdMZE90cHFnU0xCMlFzci1Yc2c1SU9zMUEteUEyUjZ2YnV4M2hici1ZMmRDdzFqNjBuM05kNW1takVSYlg3Tm9NV3l3QllqdHRGRDNMUEVtYzBzbFAxb9IBuAFBVV95cUxQcDBLU1RQR0Etb2lQbm5kOEhlYVpseTJSazRLRWlWb1FIUjFLQ3YzY1p5Y0Jfbk13bU14a0Y2YVYwaW5vdkxEeTdwZ3dHMUdZSGhrNVpuSXAwWjdVTHdOSFg3MVhNMmFyZ2F4YUl3blRWbTN5SjhhcXJodVE0TjF6NlliUXlQV25kMFczalZvYmhINU00aWNNRkZNeGUwOWpLdkNOcHYxenJ5elU2dFpuRG83dW1oaGsx?oc=5",
+          "title": "Godzilla returns in special-effects glory in the latest movie with an anti-war message",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ2FGNThpbUZjMzkwSGxXLWxBUDVpNldrRGhfNHhKV29wRHlBN19LRWxDYWdUU29wUy1Wb0d4U1g2WnlZelZoa1ZiTlZQdGgzb2swNlBHVkpGNjFhTTZnWS1VT0xXQk1YamtjZ2ZEVlJjakV6ZjZTMkZxOF9YNC00Y3RmQV92a2l1QlRMcjdqNngySkFXZXdJVEluZ3lfdw?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261113T025900Z",
+          "pinned": false
+        },
+        {
+          "title": "UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdjB0S19BOXR1ZW1EU3dLRnNLUmYzb3YwZmFiQ0s2U25IdHZlQ1hTX1FYSTB2TjU3Q0h0UzBpTkRkMHdOUm5yRGhQVHdzTWJEdXNfWlMzc2RwRzRQMVk3MVdFMG5nLXd4MS04TWFkZTJocW9rVGdXMXEtelN6M3lMRjhUYVhHT290VkdQVkxObnpSTnFWNXNjS1FPc29aR25BM0lz0gGoAUFVX3lxTFBuVVc1SlJVcngxX0pBcGcwMnR3T0hOREcxVkdDSWVjb3JRdzZ1LURoVlVZRW5zblpialpwSEx1MFBGaWQ2T09WVGRMY1cySWdDc0Q2MVNDX0tlM1JtLUppbEZmcm9LaEg1VDVTdFV6a0VTYXV4eGFmX09GeGVWbWJSZlREY09kUXN4VEJKaDM5NXhNamQ3eVQxdjREam9Fc0lVZWlUSDJ6Uw?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261113T162538Z",
+          "seen": "20261114T075730Z",
+          "pinned": false
+        },
+        {
+          "title": "Ukraine, Russia race to build military satellite networks as war rages on",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQd0hSajl2c3VrUjNsS1YwRlFmVk9GRnpQR3lpNHpuSi1rX1ZhOTllQWxIY2JmeVA4eEo1RGxoYUR6WEozWVlLZy03VXFPenVseTBDVTNxUEZrT0xBMzVFN2xaSTRRU2loTEpTMGl6T1Y2ckdVRlRpa05PaFlvVDRTZUhnUkhzeF8zZE1HNFFiZEd4Yk9nc1o2UDBVSEt3ZUVRRnl6RWl2dDRsb3RvOG82RmNEcFrSAboBQVVfeXFMTXZwOFlIbVlXWFZ5dnlHQ2o3NVMzN19VLUh6QzZpNjdwVF9WZDNreklJSzdVQUlrOWF6NVNxNzNuZldPQV91SXJIeVBiNmxtQVRTVEpJZmg0OFJBa2t3T3BfZXBJVWpaVUdEamR1VXBwWkRoTTdHZ2QwNmJpYy1BX00xNTNyUlNMWUFiajNBV25zMWU1U1p6eFlDLTJ6aHRHdWdnV3NtdkREMFliRGVmMjlqd3FXWFNSRlZR?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261114T110754Z",
           "pinned": false
         },
         {
@@ -2633,11 +2649,19 @@
           "pinned": false
         },
         {
+          "title": "How war with US is reshaping nuclear doctrine of post-Khamenei Iran - Al-Monitor",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYk52VWEwcmJ0VGU0ZGJfWEZaUHFodGo3RjFYclpUR1JPWHRGcFE3SHY2MWFkT3ZpLUJ1V292aFkwN2xOdmo3MDQxRDRKYnVoVFBFakR5T3JhbTd0eUlzTU5NRXpfLVhlZFY5NVdtQkdJRGM3RFJodG5jN1cySHk4VUNWY1dTUFhfbnBsemRScDZITlBDN2tUN2hJOTZHVENsRlVB?oc=5",
+          "domain": "al-monitor.com",
+          "sourceTier": "Regional reporting",
+          "seen": "20261114T074349Z",
+          "pinned": false
+        },
+        {
           "title": "Rubio says further US military action is not needed against economically weakened Iran",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMXJTcEdfVGdOV1VrbGpYTy1hMlkybS1IbjZGS0piS01yNWY5RnVsMi16ZHBMTFVIajNzcFoydFZXWmhEQXJuVXBHNFBic2JSRlJLZ05TNGlmclRmMlppOExmc2ttem1zVnhQV0ppcnVaUkd2Q29fVVNXUzJpUFEwUE1WSHVkc0tZQXpmaHBSZ0YxVWpoOGNkMmZnbw?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261113T082625Z",
+          "seen": "20261114T004500Z",
           "pinned": false
         },
         {
@@ -2645,7 +2669,7 @@
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTDBuamZreTZGUXB5TGNwRUhsT2EtUEtXRnAydkFtcTRnWEVmT2hHeXZMYm5tOHR2X1RuTHlodjRmc1QyeTRnWXNEa2lMZU40UHlQcHdyMkRjV2dYQ0VHei1xejE5bl92Q3hCT0NBeWRhc2VPMWpUZ3JnUm93Zm42YTlhMEQ0S1Fxb05wdE56UnNxcTZEa0JsMTBhY3licHpQTHo0c3lwc1J6aXc3OG5HSkxCWFc?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261113T181025Z",
+          "seen": "20261113T175900Z",
           "pinned": false
         },
         {
@@ -2661,31 +2685,7 @@
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZkE5dDF0akNzS0JidGwzRmdWcjg0UVVPWEV6a1hYbHc3bEtmOHcycUx4SGkySmFLOW9ManU2RV96WVhlVWZiUk1XR3Q2VGlHNWxYZHp1RUR0cllnSTBGeDIxNkM4RWhzaWVTNmhvc1FGWWRFNTdOcW9CbVE2Z24xWmIwMXNWQ2dIZ0VTb1hn?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261113T221800Z",
-          "pinned": false
-        },
-        {
-          "title": "Bombings in Russia kill a military officer and injure an adviser to Ukraine's former prime minister",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb3luSkFyQnM4S0F2WjUtY2FnM2YwT3BaZTQ4VC1BRTcwZWZpVWt4U080dzlmZDRDWG9QZ2owQjFfV1BSN2FSMWl5WF8yRnZCNW13R1BESHdTaDBjT2drYzdSckd5Z2ZWZ1dFazV0X19LY2U2MGwxd01XMFNpeldaeHUybV9IZ2RCSFdtRnV5dENRWXZsVExpSWJJa1FSWGV2LWJyYkJHZw?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261113T140700Z",
-          "pinned": false
-        },
-        {
-          "title": "An Israeli strike on a hospital highlights the devastation to Gaza’s healthcare system",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNczRoNWNUVU5mZVpLZ2VBVW1DUWxwYnVrX0JFemdmTHR1SFp4ZVFibDE1S1ltZzhQWl9OaUNwZVctTjh2b3IteDBOWldsRVk0MUJ3REY2MWx0MVpKOGEycE9xSjBKT2YyWTZQQ3I2RTc4MmEyMHN2anlUNWN0NFlhZ0hjZHR3aG1ZNDFoX2QxLVhLNHRfTW9uU0k5aWRtb0du?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261113T032800Z",
-          "pinned": false
-        },
-        {
-          "title": "Israeli drone strike kills 2 Palestinians in Gaza, and other Mideast news",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLVJHTEpnR0lwRmdFbHVCNEQ5YWRiTXcyRy1HcTczUHVMaDdyUjBIWlVpOW9xTnBFUGZnVXhMSk53WXFuLWtoeEp0RTkwVVZjbDBvd2E3bVplY2tPZnJaY2xhNzFta1kxUEZtMFhTYzZvYWlCeGs1X0ZVT2xvMHJDbEphYjJoQVlvZkJQdlN6VXBwZG9kQnpPMHNWYlA5aDF4Z3BF?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261114T135300Z",
+          "seen": "20261113T205339Z",
           "pinned": false
         }
       ],
@@ -2718,13 +2718,22 @@
           "reportedAt": "2026-11-13T20:41:35Z"
         },
         {
-          "id": "report-d34b7ffc8b78",
-          "title": "This Beirut family has sold falafel for 100 years, through war and crisis. It has no plan to stop",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVTh3T3U4V0h4TkZXQVRFeHF6RTRtbmFFZ1JPWlpJNlhJT19palZkU25lRXNWbE1wTTZQRjkzWmh3NHpUeERyQTVBRUNOOU1tZU1oZTdIMXZrZzQ4dDZLVFNQZ3cybkZpM0NrSGR4cnlhMFNSN0o5eTZSMzlXS3piNjQ1c3JtT0FSR2tKRURrMUZ1OTMyZk1VMm9iVFJ0YUYyWEtYcWF5Zl94Zw?oc=5",
-          "domain": "apnews.com",
+          "id": "report-7646f2aa2838",
+          "title": "Russian casualties ‘reach 450,000’: What that means for the Ukraine war",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM1ZOQkZOUFlTWklpVXVpbjFKd2RZdTNBbGNZUHN2ZGhILUdDSDlnVmVRQkxaVzBoajJKWEkyTjEyTEFUdENFejMwNnNucEdDRkRSdTZ4eXh2WXo3ckswZWE0ZGVrSnMtYXpOZkhQNDhPQ3NEWmdKc05MeWhaQUpGV25YUTZLR1FQX2xfNWVCdTRvaFpIR0ppTUtGcTBCZXNVZGlVc0VXaG9KTkNxOGfSAbMBQVVfeXFMTnhoendibndFZDA5c1RndEd1dDIzNjVBWngxZnB0T0NDMFNKMldxcHRmb2NMOC1veFB6TnZZTXdXUUg1M2JzWVRGYTlqTGVkcU5uelItYXA2b0VQTGlJR3hkb2FyS19BT0Z5NW92U3pJYmFyWUxaRWV2cEFhUFJZc1ZTSWdnQjFwdlZNNXVWalA4TXhyWkh5eWZ2bU1iWm1yaGlYYWU4REZBck9wcTNIRUIyRHc?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-12T05:31:00Z"
+          "reportedAt": "2026-11-14T13:03:47Z"
+        },
+        {
+          "id": "report-e6f85f1ccc57",
+          "title": "US Treasury warns against rate hikes during US-Iran war energy ‘shock’",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY0IzNVR6Xzl2Q1NFaVdPY2xCWU11YzN4SWVTc0ZOV2FjRmV4QVZXQVctY2t4S2JJN3hKbWhfbjU5dV9qR2lxTGxZNVpFNTNlNEk3bm1PRGxOVjlrOFdMZE90cHFnU0xCMlFzci1Yc2c1SU9zMUEteUEyUjZ2YnV4M2hici1ZMmRDdzFqNjBuM05kNW1takVSYlg3Tm9NV3l3QllqdHRGRDNMUEVtYzBzbFAxb9IBuAFBVV95cUxQcDBLU1RQR0Etb2lQbm5kOEhlYVpseTJSazRLRWlWb1FIUjFLQ3YzY1p5Y0Jfbk13bU14a0Y2YVYwaW5vdkxEeTdwZ3dHMUdZSGhrNVpuSXAwWjdVTHdOSFg3MVhNMmFyZ2F4YUl3blRWbTN5SjhhcXJodVE0TjF6NlliUXlQV25kMFczalZvYmhINU00aWNNRkZNeGUwOWpLdkNOcHYxenJ5elU2dFpuRG83dW1oaGsx?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-13T16:25:38Z"
         },
         {
           "id": "report-302d0612fa2c",
@@ -2734,6 +2743,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-11-11T21:06:03Z"
+        },
+        {
+          "id": "report-d34b7ffc8b78",
+          "title": "This Beirut family has sold falafel for 100 years, through war and crisis. It has no plan to stop",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVTh3T3U4V0h4TkZXQVRFeHF6RTRtbmFFZ1JPWlpJNlhJT19palZkU25lRXNWbE1wTTZQRjkzWmh3NHpUeERyQTVBRUNOOU1tZU1oZTdIMXZrZzQ4dDZLVFNQZ3cybkZpM0NrSGR4cnlhMFNSN0o5eTZSMzlXS3piNjQ1c3JtT0FSR2tKRURrMUZ1OTMyZk1VMm9iVFJ0YUYyWEtYcWF5Zl94Zw?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-12T05:31:00Z"
         },
         {
           "id": "report-090402ba76e1",
@@ -2772,15 +2790,6 @@
           "reportedAt": "2026-11-12T17:57:00Z"
         },
         {
-          "id": "report-b93c850eefc3",
-          "title": "Iran warns of expanded retaliation as Israel reportedly readies to attack",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaGV6WFJxeUNSa0ZVZFFWdC1mUGJUbEtIZldwSjJDWGQxUnFodTZ5akhnY010WTRLMXYtNjh5akpyczZkNjg1LXlUUnlQakJ5WmxORm9xQ0M4ck81WU9WWlhHU0x5WU1neXJrbTU0ZDRtd0JWa01TUTdRNjN1SDZfUkRObDg1dmJySkR3THpuaWh1TU94NVVMSHBJbEZ6VHNWUTlCNC1tTklKWFZlLXBvTHJWVkRtZ9IBuwFBVV95cUxPNmpBLWlIVTN1aUhtZ3R0amt5bWlCWGliV19MV2x5WExRRndaY2o0Nmc3cjVnZnFhX0Y3ZzVRMzBoQV9lZnctRWNiSlZ4LUtMV0JYVEVqaWpwSHo0STQ5Qzc0V0ZmMGlEZDBDNlduRVp2TUx1TjhURlRKYXdzS1N3Z1FKZ3ZJQjBTbGxyOW9tVHJaWXpDZkFqY0pEbVNEaDVkOUNmVmdoUFpQQTJTQnktZU94d3JMVm1iNFVR?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-12T04:05:13Z"
-        },
-        {
           "id": "report-0ef5ddb6c78f",
           "title": "Turkey’s president calls the war in Gaza an ‘ecocide’ at the UN climate summit",
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQUc5TXFGV2djcE9qWnVHWWU4VklJbHBtNjZQeExQNXUtVDFHNExYX2xzc0p1YmdYSVRjRXVZcXphTFJCWnZ1UEZUOFh6SzRvWUpVUjdiUktaa2d4a1Z5bVFsYkJBa2pWWHJrLTNFS2xxeVlHVVF2V19IeEVESms1LVpBblp0NjhiR1VUTXJjRmFlMDhPZ0VRM2JuNXNUMTVXcjhOYUgxSGt1dFRtTlQ4Ukxadk5JZURoVmVqeVZuYldGWWtQbTIwUGZBakZlQQ?oc=5",
@@ -2805,16 +2814,7 @@
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-12T05:44:08Z"
-        },
-        {
-          "id": "report-43b3c3da7c3c",
-          "title": "Godzilla returns in special-effects glory in the latest movie with an anti-war message",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ2FGNThpbUZjMzkwSGxXLWxBUDVpNldrRGhfNHhKV29wRHlBN19LRWxDYWdUU29wUy1Wb0d4U1g2WnlZelZoa1ZiTlZQdGgzb2swNlBHVkpGNjFhTTZnWS1VT0xXQk1YamtjZ2ZEVlJjakV6ZjZTMkZxOF9YNC00Y3RmQV92a2l1QlRMcjdqNngySkFXZXdJVEluZ3lfdw?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-13T02:59:00Z"
+          "reportedAt": "2026-11-12T10:08:00Z"
         },
         {
           "id": "report-26ffbcd5878e",
@@ -2826,13 +2826,31 @@
           "reportedAt": "2026-11-12T17:51:00Z"
         },
         {
-          "id": "report-e6f85f1ccc57",
-          "title": "US Treasury warns against rate hikes during US-Iran war energy ‘shock’",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY0IzNVR6Xzl2Q1NFaVdPY2xCWU11YzN4SWVTc0ZOV2FjRmV4QVZXQVctY2t4S2JJN3hKbWhfbjU5dV9qR2lxTGxZNVpFNTNlNEk3bm1PRGxOVjlrOFdMZE90cHFnU0xCMlFzci1Yc2c1SU9zMUEteUEyUjZ2YnV4M2hici1ZMmRDdzFqNjBuM05kNW1takVSYlg3Tm9NV3l3QllqdHRGRDNMUEVtYzBzbFAxb9IBuAFBVV95cUxQcDBLU1RQR0Etb2lQbm5kOEhlYVpseTJSazRLRWlWb1FIUjFLQ3YzY1p5Y0Jfbk13bU14a0Y2YVYwaW5vdkxEeTdwZ3dHMUdZSGhrNVpuSXAwWjdVTHdOSFg3MVhNMmFyZ2F4YUl3blRWbTN5SjhhcXJodVE0TjF6NlliUXlQV25kMFczalZvYmhINU00aWNNRkZNeGUwOWpLdkNOcHYxenJ5elU2dFpuRG83dW1oaGsx?oc=5",
+          "id": "report-43b3c3da7c3c",
+          "title": "Godzilla returns in special-effects glory in the latest movie with an anti-war message",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ2FGNThpbUZjMzkwSGxXLWxBUDVpNldrRGhfNHhKV29wRHlBN19LRWxDYWdUU29wUy1Wb0d4U1g2WnlZelZoa1ZiTlZQdGgzb2swNlBHVkpGNjFhTTZnWS1VT0xXQk1YamtjZ2ZEVlJjakV6ZjZTMkZxOF9YNC00Y3RmQV92a2l1QlRMcjdqNngySkFXZXdJVEluZ3lfdw?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-13T02:59:00Z"
+        },
+        {
+          "id": "report-51a2224fdd3a",
+          "title": "UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdjB0S19BOXR1ZW1EU3dLRnNLUmYzb3YwZmFiQ0s2U25IdHZlQ1hTX1FYSTB2TjU3Q0h0UzBpTkRkMHdOUm5yRGhQVHdzTWJEdXNfWlMzc2RwRzRQMVk3MVdFMG5nLXd4MS04TWFkZTJocW9rVGdXMXEtelN6M3lMRjhUYVhHT290VkdQVkxObnpSTnFWNXNjS1FPc29aR25BM0lz0gGoAUFVX3lxTFBuVVc1SlJVcngxX0pBcGcwMnR3T0hOREcxVkdDSWVjb3JRdzZ1LURoVlVZRW5zblpialpwSEx1MFBGaWQ2T09WVGRMY1cySWdDc0Q2MVNDX0tlM1JtLUppbEZmcm9LaEg1VDVTdFV6a0VTYXV4eGFmX09GeGVWbWJSZlREY09kUXN4VEJKaDM5NXhNamQ3eVQxdjREam9Fc0lVZWlUSDJ6Uw?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-13T16:25:38Z"
+          "reportedAt": "2026-11-14T07:57:30Z"
+        },
+        {
+          "id": "report-c59c5a437916",
+          "title": "Ukraine, Russia race to build military satellite networks as war rages on",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQd0hSajl2c3VrUjNsS1YwRlFmVk9GRnpQR3lpNHpuSi1rX1ZhOTllQWxIY2JmeVA4eEo1RGxoYUR6WEozWVlLZy03VXFPenVseTBDVTNxUEZrT0xBMzVFN2xaSTRRU2loTEpTMGl6T1Y2ckdVRlRpa05PaFlvVDRTZUhnUkhzeF8zZE1HNFFiZEd4Yk9nc1o2UDBVSEt3ZUVRRnl6RWl2dDRsb3RvOG82RmNEcFrSAboBQVVfeXFMTXZwOFlIbVlXWFZ5dnlHQ2o3NVMzN19VLUh6QzZpNjdwVF9WZDNreklJSzdVQUlrOWF6NVNxNzNuZldPQV91SXJIeVBiNmxtQVRTVEpJZmg0OFJBa2t3T3BfZXBJVWpaVUdEamR1VXBwWkRoTTdHZ2QwNmJpYy1BX00xNTNyUlNMWUFiajNBV25zMWU1U1p6eFlDLTJ6aHRHdWdnV3NtdkREMFliRGVmMjlqd3FXWFNSRlZR?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-14T11:07:54Z"
         },
         {
           "id": "report-75ef1b1b87e6",
@@ -2844,13 +2862,22 @@
           "reportedAt": "2026-11-13T12:21:56Z"
         },
         {
+          "id": "report-02d8920d4ccb",
+          "title": "How war with US is reshaping nuclear doctrine of post-Khamenei Iran - Al-Monitor",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYk52VWEwcmJ0VGU0ZGJfWEZaUHFodGo3RjFYclpUR1JPWHRGcFE3SHY2MWFkT3ZpLUJ1V292aFkwN2xOdmo3MDQxRDRKYnVoVFBFakR5T3JhbTd0eUlzTU5NRXpfLVhlZFY5NVdtQkdJRGM3RFJodG5jN1cySHk4VUNWY1dTUFhfbnBsemRScDZITlBDN2tUN2hJOTZHVENsRlVB?oc=5",
+          "domain": "al-monitor.com",
+          "sourceTier": "Regional reporting",
+          "confidenceLabel": "REGIONAL REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-14T07:43:49Z"
+        },
+        {
           "id": "report-a468bb3c9265",
           "title": "Rubio says further US military action is not needed against economically weakened Iran",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMXJTcEdfVGdOV1VrbGpYTy1hMlkybS1IbjZGS0piS01yNWY5RnVsMi16ZHBMTFVIajNzcFoydFZXWmhEQXJuVXBHNFBic2JSRlJLZ05TNGlmclRmMlppOExmc2ttem1zVnhQV0ppcnVaUkd2Q29fVVNXUzJpUFEwUE1WSHVkc0tZQXpmaHBSZ0YxVWpoOGNkMmZnbw?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-13T08:26:25Z"
+          "reportedAt": "2026-11-14T00:45:00Z"
         },
         {
           "id": "report-754ad17a3196",
@@ -2859,7 +2886,7 @@
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-13T18:10:25Z"
+          "reportedAt": "2026-11-13T17:59:00Z"
         },
         {
           "id": "report-6da47eef9c6a",
@@ -2877,34 +2904,7 @@
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-13T22:18:00Z"
-        },
-        {
-          "id": "report-f6e0f2280ca3",
-          "title": "Bombings in Russia kill a military officer and injure an adviser to Ukraine's former prime minister",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb3luSkFyQnM4S0F2WjUtY2FnM2YwT3BaZTQ4VC1BRTcwZWZpVWt4U080dzlmZDRDWG9QZ2owQjFfV1BSN2FSMWl5WF8yRnZCNW13R1BESHdTaDBjT2drYzdSckd5Z2ZWZ1dFazV0X19LY2U2MGwxd01XMFNpeldaeHUybV9IZ2RCSFdtRnV5dENRWXZsVExpSWJJa1FSWGV2LWJyYkJHZw?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-13T14:07:00Z"
-        },
-        {
-          "id": "report-ad0209b53518",
-          "title": "An Israeli strike on a hospital highlights the devastation to Gaza’s healthcare system",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNczRoNWNUVU5mZVpLZ2VBVW1DUWxwYnVrX0JFemdmTHR1SFp4ZVFibDE1S1ltZzhQWl9OaUNwZVctTjh2b3IteDBOWldsRVk0MUJ3REY2MWx0MVpKOGEycE9xSjBKT2YyWTZQQ3I2RTc4MmEyMHN2anlUNWN0NFlhZ0hjZHR3aG1ZNDFoX2QxLVhLNHRfTW9uU0k5aWRtb0du?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-13T03:28:00Z"
-        },
-        {
-          "id": "report-c4e168daebbe",
-          "title": "Israeli drone strike kills 2 Palestinians in Gaza, and other Mideast news",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLVJHTEpnR0lwRmdFbHVCNEQ5YWRiTXcyRy1HcTczUHVMaDdyUjBIWlVpOW9xTnBFUGZnVXhMSk53WXFuLWtoeEp0RTkwVVZjbDBvd2E3bVplY2tPZnJaY2xhNzFta1kxUEZtMFhTYzZvYWlCeGs1X0ZVT2xvMHJDbEphYjJoQVlvZkJQdlN6VXBwZG9kQnpPMHNWYlA5aDF4Z3BF?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-14T13:53:00Z"
+          "reportedAt": "2026-11-13T20:53:39Z"
         },
         {
           "id": "report-852ecef4f963",
