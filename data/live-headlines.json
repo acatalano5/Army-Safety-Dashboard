@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T18:51:19.803Z",
+  "generatedAt": "2026-11-15T20:34:52.573Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -9,7 +9,7 @@
       "items": []
     },
     "safety": {
-      "generatedAt": "2026-11-14T20:05:45.932Z",
+      "generatedAt": "2026-11-15T20:34:52.573Z",
       "cadence": "daily",
       "items": [
         {
@@ -58,22 +58,6 @@
           "domain": "news.uscg.mil",
           "sourceTier": "Official military source",
           "seen": "20261110T172742Z",
-          "pinned": false
-        },
-        {
-          "title": "U.S. Coast Guard Releases Major Incident Investigation Report into Fatal MH-60T Mishap West off Cape Flattery",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdzdHZFJvd2pEaWtGWXV3THhRVm5EMUZIcVktSjh3MHRYLVQ1blN2dUE5b05LVXBvZVpzZGUyTGJIbF9KQy1iQk96UmwzQ2M5Q05sS3ZZNS05ZkdUNF81SWZfekI1dngwbnlxTENNX1dKdWdVbTlQbHFyT3hFV3FVSWZpTTNnUlJfTUJsTWtOQlZDUnpMSkR1eWRadTRDRzdVMlZSQlhtNGFMRWpmMnR0M21IZTcwenRDUWcxNk5KLUFKTVVnOXpLY2FxRHdIRUpvNTBZ?oc=5",
-          "domain": "news.uscg.mil",
-          "sourceTier": "Official military source",
-          "seen": "20261016T070000Z",
-          "pinned": false
-        },
-        {
-          "title": "Coast Guard, partners rescue missing diver near Catalina Island",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPek5sNnkzM2h5ZXpMX1BaWXdSSzhfZlRYaHA4NlAwcG5mMENLSDcwZzd3UkpuMXpxX292YmdjX1VIMHNBbHhfdnNnclJaTDgzVG1xdHMtTlNmTFlHYkNCQVprSzFuMGxhOUZwZ0NWY3l4d01ueHZOQUxUeDc2SzRvcG8wWHhnSUVvcVlRcnEtYjdNVDRZb09tcGFKaTk3c1NCakliNzROMGtIMjNYcmVER0tZckVrVHczY2JCdw?oc=5",
-          "domain": "news.uscg.mil",
-          "sourceTier": "Official military source",
-          "seen": "20261016T070000Z",
           "pinned": false
         }
       ],
