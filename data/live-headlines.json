@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T21:01:05.973Z",
+  "generatedAt": "2026-11-16T06:25:55.805Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-11-15T18:51:19.803Z",
+      "generatedAt": "2026-11-16T06:25:55.805Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -2625,23 +2625,15 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-11-15T18:51:19.803Z",
+      "generatedAt": "2026-11-16T06:25:55.805Z",
       "cadence": "every 6 hours",
       "items": [
         {
-          "title": "‘No war, no peace’: Can Iran break the deadlock with the US?",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYXQ5Y3BkZ2ViQ1NSQ3MtWXRteVg3ZFNBTFRWWXJ0eHhWUWY0OThCNHl4c2VJaTQ3X05UTjU5WTBRYTZJUkVld1VrZTQ3TDFSUHYyOV9YckpyN2dDOFJfSF93M0g0RHJqV1MweUkwOHdCaWlSVHJvdm9jYm95d1pxM1lCUG5Ibk5lbDduclpmUUhWZ1JjUGlrVmdxSHNBUdIBowFBVV95cUxPa0dyY3drVndxNWVSczdJdmd5T1hCY19iNVViRmZVdlllMEdXUDZxbGtzRjF5T3lySXRYTjdmR01xOUFoNks2RXZtTi12YVBlOExkSWRsLTNLSlMxVWlHUnhyRnpYbEFUUnJOMHpzak9YVm44UGQ4THduVnFqbnF4c292bEF5OHdaSVhTb1Y5NmZXREN3NjBtWlhKUmRDQnpTVHB3?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261112T143414Z",
-          "pinned": false
-        },
-        {
-          "title": "EU: Martin says Europe's security 'fundamentally reshaped' by war in Ukraine",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pUW1aQllXNnU1UmxpaUxWTUdRUm5UdHlaeGpOa0xCNV9yRkIwZ1pEM21qamx3ZkpiYUdqcjhrb2FrY1RxeXVlRllIbnpWOW16VzJzZmI0eU5YUXc?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261112T145615Z",
+          "title": "Iran says won’t remain in 'neither war nor peace' state",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVzQxMnNCeVdseGFaSHMyNzRiR3F5eGNwVTA1cUlFVHFkQmRUT24zVENMYzNlaHJDQ1JGOWRTMEFpX0ZTc29UYWNxRDJ2eUxSdHFQckNpTmpFSS1rY0FMQnlJdV85cWR0dDZSanQzTFU2Q2pidGpaLTY2WG45UksyeEVSSTVjOVdELVdzNUlxYXBfM0tvSmhLQUhYNy1NNEU?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20261115T170106Z",
           "pinned": false
         },
         {
@@ -2669,14 +2661,6 @@
           "pinned": false
         },
         {
-          "title": "This Beirut family has sold falafel for 100 years, through war and crisis. It has no plan to stop",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVTh3T3U4V0h4TkZXQVRFeHF6RTRtbmFFZ1JPWlpJNlhJT19palZkU25lRXNWbE1wTTZQRjkzWmh3NHpUeERyQTVBRUNOOU1tZU1oZTdIMXZrZzQ4dDZLVFNQZ3cybkZpM0NrSGR4cnlhMFNSN0o5eTZSMzlXS3piNjQ1c3JtT0FSR2tKRURrMUZ1OTMyZk1VMm9iVFJ0YUYyWEtYcWF5Zl94Zw?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261112T053100Z",
-          "pinned": false
-        },
-        {
           "title": "Can Netanyahu launch a strike on Iran before he leaves?",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTDVpZXM0aE93SXF5aVY4RzJ0VWpkdExxa09ab0VsdEpkUWVLRDJWZk9QbzJ1ZDRRRXRTaHBxYUlPcEp4VlhqY1JnVlVEaTU3UFBaVk0yajY4MWlkZm1kSmZIOWVSampraEd5TnZ1TnlNVWJER2g5R0p3cl8ycmRraEg5S2ktaTV4OTFQaGJlbTVta21SYlpPM1BnUzLSAaIBQVVfeXFMTS1nUFo2cWt1eGhEcG9uNTQ3R05sMzZzSU9seGsweFlYMFRlNXBQS21uRU44SEtrczhpekRVaW11Uk15N0tkbzhMcENKWk5FOXdLcmh0MGhwaEdRbGVkdzFINUo4MjNyVld1ZXVXQWQ2c3lvWUFoZlY2ZFgtcEJUSjREVFpZZDdoUnFwNGc0bGlSZXAyWHluNEJDTC1DZjNlRDFn?oc=5",
           "domain": "aljazeera.com",
@@ -2693,27 +2677,11 @@
           "pinned": false
         },
         {
-          "title": "Ireland faces pressure to stop sending Russia an ingredient vital to its war on Ukraine",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc2lvZUtOMFJMUFh0VlBpdnZObEJBZHNSSmNzOENBaDhrRElabllhNWo2bGV5QTNtbGZsZnpIQWpPSy1helVnWWxjRHB3emtzWm02bHpmS2xyM3JTM1NIc3pHQ0FZek1NQ1dLbWZJZWoteE9YYUp0SndXMFMtWlVKSlZuUWRob0RGbzZYQlpfWV8zbFBwRk1lVEdDTkoxOUxrWVdUVGgzMA?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261112T175700Z",
-          "pinned": false
-        },
-        {
           "title": "Iran targets US military base in Bahrain with drone attack",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54d1BneWo3NFRhV3MxVkVJa1p4SXJkTE5rbFZvUTVTWkM0UDFrVWp2WWloenJjMmcwTDBKdkV1N3QtRVgxWV91NEpXN2pCbUxtTFNaSjBQM0t6dEk?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20261115T134258Z",
-          "pinned": false
-        },
-        {
-          "title": "US intel estimates Iran retains up to 2,500 missiles despite war damage: Report",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRERKOGFNblFuMXowX3VMdEtEN0JqNXRJMlplZzRhYXhpTTd4RGowY0VLWDFLaWtNLU8zQ0RJZGR2NlY3clF4eW1BZ0dLMkJnYXVrQ2FMdy1ubE0tWVI1ME9FVW1kV2prT0YzY1VzTWxBcVloVllxSmEtNG9CTm83Y2thVmxQQjV0UEp0a0Ztb0k1S2h6U29UemNIdjV5a2pRUjJOX0l3TWZtcVlxVXN5RUJkMlVscHpHQ0RucA?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "seen": "20261115T032252Z",
           "pinned": false
         },
         {
@@ -2725,14 +2693,6 @@
           "pinned": false
         },
         {
-          "title": "Israeli strike on Gaza hospital kills 6 people, including a doctor and a child, Health Ministry says",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU3ZJQlhjSko5MDVzS25JNzdQaWprR1pORklBMUI1Qlg0T3Zkc2J1eV8yUTE1S2RMdHlLcjdDbXNrNERFdDNtYTFleFlkNHZyeXBfQ25lcS05S29hd3YtT3ZWMXE2eUs2RXpuZXV2Z01OcklJeXdKT2FzR1dqZVRHRE9Ncl9QUzVSTkVod1V6RnFjMWNIcFBkWXBWU0FWWTM3TGJj?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261112T175100Z",
-          "pinned": false
-        },
-        {
           "title": "UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdjB0S19BOXR1ZW1EU3dLRnNLUmYzb3YwZmFiQ0s2U25IdHZlQ1hTX1FYSTB2TjU3Q0h0UzBpTkRkMHdOUm5yRGhQVHdzTWJEdXNfWlMzc2RwRzRQMVk3MVdFMG5nLXd4MS04TWFkZTJocW9rVGdXMXEtelN6M3lMRjhUYVhHT290VkdQVkxObnpSTnFWNXNjS1FPc29aR25BM0lz0gGoAUFVX3lxTFBuVVc1SlJVcngxX0pBcGcwMnR3T0hOREcxVkdDSWVjb3JRdzZ1LURoVlVZRW5zblpialpwSEx1MFBGaWQ2T09WVGRMY1cySWdDc0Q2MVNDX0tlM1JtLUppbEZmcm9LaEg1VDVTdFV6a0VTYXV4eGFmX09GeGVWbWJSZlREY09kUXN4VEJKaDM5NXhNamQ3eVQxdjREam9Fc0lVZWlUSDJ6Uw?oc=5",
           "domain": "aljazeera.com",
@@ -2741,11 +2701,35 @@
           "pinned": false
         },
         {
-          "title": "Iran honours fallen soldiers in Iran-Iraq war with missile display",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMDJoa1FmMFVyS3gwTU9PTi13Vlh0eFZCN1pwOVFzQmJRckNUMXhQR2tiMXhWeTE1NkYxUjYzanQ2ZHRXcEh4SUhEV2lVUXdLTDRILVJPbGhhVmUwVE1sMVp3clVNWXRQMlE1V1phaC0waEdyX25uR0NoQ2lfeXU2SXhrQndBRHVtVGtUOFVDYUFjdFotQTNITDFnN2FnZlZxQjhZVEwzVnVlWFp2VFI1YlRNXy1xMjJObGfSAb8BQVVfeXFMT2gyb2JYQkdxdjN1aHNjeWhMdi1TelBtSVF3YmNnTDlJMzVHWUlBeTRLVHp6czNBUFluTEtuaFVhbDZEVjZtWUtpcGwwMVRfUGlvTFp3aWdfMHpTRTlLakZYNnRpa1ZmQTR1cEhnM1lORGFLRUQ2ZmNKcndnck1uX2VZTU1KUDJWWFZ3bFgyQ29yeUlfWnBtS2UtYVZHc2p5UFI4WmdXaXI2dGt2Y1FRdXlCUUZxdXV2RW9PamhXOW8?oc=5",
+          "title": "US intel estimates Iran retains up to 2,500 missiles despite war damage: Report",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRERKOGFNblFuMXowX3VMdEtEN0JqNXRJMlplZzRhYXhpTTd4RGowY0VLWDFLaWtNLU8zQ0RJZGR2NlY3clF4eW1BZ0dLMkJnYXVrQ2FMdy1ubE0tWVI1ME9FVW1kV2prT0YzY1VzTWxBcVloVllxSmEtNG9CTm83Y2thVmxQQjV0UEp0a0Ztb0k1S2h6U29UemNIdjV5a2pRUjJOX0l3TWZtcVlxVXN5RUJkMlVscHpHQ0RucA?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20261115T032252Z",
+          "pinned": false
+        },
+        {
+          "title": "Who can force Israel to implement Gaza ceasefire deal?",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOXzZxM3pIV1d1UU5TWDYxNG1SQVlLVkJSQW9xa3p1Vk9KaHFjbXFWSXRxSkt2T0VnMHZTemVlWTY2UnROZlFaSE5PQW1VVFRwS3pwdFFSSHFocDNhczFLSVctY0h0T3FZUHotalJRcEplZ0doM1VCXzFRU0FnWFpXNlZOZS01VjVhUUpjaVFVUnV3cEhaZVRiNzhOTEdnRG02ZEpscWFrNnE5VVBEbXfSAbMBQVVfeXFMTlJtMDBSSm9sb0FyTUFYaEJFVW5XMmtIQlN0bTBUdG1Fem5KOVIxRHk2Nl9RSXVnZVhTVi1ia1NfOFczWjRfUHpnejkxaW5EWnRQcUFHWTRqSUJuU3hrT0ZMcXlid1Z1dUFyVGJJNXdISzRFbUVwOHVnRUk3Q2l1X3F3YzNVU1Vybm96MjZBZGdRc3lRa2stOUVCUTJOUnVtZFdzYjZEZGc2RnpiSXNZWmlkTm8?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261113T181624Z",
+          "seen": "20261115T203815Z",
+          "pinned": false
+        },
+        {
+          "title": "Prince Harry praises war veterans on surprise visit to Ukraine",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VVWVfdkxKSC1jVTFnQ2k1bGJUeEpzVDdOVnNmLTdKWko1Mmp0d0loQkdiVUMxOXllWElhNGFYZ1ljV1RiMjF6RDg1NmFKeGpTNjlOdjBhQmNPZTQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261115T220013Z",
+          "pinned": false
+        },
+        {
+          "title": "Yemen’s Houthis unilaterally release 600 war detainees",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM2pvNUwyWVUzcGlkYzVEWFFNWURlVzh4aFVRSXZZUGs3cUJnNDF6eXpJQXVSNmxpUTR1NGRFQVY4TjBwQ05ZOVd5M1VkcWM5bGoxeTRoczhxR1dTMnhGeGZrUzRhV3FselN1dXl2c3ZNWkgtdHE1dWpsUEZRQ2xodjlKSlZTYnhaUFRsTzY3M2hGYzliVkowMDBhdlhGR05tTm9yRjF3YjnSAa4BQVVfeXFMTmQ5aXFVZmJNb2RMa0lxU2NwM3BEWTd6eHlGcmM2MENMWENSdWs3cFh1Ym1DZ2UyN3NtUzIxeVFjd0ZNSWxoUkdmVV9VR1U4X0ZaeFNxQXE3R1JvSWFsMnNHb0FUQ1FvVnVjNmlWaXAydFpRN1AzVThHMlU1OXJXT01id3VyVGdBWHpqZC1nY2RmNHFVb2twZ2RNQnpiVXVqaEFsM3plTm1hQnFHYWVB?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261115T211950Z",
           "pinned": false
         },
         {
@@ -2797,6 +2781,14 @@
           "pinned": false
         },
         {
+          "title": "Yemen’s Houthi rebels release 600 war detainees who were captured in latest escalation of fighting",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNX3k4OXllbFJZZnFacFNPVHowYUs2R1lHLVExU2tueWhlMWRTTWwyU0pNc1hqcWN1VFNWanpVNnVWS1JRQ1M2R1JENjA5eE5iZHBQNXpwUkVRbmlFeWFVVVpVc0dUbG9rVEhKWXh6LWVocnJpZWZUSnlBM0o0VWJ2SWlkb2s5eEg5elhHU0xial9abGpCNXJTZHh1ZWRKVXBDbjliVFhJM0JOcHJJakNDM2lKVTFsbkNQeFh6eFVxYXZjWmgtUjloYjBUSF9xNGk4VWppQkUzMnU0LWxzMU5J?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261115T121200Z",
+          "pinned": false
+        },
+        {
           "title": "Southeast Asian leaders open annual summit with major conflicts and their impact topping the agenda",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM3dOT2Y2RVpRSFdZX1EzTmVkNkpPYVVNdTFRZ3VSb2JDRDRnMEJvNlVzUjV5QXh1TndkQnRtODdrZXhtd3ZmNXJqeUNXVHdHZzFUOGlZcWhmeXdBaXRNRUFRRTlfOGRZclRDSUw1SndkRFptdmkxTFd6dk9JQW54UUhmN01LVDN0QVhGcDZ0eXZQUG0zVktrV2E4eVV0bGhsTmpNYU5R?oc=5",
           "domain": "apnews.com",
@@ -2805,11 +2797,11 @@
           "pinned": false
         },
         {
-          "title": "Israeli drone strike kills 2 Palestinians in Gaza, and other Mideast news",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLVJHTEpnR0lwRmdFbHVCNEQ5YWRiTXcyRy1HcTczUHVMaDdyUjBIWlVpOW9xTnBFUGZnVXhMSk53WXFuLWtoeEp0RTkwVVZjbDBvd2E3bVplY2tPZnJaY2xhNzFta1kxUEZtMFhTYzZvYWlCeGs1X0ZVT2xvMHJDbEphYjJoQVlvZkJQdlN6VXBwZG9kQnpPMHNWYlA5aDF4Z3BF?oc=5",
+          "title": "Tessa Johnson, Joyce Edwards lead No. 1 South Carolina past No. 3 USC 89-85 in battle for 'Real SC'",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYmdMWW9YRHljTzlNamxxeHlyanpmOWdpQVRQdW5TWkEyM04tRzdVVDgyMk9kVWJRRFZqenZDY1Rvcno2bnBXenp4XzBqRmRDSTA2QzZtLTdPdHltekduQVNjQkJxc09tZHQ1NlFxMDI0U3M2TWo4MTVxc3FLVDR0WXplUC10XzVOVkhUTg?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261114T202900Z",
+          "seen": "20261115T215021Z",
           "pinned": false
         },
         {
@@ -2823,22 +2815,13 @@
       ],
       "reports": [
         {
-          "id": "report-5268d3682c9c",
-          "title": "‘No war, no peace’: Can Iran break the deadlock with the US?",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYXQ5Y3BkZ2ViQ1NSQ3MtWXRteVg3ZFNBTFRWWXJ0eHhWUWY0OThCNHl4c2VJaTQ3X05UTjU5WTBRYTZJUkVld1VrZTQ3TDFSUHYyOV9YckpyN2dDOFJfSF93M0g0RHJqV1MweUkwOHdCaWlSVHJvdm9jYm95d1pxM1lCUG5Ibk5lbDduclpmUUhWZ1JjUGlrVmdxSHNBUdIBowFBVV95cUxPa0dyY3drVndxNWVSczdJdmd5T1hCY19iNVViRmZVdlllMEdXUDZxbGtzRjF5T3lySXRYTjdmR01xOUFoNks2RXZtTi12YVBlOExkSWRsLTNLSlMxVWlHUnhyRnpYbEFUUnJOMHpzak9YVm44UGQ4THduVnFqbnF4c292bEF5OHdaSVhTb1Y5NmZXREN3NjBtWlhKUmRDQnpTVHB3?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-12T14:34:14Z"
-        },
-        {
-          "id": "report-9065b984c17f",
-          "title": "EU: Martin says Europe's security 'fundamentally reshaped' by war in Ukraine",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pUW1aQllXNnU1UmxpaUxWTUdRUm5UdHlaeGpOa0xCNV9yRkIwZ1pEM21qamx3ZkpiYUdqcjhrb2FrY1RxeXVlRllIbnpWOW16VzJzZmI0eU5YUXc?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-12T14:56:15Z"
+          "id": "report-01df78ff289e",
+          "title": "Iran says won’t remain in 'neither war nor peace' state",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVzQxMnNCeVdseGFaSHMyNzRiR3F5eGNwVTA1cUlFVHFkQmRUT24zVENMYzNlaHJDQ1JGOWRTMEFpX0ZTc29UYWNxRDJ2eUxSdHFQckNpTmpFSS1rY0FMQnlJdV85cWR0dDZSanQzTFU2Q2pidGpaLTY2WG45UksyeEVSSTVjOVdELVdzNUlxYXBfM0tvSmhLQUhYNy1NNEU?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-11-15T17:01:06Z"
         },
         {
           "id": "report-428401bd0778",
@@ -2868,15 +2851,6 @@
           "reportedAt": "2026-11-14T13:03:47Z"
         },
         {
-          "id": "report-d34b7ffc8b78",
-          "title": "This Beirut family has sold falafel for 100 years, through war and crisis. It has no plan to stop",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVTh3T3U4V0h4TkZXQVRFeHF6RTRtbmFFZ1JPWlpJNlhJT19palZkU25lRXNWbE1wTTZQRjkzWmh3NHpUeERyQTVBRUNOOU1tZU1oZTdIMXZrZzQ4dDZLVFNQZ3cybkZpM0NrSGR4cnlhMFNSN0o5eTZSMzlXS3piNjQ1c3JtT0FSR2tKRURrMUZ1OTMyZk1VMm9iVFJ0YUYyWEtYcWF5Zl94Zw?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-12T05:31:00Z"
-        },
-        {
           "id": "report-090402ba76e1",
           "title": "Can Netanyahu launch a strike on Iran before he leaves?",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTDVpZXM0aE93SXF5aVY4RzJ0VWpkdExxa09ab0VsdEpkUWVLRDJWZk9QbzJ1ZDRRRXRTaHBxYUlPcEp4VlhqY1JnVlVEaTU3UFBaVk0yajY4MWlkZm1kSmZIOWVSampraEd5TnZ1TnlNVWJER2g5R0p3cl8ycmRraEg5S2ktaTV4OTFQaGJlbTVta21SYlpPM1BnUzLSAaIBQVVfeXFMTS1nUFo2cWt1eGhEcG9uNTQ3R05sMzZzSU9seGsweFlYMFRlNXBQS21uRU44SEtrczhpekRVaW11Uk15N0tkbzhMcENKWk5FOXdLcmh0MGhwaEdRbGVkdzFINUo4MjNyVld1ZXVXQWQ2c3lvWUFoZlY2ZFgtcEJUSjREVFpZZDdoUnFwNGc0bGlSZXAyWHluNEJDTC1DZjNlRDFn?oc=5",
@@ -2895,15 +2869,6 @@
           "reportedAt": "2026-11-13T00:20:24Z"
         },
         {
-          "id": "report-47c14a83dec4",
-          "title": "Ireland faces pressure to stop sending Russia an ingredient vital to its war on Ukraine",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc2lvZUtOMFJMUFh0VlBpdnZObEJBZHNSSmNzOENBaDhrRElabllhNWo2bGV5QTNtbGZsZnpIQWpPSy1helVnWWxjRHB3emtzWm02bHpmS2xyM3JTM1NIc3pHQ0FZek1NQ1dLbWZJZWoteE9YYUp0SndXMFMtWlVKSlZuUWRob0RGbzZYQlpfWV8zbFBwRk1lVEdDTkoxOUxrWVdUVGgzMA?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-12T17:57:00Z"
-        },
-        {
           "id": "report-2f75c0c7ff19",
           "title": "Iran targets US military base in Bahrain with drone attack",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54d1BneWo3NFRhV3MxVkVJa1p4SXJkTE5rbFZvUTVTWkM0UDFrVWp2WWloenJjMmcwTDBKdkV1N3QtRVgxWV91NEpXN2pCbUxtTFNaSjBQM0t6dEk?oc=5",
@@ -2911,15 +2876,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-11-15T13:42:58Z"
-        },
-        {
-          "id": "report-4ea70ad15062",
-          "title": "US intel estimates Iran retains up to 2,500 missiles despite war damage: Report",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRERKOGFNblFuMXowX3VMdEtEN0JqNXRJMlplZzRhYXhpTTd4RGowY0VLWDFLaWtNLU8zQ0RJZGR2NlY3clF4eW1BZ0dLMkJnYXVrQ2FMdy1ubE0tWVI1ME9FVW1kV2prT0YzY1VzTWxBcVloVllxSmEtNG9CTm83Y2thVmxQQjV0UEp0a0Ztb0k1S2h6U29UemNIdjV5a2pRUjJOX0l3TWZtcVlxVXN5RUJkMlVscHpHQ0RucA?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
-          "reportedAt": "2026-11-15T03:22:52Z"
         },
         {
           "id": "report-43b3c3da7c3c",
@@ -2931,15 +2887,6 @@
           "reportedAt": "2026-11-13T02:59:00Z"
         },
         {
-          "id": "report-26ffbcd5878e",
-          "title": "Israeli strike on Gaza hospital kills 6 people, including a doctor and a child, Health Ministry says",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU3ZJQlhjSko5MDVzS25JNzdQaWprR1pORklBMUI1Qlg0T3Zkc2J1eV8yUTE1S2RMdHlLcjdDbXNrNERFdDNtYTFleFlkNHZyeXBfQ25lcS05S29hd3YtT3ZWMXE2eUs2RXpuZXV2Z01OcklJeXdKT2FzR1dqZVRHRE9Ncl9QUzVSTkVod1V6RnFjMWNIcFBkWXBWU0FWWTM3TGJj?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-12T17:51:00Z"
-        },
-        {
           "id": "report-51a2224fdd3a",
           "title": "UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdjB0S19BOXR1ZW1EU3dLRnNLUmYzb3YwZmFiQ0s2U25IdHZlQ1hTX1FYSTB2TjU3Q0h0UzBpTkRkMHdOUm5yRGhQVHdzTWJEdXNfWlMzc2RwRzRQMVk3MVdFMG5nLXd4MS04TWFkZTJocW9rVGdXMXEtelN6M3lMRjhUYVhHT290VkdQVkxObnpSTnFWNXNjS1FPc29aR25BM0lz0gGoAUFVX3lxTFBuVVc1SlJVcngxX0pBcGcwMnR3T0hOREcxVkdDSWVjb3JRdzZ1LURoVlVZRW5zblpialpwSEx1MFBGaWQ2T09WVGRMY1cySWdDc0Q2MVNDX0tlM1JtLUppbEZmcm9LaEg1VDVTdFV6a0VTYXV4eGFmX09GeGVWbWJSZlREY09kUXN4VEJKaDM5NXhNamQ3eVQxdjREam9Fc0lVZWlUSDJ6Uw?oc=5",
@@ -2949,13 +2896,40 @@
           "reportedAt": "2026-11-14T07:57:30Z"
         },
         {
-          "id": "report-3a7cf69956ae",
-          "title": "Iran honours fallen soldiers in Iran-Iraq war with missile display",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMDJoa1FmMFVyS3gwTU9PTi13Vlh0eFZCN1pwOVFzQmJRckNUMXhQR2tiMXhWeTE1NkYxUjYzanQ2ZHRXcEh4SUhEV2lVUXdLTDRILVJPbGhhVmUwVE1sMVp3clVNWXRQMlE1V1phaC0waEdyX25uR0NoQ2lfeXU2SXhrQndBRHVtVGtUOFVDYUFjdFotQTNITDFnN2FnZlZxQjhZVEwzVnVlWFp2VFI1YlRNXy1xMjJObGfSAb8BQVVfeXFMT2gyb2JYQkdxdjN1aHNjeWhMdi1TelBtSVF3YmNnTDlJMzVHWUlBeTRLVHp6czNBUFluTEtuaFVhbDZEVjZtWUtpcGwwMVRfUGlvTFp3aWdfMHpTRTlLakZYNnRpa1ZmQTR1cEhnM1lORGFLRUQ2ZmNKcndnck1uX2VZTU1KUDJWWFZ3bFgyQ29yeUlfWnBtS2UtYVZHc2p5UFI4WmdXaXI2dGt2Y1FRdXlCUUZxdXV2RW9PamhXOW8?oc=5",
+          "id": "report-4ea70ad15062",
+          "title": "US intel estimates Iran retains up to 2,500 missiles despite war damage: Report",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRERKOGFNblFuMXowX3VMdEtEN0JqNXRJMlplZzRhYXhpTTd4RGowY0VLWDFLaWtNLU8zQ0RJZGR2NlY3clF4eW1BZ0dLMkJnYXVrQ2FMdy1ubE0tWVI1ME9FVW1kV2prT0YzY1VzTWxBcVloVllxSmEtNG9CTm83Y2thVmxQQjV0UEp0a0Ztb0k1S2h6U29UemNIdjV5a2pRUjJOX0l3TWZtcVlxVXN5RUJkMlVscHpHQ0RucA?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-11-15T03:22:52Z"
+        },
+        {
+          "id": "report-e091ecffb6a7",
+          "title": "Who can force Israel to implement Gaza ceasefire deal?",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOXzZxM3pIV1d1UU5TWDYxNG1SQVlLVkJSQW9xa3p1Vk9KaHFjbXFWSXRxSkt2T0VnMHZTemVlWTY2UnROZlFaSE5PQW1VVFRwS3pwdFFSSHFocDNhczFLSVctY0h0T3FZUHotalJRcEplZ0doM1VCXzFRU0FnWFpXNlZOZS01VjVhUUpjaVFVUnV3cEhaZVRiNzhOTEdnRG02ZEpscWFrNnE5VVBEbXfSAbMBQVVfeXFMTlJtMDBSSm9sb0FyTUFYaEJFVW5XMmtIQlN0bTBUdG1Fem5KOVIxRHk2Nl9RSXVnZVhTVi1ia1NfOFczWjRfUHpnejkxaW5EWnRQcUFHWTRqSUJuU3hrT0ZMcXlid1Z1dUFyVGJJNXdISzRFbUVwOHVnRUk3Q2l1X3F3YzNVU1Vybm96MjZBZGdRc3lRa2stOUVCUTJOUnVtZFdzYjZEZGc2RnpiSXNZWmlkTm8?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-13T18:16:24Z"
+          "reportedAt": "2026-11-15T20:38:15Z"
+        },
+        {
+          "id": "report-15efe41788ef",
+          "title": "Prince Harry praises war veterans on surprise visit to Ukraine",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VVWVfdkxKSC1jVTFnQ2k1bGJUeEpzVDdOVnNmLTdKWko1Mmp0d0loQkdiVUMxOXllWElhNGFYZ1ljV1RiMjF6RDg1NmFKeGpTNjlOdjBhQmNPZTQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-15T22:00:13Z"
+        },
+        {
+          "id": "report-d6d65d8cf338",
+          "title": "Yemen’s Houthis unilaterally release 600 war detainees",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM2pvNUwyWVUzcGlkYzVEWFFNWURlVzh4aFVRSXZZUGs3cUJnNDF6eXpJQXVSNmxpUTR1NGRFQVY4TjBwQ05ZOVd5M1VkcWM5bGoxeTRoczhxR1dTMnhGeGZrUzRhV3FselN1dXl2c3ZNWkgtdHE1dWpsUEZRQ2xodjlKSlZTYnhaUFRsTzY3M2hGYzliVkowMDBhdlhGR05tTm9yRjF3YjnSAa4BQVVfeXFMTmQ5aXFVZmJNb2RMa0lxU2NwM3BEWTd6eHlGcmM2MENMWENSdWs3cFh1Ym1DZ2UyN3NtUzIxeVFjd0ZNSWxoUkdmVV9VR1U4X0ZaeFNxQXE3R1JvSWFsMnNHb0FUQ1FvVnVjNmlWaXAydFpRN1AzVThHMlU1OXJXT01id3VyVGdBWHpqZC1nY2RmNHFVb2twZ2RNQnpiVXVqaEFsM3plTm1hQnFHYWVB?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-15T21:19:50Z"
         },
         {
           "id": "report-754ad17a3196",
@@ -3012,6 +2986,15 @@
           "reportedAt": "2026-11-15T10:09:44Z"
         },
         {
+          "id": "report-53723dd7099e",
+          "title": "Yemen’s Houthi rebels release 600 war detainees who were captured in latest escalation of fighting",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNX3k4OXllbFJZZnFacFNPVHowYUs2R1lHLVExU2tueWhlMWRTTWwyU0pNc1hqcWN1VFNWanpVNnVWS1JRQ1M2R1JENjA5eE5iZHBQNXpwUkVRbmlFeWFVVVpVc0dUbG9rVEhKWXh6LWVocnJpZWZUSnlBM0o0VWJ2SWlkb2s5eEg5elhHU0xial9abGpCNXJTZHh1ZWRKVXBDbjliVFhJM0JOcHJJakNDM2lKVTFsbkNQeFh6eFVxYXZjWmgtUjloYjBUSF9xNGk4VWppQkUzMnU0LWxzMU5J?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-15T12:12:00Z"
+        },
+        {
           "id": "report-1f14e913b197",
           "title": "Southeast Asian leaders open annual summit with major conflicts and their impact topping the agenda",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM3dOT2Y2RVpRSFdZX1EzTmVkNkpPYVVNdTFRZ3VSb2JDRDRnMEJvNlVzUjV5QXh1TndkQnRtODdrZXhtd3ZmNXJqeUNXVHdHZzFUOGlZcWhmeXdBaXRNRUFRRTlfOGRZclRDSUw1SndkRFptdmkxTFd6dk9JQW54UUhmN01LVDN0QVhGcDZ0eXZQUG0zVktrV2E4eVV0bGhsTmpNYU5R?oc=5",
@@ -3021,13 +3004,13 @@
           "reportedAt": "2026-11-15T05:13:00Z"
         },
         {
-          "id": "report-c4e168daebbe",
-          "title": "Israeli drone strike kills 2 Palestinians in Gaza, and other Mideast news",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLVJHTEpnR0lwRmdFbHVCNEQ5YWRiTXcyRy1HcTczUHVMaDdyUjBIWlVpOW9xTnBFUGZnVXhMSk53WXFuLWtoeEp0RTkwVVZjbDBvd2E3bVplY2tPZnJaY2xhNzFta1kxUEZtMFhTYzZvYWlCeGs1X0ZVT2xvMHJDbEphYjJoQVlvZkJQdlN6VXBwZG9kQnpPMHNWYlA5aDF4Z3BF?oc=5",
+          "id": "report-178ef575b9b5",
+          "title": "Tessa Johnson, Joyce Edwards lead No. 1 South Carolina past No. 3 USC 89-85 in battle for 'Real SC'",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYmdMWW9YRHljTzlNamxxeHlyanpmOWdpQVRQdW5TWkEyM04tRzdVVDgyMk9kVWJRRFZqenZDY1Rvcno2bnBXenp4XzBqRmRDSTA2QzZtLTdPdHltekduQVNjQkJxc09tZHQ1NlFxMDI0U3M2TWo4MTVxc3FLVDR0WXplUC10XzVOVkhUTg?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-14T20:29:00Z"
+          "reportedAt": "2026-11-15T21:50:21Z"
         },
         {
           "id": "report-890f369de01b",
