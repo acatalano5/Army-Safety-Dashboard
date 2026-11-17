@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-17T20:53:17.779Z",
+  "generatedAt": "2026-11-17T23:10:50.389Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -9,7 +9,7 @@
       "items": []
     },
     "safety": {
-      "generatedAt": "2026-11-16T23:51:56.629Z",
+      "generatedAt": "2026-11-17T23:10:50.389Z",
       "cadence": "daily",
       "items": [
         {
@@ -21,19 +21,11 @@
           "pinned": true
         },
         {
-          "title": "News - JTF-SB Soldiers rescue Border Patrol agents after vehicle collision in Del Rio",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaUdwbkZLT2ZidnJrckVXaF9YMUcyTjVIWlpPeDFjYmtpVF9TSnk2VWZfMXJDQmo1U1Z4U3hxTVpGWmRlazdqZDVpSmlpaWlHbEFCVG1IeHJleFUteWZ1UkpOREJTMWlqM0FRR0hJZEZwbnpmSnlVMWQwTFlPbjVpWms1RDJtb2k4T3JrUF9wZ1FVRFRxWE1FZFR0SXVQWlB3NzFjb0RQV2FNQ0lSSUhEb1hB?oc=5",
-          "domain": "dvidshub.net",
-          "sourceTier": "Official military source",
-          "seen": "20261115T163200Z",
-          "pinned": false
-        },
-        {
-          "title": "Family sues Air Force over daughter’s brain injury from birth overseas",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBkaTRiZEs5R281X3ZQTDBqdVN3N1B1eGhSMjFjc1ZJSWlaS1Yxc2dOcDNfZHZfZGtMdXZ6QnV0NUp4ZTh3V2REYzY2XzR0cDlHZWtqc0RtelY4SjV3MkVfci1YXzAyQm53OXU5VGF4ZjlNT1JNdUxmVVh3?oc=5",
-          "domain": "taskandpurpose.com",
+          "title": "Congress agrees on civilian plane locator mandate after deadly American Airlines-Black Hawk crash",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaThINU1nYndITVJtZHBzMDlCVHYyV3lDdDhNQVZEc0J6cDRoWVV1Y1NRTl9qN3JyajBoSF81UW11a1JsbW1NUWp0T0NlUV82aEhzNmlFYUhrYUVmZGhmSTFmQjBuRnNJMGV4YVEwZWFyME10WWttVzZ1UkYzQVNMREptVnFrNkRBTnlud3luenMzekh0U29zUjlrN2lQY0JpTHQ3LVZYb1pGcWdfYno0a0dRRQ?oc=5",
+          "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261110T162258Z",
+          "seen": "20261117T191300Z",
           "pinned": false
         },
         {
@@ -53,6 +45,14 @@
           "pinned": false
         },
         {
+          "title": "Family sues Air Force over daughter’s brain injury from birth overseas",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBkaTRiZEs5R281X3ZQTDBqdVN3N1B1eGhSMjFjc1ZJSWlaS1Yxc2dOcDNfZHZfZGtMdXZ6QnV0NUp4ZTh3V2REYzY2XzR0cDlHZWtqc0RtelY4SjV3MkVfci1YXzAyQm53OXU5VGF4ZjlNT1JNdUxmVVh3?oc=5",
+          "domain": "taskandpurpose.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261110T162258Z",
+          "pinned": false
+        },
+        {
           "title": "Coast Guard suspends search for woman near Panther Beach",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOUNiVXJTY1UwWlZiT05yQXVSY1F1Z2VGODFXenkxb1cwWExzMjV0Q09YMXQwM2QtN3V6cVhsenR6T2dzZGlBUTNnVDUtRnRRa0JkNXlPcVdqdjltRkVieVlibExrMkZwbHNob25yc2FrUEhZVEhINWtoLTI4MlVjblljRFpXTkt6UTFOOTZybU5ZWUhCM1J4VXJORUU2eFFfVEpoaE5Yb3M3OEdEa3VzRFRWSFo?oc=5",
           "domain": "news.uscg.mil",
@@ -62,6 +62,24 @@
         }
       ],
       "incidents": [
+        {
+          "id": "auto-1a3faf1f6fbf",
+          "reportDate": "2026-11-17",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Aviation",
+          "event": "Congress agrees on civilian plane locator mandate after deadly American Airlines-Black Hawk crash",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaThINU1nYndITVJtZHBzMDlCVHYyV3lDdDhNQVZEc0J6cDRoWVV1Y1NRTl9qN3JyajBoSF81UW11a1JsbW1NUWp0T0NlUV82aEhzNmlFYUhrYUVmZGhmSTFmQjBuRnNJMGV4YVEwZWFyME10WWttVzZ1UkYzQVNMREptVnFrNkRBTnlud3luenMzekh0U29zUjlrN2lQY0JpTHQ3LVZYb1pGcWdfYno0a0dRRQ?oc=5",
+          "sourceLabel": "apnews.com"
+        },
         {
           "id": "auto-fb141153ceb1",
           "reportDate": "2026-11-15",
