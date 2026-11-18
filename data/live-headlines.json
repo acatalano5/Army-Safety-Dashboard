@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T20:31:01.906Z",
+  "generatedAt": "2026-11-18T22:41:53.991Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -9,7 +9,7 @@
       "items": []
     },
     "safety": {
-      "generatedAt": "2026-11-17T23:10:50.389Z",
+      "generatedAt": "2026-11-18T22:41:53.991Z",
       "cadence": "daily",
       "items": [
         {
@@ -21,11 +21,11 @@
           "pinned": true
         },
         {
-          "title": "Congress agrees on civilian plane locator mandate after deadly American Airlines-Black Hawk crash",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaThINU1nYndITVJtZHBzMDlCVHYyV3lDdDhNQVZEc0J6cDRoWVV1Y1NRTl9qN3JyajBoSF81UW11a1JsbW1NUWp0T0NlUV82aEhzNmlFYUhrYUVmZGhmSTFmQjBuRnNJMGV4YVEwZWFyME10WWttVzZ1UkYzQVNMREptVnFrNkRBTnlud3luenMzekh0U29zUjlrN2lQY0JpTHQ3LVZYb1pGcWdfYno0a0dRRQ?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261117T191300Z",
+          "title": "News - Fort Leavenworth officer earns Army Commendation Medal after Arkansas crash response",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPY1o0V1FqNnU4Si1FUjZLRHJZMXp0N2Y4bVdiVFNCeU9HRkk2X1R2TzJwTkJIeFVlSWxqRmZjMGJqc28wUUlyOURKMGZ1NEFPNWt3M1c3d04yZ0o5WVpVcnNvbmwxZEpiYm5HODBpRUo2enFBRnJ0NHB2ZTBES0lpU21ad3RDaVlLOVVtOGlBNElsTVlHNzZoWEtHb0xsUGtfYk5Udmx0amhtSzh3YzhFR3ZiTXlodjYyYW51NGJ3?oc=5",
+          "domain": "dvidshub.net",
+          "sourceTier": "Official military source",
+          "seen": "20261117T155000Z",
           "pinned": false
         },
         {
@@ -37,6 +37,14 @@
           "pinned": false
         },
         {
+          "title": "Crash Rescue Products",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WQTh5RzJ4RUhLMVQ0bDhKLVkwSVV1SlFSWTd4ZVBVQVJGMFREUHZSclZWT3d1NG9ReHFjclF4VVRLNGRpUW5qWENyLXJ0VEt3Z2RyeEx5WmxxQTJua2hHdExaVTd6MW1IeXdLZVJZcw?oc=5",
+          "domain": "safety.army.mil",
+          "sourceTier": "Official military source",
+          "seen": "20261115T080000Z",
+          "pinned": false
+        },
+        {
           "title": "Mishap Reporting & Investigation - USACRC",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQa3N3dHMxU2JBdXZfZmptYXdVWXdzMzdKU2pmcXVFSU5uYmxEWUw0UGQ4OGJ0eXUzbF9MOHgzSEowdTRIY3A4VFpKZnlhcENkazdJdGhwVndlenhPdjRGbDgyRUZEU1NDU2kzUDhFb2NEM0JHTmxLSl9pVzNfSEozUUkyTGFHQVJONTJneEhBOGx4NUtQYjl4dC1nYU1qX0lHQXZUZERuV2JwbElWaHZhbkJockR3Z05GS1FpM1NEQnI2ZHprUUE?oc=5",
           "domain": "safety.army.mil",
@@ -45,23 +53,33 @@
           "pinned": false
         },
         {
-          "title": "Family sues Air Force over daughter’s brain injury from birth overseas",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBkaTRiZEs5R281X3ZQTDBqdVN3N1B1eGhSMjFjc1ZJSWlaS1Yxc2dOcDNfZHZfZGtMdXZ6QnV0NUp4ZTh3V2REYzY2XzR0cDlHZWtqc0RtelY4SjV3MkVfci1YXzAyQm53OXU5VGF4ZjlNT1JNdUxmVVh3?oc=5",
-          "domain": "taskandpurpose.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261110T162258Z",
-          "pinned": false
-        },
-        {
           "title": "Coast Guard suspends search for woman near Panther Beach",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOUNiVXJTY1UwWlZiT05yQXVSY1F1Z2VGODFXenkxb1cwWExzMjV0Q09YMXQwM2QtN3V6cVhsenR6T2dzZGlBUTNnVDUtRnRRa0JkNXlPcVdqdjltRkVieVlibExrMkZwbHNob25yc2FrUEhZVEhINWtoLTI4MlVjblljRFpXTkt6UTFOOTZybU5ZWUhCM1J4VXJORUU2eFFfVEpoaE5Yb3M3OEdEa3VzRFRWSFo?oc=5",
           "domain": "news.uscg.mil",
           "sourceTier": "Official military source",
-          "seen": "20261110T172742Z",
+          "seen": "20261110T080000Z",
           "pinned": false
         }
       ],
       "incidents": [
+        {
+          "id": "auto-59b85bc11e64",
+          "reportDate": "2026-11-17",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Aviation",
+          "event": "News - Fort Leavenworth officer earns Army Commendation Medal after Arkansas crash response",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "OFFICIAL INTAKE",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Official military source",
+          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
+          "source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPY1o0V1FqNnU4Si1FUjZLRHJZMXp0N2Y4bVdiVFNCeU9HRkk2X1R2TzJwTkJIeFVlSWxqRmZjMGJqc28wUUlyOURKMGZ1NEFPNWt3M1c3d04yZ0o5WVpVcnNvbmwxZEpiYm5HODBpRUo2enFBRnJ0NHB2ZTBES0lpU21ad3RDaVlLOVVtOGlBNElsTVlHNzZoWEtHb0xsUGtfYk5Udmx0amhtSzh3YzhFR3ZiTXlodjYyYW51NGJ3?oc=5",
+          "sourceLabel": "dvidshub.net"
+        },
         {
           "id": "auto-1a3faf1f6fbf",
           "reportDate": "2026-11-17",
@@ -79,6 +97,24 @@
           "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
           "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaThINU1nYndITVJtZHBzMDlCVHYyV3lDdDhNQVZEc0J6cDRoWVV1Y1NRTl9qN3JyajBoSF81UW11a1JsbW1NUWp0T0NlUV82aEhzNmlFYUhrYUVmZGhmSTFmQjBuRnNJMGV4YVEwZWFyME10WWttVzZ1UkYzQVNMREptVnFrNkRBTnlud3luenMzekh0U29zUjlrN2lQY0JpTHQ3LVZYb1pGcWdfYno0a0dRRQ?oc=5",
           "sourceLabel": "apnews.com"
+        },
+        {
+          "id": "auto-dce6037e2d3b",
+          "reportDate": "2026-11-15",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Aviation",
+          "event": "Crash Rescue Products",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "OFFICIAL INTAKE",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Official military source",
+          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
+          "source": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WQTh5RzJ4RUhLMVQ0bDhKLVkwSVV1SlFSWTd4ZVBVQVJGMFREUHZSclZWT3d1NG9ReHFjclF4VVRLNGRpUW5qWENyLXJ0VEt3Z2RyeEx5WmxxQTJua2hHdExaVTd6MW1IeXdLZVJZcw?oc=5",
+          "sourceLabel": "safety.army.mil"
         },
         {
           "id": "auto-fb141153ceb1",
@@ -99,24 +135,6 @@
           "sourceLabel": "dvidshub.net"
         },
         {
-          "id": "auto-afd6e013074d",
-          "reportDate": "2026-11-10",
-          "dateBasis": "report discovery date",
-          "branch": "Air Force",
-          "department": "Department of the Air Force",
-          "type": "Other",
-          "event": "Family sues Air Force over daughter’s brain injury from birth overseas",
-          "location": "See official source",
-          "fatalities": null,
-          "injuries": null,
-          "status": "REPORTED / UNVALIDATED",
-          "signalClass": "REPORTED MISHAP",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
-          "source": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBkaTRiZEs5R281X3ZQTDBqdVN3N1B1eGhSMjFjc1ZJSWlaS1Yxc2dOcDNfZHZfZGtMdXZ6QnV0NUp4ZTh3V2REYzY2XzR0cDlHZWtqc0RtelY4SjV3MkVfci1YXzAyQm53OXU5VGF4ZjlNT1JNdUxmVVh3?oc=5",
-          "sourceLabel": "taskandpurpose.com"
-        },
-        {
           "id": "auto-21ff6272ac48",
           "reportDate": "2026-11-10",
           "dateBasis": "report discovery date",
@@ -133,6 +151,24 @@
           "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
           "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOUNiVXJTY1UwWlZiT05yQXVSY1F1Z2VGODFXenkxb1cwWExzMjV0Q09YMXQwM2QtN3V6cVhsenR6T2dzZGlBUTNnVDUtRnRRa0JkNXlPcVdqdjltRkVieVlibExrMkZwbHNob25yc2FrUEhZVEhINWtoLTI4MlVjblljRFpXTkt6UTFOOTZybU5ZWUhCM1J4VXJORUU2eFFfVEpoaE5Yb3M3OEdEa3VzRFRWSFo?oc=5",
           "sourceLabel": "news.uscg.mil"
+        },
+        {
+          "id": "auto-afd6e013074d",
+          "reportDate": "2026-11-10",
+          "dateBasis": "report discovery date",
+          "branch": "Air Force",
+          "department": "Department of the Air Force",
+          "type": "Other",
+          "event": "Family sues Air Force over daughter’s brain injury from birth overseas",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "REPORTED / UNVALIDATED",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
+          "source": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBkaTRiZEs5R281X3ZQTDBqdVN3N1B1eGhSMjFjc1ZJSWlaS1Yxc2dOcDNfZHZfZGtMdXZ6QnV0NUp4ZTh3V2REYzY2XzR0cDlHZWtqc0RtelY4SjV3MkVfci1YXzAyQm53OXU5VGF4ZjlNT1JNdUxmVVh3?oc=5",
+          "sourceLabel": "taskandpurpose.com"
         },
         {
           "id": "auto-a349404d1c85",
@@ -168,24 +204,6 @@
           "sourceTier": "Official military source",
           "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
           "source": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQa3N3dHMxU2JBdXZfZmptYXdVWXdzMzdKU2pmcXVFSU5uYmxEWUw0UGQ4OGJ0eXUzbF9MOHgzSEowdTRIY3A4VFpKZnlhcENkazdJdGhwVndlenhPdjRGbDgyRUZEU1NDU2kzUDhFb2NEM0JHTmxLSl9pVzNfSEozUUkyTGFHQVJONTJneEhBOGx4NUtQYjl4dC1nYU1qX0lHQXZUZERuV2JwbElWaHZhbkJockR3Z05GS1FpM1NEQnI2ZHprUUE?oc=5",
-          "sourceLabel": "safety.army.mil"
-        },
-        {
-          "id": "auto-dce6037e2d3b",
-          "reportDate": "2026-11-08",
-          "dateBasis": "report discovery date",
-          "branch": "Army",
-          "department": "Department of the Army",
-          "type": "Aviation",
-          "event": "Crash Rescue Products",
-          "location": "See official source",
-          "fatalities": null,
-          "injuries": null,
-          "status": "OFFICIAL INTAKE",
-          "signalClass": "REPORTED MISHAP",
-          "sourceTier": "Official military source",
-          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
-          "source": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WQTh5RzJ4RUhLMVQ0bDhKLVkwSVV1SlFSWTd4ZVBVQVJGMFREUHZSclZWT3d1NG9ReHFjclF4VVRLNGRpUW5qWENyLXJ0VEt3Z2RyeEx5WmxxQTJua2hHdExaVTd6MW1IeXdLZVJZcw?oc=5",
           "sourceLabel": "safety.army.mil"
         },
         {
