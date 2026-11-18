@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T07:26:21.694Z",
+  "generatedAt": "2026-11-18T20:31:01.906Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-11-18T07:26:21.694Z",
+      "generatedAt": "2026-11-18T20:31:01.906Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -2549,9 +2549,25 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-11-18T07:26:21.694Z",
+      "generatedAt": "2026-11-18T20:31:01.906Z",
       "cadence": "every 6 hours",
       "items": [
+        {
+          "title": "‘Status quo’ between US and Iran could break out into war, analysts warn",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbGNDR0Z2Z005TDhGUFhZRXRTU3FkWTUxUmdURHFsaTYzYTBDbF8tUjFvLVJSWUgxa25pbnBZZjFUMUd5Rks2T0VRYVpZendaTThLWUZISlA3NVIzQ25ZdjFya1dEV2NvTUdtZkx0a1dPWV90RUQxSlk5aHdUTjRvZU9sWXduVHJnOXcxZTVPRkFrSGJyZm82OG0weTNydlBIcXNtUEpDc2kycGN6d1h5ONIBtgFBVV95cUxQWnFkWE9kZXQyLXJYaFNYRlFnbUdCZ2tSck9NRlhJcmF3R0lXRGpuTlBOM3ZkQm53c0lVYmoxQ3pUTlJuQ1VJbFViX2QzV01aMkU1U2hsc2RLbjhQcFp5Z3FCQi1RbnpkQTV3UW96dG5qbnl6Z19sVjhGeFpubFJjNGlpQmlWRlZsUnRTbFc5cnNzM29JbGxJQzEtVjhJMTNwSWNYRzhqc2ZlbVpPTDdpdjlmMHdlUQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261118T144016Z",
+          "pinned": false
+        },
+        {
+          "title": "How the Houthis fund war effort and tighten grip on Yemen",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc1F1VXdqY3B1eVRRVEZhazRQck1lS0JfeXlIWUFYeWE4QllJWVc5ZXF4VDVFTVRlcnY5S19qOUlJOEZ0emVBejNHVUFDc2ZYLWpKMEkwVjd6aXZ0QjVXbmxWcklvUzhnNWZ6TlpMVXpzM1ZZQU5FMlI1Wl9hUXNlOFplNElUQ0FkeWZWMElJMG1LU0lCOVFSUzFNZU5fRHlZ0gGmAUFVX3lxTFBJajVRVUlIZlhVOUhoYW91LTZHemdjZC1uVWIyaGVBMmFGY1dkRTYzanZIWENTYXhXa2Uxd3BmeElfdmEzYVg3RnJ4RDdRMGlLNHl1UHkwdW4tdkI5WmVfbEtaVHl3dTd3bHRSckJxTjljdlJhZGR0Vi16TE1uelhRUzh0Q3ZDaEx2ckVLRkFjVC1nM093SVh3VmJNQUtyTmFqZ3dPdVE?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261118T073753Z",
+          "pinned": false
+        },
         {
           "title": "US Navy chief says Iran war has put ‘strain’ on maritime forces",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWFVReGpMcE9DRTdfVHZLZVZtVURDemJTNnV2dUdPREljQ2VRamMxei1rVlRFZl9ybm9oc1lXeUVPOU5pT0F5bl95azk4V0tmdWdyODdvTE1ZUmY1NFdwbV94SWx2ZjdRR0xKTFN0UlNGVlE5Um9LUE8wdTE2RGRBeDF4YmQ1NHpHLWN6UnFSQ2RaZmRkUFBIanI5emZ2dlB0YmpHVjRB0gGrAUFVX3lxTE5UbkZLWHJXMU1RT0E2ZElxUEhpeWVlYzBIU3hWdGpUcG81Ry1BalBPa3pqSnBVNUZPVzRIeEdjbXBQeG1ESjFLM25sdG9fOFlnUEVjaDV3a3o3UW1NN3J3T2c4WXZVUURIaS1weHZzeEtJUG9zbTB0SGQyR2dGRkRtbzVzZ2ZXQXFReHVvYy00TEpiUTRVTDBmQnpvbHNQWXRDejRRTXBlZFhKUQ?oc=5",
@@ -2561,11 +2577,43 @@
           "pinned": false
         },
         {
+          "title": "Kuwait, Bahrain face new Iran attacks after US strike on Qeshm Island",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdTNrNm5hd0NlSW9sNVo1VDVMVDA3eEtIMXhDdzJ3LTVjbGNxQ1J3dEVnWFFuMlQxTjVGYVhWaWVVaW5yRHJ3LWFrNkYwMGZjN3FrSENvdDlpQTRLNUNUQUhjb3hUX3BoUWRwMW5iSGZENWo3dm1xeUZIOU1FZm9EZDV5bHZYLU5mTENabEpoa1Y1ZEQyZXNZQk9sQkRzVVpNQ0VpR1lSdjBFRjRBNXow0gG0AUFVX3lxTE4xUnJGLWRBLUtPLWw0TjhrZjNZQUFVcmlHSjZrSURWSno1Z2JhUHBJOEFTcWN4X1R1cHdWLUFhc25RR25vbWtVUEN4S2J2TzdvdkJaLUxHeWJZX1BIbHpfeTlIcW53bkVSU2VoMzBRRnFKX1JvcG9ROHZtcW5jb0RMNnhLdjJUaDBmSWVPM3NRbUJUcmdHN0JkVU1fMW9fZm1kUU16WGJYOTR1eThhNEljVW5lcQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261118T165444Z",
+          "pinned": false
+        },
+        {
+          "title": "Board of Peace warns Gaza ceasefire faces imminent collapse without action",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONUREdkFPUjItcmNQZFVGZmVNVURZZkp2Q2YtWFFEanJVNEI2Z3NObllCMC1QVEFOa1V3UWlTTGFUeXBBMzd2TFJ0d2NKeGI3Uy0zSnV1QjBKdWYxSFRYVERhMmJiTDRiMmxURXU4R1dmV2ZWZ0dxd0ZtNG9tOEdjN1hrdUpkbWVBWHpmTFVpYXVwWGh6aUwwc3VnVHgzVmRPamJfRUJaT0Q2blUzcU5VajRxTElUVkXSAbwBQVVfeXFMTjZZNVZENlp4aWFhclVnNl9qaGJzTmNRWjE4WlhsemxZUWVwSnhvUEFBTmdJZkE0VWNkemJxNkJUYm90SDJIbWFkRTFHc3FPc00ta05ZMUNnbkhNUzBQbHlqNHJ1cUFOc2hHZTFsVWpsbFJiVngtcHkxbmhVT3p3UW10ZWJkZm4wZDFWZG40X2o0dzlYc1ZkalJMTDJ6bXFNWjhCcWp0WmpHazZLN2szWDVIQTYyLS1nWUM1dEQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261118T011156Z",
+          "pinned": false
+        },
+        {
           "title": "Is Iran plotting a ‘dirty bomb’ attack in the US? What we know",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSFp4SnYzOXRsMUp6V1hFd2VxdkhrbXQ3MEJKdF9QYVVaMUVsZENOS0t1cjFzMnNROVR6WHdVX3UwOHNmMEVzNnhvLW9TXzBpZ3RtUS1FR3o0R19ueEZfYUw2eTd4Y0ZxZ2tIbVV3eUZiRWFncmYxdWZFWkdHYm9oN29PdTVvREtZUkxzX0dJOHJkNzkwVVp6N3g5VURCRC1vSFdR0gGoAUFVX3lxTE5FU3NQVk5OaDlLVkpUZEVyYUhrengybi1XR2tCanVTbW00OXR4NnVWelBJZERXV1d4YjBsdXVmaXNFekdZWDNpckY4dXFYc3F4ZW5OS1dWaGpEdmZOUnY5RmFqVzl6VUhyN3FfbjEtaVBMYWU4di1KZGJUSXJoVS0zTVZzOEtLSFhuWC1wT3ZMVmdEdUpvWUgtNHVDc2hzU1pheEotSW5NVg?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20261117T150921Z",
+          "pinned": false
+        },
+        {
+          "title": "Iranians fear more civilian infrastructure could be targeted in new US war",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVktaWnZoTlg5eWNHS2VId0hpUi1wZjNDUGs2SWh2T05Ebk9JeDM4Wk83SG8xOEdITjZHQTd6TWI3bjdBT2VzSVZpUDJxVzR6UEc2UUxFT1ZJbXlobVZvYjNjcGgxZl9XVGRRdEpNWmxZYS1NZ0I3TlYzZW5mT1A0cG9JYkdxeEtrVVUtM0x5c0VQbWw1aGtwYmtVS0JWeW1EaWtCdDdPaFhnSmxfQzBGUl9jR1hNLTjSAbwBQVVfeXFMUE1oazhTZzR2Nmt5QTgxdC1xQ25ycUk2NkdmNWlnNWhtc1NXQTRzWGxaU0piYUlDZXg0ak9ETV93RDkzejFtWE9uYmNUR3k1ZjJUVi1PdG9fYTFadUo3MWhKYmRxcmF5aWpnemdTcWNhUEZBdlZoTmZpZnpyYnE1bG9FeXhoTzFKOUNrdWFxT2k0NDAta0FLOGhtbnZpbnFtSWp3X0RHREN4d24wbmpfZkNIQ0x0UElYUnlGeEc?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261117T230546Z",
+          "pinned": false
+        },
+        {
+          "title": "Traumas of Sudan war lead to wave of drug addiction",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSVN0N3c3RllOWmdicGN6a2drUUo2bHBfV3BZczZfTXRsWGQzV19oLXZ4WWJQWGZXUjA5REJ1VFRfS2E3SmduMkVzYXNpMnBYNmg1Q0lOVTBNZWJJZUpRQlRlcTNhU0xfWmpqTVQ5a2FpRXV1QXFPc1pybFlkdFJOcGxNRGJXWkVfNFNIbS1LdmItemZxY1lLa3JLVkFncjByMUV30gGoAUFVX3lxTE5iLWVYalc1LXNhOEVCa0J4TUlUR3lKNG9hQ3JZT0RIdS1aNnpDa0FrbWdqY3Y4LTFiY2wyeXZQZ2JNczZkaGVHanlmc2JtVDU0WXdrcFdWTlRibHRVWUtjWm9jWEkyakFuTjRMOGtLcHJaVkU2dTVJbFVybldkbXBaZVh4eDF4eFdxUTFQSktydmtxMjI0ZHg2aXNZbC0wRmU1V3djR25ueg?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261118T104250Z",
           "pinned": false
         },
         {
@@ -2597,7 +2645,7 @@
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOb0RQUWNsd213Qno3Wnc3ZzhTUk02THZBWVBBeHlWTEowT2FaaWVlY3hRSzdDaV8zWHpmZXRDLU94RkhrbHRVZWRvV3VHdjltQlpfT1hqc1IzbmtDM0xDSUg3YzJBSm9nWnc0c1pTQmEzVjlPNHJ4V29LTldvNk9lQnZKalFvWVVEcjlGQzdfUHhKWGpIWHY3WmlXTzVSMEJJS3c?oc=5",
           "domain": "aa.com.tr",
           "sourceTier": "State-affiliated reporting",
-          "seen": "20261117T112918Z",
+          "seen": "20261117T112745Z",
           "pinned": false
         },
         {
@@ -2609,11 +2657,11 @@
           "pinned": false
         },
         {
-          "title": "Board of Peace warns Gaza ceasefire faces imminent collapse without action",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONUREdkFPUjItcmNQZFVGZmVNVURZZkp2Q2YtWFFEanJVNEI2Z3NObllCMC1QVEFOa1V3UWlTTGFUeXBBMzd2TFJ0d2NKeGI3Uy0zSnV1QjBKdWYxSFRYVERhMmJiTDRiMmxURXU4R1dmV2ZWZ0dxd0ZtNG9tOEdjN1hrdUpkbWVBWHpmTFVpYXVwWGh6aUwwc3VnVHgzVmRPamJfRUJaT0Q2blUzcU5VajRxTElUVkXSAbwBQVVfeXFMTjZZNVZENlp4aWFhclVnNl9qaGJzTmNRWjE4WlhsemxZUWVwSnhvUEFBTmdJZkE0VWNkemJxNkJUYm90SDJIbWFkRTFHc3FPc00ta05ZMUNnbkhNUzBQbHlqNHJ1cUFOc2hHZTFsVWpsbFJiVngtcHkxbmhVT3p3UW10ZWJkZm4wZDFWZG40X2o0dzlYc1ZkalJMTDJ6bXFNWjhCcWp0WmpHazZLN2szWDVIQTYyLS1nWUM1dEQ?oc=5",
-          "domain": "aljazeera.com",
+          "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBqVmh0SHdZcl9iaE5VUXF4R1FxV2haMl9NVkFqSzBpbXhxU2NKcURZUW5YR1JJRmlrZl9GLXdDbTRLaTR3ZmIyQUFRdmp3SnBoblVfVFlxZkI?oc=5",
+          "domain": "bbc.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261118T011156Z",
+          "seen": "20261118T170040Z",
           "pinned": false
         },
         {
@@ -2641,19 +2689,19 @@
           "pinned": false
         },
         {
-          "title": "Ethiopia and Sudan accuse each other of backing armed fighters as fears of a wider conflict grow",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNUxzeGN0LWpUZVhyd3dud1BNVkc1WVJNUGhZWlpfSzQ5eE15UExocGFyUGIyS3dCR3o0UjFRdHpmQmxPTUtiVVp3VlBidUNEUzdpYkdmYUR1MVFCRmlCa3lMTkY1NHplLTctMVpHeE9abUttWGxfVndRQjVnZElINDB1bjN4a1daNEJGeW1lZ3hOTUE?oc=5",
-          "domain": "apnews.com",
+          "title": "Inside the old gas pipeline where Ukraine is fighting an underground war",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05ai12U3Bxc0M5OGhGV1puSjZGdXBlZG13VjBQUkwxTER2ck5GclNjQXRzVHEzYWN1aDBnY093VWpJODdoU1FxRno4RUM2VFNhYmg5cURDVUpJQUU?oc=5",
+          "domain": "bbc.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261116T050800Z",
+          "seen": "20261118T170004Z",
           "pinned": false
         },
         {
-          "title": "Sudanese army air attack kills 13 in western Sudan: Rights group",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQT2JpVEY2eUQ3QXFkRzJxckg1MGx3b0s4THAyNkpFMk1kRGpnXzlzNHh2SG1aQTU4N1hfNkpQcldhTVBPWTFoc2VNM2VYVU02WHBvYzVJV0VERGpXMGVxNEY2WWgyZ0JRVHFKdWlqMTk1RFpMektCbTZ1bHBDX2ZMd0xMNUVBa3I2cy11Sk5EVGFYOFF1cUtyOV90R0VaaEdxeFF4NC0teWHSAa4BQVVfeXFMT3pYY0V1YVg0eHc5OEYwWDR1RXBMdWdEbV8zdy1TUjZGQmV3MWVieWp3NjlEdHVCYzJCaDk3QVJzWXoyOWNKYVp1aU9UNEVpQXpxTUlpSy1MbGYwWkJQSkxITGdBOE5lX1Z4dFFORTUtMUJFeXVfUU41R3lzeTczaERDMi1nT2EwTXZ3Q3JvVG9HUWFvcWdsM1g3RmlVSzhaTWRlVG5POGliMFlxSENR?oc=5",
-          "domain": "aljazeera.com",
+          "title": "Iran war dents Middle East sports model as events are canceled or postponed. F1 bucks the trend",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPczVIdTE3NFhiUkYySjFhRU9xZkhYSHVWVkNMSE42aVVGTEQwMWJBREJ3ZDlWSkhhem5idmhWOGZhNG9HblVySjlMZ3dMUUFFSE1xbVBsc3BsQ3hTcEJVWkdUeU1WMXdaTDZ3al8tSDNscnhaeWt5UWdXRnRGbmQzcXQxTXlTeHhpcTY2ZmZMRHdnR0U?oc=5",
+          "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261116T211651Z",
+          "seen": "20261118T050700Z",
           "pinned": false
         },
         {
@@ -2665,11 +2713,11 @@
           "pinned": false
         },
         {
-          "title": "Stories of survival and pain: Children amid Israel’s war on south Lebanon",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa3NHNHRRVEVtSjFqc3lmMWVtWnZpX0loMlBTY0dQQnh0LUZXamxSNGE5Nzl3Mm82ZGpxN0QtejhGOHhaVFJncTJOeHJYVHN1dExWQ0laUVBqXzFBUnZHZi1zS3Jfa1ZPcm9zSDlMNGFybGItNHlkcDBncDB6YUNjN3lvRVhlcGp1OVF4TkRxRzlvbHVxZ21PV29Ma1ltY05pNlBqcWoyV25HY2xXWHFMS1I4UF9zanFu0gG-AUFVX3lxTE0tNjJLZTRNUXd4ai1xVzgzemFVYUltUDA5X29JVVo2YlVkczNfN0dKOGRNNWMxSFc5WmQ4LVJvRUVmbllmSkNjTmxueENxd3dqVUZlNnRLaVlMeE1oSkFaLWxJTWFGYWFQaHZzWlJiMGlnUVF4MkNkSHBqakhRQ3oyUWlBZHFvWFBHeGdHMjRQU1JwQU8yZ0prZDVvM0JRcVlQZ19LaUhMVk1SRVBfSXN4ZU1sal9QMlE4RnZnaVE?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261117T110448Z",
+          "title": "Eritrea accuses Ethiopian army chief of making territorial claims, fueling war tensions",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSlVaSWFjaW52OWZoenI5WW16cTJDcGlCQjM2aWVkZktHQUY0c0p1aDBtQWlMNnZ3VC1xWHZ6V1VlelJwMWxRLW4xZ2FvWUVaUEVCbVVWUTFQWEhRc2tUZEhTeFdKdzJpMnpFdUNseDBrYlZfTjdZQ1BKc2VyZnhlN1g0MXJDM0tneXFOa0lHZ091VWplSGFZRlhtOE1ubk5ES3A0a0U5c083Z001em5ud3Z6V1lCTmEzY1BBaWFBTHZyb0Zz?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20261117T151616Z",
           "pinned": false
         },
         {
@@ -2681,35 +2729,11 @@
           "pinned": false
         },
         {
-          "title": "Ukraine drone attack kills two in Crimea as Kyiv targets bridge to Russia",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVzBfcTd0dGtoRnJmelJGSUhydE9IdTBfejEwYVhrdFB3OG1qMkV2VEVPXzJXQkdZR3h6LVNfM1JEMWxBTTFPV2JPb01Vc1BFV2lQbThfTmVfUS1ReWNYZ2I2WTF5LWhGRm8zOTYtTXhoUmlrcjVxTkJHbjZ3TXdLQjE0VnhONnUtUnNjdGlESmR5dDgtNHBJa1h6RXFCYjdQMFNCcjJXTkpkZV9HbHNHVXBlWdIBuAFBVV95cUxOYTA4MG44OTJSdkxmODdjLTJ2SnhtQXRoNzZodTdDRC1lRUtXeGFTNzl3dGQ1UFpkTWQxRUxkQVY1d24tNXhMdGUydlpCWkZpdnRpTnpOSXVrbHBjSDRmZ3drUF93Rm0zRzJDRFhpWW5XaG8tNlNwc0FGSHBTVERvVjNyZS1FV016MkRJdW1VSHUyWXlEcHRsMnNabm9nRml1ejJ1czhMb2Rlbm5nQ2cwbHNzSmZHa0xB?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261117T104459Z",
-          "pinned": false
-        },
-        {
           "title": "Kuwait reports drone attacks as Iran, US trade attacks on Qeshm and Bahrain",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPU3NxaFU3RUpkTklaRUU5NkxhTjZ6aHhYOWl4WG9PQUh1dWp6ck9qdkJhc3FHMjN5cUhWSzF6OWFmZnE5MXQ3U0RKd2RmeXdvZUZ3Qjk4VzFEM0tka3dOai1IVWZFY0VaVlVHS3d2NkdyeDU3UHZEY2tMbV85ZEVldUhRSG1SS2VwZ1c1ck4wNE1HbU81WXluYU5KRUN0NmRFdVJRNWI5MFpreDR4eGNaQkgtMVg3SjjSAbwBQVVfeXFMUDFvNkpucUdWODBUZW5kV01tbDNjaGVlYWp6a2NtdktFQVJpVW9mTjJFWEhWWm1LQlIwcW5tVVozb0FpUWl5TEd1VkstTFh2S2VXRi1YLWdxcl9TaF9XcjFhLUNHb291ZkxHY210TENUclk4WjNlZml0Y1hDbnBBRURzTm1ORjl4a0hWUFVGWUVJbFNwUksyUDJ0ZmtBZWRiZV9pNTJ4QndvRGVMNzVtVW5VQ3J6azQ3c3lJcVc?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20261117T234152Z",
-          "pinned": false
-        },
-        {
-          "title": "The Dorking woman who fixed Spitfires in World War Two",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xLUI2cVp6QlA0aE5JS0FKMmFLNGE4LUg2TVlTUF93V2dOTEZnVkktcWVqck13ZVR0Y1NoaWJRX1hKa1l6R1Z5ZjBaM29ZRXlPRmJWT2tEYm92NE0?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261115T070952Z",
-          "pinned": false
-        },
-        {
-          "title": "Third US aircraft carrier arrives in the Middle East as Trump keeps options open in the Iran war",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYmZiWEcxLU9Xck9JR2h3VDIwa1VETmRCam5zQm1BWmhNcGhZS0pBdi1BZGRZLXhZT3VmUG5wYld2N1gydV8teDVFc0UtNVljakJ5Q1JNRkRUb0dqRDRfX0p4QVBGdkZRaWd3Y1J6aFdZWlZhVGt5LWxzcG9mRHVPYnBXZFFrSXVqYXkxd081YzdlNTN1T05yVTgwZUIzSUhQQWc?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261116T193200Z",
           "pinned": false
         },
         {
@@ -2719,33 +2743,27 @@
           "sourceTier": "Independent reporting",
           "seen": "20261117T020300Z",
           "pinned": false
-        },
-        {
-          "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSRU00UVItWVBVOXhnT1ozc2E0NXk5V3VNTlN4eERVeGVRRlJKc3dHLUMxbTRISm5RbEhoeEJUdEhCbldiU0txRExramJVWF9OcVdIV3dBOEo3czA?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261117T212435Z",
-          "pinned": false
-        },
-        {
-          "title": "US vice president vows Trump will not let Iran conflict become another ‘forever war'",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbGdCeW1veDVrQlNyLVd1TkZaLTRhX3JpYlE1NFB2LWEzT0lhZnE2cEp0WkhFY3B2T2xqaG9KMUc1ZUdkcVZMczlxUzJHS1hTa0NwdXBmODloSnJmNE9wZ2RmelZ5NFJ5YXkwM3N5YlBnV1Ewa0ZFcjlxY2JVSkY4MlJ5Q0VqQWdXMmJXY1FCMUZCeldTOThSUkxNdGVqRTlsSzdBY0ZfTzBKWkdQOWg1UW9JTGxTTml0NlJ5a1EyWWNYZw?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "seen": "20261117T021159Z",
-          "pinned": false
-        },
-        {
-          "title": "Prosecutors allege man ‘destroyed’ US military plane at Irish airport",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaFNLRGt3T0F3b3M4ZGxyR0psMVJPVVliYUxLdF9mazRwYXJQOW5wbGR1WXd6SHRDbTY4SjcxVXRFNjRFMnNjVi1ndEl4a016LVoyUTVRdkRONGxTT05kTWxZUjhMSUNmS0FFUDl3Ny1JRVRBRGo3VnA2VWVHTFFYQ2hkX0xuWGJ5ZENXMzlPdTZFUXc4UV9McWozSzM0RGJ0U2Qya2lCQmdZandKQkHSAbMBQVVfeXFMTkJRMUVqaWh5Q2t5LTU0UG0tSkRoWGt0Z1Zya1ZCVmwxSEJfTXRiUjJlNXotOEJxS1l5Y3lBbzNEZXREVHNsUmFMb05LYXZLb1dHNmFEclYyZi1ZRDUwVEFqZllJYWtwQWRwOW42dloxWV9qZFg1U2tSN3YtMEhadHNFcmxDd0NXSllBVlJLODdWTGRJNTRndHZ1MkpOT1dQSlpqMTFkNDJHR0g4NEIzQ0liakk?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261118T014413Z",
-          "pinned": false
         }
       ],
       "reports": [
+        {
+          "id": "report-ef2c6cce25a6",
+          "title": "‘Status quo’ between US and Iran could break out into war, analysts warn",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbGNDR0Z2Z005TDhGUFhZRXRTU3FkWTUxUmdURHFsaTYzYTBDbF8tUjFvLVJSWUgxa25pbnBZZjFUMUd5Rks2T0VRYVpZendaTThLWUZISlA3NVIzQ25ZdjFya1dEV2NvTUdtZkx0a1dPWV90RUQxSlk5aHdUTjRvZU9sWXduVHJnOXcxZTVPRkFrSGJyZm82OG0weTNydlBIcXNtUEpDc2kycGN6d1h5ONIBtgFBVV95cUxQWnFkWE9kZXQyLXJYaFNYRlFnbUdCZ2tSck9NRlhJcmF3R0lXRGpuTlBOM3ZkQm53c0lVYmoxQ3pUTlJuQ1VJbFViX2QzV01aMkU1U2hsc2RLbjhQcFp5Z3FCQi1RbnpkQTV3UW96dG5qbnl6Z19sVjhGeFpubFJjNGlpQmlWRlZsUnRTbFc5cnNzM29JbGxJQzEtVjhJMTNwSWNYRzhqc2ZlbVpPTDdpdjlmMHdlUQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-18T14:40:16Z"
+        },
+        {
+          "id": "report-40549e4f9b19",
+          "title": "How the Houthis fund war effort and tighten grip on Yemen",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc1F1VXdqY3B1eVRRVEZhazRQck1lS0JfeXlIWUFYeWE4QllJWVc5ZXF4VDVFTVRlcnY5S19qOUlJOEZ0emVBejNHVUFDc2ZYLWpKMEkwVjd6aXZ0QjVXbmxWcklvUzhnNWZ6TlpMVXpzM1ZZQU5FMlI1Wl9hUXNlOFplNElUQ0FkeWZWMElJMG1LU0lCOVFSUzFNZU5fRHlZ0gGmAUFVX3lxTFBJajVRVUlIZlhVOUhoYW91LTZHemdjZC1uVWIyaGVBMmFGY1dkRTYzanZIWENTYXhXa2Uxd3BmeElfdmEzYVg3RnJ4RDdRMGlLNHl1UHkwdW4tdkI5WmVfbEtaVHl3dTd3bHRSckJxTjljdlJhZGR0Vi16TE1uelhRUzh0Q3ZDaEx2ckVLRkFjVC1nM093SVh3VmJNQUtyTmFqZ3dPdVE?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-18T07:37:53Z"
+        },
         {
           "id": "report-2a2420992f5d",
           "title": "US Navy chief says Iran war has put ‘strain’ on maritime forces",
@@ -2756,6 +2774,24 @@
           "reportedAt": "2026-11-17T21:01:52Z"
         },
         {
+          "id": "report-42434325b69f",
+          "title": "Kuwait, Bahrain face new Iran attacks after US strike on Qeshm Island",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdTNrNm5hd0NlSW9sNVo1VDVMVDA3eEtIMXhDdzJ3LTVjbGNxQ1J3dEVnWFFuMlQxTjVGYVhWaWVVaW5yRHJ3LWFrNkYwMGZjN3FrSENvdDlpQTRLNUNUQUhjb3hUX3BoUWRwMW5iSGZENWo3dm1xeUZIOU1FZm9EZDV5bHZYLU5mTENabEpoa1Y1ZEQyZXNZQk9sQkRzVVpNQ0VpR1lSdjBFRjRBNXow0gG0AUFVX3lxTE4xUnJGLWRBLUtPLWw0TjhrZjNZQUFVcmlHSjZrSURWSno1Z2JhUHBJOEFTcWN4X1R1cHdWLUFhc25RR25vbWtVUEN4S2J2TzdvdkJaLUxHeWJZX1BIbHpfeTlIcW53bkVSU2VoMzBRRnFKX1JvcG9ROHZtcW5jb0RMNnhLdjJUaDBmSWVPM3NRbUJUcmdHN0JkVU1fMW9fZm1kUU16WGJYOTR1eThhNEljVW5lcQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-18T16:54:44Z"
+        },
+        {
+          "id": "report-89d67d817161",
+          "title": "Board of Peace warns Gaza ceasefire faces imminent collapse without action",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONUREdkFPUjItcmNQZFVGZmVNVURZZkp2Q2YtWFFEanJVNEI2Z3NObllCMC1QVEFOa1V3UWlTTGFUeXBBMzd2TFJ0d2NKeGI3Uy0zSnV1QjBKdWYxSFRYVERhMmJiTDRiMmxURXU4R1dmV2ZWZ0dxd0ZtNG9tOEdjN1hrdUpkbWVBWHpmTFVpYXVwWGh6aUwwc3VnVHgzVmRPamJfRUJaT0Q2blUzcU5VajRxTElUVkXSAbwBQVVfeXFMTjZZNVZENlp4aWFhclVnNl9qaGJzTmNRWjE4WlhsemxZUWVwSnhvUEFBTmdJZkE0VWNkemJxNkJUYm90SDJIbWFkRTFHc3FPc00ta05ZMUNnbkhNUzBQbHlqNHJ1cUFOc2hHZTFsVWpsbFJiVngtcHkxbmhVT3p3UW10ZWJkZm4wZDFWZG40X2o0dzlYc1ZkalJMTDJ6bXFNWjhCcWp0WmpHazZLN2szWDVIQTYyLS1nWUM1dEQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-18T01:11:56Z"
+        },
+        {
           "id": "report-91fb53725801",
           "title": "Is Iran plotting a ‘dirty bomb’ attack in the US? What we know",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSFp4SnYzOXRsMUp6V1hFd2VxdkhrbXQ3MEJKdF9QYVVaMUVsZENOS0t1cjFzMnNROVR6WHdVX3UwOHNmMEVzNnhvLW9TXzBpZ3RtUS1FR3o0R19ueEZfYUw2eTd4Y0ZxZ2tIbVV3eUZiRWFncmYxdWZFWkdHYm9oN29PdTVvREtZUkxzX0dJOHJkNzkwVVp6N3g5VURCRC1vSFdR0gGoAUFVX3lxTE5FU3NQVk5OaDlLVkpUZEVyYUhrengybi1XR2tCanVTbW00OXR4NnVWelBJZERXV1d4YjBsdXVmaXNFekdZWDNpckY4dXFYc3F4ZW5OS1dWaGpEdmZOUnY5RmFqVzl6VUhyN3FfbjEtaVBMYWU4di1KZGJUSXJoVS0zTVZzOEtLSFhuWC1wT3ZMVmdEdUpvWUgtNHVDc2hzU1pheEotSW5NVg?oc=5",
@@ -2763,6 +2799,24 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-11-17T15:09:21Z"
+        },
+        {
+          "id": "report-af666a3ca1e3",
+          "title": "Iranians fear more civilian infrastructure could be targeted in new US war",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVktaWnZoTlg5eWNHS2VId0hpUi1wZjNDUGs2SWh2T05Ebk9JeDM4Wk83SG8xOEdITjZHQTd6TWI3bjdBT2VzSVZpUDJxVzR6UEc2UUxFT1ZJbXlobVZvYjNjcGgxZl9XVGRRdEpNWmxZYS1NZ0I3TlYzZW5mT1A0cG9JYkdxeEtrVVUtM0x5c0VQbWw1aGtwYmtVS0JWeW1EaWtCdDdPaFhnSmxfQzBGUl9jR1hNLTjSAbwBQVVfeXFMUE1oazhTZzR2Nmt5QTgxdC1xQ25ycUk2NkdmNWlnNWhtc1NXQTRzWGxaU0piYUlDZXg0ak9ETV93RDkzejFtWE9uYmNUR3k1ZjJUVi1PdG9fYTFadUo3MWhKYmRxcmF5aWpnemdTcWNhUEZBdlZoTmZpZnpyYnE1bG9FeXhoTzFKOUNrdWFxT2k0NDAta0FLOGhtbnZpbnFtSWp3X0RHREN4d24wbmpfZkNIQ0x0UElYUnlGeEc?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-17T23:05:46Z"
+        },
+        {
+          "id": "report-6015bf97efda",
+          "title": "Traumas of Sudan war lead to wave of drug addiction",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSVN0N3c3RllOWmdicGN6a2drUUo2bHBfV3BZczZfTXRsWGQzV19oLXZ4WWJQWGZXUjA5REJ1VFRfS2E3SmduMkVzYXNpMnBYNmg1Q0lOVTBNZWJJZUpRQlRlcTNhU0xfWmpqTVQ5a2FpRXV1QXFPc1pybFlkdFJOcGxNRGJXWkVfNFNIbS1LdmItemZxY1lLa3JLVkFncjByMUV30gGoAUFVX3lxTE5iLWVYalc1LXNhOEVCa0J4TUlUR3lKNG9hQ3JZT0RIdS1aNnpDa0FrbWdqY3Y4LTFiY2wyeXZQZ2JNczZkaGVHanlmc2JtVDU0WXdrcFdWTlRibHRVWUtjWm9jWEkyakFuTjRMOGtLcHJaVkU2dTVJbFVybldkbXBaZVh4eDF4eFdxUTFQSktydmtxMjI0ZHg2aXNZbC0wRmU1V3djR25ueg?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-18T10:42:50Z"
         },
         {
           "id": "report-2f75c0c7ff19",
@@ -2798,7 +2852,7 @@
           "domain": "aa.com.tr",
           "sourceTier": "State-affiliated reporting",
           "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
-          "reportedAt": "2026-11-17T11:29:18Z"
+          "reportedAt": "2026-11-17T11:27:45Z"
         },
         {
           "id": "report-e091ecffb6a7",
@@ -2810,13 +2864,13 @@
           "reportedAt": "2026-11-15T20:38:15Z"
         },
         {
-          "id": "report-89d67d817161",
-          "title": "Board of Peace warns Gaza ceasefire faces imminent collapse without action",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONUREdkFPUjItcmNQZFVGZmVNVURZZkp2Q2YtWFFEanJVNEI2Z3NObllCMC1QVEFOa1V3UWlTTGFUeXBBMzd2TFJ0d2NKeGI3Uy0zSnV1QjBKdWYxSFRYVERhMmJiTDRiMmxURXU4R1dmV2ZWZ0dxd0ZtNG9tOEdjN1hrdUpkbWVBWHpmTFVpYXVwWGh6aUwwc3VnVHgzVmRPamJfRUJaT0Q2blUzcU5VajRxTElUVkXSAbwBQVVfeXFMTjZZNVZENlp4aWFhclVnNl9qaGJzTmNRWjE4WlhsemxZUWVwSnhvUEFBTmdJZkE0VWNkemJxNkJUYm90SDJIbWFkRTFHc3FPc00ta05ZMUNnbkhNUzBQbHlqNHJ1cUFOc2hHZTFsVWpsbFJiVngtcHkxbmhVT3p3UW10ZWJkZm4wZDFWZG40X2o0dzlYc1ZkalJMTDJ6bXFNWjhCcWp0WmpHazZLN2szWDVIQTYyLS1nWUM1dEQ?oc=5",
-          "domain": "aljazeera.com",
+          "id": "report-880ae87b7bf8",
+          "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBqVmh0SHdZcl9iaE5VUXF4R1FxV2haMl9NVkFqSzBpbXhxU2NKcURZUW5YR1JJRmlrZl9GLXdDbTRLaTR3ZmIyQUFRdmp3SnBoblVfVFlxZkI?oc=5",
+          "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-18T01:11:56Z"
+          "reportedAt": "2026-11-18T17:00:40Z"
         },
         {
           "id": "report-15efe41788ef",
@@ -2846,22 +2900,22 @@
           "reportedAt": "2026-11-15T21:19:50Z"
         },
         {
-          "id": "report-3ecad92fcf30",
-          "title": "Ethiopia and Sudan accuse each other of backing armed fighters as fears of a wider conflict grow",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNUxzeGN0LWpUZVhyd3dud1BNVkc1WVJNUGhZWlpfSzQ5eE15UExocGFyUGIyS3dCR3o0UjFRdHpmQmxPTUtiVVp3VlBidUNEUzdpYkdmYUR1MVFCRmlCa3lMTkY1NHplLTctMVpHeE9abUttWGxfVndRQjVnZElINDB1bjN4a1daNEJGeW1lZ3hOTUE?oc=5",
+          "id": "report-ccbab218bcb4",
+          "title": "Inside the old gas pipeline where Ukraine is fighting an underground war",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05ai12U3Bxc0M5OGhGV1puSjZGdXBlZG13VjBQUkwxTER2ck5GclNjQXRzVHEzYWN1aDBnY093VWpJODdoU1FxRno4RUM2VFNhYmg5cURDVUpJQUU?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-18T17:00:04Z"
+        },
+        {
+          "id": "report-44329c2550aa",
+          "title": "Iran war dents Middle East sports model as events are canceled or postponed. F1 bucks the trend",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPczVIdTE3NFhiUkYySjFhRU9xZkhYSHVWVkNMSE42aVVGTEQwMWJBREJ3ZDlWSkhhem5idmhWOGZhNG9HblVySjlMZ3dMUUFFSE1xbVBsc3BsQ3hTcEJVWkdUeU1WMXdaTDZ3al8tSDNscnhaeWt5UWdXRnRGbmQzcXQxTXlTeHhpcTY2ZmZMRHdnR0U?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-16T05:08:00Z"
-        },
-        {
-          "id": "report-5d4ffbcfa419",
-          "title": "Sudanese army air attack kills 13 in western Sudan: Rights group",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQT2JpVEY2eUQ3QXFkRzJxckg1MGx3b0s4THAyNkpFMk1kRGpnXzlzNHh2SG1aQTU4N1hfNkpQcldhTVBPWTFoc2VNM2VYVU02WHBvYzVJV0VERGpXMGVxNEY2WWgyZ0JRVHFKdWlqMTk1RFpMektCbTZ1bHBDX2ZMd0xMNUVBa3I2cy11Sk5EVGFYOFF1cUtyOV90R0VaaEdxeFF4NC0teWHSAa4BQVVfeXFMT3pYY0V1YVg0eHc5OEYwWDR1RXBMdWdEbV8zdy1TUjZGQmV3MWVieWp3NjlEdHVCYzJCaDk3QVJzWXoyOWNKYVp1aU9UNEVpQXpxTUlpSy1MbGYwWkJQSkxITGdBOE5lX1Z4dFFORTUtMUJFeXVfUU41R3lzeTczaERDMi1nT2EwTXZ3Q3JvVG9HUWFvcWdsM1g3RmlVSzhaTWRlVG5POGliMFlxSENR?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-16T21:16:51Z"
+          "reportedAt": "2026-11-18T05:07:00Z"
         },
         {
           "id": "report-77fd8df98793",
@@ -2873,13 +2927,13 @@
           "reportedAt": "2026-11-17T14:23:39Z"
         },
         {
-          "id": "report-12f726cccb6b",
-          "title": "Stories of survival and pain: Children amid Israel’s war on south Lebanon",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa3NHNHRRVEVtSjFqc3lmMWVtWnZpX0loMlBTY0dQQnh0LUZXamxSNGE5Nzl3Mm82ZGpxN0QtejhGOHhaVFJncTJOeHJYVHN1dExWQ0laUVBqXzFBUnZHZi1zS3Jfa1ZPcm9zSDlMNGFybGItNHlkcDBncDB6YUNjN3lvRVhlcGp1OVF4TkRxRzlvbHVxZ21PV29Ma1ltY05pNlBqcWoyV25HY2xXWHFMS1I4UF9zanFu0gG-AUFVX3lxTE0tNjJLZTRNUXd4ai1xVzgzemFVYUltUDA5X29JVVo2YlVkczNfN0dKOGRNNWMxSFc5WmQ4LVJvRUVmbllmSkNjTmxueENxd3dqVUZlNnRLaVlMeE1oSkFaLWxJTWFGYWFQaHZzWlJiMGlnUVF4MkNkSHBqakhRQ3oyUWlBZHFvWFBHeGdHMjRQU1JwQU8yZ0prZDVvM0JRcVlQZ19LaUhMVk1SRVBfSXN4ZU1sal9QMlE4RnZnaVE?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-17T11:04:48Z"
+          "id": "report-18d35b6c75c4",
+          "title": "Eritrea accuses Ethiopian army chief of making territorial claims, fueling war tensions",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSlVaSWFjaW52OWZoenI5WW16cTJDcGlCQjM2aWVkZktHQUY0c0p1aDBtQWlMNnZ3VC1xWHZ6V1VlelJwMWxRLW4xZ2FvWUVaUEVCbVVWUTFQWEhRc2tUZEhTeFdKdzJpMnpFdUNseDBrYlZfTjdZQ1BKc2VyZnhlN1g0MXJDM0tneXFOa0lHZ091VWplSGFZRlhtOE1ubk5ES3A0a0U5c083Z001em5ud3Z6V1lCTmEzY1BBaWFBTHZyb0Zz?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-11-17T15:16:16Z"
         },
         {
           "id": "report-be411214dbe9",
@@ -2891,15 +2945,6 @@
           "reportedAt": "2026-11-17T13:41:32Z"
         },
         {
-          "id": "report-79946de97ce6",
-          "title": "Ukraine drone attack kills two in Crimea as Kyiv targets bridge to Russia",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVzBfcTd0dGtoRnJmelJGSUhydE9IdTBfejEwYVhrdFB3OG1qMkV2VEVPXzJXQkdZR3h6LVNfM1JEMWxBTTFPV2JPb01Vc1BFV2lQbThfTmVfUS1ReWNYZ2I2WTF5LWhGRm8zOTYtTXhoUmlrcjVxTkJHbjZ3TXdLQjE0VnhONnUtUnNjdGlESmR5dDgtNHBJa1h6RXFCYjdQMFNCcjJXTkpkZV9HbHNHVXBlWdIBuAFBVV95cUxOYTA4MG44OTJSdkxmODdjLTJ2SnhtQXRoNzZodTdDRC1lRUtXeGFTNzl3dGQ1UFpkTWQxRUxkQVY1d24tNXhMdGUydlpCWkZpdnRpTnpOSXVrbHBjSDRmZ3drUF93Rm0zRzJDRFhpWW5XaG8tNlNwc0FGSHBTVERvVjNyZS1FV016MkRJdW1VSHUyWXlEcHRsMnNabm9nRml1ejJ1czhMb2Rlbm5nQ2cwbHNzSmZHa0xB?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-17T10:44:59Z"
-        },
-        {
           "id": "report-7d2d9cd77c0e",
           "title": "Kuwait reports drone attacks as Iran, US trade attacks on Qeshm and Bahrain",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPU3NxaFU3RUpkTklaRUU5NkxhTjZ6aHhYOWl4WG9PQUh1dWp6ck9qdkJhc3FHMjN5cUhWSzF6OWFmZnE5MXQ3U0RKd2RmeXdvZUZ3Qjk4VzFEM0tka3dOai1IVWZFY0VaVlVHS3d2NkdyeDU3UHZEY2tMbV85ZEVldUhRSG1SS2VwZ1c1ck4wNE1HbU81WXluYU5KRUN0NmRFdVJRNWI5MFpreDR4eGNaQkgtMVg3SjjSAbwBQVVfeXFMUDFvNkpucUdWODBUZW5kV01tbDNjaGVlYWp6a2NtdktFQVJpVW9mTjJFWEhWWm1LQlIwcW5tVVozb0FpUWl5TEd1VkstTFh2S2VXRi1YLWdxcl9TaF9XcjFhLUNHb291ZkxHY210TENUclk4WjNlZml0Y1hDbnBBRURzTm1ORjl4a0hWUFVGWUVJbFNwUksyUDJ0ZmtBZWRiZV9pNTJ4QndvRGVMNzVtVW5VQ3J6azQ3c3lJcVc?oc=5",
@@ -2909,24 +2954,6 @@
           "reportedAt": "2026-11-17T23:41:52Z"
         },
         {
-          "id": "report-ed0fb5f46e64",
-          "title": "The Dorking woman who fixed Spitfires in World War Two",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xLUI2cVp6QlA0aE5JS0FKMmFLNGE4LUg2TVlTUF93V2dOTEZnVkktcWVqck13ZVR0Y1NoaWJRX1hKa1l6R1Z5ZjBaM29ZRXlPRmJWT2tEYm92NE0?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-15T07:09:52Z"
-        },
-        {
-          "id": "report-fcebbfae0e24",
-          "title": "Third US aircraft carrier arrives in the Middle East as Trump keeps options open in the Iran war",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYmZiWEcxLU9Xck9JR2h3VDIwa1VETmRCam5zQm1BWmhNcGhZS0pBdi1BZGRZLXhZT3VmUG5wYld2N1gydV8teDVFc0UtNVljakJ5Q1JNRkRUb0dqRDRfX0p4QVBGdkZRaWd3Y1J6aFdZWlZhVGt5LWxzcG9mRHVPYnBXZFFrSXVqYXkxd081YzdlNTN1T05yVTgwZUIzSUhQQWc?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-16T19:32:00Z"
-        },
-        {
           "id": "report-daffe85e6626",
           "title": "Sudanese army airstrike kills at least 13 in West Kordofan, says rights group",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObWZuRk5ZOHl1UjItOGw2MXZmMWt4ekZJYWtVXzgzaHpFUlVzbmdMQ01LdDZ1S1VvUTdCSmpLRzNjT1NVRnA3c3FSNTZMZG1xaDlpQWQ1M05DLUZCZExaeUJ0ZFJ2M2NSMElJUGFHMHlOMHJ3bDF1d09PS0RiZGFVMmNKM2dLRDVCSVFrMkNVWm03bnQ3TlpGSlV1QQ?oc=5",
@@ -2934,33 +2961,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-11-17T02:03:00Z"
-        },
-        {
-          "id": "report-793da35d090f",
-          "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSRU00UVItWVBVOXhnT1ozc2E0NXk5V3VNTlN4eERVeGVRRlJKc3dHLUMxbTRISm5RbEhoeEJUdEhCbldiU0txRExramJVWF9OcVdIV3dBOEo3czA?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-17T21:24:35Z"
-        },
-        {
-          "id": "report-88ff80e714fb",
-          "title": "US vice president vows Trump will not let Iran conflict become another ‘forever war'",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbGdCeW1veDVrQlNyLVd1TkZaLTRhX3JpYlE1NFB2LWEzT0lhZnE2cEp0WkhFY3B2T2xqaG9KMUc1ZUdkcVZMczlxUzJHS1hTa0NwdXBmODloSnJmNE9wZ2RmelZ5NFJ5YXkwM3N5YlBnV1Ewa0ZFcjlxY2JVSkY4MlJ5Q0VqQWdXMmJXY1FCMUZCeldTOThSUkxNdGVqRTlsSzdBY0ZfTzBKWkdQOWg1UW9JTGxTTml0NlJ5a1EyWWNYZw?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
-          "reportedAt": "2026-11-17T02:11:59Z"
-        },
-        {
-          "id": "report-821508b4770f",
-          "title": "Prosecutors allege man ‘destroyed’ US military plane at Irish airport",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaFNLRGt3T0F3b3M4ZGxyR0psMVJPVVliYUxLdF9mazRwYXJQOW5wbGR1WXd6SHRDbTY4SjcxVXRFNjRFMnNjVi1ndEl4a016LVoyUTVRdkRONGxTT05kTWxZUjhMSUNmS0FFUDl3Ny1JRVRBRGo3VnA2VWVHTFFYQ2hkX0xuWGJ5ZENXMzlPdTZFUXc4UV9McWozSzM0RGJ0U2Qya2lCQmdZandKQkHSAbMBQVVfeXFMTkJRMUVqaWh5Q2t5LTU0UG0tSkRoWGt0Z1Zya1ZCVmwxSEJfTXRiUjJlNXotOEJxS1l5Y3lBbzNEZXREVHNsUmFMb05LYXZLb1dHNmFEclYyZi1ZRDUwVEFqZllJYWtwQWRwOW42dloxWV9qZFg1U2tSN3YtMEhadHNFcmxDd0NXSllBVlJLODdWTGRJNTRndHZ1MkpOT1dQSlpqMTFkNDJHR0g4NEIzQ0liakk?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-18T01:44:13Z"
         },
         {
           "id": "report-428401bd0778",
