@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T20:33:40.601Z",
+  "generatedAt": "2026-11-19T22:47:02.873Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -9,7 +9,7 @@
       "items": []
     },
     "safety": {
-      "generatedAt": "2026-11-18T22:41:53.991Z",
+      "generatedAt": "2026-11-19T22:47:02.873Z",
       "cadence": "daily",
       "items": [
         {
@@ -19,14 +19,6 @@
           "sourceTier": "Official / intergovernmental",
           "seen": "20250129T204800Z",
           "pinned": true
-        },
-        {
-          "title": "News - Fort Leavenworth officer earns Army Commendation Medal after Arkansas crash response",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPY1o0V1FqNnU4Si1FUjZLRHJZMXp0N2Y4bVdiVFNCeU9HRkk2X1R2TzJwTkJIeFVlSWxqRmZjMGJqc28wUUlyOURKMGZ1NEFPNWt3M1c3d04yZ0o5WVpVcnNvbmwxZEpiYm5HODBpRUo2enFBRnJ0NHB2ZTBES0lpU21ad3RDaVlLOVVtOGlBNElsTVlHNzZoWEtHb0xsUGtfYk5Udmx0amhtSzh3YzhFR3ZiTXlodjYyYW51NGJ3?oc=5",
-          "domain": "dvidshub.net",
-          "sourceTier": "Official military source",
-          "seen": "20261117T155000Z",
-          "pinned": false
         },
         {
           "title": "Mishap Investigation Advice",
@@ -49,7 +41,15 @@
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQa3N3dHMxU2JBdXZfZmptYXdVWXdzMzdKU2pmcXVFSU5uYmxEWUw0UGQ4OGJ0eXUzbF9MOHgzSEowdTRIY3A4VFpKZnlhcENkazdJdGhwVndlenhPdjRGbDgyRUZEU1NDU2kzUDhFb2NEM0JHTmxLSl9pVzNfSEozUUkyTGFHQVJONTJneEhBOGx4NUtQYjl4dC1nYU1qX0lHQXZUZERuV2JwbElWaHZhbkJockR3Z05GS1FpM1NEQnI2ZHprUUE?oc=5",
           "domain": "safety.army.mil",
           "sourceTier": "Official military source",
-          "seen": "20261108T080000Z",
+          "seen": "20261115T080000Z",
+          "pinned": false
+        },
+        {
+          "title": "U.S. Coast Guard Releases Major Incident Investigation Report into fatal mishap On Lake Of The Woods",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZGFmZWNQMjNmTWNvWUgzdVpuSHE2c1pUc3ZPWXcxYkRqQjlteS1wOFJXNl9EUUlUWlExRS1ZamZxSzZkTjNyYTNoaE5YVk5YYWFLZGM3aFJ1azF1RldZQWRxMTFTR1VLVDhRQk1WOUlnOVFQYm10MjVDT3pwSUFWY1R3VVdOOHJaaEZDYmQ2R0dXNjU0SDhhN3hPTTNFUFJWQ2ZVdHowNFhpbUllR2YzMjhDbEo4aTF0TUNPMGxFR2RjLTRMYXZieC0tV1ZKT2hXaUpz?oc=5",
+          "domain": "news.uscg.mil",
+          "sourceTier": "Official military source",
+          "seen": "20261119T202855Z",
           "pinned": false
         },
         {
@@ -62,6 +62,24 @@
         }
       ],
       "incidents": [
+        {
+          "id": "auto-6f647453127e",
+          "reportDate": "2026-11-19",
+          "dateBasis": "report discovery date",
+          "branch": "Coast Guard",
+          "department": "Department of Homeland Security",
+          "type": "Other",
+          "event": "U.S. Coast Guard Releases Major Incident Investigation Report into fatal mishap On Lake Of The Woods",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "OFFICIAL INTAKE",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Official military source",
+          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
+          "source": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZGFmZWNQMjNmTWNvWUgzdVpuSHE2c1pUc3ZPWXcxYkRqQjlteS1wOFJXNl9EUUlUWlExRS1ZamZxSzZkTjNyYTNoaE5YVk5YYWFLZGM3aFJ1azF1RldZQWRxMTFTR1VLVDhRQk1WOUlnOVFQYm10MjVDT3pwSUFWY1R3VVdOOHJaaEZDYmQ2R0dXNjU0SDhhN3hPTTNFUFJWQ2ZVdHowNFhpbUllR2YzMjhDbEo4aTF0TUNPMGxFR2RjLTRMYXZieC0tV1ZKT2hXaUpz?oc=5",
+          "sourceLabel": "news.uscg.mil"
+        },
         {
           "id": "auto-59b85bc11e64",
           "reportDate": "2026-11-17",
@@ -114,6 +132,24 @@
           "sourceTier": "Official military source",
           "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
           "source": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WQTh5RzJ4RUhLMVQ0bDhKLVkwSVV1SlFSWTd4ZVBVQVJGMFREUHZSclZWT3d1NG9ReHFjclF4VVRLNGRpUW5qWENyLXJ0VEt3Z2RyeEx5WmxxQTJua2hHdExaVTd6MW1IeXdLZVJZcw?oc=5",
+          "sourceLabel": "safety.army.mil"
+        },
+        {
+          "id": "auto-e8d9bbcefe14",
+          "reportDate": "2026-11-15",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Other",
+          "event": "Mishap Reporting & Investigation - USACRC",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "OFFICIAL INTAKE",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Official military source",
+          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
+          "source": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQa3N3dHMxU2JBdXZfZmptYXdVWXdzMzdKU2pmcXVFSU5uYmxEWUw0UGQ4OGJ0eXUzbF9MOHgzSEowdTRIY3A4VFpKZnlhcENkazdJdGhwVndlenhPdjRGbDgyRUZEU1NDU2kzUDhFb2NEM0JHTmxLSl9pVzNfSEozUUkyTGFHQVJONTJneEhBOGx4NUtQYjl4dC1nYU1qX0lHQXZUZERuV2JwbElWaHZhbkJockR3Z05GS1FpM1NEQnI2ZHprUUE?oc=5",
           "sourceLabel": "safety.army.mil"
         },
         {
@@ -186,24 +222,6 @@
           "sourceTier": "Official military source",
           "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
           "source": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc19FY29CaU9ZS05HZ010VnR3R2FGa1JBMFZTb2tZdEJLZkpfRTRLdm9VdGEwallmUi14dGlYNC12dmhYU3ZxaXJrQWJBM25LdmxadFFOanlYUWhkZFhmVTF2NG5iTUtfNHVJaWpiRVZ6UmdoVkxxUlU4OFFVVG13UA?oc=5",
-          "sourceLabel": "safety.army.mil"
-        },
-        {
-          "id": "auto-e8d9bbcefe14",
-          "reportDate": "2026-11-08",
-          "dateBasis": "report discovery date",
-          "branch": "Army",
-          "department": "Department of the Army",
-          "type": "Other",
-          "event": "Mishap Reporting & Investigation - USACRC",
-          "location": "See official source",
-          "fatalities": null,
-          "injuries": null,
-          "status": "OFFICIAL INTAKE",
-          "signalClass": "REPORTED MISHAP",
-          "sourceTier": "Official military source",
-          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
-          "source": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQa3N3dHMxU2JBdXZfZmptYXdVWXdzMzdKU2pmcXVFSU5uYmxEWUw0UGQ4OGJ0eXUzbF9MOHgzSEowdTRIY3A4VFpKZnlhcENkazdJdGhwVndlenhPdjRGbDgyRUZEU1NDU2kzUDhFb2NEM0JHTmxLSl9pVzNfSEozUUkyTGFHQVJONTJneEhBOGx4NUtQYjl4dC1nYU1qX0lHQXZUZERuV2JwbElWaHZhbkJockR3Z05GS1FpM1NEQnI2ZHprUUE?oc=5",
           "sourceLabel": "safety.army.mil"
         },
         {
