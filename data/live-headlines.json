@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T19:36:38.469Z",
+  "generatedAt": "2026-11-22T21:16:48.705Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -9,7 +9,7 @@
       "items": []
     },
     "safety": {
-      "generatedAt": "2026-11-21T21:10:30.676Z",
+      "generatedAt": "2026-11-22T21:16:48.705Z",
       "cadence": "daily",
       "items": [
         {
@@ -25,7 +25,7 @@
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc19FY29CaU9ZS05HZ010VnR3R2FGa1JBMFZTb2tZdEJLZkpfRTRLdm9VdGEwallmUi14dGlYNC12dmhYU3ZxaXJrQWJBM25LdmxadFFOanlYUWhkZFhmVTF2NG5iTUtfNHVJaWpiRVZ6UmdoVkxxUlU4OFFVVG13UA?oc=5",
           "domain": "safety.army.mil",
           "sourceTier": "Official military source",
-          "seen": "20261108T080000Z",
+          "seen": "20261115T080000Z",
           "pinned": false
         },
         {
@@ -117,6 +117,24 @@
           "sourceLabel": "apnews.com"
         },
         {
+          "id": "auto-a349404d1c85",
+          "reportDate": "2026-11-15",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Other",
+          "event": "Mishap Investigation Advice",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "OFFICIAL INTAKE",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Official military source",
+          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
+          "source": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc19FY29CaU9ZS05HZ010VnR3R2FGa1JBMFZTb2tZdEJLZkpfRTRLdm9VdGEwallmUi14dGlYNC12dmhYU3ZxaXJrQWJBM25LdmxadFFOanlYUWhkZFhmVTF2NG5iTUtfNHVJaWpiRVZ6UmdoVkxxUlU4OFFVVG13UA?oc=5",
+          "sourceLabel": "safety.army.mil"
+        },
+        {
           "id": "auto-dce6037e2d3b",
           "reportDate": "2026-11-15",
           "dateBasis": "report discovery date",
@@ -205,24 +223,6 @@
           "confidenceLabel": "OPEN-SOURCE REPORT · UNVALIDATED",
           "source": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBkaTRiZEs5R281X3ZQTDBqdVN3N1B1eGhSMjFjc1ZJSWlaS1Yxc2dOcDNfZHZfZGtMdXZ6QnV0NUp4ZTh3V2REYzY2XzR0cDlHZWtqc0RtelY4SjV3MkVfci1YXzAyQm53OXU5VGF4ZjlNT1JNdUxmVVh3?oc=5",
           "sourceLabel": "taskandpurpose.com"
-        },
-        {
-          "id": "auto-a349404d1c85",
-          "reportDate": "2026-11-08",
-          "dateBasis": "report discovery date",
-          "branch": "Army",
-          "department": "Department of the Army",
-          "type": "Other",
-          "event": "Mishap Investigation Advice",
-          "location": "See official source",
-          "fatalities": null,
-          "injuries": null,
-          "status": "OFFICIAL INTAKE",
-          "signalClass": "REPORTED MISHAP",
-          "sourceTier": "Official military source",
-          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
-          "source": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc19FY29CaU9ZS05HZ010VnR3R2FGa1JBMFZTb2tZdEJLZkpfRTRLdm9VdGEwallmUi14dGlYNC12dmhYU3ZxaXJrQWJBM25LdmxadFFOanlYUWhkZFhmVTF2NG5iTUtfNHVJaWpiRVZ6UmdoVkxxUlU4OFFVVG13UA?oc=5",
-          "sourceLabel": "safety.army.mil"
         },
         {
           "id": "auto-b5eea4a5d5da",
