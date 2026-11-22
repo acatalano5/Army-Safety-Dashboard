@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T21:10:30.676Z",
+  "generatedAt": "2026-11-22T06:44:10.450Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-11-21T19:13:33.691Z",
+      "generatedAt": "2026-11-22T06:44:10.450Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -2585,31 +2585,15 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-11-21T19:13:33.691Z",
+      "generatedAt": "2026-11-22T06:44:10.450Z",
       "cadence": "every 6 hours",
       "items": [
-        {
-          "title": "‘Status quo’ between US and Iran could break out into war, analysts warn",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbGNDR0Z2Z005TDhGUFhZRXRTU3FkWTUxUmdURHFsaTYzYTBDbF8tUjFvLVJSWUgxa25pbnBZZjFUMUd5Rks2T0VRYVpZendaTThLWUZISlA3NVIzQ25ZdjFya1dEV2NvTUdtZkx0a1dPWV90RUQxSlk5aHdUTjRvZU9sWXduVHJnOXcxZTVPRkFrSGJyZm82OG0weTNydlBIcXNtUEpDc2kycGN6d1h5ONIBtgFBVV95cUxQWnFkWE9kZXQyLXJYaFNYRlFnbUdCZ2tSck9NRlhJcmF3R0lXRGpuTlBOM3ZkQm53c0lVYmoxQ3pUTlJuQ1VJbFViX2QzV01aMkU1U2hsc2RLbjhQcFp5Z3FCQi1RbnpkQTV3UW96dG5qbnl6Z19sVjhGeFpubFJjNGlpQmlWRlZsUnRTbFc5cnNzM29JbGxJQzEtVjhJMTNwSWNYRzhqc2ZlbVpPTDdpdjlmMHdlUQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261118T144016Z",
-          "pinned": false
-        },
         {
           "title": "UK to provide Ukraine with long-range drones as part of £260m package",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XT3J0aUZ6eHYwYUFSVE9QMXgtMEpWWnhLVmJVYmVuZThGQktEMFdWWUpRS2dvVmNwdlRqNWlDTUtHYjBsdzU1TnVpX2lnb2xnR19DeUJmMTM1R3c?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20261119T175901Z",
-          "pinned": false
-        },
-        {
-          "title": "‘Gaza Syndrome’: Israel’s Soldiers Haunted by Genocide – Cost of War",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNenlva2tDMXZQcE0zVUV0REFQdlR6SERKRGh1U1VCTnhJY1dTWXpCNG4xWWp5MDg2VHNZQnY5aDdIZmZWdkRKcTFJM2t2cExETVBlaWNHTU1SNmR4clMybTZTWVlKcFJPeFo2NTVqNk8wRjVBWWdwd3ZGRWRlMk5WcklCQTVIWDBYeC1yUlF1UWw3M1ZVNGw1MmVLRXdLaTVodWowUkVJT1JNQnpRNVExVnpITV9HRjE2YXBETkdjZ1lLX29N0gHKAUFVX3lxTE10QXg1SWoxS3M4U1dCUlU3VHVZejRZeEk2cUNpdklaTURBLVlTWUhwV0ttWS15UTBCUlV2ZEVteUZFTXpfdExfWnNCTXVHWjlUNkY3TUR2VFVhenNLZFpncE5fWUFuZjlLWmI3b3VxWllrNTljdElmaHBxS296YktNaElnZ2dvYkxrcWEzZ3ZaS05jdE1yUVEwci1kNldKSkQ4c05zY3kzU1Rjb2NJeUVvQmdlVGNCcEhWTHMyd3lRMUxsQjJDNzVqZlE?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261119T135430Z",
           "pinned": false
         },
         {
@@ -2621,27 +2605,19 @@
           "pinned": false
         },
         {
-          "title": "How the Houthis fund war effort and tighten grip on Yemen",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc1F1VXdqY3B1eVRRVEZhazRQck1lS0JfeXlIWUFYeWE4QllJWVc5ZXF4VDVFTVRlcnY5S19qOUlJOEZ0emVBejNHVUFDc2ZYLWpKMEkwVjd6aXZ0QjVXbmxWcklvUzhnNWZ6TlpMVXpzM1ZZQU5FMlI1Wl9hUXNlOFplNElUQ0FkeWZWMElJMG1LU0lCOVFSUzFNZU5fRHlZ0gGmAUFVX3lxTFBJajVRVUlIZlhVOUhoYW91LTZHemdjZC1uVWIyaGVBMmFGY1dkRTYzanZIWENTYXhXa2Uxd3BmeElfdmEzYVg3RnJ4RDdRMGlLNHl1UHkwdW4tdkI5WmVfbEtaVHl3dTd3bHRSckJxTjljdlJhZGR0Vi16TE1uelhRUzh0Q3ZDaEx2ckVLRkFjVC1nM093SVh3VmJNQUtyTmFqZ3dPdVE?oc=5",
-          "domain": "aljazeera.com",
+          "title": "What we know about the latest Russian missile strikes on Ukraine",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zS0VqN3l1NGtiUnM1SmZ5NjlFX0NXckFLMFlLQm5rYjlucGxlUWxhSHVQRFJ2akJ0SUpyVkQtTjBHb3BrSy1TRTdsM2ZnNXYxaHJvWjVua3Q?oc=5",
+          "domain": "bbc.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261118T073753Z",
+          "seen": "20261120T151401Z",
           "pinned": false
         },
         {
-          "title": "Senate Republicans in US reject measure to limit Trump’s war powers in Iran",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSm1IYzd0dmZPZEpYYTY3Yk5PRnJZNGVfYkl5bGhHd0NaekY3ektkbnFWdXlEZFNKTlVCOVJnWXF6WGM1Y2U3U2xPRmw5NG5ZbWNxTS1pWV9IbUItZTdxNjVaZUJwZEYxR1o2ZlJSa1VCYXNVbEJmODMyQUFwWnVxcnFLU3U5UkYzX0pvQmx0NXpkVk5aOWptNVlFOHowbVpfQWlEUDlrVWFhZXJMUWszLWFoNWdQWTDSAbwBQVVfeXFMTzJLaF83bXZxcVN3Vy1tb0F4LTA3bjJiWjh5empUbEplU1VUMXYtR21UdmpzSDBsNHJVTHZrNUFMVWdxbE53ZHZ5S1dQLUllazJQR1RlUnpLNEZqeHl0aWFxRlVnNEVkMGpKUVZMdWh3aURvTmJaTkI1NzMxcWxyLUNISVhaZU9vbWVzVDU4OVpRQnRTZTVvRWNtSlZ4TDZQMHNsYk5GLXJkTXFxMzhYbHQ5XzdYLVNOWW9odko?oc=5",
+          "title": "‘Gaza Syndrome’: Israel’s Soldiers Haunted by Genocide – Cost of War",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNenlva2tDMXZQcE0zVUV0REFQdlR6SERKRGh1U1VCTnhJY1dTWXpCNG4xWWp5MDg2VHNZQnY5aDdIZmZWdkRKcTFJM2t2cExETVBlaWNHTU1SNmR4clMybTZTWVlKcFJPeFo2NTVqNk8wRjVBWWdwd3ZGRWRlMk5WcklCQTVIWDBYeC1yUlF1UWw3M1ZVNGw1MmVLRXdLaTVodWowUkVJT1JNQnpRNVExVnpITV9HRjE2YXBETkdjZ1lLX29N0gHKAUFVX3lxTE10QXg1SWoxS3M4U1dCUlU3VHVZejRZeEk2cUNpdklaTURBLVlTWUhwV0ttWS15UTBCUlV2ZEVteUZFTXpfdExfWnNCTXVHWjlUNkY3TUR2VFVhenNLZFpncE5fWUFuZjlLWmI3b3VxWllrNTljdElmaHBxS296YktNaElnZ2dvYkxrcWEzZ3ZaS05jdE1yUVEwci1kNldKSkQ4c05zY3kzU1Rjb2NJeUVvQmdlVGNCcEhWTHMyd3lRMUxsQjJDNzVqZlE?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261119T212701Z",
-          "pinned": false
-        },
-        {
-          "title": "Kuwait, Bahrain face new Iran attacks after US strike on Qeshm Island",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdTNrNm5hd0NlSW9sNVo1VDVMVDA3eEtIMXhDdzJ3LTVjbGNxQ1J3dEVnWFFuMlQxTjVGYVhWaWVVaW5yRHJ3LWFrNkYwMGZjN3FrSENvdDlpQTRLNUNUQUhjb3hUX3BoUWRwMW5iSGZENWo3dm1xeUZIOU1FZm9EZDV5bHZYLU5mTENabEpoa1Y1ZEQyZXNZQk9sQkRzVVpNQ0VpR1lSdjBFRjRBNXow0gG0AUFVX3lxTE4xUnJGLWRBLUtPLWw0TjhrZjNZQUFVcmlHSjZrSURWSno1Z2JhUHBJOEFTcWN4X1R1cHdWLUFhc25RR25vbWtVUEN4S2J2TzdvdkJaLUxHeWJZX1BIbHpfeTlIcW53bkVSU2VoMzBRRnFKX1JvcG9ROHZtcW5jb0RMNnhLdjJUaDBmSWVPM3NRbUJUcmdHN0JkVU1fMW9fZm1kUU16WGJYOTR1eThhNEljVW5lcQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261118T165645Z",
+          "seen": "20261119T135430Z",
           "pinned": false
         },
         {
@@ -2653,27 +2629,11 @@
           "pinned": false
         },
         {
-          "title": "Board of Peace warns Gaza ceasefire faces imminent collapse without action",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONUREdkFPUjItcmNQZFVGZmVNVURZZkp2Q2YtWFFEanJVNEI2Z3NObllCMC1QVEFOa1V3UWlTTGFUeXBBMzd2TFJ0d2NKeGI3Uy0zSnV1QjBKdWYxSFRYVERhMmJiTDRiMmxURXU4R1dmV2ZWZ0dxd0ZtNG9tOEdjN1hrdUpkbWVBWHpmTFVpYXVwWGh6aUwwc3VnVHgzVmRPamJfRUJaT0Q2blUzcU5VajRxTElUVkXSAbwBQVVfeXFMTjZZNVZENlp4aWFhclVnNl9qaGJzTmNRWjE4WlhsemxZUWVwSnhvUEFBTmdJZkE0VWNkemJxNkJUYm90SDJIbWFkRTFHc3FPc00ta05ZMUNnbkhNUzBQbHlqNHJ1cUFOc2hHZTFsVWpsbFJiVngtcHkxbmhVT3p3UW10ZWJkZm4wZDFWZG40X2o0dzlYc1ZkalJMTDJ6bXFNWjhCcWp0WmpHazZLN2szWDVIQTYyLS1nWUM1dEQ?oc=5",
+          "title": "Senate Republicans in US reject measure to limit Trump’s war powers in Iran",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSm1IYzd0dmZPZEpYYTY3Yk5PRnJZNGVfYkl5bGhHd0NaekY3ektkbnFWdXlEZFNKTlVCOVJnWXF6WGM1Y2U3U2xPRmw5NG5ZbWNxTS1pWV9IbUItZTdxNjVaZUJwZEYxR1o2ZlJSa1VCYXNVbEJmODMyQUFwWnVxcnFLU3U5UkYzX0pvQmx0NXpkVk5aOWptNVlFOHowbVpfQWlEUDlrVWFhZXJMUWszLWFoNWdQWTDSAbwBQVVfeXFMTzJLaF83bXZxcVN3Vy1tb0F4LTA3bjJiWjh5empUbEplU1VUMXYtR21UdmpzSDBsNHJVTHZrNUFMVWdxbE53ZHZ5S1dQLUllazJQR1RlUnpLNEZqeHl0aWFxRlVnNEVkMGpKUVZMdWh3aURvTmJaTkI1NzMxcWxyLUNISVhaZU9vbWVzVDU4OVpRQnRTZTVvRWNtSlZ4TDZQMHNsYk5GLXJkTXFxMzhYbHQ5XzdYLVNOWW9odko?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261118T011156Z",
-          "pinned": false
-        },
-        {
-          "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4akxXcHFqbTV0dzV2MnZpTVFTc21SSGhVM3dCbnVpNlNpYUhWdHhWdWZlanlQQzdYOXdaLXVHdC1ZWHdzWkFDa2piREFkZ3cwS0IwV2d4X2JnbW8?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261120T005024Z",
-          "pinned": false
-        },
-        {
-          "title": "What we know about the latest Russian missile strikes on Ukraine",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zS0VqN3l1NGtiUnM1SmZ5NjlFX0NXckFLMFlLQm5rYjlucGxlUWxhSHVQRFJ2akJ0SUpyVkQtTjBHb3BrSy1TRTdsM2ZnNXYxaHJvWjVua3Q?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261120T151401Z",
+          "seen": "20261119T212701Z",
           "pinned": false
         },
         {
@@ -2685,43 +2645,19 @@
           "pinned": false
         },
         {
-          "title": "Traumas of Sudan war lead to wave of drug addiction",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSVN0N3c3RllOWmdicGN6a2drUUo2bHBfV3BZczZfTXRsWGQzV19oLXZ4WWJQWGZXUjA5REJ1VFRfS2E3SmduMkVzYXNpMnBYNmg1Q0lOVTBNZWJJZUpRQlRlcTNhU0xfWmpqTVQ5a2FpRXV1QXFPc1pybFlkdFJOcGxNRGJXWkVfNFNIbS1LdmItemZxY1lLa3JLVkFncjByMUV30gGoAUFVX3lxTE5iLWVYalc1LXNhOEVCa0J4TUlUR3lKNG9hQ3JZT0RIdS1aNnpDa0FrbWdqY3Y4LTFiY2wyeXZQZ2JNczZkaGVHanlmc2JtVDU0WXdrcFdWTlRibHRVWUtjWm9jWEkyakFuTjRMOGtLcHJaVkU2dTVJbFVybldkbXBaZVh4eDF4eFdxUTFQSktydmtxMjI0ZHg2aXNZbC0wRmU1V3djR25ueg?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261118T104250Z",
-          "pinned": false
-        },
-        {
-          "title": "Can the US and Iran sustain a ‘frozen war’?",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQWRMWlROUjlhcXR4ZjB3eUtJS25pcTVBeHp1ejhXUXZ6Wk1mOEMzM0lHUzRKTHZnMXhrNFNHNGhtMUZWeUs2cmJWVjRkbjVFR1lVTFhfRUpyaWo1eDN5bmNYS3E1a2o0WUJvQ0RJLVBOWkJ3eEpzZHMwbjJUbWl1STNob1TSAYoBQVVfeXFMTTk4dXJEcWl2VmJaMUlzNUUtMVBTQ3h6dVNtSGNDalVBeHRMcGJrZTV2TzVFNHZvSk0waEVBM0tqUVNkNUhnd3VuWFEyRjVpZ3pXX0htZjFCSWYzbk9YMWZrWFU0YzhBN0huZE9ENW1ac2xTUGxoZ21CeVpieDZOb0g4UkVMSTFYc0R3?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261118T141655Z",
-          "pinned": false
-        },
-        {
-          "title": "Inside the old gas pipeline where Ukraine is fighting an underground war",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05ai12U3Bxc0M5OGhGV1puSjZGdXBlZG13VjBQUkwxTER2ck5GclNjQXRzVHEzYWN1aDBnY093VWpJODdoU1FxRno4RUM2VFNhYmg5cURDVUpJQUU?oc=5",
+          "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4akxXcHFqbTV0dzV2MnZpTVFTc21SSGhVM3dCbnVpNlNpYUhWdHhWdWZlanlQQzdYOXdaLXVHdC1ZWHdzWkFDa2piREFkZ3cwS0IwV2d4X2JnbW8?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261118T170004Z",
+          "seen": "20261120T005024Z",
           "pinned": false
         },
         {
-          "title": "Senate Republicans block latest Democratic effort to end the war in Iran",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM2xvRWtCcGhZTnI3SkRZZE1Hb29IV0FLQXd4WFU0ckRYV0xtVVJhTk1IVkx0UW1TMVM5VC1rZURuTDZqekQwM3lmdVh0cVJPYjdHZ3hLdUljb3liaG9OVGNHM183R1NIWF9MbTJJc200UlRtRFNLZ3dIdXUwRXFDNHBWOEIxRGdzZHBXVlBLbWJiVFAxVFdj?oc=5",
-          "domain": "apnews.com",
+          "title": "Russian strike in Zelenskyy’s hometown kills two, wounds 60",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc0hQZ19MeU5Jc2FhSmswLUJ4V202NlpfZjNFTllYa21DVi1BTzYwWXQycnM5UHFVM21LWWpoalFGWHMxbkFoV0JNUDllY1hyWUVaMU5fNmJVeGVVUUJLaXdTbnpBdFFFTkZBUnpQX0xyb0d6Tm5JQ25qelMyeU50T1hpZFNtR3hXN1JpcWRQSldicWtjR1ZDSVBoYkdjbDZV0gGmAUFVX3lxTE1XQk01eDBoOEd5Wm8wXzVORXd2Y1VRS1hWRjJ2NC1mZldyQjlNcnZMT1FsLUp6cXV6YjJFeWd4WGNoZGE4WTVYR0NnLUJ1SXVQVDRZWjdQbjc2V01OengzbkE0QjdBcnNoTERDbnA1X3pBNFptMjNfUkVzZnQ5dUM2VXBveTV4bERieXpxZDJLV2VvRG4wdWV2NzVLX3JUTE54TnlZNWc?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261119T201700Z",
-          "pinned": false
-        },
-        {
-          "title": "Iran war costs surpass $48B as lawmakers demand unreleased estimates on base damage",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNY1U4al8zbWhaQ1h3eEYzSlRid0M5cndWazRQMk1URUNLTTZ1S2FvNk0wMUZsRUphSElXY2lFMllMVmdGNjFMX3RqM3RGUFhpMURveU1nVlppRUNmUEZ1Ui1VcWtHRTFkbk52MjZFdDc2U2tSUGh0eXlqTWt1WEJ3d1QyN2hfaFdDWHlpREdkNjd0Snh0S1pNcTE3VQ?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261119T194900Z",
+          "seen": "20261121T180142Z",
           "pinned": false
         },
         {
@@ -2733,19 +2669,19 @@
           "pinned": false
         },
         {
-          "title": "US Senate blocks Iran war powers resolution",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQX2dZYlF4ZzY5V2pFUWxzb3ItVi1YbENWczAyOGpMbG4wWGtqdWtuUUdhVkZJd2o5Ri16eG9WQWZLSjNmSjdlS0hVNDU5aHpNZERuZGVJdXhfVGp3ZlcteDZqODc3ZUVlaXZzMVV0ZF9LN3hCZ1g3TUFQR3NqSmp0UzBzRFdRQ3Jsalp0SFVGYw?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "seen": "20261119T202636Z",
+          "title": "Iran war costs surpass $48B as lawmakers demand unreleased estimates on base damage",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNY1U4al8zbWhaQ1h3eEYzSlRid0M5cndWazRQMk1URUNLTTZ1S2FvNk0wMUZsRUphSElXY2lFMllMVmdGNjFMX3RqM3RGUFhpMURveU1nVlppRUNmUEZ1Ui1VcWtHRTFkbk52MjZFdDc2U2tSUGh0eXlqTWt1WEJ3d1QyN2hfaFdDWHlpREdkNjd0Snh0S1pNcTE3VQ?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261119T194900Z",
           "pinned": false
         },
         {
-          "title": "Iran war dents Middle East sports model as events are canceled or postponed. F1 bucks the trend",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPczVIdTE3NFhiUkYySjFhRU9xZkhYSHVWVkNMSE42aVVGTEQwMWJBREJ3ZDlWSkhhem5idmhWOGZhNG9HblVySjlMZ3dMUUFFSE1xbVBsc3BsQ3hTcEJVWkdUeU1WMXdaTDZ3al8tSDNscnhaeWt5UWdXRnRGbmQzcXQxTXlTeHhpcTY2ZmZMRHdnR0U?oc=5",
+          "title": "Senate Republicans block latest Democratic effort to end the war in Iran",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM2xvRWtCcGhZTnI3SkRZZE1Hb29IV0FLQXd4WFU0ckRYV0xtVVJhTk1IVkx0UW1TMVM5VC1rZURuTDZqekQwM3lmdVh0cVJPYjdHZ3hLdUljb3liaG9OVGNHM183R1NIWF9MbTJJc200UlRtRFNLZ3dIdXUwRXFDNHBWOEIxRGdzZHBXVlBLbWJiVFAxVFdj?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261118T050700Z",
+          "seen": "20261119T202240Z",
           "pinned": false
         },
         {
@@ -2757,6 +2693,22 @@
           "pinned": false
         },
         {
+          "title": "Russian missiles land in Poland, as Europe held military drills nearby. NATO calls it a violation",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNXhFLWVHeVA2TTIyRTRBRklRM29NQlpLTkNSbkdUYlNWVTNLek1BNG52cDFJRjNNVGNxNW04V3RDTEJPNGtDZ1R6WXE5TVV3SDJhQkFDRVFEMXZaTF92aWhZdS1xS1A0QnR2dE9selFRNGJYclZkRmdKUlJrWjB3VGxzTFE3aVBjYWJCUXhsM0Q1Sk5qR1U3TFlIekxkUE43MUNNenk2bw?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261120T114339Z",
+          "pinned": false
+        },
+        {
+          "title": "Endurance athlete swims in Strait of Hormuz to highlight Iran war’s impact on wildlife",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQ0JtX0ptcWJJLXVuYkhxaG1uNTFXV0hEdzRSUDZIckpCQWVfVWZtMWU5b3AzYjhUcTdvdjNrQmNXMnVFSTdZWE9wTnhWQ2NBSnpBT0thUEdMQ1hKcGY0aURSMXFiM1UtUktHVEIzbzFCM2JYRGRvb01yOGhFSkNVSlJabk9fUUx1ekk0QWFNQzBOVDRvamdrRmZmcw?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261121T190200Z",
+          "pinned": false
+        },
+        {
           "title": "Strait of Hormuz swim highlights environmental cost of war",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kcWtQNHRXVEgyNVpYYl92OHhaRkFUSzNJT201dzJES05OZnhpN3dhMm10UDd4ZWlwNHNreWtuWEdaakNOTzFScVgtcENpQkMyU3B4OGpXbS12cG8?oc=5",
           "domain": "bbc.com",
@@ -2765,32 +2717,71 @@
           "pinned": false
         },
         {
-          "title": "Russian missiles land in Poland, as Europe held military drills nearby. NATO calls it a violation",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNXhFLWVHeVA2TTIyRTRBRklRM29NQlpLTkNSbkdUYlNWVTNLek1BNG52cDFJRjNNVGNxNW04V3RDTEJPNGtDZ1R6WXE5TVV3SDJhQkFDRVFEMXZaTF92aWhZdS1xS1A0QnR2dE9selFRNGJYclZkRmdKUlJrWjB3VGxzTFE3aVBjYWJCUXhsM0Q1Sk5qR1U3TFlIekxkUE43MUNNenk2bw?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261120T221500Z",
+          "title": "US Senate blocks Iran war powers resolution",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQX2dZYlF4ZzY5V2pFUWxzb3ItVi1YbENWczAyOGpMbG4wWGtqdWtuUUdhVkZJd2o5Ri16eG9WQWZLSjNmSjdlS0hVNDU5aHpNZERuZGVJdXhfVGp3ZlcteDZqODc3ZUVlaXZzMVV0ZF9LN3hCZ1g3TUFQR3NqSmp0UzBzRFdRQ3Jsalp0SFVGYw?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20261119T202636Z",
           "pinned": false
         },
         {
-          "title": "Three killed as Israel launches first ground push since ‘ceasefire’ began",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNS1AxOUxYTnlDdkpEdHpkU3NETy1XcDZaX1VTNlNEU0dWTmxER25jS3BSMTdDTWM2MXluamRyd21GamVUTmZ5eGRiQ3lLVGFaVEN3MU9ZZFZtREJQN2VKSHBXTk5faUd1eDAzeG5LRjg2bnhhRmszQzFZU0ZmQkIzSEowdERFTlZPWTRVSmd1UzBDOTlhX3lvTWl1MXFFRmNhQXhXSlJZa21FcGlYaXJSWVl2amNzd9IBuwFBVV95cUxPTE1aQ0N4dlBxMzhta01ua3puNEJXNW9oTE0weTRPZENSN1RlUjNVSkhpNzBUSWxSME5HMnJxclNxY1dDeWxrUmJmWWVRVnhadUV3N3R4bDhCN3M4eHNwWUUtQ3ZfdC1sZENYanpjUHNqcXV3NTN0bldRa25ydGxlb1NZZHJfN0FuanVaMm55d0VYVDdmeThjYXVoMGVDeTNDQjJLYm5vc0xaN3kzYWV5UzRQUVVVd3lGbEhj?oc=5",
+          "title": "Mideast nations ramp up efforts to avert all-out war as Israel urges Iran strikes, officials say",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVkpMQk5Ha1FZNG45Vmt6WWxWeUtMS3lSU0hON0F0b0ItSHlWY0NnUHFyQ1JTWFBPSWViZTFVZHpKNWI3V3R1TjM0b25HWTNEZGZ2Q1ItZG5hdXNGcG03M3FjZlJKNmE5SC1lYTJERmRETERvdGJOUGlsMG9pQjVVU2dEWkJxOEY2eXJYd1RtVmNlN2pIcGlLcHJlaw?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261119T011600Z",
+          "pinned": false
+        },
+        {
+          "title": "Crew evacuated amid battle to put out fire on Russian ship hit by drones",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ2U3ZVVxRFhhdW1QdlBWLXJwRUpVYjlfb2YzMGFBR0RCTUdWM3VsRUtyZVItZFdCQ1lhbjFZa0tjLTl5MVZma2FrQkRfT0doQ212M3ZZbXM2ZDVwX2gtZF94N3UwN3gxX2gySUFCZGYxWk5ONmJacE02LVdaOXVGazlwYTZteUJ2SVRTN0NrTUxHM295VFlCRGtYeFhHX2pXaXVrN3M2MUFFZUp2WW9MWkRR0gG3AUFVX3lxTE0yZHFzYlU2ZzZ1b1VSc1htTi00Tjc3WmtxWXhwYjJRbERDMXhmdzQ0dFpQcmU4TkQyRnI2NHhrdFJIenpWR095MUFsZmhhX0gtbUgzSlBieEpmUVBqRDIyZW9YNmRab3RmbUlyOHI1aThMZWFFTXhIRTdmZWZzT0d5Wm1BU05XNFc2QVlXZHBaejhxVTVFdk9RRmI1QXctZTVCeFljXzluVUpTUmpqN1FZLWpvSUNDTQ?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261118T173158Z",
+          "seen": "20261121T200935Z",
+          "pinned": false
+        },
+        {
+          "title": "Bahrain says Iranian attack hits industrial facility",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaURzQjhraTl1ZU1BWm91UUZvbTBHZzk0UV9nb3VmMUM0U3dIMkNNZDJwRzBKSGhxZFdxNFV2SzNJRVBxNG9jbEV4c09RdWNsR2FiZGtKb041V1lGMWU5Ql9XN1IwS21BT2twLUpCUlNfeTRId0RCQ01XRVFkWEZiSWxlSzRNaGtvSzJ0WTBSVEJuVTRaeEZPbmJHUWNBMDVQUWgySTlRZ9IBrAFBVV95cUxNdE52aDUtODRDUjBOa1FWSWpZVjVVVGFIb3pjZnB0M2VQY0RxYXJkLUdId3kwWE8tWWs3RGhfSk9sd2FYZnFGUnozbUtmRXo0ak1ZTXdFbnUwTWQ0ZWliTkZvR1NaQUNKdFlJZHh0WGhVakp4VVlzcXFna2pOcXR1VkNQTk95RlBHaDRTbm5wRVMwQjhINHZOckF3M0FSSFVfclRuOVVnNjFISmVY?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261121T220219Z",
+          "pinned": false
+        },
+        {
+          "title": "Deadly attack in Kyiv as Russia launches barrage against Ukraine",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMjdpcjNXTjd5Z2ROUThPeGVJR19Gc3ptOFZFS0VwRWVrRmRaZ0lpWTBwQ1ozU1Bfbm03UjAzbl9yY1FjelRhMmp4NTIwUklLX0U4WjRoZ0J4Z3g2UVpxa2RqSmthdENHQjVNaTQ4MVhSamdWX0ptSTJoY1pabkxaMmZMZTU3YVNQUk1IZm5QTUlQalBRYkVRczNtOXhZTXg5X1RBZGpRdkJ5YWttMFJrX011MlNsNHg2Y3fSAb8BQVVfeXFMTUZfSENOWWt2ODlWTUlrRW1UMkwxY3FhS0hQMjRYV0ZXTWJZS2xwYkJsSVZPWHZoZW0tZzRsQWVFWGd5S2kxcW5mUDlTeEZtRE1TY1pKTkxaT2MzbkZkQ0Vjb2F2VXhwbG5HWTFkQ29IM1pQMEMtWkUwVFFYcFRnWENaYmxheTRXRUJRTUtDMnlhT0NxbjlaU3g5VjlkU1J5T281Skg0RnQ2alJUY0hJZUM1Sk5uZlplak9PT185OFE?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261121T185435Z",
+          "pinned": false
+        },
+        {
+          "title": "Iran denies reports of US-Israeli missile strike on Qeshm Island",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX2p2eV9xTmVRS3E2b0tOeDUwZnRiUkpBMEEyRzREQkNablVHSXhCenJUOXZrVmhEZGZmb2JBVDBJTDFzRGIxQzdsa0NabWdIWEJkOVV2ZUNBTzZZdFVCWnBiQlgtM3c0QjZrQU42NS1udzRFR3FoZEp3LU9Fb2hOOXFhZHdmdEhIa20zNFlJTjFzQ1hQZ2lyWUFnSjJPeXJQekFVUlJ1TnZWWW5LWlNheEtKTDFEamc?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20261120T164417Z",
+          "pinned": false
+        },
+        {
+          "title": "Trump says US doesn’t need help from China, Russia to end Iran war",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY2NZd3d6X0ROUksyUndackNQOGFkNjRSQ3NsQnVYSlFYaGRza09xaTlxMHYwZXk0WnlhYXN0cDBlVjVUNnMxQi0tTFJ0MnUxYlhuaGZkcXIyTV9NLTAxZkFTUzA5LVBKdXdxZHBKbkpza0h2ckZILXNXNl9XQzAzS3RVeGU2VzBnTjFkcGdaOHZac0J5TWEza2pqT21DOTVmOHpLTW9ISmdJd1E?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20261119T012823Z",
+          "pinned": false
+        },
+        {
+          "title": "Saudi-led coalition intercepts three Houthi missiles headed for Riyadh",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ3ZhbEhHbVN4RWdTZWVLWGlFQnl1UlkySGFjTEd3NEJHaHBDeXZuclpCc1ZLNy1Fa0oxSlVJQlRLVmhCV1hkdFpPUVZ6Y2JXcDlhMDExaGpIOHM1RUhHVmlOMmV2SXVydFU3UWtvdVUxalkxUHRNdXg2Q2JZVG1WN3otT1lKaU4yVGwyUUJVVnJ4QkREb0tnVGZCdG5TQTFyUk1SSWZHMEhrclVTeVlUenVR0gG3AUFVX3lxTFBVWGExdVo0WFJQdkYxTTRNRVpBaFdBSzdObGNjOWZQVDJtTVZyNW9yQUEwbGtHU092TW1BY0FSY3dBc25wZVp2QjFIZnRLOE9RMFhLMWpjY0R1TVhUUWhubENJaE44Z1JMdDBXQWJqMDlGNVhzT2pHWEpONXhZUFcwWWE0bUtRb2xZV1VkUXZVS00xVmcwa0x1eWx5dHpES2FwcUQwV043NExycnNQb0ltbWw2QlF6OA?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261121T163253Z",
           "pinned": false
         }
       ],
       "reports": [
-        {
-          "id": "report-ef2c6cce25a6",
-          "title": "‘Status quo’ between US and Iran could break out into war, analysts warn",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbGNDR0Z2Z005TDhGUFhZRXRTU3FkWTUxUmdURHFsaTYzYTBDbF8tUjFvLVJSWUgxa25pbnBZZjFUMUd5Rks2T0VRYVpZendaTThLWUZISlA3NVIzQ25ZdjFya1dEV2NvTUdtZkx0a1dPWV90RUQxSlk5aHdUTjRvZU9sWXduVHJnOXcxZTVPRkFrSGJyZm82OG0weTNydlBIcXNtUEpDc2kycGN6d1h5ONIBtgFBVV95cUxQWnFkWE9kZXQyLXJYaFNYRlFnbUdCZ2tSck9NRlhJcmF3R0lXRGpuTlBOM3ZkQm53c0lVYmoxQ3pUTlJuQ1VJbFViX2QzV01aMkU1U2hsc2RLbjhQcFp5Z3FCQi1RbnpkQTV3UW96dG5qbnl6Z19sVjhGeFpubFJjNGlpQmlWRlZsUnRTbFc5cnNzM29JbGxJQzEtVjhJMTNwSWNYRzhqc2ZlbVpPTDdpdjlmMHdlUQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-18T14:40:16Z"
-        },
         {
           "id": "report-4e787224e22a",
           "title": "UK to provide Ukraine with long-range drones as part of £260m package",
@@ -2799,15 +2790,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-11-19T17:59:01Z"
-        },
-        {
-          "id": "report-3185c0e4304e",
-          "title": "‘Gaza Syndrome’: Israel’s Soldiers Haunted by Genocide – Cost of War",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNenlva2tDMXZQcE0zVUV0REFQdlR6SERKRGh1U1VCTnhJY1dTWXpCNG4xWWp5MDg2VHNZQnY5aDdIZmZWdkRKcTFJM2t2cExETVBlaWNHTU1SNmR4clMybTZTWVlKcFJPeFo2NTVqNk8wRjVBWWdwd3ZGRWRlMk5WcklCQTVIWDBYeC1yUlF1UWw3M1ZVNGw1MmVLRXdLaTVodWowUkVJT1JNQnpRNVExVnpITV9HRjE2YXBETkdjZ1lLX29N0gHKAUFVX3lxTE10QXg1SWoxS3M4U1dCUlU3VHVZejRZeEk2cUNpdklaTURBLVlTWUhwV0ttWS15UTBCUlV2ZEVteUZFTXpfdExfWnNCTXVHWjlUNkY3TUR2VFVhenNLZFpncE5fWUFuZjlLWmI3b3VxWllrNTljdElmaHBxS296YktNaElnZ2dvYkxrcWEzZ3ZaS05jdE1yUVEwci1kNldKSkQ4c05zY3kzU1Rjb2NJeUVvQmdlVGNCcEhWTHMyd3lRMUxsQjJDNzVqZlE?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-19T13:54:30Z"
         },
         {
           "id": "report-394f3e25e951",
@@ -2819,31 +2801,22 @@
           "reportedAt": "2026-11-21T11:06:42Z"
         },
         {
-          "id": "report-40549e4f9b19",
-          "title": "How the Houthis fund war effort and tighten grip on Yemen",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc1F1VXdqY3B1eVRRVEZhazRQck1lS0JfeXlIWUFYeWE4QllJWVc5ZXF4VDVFTVRlcnY5S19qOUlJOEZ0emVBejNHVUFDc2ZYLWpKMEkwVjd6aXZ0QjVXbmxWcklvUzhnNWZ6TlpMVXpzM1ZZQU5FMlI1Wl9hUXNlOFplNElUQ0FkeWZWMElJMG1LU0lCOVFSUzFNZU5fRHlZ0gGmAUFVX3lxTFBJajVRVUlIZlhVOUhoYW91LTZHemdjZC1uVWIyaGVBMmFGY1dkRTYzanZIWENTYXhXa2Uxd3BmeElfdmEzYVg3RnJ4RDdRMGlLNHl1UHkwdW4tdkI5WmVfbEtaVHl3dTd3bHRSckJxTjljdlJhZGR0Vi16TE1uelhRUzh0Q3ZDaEx2ckVLRkFjVC1nM093SVh3VmJNQUtyTmFqZ3dPdVE?oc=5",
-          "domain": "aljazeera.com",
+          "id": "report-6f873c91352d",
+          "title": "What we know about the latest Russian missile strikes on Ukraine",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zS0VqN3l1NGtiUnM1SmZ5NjlFX0NXckFLMFlLQm5rYjlucGxlUWxhSHVQRFJ2akJ0SUpyVkQtTjBHb3BrSy1TRTdsM2ZnNXYxaHJvWjVua3Q?oc=5",
+          "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-18T07:37:53Z"
+          "reportedAt": "2026-11-20T15:14:01Z"
         },
         {
-          "id": "report-2cbffdd1d714",
-          "title": "Senate Republicans in US reject measure to limit Trump’s war powers in Iran",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSm1IYzd0dmZPZEpYYTY3Yk5PRnJZNGVfYkl5bGhHd0NaekY3ektkbnFWdXlEZFNKTlVCOVJnWXF6WGM1Y2U3U2xPRmw5NG5ZbWNxTS1pWV9IbUItZTdxNjVaZUJwZEYxR1o2ZlJSa1VCYXNVbEJmODMyQUFwWnVxcnFLU3U5UkYzX0pvQmx0NXpkVk5aOWptNVlFOHowbVpfQWlEUDlrVWFhZXJMUWszLWFoNWdQWTDSAbwBQVVfeXFMTzJLaF83bXZxcVN3Vy1tb0F4LTA3bjJiWjh5empUbEplU1VUMXYtR21UdmpzSDBsNHJVTHZrNUFMVWdxbE53ZHZ5S1dQLUllazJQR1RlUnpLNEZqeHl0aWFxRlVnNEVkMGpKUVZMdWh3aURvTmJaTkI1NzMxcWxyLUNISVhaZU9vbWVzVDU4OVpRQnRTZTVvRWNtSlZ4TDZQMHNsYk5GLXJkTXFxMzhYbHQ5XzdYLVNOWW9odko?oc=5",
+          "id": "report-3185c0e4304e",
+          "title": "‘Gaza Syndrome’: Israel’s Soldiers Haunted by Genocide – Cost of War",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNenlva2tDMXZQcE0zVUV0REFQdlR6SERKRGh1U1VCTnhJY1dTWXpCNG4xWWp5MDg2VHNZQnY5aDdIZmZWdkRKcTFJM2t2cExETVBlaWNHTU1SNmR4clMybTZTWVlKcFJPeFo2NTVqNk8wRjVBWWdwd3ZGRWRlMk5WcklCQTVIWDBYeC1yUlF1UWw3M1ZVNGw1MmVLRXdLaTVodWowUkVJT1JNQnpRNVExVnpITV9HRjE2YXBETkdjZ1lLX29N0gHKAUFVX3lxTE10QXg1SWoxS3M4U1dCUlU3VHVZejRZeEk2cUNpdklaTURBLVlTWUhwV0ttWS15UTBCUlV2ZEVteUZFTXpfdExfWnNCTXVHWjlUNkY3TUR2VFVhenNLZFpncE5fWUFuZjlLWmI3b3VxWllrNTljdElmaHBxS296YktNaElnZ2dvYkxrcWEzZ3ZaS05jdE1yUVEwci1kNldKSkQ4c05zY3kzU1Rjb2NJeUVvQmdlVGNCcEhWTHMyd3lRMUxsQjJDNzVqZlE?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-19T21:27:01Z"
-        },
-        {
-          "id": "report-42434325b69f",
-          "title": "Kuwait, Bahrain face new Iran attacks after US strike on Qeshm Island",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdTNrNm5hd0NlSW9sNVo1VDVMVDA3eEtIMXhDdzJ3LTVjbGNxQ1J3dEVnWFFuMlQxTjVGYVhWaWVVaW5yRHJ3LWFrNkYwMGZjN3FrSENvdDlpQTRLNUNUQUhjb3hUX3BoUWRwMW5iSGZENWo3dm1xeUZIOU1FZm9EZDV5bHZYLU5mTENabEpoa1Y1ZEQyZXNZQk9sQkRzVVpNQ0VpR1lSdjBFRjRBNXow0gG0AUFVX3lxTE4xUnJGLWRBLUtPLWw0TjhrZjNZQUFVcmlHSjZrSURWSno1Z2JhUHBJOEFTcWN4X1R1cHdWLUFhc25RR25vbWtVUEN4S2J2TzdvdkJaLUxHeWJZX1BIbHpfeTlIcW53bkVSU2VoMzBRRnFKX1JvcG9ROHZtcW5jb0RMNnhLdjJUaDBmSWVPM3NRbUJUcmdHN0JkVU1fMW9fZm1kUU16WGJYOTR1eThhNEljVW5lcQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-18T16:56:45Z"
+          "reportedAt": "2026-11-19T13:54:30Z"
         },
         {
           "id": "report-01ad3dee1013",
@@ -2855,31 +2828,13 @@
           "reportedAt": "2026-11-20T20:47:03Z"
         },
         {
-          "id": "report-89d67d817161",
-          "title": "Board of Peace warns Gaza ceasefire faces imminent collapse without action",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONUREdkFPUjItcmNQZFVGZmVNVURZZkp2Q2YtWFFEanJVNEI2Z3NObllCMC1QVEFOa1V3UWlTTGFUeXBBMzd2TFJ0d2NKeGI3Uy0zSnV1QjBKdWYxSFRYVERhMmJiTDRiMmxURXU4R1dmV2ZWZ0dxd0ZtNG9tOEdjN1hrdUpkbWVBWHpmTFVpYXVwWGh6aUwwc3VnVHgzVmRPamJfRUJaT0Q2blUzcU5VajRxTElUVkXSAbwBQVVfeXFMTjZZNVZENlp4aWFhclVnNl9qaGJzTmNRWjE4WlhsemxZUWVwSnhvUEFBTmdJZkE0VWNkemJxNkJUYm90SDJIbWFkRTFHc3FPc00ta05ZMUNnbkhNUzBQbHlqNHJ1cUFOc2hHZTFsVWpsbFJiVngtcHkxbmhVT3p3UW10ZWJkZm4wZDFWZG40X2o0dzlYc1ZkalJMTDJ6bXFNWjhCcWp0WmpHazZLN2szWDVIQTYyLS1nWUM1dEQ?oc=5",
+          "id": "report-2cbffdd1d714",
+          "title": "Senate Republicans in US reject measure to limit Trump’s war powers in Iran",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSm1IYzd0dmZPZEpYYTY3Yk5PRnJZNGVfYkl5bGhHd0NaekY3ektkbnFWdXlEZFNKTlVCOVJnWXF6WGM1Y2U3U2xPRmw5NG5ZbWNxTS1pWV9IbUItZTdxNjVaZUJwZEYxR1o2ZlJSa1VCYXNVbEJmODMyQUFwWnVxcnFLU3U5UkYzX0pvQmx0NXpkVk5aOWptNVlFOHowbVpfQWlEUDlrVWFhZXJMUWszLWFoNWdQWTDSAbwBQVVfeXFMTzJLaF83bXZxcVN3Vy1tb0F4LTA3bjJiWjh5empUbEplU1VUMXYtR21UdmpzSDBsNHJVTHZrNUFMVWdxbE53ZHZ5S1dQLUllazJQR1RlUnpLNEZqeHl0aWFxRlVnNEVkMGpKUVZMdWh3aURvTmJaTkI1NzMxcWxyLUNISVhaZU9vbWVzVDU4OVpRQnRTZTVvRWNtSlZ4TDZQMHNsYk5GLXJkTXFxMzhYbHQ5XzdYLVNOWW9odko?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-18T01:11:56Z"
-        },
-        {
-          "id": "report-5aac19ef12fc",
-          "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4akxXcHFqbTV0dzV2MnZpTVFTc21SSGhVM3dCbnVpNlNpYUhWdHhWdWZlanlQQzdYOXdaLXVHdC1ZWHdzWkFDa2piREFkZ3cwS0IwV2d4X2JnbW8?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-20T00:50:24Z"
-        },
-        {
-          "id": "report-6f873c91352d",
-          "title": "What we know about the latest Russian missile strikes on Ukraine",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zS0VqN3l1NGtiUnM1SmZ5NjlFX0NXckFLMFlLQm5rYjlucGxlUWxhSHVQRFJ2akJ0SUpyVkQtTjBHb3BrSy1TRTdsM2ZnNXYxaHJvWjVua3Q?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-20T15:14:01Z"
+          "reportedAt": "2026-11-19T21:27:01Z"
         },
         {
           "id": "report-0d75e4bca821",
@@ -2891,49 +2846,22 @@
           "reportedAt": "2026-11-21T11:54:37Z"
         },
         {
-          "id": "report-6015bf97efda",
-          "title": "Traumas of Sudan war lead to wave of drug addiction",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSVN0N3c3RllOWmdicGN6a2drUUo2bHBfV3BZczZfTXRsWGQzV19oLXZ4WWJQWGZXUjA5REJ1VFRfS2E3SmduMkVzYXNpMnBYNmg1Q0lOVTBNZWJJZUpRQlRlcTNhU0xfWmpqTVQ5a2FpRXV1QXFPc1pybFlkdFJOcGxNRGJXWkVfNFNIbS1LdmItemZxY1lLa3JLVkFncjByMUV30gGoAUFVX3lxTE5iLWVYalc1LXNhOEVCa0J4TUlUR3lKNG9hQ3JZT0RIdS1aNnpDa0FrbWdqY3Y4LTFiY2wyeXZQZ2JNczZkaGVHanlmc2JtVDU0WXdrcFdWTlRibHRVWUtjWm9jWEkyakFuTjRMOGtLcHJaVkU2dTVJbFVybldkbXBaZVh4eDF4eFdxUTFQSktydmtxMjI0ZHg2aXNZbC0wRmU1V3djR25ueg?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-18T10:42:50Z"
-        },
-        {
-          "id": "report-42edcc186ce3",
-          "title": "Can the US and Iran sustain a ‘frozen war’?",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQWRMWlROUjlhcXR4ZjB3eUtJS25pcTVBeHp1ejhXUXZ6Wk1mOEMzM0lHUzRKTHZnMXhrNFNHNGhtMUZWeUs2cmJWVjRkbjVFR1lVTFhfRUpyaWo1eDN5bmNYS3E1a2o0WUJvQ0RJLVBOWkJ3eEpzZHMwbjJUbWl1STNob1TSAYoBQVVfeXFMTTk4dXJEcWl2VmJaMUlzNUUtMVBTQ3h6dVNtSGNDalVBeHRMcGJrZTV2TzVFNHZvSk0waEVBM0tqUVNkNUhnd3VuWFEyRjVpZ3pXX0htZjFCSWYzbk9YMWZrWFU0YzhBN0huZE9ENW1ac2xTUGxoZ21CeVpieDZOb0g4UkVMSTFYc0R3?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-18T14:16:55Z"
-        },
-        {
-          "id": "report-ccbab218bcb4",
-          "title": "Inside the old gas pipeline where Ukraine is fighting an underground war",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05ai12U3Bxc0M5OGhGV1puSjZGdXBlZG13VjBQUkwxTER2ck5GclNjQXRzVHEzYWN1aDBnY093VWpJODdoU1FxRno4RUM2VFNhYmg5cURDVUpJQUU?oc=5",
+          "id": "report-5aac19ef12fc",
+          "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4akxXcHFqbTV0dzV2MnZpTVFTc21SSGhVM3dCbnVpNlNpYUhWdHhWdWZlanlQQzdYOXdaLXVHdC1ZWHdzWkFDa2piREFkZ3cwS0IwV2d4X2JnbW8?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-18T17:00:04Z"
+          "reportedAt": "2026-11-20T00:50:24Z"
         },
         {
-          "id": "report-e5baaef72b51",
-          "title": "Senate Republicans block latest Democratic effort to end the war in Iran",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM2xvRWtCcGhZTnI3SkRZZE1Hb29IV0FLQXd4WFU0ckRYV0xtVVJhTk1IVkx0UW1TMVM5VC1rZURuTDZqekQwM3lmdVh0cVJPYjdHZ3hLdUljb3liaG9OVGNHM183R1NIWF9MbTJJc200UlRtRFNLZ3dIdXUwRXFDNHBWOEIxRGdzZHBXVlBLbWJiVFAxVFdj?oc=5",
-          "domain": "apnews.com",
+          "id": "report-587a401b0c0c",
+          "title": "Russian strike in Zelenskyy’s hometown kills two, wounds 60",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc0hQZ19MeU5Jc2FhSmswLUJ4V202NlpfZjNFTllYa21DVi1BTzYwWXQycnM5UHFVM21LWWpoalFGWHMxbkFoV0JNUDllY1hyWUVaMU5fNmJVeGVVUUJLaXdTbnpBdFFFTkZBUnpQX0xyb0d6Tm5JQ25qelMyeU50T1hpZFNtR3hXN1JpcWRQSldicWtjR1ZDSVBoYkdjbDZV0gGmAUFVX3lxTE1XQk01eDBoOEd5Wm8wXzVORXd2Y1VRS1hWRjJ2NC1mZldyQjlNcnZMT1FsLUp6cXV6YjJFeWd4WGNoZGE4WTVYR0NnLUJ1SXVQVDRZWjdQbjc2V01OengzbkE0QjdBcnNoTERDbnA1X3pBNFptMjNfUkVzZnQ5dUM2VXBveTV4bERieXpxZDJLV2VvRG4wdWV2NzVLX3JUTE54TnlZNWc?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-19T20:17:00Z"
-        },
-        {
-          "id": "report-9cd107e00830",
-          "title": "Iran war costs surpass $48B as lawmakers demand unreleased estimates on base damage",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNY1U4al8zbWhaQ1h3eEYzSlRid0M5cndWazRQMk1URUNLTTZ1S2FvNk0wMUZsRUphSElXY2lFMllMVmdGNjFMX3RqM3RGUFhpMURveU1nVlppRUNmUEZ1Ui1VcWtHRTFkbk52MjZFdDc2U2tSUGh0eXlqTWt1WEJ3d1QyN2hfaFdDWHlpREdkNjd0Snh0S1pNcTE3VQ?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-19T19:49:00Z"
+          "reportedAt": "2026-11-21T18:01:42Z"
         },
         {
           "id": "report-e93b1cda1071",
@@ -2945,22 +2873,22 @@
           "reportedAt": "2026-11-21T06:39:12Z"
         },
         {
-          "id": "report-48ad832eb860",
-          "title": "US Senate blocks Iran war powers resolution",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQX2dZYlF4ZzY5V2pFUWxzb3ItVi1YbENWczAyOGpMbG4wWGtqdWtuUUdhVkZJd2o5Ri16eG9WQWZLSjNmSjdlS0hVNDU5aHpNZERuZGVJdXhfVGp3ZlcteDZqODc3ZUVlaXZzMVV0ZF9LN3hCZ1g3TUFQR3NqSmp0UzBzRFdRQ3Jsalp0SFVGYw?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
-          "reportedAt": "2026-11-19T20:26:36Z"
-        },
-        {
-          "id": "report-44329c2550aa",
-          "title": "Iran war dents Middle East sports model as events are canceled or postponed. F1 bucks the trend",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPczVIdTE3NFhiUkYySjFhRU9xZkhYSHVWVkNMSE42aVVGTEQwMWJBREJ3ZDlWSkhhem5idmhWOGZhNG9HblVySjlMZ3dMUUFFSE1xbVBsc3BsQ3hTcEJVWkdUeU1WMXdaTDZ3al8tSDNscnhaeWt5UWdXRnRGbmQzcXQxTXlTeHhpcTY2ZmZMRHdnR0U?oc=5",
+          "id": "report-9cd107e00830",
+          "title": "Iran war costs surpass $48B as lawmakers demand unreleased estimates on base damage",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNY1U4al8zbWhaQ1h3eEYzSlRid0M5cndWazRQMk1URUNLTTZ1S2FvNk0wMUZsRUphSElXY2lFMllMVmdGNjFMX3RqM3RGUFhpMURveU1nVlppRUNmUEZ1Ui1VcWtHRTFkbk52MjZFdDc2U2tSUGh0eXlqTWt1WEJ3d1QyN2hfaFdDWHlpREdkNjd0Snh0S1pNcTE3VQ?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-18T05:07:00Z"
+          "reportedAt": "2026-11-19T19:49:00Z"
+        },
+        {
+          "id": "report-e5baaef72b51",
+          "title": "Senate Republicans block latest Democratic effort to end the war in Iran",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM2xvRWtCcGhZTnI3SkRZZE1Hb29IV0FLQXd4WFU0ckRYV0xtVVJhTk1IVkx0UW1TMVM5VC1rZURuTDZqekQwM3lmdVh0cVJPYjdHZ3hLdUljb3liaG9OVGNHM183R1NIWF9MbTJJc200UlRtRFNLZ3dIdXUwRXFDNHBWOEIxRGdzZHBXVlBLbWJiVFAxVFdj?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-19T20:22:40Z"
         },
         {
           "id": "report-2a2ebf274af9",
@@ -2972,6 +2900,24 @@
           "reportedAt": "2026-11-19T17:03:23Z"
         },
         {
+          "id": "report-97e98abbd732",
+          "title": "Russian missiles land in Poland, as Europe held military drills nearby. NATO calls it a violation",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNXhFLWVHeVA2TTIyRTRBRklRM29NQlpLTkNSbkdUYlNWVTNLek1BNG52cDFJRjNNVGNxNW04V3RDTEJPNGtDZ1R6WXE5TVV3SDJhQkFDRVFEMXZaTF92aWhZdS1xS1A0QnR2dE9selFRNGJYclZkRmdKUlJrWjB3VGxzTFE3aVBjYWJCUXhsM0Q1Sk5qR1U3TFlIekxkUE43MUNNenk2bw?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-20T11:43:39Z"
+        },
+        {
+          "id": "report-89305d980b24",
+          "title": "Endurance athlete swims in Strait of Hormuz to highlight Iran war’s impact on wildlife",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQ0JtX0ptcWJJLXVuYkhxaG1uNTFXV0hEdzRSUDZIckpCQWVfVWZtMWU5b3AzYjhUcTdvdjNrQmNXMnVFSTdZWE9wTnhWQ2NBSnpBT0thUEdMQ1hKcGY0aURSMXFiM1UtUktHVEIzbzFCM2JYRGRvb01yOGhFSkNVSlJabk9fUUx1ekk0QWFNQzBOVDRvamdrRmZmcw?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-21T19:02:00Z"
+        },
+        {
           "id": "report-bd9254aa667c",
           "title": "Strait of Hormuz swim highlights environmental cost of war",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kcWtQNHRXVEgyNVpYYl92OHhaRkFUSzNJT201dzJES05OZnhpN3dhMm10UDd4ZWlwNHNreWtuWEdaakNOTzFScVgtcENpQkMyU3B4OGpXbS12cG8?oc=5",
@@ -2981,22 +2927,76 @@
           "reportedAt": "2026-11-21T16:12:31Z"
         },
         {
-          "id": "report-97e98abbd732",
-          "title": "Russian missiles land in Poland, as Europe held military drills nearby. NATO calls it a violation",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNXhFLWVHeVA2TTIyRTRBRklRM29NQlpLTkNSbkdUYlNWVTNLek1BNG52cDFJRjNNVGNxNW04V3RDTEJPNGtDZ1R6WXE5TVV3SDJhQkFDRVFEMXZaTF92aWhZdS1xS1A0QnR2dE9selFRNGJYclZkRmdKUlJrWjB3VGxzTFE3aVBjYWJCUXhsM0Q1Sk5qR1U3TFlIekxkUE43MUNNenk2bw?oc=5",
+          "id": "report-48ad832eb860",
+          "title": "US Senate blocks Iran war powers resolution",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQX2dZYlF4ZzY5V2pFUWxzb3ItVi1YbENWczAyOGpMbG4wWGtqdWtuUUdhVkZJd2o5Ri16eG9WQWZLSjNmSjdlS0hVNDU5aHpNZERuZGVJdXhfVGp3ZlcteDZqODc3ZUVlaXZzMVV0ZF9LN3hCZ1g3TUFQR3NqSmp0UzBzRFdRQ3Jsalp0SFVGYw?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-11-19T20:26:36Z"
+        },
+        {
+          "id": "report-f0af7bea2b9e",
+          "title": "Mideast nations ramp up efforts to avert all-out war as Israel urges Iran strikes, officials say",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVkpMQk5Ha1FZNG45Vmt6WWxWeUtMS3lSU0hON0F0b0ItSHlWY0NnUHFyQ1JTWFBPSWViZTFVZHpKNWI3V3R1TjM0b25HWTNEZGZ2Q1ItZG5hdXNGcG03M3FjZlJKNmE5SC1lYTJERmRETERvdGJOUGlsMG9pQjVVU2dEWkJxOEY2eXJYd1RtVmNlN2pIcGlLcHJlaw?oc=5",
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-20T22:15:00Z"
+          "reportedAt": "2026-11-19T01:16:00Z"
         },
         {
-          "id": "report-d462a7f30132",
-          "title": "Three killed as Israel launches first ground push since ‘ceasefire’ began",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNS1AxOUxYTnlDdkpEdHpkU3NETy1XcDZaX1VTNlNEU0dWTmxER25jS3BSMTdDTWM2MXluamRyd21GamVUTmZ5eGRiQ3lLVGFaVEN3MU9ZZFZtREJQN2VKSHBXTk5faUd1eDAzeG5LRjg2bnhhRmszQzFZU0ZmQkIzSEowdERFTlZPWTRVSmd1UzBDOTlhX3lvTWl1MXFFRmNhQXhXSlJZa21FcGlYaXJSWVl2amNzd9IBuwFBVV95cUxPTE1aQ0N4dlBxMzhta01ua3puNEJXNW9oTE0weTRPZENSN1RlUjNVSkhpNzBUSWxSME5HMnJxclNxY1dDeWxrUmJmWWVRVnhadUV3N3R4bDhCN3M4eHNwWUUtQ3ZfdC1sZENYanpjUHNqcXV3NTN0bldRa25ydGxlb1NZZHJfN0FuanVaMm55d0VYVDdmeThjYXVoMGVDeTNDQjJLYm5vc0xaN3kzYWV5UzRQUVVVd3lGbEhj?oc=5",
+          "id": "report-00ded7612f95",
+          "title": "Crew evacuated amid battle to put out fire on Russian ship hit by drones",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ2U3ZVVxRFhhdW1QdlBWLXJwRUpVYjlfb2YzMGFBR0RCTUdWM3VsRUtyZVItZFdCQ1lhbjFZa0tjLTl5MVZma2FrQkRfT0doQ212M3ZZbXM2ZDVwX2gtZF94N3UwN3gxX2gySUFCZGYxWk5ONmJacE02LVdaOXVGazlwYTZteUJ2SVRTN0NrTUxHM295VFlCRGtYeFhHX2pXaXVrN3M2MUFFZUp2WW9MWkRR0gG3AUFVX3lxTE0yZHFzYlU2ZzZ1b1VSc1htTi00Tjc3WmtxWXhwYjJRbERDMXhmdzQ0dFpQcmU4TkQyRnI2NHhrdFJIenpWR095MUFsZmhhX0gtbUgzSlBieEpmUVBqRDIyZW9YNmRab3RmbUlyOHI1aThMZWFFTXhIRTdmZWZzT0d5Wm1BU05XNFc2QVlXZHBaejhxVTVFdk9RRmI1QXctZTVCeFljXzluVUpTUmpqN1FZLWpvSUNDTQ?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-18T17:31:58Z"
+          "reportedAt": "2026-11-21T20:09:35Z"
+        },
+        {
+          "id": "report-b79b2ae1d7ad",
+          "title": "Bahrain says Iranian attack hits industrial facility",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaURzQjhraTl1ZU1BWm91UUZvbTBHZzk0UV9nb3VmMUM0U3dIMkNNZDJwRzBKSGhxZFdxNFV2SzNJRVBxNG9jbEV4c09RdWNsR2FiZGtKb041V1lGMWU5Ql9XN1IwS21BT2twLUpCUlNfeTRId0RCQ01XRVFkWEZiSWxlSzRNaGtvSzJ0WTBSVEJuVTRaeEZPbmJHUWNBMDVQUWgySTlRZ9IBrAFBVV95cUxNdE52aDUtODRDUjBOa1FWSWpZVjVVVGFIb3pjZnB0M2VQY0RxYXJkLUdId3kwWE8tWWs3RGhfSk9sd2FYZnFGUnozbUtmRXo0ak1ZTXdFbnUwTWQ0ZWliTkZvR1NaQUNKdFlJZHh0WGhVakp4VVlzcXFna2pOcXR1VkNQTk95RlBHaDRTbm5wRVMwQjhINHZOckF3M0FSSFVfclRuOVVnNjFISmVY?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-21T22:02:19Z"
+        },
+        {
+          "id": "report-f153ed8759c1",
+          "title": "Deadly attack in Kyiv as Russia launches barrage against Ukraine",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMjdpcjNXTjd5Z2ROUThPeGVJR19Gc3ptOFZFS0VwRWVrRmRaZ0lpWTBwQ1ozU1Bfbm03UjAzbl9yY1FjelRhMmp4NTIwUklLX0U4WjRoZ0J4Z3g2UVpxa2RqSmthdENHQjVNaTQ4MVhSamdWX0ptSTJoY1pabkxaMmZMZTU3YVNQUk1IZm5QTUlQalBRYkVRczNtOXhZTXg5X1RBZGpRdkJ5YWttMFJrX011MlNsNHg2Y3fSAb8BQVVfeXFMTUZfSENOWWt2ODlWTUlrRW1UMkwxY3FhS0hQMjRYV0ZXTWJZS2xwYkJsSVZPWHZoZW0tZzRsQWVFWGd5S2kxcW5mUDlTeEZtRE1TY1pKTkxaT2MzbkZkQ0Vjb2F2VXhwbG5HWTFkQ29IM1pQMEMtWkUwVFFYcFRnWENaYmxheTRXRUJRTUtDMnlhT0NxbjlaU3g5VjlkU1J5T281Skg0RnQ2alJUY0hJZUM1Sk5uZlplak9PT185OFE?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-21T18:54:35Z"
+        },
+        {
+          "id": "report-c3935ec73f83",
+          "title": "Iran denies reports of US-Israeli missile strike on Qeshm Island",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX2p2eV9xTmVRS3E2b0tOeDUwZnRiUkpBMEEyRzREQkNablVHSXhCenJUOXZrVmhEZGZmb2JBVDBJTDFzRGIxQzdsa0NabWdIWEJkOVV2ZUNBTzZZdFVCWnBiQlgtM3c0QjZrQU42NS1udzRFR3FoZEp3LU9Fb2hOOXFhZHdmdEhIa20zNFlJTjFzQ1hQZ2lyWUFnSjJPeXJQekFVUlJ1TnZWWW5LWlNheEtKTDFEamc?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-11-20T16:44:17Z"
+        },
+        {
+          "id": "report-9bfd4f793906",
+          "title": "Trump says US doesn’t need help from China, Russia to end Iran war",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY2NZd3d6X0ROUksyUndackNQOGFkNjRSQ3NsQnVYSlFYaGRza09xaTlxMHYwZXk0WnlhYXN0cDBlVjVUNnMxQi0tTFJ0MnUxYlhuaGZkcXIyTV9NLTAxZkFTUzA5LVBKdXdxZHBKbkpza0h2ckZILXNXNl9XQzAzS3RVeGU2VzBnTjFkcGdaOHZac0J5TWEza2pqT21DOTVmOHpLTW9ISmdJd1E?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-11-19T01:28:23Z"
+        },
+        {
+          "id": "report-272105727b6b",
+          "title": "Saudi-led coalition intercepts three Houthi missiles headed for Riyadh",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ3ZhbEhHbVN4RWdTZWVLWGlFQnl1UlkySGFjTEd3NEJHaHBDeXZuclpCc1ZLNy1Fa0oxSlVJQlRLVmhCV1hkdFpPUVZ6Y2JXcDlhMDExaGpIOHM1RUhHVmlOMmV2SXVydFU3UWtvdVUxalkxUHRNdXg2Q2JZVG1WN3otT1lKaU4yVGwyUUJVVnJ4QkREb0tnVGZCdG5TQTFyUk1SSWZHMEhrclVTeVlUenVR0gG3AUFVX3lxTFBVWGExdVo0WFJQdkYxTTRNRVpBaFdBSzdObGNjOWZQVDJtTVZyNW9yQUEwbGtHU092TW1BY0FSY3dBc25wZVp2QjFIZnRLOE9RMFhLMWpjY0R1TVhUUWhubENJaE44Z1JMdDBXQWJqMDlGNVhzT2pHWEpONXhZUFcwWWE0bUtRb2xZV1VkUXZVS00xVmcwa0x1eWx5dHpES2FwcUQwV043NExycnNQb0ltbWw2QlF6OA?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-21T16:32:53Z"
         },
         {
           "id": "report-77fd8df98793",
