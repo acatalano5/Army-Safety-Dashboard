@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T07:32:47.225Z",
+  "generatedAt": "2026-11-23T23:53:08.024Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-11-23T07:32:47.225Z",
+      "generatedAt": "2026-11-23T23:53:08.024Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -2751,9 +2751,25 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-11-23T07:32:47.225Z",
+      "generatedAt": "2026-11-23T23:53:08.024Z",
       "cadence": "every 6 hours",
       "items": [
+        {
+          "title": "Widowed amid war and displacement: Sudanese mothers struggle to survive",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTjltMXNLbXZ0SmQ2N0EyeGxJclVIMmYyNGNVNDNGUDlFVU0yTXNBUVp3S01ub3RVMWtLQklaR2J3OHFCTGpNODluVnc4S2d5NXJiVU4tOXItZFBHekJLSEdwaWtsN25qTXlDV1hJQVBNNkJEdXlZMzM5cmZNbGN1VmstNzBham1WckU4WDdqN2IzeFh2NW5Gb1o5LWFKZ1FnbzBCemw0b2dmRFVfcExacmhmVkhrUk3SAbwBQVVfeXFMTU5YSEFHWXNCRm41b2N4ZkRLakpyemgxT3psOFhKc2ViNTJVcGtaTzE0UUZ6OE1XRG5CRkNPM2FCcHVXN0tkbTF4T3BLcjhyU1V6TFRtbk9wTnU1OW9DbDZFRHpmSUFYS1dOemVTSjVGMnR4VnlPOC10YkpqdmdsQUhveC1Yc2tNSnFCcmtZR21fYVE5MmtoVFFxNmZvTFNTTVhabDA0eWQtZGMtTG5uQXlDOWdweGxBcXZMVWc?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261123T085927Z",
+          "pinned": false
+        },
+        {
+          "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RYTdJa3FLUUotRjRtWmFYcWsyT29UT0FCVDUycVp4MmlCMUkzUVR3cVJUVTJWNDlQX0JLbk01S29SZEtLM0lXZHdzX2U4N2JBVDdhVjN2TEdlczg?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261123T154123Z",
+          "pinned": false
+        },
         {
           "title": "What’s behind Iran’s escalation of attacks in the Gulf?",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM1owT2pOYVc3bXd5Z0RTeGlaemVoVXVReXNLeHcza0U3aVo2RW5FWDJjUTFGdGtrNm9OVEY4VVZCYXh6aTZ3bzZaVG1NYzdwZGRYOHRlUXVyanBTVzNTQ0FPNnpLbFl5WDBSamUxQmkxRHVUMG1sMk5xMm9sbmZKOEpwMUxVSHJCamsxdFJEZ3dKUWRoSy1SaGJn0gGfAUFVX3lxTE1sMGtPREkyMU1XR0dvQ0pkM2hraWFPblNyWGtsNC1fY1REcjFELUU2Sk9hNFNpT2dxVmxoU3JZQU9QMmlVWlladjlCRW95bEx6MGItcFNjN1VuMHJQSTZwWm1SQ3pLN28zbE05ZHo4cnBGWFZwZXhUR0VYUC1DMGFkTnV2XzlnZTRubzJtSzJ6YzhwUzgwRk1HdnhpVlNNWQ?oc=5",
@@ -2803,19 +2819,11 @@
           "pinned": false
         },
         {
-          "title": "Russian ship likely hit in drone attack at Benghazi naval base, Libya’s eastern-based government says",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeVRIRVIwbFFfTDFkcDNEYVFpeFl5T0ZmZHJ2b29IRjBxdWVqc0dvNGtFc1VjdnJfeWt4N0dWSnVxMEU3d1B6amVTaHJHN09fcXRCbzNwdlplQlpBa1dTU2pfOU9hSlQtMHB4NTE4VkZtcXpqRWtsbEFpYTBLNHZreENUUU55MWFTNy1PNTNNdnIwVzlvc3F5LWpYT0RJcUZrQjBURzRuelY0WEtqdFBjNGNGZnpmenRsaV9WNUd4R1RLWmJITEY2aHNTV3pKQ2JEMEE?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "seen": "20261122T143725Z",
-          "pinned": false
-        },
-        {
-          "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RYTdJa3FLUUotRjRtWmFYcWsyT29UT0FCVDUycVp4MmlCMUkzUVR3cVJUVTJWNDlQX0JLbk01S29SZEtLM0lXZHdzX2U4N2JBVDdhVjN2TEdlczg?oc=5",
-          "domain": "bbc.com",
+          "title": "Russia threatens ‘hostile’ Estonia with ‘open war’",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOT2tuUzB4em5zWEgwZUpEZ0szQ0R2ajRaWmgtN0JoX0RhOVFtcFUtWm13b2k5a083bjdjRTJnUVlLTEtadUFYRm5HQlh3aXFFWkNhT2JCaUJPWTJIWm1jcmJiUW4wakYyd3EzZHhOenBUX1lud0JvWVN4YmIyQURaVTBQUnRkeG1hd09OT3YzRzlmd9IBlwFBVV95cUxQZ3JmTVA1Q3FTaTBjMUZldjgwTHJpcXRYSHhoTXlUbnNNVTg3UUltZzd1eTNhc3hDYlZCOHdjdFluaUpRTlVuc1E2XzBKMmFwQVBFT2pqNDhPc1BDUG4xLUhhX2VIOHpWTnB0cm9heEthblZmemhjQ2U3WHExWS02WlRCc2JTQVlDVXpiMDBKcE1HTkk0YWVF?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261123T025935Z",
+          "seen": "20261123T192259Z",
           "pinned": false
         },
         {
@@ -2843,11 +2851,19 @@
           "pinned": false
         },
         {
-          "title": "Can mediation succeed in a war-torn world? | Episode 1",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZElJRmUtMFkxS1ZBaFZPU3BvcmZld1ktVE5oeG5oeXZjUTQ2Z2laaHhqc0d1M29mUWJwdjVDYkdUR2RxY3NncUJtTkhCdTk1S09XZTAwVlpad1U4X3pXNVA3LTAycmN2U1E2a0NFVXpycWEwV1pDUFRzT3B1ajB5V1hvRGhRVXo5V0ZCQjVJZTk3YWRuRGJ3RUlOS3F1SzEzNXF3czJqeDhTM1NjUm9ndHNPdkRhTjRm0gG-AUFVX3lxTFB3a25oSENiUDlSbjBjSzgtNXZRWmZJMU9QQmRLZUw4cDNyVnUwYXFLSW1OVUN1dEV1TkVuNjk0Q2c4MjI5NXhjQjRWeDZTM1k2Ml9saXVlWm4zamhHWVdWMlRabHl6T1htcm5Mb3d2dzNjQ2c2NzJMSkhhY0hXd0Q4NllVNmV4c19zMzhZbTRXRlRwSmNTbmp3djdwLVFsTDE1T1kzTG44X0phYlNKY2xMcTgydG4tVU4zVXVwbGc?oc=5",
+          "title": "Iran files war crime lawsuits in American, European courts over US-Israeli attacks",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeWxSc0JzUVRONDlfeXhOVDFFRnliVTl1Y00xaWZFMUFKZHdpaTdtYVJPSUVfRzJ1SDlDTXpZR09lRHZVVWJfelNXMS1XYmFTUkkzWTB3OEhiNHRxOW9BcTA4MTBRSDJxa04zT29EdXprVDlIbVhQYlVKaDBBN1ZOMkFnbHdSMUNGckFFOU5OZ2tjOWkxWkh3ODZRaDl4cTlpVnJhUEc5bXFub0Y2eklFM3luT29QVk1RUGl3LWppQQ?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20261122T181629Z",
+          "pinned": false
+        },
+        {
+          "title": "Israeli settlers attack several Palestinian villages in occupied West Bank",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNc2pIWUdPbDhyMDg4VWRUbEliRGNib2JLTmJOR211NDZ3bHV6VmtZRVUtY25rMERVS2IzZ05aQkdTSmJ2QWNRcFBjeXBMQ2hzMEdsOWlxUWMtMC1aOUJfdW4tWTlObC00VV8tV19XSmFTRXVQRmYxMjg3dERRR2trSWp2aTdiQXdLamxTS1dqOXJ3OWFPY1RYRUxOdzZ1RG4tbmJWc21GQ0tXX1IwVWEwN1lsODFVOU3SAbwBQVVfeXFMT3dsZUpFZXJrcU4yZTU1ZTZuOWlSZ2hsM3JUYzN2Q2VLS2hESEI3UnVrMm5OLWU3aEJFVkU1dGFrRVduUk9jNXJFVW1kWEk1akExQW5PNzBJWlRlenJldzdHdm9Wc3g3MTU4YjRhaHVoc1R6ZE51dW1UdUdISHpWWEt0ZVk3bWtiUWJfX0djMGtHeG9vM1lQZWplUFpqTnR0LXI0RFpjaHBxXzV0ZVVJQ3hySlpjMXhBcWFCWFk?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261121T074500Z",
+          "seen": "20261122T123052Z",
           "pinned": false
         },
         {
@@ -2859,11 +2875,19 @@
           "pinned": false
         },
         {
-          "title": "Deadly attack in Kyiv as Russia launches barrage against Ukraine",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMjdpcjNXTjd5Z2ROUThPeGVJR19Gc3ptOFZFS0VwRWVrRmRaZ0lpWTBwQ1ozU1Bfbm03UjAzbl9yY1FjelRhMmp4NTIwUklLX0U4WjRoZ0J4Z3g2UVpxa2RqSmthdENHQjVNaTQ4MVhSamdWX0ptSTJoY1pabkxaMmZMZTU3YVNQUk1IZm5QTUlQalBRYkVRczNtOXhZTXg5X1RBZGpRdkJ5YWttMFJrX011MlNsNHg2Y3fSAb8BQVVfeXFMTUZfSENOWWt2ODlWTUlrRW1UMkwxY3FhS0hQMjRYV0ZXTWJZS2xwYkJsSVZPWHZoZW0tZzRsQWVFWGd5S2kxcW5mUDlTeEZtRE1TY1pKTkxaT2MzbkZkQ0Vjb2F2VXhwbG5HWTFkQ29IM1pQMEMtWkUwVFFYcFRnWENaYmxheTRXRUJRTUtDMnlhT0NxbjlaU3g5VjlkU1J5T281Skg0RnQ2alJUY0hJZUM1Sk5uZlplak9PT185OFE?oc=5",
+          "title": "Can mediation succeed in a war-torn world? | Episode 1",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZElJRmUtMFkxS1ZBaFZPU3BvcmZld1ktVE5oeG5oeXZjUTQ2Z2laaHhqc0d1M29mUWJwdjVDYkdUR2RxY3NncUJtTkhCdTk1S09XZTAwVlpad1U4X3pXNVA3LTAycmN2U1E2a0NFVXpycWEwV1pDUFRzT3B1ajB5V1hvRGhRVXo5V0ZCQjVJZTk3YWRuRGJ3RUlOS3F1SzEzNXF3czJqeDhTM1NjUm9ndHNPdkRhTjRm0gG-AUFVX3lxTFB3a25oSENiUDlSbjBjSzgtNXZRWmZJMU9QQmRLZUw4cDNyVnUwYXFLSW1OVUN1dEV1TkVuNjk0Q2c4MjI5NXhjQjRWeDZTM1k2Ml9saXVlWm4zamhHWVdWMlRabHl6T1htcm5Mb3d2dzNjQ2c2NzJMSkhhY0hXd0Q4NllVNmV4c19zMzhZbTRXRlRwSmNTbmp3djdwLVFsTDE1T1kzTG44X0phYlNKY2xMcTgydG4tVU4zVXVwbGc?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261121T185435Z",
+          "seen": "20261121T074500Z",
+          "pinned": false
+        },
+        {
+          "title": "Crew evacuated amid battle to put out fire on Russian ship hit by drones",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ2U3ZVVxRFhhdW1QdlBWLXJwRUpVYjlfb2YzMGFBR0RCTUdWM3VsRUtyZVItZFdCQ1lhbjFZa0tjLTl5MVZma2FrQkRfT0doQ212M3ZZbXM2ZDVwX2gtZF94N3UwN3gxX2gySUFCZGYxWk5ONmJacE02LVdaOXVGazlwYTZteUJ2SVRTN0NrTUxHM295VFlCRGtYeFhHX2pXaXVrN3M2MUFFZUp2WW9MWkRR0gG3AUFVX3lxTE0yZHFzYlU2ZzZ1b1VSc1htTi00Tjc3WmtxWXhwYjJRbERDMXhmdzQ0dFpQcmU4TkQyRnI2NHhrdFJIenpWR095MUFsZmhhX0gtbUgzSlBieEpmUVBqRDIyZW9YNmRab3RmbUlyOHI1aThMZWFFTXhIRTdmZWZzT0d5Wm1BU05XNFc2QVlXZHBaejhxVTVFdk9RRmI1QXctZTVCeFljXzluVUpTUmpqN1FZLWpvSUNDTQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261121T200935Z",
           "pinned": false
         },
         {
@@ -2871,15 +2895,15 @@
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95V2lBM1hDaWY4eHByMlh4RnpLTkhIOVBtQnFXMHM3R0hfV2lxZEZSNTNBbEg5cHowV2VobnNxU3VnZzlTMU16alVwNjJ0XzBNNlRCVElvdEFkVkV0RFhSV3ZvV2FUQThMSzdqLXVYNDBIeWxmTHpjd3FwUncwME3SAYQBQVVfeXFMUGo3NGlSR1RUbFN2RGd1QkNpQUV3YlpOOGhNc2lvYWs1WVVEbmpJNjVBanY2Mk1LZWFvLWJCLVdYU0pqaFRLUGNHYi1wM2J0cGdqSkVUQkRlbGo4bEh3SENuQjRFUC1uSms0TDJCR19UU21VSEk3b2I0UmR5NVdWTjFIdjFS?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261122T150712Z",
+          "seen": "20261123T095703Z",
           "pinned": false
         },
         {
-          "title": "Russian missiles land in Poland, as Europe held military drills nearby. NATO calls it a violation",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNXhFLWVHeVA2TTIyRTRBRklRM29NQlpLTkNSbkdUYlNWVTNLek1BNG52cDFJRjNNVGNxNW04V3RDTEJPNGtDZ1R6WXE5TVV3SDJhQkFDRVFEMXZaTF92aWhZdS1xS1A0QnR2dE9selFRNGJYclZkRmdKUlJrWjB3VGxzTFE3aVBjYWJCUXhsM0Q1Sk5qR1U3TFlIekxkUE43MUNNenk2bw?oc=5",
-          "domain": "apnews.com",
+          "title": "Ukraine claims drone strikes on Russian ships off Libya: What do we know?",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYjA5Vkd4bTB6NXROUWJMSjlIM3FVaFhEejlrd0cyUDBJeUtwVTk3YkRGSjMzcHh4RFVBR0xlZm5uMy1vWWVSRUJIb29ZTk00Vl80amk5bHQ0M0ZDOVgwODhZYXByMGp2b3M2bnF4ekV2WGJBSzBHWWJGMnN5Qml6SVNLNWNhV1RKMmZ0NWRJYXIxcUZtTXU3YUx1MWpvU1RtQmlj0gGoAUFVX3lxTE50VUxhLVBnZTZyZHZWZHVaTTV3Qk1fcnJYQlJQMmRqTGxVWFRBbk5VeFpEcVBoREgtVWRZanpaWG5LYm9pRzlPY3NIQnVOX0ZvcWJrNmNmT2JlTmdiNHp6OV93cGVxdGxDeTQ3RGxfakZPc1h2V3hfRkp2TUFnTjNVejh1emVGRi1WZ3Y5ZDlPQlNKc1VrcW1LUURjRGgtWVZZQnpqZHNRYw?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261120T221500Z",
+          "seen": "20261123T133044Z",
           "pinned": false
         },
         {
@@ -2891,6 +2915,22 @@
           "pinned": false
         },
         {
+          "title": "At least 15 killed in Ukraine’s Kyiv region as Russia intensifies attacks",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZGl2dEc3N1IyaHBuWF9vTjZPV2s4YnltNWNweldlZlR6RzJBUW5QR1gzTGhBX0dSR0FraU5mMzY2OGJxYnFmV1RyVFhhUW0yM1NKQXJ0aDNLcVk2STJQNWl0Q1Y0N25DMTBRY0N2XzIxd25WQ0dNUnIxYjRTeVRlVXJPTG82Y3VKYzZuX1hTZ29vaW45QkRLd2tnbHYyTm_SAaQBQVVfeXFMTTNMN2dTbWFtZERHLUQyNnloR1VrdDdOU2d4WHNQS21BalRPNTdXZmhOelNTZHFtYTJLUmludDQ3UlFvOHYzMV9HNUIzaTFkRENHWDRXZGlZVmRXT1l1Vy1rRjVoWUZSQnEtOVE2TVRsRE1WQTBvV2JiX3A0ci10d0NYOHVvYXlmcFk0NXFPcDRMWWFTUGNTbE5HajZUdUMyc0d3eFY?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261123T094736Z",
+          "pinned": false
+        },
+        {
+          "title": "Iran unveils dual-missile launcher, new ‘missile city’: What to know",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZWZsOWN0bmtuM0VnLWpjVnlLMXVfeVdqdFlkZjVsb01uLUJhUjFoOC0yeDZtLURYbVBObWg3T2dUQm51akxZMVJfeU43Nl90eHNfc29hNVVNVG40dXd1V1VvTUtUSE5nVGFDOTdRN0tVa0xGS3BXUm9Ycm5MVDdtRXpyZWN5WFhZc2ZnSldjcXI2N0ZHTTMtSjFLZVdYTFpYWGNubk9ZM3FJUdIBrwFBVV95cUxQTGlqSVNoVU0xLTB4MDNLbW9haElfa3ZsWFVqVVFvV3I3RU04eEItYnlUTTUxNEw1N3ZMUjJab2wtcmw5M2FHbVJOdmpnUG40bGVBdURINWs0cXVMaUJuNjRHV0RSemV4T3ZBQS1nQ1VITGtUemZaY29JMVJwaFlVTm1NUVZsRlNBeUNVRXg0aVNlZWdFNmhDRWs5UmR3cFplVFNaTDl0RnRpMXpIaHFZ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261122T144245Z",
+          "pinned": false
+        },
+        {
           "title": "Iran denies reports of US-Israeli missile strike on Qeshm Island",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX2p2eV9xTmVRS3E2b0tOeDUwZnRiUkpBMEEyRzREQkNablVHSXhCenJUOXZrVmhEZGZmb2JBVDBJTDFzRGIxQzdsa0NabWdIWEJkOVV2ZUNBTzZZdFVCWnBiQlgtM3c0QjZrQU42NS1udzRFR3FoZEp3LU9Fb2hOOXFhZHdmdEhIa20zNFlJTjFzQ1hQZ2lyWUFnSjJPeXJQekFVUlJ1TnZWWW5LWlNheEtKTDFEamc?oc=5",
           "domain": "aa.com.tr",
@@ -2899,55 +2939,33 @@
           "pinned": false
         },
         {
-          "title": "Saudi-led coalition intercepts three Houthi missiles headed for Riyadh",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ3ZhbEhHbVN4RWdTZWVLWGlFQnl1UlkySGFjTEd3NEJHaHBDeXZuclpCc1ZLNy1Fa0oxSlVJQlRLVmhCV1hkdFpPUVZ6Y2JXcDlhMDExaGpIOHM1RUhHVmlOMmV2SXVydFU3UWtvdVUxalkxUHRNdXg2Q2JZVG1WN3otT1lKaU4yVGwyUUJVVnJ4QkREb0tnVGZCdG5TQTFyUk1SSWZHMEhrclVTeVlUenVR0gG3AUFVX3lxTFBVWGExdVo0WFJQdkYxTTRNRVpBaFdBSzdObGNjOWZQVDJtTVZyNW9yQUEwbGtHU092TW1BY0FSY3dBc25wZVp2QjFIZnRLOE9RMFhLMWpjY0R1TVhUUWhubENJaE44Z1JMdDBXQWJqMDlGNVhzT2pHWEpONXhZUFcwWWE0bUtRb2xZV1VkUXZVS00xVmcwa0x1eWx5dHpES2FwcUQwV043NExycnNQb0ltbWw2QlF6OA?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261121T163253Z",
-          "pinned": false
-        },
-        {
-          "title": "Second ship targeted in series of naval drone attacks off Libyan coast",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWUxLT1RDRF9GYWhRUEVNT3BVWl9TdVdNQTJfeUJZdFJXRXdzRGtraXZxMHRibF80Tmd6aGRuSEJCdWpNV25KVWlFYkNkQlhsbEo0OXpSekl1V3V1NUMyUEpzZVRwQXRmMW10dFZHbV8zclJvYWtqVjRfM0tRT3lCV2tFdURDajRkV290dndYa2lKUFlYMkd1VTlsTXRLd0Q5RnVkREVyUThxcXljZWZZeXZiX2xlZzJhSE5YSXFxMNIBxAFBVV95cUxPbnJIYWo2SHE4R1pOUlhlUUR5S1pOdHZNemx5dWVuNUxoMHJEVEF5dHFfeFhPbEZDbXhoM1ltY2FpcTBiZlFmOE9XVGZWbHhMYXR1MVlSdEpfTmhiRFYwMjFzY3dNNDc5Sll0TXRtR1RYRDgyZWVuQkZPdmVIaU1VU3ZwcTFqOE5ndjZRNEJpSWs3alNDSTlWRnBaXzdjd3dwZGZ6S0dNYVNQYnNmT09XRkNTRThScnFSOFNpeXBnWnpVNTk4?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261122T220217Z",
-          "pinned": false
-        },
-        {
-          "title": "Sudan intercepts drones launched from Ethiopia targeting Khartoum, local media reports",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNGdHOTFpWkRzb0xudHlKeHQzTzkzdzM1dzlRRVkwNlhPNUdFMWI1a0VwMFFxbzYxc3R5dzdKb1JDaFpBTGNSLTZGTDcxU2l2cllocG1tN1hiSlJFMHlxWXpRX0NfNlQ5Y2F3ZDRpSXNPQ1hkYXg4dnNyZXJiMk10WXlWWUw1Y1RidE84c0E4TFBRTGxtWFg0MHhpcTNoclVnUzNVV3FRVExoNlJTNURRaFBHa3RGazZONU1IbkNkalZSUkk0NmxBOHNn?oc=5",
+          "title": "Ukraine says it sank Russian warship in naval drone attack off Libya",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOHBEbnBOTldtai03VUJ5TEdnMVZpd2RNZi10UzRGMy1oY0dzbDRNakYwTjFIaTA0a1R5UTBNak5RTGpxQWRnNERSQTJnWDVYclktUFBoQWRHNjI3UllJNHZkZTNmRTRGT0NPay1CMVZJUkg5VE1ZM2dxb0NnRzN1T0pnc2JQUHZFY3IzanBUbzJXYzRMamFUbTJwOHFuRzViM3B0SGR3RnRlRUd3UmxJbG1NOU90RGF1YjlLOQ?oc=5",
           "domain": "aa.com.tr",
           "sourceTier": "State-affiliated reporting",
-          "seen": "20261122T114130Z",
-          "pinned": false
-        },
-        {
-          "title": "Displaced Palestinians protest as Israeli air strikes continue in Gaza",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZVRjYXNaRkV5WjJneUZKcE1RT2VYYndseHZJYjRBNmNaQy1aVDBmR1VQeUJERGJLbTNxMENUWWJQS3BaQk54UWtiZmpQZjIwWjlERnJrUTdBNWRtYy16LXR1cmFSRnFRS3hfSlh0eWlGd0RUSWluVWV4SzlJTWtWakt4OURxclA4Y19CZkZQR19UQ2xYV3JjekUxNUJyekVBRVE0RFZidE04YmRNVFZFS2NR0gG3AUFVX3lxTE1haE1ZTnJ6Y1lZMUdIWlRVQzFxM3Y0UWtNeDl4d0RiZzNYRWIxNkZja1lISUlVUk9SQkFST09qc0h1Y1g4OHBRRzRFakpZaGlnYXZYbVZxeHhqcHB0a0F1X2ZOTGtaUnZZbVlRMzdtRUstbU1iRURPTDZVTHdaRFYyQzNxLS15Wko1S3lpQ2pQUmVRRXdFZFM4OGJGS1FWOXR5elRIWmxoRk95VE02UkxzQTI3MlRqTQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261122T022527Z",
-          "pinned": false
-        },
-        {
-          "title": "US maritime agency warned Iran blockade was adding to rising Gulf premiums",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOWRhVjVJU0FZNUcyXzNUMkx2YnZRZ09iSFIwZGxpSEppeE5sb2M3SnVHanFhX2lsRUFmUERUbWU3OTgyM01MWXptNmZ1WEVBUUpsZlJEdmdpZGwyQVFiLTRHcVZGSW5weFMySmxHZFZCcFl2WTkzenJxSUtwd1Fta3NJSFBhQXFhd0xqVmV2Z0daS3NIS3R4Y1gwYXBxQVJqZnNKakJHLWRvdmdJZnBJeXJjLUtPRUh2WGtN0gHAAUFVX3lxTE5ERFVNRUhmckVtM1NQelV0YVFwV05xRmZQbzVDd1ZyUHF3cEVOUG1FSEhEaTBURVlXS2lhcnFreXFZajQ5VXN2QUpsbGVqOFhPVS04U2hPNGlwZ0MwVG5RNG8tZTZEVGdZcGVGbTZzLU1JSTVMUGlUVVZBRW8wRXZjMVJJa0pHZ3RkVjAzT05odzhXNm5DWFdwOHMycHJxR1J6d1pSbzJNWnN5M3MtbkV3S1lSbDJUczBBajB6U2x2Uw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261120T060906Z",
-          "pinned": false
-        },
-        {
-          "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFODE1OHY1cFcwSGdUUGhHdVVsdVc2NU1YVHk0eEVRT2xyLUUyR2phMkpMYmR5ZC1uTk5PSnJKTDVtUkRaU0xzdUFlVGRXRmhkUU53UnM2czBrVGc?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261122T171826Z",
+          "seen": "20261123T075716Z",
           "pinned": false
         }
       ],
       "reports": [
+        {
+          "id": "report-0fa80b8c4505",
+          "title": "Widowed amid war and displacement: Sudanese mothers struggle to survive",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTjltMXNLbXZ0SmQ2N0EyeGxJclVIMmYyNGNVNDNGUDlFVU0yTXNBUVp3S01ub3RVMWtLQklaR2J3OHFCTGpNODluVnc4S2d5NXJiVU4tOXItZFBHekJLSEdwaWtsN25qTXlDV1hJQVBNNkJEdXlZMzM5cmZNbGN1VmstNzBham1WckU4WDdqN2IzeFh2NW5Gb1o5LWFKZ1FnbzBCemw0b2dmRFVfcExacmhmVkhrUk3SAbwBQVVfeXFMTU5YSEFHWXNCRm41b2N4ZkRLakpyemgxT3psOFhKc2ViNTJVcGtaTzE0UUZ6OE1XRG5CRkNPM2FCcHVXN0tkbTF4T3BLcjhyU1V6TFRtbk9wTnU1OW9DbDZFRHpmSUFYS1dOemVTSjVGMnR4VnlPOC10YkpqdmdsQUhveC1Yc2tNSnFCcmtZR21fYVE5MmtoVFFxNmZvTFNTTVhabDA0eWQtZGMtTG5uQXlDOWdweGxBcXZMVWc?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-23T08:59:27Z"
+        },
+        {
+          "id": "report-608eb3244524",
+          "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RYTdJa3FLUUotRjRtWmFYcWsyT29UT0FCVDUycVp4MmlCMUkzUVR3cVJUVTJWNDlQX0JLbk01S29SZEtLM0lXZHdzX2U4N2JBVDdhVjN2TEdlczg?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-23T15:41:23Z"
+        },
         {
           "id": "report-9f1c3f7282de",
           "title": "What’s behind Iran’s escalation of attacks in the Gulf?",
@@ -3003,22 +3021,13 @@
           "reportedAt": "2026-11-21T11:54:37Z"
         },
         {
-          "id": "report-f04be8c1eb44",
-          "title": "Russian ship likely hit in drone attack at Benghazi naval base, Libya’s eastern-based government says",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeVRIRVIwbFFfTDFkcDNEYVFpeFl5T0ZmZHJ2b29IRjBxdWVqc0dvNGtFc1VjdnJfeWt4N0dWSnVxMEU3d1B6amVTaHJHN09fcXRCbzNwdlplQlpBa1dTU2pfOU9hSlQtMHB4NTE4VkZtcXpqRWtsbEFpYTBLNHZreENUUU55MWFTNy1PNTNNdnIwVzlvc3F5LWpYT0RJcUZrQjBURzRuelY0WEtqdFBjNGNGZnpmenRsaV9WNUd4R1RLWmJITEY2aHNTV3pKQ2JEMEE?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
-          "reportedAt": "2026-11-22T14:37:25Z"
-        },
-        {
-          "id": "report-608eb3244524",
-          "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RYTdJa3FLUUotRjRtWmFYcWsyT29UT0FCVDUycVp4MmlCMUkzUVR3cVJUVTJWNDlQX0JLbk01S29SZEtLM0lXZHdzX2U4N2JBVDdhVjN2TEdlczg?oc=5",
-          "domain": "bbc.com",
+          "id": "report-87c618bc6eda",
+          "title": "Russia threatens ‘hostile’ Estonia with ‘open war’",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOT2tuUzB4em5zWEgwZUpEZ0szQ0R2ajRaWmgtN0JoX0RhOVFtcFUtWm13b2k5a083bjdjRTJnUVlLTEtadUFYRm5HQlh3aXFFWkNhT2JCaUJPWTJIWm1jcmJiUW4wakYyd3EzZHhOenBUX1lud0JvWVN4YmIyQURaVTBQUnRkeG1hd09OT3YzRzlmd9IBlwFBVV95cUxQZ3JmTVA1Q3FTaTBjMUZldjgwTHJpcXRYSHhoTXlUbnNNVTg3UUltZzd1eTNhc3hDYlZCOHdjdFluaUpRTlVuc1E2XzBKMmFwQVBFT2pqNDhPc1BDUG4xLUhhX2VIOHpWTnB0cm9heEthblZmemhjQ2U3WHExWS02WlRCc2JTQVlDVXpiMDBKcE1HTkk0YWVF?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-23T02:59:35Z"
+          "reportedAt": "2026-11-23T19:22:59Z"
         },
         {
           "id": "report-e93b1cda1071",
@@ -3048,13 +3057,22 @@
           "reportedAt": "2026-11-21T16:12:31Z"
         },
         {
-          "id": "report-68d420bef38e",
-          "title": "Can mediation succeed in a war-torn world? | Episode 1",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZElJRmUtMFkxS1ZBaFZPU3BvcmZld1ktVE5oeG5oeXZjUTQ2Z2laaHhqc0d1M29mUWJwdjVDYkdUR2RxY3NncUJtTkhCdTk1S09XZTAwVlpad1U4X3pXNVA3LTAycmN2U1E2a0NFVXpycWEwV1pDUFRzT3B1ajB5V1hvRGhRVXo5V0ZCQjVJZTk3YWRuRGJ3RUlOS3F1SzEzNXF3czJqeDhTM1NjUm9ndHNPdkRhTjRm0gG-AUFVX3lxTFB3a25oSENiUDlSbjBjSzgtNXZRWmZJMU9QQmRLZUw4cDNyVnUwYXFLSW1OVUN1dEV1TkVuNjk0Q2c4MjI5NXhjQjRWeDZTM1k2Ml9saXVlWm4zamhHWVdWMlRabHl6T1htcm5Mb3d2dzNjQ2c2NzJMSkhhY0hXd0Q4NllVNmV4c19zMzhZbTRXRlRwSmNTbmp3djdwLVFsTDE1T1kzTG44X0phYlNKY2xMcTgydG4tVU4zVXVwbGc?oc=5",
+          "id": "report-c13cce666839",
+          "title": "Iran files war crime lawsuits in American, European courts over US-Israeli attacks",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeWxSc0JzUVRONDlfeXhOVDFFRnliVTl1Y00xaWZFMUFKZHdpaTdtYVJPSUVfRzJ1SDlDTXpZR09lRHZVVWJfelNXMS1XYmFTUkkzWTB3OEhiNHRxOW9BcTA4MTBRSDJxa04zT29EdXprVDlIbVhQYlVKaDBBN1ZOMkFnbHdSMUNGckFFOU5OZ2tjOWkxWkh3ODZRaDl4cTlpVnJhUEc5bXFub0Y2eklFM3luT29QVk1RUGl3LWppQQ?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-11-22T18:16:29Z"
+        },
+        {
+          "id": "report-52686204f022",
+          "title": "Israeli settlers attack several Palestinian villages in occupied West Bank",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNc2pIWUdPbDhyMDg4VWRUbEliRGNib2JLTmJOR211NDZ3bHV6VmtZRVUtY25rMERVS2IzZ05aQkdTSmJ2QWNRcFBjeXBMQ2hzMEdsOWlxUWMtMC1aOUJfdW4tWTlObC00VV8tV19XSmFTRXVQRmYxMjg3dERRR2trSWp2aTdiQXdLamxTS1dqOXJ3OWFPY1RYRUxOdzZ1RG4tbmJWc21GQ0tXX1IwVWEwN1lsODFVOU3SAbwBQVVfeXFMT3dsZUpFZXJrcU4yZTU1ZTZuOWlSZ2hsM3JUYzN2Q2VLS2hESEI3UnVrMm5OLWU3aEJFVkU1dGFrRVduUk9jNXJFVW1kWEk1akExQW5PNzBJWlRlenJldzdHdm9Wc3g3MTU4YjRhaHVoc1R6ZE51dW1UdUdISHpWWEt0ZVk3bWtiUWJfX0djMGtHeG9vM1lQZWplUFpqTnR0LXI0RFpjaHBxXzV0ZVVJQ3hySlpjMXhBcWFCWFk?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-21T07:45:00Z"
+          "reportedAt": "2026-11-22T12:30:52Z"
         },
         {
           "id": "report-b79b2ae1d7ad",
@@ -3066,13 +3084,22 @@
           "reportedAt": "2026-11-21T22:02:19Z"
         },
         {
-          "id": "report-f153ed8759c1",
-          "title": "Deadly attack in Kyiv as Russia launches barrage against Ukraine",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMjdpcjNXTjd5Z2ROUThPeGVJR19Gc3ptOFZFS0VwRWVrRmRaZ0lpWTBwQ1ozU1Bfbm03UjAzbl9yY1FjelRhMmp4NTIwUklLX0U4WjRoZ0J4Z3g2UVpxa2RqSmthdENHQjVNaTQ4MVhSamdWX0ptSTJoY1pabkxaMmZMZTU3YVNQUk1IZm5QTUlQalBRYkVRczNtOXhZTXg5X1RBZGpRdkJ5YWttMFJrX011MlNsNHg2Y3fSAb8BQVVfeXFMTUZfSENOWWt2ODlWTUlrRW1UMkwxY3FhS0hQMjRYV0ZXTWJZS2xwYkJsSVZPWHZoZW0tZzRsQWVFWGd5S2kxcW5mUDlTeEZtRE1TY1pKTkxaT2MzbkZkQ0Vjb2F2VXhwbG5HWTFkQ29IM1pQMEMtWkUwVFFYcFRnWENaYmxheTRXRUJRTUtDMnlhT0NxbjlaU3g5VjlkU1J5T281Skg0RnQ2alJUY0hJZUM1Sk5uZlplak9PT185OFE?oc=5",
+          "id": "report-68d420bef38e",
+          "title": "Can mediation succeed in a war-torn world? | Episode 1",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZElJRmUtMFkxS1ZBaFZPU3BvcmZld1ktVE5oeG5oeXZjUTQ2Z2laaHhqc0d1M29mUWJwdjVDYkdUR2RxY3NncUJtTkhCdTk1S09XZTAwVlpad1U4X3pXNVA3LTAycmN2U1E2a0NFVXpycWEwV1pDUFRzT3B1ajB5V1hvRGhRVXo5V0ZCQjVJZTk3YWRuRGJ3RUlOS3F1SzEzNXF3czJqeDhTM1NjUm9ndHNPdkRhTjRm0gG-AUFVX3lxTFB3a25oSENiUDlSbjBjSzgtNXZRWmZJMU9QQmRLZUw4cDNyVnUwYXFLSW1OVUN1dEV1TkVuNjk0Q2c4MjI5NXhjQjRWeDZTM1k2Ml9saXVlWm4zamhHWVdWMlRabHl6T1htcm5Mb3d2dzNjQ2c2NzJMSkhhY0hXd0Q4NllVNmV4c19zMzhZbTRXRlRwSmNTbmp3djdwLVFsTDE1T1kzTG44X0phYlNKY2xMcTgydG4tVU4zVXVwbGc?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-21T18:54:35Z"
+          "reportedAt": "2026-11-21T07:45:00Z"
+        },
+        {
+          "id": "report-00ded7612f95",
+          "title": "Crew evacuated amid battle to put out fire on Russian ship hit by drones",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ2U3ZVVxRFhhdW1QdlBWLXJwRUpVYjlfb2YzMGFBR0RCTUdWM3VsRUtyZVItZFdCQ1lhbjFZa0tjLTl5MVZma2FrQkRfT0doQ212M3ZZbXM2ZDVwX2gtZF94N3UwN3gxX2gySUFCZGYxWk5ONmJacE02LVdaOXVGazlwYTZteUJ2SVRTN0NrTUxHM295VFlCRGtYeFhHX2pXaXVrN3M2MUFFZUp2WW9MWkRR0gG3AUFVX3lxTE0yZHFzYlU2ZzZ1b1VSc1htTi00Tjc3WmtxWXhwYjJRbERDMXhmdzQ0dFpQcmU4TkQyRnI2NHhrdFJIenpWR095MUFsZmhhX0gtbUgzSlBieEpmUVBqRDIyZW9YNmRab3RmbUlyOHI1aThMZWFFTXhIRTdmZWZzT0d5Wm1BU05XNFc2QVlXZHBaejhxVTVFdk9RRmI1QXctZTVCeFljXzluVUpTUmpqN1FZLWpvSUNDTQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-21T20:09:35Z"
         },
         {
           "id": "report-f8c6e32bc6a0",
@@ -3081,16 +3108,16 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-22T15:07:12Z"
+          "reportedAt": "2026-11-23T09:57:03Z"
         },
         {
-          "id": "report-97e98abbd732",
-          "title": "Russian missiles land in Poland, as Europe held military drills nearby. NATO calls it a violation",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNXhFLWVHeVA2TTIyRTRBRklRM29NQlpLTkNSbkdUYlNWVTNLek1BNG52cDFJRjNNVGNxNW04V3RDTEJPNGtDZ1R6WXE5TVV3SDJhQkFDRVFEMXZaTF92aWhZdS1xS1A0QnR2dE9selFRNGJYclZkRmdKUlJrWjB3VGxzTFE3aVBjYWJCUXhsM0Q1Sk5qR1U3TFlIekxkUE43MUNNenk2bw?oc=5",
-          "domain": "apnews.com",
+          "id": "report-d8c660d32ed0",
+          "title": "Ukraine claims drone strikes on Russian ships off Libya: What do we know?",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYjA5Vkd4bTB6NXROUWJMSjlIM3FVaFhEejlrd0cyUDBJeUtwVTk3YkRGSjMzcHh4RFVBR0xlZm5uMy1vWWVSRUJIb29ZTk00Vl80amk5bHQ0M0ZDOVgwODhZYXByMGp2b3M2bnF4ekV2WGJBSzBHWWJGMnN5Qml6SVNLNWNhV1RKMmZ0NWRJYXIxcUZtTXU3YUx1MWpvU1RtQmlj0gGoAUFVX3lxTE50VUxhLVBnZTZyZHZWZHVaTTV3Qk1fcnJYQlJQMmRqTGxVWFRBbk5VeFpEcVBoREgtVWRZanpaWG5LYm9pRzlPY3NIQnVOX0ZvcWJrNmNmT2JlTmdiNHp6OV93cGVxdGxDeTQ3RGxfakZPc1h2V3hfRkp2TUFnTjNVejh1emVGRi1WZ3Y5ZDlPQlNKc1VrcW1LUURjRGgtWVZZQnpqZHNRYw?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-20T22:15:00Z"
+          "reportedAt": "2026-11-23T13:30:44Z"
         },
         {
           "id": "report-89305d980b24",
@@ -3102,6 +3129,24 @@
           "reportedAt": "2026-11-21T19:02:00Z"
         },
         {
+          "id": "report-68cf78bb84c2",
+          "title": "At least 15 killed in Ukraine’s Kyiv region as Russia intensifies attacks",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZGl2dEc3N1IyaHBuWF9vTjZPV2s4YnltNWNweldlZlR6RzJBUW5QR1gzTGhBX0dSR0FraU5mMzY2OGJxYnFmV1RyVFhhUW0yM1NKQXJ0aDNLcVk2STJQNWl0Q1Y0N25DMTBRY0N2XzIxd25WQ0dNUnIxYjRTeVRlVXJPTG82Y3VKYzZuX1hTZ29vaW45QkRLd2tnbHYyTm_SAaQBQVVfeXFMTTNMN2dTbWFtZERHLUQyNnloR1VrdDdOU2d4WHNQS21BalRPNTdXZmhOelNTZHFtYTJLUmludDQ3UlFvOHYzMV9HNUIzaTFkRENHWDRXZGlZVmRXT1l1Vy1rRjVoWUZSQnEtOVE2TVRsRE1WQTBvV2JiX3A0ci10d0NYOHVvYXlmcFk0NXFPcDRMWWFTUGNTbE5HajZUdUMyc0d3eFY?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-23T09:47:36Z"
+        },
+        {
+          "id": "report-6b7b4ef84af2",
+          "title": "Iran unveils dual-missile launcher, new ‘missile city’: What to know",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZWZsOWN0bmtuM0VnLWpjVnlLMXVfeVdqdFlkZjVsb01uLUJhUjFoOC0yeDZtLURYbVBObWg3T2dUQm51akxZMVJfeU43Nl90eHNfc29hNVVNVG40dXd1V1VvTUtUSE5nVGFDOTdRN0tVa0xGS3BXUm9Ycm5MVDdtRXpyZWN5WFhZc2ZnSldjcXI2N0ZHTTMtSjFLZVdYTFpYWGNubk9ZM3FJUdIBrwFBVV95cUxQTGlqSVNoVU0xLTB4MDNLbW9haElfa3ZsWFVqVVFvV3I3RU04eEItYnlUTTUxNEw1N3ZMUjJab2wtcmw5M2FHbVJOdmpnUG40bGVBdURINWs0cXVMaUJuNjRHV0RSemV4T3ZBQS1nQ1VITGtUemZaY29JMVJwaFlVTm1NUVZsRlNBeUNVRXg0aVNlZWdFNmhDRWs5UmR3cFplVFNaTDl0RnRpMXpIaHFZ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-22T14:42:45Z"
+        },
+        {
           "id": "report-c3935ec73f83",
           "title": "Iran denies reports of US-Israeli missile strike on Qeshm Island",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX2p2eV9xTmVRS3E2b0tOeDUwZnRiUkpBMEEyRzREQkNablVHSXhCenJUOXZrVmhEZGZmb2JBVDBJTDFzRGIxQzdsa0NabWdIWEJkOVV2ZUNBTzZZdFVCWnBiQlgtM3c0QjZrQU42NS1udzRFR3FoZEp3LU9Fb2hOOXFhZHdmdEhIa20zNFlJTjFzQ1hQZ2lyWUFnSjJPeXJQekFVUlJ1TnZWWW5LWlNheEtKTDFEamc?oc=5",
@@ -3111,58 +3156,13 @@
           "reportedAt": "2026-11-20T16:44:17Z"
         },
         {
-          "id": "report-272105727b6b",
-          "title": "Saudi-led coalition intercepts three Houthi missiles headed for Riyadh",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ3ZhbEhHbVN4RWdTZWVLWGlFQnl1UlkySGFjTEd3NEJHaHBDeXZuclpCc1ZLNy1Fa0oxSlVJQlRLVmhCV1hkdFpPUVZ6Y2JXcDlhMDExaGpIOHM1RUhHVmlOMmV2SXVydFU3UWtvdVUxalkxUHRNdXg2Q2JZVG1WN3otT1lKaU4yVGwyUUJVVnJ4QkREb0tnVGZCdG5TQTFyUk1SSWZHMEhrclVTeVlUenVR0gG3AUFVX3lxTFBVWGExdVo0WFJQdkYxTTRNRVpBaFdBSzdObGNjOWZQVDJtTVZyNW9yQUEwbGtHU092TW1BY0FSY3dBc25wZVp2QjFIZnRLOE9RMFhLMWpjY0R1TVhUUWhubENJaE44Z1JMdDBXQWJqMDlGNVhzT2pHWEpONXhZUFcwWWE0bUtRb2xZV1VkUXZVS00xVmcwa0x1eWx5dHpES2FwcUQwV043NExycnNQb0ltbWw2QlF6OA?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-21T16:32:53Z"
-        },
-        {
-          "id": "report-2732f76045dc",
-          "title": "Second ship targeted in series of naval drone attacks off Libyan coast",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWUxLT1RDRF9GYWhRUEVNT3BVWl9TdVdNQTJfeUJZdFJXRXdzRGtraXZxMHRibF80Tmd6aGRuSEJCdWpNV25KVWlFYkNkQlhsbEo0OXpSekl1V3V1NUMyUEpzZVRwQXRmMW10dFZHbV8zclJvYWtqVjRfM0tRT3lCV2tFdURDajRkV290dndYa2lKUFlYMkd1VTlsTXRLd0Q5RnVkREVyUThxcXljZWZZeXZiX2xlZzJhSE5YSXFxMNIBxAFBVV95cUxPbnJIYWo2SHE4R1pOUlhlUUR5S1pOdHZNemx5dWVuNUxoMHJEVEF5dHFfeFhPbEZDbXhoM1ltY2FpcTBiZlFmOE9XVGZWbHhMYXR1MVlSdEpfTmhiRFYwMjFzY3dNNDc5Sll0TXRtR1RYRDgyZWVuQkZPdmVIaU1VU3ZwcTFqOE5ndjZRNEJpSWs3alNDSTlWRnBaXzdjd3dwZGZ6S0dNYVNQYnNmT09XRkNTRThScnFSOFNpeXBnWnpVNTk4?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-22T22:02:17Z"
-        },
-        {
-          "id": "report-d0da6f6f191a",
-          "title": "Sudan intercepts drones launched from Ethiopia targeting Khartoum, local media reports",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNGdHOTFpWkRzb0xudHlKeHQzTzkzdzM1dzlRRVkwNlhPNUdFMWI1a0VwMFFxbzYxc3R5dzdKb1JDaFpBTGNSLTZGTDcxU2l2cllocG1tN1hiSlJFMHlxWXpRX0NfNlQ5Y2F3ZDRpSXNPQ1hkYXg4dnNyZXJiMk10WXlWWUw1Y1RidE84c0E4TFBRTGxtWFg0MHhpcTNoclVnUzNVV3FRVExoNlJTNURRaFBHa3RGazZONU1IbkNkalZSUkk0NmxBOHNn?oc=5",
+          "id": "report-8ea7f567c3c8",
+          "title": "Ukraine says it sank Russian warship in naval drone attack off Libya",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOHBEbnBOTldtai03VUJ5TEdnMVZpd2RNZi10UzRGMy1oY0dzbDRNakYwTjFIaTA0a1R5UTBNak5RTGpxQWRnNERSQTJnWDVYclktUFBoQWRHNjI3UllJNHZkZTNmRTRGT0NPay1CMVZJUkg5VE1ZM2dxb0NnRzN1T0pnc2JQUHZFY3IzanBUbzJXYzRMamFUbTJwOHFuRzViM3B0SGR3RnRlRUd3UmxJbG1NOU90RGF1YjlLOQ?oc=5",
           "domain": "aa.com.tr",
           "sourceTier": "State-affiliated reporting",
           "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
-          "reportedAt": "2026-11-22T11:41:30Z"
-        },
-        {
-          "id": "report-aa9818d75bb8",
-          "title": "Displaced Palestinians protest as Israeli air strikes continue in Gaza",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZVRjYXNaRkV5WjJneUZKcE1RT2VYYndseHZJYjRBNmNaQy1aVDBmR1VQeUJERGJLbTNxMENUWWJQS3BaQk54UWtiZmpQZjIwWjlERnJrUTdBNWRtYy16LXR1cmFSRnFRS3hfSlh0eWlGd0RUSWluVWV4SzlJTWtWakt4OURxclA4Y19CZkZQR19UQ2xYV3JjekUxNUJyekVBRVE0RFZidE04YmRNVFZFS2NR0gG3AUFVX3lxTE1haE1ZTnJ6Y1lZMUdIWlRVQzFxM3Y0UWtNeDl4d0RiZzNYRWIxNkZja1lISUlVUk9SQkFST09qc0h1Y1g4OHBRRzRFakpZaGlnYXZYbVZxeHhqcHB0a0F1X2ZOTGtaUnZZbVlRMzdtRUstbU1iRURPTDZVTHdaRFYyQzNxLS15Wko1S3lpQ2pQUmVRRXdFZFM4OGJGS1FWOXR5elRIWmxoRk95VE02UkxzQTI3MlRqTQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-22T02:25:27Z"
-        },
-        {
-          "id": "report-66b957bd913a",
-          "title": "US maritime agency warned Iran blockade was adding to rising Gulf premiums",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOWRhVjVJU0FZNUcyXzNUMkx2YnZRZ09iSFIwZGxpSEppeE5sb2M3SnVHanFhX2lsRUFmUERUbWU3OTgyM01MWXptNmZ1WEVBUUpsZlJEdmdpZGwyQVFiLTRHcVZGSW5weFMySmxHZFZCcFl2WTkzenJxSUtwd1Fta3NJSFBhQXFhd0xqVmV2Z0daS3NIS3R4Y1gwYXBxQVJqZnNKakJHLWRvdmdJZnBJeXJjLUtPRUh2WGtN0gHAAUFVX3lxTE5ERFVNRUhmckVtM1NQelV0YVFwV05xRmZQbzVDd1ZyUHF3cEVOUG1FSEhEaTBURVlXS2lhcnFreXFZajQ5VXN2QUpsbGVqOFhPVS04U2hPNGlwZ0MwVG5RNG8tZTZEVGdZcGVGbTZzLU1JSTVMUGlUVVZBRW8wRXZjMVJJa0pHZ3RkVjAzT05odzhXNm5DWFdwOHMycHJxR1J6d1pSbzJNWnN5M3MtbkV3S1lSbDJUczBBajB6U2x2Uw?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-20T06:09:06Z"
-        },
-        {
-          "id": "report-89a37ed46c32",
-          "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFODE1OHY1cFcwSGdUUGhHdVVsdVc2NU1YVHk0eEVRT2xyLUUyR2phMkpMYmR5ZC1uTk5PSnJKTDVtUkRaU0xzdUFlVGRXRmhkUU53UnM2czBrVGc?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-22T17:18:26Z"
+          "reportedAt": "2026-11-23T07:57:16Z"
         },
         {
           "id": "report-77fd8df98793",
