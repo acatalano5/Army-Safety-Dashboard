@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T21:45:32.311Z",
+  "generatedAt": "2026-11-23T07:32:47.225Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-11-22T19:36:38.469Z",
+      "generatedAt": "2026-11-23T07:32:47.225Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -2751,17 +2751,9 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-11-22T19:36:38.469Z",
+      "generatedAt": "2026-11-23T07:32:47.225Z",
       "cadence": "every 6 hours",
       "items": [
-        {
-          "title": "UK to provide Ukraine with long-range drones as part of £260m package",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XT3J0aUZ6eHYwYUFSVE9QMXgtMEpWWnhLVmJVYmVuZThGQktEMFdWWUpRS2dvVmNwdlRqNWlDTUtHYjBsdzU1TnVpX2lnb2xnR19DeUJmMTM1R3c?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261119T175901Z",
-          "pinned": false
-        },
         {
           "title": "What’s behind Iran’s escalation of attacks in the Gulf?",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM1owT2pOYVc3bXd5Z0RTeGlaemVoVXVReXNLeHcza0U3aVo2RW5FWDJjUTFGdGtrNm9OVEY4VVZCYXh6aTZ3bzZaVG1NYzdwZGRYOHRlUXVyanBTVzNTQ0FPNnpLbFl5WDBSamUxQmkxRHVUMG1sMk5xMm9sbmZKOEpwMUxVSHJCamsxdFJEZ3dKUWRoSy1SaGJn0gGfAUFVX3lxTE1sMGtPREkyMU1XR0dvQ0pkM2hraWFPblNyWGtsNC1fY1REcjFELUU2Sk9hNFNpT2dxVmxoU3JZQU9QMmlVWlladjlCRW95bEx6MGItcFNjN1VuMHJQSTZwWm1SQ3pLN28zbE05ZHo4cnBGWFZwZXhUR0VYUC1DMGFkTnV2XzlnZTRubzJtSzJ6YzhwUzgwRk1HdnhpVlNNWQ?oc=5",
@@ -2779,35 +2771,11 @@
           "pinned": false
         },
         {
-          "title": "‘Gaza Syndrome’: Israel’s Soldiers Haunted by Genocide – Cost of War",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNenlva2tDMXZQcE0zVUV0REFQdlR6SERKRGh1U1VCTnhJY1dTWXpCNG4xWWp5MDg2VHNZQnY5aDdIZmZWdkRKcTFJM2t2cExETVBlaWNHTU1SNmR4clMybTZTWVlKcFJPeFo2NTVqNk8wRjVBWWdwd3ZGRWRlMk5WcklCQTVIWDBYeC1yUlF1UWw3M1ZVNGw1MmVLRXdLaTVodWowUkVJT1JNQnpRNVExVnpITV9HRjE2YXBETkdjZ1lLX29N0gHKAUFVX3lxTE10QXg1SWoxS3M4U1dCUlU3VHVZejRZeEk2cUNpdklaTURBLVlTWUhwV0ttWS15UTBCUlV2ZEVteUZFTXpfdExfWnNCTXVHWjlUNkY3TUR2VFVhenNLZFpncE5fWUFuZjlLWmI3b3VxWllrNTljdElmaHBxS296YktNaElnZ2dvYkxrcWEzZ3ZaS05jdE1yUVEwci1kNldKSkQ4c05zY3kzU1Rjb2NJeUVvQmdlVGNCcEhWTHMyd3lRMUxsQjJDNzVqZlE?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261119T135430Z",
-          "pinned": false
-        },
-        {
-          "title": "Senate Republicans in US reject measure to limit Trump’s war powers in Iran",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSm1IYzd0dmZPZEpYYTY3Yk5PRnJZNGVfYkl5bGhHd0NaekY3ektkbnFWdXlEZFNKTlVCOVJnWXF6WGM1Y2U3U2xPRmw5NG5ZbWNxTS1pWV9IbUItZTdxNjVaZUJwZEYxR1o2ZlJSa1VCYXNVbEJmODMyQUFwWnVxcnFLU3U5UkYzX0pvQmx0NXpkVk5aOWptNVlFOHowbVpfQWlEUDlrVWFhZXJMUWszLWFoNWdQWTDSAbwBQVVfeXFMTzJLaF83bXZxcVN3Vy1tb0F4LTA3bjJiWjh5empUbEplU1VUMXYtR21UdmpzSDBsNHJVTHZrNUFMVWdxbE53ZHZ5S1dQLUllazJQR1RlUnpLNEZqeHl0aWFxRlVnNEVkMGpKUVZMdWh3aURvTmJaTkI1NzMxcWxyLUNISVhaZU9vbWVzVDU4OVpRQnRTZTVvRWNtSlZ4TDZQMHNsYk5GLXJkTXFxMzhYbHQ5XzdYLVNOWW9odko?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261119T212701Z",
-          "pinned": false
-        },
-        {
           "title": "Sudan’s war leaves disabled children missing out on education",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOG5UWkU3SnFlYkZ6U1dNZllMeFBhLTl6VFNsOHJ4MHZrd2oxOFpsdVRmZHY5dUFDMGdybVA0dkhXSGlSZXV3MjdvOFZQZ1dEaEpxZ2RWdlpGbUpiY0dLUnUxMFdPdU5XRndnX3U4V2tzTmJDMGNoVGdoWG43cUxtT2ZhejRFc0dPSkk2cnFsWEVONXdWbTdfVzdudU1qUHBxNHJLZNIBqgFBVV95cUxOcndNcjliSWlCVXVHQmY1c3R3QWNyVC12eXJqS0w0U2ZfZzB5RmxXQXFJOTRXdjJJdmg2Wkg5QnVUX0ZnQ0kzUGZMU2NULVdSZDdSTzIyM0tGUG5qSXdmTzM4ZmJqX3dabm9HVmZ0aUdBVFdzY0pTMlNTUTVQelJMbzdSbTVoVy1xNVItQmZpUHlFVUYzaTVObGZqM3V0d2JKU3FyT2trMTdGZw?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20261120T204703Z",
-          "pinned": false
-        },
-        {
-          "title": "What we know about the latest Russian missile strikes on Ukraine",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zS0VqN3l1NGtiUnM1SmZ5NjlFX0NXckFLMFlLQm5rYjlucGxlUWxhSHVQRFJ2akJ0SUpyVkQtTjBHb3BrSy1TRTdsM2ZnNXYxaHJvWjVua3Q?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261120T151401Z",
           "pinned": false
         },
         {
@@ -2819,14 +2787,6 @@
           "pinned": false
         },
         {
-          "title": "Iran says it downed US drones over Hormuz as bid to end war remains stalled",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOV0s5elZpRk5PMWVjdWJna2RmUTBNNUVMWTA0dURwcUJIWEVRRUVDYWZYT2dNb1ZNc21taTVIZ0lKa2VGR3IyTk5oZG9HczJpc3ByX0Zra3p3NEMwM0ZGSlg4TnQyd1p0SUtEUWtwTjQyeUUtSWkwN0hmY0dacmJiOTlBSlNTVTRpeUZCcnRfckhHRWpqN05YVHhreTItaGhEVXlGTVdhMXM2TVFTY3kwVTFSN3VTNDDSAbwBQVVfeXFMTVNzaWs0TnJNaXpZYWV2T21kNUtCMEZaNFVEcFQxcFFXQnVMX3ZEY3lhRnJwY3R6bE9LLWgxVnotNEE4RXdnRlBZMzZMVkhrTjl0LUVYSk5Qc1l1b3FseHJOaFRJUkNMYjNwXzdWQlc4V0pxUTUyR0ZidFo5UWFZU1NwZnA2cXk0bkhXWWY0X2tsNDNHVW15a0c0cF9mdVRKa3VCVGRLczZBSk9MZDVHMFdIcGlZRlZtejVIQVY?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261121T115437Z",
-          "pinned": false
-        },
-        {
           "title": "Bahrain says Iranian attack caused fire at industrial facility",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaVlibGxsbXZhME1WYWYtNmJmUHpzSTg5RHRBUVlEbmkxUUk1X183TE9xbV9raDRRTkxZcXZIa3VMX0d3RFU2OEh1YXRLMkNObnUtbEp3cC1WcTUzUXl2dlNBdk02cHdPdXBxeG41NVVHTWk3dEpabE14bGpVemx1aXFrX3pDMUZVZGVSWDhMb1JfcjhPa2FIdGkwMk1zSmVGSVJwMHFfMNIBrAFBVV95cUxOcmJjTXlwWFQ5ak4yeS1scHJoUVVGYVhqSkF1WS13TXR1RFFLdUwtSDZwYmJ2ajZWOGJtcGlLU1diU1NwTXNhaEs3MTlPUnNyUlNNSXVOMXp4ZmVIZVpuX1l4akQ2S09pMWN3eTdhVW81akVGYm50cUIwQ2duZ0ExdFNnN3B0OGwzMGlnc01oMjhyRjlTQjNMa1JrNlpRZlktNkZrUTZZV2xkR2kt?oc=5",
           "domain": "aljazeera.com",
@@ -2835,11 +2795,27 @@
           "pinned": false
         },
         {
+          "title": "Iran says it downed US drones over Hormuz as bid to end war remains stalled",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOV0s5elZpRk5PMWVjdWJna2RmUTBNNUVMWTA0dURwcUJIWEVRRUVDYWZYT2dNb1ZNc21taTVIZ0lKa2VGR3IyTk5oZG9HczJpc3ByX0Zra3p3NEMwM0ZGSlg4TnQyd1p0SUtEUWtwTjQyeUUtSWkwN0hmY0dacmJiOTlBSlNTVTRpeUZCcnRfckhHRWpqN05YVHhreTItaGhEVXlGTVdhMXM2TVFTY3kwVTFSN3VTNDDSAbwBQVVfeXFMTVNzaWs0TnJNaXpZYWV2T21kNUtCMEZaNFVEcFQxcFFXQnVMX3ZEY3lhRnJwY3R6bE9LLWgxVnotNEE4RXdnRlBZMzZMVkhrTjl0LUVYSk5Qc1l1b3FseHJOaFRJUkNMYjNwXzdWQlc4V0pxUTUyR0ZidFo5UWFZU1NwZnA2cXk0bkhXWWY0X2tsNDNHVW15a0c0cF9mdVRKa3VCVGRLczZBSk9MZDVHMFdIcGlZRlZtejVIQVY?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261121T115437Z",
+          "pinned": false
+        },
+        {
+          "title": "Russian ship likely hit in drone attack at Benghazi naval base, Libya’s eastern-based government says",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeVRIRVIwbFFfTDFkcDNEYVFpeFl5T0ZmZHJ2b29IRjBxdWVqc0dvNGtFc1VjdnJfeWt4N0dWSnVxMEU3d1B6amVTaHJHN09fcXRCbzNwdlplQlpBa1dTU2pfOU9hSlQtMHB4NTE4VkZtcXpqRWtsbEFpYTBLNHZreENUUU55MWFTNy1PNTNNdnIwVzlvc3F5LWpYT0RJcUZrQjBURzRuelY0WEtqdFBjNGNGZnpmenRsaV9WNUd4R1RLWmJITEY2aHNTV3pKQ2JEMEE?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20261122T143725Z",
+          "pinned": false
+        },
+        {
           "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RYTdJa3FLUUotRjRtWmFYcWsyT29UT0FCVDUycVp4MmlCMUkzUVR3cVJUVTJWNDlQX0JLbk01S29SZEtLM0lXZHdzX2U4N2JBVDdhVjN2TEdlczg?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261122T171647Z",
+          "seen": "20261123T025935Z",
           "pinned": false
         },
         {
@@ -2859,19 +2835,11 @@
           "pinned": false
         },
         {
-          "title": "Senate Republicans block latest Democratic effort to end the war in Iran",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM2xvRWtCcGhZTnI3SkRZZE1Hb29IV0FLQXd4WFU0ckRYV0xtVVJhTk1IVkx0UW1TMVM5VC1rZURuTDZqekQwM3lmdVh0cVJPYjdHZ3hLdUljb3liaG9OVGNHM183R1NIWF9MbTJJc200UlRtRFNLZ3dIdXUwRXFDNHBWOEIxRGdzZHBXVlBLbWJiVFAxVFdj?oc=5",
-          "domain": "apnews.com",
+          "title": "Strait of Hormuz swim highlights environmental cost of war",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kcWtQNHRXVEgyNVpYYl92OHhaRkFUSzNJT201dzJES05OZnhpN3dhMm10UDd4ZWlwNHNreWtuWEdaakNOTzFScVgtcENpQkMyU3B4OGpXbS12cG8?oc=5",
+          "domain": "bbc.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261119T202240Z",
-          "pinned": false
-        },
-        {
-          "title": "Iran war costs surpass $48B as lawmakers demand unreleased estimates on base damage",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNY1U4al8zbWhaQ1h3eEYzSlRid0M5cndWazRQMk1URUNLTTZ1S2FvNk0wMUZsRUphSElXY2lFMllMVmdGNjFMX3RqM3RGUFhpMURveU1nVlppRUNmUEZ1Ui1VcWtHRTFkbk52MjZFdDc2U2tSUGh0eXlqTWt1WEJ3d1QyN2hfaFdDWHlpREdkNjd0Snh0S1pNcTE3VQ?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261119T194900Z",
+          "seen": "20261121T161231Z",
           "pinned": false
         },
         {
@@ -2883,27 +2851,11 @@
           "pinned": false
         },
         {
-          "title": "Strait of Hormuz swim highlights environmental cost of war",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kcWtQNHRXVEgyNVpYYl92OHhaRkFUSzNJT201dzJES05OZnhpN3dhMm10UDd4ZWlwNHNreWtuWEdaakNOTzFScVgtcENpQkMyU3B4OGpXbS12cG8?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261121T161231Z",
-          "pinned": false
-        },
-        {
           "title": "Bahrain says Iranian attack hits industrial facility",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaURzQjhraTl1ZU1BWm91UUZvbTBHZzk0UV9nb3VmMUM0U3dIMkNNZDJwRzBKSGhxZFdxNFV2SzNJRVBxNG9jbEV4c09RdWNsR2FiZGtKb041V1lGMWU5Ql9XN1IwS21BT2twLUpCUlNfeTRId0RCQ01XRVFkWEZiSWxlSzRNaGtvSzJ0WTBSVEJuVTRaeEZPbmJHUWNBMDVQUWgySTlRZ9IBrAFBVV95cUxNdE52aDUtODRDUjBOa1FWSWpZVjVVVGFIb3pjZnB0M2VQY0RxYXJkLUdId3kwWE8tWWs3RGhfSk9sd2FYZnFGUnozbUtmRXo0ak1ZTXdFbnUwTWQ0ZWliTkZvR1NaQUNKdFlJZHh0WGhVakp4VVlzcXFna2pOcXR1VkNQTk95RlBHaDRTbm5wRVMwQjhINHZOckF3M0FSSFVfclRuOVVnNjFISmVY?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20261121T220219Z",
-          "pinned": false
-        },
-        {
-          "title": "US Senate blocks Iran war powers resolution",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQX2dZYlF4ZzY5V2pFUWxzb3ItVi1YbENWczAyOGpMbG4wWGtqdWtuUUdhVkZJd2o5Ri16eG9WQWZLSjNmSjdlS0hVNDU5aHpNZERuZGVJdXhfVGp3ZlcteDZqODc3ZUVlaXZzMVV0ZF9LN3hCZ1g3TUFQR3NqSmp0UzBzRFdRQ3Jsalp0SFVGYw?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "seen": "20261119T202636Z",
           "pinned": false
         },
         {
@@ -2915,11 +2867,11 @@
           "pinned": false
         },
         {
-          "title": "Endurance athlete swims in Strait of Hormuz to highlight Iran war’s impact on wildlife",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQ0JtX0ptcWJJLXVuYkhxaG1uNTFXV0hEdzRSUDZIckpCQWVfVWZtMWU5b3AzYjhUcTdvdjNrQmNXMnVFSTdZWE9wTnhWQ2NBSnpBT0thUEdMQ1hKcGY0aURSMXFiM1UtUktHVEIzbzFCM2JYRGRvb01yOGhFSkNVSlJabk9fUUx1ekk0QWFNQzBOVDRvamdrRmZmcw?oc=5",
-          "domain": "apnews.com",
+          "title": "Drone attacks kill four near Sudan’s capital, damage UN building",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95V2lBM1hDaWY4eHByMlh4RnpLTkhIOVBtQnFXMHM3R0hfV2lxZEZSNTNBbEg5cHowV2VobnNxU3VnZzlTMU16alVwNjJ0XzBNNlRCVElvdEFkVkV0RFhSV3ZvV2FUQThMSzdqLXVYNDBIeWxmTHpjd3FwUncwME3SAYQBQVVfeXFMUGo3NGlSR1RUbFN2RGd1QkNpQUV3YlpOOGhNc2lvYWs1WVVEbmpJNjVBanY2Mk1LZWFvLWJCLVdYU0pqaFRLUGNHYi1wM2J0cGdqSkVUQkRlbGo4bEh3SENuQjRFUC1uSms0TDJCR19UU21VSEk3b2I0UmR5NVdWTjFIdjFS?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261121T190200Z",
+          "seen": "20261122T150712Z",
           "pinned": false
         },
         {
@@ -2928,6 +2880,14 @@
           "domain": "apnews.com",
           "sourceTier": "Independent reporting",
           "seen": "20261120T221500Z",
+          "pinned": false
+        },
+        {
+          "title": "Endurance athlete swims in Strait of Hormuz to highlight Iran war’s impact on wildlife",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQ0JtX0ptcWJJLXVuYkhxaG1uNTFXV0hEdzRSUDZIckpCQWVfVWZtMWU5b3AzYjhUcTdvdjNrQmNXMnVFSTdZWE9wTnhWQ2NBSnpBT0thUEdMQ1hKcGY0aURSMXFiM1UtUktHVEIzbzFCM2JYRGRvb01yOGhFSkNVSlJabk9fUUx1ekk0QWFNQzBOVDRvamdrRmZmcw?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261121T190200Z",
           "pinned": false
         },
         {
@@ -2945,18 +2905,49 @@
           "sourceTier": "Independent reporting",
           "seen": "20261121T163253Z",
           "pinned": false
+        },
+        {
+          "title": "Second ship targeted in series of naval drone attacks off Libyan coast",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWUxLT1RDRF9GYWhRUEVNT3BVWl9TdVdNQTJfeUJZdFJXRXdzRGtraXZxMHRibF80Tmd6aGRuSEJCdWpNV25KVWlFYkNkQlhsbEo0OXpSekl1V3V1NUMyUEpzZVRwQXRmMW10dFZHbV8zclJvYWtqVjRfM0tRT3lCV2tFdURDajRkV290dndYa2lKUFlYMkd1VTlsTXRLd0Q5RnVkREVyUThxcXljZWZZeXZiX2xlZzJhSE5YSXFxMNIBxAFBVV95cUxPbnJIYWo2SHE4R1pOUlhlUUR5S1pOdHZNemx5dWVuNUxoMHJEVEF5dHFfeFhPbEZDbXhoM1ltY2FpcTBiZlFmOE9XVGZWbHhMYXR1MVlSdEpfTmhiRFYwMjFzY3dNNDc5Sll0TXRtR1RYRDgyZWVuQkZPdmVIaU1VU3ZwcTFqOE5ndjZRNEJpSWs3alNDSTlWRnBaXzdjd3dwZGZ6S0dNYVNQYnNmT09XRkNTRThScnFSOFNpeXBnWnpVNTk4?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261122T220217Z",
+          "pinned": false
+        },
+        {
+          "title": "Sudan intercepts drones launched from Ethiopia targeting Khartoum, local media reports",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNGdHOTFpWkRzb0xudHlKeHQzTzkzdzM1dzlRRVkwNlhPNUdFMWI1a0VwMFFxbzYxc3R5dzdKb1JDaFpBTGNSLTZGTDcxU2l2cllocG1tN1hiSlJFMHlxWXpRX0NfNlQ5Y2F3ZDRpSXNPQ1hkYXg4dnNyZXJiMk10WXlWWUw1Y1RidE84c0E4TFBRTGxtWFg0MHhpcTNoclVnUzNVV3FRVExoNlJTNURRaFBHa3RGazZONU1IbkNkalZSUkk0NmxBOHNn?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20261122T114130Z",
+          "pinned": false
+        },
+        {
+          "title": "Displaced Palestinians protest as Israeli air strikes continue in Gaza",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZVRjYXNaRkV5WjJneUZKcE1RT2VYYndseHZJYjRBNmNaQy1aVDBmR1VQeUJERGJLbTNxMENUWWJQS3BaQk54UWtiZmpQZjIwWjlERnJrUTdBNWRtYy16LXR1cmFSRnFRS3hfSlh0eWlGd0RUSWluVWV4SzlJTWtWakt4OURxclA4Y19CZkZQR19UQ2xYV3JjekUxNUJyekVBRVE0RFZidE04YmRNVFZFS2NR0gG3AUFVX3lxTE1haE1ZTnJ6Y1lZMUdIWlRVQzFxM3Y0UWtNeDl4d0RiZzNYRWIxNkZja1lISUlVUk9SQkFST09qc0h1Y1g4OHBRRzRFakpZaGlnYXZYbVZxeHhqcHB0a0F1X2ZOTGtaUnZZbVlRMzdtRUstbU1iRURPTDZVTHdaRFYyQzNxLS15Wko1S3lpQ2pQUmVRRXdFZFM4OGJGS1FWOXR5elRIWmxoRk95VE02UkxzQTI3MlRqTQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261122T022527Z",
+          "pinned": false
+        },
+        {
+          "title": "US maritime agency warned Iran blockade was adding to rising Gulf premiums",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOWRhVjVJU0FZNUcyXzNUMkx2YnZRZ09iSFIwZGxpSEppeE5sb2M3SnVHanFhX2lsRUFmUERUbWU3OTgyM01MWXptNmZ1WEVBUUpsZlJEdmdpZGwyQVFiLTRHcVZGSW5weFMySmxHZFZCcFl2WTkzenJxSUtwd1Fta3NJSFBhQXFhd0xqVmV2Z0daS3NIS3R4Y1gwYXBxQVJqZnNKakJHLWRvdmdJZnBJeXJjLUtPRUh2WGtN0gHAAUFVX3lxTE5ERFVNRUhmckVtM1NQelV0YVFwV05xRmZQbzVDd1ZyUHF3cEVOUG1FSEhEaTBURVlXS2lhcnFreXFZajQ5VXN2QUpsbGVqOFhPVS04U2hPNGlwZ0MwVG5RNG8tZTZEVGdZcGVGbTZzLU1JSTVMUGlUVVZBRW8wRXZjMVJJa0pHZ3RkVjAzT05odzhXNm5DWFdwOHMycHJxR1J6d1pSbzJNWnN5M3MtbkV3S1lSbDJUczBBajB6U2x2Uw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261120T060906Z",
+          "pinned": false
+        },
+        {
+          "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFODE1OHY1cFcwSGdUUGhHdVVsdVc2NU1YVHk0eEVRT2xyLUUyR2phMkpMYmR5ZC1uTk5PSnJKTDVtUkRaU0xzdUFlVGRXRmhkUU53UnM2czBrVGc?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261122T171826Z",
+          "pinned": false
         }
       ],
       "reports": [
-        {
-          "id": "report-4e787224e22a",
-          "title": "UK to provide Ukraine with long-range drones as part of £260m package",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XT3J0aUZ6eHYwYUFSVE9QMXgtMEpWWnhLVmJVYmVuZThGQktEMFdWWUpRS2dvVmNwdlRqNWlDTUtHYjBsdzU1TnVpX2lnb2xnR19DeUJmMTM1R3c?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-19T17:59:01Z"
-        },
         {
           "id": "report-9f1c3f7282de",
           "title": "What’s behind Iran’s escalation of attacks in the Gulf?",
@@ -2976,24 +2967,6 @@
           "reportedAt": "2026-11-21T11:06:42Z"
         },
         {
-          "id": "report-3185c0e4304e",
-          "title": "‘Gaza Syndrome’: Israel’s Soldiers Haunted by Genocide – Cost of War",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNenlva2tDMXZQcE0zVUV0REFQdlR6SERKRGh1U1VCTnhJY1dTWXpCNG4xWWp5MDg2VHNZQnY5aDdIZmZWdkRKcTFJM2t2cExETVBlaWNHTU1SNmR4clMybTZTWVlKcFJPeFo2NTVqNk8wRjVBWWdwd3ZGRWRlMk5WcklCQTVIWDBYeC1yUlF1UWw3M1ZVNGw1MmVLRXdLaTVodWowUkVJT1JNQnpRNVExVnpITV9HRjE2YXBETkdjZ1lLX29N0gHKAUFVX3lxTE10QXg1SWoxS3M4U1dCUlU3VHVZejRZeEk2cUNpdklaTURBLVlTWUhwV0ttWS15UTBCUlV2ZEVteUZFTXpfdExfWnNCTXVHWjlUNkY3TUR2VFVhenNLZFpncE5fWUFuZjlLWmI3b3VxWllrNTljdElmaHBxS296YktNaElnZ2dvYkxrcWEzZ3ZaS05jdE1yUVEwci1kNldKSkQ4c05zY3kzU1Rjb2NJeUVvQmdlVGNCcEhWTHMyd3lRMUxsQjJDNzVqZlE?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-19T13:54:30Z"
-        },
-        {
-          "id": "report-2cbffdd1d714",
-          "title": "Senate Republicans in US reject measure to limit Trump’s war powers in Iran",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSm1IYzd0dmZPZEpYYTY3Yk5PRnJZNGVfYkl5bGhHd0NaekY3ektkbnFWdXlEZFNKTlVCOVJnWXF6WGM1Y2U3U2xPRmw5NG5ZbWNxTS1pWV9IbUItZTdxNjVaZUJwZEYxR1o2ZlJSa1VCYXNVbEJmODMyQUFwWnVxcnFLU3U5UkYzX0pvQmx0NXpkVk5aOWptNVlFOHowbVpfQWlEUDlrVWFhZXJMUWszLWFoNWdQWTDSAbwBQVVfeXFMTzJLaF83bXZxcVN3Vy1tb0F4LTA3bjJiWjh5empUbEplU1VUMXYtR21UdmpzSDBsNHJVTHZrNUFMVWdxbE53ZHZ5S1dQLUllazJQR1RlUnpLNEZqeHl0aWFxRlVnNEVkMGpKUVZMdWh3aURvTmJaTkI1NzMxcWxyLUNISVhaZU9vbWVzVDU4OVpRQnRTZTVvRWNtSlZ4TDZQMHNsYk5GLXJkTXFxMzhYbHQ5XzdYLVNOWW9odko?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-19T21:27:01Z"
-        },
-        {
           "id": "report-01ad3dee1013",
           "title": "Sudan’s war leaves disabled children missing out on education",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOG5UWkU3SnFlYkZ6U1dNZllMeFBhLTl6VFNsOHJ4MHZrd2oxOFpsdVRmZHY5dUFDMGdybVA0dkhXSGlSZXV3MjdvOFZQZ1dEaEpxZ2RWdlpGbUpiY0dLUnUxMFdPdU5XRndnX3U4V2tzTmJDMGNoVGdoWG43cUxtT2ZhejRFc0dPSkk2cnFsWEVONXdWbTdfVzdudU1qUHBxNHJLZNIBqgFBVV95cUxOcndNcjliSWlCVXVHQmY1c3R3QWNyVC12eXJqS0w0U2ZfZzB5RmxXQXFJOTRXdjJJdmg2Wkg5QnVUX0ZnQ0kzUGZMU2NULVdSZDdSTzIyM0tGUG5qSXdmTzM4ZmJqX3dabm9HVmZ0aUdBVFdzY0pTMlNTUTVQelJMbzdSbTVoVy1xNVItQmZpUHlFVUYzaTVObGZqM3V0d2JKU3FyT2trMTdGZw?oc=5",
@@ -3001,15 +2974,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-11-20T20:47:03Z"
-        },
-        {
-          "id": "report-6f873c91352d",
-          "title": "What we know about the latest Russian missile strikes on Ukraine",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zS0VqN3l1NGtiUnM1SmZ5NjlFX0NXckFLMFlLQm5rYjlucGxlUWxhSHVQRFJ2akJ0SUpyVkQtTjBHb3BrSy1TRTdsM2ZnNXYxaHJvWjVua3Q?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-20T15:14:01Z"
         },
         {
           "id": "report-5aac19ef12fc",
@@ -3021,15 +2985,6 @@
           "reportedAt": "2026-11-20T00:50:24Z"
         },
         {
-          "id": "report-0d75e4bca821",
-          "title": "Iran says it downed US drones over Hormuz as bid to end war remains stalled",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOV0s5elZpRk5PMWVjdWJna2RmUTBNNUVMWTA0dURwcUJIWEVRRUVDYWZYT2dNb1ZNc21taTVIZ0lKa2VGR3IyTk5oZG9HczJpc3ByX0Zra3p3NEMwM0ZGSlg4TnQyd1p0SUtEUWtwTjQyeUUtSWkwN0hmY0dacmJiOTlBSlNTVTRpeUZCcnRfckhHRWpqN05YVHhreTItaGhEVXlGTVdhMXM2TVFTY3kwVTFSN3VTNDDSAbwBQVVfeXFMTVNzaWs0TnJNaXpZYWV2T21kNUtCMEZaNFVEcFQxcFFXQnVMX3ZEY3lhRnJwY3R6bE9LLWgxVnotNEE4RXdnRlBZMzZMVkhrTjl0LUVYSk5Qc1l1b3FseHJOaFRJUkNMYjNwXzdWQlc4V0pxUTUyR0ZidFo5UWFZU1NwZnA2cXk0bkhXWWY0X2tsNDNHVW15a0c0cF9mdVRKa3VCVGRLczZBSk9MZDVHMFdIcGlZRlZtejVIQVY?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-21T11:54:37Z"
-        },
-        {
           "id": "report-948601bd7c28",
           "title": "Bahrain says Iranian attack caused fire at industrial facility",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaVlibGxsbXZhME1WYWYtNmJmUHpzSTg5RHRBUVlEbmkxUUk1X183TE9xbV9raDRRTkxZcXZIa3VMX0d3RFU2OEh1YXRLMkNObnUtbEp3cC1WcTUzUXl2dlNBdk02cHdPdXBxeG41NVVHTWk3dEpabE14bGpVemx1aXFrX3pDMUZVZGVSWDhMb1JfcjhPa2FIdGkwMk1zSmVGSVJwMHFfMNIBrAFBVV95cUxOcmJjTXlwWFQ5ak4yeS1scHJoUVVGYVhqSkF1WS13TXR1RFFLdUwtSDZwYmJ2ajZWOGJtcGlLU1diU1NwTXNhaEs3MTlPUnNyUlNNSXVOMXp4ZmVIZVpuX1l4akQ2S09pMWN3eTdhVW81akVGYm50cUIwQ2duZ0ExdFNnN3B0OGwzMGlnc01oMjhyRjlTQjNMa1JrNlpRZlktNkZrUTZZV2xkR2kt?oc=5",
@@ -3039,13 +2994,31 @@
           "reportedAt": "2026-11-22T09:52:57Z"
         },
         {
+          "id": "report-0d75e4bca821",
+          "title": "Iran says it downed US drones over Hormuz as bid to end war remains stalled",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOV0s5elZpRk5PMWVjdWJna2RmUTBNNUVMWTA0dURwcUJIWEVRRUVDYWZYT2dNb1ZNc21taTVIZ0lKa2VGR3IyTk5oZG9HczJpc3ByX0Zra3p3NEMwM0ZGSlg4TnQyd1p0SUtEUWtwTjQyeUUtSWkwN0hmY0dacmJiOTlBSlNTVTRpeUZCcnRfckhHRWpqN05YVHhreTItaGhEVXlGTVdhMXM2TVFTY3kwVTFSN3VTNDDSAbwBQVVfeXFMTVNzaWs0TnJNaXpZYWV2T21kNUtCMEZaNFVEcFQxcFFXQnVMX3ZEY3lhRnJwY3R6bE9LLWgxVnotNEE4RXdnRlBZMzZMVkhrTjl0LUVYSk5Qc1l1b3FseHJOaFRJUkNMYjNwXzdWQlc4V0pxUTUyR0ZidFo5UWFZU1NwZnA2cXk0bkhXWWY0X2tsNDNHVW15a0c0cF9mdVRKa3VCVGRLczZBSk9MZDVHMFdIcGlZRlZtejVIQVY?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-21T11:54:37Z"
+        },
+        {
+          "id": "report-f04be8c1eb44",
+          "title": "Russian ship likely hit in drone attack at Benghazi naval base, Libya’s eastern-based government says",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeVRIRVIwbFFfTDFkcDNEYVFpeFl5T0ZmZHJ2b29IRjBxdWVqc0dvNGtFc1VjdnJfeWt4N0dWSnVxMEU3d1B6amVTaHJHN09fcXRCbzNwdlplQlpBa1dTU2pfOU9hSlQtMHB4NTE4VkZtcXpqRWtsbEFpYTBLNHZreENUUU55MWFTNy1PNTNNdnIwVzlvc3F5LWpYT0RJcUZrQjBURzRuelY0WEtqdFBjNGNGZnpmenRsaV9WNUd4R1RLWmJITEY2aHNTV3pKQ2JEMEE?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-11-22T14:37:25Z"
+        },
+        {
           "id": "report-608eb3244524",
           "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RYTdJa3FLUUotRjRtWmFYcWsyT29UT0FCVDUycVp4MmlCMUkzUVR3cVJUVTJWNDlQX0JLbk01S29SZEtLM0lXZHdzX2U4N2JBVDdhVjN2TEdlczg?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-22T17:16:47Z"
+          "reportedAt": "2026-11-23T02:59:35Z"
         },
         {
           "id": "report-e93b1cda1071",
@@ -3066,22 +3039,13 @@
           "reportedAt": "2026-11-21T18:01:42Z"
         },
         {
-          "id": "report-e5baaef72b51",
-          "title": "Senate Republicans block latest Democratic effort to end the war in Iran",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM2xvRWtCcGhZTnI3SkRZZE1Hb29IV0FLQXd4WFU0ckRYV0xtVVJhTk1IVkx0UW1TMVM5VC1rZURuTDZqekQwM3lmdVh0cVJPYjdHZ3hLdUljb3liaG9OVGNHM183R1NIWF9MbTJJc200UlRtRFNLZ3dIdXUwRXFDNHBWOEIxRGdzZHBXVlBLbWJiVFAxVFdj?oc=5",
-          "domain": "apnews.com",
+          "id": "report-bd9254aa667c",
+          "title": "Strait of Hormuz swim highlights environmental cost of war",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kcWtQNHRXVEgyNVpYYl92OHhaRkFUSzNJT201dzJES05OZnhpN3dhMm10UDd4ZWlwNHNreWtuWEdaakNOTzFScVgtcENpQkMyU3B4OGpXbS12cG8?oc=5",
+          "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-19T20:22:40Z"
-        },
-        {
-          "id": "report-9cd107e00830",
-          "title": "Iran war costs surpass $48B as lawmakers demand unreleased estimates on base damage",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNY1U4al8zbWhaQ1h3eEYzSlRid0M5cndWazRQMk1URUNLTTZ1S2FvNk0wMUZsRUphSElXY2lFMllMVmdGNjFMX3RqM3RGUFhpMURveU1nVlppRUNmUEZ1Ui1VcWtHRTFkbk52MjZFdDc2U2tSUGh0eXlqTWt1WEJ3d1QyN2hfaFdDWHlpREdkNjd0Snh0S1pNcTE3VQ?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-19T19:49:00Z"
+          "reportedAt": "2026-11-21T16:12:31Z"
         },
         {
           "id": "report-68d420bef38e",
@@ -3093,15 +3057,6 @@
           "reportedAt": "2026-11-21T07:45:00Z"
         },
         {
-          "id": "report-bd9254aa667c",
-          "title": "Strait of Hormuz swim highlights environmental cost of war",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kcWtQNHRXVEgyNVpYYl92OHhaRkFUSzNJT201dzJES05OZnhpN3dhMm10UDd4ZWlwNHNreWtuWEdaakNOTzFScVgtcENpQkMyU3B4OGpXbS12cG8?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-21T16:12:31Z"
-        },
-        {
           "id": "report-b79b2ae1d7ad",
           "title": "Bahrain says Iranian attack hits industrial facility",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaURzQjhraTl1ZU1BWm91UUZvbTBHZzk0UV9nb3VmMUM0U3dIMkNNZDJwRzBKSGhxZFdxNFV2SzNJRVBxNG9jbEV4c09RdWNsR2FiZGtKb041V1lGMWU5Ql9XN1IwS21BT2twLUpCUlNfeTRId0RCQ01XRVFkWEZiSWxlSzRNaGtvSzJ0WTBSVEJuVTRaeEZPbmJHUWNBMDVQUWgySTlRZ9IBrAFBVV95cUxNdE52aDUtODRDUjBOa1FWSWpZVjVVVGFIb3pjZnB0M2VQY0RxYXJkLUdId3kwWE8tWWs3RGhfSk9sd2FYZnFGUnozbUtmRXo0ak1ZTXdFbnUwTWQ0ZWliTkZvR1NaQUNKdFlJZHh0WGhVakp4VVlzcXFna2pOcXR1VkNQTk95RlBHaDRTbm5wRVMwQjhINHZOckF3M0FSSFVfclRuOVVnNjFISmVY?oc=5",
@@ -3109,15 +3064,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-11-21T22:02:19Z"
-        },
-        {
-          "id": "report-48ad832eb860",
-          "title": "US Senate blocks Iran war powers resolution",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQX2dZYlF4ZzY5V2pFUWxzb3ItVi1YbENWczAyOGpMbG4wWGtqdWtuUUdhVkZJd2o5Ri16eG9WQWZLSjNmSjdlS0hVNDU5aHpNZERuZGVJdXhfVGp3ZlcteDZqODc3ZUVlaXZzMVV0ZF9LN3hCZ1g3TUFQR3NqSmp0UzBzRFdRQ3Jsalp0SFVGYw?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
-          "reportedAt": "2026-11-19T20:26:36Z"
         },
         {
           "id": "report-f153ed8759c1",
@@ -3129,13 +3075,13 @@
           "reportedAt": "2026-11-21T18:54:35Z"
         },
         {
-          "id": "report-89305d980b24",
-          "title": "Endurance athlete swims in Strait of Hormuz to highlight Iran war’s impact on wildlife",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQ0JtX0ptcWJJLXVuYkhxaG1uNTFXV0hEdzRSUDZIckpCQWVfVWZtMWU5b3AzYjhUcTdvdjNrQmNXMnVFSTdZWE9wTnhWQ2NBSnpBT0thUEdMQ1hKcGY0aURSMXFiM1UtUktHVEIzbzFCM2JYRGRvb01yOGhFSkNVSlJabk9fUUx1ekk0QWFNQzBOVDRvamdrRmZmcw?oc=5",
-          "domain": "apnews.com",
+          "id": "report-f8c6e32bc6a0",
+          "title": "Drone attacks kill four near Sudan’s capital, damage UN building",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95V2lBM1hDaWY4eHByMlh4RnpLTkhIOVBtQnFXMHM3R0hfV2lxZEZSNTNBbEg5cHowV2VobnNxU3VnZzlTMU16alVwNjJ0XzBNNlRCVElvdEFkVkV0RFhSV3ZvV2FUQThMSzdqLXVYNDBIeWxmTHpjd3FwUncwME3SAYQBQVVfeXFMUGo3NGlSR1RUbFN2RGd1QkNpQUV3YlpOOGhNc2lvYWs1WVVEbmpJNjVBanY2Mk1LZWFvLWJCLVdYU0pqaFRLUGNHYi1wM2J0cGdqSkVUQkRlbGo4bEh3SENuQjRFUC1uSms0TDJCR19UU21VSEk3b2I0UmR5NVdWTjFIdjFS?oc=5",
+          "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-21T19:02:00Z"
+          "reportedAt": "2026-11-22T15:07:12Z"
         },
         {
           "id": "report-97e98abbd732",
@@ -3145,6 +3091,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-11-20T22:15:00Z"
+        },
+        {
+          "id": "report-89305d980b24",
+          "title": "Endurance athlete swims in Strait of Hormuz to highlight Iran war’s impact on wildlife",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQ0JtX0ptcWJJLXVuYkhxaG1uNTFXV0hEdzRSUDZIckpCQWVfVWZtMWU5b3AzYjhUcTdvdjNrQmNXMnVFSTdZWE9wTnhWQ2NBSnpBT0thUEdMQ1hKcGY0aURSMXFiM1UtUktHVEIzbzFCM2JYRGRvb01yOGhFSkNVSlJabk9fUUx1ekk0QWFNQzBOVDRvamdrRmZmcw?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-21T19:02:00Z"
         },
         {
           "id": "report-c3935ec73f83",
@@ -3163,6 +3118,51 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-11-21T16:32:53Z"
+        },
+        {
+          "id": "report-2732f76045dc",
+          "title": "Second ship targeted in series of naval drone attacks off Libyan coast",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWUxLT1RDRF9GYWhRUEVNT3BVWl9TdVdNQTJfeUJZdFJXRXdzRGtraXZxMHRibF80Tmd6aGRuSEJCdWpNV25KVWlFYkNkQlhsbEo0OXpSekl1V3V1NUMyUEpzZVRwQXRmMW10dFZHbV8zclJvYWtqVjRfM0tRT3lCV2tFdURDajRkV290dndYa2lKUFlYMkd1VTlsTXRLd0Q5RnVkREVyUThxcXljZWZZeXZiX2xlZzJhSE5YSXFxMNIBxAFBVV95cUxPbnJIYWo2SHE4R1pOUlhlUUR5S1pOdHZNemx5dWVuNUxoMHJEVEF5dHFfeFhPbEZDbXhoM1ltY2FpcTBiZlFmOE9XVGZWbHhMYXR1MVlSdEpfTmhiRFYwMjFzY3dNNDc5Sll0TXRtR1RYRDgyZWVuQkZPdmVIaU1VU3ZwcTFqOE5ndjZRNEJpSWs3alNDSTlWRnBaXzdjd3dwZGZ6S0dNYVNQYnNmT09XRkNTRThScnFSOFNpeXBnWnpVNTk4?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-22T22:02:17Z"
+        },
+        {
+          "id": "report-d0da6f6f191a",
+          "title": "Sudan intercepts drones launched from Ethiopia targeting Khartoum, local media reports",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNGdHOTFpWkRzb0xudHlKeHQzTzkzdzM1dzlRRVkwNlhPNUdFMWI1a0VwMFFxbzYxc3R5dzdKb1JDaFpBTGNSLTZGTDcxU2l2cllocG1tN1hiSlJFMHlxWXpRX0NfNlQ5Y2F3ZDRpSXNPQ1hkYXg4dnNyZXJiMk10WXlWWUw1Y1RidE84c0E4TFBRTGxtWFg0MHhpcTNoclVnUzNVV3FRVExoNlJTNURRaFBHa3RGazZONU1IbkNkalZSUkk0NmxBOHNn?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-11-22T11:41:30Z"
+        },
+        {
+          "id": "report-aa9818d75bb8",
+          "title": "Displaced Palestinians protest as Israeli air strikes continue in Gaza",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZVRjYXNaRkV5WjJneUZKcE1RT2VYYndseHZJYjRBNmNaQy1aVDBmR1VQeUJERGJLbTNxMENUWWJQS3BaQk54UWtiZmpQZjIwWjlERnJrUTdBNWRtYy16LXR1cmFSRnFRS3hfSlh0eWlGd0RUSWluVWV4SzlJTWtWakt4OURxclA4Y19CZkZQR19UQ2xYV3JjekUxNUJyekVBRVE0RFZidE04YmRNVFZFS2NR0gG3AUFVX3lxTE1haE1ZTnJ6Y1lZMUdIWlRVQzFxM3Y0UWtNeDl4d0RiZzNYRWIxNkZja1lISUlVUk9SQkFST09qc0h1Y1g4OHBRRzRFakpZaGlnYXZYbVZxeHhqcHB0a0F1X2ZOTGtaUnZZbVlRMzdtRUstbU1iRURPTDZVTHdaRFYyQzNxLS15Wko1S3lpQ2pQUmVRRXdFZFM4OGJGS1FWOXR5elRIWmxoRk95VE02UkxzQTI3MlRqTQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-22T02:25:27Z"
+        },
+        {
+          "id": "report-66b957bd913a",
+          "title": "US maritime agency warned Iran blockade was adding to rising Gulf premiums",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOWRhVjVJU0FZNUcyXzNUMkx2YnZRZ09iSFIwZGxpSEppeE5sb2M3SnVHanFhX2lsRUFmUERUbWU3OTgyM01MWXptNmZ1WEVBUUpsZlJEdmdpZGwyQVFiLTRHcVZGSW5weFMySmxHZFZCcFl2WTkzenJxSUtwd1Fta3NJSFBhQXFhd0xqVmV2Z0daS3NIS3R4Y1gwYXBxQVJqZnNKakJHLWRvdmdJZnBJeXJjLUtPRUh2WGtN0gHAAUFVX3lxTE5ERFVNRUhmckVtM1NQelV0YVFwV05xRmZQbzVDd1ZyUHF3cEVOUG1FSEhEaTBURVlXS2lhcnFreXFZajQ5VXN2QUpsbGVqOFhPVS04U2hPNGlwZ0MwVG5RNG8tZTZEVGdZcGVGbTZzLU1JSTVMUGlUVVZBRW8wRXZjMVJJa0pHZ3RkVjAzT05odzhXNm5DWFdwOHMycHJxR1J6d1pSbzJNWnN5M3MtbkV3S1lSbDJUczBBajB6U2x2Uw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-20T06:09:06Z"
+        },
+        {
+          "id": "report-89a37ed46c32",
+          "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFODE1OHY1cFcwSGdUUGhHdVVsdVc2NU1YVHk0eEVRT2xyLUUyR2phMkpMYmR5ZC1uTk5PSnJKTDVtUkRaU0xzdUFlVGRXRmhkUU53UnM2czBrVGc?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-22T17:18:26Z"
         },
         {
           "id": "report-77fd8df98793",
