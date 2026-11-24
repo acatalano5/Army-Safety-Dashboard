@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T09:53:31.614Z",
+  "generatedAt": "2026-11-24T22:25:10.565Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-11-24T09:53:31.614Z",
+      "generatedAt": "2026-11-24T22:25:10.565Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -2673,7 +2673,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-11-24T09:53:31.614Z",
+      "generatedAt": "2026-11-24T22:25:10.565Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -2682,6 +2682,14 @@
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20261123T085927Z",
+          "pinned": false
+        },
+        {
+          "title": "How the Iran war is reshaping the US military presence in the Middle East",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd1lWbk8tVk1NdEplNmRSV2VFb1RGampOZmZQVy00VUUyRHZsYURmWFF6N3ZpRUI5MW45Y01oUUFxeW1vVkNEaXo3c1dqU0JuYmZEOXlVOXlZSlV6S200OEJZQXZTV1RHZ1RQRi1FcGROTTc5cFNkV084VHFfTWJ4dUhCbzgwSlZzUnZiVUYwVDZ3R3hHYVZ3b0F2Y3J1NDVSdmhMQWdfQTYwREE5UXFpeFZGd2J6d9IBuwFBVV95cUxPRzF3TWtNM1BFSFdlbV9wb1dyUjBPak0wUFlVYU1NSHRlVHhJNTRUT0x2bWhYT0g1NUlhTXRCMTM3aG9SLWZsd0FyMWxLRllNWnlXejZVYV9VY3pndkk3am1TaHRlNTFEdGhUM1FzR0k1RmZHc2FhemN2a3lJZHdnUUdrOVpvTGJkRmpVRzlMc2tMWWhuWjJPemJXc1RMaFFJYllzUTR0QXJHMi13aWkxeDJIb0JjMndreExr?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261124T151433Z",
           "pinned": false
         },
         {
@@ -2709,6 +2717,30 @@
           "pinned": false
         },
         {
+          "title": "Global land mine casualties hit a 5-year high, driven by Myanmar’s brutal civil war and Syria",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbk04OE9hZ1ZBVWJFREY0V0o3ZXQyb2lfd2NaakNCTFAwU2wzcGdpRzI1WWkwYXBwMUE0X3N2UWkwbFVfZmthV3laYTUxdDJYRHhOQW4yQXBpZXY3cFhQZEJpQVpXWUxyYUxvcm9xZ1lrOU0yNjBWbTV2UnJHZlV1V3ZFSWp2eko5Z0JDRnpwUXc5c2oyQy1DdzdZVXVQXzRqZFlBVDBDSUwzNTQ?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261124T081400Z",
+          "pinned": false
+        },
+        {
+          "title": "Why are Russian warships off Libya, and will Ukraine’s attack change that?",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSk85RXFLazAzd0N4clEzTXBnaVhFVUF4VG9MRlFfSHVuLW02RFNlaENvQzM5OVF1a0FrUEdQUk1PU0dRbUZEbjhqSHpULUJtdzRBTWlubm9ZTWpFYklDZ2VxdXlBR2lfMVlmZ2xQaGt1aC1Tdlo4RTVXUmFBdzRhLUxvNmY2S3hvSW05SjN1aW9jV1A4SXMxaEpuNU1BcURXbnRHVURJM1c0V1dsQVg5aTZaRdIBuAFBVV95cUxOWnc3X1o3VExtU3dOaTMxb0F4MERlaWhhSVoydVdJM1FoN2xDOFMxSHBPa1MzeEcxN29KSlMtaTI0N3NwSnpGVnZ6WFlZR1JWSEZxUEd4dEpwN0I5bzFLNVhjaWo2ZkhaRkwwcml4RDFLdlp1YWJfeFlWU0p1aE5wVHBvb3dOTEdWRzdIOEVnV0JWY1lYdndzSkpZRlNELU5ORmJiczVPSy10SENrcC10Y0dfRmJtRXBZ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261124T113521Z",
+          "pinned": false
+        },
+        {
+          "title": "Could Russia-Ukraine war threaten Libya’s fragile reunification process?",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNb3VCbzA2cllMdlZvQU1ZclBLd0ZOV2xCVElUZi1ZaGdPemZYZFhBeW4xYUE4dkhzaW1VOGFxSjhRQ0Y3Q196TmtYeEpWejEyaEtZUUJLODRNMWNsREkxR1Bibmc1eFJibUdEWHJyTmh2NkJwQXBpd0VFZG1xREROTjJhYTdkUHVQSFAxcFpmQUZLWUFmLS1CUWNLM1lFbTZUN19Ga0Y4T0FLVElKSnM4ZGRLVkItWGMyMFJIMEd30gHDAUFVX3lxTFBDM21DMlk1Mnp6MWwyT2plZVlDdWJXQlVuSHdxd01ZNmJPOGs2ZGYxRGVtRmctRFRtbm1rY01Pc0RvWlVKeXFUSlAzeW5fVEVMblQ1TmFkRy01amkwZWlYbGFSbGlEZzVYRko3anNmcDFySkl0Y1FtdWMxOFVzTFdYbTZYZGdKSkoxT1FzbEZsamttX1dtdU9Ia2JIX0pPRlV0cVh5M3JLU0daLTZUeVkyNF9VdmRQb0tLREFZQ3kxZ3YxVQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261124T141952Z",
+          "pinned": false
+        },
+        {
           "title": "Bahrain says Iranian attack caused fire at industrial facility",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaVlibGxsbXZhME1WYWYtNmJmUHpzSTg5RHRBUVlEbmkxUUk1X183TE9xbV9raDRRTkxZcXZIa3VMX0d3RFU2OEh1YXRLMkNObnUtbEp3cC1WcTUzUXl2dlNBdk02cHdPdXBxeG41NVVHTWk3dEpabE14bGpVemx1aXFrX3pDMUZVZGVSWDhMb1JfcjhPa2FIdGkwMk1zSmVGSVJwMHFfMNIBrAFBVV95cUxOcmJjTXlwWFQ5ak4yeS1scHJoUVVGYVhqSkF1WS13TXR1RFFLdUwtSDZwYmJ2ajZWOGJtcGlLU1diU1NwTXNhaEs3MTlPUnNyUlNNSXVOMXp4ZmVIZVpuX1l4akQ2S09pMWN3eTdhVW81akVGYm50cUIwQ2duZ0ExdFNnN3B0OGwzMGlnc01oMjhyRjlTQjNMa1JrNlpRZlktNkZrUTZZV2xkR2kt?oc=5",
           "domain": "aljazeera.com",
@@ -2717,43 +2749,27 @@
           "pinned": false
         },
         {
-          "title": "Iran says it downed US drones over Hormuz as bid to end war remains stalled",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOV0s5elZpRk5PMWVjdWJna2RmUTBNNUVMWTA0dURwcUJIWEVRRUVDYWZYT2dNb1ZNc21taTVIZ0lKa2VGR3IyTk5oZG9HczJpc3ByX0Zra3p3NEMwM0ZGSlg4TnQyd1p0SUtEUWtwTjQyeUUtSWkwN0hmY0dacmJiOTlBSlNTVTRpeUZCcnRfckhHRWpqN05YVHhreTItaGhEVXlGTVdhMXM2TVFTY3kwVTFSN3VTNDDSAbwBQVVfeXFMTVNzaWs0TnJNaXpZYWV2T21kNUtCMEZaNFVEcFQxcFFXQnVMX3ZEY3lhRnJwY3R6bE9LLWgxVnotNEE4RXdnRlBZMzZMVkhrTjl0LUVYSk5Qc1l1b3FseHJOaFRJUkNMYjNwXzdWQlc4V0pxUTUyR0ZidFo5UWFZU1NwZnA2cXk0bkhXWWY0X2tsNDNHVW15a0c0cF9mdVRKa3VCVGRLczZBSk9MZDVHMFdIcGlZRlZtejVIQVY?oc=5",
-          "domain": "aljazeera.com",
+          "title": "Land mine casualties soar in Syria, two years after war",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4weFhSOXRHbWRGc2RBX0VuYXZIYjZVbzJzUVRQcHNJRTM0OTFQaFA0bHllSmNBa1lOSVdpYXYwYVlIRFNFdEU4S2o1LWZhM0lSX1FrV0xWc1hJMzA?oc=5",
+          "domain": "bbc.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261121T115437Z",
+          "seen": "20261124T151728Z",
           "pinned": false
         },
         {
-          "title": "Russia threatens ‘hostile’ Estonia with ‘open war’",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOT2tuUzB4em5zWEgwZUpEZ0szQ0R2ajRaWmgtN0JoX0RhOVFtcFUtWm13b2k5a083bjdjRTJnUVlLTEtadUFYRm5HQlh3aXFFWkNhT2JCaUJPWTJIWm1jcmJiUW4wakYyd3EzZHhOenBUX1lud0JvWVN4YmIyQURaVTBQUnRkeG1hd09OT3YzRzlmd9IBlwFBVV95cUxQZ3JmTVA1Q3FTaTBjMUZldjgwTHJpcXRYSHhoTXlUbnNNVTg3UUltZzd1eTNhc3hDYlZCOHdjdFluaUpRTlVuc1E2XzBKMmFwQVBFT2pqNDhPc1BDUG4xLUhhX2VIOHpWTnB0cm9heEthblZmemhjQ2U3WHExWS02WlRCc2JTQVlDVXpiMDBKcE1HTkk0YWVF?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261123T192259Z",
+          "title": "Russian ship likely hit in drone attack at Benghazi naval base, Libya’s eastern-based government says",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWGRHMVktb2ZHTExpZG1EZlVrMU9NOXdoeWRNUWZBLVhGTTFYSDdJMm4yWFlieldTN1B4RTY1UHA4YTdqZDd6WFFkZlV6QXRYN1JLMl9Kc2RVb3d4aXVFUWlrbHdHNVlWTUFLdlBGTnpQVUx3VXZJaThUd3AyUmx4RVZ5M2RJUUluSnJhQUJxQTIwTmxuWVZ6d0loSVMwSlkzUFFLSlhlSFEzMGtmeGxGbHhCT3k1OVZmSHlDRnVvaXdGdlJhZ0xBUnd2c1lwc1E1WFM2TmlWdw?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20261122T143725Z",
           "pinned": false
         },
         {
-          "title": "Sudan’s war will end, but will it be too late?",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUy00VFBBN1E5ZmxpOTFxbzN2R0RiVVo5V3FtUXFYRkdCWE8yQmlJcDQzOENHU0JPYVhwTDgwU1pSRjg3N0FlTWZzM1FSbmxnaUhJN2ZUejQ3WHJlcWloWi1lMlJZTFNkVFNxeFJwckJSTkI3TEoxWEloTS12aU9XSFZ4TzFEWFZiOVoxVTJweHY0bGPSAZgBQVVfeXFMUEw2N3lIMFFEQndQc2plVzE3SnBMZFdFMjJCb0FxdEd4RzM4cHZwOHFwa1ZWYmlPZ1NZQjl3UW00NXl5VDFLblZINzRGSkpwZ1B0Uy1oLS1lbmdaZDBjT3RRaEV3V2Vkb0dlVFE3WE4zb0k4M3R3NHNRWkNUX2ZZWWFKZTVmTVcwYWVZYkgycHRSUmRSeWluaEc?oc=5",
+          "title": "11 injured in Houthi drone attack on Riyadh tower, Saudi civil defence says",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT3JsaU96a05ySk9rVHZIazNjQmt6Z2ZCZF9nRWFSVHVqa0s1LVhhRXhVc1VSMjNfWHhQTVZyZU9GZEtsZHRRVU5yVGVUYmVwZkRDNC1iSmYyWDc0UTdhV2pOenhuWDFkQ0ZWWkhwcTFoN2tsU3JjcllUWWJkcDBvUHU4MTAzSi0zX05oM0NLQVpua1VFNmJfcWE3cmh1al82V29SdDhCSkc4d9IBrwFBVV95cUxPQ1M5eHo1Rk9NaE5DM2hNbGF1akUxczVaekNKRWRUN3JxZ0ZJd05TYno2b2o2bVU0ZWJxWE5GWE5kT19lRHR6Z3k0TVpkaXFuY2dBMXNmaFE2YWpubno0VGZFUFlEbEJqY2NKODVWX09BVUpEUGZTXzRrY3RZWi1YUFdtaUN2amFOSm1sNXJRRzA3TW84Sk0wcUJYN1NCSEpKbV9ZZk8zNUtZSzJVdjFV?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261121T063912Z",
-          "pinned": false
-        },
-        {
-          "title": "Russian strike in Zelenskyy’s hometown kills two, wounds 60",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc0hQZ19MeU5Jc2FhSmswLUJ4V202NlpfZjNFTllYa21DVi1BTzYwWXQycnM5UHFVM21LWWpoalFGWHMxbkFoV0JNUDllY1hyWUVaMU5fNmJVeGVVUUJLaXdTbnpBdFFFTkZBUnpQX0xyb0d6Tm5JQ25qelMyeU50T1hpZFNtR3hXN1JpcWRQSldicWtjR1ZDSVBoYkdjbDZV0gGmAUFVX3lxTE1XQk01eDBoOEd5Wm8wXzVORXd2Y1VRS1hWRjJ2NC1mZldyQjlNcnZMT1FsLUp6cXV6YjJFeWd4WGNoZGE4WTVYR0NnLUJ1SXVQVDRZWjdQbjc2V01OengzbkE0QjdBcnNoTERDbnA1X3pBNFptMjNfUkVzZnQ5dUM2VXBveTV4bERieXpxZDJLV2VvRG4wdWV2NzVLX3JUTE54TnlZNWc?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261121T180142Z",
-          "pinned": false
-        },
-        {
-          "title": "Iran unveils dual-missile launcher, new ‘missile city’: What to know",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZWZsOWN0bmtuM0VnLWpjVnlLMXVfeVdqdFlkZjVsb01uLUJhUjFoOC0yeDZtLURYbVBObWg3T2dUQm51akxZMVJfeU43Nl90eHNfc29hNVVNVG40dXd1V1VvTUtUSE5nVGFDOTdRN0tVa0xGS3BXUm9Ycm5MVDdtRXpyZWN5WFhZc2ZnSldjcXI2N0ZHTTMtSjFLZVdYTFpYWGNubk9ZM3FJUdIBrwFBVV95cUxQTGlqSVNoVU0xLTB4MDNLbW9haElfa3ZsWFVqVVFvV3I3RU04eEItYnlUTTUxNEw1N3ZMUjJab2wtcmw5M2FHbVJOdmpnUG40bGVBdURINWs0cXVMaUJuNjRHV0RSemV4T3ZBQS1nQ1VITGtUemZaY29JMVJwaFlVTm1NUVZsRlNBeUNVRXg0aVNlZWdFNmhDRWs5UmR3cFplVFNaTDl0RnRpMXpIaHFZ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261122T144245Z",
+          "seen": "20261124T213315Z",
           "pinned": false
         },
         {
@@ -2765,6 +2781,14 @@
           "pinned": false
         },
         {
+          "title": "Russian strike in Zelenskyy’s hometown kills two, wounds 60",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc0hQZ19MeU5Jc2FhSmswLUJ4V202NlpfZjNFTllYa21DVi1BTzYwWXQycnM5UHFVM21LWWpoalFGWHMxbkFoV0JNUDllY1hyWUVaMU5fNmJVeGVVUUJLaXdTbnpBdFFFTkZBUnpQX0xyb0d6Tm5JQ25qelMyeU50T1hpZFNtR3hXN1JpcWRQSldicWtjR1ZDSVBoYkdjbDZV0gGmAUFVX3lxTE1XQk01eDBoOEd5Wm8wXzVORXd2Y1VRS1hWRjJ2NC1mZldyQjlNcnZMT1FsLUp6cXV6YjJFeWd4WGNoZGE4WTVYR0NnLUJ1SXVQVDRZWjdQbjc2V01OengzbkE0QjdBcnNoTERDbnA1X3pBNFptMjNfUkVzZnQ5dUM2VXBveTV4bERieXpxZDJLV2VvRG4wdWV2NzVLX3JUTE54TnlZNWc?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261121T180142Z",
+          "pinned": false
+        },
+        {
           "title": "Strait of Hormuz swim highlights environmental cost of war",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kcWtQNHRXVEgyNVpYYl92OHhaRkFUSzNJT201dzJES05OZnhpN3dhMm10UDd4ZWlwNHNreWtuWEdaakNOTzFScVgtcENpQkMyU3B4OGpXbS12cG8?oc=5",
           "domain": "bbc.com",
@@ -2773,11 +2797,11 @@
           "pinned": false
         },
         {
-          "title": "Israeli settlers attack several Palestinian villages in occupied West Bank",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNc2pIWUdPbDhyMDg4VWRUbEliRGNib2JLTmJOR211NDZ3bHV6VmtZRVUtY25rMERVS2IzZ05aQkdTSmJ2QWNRcFBjeXBMQ2hzMEdsOWlxUWMtMC1aOUJfdW4tWTlObC00VV8tV19XSmFTRXVQRmYxMjg3dERRR2trSWp2aTdiQXdLamxTS1dqOXJ3OWFPY1RYRUxOdzZ1RG4tbmJWc21GQ0tXX1IwVWEwN1lsODFVOU3SAbwBQVVfeXFMT3dsZUpFZXJrcU4yZTU1ZTZuOWlSZ2hsM3JUYzN2Q2VLS2hESEI3UnVrMm5OLWU3aEJFVkU1dGFrRVduUk9jNXJFVW1kWEk1akExQW5PNzBJWlRlenJldzdHdm9Wc3g3MTU4YjRhaHVoc1R6ZE51dW1UdUdISHpWWEt0ZVk3bWtiUWJfX0djMGtHeG9vM1lQZWplUFpqTnR0LXI0RFpjaHBxXzV0ZVVJQ3hySlpjMXhBcWFCWFk?oc=5",
+          "title": "Israel’s Ben-Gvir accused of seeking ‘religious war’ over mosque raids",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWTFRV1ZvcGNlMkxybzI0RUVHOG1rYnFzMmN1M1haTE01VENxREtacmQ5MzZ2VDRleUZOZmtCRUh3ZnJ0aWlRUXFiV3N1VTNNSGNOVGtTZFRGNnc1clpQaERyNmdwQ2RaOU1CZHB4TEpETFFPQzJyR1hzN1lVd2RlTE1iM29SOUtmLXd5ZjRGOTFydnFoZjlfTW1UOFFubUJkUUZESm5ULVlQRDZfeFHSAbMBQVVfeXFMT252TnFSSDZKUmplMGtxSEJERV9STlBHOGQteEJXY1o4SXE5UC1YVnpXaXRhRWlvcER3WTR6VGt3aFhGS243NDdwZklENWZtb05ud0pSaFp5QnJvSnZ3REF5Y1V5Qjd4SU9QemFIcFhaUWJVdWdfVTUzS1h6N3FkbDc0b2Jndk41R1p2QUJkYlVnWHRORVEtdVNaOEF0ZHZaa0dVSDdkRmhJN2xyaUJqUEFGb3M?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261122T123052Z",
+          "seen": "20261124T190703Z",
           "pinned": false
         },
         {
@@ -2789,6 +2813,14 @@
           "pinned": false
         },
         {
+          "title": "Israeli air strike kills Hamas internal security chief in Gaza",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aWXBtVV9ybjU2N1lialNXc0EtYlJQU1NpRWdtcURtY3ZaMVZJcklRNVdpQ0xhcUUzOUhSMzJtUTY3d0FueUpTWEVKVE5QUDVlUTVVeFZNbVFHMWc?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261124T153553Z",
+          "pinned": false
+        },
+        {
           "title": "Zelenskyy says Ukraine was behind drone attacks on Russian ships off Libya",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM1FmOGYwcEh6Rk5MNnNVVjA3eGZ2ZFBIc0VRc0lSNkI2MUE5NTI2WVZnemZZMkRIcmw2UE4zcmJyUGg5ek9VTmhNNXZpeWR1dWtUTE9NTDliaG9LZWNKb2NKdEFVaHE4N0JFMktnVldYWXAtOFBWaE9mZHZxZVE4OWJVV240RmJkOW5aOW9jakdwSzZTeVBLanBxTXh4QmcxWFZhbGJwMndmZTMyN1BHeUh5Z9IBuAFBVV95cUxQVXFtbU85SlhXR3NKMF9Fd1VrelFHOHBzaVRZZVJMcVNlQnFTZkp0bmJKbzRrOWhkWXdFcHROZG5aaGIwempKSGk3R0hmclQ3M2xMMXNKb2VUcG9UNENYOUh6SHh0MWR3UzhNLUpjQ0VnVUE2dGZJUjRLNzZVTUtscFNTbEpLWlpYRGxTeUJveXU4cmJEb0RKYUwwV3M2cVNMclRQd0k0LVZJVm55ZzZLNGNhN1IzREVh?oc=5",
           "domain": "aljazeera.com",
@@ -2797,19 +2829,19 @@
           "pinned": false
         },
         {
-          "title": "Can mediation succeed in a war-torn world? | Episode 1",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZElJRmUtMFkxS1ZBaFZPU3BvcmZld1ktVE5oeG5oeXZjUTQ2Z2laaHhqc0d1M29mUWJwdjVDYkdUR2RxY3NncUJtTkhCdTk1S09XZTAwVlpad1U4X3pXNVA3LTAycmN2U1E2a0NFVXpycWEwV1pDUFRzT3B1ajB5V1hvRGhRVXo5V0ZCQjVJZTk3YWRuRGJ3RUlOS3F1SzEzNXF3czJqeDhTM1NjUm9ndHNPdkRhTjRm0gG-AUFVX3lxTFB3a25oSENiUDlSbjBjSzgtNXZRWmZJMU9QQmRLZUw4cDNyVnUwYXFLSW1OVUN1dEV1TkVuNjk0Q2c4MjI5NXhjQjRWeDZTM1k2Ml9saXVlWm4zamhHWVdWMlRabHl6T1htcm5Mb3d2dzNjQ2c2NzJMSkhhY0hXd0Q4NllVNmV4c19zMzhZbTRXRlRwSmNTbmp3djdwLVFsTDE1T1kzTG44X0phYlNKY2xMcTgydG4tVU4zVXVwbGc?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261121T074500Z",
-          "pinned": false
-        },
-        {
           "title": "Drone attacks kill four near Sudan’s capital, damage UN building",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95V2lBM1hDaWY4eHByMlh4RnpLTkhIOVBtQnFXMHM3R0hfV2lxZEZSNTNBbEg5cHowV2VobnNxU3VnZzlTMU16alVwNjJ0XzBNNlRCVElvdEFkVkV0RFhSV3ZvV2FUQThMSzdqLXVYNDBIeWxmTHpjd3FwUncwME3SAYQBQVVfeXFMUGo3NGlSR1RUbFN2RGd1QkNpQUV3YlpOOGhNc2lvYWs1WVVEbmpJNjVBanY2Mk1LZWFvLWJCLVdYU0pqaFRLUGNHYi1wM2J0cGdqSkVUQkRlbGo4bEh3SENuQjRFUC1uSms0TDJCR19UU21VSEk3b2I0UmR5NVdWTjFIdjFS?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20261123T095703Z",
+          "pinned": false
+        },
+        {
+          "title": "Russian strike kills two in Ukraine, days after ship attack off Libya",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVXhQTzZUNTFmWlZvRU9kMmJPRXUyYjVlM3V1Y0Q5SU1DbGRMdWJWdS1ZazhfQnNlanI2T3dDbDJhNkltZmNSUF9nSkFHX3JBOXdIYnFhMjdvM2NjTDhZQTVMUktTTVh6ODE1SDJ1b0xGTG1EU0huWnhSYWwwWEhLWnJwMER3ZGhsalE5ajk3WVBCTHhvcERySGFPazhnd0nSAaQBQVVfeXFMTjAyLVJYTzNEWkVPLTctVnk2Znl5TEJQaF9WSUhmNjVvSXg4UUdKS1JZc05RZE1JVlVIVkl4aVJxT0NuY1pFOUIyQ05YVG9zMHNISzd6NWRqeGZmLVg3VkxFNGlBWThZM2hlYmxuTmxTaW1MZGZsNFVZQl9tOTRjLXMwcERzTDBDd2JIdlViRlM5TWpZU1pmUGVJa1RpN25KYVhVQ3k?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261124T095833Z",
           "pinned": false
         },
         {
@@ -2829,43 +2861,11 @@
           "pinned": false
         },
         {
-          "title": "Endurance athlete swims in Strait of Hormuz to highlight Iran war’s impact on wildlife",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQ0JtX0ptcWJJLXVuYkhxaG1uNTFXV0hEdzRSUDZIckpCQWVfVWZtMWU5b3AzYjhUcTdvdjNrQmNXMnVFSTdZWE9wTnhWQ2NBSnpBT0thUEdMQ1hKcGY0aURSMXFiM1UtUktHVEIzbzFCM2JYRGRvb01yOGhFSkNVSlJabk9fUUx1ekk0QWFNQzBOVDRvamdrRmZmcw?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261121T190200Z",
-          "pinned": false
-        },
-        {
-          "title": "Ukraine says it sank Russian warship in naval drone attack off Libya",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOHBEbnBOTldtai03VUJ5TEdnMVZpd2RNZi10UzRGMy1oY0dzbDRNakYwTjFIaTA0a1R5UTBNak5RTGpxQWRnNERSQTJnWDVYclktUFBoQWRHNjI3UllJNHZkZTNmRTRGT0NPay1CMVZJUkg5VE1ZM2dxb0NnRzN1T0pnc2JQUHZFY3IzanBUbzJXYzRMamFUbTJwOHFuRzViM3B0SGR3RnRlRUd3UmxJbG1NOU90RGF1YjlLOQ?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "seen": "20261123T075716Z",
-          "pinned": false
-        },
-        {
-          "title": "Missile on truck in Llangollen goes viral on TikTok",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CSTBJV1doemtsNl91amR6MXgydmRGNldiMFp2Yi1kVXdlTWJPYjloa1JEWU1vTFFNRXdXRkZteC1qdGZxaEQ4Z1o0NkFpbHowY1RfOXpsTFZqS2c?oc=5",
+          "title": "Ukraine war: How drone attacks on Russian ships in Libya unfolded",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9XNlJzN0lVODZsVklKNFB0SFJPeGUyXzJqel9taWExcDlFUmJscFJnMVZ4Z0tpUktUTEJxZHNLcnhQaTc4UElSZ29DUVNqVFI1Y3NQdG5QWks?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261124T060043Z",
-          "pinned": false
-        },
-        {
-          "title": "Civilians killed in RSF drone strikes in Sudan",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQd2twanBDZGZqWURQRTFDcHF5VTdfTmJjU1dYNTh0WENNZ2Izb1VTem1nZ2NGSm00MEVUZlVCUmNITjY4Zl9oMWxfZVBmVjhaMThJUS1OTHVJNmFJU3pOV0trTFhHVlJPNXFqYmt4bVUyVGxPVHdlVEtYZlNlMnh6RGJVbWV0aHYtdS1iZkJoVmpwTERkbUw3VzEwbkozLU3SAaQBQVVfeXFMTk0xOG5wbU5Ncl9qQmhRV3pFbTdTRU5mMUl0N3ZyZ2MxQ0VOclU0Z1BFeWZMdFVrV3AzNFRQU2Q4c2F0VUJ2SFNwWm9TZURWMHUzZHVfZ00tZi11akU4Y080TVBfbHU0UWNNZEh3STFabnV2US1ZdUY1NjhyN3EtWmVaUTEtdEZ2N2NoWWd0eXNXWFc2UjNldks3NjVsdWtCZ2ZQT2o?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261122T182651Z",
-          "pinned": false
-        },
-        {
-          "title": "Sudan intercepts drones launched from Ethiopia targeting Khartoum, local media reports",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNGdHOTFpWkRzb0xudHlKeHQzTzkzdzM1dzlRRVkwNlhPNUdFMWI1a0VwMFFxbzYxc3R5dzdKb1JDaFpBTGNSLTZGTDcxU2l2cllocG1tN1hiSlJFMHlxWXpRX0NfNlQ5Y2F3ZDRpSXNPQ1hkYXg4dnNyZXJiMk10WXlWWUw1Y1RidE84c0E4TFBRTGxtWFg0MHhpcTNoclVnUzNVV3FRVExoNlJTNURRaFBHa3RGazZONU1IbkNkalZSUkk0NmxBOHNn?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "seen": "20261122T114130Z",
+          "seen": "20261123T143212Z",
           "pinned": false
         }
       ],
@@ -2878,6 +2878,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-11-23T08:59:27Z"
+        },
+        {
+          "id": "report-f7291f90040a",
+          "title": "How the Iran war is reshaping the US military presence in the Middle East",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd1lWbk8tVk1NdEplNmRSV2VFb1RGampOZmZQVy00VUUyRHZsYURmWFF6N3ZpRUI5MW45Y01oUUFxeW1vVkNEaXo3c1dqU0JuYmZEOXlVOXlZSlV6S200OEJZQXZTV1RHZ1RQRi1FcGROTTc5cFNkV084VHFfTWJ4dUhCbzgwSlZzUnZiVUYwVDZ3R3hHYVZ3b0F2Y3J1NDVSdmhMQWdfQTYwREE5UXFpeFZGd2J6d9IBuwFBVV95cUxPRzF3TWtNM1BFSFdlbV9wb1dyUjBPak0wUFlVYU1NSHRlVHhJNTRUT0x2bWhYT0g1NUlhTXRCMTM3aG9SLWZsd0FyMWxLRllNWnlXejZVYV9VY3pndkk3am1TaHRlNTFEdGhUM1FzR0k1RmZHc2FhemN2a3lJZHdnUUdrOVpvTGJkRmpVRzlMc2tMWWhuWjJPemJXc1RMaFFJYllzUTR0QXJHMi13aWkxeDJIb0JjMndreExr?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-24T15:14:33Z"
         },
         {
           "id": "report-608eb3244524",
@@ -2907,6 +2916,33 @@
           "reportedAt": "2026-11-21T11:06:42Z"
         },
         {
+          "id": "report-98a123181f5a",
+          "title": "Global land mine casualties hit a 5-year high, driven by Myanmar’s brutal civil war and Syria",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbk04OE9hZ1ZBVWJFREY0V0o3ZXQyb2lfd2NaakNCTFAwU2wzcGdpRzI1WWkwYXBwMUE0X3N2UWkwbFVfZmthV3laYTUxdDJYRHhOQW4yQXBpZXY3cFhQZEJpQVpXWUxyYUxvcm9xZ1lrOU0yNjBWbTV2UnJHZlV1V3ZFSWp2eko5Z0JDRnpwUXc5c2oyQy1DdzdZVXVQXzRqZFlBVDBDSUwzNTQ?oc=5",
+          "domain": "apnews.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-24T08:14:00Z"
+        },
+        {
+          "id": "report-1f72610d9833",
+          "title": "Why are Russian warships off Libya, and will Ukraine’s attack change that?",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSk85RXFLazAzd0N4clEzTXBnaVhFVUF4VG9MRlFfSHVuLW02RFNlaENvQzM5OVF1a0FrUEdQUk1PU0dRbUZEbjhqSHpULUJtdzRBTWlubm9ZTWpFYklDZ2VxdXlBR2lfMVlmZ2xQaGt1aC1Tdlo4RTVXUmFBdzRhLUxvNmY2S3hvSW05SjN1aW9jV1A4SXMxaEpuNU1BcURXbnRHVURJM1c0V1dsQVg5aTZaRdIBuAFBVV95cUxOWnc3X1o3VExtU3dOaTMxb0F4MERlaWhhSVoydVdJM1FoN2xDOFMxSHBPa1MzeEcxN29KSlMtaTI0N3NwSnpGVnZ6WFlZR1JWSEZxUEd4dEpwN0I5bzFLNVhjaWo2ZkhaRkwwcml4RDFLdlp1YWJfeFlWU0p1aE5wVHBvb3dOTEdWRzdIOEVnV0JWY1lYdndzSkpZRlNELU5ORmJiczVPSy10SENrcC10Y0dfRmJtRXBZ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-24T11:35:21Z"
+        },
+        {
+          "id": "report-07120b6ae3b7",
+          "title": "Could Russia-Ukraine war threaten Libya’s fragile reunification process?",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNb3VCbzA2cllMdlZvQU1ZclBLd0ZOV2xCVElUZi1ZaGdPemZYZFhBeW4xYUE4dkhzaW1VOGFxSjhRQ0Y3Q196TmtYeEpWejEyaEtZUUJLODRNMWNsREkxR1Bibmc1eFJibUdEWHJyTmh2NkJwQXBpd0VFZG1xREROTjJhYTdkUHVQSFAxcFpmQUZLWUFmLS1CUWNLM1lFbTZUN19Ga0Y4T0FLVElKSnM4ZGRLVkItWGMyMFJIMEd30gHDAUFVX3lxTFBDM21DMlk1Mnp6MWwyT2plZVlDdWJXQlVuSHdxd01ZNmJPOGs2ZGYxRGVtRmctRFRtbm1rY01Pc0RvWlVKeXFUSlAzeW5fVEVMblQ1TmFkRy01amkwZWlYbGFSbGlEZzVYRko3anNmcDFySkl0Y1FtdWMxOFVzTFdYbTZYZGdKSkoxT1FzbEZsamttX1dtdU9Ia2JIX0pPRlV0cVh5M3JLU0daLTZUeVkyNF9VdmRQb0tLREFZQ3kxZ3YxVQ?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-24T14:19:52Z"
+        },
+        {
           "id": "report-948601bd7c28",
           "title": "Bahrain says Iranian attack caused fire at industrial facility",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaVlibGxsbXZhME1WYWYtNmJmUHpzSTg5RHRBUVlEbmkxUUk1X183TE9xbV9raDRRTkxZcXZIa3VMX0d3RFU2OEh1YXRLMkNObnUtbEp3cC1WcTUzUXl2dlNBdk02cHdPdXBxeG41NVVHTWk3dEpabE14bGpVemx1aXFrX3pDMUZVZGVSWDhMb1JfcjhPa2FIdGkwMk1zSmVGSVJwMHFfMNIBrAFBVV95cUxOcmJjTXlwWFQ5ak4yeS1scHJoUVVGYVhqSkF1WS13TXR1RFFLdUwtSDZwYmJ2ajZWOGJtcGlLU1diU1NwTXNhaEs3MTlPUnNyUlNNSXVOMXp4ZmVIZVpuX1l4akQ2S09pMWN3eTdhVW81akVGYm50cUIwQ2duZ0ExdFNnN3B0OGwzMGlnc01oMjhyRjlTQjNMa1JrNlpRZlktNkZrUTZZV2xkR2kt?oc=5",
@@ -2916,49 +2952,31 @@
           "reportedAt": "2026-11-22T09:52:57Z"
         },
         {
-          "id": "report-0d75e4bca821",
-          "title": "Iran says it downed US drones over Hormuz as bid to end war remains stalled",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOV0s5elZpRk5PMWVjdWJna2RmUTBNNUVMWTA0dURwcUJIWEVRRUVDYWZYT2dNb1ZNc21taTVIZ0lKa2VGR3IyTk5oZG9HczJpc3ByX0Zra3p3NEMwM0ZGSlg4TnQyd1p0SUtEUWtwTjQyeUUtSWkwN0hmY0dacmJiOTlBSlNTVTRpeUZCcnRfckhHRWpqN05YVHhreTItaGhEVXlGTVdhMXM2TVFTY3kwVTFSN3VTNDDSAbwBQVVfeXFMTVNzaWs0TnJNaXpZYWV2T21kNUtCMEZaNFVEcFQxcFFXQnVMX3ZEY3lhRnJwY3R6bE9LLWgxVnotNEE4RXdnRlBZMzZMVkhrTjl0LUVYSk5Qc1l1b3FseHJOaFRJUkNMYjNwXzdWQlc4V0pxUTUyR0ZidFo5UWFZU1NwZnA2cXk0bkhXWWY0X2tsNDNHVW15a0c0cF9mdVRKa3VCVGRLczZBSk9MZDVHMFdIcGlZRlZtejVIQVY?oc=5",
-          "domain": "aljazeera.com",
+          "id": "report-7973618a751b",
+          "title": "Land mine casualties soar in Syria, two years after war",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4weFhSOXRHbWRGc2RBX0VuYXZIYjZVbzJzUVRQcHNJRTM0OTFQaFA0bHllSmNBa1lOSVdpYXYwYVlIRFNFdEU4S2o1LWZhM0lSX1FrV0xWc1hJMzA?oc=5",
+          "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-21T11:54:37Z"
+          "reportedAt": "2026-11-24T15:17:28Z"
         },
         {
-          "id": "report-87c618bc6eda",
-          "title": "Russia threatens ‘hostile’ Estonia with ‘open war’",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOT2tuUzB4em5zWEgwZUpEZ0szQ0R2ajRaWmgtN0JoX0RhOVFtcFUtWm13b2k5a083bjdjRTJnUVlLTEtadUFYRm5HQlh3aXFFWkNhT2JCaUJPWTJIWm1jcmJiUW4wakYyd3EzZHhOenBUX1lud0JvWVN4YmIyQURaVTBQUnRkeG1hd09OT3YzRzlmd9IBlwFBVV95cUxQZ3JmTVA1Q3FTaTBjMUZldjgwTHJpcXRYSHhoTXlUbnNNVTg3UUltZzd1eTNhc3hDYlZCOHdjdFluaUpRTlVuc1E2XzBKMmFwQVBFT2pqNDhPc1BDUG4xLUhhX2VIOHpWTnB0cm9heEthblZmemhjQ2U3WHExWS02WlRCc2JTQVlDVXpiMDBKcE1HTkk0YWVF?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-23T19:22:59Z"
+          "id": "report-b98024683f9a",
+          "title": "Russian ship likely hit in drone attack at Benghazi naval base, Libya’s eastern-based government says",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWGRHMVktb2ZHTExpZG1EZlVrMU9NOXdoeWRNUWZBLVhGTTFYSDdJMm4yWFlieldTN1B4RTY1UHA4YTdqZDd6WFFkZlV6QXRYN1JLMl9Kc2RVb3d4aXVFUWlrbHdHNVlWTUFLdlBGTnpQVUx3VXZJaThUd3AyUmx4RVZ5M2RJUUluSnJhQUJxQTIwTmxuWVZ6d0loSVMwSlkzUFFLSlhlSFEzMGtmeGxGbHhCT3k1OVZmSHlDRnVvaXdGdlJhZ0xBUnd2c1lwc1E1WFM2TmlWdw?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-11-22T14:37:25Z"
         },
         {
-          "id": "report-e93b1cda1071",
-          "title": "Sudan’s war will end, but will it be too late?",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUy00VFBBN1E5ZmxpOTFxbzN2R0RiVVo5V3FtUXFYRkdCWE8yQmlJcDQzOENHU0JPYVhwTDgwU1pSRjg3N0FlTWZzM1FSbmxnaUhJN2ZUejQ3WHJlcWloWi1lMlJZTFNkVFNxeFJwckJSTkI3TEoxWEloTS12aU9XSFZ4TzFEWFZiOVoxVTJweHY0bGPSAZgBQVVfeXFMUEw2N3lIMFFEQndQc2plVzE3SnBMZFdFMjJCb0FxdEd4RzM4cHZwOHFwa1ZWYmlPZ1NZQjl3UW00NXl5VDFLblZINzRGSkpwZ1B0Uy1oLS1lbmdaZDBjT3RRaEV3V2Vkb0dlVFE3WE4zb0k4M3R3NHNRWkNUX2ZZWWFKZTVmTVcwYWVZYkgycHRSUmRSeWluaEc?oc=5",
+          "id": "report-97352e70f5f2",
+          "title": "11 injured in Houthi drone attack on Riyadh tower, Saudi civil defence says",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT3JsaU96a05ySk9rVHZIazNjQmt6Z2ZCZF9nRWFSVHVqa0s1LVhhRXhVc1VSMjNfWHhQTVZyZU9GZEtsZHRRVU5yVGVUYmVwZkRDNC1iSmYyWDc0UTdhV2pOenhuWDFkQ0ZWWkhwcTFoN2tsU3JjcllUWWJkcDBvUHU4MTAzSi0zX05oM0NLQVpua1VFNmJfcWE3cmh1al82V29SdDhCSkc4d9IBrwFBVV95cUxPQ1M5eHo1Rk9NaE5DM2hNbGF1akUxczVaekNKRWRUN3JxZ0ZJd05TYno2b2o2bVU0ZWJxWE5GWE5kT19lRHR6Z3k0TVpkaXFuY2dBMXNmaFE2YWpubno0VGZFUFlEbEJqY2NKODVWX09BVUpEUGZTXzRrY3RZWi1YUFdtaUN2amFOSm1sNXJRRzA3TW84Sk0wcUJYN1NCSEpKbV9ZZk8zNUtZSzJVdjFV?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-21T06:39:12Z"
-        },
-        {
-          "id": "report-587a401b0c0c",
-          "title": "Russian strike in Zelenskyy’s hometown kills two, wounds 60",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc0hQZ19MeU5Jc2FhSmswLUJ4V202NlpfZjNFTllYa21DVi1BTzYwWXQycnM5UHFVM21LWWpoalFGWHMxbkFoV0JNUDllY1hyWUVaMU5fNmJVeGVVUUJLaXdTbnpBdFFFTkZBUnpQX0xyb0d6Tm5JQ25qelMyeU50T1hpZFNtR3hXN1JpcWRQSldicWtjR1ZDSVBoYkdjbDZV0gGmAUFVX3lxTE1XQk01eDBoOEd5Wm8wXzVORXd2Y1VRS1hWRjJ2NC1mZldyQjlNcnZMT1FsLUp6cXV6YjJFeWd4WGNoZGE4WTVYR0NnLUJ1SXVQVDRZWjdQbjc2V01OengzbkE0QjdBcnNoTERDbnA1X3pBNFptMjNfUkVzZnQ5dUM2VXBveTV4bERieXpxZDJLV2VvRG4wdWV2NzVLX3JUTE54TnlZNWc?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-21T18:01:42Z"
-        },
-        {
-          "id": "report-6b7b4ef84af2",
-          "title": "Iran unveils dual-missile launcher, new ‘missile city’: What to know",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZWZsOWN0bmtuM0VnLWpjVnlLMXVfeVdqdFlkZjVsb01uLUJhUjFoOC0yeDZtLURYbVBObWg3T2dUQm51akxZMVJfeU43Nl90eHNfc29hNVVNVG40dXd1V1VvTUtUSE5nVGFDOTdRN0tVa0xGS3BXUm9Ycm5MVDdtRXpyZWN5WFhZc2ZnSldjcXI2N0ZHTTMtSjFLZVdYTFpYWGNubk9ZM3FJUdIBrwFBVV95cUxQTGlqSVNoVU0xLTB4MDNLbW9haElfa3ZsWFVqVVFvV3I3RU04eEItYnlUTTUxNEw1N3ZMUjJab2wtcmw5M2FHbVJOdmpnUG40bGVBdURINWs0cXVMaUJuNjRHV0RSemV4T3ZBQS1nQ1VITGtUemZaY29JMVJwaFlVTm1NUVZsRlNBeUNVRXg0aVNlZWdFNmhDRWs5UmR3cFplVFNaTDl0RnRpMXpIaHFZ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-22T14:42:45Z"
+          "reportedAt": "2026-11-24T21:33:15Z"
         },
         {
           "id": "report-7b638065422d",
@@ -2970,6 +2988,15 @@
           "reportedAt": "2026-11-23T18:28:16Z"
         },
         {
+          "id": "report-587a401b0c0c",
+          "title": "Russian strike in Zelenskyy’s hometown kills two, wounds 60",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc0hQZ19MeU5Jc2FhSmswLUJ4V202NlpfZjNFTllYa21DVi1BTzYwWXQycnM5UHFVM21LWWpoalFGWHMxbkFoV0JNUDllY1hyWUVaMU5fNmJVeGVVUUJLaXdTbnpBdFFFTkZBUnpQX0xyb0d6Tm5JQ25qelMyeU50T1hpZFNtR3hXN1JpcWRQSldicWtjR1ZDSVBoYkdjbDZV0gGmAUFVX3lxTE1XQk01eDBoOEd5Wm8wXzVORXd2Y1VRS1hWRjJ2NC1mZldyQjlNcnZMT1FsLUp6cXV6YjJFeWd4WGNoZGE4WTVYR0NnLUJ1SXVQVDRZWjdQbjc2V01OengzbkE0QjdBcnNoTERDbnA1X3pBNFptMjNfUkVzZnQ5dUM2VXBveTV4bERieXpxZDJLV2VvRG4wdWV2NzVLX3JUTE54TnlZNWc?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-21T18:01:42Z"
+        },
+        {
           "id": "report-bd9254aa667c",
           "title": "Strait of Hormuz swim highlights environmental cost of war",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kcWtQNHRXVEgyNVpYYl92OHhaRkFUSzNJT201dzJES05OZnhpN3dhMm10UDd4ZWlwNHNreWtuWEdaakNOTzFScVgtcENpQkMyU3B4OGpXbS12cG8?oc=5",
@@ -2979,13 +3006,13 @@
           "reportedAt": "2026-11-21T16:12:31Z"
         },
         {
-          "id": "report-52686204f022",
-          "title": "Israeli settlers attack several Palestinian villages in occupied West Bank",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNc2pIWUdPbDhyMDg4VWRUbEliRGNib2JLTmJOR211NDZ3bHV6VmtZRVUtY25rMERVS2IzZ05aQkdTSmJ2QWNRcFBjeXBMQ2hzMEdsOWlxUWMtMC1aOUJfdW4tWTlObC00VV8tV19XSmFTRXVQRmYxMjg3dERRR2trSWp2aTdiQXdLamxTS1dqOXJ3OWFPY1RYRUxOdzZ1RG4tbmJWc21GQ0tXX1IwVWEwN1lsODFVOU3SAbwBQVVfeXFMT3dsZUpFZXJrcU4yZTU1ZTZuOWlSZ2hsM3JUYzN2Q2VLS2hESEI3UnVrMm5OLWU3aEJFVkU1dGFrRVduUk9jNXJFVW1kWEk1akExQW5PNzBJWlRlenJldzdHdm9Wc3g3MTU4YjRhaHVoc1R6ZE51dW1UdUdISHpWWEt0ZVk3bWtiUWJfX0djMGtHeG9vM1lQZWplUFpqTnR0LXI0RFpjaHBxXzV0ZVVJQ3hySlpjMXhBcWFCWFk?oc=5",
+          "id": "report-d97b6a10e309",
+          "title": "Israel’s Ben-Gvir accused of seeking ‘religious war’ over mosque raids",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWTFRV1ZvcGNlMkxybzI0RUVHOG1rYnFzMmN1M1haTE01VENxREtacmQ5MzZ2VDRleUZOZmtCRUh3ZnJ0aWlRUXFiV3N1VTNNSGNOVGtTZFRGNnc1clpQaERyNmdwQ2RaOU1CZHB4TEpETFFPQzJyR1hzN1lVd2RlTE1iM29SOUtmLXd5ZjRGOTFydnFoZjlfTW1UOFFubUJkUUZESm5ULVlQRDZfeFHSAbMBQVVfeXFMT252TnFSSDZKUmplMGtxSEJERV9STlBHOGQteEJXY1o4SXE5UC1YVnpXaXRhRWlvcER3WTR6VGt3aFhGS243NDdwZklENWZtb05ud0pSaFp5QnJvSnZ3REF5Y1V5Qjd4SU9QemFIcFhaUWJVdWdfVTUzS1h6N3FkbDc0b2Jndk41R1p2QUJkYlVnWHRORVEtdVNaOEF0ZHZaa0dVSDdkRmhJN2xyaUJqUEFGb3M?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-22T12:30:52Z"
+          "reportedAt": "2026-11-24T19:07:03Z"
         },
         {
           "id": "report-b79b2ae1d7ad",
@@ -2997,6 +3024,15 @@
           "reportedAt": "2026-11-21T22:02:19Z"
         },
         {
+          "id": "report-12371d894b43",
+          "title": "Israeli air strike kills Hamas internal security chief in Gaza",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aWXBtVV9ybjU2N1lialNXc0EtYlJQU1NpRWdtcURtY3ZaMVZJcklRNVdpQ0xhcUUzOUhSMzJtUTY3d0FueUpTWEVKVE5QUDVlUTVVeFZNbVFHMWc?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-24T15:35:53Z"
+        },
+        {
           "id": "report-39069fe8b201",
           "title": "Zelenskyy says Ukraine was behind drone attacks on Russian ships off Libya",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM1FmOGYwcEh6Rk5MNnNVVjA3eGZ2ZFBIc0VRc0lSNkI2MUE5NTI2WVZnemZZMkRIcmw2UE4zcmJyUGg5ek9VTmhNNXZpeWR1dWtUTE9NTDliaG9LZWNKb2NKdEFVaHE4N0JFMktnVldYWXAtOFBWaE9mZHZxZVE4OWJVV240RmJkOW5aOW9jakdwSzZTeVBLanBxTXh4QmcxWFZhbGJwMndmZTMyN1BHeUh5Z9IBuAFBVV95cUxQVXFtbU85SlhXR3NKMF9Fd1VrelFHOHBzaVRZZVJMcVNlQnFTZkp0bmJKbzRrOWhkWXdFcHROZG5aaGIwempKSGk3R0hmclQ3M2xMMXNKb2VUcG9UNENYOUh6SHh0MWR3UzhNLUpjQ0VnVUE2dGZJUjRLNzZVTUtscFNTbEpLWlpYRGxTeUJveXU4cmJEb0RKYUwwV3M2cVNMclRQd0k0LVZJVm55ZzZLNGNhN1IzREVh?oc=5",
@@ -3006,15 +3042,6 @@
           "reportedAt": "2026-11-23T10:39:10Z"
         },
         {
-          "id": "report-68d420bef38e",
-          "title": "Can mediation succeed in a war-torn world? | Episode 1",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZElJRmUtMFkxS1ZBaFZPU3BvcmZld1ktVE5oeG5oeXZjUTQ2Z2laaHhqc0d1M29mUWJwdjVDYkdUR2RxY3NncUJtTkhCdTk1S09XZTAwVlpad1U4X3pXNVA3LTAycmN2U1E2a0NFVXpycWEwV1pDUFRzT3B1ajB5V1hvRGhRVXo5V0ZCQjVJZTk3YWRuRGJ3RUlOS3F1SzEzNXF3czJqeDhTM1NjUm9ndHNPdkRhTjRm0gG-AUFVX3lxTFB3a25oSENiUDlSbjBjSzgtNXZRWmZJMU9QQmRLZUw4cDNyVnUwYXFLSW1OVUN1dEV1TkVuNjk0Q2c4MjI5NXhjQjRWeDZTM1k2Ml9saXVlWm4zamhHWVdWMlRabHl6T1htcm5Mb3d2dzNjQ2c2NzJMSkhhY0hXd0Q4NllVNmV4c19zMzhZbTRXRlRwSmNTbmp3djdwLVFsTDE1T1kzTG44X0phYlNKY2xMcTgydG4tVU4zVXVwbGc?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-21T07:45:00Z"
-        },
-        {
           "id": "report-f8c6e32bc6a0",
           "title": "Drone attacks kill four near Sudan’s capital, damage UN building",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95V2lBM1hDaWY4eHByMlh4RnpLTkhIOVBtQnFXMHM3R0hfV2lxZEZSNTNBbEg5cHowV2VobnNxU3VnZzlTMU16alVwNjJ0XzBNNlRCVElvdEFkVkV0RFhSV3ZvV2FUQThMSzdqLXVYNDBIeWxmTHpjd3FwUncwME3SAYQBQVVfeXFMUGo3NGlSR1RUbFN2RGd1QkNpQUV3YlpOOGhNc2lvYWs1WVVEbmpJNjVBanY2Mk1LZWFvLWJCLVdYU0pqaFRLUGNHYi1wM2J0cGdqSkVUQkRlbGo4bEh3SENuQjRFUC1uSms0TDJCR19UU21VSEk3b2I0UmR5NVdWTjFIdjFS?oc=5",
@@ -3022,6 +3049,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-11-23T09:57:03Z"
+        },
+        {
+          "id": "report-ca3b8c3932d5",
+          "title": "Russian strike kills two in Ukraine, days after ship attack off Libya",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVXhQTzZUNTFmWlZvRU9kMmJPRXUyYjVlM3V1Y0Q5SU1DbGRMdWJWdS1ZazhfQnNlanI2T3dDbDJhNkltZmNSUF9nSkFHX3JBOXdIYnFhMjdvM2NjTDhZQTVMUktTTVh6ODE1SDJ1b0xGTG1EU0huWnhSYWwwWEhLWnJwMER3ZGhsalE5ajk3WVBCTHhvcERySGFPazhnd0nSAaQBQVVfeXFMTjAyLVJYTzNEWkVPLTctVnk2Znl5TEJQaF9WSUhmNjVvSXg4UUdKS1JZc05RZE1JVlVIVkl4aVJxT0NuY1pFOUIyQ05YVG9zMHNISzd6NWRqeGZmLVg3VkxFNGlBWThZM2hlYmxuTmxTaW1MZGZsNFVZQl9tOTRjLXMwcERzTDBDd2JIdlViRlM5TWpZU1pmUGVJa1RpN25KYVhVQ3k?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-24T09:58:33Z"
         },
         {
           "id": "report-d8c660d32ed0",
@@ -3042,49 +3078,13 @@
           "reportedAt": "2026-11-23T09:47:36Z"
         },
         {
-          "id": "report-89305d980b24",
-          "title": "Endurance athlete swims in Strait of Hormuz to highlight Iran war’s impact on wildlife",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQ0JtX0ptcWJJLXVuYkhxaG1uNTFXV0hEdzRSUDZIckpCQWVfVWZtMWU5b3AzYjhUcTdvdjNrQmNXMnVFSTdZWE9wTnhWQ2NBSnpBT0thUEdMQ1hKcGY0aURSMXFiM1UtUktHVEIzbzFCM2JYRGRvb01yOGhFSkNVSlJabk9fUUx1ekk0QWFNQzBOVDRvamdrRmZmcw?oc=5",
-          "domain": "apnews.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-21T19:02:00Z"
-        },
-        {
-          "id": "report-8ea7f567c3c8",
-          "title": "Ukraine says it sank Russian warship in naval drone attack off Libya",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOHBEbnBOTldtai03VUJ5TEdnMVZpd2RNZi10UzRGMy1oY0dzbDRNakYwTjFIaTA0a1R5UTBNak5RTGpxQWRnNERSQTJnWDVYclktUFBoQWRHNjI3UllJNHZkZTNmRTRGT0NPay1CMVZJUkg5VE1ZM2dxb0NnRzN1T0pnc2JQUHZFY3IzanBUbzJXYzRMamFUbTJwOHFuRzViM3B0SGR3RnRlRUd3UmxJbG1NOU90RGF1YjlLOQ?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
-          "reportedAt": "2026-11-23T07:57:16Z"
-        },
-        {
-          "id": "report-10334583197b",
-          "title": "Missile on truck in Llangollen goes viral on TikTok",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CSTBJV1doemtsNl91amR6MXgydmRGNldiMFp2Yi1kVXdlTWJPYjloa1JEWU1vTFFNRXdXRkZteC1qdGZxaEQ4Z1o0NkFpbHowY1RfOXpsTFZqS2c?oc=5",
+          "id": "report-dd8838cb3d5c",
+          "title": "Ukraine war: How drone attacks on Russian ships in Libya unfolded",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9XNlJzN0lVODZsVklKNFB0SFJPeGUyXzJqel9taWExcDlFUmJscFJnMVZ4Z0tpUktUTEJxZHNLcnhQaTc4UElSZ29DUVNqVFI1Y3NQdG5QWks?oc=5",
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-24T06:00:43Z"
-        },
-        {
-          "id": "report-f5dada94a825",
-          "title": "Civilians killed in RSF drone strikes in Sudan",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQd2twanBDZGZqWURQRTFDcHF5VTdfTmJjU1dYNTh0WENNZ2Izb1VTem1nZ2NGSm00MEVUZlVCUmNITjY4Zl9oMWxfZVBmVjhaMThJUS1OTHVJNmFJU3pOV0trTFhHVlJPNXFqYmt4bVUyVGxPVHdlVEtYZlNlMnh6RGJVbWV0aHYtdS1iZkJoVmpwTERkbUw3VzEwbkozLU3SAaQBQVVfeXFMTk0xOG5wbU5Ncl9qQmhRV3pFbTdTRU5mMUl0N3ZyZ2MxQ0VOclU0Z1BFeWZMdFVrV3AzNFRQU2Q4c2F0VUJ2SFNwWm9TZURWMHUzZHVfZ00tZi11akU4Y080TVBfbHU0UWNNZEh3STFabnV2US1ZdUY1NjhyN3EtWmVaUTEtdEZ2N2NoWWd0eXNXWFc2UjNldks3NjVsdWtCZ2ZQT2o?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-22T18:26:51Z"
-        },
-        {
-          "id": "report-d0da6f6f191a",
-          "title": "Sudan intercepts drones launched from Ethiopia targeting Khartoum, local media reports",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNGdHOTFpWkRzb0xudHlKeHQzTzkzdzM1dzlRRVkwNlhPNUdFMWI1a0VwMFFxbzYxc3R5dzdKb1JDaFpBTGNSLTZGTDcxU2l2cllocG1tN1hiSlJFMHlxWXpRX0NfNlQ5Y2F3ZDRpSXNPQ1hkYXg4dnNyZXJiMk10WXlWWUw1Y1RidE84c0E4TFBRTGxtWFg0MHhpcTNoclVnUzNVV3FRVExoNlJTNURRaFBHa3RGazZONU1IbkNkalZSUkk0NmxBOHNn?oc=5",
-          "domain": "aa.com.tr",
-          "sourceTier": "State-affiliated reporting",
-          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
-          "reportedAt": "2026-11-22T11:41:30Z"
+          "reportedAt": "2026-11-23T14:32:12Z"
         },
         {
           "id": "report-77fd8df98793",
