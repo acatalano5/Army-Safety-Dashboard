@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T21:41:50.398Z",
+  "generatedAt": "2026-11-25T23:48:20.532Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
@@ -9,7 +9,7 @@
       "items": []
     },
     "safety": {
-      "generatedAt": "2026-11-25T00:08:06.022Z",
+      "generatedAt": "2026-11-25T23:48:20.532Z",
       "cadence": "daily",
       "items": [
         {
@@ -21,6 +21,14 @@
           "pinned": true
         },
         {
+          "title": "PLR 27-005 – Sports, Recreation and Physical Training Mishap Claims One Soldier’s Life",
+          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPTDhMYlNIUWhHOXRILTRfYmRCYUk5LXNzOHJ4TFNiU0dWZjVGVTFlbkJrd084d0x0QlJrMjNNOTRrOXotdENKVlBCZmQyWG1CdWkzaUZMV1FjeE5FVG5KMkVZZGZ2ZlpVamxTUWNkcTFkNDdKLWtjZHBvOFVlckhWRVFOd21RWjY4ZDdHMGNvOTRxajZ5RGF4cTdWbERUZGl2QmhXVHp3dEgyUEZmdmpRdzRFek01MDZPOXc4SDNUcFpteEd6UmtUYmFPc3dtanV0REpZUEg5TXNfQXYxT2t6bjlucDQwU243RmpOYnQtcUhya1lRWC00dGlpOHRmeHhIY0ZjZVFB?oc=5",
+          "domain": "safety.army.mil",
+          "sourceTier": "Official military source",
+          "seen": "20261109T080000Z",
+          "pinned": false
+        },
+        {
           "title": "PLR 27-003 – Motorcycle Mishap Claims One Soldier’s Life",
           "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZFpzbnRuRmY4elBqZkozdEdYczY4UnFGbC1ONElHUEllWjExemNtT0h0ZUpPSzJSUVRJaWwzZC1nZnFTTXpJVHEzNGxaVTFyYnU0TVNENi1DVnlzaWR5Q1M0VVZVbmNYRnRJY0V1YXozUkFKUW94LVlfLXVhblZPQjMtM0dhVmJWR3F4WUlLaVcwbDl3THYzbG5DUlUxdmZFanp4M0F3UFJxREROQ3ZneEpQeEpGc1VYcTdfWmJCXzB4YVlLYXNmRlk5QzJwU1Y1Nm10WkI5eEFZbXI1bThJ?oc=5",
           "domain": "safety.army.mil",
@@ -29,24 +37,16 @@
           "pinned": false
         },
         {
+          "title": "PLR 27-004 – Motorcycle Mishap Claims One Soldier’s Life",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNHlJcTUwWXhzODd2N3o0bUo2WUtqempTNU9lSmpZTjhGZUh4VXNxNEFxNnFWN0JuZ1lfQjZ5RC1ULWxXakZlVjlFRW15SUcyOThWRjBIbDdrRS1MNUs4YkpDUkJVd3BMQm1hZlRuVVBTdUY3NXA4U3BiMHFCcU5GZ2tIUG5XbEhIbWE1R3FoeGZXejNPWDQwNGdTTVVvOFdOdWNPV1JHdWRDU3hqY1NrcHFOMkVEMlRuQTViUDdoRzEwRjVacElMRDNUdWhuMGZjaFZpbUF0TGVjR1NDRzB3?oc=5",
+          "domain": "safety.army.mil",
+          "sourceTier": "Official military source",
+          "seen": "20261109T080000Z",
+          "pinned": false
+        },
+        {
           "title": "Mishap Investigation Advice",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc19FY29CaU9ZS05HZ010VnR3R2FGa1JBMFZTb2tZdEJLZkpfRTRLdm9VdGEwallmUi14dGlYNC12dmhYU3ZxaXJrQWJBM25LdmxadFFOanlYUWhkZFhmVTF2NG5iTUtfNHVJaWpiRVZ6UmdoVkxxUlU4OFFVVG13UA?oc=5",
-          "domain": "safety.army.mil",
-          "sourceTier": "Official military source",
-          "seen": "20261115T080000Z",
-          "pinned": false
-        },
-        {
-          "title": "Crash Rescue Products",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WQTh5RzJ4RUhLMVQ0bDhKLVkwSVV1SlFSWTd4ZVBVQVJGMFREUHZSclZWT3d1NG9ReHFjclF4VVRLNGRpUW5qWENyLXJ0VEt3Z2RyeEx5WmxxQTJua2hHdExaVTd6MW1IeXdLZVJZcw?oc=5",
-          "domain": "safety.army.mil",
-          "sourceTier": "Official military source",
-          "seen": "20261115T080000Z",
-          "pinned": false
-        },
-        {
-          "title": "Mishap Reporting & Investigation - USACRC",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQa3N3dHMxU2JBdXZfZmptYXdVWXdzMzdKU2pmcXVFSU5uYmxEWUw0UGQ4OGJ0eXUzbF9MOHgzSEowdTRIY3A4VFpKZnlhcENkazdJdGhwVndlenhPdjRGbDgyRUZEU1NDU2kzUDhFb2NEM0JHTmxLSl9pVzNfSEozUUkyTGFHQVJONTJneEhBOGx4NUtQYjl4dC1nYU1qX0lHQXZUZERuV2JwbElWaHZhbkJockR3Z05GS1FpM1NEQnI2ZHprUUE?oc=5",
           "domain": "safety.army.mil",
           "sourceTier": "Official military source",
           "seen": "20261115T080000Z",
@@ -233,6 +233,24 @@
           "sourceLabel": "taskandpurpose.com"
         },
         {
+          "id": "auto-1cd843a89b3e",
+          "reportDate": "2026-11-09",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Other",
+          "event": "PLR 27-005 – Sports, Recreation and Physical Training Mishap Claims One Soldier’s Life",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "OFFICIAL INTAKE",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Official military source",
+          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
+          "source": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPTDhMYlNIUWhHOXRILTRfYmRCYUk5LXNzOHJ4TFNiU0dWZjVGVTFlbkJrd084d0x0QlJrMjNNOTRrOXotdENKVlBCZmQyWG1CdWkzaUZMV1FjeE5FVG5KMkVZZGZ2ZlpVamxTUWNkcTFkNDdKLWtjZHBvOFVlckhWRVFOd21RWjY4ZDdHMGNvOTRxajZ5RGF4cTdWbERUZGl2QmhXVHp3dEgyUEZmdmpRdzRFek01MDZPOXc4SDNUcFpteEd6UmtUYmFPc3dtanV0REpZUEg5TXNfQXYxT2t6bjlucDQwU243RmpOYnQtcUhya1lRWC00dGlpOHRmeHhIY0ZjZVFB?oc=5",
+          "sourceLabel": "safety.army.mil"
+        },
+        {
           "id": "auto-b5da7b534219",
           "reportDate": "2026-11-09",
           "dateBasis": "report discovery date",
@@ -248,6 +266,24 @@
           "sourceTier": "Official military source",
           "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
           "source": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZFpzbnRuRmY4elBqZkozdEdYczY4UnFGbC1ONElHUEllWjExemNtT0h0ZUpPSzJSUVRJaWwzZC1nZnFTTXpJVHEzNGxaVTFyYnU0TVNENi1DVnlzaWR5Q1M0VVZVbmNYRnRJY0V1YXozUkFKUW94LVlfLXVhblZPQjMtM0dhVmJWR3F4WUlLaVcwbDl3THYzbG5DUlUxdmZFanp4M0F3UFJxREROQ3ZneEpQeEpGc1VYcTdfWmJCXzB4YVlLYXNmRlk5QzJwU1Y1Nm10WkI5eEFZbXI1bThJ?oc=5",
+          "sourceLabel": "safety.army.mil"
+        },
+        {
+          "id": "auto-fc0bff0fb354",
+          "reportDate": "2026-11-09",
+          "dateBasis": "report discovery date",
+          "branch": "Army",
+          "department": "Department of the Army",
+          "type": "Other",
+          "event": "PLR 27-004 – Motorcycle Mishap Claims One Soldier’s Life",
+          "location": "See official source",
+          "fatalities": null,
+          "injuries": null,
+          "status": "OFFICIAL INTAKE",
+          "signalClass": "REPORTED MISHAP",
+          "sourceTier": "Official military source",
+          "confidenceLabel": "OFFICIAL SOURCE · AWAITING REVIEW",
+          "source": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNHlJcTUwWXhzODd2N3o0bUo2WUtqempTNU9lSmpZTjhGZUh4VXNxNEFxNnFWN0JuZ1lfQjZ5RC1ULWxXakZlVjlFRW15SUcyOThWRjBIbDdrRS1MNUs4YkpDUkJVd3BMQm1hZlRuVVBTdUY3NXA4U3BiMHFCcU5GZ2tIUG5XbEhIbWE1R3FoeGZXejNPWDQwNGdTTVVvOFdOdWNPV1JHdWRDU3hqY1NrcHFOMkVEMlRuQTViUDdoRzEwRjVacElMRDNUdWhuMGZjaFZpbUF0TGVjR1NDRzB3?oc=5",
           "sourceLabel": "safety.army.mil"
         },
         {
