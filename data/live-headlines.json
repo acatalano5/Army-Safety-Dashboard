@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T23:48:20.532Z",
+  "generatedAt": "2026-11-26T08:14:08.792Z",
   "method": "Automated discovery from GDELT and Google News, restricted to allowlisted official and credible public sources. Exercise intake explicitly covers Active, Reserve and National Guard reporting and does not infer a component when the public source is ambiguous. Safety intake combines daily recent-report discovery, a weekly five-year backfill and pinned official records for major events; casualty values remain unknown unless reported.",
   "sections": {
     "exercises": {
-      "generatedAt": "2026-11-25T21:41:50.398Z",
+      "generatedAt": "2026-11-26T08:14:08.792Z",
       "cadence": "every 6 hours",
       "items": []
     },
@@ -2701,7 +2701,7 @@
       ]
     },
     "conflicts": {
-      "generatedAt": "2026-11-25T21:41:50.398Z",
+      "generatedAt": "2026-11-26T08:14:08.792Z",
       "cadence": "every 6 hours",
       "items": [
         {
@@ -2734,14 +2734,6 @@
           "domain": "bbc.com",
           "sourceTier": "Independent reporting",
           "seen": "20261123T154123Z",
-          "pinned": false
-        },
-        {
-          "title": "What’s behind Iran’s escalation of attacks in the Gulf?",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM1owT2pOYVc3bXd5Z0RTeGlaemVoVXVReXNLeHcza0U3aVo2RW5FWDJjUTFGdGtrNm9OVEY4VVZCYXh6aTZ3bzZaVG1NYzdwZGRYOHRlUXVyanBTVzNTQ0FPNnpLbFl5WDBSamUxQmkxRHVUMG1sMk5xMm9sbmZKOEpwMUxVSHJCamsxdFJEZ3dKUWRoSy1SaGJn0gGfAUFVX3lxTE1sMGtPREkyMU1XR0dvQ0pkM2hraWFPblNyWGtsNC1fY1REcjFELUU2Sk9hNFNpT2dxVmxoU3JZQU9QMmlVWlladjlCRW95bEx6MGItcFNjN1VuMHJQSTZwWm1SQ3pLN28zbE05ZHo4cnBGWFZwZXhUR0VYUC1DMGFkTnV2XzlnZTRubzJtSzJ6YzhwUzgwRk1HdnhpVlNNWQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261122T114936Z",
           "pinned": false
         },
         {
@@ -2817,30 +2809,6 @@
           "pinned": false
         },
         {
-          "title": "US Congress helped end the Vietnam War. Can it stop the Iran war?",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWlFoY0VMNzM3VDhzWHRoaGJ6WXQ3eExKQzBlX3lnb21JZjVvR0xocEVpalhTYWlpT0czWUdkM3JxamY4SFdMZ3EwVmxra1RIbTQzMFZvYlVDSTJxeWh6UlRBT2lJTjkzSDViRlpCSEprQTR3eWhERFJBQlh2eTRqUWZsS2NvYWZ2MUNvYTRVTFZ2Mk10bHpMNTFIVGp1em4wTER30gGoAUFVX3lxTE8xM1o2cUNoMXNWU09ObUNNWjdUT1kyMDN0ZFM4REhoRnowVHBCOFIxcHRqTlF3MllwVnF0ZVpubWpUQnV5VWFrSGZCdUpnbW1jbGVNWXprQ1FkM1JIeG42NHFXM2drbWxWSGFtWkxwWXY5M3BhWXpobU50T09zbmxUVkc5YWhkaEJPTnJaUks5UzBXSldYblV5d042TjdLRkpPOGVCZjRocQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261122T123310Z",
-          "pinned": false
-        },
-        {
-          "title": "Iran unveils dual-missile launcher, new ‘missile city’: What to know",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZWZsOWN0bmtuM0VnLWpjVnlLMXVfeVdqdFlkZjVsb01uLUJhUjFoOC0yeDZtLURYbVBObWg3T2dUQm51akxZMVJfeU43Nl90eHNfc29hNVVNVG40dXd1V1VvTUtUSE5nVGFDOTdRN0tVa0xGS3BXUm9Ycm5MVDdtRXpyZWN5WFhZc2ZnSldjcXI2N0ZHTTMtSjFLZVdYTFpYWGNubk9ZM3FJUdIBrwFBVV95cUxQTGlqSVNoVU0xLTB4MDNLbW9haElfa3ZsWFVqVVFvV3I3RU04eEItYnlUTTUxNEw1N3ZMUjJab2wtcmw5M2FHbVJOdmpnUG40bGVBdURINWs0cXVMaUJuNjRHV0RSemV4T3ZBQS1nQ1VITGtUemZaY29JMVJwaFlVTm1NUVZsRlNBeUNVRXg0aVNlZWdFNmhDRWs5UmR3cFplVFNaTDl0RnRpMXpIaHFZ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261122T144245Z",
-          "pinned": false
-        },
-        {
-          "title": "What Russian warship did Ukraine just sink?",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbDNXME5sRU9sNlRqZFZleEs1V1ZUTlZmOUJlMEJXTFk2UXBLZUtESWxMeDh2YV93X0wtc3hVek9IRW1iSFRXbUpYRXRSUFZvQTJUcmNuR2E5THFlNUd0YVNsNWxlMTFSSE54OWpaMEtEalJfUjQzcGh5NU1Sa0ZxTlFUdzhLV3NLckkwYU5mcjBrLTdLYkszWHB30gGfAUFVX3lxTE1teE1Kd005d1ZHci00NWhHMXRYem5Rd3VxeGVxRkxzbUNheE4yQ20tbmpzb3V2MUpYdDB0aFZqWVhMVW9WRlNqUjUtMTZreHk2TzBOMVBrQUZHUWR3MWZTblhpYUJlSjJSN1JZRGFFbmZmWTVER04wSUF6X3drVTVHTThYeTRsd1UzUUN2NXoya3NPYk5mTmtubTl0b2ktOA?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261123T182816Z",
-          "pinned": false
-        },
-        {
           "title": "Ukraine war: How drone attacks on Russian ships in Libya unfolded",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9XNlJzN0lVODZsVklKNFB0SFJPeGUyXzJqel9taWExcDlFUmJscFJnMVZ4Z0tpUktUTEJxZHNLcnhQaTc4UElSZ29DUVNqVFI1Y3NQdG5QWks?oc=5",
           "domain": "bbc.com",
@@ -2857,11 +2825,35 @@
           "pinned": false
         },
         {
-          "title": "Zelenskyy says Ukraine was behind drone attacks on Russian ships off Libya",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM1FmOGYwcEh6Rk5MNnNVVjA3eGZ2ZFBIc0VRc0lSNkI2MUE5NTI2WVZnemZZMkRIcmw2UE4zcmJyUGg5ek9VTmhNNXZpeWR1dWtUTE9NTDliaG9LZWNKb2NKdEFVaHE4N0JFMktnVldYWXAtOFBWaE9mZHZxZVE4OWJVV240RmJkOW5aOW9jakdwSzZTeVBLanBxTXh4QmcxWFZhbGJwMndmZTMyN1BHeUh5Z9IBuAFBVV95cUxQVXFtbU85SlhXR3NKMF9Fd1VrelFHOHBzaVRZZVJMcVNlQnFTZkp0bmJKbzRrOWhkWXdFcHROZG5aaGIwempKSGk3R0hmclQ3M2xMMXNKb2VUcG9UNENYOUh6SHh0MWR3UzhNLUpjQ0VnVUE2dGZJUjRLNzZVTUtscFNTbEpLWlpYRGxTeUJveXU4cmJEb0RKYUwwV3M2cVNMclRQd0k0LVZJVm55ZzZLNGNhN1IzREVh?oc=5",
+          "title": "My family were killed in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zZU8wbUhnVkxIc1ZwTTdnM1BmNUFybWJTcDhCQ1BZZEU5Njhtek52cVdnN0hsRllhTlJqeVloeFBzbk9pWGItYW1uT2gwNVFsX3RrWHR1QlVUYUU?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261125T005413Z",
+          "pinned": false
+        },
+        {
+          "title": "Ukraine says five jets damaged in attack on Russia’s Savasleyka airbase",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcnZLbDdzMzg2dFlMM0c3d2FkbHpsRTB5Uk1QampGSXI4Sk9lZDRxZDA1LWFBVDVtaGlFS0k0ajljeVBDbEhlS0YwZUQ3bkVDalhCREV3RkhoZEcxamNwMTI1c0E0RUhhdzhhX0h3cnFqOXp1UTNYemRUZ1RwUGFYelBnSlZhekZaeXU2WF9oNU1ja0kxV2hXOGd3V3FwN1dleGg5eGZR0gGrAUFVX3lxTE4xZ05BNnZGZ3J0QWtNeFJ0b0hOSXRkZEJDX2RhR3hNRjluNHFRNTQ2YmhaSFFPR3hCd1luNE1WYUhJaE5YWmFZX3hIcEJXQlJJc1JjdjJKTjYzdVdiUWJ1anBpVF9QaTZBNndlRDlNX0hWWDZaLUVuU2phSm9maVFST3lUNUxtTWJ0MTY1SV9fU0pVVVhYYW1UcU01bEd4WEhteURlMXVMQWxwNA?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
-          "seen": "20261123T103910Z",
+          "seen": "20261126T014351Z",
+          "pinned": false
+        },
+        {
+          "title": "Trump administration debates targeting top Iranian leaders to end war: Report",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUl93dnlXWDI0aXFTbldUWlhmaWUyY1pjX3ZoU0UwVmp4Rmd1YzFWekF5SUpTV2tYR1FCeFhnNUJVLWNhU2c2eENKdkZEUUh0Uzl1X3BfUzgySnlRZzlNWC1wbHpYeGhFTk8yeVRQcExOMkFNTjB1c055MjFOYzFQNUxlZGRzR2lnc3VhZ0hUeFVnSDk4ZWxZNzVqbjRHMUpjUGtYTktMOU8wM2c3di1nenVkbUhDX3RLR1E?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "seen": "20261124T172427Z",
+          "pinned": false
+        },
+        {
+          "title": "How Silicon Valley became central to Israel’s war on Palestinians",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM2RsUEN1V1RwM21nY2ppVzZLajhYT25pZXM0VEFtU1NfRmVoalZLVW0xeFJ0OHRWM1pPVTNaRzB1LUtzbTB3dEkzZUh4SXJUb0RPWkRhVmM5TDhMc091Z2FHUk9jM2ZGNFd5LV85OWhVUHd4SlFNMndvWHp3NkxFOTNjdURUNEtIU0JSUkpIV3VNWmFjNXNZ0gGcAUFVX3lxTE9RQ1FaVXlMblA0TGc1Tkd1RkdjYmZXLTNYanJLdzB1WXp3ZHRJUEg0by1XbDVBR3N1Zy1nVVg5VmkxTWRTR05sV3FUZG9HeDFnZkduYjF5M1JpN2NmbnFsZlhjQ25HdjJwZVlsU2FSci11UVdRel9lbnVqUldrQUJqci02c0xZMmtPSmU4dGhxdVFfSHp4cVNkZHE4Xw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261126T061813Z",
           "pinned": false
         },
         {
@@ -2873,6 +2865,14 @@
           "pinned": false
         },
         {
+          "title": "ICC judge Kimberly Prost tries war crimes. She’s a target of US sanctions",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQWdYMTZKOS1KOXVpdXRLUkVDeGNhaVJOZGhZbVIyRDh2dnA1WUZNM1ZMNVFXMTU3UllPNE5SanBGZW1TX3NyMnM0OHVlalJhZmt1U184Y0wzNUhPa2N4b1FHeldLRTBhb09XVlZwemF6VTVwY0w0eEstMG5yNzdCSzI1WWFKOUNSVHNZcHdDRG9OQ2JUYzFDcHNJWW5NVHIyUHV5RkRHa0NEUEk4ay1FQmd1VdIBuAFBVV95cUxOa0I5N0VOM1ZmRWVnekJDbnA4WENieml4SEFGR3lOLTRBWWZTWjJkeC04SWJLWDRBRldjMi0tUmVyTHBCWjhzb2dqZWo2eVN3OVFac293ckVOYmVKS3loTmw5ZldMdVVscmg2cUpwNDVqamtCaWFKOEFsVnhvU3BUR0VRdnhqY0NKV05JSXF0Um5GZ0UzbGFYVV8wZUoyTldNODdSemwzWTJkVlpqdElfOU9ZRzR3VWl1?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261126T061013Z",
+          "pinned": false
+        },
+        {
           "title": "Drone attacks kill four near Sudan’s capital, damage UN building",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95V2lBM1hDaWY4eHByMlh4RnpLTkhIOVBtQnFXMHM3R0hfV2lxZEZSNTNBbEg5cHowV2VobnNxU3VnZzlTMU16alVwNjJ0XzBNNlRCVElvdEFkVkV0RFhSV3ZvV2FUQThMSzdqLXVYNDBIeWxmTHpjd3FwUncwME3SAYQBQVVfeXFMUGo3NGlSR1RUbFN2RGd1QkNpQUV3YlpOOGhNc2lvYWs1WVVEbmpJNjVBanY2Mk1LZWFvLWJCLVdYU0pqaFRLUGNHYi1wM2J0cGdqSkVUQkRlbGo4bEh3SENuQjRFUC1uSms0TDJCR19UU21VSEk3b2I0UmR5NVdWTjFIdjFS?oc=5",
           "domain": "aljazeera.com",
@@ -2881,19 +2881,19 @@
           "pinned": false
         },
         {
-          "title": "My family were killed in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zZU8wbUhnVkxIc1ZwTTdnM1BmNUFybWJTcDhCQ1BZZEU5Njhtek52cVdnN0hsRllhTlJqeVloeFBzbk9pWGItYW1uT2gwNVFsX3RrWHR1QlVUYUU?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "seen": "20261125T005413Z",
-          "pinned": false
-        },
-        {
           "title": "Russian strike kills two in Ukraine, days after ship attack off Libya",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVXhQTzZUNTFmWlZvRU9kMmJPRXUyYjVlM3V1Y0Q5SU1DbGRMdWJWdS1ZazhfQnNlanI2T3dDbDJhNkltZmNSUF9nSkFHX3JBOXdIYnFhMjdvM2NjTDhZQTVMUktTTVh6ODE1SDJ1b0xGTG1EU0huWnhSYWwwWEhLWnJwMER3ZGhsalE5ajk3WVBCTHhvcERySGFPazhnd0nSAaQBQVVfeXFMTjAyLVJYTzNEWkVPLTctVnk2Znl5TEJQaF9WSUhmNjVvSXg4UUdKS1JZc05RZE1JVlVIVkl4aVJxT0NuY1pFOUIyQ05YVG9zMHNISzd6NWRqeGZmLVg3VkxFNGlBWThZM2hlYmxuTmxTaW1MZGZsNFVZQl9tOTRjLXMwcERzTDBDd2JIdlViRlM5TWpZU1pmUGVJa1RpN25KYVhVQ3k?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "seen": "20261124T095833Z",
+          "pinned": false
+        },
+        {
+          "title": "Energy price cap: The Iran war is being blamed for raising bills - here's why",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Lc1hIT3ZUS3RQVHhnekFxQkxQUmM1Sm44VlY3T1h0Y0xMMDVaWTJXaHhUSl8zODZUeU5lVFd2eHg3ODl5R2xzRXVsUVFRMllKSTZSQ2VDWV9jUDQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "seen": "20261125T145851Z",
           "pinned": false
         }
       ],
@@ -2933,15 +2933,6 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-11-23T15:41:23Z"
-        },
-        {
-          "id": "report-9f1c3f7282de",
-          "title": "What’s behind Iran’s escalation of attacks in the Gulf?",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM1owT2pOYVc3bXd5Z0RTeGlaemVoVXVReXNLeHcza0U3aVo2RW5FWDJjUTFGdGtrNm9OVEY4VVZCYXh6aTZ3bzZaVG1NYzdwZGRYOHRlUXVyanBTVzNTQ0FPNnpLbFl5WDBSamUxQmkxRHVUMG1sMk5xMm9sbmZKOEpwMUxVSHJCamsxdFJEZ3dKUWRoSy1SaGJn0gGfAUFVX3lxTE1sMGtPREkyMU1XR0dvQ0pkM2hraWFPblNyWGtsNC1fY1REcjFELUU2Sk9hNFNpT2dxVmxoU3JZQU9QMmlVWlladjlCRW95bEx6MGItcFNjN1VuMHJQSTZwWm1SQ3pLN28zbE05ZHo4cnBGWFZwZXhUR0VYUC1DMGFkTnV2XzlnZTRubzJtSzJ6YzhwUzgwRk1HdnhpVlNNWQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-22T11:49:36Z"
         },
         {
           "id": "report-07120b6ae3b7",
@@ -3025,33 +3016,6 @@
           "reportedAt": "2026-11-24T21:33:15Z"
         },
         {
-          "id": "report-4862ffb0730b",
-          "title": "US Congress helped end the Vietnam War. Can it stop the Iran war?",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWlFoY0VMNzM3VDhzWHRoaGJ6WXQ3eExKQzBlX3lnb21JZjVvR0xocEVpalhTYWlpT0czWUdkM3JxamY4SFdMZ3EwVmxra1RIbTQzMFZvYlVDSTJxeWh6UlRBT2lJTjkzSDViRlpCSEprQTR3eWhERFJBQlh2eTRqUWZsS2NvYWZ2MUNvYTRVTFZ2Mk10bHpMNTFIVGp1em4wTER30gGoAUFVX3lxTE8xM1o2cUNoMXNWU09ObUNNWjdUT1kyMDN0ZFM4REhoRnowVHBCOFIxcHRqTlF3MllwVnF0ZVpubWpUQnV5VWFrSGZCdUpnbW1jbGVNWXprQ1FkM1JIeG42NHFXM2drbWxWSGFtWkxwWXY5M3BhWXpobU50T09zbmxUVkc5YWhkaEJPTnJaUks5UzBXSldYblV5d042TjdLRkpPOGVCZjRocQ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-22T12:33:10Z"
-        },
-        {
-          "id": "report-6b7b4ef84af2",
-          "title": "Iran unveils dual-missile launcher, new ‘missile city’: What to know",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZWZsOWN0bmtuM0VnLWpjVnlLMXVfeVdqdFlkZjVsb01uLUJhUjFoOC0yeDZtLURYbVBObWg3T2dUQm51akxZMVJfeU43Nl90eHNfc29hNVVNVG40dXd1V1VvTUtUSE5nVGFDOTdRN0tVa0xGS3BXUm9Ycm5MVDdtRXpyZWN5WFhZc2ZnSldjcXI2N0ZHTTMtSjFLZVdYTFpYWGNubk9ZM3FJUdIBrwFBVV95cUxQTGlqSVNoVU0xLTB4MDNLbW9haElfa3ZsWFVqVVFvV3I3RU04eEItYnlUTTUxNEw1N3ZMUjJab2wtcmw5M2FHbVJOdmpnUG40bGVBdURINWs0cXVMaUJuNjRHV0RSemV4T3ZBQS1nQ1VITGtUemZaY29JMVJwaFlVTm1NUVZsRlNBeUNVRXg0aVNlZWdFNmhDRWs5UmR3cFplVFNaTDl0RnRpMXpIaHFZ?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-22T14:42:45Z"
-        },
-        {
-          "id": "report-7b638065422d",
-          "title": "What Russian warship did Ukraine just sink?",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbDNXME5sRU9sNlRqZFZleEs1V1ZUTlZmOUJlMEJXTFk2UXBLZUtESWxMeDh2YV93X0wtc3hVek9IRW1iSFRXbUpYRXRSUFZvQTJUcmNuR2E5THFlNUd0YVNsNWxlMTFSSE54OWpaMEtEalJfUjQzcGh5NU1Sa0ZxTlFUdzhLV3NLckkwYU5mcjBrLTdLYkszWHB30gGfAUFVX3lxTE1teE1Kd005d1ZHci00NWhHMXRYem5Rd3VxeGVxRkxzbUNheE4yQ20tbmpzb3V2MUpYdDB0aFZqWVhMVW9WRlNqUjUtMTZreHk2TzBOMVBrQUZHUWR3MWZTblhpYUJlSjJSN1JZRGFFbmZmWTVER04wSUF6X3drVTVHTThYeTRsd1UzUUN2NXoya3NPYk5mTmtubTl0b2ktOA?oc=5",
-          "domain": "aljazeera.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-23T18:28:16Z"
-        },
-        {
           "id": "report-dd8838cb3d5c",
           "title": "Ukraine war: How drone attacks on Russian ships in Libya unfolded",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9XNlJzN0lVODZsVklKNFB0SFJPeGUyXzJqel9taWExcDlFUmJscFJnMVZ4Z0tpUktUTEJxZHNLcnhQaTc4UElSZ29DUVNqVFI1Y3NQdG5QWks?oc=5",
@@ -3070,13 +3034,40 @@
           "reportedAt": "2026-11-24T15:35:53Z"
         },
         {
-          "id": "report-39069fe8b201",
-          "title": "Zelenskyy says Ukraine was behind drone attacks on Russian ships off Libya",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM1FmOGYwcEh6Rk5MNnNVVjA3eGZ2ZFBIc0VRc0lSNkI2MUE5NTI2WVZnemZZMkRIcmw2UE4zcmJyUGg5ek9VTmhNNXZpeWR1dWtUTE9NTDliaG9LZWNKb2NKdEFVaHE4N0JFMktnVldYWXAtOFBWaE9mZHZxZVE4OWJVV240RmJkOW5aOW9jakdwSzZTeVBLanBxTXh4QmcxWFZhbGJwMndmZTMyN1BHeUh5Z9IBuAFBVV95cUxQVXFtbU85SlhXR3NKMF9Fd1VrelFHOHBzaVRZZVJMcVNlQnFTZkp0bmJKbzRrOWhkWXdFcHROZG5aaGIwempKSGk3R0hmclQ3M2xMMXNKb2VUcG9UNENYOUh6SHh0MWR3UzhNLUpjQ0VnVUE2dGZJUjRLNzZVTUtscFNTbEpLWlpYRGxTeUJveXU4cmJEb0RKYUwwV3M2cVNMclRQd0k0LVZJVm55ZzZLNGNhN1IzREVh?oc=5",
+          "id": "report-577966fd67c2",
+          "title": "My family were killed in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zZU8wbUhnVkxIc1ZwTTdnM1BmNUFybWJTcDhCQ1BZZEU5Njhtek52cVdnN0hsRllhTlJqeVloeFBzbk9pWGItYW1uT2gwNVFsX3RrWHR1QlVUYUU?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-25T00:54:13Z"
+        },
+        {
+          "id": "report-85b64342f71d",
+          "title": "Ukraine says five jets damaged in attack on Russia’s Savasleyka airbase",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcnZLbDdzMzg2dFlMM0c3d2FkbHpsRTB5Uk1QampGSXI4Sk9lZDRxZDA1LWFBVDVtaGlFS0k0ajljeVBDbEhlS0YwZUQ3bkVDalhCREV3RkhoZEcxamNwMTI1c0E0RUhhdzhhX0h3cnFqOXp1UTNYemRUZ1RwUGFYelBnSlZhekZaeXU2WF9oNU1ja0kxV2hXOGd3V3FwN1dleGg5eGZR0gGrAUFVX3lxTE4xZ05BNnZGZ3J0QWtNeFJ0b0hOSXRkZEJDX2RhR3hNRjluNHFRNTQ2YmhaSFFPR3hCd1luNE1WYUhJaE5YWmFZX3hIcEJXQlJJc1JjdjJKTjYzdVdiUWJ1anBpVF9QaTZBNndlRDlNX0hWWDZaLUVuU2phSm9maVFST3lUNUxtTWJ0MTY1SV9fU0pVVVhYYW1UcU01bEd4WEhteURlMXVMQWxwNA?oc=5",
           "domain": "aljazeera.com",
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-23T10:39:10Z"
+          "reportedAt": "2026-11-26T01:43:51Z"
+        },
+        {
+          "id": "report-420e77c0979c",
+          "title": "Trump administration debates targeting top Iranian leaders to end war: Report",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUl93dnlXWDI0aXFTbldUWlhmaWUyY1pjX3ZoU0UwVmp4Rmd1YzFWekF5SUpTV2tYR1FCeFhnNUJVLWNhU2c2eENKdkZEUUh0Uzl1X3BfUzgySnlRZzlNWC1wbHpYeGhFTk8yeVRQcExOMkFNTjB1c055MjFOYzFQNUxlZGRzR2lnc3VhZ0hUeFVnSDk4ZWxZNzVqbjRHMUpjUGtYTktMOU8wM2c3di1nenVkbUhDX3RLR1E?oc=5",
+          "domain": "aa.com.tr",
+          "sourceTier": "State-affiliated reporting",
+          "confidenceLabel": "PARTY / STATE CLAIM · UNCONFIRMED",
+          "reportedAt": "2026-11-24T17:24:27Z"
+        },
+        {
+          "id": "report-1e21505a1920",
+          "title": "How Silicon Valley became central to Israel’s war on Palestinians",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM2RsUEN1V1RwM21nY2ppVzZLajhYT25pZXM0VEFtU1NfRmVoalZLVW0xeFJ0OHRWM1pPVTNaRzB1LUtzbTB3dEkzZUh4SXJUb0RPWkRhVmM5TDhMc091Z2FHUk9jM2ZGNFd5LV85OWhVUHd4SlFNMndvWHp3NkxFOTNjdURUNEtIU0JSUkpIV3VNWmFjNXNZ0gGcAUFVX3lxTE9RQ1FaVXlMblA0TGc1Tkd1RkdjYmZXLTNYanJLdzB1WXp3ZHRJUEg0by1XbDVBR3N1Zy1nVVg5VmkxTWRTR05sV3FUZG9HeDFnZkduYjF5M1JpN2NmbnFsZlhjQ25HdjJwZVlsU2FSci11UVdRel9lbnVqUldrQUJqci02c0xZMmtPSmU4dGhxdVFfSHp4cVNkZHE4Xw?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-26T06:18:13Z"
         },
         {
           "id": "report-dacc76cd97b2",
@@ -3088,6 +3079,15 @@
           "reportedAt": "2026-11-25T10:05:46Z"
         },
         {
+          "id": "report-73d6d5ed4f64",
+          "title": "ICC judge Kimberly Prost tries war crimes. She’s a target of US sanctions",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQWdYMTZKOS1KOXVpdXRLUkVDeGNhaVJOZGhZbVIyRDh2dnA1WUZNM1ZMNVFXMTU3UllPNE5SanBGZW1TX3NyMnM0OHVlalJhZmt1U184Y0wzNUhPa2N4b1FHeldLRTBhb09XVlZwemF6VTVwY0w0eEstMG5yNzdCSzI1WWFKOUNSVHNZcHdDRG9OQ2JUYzFDcHNJWW5NVHIyUHV5RkRHa0NEUEk4ay1FQmd1VdIBuAFBVV95cUxOa0I5N0VOM1ZmRWVnekJDbnA4WENieml4SEFGR3lOLTRBWWZTWjJkeC04SWJLWDRBRldjMi0tUmVyTHBCWjhzb2dqZWo2eVN3OVFac293ckVOYmVKS3loTmw5ZldMdVVscmg2cUpwNDVqamtCaWFKOEFsVnhvU3BUR0VRdnhqY0NKV05JSXF0Um5GZ0UzbGFYVV8wZUoyTldNODdSemwzWTJkVlpqdElfOU9ZRzR3VWl1?oc=5",
+          "domain": "aljazeera.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-26T06:10:13Z"
+        },
+        {
           "id": "report-f8c6e32bc6a0",
           "title": "Drone attacks kill four near Sudan’s capital, damage UN building",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95V2lBM1hDaWY4eHByMlh4RnpLTkhIOVBtQnFXMHM3R0hfV2lxZEZSNTNBbEg5cHowV2VobnNxU3VnZzlTMU16alVwNjJ0XzBNNlRCVElvdEFkVkV0RFhSV3ZvV2FUQThMSzdqLXVYNDBIeWxmTHpjd3FwUncwME3SAYQBQVVfeXFMUGo3NGlSR1RUbFN2RGd1QkNpQUV3YlpOOGhNc2lvYWs1WVVEbmpJNjVBanY2Mk1LZWFvLWJCLVdYU0pqaFRLUGNHYi1wM2J0cGdqSkVUQkRlbGo4bEh3SENuQjRFUC1uSms0TDJCR19UU21VSEk3b2I0UmR5NVdWTjFIdjFS?oc=5",
@@ -3097,15 +3097,6 @@
           "reportedAt": "2026-11-23T09:57:03Z"
         },
         {
-          "id": "report-577966fd67c2",
-          "title": "My family were killed in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zZU8wbUhnVkxIc1ZwTTdnM1BmNUFybWJTcDhCQ1BZZEU5Njhtek52cVdnN0hsRllhTlJqeVloeFBzbk9pWGItYW1uT2gwNVFsX3RrWHR1QlVUYUU?oc=5",
-          "domain": "bbc.com",
-          "sourceTier": "Independent reporting",
-          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
-          "reportedAt": "2026-11-25T00:54:13Z"
-        },
-        {
           "id": "report-ca3b8c3932d5",
           "title": "Russian strike kills two in Ukraine, days after ship attack off Libya",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVXhQTzZUNTFmWlZvRU9kMmJPRXUyYjVlM3V1Y0Q5SU1DbGRMdWJWdS1ZazhfQnNlanI2T3dDbDJhNkltZmNSUF9nSkFHX3JBOXdIYnFhMjdvM2NjTDhZQTVMUktTTVh6ODE1SDJ1b0xGTG1EU0huWnhSYWwwWEhLWnJwMER3ZGhsalE5ajk3WVBCTHhvcERySGFPazhnd0nSAaQBQVVfeXFMTjAyLVJYTzNEWkVPLTctVnk2Znl5TEJQaF9WSUhmNjVvSXg4UUdKS1JZc05RZE1JVlVIVkl4aVJxT0NuY1pFOUIyQ05YVG9zMHNISzd6NWRqeGZmLVg3VkxFNGlBWThZM2hlYmxuTmxTaW1MZGZsNFVZQl9tOTRjLXMwcERzTDBDd2JIdlViRlM5TWpZU1pmUGVJa1RpN25KYVhVQ3k?oc=5",
@@ -3113,6 +3104,15 @@
           "sourceTier": "Independent reporting",
           "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
           "reportedAt": "2026-11-24T09:58:33Z"
+        },
+        {
+          "id": "report-473be40b49a4",
+          "title": "Energy price cap: The Iran war is being blamed for raising bills - here's why",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Lc1hIT3ZUS3RQVHhnekFxQkxQUmM1Sm44VlY3T1h0Y0xMMDVaWTJXaHhUSl8zODZUeU5lVFd2eHg3ODl5R2xzRXVsUVFRMllKSTZSQ2VDWV9jUDQ?oc=5",
+          "domain": "bbc.com",
+          "sourceTier": "Independent reporting",
+          "confidenceLabel": "MEDIA REPORT · UNCONFIRMED",
+          "reportedAt": "2026-11-25T14:58:51Z"
         },
         {
           "id": "report-77fd8df98793",
